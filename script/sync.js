@@ -307,13 +307,13 @@ async function syncBooks() {
 
     const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
-    console.log(f```=== Result ===
+    console.log(`=== Result ===
         downloaded: ${downloaded}
         skipped: ${skipped}
         failed: ${failed}
         total: ${books.length}
         duration: ${duration}s
-    ```)
+    `);
 }
 
 if (require.main === module) {
