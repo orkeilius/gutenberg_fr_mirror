@@ -1,8 +1,8 @@
-const fs = require('node:fs').promises;
-const path = require('node:path');
-const https = require('node:https');
-const http = require('node:http');
-const { URL } = require('node:url');
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import https from 'node:https';
+import {URL} from 'node:url';
+import {Book, Metadata, DownloadResult, BatchDownloadResult, BookUrl, encoding} from './types';
 
 const MIRROR_URL = 'https://aleph.pglaf.org/';
 const GUTINDEX_URL = MIRROR_URL + 'GUTINDEX.ALL';
@@ -10,13 +10,11 @@ const FILES_DIR = path.join(__dirname, '..', 'files');
 const METADATA_FILE = path.join(__dirname, '..', 'metadata.json');
 const CONCURRENT_DOWNLOADS = 10;
 
-
-function fetchUrl(urlString) {
+function fetchUrl(urlString: string): Promise<Buffer> {
     return new Promise((resolve, reject) => {
         try {
             urlString = urlString.trim();
             const parsedUrl = new URL(urlString);
-            const client = parsedUrl.protocol === 'https:' ? https : http;
 
             const options = {
                 hostname: parsedUrl.hostname,
@@ -26,33 +24,23 @@ function fetchUrl(urlString) {
                 timeout: 30000,
             };
 
-            const req = client.request(options, handleResponse);
+            const req = https.request(options, handleResponse)
+                .on('error', reject)
+                .on('timeout', () => {
+                    req.destroy();
+                    reject(new Error('Request timeout'));
+                })
+                .end();
 
-            req.on('error', reject);
-            req.on('timeout', () => {
-                req.destroy();
-                reject(new Error('Request timeout'));
-            });
-
-            req.end();
-
-            function handleResponse(res) {
-                if ([301, 302].includes(res.statusCode)) {
-                    let redirectUrl = res.headers.location;
-                    if (redirectUrl && !redirectUrl.startsWith('http')) {
-                        redirectUrl = `${parsedUrl.protocol}//${parsedUrl.hostname}${redirectUrl}`;
-                    }
-                    return fetchUrl(redirectUrl).then(resolve).catch(reject);
-                }
+            function handleResponse(res: any) {
 
                 if (res.statusCode !== 200) {
                     reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
                     return;
                 }
 
-                let data = '';
-                res.setEncoding('utf8');
-                res.on('data', chunk => data += chunk);
+                let data = Buffer.alloc(0);
+                res.on('data', (chunk: Buffer) => data = Buffer.concat([data, chunk]));
                 res.on('end', () => resolve(data));
             }
         } catch (error) {
@@ -61,15 +49,7 @@ function fetchUrl(urlString) {
     });
 }
 
-async function ensureFilesDir() {
-    try {
-        await fs.mkdir(FILES_DIR, { recursive: true });
-    } catch (error) {
-        if (error.code !== 'EEXIST') throw error;
-    }
-}
-
-function buildMirrorUrl(bookId) {
+function buildMirrorUrl(bookId: number): BookUrl[] {
     const idStr = bookId.toString();
     let dirPath = '';
 
@@ -77,22 +57,20 @@ function buildMirrorUrl(bookId) {
         const dirDigits = idStr.slice(0, -1).split('');
         dirPath = dirDigits.join('/') + '/';
     }
-
     const basePath = `${MIRROR_URL}${dirPath}${bookId}/`;
 
-    return {
-        utf8: `${basePath}${bookId}-0.txt`,
-        latin1: `${basePath}${bookId}-8.txt`,
-        plain: `${basePath}${bookId}.txt`
-    };
+    return [
+        {url: `${basePath}${bookId}-8.txt`, encoding: encoding.UTF8},
+        {url: `${basePath}${bookId}-0.txt`, encoding: encoding.LATIN1},
+        {url: `${basePath}${bookId}.txt`, encoding: encoding.ASCII},
+    ];
 }
 
-
-function isValidBookLine(line) {
-    return line && line.length >= 10 && !line.startsWith('~') && !line.startsWith('=');
+function isValidBookLine(line: string): boolean {
+    return Boolean(line && line.length >= 10 && !line.startsWith('~') && !line.startsWith('='));
 }
 
-function isFrenchBook(lines, lineIndex, bookRegex) {
+function isFrenchBook(lines: string[], lineIndex: number, bookRegex: RegExp): boolean {
     for (let j = 1; j <= 5 && (lineIndex + j) < lines.length; j++) {
         const nextLine = lines[lineIndex + j].trim().toLowerCase();
 
@@ -107,7 +85,7 @@ function isFrenchBook(lines, lineIndex, bookRegex) {
     return false;
 }
 
-function extractBookInfo(match) {
+function extractBookInfo(match: RegExpMatchArray): { id: number; title: string; author: string } {
     let title = match[1].trim();
     let author = '';
 
@@ -123,12 +101,12 @@ function extractBookInfo(match) {
 
     const id = Number.parseInt(match[2].trim(), 10);
 
-    return { id, title, author };
+    return {id, title, author};
 }
 
-function parseGutindex(content) {
+function parseGutindex(content: string): Book[] {
     const lines = content.split('\n');
-    const bookMap = new Map();
+    const bookMap = new Map<number, Book>();
     const bookRegex = /^(.+?)\s{2,}(\d+[A-Z]?)$/;
 
     for (let i = 0; i < lines.length; i++) {
@@ -136,38 +114,37 @@ function parseGutindex(content) {
 
         if (!isValidBookLine(lineTrimmed)) continue;
 
-        const match = lineTrimmed.match(bookRegex);
+        const match = bookRegex.exec(lineTrimmed);
         if (!match) continue;
 
         if (!isFrenchBook(lines, i, bookRegex)) continue;
 
-        const { id, title, author } = extractBookInfo(match);
+        const {id, title, author} = extractBookInfo(match);
 
         if (!Number.isNaN(id) && id > 0 && !bookMap.has(id)) {
-            bookMap.set(id, { id, title, author, language: 'fr' });
+            bookMap.set(id, {id, title, author, language: 'fr'});
         }
     }
 
     return Array.from(bookMap.values());
 }
 
-async function getAllBooks() {
-    console.log('Geting gutindex...');
+async function getAllBooks(): Promise<Book[]> {
+    console.log('Getting gutindex...');
 
     try {
-        const content = await fetchUrl(GUTINDEX_URL);
+        const response = await fetchUrl(GUTINDEX_URL);
         console.log('Parsing...');
-        const books = parseGutindex(content);
-        return books;
+        return parseGutindex(response.toString());
     } catch (error) {
-        console.error(`Error while geting index: ${error.message}`);
+        console.error(`Error while geting index: ${(error as Error).message}`);
         throw error;
     }
 }
 
-async function saveMetadata(books) {
+async function saveMetadata(books: Book[]): Promise<Metadata> {
     try {
-        const metadata = {
+        const metadata: Metadata = {
             generatedAt: new Date().toISOString(),
             source: MIRROR_URL,
             mirrorUrl: MIRROR_URL,
@@ -184,12 +161,12 @@ async function saveMetadata(books) {
         console.log(`Downloaded gutindex`);
         return metadata;
     } catch (error) {
-        console.error(`error while saving metadata: ${error.message}`);
+        console.error(`error while saving metadata: ${(error as Error).message}`);
         throw error;
     }
 }
 
-async function downloadBook(book) {
+async function downloadBook(book: Book): Promise<DownloadResult> {
     const bookId = book.id;
 
     const idStr = bookId.toString();
@@ -204,51 +181,54 @@ async function downloadBook(book) {
 
     try {
         await fs.access(filepath);
-        return { success: true, skipped: true };
+        return {success: true, skipped: true};
     } catch {
         // File doesn't exist, continue
     }
 
     try {
-        await fs.mkdir(bookDir, { recursive: true });
+        await fs.mkdir(bookDir, {recursive: true});
     } catch (error) {
-        if (error.code !== 'EEXIST') {
-            console.error(`[${bookId}] Error: ${error.message}`);
-            return { success: false, skipped: false };
+        if ((error as NodeJS.ErrnoException).code !== 'EEXIST') {
+            console.error(`[${bookId}] Error: ${(error as Error).message}`);
+            return {success: false, skipped: false};
         }
     }
 
     const urls = buildMirrorUrl(bookId);
-    const urlsToTry = [urls.utf8, urls.latin1, urls.plain];
 
-    for (let i = 0; i < urlsToTry.length; i++) {
+
+    for (let url of urls) {
         try {
-            const content = await fetchUrl(urlsToTry[i]);
-            await fs.writeFile(filepath, content, 'utf8');
-            return { success: true, skipped: false };
-        } catch (error) {
-            if (i === urlsToTry.length - 1) {
-                console.error(`[${bookId}] error: ${error.message}`);
-                return { success: false, skipped: false };
+            let contentBuffer = await fetchUrl(url.url);
+            const content = (contentBuffer.toString(url.encoding.valueOf() as BufferEncoding));
+
+            if (content.includes("\uFFFD")) {
+                console.warn(`[${bookId}] Bugged encoding in ${url.encoding.valueOf()}`)
+                continue
             }
+
+            await fs.writeFile(filepath, content, 'utf8');
+            return {success: true, skipped: false};
+        } catch {
         }
     }
-
-    return { success: false, skipped: false };
+    console.error(`[${bookId}] Failed to download from all URLs (${urls.map(u => u.url).join(', ')})`);
+    return {success: false, skipped: false};
 }
 
-async function downloadBooksInBatches(books, concurrency = CONCURRENT_DOWNLOADS) {
+async function downloadBooksInBatches(books: Book[], concurrency: number = CONCURRENT_DOWNLOADS): Promise<BatchDownloadResult> {
     let downloaded = 0;
     let skipped = 0;
     let failed = 0;
     let completed = 0;
-    const successfulBooks = [];
+    const successfulBooks: Book[] = [];
 
     const total = books.length;
     let currentIndex = 0;
-    const activeDownloads = new Set();
+    const activeDownloads = new Set<Promise<void>>();
 
-    const processBook = async (book) => {
+    const processBook = async (book: Book): Promise<void> => {
         const result = await downloadBook(book);
 
         if (result.success) {
@@ -265,7 +245,7 @@ async function downloadBooksInBatches(books, concurrency = CONCURRENT_DOWNLOADS)
         }
     };
 
-    const startNext = async () => {
+    const startNext = async (): Promise<void> => {
         if (currentIndex >= books.length) return;
 
         const book = books[currentIndex];
@@ -289,18 +269,18 @@ async function downloadBooksInBatches(books, concurrency = CONCURRENT_DOWNLOADS)
         await Promise.race(activeDownloads);
     }
 
-    return { downloaded, skipped, failed, successfulBooks };
+    return {downloaded, skipped, failed, successfulBooks};
 }
 
-async function syncBooks() {
+async function syncBooks(): Promise<void> {
     const startTime = Date.now();
 
-    await ensureFilesDir();
+    await fs.mkdir(FILES_DIR, {recursive: true});
 
     const books = await getAllBooks();
     console.log(`${books.length} file found`);
 
-    const { downloaded, skipped, failed, successfulBooks } = await downloadBooksInBatches(books);
+    const {downloaded, skipped, failed, successfulBooks} = await downloadBooksInBatches(books);
 
     console.log('Saving metadata...');
     await saveMetadata(successfulBooks);
@@ -323,4 +303,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { syncBooks };
+export {syncBooks};

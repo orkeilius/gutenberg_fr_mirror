@@ -1,0 +1,26 @@
+{
+  "name": "gutenberg-fr-mirror",
+  "version": "1.0.0",
+  "description": "French books mirror from Project Gutenberg",
+  "main": "script/sync.ts",
+  "scripts": {
+    "sync": "tsx script/sync.ts",
+    "build": "tsc",
+    "check-encoding": "tsx script/check-encoding.ts",
+    "detect-encoding": "tsx script/detect-encoding.ts"
+  },
+  "keywords": [
+    "gutenberg",
+    "books",
+    "french"
+  ],
+  "author": "",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "typescript": "^5.9.3"
+  }
+}
