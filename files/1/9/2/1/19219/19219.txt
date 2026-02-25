@@ -1,3 +1,4440 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bec981f4665ca65133468c5ee704781d09de3a0a059f155d26d61758ee0be6a
-size 194938
+The Project Gutenberg EBook of La m�chante femme mise � la raison, by 
+William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La m�chante femme mise � la raison
+       Com�die
+
+Author: William Shakespeare
+
+Translator: Fran�ois Pierre Guillaume Guizot
+
+Release Date: September 8, 2006 [EBook #19219]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA M�CHANTE FEMME MISE � LA RAISON ***
+
+
+
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica)
+
+
+
+
+
+  Note du transcripteur.
+
+    ===========================================================
+    Ce document est tir� de:
+
+
+    OEUVRES COMPL�TES DE
+    SHAKSPEARE
+
+    TRADUCTION DE
+    M. GUIZOT
+
+    NOUVELLE �DITION ENTI�REMENT REVUE
+    AVEC UNE �TUDE SUR SHAKSPEARE
+    DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+    Volume 5
+    Le roi Lear--Cymbeline.
+    La m�chante femme mise � la raison.
+    Peines d'amour perdues--P�ricl�s
+
+    PARIS
+    A LA LIBRAIRIE ACAD�MIQUE
+    DIDIER ET Cie, LIBRAIRES-�DITEURS
+    35, QUAI DES AUGUSTINS
+    1862
+
+
+    ==========================================================
+
+
+
+
+                                  LA
+                            M�CHANTE FEMME
+                           MISE A LA RAISON
+
+                               COM�DIE
+
+
+
+
+NOTICE SUR LA M�CHANTE FEMME
+MISE A LA RAISON.
+
+
+Nous avons ici deux pi�ces en une, et, malgr� son titre modeste de
+Prologue, la premi�re n'est pas celle qui nous pla�t le moins.
+Christophe Sly est un des caract�res les plus naturels de Shakspeare; il
+a toute la physionomie de Sancho Pan�a, et nous devons regretter qu'�
+partir du second acte ses commentaires sur la com�die qu'on repr�sente
+devant lui ne soient pas parvenus jusqu'� nous. Chaque fois qu'une sc�ne
+para�t digne de remarque, on est tent� de se demander ce que le po�te a
+d� faire observer � ce personnage pour qui sont tous les honneurs de la
+f�te. Cette id�e d'un paysan ivre, qu'un prince s'amuse � m�tamorphoser
+en grand seigneur, n'est plus neuve aujourd'hui; bien des conteurs et
+des auteurs dramatiques s'en sont empar�s; mais nous ne connaissons
+aucune pi�ce qu'on puisse comparer � celle o� Christophe Sly joue un
+r�le si comique et si vrai.
+
+Nous ne citerons pas tous les auteurs de nouvelles, de ballades, etc.,
+qui pourraient se disputer l'honneur d'avoir fourni cette id�e �
+Shakspeare; l'un veut que ce soit � un conte oriental qu'il l'ait
+emprunt�e, et l'autre � une anecdote v�ritable racont�e par Goulard dans
+son _Thr�sor d'histoires admirables et merveilleuses_.
+
+La pi�ce offre deux intrigues distinctes, mais li�es et fondues ensemble
+avec beaucoup d'art, de mani�re � former un tout. L'amour de Lucentio et
+de Bianca se retrouve dans une com�die de l'Arioste, _Gli Suppositi_,
+traduite en anglais, en 1566, par Georges Gascoigne, et mise au th��tre
+la m�me ann�e. Le jeune homme et son valet changent d'habits et de r�le
+pour supplanter un vieux rival, et emploient, comme Lucentio et Tranio,
+un �tranger venu de Sienne, qu'ils d�terminent � son d�guisement de
+p�re, en lui faisant croire qu'il y va de la vie pour lui d'�tre reconnu
+� Ferrare. Le r�le brillant de la _M�chante Femme_ est celui de
+Petruchio; nous ne pouvons nous emp�cher de donner quelquefois tort �
+son obstination, � ses caprices bizarres et � l'extravagance qu'il
+affecte pour dompter la pauvre Catherine; car elle devient � la fin si
+malheureuse qu'on est tent� de la plaindre. En g�n�ral, toutes les
+sc�nes entre elle et Petruchio sont divertissantes, et ne manquent pas
+de po�sie, quoique les inventions de Petruchio aient quelquefois une
+esp�ce de grossi�ret� qui r�pugne � l'�l�gance de nos moeurs modernes.
+_La M�chante Femme mise � la raison_ nous semble plut�t faite pour
+plaire aux maris du peuple qu'� ceux de la bonne compagnie.
+
+La _M�chante Femme mise � la raison_ (_The Taming of the Shrew_), fut
+imprim�e pour la premi�re fois dans la collection in-folio des pi�ces de
+Shakspeare en 1623. D�s 1594, on vendait � Londres un petit volume
+intitul�: _A pleasant conceited Historie called the Taming of a Shrew_.
+On pense g�n�ralement que cette com�die anonyme fut jou�e avant _the
+Taming of the Shrew_ de Shakspeare. Il y a entre les deux pi�ces bien
+plus qu'une analogie de titre. Malgr� la sup�riorit� de la seconde sur
+la premi�re, on trouve entre elles de telles ressemblances que l'on est
+oblig� de supposer, ou qu'elles sont toutes les deux de Shakspeare, ou
+qu'il s'est born� � remanier la com�die anonyme de 1594.
+
+
+
+
+PERSONNAGES
+
+UN LORD}
+CHRISTOPHE SLY, chaudronnier ivre    } Personnages
+UNE HOTESSE, UN PAGE, COM�DIENS      } du
+et autres gens de la suite du lord.  } prologue.
+BAPTISTA, riche gentilhomme de Padoue.
+VINCENTIO, vieux gentilhomme de Pise.
+LUCENTIO, fils de Vincentio, amoureux de Bianca.
+PETRUCHIO, gentilhomme de V�rone faisant la cour � Catherine.
+GREMIO,     } pr�tendants � la main
+HORTENSIO,  } de Bianca.
+TRANIO,     } domestiques de Lucentio.
+BIONDELLO,  }
+GRUMIO,     } domestiques de Petruchio.
+CURTIS,     }
+P�DANT, vieux original d�guis� pour contrefaire Vincentio.
+CATHERINE la m�chante femme,  } filles de Baptista.
+BIANCA, sa soeur.             }
+UNE VEUVE.
+TAILLEUR, PETIT MERCIER, DOMESTIQUES DE BAPTISTA ET DE PETRUCHIO.
+
+La sc�ne est tant�t � Padoue, et tant�t dans la maison de
+campagne de Petruchio.
+
+
+
+
+                              PROLOGUE
+
+
+SC�NE I
+
+La sc�ne est devant un cabaret, sur une bruy�re.
+
+L'HOTESSE ET SLY.
+
+
+SLY.--Je vous donnerai une peign�e[1], sur ma foi.
+
+L'HOTESSE.--Une paire de menottes, coquin!
+
+SLY.--Vous �tes une dr�lesse: apprenez que les _Sly_ ne sont pas des
+coquins; lisez plut�t les chroniques, nous sommes venus en Angleterre
+avec Richard le Conqu�rant. Ainsi, _paucas pallabris_[2], laissez
+glisser le monde sur ses roulettes. _Sessa_[3]!
+
+[Note 1: _I will pheese you_, litt�ralement �Je vous peignerai;�
+expression populaire pour dire: je vous battrai.]
+
+[Note 2: _Pocas palabras_, terme espagnol que Sly estropie, _soyez
+bref._]
+
+[Note 3: _Sessa_, mot espagnol: _soyez tranquille_.]
+
+L'HOTESSE.--Comment! vous ne payerez pas les verres que vous avez
+cass�s!
+
+SLY.--Non pas un denier...--Par saint J�ronyme, va-t'en. Va te
+r�chauffer dans ton lit froid[4].
+
+L'HOTESSE.--Je sais un bon moyen; je vais qu�rir le _quartenier_[5].
+
+SLY.--Quartenier ou tiercenier ou cintenier[6], peu m'importe; je saurai
+bien lui r�pondre en forme; je ne bougerai pas d'un pouce; mon enfant,
+allons; qu'il vienne et de la douceur.
+
+[Note 4: Phrases ridicules d'une vieille pi�ce intitul�e:
+_Hieronymo, ou la trag�die espagnole_, dont se moquaient souvent les
+po�tes du temps.]
+
+[Note 5: _Third borough_. Officier qui a les m�mes fonctions que le
+constable, except� dans les endroits o� le constable existe; alors le
+_third borough_ n'est que son coadjuteur.]
+
+[Note 6: _Third, or fourth, or fifth borough_.]
+
+(Il s'�tend par terre et s'endort.)
+
+(On entend des cors. Para�t un lord revenant de la chasse avec sa
+suite.)
+
+LE LORD.--Piqueur, je te recommande d'avoir bien soin de mes
+chiens.--Braque _Merriman_!--le pauvre animal, il a toutes les
+articulations enfl�es! Accouple _Clowder_ avec la braque � la large
+gueule. N'as-tu pas vu, mon gar�on, comme _Silver_ a bien relev� le
+d�faut au coin de la haie? Je ne voudrais pas perdre ce chien pour vingt
+livres sterling.
+
+PREMIER PIQUEUR.--_Belman_ le vaut bien, milord: il aboyait sur la voie
+quand les autres avaient bel et bien perdu, et deux fois aujourd'hui il
+a retrouv� la piste la moins vive; croyez-moi, je le regarde comme le
+meilleur chien.
+
+LE LORD.--Tu es un sot: si _�cho_ �tait aussi vite � la course, il en
+vaudrait douze comme _Belman_, mais donne-leur bien � souper et prends
+bien soin d'eux tous. Demain je veux chasser encore.
+
+PREMIER PIQUEUR.--J'en aurai bien soin, milord.
+
+LE LORD.--Qu'est-ce cela? Un homme mort, ou ivre? Vois; respire-t-il?
+
+SECOND PIQUEUR.--Il respire, milord; si l'ale ne lui tenait pas chaud,
+ce serait l� un lit bien froid pour y dormir si profond�ment.
+
+LE LORD.--O la monstrueuse b�te! le voil� �tendu comme un vrai porc! O
+hideuse mort! que ton image est affreuse et d�go�tante!--Messieurs, je
+veux me divertir de cet ivrogne.--Qu'en pensez-vous? Si on le
+transportait dans un lit, avec les draps les plus fins, des bagues � ses
+doigts, un banquet d�licieux devant son lit, et de beaux domestiques
+pr�ts � le servir � son r�veil; le pauvre diable ne s'oublierait-il pas
+lui-m�me?
+
+PREMIER PIQUEUR.--Croyez-moi, milord; il est impossible qu'il ne se
+m�connaisse pas.
+
+SECOND PIQUEUR.--Il serait bien surpris quand il se r�veillerait.
+
+LE LORD.--Comme s'il sortait d'un songe flatteur ou d'une vaine
+illusion.--Allons, qu'on le rel�ve, et arrangez bien la plaisanterie;
+portez-le doucement dans mon plus bel appartement; suspendez autour de
+lui tous mes tableaux les plus gracieux; parfumez sa t�te crasseuse
+d'eaux de senteur, et br�lez des bois odorants pour embaumer
+l'appartement; pr�parez-moi, pour le moment de son r�veil, une musique
+qui l'enchante des accords les plus doux et les plus c�lestes; et si par
+hasard il parle, tenez-vous pr�ts, et avec le respect le plus profond et
+le plus soumis; dites: _Quels sont les ordres de monseigneur?_ Qu'un de
+vous lui pr�sente un bassin d'argent rempli d'eau de rose et de fleurs;
+qu'un autre apporte une aigui�re, un troisi�me un linge damass�, et
+dites: _Votre Grandeur voudrait-elle se rafra�chir les mains?_ Que
+quelqu'un se tienne pr�t, avec plusieurs riches habillements, et lui
+demande quelle parure il pr�f�re aujourd'hui. Qu'un autre lui parle de
+ses chiens et de son cheval, et lui dise que milady est tr�s-afflig�e de
+sa maladie. Persuadez-lui qu'il a eu un acc�s de folie; et lorsqu'il
+voudra vous dire qu'il n'est qu'un... interrompez-le en lui disant qu'il
+r�ve, et qu'il n'est rien qu'un puissant seigneur. Faites bien cela, mes
+amis, et jouez naturellement votre r�le; ce sera le plus plaisant
+divertissement du monde, si l'on sait se contenir.
+
+PREMIER PIQUEUR.--Milord, je vous r�ponds que nous nous acquitterons
+bien de notre r�le, et que tout sera si bien m�nag�, qu'il faudra qu'il
+se croie r�ellement ce que nous lui dirons qu'il est.
+
+LE LORD.--Soulevez-le doucement, allez le mettre au lit, et que chacun
+soit � son poste lorsqu'il se r�veillera. (_Quelques-uns de ses gens
+emportent Sly. On entend une trompette_.) Maraud, va voir quelle est
+cette trompette qu'on entend. (_Un valet sort_.) Apparemment quelque
+noble gentilhomme, qui, �tant en voyage, se propose de s�journer ici.
+(_Le valet revient_.) Eh bien! qu'est-ce que c'est?
+
+LE VALET.--Sous le bon plaisir de milord, ce sont des com�diens qui
+offrent leurs services � Votre Seigneurie.
+
+LE LORD.--Dis-leur de s'approcher. (_Entrent les com�diens_.) Camarades,
+vous �tes les bienvenus.
+
+PREMIER COM�DIEN.--Nous rendons gr�ces � Votre Honneur.
+
+LE LORD.--Vous proposez-vous de rester avec moi ce soir?
+
+SECOND COM�DIEN.--Oui, s'il pla�t � Votre Seigneurie d'agr�er nos
+services.
+
+LE LORD.--De tout mon coeur. (_Montrant l'un des com�diens_.) Je crois
+me rappeler cet homme-l�, et l'avoir vu une fois faire le fils a�n� d'un
+fermier. C'�tait dans une pi�ce o� vous faisiez si bien votre cour � la
+demoiselle... J'ai oubli� votre nom;... mais, certainement ce r�le fut
+bien jou�, et avec bien du naturel.
+
+PREMIER COM�DIEN, _montrant un de ses camarades_.--Je crois que c'est de
+Soto que Votre Honneur veut parler.
+
+LE LORD.--Pr�cis�ment; tu �tais excellent.--Allons, vous �tes venus ici
+au bon moment; d'autant plus � propos, que j'ai en t�te certain
+divertissement o� vos talents me seront d'un grand secours. Il y a ici
+un lord qui veut vous voir jouer ce soir; mais je doute de votre
+retenue, je crains qu'en venant � remarquer son bizarre maintien vous ne
+vous �chappiez � rire aux �clats, et que vous ne l'offensiez, car je
+vous d�clare que s'il vous arrive de rire il se mettra en col�re.
+
+PREMIER COM�DIEN.--N'ayez aucune crainte, milord; nous savons nous
+contenir, f�t-il le personnage le plus risible du monde.
+
+LE LORD.--Allons, mon gar�on, conduis-les � l'office, et aie soin que
+chacun d'eux soit bien trait�; qu'ils ne manquent de rien de ce qu'il y
+a dans mon ch�teau. (_Un domestique sort avec les com�diens_.) Toi, mon
+gar�on, va trouver mon page Barth�l�my, et fais-le habiller en dame des
+pieds � la t�te: cela fait, conduis-le � la chambre o� est l'ivrogne, et
+appelle-le _madame_ avec un grand respect, dis-lui de ma part que, s'il
+veut gagner mes bonnes gr�ces, il prenne l'air et le maintien noble et
+d�cent qu'il a vu observer par les nobles dames envers leurs maris;
+qu'il se comporte de m�me envers l'ivrogne, avec un doux accent de voix,
+et une humble politesse, et qu'il lui dise: �Qu'ordonne Votre Honneur?
+En quoi votre femme, votre humble �pouse peut-elle vous montrer son z�le
+respectueux, et manifester son amour?� Et qu'alors, le serrant dans ses
+bras, le baisant amoureusement, et penchant sa t�te sur son sein, qu'il
+verse des larmes de joie en voyant la sant� rendue � son noble �poux
+qui, depuis sept ans, croyait n'�tre plus qu'un d�go�tant mendiant. Et
+si mon page n'a pas le don des femmes pour r�pandre � flots des larmes
+de commande, un oignon en fera l'affaire; qu'il en tienne un envelopp�
+dans son mouchoir; il faudra bien que les pleurs coulent de ses yeux.
+Vois � arranger cela avec tout le soin dont tu es capable: tout �
+l'heure je te donnerai encore d'autres instructions. (_Le domestique
+sort_.) Je sais que le jeune dr�le se donnera � merveille les gr�ces, le
+ton, la d�marche et le maintien d'une dame de qualit�; il me tarde de
+l'entendre appeler l'ivrogne son �poux, et de voir comment feront mes
+gens pour s'emp�cher de rire, lorsqu'ils rendront leurs hommages � ce
+simple paysan. Je vais entrer pour leur faire la le�on; peut-�tre que ma
+personne pourra leur imposer et tenir leur joie en respect, autrement
+elle �claterait � ne pas finir.
+
+(Il sort.)
+
+
+SC�NE II
+
+Chambre � coucher dans la maison du lord.
+
+SLY _rev�tu d'une belle robe de chambre et entour� de_ VALETS, _les uns
+habill�s richement, d'autres avec un bassin, une aigui�re, etc._
+
+_Entre_ LE LORD, _v�tu comme un domestique_.
+
+
+SLY.--Au nom de Dieu, un pot de bi�re!
+
+PREMIER SERVITEUR.--Plairait-il � Votre Seigneurie de boire un verre de
+vin des Canaries?
+
+SECOND SERVITEUR.--Votre Honneur voudrait-elle go�ter de ces confitures?
+
+TROISI�ME SERVITEUR.--Quel costume Votre Honneur veut-elle mettre
+aujourd'hui?
+
+SLY.--Je suis Christophe Sly: ne m'appelez ni _Votre Honneur_, ni _Votre
+Seigneurie_: je n'ai jamais bu de vin des Canaries de ma vie; et si vous
+voulez me donner des confitures, donnez-moi des confitures de boeuf. Ne
+me demandez jamais quel habit je veux mettre: je n'ai pas plus de
+pourpoints que de dos; je n'ai pas plus de bas que de jambes, pas plus
+de souliers que de pieds, et souvent m�me plus de pieds que de souliers,
+encore mes orteils regardent-ils souvent � travers l'empeigne.
+
+LE LORD.--Le ciel veuille gu�rir Votre Seigneurie de ces folles et
+bizarres id�es! Oh! c'est une chose d�plorable qu'un homme de votre
+rang, de votre naissance, possesseur de si riches domaines, et jouissant
+d'une si haute consid�ration, soit imbu de sentiments si bas.
+
+SLY.--Quoi! voudriez-vous me faire extravaguer? Ne suis-je pas
+Christophe Sly, le fils du vieux Sly de Burton-Heath, porte-balle de
+naissance, cardier par �ducation, par m�tamorphose meneur d'ours, et
+aujourd'hui chaudronnier de mon �tat? Demandez � Marianne Hacket, la
+grosse cabareti�re de Wincot, si elle ne me conna�t pas bien: si elle
+dit que je ne suis pas marqu� sur son compte pour quatorze sous de
+petite bi�re, tenez-moi pour le plus fieff� menteur de la chr�tient�. Je
+ne suis pas timbr�...
+
+PREMIER SERVITEUR.--Oh! voil� ce qui fait g�mir sans cesse votre noble
+�pouse.
+
+SECOND SERVITEUR.--Voil� ce qui fait s�cher vos gens de chagrin.
+
+LE LORD.--Voil� ce qui est cause que vos parents fuient votre ch�teau;
+ils en ont �t� chass�s par les �garements �tranges de votre folie.
+Allons, noble lord, souvenez-vous de votre naissance; rappelez dans
+votre �me vos anciens sentiments que vous avez bannis, et bannissez-en
+ces r�ves abjects. Voyez comme vos gens s'empressent autour de vous;
+chacun dans son office est pr�t � vous ob�ir au premier signal.
+Souhaitez-vous de la musique? �coutez; Apollon joue _(on entend de la
+musique_), et vingt rossignols chantent dans leurs cages.--Voulez-vous
+reposer? nous vous porterons dans une couche plus molle et plus douce
+que le lit voluptueux qui fut dress� expr�s pour S�miramis.--Voulez-vous
+vous promener? nous r�pandrons des fleurs sur la terre.--Ou bien,
+voulez-vous monter � cheval? on va appr�ter vos chevaux, et les couvrir
+de leurs harnais tout parsem�s d'or et de perles.--Aimeriez-vous mieux
+la chasse � l'oiseau? vous avez des faucons dont le vol s'�l�ve bien
+au-dessus de l'alouette matinale.--Ou bien, voulez-vous chasser � la
+b�te? vos chiens feront retentir la vo�te des cieux et r�veilleront
+l'aigre voix des �chos dans le sein de la terre.
+
+PREMIER SERVITEUR.--Dites seulement que vous voulez chasser � courre,
+vos l�vriers sont aussi rapides qu'un cerf en haleine; oui, plus l�gers
+que la chevrette.
+
+SECOND SERVITEUR.--Aimez-vous les tableaux? Nous allons sur-le-champ
+vous apporter un Adonis couch� pr�s d'un ruisseau fugitif, et une V�nus
+cach�e dans les roseaux, qui semblent s'agiter et fol�trer sous son
+haleine, de m�me que les roseaux flexibles jouent au souffle du vent.
+
+LE LORD.--Nous vous montrerons Io, alors que vierge encore elle fut
+s�duite et surprise, dans un tableau d'une peinture aussi vivante que
+l'action m�me.
+
+TROISI�ME SERVITEUR.--Ou Daphn�, errant � travers un fourr� d'�pines qui
+d�chirent ses jambes; le sang et les larmes sont peints avec tant d'art
+qu'on jurerait que le sang coule et que le triste Apollon pleure avec
+naturel et v�rit�.
+
+LE LORD.--Vous �tes un lord, et rien qu'un lord; vous avez une �pouse
+plus belle qu'aucune femme de ce si�cle d�g�n�r�.
+
+PREMIER SERVITEUR.--Avant que les larmes qu'elle a vers�es pour vous
+eussent inond� son s�duisant visage comme des torrents ennemis, c'�tait
+la plus belle cr�ature de l'univers; et m�me encore elle ne le c�de en
+beaut� � aucune de son sexe.
+
+SLY.--Suis-je un lord? Est-il vrai que je poss�de une telle femme? ou
+bien est-ce un r�ve que je fais? ou ai-je r�v� jusqu'� ce jour? Je ne
+dors pas; je vois, j'entends, je parle; je sens ces suaves odeurs, et
+mes mains sont sensibles � la douceur de ce toucher.--Sur ma vie, je
+suis un lord en effet, et non pas un chaudronnier, ni Christophe
+Sly.--Allons amenez-nous notre femme, que nous la voyions; et encore un
+coup, un pot de petite bi�re.
+
+SECOND SERVITEUR.--Plairait-il � Votre Grandeur de se laver les mains?
+(_Les valets lui pr�sentent une aigui�re, un bassin et une serviette._)
+Oh! que nous sommes joyeux de voir votre raison revenue! Oh!
+puissiez-vous reconna�tre de nouveau ce que vous �tes! Voil� quinze ans
+que vous �tes plong� dans un songe continuel; ou, quand vous vous
+�veilliez, votre veille ressemblait � votre sommeil.
+
+SLY.--Quinze ans! Par ma foi, c'est l� une bonne m�ridienne. Mais,
+n'ai-je jamais parl� pendant tout ce temps?
+
+PREMIER SERVITEUR.--Oui, milord; mais des mots vagues et d�nu�s de sens:
+car, quoique vous fussiez couch� ici dans ce bel appartement, vous
+disiez toujours qu'on vous avait mis � la porte, et vous vous querelliez
+avec l'h�tesse du logis; et vous disiez que vous la citeriez � la cour
+de justice, parce qu'elle vous avait apport� des cruches de gr�s au lieu
+de bouteilles bouch�es. Quelquefois vous appeliez C�cile Hacket.
+
+SLY.--Oui, la servante de la cabareti�re.
+
+TROISI�ME SERVITEUR.--Allons donc, milord; vous ne connaissez ni ce
+cabaret, ni cette fille, ni tous ces hommes que vous nommiez,--comme
+�tienne Sly, et le vieux Jean Naps de Gr�ce, et Pierre Turf, et Henri
+Pimprenel, et vingt autres noms de cette sorte qui n'ont jamais exist�
+et qu'on n'a jamais vus.
+
+SLY.--Allons, que Dieu soit lou� de mon heureux r�tablissement!
+
+TOUS.--Ainsi soit-il!
+
+SLY.--Je t'en remercie; va, tu n'y perdras rien.
+
+(Entre le page d�guis� en femme avec une suite.)
+
+LE PAGE.--Comment va mon noble lord?
+
+SLY.--Ma foi, je me porte � merveille, car voil� assez de bonne ch�re.
+O� est ma femme?
+
+LE PAGE.--Me voici, noble lord: que d�sirez-vous d'elle?
+
+SLY.--Vous �tes ma femme, et vous ne m'appelez pas... votre mari? mes
+gens ont beau m'appeler _milord_, je suis votre bonhomme.
+
+LE PAGE.--Mon mari et mon lord, mon lord et mon mari; je suis votre
+�pouse, pr�te � vous ob�ir en tout.
+
+SLY.--Je le sais bien.--Comment faut-il que je l'appelle?
+
+LE LORD.--_Madame_.
+
+SLY.--Madame Lison, ou madame Jeanneton?
+
+LE LORD.--_Madame_ tout court: c'est le nom que les lords donnent �
+leurs �pouses.
+
+SLY.--Madame ma femme, ils disent que j'ai r�v� et dormi plus de quinze
+ans entiers.
+
+LE PAGE.--H�las! oui, et ce temps m'a paru trente ans � moi, ayant �t�
+tout ce temps �loign�e de votre lit.
+
+SLY.--C'est beaucoup.--Mes gens, laissez-moi seul avec elle.--Madame,
+d�shabillez-vous, et venez tout � l'heure vous coucher.
+
+LE PAGE.--Tr�s-noble lord, souffrez que je vous supplie de m'excuser
+encore pour une ou deux nuits, ou du moins jusqu'� ce que le soleil soit
+couch�. Vos m�decins m'ont express�ment recommand� de m'absenter encore
+de votre lit, si je ne veux m'exposer au danger de vous faire retomber
+dans votre maladie: j'esp�re que cette raison me servira d'excuse aupr�s
+de vous.
+
+SLY.--Allons, dans l'�tat o� je suis il me sera difficile d'attendre si
+longtemps, mais d'un autre c�t� je ne voudrais pas retomber dans mes
+premiers r�ves: ainsi, j'attendrai donc, en d�pit de la chair et du
+sang.
+
+(Entre un domestique.)
+
+LE DOMESTIQUE.--Les com�diens de Votre Honneur ayant �t� inform�s de
+votre r�tablissement sont venus pour vous r�galer d'une fort jolie
+com�die, car nos docteurs sont d'avis que ce divertissement est tr�s-bon
+� votre sant�, voyant que c'�tait un amas de m�lancolie qui avait
+�paissi votre sang, et la m�lancolie est m�re de la fr�n�sie: ainsi ils
+vous conseillent d'assister � la repr�sentation d'une pi�ce, et
+d'accoutumer votre �me � la gaiet� et au plaisir; rem�de qui pr�vient
+mille maux et prolonge la vie.
+
+SLY.--Diantre, je le veux bien; une _comerdie_[7], n'est-ce pas une
+danse de No�l, ou des cabrioles?
+
+LE PAGE.--Non, mon bon seigneur, c'est d'une �toffe[8] plus agr�able.
+
+[Note 7: _Commonty_, pour _comedy_.]
+
+[Note 8: _Stuff_ est employ� ici dans un sens g�n�ral et
+ind�termin�.]
+
+SLY.--Quoi! d'une �toffe de m�nage?
+
+LE PAGE.--C'est une esp�ce d'histoire.
+
+SLY.--Allons, nous la verrons. Venez, madame ma femme; asseyez-vous �
+mes c�t�s, et laissez rouler le monde; nous ne serons jamais plus
+jeunes.
+
+(Ils s'asseyent.)
+
+FIN DU PROLOGUE.
+
+
+
+
+                              ACTE PREMIER
+
+
+SC�NE I
+
+Padoue.--Place publique.
+
+LUCENTIO ET TRANIO.
+
+
+LUCENTIO.--Tranio, conduit par le violent d�sir que j'avais de voir la
+superbe Padoue, berceau des arts, me voici arriv� dans la fertile
+Lombardie, le riant jardin de la grande Italie; gr�ce � l'affection et �
+la complaisance de mon p�re, je suis arm� de son bon vouloir et de ta
+bonne compagnie, � mon loyal serviteur dont l'honn�tet� est � toute
+�preuve; respirons donc ici, et commen�ons heureusement un cours de
+sciences et d'�tudes litt�raires. Pise, renomm�e par ses graves
+citoyens, m'a donn� la naissance, et Vincentio, mon p�re, n�gociant qui
+fait un grand commerce dans le monde, descend des Bentivolio. Il
+convient que le fils de Vincentio, �lev� � Florence pour remplir toutes
+les esp�rances qu'on a con�ues de lui, orne sa fortune d'actions
+vertueuses. Ainsi, Tranio, pendant le temps que je consacrerai aux
+�tudes, je veux m'appliquer � la recherche de la vertu, et de cette
+partie de la philosophie qui traite du bonheur que la vertu donne.
+D�clare-moi ta pens�e, car j'ai quitt� Pise, et je suis venu � Padoue
+comme un homme alt�r� qui quitte une mare peu profonde pour se plonger
+dans de profondes eaux et �tancher sa soif.
+
+TRANIO.--_Mi perdonate_[9], mon aimable ma�tre; je partage vos
+sentiments en tout; je suis ravi de vous voir pers�v�rer dans votre
+r�solution de savourer les douceurs de la douce philosophie. Seulement,
+mon cher ma�tre, tout en admirant la vertu et cette discipline morale,
+ne devenons pas des sto�ques, ni des sots, je vous en prie; ne soyons
+pas si d�vou�s aux durs pr�ceptes d'Aristote, qu'Ovide soit enti�rement
+mis de c�t�. Parlez logique avec les connaissances que vous avez, et
+pratiquez la rh�torique dans vos conversations journali�res; usez de la
+musique et de la po�sie pour ranimer vos esprits; livrez-vous aux
+math�matiques et � la m�taphysique, selon ce que votre estomac pourra
+supporter; il n'y a point de fruit dans l'�tude o� il n'y a point de
+plaisir; en un mot, mon ma�tre, suivez le genre d'�tude qui vous plaira
+davantage.
+
+[Note 9: _Mi perdonate_, excusez-moi.]
+
+LUCENTIO.--Grand merci, Tranio; tes avis sont fort sages.--Ah!
+Biondello, si tu �tais arriv� sur ce rivage, nous pourrions faire
+ensemble nos pr�paratifs, et prendre un logement propre � recevoir les
+amis que le temps nous procurera dans Pise.--Mais, un moment, quelle est
+cette compagnie?
+
+TRANIO.--Mon ma�tre, c'est sans doute quelque c�r�monie pour nous
+recevoir dans la ville.
+
+(Entre Baptista avec Catherine et Bianca, Gremio et Hortensio.)
+
+(Lucentio et Tranio se tiennent � l'�cart.)
+
+BAPTISTA.--Messieurs, ne m'importunez pas davantage; vous savez combien
+ma r�solution est ferme et invariable: c'est de ne point donner ma
+cadette avant que j'aie trouv� un mari pour l'a�n�e. Si l'un de vous
+deux aime Catherine, comme je vous connais bien et que j'ai de l'amiti�
+pour vous, je vous donne la libert� de la courtiser � votre gr�.
+
+GREMIO.--Plut�t la mettre sur une charrette[10],... elle est trop rude
+pour moi. Eh bien! Hortensio, voulez-vous une femme?
+
+[Note 10: _To cart her rather_. Baptista vient de dire: _To court
+her_. Gremio joue sur le mot.]
+
+CATHERINE, _� son p�re_.--Je vous prie, mon p�re, est-ce votre volont�
+de me jeter � la t�te de ces �pouseurs?
+
+HORTENSIO.--�pouseurs, ma belle? Comment l'entendez-vous? Oh! point
+d'�pouseurs pour vous, � moins que vous ne deveniez d'une trempe plus
+aimable et plus douce.
+
+CATHERINE.--En v�rit�, monsieur, vous n'avez que faire de craindre: je
+sais bien qu'on n'est pas encore � mi-chemin du coeur de Catherine.
+Mais, si l'on en �tait l�, son premier soin serait de vous peigner la
+t�te avec un banc � trois pieds, et de vous colorer la face de fa�on �
+vous travestir en fou.
+
+HORTENSIO.--De pareilles diablesses, bon Dieu, pr�serve-nous!
+
+GREMIO.--Et moi aussi, bon Dieu!
+
+TRANIO, _� l'�cart_.--Silence, mon ma�tre: voici une sc�ne propre � nous
+divertir. Cette fille est une vraie folle, ou incroyablement rev�che.
+
+LUCENTIO.--Mais je vois dans le silence de l'autre la douce r�serve et
+la modestie d'une jeune fille. Taisons-nous, Tranio.
+
+TRANIO.--Bien dit, mon ma�tre; silence, et regardez tout votre so�l.
+
+BAPTISTA.--Messieurs, pour commencer � ex�cuter la parole que je vous ai
+donn�e... Bianca, rentre dans la maison, et que cela ne te f�che pas, ma
+bonne Bianca; car je ne t'en aime pas moins, ma mignonne.
+
+CATHERINE.--La jolie petite!--Vous feriez bien mieux de lui enfoncer le
+doigt dans l'oeil; elle saurait pourquoi.
+
+BIANCA.--Ma soeur, contentez-vous de la peine qu'on me fait.--(_A son
+p�re_.) Mon p�re, je souscris humblement � votre volont�; mes livres et
+mes instruments seront ma compagnie; je les �tudierai et m'exercerai
+seule avec eux.
+
+LUCENTIO, _� part_.--�coute, Tranio, on croirait entendre parler
+Minerve.
+
+HORTENSIO.--Seigneur Baptista, voulez-vous donc �tre si bizarre? Je suis
+bien f�ch� que l'honn�tet� de nos intentions soit une occasion de
+chagrin pour Bianca.
+
+GREMIO.--Comment? Voulez-vous donc la tenir en charte priv�e pour
+l'amour de cette furie d'enfer, et la punir de la m�chante langue de sa
+soeur?
+
+BAPTISTA.--Messieurs, arrangez-vous; ma r�solution est prise.--Rentrez,
+Bianca. (_Bianca sort_.) Et comme je sais qu'elle prend beaucoup de
+plaisir � la musique, aux instruments et � la po�sie, je veux faire
+venir chez moi des ma�tres en �tat d'instruire sa jeunesse.--Si vous,
+Hortensio, ou vous, seigneur Gremio, en connaissez quelqu'un, amenez-le
+moi; car, j'accueillerai toujours les hommes de talent, et je ne veux
+rien �pargner pour donner une bonne �ducation � mes enfants.
+Adieu!--Catherine, vous pouvez rester; j'ai � causer avec Bianca.
+
+(Il sort.)
+
+CATHERINE.--Comment? mais je crois que je peux m'en aller aussi: ne le
+puis-je pas � mon gr�? Quoi! on me fixera des heures? comme si,
+vraiment, je ne savais pas bien moi-m�me ce qu'il convient de prendre,
+ou de laisser. Ah!
+
+(Elle sort.)
+
+GREMIO.--Tu peux aller trouver la femme du diable; tes qualit�s sont si
+pr�cieuses que personne ne veut de toi. L'amour qu'elles inspirent n'est
+pas si ardent que nous ne puissions souffler ensemble dans nos doigts,
+Hortensio, et le rendre nul par l'abstinence; notre g�teau est � moiti�
+cuit des deux c�t�s. Adieu! Cependant, pour l'amour que je porte � ma
+douce Bianca, si je peux, par quelque moyen, rencontrer l'homme qui
+convient pour lui montrer les arts qu'elle ch�rit, je le recommanderai �
+son p�re.
+
+HORTENSIO.--Et moi aussi, seigneur Gremio. Mais un mot, je vous prie.
+Quoique la nature de notre querelle n'ait jamais souffert les longs
+entretiens, apprenez aujourd'hui, sur bonne r�flexion, que c'est � nous,
+dans la vue de pouvoir encore trouver acc�s aupr�s de notre belle
+ma�tresse, et d'�tre heureux rivaux dans notre amour pour Bianca, �
+donner tous nos soins � une chose surtout...
+
+GREMIO.--Qu'est-ce que c'est, je vous prie?
+
+HORTENSIO.--Ce que c'est? C'est de trouver un mari � sa soeur a�n�e.
+
+GREMIO.--Un mari? Un d�mon plut�t.
+
+HORTENSIO.--Je dis, moi, un mari.
+
+GREMIO.--Et moi, je dis un d�mon. Penses-tu, Hortensio, que, malgr�
+toute l'opulence de son p�re, il y ait un homme assez fou pour �pouser
+l'enfer?
+
+HORTENSIO.--Tout beau, Gremio. Quoiqu'il soit au-dessus de votre
+patience et de la mienne d'endurer ses importunes clameurs, il est, ami,
+dans le monde, de bons compagnons, si l'on pouvait mettre la main
+dessus, qui la prendraient avec tous ses d�fauts, et assez d'argent.
+
+GREMIO.--Je ne sais qu'en dire; mais j'aimerais mieux, moi, prendre la
+dot sans elle, � condition que je serais fouett� tous les matins � la
+grande croix du carrefour.
+
+HORTENSIO.--Ma foi, comme vous dites; il n'y a gu�re � choisir entre des
+pommes g�t�es.--Mais, allons: puisque cet obstacle commun nous rend
+amis, notre amiti� durera jusqu'au moment o�, en trouvant un mari � la
+fille a�n�e de Baptista, nous procurerons � sa jeune soeur la libert�
+d'en recevoir un; et alors, libre � nous de recommencer la
+querelle.--Ch�re Bianca!--Que le plus heureux l'emporte! Celui qui court
+le plus vite, gagne la bague: qu'en dites-vous, seigneur Gremio?
+
+GREMIO.--J'en conviens, et je voudrais lui avoir d�j� procur� le
+meilleur �talon de Padoue, pour venir lui faire sa cour, la conqu�rir,
+l'�pouser, coucher avec elle, et en d�barrasser la maison.--Allons,
+sortons.
+
+(Gremio et Hortensio sortent.)
+
+(Tranio s'avance.)
+
+TRANIO.--Je vous en prie, monsieur, dites-moi une chose.--Est-il
+possible que l'amour prenne si fort en un instant?
+
+LUCENTIO.--Oh! Tranio, jusqu'� ce que j'en eusse fait l'exp�rience, je
+ne l'avais cru ni possible, ni vraisemblable: mais vois! tandis que
+j'�tais l� oisif � regarder, l'amour m'a surpris dans mon insouciance,
+et maintenant j'en ferai l'aveu avec franchise, � toi, mon confident,
+qui m'es aussi cher et qui es aussi discret que l'�tait Anne pour la
+reine de Carthage: Tranio, je br�le, je languis, je p�ris, Tranio, si je
+ne viens pas � bout de poss�der cette jeune et modeste fille.
+Conseille-moi, Tranio, car je sais que tu le peux: assiste-moi, Tranio,
+car je sais que tu le veux.
+
+TRANIO.--Ma�tre, il n'est plus temps maintenant de vous gronder; on ne
+d�racine pas l'affection du coeur: si l'amour vous a bless�, il ne reste
+plus que ceci: _Redime te captum quam queas minimo_[11].
+
+[Note 11 Rachetez-vous d'esclavage au meilleur march� possible.]
+
+LUCENTIO.--Mille gr�ces, mon ami, poursuis: ce que tu m'as d�j� dit me
+satisfait: le reste ne peut que me consoler; car tes avis sont sages.
+
+TRANIO.--Ma�tre, vous qui avez si longtemps consid�r� la jeune personne,
+vous n'avez peut-�tre pas remarqu� le plus important de la chose?
+
+LUCENTIO.--Oh! tr�s-bien; j'ai vu la beaut� dans ses traits, �gale �
+celle de la fille d'Ag�nor[12], qui fit humilier le grand Jupiter,
+lorsqu'au signe de sa main il baisa de ses genoux les rivages de Cr�te.
+
+[Note 12: Europe, pour qui Jupiter se m�tamorphosa en taureau.]
+
+TRANIO.--N'avez-vous vu que cela? N'avez-vous pas remarqu� comme sa
+soeur a commenc� � s'emporter, comme elle a soulev� une si violente
+temp�te, que des oreilles humaines avaient bien de la peine � endurer
+son vacarme?
+
+LUCENTIO.--Ah! Tranio, j'ai vu remuer ses l�vres de corail, et son
+haleine a parfum� l'air; tout ce que j'ai vu dans sa personne �tait doux
+et sacr�.
+
+TRANIO.--Allons, il est temps de le tirer de son extase.--Je vous en
+prie, monsieur, r�veillez-vous; si vous aimez cette jeune fille,
+appliquez vos pens�es et votre esprit aux moyens de l'obtenir. Voici
+l'�tat des choses.--Sa soeur a�n�e est si maudite et si m�chante que,
+jusqu'� ce que son p�re soit d�barrass� d'elle, il faut, mon ma�tre, que
+votre amour reste fille au logis; aussi son p�re l'a resserr�e
+�troitement, afin qu'elle ne soit pas importun�e de soupirants.
+
+LUCENTIO.--Ah! Tranio, quel p�re cruel! Mais, n'as-tu pas remarqu� le
+soin qu'il prend pour lui procurer d'habiles ma�tres, en �tat de
+l'instruire?
+
+TRANIO.--Oui, vraiment, monsieur; et j'ai m�me complot� l�-dessus...
+
+LUCENTIO.--Oh! j'ai un plan aussi, Tranio.
+
+TRANIO.--En v�rit�, mon ma�tre, je jure par ma main que nos deux
+stratag�mes se ressemblent, et se confondent en un seul.
+
+LUCENTIO.--Dis-moi le tien, d'abord.
+
+TRANIO.--Vous serez le ma�tre, et vous vous chargerez d'instruire la
+jeune personne: voil� quel est votre plan?
+
+LUCENTIO.--Oui. Cela peut-il se faire?
+
+TRANIO.--Impossible: car, qui vous remplacera, et sera ici dans Padoue
+le fils de Vincentio? Qui tiendra maison, �tudiera ses livres, recevra
+ses amis, visitera ses compatriotes et leur donnera des f�tes?
+
+LUCENTIO.--Basta[13]! tranquillise-toi, tout cela est arrang�: nous
+n'avons encore paru dans aucune maison: personne ne peut nous
+reconna�tre � nos physionomies, ni distinguer le ma�tre du valet.
+D'apr�s cela, voici la suite:--Tu seras le ma�tre, Tranio, � ma place;
+tu tiendras la maison, tu en prendras les airs, commanderas les
+domestiques, comme je ferais moi-m�me; moi, je serai quelqu'autre, un
+Florentin, un Napolitain, ou quelque jeune homme peu consid�rable de
+Pise. Le projet est �clos, et il s'ex�cutera.--Tranio, d�shabille-toi
+tout de suite; prends mon manteau et mon chapeau de couleur: quand
+Biondello viendra, il sera � ta suite; mais je veux auparavant lui
+apprendre � tenir sa langue.
+
+(Ils �changent leurs habits.)
+
+[Note 13: _Basta_, c'est assez.]
+
+TRANIO.--Vous auriez besoin de le faire.--Bref, mon ma�tre, puisque
+c'est votre plaisir, et que je suis li� � vous ob�ir (car votre p�re me
+l'a recommand� au moment du d�part: _rends tous les services � mon
+fils_, m'a-t-il dit; quoique, � mon avis, il l'entend�t dans un autre
+sens), je veux bien �tre _Lucentio_, parce que j'aime tendrement
+Lucentio.
+
+LUCENTIO.--Tranio, sois-le, parce que Lucentio aime, et laisse-moi faire
+le personnage d'un esclave, pour conqu�rir cette jeune beaut�, dont la
+soudaine vue a encha�n� mes yeux bless�s. (_Entre Biondello_.) Voici le
+fripon.--Eh bien! coquin, o� as-tu donc �t�?
+
+BIONDELLO.--O� j'ai �t�?... Eh mais! vous, o� �tes-vous vous-m�me �
+pr�sent? Mon ma�tre, est-ce que mon camarade Tranio vous aurait vol� vos
+habits? ou si c'est vous qui lui avez pris les siens? ou vous �tes-vous
+vol�s r�ciproquement? Je vous prie, parlez, quoi de nouveau?
+
+LUCENTIO.--Dr�le, approche ici; il n'est pas temps de plaisanter: ainsi
+songe � te conformer aux circonstances. Ton camarade que voil�, Tranio,
+pour me sauver la vie, prend mon r�le et mes habits; et moi, pour
+�chapper au malheur, je mets les siens; car depuis que j'ai abord� ici,
+j'ai, dans une querelle, tu� un homme, et je crains d'�tre d�couvert:
+mets-toi � ses ordres et � sa suite, je te l'ordonne, et sers-le comme
+il convient, tandis que moi je vais m'�chapper pour mettre ma vie en
+s�ret�: tu m'entends?
+
+BIONDELLO.--Oui, monsieur, pas le plus petit mot.
+
+LUCENTIO.--Et pas un mot de Tranio dans ta bouche. Tranio est chang� en
+Lucentio.
+
+BIONDELLO.--Tant mieux pour lui; je voudrais bien l'�tre aussi, moi.
+
+TRANIO.--Et moi, foi de valet, je voudrais bien, pour former le second
+souhait, que Lucentio e�t la plus jeune fille de Baptista.--Mais,
+monsieur le dr�le..... pas pour moi, mais pour l'amour de votre ma�tre,
+je vous avertis de vous conduire avec discr�tion dans toute esp�ce de
+compagnie; quand je serai seul, je serai Tranio pour vous; mais partout
+ailleurs votre ma�tre Lucentio.
+
+LUCENTIO.--Tranio, allons nous-en.--Il reste encore un point que je te
+charge, toi, d'ex�cuter:--c'est de te placer au nombre des
+pr�tendants.--Si tu m'en demandes la raison.... il suffit.... Mes
+raisons sont bonnes et convaincantes.
+
+(Ils sortent.)
+
+(Personnages du prologue.)
+
+PREMIER SERVITEUR.--�Milord, vous sommeillez, vous n'�coutez pas la
+pi�ce.
+
+SLY.--�Si, par sainte Anne, je l'�coute. Une bonne dr�lerie, vraiment! Y
+en a-t-il encore � venir?
+
+LE PAGE.--�Milord, elle ne fait que commencer.
+
+SLY.--�C'est vraiment une excellente pi�ce d'ouvrage, madame Lady; je
+voudrais �tre � la fin.�
+
+
+SC�NE II
+
+Devant la maison d'Hortensio.
+
+PETRUCHIO, GRUMIO
+
+
+PETRUCHIO.--V�rone, je prends cong� de toi pour quelque temps; je veux
+voir mes amis de Padoue: mais avant tout, Hortensio, le plus cher et le
+plus fid�le de mes amis.--Eh! je crois que voici sa maison.--Ici, dr�le,
+allons, frappe, te dis-je.
+
+GRUMIO.--Frapper, monsieur! qui frapperais-je? quelqu'un vous a-t-il
+offens�?
+
+PETRUCHIO.--Allons, maraud, frappe-moi ici comme il faut, te dis-je.
+
+GRUMIO.--Vous frapper ici, monsieur? Comment donc, monsieur? Qui
+suis-je, monsieur, pour oser vous frapper ici, monsieur?
+
+PETRUCHIO.--Coquin, frappe-moi � cette porte, et fort, te dis-je, ou je
+cognerai ta t�te de fripon.
+
+GRUMIO.--Mon ma�tre est devenu querelleur. Je vous frapperais le
+premier: mais je sais qui en porterait la peine.
+
+PETRUCHIO.--Tu t'obstines: je te jure, coquin, que si tu ne frappes pas,
+je frapperai, moi, et je verrai comment tu sauras dire et chanter _sol,
+fa_...
+
+(Il tire les oreilles � Grumio.)
+
+GRUMIO.--Au secours! au secours! mon ma�tre est fou!
+
+PETRUCHIO.--Allons, frappe, quand je te l'ordonne, dr�le, coquin!
+
+(Entre Hortensio.)
+
+HORTENSIO.--Comment donc? de quoi s'agit-il, mon vieux ami Grumio, et
+mon cher Petruchio? Comment vous portez-vous tous � V�rone?
+
+PETRUCHIO.--Signor Hortensio, venez-vous terminer la bataille?--_Con
+tutto il core bene trovato_, puis-je dire.
+
+HORTENSIO.
+
+    Alla nostra casa bene venuto
+    Molto honorato signor mio Petruchio.
+
+L�ve-toi, Grumio, l�ve-toi; nous arrangerons cette querelle.
+
+GRUMIO.--Peu m'importe ce qu'il all�gue en latin,--si ce n'est pas pour
+moi un motif l�gitime de quitter mon service.--Voyez-vous, monsieur, il
+me disait de le frapper et de le frotter comme il faut, monsieur; eh
+bien! �tait-il convenable qu'un serviteur trait�t son ma�tre ainsi,
+ayant sur moi d'ailleurs, autant que je puis voir, l'avantage de
+trente-deux contre un! Pl�t � Dieu que je l'eusse frapp� d'abord. Grumio
+n'aurait pas eu tous les coups.
+
+PETRUCHIO.--Un stupide coquin!--Cher Hortensio, je dis � ce dr�le de
+frapper � votre porte, et je n'ai jamais pu obtenir cela de lui.
+
+GRUMIO.--Frapper � la porte?--O ciel! ne m'avez-vous pas dit en propres
+termes: Coquin, frappe-moi ici, frappe-moi bien, frappe-moi comme il
+faut? et vous venez maintenant me parler de frapper � la porte.
+
+PETRUCHIO.--Dr�le, va-t'en, je te le conseille.
+
+HORTENSIO.--Patience, Petruchio; je suis la caution de Grumio; vraiment
+la chance est trop in�gale entre vous et lui; c'est votre ancien, fid�le
+et aimable serviteur Grumio. Allons, dites-moi donc, mon cher ami, quel
+heureux vent vous a conduit de l'antique V�rone ici, � Padoue?
+
+PETRUCHIO.--Le vent qui disperse les jeunes gens dans le monde, et les
+envoie tenter fortune hors de leur pays natal, o� l'on n'acquiert que
+bien peu d'exp�rience. En peu de mots, seigneur Hortensio, voici mon
+histoire: Antonio, mon p�re, est d�c�d�, et je me suis hasard� � faire
+ce voyage pour me marier richement et vivre du mieux qu'il me sera
+possible; j'ai des �cus dans ma bourse, des terres dans mon pays, et je
+suis venu voir le monde.
+
+HORTENSIO.--Petruchio, te parlerai-je sans d�tour et te souhaiterai-je
+une laide et m�chante femme? Tu ne me remercierais gu�re de l'avis, et
+cependant je te garantis qu'elle sera riche, et tr�s-riche; mais tu es
+trop mon ami, et je ne te la souhaiterai pas pour �pouse.
+
+PETRUCHIO.--Seigneur Hortensio, entre amis comme nous, il n'y a que deux
+mots: ainsi, si tu connais une femme assez riche pour �tre l'�pouse de
+Petruchio, comme la fortune est le refrain de ma chanson d'amour[14],
+f�t-elle aussi laide que l'�tait l'amante de Florent[15], aussi vieille
+que la Sibylle, et aussi acari�tre, aussi m�chante que la Xantippe de
+Socrate, ou pire encore, cela n'�meut, ni ne rebute mon go�t, f�t-elle
+aussi rude que les flots irrit�s de l'Adriatique. Je viens pour me
+marier richement � Padoue: si je me marie richement, je me trouverai
+mari� heureusement � Padoue.
+
+[Note 14: _Wooing dance_.]
+
+[Note 15: Florent est le nom du chevalier qui s'�tait engag� �
+�pouser une vieille sorci�re, � condition qu'elle lui donnerait la
+solution d'une �nigme dont sa vie d�pendait. (Conte de Gower.) C'est
+sans doute l� que Voltaire a pris le sujet de ce qui _Pla�t aux dames_.]
+
+GRUMIO.--Vous le voyez, monsieur; il vous dit sa pens�e tout platement:
+oui, donnez-lui assez d'or, et mariez-le � une poup�e, � une poup�e, �
+une petite figure d'aiguillette[16], ou bien � une vieille octog�naire �
+qui il ne reste pas une dent dans la bouche, e�t-elle autant
+d'infirmit�s que cinquante-deux chevaux, tout sera � merveille si
+l'argent s'y trouve.
+
+[Note 16: _Aglet gaby_. T�te de lacet de forme bizarre.]
+
+HORTENSIO.--Petruchio, puisque nous nous sommes avanc�s si loin, je veux
+poursuivre s�rieusement l'id�e que je t'avais jet�e d'abord par pure
+plaisanterie. Je suis en �tat, Petruchio, de te procurer une femme assez
+bien pourvue de la fortune, jeune et belle, �lev�e comme la fille la
+mieux n�e; tout son d�faut, et c'est un assez grand d�faut, c'est
+qu'elle est intol�rablement m�chante, acari�tre, bourrue, � un point si
+terrible que, ma fortune f�t-elle bien plus d�labr�e qu'elle ne l'est,
+je ne voudrais pas l'�pouser, moi, pour une mine d'or.
+
+PETRUCHIO.--Silence, Hortensio: tu ne connais pas l'effet et la vertu de
+l'or.--Dis-moi le nom de son p�re, et cela suffit; car je pr�tends
+l'attaquer, quand ses clameurs surmonteraient les �clats du tonnerre,
+lorsque les nuages cr�vent en automne.
+
+HORTENSIO.--Son p�re est Baptista Minola, gentilhomme affable et
+courtois, et son nom Catherine Minola, fameuse dans Padoue par sa langue
+grondeuse.
+
+PETRUCHIO.--Oh! je connais son p�re, quoique je ne la connaisse pas,
+elle; et il connut beaucoup feu mon p�re.--Je ne dormirai pas,
+Hortensio, que je ne la voie; ainsi, permettez que j'en use assez
+librement avec vous, pour vous quitter brusquement dans cette premi�re
+entrevue, si vous ne voulez pas m'accompagner jusqu'� sa demeure.
+
+GRUMIO.--Je vous en prie, monsieur, laissez-le suivre son entreprise,
+tandis qu'il est en humeur. Sur ma parole, si elle le connaissait aussi
+bien que je le connais, elle jugerait bient�t que les criailleries
+feraient peu de chose sur lui; elle pourra bien, peut-�tre, le traiter
+dix fois de coquin ou autres �pith�tes semblables. Eh bien! tout cela
+n'est rien; s'il s'y met une fois, il s'en moquera avec ses r�ponses
+adroites. Voulez-vous que je vous dise, monsieur: pour peu qu'elle lui
+r�siste, il lui jettera une figure[17] sur la face, et vous la
+d�figurera si bien qu'elle n'aura pas plus d'yeux pour y voir clair
+qu'un chat[18]; vous ne le connaissez pas, monsieur.
+
+[Note 17: Un soufflet, un moule de gant.]
+
+[Note 18: A qui une lumi�re soudaine fait contracter excessivement
+la prunelle; un chat �bloui.]
+
+HORTENSIO.--Attendez-moi, Petruchio; il faut que je vous accompagne; car
+mon tr�sor est enferm� sous la clef de Baptista; il tient entre ses
+mains le joyau de ma vie, sa fille cadette, la belle Bianca, et il la
+d�robe � mes regards et aux poursuites de plusieurs autres aspirants,
+qui sont mes rivaux en amour. En supposant qu'il soit impossible (�
+cause des d�fauts que je vous ai expos�s) que Catherine soit jamais
+�pous�e, Baptista a r�solu que jamais homme n'aurait acc�s aupr�s de
+Bianca, que Catherine la m�chante n'e�t trouv� un mari.
+
+GRUMIO.--Catherine la m�chante! c'est, pour une jeune fille, le pire de
+tous les titres.
+
+HORTENSIO.--Il faut maintenant que mon ami Petruchio me rende un
+service; c'est de me pr�senter d�guis� sous un costume s�v�re au vieux
+Baptista, comme un ma�tre vers� dans la musique, et en �tat de bien
+l'enseigner � Bianca, afin que, par cette ruse, je puisse au moins avoir
+la libert� et la commodit� de lui faire ma cour, et de l'entretenir
+elle-m�me de ma tendresse, sans donner aucun ombrage.
+
+(Entre Gremio, avec lui est Lucentio d�guis� avec des livres sous le
+bras.)
+
+GRUMIO.--Ce ne sont pas l� des friponneries? non!--Voyez comme, pour
+attraper les vieillards, les jeunes gens mettent leur t�te sous un
+bonnet! Ma�tre! ma�tre, regardez autour de vous, qui passe l�, hein?
+
+HORTENSIO.--Silence, Grumio, c'est mon rival.--Petruchio, tenons-nous un
+moment � l'�cart.
+
+GRUMIO.--Un joli jeune homme, et un bel amoureux.
+
+(Il se retire.)
+
+GREMIO, _r�pondant � Lucentio_.--Oh! tr�s-bien: j'ai bien lu la
+note.--�coutez bien, monsieur; je les veux superbement reli�s: tous
+livres d'amour, songez-y bien, et ne lui faites aucune autre lecture.
+Vous m'entendez? En outre, par-dessus les lib�ralit�s que vous fera le
+seigneur Baptista, j'y ajouterai encore un pr�sent.--Prenez aussi vos
+papiers, et qu'ils soient bien parfum�s, car celle � qui ils sont
+destin�s est plus douce que les parfums m�mes.--Que lui lirez-vous?
+
+LUCENTIO.--Quelque lecture que je lui fasse, je plaiderai votre cause
+comme pour mon patron (soyez-en bien assur�) et avec autant de chaleur
+que si vous-m�me �tiez � ma place; oui, et peut-�tre avec des termes
+plus �loquents et plus persuasifs que vous, monsieur, � moins que vous
+ne fussiez un savant.
+
+GREMIO.--Oh! cette science! ce que c'est!
+
+GRUMIO.--Oh! cet oison, quel imb�cile c'est!
+
+PETRUCHIO.--Paix, maraud.
+
+HORTENSIO.--Grumio, motus!--Dieu vous garde, seigneur Gremio.
+
+GREMIO.--Ah! charm� de vous rencontrer, seigneur Hortensio. Savez-vous
+o� je vais de ce pas?--Chez Baptista Minola! Je lui ai promis de lui
+chercher avec soin un ma�tre pour la belle Bianca, et le hasard a voulu
+que je tombasse sur ce jeune homme; par sa science et ses mani�res, il
+est ce qui convient � Bianca, tr�s-instruit dans la po�sie, et autres
+livres; et des bons, je vous le garantis.
+
+HORTENSIO.--C'est � merveille; et moi j'ai rencontr� un honn�te homme
+qui m'a promis de m'en procurer un autre, un charmant musicien, pour
+instruire notre ma�tresse: ainsi je ne demeurerai pas en arri�re dans ce
+que je dois � la belle Bianca, qui m'est si ch�re, � moi.
+
+GREMIO.--Oui, qui m'est si ch�re:--Et cela, ma conduite le prouvera.
+
+GRUMIO, _� part_.--Et cela, ses sacs le prouveront.
+
+HORTENSIO.--Gremio, ce n'est pas ici le moment d'�venter notre amour.
+�coutez-moi; et si vous �tes honn�te avec moi, je vous dirai des
+nouvelles assez bonnes pour tous deux. Voici un honn�te homme que le
+hasard m'a fait rencontrer, qui, favoris� par nous dans ses go�ts,
+entreprendra de courtiser la m�chante Catherine. Oui, et m�me de
+l'�pouser si sa dot lui convient.
+
+GREMIO.--Soit dit et fait; c'est � merveille.--Hortensio, lui avez-vous
+r�v�l� tous ses d�fauts?
+
+PETRUCHIO.--Je sais que c'est une m�chante femme qui crie et temp�te
+sans cesse; si c'est l� tout, messieurs, je ne vois point de mal � cela.
+
+GREMIO.--Non, dites-vous, ami?--De quel pays est ce cavalier?
+
+PETRUCHIO.--Je suis n� � V�rone, le fils du vieillard Antonio; mon p�re
+�tant mort, ma fortune commence � vivre pour moi, et j'esp�re voir de
+longs et heureux jours.
+
+GREMIO.--Oh! monsieur, ce serait une chose bien �trange qu'une pareille
+vie avec une pareille femme! Mais si vous vous sentez ce courage, allons
+vite � l'oeuvre, au nom de Dieu! Vous pouvez compter sur mon secours en
+tout. Mais s�rieusement, est-ce que vous voulez faire votre cour � ce
+chat sauvage?
+
+PETRUCHIO.--Veux-je vivre?
+
+GRUMIO, _� part_.--S'il veut lui faire sa cour? oui, ou elle ira au
+diable.
+
+PETRUCHIO.--Et pourquoi suis-je venu ici, si ce n'est dans cette
+r�solution? Croyez-vous que mes oreilles s'�pouvantent de quelque bruit?
+N'ai-je pas entendu dans ma vie des lions rugir? N'ai-je pas vu la mer
+battue des vents courrouc�s comme un sanglier �cumant et suant de rage?
+N'ai-je pas entendu une batterie de canons dans la plaine, et
+l'artillerie des cieux tonner sous leur vo�te? N'ai-je pas, dans une
+bataille rang�e, entendu les clameurs confuses, les coursiers
+hennissants, les trompettes �clatantes? Et vous venez me parler de la
+langue d'une femme qui ne peut jamais faire dans l'oreille le bruit
+d'une ch�taigne qui �clate dans la chemin�e d'un fermier? Bah, bah!
+c'est aux enfants qu'il faut faire peur des fant�mes.
+
+GRUMIO, _� part_.--Oh! il n'en craint aucun.
+
+GREMIO.--Hortensio, �coutez: ce gentilhomme est heureusement arriv�, �
+ce que me dit mon pressentiment, pour son avantage et pour le n�tre.
+
+HORTENSIO.--J'ai promis de l'aider de nos services et de porter une
+partie du fardeau de ses avances, quoi qu'il en soit.
+
+GREMIO.--Et j'y consens aussi, moi, bien volontiers, pourvu qu'il vienne
+� bout de l'obtenir.
+
+GRUMIO, _� part_.--Je voudrais �tre aussi s�r d'un bon d�ner. (Entrent
+Tranio, richement v�tu, et Biondello.)
+
+TRANIO.--Salut, messieurs. Si vous le permettez, dites-moi, je vous en
+conjure, quel est le chemin le plus court pour se rendre � la maison du
+seigneur Baptista Minola?
+
+GREMIO.--Celui qui a deux filles si belles? (_A part, � Tranio_.) Est-ce
+lui que vous demandez?
+
+TRANIO.--Lui-m�me.--Biondello!
+
+GREMIO.--�coutez-moi, monsieur; vous ne demandez pas celle...
+
+TRANIO.--Peut-�tre lui et elle; que vous importe?
+
+PETRUCHIO.--Non pas celle qui est si querelleuse, monsieur, je vous en
+prie, en aucune fa�on.
+
+TRANIO.--Je n'aime pas les querelleurs, monsieur.--Biondello, marchons.
+
+LUCENTIO, _� part_.--Fort bien d�but�, Tranio.
+
+HORTENSIO.--Monsieur, un mot avant de nous quitter.--�tes-vous un
+pr�tendant � la fille dont vous parlez, oui ou non?
+
+TRANIO.--Et si cela �tait, monsieur, vous en offenseriez-vous?
+
+GREMIO.--Non, pourvu que sans une parole de plus vous prissiez le large.
+
+TRANIO.--Comment, monsieur! Est-ce que les rues ne sont pas ouvertes
+pour moi comme pour vous?
+
+GREMIO.--Mais non pas elle.
+
+TRANIO.--Et pour quelle raison, je vous prie?
+
+GREMIO.--Pour la raison, si vous voulez le savoir, qu'elle est choisie
+par le seigneur Gremio.
+
+HORTENSIO.--Et parce qu'elle est choisie par le seigneur Hortensio.
+
+TRANIO.--Doucement, messieurs. Si vous �tes d'honn�tes gentilshommes,
+faites-moi la gr�ce de m'�couter avec patience. Baptista est un noble
+citoyen � qui mon p�re n'est pas tout � fait inconnu, et si sa fille
+�tait plus belle qu'elle n'est, elle pourrait avoir plus d'amants
+encore, sans que je dusse renoncer � �tre du nombre. La fille de la
+belle L�da eut mille soupirants: la charmante Bianca peut bien en avoir
+un de plus, et elle l'aura aussi. Lucentio se mettra sur les rangs,
+quand P�ris viendrait se pr�senter avec l'espoir d'�tre seul � faire sa
+cour.
+
+GREMIO.--Quoi! ce jeune homme nous fermera la bouche � tous?
+
+LUCENTIO.--Monsieur, l�chez-lui la bride; je sais qu'il n'ira pas bien
+loin.
+
+PETRUCHIO.--Hortensio, � quoi bon tant de paroles?
+
+HORTENSIO, _� Tranio_.--Monsieur, permettez-moi de vous faire une
+question: avez-vous jamais vu la fille de Baptista?
+
+TRANIO.--Non, monsieur; mais j'apprends qu'il a deux filles: l'une
+fameuse par sa m�chante langue, autant que l'autre l'est par sa modestie
+et sa beaut�.
+
+PETRUCHIO.--Monsieur, monsieur, la premi�re est pour moi; mettez-la de
+c�t�.
+
+GREMIO.--Oui, laissez cette t�che au grand Hercule, et ce sera plus que
+ses douze travaux.
+
+PETRUCHIO.--Monsieur, �coutez et comprenez bien ce que je vais vous
+dire.--La plus jeune fille, � laquelle vous pr�tendez, est tenue par son
+p�re loin de tout acc�s aux demandes; et son p�re ne la promettra �
+personne que sa soeur a�n�e ne soit mari�e la premi�re. Ce ne sera
+qu'alors que la cadette sera libre, et non avant.
+
+TRANIO.--Si cela est ainsi, monsieur, et que vous soyez l'homme qui
+deviez nous servir tous, et moi comme les autres, si vous rompez la
+glace, et que vous veniez � bout de cet exploit, que vous fassiez la
+conqu�te de l'a�n�e, et que vous nous ouvriez l'acc�s aupr�s de la
+cadette; celui qui aura le bonheur de la poss�der ne sera pas assez mal
+n� pour �tre un ingrat.
+
+HORTENSIO.--Monsieur, vous parlez � merveille, et vous avez bien
+compris. Puisque vous vous d�clarez ici pour un des aspirants, vous
+devez, comme nous, servir ce cavalier � qui nous sommes tous redevables.
+
+TRANIO.--Monsieur, je ne resterai point en arri�re; et pour vous le
+prouver, voulez-vous que nous passions l'apr�s-d�n�e ensemble, que nous
+vidions � la ronde des rasades � la sant� de notre ma�tresse, et que
+nous agissions comme les avocats qui combattent avec chaleur au barreau,
+et puis mangent et boivent en bons amis.
+
+GREMIO.--O l'excellente motion! Amis, partons.
+
+HORTENSIO.--La motion est bonne en effet; acc�dons-y.--Petruchio, je
+serai votre _bon venuto_.
+
+(Ils sortent.)
+
+FIN DU PREMIER ACTE.
+
+
+
+
+                            ACTE DEUXI�ME
+
+
+SC�NE I
+
+Padoue.--Appartement dans la maison de Baptista.
+
+CATHERINE et BIANCA.
+
+
+BIANCA.--Ch�re soeur, ne me faites pas l'injure, ne vous la faites pas �
+vous-m�me, de me r�duire � l'�tat de servante et d'esclave; cela r�volte
+mon coeur. Mais pour ces vains ornements, ces bagatelles de parure,
+d�liez-moi les mains, et vous me verrez m'en d�pouiller moi-m�me: oui,
+de tout mon ajustement, jusqu'� ma jupe; en un mot, je ferai tout ce que
+vous me commanderez, tant je suis p�n�tr�e du respect que je dois � mon
+a�n�e!
+
+CATHERINE.--Je t'enjoins de me d�clarer ici quel est celui de tous tes
+galants que tu aimes le mieux; songe bien � ne pas dissimuler la v�rit�.
+
+BIANCA.--Croyez-moi, ma soeur, parmi tous les hommes qui respirent, je
+n'ai pas encore vu le visage qui me plairait plus que les autres.
+
+CATHERINE.--Mignonne, vous mentez: n'est-ce pas Hortensio?
+
+BIANCA.--Si vous avez du go�t pour lui, ma soeur, je jure ici que je
+parlerai moi-m�me pour vous, et ferai tous mes efforts pour vous le
+procurer.
+
+CATHERINE.--Oh! en ce cas, apparemment que vous pr�f�rez les richesses.
+Vous voulez avoir Gremio, afin d'�tre par�e.
+
+BIANCA.--Est-ce pour lui que vous �tes si jalouse de moi? Allons, c'est
+une plaisanterie de votre part; et je commence � m'apercevoir que vous
+n'avez fait que badiner jusqu'ici. Je t'en prie, ma bonne soeur, laisse
+mes mains libres.
+
+CATHERINE (_Elle la frappe_.)--Si ces coups sont un badinage, le reste
+en �tait un.
+
+(Baptista survient.)
+
+BAPTISTA.--Eh quoi! mademoiselle, d'o� vient tant d'insolence?--Bianca,
+�loignez-vous.--La pauvre enfant! elle pleure.--Va, reprends ton
+ouvrage: n'aie jamais affaire avec elle. Fi! la grossi�re d'esprit
+diabolique, pourquoi la maltraites-tu, elle qui ne t'a jamais fait la
+moindre peine? Quand t'a-t-elle jamais contredite par le moindre mot de
+reproche?
+
+CATHERINE.--Son silence m'insulte, et je m'en vengerai.
+
+(Elle court apr�s Bianca.)
+
+BAPTISTA.--Quoi! sous mes yeux?--Bianca, rentre dans ta chambre.
+
+(Bianca sort.)
+
+CATHERINE.--Vous ne voulez donc pas me souffrir? Oh! je le vois bien,
+qu'elle est votre bijou, qu'elle aura un mari, que moi, il me faudra
+danser pieds nus au jour de ses noces, et qu'� cause de la pr�dilection
+que vous avez pour elle, il me faudra mener des singes en enfer[19].
+Tenez, ne me parlez pas; je vais aller me renfermer, et pleurer de rage,
+jusqu'� ce que je puisse trouver l'occasion de me venger.
+
+[Note 19: Vieillir fille. Vieux proverbe.]
+
+(Catherine sort.)
+
+BAPTISTA.--Y eut-il jamais homme aussi afflig� que moi?--Mais qui vient
+l�?
+
+(Entrent Gremio, Lucentio assez mal v�tu, Petruchio avec Hortensio,
+d�guis� en musicien, Tranio et Biondello portant des livres et un luth.)
+
+GREMIO.--Bonjour, voisin Baptista.
+
+BAPTISTA.--Bonjour, voisin Gremio.--Dieu vous garde, messieurs.
+
+PETRUCHIO.--Salut, monsieur; je vous prie, n'avez-vous pas une fille
+nomm�e Catherine, belle et vertueuse?
+
+BAPTISTA.--J'ai une fille, monsieur, qui s'appelle Catherine.
+
+GREMIO, _� Petruchio_.--Vous d�butez trop brusquement; proc�dez par
+ordre.
+
+PETRUCHIO.--Vous me faites injure, seigneur Gremio; laissez-moi parler.
+(_A Baptista_.) Je suis un citoyen de V�rone, monsieur, qui, entendant
+vanter sa beaut�, son esprit, son affabilit�, sa pudeur et sa modestie,
+ses rares qualit�s enfin, et la douceur de son caract�re, ai pris la
+libert� de m'introduire sans fa�on dans votre maison, pour voir par mes
+yeux la v�rit� de l'�loge que j'ai tant de fois entendu d'elle; et pour
+pr�lude � mon entr�e chez vous, je vous pr�sente (_pr�sentant
+Hortensia_) un homme de mes gens tr�s-habile en musique et dans les
+math�matiques, capable d'instruire � fond votre fille dans les sciences,
+dont je sais qu'elle a d�j� une teinture; acceptez-le, je vous prie, ou
+vous me feriez affront: son nom est Licio; il est de Mantoue.
+
+BAPTISTA.--Vous �tes le bienvenu, monsieur; et lui aussi, � votre
+consid�ration; mais, pour ma fille Catherine, je sais bien une chose,
+c'est qu'elle n'est pas votre fait, et j'en suis bien f�ch�.
+
+PETRUCHIO.--Je vois que vous ne voulez pas vous s�parer d'elle, ou bien
+que je ne suis pas l'homme qui vous pla�t.
+
+BAPTISTA.--Ne vous m�prenez pas, monsieur; je parle comme je
+pense.--D'o� �tes-vous, monsieur? peut-on savoir votre nom?
+
+PETRUCHIO.--Je m'appelle Petruchio; je suis le fils d'Antonio, un homme
+bien connu dans toute l'Italie.
+
+BAPTISTA.--Je le connais tr�s-bien, et, � sa consid�ration, vous pouvez
+compter sur mon accueil.
+
+GREMIO.--Sans faire tort � votre r�cit, Petruchio, je vous prie,
+permettez-nous aussi de parler, � nous qui sommes de pauvres suppliants.
+Baccare[20]! vous �tes extraordinairement press�.
+
+[Note 20: _Baccare_, veut dire proverbialement _en arri�re!_]
+
+PETRUCHIO.--Ah! pardon, seigneur Gremio, je serais bien aise d'achever.
+
+GREMIO.--Je n'en doute pas, monsieur, mais vous maudirez votre
+demande.--(_A Baptista_.) Voisin, ce pr�sent de monsieur vous sera fort
+agr�able, j'en suis s�r; pour vous montrer la m�me affection, moi qui
+vous ai plus d'obligations qu'aucun autre, je vous pr�sente ce jeune
+savant qui a �tudi� longtemps � Reims (_lui pr�sentant Lucentio_); il
+est aussi vers� dans le grec, le latin et les autres langues, que
+l'autre peut l'�tre dans la musique et les math�matiques; son nom est
+Cambio: je vous prie, agr�ez ses services.
+
+BAPTISTA.--Mille remerciements, seigneur Gremio; vous �tes le bienvenu,
+bon Cambio.--(_A Tranio_.) Mais vous, mon aimable seigneur, vous m'avez
+l'air d'un �tranger: serait-il indiscret de vous demander ce qui vous
+am�ne dans notre ville?
+
+TRANIO.--Daignez m'excuser, monsieur; c'est moi qui ai l'indiscr�tion,
+�tant �tranger dans cette ville, de me pr�senter comme un adorateur de
+votre fille, la belle et vertueuse Bianca; et je n'ignore pas la ferme
+r�solution que vous avez prise de pourvoir sa soeur la premi�re. Toute
+la gr�ce que je vous demande, c'est qu'apr�s avoir appris quelle est ma
+famille, vous daigniez me souffrir parmi les rivaux qui la recherchent,
+et me permettre l'acc�s et la faveur que vous accordez � tous les
+autres. Et, pour l'�ducation de vos filles, j'ose vous offrir ce simple
+instrument, et cette petite collection de livres grecs et latins: si
+vous voulez bien les accepter, ils deviendront d'un grand prix[21].
+
+[Note 21: On sait que du temps d'�lisabeth les femmes apprenaient
+les langues mortes, et la reine �tait elle-m�me vers�e dans les �tudes
+classiques.]
+
+BAPTISTA.--Lucentio est votre nom? De quel pays, je vous prie?
+
+TRANIO.--De Pise, monsieur; je suis le fils de Vincentio.
+
+BAPTISTA.--Un homme consid�rable de Pise! je le connais tr�s-bien de
+r�putation. Vous �tes le bienvenu, monsieur. (_A Hortensio_.) Prenez le
+luth, (_A Lucentio_) et vous, ce paquet de livres: vous allez voir vos
+�l�ves dans l'instant. (_Il appelle_.) Hol�, quelqu'un! (_Para�t un
+domestique_.) Allons, dr�le, conduis ces messieurs � mes filles, et
+dis-leur � toutes deux que ce sont leurs ma�tres; recommande-leur de les
+bien traiter. (_Le domestique sort, conduisant Hortensio, Lucentio et
+Biondello_.) Nous allons faire un tour de promenade dans le verger, et
+ensuite nous irons d�ner.... Vous �tes les bienvenus.... de tout mon
+coeur... et je vous prie tous d'en �tre bien persuad�s.
+
+PETRUCHIO.--Seigneur Baptista, mon affaire exige de la c�l�rit�, et je
+ne puis venir tous les jours faire ma cour. Vous avez bien connu mon
+p�re, et en lui vous me connaissez, moi son fils, qu'il a laiss� seul
+h�ritier de toutes ses terres et de tous ses biens, que j'ai plut�t
+am�lior�s que diminu�s; ainsi, dites-moi, si je gagne l'amour de votre
+fille, quelle dot me donnerez-vous avec elle?
+
+BAPTISTA.--Apr�s ma mort, la moiti� de mes terres, et d�s � pr�sent,
+vingt mille �cus.
+
+PETRUCHIO.--Et moi, en retour de cette dot, je lui assurerai pour
+douaire, dans le cas o� elle me survivrait, toutes mes terres et rentes
+quelconques. Ainsi, dressons entre nous ces articles, afin qu'on
+remplisse des deux parts ces engagements.
+
+BAPTISTA.--Oui, quand le point principal sera obtenu, c'est-�-dire
+l'amour de ma fille: car tout d�pend de l�.
+
+PETRUCHIO.--Bon! cela n'est rien, car je vous annonce, mon p�re, que je
+suis aussi ent�t� qu'elle est fi�re et hautaine: et lorsque deux feux
+violents viennent � se rencontrer, ils consument l'objet qui nourrit
+leur furie. Bien qu'un petit feu grandisse au souffle d'un petit vent,
+de violentes bouff�es emportent feu et flamme: c'est ce que je ferai, et
+il faudra bien qu'elle me c�de, car je suis rude, et je ne fais pas ma
+cour comme un enfant.
+
+BAPTISTA.--Puisses-tu r�ussir aupr�s d'elle! Bonne chance! mais sois
+arm� contre quelques mots malheureux.
+
+PETRUCHIO.--Je suis � l'�preuve, comme les montagnes contre les vents
+qui ne peuvent les �branler malgr� leur souffle continuel.
+
+(Hortensio para�t avec une contusion sanglante � la t�te.)
+
+BAPTISTA.--Quoi donc, mon ami? Pourquoi as-tu l'air si p�le?
+
+HORTENSIO.--C'est de peur, je vous le promets, si j'ai l'air p�le.
+
+BAPTISTA.--Eh bien! ma fille deviendra-t-elle bonne musicienne?
+
+HORTENSIO.--Je crois qu'elle sera plus t�t un bon soldat: le fer pourra
+r�sister avec elle, mais non pas les luths.
+
+BAPTISTA.--Vous ne pouvez donc pas la rompre au luth?
+
+HORTENSIO.--Non, c'est elle qui a rompu le luth sur moi; je n'ai fait
+que lui dire qu'elle se m�prenait sur les touches, et prendre sa main
+pour lui montrer � placer ses doigts, lorsque dans un transport
+d'emportement diabolique: �Quoi! s'est-elle �cri�e, vous appelez cela
+les touches? Oh! je vais bien les trouver, moi, les touches;� et, � ces
+mots, elle m'a frapp� � la t�te, si bien que ma caboche a pass� �
+travers l'instrument; je suis rest� �tourdi et confondu comme un homme
+attach� au pilori, regardant � travers le luth, pendant qu'elle
+m'appelait coquin de m�n�trier, mauvais racleur, avec cent autres
+�pith�tes injurieuses, comme si elle e�t pris � t�che de m'insulter
+ainsi.
+
+PETRUCHIO.--Ma foi, par l'univers, c'est une robuste fille; je l'en aime
+dix fois mieux que je ne faisais. Oh! que j'aspire � avoir un petit
+entretien avec elle!
+
+BAPTISTA, _� Hortensio_.--Allons, venez avec moi et ne soyez pas si
+d�confit. Venez continuer vos le�ons � ma seconde fille; elle a des
+dispositions pour apprendre, et elle est reconnaissante du bien qu'on
+lui fait.--Seigneur Petruchio, voulez-vous nous suivre? ou vous
+enverrai-je ici ma fille Catherine vous parler?
+
+PETRUCHIO.--Oui, envoyez-la moi, je vous prie: je vais l'attendre ici
+(_Baptista sort avec Gremio, Tranio et Hortensio_), et je vais lui faire
+ma cour avec quelque entrain quand elle viendra. Mettons qu'elle
+m'injurie, je lui dirai tout simplement que son chant est aussi doux que
+la voix du rossignol. Mettons qu'elle fronce le sourcil, je lui dirai
+qu'elle est aussi riante, aussi sereine que la rose du matin rafra�chie
+par la ros�e nouvelle. Mettons qu'elle affecte de rester muette, et
+s'obstine � ne pas ouvrir la bouche, je vanterai la volubilit� de son
+�loquence persuasive. Si elle me dit de d�loger de sa pr�sence, je lui
+rendrai mille gr�ces, comme si elle me priait de rester aupr�s d'elle
+pendant une semaine. Si elle me refuse de m'�pouser, je la supplierai de
+fixer le jour o� je ferai publier les bans, et celui de notre mariage.
+Mais la voici. Allons, Petruchio, parle. (_Entre Catherine_.) Bonjour,
+Cateau; car c'est votre nom, m'a-t-on dit?
+
+CATHERINE.--Vous avez assez bien entendu, mais pourtant pas tout � fait
+juste: ceux qui parlent de moi me nomment Catherine.
+
+PETRUCHIO.--Vous en avez menti, sur ma parole, car on vous appelle
+Cateau tout court, et la gentille Cateau, et quelquefois aussi la
+maudite Cateau; mais Cateau, la plus jolie Cateau de toute la
+chr�tient�, Cateau de Ch�teau-Cateau, ma friande Cateau, car les
+g�teaux[22] sont des friandises, Cateau, apprends donc, Cateau, toi ma
+consolation,--apprends qu'ayant entendu, dans toutes les villes, vanter
+ta douceur, parler de tes vertus et c�l�brer ta beaut� (bien moins que
+tu ne le m�rites cependant), je me suis senti mu � venir te faire la
+cour et demander ta main.
+
+CATHERINE.--Mu! Fort � propos.--Que celui qui vous a mu vous remue et
+vous emporte. J'ai bien vu tout d'abord � votre air que vous �tiez un
+meuble[23].
+
+PETRUCHIO.--Qu'est-ce que c'est qu'un meuble?
+
+CATHERINE.--C'est un escabeau[24].
+
+[Note 22: _Kate_, Cateau, et _cates_, friandises.]
+
+[Note 23: _Mov'd, remove, moveable_].
+
+[Note 24: _Joint-Stool_. Expression proverbiale dont le sel est
+perdu pour nous.]
+
+PETRUCHIO.--Vous avez devin� juste: venez donc vous asseoir sur moi.
+
+CATHERINE.--Les �nes sont faits pour porter, et vous aussi.
+
+PETRUCHIO.--Les femmes sont faites pour porter et vous aussi.
+
+CATHERINE.--Pas assez rosse pour vous, au moins, si c'est de moi que
+vous parlez.
+
+PETRUCHIO.--H�las! bonne Cateau, je ne vous chargerais pas beaucoup; je
+sais trop que vous �tes jeune et l�g�re.
+
+CATHERINE.--Trop l�g�re pour �tre attrap�e par un rustre comme vous, et
+cependant je p�se mon poids.
+
+PETRUCHIO.--Votre poids! votre bourdonnement, buzz!
+
+CATHERINE.--Vous voil� pris comme un busard.
+
+PETRUCHIO.--O tourterelle aux lentes ailes! un busard te prendra donc?
+
+CATHERINE.--Oui, pour une tourterelle, comme il prend un busard.
+
+PETRUCHIO.--Allons, allons; gu�pe: oh! par ma foi, vous �tes trop
+col�re.
+
+CATHERINE.--Si je tiens de la gu�pe, d�fiez-vous donc de mon aiguillon.
+
+PETRUCHIO.--J'y sais un rem�de: c'est de l'arracher.
+
+CATHERINE.--Oui, si le sot peut trouver la place o� il est.
+
+PETRUCHIO.--Qui ne sait o� la gu�pe a son aiguillon? Au bout de sa
+queue.
+
+CATHERINE.--Au bout de sa langue.
+
+PETRUCHIO.--La langue de qui?
+
+CATHERINE.--La v�tre, si vous parlez de queues; et l�-dessus, adieu.
+
+(Elle va pour s'�loigner.)
+
+PETRUCHIO.--Quoi! ma langue � votre queue?--Allons, revenez, bonne
+Cateau, je suis gentilhomme.
+
+CATHERINE, _revenant_.--C'est ce que je vais voir.
+
+(Elle lui donne un soufflet.)
+
+PETRUCHIO.--Je vous jure que je vous donnerai une taloche si vous
+frappez encore.
+
+CATHERINE.--Vous pourriez y perdre vos bras: si vous me frappez, vous
+n'�tes point gentilhomme, et si vous n'�tes pas gentilhomme, vous n'avez
+pas d'armes[25].
+
+[Note 25: _Arms_. Bras et armes.]
+
+PETRUCHIO.--Vraiment, Cateau, vous �tes savante en l'art h�raldique. Oh!
+je vous prie, mettez-moi dans vos livres de blason.
+
+CATHERINE.--Quel est votre cimier? une cr�te de coq?
+
+PETRUCHIO.--Un coq sans cr�te; et alors, Cateau sera ma poule.
+
+CATHERINE.--Vous ne serez point mon coq; vous chantez trop sur le ton
+d'un poltron.
+
+PETRUCHIO.--Allons, Cateau, allons, n'ayez pas l'air si aigre.
+
+CATHERINE.--C'est mon habitude quand je vois un sauvageon.
+
+PETRUCHIO.--Allons, il n'y a point ici de pomme sauvage; ainsi, point de
+regard si aigre.
+
+CATHERINE.--Oh! il y en a, il y en a.
+
+PETRUCHIO.--Allons, montrez-la moi.
+
+CATHERINE.--Si j'avais un miroir, je vous le ferais voir.
+
+PETRUCHIO.--Quoi! voulez-vous parler de mon visage?
+
+CATHERINE.--Oui, cela s'adresse au visage de certain jeune homme.
+
+PETRUCHIO.--Par saint George, je suis trop jeune pour vous.
+
+CATHERINE.--Et cependant, vous �tes bien fl�tri.
+
+PETRUCHIO.--Ce sont les _soucis_.
+
+CATHERINE.--Je ne m'en _soucie_ gu�re, moi.
+
+PETRUCHIO.--�coutez, Catherine, vous ne m'�chapperez point ainsi.
+
+CATHERINE.--Je vous mettrai en col�re, si je reste davantage, ainsi
+laissez-moi partir.
+
+PETRUCHIO.--Non, non, pas du tout. Je vous trouve excessivement aimable.
+On m'avait dit que vous �tiez rev�che, taciturne et sombre, et je vois �
+pr�sent que la renomm�e est une menteuse, car vous �tes agr�able,
+enjou�e, on ne peut pas plus polie, lente � parler, mais douce dans vos
+paroles, comme les fleurs du printemps; vous ne pouvez pas seulement
+froncer le sourcil, ni regarder de travers, ni vous mordre les l�vres,
+comme font les filles col�res, et vous n'avez aucun plaisir � contredire
+mal � propos; mais vous accueillez avec douceur vos amants, et vous les
+entretenez de doux propos, avec une politesse et une affabilit� rares.
+Pourquoi le monde dit-il que Cateau est boiteuse? O monde calomniateur
+Cateau est droite et �lanc�e comme une tige de noisetier; elle est d'une
+nuance aussi brune que l'�corce de ses noix, et plus douce que ses
+amandes. Oh! que je vous voie marcher.--Vous ne boitez point.
+
+CATHERINE.--Allez, sot, allez donner des ordres � ceux qui d�pendent de
+vous.
+
+PETRUCHIO.--Jamais Diane a-t-elle embelli un bocage comme Cateau
+embellit cet appartement de son port majestueux? Ah! soyez Diane, vous,
+et que Diane devienne Cateau; et qu'alors Cateau soit chaste, et Diane
+fol�tre.
+
+CATHERINE.--O� avez-vous �tudi� tout ce beau discours?
+
+PETRUCHIO.--C'est un impromptu, form� de l'esprit de ma m�re.
+
+CATHERINE.--Une m�re vraiment spirituelle! sans elle son fils n'aurait
+pas le sens commun.
+
+PETRUCHIO.--Ne suis-je pas plein de sens?
+
+CATHERINE.--Oui; tenez-vous chaudement.
+
+PETRUCHIO.--Vraiment, douce Catherine, c'est bien mon intention, dans
+votre lit. Et, en cons�quence, laissant l� tout ce vain babil, je vous
+d�clare tout uniment que votre p�re a donn� son consentement � ce que
+vous soyez ma femme: votre dot est un article arr�t�, et bon gr� mal
+gr�, je vous �pouserai. Oh! Cateau, je suis le mari qu'il vous faut;
+car, par cette lumi�re par laquelle je vois votre beaut� (votre beaut�
+qui fait que vous me plaisez beaucoup), je jure que vous ne devez �tre
+mari�e � aucun autre homme qu'� moi, car je suis l'homme n� expr�s,
+Cateau, pour vous apprivoiser et vous convertir de Cateau sauvage en
+Cateau douce et aimable, comme les autres Cateaux qui font bon m�nage.
+Voici votre p�re; n'allez pas me refuser; je veux avoir, et j'aurai
+Catherine pour ma femme.
+
+(Entrent Baptista, Gremio et Tranio.)
+
+BAPTISTA.--Eh bien! seigneur Petruchio, comment vont vos affaires avec
+ma fille?
+
+PETRUCHIO.--Comment? fort bien, monsieur. Comment voulez-vous qu'elles
+n'aillent pas bien? Il est impossible que je ne r�ussisse pas.
+
+BAPTISTA.--Eh bien! qu'en dites-vous, ma fille Catherine? �tes-vous dans
+un de vos mauvais moments?
+
+CATHERINE.--Vous m'appelez votre fille? en effet, vous m'avez donn�
+vraiment une belle preuve de tendresse paternelle, en voulant me marier
+� un homme � demi-fou, � un vaurien sans cervelle, � un impertinent qui
+ne fait que jurer, et qui s'imagine vous d�concerter avec ses jurements.
+
+PETRUCHIO.--Beau-p�re, voici ce que c'est:--Vous, et tout le monde qui
+avez parl� d'elle, vous vous �tes tromp�s sur son compte: si elle est
+bourrue, c'est par politique: car elle n'est point hardie; elle est
+modeste comme une colombe; elle n'est point violente, mais calme comme
+le matin; elle serait, en patience, une seconde Griselidis et une
+Lucr�ce romaine en chastet�; et, pour conclure, nous nous sommes si bien
+convenus, que dimanche est le jour de nos noces.
+
+CATHERINE.--Je te verrai d'abord pendre dimanche.
+
+GREMIO.--Entendez-vous, Petruchio? elle dit qu'elle vous verra d'abord
+pendre.
+
+TRANIO.--Est-ce l� votre succ�s? Allons, je vois bien qu'il faut dire
+adieu � nos propres esp�rances.
+
+PETRUCHIO.--Un peu de patience, messieurs; je la choisis pour moi; si
+elle en est contente et moi aussi, que vous importe � vous? C'est un
+march� fait entre nous deux, lorsque nous �tions t�te � t�te, qu'elle
+fera toujours la m�chante en compagnie. Je vous dis que cela est
+incroyable, � quel exc�s elle m'aime. O la tendre Cateau! elle se
+suspendait � mon cou, et puis elle me donnait baisers sur baisers,
+protestant, avec force serments, qu'en un clin d'oeil elle s'�tait prise
+d'amour pour moi: oh! vous n'�tes que des novices. C'est une merveille
+de voir comment un pauvre diable, timide, craintif, peut, dans le
+t�te-�-t�te, apprivoiser la femme la plus diablesse.--Donnez-moi votre
+main, Catherine; je vais aller � Venise pour faire les emplettes des
+noces.--Beau-p�re, pr�parez la f�te, et invitez les convives; je r�ponds
+que ma Catherine sera belle.
+
+BAPTISTA.--Je ne sais que dire: mais donnez-moi tous deux la main. Dieu
+vous rende heureux, Petruchio! C'est un mariage conclu.
+
+GREMIO ET TRANIO.--Nous disons _amen_; nous serons les t�moins.
+
+PETRUCHIO.--Adieu, beau-p�re,--adieu, ma femme,--adieu, messieurs; je
+vais � Venise: dimanche sera bient�t venu. Nous aurons des anneaux et
+des bijoux, et une riche parure: et embrasse-moi, Cateau; nous serons
+mari�s dimanche.
+
+(Petruchio et Catherine sortent par des c�t�s oppos�s.)
+
+GREMIO.--A-t-on jamais vu un mariage conclu si rapidement?
+
+BAPTISTA.--D'honneur, messieurs, je fais ici le r�le d'un marchand, et
+j'aventure � tout hasard mon bien sur une entreprise d�sesp�r�e.
+
+TRANIO.--C'�tait une denr�e qui se g�tait pr�s de vous, et qui vous
+rapportera du gain, ou qui p�rira sur les mers.
+
+BAPTISTA.--Tout le gain que je cherche, c'est la paix en cette affaire.
+
+GREMIO.--Oh! s�rement: il s'est l� donn� une conqu�te fort
+pacifique.--Mais � pr�sent, Baptista, parlons de votre cadette.--Le
+voici enfin venu le jour apr�s lequel nous avons tant soupir�: je suis
+votre voisin, et je suis le premier en date.
+
+TRANIO.--Et moi, je suis un amant qui aime plus Bianca que les paroles
+ne peuvent l'exprimer, ou vos pens�es le concevoir.
+
+GREMIO.--Allons, marmot, vous ne pouvez l'aimer aussi tendrement que
+moi.
+
+TRANIO.--Allons, barbon, votre amour est glac�.
+
+GREMIO.--Et le v�tre se frit: allons, gamin, retirez-vous; c'est la
+vieillesse qui nourrit.
+
+TRANIO.--Mais c'est la jeunesse qui fleurit aux yeux des belles.
+
+BAPTISTA.--Apaisez-vous, messieurs, je concilierai cette dispute: ce
+sont les actions qui doivent gagner le prix; et celui des deux qui peut
+assurer � ma fille le plus riche douaire aura la tendresse de
+Bianca.--Parlez, seigneur Gremio, quels avantages lui assurez-vous?
+
+GREMIO.--D'abord, comme vous le savez tr�s-bien, ma maison de ville est
+richement fournie de vaisselle d'or et d'argent, de bassins et
+d'aigui�res pour laver ses d�licieuses mains. Mes tentures sont des
+tapisseries de Tyr; j'ai log� mes �cus dans des coffres d'ivoire: des
+caisses de cypr�s renferment mes tentures de haute lice, mes
+courtes-pointes: de riches parures, des tapis, des canap�s, de belles
+toiles, des coussins de Turquie en bosses de perles, des draperies de
+Venise broch�es en or, force ustensiles d'�tain[26] et de cuivre, et
+g�n�ralement tous les meubles qui peuvent appartenir � une maison et au
+m�nage. Ensuite, � ma ferme de campagne, j'ai cent vaches � lait, cent
+vingt boeufs gras dans mes �tables, et tout le reste � proportion. Je
+suis �g�, il faut que je l'avoue, et si je meurs demain, tous ces biens
+sont � elle, si pendant ma vie elle veut �tre seulement � moi.
+
+[Note 26: L'�tain n'�tait pas aussi commun que de nos jours.]
+
+TRANIO.--Ce seulement est venu � propos. (_A Baptista_.) Monsieur,
+�coutez-moi: je suis l'unique fils et h�ritier de mon p�re; si je peux
+obtenir votre fille pour mon �pouse, je lui laisserai, dans l'enceinte
+de l'opulente Pise, des maisons trois ou quatre fois aussi belles, aussi
+bien meubl�es qu'aucune de celles que poss�de dans Padoue le vieux
+seigneur Gremio; en outre, deux mille ducats de revenu par ann�e sur une
+terre fertile; tous ces avantages formeront son douaire. Eh bien!
+seigneur Gremio, vous ai-je pinc�?
+
+GREMIO.--Deux mille ducats de revenu en terre! Ma terre tout enti�re ne
+monte pas � cette somme; mais ma terre sera � elle, et en outre un
+vaisseau, qui maintenant vogue sur la route de Marseille. Eh bien, le
+vaisseau ne vous coupe-t-il pas la parole?
+
+TRANIO.--Gremio, tout le monde sait que mon p�re n'a pas moins de trois
+vaisseaux � lui, outre deux vastes galiotes, et douze belles gal�res; je
+lui en ferai don, et deux fois autant encore, apr�s votre derni�re
+offre.
+
+GREMIO.--Moi, j'ai tout offert; je n'ai plus rien � offrir, et elle ne
+peut avoir plus que je n'ai moi-m�me.--(_A Baptista_.) Si vous m'agr�ez,
+elle m'aura avec tout mon bien.
+
+TRANIO.--Cela �tant, la jeune personne est � moi, par l'univers! D'apr�s
+votre promesse, je dame le pion � Gremio.
+
+BAPTISTA.--Je dois convenir que votre offre est la plus forte; et si
+votre p�re veut lui en cautionner l'assurance, elle est � vous:
+autrement, vous voudrez bien m'excuser; car si vous mouriez avant elle,
+o� serait son douaire?
+
+TRANIO.--C'est une mauvaise chicane: mon p�re est vieux, et moi je suis
+jeune.
+
+GREMIO.--Et les jeunes gens ne peuvent-ils pas mourir aussi bien que les
+vieux?
+
+BAPTISTA.--Enfin, messieurs, voici ma derni�re r�solution.--Dimanche
+prochain, vous le savez, ma fille Catherine doit �tre mari�e: eh bien,
+le dimanche suivant, Bianca vous �pousera, si vous me donnez cette
+caution: sinon, elle est au seigneur Gremio; et sur ce, je prends cong�
+de vous, et vous fais mes remerciements � tous les deux.
+
+(Baptista sort.)
+
+GREMIO.--Adieu, bon voisin.--(_A Tranio_.) Maintenant je n'ai pas peur
+de vous: allons donc, jeune badin, votre p�re serait un fou de vous
+abandonner tout son bien, et d'aller, dans le d�clin de ses vieux ans,
+se faire votre pensionnaire. Bah! quelles sornettes! un vieux renard
+italien ne sera pas si complaisant, mon enfant.
+
+(Gremio sort.)
+
+TRANIO.--Le diable emporte ta vieille peau de renard! Cependant je lui
+ai ripost� avec une carte de dix.--Je me suis mis dans la t�te de faire
+le bonheur de mon ma�tre.--Je ne vois pas de raison pourquoi le suppos�
+Lucentio ne pourrait pas s'engendrer un p�re qui serait un suppos�
+Vincentio;--ce sera un prodige, car ordinairement ce sont les p�res qui
+engendrent leurs enfants; mais dans cette intrigue d'amour, c'est un
+fils qui s'engendrera un p�re, si mon adresse me sert heureusement.
+
+(Il sort.)
+
+FIN DU DEUXI�ME ACTE.
+
+
+
+
+                           ACTE TROISI�ME
+
+
+SC�NE I
+
+Appartement de la maison de Baptista.
+
+LUCENTIO, HORTENSIO, BIANCA.
+
+
+LUCENTIO.--Monsieur le musicien, arr�tez; vous allez trop vite,
+monsieur: avez-vous sit�t oubli� la mani�re dont sa soeur Catherine vous
+a accueilli?
+
+HORTENSIO.--- Mais, p�dant querelleur, c'est ici la d�esse tut�laire de
+la c�leste harmonie; ainsi, permettez-moi d'avoir la pr�f�rence; et
+lorsque nous aurons employ� une heure � la musique, vous pourrez en
+consacrer une autre � me faire la le�on.
+
+LUCENTIO.--Ane ridicule, qui n'as pas seulement assez lu pour conna�tre
+la cause qui a fait ordonner la musique! N'est-ce pas pour rafra�chir
+l'esprit de l'homme, fatigu� de ses �tudes ou des peines de la vie?
+Laisse-moi donc donner ma le�on de philosophie, et lorsque je
+m'arr�terai, sers alors ton harmonie.
+
+HORTENSIO.--Dr�le, je n'endurerai pas ces bravades de ta part.
+
+BIANCA.--Allons, messieurs, vous me faites une double injure de vous
+quereller pour une chose qui doit d�pendre de mon choix; je ne suis pas
+un �colier sujet � la correction; je ne suis pas encha�n�e aux heures,
+ni � des temps marqu�s; je puis prendre mes le�ons aux heures qu'il me
+pla�t; et pour terminer tout d�bat, asseyez-vous ici tous les deux.
+Vous, prenez votre instrument, commencez � jouer: la le�on de monsieur
+sera finie, avant que vous vous soyez mis d'accord.
+
+HORTENSIO, _� Bianca_.--Vous abandonnerez sa le�on quand mon instrument
+sera d'accord.
+
+(Hortensio se retire.)
+
+LUCENTIO.--C'est ce qui n'arrivera jamais.--Accordez toujours votre
+instrument.
+
+BIANCA.--O� en sommes-nous rest�s la derni�re fois?
+
+LUCENTIO.--Ici, madame?
+
+    Hac ibat Simo�s; hic est Sige�a tellus;
+    Hic steterat Priam regia celsa senis[27].
+
+[Note 27: L� coulait le Simo�s; ici est la terre de Sig�e; plus loin
+le superbe palais du vieux Priam.]
+
+BIANCA.--Faites la construction.
+
+LUCENTIO.--_Hac ibat_, comme je vous l'ai d�j� dit.--Simo�s, je suis
+Lucentio.--_Hic est_, fils de Vincentio de Pise.--_Sige�a tellus_,
+d�guis� pour obtenir votre amour.--_Hic steterat_, et ce Lucentio qui
+vient vous rechercher en mariage.--_Priami_, est mon domestique
+Tranio.--_Regia_, v�tu de mes habits.--_Celsa senis_, afin de pouvoir
+tromper le vieux Pantalon.
+
+HORTENSIO, se _rapprochant_.--Madame, mon instrument est d'accord.
+
+BIANCA.--Voyons, jouez.--(_Hortensio joue_.) Oh! fi; le dessus est
+horriblement faux.
+
+LUCENTIO.--Ami, crachez dans le trou, et accordez-le de nouveau.
+
+BIANCA.--Laissez-moi voir � mon tour si je peux faire la construction.
+_Hac ibat Simo�s_, je ne vous connais pas.--_Hic est Sige�a tellus_, je
+ne me fie point � vous.--_Hic steterat Priami_, prenez garde qu'il ne
+vous entende.--_Regia_, ne pr�sumez pas trop.--_Celsa senis_, et ne
+d�sesp�rez pas non plus.
+
+HORTENSIO.--Madame, il est d'accord � pr�sent.
+
+LUCENTIO.--Oui, sauf dans le bas.
+
+HORTENSIO.--Le _bas_ est bien.--(_A demi-voix_.) C'est ce _bas_ filou
+qui d�tonne ici. Comme notre p�dant est enflamm� et entreprenant! Sur ma
+vie! il fait sa cour � l'objet de mon amour.--_Pedascule_[28], va, je
+vais te veiller de plus pr�s.
+
+[Note 28: Petit p�dant, diminutif latin invent� par Shakspeare.]
+
+BIANCA.--Plus tard, je vous croirai peut-�tre, mais pour le moment je me
+m�fie de vous.
+
+LUCENTIO.--N'ayez nulle d�fiance; car certainement... �acides �tait
+Ajax: on l'appelait ainsi du nom de son grand-p�re.
+
+BIANCA.--Il faut bien que je m'en rapporte � mon ma�tre: sans cela je
+vous promets que j'argumenterais encore sur ce doute; mais laissons
+cela.--Allons, Licio, � vous.--Bons ma�tres, ne le prenez pas en
+mauvaise part, je vous prie, si j'ai ainsi badin� avec vous.
+
+HORTENSIO.--Vous pourriez aller faire un tour, et me laisser libre un
+moment; je ne donne point de le�on de musique � trois parties.
+
+LUCENTIO.--�tes-vous si prompt � vous formaliser, monsieur? (_A part_.)
+Eh bien! moi, il faut que je reste et que je veille; car si je ne
+m'abuse, notre beau musicien devient amoureux.
+
+HORTENSIO.--Madame, avant de toucher l'instrument pour apprendre l'ordre
+dans lequel je place mes doigts, il faut que je commence par les
+premiers �l�ments de l'art. Je veux vous montrer la gamme par une
+m�thode plus courte, plus agr�able, plus efficace et plus rapide que
+celle adopt�e jusqu'ici par les gens de ma profession; et la voici
+lisiblement trac�e sur ce papier.
+
+BIANCA.--Mais il y a longtemps que j'ai pass� la gamme.
+
+HORTENSIO.--N'importe, lisez celle d'Hortensio.
+
+BIANCA _lit_.--_Gamme_. Je suis la base fondamentale de tous les
+accords. _A. r�_, pour d�clarer la passion d'Hortensio. _B. mi_, Bianca,
+acceptez-le pour votre �poux. _C. fa, ut_; il vous aime avec toute
+l'affection du monde. _D. sol, r�_, sur une clef j'ai deux notes. _E.
+la, mi_, montrez-moi de la piti� ou je meurs.--Est-ce que vous appelez
+cela la gamme? Bah! elle ne me pla�t pas; j'aime mieux les anciennes
+m�thodes; je ne suis pas assez d�licate pour changer les vieilles r�gles
+contre les inventions bizarres.
+
+(Un domestique entre.)
+
+LE DOMESTIQUE.--Ma ma�tresse, votre p�re vous prie de quitter vos
+livres, et d'aider � arranger l'appartement de votre soeur: vous savez
+que c'est demain le jour de ses noces.
+
+BIANCA.--Adieu, chers ma�tres; il faut que je vous quitte.
+
+(Elle sort.)
+
+LUCENTIO.--Vraiment, mademoiselle, si vous vous en allez, je n'ai nulle
+raison de rester.
+
+(Il sort.)
+
+HORTENSIO.--Moi, j'en ai d'observer un peu ce p�dant; il me semble que
+tout dans ses yeux annonce qu'il est amoureux.--Mais Bianca, si tes
+pens�es sont assez basses pour jeter tes yeux errants sur le premier
+aventurier qui se pr�sente, te prenne qui voudra: si une fois je te
+trouve volage, Hortensio en sera quitte avec toi pour changer.
+
+(Il sort.)
+
+
+SC�NE II
+
+Devant la maison de Baptista.
+
+BAPTISTA, GREMIO, TRANIO, CATHERINE, LUCENTIO, BIANCA _et sa suite_.
+
+
+BAPTISTA, _� Tranio_.--Seigneur Lucentio, voici le jour marqu� o�
+Catherine et Petruchio doivent se marier; et cependant nous n'avons
+point de nouvelles de notre gendre: qu'en penser? Quelle insulte que le
+fianc� manque � sa parole, lorsque le pr�tre attend pour accomplir les
+rites du mariage? Que dit Lucentio de cet affront qui nous est fait?
+
+CATHERINE.--L'affront n'est que pour moi. Il faut aussi qu'on me force �
+donner ma main, contre l'inclination de mon coeur, � un �cervel� brutal,
+plein de caprices, qui, apr�s avoir h�t� sa d�claration, se propose
+d'�pouser � loisir! Je vous l'avais bien dit, que c'�tait un fou, un
+enrag�, qui cachait, sous une apparence de brusquerie, ses insultes
+am�res; afin de passer pour un plaisant, il courtisera mille femmes,
+fixera le jour du mariage, assemblera ses amis, les invitera, fera m�me
+publier les bans, bien r�solu de ne pas �pouser l� o� il a fait sa cour.
+Il faudra donc maintenant que le monde montre au doigt la malheureuse
+Catherine, et dise: �_Tenez, voil� l'�pouse de ce fou de Petruchio,
+quand il lui plaira de revenir l'�pouser_.�
+
+TRANIO.--Patience, bonne Catherine, et vous aussi, Baptista. Sur ma vie,
+Petruchio n'a que de bonnes intentions, quel que soit le hasard qui
+l'emp�che d'�tre exact � sa parole: tout rude qu'il est, je le connais
+pour un homme sens�; et quoique jovial, il n'en est pas moins honn�te.
+
+CATHERINE.--Pl�t au ciel que Catherine ne l'e�t jamais vu!
+
+(Elle sort en pleurant, suivie de Bianca et autres.)
+
+BAPTISTA.--Va, ma fille, je ne puis bl�mer tes larmes; car la patience
+d'un saint ne tiendrait pas � cette insulte; encore moins une femme de
+ton humeur impatiente.
+
+(Entre Biondello.)
+
+BIONDELLO.--Mon ma�tre, mon ma�tre, des nouvelles, de vieilles
+nouvelles, et telles que vous n'en avez jamais entendu de pareilles.
+
+BAPTISTA.--Que dis-tu, vieilles et nouvelles � la fois! Comment cela se
+peut-il?
+
+BIONDELLO.--Quoi! ne sont-ce pas des nouvelles, que de vous apprendre
+l'arriv�e de Petruchio?
+
+BAPTISTA.--Est-il arriv�?
+
+BIONDELLO.--Et vraiment non, monsieur.
+
+BAPTISTA.--Quoi donc?
+
+BIONDELLO.--Mais il arrive.
+
+BAPTISTA.--Quand sera-t-il ici?
+
+BIONDELLO.--Quand il sera � la place o� je suis, et qu'il vous verra,
+comme je vous vois.
+
+TRANIO.--Mais voyons, qu'entends-tu par tes vieilles nouvelles?
+
+BIONDELLO.--Eh bien! Petruchio arrive avec un chapeau neuf, un vieux
+justaucorps, un haut-de-chausses retourn� pour la troisi�me fois: une
+paire de bottes qui ont longtemps servi d'�tui aux bouts de chandelles,
+l'une boucl�e, l'autre lac�e; une vieille �p�e rouill�e, prise dans
+l'arsenal de la ville, dont la garde est rompue, sans fourreau; un
+cheval d�hanch� avec une selle rong�e des mites, et des �triers qui ne
+s'accordent pas; le cheval qui est infect� de la morve, et efflanqu� des
+reins comme un rat, afflig� d'un lampas au palais, atteint du farcin,
+rempli d'�corchures, emp�tr� d'�pervins, ray� de jaunisse, avec des
+avives incurables, tout � fait pel� par les vertigos, rong� par les
+tranch�es, tout contrefait, les �paules d�bo�t�es, les jambes serr�es �
+se couper, avec une bride qui n'a qu'une guide, et une t�ti�re de peau
+de mouton, et qui, pour le tenir de court, afin de l'emp�cher de
+broncher, a �t� cent fois rompue et raccommod�e avec des noeuds; une
+sangle en six morceaux, et une croupi�re de velours pour femme, marqu�e
+de deux lettres de son nom, bien garnie de clous, et rapi�c�e en mille
+endroits avec de la ficelle.
+
+BAPTISTA.--Qui vient avec lui?
+
+BIONDELLO.--Oh! monsieur, son laquais, qui, ma foi, est capara�onn�
+comme son cheval, avec un bas de fil � une jambe, et un bas de grosse
+laine � l'autre, une jarreti�re de lisi�re rouge et bleue, un vieux
+feutre, avec _les humeurs de quarante fantaisies_[29] attach�es au lieu
+de plumet. Enfin un monstre, un vrai monstre dans son accoutrement, et
+n'ayant rien du valet d'un chr�tien, du laquais d'un gentilhomme.
+
+[Note 29: Titre d'une ballade.]
+
+TRANIO.--Ce sera quelque id�e bizarre qui l'aura port� � s'accoutrer de
+cette mani�re.--Cependant il va souvent fort mesquinement v�tu.
+
+BAPTISTA.--Je suis toujours bien aise qu'il soit venu, de quelque fa�on
+qu'il vienne.
+
+BIONDELLO.--Quoi! monsieur, il ne vient pas.
+
+BAPTISTA.--N'as-tu pas dit qu'il venait?
+
+BIONDELLO.--Qui? que Petruchio venait?
+
+BAPTISTA.--Oui, que Petruchio venait.
+
+BIONDELLO.--Non, monsieur: je dis que son cheval l'apporte sur son dos.
+
+BAPTISTA.--Bah! c'est tout un.
+
+BIONDELLO.--Non par saint Jacques: je vous gagerai un sou, qu'un homme
+et un cheval font plus qu'un, et cependant ne font pas deux.
+
+(Entrent Petruchio et Grumio.)
+
+PETRUCHIO.--Allons, o� sont ces messieurs? qui est ici au logis?
+
+BAPTISTA.--Vous �tes le bienvenu, monsieur.
+
+PETRUCHIO.--Et cependant, je ne viens pas bien.
+
+BAPTISTA.--Vous ne boitez pourtant pas.
+
+TRANIO.--Vous n'�tes pas aussi bien par� que je le souhaiterais.
+
+PETRUCHIO.--Il valait bien mieux me h�ter d'arriver.--Mais o� est
+Catherine? o� est mon aimable fianc�e? Comment se porte mon p�re?--Quoi,
+messieurs, vous me paraissez sombres: et pourquoi toute cette honn�te
+compagnie me regarde-t-elle d'un air surpris comme si elle voyait
+quelque prodige �tonnant, quelque com�te, quelque ph�nom�ne
+extraordinaire?
+
+BAPTISTA.--Mais, monsieur, vous savez que c'est aujourd'hui le jour de
+votre mariage: nous �tions tristes d'abord, dans la crainte que vous ne
+vinssiez pas; mais nous le sommes encore plus maintenant, de vous voir
+venir si mal pr�par�. Allons donc; �tez cet accoutrement qui d�shonore
+votre fortune et qui attriste notre f�te solennelle.
+
+TRANIO.--Et dites-nous quel sujet important vous a tenu si longtemps
+�loign� de votre future, et vous a fait venir ici si diff�rent de
+vous-m�me?
+
+PETRUCHIO.--L'histoire en serait ennuyeuse � raconter, et f�cheuse �
+entendre. Il suffit que me voil� venu pour tenir ma parole, quoique
+j'aie �t� forc� de manquer, en quelque partie, � ma promesse. Dans un
+moment o� j'aurai plus de loisir, je vous donnerai du tout de si bonnes
+raisons qu'elles vous satisferont.--Mais o� est donc Catherine? Je reste
+trop longtemps loin d'elle: la matin�e se passe: nous devrions d�j� �tre
+� l'�glise.
+
+TRANIO.--Ne vous offrez pas � votre fianc�e dans ces v�tements
+ridicules: montez dans ma chambre et mettez un de mes habits.
+
+PETRUCHIO.--Non vraiment, je vous le garantis: voil� comme je lui ferai
+visite.
+
+BAPTISTA.--Mais j'esp�re du moins que ce ne sera pas dans ce costume que
+vous vous marierez.
+
+PETRUCHIO.--D'honneur, tout comme me voil�. Ainsi, abr�geons les
+discours: c'est moi qu'elle �pouse, et non pas mes habits. Oh! si je
+pouvais r�parer ce qu'elle usera en ma personne, comme il m'est ais� de
+changer ce mauvais habit, Catherine s'en trouverait bien, et moi encore
+mieux. Mais je suis bien fou de m'arr�ter � bavarder avec vous, lorsque
+je devrais �tre � dire bonjour � ma fianc�e et � sceller ce titre par un
+tendre baiser.
+
+(Petruchio sort avec Grumio et Biondello.)
+
+TRANIO.--Il y a quelque intention dans son bizarre �quipage: nous le
+d�terminerons, si cela est possible, � se v�tir plus d�cemment avant
+d'aller � l'�glise.
+
+BAPTISTA.--Je vais le suivre, et voir l'issue de tout ceci.
+
+(Il sort.)
+
+TRANIO.--Mais, monsieur, il est int�ressant d'ajouter � votre amour le
+consentement de son p�re; et pour y parvenir, je vais, suivant
+l'exp�dient dont je vous ai fait part, me procurer un homme. Quel qu'il
+soit, peu nous importe, nous le mettrons � m�me de nous seconder; il
+sera Vincentio de Pise, et il cautionnera ici � Padoue de plus grandes
+sommes que je n'en ai promis; par ce moyen, vous jouirez tranquillement
+de l'objet de votre espoir, et vous �pouserez l'aimable Bianca de l'aveu
+de son p�re.
+
+LUCENTIO.--Si ce n'est que l'autre ma�tre, mon coll�gue, observe de si
+pr�s les pas de Bianca, il serait bon, je pense, de nous marier
+clandestinement; et la chose une fois faite, le monde entier aurait beau
+dire non, je serais ma�tre de mon bien, en d�pit de tout le monde.
+
+TRANIO.--Nous verrons par degr�s � en venir l�, et nous saisirons notre
+avantage dans cette affaire.--Nous attraperons la barbe grise, Gremio,
+Minola, dont l'oeil paternel est aux aguets, le bizarre musicien,
+l'amoureux Licio; et le tout pour servir mon ma�tre Lucentio. (_Rentre
+Gremio_.) Seigneur Gremio, venez-vous de l'�glise?
+
+GREMIO.--Ah! d'aussi bon coeur que je suis jamais revenu de l'�cole.
+
+TRANIO.--Et le mari� et la mari�e reviennent-ils au logis?
+
+GREMIO.--Le mari�, dites-vous? oh! c'est un vrai palefrenier, et un
+palefrenier brutal; et la pauvre fille en saura quelque chose.
+
+TRANIO.--Quoi! plus bourru qu'elle? Oh! cela est impossible.
+
+GREMIO.--Bon! c'est un diable, un vrai diable, un d�mon.
+
+TRANIO.--Eh bien! elle, c'est une diablesse, une diablesse, la femme du
+diable.
+
+GREMIO.--Bah! elle, c'est un agneau, une colombe, une sotte aupr�s de
+lui. Je vais vous conter, seigneur Lucentio: lorsque le pr�tre a demand�
+s'il voulait Catherine pour son �pouse, _oui_, a-t-il cri�, _par tous
+les �l�ments!_ et il a jur� si horriblement, que, tout confondu, le
+pr�tre a laiss� tomber son livre de ses mains; et comme il se baissait
+pour le ramasser, ce cerveau br�l� d'�poux lui a port� un si furieux
+coup de poing, que livre et pr�tre, pr�tre et livre sont tomb�s par
+terre: _allons, ramassez-les_, a-t-il dit, _si quelqu'un en a envie_.
+
+TRANIO.--H�! qu'a dit la fille quand le pr�tre s'est relev�?
+
+GREMIO.--Elle tremblait de tous ses membres; car il frappait du pied et
+jurait comme si le vicaire e�t eu intention de le duper. Enfin, apr�s
+plusieurs c�r�monies, il a demand� du vin: _une sant�!_ a-t-il cri�,
+comme s'il e�t �t� � bord d'un vaisseau, buvant � la ronde avec ses
+camarades apr�s une temp�te; il a aval� des rasades de vin muscat, et il
+en jetait les r�ties � la face du sacristain, sans en avoir d'autre
+raison, sinon que sa barbe �tait claire et aride, et avait l'air,
+disait-il, de lui demander ses r�ties lorsqu'il buvait. Cela fait, il
+vous a pris sa future par le cou, lui a embrass� si bruyamment la
+bouche, que quand leurs l�vres se s�paraient, l'�glise retentissait du
+bruit. Moi, voyant cela, je me suis enfui de honte, et je sais qu'apr�s
+moi vient toute la compagnie. Jamais on n'a vu un mariage si
+extravagant.--Ecoutez, �coutez, les musiciens jouent.
+
+(On entend de la musique.)
+
+(Entrent Petruchio, Catherine, Bianca, Hortensio, Baptista et leur
+suite.)
+
+PETRUCHIO.--Mes amis, et vous messieurs, je vous remercie de vos peines
+et de votre complaisance: je sais que vous comptez d�ner avec moi
+aujourd'hui, et que vous avez fait tous les appr�ts d'un festin de
+noces; mais la v�rit� est que des affaires pressantes m'appellent loin
+d'ici, et que je me propose de prendre cong� de vous.
+
+BAPTISTA.--Est-il possible que vous vouliez partir ce soir?
+
+PETRUCHIO.--Il faut que je parte aujourd'hui avant que la nuit soit
+venue; n'en soyez pas �tonn�: si vous connaissiez mes affaires, vous
+m'exhorteriez plut�t � partir qu'� rester; et je vous rends gr�ces, et �
+toute l'honn�te compagnie, qui avez �t� t�moins de la foi que j'ai
+donn�e � cette �pouse vertueuse, si patiente et si douce. D�nez avec mon
+p�re, buvez � ma sant�, car il faut que je vous quitte: et... adieu
+tous.
+
+TRANIO.--Accordez-nous de rester jusqu'apr�s le d�ner.
+
+PETRUCHIO.--Cela ne se peut pas.
+
+GREMIO.--Souffrez que je vous en prie.
+
+PETRUCHIO.--Cela n'est pas possible.
+
+CATHERINE.--Je vous en supplie.
+
+PETRUCHIO.--Ah! je suis satisfait.
+
+CATHERINE.--�tes-vous satisfait de rester?
+
+PETRUCHIO.--Je suis satisfait de ce que vous me priez de rester: mais
+bien d�cid� � ne pas rester; vous avez beau m'en prier.
+
+CATHERINE.--S'il est vrai que vous m'aimiez, vous resterez.
+
+PETRUCHIO.--Grumio, mes chevaux.
+
+GRUMIO.--Oui, monsieur, ils sont pr�ts: l'avoine a mang� les chevaux.
+
+CATHERINE.--Non, faites ce que vous voudrez, je ne partirai point
+aujourd'hui, non; ni demain non plus: je ne partirai que lorsqu'il me
+plaira. Les portes sont ouvertes, monsieur; voil� votre chemin; vous
+pouvez partir au trot, tandis que vos bottes sont fra�ches.--Pour moi,
+je ne partirai que quand il me plaira. Il para�t que vous deviendrez un
+joli brutal de mari, puisque vous y allez si rondement le premier jour.
+
+PETRUCHIO.--O ma Cateau! calme-toi; je t'en prie, ne te f�che pas!
+
+CATHERINE.--Je me f�cherai. Qu'avez-vous � faire?--Mon p�re, soyez
+tranquille, il attendra mon loisir.
+
+GREMIO.--Oui, oui, monsieur, cela commence � prendre.
+
+CATHERINE.--Messieurs, allons commencer le d�ner des noces. Je vois
+qu'on pourrait faire d'une femme une sotte, si elle n'avait pas de
+fermet� pour tenir bon.
+
+PETRUCHIO.--Ces messieurs vont aller d�ner, Catherine, suivant ton
+ordre.--Ob�issez � la mari�e, vous qui l'avez accompagn�e � la
+c�r�monie; allez au banquet, divertissez-vous bien, et livrez-vous � la
+bonne humeur; buvez � pleine coupe � sa virginit�; soyez gais jusqu'� la
+folie... ou allez au diable, si vous voulez.--Mais pour ma belle Cateau
+il faut qu'elle vienne avec moi. Oui, ne me regardez pas de travers, ne
+frappez pas du pied, ne me fixez pas d'un oeil mena�ant, ne vous mettez
+pas en courroux, je serai le ma�tre de ce qui m'appartient, j'esp�re;
+elle est mon bien, mon mobilier; elle est ma maison, mon m�nage, mon
+champ, ma grange, mon cheval, mon boeuf, mon �ne, mon tout enfin; et la
+voil� ici pr�s de moi, qu'aucun de vous ose la toucher: je mettrai � la
+raison le plus hardi qui osera m'arr�ter sur mon chemin � travers
+Padoue.--Grumio, tire ton arme, nous sommes assi�g�s de voleurs; d�livre
+ta ma�tresse, si tu es un homme de coeur.--N'aie pas peur, ma fille; ils
+ne te toucheront pas, Catherine: je serai ton bouclier contre un million
+d'ennemis.
+
+(Petruchio sort avec Grumio, emmenant Catherine.)
+
+BAPTISTA.--Allons, laissez-les aller; c'est un couple d'amants fort
+paisibles!
+
+GREMIO.--S'ils ne s'en �taient pas all�s promptement, je serais mort de
+rire.
+
+TRANIO.--On a bien vu des mariages fous, mais jamais on n'en vit un
+pareil � celui-ci.
+
+LUCENTIO, _� Bianca_.--Mademoiselle, que pensez-vous de votre soeur?
+
+BIANCA.--Qu'�tant folle elle-m�me, elle s'est follement mari�e.
+
+GREMIO.--Je le lui garantis, Petruchio _est Catherinis�_.
+
+BAPTISTA.--Voisins et amis, si le mari� et la mari�e nous manquent pour
+remplir leurs places � table, vous savez que la bonne ch�re ne manquera
+pas � la f�te.--Lucentio, vous occuperez la place du nouveau mari�, et
+que Bianca prenne celle de sa soeur.
+
+TRANIO.--L'aimable Bianca apprendra � faire l'�pouse.
+
+BAPTISTA.--Oui, elle le fera, Lucentio. Allons, messieurs, � d�ner.
+
+FIN DU TROISI�ME ACTE.
+
+
+
+
+                            ACTE QUATRI�ME
+
+
+SC�NE I
+
+Vestibule dans la maison de campagne de Petruchio.
+
+_Entre_ GRUMIO.
+
+
+GRUMIO.--Mal�diction, mal�diction sur toutes les rosses qui ne peuvent
+plus aller, sur tous les ma�tres �cervel�s, et sur tous les mauvais
+chemins! Y a-t-il jamais eu homme aussi moulu, aussi crott�, aussi las
+que moi?--On m'envoie devant pour faire du feu, et ils viennent apr�s
+moi pour se chauffer. Ma foi, si je n'�tais un petit pot qui se chauffe
+bient�t[30], mes l�vres seraient coll�es � mes dents, ma langue au
+plafond de mes m�choires, et mon coeur � mon ventre, avant que je pusse
+approcher du foyer pour me d�geler.--Mais, moi, je vais �tre r�chauff�,
+rien qu'en allumant le feu. En voyant le temps qu'il fait, un homme plus
+grand que moi prendrait un rhume.--Hol�, quelqu'un? Curtis!
+
+[Note 30: Expression proverbiale.]
+
+(Entre Curtis.)
+
+CURTIS.--Qui appelle comme un homme transi de froid?
+
+GRUMIO.--Un gla�on: si tu en doutes, tu peux glisser de mon �paule � mon
+talon aussi vite que tu ferais de ma t�te � mon cou. Du feu, bon Curtis.
+
+CURTIS.--Mon ma�tre et sa femme viennent-ils, Grumio!
+
+GRUMIO.--Oui, Curtis, oui; et � cause de cela, du feu, du feu; ne jette
+pas d'eau.
+
+CURTIS.--Sa femme est-elle aussi chaude diablesse qu'on le dit?
+
+GRUMIO.--Elle l'�tait, bon Curtis, avant cette gel�e; mais tu sais que
+l'hiver apprivoise tout; hommes[31], femmes et b�tes; le froid nous a
+tous mis � la raison, mon ancien ma�tre, ma nouvelle ma�tresse, et moi
+aussi, ami Curtis.
+
+CURTIS.--Au diable, fou de trois pouces[32]! Je ne suis point une b�te,
+moi.
+
+GRUMIO.--Est-ce que je n'ai que trois pouces? Quoi! ta corne a un pied,
+et je suis aussi long pour le moins.--Mais veux-tu faire du feu, ou que
+je me plaigne de toi � notre ma�tresse dont tu sentiras bient�t la main
+(car elle n'est qu'� deux pas), � ton froid r�confort, pour t'apprendre
+� �tre si paresseux dans ton chaud office?
+
+[Note 31: Proverbe.]
+
+[Note 32: C'est-�-dire qui a la peau du cr�ne �paisse de trois
+pouces.]
+
+CURTIS.--Je t'en prie, bon Grumio, dis-moi comment va le monde?
+
+GRUMIO.--Un monde bien froid, Curtis, dans tout autre emploi que le
+tien! et, partant, du feu; fais ton devoir et prends ton d�; car mon
+ma�tre et ma ma�tresse sont presque morts de froid.
+
+CURTIS.--Voil� du feu tout pr�t; ainsi, cher Grumio, � pr�sent des
+nouvelles!
+
+GRUMIO.--Allons, _pauvre Jacques, ah! mon enfant!_ autant de nouvelles
+que tu voudras.
+
+CURTIS.--Tu es si plein de finesses.
+
+GRUMIO.--Allons donc, du feu; car j'ai pris un froid glacial.--O� est le
+cuisinier? le souper est-il pr�t, la maison rang�e, les nattes �tendues,
+les toiles d'araign�es balay�es? les gens qui servent sont-ils dans leur
+livr�e neuve, dans leur bas blancs, et chaque officier a-t-il son habit
+de noces? les gobelets sont-ils nets en dedans, et les servantes en
+dehors[33]? les tapis sont-ils plac�s? tout est-il en ordre?
+
+[Note 33: Jeu de mot sur _jack_ et _jill_, qui signifient verser �
+boire, et serviteurs, servantes.]
+
+CURTIS.--Tout est pr�t; ainsi, je t'en prie, des nouvelles.
+
+GRUMIO.--D'abord, tu sauras que mon cheval est rendu de fatigue, et
+puis, que mon ma�tre et ma ma�tresse sont tomb�s.
+
+CURTIS.--Comment?
+
+GRUMIO.--De leurs selles dans la boue; et l�, il y a une histoire.
+
+CURTIS.--Conte-nous-la, bon Grumio.
+
+GRUMIO.--Approche ton oreille.
+
+CURTIS.--La voil�.
+
+GRUMIO, _lui donnant un coup sur l'oreille_.--Tiens.
+
+CURTIS.--C'est l� sentir un conte, ce n'est pas l'�couter.
+
+GRUMIO.--Et voil� pourquoi on l'appelle un conte sensible; et ce coup de
+poing n'�tait que pour frapper � la porte de ton oreille, et lui
+demander son attention. Maintenant, je commence. _Primo_, nous avons
+descendu une inf�me colline, mon ma�tre mont� en croupe derri�re ma
+ma�tresse.
+
+CURTIS.--Tous deux sur un cheval?
+
+GRUMIO.--Que t'importe � toi?
+
+CURTIS.--Eh! bien! sur un cheval.
+
+GRUMIO.--Conte l'histoire, toi.--Si tu ne m'avais pas interrompu mal �
+propos, tu aurais entendu comment le cheval est tomb�, et elle sous le
+cheval; comment elle a �t� couverte de fange, comment il l'a laiss�e
+avec le cheval sur elle; comment il m'a battu, parce que le cheval
+s'�tait abattu; comment elle a pass� � travers la boue pour me sauver de
+ses coups; comment il jurait; comment elle le suppliait:--elle qui
+auparavant n'avait jamais pri� personne! comment je poussais des cris;
+comment les chevaux se sont �vad�s; comment sa bride s'est rompue;
+comment j'ai perdu ma croupi�re:--avec mille autres circonstances
+m�morables; lesquelles vont mourir dans l'oubli; et toi, tu retourneras
+dans ton tombeau sans exp�rience.
+
+CURTIS.--A ce compte, il est plus m�chant qu'elle.
+
+GRUMIO.--Oui, oui, et toi, et le plus fier d'entre vous tous, vous allez
+l'�prouver, quand il sera revenu au logis. Mais qu'ai-je besoin de te
+conter cela? Appelle Nathaniel, Joseph, Nicolas, Philippe, Walter,
+Sucresoupe, et les autres; qu'ils aient grand soin que leurs t�tes
+soient bien coiff�es, leurs habits bleus bien bross�s, et leurs
+jarreti�res de diff�rentes couleurs. Qu'ils sachent bien faire la
+r�v�rence de la jambe gauche, et qu'ils ne s'avisent pas de toucher un
+poil de la queue du cheval de mon ma�tre, sans baiser leurs mains.
+Sont-ils tous pr�ts?
+
+CURTIS.--Oui.
+
+GRUMIO.--Appelle-les.
+
+CURTIS.--Entendez-vous; hol�! il vous faut aller au-devant de mon ma�tre
+pour faire bon visage[34] � ma ma�tresse.
+
+GRUMIO.--Bah! elle a un visage � elle?
+
+CURTIS.--Qui ne le sait?
+
+GRUMIO.--Toi, il me semble, qui appelles de la compagnie pour lui faire
+bon visage.
+
+CURTIS.--J'appelle ses gens pour lui faire honneur[35].
+
+GRUMIO.--Quoi donc? Elle ne vient pas pour leur emprunter[36]?
+
+[Note 34: _To countenance_.]
+
+[Note 35: _To credit her_.]
+
+[Note 36: �quivoque produit par le verbe _to credit_.]
+
+(Paraissent quatre ou cinq laquais.)
+
+NATHANIEL.--Ah! bonjour, Grumio.
+
+PHILIPPE.--Te voil� donc de retour, Grumio?
+
+JOSEPH.--Eh bien! comment �a va, Grumio?
+
+NICOLAS.--Le camarade Grumio!
+
+NATHANIEL.--Eh bien! mon vieux gar�on?
+
+GRUMIO.--Salut � tous.--Bonjour, toi, et toi, et toi, camarade, allons,
+voil� assez de bonjours.--A pr�sent, mes braves compagnons, tout est-il
+pr�t, tout est-il propre?
+
+NATHANIEL.--Tout est en �tat: � quelle distance est notre ma�tre?
+
+GRUMIO.--A deux pas d'ici, descendu ici pr�s: ainsi, ne soyez pas...
+Morbleu, silence! j'entends notre ma�tre.
+
+(Petruchio entre avec Catherine.)
+
+PETRUCHIO.--O� sont ces coquins? Comment! personne � la porte pour me
+tenir l'�trier, et pour prendre mon cheval? O� sont Nathaniel, Gr�goire,
+Philippe!
+
+TOUS LES LAQUAIS, _se pr�sentant_.--Me voici, me voici, monsieur, me
+voici, monsieur.
+
+PETRUCHIO.--Me voici, monsieur! me voici, monsieur! me voici! me
+voici!--Lourdauds, valets grossiers! quoi! nulle attention, nulle
+pr�venance, nul �gard � votre devoir? O� est ce fou, ce maraud que j'ai
+envoy� devant?
+
+GRUMIO.--Me voici, monsieur, aussi fou que je l'�tais auparavant.
+
+PETRUCHIO.--Lourd manant, b�tard, vieille rosse, ne t'ai-je pas ordonn�
+de venir au-devant de moi dans le parc, et de m'amener ces coquins avec
+toi?
+
+GRUMIO.--L'habit de Nathaniel, monsieur, n'�tait pas fini, et les
+souliers de Gabriel �taient tout d�cousus au talon; il n'y avait point
+de noir de fum�e pour noircir le chapeau de Pierre, et le couteau de
+chasse de Walter n'�tait pas revenu de chez le fourbisseur, qui doit y
+mettre un fourreau. Il n'y avait de pr�ts et d'ajust�s que Adam, Raoul
+et Gr�goire; tous les autres �taient d�guenill�s, malpropres et faits
+comme des mendiants: mais, tels qu'ils sont, les voil� qui sont venus
+pour aller au-devant de vous.
+
+PETRUCHIO.--Allez, canaille, allez me chercher le souper. (_Les laquais
+sortent_.) (_Fredonnant un air_.) _O� est la vie que je
+menais?_--Assieds-toi, Catherine, et sois la bienvenue. (Fredonnant.)
+Doux, doux, doux! (Les laquais rentrent, apportant le souper.) Eh bien,
+quand viendrez-vous?--Allons, ma ch�re et douce Catherine,
+�gaye-toi.--Otez-moi mes bottes, marauds.--Quand, dis-je? (_Il chante_.)
+_C'�tait un moine gris qui se promenait sur la route_[37]. Ote-toi de
+l�, mis�rable: tu me tords le pied. Prends cela, (_il le frappe_) et
+apprends � mieux tirer l'autre.--�gaye-toi donc, Catherine.--Apportez un
+peu d'eau ici, allons: eh bien? (_On lui pr�sente un bassin_.) O� est
+mon �pagneul Tro�le?--Coquin, sors d'ici, et va prier mon cousin
+Ferdinand de venir nous trouver.--C'est un ami, Catherine, � qui il
+faudra que tu donnes un baiser, et avec qui il faut que tu fasses
+connaissance.--O� sont mes pantoufles?--Venez, Catherine, venez laver
+vos mains, et reprenez un peu de courage. (_Le laquais laisse tomber
+l'aigui�re_.)--Eh bien! coquin b�tard, la laisseras-tu tomber.
+
+[Note 37: Chanson populaire.]
+
+(Il lui donne un soufflet.)
+
+CATHERINE,--Mod�rez-vous, je vous prie, c'est une faute involontaire.
+
+PETRUCHIO.--B�tard, gros lourdaud, face � soufflets.--Allons, Catherine,
+asseyez-vous. Je sais que vous avez app�tit. Voulez-vous dire le
+_Benedicite_, Catherine, ou bien je le dirai, moi.--Qu'est-ce que cela?
+du mouton?
+
+PREMIER LAQUAIS.--Oui, monsieur.
+
+PETRUCHIO.--Qui l'a servi?
+
+PREMIER LAQUAIS.--Moi.
+
+PETRUCHIO.--Il est tout br�l�, et tout le souper aussi. Quels chiens
+sont ces gens-ci? O� est ce maraud de cuisinier? Comment avez-vous eu
+l'audace, mis�rables, de le prendre � l'office, et de me le servir comme
+cela, � moi qui ne l'aime point? Allons, emportez cela, couteaux, verres
+et tout. (_Il jette le souper sur le plancher_.) Oh! stupides automates,
+valetaille sans attention, sans �gards! Comment, vous murmurez, je
+crois, entre vos dents? Je vais �tre � vous tout � l'heure.
+
+CATHERINE.--Je vous en conjure, cher �poux, ne vous emportez pas ainsi.
+Le souper �tait bien, si vous aviez voulu vous en contenter.
+
+PETRUCHIO.--Je vous dis, Catherine, qu'il �tait br�l� et tout dess�ch�;
+et l'on m'a express�ment d�fendu d'en manger de la sorte, parce que cela
+engendre de la bile et aigrit l'humeur col�rique; et il vaut encore
+mieux, pour nous, nous passer de souper, nous qui par notre
+constitution, sommes irascibles, que de nous nourrir de pareille viande,
+dess�ch�e � force de cuire... Soyez tranquille; demain cela ira mieux;
+mais pour ce soir, nous je�nerons de compagnie.--Allons, venez, je vais
+vous conduire � votre appartement de noces.
+
+(Petruchio, Catherine et Curtis sortent.)
+
+NATHANIEL, _s'avan�ant_.--Pierre, as-tu jamais rien vu de pareil?
+
+PIERRE.--Il la tue avec ses propres armes.
+
+(Curtis repara�t.)
+
+GRUMIO, _� Curtis_.--O� est-il?
+
+CURTIS.--Dans la chambre de madame, lui faisant un sermon de continence;
+et il temp�te, et il jure, et il crie, de fa�on que la pauvre ch�re �me
+ne sait � quelle place se mettre, et n'ose ni le regarder ni ouvrir la
+bouche. Elle est assise comme une personne qu'on r�veille en sursaut au
+milieu de son r�ve.--D�campons, d�campons: le voil� qui revient ici.
+
+(Ils sortent.)
+
+PETRUCHIO.--Ainsi, j'ai commenc� mon r�gne en habile politique, et j'ai
+l'espoir d'arriver heureusement � mon but. Mon faucon est anim�, et fort
+affam�...; et jusqu'� ce qu'il s'apprivoise, il ne faut pas trop le
+gorger de nourriture: car alors il ne daigne plus arr�ter ses yeux sur
+le leurre. J'ai encore un autre moyen de fa�onner mon faucon sauvage, et
+de lui apprendre � revenir et � conna�tre la voix de son ma�tre: c'est
+de la veiller comme on veille sur ces milans qui voltigent, se r�voltent
+et ne veulent pas ob�ir: elle n'a go�t� de rien aujourd'hui, et elle ne
+go�tera encore de rien.
+
+La nuit derni�re elle n'a pas dormi, elle ne dormira pas encore cette
+nuit: je saurai trouver quelque d�faut imaginaire � la fa�on du lit,
+comme j'en ai trouv� au souper, et je ferai voler l'oreiller d'un c�t�,
+les draps de l'autre.--Oui, et au milieu de ce vacarme, je pr�tendrai
+que tout ce que j'en fais, c'est par �gard pour elle; pour conclusion,
+elle veillera toute la nuit; et si elle vient � fermer les paupi�res, je
+crierai, je temp�terai et la tiendrai sans cesse �veill�e par mes
+clameurs. Voil� le vrai secret de tuer une femme par trop de bont�, et
+comme cela, je viendrai � bout de dompter son humeur hautaine et
+intraitable.--Que celui qui saura un meilleur moyen pour mettre une
+m�chante femme � la raison parle et m'apprenne sa recette.--C'est une
+charit� que d'enseigner ce secret.
+
+(Il sort.)
+
+
+SC�NE II
+
+Padoue.--Devant la maison de Baptista.
+
+_Entrent_ TRANIO et HORTENSIO.
+
+
+TRANIO.--Est-il possible, ami Licio, que la jeune Bianca en aime un
+autre que Lucentio? Je vous dis, moi, monsieur, qu'elle me donne les
+plus belles esp�rances.
+
+HORTENSIO.--Monsieur, pour vous prouver la v�rit� de ce que j'avance,
+tenez-vous � l'�cart, et observez la mani�re dont il lui donne sa le�on.
+
+(Ils se tiennent de c�t� pour observer Bianca.)
+
+(Entrent Bianca et Lucentio.)
+
+LUCENTIO.--Eh bien! mademoiselle, profitez-vous de vos lectures?
+
+BIANCA.--De quelles lectures parlez-vous, mon ma�tre? R�pondez-moi
+d'abord � cela.
+
+LUCENTIO.--Je lis ce que je professe, l'art d'aimer.
+
+BIANCA.--Et puissiez-vous, monsieur, devenir ma�tre dans votre art.
+
+LUCENTIO.--Oh! je le serai, ch�re Bianca, tant que vous serez la
+ma�tresse de mon coeur.
+
+(Ils se retirent.)
+
+HORTENSIO.--C'est aller vite en amour, vraiment!--Eh bien! � pr�sent,
+qu'en dites-vous, je vous prie, vous qui osiez jurer que votre ma�tresse
+Bianca n'aimait personne au monde aussi tendrement que Lucentio?
+
+TRANIO.--O maudit amour! � sexe inconstant!--Je vous d�clare, Licio, que
+cela me confond d'�tonnement.
+
+HORTENSIO.--Ne vous y m�prenez pas plus longtemps; je ne suis point
+Licio, ni un musicien, comme je parais l'�tre, mais un homme qui
+d�daigne de vivre davantage sous ce d�guisement, pour l'amour d'une
+cr�ature qui abandonne un gentilhomme, et fait un dieu d'un tel manant:
+apprenez, monsieur, que je m'appelle Hortensio.
+
+TRANIO.--Seigneur Hortensio, j'ai souvent ou� parler de votre affection
+extr�me pour Bianca; et, puisque mes yeux sont t�moins de sa l�g�ret�,
+je veux, avec vous, si ce parti vous pla�t, abjurer Bianca et mon amour
+pour jamais.
+
+HORTENSIO.--Voyez comme ils se baisent et se caressent!--Seigneur
+Lucentio, voici ma main, et je fais le serment irr�vocable de ne plus
+lui faire ma cour, mais de renoncer � elle comme � un objet indigne des
+�gards que je lui ai follement prodigu�s jusqu'ici.
+
+TRANIO.--Et moi, je fais ici le m�me serment bien sinc�re de ne jamais
+l'�pouser, quand elle m'en prierait: honte sur elle! Voyez avec quelle
+ind�cence elle lui fait des avances!
+
+HORTENSIO.--Je voudrais que tout le monde, hors ce p�dant, e�t pour
+jamais renonc� � elle! Pour moi, afin de tenir inviolablement mon
+serment, je veux �tre mari� � une riche veuve avant qu'il se passe trois
+jours. Cette veuve m'a longtemps aim�, tandis que j'aimais, moi, cette
+femme ingrate et d�daigneuse; et, dans ce dessein, je prends cong� de
+vous. Adieu donc, seigneur Lucentio.--Ce sera la tendresse, et non pas
+la beaut� des femmes qui d�sormais gagnera mon amour.--Adieu, je vous
+quitte dans la ferme r�solution que j'ai fait serment d'ex�cuter.
+
+(Hortensio sort.)
+
+(Lucentio et Bianca s'avancent.)
+
+TRANIO.--Bianca, que le ciel vous donne toutes les b�n�dictions qui
+peuvent rendre un amant heureux! Je vous ai surprise endormie, belle
+ma�tresse, et j'ai jur� avec Hortensio de renoncer � vous.
+
+BIANCA.--Tranio, vous plaisantez; mais est-il vrai que vous ayez tous
+deux renonc� � moi?
+
+TRANIO.--Oui, mademoiselle.
+
+LUCENTIO.--Nous sommes donc d�barrass�s de Licio?
+
+TRANIO.--Sur ma foi, il va trouver � pr�sent une belle veuve, qui sera
+courtis�e et �pous�e au bout d'un jour.
+
+BIANCA.--Grand bien lui fasse.
+
+TRANIO.--Oui, oui, et il l'apprivoisera.
+
+BIANCA.--C'est ainsi qu'il s'est exprim�, Tranio?
+
+TRANIO.--D'honneur, il est all� � l'�cole o� l'on apprivoise.
+
+BIANCA.--Quelle est cette �cole? En existe-t-il vraiment une?
+
+TRANIO.--Oui, mademoiselle, elle existe, et c'est Petruchio qui en est
+le ma�tre; c'est lui qui enseigne je ne sais combien de douzaines de
+tours pour r�duire une m�chante femme et charmer sa langue querelleuse.
+
+(Biondello accourt.)
+
+BIONDELLO.--Oh! mon ma�tre, j'ai tant veill� que je suis las comme un
+chien; mais � la fin j'ai d�couvert un vieux messager qui descend la
+colline, et qui nous servira dans nos vues.
+
+TRANIO.--Qui est-ce, Biondello?
+
+BIONDELLO.--Mon ma�tre, c'est un marchand, ou un p�dant, je ne sais
+lequel, mais grave dans son maintien: il a toute la d�marche et la
+contenance d'un p�re.
+
+LUCENTIO.--Et que ferons-nous de lui, Tranio?
+
+TRANIO.--S'il veut se laisser persuader, et croire ce que je lui dirai,
+je l'engagerai � para�tre sous le personnage de Vincentio, et � se
+porter pour caution aupr�s de Baptista Minola, comme s'il �tait le
+v�ritable Vincentio. Faites rentrer votre amante, et laissez-moi seul.
+
+(Lucentio et Bianca sortent.)
+
+(Entre un p�dant.)
+
+LE P�DANT.--Dieu vous garde, monsieur.
+
+TRANIO.--Et vous aussi, monsieur; vous �tes le bienvenu. Voyagez-vous
+loin, ou �tes-vous au terme de votre route?
+
+LE P�DANT.--Au terme, monsieur, dans une semaine ou deux au plus; mais,
+apr�s ce temps, je vais plus loin; jusqu'� Rome, et de l� � Tripoli, si
+Dieu me pr�te vie.
+
+TRANIO.--De quel pays �tes-vous, je vous prie?
+
+LE P�DANT.--De Mantoue.
+
+TRANIO.--De Mantoue, monsieur? � ciel! A Dieu ne plaise! et vous venez �
+Padoue, sans prendre souci de votre vie?
+
+LE P�DANT.--Ma vie, monsieur? Comment, je vous prie? car cela est
+s�rieux.
+
+TRANIO.--Il y a la mort pour tout habitant de Mantoue qui vient �
+Padoue: est-ce que vous n'en savez pas la cause? Vos vaisseaux sont
+arr�t�s � Venise, et le duc, pour une querelle particuli�re �lev�e entre
+lui et votre duc, a fait publier et proclamer cette peine partout. C'est
+une chose surprenante; mais si vous �tiez arriv� un moment plus t�t,
+vous l'auriez entendu annoncer ici � son de trompe.
+
+LE P�DANT.--H�las! monsieur, il y a encore de plus grands malheurs que
+cela pour moi; car j'ai avec moi des lettres de change de Florence qu'il
+faut que je rende ici.
+
+TRANIO.--Eh bien! monsieur, pour vous obliger je veux bien le faire, et
+je vous donnerai de bons moyens.--D'abord, dites-moi, avez-vous jamais
+�t� � Pise?
+
+LE P�DANT.--Oui, monsieur, j'ai souvent �t� � Pise; � Pise, ville
+fameuse par la noblesse de ses citoyens.
+
+TRANIO.--Connaissez-vous parmi eux un certain Vincentio?
+
+LE P�DANT.--Je ne le connais pas, mais j'ai entendu parler de lui: c'est
+un n�gociant d'une richesse incomparable.
+
+TRANIO.--Il est mon p�re, monsieur, et, � dire la v�rit�, il vous
+ressemble un peu par les traits du visage.
+
+BIONDELLO, _� part_.--Comme une pomme ressemble � une hu�tre: c'est tout
+la m�me chose.
+
+TRANIO.--Afin de mettre vos jours en s�ret� dans ce p�ril extr�me, je
+vous ferai ce plaisir par amour pour lui; et ne croyez pas que ce soit
+un malheur pour vous d'avoir quelque ressemblance avec le seigneur
+Vincentio. Vous aurez son nom et son cr�dit, vous serez log� comme un
+ami dans ma maison.--Songez � jouer votre r�le comme il convient; vous
+m'entendez, monsieur? Vous resterez chez moi jusqu'� ce que vous ayez
+termin� vos affaires dans la ville: si ce service vous oblige, monsieur,
+acceptez-le.
+
+LE P�DANT.--Oh! monsieur, bien volontiers; et je vous regarderai
+toujours comme le protecteur de ma vie et de ma libert�.
+
+TRANIO.--Allons, venez donc avec moi ex�cuter ce que je propose, et
+�couter ce que je vais vous dire en chemin.--Mon p�re est attendu d'un
+jour � l'autre pour �tre caution d'un douaire � l'occasion de mon
+mariage avec une des filles de Baptista, citoyen de cette ville: je vous
+mettrai au fait de toutes les circonstances. Venez avec moi, monsieur,
+pour vous habiller comme il convient.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+Appartement dans la maison de Petruchio.
+
+CATHERINE, GRUMIO.
+
+
+GRUMIO.--Non, non, en v�rit�: je n'oserais, sur ma vie.
+
+CATHERINE.--Plus il m'outrage, et plus son m�chant caract�re se d�c�le.
+Quoi donc, m'a-t-il �pous�e pour me faire mourir de faim? Les mendiants
+qui viennent � la porte de mon p�re, sur la moindre pri�re, obtiennent
+une prompte aum�ne; ou bien si on la leur refuse, ils trouvent des
+charit�s ailleurs. Mais moi, qui n'ai jamais su prier, et qui n'ai
+jamais eu besoin de prier, je suis affam�e faute d'aliments, et �tourdie
+faute de sommeil; on me tient �veill�e par des jurements; on me nourrit
+de clameurs, de privations; et, ce qui me d�pite encore plus que toutes
+ces privations, c'est qu'il pr�tend me prouver par l� le plus parfait
+amour. Il semble dire que si je go�tais de quelques mets, ou quelques
+heures de sommeil, je tomberais aussit�t malade, ou que j'en
+mourrais.--Je te prie, Grumio, va me chercher quelque chose � manger:
+n'importe quoi, pourvu que ce soit un mets sain.
+
+GRUMIO.--Que dites-vous d'un pied de boeuf?
+
+CATHERINE.--Cela est exquis; je t'en prie, fais-m'en avoir.
+
+GRUMIO.--Je crains que ce ne soit un mets trop bilieux; et du boudin
+gras, bien grill�, comment trouvez-vous cela?
+
+CATHERINE.--Je les aime beaucoup. Bon Grumio, va m'en chercher.
+
+GRUMIO.--Je ne sais pas trop: je crains que ce ne soit un mets trop
+bilieux: que dites-vous d'une tranche de boeuf, avec de la moutarde?
+
+CATHERINE.--Oh! c'est un mets que j'aime beaucoup.
+
+GRUMIO.--Oui; mais la moutarde est un peu trop chaude.
+
+CATHERINE.--Eh bien! la tranche de boeuf, et je me passerai de moutarde.
+
+GRUMIO.--Non, je ne veux pas: vous aurez la moutarde, ou vous n'aurez
+point de tranche de boeuf de Grumio.
+
+CATHERINE.--Eh bien! tous les deux, ou l'un sans l'autre; tout ce que tu
+voudras.
+
+GRUMIO.--Eh bien! la moutarde donc sans le boeuf?
+
+CATHERINE.--Va-t'en, valet fourbe, qui te joues de moi, et me nourris
+par le nom seul des mets. (_Elle le bat_.) Malheur sur toi, et sur tes
+pareils qui triomphent ainsi de ma mis�re! Va-t'en! te dis-je!
+
+(Entre Petruchio avec un plat de viandes, et Hortensio.)
+
+PETRUCHIO.--Comment se porte ma Catherine? Quoi! mon coeur, toute
+constern�e?
+
+HORTENSIO.--Eh bien! madame, comment vous trouvez-vous?
+
+CATHERINE.--Oh! aussi froide qu'il est possible de l'�tre.
+
+PETRUCHIO--Allons, ranimez vos esprits: montrez-moi un oeil serein et
+gai. Approchez, mon amour, et mettez-vous � table: vous voyez mon
+empressement et mes soins pour vous pr�parer moi-m�me ce mets et vous
+l'apporter. (_Petruchio met le plat sur une table_.) Je suis s�r, ch�re
+Catherine, que ma tendresse m�rite des remerciements.--Quoi! pas un mot?
+Allons, vous n'aimez pas cela, et toutes mes peines restent sans fruit.
+(_A un laquais_.) Vite, �tez ce plat.
+
+CATHERINE.--Je vous en prie, qu'il reste.
+
+PETRUCHIO.--Le plus petit service est pay� de reconnaissance, et il faut
+que le mien re�oive son prix avant que vous touchiez � ce mets.
+
+CATHERINE.--Je vous remercie, monsieur.
+
+HORTENSIO.--Allons, fi! seigneur Petruchio: vous avez tort.--Venez,
+madame, je vous tiendrai compagnie.
+
+PETRUCHIO, _bas � Hortensio_.--T�che de le manger tout entier,
+Hortensio, si tu as de l'amiti� pour moi.--(_A Catherine_.) Je souhaite
+que cela fasse beaucoup de bien � ton cher petit coeur!--Allons,
+Catherine, mange vite.--Et � pr�sent, ma douce amie, nous allons
+retourner � la maison de ton p�re, et nous y r�jouir dans la parure la
+plus brillante, robe de soie, chapeaux, anneaux d'or, fraises,
+manchettes, vertugadins, et autres pompons, avec des �charpes, des
+�ventails et double parure � changer; des bracelets d'ambre, des
+colliers, et tous les noeuds les plus �l�gants.--Allons, as-tu d�n�? Le
+tailleur attend pour orner ta personne de ses riches �toffes. (_Entre un
+tailleur_.) Venez, tailleur, faites-nous voir tous ces beaux habits[38].
+D�ployez la robe. (_Entre un chapelier_.) Et vous, qu'apportez-vous!
+
+[Note 38: Du temps de Shakspeare les tailleurs habillaient aussi les
+femmes.]
+
+LE CHAPELIER.--Voici le chapeau que monsieur m'a command�.
+
+PETRUCHIO.--Allons donc: il est mont� sur la forme d'une �cuelle: c'est
+un plat en velours. Fi! fi! c'est ind�cent et inf�me.--Bon, c'est une
+vraie coquille, une �caille de grosse noix, un hochet, un jouet de
+poup�e, un chapeau d'enfant.--Allons, �tez-moi cela, et apportez-m'en un
+plus grand.
+
+CATHERINE.--Je n'en veux pas un plus grand; il est de mode: et les dames
+comme il faut portent les chapeaux dans ce go�t-l�.
+
+PETRUCHIO.--Quand vous serez douce, vous en aurez un, mais pas avant.
+
+HORTENSIO, _� part_.--En ce cas, cela ne sera pas de sit�t.
+
+CATHERINE.--Mais, monsieur, je crois que j'aurai du moins la libert� de
+parler; et je pr�tends parler. Je ne suis pas un enfant, un marmot. Des
+gens qui valaient mieux que vous ne m'ont pas emp�ch�e de dire ma
+pens�e; et si vous ne pouvez pas supporter de m'entendre, il vaut mieux
+vous boucher les oreilles. Ma langue veut exhaler tout le courroux de
+mon coeur, ou mon coeur, � force de se contraindre, se brisera, et
+plut�t que de m'exposer � ce malheur, je prendrai jusqu'� la fin la
+libert� de parler, si cela me pla�t.
+
+PETRUCHIO.--Oui, vous avez raison: c'est un vilain chapeau, une cro�te
+de p�t�, un colifichet, un g�teau en soie.--Je vous aime beaucoup, parce
+qu'il vous d�pla�t.
+
+CATHERINE.--Aimez-moi, ou ne m'aimez pas: j'aime ce chapeau, et je
+l'aurai, ou je n'en aurai point d'autre.
+
+PETRUCHIO.--Quoi! votre robe? la voulez-vous?--Allons, tailleur,
+voyons-la. Oh! merci de Dieu! quelle est cette �toffe de mascarade?
+Qu'est-ce que c'est que cela? une manche!... On dirait que c'est un
+demi-canon: comment, haut et bas, taill� comme une tarte aux pommes: ici
+une coupure, un pli, puis un trou comme un encensoir de barbier[39]. Et
+de par tous les diables, tailleur, comment nommes-tu cela?
+
+[Note 39: On ne voit plus dans la boutique des barbiers de ces
+petits vases qui, pour donner passage � la fum�e, �taient perc�s de
+beaucoup de trous.]
+
+HORTENSIO, _� part_.--Elle a bien l'air, je crois, de n'avoir ni
+chapeau, ni robe.
+
+LE TAILLEUR.--Vous m'avez recommand� de la faire comme il faut, suivant
+la mode et le go�t.
+
+PETRUCHIO.--Oui, je vous l'ai recommand�. Mais, si vous avez de la
+m�moire, je ne vous ai pas dit de la g�ter par mode. Allez, sautez-moi
+vite les ruisseaux jusque chez vous, car vous n'aurez point ma pratique.
+Je ne veux point de cela, l'ami. Allez, faites-en votre profit.
+
+CATHERINE.--Je n'ai jamais vu de robe mieux faite, plus d�cente, plus
+charmante et plus noble. Vous voulez peut-�tre faire de moi une poup�e.
+
+PETRUCHIO.--Oui, c'est bien dit: cet homme veut faire de toi une poup�e.
+
+LE TAILLEUR.--Madame dit que c'est vous, monseigneur, qui voulez faire
+une poup�e d'elle.
+
+PETRUCHIO.--O exc�s d'insolence! Tu mens, fil, d� � coudre, aune, trois
+quarts, demi-aune, quart, clou, puce, lente, grillon d'hiver. Je me
+verrai brav� chez moi par un �cheveau de fil! Sors d'ici, lambeau,
+rognure, ou je vais si bien te mesurer avec ton aune, que tu te
+souviendras de ton impertinent babil tout le reste de ta vie! Je te dis,
+encore une fois, moi, que tu as g�t� sa robe.
+
+LE TAILLEUR.--Monseigneur est dans l'erreur. La robe est faite
+pr�cis�ment comme mon ma�tre l'a command�; Grumio a expliqu� comment
+elle devait �tre faite.
+
+GRUMIO.--Je n'ai point donn� d'ordres, moi; je n'ai fait que lui
+remettre l'�toffe.
+
+LE TAILLEUR, _� Grumio_.--Mais comment avez-vous command� qu'elle f�t
+faite?
+
+GRUMIO.--Parbleu, avec une aiguille et du fil.
+
+LE TAILLEUR.--Mais n'avez-vous pas demand� qu'on la taill�t?
+
+GRUMIO.--Tu as mesur� bien des choses[40]?
+
+[Note 40: _Thou hast faced many things face note me_. Nous avons
+traduit par un mot �quivalent.]
+
+LE TAILLEUR.--Oui.
+
+GRUMIO.--Eh bien! ne me mesure pas, moi. Tu as rendu plusieurs hommes
+_braves_[41]: eh bien! ne me brave pas moi; je ne veux �tre ni mesur� ni
+brav�. Je te r�p�te que j'ai dit � ton ma�tre de tailler la robe; mais
+je n'ai pas dit de la tailler en pi�ces: _ergo_, tu mens.
+
+[Note 41: Autre jeu de mot sur _brave_, qui veut dire vaillant et
+par�.]
+
+LE TAILLEUR.--Voici la note de la fa�on; elle fera preuve.
+
+PETRUCHIO.--Lisez-la.
+
+GRUMIO.--La note est dans son gosier; s'il soutient que j'ai dit
+cela....
+
+LE TAILLEUR.--D'abord une robe large.
+
+GRUMIO.--Ami, si j'ai parl� d'une large robe, cousez-moi dans les pans
+de la robe, et battez-moi jusqu'� la mort avec un peloton de fil brun.
+J'ai dit une robe.
+
+PETRUCHIO, _au tailleur_.--Continuez.
+
+LE TAILLEUR.--Avec une petite p�lerine ronde.
+
+GRUMIO.--Je conviens de la p�lerine.
+
+LE TAILLEUR.--Avec manches retrouss�es.
+
+GRUMIO.--Je conviens de deux manches.
+
+LE TAILLEUR.--Deux manches �l�gamment taill�es.
+
+PETRUCHIO.--Oui: voil� la sottise.
+
+GRUMIO.--Erreur dans la note, ami; erreur dans la note. J'ai command�
+que les manches fussent coup�es, et ensuite recousues; et cela, je le
+prouverai contre toi, quoique ton petit doigt soit cuirass� d'un d�.
+
+LE TAILLEUR.--Ce que je dis est la v�rit�; et si je te tenais en lieu
+convenable, je te le ferais sentir.
+
+GRUMIO.--Je suis � toi dans l'instant; prends la note, et donne-moi ton
+aune, et apr�s ne me m�nage pas.
+
+HORTENSIO.--Vraiment, Grumio, il n'aurait pas l'avantage des armes.
+
+PETRUCHIO.--Allons, mon ami, en deux mots, cette robe n'est pas pour
+moi.
+
+GRUMIO.--Vous avez raison, monsieur, c'est pour ma ma�tresse.
+
+PETRUCHIO, _au tailleur_.--Allons, remportez-la, et que votre ma�tre en
+fasse l'usage qui lui plaira.
+
+GRUMIO.--Mis�rable! sur ta vie, ne t'en avise pas: prendre la robe de ma
+ma�tresse pour l'usage de ton ma�tre!
+
+PETRUCHIO.--Quoi donc, Grumio, quelle est ton id�e?
+
+GRUMIO.--Oh! monsieur, l'id�e est plus profonde que vous ne croyez;
+prendre la robe de ma ma�tresse pour l'usage de son ma�tre! Fi! fi! fi!
+
+PETRUCHIO, _� part, � Hortensio_,--Hortensio, dis que tu feras payer le
+tailleur.--(_Au gar�on_.) Allons, prends-la, sors, et ne r�plique pas un
+mot.
+
+HORTENSIO.--Tailleur, je te payerai la robe demain. Ne t'offense pas de
+ces duret�s qu'il te dit dans son emportement; va-t'en, te dis-je, mes
+compliments � ton ma�tre, gar�on.
+
+(Le tailleur sort remportant la robe.)
+
+PETRUCHIO.--Allons, venez, Catherine, nous irons voir votre p�re dans
+ces habillements simples et honn�tes; nos bourses seront fi�res si nos
+habits sont humbles, car c'est l'�me qui rend le corps riche; et comme
+le soleil perce les nuages les plus noirs, l'honneur de m�me perce �
+travers l'habit le plus grossier. Quoi! le geai est-il plus pr�cieux que
+l'alouette, parce que son plumage est plus beau? ou le serpent vaut-il
+mieux que l'anguille, parce que sa peau bigarr�e charme l'oeil? Oh! non,
+non, ch�re Catherine; et toi, tu ne vaux pas moins ton prix, pour �tre
+v�tue de cette robe simple et de cette parure mesquine. Si tu crois
+qu'il y a de la honte, mets-la sur mon compte. Allons, sois joyeuse;
+nous allons partir sur-le-champ pour aller nous r�jouir et c�l�brer la
+f�te � la maison de votre p�re. (_A un de ses gens_.) Allez, appelez mes
+gens.--Allons le trouver sans d�lai.--Am�ne nos chevaux au bout de la
+longue ruelle, nous monterons l�, et jusque-l� nous irons � pied en nous
+promenant.--Voyons, je crois qu'il est environ sept heures, et nous
+pouvons fort bien y arriver pour d�ner.
+
+CATHERINE.--J'ose vous assurer, monsieur, qu'il est presque deux heures,
+et il sera l'heure du souper avant que nous soyons arriv�s.
+
+PETRUCHIO.--Il sera sept heures avant que je monte � cheval.--Voyez,
+tout ce que je dis, ce que je fais, ou ce que j'ai le projet de faire,
+vous �tes toujours � me contredire.--(_A ses gens_.) Allons, laissez; je
+n'irai pas aujourd'hui, ou avant que j'y aille, il sera l'heure que je
+dis qu'il est.
+
+HORTENSIO.--Allons! cet homme-l� commandera au soleil.
+
+(Petruchio, Catherine et Hortensio sortent.)
+
+
+SC�NE IV
+
+Padoue.--Devant la maison de Baptista.
+
+_Entrent_ TRANIO ET LE P�DANT _habill� comme_ VINCENTIO.
+
+
+TRANIO.--Monsieur, voici la maison; voulez-vous que j'appelle?
+
+LE P�DANT.--Oui, qu'attendre?--Et je serais bien tromp�, si le signor
+Baptista ne pouvait se rappeler ma figure, depuis vingt ans pass�s que
+nous �tions � G�nes, log�s ensemble � l'auberge du P�gase.
+
+TRANIO.--Tout ira bien, et faites bien votre r�le, dans tous les cas,
+avec la gravit� qui convient � un p�re.
+
+(Entre Biondello.)
+
+LE P�DANT.--Je vous r�ponds de moi.--Mais, monsieur, voici votre valet
+qui vient; il serait � propos qu'on lui fit la le�on.
+
+TRANIO.--Oh! n'ayez pas d'inqui�tude sur son compte.--Hol�, Biondello,
+songe � bien faire ton devoir ponctuellement, je t'en avertis: mets-toi
+bien dans la t�te que tu vois le v�ritable Vincentio.
+
+BIONDELLO.--Bah! ne soyez pas inquiet de moi.
+
+TRANIO.--Mais, as-tu fait ton message � Baptista?
+
+BIONDELLO.--Je lui ai annonc� que votre p�re �tait � Venise, et que vous
+l'attendiez aujourd'hui m�me dans Padoue.
+
+TRANIO.--Tu es un brave gar�on: tiens, voil� pour boire.--J'aper�ois
+Baptista. (_Au p�dant_.) Arrangez votre visage, monsieur. (_Entrent
+Baptista et Lucentio_.) Signor Baptista, nous vous rencontrons fort �
+propos.--(_Au p�dant_.) Monsieur, voil� l'honn�te homme dont je vous ai
+parl�. Je vous en conjure, soyez, en ce moment, un bon p�re pour moi:
+donnez-moi Bianca pour mon patrimoine.
+
+LE P�DANT.--Doucement, mon fils.--(_A Baptista_.) Monsieur, veuillez
+m'entendre. �tant venu � Padoue pour recueillir quelques sommes qui me
+sont dues, mon fils Lucentio m'a instruit d'une grande affaire d'amour
+entre votre fille et lui; et d'apr�s le bien que j'entends dire de vous,
+et l'amour que mon fils porte � votre fille, et celui qu'elle a pour
+lui... Afin de ne pas le tenir plus longtemps en suspens, je consens, en
+bon et tendre p�re, � faire ce mariage; et si le parti ne vous d�pla�t
+pas plus qu'� moi, monsieur, apr�s quelques conventions, vous me
+trouverez tout pr�t et volontiers dispos� � donner � cette alliance un
+plein consentement, car je n'y regarderai pas de si pr�s avec vous,
+signor Baptista, dont j'entends parler si avantageusement.
+
+BAPTISTA,--Monsieur, daignez m'excuser dans ce que je vais vous
+dire.--Votre franchise et votre bri�vet� me plaisent: il est tr�s-vrai
+que votre fils Lucentio aime ma fille, et qu'il est aim� d'elle; ou bien
+tous les deux dissimulent profond�ment leurs sentiments; en cons�quence,
+dites seulement un mot, dites que vous en userez avec votre fils comme
+un bon p�re, et que vous assurerez � ma fille un douaire suffisant, et
+le march� est conclu, tout est dit. Votre fils aura ma fille de mon
+plein consentement.
+
+TRANIO.--Je vous rends gr�ces, monsieur.--Allons, o� jugez-vous qu'il
+faut nous aller fiancer, et qu'on pourra passer le contrat qui doit
+assurer les engagements mutuels des parties?
+
+BAPTISTA.--Pas dans ma maison, Lucentio, car vous savez que les cruches
+ont des oreilles, et que j'ai une foule de domestiques. D'ailleurs le
+vieux Gremio est toujours aux aguets, et nous pourrions bien nous voir
+interrompus et travers�s.
+
+TRANIO.--Eh bien! ce sera � mon h�tel, si vous le trouvez bon, monsieur.
+C'est l� que loge mon p�re, et l�, nous arrangerons l'affaire ce soir
+entre nous � l'amiable. Envoyez chercher votre fille par votre
+domestique que voil�; le mien ira chercher le notaire dans l'instant: le
+malheur est que, faute d'�tre pr�venu, vous ferez probablement maigre
+ch�re chez moi.
+
+BAPTISTA--Cela m'est �gal.--(_A Lucentio_.) Cambio, allez au logis, et
+dites � Bianca de s'habiller promptement; et si vous voulez, dites-lui
+ce qui se passe: dites-lui que le p�re de Lucentio est arriv� � Padoue,
+et comment il est tout � fait probable qu'elle sera la femme de
+Lucentio.
+
+LUCENTIO.--Je prie les dieux qu'elle le devienne; oh! de tout mon coeur.
+
+(Il sort.)
+
+TRANIO.--Ne t'amuse point avec les dieux, mais pars vite.--Seigneur
+Baptista, vous montrerai-je le chemin? Vous serez le bienvenu; un seul
+plat fera toute votre ch�re, mais enfin venez, nous nous en
+d�dommagerons � Pise.
+
+BAPTISTA.--Je vous suis.
+
+(Tranio sort avec le p�dant et Baptista.)
+
+BIONDELLO.--Cambio!
+
+LUCENTIO.--Que me veux-tu, Biondello?
+
+BIONDELLO.--Vous avez vu mon ma�tre cligner de l'oeil et vous adresser
+un sourire?
+
+LUCENTIO.--Eh bien! qu'est-ce que cela veut dire?
+
+BIONDELLO.--Oh! rien. Mais il m'a laiss� ici, derri�re les autres, pour
+expliquer le sens et la moralit� de ses signes et gestes.
+
+LUCENTIO.--Je te prie, voyons ton interpr�tation.
+
+BIONDELLO.--La voici: Baptista est en fort bonnes mains, ayant � traiter
+avec le p�re imposteur d'un fourbe de fils.
+
+LUCENTIO.--Et que veux-tu dire de lui?
+
+BIONDELLO.--Sa fille doit �tre amen�e par vous au souper.
+
+LUCENTIO.--Ensuite.
+
+BIONDELLO.--Un vieux pr�tre de l'�glise Saint-Luc attend vos ordres �
+toutes les heures.
+
+LUCENTIO.--Et la fin de tout cela?
+
+BIONDELLO.--Ah! je ne saurais vous dire... Except� qu'ils sont occup�s �
+dresser un faux acte de cautionnement.--Assurez-vous d'elle, vous, _cum
+privilegio ad imprimendum solum_[42].--Allez � l'�glise avec le pr�tre,
+le clerc et les t�moins suffisants. Si ce ne sont pas l� vos intentions,
+je n'ai plus le mot � vous dire, et vous pouvez dire adieu � Bianca pour
+une �ternit� et un jour.
+
+[Note 42: Avec privil�ge exclusif.]
+
+LUCENTIO.--�coute-moi, Biondello.
+
+BIONDELLO.--Je ne peux rester plus longtemps: j'ai connu une fille
+mari�e en une apr�s-midi, comme elle allait au jardin cueillir du persil
+pour farcir un lapin; vous pourriez bien vous marier de m�me, monsieur;
+et sur ce, adieu, monsieur: mon ma�tre m'a enjoint d'aller � l'�glise de
+Saint-Luc, dire au pr�tre de se tenir pr�t � venir, d�s que vous
+arriverez avec votre appendice.
+
+(Il sort.)
+
+LUCENTIO.--Je le pourrais bien, et le veux bien, si cela la satisfait.
+H�! pourquoi douterais-je de sa volont�? Arrive ce qui voudra, j'irai
+rondement avec elle; il y aura bien du malheur si Cambio revient sans
+elle.
+
+(Il sort.)
+
+
+SC�NE V
+
+Une grande route.
+
+_Entrent_ PETRUCHIO, CATHERINE ET HORTENSIO.
+
+
+PETRUCHIO.--Allons, avancez, au nom de Dieu: encore un coup, � la maison
+de notre p�re.--Grand Dieu! que la lune est belle et claire!
+
+CATHERINE.--La lune! c'est le soleil: il n'y a pas de clair de lune �
+pr�sent.
+
+PETRUCHIO.--Je dis que c'est la lune qui brille ainsi.
+
+CATHERINE.--Et moi, je sais bien que c'est le soleil qui brille �
+pr�sent.
+
+PETRUCHIO.--Oh! par le fils de ma m�re (et ce fils, c'est moi-m�me), ce
+sera la lune, ou une �toile, ou tout ce que je voudrai, avant que je
+continue ma route vers la maison de votre p�re.--Allez, et faites
+retourner nos chevaux.--Toujours contrari�, contrari�! jamais que des
+contradictions!
+
+HORTENSIO.--Dites comme lui, ou nous n'arriverons jamais.
+
+CATHERINE.--Je vous en prie, puisque nous sommes venus si loin,
+continuons, et que ce soit la lune, ou le soleil, ou tout ce qu'il vous
+plaira. Et, s'il vous pla�t de dire que c'est une chandelle de veille,
+je vous jure que d�sormais c'en sera une pour moi.
+
+PETRUCHIO.--Je dis que c'est la lune.
+
+CATHERINE.--Je le sais bien, que c'est la lune.
+
+PETRUCHIO.--Allons, vous mentez: c'est le bienfaisant soleil.
+
+CATHERINE.--Eh bien! Dieu soit b�ni; c'est le bienfaisant soleil: mais
+ce n'est plus le soleil, d�s que vous dites que ce n'est pas le soleil;
+et la lune change au gr� de votre id�e. Ce sera telle chose que vous
+voudrez la nommer, et ce sera toujours la m�me chose pour Catherine que
+pour vous.
+
+HORTENSIO.--Allons, Petruchio, poursuivez: le champ de bataille est �
+vous.
+
+PETRUCHIO.--Allons, en avant, en avant: voil� comme la boule doit
+rouler, sans contradiction, et ne pas donner gauchement contre la
+butte.--Mais, silence: voici de la compagnie qui vient. (_Survient
+Vincentio, p�re de Lucentio, en habit de voyage_.) Bonjour, aimable
+demoiselle; o� allez-vous de ce pas?--(_A Catherine_.) Dites-moi, ma
+ch�re Catherine, et parlez-moi franchement: avez-vous jamais vu une
+demoiselle dont le teint soit plus frais? Quel joli combat de lis et de
+roses sur ses joues! Quelles �toiles font briller le firmament d'une
+lumi�re aussi pure, que celles dont ses deux beaux yeux animent son
+visage c�leste? Aimable et belle demoiselle, encore une fois, heureux
+jour � votre divine personne!--Ch�re Catherine, embrasse-la pour sa
+beaut�.
+
+HORTENSIO.--Il va rendre cet homme fou pour en faire une femme!
+
+CATHERINE--Jeune et charmante vierge, belle, fra�che et douce, o�
+allez-vous? o� est votre demeure? Heureux le p�re et la m�re d'un si bel
+enfant! Plus heureux l'homme � qui des astres favorables te donnent pour
+�tre son aimable compagne.
+
+PETRUCHIO.--Allons donc, Catherine; tu n'es pas folle, j'esp�re; c'est
+un homme vieux, rid�, fan�, fl�tri; et non pas une jeune fille, comme tu
+le dis.
+
+CATHERINE, _� Vincentio_.--Pardon, v�n�rable vieillard; c'est une
+m�prise de mes yeux, qui ont �t� si �blouis du soleil, que tout ce que
+je vois me para�t vert; je reconnais bien � pr�sent que vous �tes un
+vieillard respectueux. Excusez, je vous prie, ma folle erreur.
+
+PETRUCHIO, _� Vincentio_.--Oui, excusez-la, v�n�rable vieillard, et
+daignez nous apprendre de quel c�t� vous voyagez: si vous suivez notre
+chemin, nous serons ravis d'avoir votre compagnie.
+
+VINCENTIO.--Beau cavalier,--et vous, ma joyeuse dame, qui m'avez
+�trangement surpris au premier abord, mon nom est Vincentio, ma demeure
+est � Pise, et je vais � Padoue pour y faire visite � un mien fils que
+je n'ai pas vu depuis longtemps.
+
+PETRUCHIO.--Quel est son nom?
+
+VINCENTIO.--Lucentio, noble cavalier.
+
+PETRUCHIO.--La rencontre est on ne peut pas plus heureuse, et plus
+heureuse encore pour votre fils; car, maintenant, la loi aussi bien que
+votre �ge v�n�rable, m'autorisent � vous appeler mon tendre p�re. La
+soeur de ma femme, de cette dame que vous voyez, votre fils vient de
+l'�pouser tout r�cemment.--N'en soyez ni surpris, ni afflig�. La
+personne jouit d'une excellente r�putation: sa dot est opulente et sa
+naissance tr�s-honn�te. De plus, elle a toutes les qualit�s qui
+conviennent � l'�pouse de tout noble gentilhomme. Que j'embrasse le
+v�n�rable et bon Vincentio! et voyageons ensemble pour aller voir votre
+estimable fils; votre arriv�e va le combler de joie.
+
+VINCENTIO.--Mais, me dites-vous la v�rit�? Ou, comme les voyageurs
+d'humeur joviale, vous �tudiez-vous � d�biter des plaisanteries � ceux
+que vous rencontrez sur votre route?
+
+HORTENSIO.--Je vous assure, mon p�re, que c'est la v�rit�.
+
+PETRUCHIO.--Avan�ons, et allons en �tre les t�moins oculaires, car je
+vois que la plaisanterie de notre d�but avec vous vous laisse des
+soup�ons.
+
+HORTENSIO.--Fort bien, Petruchio: cela m'encourage. Je vais joindre ma
+veuve, et si elle est d'humeur chagrine et acari�tre, tu m'auras appris
+� �tre plus m�chant qu'elle.
+
+(Il sort.)
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+                            ACTE CINQUI�ME
+
+
+SC�NE I
+
+Padoue.--La sc�ne est devant la maison de Lucentio.
+
+_Entrent d'un c�t�_ BIONDELLO, LUCENTIO et BIANCA, _et de l'autre c�t�
+se prom�ne_ GREMIO.
+
+
+BIONDELLO.--Doucement, et vite aussi, monsieur, car le pr�tre attend.
+
+LUCENTIO.--J'y vole, Biondello; mais on pourrait avoir besoin de toi au
+logis; ainsi, laisse-nous.
+
+BIONDELLO.--Non, vraiment, je veux voir le toit de l'�glise sur votre
+t�te, et alors revenir trouver mon ma�tre aussi vite qu'il me sera
+possible.
+
+(Ils sortent.)
+
+GREMIO.--Je m'�tonne bien que Cambio ne vienne pas pendant tout ce
+temps.
+
+(Entrent Petruchio, Catherine, Vincentio et suite.)
+
+PETRUCHIO.--Monsieur, voici la porte: c'est ici la maison de Lucentio.
+Mon p�re demeure plus avant, vers la place du march�: il faut que je m'y
+rende, et je vous quitte ici, monsieur.
+
+VINCENTIO.--Vous ne pouvez pas faire autrement que de boire un coup ici
+avant de nous quitter; j'esp�re que vous serez bien re�u sous mes
+auspices, et suivant toute apparence il y a festin ici.
+
+(Il frappe � la porte.)
+
+GREMIO.--On est fort occup� en dedans: vous feriez bien de frapper plus
+fort.
+
+LE P�DANT, _mettant la t�te � la fen�tre_.--Qui frappe comme s'il
+voulait abattre la porte?
+
+VINCENTIO.--Monsieur, le signor Lucentio est-il l�?
+
+LE P�DANT.--Oui, il y est, mais on ne peut pas lui parler.
+
+VINCENTIO.--Comment, si un homme lui apportait deux ou trois cents
+guin�es pour ses menus plaisirs?...
+
+LE P�DANT.--Gardez vos guin�es pour vous; il n'en aura jamais besoin
+tant que je vivrai.
+
+PETRUCHIO.--Oui, je vous ai bien dit que votre fils �tait ch�ri �
+Padoue.--(_Au p�dant._) Entendez-vous, monsieur? Pour abr�ger les
+discours, je vous prie de dire au signor Lucentio que son p�re arrive de
+Pise, et qu'il attend ici � la porte pour lui parler.
+
+LE P�DANT.--Vous mentez: son p�re est arriv� de Pise, et c'est lui qui
+vous parle � cette fen�tre.
+
+VINCENTIO.--Est-ce vous qui �tes son p�re?
+
+LE P�DANT.--Oui, l'ami, du moins sa m�re l'assure, si je peux m'en
+rapporter � elle.
+
+PETRUCHIO, _� Vincentio_.--H�! mon beau monsieur, c'est une basse
+coquinerie d'usurper ainsi le nom d'un autre.
+
+LE P�DANT.--Saisissez-vous de ce coquin. Je le soup�onne de vouloir
+duper ici quelque honn�te citoyen de cette ville en empruntant mon nom.
+
+(Biondello revient.)
+
+BIONDELLO.--Je les ai vus tous les deux � l'�glise: Dieu veuille les
+conduire � bon port!--(_Apercevant Vincentio._) Mais que vois-je ici?
+mon vieux ma�tre Vincentio!--Oh! nous voil� perdus, an�antis!
+
+VINCENTIO, _reconnaissant Biondello_.--Viens ici, gibier de potence.
+
+BIONDELLO.--Ce sera si cela me pla�t, je crois, monsieur.
+
+VINCENTIO.--Approche ici, pendard. Quoi! m'as-tu oubli�?
+
+BIONDELLO.--Oubli�? non monsieur. Je ne pouvais gu�re vous oublier, je
+ne vous ai jamais vu de ma vie.
+
+VINCENTIO.--Comment, insigne sc�l�rat, tu n'as jamais vu Vincentio, le
+p�re de ton ma�tre?
+
+BIONDELLO.--Qui, mon vieux et respectable ma�tre? Si vraiment, monsieur;
+tenez, le voil� � la fen�tre.
+
+VINCENTIO, _en le battant_.--Quoi! dis-tu vrai?
+
+BIONDELLO.--Au secours, au secours: voici un furieux qui veut
+m'assassiner.
+
+(Il s'enfuit.)
+
+LE P�DANT.--Au secours, mon fils! au secours, seigneur Baptista!
+
+PETRUCHIO.--Je t'en prie, Catherine, retirons-nous � l'�cart, et voyons
+la fin de cette dispute.
+
+(Ils se retirent � l'�cart.)
+
+(Entre le p�dant, suivi de laquais; Baptista et Tranio paraissent en bas
+� la porte.)
+
+TRANIO.--Qui �tes-vous donc, monsieur, vous qui menacez de battre mes
+gens?
+
+VINCENTIO.--Qui je suis? Mais qui �tes-vous vous-m�me, monsieur?--O
+dieux immortels! � sc�l�rat en parure! un habit de soie! des bas de
+velours! un manteau d'�carlate! et un chapeau � couronne[43].--Oh! je
+suis ruin�, je suis perdu! Tandis que je m�nage en bon p�re de famille �
+la maison, mon fils et mon valet d�pensent tout � l'universit�!
+
+[Note 43: Chapeau des �l�gants du temps.]
+
+TRANIO.--Eh bien! de quoi s'agit-il?
+
+BAPTISTA.--Est-ce que cet homme est fou?
+
+TRANIO.--Monsieur, vous me paraissez, � votre ext�rieur, un homme
+v�n�rable et de bon sens; mais � vos discours, vous �tes un insens�.--Eh
+bien! monsieur, que vous importe si je porte des perles et de l'or? J'en
+ai l'obligation � mon bon p�re, si je suis dans le cas de faire cette
+figure.
+
+VINCENTIO.--Ton p�re? Ah! sc�l�rat, ton p�re est un tisserand en voiles
+� Bergame.
+
+BAPTISTA.--Vous vous trompez, monsieur; vous vous trompez. Je vous prie,
+quel nom croyez-vous qu'il porte?
+
+VINCENTIO.--Son nom? Comme si je ne connaissais pas bien son nom, moi
+qui l'ai �lev� depuis l'�ge de trois ans! Eh! son nom est Tranio.
+
+LE P�DANT.--Loin d'ici, loin d'ici, imb�cile: son nom est Lucentio, et
+il est mon fils unique et l'h�ritier de mes terres, de moi, qui suis le
+signor Vincentio.
+
+VINCENTIO.--Lucentio! oh! il aura assassin� son ma�tre. Mettez la main
+sur lui, je vous l'enjoins, au nom du duc.--Oh! mon fils! mon
+fils!--Dis-moi, sc�l�rat, o� est mon fils Lucentio?
+
+TRANIO.--Appelez un officier de justice: emmenez ce furieux, ce coquin
+en prison. Mon p�re Baptista, je vous le recommande, voyez � ce qu'il y
+soit conduit.
+
+VINCENTIO.--Me conduire en prison, moi!
+
+GREMIO.--Arr�tez, officier; il n'ira pas en prison.
+
+BAPTISTA.--Ne parlez pas, signor Gremio; je dis, moi, qu'il ira en
+prison.
+
+GREMIO.--Prenez garde, signor Baptista, que vous ne soyez dupe dans
+cette affaire: j'ose faire serment que celui-ci est le v�ritable
+Vincentio.
+
+LE P�DANT.--Jurez-le, si vous l'osez.
+
+GREMIO.--Je n'ose pas le jurer.
+
+TRANIO.--Alors, vous feriez mieux de dire que je ne suis pas Lucentio.
+
+GREMIO.--Pour vous, je vous connais pour �tre le seigneur Lucentio.
+
+BAPTISTA.--Emmenez cet insens�; entra�nez-le en prison.
+
+VINCENTIO.--Comment! les �trangers seront ainsi insult�s et maltrait�s!
+Oh! l'insigne sc�l�rat!
+
+(Biondello revient avec Lucentio et Bianca.)
+
+BIONDELLO.--Oh! c'est fait de nous, et le voil� l�-bas.--Reniez-le,
+d�savouez-le, ou nous sommes tous perdus.
+
+(Biondello, Tranio et le p�dant s'enfuient.)
+
+LUCENTIO, _se jetant aux genoux de son p�re_.--Pardon, mon tendre p�re.
+
+VINCENTIO.--Mon cher fils est-il vivant?
+
+BIANCA.--Pardon, mon p�re.
+
+BAPTISTA, _� sa fille_.--Et en quoi l'as-tu offens�?--O� est Lucentio?
+
+LUCENTIO.--Voici Lucentio, le vrai fils du vrai Vincentio, qui me suis
+donn�, par un mariage l�gitime, votre fille pour �pouse, tandis que des
+personnages suppos�s trompaient vos yeux.
+
+GREMIO.--Il y a ici un complot arrang� pour nous tromper tous.
+
+VINCENTIO.--O� est ce damn� coquin de Tranio, qui m'a brav� en face avec
+tant d'insolence?
+
+BAPTISTA.--Mais, dites-moi, n'est-ce pas l� mon Cambio?
+
+BIANCA.--Cambio s'est m�tamorphos� en Lucentio.
+
+LUCENTIO.--C'est l'amour qui a fait ces miracles. Mon amour pour Bianca
+m'a fait changer d'�tat avec Tranio, tandis que lui jouait mon r�le dans
+la ville; et, � la fin, je suis arriv� heureusement au port d�sir� o�
+�tait mon bonheur. Ce que Tranio a fait, c'est moi qui l'y ai forc�:
+daignez donc lui pardonner, mon tendre p�re, pour l'amour de moi.
+
+VINCENTIO.--J'�craserai le nez du coquin qui voulait me faire conduire
+en prison.
+
+BAPTISTA.--Mais, m'entendez-vous, monsieur? Est-ce que vous avez �pous�
+ma fille sans me demander mon consentement?
+
+VINCENTIO.--N'ayez pas d'inqui�tude, Baptista, nous vous satisferons,
+comptez-y; mais je veux rentrer pour me venger de cette friponnerie.
+
+(Il sort.)
+
+BAPTISTA.--Et moi aussi, pour approfondir cette sc�l�ratesse.
+
+(Il sort.)
+
+LUCENTIO.--Ne soyez pas si p�le, Bianca: votre p�re ne sera pas f�ch�.
+
+(Ils sortent.)
+
+GREMIO.--Mon affaire est faite; mais je vais rentrer avec les autres,
+sans avoir � pr�sent d'autre esp�rance que de prendre ma part du festin.
+
+(Il sort.)
+
+(Petruchio et Catherine s'avancent.)
+
+CATHERINE.--Cher �poux, suivons-les, pour voir le d�no�ment de toute
+cette intrigue.
+
+PETRUCHIO.--Commence par me donner un baiser, Catherine, et apr�s nous
+irons.
+
+CATHERINE.--Quoi! dans le milieu de la rue!
+
+PETRUCHIO.--Comment, est-ce que tu rougis de moi?
+
+CATHERINE.--Non, monsieur, Dieu m'en pr�serve! Mais je suis honteuse de
+donner un baiser ici.
+
+PETRUCHIO.--En ce cas, reprenons le chemin de notre maison.--(_Au
+valet._) Allons, dr�le, partons.
+
+CATHERINE.--Non, oh! non, je vais vous donner un baiser: je vous en
+prie, mon amour, arr�tez.
+
+(Elle l'embrasse.)
+
+PETRUCHIO.--Cela n'est-il pas bien doux?--Allons, ma ch�re Catherine, il
+vaut mieux tard que jamais.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+Appartement de la maison de Lucentio.--Un banquet est servi.
+
+BAPTISTA, VINCENTIO, GREMIO, LE P�DANT, LUCENTIO, BIANCA, BIONDELLO,
+PETRUCHIO, CATHERINE, HORTENSIO et sa VEUVE, TRANIO, BIONDELLO, GRUMIO
+_et autres domestiques qui servent_.
+
+
+LUCENTIO.--A la fin, apr�s tant de dissonances, nous voil� tous
+d'accord; et il est temps, apr�s que les fureurs de la guerre sont
+assoupies, de sourire aux p�rils et aux dangers auxquels nous avons
+�chapp�. Ma belle Bianca, faites bon accueil � mon p�re, tandis que je
+vais exprimer la m�me tendresse au v�tre.--Mon fr�re Petruchio,--ma
+soeur Catherine, et vous, Hortensio, avec votre aimable veuve,
+r�jouissez-vous de votre mieux, et soyez les bienvenus dans ma maison.
+Ce banquet doit restaurer nos estomacs, apr�s que nous aurons fait bonne
+ch�re.--Je vous prie, mettez-vous � table, car maintenant nous pouvons
+nous asseoir, et jaser autant que manger.
+
+PETRUCHIO.--A table! � table! manger et manger voil� tout.
+
+BAPTISTA.--C'est Padoue qui nous procure cette joie, mon fils Petruchio.
+
+PETRUCHIO.--Padoue ne procure que du bien.
+
+HORTENSIO.--Par amour pour nous deux, je voudrais que ce que vous dites
+f�t enti�rement vrai.
+
+PETRUCHIO.--Je crois, sur ma vie, qu'Hortensio a des inqui�tudes sur sa
+veuve.
+
+LA VEUVE.--Ne vous fiez donc jamais � moi, si j'inspire la crainte.
+
+PETRUCHIO.--Vous �tes fort sens�e, et cependant vous vous m�prenez sur
+le sens de mon id�e. Je dis qu'Hortensio vous craint.
+
+LA VEUVE.--L'homme qui a des vertiges s'imagine que le monde tourne
+autour de lui.
+
+PETRUCHIO.--Fort bien r�pliqu�.
+
+CATHERINE.--Madame, comment l'entendez-vous?
+
+LA VEUVE.--Voil� ce qu'il me fait concevoir.
+
+PETRUCHIO.--Moi, vous faire concevoir!--Comment Hortensio go�te-t-il
+cela?
+
+HORTENSIO.--Ma ch�re veuve veut dire que voil� comme elle con�oit son
+discours.
+
+PETRUCHIO.--Bien r�par�; donnez-lui un baiser pour cela, bonne veuve.
+
+CATHERINE.--Celui qui a des vertiges pense que tout le monde tourne: je
+vous prie de me dire ce que vous entendez par l�.
+
+LA VEUVE.--Votre mari, qui a la t�te troubl�e par une m�chante femme,
+mesure les chagrins du mien sur les siens; maintenant, vous concevez ma
+pens�e.
+
+CATHERINE.--Une assez basse pens�e.
+
+LA VEUVE.--Je vous comprends bien.
+
+CATHERINE.--Je suis en effet peu de chose, compar�e � vous.
+
+PETRUCHIO.--Bon! pousse � la veuve, Catherine.
+
+HORTENSIO.--Pousse � Catherine, ch�re veuve.
+
+PETRUCHIO.--Gageons cent marcs que ma Catherine l'att�re.
+
+HORTENSIO.--Cela, c'est mon affaire.
+
+PETRUCHIO.--C'est r�pondre en brave militaire.--Allons, � ta sant�, mon
+brave. (Il boit � Hortensio.)
+
+BAPTISTA.--Comment Gremio trouve-t-il l'assaut d'esprit de nos galants?
+
+GREMIO.--Croyez-moi, monsieur, ils se heurtent fort bien de front.
+
+BIANCA.--De front, monsieur? Un homme dont l'esprit serait ing�nieux et
+leste dirait que votre faon heurte avec des cornes.
+
+VINCENTIO.--Oui-d�, madame l'�pous�e, cela vous a-t-il r�veill�e?
+
+BIANCA.--Oui, mais cela ne m'a pas effray�e; ainsi, je me rendormirai �
+mon plaisir.
+
+PETRUCHIO.--Oh! cela, non: vous ne dormirez point; puisque vous avez
+commenc� l'attaque, � vous un ou deux traits.
+
+BIANCA.--Suis-je votre oiseau? Je veux changer de buisson, et puis
+ensuite poursuivez-moi, l'arc band�.--Je vous donne � tous le bonsoir.
+
+(Bianca, Catherine et la veuve sortent.)
+
+PETRUCHIO.--Elle m'a pr�venu.--Approche, seigneur Tranio, c'est l'oiseau
+auquel tu visais, quoique tu l'aies manqu�; et pour cela, � la sant� de
+tous ceux qui visent et manquent le but.
+
+TRANIO.--Oh! monsieur, Lucentio m'a l�ch� comme un l�vrier qui court le
+gibier, et qui le prend pour son ma�tre.
+
+PETRUCHIO.--Voil� une assez bonne comparaison, mais une comparaison de
+chien.
+
+TRANIO.--Vous avez bien fait, monsieur, de chasser pour vous-m�me: on
+croit que votre biche vous tient en haleine.
+
+BAPTISTA.--Oh! oh! Petruchio; Tranio vous porte une botte.
+
+LUCENTIO.--Grand merci du sarcasme, bon Tranio.
+
+HORTENSIO.--Avouez, avouez: la botte n'a-t-elle pas port�?
+
+PETRUCHIO.--Je confesse qu'il m'a un peu entam�; mais comme le trait
+s'est �cart� de moi, je gage dix contre un qu'il vous a perc� tous deux
+d'outre en outre.
+
+BAPTISTA.--A cette heure, pour parler s�rieusement, mon gendre
+Petruchio, je crois que c'est vous qui avez la plus m�chante femme de
+toutes.
+
+PETRUCHIO.--Eh bien, moi, je dis que non; et pour preuve, que chacun de
+nous envoie qu�rir sa femme, et celui qui aura la femme la plus
+ob�issante, celle qui se rendra la premi�re � ses ordres, lorsqu'il la
+demandera, gagnera le prix que nous aurons r�gl�.
+
+HORTENSIO.--D'accord.--Quelle est la gageure?
+
+LUCENTIO.--Vingt ducats.
+
+PETRUCHIO.--Vingt ducats! Je risquerais cela sur mon faucon ou sur mon
+chien: j'en risquerais dix fois autant sur ma femme.
+
+LUCENTIO.--Eh bien! cent.
+
+HORTENSIO.--Accept�.
+
+PETRUCHIO.--Allons, march� fait.
+
+HORTENSIO.--Qui commencera?
+
+LUCENTIO.--Ce sera moi. Va, Biondello, dis � ta ma�tresse de venir me
+trouver.
+
+BIONDELLO.--J'y vais.
+
+(Il sort.)
+
+BAPTISTA.--Mon fils, je suis de moiti� avec vous: que Bianca vienne
+aussit�t.
+
+LUCENTIO.--Je ne veux point de moiti�; je veux tout pour moi seul.--(_A
+Biondello qui revient._) Eh bien! que t'a-t-on dit?
+
+BIONDELLO.--Monsieur, ma ma�tresse m'envoie vous dire qu'elle est
+occup�e en ce moment, et qu'elle ne peut venir!
+
+PETRUCHIO.--Comment? elle est occup�e et elle ne peut venir! Est-ce l�
+une r�ponse?
+
+GREMIO.--Oui, et une r�ponse honn�te. Priez le ciel, monsieur, que votre
+femme ne vous en envoie pas une plus dure.
+
+PETRUCHIO.--Je l'esp�re meilleure.
+
+HORTENSIO.--H�, Biondello, va et prie ma femme de venir me trouver
+sur-le-champ.
+
+(Biondello sort.)
+
+PETRUCHIO.--Oh! oh! la prier!--Allons, elle ne peut pas se dispenser de
+venir.
+
+HORTENSIO.--Je crains fort, monsieur, que, quoi que vous fassiez, la
+v�tre ne veuille pas se laisser prier.--(_Biondello rentre._) Eh bien!
+o� est ma femme?
+
+BIONDELLO.--Elle dit que vous avez apparemment quelque badinage en jeu;
+elle ne veut pas venir; elle dit que vous alliez la trouver.
+
+PETRUCHIO.--Oh! de pis en pis; elle ne veut pas venir. Oh! cela est
+indigne, insupportable; cela ne peut pas se passer ainsi.--(_A Grumio._)
+Toi, maraud, va dire � ta ma�tresse que je lui commande de venir.
+
+(Grumio sort.)
+
+HORTENSIO.--Je sais d�j� sa r�ponse.
+
+PETRUCHIO.--Quelle sera-t-elle?
+
+HORTENSIO.--Qu'elle ne le veut pas.
+
+PETRUCHIO.--Je n'en serai que plus � plaindre, et voil� tout.
+
+(Personnages du prologue.)
+
+LE LORD.--�Y a-t-il quelqu'un de mes gens ici? (_Les laquais entrent._)
+Encore endormi?--Allons, prenez-le doucement, et remettez-lui les habits
+qu'il avait; mais prenez bien garde, sur toute chose, qu'il ne
+s'�veille.
+
+UN DES LAQUAIS.--�Nous y prendrons garde, milord.--(_A ses camarades._)
+Allons, venez m'aider � l'emporter!�
+
+(Catherine para�t.)
+
+BAPTISTA.--Par la Notre-Dame, voil� Catherine qui vient!
+
+CATHERINE.--Que voulez-vous, monsieur, que vous m'envoyez chercher?
+
+PETRUCHIO.--O� sont votre soeur et la femme d'Hortensio? Retournez, et
+les amenez ici; si elles refusent de venir, houspillez-les-moi
+vigoureusement jusqu'� ce qu'elles viennent trouver leurs maris. Allez,
+vous dis-je, et amenez-les ici sur-le-champ.
+
+(Catherine sort.)
+
+LUCENTIO.--Voil� un prodige, si jamais il y en eut.
+
+HORTENSIO.--Oui, vraiment; et je suis dans l'�tonnement de ce qu'il peut
+pr�sager.
+
+PETRUCHIO.--Comment? il pr�sage la paix, la tendresse et une vie
+tranquille, et la l�gitime autorit� du mari, et la bonne r�gle, et, pour
+tout dire en un mot, tout ce qu'il y a de doux et d'heureux.
+
+BAPTISTA.--Allons, prosp�rez, Petruchio: vous avez gagn� la gageure; et
+j'ajouterai � leurs pertes vingt mille �cus; c'est une autre dot que je
+donne � une tout autre fille, car elle est chang�e comme elle ne l'a
+jamais �t�.
+
+PETRUCHIO.--Allons, je n'en gagnerai que mieux encore la gageure, et je
+vous donnerai de plus grandes preuves de son ob�issance et de son m�rite
+tout nouvellement �difi�. (_Catherine revient avec Bianca et la veuve._)
+Voyez, la voil� qui revient, et qui vous am�ne vos rebelles �pouses,
+prisonni�res de son �loquence f�minine.--Catherine, le chapeau que vous
+avez l� ne vous sied pas: �tez-moi ce colifichet, mettez-le sous vos
+pieds.
+
+(Catherine �te son chapeau et le jette � terre.)
+
+LA VEUVE, _� Hortensio_.--Monsieur, puiss�-je n'avoir jamais sujet de
+pleurer, jusqu'� ce que l'on m'ait amen�e � une si sotte complaisance!
+
+BIANCA.--Fi donc! quel respect imb�cile est-ce l�?
+
+LUCENTIO.--Je voudrais que le v�tre pour moi f�t aussi fou. La r�serve
+de votre ob�issance, belle Bianca, m'a co�t� cent ducats depuis le
+souper.
+
+BIANCA.--Vous n'en �tes qu'un plus grand fou de risquer une gageure sur
+mon ob�issance.
+
+PETRUCHIO.--Catherine, je te charge d'expliquer � ces femmes rebelles
+quel respect elles doivent � leurs �poux, leurs seigneurs et ma�tres.
+
+LA VEUVE.--Allons, allons, vous vous moquez de nous: nous n'avons pas
+besoin de le�on.
+
+PETRUCHIO, _� Catherine_.--Allons, fais ce que je te dis, et commence
+par elle.
+
+LA VEUVE.--Elle ne fera pas cela.
+
+PETRUCHIO.--Je vous dis, moi, qu'elle le fera;--et commence par
+elle-m�me.
+
+CATHERINE.--Fi! fi! allons, apaisez ce front dur et mena�ant, et ne
+lancez pas de vos yeux ces regards m�prisants pour blesser votre
+seigneur, votre roi, votre gouverneur; cela ternit votre beaut�, comme
+la gel�e fl�trit les prairies; cela d�truit votre r�putation, comme
+l'ouragan disperse les tendres bourgeons; et cet air renfrogn� n'est en
+aucune fa�on aimable, ni convenable. Une femme en courroux est comme une
+fontaine troubl�e, fangeuse, sans transparence, sans puret�, et perd
+toute sa beaut�; et tant qu'elle est dans cet �tat, personne, dans
+l'exc�s m�me de la soif, ne daignera boire de son onde, ni seulement en
+approcher ses l�vres. Votre mari est votre souverain, votre vie, votre
+gardien, votre chef, votre roi; celui qui s'occupe du soin de votre
+bien-�tre et de votre subsistance, qui livre son corps � de p�nibles
+travaux, sur mer et sur terre, qui veille la nuit, seul, pendant les
+temp�tes, le jour par le grand froid, tandis que vous reposez
+chaudement, en paix et tranquille, dans votre demeure; et, pour tous ces
+sacrifices, il n'exige d'autre tribut que l'amour, de doux regards et
+une sinc�re ob�issance: faible salaire pour une dette si immense! Le
+respect et la soumission qu'un sujet doit � son prince, la femme les
+doit � son mari; et quand elle est brusque, chagrine, morose et
+acari�tre, et qu'elle n'ob�it pas � ses ordres honn�tes, qu'est-elle
+sinon une rebelle coupable et tra�tresse, indigne de pardon, envers son
+tendre �poux? Je rougis de voir des femmes assez simples pour offrir la
+guerre, lorsqu'elles devraient demander la paix � genoux, ou vouloir
+s'arroger le sceptre, le commandement et l'empire, lorsqu'elles ont fait
+voeu de servir, d'aimer et d'ob�ir. Pourquoi la nature nous a-t-elle
+faites d'une constitution faible, d�licate et sensible, incapable de
+soutenir les fatigues et les agitations du monde, si ce n'est afin que
+nos qualit�s paisibles et nos coeurs fussent en harmonie avec notre
+nature ext�rieure? Allons, allons, vous, vermisseaux r�volt�s et
+impuissants, mon caract�re �tait n� aussi imp�rieux que le v�tre; mon
+coeur �tait aussi fier, et peut-�tre avais-je plus de raisons pour
+rendre parole pour parole et menace pour menace; mais aujourd'hui, je
+vois que nos lances ne sont que des f�tus de paille, que notre force
+n'est que faiblesse, et faiblesse extr�me; et que lorsque nous
+paraissons �tre le plus, nous sommes en effet le moins. Allons,
+rabaissez votre orgueil, car il ne vous sert � rien, et placez vos mains
+sous les pieds de vos maris, en preuve de l'ob�issance qui leur est due;
+si le mien l'ordonne, ma main est pr�te, pour peu que cela lui fasse
+plaisir.
+
+PETRUCHIO.--Eh bien! voil� ce qui s'appelle une femme! Viens, Catherine,
+viens m'embrasser.
+
+LUCENTIO.--Allons, poursuis ton chemin, vieux renard, tu r�ussiras.
+
+VINCENTIO.--C'est une chose agr�able � voir que des enfants qui sont
+dociles!
+
+LUCENTIO.--Mais c'est une chose bien d�sagr�able, que des femmes qui
+sont mutines.
+
+PETRUCHIO.--Viens, Catherine, nous allons nous mettre au lit.--Nous
+voil� trois mari�s; mais vous voil� deux qui avez pris les devants:
+c'est moi qui ai gagn� la gageure, (_� Lucentio_) quoique vous ayez
+touch� le blanc[44]. Et, en ma qualit� de vainqueur, je prie Dieu qu'il
+vous donne une bonne nuit!
+
+[Note 44: Allusion au nom de Bianca, _Blanche_.]
+
+(Petruchio sort avec Catherine.)
+
+HORTENSIO.--Va, tu peux te vanter d'avoir mis une m�chante femelle � la
+raison.
+
+LUCENTIO.--Il est bien �tonnant, avec votre permission, qu'elle se soit
+ainsi apprivois�e.
+
+(Sly, rev�tu de ses premiers habits, et laiss� endormi dans un coin du
+th��tre par des laquais du lord qui s'�taient amus�s de son ivresse, se
+r�veille � la fin de pi�ce.)
+
+UN GAR�ON DE CABARET.--�A pr�sent que cette nuit noire est pass�e, et
+que le jour commence � poindre dans un ciel de cristal, il faut que je
+me h�te de sortir. Mais, doucement: qui est l�? quoi! c'est Sly? �
+miracle! est-il rest� l� couch� toute la nuit? Je veux le r�veiller; je
+croirais qu'il serait mort de faim, s'il n'avait le ventre bien farci de
+bi�re. Allons, Sly, n'as-tu pas de honte? R�veille-toi.
+
+SLY, _croyant toujours parler � son laquais_.--�Simon, donne-moi encore
+un coup de vin.--Comment, tous les com�diens sont partis?--Ne suis-je
+donc pas un lord[45]?
+
+[Note 45: Addition moderne dans la ballade: _The frolicksome duke or
+the tinker's good fortune_. Le chaudronnier re�oit du duc fac�tieux un
+habit neuf, cinq cents livres, dix journaux de terre, et sa femme
+devient femme de chambre de la duchesse.]
+
+LE GAR�ON DE TAVERNE.--�Un lord? Que la peste t'�trangle!--Allons, es-tu
+toujours ivre?
+
+SLY.--�Qui est l�? le gar�on de cabaret?--Oh! j'ai fait le plus beau
+r�ve dont tu aies jamais ou� parler de ta vie.
+
+LE GAR�ON.--�Oui, fort bien: mais tu aurais bien mieux fait de rentrer
+chez toi, car ta femme t'arrangera joliment pour avoir pass� la nuit ici
+� r�ver.
+
+SLY.--�Elle? oh! je sais � pr�sent la mani�re de mettre une m�chante
+femme � la raison. J'ai r�v� de cela toute la nuit, et tu m'as r�veill�
+du meilleur r�ve que j'aie jamais eu. Mais, je vais aller trouver ma
+femme et la r�duire aussi, si elle fait trop la mauvaise contre moi.�
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La m�chante femme mise � la raison, by 
+William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA M�CHANTE FEMME MISE � LA RAISON ***
+
+***** This file should be named 19219-8.txt or 19219-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/2/1/19219/
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

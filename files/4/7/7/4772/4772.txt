@@ -1,3 +1,794 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c77a54c1df0e41fa9267cfcd61722c8db8cc440fdb8b4e94514c9782489f44f
-size 36254
+The Project Gutenberg EBook of Jeannot et Colin, by Voltaire
+(#11 in our series by Voltaire)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Jeannot et Colin
+
+Author: Voltaire
+
+Release Date: December, 2003  [EBook #4772]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 16, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK, JEANNOT ET COLIN ***
+
+
+
+
+This eBook was produced by Carlo Traverso.
+
+
+
+We thank the Bibliotheque Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la Biblioth�que Nationale de France qui a mis �
+dispositions les images dans www://gallica.bnf.fr, et a donn�
+l'authorization � les utilizer pour preparer ce texte.
+
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE.
+
+			   TOME XXXIII
+
+	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
+
+			RUE JACOB, N� 24.
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE
+
+	      PR�FACES, AVERTISSEMENTS, NOTES, ETC.
+
+			PAR  M. BEUCHOT.
+
+			  TOME XXXIII.
+
+			ROMANS.  TOME I.
+
+			    A PARIS,
+
+		     CHEZ LEF�VRE, LIBRAIRE,
+
+	 RUE DE L'�PERON, K� 6.  WERDET ET LEQUIEN FILS,
+
+		     RUE DU BATTOIR, N� 2O.
+
+			   MDCCCXXIX.
+
+
+
+
+			JEANNOT ET COLIN.
+
+
+
+Pr�face de l'�diteur
+
+
+
+
+Les deux contes, _Le blanc et le noir_, _Jeannot et Colin_, font
+partie du volume qui parut, en 1764, sous le titre de Contes de
+Guillaume Fade.
+
+				------
+
+Les notes sans signature, et qui sont indiqu�es par des lettres,
+sont de Voltaire.
+
+Les notes sign�es d'un K sont des �diteurs de Kehl, MM. Condorcet
+et Decroix.  Il est impossible de faire rigoureusement la part de
+chacun.
+
+Les additions que j'ai faites aux notes de Voltaire ou aux notes
+des �diteurs de Kehl, en sont s�par�es par un--, et sont, comme
+mes notes, sign�es de l'initiale de mon nom.
+
+                                                 BEUCHOT.
+
+4 octobre 1829.
+
+
+
+
+
+			JEANNOT ET COLIN.
+
+
+
+
+Plusieurs personnes dignes de foi ont vu Jeannot et Colin �
+l'�cole dans la ville d'Issoire, en Auvergne, ville fameuse dans
+tout l'univers par son coll�ge et par ses chaudrons.  Jeannot
+�tait fils d'un marchand de mulets tr�s renomm�; Colin devait le
+jour � un brave laboureur des environs, qui cultivait la terre
+avec quatre mulets, et qui, apr�s avoir pay� la taille, le
+taillon, les aides et gabelles, le sou pour livre, la capitation,
+et les vingti�mes, ne se trouvait pas puissamment riche au bout
+de l'ann�e.
+
+Jeannot et Colin �taient fort jolis pour des Auvergnats; ils
+s'aimaient beaucoup; et ils avaient ensemble de petites
+privaut�s, de petites familiarit�s, dont on se ressouvient
+toujours avec agr�ment quand on se rencontre ensuite dans le
+monde.
+
+Le temps de leurs �tudes �tait sur le point de finir, quand un
+tailleur apporta � Jeannot un habit de velours � trois couleurs,
+avec une veste de Lyon de fort bon go�t; le tout �tait accompagn�
+d'une lettre � M. de La Jeannoti�re.  Colin admira l'habit, et ne
+fut point jaloux; mais Jeannot prit un air de sup�riorit� qui
+affligea Colin.  D�s ce moment Jeannot n'�tudia plus, se regarda
+au miroir, et m�prisa tout le monde.  Quelque temps apr�s un
+valet de chambre arrive en poste, et apporte une seconde lettre �
+monsieur le marquis de La Jeannoti�re; c'�tait un ordre de
+monsieur son p�re de faire venir monsieur son fils � Paris.
+Jeannot monta en chaise en tendant la main � Colin avec un
+sourire de protection assez noble.  Colin sentit son n�ant, et
+pleura.  Jeannot partit dans toute la pompe de sa gloire.
+
+Les lecteurs qui aiment � s'instruire doivent savoir que
+M. Jeannot, le p�re, avait acquis assez rapidement des biens
+immenses dans les affaires.  Vous demandez comment on fait ces
+grandes fortunes?  C'est parcequ'on est heureux.  M. Jeannot
+�tait bien fait, sa femme aussi, et elle avait encore de la
+fra�cheur.  Ils all�rent � Paris pour un proc�s qui les ruinait,
+lorsque la fortune, qui �l�ve et qui abaisse les hommes � son
+gr�, les pr�senta � la femme d'un entrepreneur des h�pitaux des
+arm�es, homme d'un grand talent, et qui pouvait se vanter d'avoir
+tu� plus de soldats en un an que le canon n'en fait p�rir en dix.
+Jeannot plut � madame; la femme de Jeannot plut � monsieur.
+Jeannot fut bient�t de part dans l'entreprise; il entra dans
+d'autres affaires.  D�s qu'on est dans le fil de l'eau, il n'y a
+qu'� se laisser aller; on fait sans peine une fortune immense.
+Les gredins, qui du rivage vous regardent voguer � pleines
+voiles, ouvrent des yeux �tonn�s; ils ne savent comment vous avez
+pu parvenir; ils vous envient au hasard, et font contre vous des
+brochures que vous ne lisez point.  C'est ce qui arriva � Jeannot
+le p�re, qui fut bient�t M. de La Jeannoti�re, et qui, ayant
+achet� un marquisat au bout de six mois, retira de l'�cole
+monsieur le marquis son fils, pour le mettre � Paris dans le beau
+monde.
+
+Colin, toujours tendre, �crivit une lettre de compliments � son
+ancien camarade, et lui fit ces lignes pour le congratuler.  Le
+petit marquis ne lui fit point de r�ponse: Colin en fut malade de
+douleur.
+
+Le p�re et la m�re donn�rent d'abord un gouverneur au jeune
+marquis: ce gouverneur, qui �tait un homme du bel air, et qui ne
+savait rien, ne put rien enseigner � son pupille.  Monsieur
+voulait que son fils appr�t le latin, madame ne le voulait pas.
+Ils prirent pour arbitre un auteur qui �tait c�l�bre alors par
+des ouvrages agr�ables.  Il fut pri� � d�ner.  Le ma�tre de la
+maison commen�a par lui dire: Monsieur, comme vous savez le
+latin, et que vous �tes un homme de la cour....  Moi, monsieur,
+du latin!  je n'en sais pas un mot, r�pondit le bel esprit, et
+bien m'en a pris: il est clair qu'on parle beaucoup mieux sa
+langue quand on ne partage pas son application entre elle et les
+langues �trang�res.  Voyez toutes nos dames, elles ont l'esprit
+plus agr�able que les hommes; leurs lettres sont �crites avec
+cent fois plus de gr�ce; elles n'ont sur nous cette sup�riorit�
+que parcequ'elles ne savent pas le latin.
+
+Eh bien!  n'avais-je pas raison?  dit madame.  Je veux que mon
+fils soit un homme d'esprit, qu'il r�ussisse dans le monde; et
+vous voyez bien que, s'il savait le latin, il serait perdu.
+Joue-t-on, s'il vous pla�t, la com�die et l'op�ra en latin?
+plaide-t-on en latin quand on a un proc�s?  fait-on l'amour en
+latin?  Monsieur, �bloui de ces raisons, passa condamnation, et
+il fut conclu que le jeune marquis ne perdrait point son temps �
+conna�tre Cic�ron, Horace, et Virgile.  Mais qu'apprendra-t-il
+donc?  car encore faut-il qu'il sache quelque chose; ne
+pourrait-on pas lui montrer un peu de g�ographie?  A quoi, cela
+lui servira-t-il?  r�pondit le gouverneur.  Quand monsieur le
+marquis ira dans ses terres, les postillons ne sauront-ils pas
+les chemins?  ils ne l'�gareront certainement pas.  On n'a pas
+besoin d'un quart de cercle pour voyager, et on va tr�s
+commod�ment de Paris en Auvergne, sans qu'il soit besoin de
+savoir sous quelle latitude on se trouve.
+
+Vous avez raison, r�pliqua le p�re; mais j'ai entendu parler
+d'une belle science qu'on appelle, je crois, l'astronomie.
+Quelle piti�!  repartit le gouverneur; se conduit-on par les
+astres dans ce monde?  et faudra-t-il que monsieur le marquis se
+tue � calculer une �clipse, quand il la trouve � point nomm� dans
+l'almanach, qui lui enseigne de plus les f�tes mobiles, l'�ge de
+la lune, et celui de toutes les princesses de l'Europe?
+
+Madame fut enti�rement de l'avis du gouverneur.  Le petit marquis
+�tait au comble de la joie; le p�re �tait tr�s ind�cis.  Que
+faudra-t-il donc apprendre � mon fils?  disait-il.  A �tre
+aimable, r�pondit l'ami que l'on consultait; et s'il sait les
+moyens de plaire, il saura tout: c'est un art qu'il apprendra
+chez madame sa m�re, sans que ni l'un ni l'autre se donnent la
+moindre peine.
+
+Madame, � ce discours, embrassa le gracieux ignorant, et lui dit:
+On voit bien, monsieur, que vous �tes l'homme du monde le plus
+savant; mon fils vous devra toute son �ducation: je m'imagine
+pourtant qu'il ne serait pas mal qu'il s�t un peu d'histoire.
+H�las!  madame, � quoi cela est-il bon?  r�pondit-il; il n'y a
+certainement d'agr�able et d'utile que l'histoire du jour.
+Toutes les histoires anciennes, comme le disait un de nos beaux
+esprits[1], ne sont que des fables convenues; et pour les
+modernes, c'est un chaos qu'on ne peut d�brouiller.  Qu'importe �
+monsieur votre fils que Charlemagne ait institu� les douze pairs
+de France, et que son successeur ait �t� b�gue?
+
+  [1] Fontenelle.  B.
+
+
+Rien n'est mieux dit!  s'�cria le gouverneur: on �touffe l'esprit
+des enfants sous un amas de connaissances inutiles; mais de
+toutes les sciences la plus absurde, � mon avis, et celle qui est
+la plus capable d'�touffer toute esp�ce de g�nie, c'est la
+g�om�trie.  Cette science ridicule a pour objet des surfaces ,
+des lignes, et des points, qui n'existent pas dans la nature.  On
+fait passer en esprit cent mille lignes courbes entre un cercle
+et une ligne droite qui le touche, quoique dans la r�alit� on n'y
+puisse pas passer un f�tu.  La g�om�trie, en v�rit�, n'est qu'une
+mauvaise plaisanterie.
+
+Monsieur et madame n'entendaient pas trop ce que le gouverneur
+voulait dire; mais ils furent enti�rement de son avis.
+
+Un seigneur comme monsieur le marquis, continua-t-il , ne doit
+pas se dess�cher le cerveau dans ces vaines �tudes.  Si un jour
+il a besoin d'un g�om�tre sublime, pour lever le plan de ses
+terres, il les fera arpenter pour son argent.  S'il veut
+d�brouiller l'antiquit� de sa noblesse, qui remonte aux temps les
+plus recul�s, il enverra chercher un b�n�dictin.  Il en est de
+m�me de tous les arts.  Un jeune seigneur heureusement n� n'est
+ni peintre, ni musicien, ni architecte, ni sculpteur; mais il
+fait fleurir tous ces arts en les encourageant par sa
+magnificence.  Il vaut sans doute mieux les prot�ger que de les
+exercer; il suffit que monsieur le marquis ait du go�t; c'est aux
+artistes � travailler pour lui; et c'est en quoi on a tr�s grande
+raison de dire que les gens de qualit� (j'entends ceux qui sont
+tr�s riches) savent tout sans avoir rien appris, parcequ'en effet
+ils savent � la longue juger de toutes les choses qu'ils
+commandent et qu'ils paient.
+
+L'aimable ignorant prit alors la parole, et dit: Vous avez tr�s
+bien remarqu�, madame, que la grande fin de l'homme est de
+r�ussir dans la soci�t�.  De bonne foi, est-ce par les sciences
+qu'on obtient ce succ�s?  s'est-on jamais avis� dans la bonne
+compagnie de parler de g�om�trie?  demande-t-on jamais � un
+honn�te homme quel astre se l�ve aujourd'hui avec le soleil?
+s'informe-t-on � souper si Clodion-le-Chevelu passa le Rhin?
+Non, sans doute, s'�cria la marquise de La Jeannoti�re, que ses
+charmes avaient initi�e quelquefois dans le beau monde, et
+monsieur mon fils ne doit point �teindre son g�nie par l'�tude de
+tous ces fatras; mais enfin que lui apprendra-t-on?  car il est
+bon qu'un jeune seigneur puisse briller dans l'occasion, comme
+dit monsieur mon mari.  Je me souviens d'avoir ou� dire � un abb�
+que la plus agr�able des sciences �tait une chose dont j'ai
+oubli� le nom, mais qui commence par un _B_.--Par un _B_, madame?
+ne serait-ce point la botanique?--Non, ce n'�tait point de
+botanique qu'il me parlait; elle commen�ait, vous dis-je, par un
+_B_, et finissait par un _on_.--Ah!  j'entends, madame; c'est le
+blason: c'est, � la v�rit�, une science fort profonde; mais elle
+n'est plus � la mode depuis qu'on a perdu l'habitude de faire
+peindre ses armes aux porti�res de son carrosse; c'�tait la chose
+du monde la plus utile dans un �tat bien polic�.  D'ailleurs
+cette �tude serait infinie; il n'y a point aujourd'hui de barbier
+qui n'ait ses armoiries; et vous savez que tout ce qui devient
+commun est peu f�t�.  Enfin, apr�s avoir examin� le fort et le
+faible des sciences, il fut d�cid� que monsieur le marquis
+apprendrait � danser.
+
+La nature, qui fait tout, lui avait donn� un talent qui se
+d�veloppa bient�t avec un succ�s prodigieux; c'�tait de chanter
+agr�ablement des vaudevilles.  Les gr�ces de la jeunesse, jointes
+� ce don sup�rieur, le firent regarder comme le jeune homme de la
+plus grande esp�rance.  Il fut aim� des femmes; et ayant la t�te
+toute pleine de chansons, il en fit pour ses ma�tresses.  Il
+pillait _Bacchus_ et _l'Amour_ dans un vaudeville, la nuit et le
+jour dans un autre, les charmes et les alarmes dans un troisi�me;
+mais, comme il y avait toujours dans ses vers quelques pieds de
+plus ou de moins qu'il ne fallait, il les fesait corriger
+moyennant vingt louis d'or par chanson; et il fut mis dans
+l'_Ann�e_ litt�raire au rang des La Fare, des Chaulieu, des
+Hamilton, des Sarrasin, et des Voiture.
+
+Madame la marquise crut alors �tre la m�re d'un bel esprit, et
+donna � souper aux beaux esprits de Paris.  La t�te du jeune
+homme fut bient�t renvers�e; il acquit l'art de parler sans
+s'entendre, et se perfectionna dans l'habitude de n'�tre propre �
+rien.  Quand son p�re le vit si �loquent, il regretta vivement de
+ne lui avoir pas fait apprendre le latin, car il lui aurait
+achet� une grande charge dans la robe.  La m�re, qui avait des
+sentiments plus nobles, se chargea de solliciter un r�giment pour
+son fils; et en attendant il fit l'amour.  L'amour est
+quelquefois plus cher qu'un r�giment.  Il d�pensa beaucoup,
+pendant que ses parents s'�puisaient encore davantage � vivre en
+grands seigneurs.
+
+Une jeune veuve de qualit�, leur voisine, qui n'avait qu'une
+fortune m�diocre, voulut bien se r�soudre � mettre en s�ret� les
+grands biens de monsieur et de madame de La Jeannoti�re, en se
+les appropriant, et en �pousant le jeune marquis.  Elle l'attira
+chez elle, se laissa aimer, lui fit entrevoir qu'il ne lui �tait
+pas indiff�rent, le conduisit par degr�s, l'enchanta, le subjugua
+sans peine.  Elle lui donnait tant�t des �loges, tant�t des
+conseils; elle devint la meilleure amie du p�re et de la m�re.
+Une vieille voisine proposa le mariage; les parents, �blouis de
+la splendeur de cette alliance, accept�rent avec joie la
+proposition: ils donn�rent leur fils unique � leur amie intime.
+Le jeune marquis allait �pouser une femme qu'il adorait et dont
+il �tait aim�; les amis de la maison le f�licitaient; on allait
+r�diger les articles, en travaillant aux habits de noce et �
+l'�pithalame.
+
+Il �tait un matin aux genoux de la charmante �pouse que l'amour,
+l'estime, et l'amiti�, allaient lui donner; ils go�taient, dans
+une conversation tendre et anim�e, les pr�mices de leur bonheur;
+ils s'arrangeaient pour mener une vie d�licieuse, lorsqu'un valet
+de chambre de madame la m�re arrive tout effar�.  Voici bien
+d'autres nouvelles, dit-il; des huissiers d�m�nagent la maison de
+monsieur et de madame; tout est saisi par des cr�anciers; on
+parle de prise de corps, et je vais faire mes diligences pour
+�tre pay� de mes gages.  Voyons un peu, dit le marquis, ce que
+c'est que �a, ce que c'est que cette aventure-l�.  Oui, dit la
+veuve, allez punir ces coquins-l�, allez vite.  Il y court, il
+arrive � la maison; son p�re �tait d�j� emprisonn�: tous les
+domestiques avaient fui chacun de leur c�t�, en emportant tout ce
+qu'ils avaient pu.  Sa m�re �tait seule, sans secours, sans
+consolation , noy�e dans les larmes; il ne lui restait rien que
+le souvenir de sa fortune, de sa beaut�, de ses fautes, et de ses
+folles d�penses.
+
+Apr�s que le fils eut long-temps pleur� avec la m�re, il lui dit
+enfin: Ne nous d�sesp�rons pas; cette jeune veuve m'aime
+�perdument; elle est plus g�n�reuse encore que riche, je r�ponds
+d'elle; je vole � elle, et je vais vous l'amener.  Il retourne
+donc chez sa ma�tresse, il la trouve t�te � t�te avec un jeune
+officier fort aimable.  Quoi!  c'est vous, M. de La Jeannoti�re;
+que venez-vous faire ici?  abandonne-t-on ainsi sa m�re?  Allez
+chez cette pauvre femme, et dites-lui que je lui veux toujours du
+bien: j'ai besoin d'une femme de chambre, et je lui donnerai la
+pr�f�rence.  Mon gar�on, tu me parais assez bien tourn�, lui dit
+l'officier; si tu veux entrer dans ma compagnie, je te donnerai
+un bon engagement.
+
+Le marquis stup�fait, la rage dans le coeur, alla chercher son
+ancien gouverneur, d�posa ses douleurs dans son sein, et lui
+demanda des conseils.  Celui-ci lui proposa de se faire, comme
+lui, gouverneur d'enfants.  H�las!  je ne sais rien, vous ne
+m'avez rien appris, et vous �tes la premi�re cause de mon
+malheur; et il sanglotait en lui parlant ainsi.  Faites des
+romans, lui dit un bel esprit qui �tait l�; c'est une excellente
+ressource � Paris.
+
+Le jeune homme, plus d�sesp�r� que jamais, courut chez le
+confesseur de sa m�re; c'�tait un th�atin tr�s accr�dit�, qui ne
+dirigeait que les femmes de la premi�re consid�ration; d�s qu'il
+le vit, il se pr�cipita vers lui.  Eh!  mon Dieu!  monsieur le
+marquis, o� est votre carrosse?  comment se porte la respectable
+madame la marquise votre m�re?  Le pauvre malheureux lui conta le
+d�sastre de sa famille.  A mesure qu'il s'expliquait, le th�atin
+prenait une mine plus grave, plus indiff�rente, plus imposante:
+Mon fils, voil� o� Dieu vous voulait; les richesses ne servent
+qu'� corrompre le coeur; Dieu a donc fait la gr�ce � votre m�re
+de la r�duire � la mendicit�?
+
+Oui, monsieur.--Tant mieux, elle est s�re de son salut.--Mais,
+mon p�re, en attendant, n'y aurait-il pas moyen d'obtenir
+quelques secours dans ce monde?--Adieu, mon fils; il y a une dame
+de la cour qui m'attend.  Le marquis fut pr�t � s'�vanouir; il
+fut trait� � peu pr�s de m�me par tous ses amis, et apprit mieux
+� conna�tre le monde dans une demi-journ�e que dans tout le reste
+de sa vie.
+
+Comme il �tait plong� dans l'accablement du d�sespoir, il vit
+avancer une chaise roulante, � l'antique, esp�ce de tombereau
+couvert, accompagn� de rideaux de cuir, suivi de quatre
+charrettes �normes toutes charg�es.  Il y avait dans la chaise un
+jeune homme grossi�rement v�tu; c'�tait un visage rond et frais
+qui respirait la douceur et la gaiet�.  Sa petite femme brune, et
+assez grossi�rement agr�able, �tait cahot�e � c�t� de lui.  La
+voiture n'allait pas comme le char d'un petit-ma�tre: le voyageur
+eut tout le temps de contempler le marquis immobile, ab�m� dans
+sa douleur.  Eh!  mon Dieu!  s'�cria-t-il, je crois que c'est l�
+Jeannot.  A ce nom le marquis l�ve les yeux, la voiture s'arr�te:
+C'est Jeannot lui-m�me, c'est Jeannot.  Le petit homme rebondi ne
+fait qu'un saut, et court embrasser son ancien camarade.  Jeannot
+reconnut Colin; la honte et les pleurs couvrirent son visage.  Tu
+m'as abandonn�, dit Colin; mais tu as beau �tre grand seigneur,
+je t'aimerai toujours.  Jeannot, confus et attendri, lui conta,
+en sanglotant, une partie de son histoire.  Viens dans
+l'h�tellerie o� je loge me conter le reste, lui dit Colin;
+embrasse ma petite femme, et allons d�ner ensemble.
+
+Ils vont tous trois � pied, suivis du bagage.  Qu'est-ce donc que
+tout cet attirail?  vous appartient-il?--Oui, tout est � moi et �
+ma femme.  Nous arrivons du pays; je suis � la t�te d'une bonne
+manufacture de fer �tam� et de cuivre.  J'ai �pous� la fille d'un
+riche n�gociant en ustensiles n�cessaires aux grands et aux
+petits; nous travaillons beaucoup; Dieu nous b�nit; nous n'avons
+point chang� d'�tat, nous sommes heureux, nous aiderons notre ami
+Jeannot.  Ne sois plus marquis; toutes les grandeurs de ce monde
+ne valent pas un bon ami.  Tu reviendras avec moi au pays, je
+t'apprendrai le m�tier, il n'est pas bien difficile; je te
+mettrai de part, et nous vivrons gaiement dans le coin de terre
+o� nous sommes n�s.
+
+Jeannot �perdu se sentait partag� entre la douleur et la joie, la
+tendresse et la honte; et il se disait tout bas: Tous mes amis du
+bel air m'ont trahi, et Colin, que j'ai m�pris�, vient seul � mon
+secours.  Quelle instruction!  La bont� d'�me de Colin d�veloppe
+dans le coeur de Jeannot le germe du bon naturel, que le monde
+n'avait pas encore �touff�.  Il sentit qu'il ne pouvait
+abandonner son p�re et sa m�re.  Nous aurons soin de ta m�re, dit
+Colin; et quant � ton bon-homme de p�re, qui est en prison,
+j'entends un peu les affaires; ses cr�anciers, voyant qu'il n'a
+plus rien, s'accommoderont pour peu de chose; je me charge de
+tout.  Colin fit tant qu'il tira le p�re de prison.  Jeannot
+retourna dans sa patrie avec ses parents , qui reprirent leur
+premi�re profession.  Il �pousa une soeur de Colin, laquelle
+�tant de m�me humeur que le fr�re, le rendit tr�s heureux.  Et
+Jeannot le p�re, et Jeannotte la m�re, et Jeannot le fils, virent
+que le bonheur n'est pas dans la vanit�.
+
+FIN DE JEANNOT ET COLIN.
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, JEANNOT ET COLIN ***
+
+This file should be named 4772.txt or 4772.zip
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+https://gutenberg.org or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+https://www.gutenberg.org/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

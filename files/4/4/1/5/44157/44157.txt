@@ -1,3 +1,3851 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb67691fbabb829415ff5ab76518b9b125dde65e0c3cae04e7871e0062a1c59b
-size 150081
+ï»¿The Project Gutenberg EBook of Entre Nous, by Lucie Vos
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Entre Nous
+       Lectures FranÃ§aises Ã  l'usage des ecoles primaires - I
+
+Author: Lucie Vos
+
+Illustrator: J. Berhardina Bokhorst
+
+Release Date: November 10, 2013 [EBook #44157]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ENTRE NOUS ***
+
+
+
+
+Produced by Branko Collin, Hans Pieterse and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  Au lecteur.
+
+    Le texte en italiques dans lâoriginal est indiquÃ© ici comme
+    _italiques_, le texte en gras comme =gras=. Dans BERH{A} le A
+    est placÃ© en exposant dans lâoriginal.
+
+    On trouvera dâautres prÃ©cisions Ã  la fin du texte.
+
+
+
+
+                              ENTRE NOUS.
+
+                     LECTURES FRANÃAISES Ã LâUSAGE
+                         DES ÃCOLES PRIMAIRES.
+
+                                  PAR
+
+                               LUCIE VOS,
+              PROFESSEUR Ã  LâÃCOLE SECONDAIRE DE LA HAYE.
+
+
+       AVEC LA COLLABORATION DE JAN LIGTHART ET DE H. SCHEEPSTRA.
+                 ILLUSTRATIONS DE J. BERH{A}. BOKHORST.
+
+
+                  PREMIÃRE PARTIE.--DEUXIÃME ÃDITION.
+
+
+                    J. B. WOLTERS--GRONINGUE--1906.
+
+
+
+
+                       Imprimerie J.-B. Wolters.
+
+
+
+
+PRÃFACE.
+
+
+InspirÃ©e par les si jolis ouvrages âNog bij Moederâ, âDicht bij
+Huisâ et âDe Wereld inâ nous avons voulu composer dans le mÃªme genre
+des livres de lecture destinÃ©s Ã  lâenseignement du franÃ§ais.
+
+SollicitÃ©s par nous, MM. LIGTHART et SCHEEPSTRA ont bien voulu nous
+prÃªter leur gracieux concours et câest ainsi quâest nÃ©e la sÃ©rie de
+rÃ©cits intitulÃ©e âEntre nousâ, sÃ©rie dont nous prÃ©sentons aujourdâhui
+la premiÃ¨re partie Ã  ceux de nos collÃ¨gues qui enseignent le franÃ§ais.
+
+Nous nous sommes proposÃ© de mettre les Ã©lÃ¨ves pour ainsi dire tout de
+suite _en plein franÃ§ais_. Ils rencontreront ainsi forcÃ©ment quelques
+difficultÃ©s au dÃ©but, mais
+
+1Âº. nous supposons quâils savent dÃ©jÃ  un certain nombre de mots et,
+dans ses grandes lignes, la conjugaison des verbes,
+
+2Âº. nous donnons la traduction dâun grand nombre de termes et
+dâexpressions.
+
+Lors de la lecture dâun ouvrage hollandais, les Ã©lÃ¨ves arrivent
+bientÃ´t Ã  savoir par cÅur des fragments entiers. Ce qui est alors un
+inconvÃ©nient, serait un avantage pour le prÃ©sent volume. Nous voudrions
+mÃªme recommander aux professeurs de rÃ©pÃ©ter souvent les chapitres, pour
+que les expressions deviennent vraiment la propriÃ©tÃ© de leurs Ã©lÃ¨ves.
+Comme on le verra nous avons aussi rÃ©pÃ©tÃ© souvent les mÃªmes expressions
+dans le cours du livre. En outre nous avons intercalÃ© dans le texte
+plusieurs poÃ©sies empruntÃ©es Ã  des recueils de chants franÃ§ais,
+poÃ©sies que les Ã©lÃ¨ves pourront retenir avec la plus grande facilitÃ©.
+
+Ces livres rÃ©pondront ainsi Ã  deux buts: enrichir le vocabulaire des
+enfants et les aider Ã  se servir des expressions quâils possÃ¨dent dÃ©jÃ .
+
+_La Haye_, novembre 1904.                                   LUCIE VOS.
+
+       *       *       *       *       *
+
+Nous avons remis dans cette partie les traits dâunion, parce quâen
+France on les trouve dans la plupart des livres, malgrÃ© lâÃ©dit de
+tolÃ©rance.
+
+_La Haye_, mars 1906.                                       LUCIE VOS.
+
+
+
+
+INDEX.
+
+
+     Chap.                                  Page.
+
+        I. Deux Parents et Deux Enfants         7
+       II. Papa se fÃ¢che                        8
+      III. VoilÃ  ce que câest!                  9
+       IV. Marie couche le petit blessÃ©        10
+        V. VoilÃ  le Docteur                    10
+       VI. Le Docteur part                     12
+      VII. Jean va Ã  la cuisine                12
+     VIII. Paul est guÃ©ri, mais comment?       14
+       IX. Une visite                          16
+        X. Est-ce Paul qui chante?             18
+       XI. Le vrai pÃ¨re et la vraie mÃ¨re       19
+      XII. Papa nâa pas besoin de chanter      20
+     XIII. Toute seule!                        21
+      XIV. Son premier jour de classe          23
+       XV. Un bon et un mauvais Ã©colier        25
+      XVI. La Chanson du petit Pierre          27
+     XVII. Quel vent dÃ©sagrÃ©able!              29
+    XVIII. Quel vent dÃ©licieux!                32
+      XIX. Les Saisons                         33
+       XX. Encore une petite fille             35
+      XXI. Ninette                             37
+     XXII. Ninette partie                      39
+    XXIII. Marie regarde par la fenÃªtre        40
+     XXIV. Marie sort                          42
+      XXV. Il nous faut travailler tous        43
+     XXVI. Le plus petit, le plus sage         46
+    XXVII. Le Petit Poucet (suite)             47
+   XXVIII. Le Petit Poucet (fin)               50
+     XXIX. La Neige                            51
+      XXX. Les Moineaux                        53
+     XXXI. Quatre fois deux font sept          55
+    XXXII. Le ThÃ©                              58
+   XXXIII. Dans la Neige                       61
+    XXXIV. Sur la Glace                        64
+     XXXV. Il fait bien froid                  66
+    XXXVI. Voici le Printemps!                 68
+   XXXVII. Fleurs de Printemps                 69
+  XXXVIII. Ce mÃ©chant Paul                     72
+    XXXIX. A lâEcole? ou chez nous?            74
+       XL. La Sortie de lâEcole                77
+  Mots et Expressions                          81
+
+
+
+
+I.
+
+
+[Illustration: DEUX PARENTS ET DEUX ENFANTS.]
+
+    Marie.  Â«Je suis Marie.
+
+    Jean.   --Et je suis Jean.
+
+    M.      --Il est papa.
+
+    J.      --Elle est maman.
+
+    M.      --Paul et Alice
+            Sont nos enfants.
+
+    J.      --Le petit garÃ§on
+            Est trÃ¨s mÃ©chant!
+
+    M.      --Il est gourmand!
+            Mais notre fille,
+            La petite Alice,
+            Est trÃ¨s gentille!Â»
+
+
+
+
+II. Papa se fÃ¢che.
+
+
+Le mÃ©chant petit Paul est montÃ© sur la table, sa main est dans le
+sucrier, et prend du sucre.
+
+Papa lit son livre, maman regarde Paul.
+
+[Illustration]
+
+Â«O Papa, dit Marie, regarde ce mÃ©chant garÃ§on. Il faut le gronder!Â»
+
+Jean ferme son livre, se lÃ¨ve et sâapproche du petit gourmand.
+
+Â«Paul, viens ici!Â»
+
+Mais Paul ne vient pas. Papa dit encore une fois: Â«Viens ici, Paul!Â»
+
+Mais la main du petit gourmand reste dans le sucrier.
+
+Alors papa se fÃ¢che et donne une tape au petit Paul.
+
+
+
+
+III. VoilÃ  ce que câest!
+
+
+Oui, voilÃ  ce que câest! Papa sâest fÃ¢chÃ©, il a donnÃ© une tape au petit
+gourmand. Alors, celui-ci est tombÃ© par terre et il sâest cassÃ© le bras.
+
+Â«O Papa, dit Marie, veux-tu, sâil te plaÃ®t, aller chez le docteur?
+Regarde, le bras est cassÃ©. Le pauvre petit a bien mal!
+
+--Oui, maman, dit Jean, je vais tout de suite chercher le docteur!Â»
+
+Alors, petit Jean ouvre la porte de la chambre et va dans le corridor.
+
+[Illustration]
+
+
+
+
+IV. Marie couche le petit blessÃ©.
+
+
+Jean est sorti de la chambre. Il est allÃ© chercher le docteur.
+
+Marie prend son petit garÃ§on et le couche dans le lit. Elle le borde
+bien et lui parle.
+
+Â«Oh! oh! as-tu bien mal, pauvre petit? Pourquoi es-tu donc gourmand?
+Pourquoi montes-tu sur la table et manges-tu du sucre? VoilÃ  ce que
+câest! Maintenant tu as bien mal. Mais, allons, ne pleure pas. Le
+mÃ©decin viendra tout Ã  lâheure. Il te guÃ©rira. Sois sage et ne pleure
+pas. Pauvre, pauvre petit!Â»
+
+[Illustration]
+
+
+
+
+V. VoilÃ  le Docteur.
+
+
+Â«Bonjour, Madame. OÃ¹ est le malade?
+
+--Bonjour, Docteur. Oh! que je suis contente de vous voir. Notre Paul
+est bien malade. Il sâest cassÃ© le bras. Je lâai couchÃ© dans son
+petit lit. Il crie, tant il a mal.
+
+--Ah! ah! comment est arrivÃ© cet accident?
+
+--Oui, docteur, il Ã©tait mÃ©chant. Il Ã©tait montÃ© sur la table pour
+manger du sucre. Alors, papa sâest fÃ¢chÃ©.
+
+[Illustration]
+
+Il lui a donnÃ© une tape et Paul est tombÃ© par terre.
+
+--Et oÃ¹ est son bras?
+
+--Le voici, docteur. Le bras est encore entier et Paul nâest pas mort.
+Ils vivent tous les deux, Paul et son bras. Pouvez-vous remettre le
+bras?
+
+--Oui, oui, Ã§a ira bien! Je guÃ©rirai ce petit garÃ§on.Â»
+
+
+
+
+VI. Le Docteur part.
+
+
+Marie sâapproche du petit lit. Elle sort Paul du lit. Elle lâembrasse,
+puis elle le passe au docteur.
+
+Â«Voici mon cher petit garÃ§on, docteur. GuÃ©rissez-le bien vite, sâil
+vous plaÃ®t.
+
+--Mais donnez-moi aussi le bras, Madame. Je le remettrai et je vous
+rapporterai le cher petit, guÃ©ri.
+
+--Oh oui, câest Ã§a docteur, je serai si heureuse!Â»
+
+Elle embrasse encore son petit Paul. Puis le docteur part, en portant
+le blessÃ© sur le bras droit et en tenant le bras cassÃ© de la main
+gauche.
+
+Â«Au revoir, Madame, Ã  bientÃ´t!
+
+--Au revoir, Monsieur le Docteur, et merci!Â»
+
+
+
+
+VII. Jean va Ã  la cuisine.
+
+
+Jean va Ã  la cuisine. Il a mis le chapeau de son Papa.
+
+Rose, la bonne, est en train de peler des pommes.
+
+Â«Tiens, tiens, dit-elle, quel est ce monsieur qui entre dans ma cuisine?
+
+--Je suis le docteur, dit Jean.
+
+--Ah! ah! vous Ãªtes le docteur? Et monsieur le docteur vient peut-Ãªtre
+chercher une pomme?
+
+--Non, Rose, je ne viens pas chercher une pomme, mais un bout de
+ficelle.
+
+--Un bout de ficelle, pourquoi faire?
+
+--Pour rÃ©parer Paul.
+
+--Tiens, Paul sâest donc cassÃ© le bras? Est-il tombÃ©?
+
+--Oui, Rose, il est tombÃ© de la table. Je suis le docteur et je le
+guÃ©rirai, ce pauvre petit blessÃ©. Mais câest bien difficile. Avez-vous
+un bout de ficelle?Â»
+
+[Illustration]
+
+Rose cherche dans le tiroir de la table et trouve une ficelle.
+
+Â«VoilÃ  une jolie ficelle, Monsieur le docteur, dit-elle.
+
+--Merci beaucoup, Rose!
+
+--Et voilÃ  aussi une belle pomme pour le petit malade.
+
+--Oh merci! mais il est trop malade pour manger des pommes. Je la
+mangerai avec Marie.Â»
+
+Jean met la pomme dans sa poche. Il prend la ficelle et lâattache
+autour du poignet de Paul, puis autour de son corps. Maintenant le bras
+est attachÃ© au corps. Le mÃ©decin et le malade retournent chez la maman.
+
+Â«Au revoir, et merci, Rose!
+
+--Au revoir, Monsieur le Docteur, bien des choses Ã  Madame.Â»
+
+
+
+
+VIII. Paul est guÃ©ri, mais comment?
+
+
+Jean rentre dans la chambre.
+
+Â«Ah! bonjour, Monsieur le Docteur, dit la maman. Mon cher petit garÃ§on
+est-il guÃ©ri?
+
+--Oui, Madame, Paul est tout Ã  fait guÃ©ri.
+
+--Oh! quel bonheur! crie Marie.
+
+Viens, mon petit Paul!Â»
+
+Mais quand elle voit le bras, Marie devient toute triste.
+
+Â«O Monsieur le Docteur, dit-elle, le bras de Paul est retournÃ©. La main
+tient Ã  lâÃ©paule. Paul ne peut plus se servir de sa main.
+
+--Oh! Ã§a ne fait rien, Madame, dit le docteur. Maintenant Paul ne
+pourra plus mettre la main dans le sucrier. VoilÃ  ce que câest, petit
+gourmand, dit-il Ã  Paul, mais regarde, ta pauvre maman est toute
+triste; tiens, elle pleure! embrasse-la.Â»
+
+Mais Paul nâembrasse pas sa maman.
+
+--Oui, Docteur, dit la maman, je pleure. Paul ne peut plus prendre
+de sucre, câest vrai, mais comment fera-t-il pour travailler plus tard?
+
+--Ah Madame, ne pleurez pas. Paul sera chanteur plus tard, alors il
+nâaura pas besoin de son bras.
+
+[Illustration]
+
+--Tiens, câest vrai, Docteur. Que je suis contente! Ã§a ira trÃ¨s bien.
+Le petit Paul sera donc chanteur.
+
+--Allons, au revoir, Madame.
+
+--Adieu, Monsieur le Docteur, et merci, merci beaucoup!Â»
+
+
+
+
+IX. Une visite.
+
+
+Jean, le docteur, va partir, mais la porte sâouvre et deux enfants
+entrent dans la chambre. LâaÃ®nÃ© est un petit garÃ§on de dix ans. Il
+sâappelle Louis. Lâautre, câest Henriette, une petite fille de huit
+ans, je pense. Ils sont frÃ¨re et sÅur et Marie et Jean sont leur
+cousine et leur cousin.
+
+Â«Bonjour, dit Louis en entrant dans la chambre.
+
+--Bonjour, dit aussi Henriette, Ã  quoi jouez-vous donc?
+
+--Nous jouons au docteur, dit Jean. Moi, je suis le docteur et jâai
+guÃ©ri le bras de Paul.
+
+--Oui, ajoute Marie, mais il lâa mal remis.
+
+--Ãa ne fait rien, sâÃ©crie Jean. Maintenant Paul sera chanteur.Â»
+
+Louis et Henriette se mettent Ã  rire en voyant Paul. Puis Louis prend
+le petit chanteur et dit:
+
+Â«Allons, il va nous chanter une jolie chanson!Â» Il pose le petit Paul
+sur une chaise, le dos appuyÃ© au dossier.
+
+Â«Que voulez-vous chanter, monsieur le chanteur?Â»
+
+Paul ne rÃ©pond pas.
+
+Â«Que savez-vous chanter?Â»
+
+Paul ne rÃ©pond toujours pas.
+
+Â«Nous lâaiderons un peu,Â» dit alors Louis; et il se met Ã  chanter une
+petite chanson.
+
+[Illustration]
+
+Et Marie croit vraiment que câest son petit garÃ§on qui chante.
+
+
+
+
+X. Est-ce Paul qui chante?
+
+
+Louis se met Ã  chanter. BientÃ´t Henriette chante aussi, ainsi que Jean,
+notre petit docteur.
+
+Et Marie? Elle croit toujours que câest Paul qui chante et elle en est
+trÃ¨s contente. Pourtant elle se met aussi Ã  chanter le second couplet,
+car elle connaÃ®t la chanson.
+
+Et quâest-ce que Paul chante donc? Ecoutez ces quatre petites voix et
+alors vous le saurez.
+
+    COCORICO.
+
+    [Musique]
+
+    Les coqs toujours Ã  voix pleine,
+    Vont chantant Cocorico,
+    Ayant  picotÃ© leur graine,
+    Ils chantent cocorico!
+    Ayant bu Ã  la fontaine,
+    Ils chantent cocorico.
+
+    Le beau soleil luit Ã  peine,
+    Leur voix dit: cocorico!
+    Sâil va pleuvoir dans la plaine,
+    Leur voix dit: cocorico!
+    Enfin, toute la semaine,
+    Toujours, câest: cocorico!
+
+
+
+
+XI. Le vrai pÃ¨re et la vraie mÃ¨re.
+
+
+[Illustration]
+
+Dans la chambre dâÃ  cÃ´tÃ©, sont assis les parents de Jean et de Marie.
+Ils prennent une tasse de thÃ©. Le pÃ¨re lit le journal et la mÃ¨re
+Ã©crit une lettre. Maman pose son porteplume et demande: Â«Veux-tu encore
+une tasse de thÃ©, papa?--Oui, rÃ©pond papa, mais sans sucre, sâil te
+plaÃ®t, et trÃ¨s peu de lait!--Veux-tu encore un petit-four?--Non! merci,
+car jâai un peu mal aux dents.Â»
+
+Maman verse alors une tasse de thÃ© et papa lit son journal en fumant un
+cigare.
+
+Â«Comme les enfants font du bruit! dit papa, quâest-ce quâil y a donc?
+
+--Louis et Henriette sont avec eux. Ils jouent Ã  lâÃ©cole, je pense.
+Mais ils chantent si fort. Allons voir un peu ce quâils font!Â»
+
+Papa et maman se lÃ¨vent pour aller voir les enfants. Mais la porte est
+fermÃ©e. Ils sâarrÃªtent et Ã©coutent.
+
+Maintenant ils entendent le joli chant. Papa oublie quâil a mal aux
+dents: le chant est si gai!
+
+Il ouvre doucement la porte et que voit-il? Il voit quatre enfants qui
+chantent et une poupÃ©e qui ne dit rien.
+
+Mais quand les parents entrent, les enfants aussi sâarrÃªtent de
+chanter. Tous les cinq ne disent plus rien maintenant.
+
+
+
+
+XII. Papa nâa pas besoin de chanter.
+
+
+Â«Quâest-ce quâil y a donc?Â» demande papa.
+
+Les quatre enfants Ã©clatent de rire.
+
+Â«Eh bien! demande maman, que faites-vous? Jouez-vous Ã  lâÃ©cole?
+
+--Oh non, maman, dit Marie, Paul chante.
+
+--Paul, demande papa, qui est-ce?
+
+--Câest la poupÃ©e de Marie, rÃ©pond maman.
+
+--Non! sâÃ©crie Marie, câest mon fils et il sâest cassÃ© le bras. Jean
+lâa mal remis, et maintenant il faut que Paul chante.
+
+--Il faut quâil chante parce que son bras est mal remis? Je nây
+comprends rien, dit papa.Â»
+
+Maintenant Jean raconte toute lâhistoire.
+
+Â«Ah! ah! je comprends, dit papa. En voilÃ  un beau docteur!
+
+--Mais câÃ©tait si difficile! dit Jean. La ficelle glissait tout le
+temps. Alors jâai mis la ficelle autour du poignet, jâai retournÃ© le
+bras et je lâai attachÃ© Ã  lâÃ©paule.
+
+--Tiens, tiens, tu es un drÃ´le de docteur. Je ne te demanderai pas de
+mâarracher ma dent. Tu mâarracherais peut-Ãªtre la langue au lieu de la
+dent.
+
+--Oh! sâÃ©crie Marie, Ã§a ne fait rien, petit pÃ¨re, car tu nâas pas
+besoin de chanter comme Paul.Â»
+
+
+
+
+XIII. Toute seule!
+
+
+Quinze jours aprÃ¨s, Marie Ã©tait toute seule dans la chambre avec ses
+deux poupÃ©es. Mais oÃ¹ Ã©tait donc Jean? Jean Ã©tait allÃ© pour la
+premiÃ¨re fois Ã  lâÃ©cole. Marie en Ã©tait trÃ¨s triste. Elle se sentait
+si seule! Jean savait si bien jouer au pÃ¨re, au docteur, au cocher ou
+au cheval. Et voilÃ  quâil Ã©tait parti! Qui serait maintenant pÃ¨re, ou
+docteur, ou cocher, ou cheval?
+
+[Illustration]
+
+Paul, le chanteur, Ã©tait assis dans sa petite chaise, mais il ne
+chantait pas. Etait-il triste aussi parce que Jean nâÃ©tait pas lÃ ?
+
+Marie le sortit de sa chaise et le prit par la main: elle allait se
+promener un peu avec lui. Elle prit Alice par lâautre main.
+
+Alice Ã©tait toujours sage: elle ne mangeait pas de sucre, elle ne se
+cassait pas le bras, elle nâavait pas besoin du docteur, elle Ã©tait
+trÃ¨s gentille.
+
+Mais oÃ¹ va Marie? Elle va conduire Paul Ã  lâÃ©cole. Il sera chanteur,
+câest vrai, mais il faut quâil apprenne Ã  lire, Ã  Ã©crire et Ã  calculer.
+
+Elle sonne au bouton de la porte, puis elle dit:
+
+Â«Bonjour, Monsieur, je viens conduire Paul Ã  lâÃ©cole. Voulez-vous le
+recevoir?
+
+--Oui, Madame, dit la mÃªme petite voix, mais dâun ton plus bas.
+
+--Le voici, Monsieur. Il faut quâil devienne chanteur. Mais il faut
+aussi quâil apprenne quelque chose. Voulez-vous lui donner des leÃ§ons?
+
+--Oui, Madame.
+
+--Voulez-vous lui apprendre Ã  lire?
+
+--Oui, Madame.
+
+--Et Ã  Ã©crire?
+
+--Oui, Madame.
+
+--Et Ã  calculer?
+
+--Oui, Madame.
+
+--Alors, je mâen vais. Au revoir, Monsieur! Au revoir, Paul!Â»
+
+Elle pose Paul par terre dans un coin et elle sâen va avec Alice.
+
+Maintenant elle est encore plus seule. Pauvre petite!
+
+
+
+
+XIV. Son premier jour de classe.
+
+
+Aujourdâhui, notre docteur de six ans est allÃ© pour la premiÃ¨re fois Ã 
+lâÃ©cole. Il a suspendu son capuchon et son bÃ©ret au portemanteau. Et
+maintenant il est assis dans son banc et il ne dit rien.
+
+Il y a encore dâautres nouveaux. Il y en a trente dans la classe et
+tous ont lâair un peu timides.
+
+Â«Quel Ã¢ge avez-vous? demande le maÃ®tre en regardant Jean.
+
+--Jâai six ans, Monsieur.
+
+--Et comment vous appelez-vous?
+
+--Je mâappelle Jean-Guillaume La Harpe.
+
+--Ah! ah! vous vous appelez La Harpe! Alors vous savez faire de la
+musique sans doute?
+
+--De la musique, Monsieur?
+
+--Mais oui, jouer de la harpe!Â»
+
+Jean se mit Ã  rire.
+
+Â«Ou bien, savez-vous peut-Ãªtre chanter trÃ¨s joliment?Â»
+
+Jean se mit encore Ã  rire.
+
+Â«Allons, chantez-nous une jolie chanson!Â»
+
+Jean se mit Ã  chanter. Sa petite voix tremblait un peu, mais pourtant
+câÃ©tait bien joli. Et que chantait-il? La mÃªme chanson que Paul avait
+chantÃ©e. Ecoutez:
+
+    Les coqs toujours Ã  voix pleine
+    Vont chantant: cocorico!
+
+Â«TrÃ¨s bien! câest trÃ¨s joli!Â» dit le maÃ®tre. Et tous les enfants
+trouvaient la chanson bien jolie.
+
+Â«Qui sait une autre chanson?Â» demande le maÃ®tre.
+
+Un autre garÃ§on leva le doigt et dit:
+
+Â«Moi, Monsieur!
+
+--Comment vous appelez-vous?
+
+--Pierre Nicole, Monsieur.
+
+--Eh bien, Pierre, commencez.Â»
+
+Et Pierre rÃ©cita:
+
+    Â«Je mâappelle Pierre Nicole,
+    Je vais maintenant Ã  lâÃ©cole.
+
+--Câest tout? dit le maÃ®tre.
+
+--Oui, Monsieur, câest tout!
+
+--Et qui tâa appris cette belle poÃ©sie?
+
+--Câest mon pÃ¨re.
+
+--Alors ton pÃ¨re sait faire de jolies poÃ©sies. Moi, je tâapprendrai une
+poÃ©sie sur un autre petit Pierre.Â»
+
+Jean sâamusait beaucoup en classe. En rentrant, ses joues Ã©taient
+toutes rouges, tant il sâÃ©tait amusÃ©.
+
+Â«Sais-tu, maman, dit-il, le maÃ®tre nous apprendra une poÃ©sie sur Pierre
+et je te la rÃ©citerai alors!Â»
+
+
+
+
+XV. Un bon et un mauvais Ã©colier.
+
+
+Et quâest-ce que Paul avait appris Ã  lâÃ©cole? Aussi de jolies chansons,
+peut-Ãªtre? Monsieur avait promis de lui apprendre Ã  lire, Ã  Ã©crire et Ã 
+calculer. Mais Paul Ã©tait sans doute trÃ¨s bÃªte, car il ne disait pas un
+mot quand Marie lui demandait quelque chose.
+
+Â«As-tu bien travaillÃ© en classe?Â»
+
+Paul ne disait rien.
+
+Â«Sais-tu lire maintenant?Â»
+
+Paul se taisait toujours.
+
+Alors Marie se fÃ¢cha. Elle allait le prendre par le bras et le secouer,
+mais tout Ã  coup elle se rappela quâil nâavait quâun bon bras. Elle le
+laissa donc assis par terre et le gronda seulement.
+
+Heureusement, la porte sâouvrit et Marie vit entrer Louis. Elle
+nâÃ©tait plus seule.
+
+Â«O Louis, dit-elle, Paul est si bÃªte, il nâapprend rien!
+
+--Alors, moi je sais une poÃ©sie dâun autre Paul, dit Louis. Veux-tu que
+je la rÃ©cite? Cela aidera peut-Ãªtre un peu ton petit Paul Ã  toi.
+
+--Oh! je veux bien! dit Marie.Â»
+
+[Illustration]
+
+Paul et Marie Ã©coutaient de toutes leurs oreilles et Louis dÃ©clama:
+
+    LE BON ÃCOLIER.
+
+    Le soleil a dorÃ© la plaine,
+    Petit Paul sâÃ©veille joyeux;
+    Tous les jours, il quitte sans peine
+    Son oreiller doux et soyeux.
+
+    Au plus vite, il fait sa toilette,
+    Car il sait que son teint vermeil
+    Vient surtout de sa peau bien nette
+    Et de ses jeux au grand soleil.
+
+    Petit Paul embrasse sa mÃ¨re,
+    A lâÃ©cole il sâen va chantant;
+    Si lâÃ©tude est parfois amÃ¨re,
+    Le savoir fait le cÅur content.
+
+Marie trouvait la poÃ©sie trÃ¨s jolie.
+
+Â«Seras-tu aussi un bon Ã©colier, mon petit Paul?Â» demanda-t-elle.
+
+Mais Paul ne disait rien.
+
+
+
+
+XVI. La Chanson du petit Pierre.
+
+
+Quelques jours aprÃ¨s, Jean rentra de lâÃ©cole. Maintenant il savait la
+chanson du petit Pierre. Il savait la rÃ©citer et la chanter. Il Ã©tait
+bien content.
+
+Â«Petite MÃ¨re, dit-il, Ã©coute bien. Je vais te rÃ©citer ma poÃ©sie.Â»
+
+Et Jean se mit Ã  rÃ©citer:
+
+      Â«Petit Pierre,
+      La lumiÃ¨re
+      DÃ©jÃ  luit:
+      Hors du lit!
+    Notre coq claironne,
+    La cloche rÃ©sonne:
+      Dig, din, don!
+      Câest le matin,
+      Tin, tin, tin, tin!
+      RÃ©veillez-vous!
+
+Et maintenant je sais encore le second couplet, maman. Veux-tu que je
+le rÃ©cite?
+
+--Câest Ã§a, mon petit, jâÃ©coute!Â»
+
+Et Jean poursuivit:
+
+      Â«Ma petite
+      Marguerite,
+      LÃ¨ve-toi,
+      Avec moi!
+    Notre chÃ¨vre bÃªle,
+    La cloche tâappelle:
+      Dig, din, don!
+      Câest le matin!
+      Tin, tin, tin, tin!
+      RÃ©veillez-vous!
+
+Et veux-tu que je te la chante maintenant?Â» demande Jean.
+
+Et sans attendre la rÃ©ponse, notre Ã©colier chanta le petit air suivant:
+
+    [Musique]
+
+      Petit Pierre,
+      La LumiÃ¨re,
+      DÃ©jÃ  luit,
+      Hors du lit.
+    Notre coq claironne,
+    La cloche rÃ©sonne:
+      Dig, din, don!
+      Dig, din, don!
+      Câest le matin,
+      Tin, tin, tin, tin!
+      RÃ©veillez-vous?
+      RÃ©veillez-vous!
+
+(Cet air se chante aussi en canon.)
+
+
+
+
+XVII. Quel vent dÃ©sagrÃ©able!
+
+
+Oh! quel vilain temps! Il pleuvait, et il faisait du vent. CâÃ©tait en
+novembre et un vrai temps de novembre. De la pluie et du vent! Et le
+vent vous chassait la pluie dans la figure.
+
+Par ce vilain temps, Jean devait aller en classe. Naturellement, il
+ne voulait pas rester Ã  la maison.
+
+Â«Reste chez nous, dit Marie; nous pourrons alors jouer ensemble et bien
+nous amuser.Â»
+
+Mais non! Jean a trop peur que les autres enfants apprennent quelque
+chose de nouveau. Et alors il serait en retard. Il ne pouvait pas dire,
+comme dans la poÃ©sie de Louis, Â«Si lâÃ©tude est parfois amÃ¨reÂ», car pour
+lui lâÃ©tude Ã©tait encore trÃ¨s amusante!
+
+Il irait donc Ã  lâÃ©cole, et Rose, la bonne, le conduirait. Jean
+boutonna bien son capuchon et tira son bÃ©ret par dessus ses oreilles.
+Rose ouvrit son parapluie et les voilÃ  partis, bras dessus, bras
+dessous.
+
+Tant quâils Ã©taient dans la rue, entre les maisons, tout alla bien. Ils
+avaient le vent dans le dos et Rose tenait donc le parapluie derriÃ¨re
+leurs tÃªtes. CâÃ©tait mÃªme trÃ¨s amusant et trÃ¨s commode ce vent qui vous
+poussait! Rose riait et Jean dansait sur le trottoir.
+
+Mais hÃ©las! voilÃ  quâils arrivÃ¨rent au coin de la rue et alors le
+plaisir Ã©tait fini, du moins pour Rose. Tout Ã  coup le vent souffla
+dâun autre cÃ´tÃ©. CâÃ©tait comme sâil venait de tous les cÃ´tÃ©s Ã  la fois.
+Rose ne pouvait plus tenir le parapluie: elle rÃ©solut de le fermer.
+Mais il Ã©tait trop tard! Le vent souffla dans le parapluie et crac! le
+voilÃ  retournÃ©!
+
+[Illustration]
+
+Et Rose? La pluie la mouillait tout Ã  fait et le vent lui arrachait
+presque le parapluie des mains. Et le pauvre petit Jean ne voyait plus
+oÃ¹ il Ã©tait car le vent avait retournÃ© son capuchon sur sa
+tÃªte. Il essayait de rabattre son capuchon, mais en vain!
+
+Heureusement un sergent de ville arriva. Il tint le parapluie de
+lâautre cÃ´tÃ©, de sorte que le vent lui-mÃªme retourna les baleines et
+lâÃ©toffe. Puis il rabattit le capuchon et lâon vit sortir la tÃªte de
+Jean.
+
+Â«Merci, merci, dit Rose. Quel vent dÃ©sagrÃ©able!
+
+--Merci, dit aussi Jean, mais lui il ajouta: Comme ce vent est amusant!Â»
+
+
+
+
+XVIII. Quel vent dÃ©licieux!
+
+
+BientÃ´t ils Ã©taient arrivÃ©s Ã  lâÃ©cole. Jean entra et Rose retourna
+Ã  la maison. Heureusement il ne pleuvait plus. Rose ferma donc son
+parapluie. Mais il faisait toujours du vent.
+
+A lâÃ©cole, tout Ã©tait tranquille. Le vent ne pouvait pas y entrer.
+Pourtant, chaque fois que la porte sâouvrait, le mÃ©chant vent essayait
+dâentrer. Alors il soulevait les capuchons et les manteaux suspendus
+dans le vestibule de lâÃ©cole. Et quand il pouvait entrer en classe, il
+retournait mÃªme les feuilles des livres. Alors, on lui fermait vite la
+porte au nez. LâÃ©cole Ã©tait pour les enfants. Monsieur le vent devait
+rester dehors. CâÃ©tait lÃ  sa place. LÃ , il pouvait jouer, chasser
+et taquiner autant quâil le voulait. Et câest ce quâil faisait! Il
+soufflait dans les rues et par dessus les toits. Et il soufflait
+aussi dans les arbres qui Ã©taient dans le jardin de lâÃ©cole. Il les
+attrapait et les secouait et alors la cime penchait Ã  droite et Ã 
+gauche, les branches craquaient et les pauvres feuilles mortes,
+arrachÃ©es des branches, sâenvolaient partout. Elles ne savaient pas
+oÃ¹ aller, les feuilles et, dans leur frayeur, elles entraient en
+classe par la fenÃªtre ouverte. Alors les enfants Ã©clataient de rire et
+levaient leurs petites mains pour les attraper au vol.
+
+Il Ã©tait vraiment bien amusant, le vent!
+
+
+
+
+XIX. Les Saisons.
+
+
+Les enfants sâamusaient beaucoup et avaient attrapÃ© bien des feuilles
+quâils montraient Ã  leur maÃ®tre.
+
+Â«Maintenant nous sommes en automne, dit le maÃ®tre.Â»
+
+Oui, câest ce que les enfants savaient.
+
+Â«Et quelles sont les autres saisons?Â» Plusieurs enfants levaient la
+main.
+
+Â«Allons Jean, rÃ©citez-moi les noms des saisons. Mettez-vous sur le
+petit banc devant la classe.Â»
+
+Jean monta sur le petit banc et rÃ©cita: Â«Les quatre saisons sont: le
+printemps, lâÃ©tÃ©, lâautomne et lâhiver.
+
+--Câest bien! Et quand commence le printemps?Â»
+
+Jean ne le savait pas et les autres enfants ne le savaient pas non
+plus. Mais Jean raconta quâen Ã©tÃ© il faisait chaud et en hiver
+froid, quâau printemps les feuilles venaient aux arbres et quâen
+automne elles tombaient. CâÃ©tait trÃ¨s bien pour un petit garÃ§on de six
+ans.
+
+[Illustration]
+
+Â«Et quelle saison aimez-vous le mieux?
+
+--Lâautomne, dit Jean. Le vent est si dÃ©licieux. Et Monsieur,
+poursuivit-il, ce matin mon capuchon sâest retournÃ© et un sergent
+de ville lâa rabattu. Et le parapluie de Rose sâest retournÃ© aussi!
+
+--Et vous trouviez Ã§a amusant, vous?
+
+--Oh oui, Monsieur, trÃ¨s amusant!Â»
+
+Monsieur se mit Ã  rire et se dit que Rose nâavait peut-Ãªtre pas trouvÃ©
+le vent si amusant.
+
+Et il avait bien raison.
+
+
+
+
+XX. Encore une petite fille.
+
+
+Marie Ã©tait assise Ã  la fenÃªtre. Elle regardait dans la rue: le vent
+lâamusait, elle aussi. Tous les petits papiers sâenvolaient, parfois
+mÃªme par dessus les toits.
+
+Mais ce cycliste ne sâamusait pas, lui. Il pÃ©dalait, pÃ©dalait et....
+nâavanÃ§ait pas.
+
+Et cette pauvre petite fille, lÃ  bas, ne sâamusait pas non plus. Oh!
+la pauvre enfant! Elle avait une petite robe trÃ¨s mince et avait lâair
+dâavoir bien froid.
+
+Â«O maman, dit Marie, regarde un peu comme cette petite fille a froid.
+Peut-elle entrer se chauffer?
+
+--Oui, petite, appelle-la donc.Â»
+
+Marie se mit Ã  crier: Â«Petite fille, petite fille!Â» Mais la petite
+fille ne lâentendait pas. Alors Marie frappa Ã  la vitre. Mais la petite
+fille ne lâentendait toujours pas.
+
+Â«Frappe un peu plus fort, dit la maman.Â» Marie frappa plus fort et
+enfin la petite fille se retourna. Mais elle ne comprenait pas
+quâon lâappelait. Alors Marie lui fit signe des deux mains.
+
+Â«Vous mâappelez?Â» demanda la fillette dans la rue. Maintenant Marie ne
+lâentendait pas. Alors la petite fille se mit la main sur la poitrine.
+Cela voulait dire: Câest moi que vous appelez? Oui, oui, dit la tÃªte de
+Marie.
+
+[Illustration]
+
+Alors la fillette sâapprocha enfin de la fenÃªtre. La maman de Marie
+avait dÃ©jÃ  dit Ã  Rose dâouvrir la porte. BientÃ´t la petite entra
+dans le vestibule, puis dans la chambre bien chauffÃ©e.
+
+Â«Comment tâappelles-tu? demanda tout de suite Marie.
+
+--Ninette, dit la petite fille.
+
+--Et comment va ta mÃ¨re? demanda la maman de Marie. Va-t-elle mieux?
+
+--Non, Madame, maman est encore bien malade.Â»
+
+Marie Ã©tait trÃ¨s Ã©tonnÃ©e. Sa maman connaissait donc Ninette?
+
+Mais ce nâÃ©tait pas Ã©tonnant, car Ninette Ã©tait la fille du jardinier
+qui arrangeait toujours le jardin derriÃ¨re la maison.
+
+
+
+
+XXI. Ninette.
+
+
+VoilÃ  plus dâun an que la mÃ¨re de Ninette Ã©tait malade. Tous les jours
+elle Ã©tait couchÃ©e. Quelquefois elle se levait pendant une heure,
+mais jamais elle ne sortait de la maison. Elle ne pouvait presque pas
+travailler. Elle cousait un peu dans son lit, mais câÃ©tait tout. VoilÃ 
+pourquoi les enfants devaient faire le mÃ©nage. Ninette aidait aussi
+beaucoup et pourtant elle nâavait que huit ans.
+
+La mÃ¨re de notre petite Marie avait souvent Ã©tÃ© voir la pauvre malade,
+pour lui apporter des fortifiants ou des fruits. Elle connaissait donc
+Ninette et voilÃ  pourquoi elle avait permis Ã  Marie dâappeler la petite
+fille.
+
+Â«Veux-tu jouer avec moi? demanda Marie.
+
+--Je ne puis pas rester, rÃ©pondit Ninette. Je dois aller Ã  lâÃ©cole.
+
+--Mais les classes commencent Ã  neuf heures, Jean est dÃ©jÃ  parti.
+
+--Oui, mais ma robe Ã©tait mouillÃ©e et jâai dÃ» retourner chez nous pour
+en mettre une autre.Â»
+
+CâÃ©tait dommage! Marie Ã©tait si contente dâavoir une camarade pour
+jouer avec elle, maintenant que Jean nâÃ©tait pas lÃ  et voilÃ  que
+Ninette devait aussi aller Ã  lâÃ©cole. Mais Ninette ne pouvait pas aller
+dans la rue sans manteau. Il faisait si froid. Et Marie lui demanda:
+
+Â«Pourquoi nâas-tu pas mis ton manteau?Â»
+
+Ninette ne rÃ©pondit pas, elle rougit seulement.
+
+Â«Et pourquoi la bonne ne tâa-t-elle pas conduite Ã  lâÃ©cole sous un
+parapluie? Alors tu ne serais pas mouillÃ©e. Rose a conduit Jean,
+nâest-ce pas maman?
+
+--Oui, rÃ©pondit maman, mais la mÃ¨re de Ninette nâa pas de bonne.
+Allons, dis au revoir Ã  ta nouvelle petite amie.Â»
+
+Et Ninette, qui avait bu la tasse de chocolat que Rose lui avait
+donnÃ©e, partit Ã  lâÃ©cole.
+
+Â«Au revoir, Ninette, tu reviendras, nâest-ce pas?
+
+--Oui, sâil vous plaÃ®t, au revoir Madame, au revoir Marie.Â»
+
+
+
+
+XXII. Ninette partie.
+
+
+Ninette Ã©tait partie Ã  lâÃ©cole et Marie lâavait vue partir sans
+manteau: et le vent Ã©tait bien froid!
+
+Marie avait bien entendu parler de pauvres, mais pourtant elle ne
+savait pas trÃ¨s bien ce que câÃ©tait. Il y avait donc des familles sans
+bonne? Qui faisait alors les lits et qui faisait la cuisine? Et une
+petite fille qui nâavait pas de manteau quand il faisait si froid?
+CâÃ©tait trop drÃ´le! Quand on a besoin dâun manteau, on va avec sa maman
+dans une boutique, pour en acheter un. Ou bien, un homme apporte une
+grande boÃ®te avec des manteaux Ã  la maison et puis on les essaye. Et
+papa paye le manteau quâon achÃ¨te.
+
+Â«Petite MÃ¨re, demanda Marie, pourquoi le papa de Ninette ne lui
+achÃ¨te-t-il pas un manteau?
+
+--Il ne peut pas le payer, chÃ©rie.
+
+--Pourquoi? parce que la maman de Ninette est malade peut-Ãªtre? Cela
+coÃ»te-t-il cher dâÃªtre malade, maman?
+
+--Oui, chÃ©rie, rÃ©pondit maman.Â»
+
+Elle ne pouvait pas tout dire Ã  sa petite fille.
+
+Â«Mais tu nâes pas malade, maman, alors papa peut bien payer le manteau
+de Ninette.
+
+--Câest Ã§a, nous irons en acheter un ensemble.Â»
+
+Et la maman sortit de la chambre pour causer avec Rose du dÃ®ner.
+
+
+
+
+XXIII. Marie regarde par la fenÃªtre.
+
+
+La petite Marie Ã©tait de nouveau seule. Heureusement elle avait Paul et
+Alice. Elle les mit dans la croisÃ©e: alors ils pouvaient regarder par
+la fenÃªtre quels tours jouait le vent.
+
+[Illustration]
+
+VoilÃ  quâarrive un grand garÃ§on, tirant une voiture Ã  bras. Il a le
+vent dans le dos: le vent le pousse donc et pousse aussi la voiture.
+Mais tout Ã  coup le vent enlÃ¨ve la casquette du garÃ§on et lâemporte
+bien loin. Le garÃ§on laisse la voiture au milieu de la rue et court Ã 
+toutes jambes pour attraper sa casquette. VoilÃ  la casquette, le garÃ§on
+arrive, il se baisse pour la ramasser mais.... voilÃ  le vent qui la
+prend et lâemporte encore plus loin.
+
+Marie presse son petit nez contre la vitre pour voir si le garÃ§on
+attrape sa casquette. Mais il est trop loin, elle ne le voit plus et la
+voiture Ã  bras attend toujours dans la rue.
+
+VoilÃ  des moineaux qui sâabattent dans la rue. Ils cherchent des
+miettes, mais le vent les pousse. Oh! les pauvres moineaux! Ils ne
+peuvent presque pas se tenir sur leurs petites pattes. Et quand ils
+voient une graine ou une miette, ils doivent souvent courir aprÃ¨s,
+comme le garÃ§on aprÃ¨s sa casquette.
+
+Oh! voilÃ  justement le garÃ§on. Il a attachÃ© sa casquette avec une
+ficelle. Maintenant il reprend sa voiture et continue son chemin.
+
+[Illustration]
+
+Une pauvre vieille arrive maintenant. Elle ne peut presque pas
+avancer. Elle marche tout prÃ¨s des maisons, mais lÃ  aussi souffle ce
+vilain vent. Elle doit sâarrÃªter bien souvent. Le vent souffle si fort
+et ses jupes sont tendues contre ses jambes. Pauvre vieille! elle
+nâaime pas beaucoup le vent.
+
+Comme Ã§a Marie voit tous les tours que joue ce vent que les uns
+trouvent bien amusant et les autres bien dÃ©sagrÃ©able!
+
+
+
+
+XXIV. Marie sort.
+
+
+A onze heures la maman de Marie entre dans la chambre.
+
+Â«Tiens, dit-elle, tu regardes encore par la fenÃªtre?
+
+--Oui, maman, rÃ©pond Marie. Tout est amusant aujourdâhui. Les papiers
+volent, les casquettes volent. Paul et Alice ont aussi regardÃ© dans la
+rue.
+
+--Veux-tu sortir avec moi et aller prendre Jean Ã  lâÃ©cole?
+
+--Oh! je veux bien, petite MÃ¨re.
+
+--Tu nâas donc pas peur de ce vent dÃ©sagrÃ©able?
+
+--Non, pas du tout, je le trouve si amusant!Â»
+
+BientÃ´t, la maman et la petite fille sortent de la maison, chaudement
+habillÃ©es.
+
+Dâabord, elles vont dans un magasin de nouveautÃ©s acheter un manteau
+pour Ninette. Le marchand en montre plusieurs et la maman en
+choisit un bien chaud et bien long.
+
+Puis elles vont Ã  lâÃ©cole et entrent dans le vestibule: il fait si
+froid dans la rue! BientÃ´t elles entendent une cloche et tous les
+petits garÃ§ons et les petites filles arrivent deux Ã  deux et bien en
+rang. Marie voit tout de suite son petit frÃ¨re, mais celui-ci reste
+bien en rang jusquâÃ  la porte, puis il court vers sa mÃ¨re:
+
+Â«Bonjour maman, bonjour Marie.Â»
+
+Et les voilÃ  partis tous les trois, la maman donnant le bras Ã  ses deux
+enfants. Au coin de la rue le vent essaya encore une fois de retourner
+le capuchon, mais Jean le tenait bien cette fois!
+
+BientÃ´t ils sont rentrÃ©s. Tous les trois ont les joues bien rouges.
+VoilÃ  ce quâavait fait ce bon vent!
+
+
+
+
+XXV. Il nous faut travailler tous.
+
+
+Â«O maman, comme jâai faim! dit un jour Jean en rentrant de lâÃ©cole.
+
+--Câest une bonne maladie, dit maman. Le dÃ®ner te guÃ©rira.Â»
+
+Une heure aprÃ¨s, Ã  table, Jean vit que le dÃ®ner Ã©tait bien bon quand on
+avait faim. Il mangea comme quatre et.... la faim disparut!
+
+AprÃ¨s le dÃ®ner, Papa, Maman, Jean et Marie Ã©taient dans la
+chambre. Les enfants jouaient, maman prÃ©parait le thÃ© et papa sâÃ©tait
+assis dans un fauteuil et sâÃ©tait endormi.
+
+Mais les enfants faisaient beaucoup de bruit. Ils jouaient au vent.
+
+Paul, le chanteur, Ã©tait un grand garÃ§on qui, dâun bras, poussait une
+voiture. Et voilÃ  que le vent emportait sa casquette! Mais le vent,
+câÃ©tait la main de Jean. Il avait pris la casquette et lâavait lancÃ©e
+bien loin dans la chambre. Alors Paul laissait sa voiture Ã  bras au
+milieu de la chambre et Marie prenait Paul par la main et courait aprÃ¨s
+la casquette.
+
+Â«Vous faites trop de bruit, mes enfants, dit maman. Papa ne peut pas se
+reposer.Â»
+
+Pendant un moment tout fut tranquille, mais bientÃ´t le bruit
+recommenÃ§a. Il faisait tant de vent!
+
+Â«Venez ici, mes chÃ©ris, dit tout doucement maman. Si vous faites tant
+de bruit, papa se rÃ©veillera et alors il ne se sera pas bien reposÃ©.Â»
+
+Les enfants venaient chez maman, mais ils nâÃ©taient pas contents: ils
+sâamusaient si bien!
+
+Â«Pourquoi papa doit-il dormir? demanda Marie. Nous dormons la nuit.
+
+--Parce que papa est si fatiguÃ©.
+
+--Et pourquoi papa est-il si fatiguÃ©?
+
+--Parce quâil travaille tant.
+
+--Pourquoi travaille-t-il tant?
+
+--Pour gagner de lâargent.
+
+--Et pourquoi doit-il gagner de lâargent?
+
+--Parce que nous devons manger, mes enfants. Quand les enfants rentrent
+de lâÃ©cole et quâils ont bien faim, nous devons leur donner Ã  manger.
+Et ce manger, nous devons lâacheter. Et pour lâacheter, il faut de
+lâargent. Et cet argent papa doit le gagner. Et pour gagner cet argent,
+papa doit beaucoup travailler!
+
+[Illustration]
+
+Allons, je vous apprendrai une poÃ©sie sur cinq petits bonshommes.
+
+    Le premier dit: Jâai bien faim!
+    Lâautre dit: Il faut du pain!
+    Lâautre dit: Je nâen ai guÃ¨re.
+    Le voisin dit: Comment faire!
+    Le petit dit: Savez-vous?
+    Il nous faut travailler tous.Â»
+
+Quand papa se rÃ©veilla, il sâÃ©tait bien reposÃ© et les petits pouvaient
+lui rÃ©citer une jolie poÃ©sie.
+
+
+
+
+XXVI. Le plus petit, le plus sage.
+
+
+Et qui Ã©taient ces cinq petits bonshommes? CâÃ©taient les cinq doigts
+de la main. Le premier, qui a faim, câest le pouce. Le second, qui dit
+quâil faut du pain, câest monsieur lâindex. Le troisiÃ¨me, qui remarque
+tristement quâil nâa rien, câest le majeur ou doigt du milieu. Le
+quatriÃ¨me, qui demande ce quâil faut faire, câest lâannulaire. Et le
+cinquiÃ¨me, le plus sage de tous, câest le petit doigt ou auriculaire.
+
+Ce petit doigt sait quâil faut travailler pour gagner son pain. Il est
+donc le plus sage et pourtant câest le plus petit.
+
+Â«Câest tout juste comme dans le Petit Poucet, dit maman.
+
+--O maman, demandÃ¨rent Jean et Marie, raconte-nous lâhistoire du Petit
+Poucet.Â»
+
+Ils la connaissaient dÃ©jÃ , mais ils dÃ©siraient beaucoup lâentendre
+encore une fois.
+
+Et voici ce que maman raconta: Â«Il Ã©tait une fois un bÃ»cheron qui
+demeurait dans un grand bois avec sa femme, la bÃ»cheronne, et avec ses
+sept enfants, tous garÃ§ons. Le cadet, qui Ã©tait tout petit, sâappelait
+le Petit Poucet.
+
+Il travaillait aussi beaucoup, notre bÃ»cheron, pour nourrir toutes ces
+petites bouches, mais il gagnait trÃ¨s peu dâargent.
+
+Un jour quâil nâavait plus rien Ã  leur donner Ã  manger, le bÃ»cheron
+dit Ã  sa femme: Â«Je vais aller perdre les enfants dans le bois. Jâaime
+mieux quâils meurent de faim dans le bois que chez nous.Â» La pauvre
+bÃ»cheronne pleura beaucoup, mais consentit enfin Ã  ce que son mari
+voulait.
+
+
+
+
+XXVII. Le Petit Poucet. (suite)
+
+
+Â«Le lendemain, le pÃ¨re partit avec ses enfants pour les perdre dans
+le bois. Mais le Petit Poucet, qui sâÃ©tait cachÃ© derriÃ¨re la porte,
+le soir, et qui avait entendu tout ce que ses parents disaient, avait
+emportÃ© des cailloux blancs.
+
+[Illustration]
+
+Il jeta ces cailloux sur la route, et quand le pÃ¨re fut parti et que
+les six frÃ¨res pleuraient, Petit Poucet leur dit: Â«Suivez-moi. Je
+retrouverai la maison.Â» Et il conduisit ses six grands frÃ¨res Ã  la
+maison, en suivant les cailloux blancs.
+
+Les sept frÃ¨res restÃ¨rent quelque temps Ã  la maison, car le pÃ¨re avait
+reÃ§u un peu dâargent.
+
+Mais quand il nâeut plus dâargent, le pauvre bÃ»cheron rÃ©solut de perdre
+encore une fois les enfants. Quand le petit Poucet voulut, comme la
+premiÃ¨re fois, chercher des cailloux blancs, la porte Ã©tait fermÃ©e.
+Alors il emporta du pain et jeta du pain sur la route. Mais hÃ©las!
+quand, le soir, le pÃ¨re fut parti, les laissant seuls, et que les
+enfants voulurent rentrer, il nây avait plus de miettes sur la route:
+les oiseaux avaient tout mangÃ©.
+
+Les voilÃ  tout seuls dans le bois, les pauvres petits! Le Petit Poucet
+grimpa alors vite dans un arbre et il vit bientÃ´t une petite lumiÃ¨re.
+Â«Je vois une maison, dit-il.Â» Il descendit de lâarbre et les voilÃ  en
+route.
+
+Ils cherchÃ¨rent longtemps leur chemin, mais arrivÃ¨rent enfin Ã  la
+maison. Ils frappÃ¨rent, une femme ouvrit la porte et les enfants lui
+demandÃ¨rent sâils pouvaient entrer dans sa maison: ils avaient peur du
+loup, la nuit, dans le bois. La femme leur rÃ©pondit que cette maison
+Ã©tait Ã  son mari, lâogre, et que celui-ci mangeait les petits enfants.
+Mais elle voulait bien les cacher jusquâau lendemain. Et quand elle
+entendit arriver lâogre, elle cacha bien vite les sept petits enfants
+sous le lit.
+
+
+
+
+XXVIII. Le Petit Poucet. (fin)
+
+
+Quand lâogre entra dans la chambre, il dit tout de suite: Â«Je sens la
+chair fraÃ®che!Â»
+
+Il chercha partout et trouva les sept pauvres petits enfants sous le
+lit. Il voulait dÃ©jÃ  les tuer pour les manger, mais sa femme lui dit:
+Â«Mange ce veau que jâai fait rÃ´tir pour toi, tu mangeras les enfants
+demain.Â»
+
+Quand lâogre eut mangÃ© le veau, il sâendormit et pendant la nuit, la
+femme ouvrit la porte et les sept enfants partirent bien vite.
+
+Le lendemain, lâogre dit: Â«OÃ¹ sont les enfants? Je veux les manger pour
+mon dÃ©jeuner.Â» Mais sa femme lui dit quâils Ã©taient partis. Furieux,
+lâogre mit ses bottes de sept lieues et courut aprÃ¨s les enfants.
+
+Mais ceux-ci sâÃ©taient cachÃ©s et lâogre passa devant eux, sans
+les voir. Quand lâogre fut fatiguÃ©, il se coucha sur la mousse et
+sâendormit. Pendant quâil dormait, le Petit Poucet sortit de sa
+cachette. Il coupa la tÃªte de lâogre, lui Ã´ta ses bottes de sept lieues
+et les mit Ã  ses petites jambes. Il rentra alors avec ses frÃ¨res, mais
+lui-mÃªme partit ensuite chez le roi. Le roi Ã©tait en guerre et le Petit
+Poucet, avec ses bottes de sept lieues, lui apporta des nouvelles de
+son armÃ©e qui Ã©tait trÃ¨s loin. Il fit tant de commissions pour le roi,
+que celui-ci lui donna un grand sac de piÃ¨ces dâor.
+
+Avec tout cet argent, le Petit Poucet rentra chez son pÃ¨re, le
+bÃ»cheron, et celui-ci fut bien content de le voir arriver.
+
+Et ils vÃ©curent trÃ¨s longtemps heureux ensemble.
+
+
+
+
+XXIX. La Neige.
+
+
+Jean trouva lâhistoire trÃ¨s belle, comme toujours, mais il remarqua
+pourtant quelque chose qui ne lâavait jamais frappÃ©. Ce bÃ»cheron
+nâÃ©tait pas un vrai pÃ¨re! Un vrai pÃ¨re travaille pour ses enfants.
+Câest pour cela que son papa Ã  lui Ã©tait si fatiguÃ© tous les soirs et
+quâil devait faire un somme. Et le bÃ»cheron chassait ses enfants dans
+le bois et ils pouvaient revenir quand ils avaient des sacs pleins
+dâor. CâÃ©tait le monde renversÃ©! Non, Jean nâaimait pas un tel papa. Il
+Ã©tait content dâen avoir un autre, un vrai! Il jouerait toujours tout
+doucement le soir. Son papa pourrait alors faire un bon somme.
+
+Jean avait raison. Mais heureusement on ne trouve ces bÃ»cherons-lÃ  que
+dans les contes de fÃ©es. Les vrais bÃ»cherons ne sont pas de si mauvais
+pÃ¨res!
+
+Â«O maman, il neige!Â» cria tout Ã  coup Marie.
+
+Les rideaux nâÃ©taient pas fermÃ©s et les enfants virent les beaux
+flocons blancs tomber du ciel sur la terre. Dâabord quelques petits
+flocons, puis un peu plus et bientÃ´t tant de flocons tombaient quâon ne
+voyait plus que du blanc partout.
+
+Les enfants nâavaient pas beaucoup envie dâaller se coucher, mais ils
+montÃ¨rent pourtant bientÃ´t et, dans leurs petits lits, ils pensÃ¨rent au
+plaisir quâils auraient le lendemain.
+
+Le lendemain, un Ã©pais tapis de neige couvrait la terre. Que
+câÃ©tait amusant pour les enfants. CâÃ©tait un jeudi, heureusement.
+Jean nâallait donc pas en classe. Il joua au jardin avec Marie. Ils
+se jetÃ¨rent des boules de neige, montÃ¨rent en traÃ®neau, et firent des
+glissades. Quâelle Ã©tait amusante la neige!
+
+[Illustration]
+
+
+
+
+XXX. Les Moineaux.
+
+
+[Illustration]
+
+Et les moineaux? Aimaient-ils aussi la neige? Oh non! Ils trouvaient
+dÃ©jÃ  si peu de graines par ces froids et maintenant tout Ã©tait cachÃ©
+sous cet Ã©pais tapis blanc. Comment feraient-ils pour trouver Ã  manger
+maintenant? Heureusement les enfants Ã©taient lÃ . Leurs petites
+mains jetÃ¨rent des miettes au jardin et comme Ã§a les pauvres moineaux
+ne mouraient pas de faim.
+
+Et en mÃªme temps, Jean apprenait Ã  Marie une chanson quâil avait
+apprise Ã  lâÃ©cole, sur les moineaux et sur la neige. La voici.
+
+    LES MOINEAUX.
+
+    [Musique]
+
+    1.
+
+    Blanche neige est en voyage,
+    Câest lâhiver, câest lâhiver!
+    Les moineaux dans le village
+    Font leur plainte de concert.
+    Blanche neige est en voyage,
+      Câest lâhiver! (_bis_)
+
+    2.
+
+    Plus dâabri sous les feuillages,
+      Plus de grain! (_bis_)
+    Le vent perce les plumages,
+    Mais surtout, on a bien faim!
+    Plus dâabri sous les feuillages,
+      Plus de grain! (_bis_)
+
+    3.
+
+    Un enfant alors partage
+      Son goÃ»ter! (_bis_)
+    Dans les trous du voisinage,
+    Chacun peut en emporter!
+    Un enfant alors partage
+      Son goÃ»ter! (_bis_)
+
+    4.
+
+    AussitÃ´t, joyeux tapage,
+      Sur le toit. (_bis_)
+    Les pauvrets ont pris courage,
+    Et gaÃ®ment bravent le froid.
+    AussitÃ´t, joyeux tapage,
+      Sur le toit! (_bis_)
+
+
+
+
+XXXI. Quatre fois deux font sept.
+
+
+Â«Maman, tu mâas promis que Ninette pourrait venir jouer avec moi. Rose
+peut-elle aller la chercher, dis?
+
+--Mais, chÃ©rie, Ninette est en classe aujourdâhui. Demain, câest jeudi,
+alors elle aura congÃ©, comme tous les enfants. Nous lâinviterons
+alors, si tu veux.
+
+--Oh oui, maman. Que câest amusant! Il faut quâelle reste toute la
+journÃ©e alors.Â»
+
+Notre petite Marie Ã©tait bien contente. Rose dut aller tout de suite
+inviter Ninette. Heureusement la maman de Ninette allait un peu mieux;
+elle permit donc Ã  sa petite fille dâaller passer tout le jeudi chez
+Marie.
+
+[Illustration]
+
+Maintenant, câest jeudi et les deux petites amies sont ensemble.
+Ninette est lâaÃ®nÃ©e et pourtant câest Marie qui commande. Elle conduit
+sa nouvelle amie partout, lui montre ses poupÃ©es, leur lit, leur
+voiture et tous les autres joujoux. Ninette trouve tout cela bien
+beau et est trÃ¨s contente de jouer.
+
+VoilÃ  dâautres visites, câest Louis et Henriette. Louis sâen va bien
+vite au jardin avec Jean et les trois fillettes restent dans la
+chambre. A quoi joueront-elles? A lâÃ©cole? Oui, câest Ã§a. Henriette
+sera la maÃ®tresse, car elle est lâaÃ®nÃ©e. Marie et Ninette sâassoient
+sur deux petites chaises et Henriette marche de long en large dans la
+chambre: une maÃ®tresse peut faire ce quâelle veut! Enfin, elle sâarrÃªte
+devant la classe et dit Ã  Ninette:
+
+Â«Comment tâappelles-tu?
+
+--Ninette, Mademoiselle.
+
+--Eh bien, Ninette, rÃ©cite-moi la table de cinq.Â»
+
+Et Ninette rÃ©cite:
+
+    Â«Une fois cinq fait cinq.
+    Deux fois cinq font dix.
+    Trois fois cinq font quinze.
+    Quatre fois cinq font vingt.
+    Cinq fois cinq font vingt-cinq.
+    Six fois cinq font trente.
+    Sept fois cinq font trente-cinq.
+    Huit fois cinq font quarante.
+    Neuf fois cinq font quarante-cinq.
+    Dix fois cinq font cinquante.
+
+--Câest bien, dit la maÃ®tresse. Et toi, Marie, rÃ©cite-moi la table de
+deux.
+
+--Je ne la sais pas, Mademoiselle.
+
+--Alors, je tâaiderai. Commence toujours.Â»
+
+Et Marie rÃ©cite:
+
+    Â«Une fois deux fait deux.
+    Deux fois deux font quatre.
+    Trois fois deux font six.
+    Quatre fois deux font sept.
+    Cinq fois deux font quinze.
+    Six....
+
+--HolÃ ! crie la maÃ®tresse, ce nâest pas Ã§a! Quatre fois deux font
+huit; cinq fois deux font dix. Et combien font six fois deux?
+
+--Six fois deux font neuf, rÃ©pond Marie.
+
+--Non, non, ce nâest pas Ã§a! Tu ne sais pas tes tables de
+multiplication. Compte alors de un Ã  cent.Â»
+
+Marie commence Ã  compter. Tout va bien jusquâÃ  douze, mais ensuite elle
+dit: quinze, vingt, dix-sept, cent. Elle y est bien vite comme Ã§a,
+mais, Ã  vrai dire, beaucoup trop vite.
+
+
+
+
+XXXII. Le ThÃ©.
+
+
+A prÃ©sent, Marie veut jouer Ã  autre chose; mais Ã  quoi? Si lâon jouait
+au thÃ©: elle a un si joli service Ã  thÃ©. Câest Ã§a, ce sera amusant.
+
+Marie pose sur sa petite table un plateau sur lequel elle met la
+thÃ©iÃ¨re, le pot au lait, le sucrier, quelques tasses et des soucoupes
+et enfin une boÃ®te avec de jolies petites cuillers. Maman met des
+feuilles de thÃ© dans la thÃ©iÃ¨re, mais trÃ¨s peu, car le thÃ© ne doit
+pas Ãªtre trop fort. Rose ajoute de lâeau bouillante et maintenant Marie
+laisse infuser le thÃ© sous le joli petit chauffe-thÃ© que sa maman lui a
+fait.
+
+Henriette et Ninette vont dans lâautre chambre. Elles doivent venir en
+visite chez Marie.
+
+Elles frappent: toc toc.
+
+Â«Entrez,Â» crie Marie.
+
+Deux petites dames entrent dans la chambre. Â«Bonjour, Madame, vous
+allez bien?
+
+--TrÃ¨s bien, merci, Madame; et comment allez-vous?
+
+--TrÃ¨s bien, Madame. Quel temps, nâest-ce pas? Il y a de la neige
+partout et ces mÃ©chants gamins vous jettent des boules.
+
+--Asseyez-vous donc, mesdames. Puis-je vous offrir une tasse de thÃ©?
+
+--Avec plaisir, Madame.
+
+--Prenez-vous du sucre et du lait?
+
+--Volontiers, dit Ninette.
+
+--Vous aussi, Madame Henriette?
+
+--Du sucre, mais pas de lait, sâil vous plaÃ®t.Â»
+
+Marie remplit trÃ¨s bien les deux tasses, sans renverser une goutte.
+Mais quand elle remplit sa tasse Ã  elle, oh la la! elle verse trop
+vite, et remplit aussi la soucoupe. Ce nâest pas joli de donner un bain
+de pied Ã  sa tasse.
+
+Â«Excusez-moi, dit Marie Ã  ses visites. Je vais appeler Jeanne.Â»
+
+Jeanne, câest la bonne, mais elle ne peut pas bien marcher: elle
+a des jambes en toile, en son et en faÃ¯ence. VoilÃ  pourquoi Marie la
+porte et maintenant Jeanne, la bonne, lave la tasse et la soucoupe avec
+les mains de Madame.
+
+[Illustration]
+
+Â«A la bonne heure! dit Marie. Le malheur est rÃ©parÃ©! Voulez-vous un
+petit four, Madame?
+
+--Avec plaisir,Â» disent Henriette et Ninette. Marie arrive avec une
+boÃ®te en fer blanc oÃ¹ il y a heureusement encore quelques biscuits.
+Elle les offre; les deux visites se mettent Ã  les grignoter,
+lorsque.... boum! on entend un grand coup contre les vitres, du
+cÃ´tÃ© du jardin. Les trois dames se lÃ¨vent et, de frayeur, Ninette
+laisse tomber son biscuit.
+
+
+
+
+XXXIII. Dans la Neige.
+
+
+DâoÃ¹ venait ce coup? Il y a une grande cocarde blanche sur la vitre. Ce
+sont les restes dâune balle. Est-ce quâon se bat donc au jardin? Oui,
+deux soldats se battent contre un gros bonhomme tout blanc.
+
+Dâabord, les soldats ont fait le bonhomme. Ils ont roulÃ© la neige et
+en ont fait deux grosses jambes; une autre grosse boule reprÃ©sente le
+corps et une derniÃ¨re boule, plus petite, reprÃ©sente la tÃªte. Ils ont
+placÃ© le gros corps sur les deux jambes, puis la tÃªte sur le corps.
+Au milieu de la tÃªte, ils ont mis une petite boule un peu aplatie:
+câest le nez. Au-dessus du nez, Ã  droite et Ã  gauche, deux pierres
+reprÃ©sentent les yeux. Câest comme Ã§a que le gros bonhomme tout blanc
+est nÃ©. A prÃ©sent les deux soldats le bombardent de boules blanches:
+ce sont les balles. Mais les balles ne sont pas toutes bien lancÃ©es et
+câest comme Ã§a quâil y en a une qui sâest aplatie contre les vitres et
+a effrayÃ© les trois dames qui prenaient le thÃ©.
+
+Comme elles sont debout Ã  prÃ©sent, ces dames courent vers la fenÃªtre.
+Comme les garÃ§ons sâamusent! Marie oublie quâelle est une dame qui
+reÃ§oit des visites et elle crie:
+
+Â«Maman, pouvons-nous aussi aller au jardin, dis? Câest si amusant!
+
+--Jâai peur que vous vous mouilliez, mes petites.
+
+--Oh! Ã§a ne fait rien, maman. Câest si amusant de lancer des boules de
+neige!
+
+--Et de les lancer contre les vitres, nâest-ce pas? Eh bien, allez,
+mais faites attention de ne pas trop vous mouiller et dites aux garÃ§ons
+de prendre garde aux vitres.Â» Marie court Ã  toutes jambes au jardin.
+Sa cousine et Ninette la suivent. Cette derniÃ¨re passe une bien bonne
+journÃ©e. Câest si amusant de jouer Ã  lâÃ©cole, de prendre le thÃ© et de
+lancer des boules de neige.
+
+Jean met une branche dans la bouche du bonhomme: câest son cigare.
+Celui des cinq enfants qui fera tomber le cigare aura gagnÃ©. Les cinq
+petits sont bien occupÃ©s. Ils ramassent de la neige, en font des
+boules et les lancent contre la tÃªte du soldat blanc. Mais ce monsieur
+continue tranquillement Ã  fumer. Les balles sifflent autour de ses
+oreilles, mais il ne bouge pas.
+
+Â«Bravo!Â» crie tout Ã  coup la petite troupe. Une boule avait touchÃ© le
+cigare et celui-ci Ã©tait tombÃ© par terre.
+
+Â«Qui a si bien visÃ©? demande Louis.
+
+--Câest Ninette, dit Marie, elle sait encore mieux viser que les
+garÃ§ons!Â»
+
+[Illustration]
+
+Ninette est si contente: elle sâamuse tant! et elle rit de tout
+cÅur avec les enfants. Cela ne lui arrive pas souvent Ã  la pauvre
+petite. Chez elle tout est si triste parce que sa maman est
+toujours malade, et Ninette est encore si petite! Quand elle rentre ce
+soir-lÃ , elle raconte quelle bonne journÃ©e elle a eue, et puis, elle
+sâendort, trÃ¨s contente.
+
+
+
+
+XXXIV. Sur la Glace.
+
+
+Quelques jours aprÃ¨s, lâhiver apporta un nouvel amusement. Il avait
+gelÃ© plusieurs jours et plusieurs nuits de suite, et les Ã©tangs du bois
+Ã©taient couverts dâune Ã©paisse couche de glace.
+
+Jean et Marie ne savaient pas encore patiner: ils Ã©taient si petits.
+Mais Louis et Henriette patinaient dÃ©jÃ  trÃ¨s bien et Papa avait promis
+aux petits quâil les emmÃ¨nerait aux Ã©tangs pour voir patiner leur
+cousin et leur cousine.
+
+Il faisait trÃ¨s froid ce jour-lÃ , mais il nây avait pas de vent et le
+soleil brillait et vous rÃ©chauffait. Le papa se mit donc en route avec
+les deux enfants, et, comme ils marchaient dâun bon pas, ils arrivÃ¨rent
+bientÃ´t aux Ã©tangs.
+
+Â«Pouvons-nous aller sur la glace, papa? demanda Jean.
+
+--Sans doute, mon garÃ§on, rÃ©pondit papa. Venez avec moi.Â»
+
+Et les voilÃ  qui descendent tous les trois sur la glace. Quelles belles
+glissades on pouvait faire! Aussi Jean et Marie ne marchaient pas, ils
+glissaient tout le temps.
+
+Que de patineurs sur la glace! Ils se croisaient dans tous les
+sens et avaient lâair de voler comme de grands oiseaux. Ils avanÃ§aient
+si vite, si vite. Il y en avait tant, que papa ne pouvait pas y aller
+avec ses deux petits; ils restÃ¨rent donc prÃ¨s du bord.
+
+[Illustration]
+
+Â«VoilÃ  Louis!Â» cria tout Ã  coup Jean.
+
+Oui, câÃ©tait vrai: Louis patinait avec Henriette au milieu de tout ce
+monde. Jean et Marie eurent tout Ã  coup bien envie de patiner, eux
+aussi.
+
+Â«AchÃ¨te-nous des patins, petit pÃ¨re, demanda Marie, jâaimerais tant
+patiner!
+
+--Quand tu seras plus grande, chÃ©rie. Attends seulement un an ou deux.Â»
+
+Louis et Henriette avaient vu leur oncle et arrivÃ¨rent bien vite
+lui dire bonjour. Ils Ã©taient tout rouges, tant ils avaient chaud.
+
+Â«Bonjour, mon oncle!
+
+--Bonjour, mes enfants, dit lâoncle. Ne vous arrÃªtez pas trop
+longtemps. Vous avez tellement chaud. Vous pourriez attraper froid.
+
+--Un moment seulement, petit oncle, pour nous reposer.Â»
+
+Jean regardait les beaux patins de Louis.
+
+Â«Quel Ã¢ge avais-tu quand tu as reÃ§u tes patins? demanda-t-il.
+
+--Huit ans, dit Louis.
+
+--Comme tu sais dÃ©jÃ  bien patiner!Â» Louis se mit Ã  rire.
+
+A prÃ©sent, il fallait quâils se remettent en marche.
+
+Â«Au revoir! au revoir!Â» criaient-ils encore de loin, et bientÃ´t ils
+avaient disparu.
+
+Papa fit encore le tour des Ã©tangs avec les enfants, puis ils
+rentrÃ¨rent.
+
+
+
+
+XXXV. Il fait bien froid.
+
+
+Â«CâÃ©tait si amusant, maman, cria Marie, en rentrant dans la chambre.
+
+--Nous avons vu Louis et Henriette qui patinaient si bien, ajouta Jean.
+
+--Mais jâai bien froid aux mainsÂ» dit Marie lorsquâelle eut Ã´tÃ© ses
+gants. Dehors, elle ne sâen Ã©tait pas aperÃ§ue; mais maintenant quâelle
+Ã©tait dans la chambre chaude, elle le sentait.
+
+Â«Ne te mets pas prÃ¨s du poÃ«le, dit maman: tes mains te feraient
+mal. Je sais un jeu qui rÃ©chauffe joliment bien les mains. Viens ici.Â»
+
+Marie sâassied sur une chaise, devant la fenÃªtre et la maman sâassied
+en face dâelle.
+
+Â«Tape maintenant deux fois dans tes mains, comme Ã§a: un, deux! Câest
+bien! A prÃ©sent tape dans la paume de mes mains: trois! A prÃ©sent, en
+mesure! et la maman chante la chanson suivante:
+
+    [Musique]
+
+    1.
+
+      Un, deux, trois,
+    Voici les grands froids!
+    Main qui se repose
+    Jusquâau bout des doigts
+    Devient froide et rose,
+      Un, deux, trois!
+
+    2.
+
+      Un, deux, trois,
+    Voici les grands froids!
+    La main qui sâagite,
+    Jusquâau bout des doigts,
+    Se rÃ©chauffe vite,
+      Un, deux, trois!
+
+    3.
+
+      Un, deux, trois,
+    Voici les grands froids!
+    La chanson commence,
+    Messieurs les dix doigts,
+    Entrez vite en danse,
+      Un, deux, trois!Â»
+
+BientÃ´t, Marie chante aussi et frappe bien en mesure dans ses
+mains, puis contre celles de sa mÃ¨re. Ses petites mains ne sont plus
+froides du tout Ã  prÃ©sent.
+
+
+
+
+XXXVI. Voici le Printemps.
+
+
+Lâhiver, avec sa neige et sa glace, est passÃ©. Câest peut-Ãªtre dommage
+pour les personnes qui pouvaient sâamuser Ã  patiner, Ã  faire des
+glissades, ou Ã  sortir en traÃ®neau. Mais câest trÃ¨s agrÃ©able pour les
+pauvres qui avaient froid et faim, qui nâavaient pas de charbon pour
+se chauffer, pas de bons vÃªtements chauds et presque pas de nourriture
+pour eux-mÃªmes et pour leurs enfants. Ils Ã©taient heureux de voir
+arriver le printemps. Les oiseaux aussi Ã©taient contents de voir fondre
+la neige et la glace: souvent aussi ils avaient eu froid et faim. Mais
+pas les oiseaux du jardin de Jean et de Marie. Ces derniers avaient
+mis tous les jours un petit baquet dâeau et une assiettÃ©e de pain au
+jardin. Et les moineaux, les pinsons et les mÃ©sanges en avaient mangÃ©.
+Mais ces oiseaux-lÃ  Ã©taient tout de mÃªme bien contents de voir briller
+le soleil du printemps. Oh! la bonne chaleur du soleil! La terre
+sâÃ©tait amollie, les bourgeons des arbres se gonflaient. On voyait
+dÃ©jÃ  de toutes petites feuilles vertes. Et les oiseaux se mettaient Ã 
+chanter.
+
+Deux pinsons bÃ¢tissaient leur nid dans le jardin. Ils voulaient
+sans doute chanter pour Ã©gayer ces enfants qui les avaient si bien
+soignÃ©s en hiver.
+
+Jean et sa maman les regardaient.
+
+Â«Regarde, maman, dit Jean, voilÃ  encore notre pinson. Il a un brin de
+paille dans le bec. OÃ¹ fait-il son nid?
+
+--Eh bien, regarde-le!
+
+--Mais je ne le vois pas!
+
+--Le voilÃ  sur la branche, lÃ ! le vois-tu Ã  prÃ©sent?
+
+--Oh oui! juste dans ce petit coin entre deux branches, je le vois qui
+bÃ¢tit son nid.
+
+--Et quand le nid sera prÃªt, la femelle pondra des Åufs et de ces
+Åufs sortiront les petits oiseaux!Â»
+
+Oh! il y avait tant Ã  voir au jardin, par cette belle journÃ©e de
+printemps et il y faisait si bon! La petite Marie y Ã©tait presque toute
+la journÃ©e. Les oiseaux continuaient tranquillement Ã  construire leur
+nid: ils nâavaient pas du tout peur de cette gentille petite fille.
+
+
+
+
+XXXVII. Fleurs de Printemps.
+
+
+Mais le lendemain, quand Jean fut parti Ã  lâÃ©cole, Marie se sentit
+un peu seule au jardin. Avec qui jouer? A qui parler? Il nây avait
+pas dâenfants et les oiseaux ne la comprenaient pas. Elle irait donc
+chercher Paul et Alice.
+
+Elle mettrait Alice par terre dans lâherbe. LÃ  elle pourrait cueillir
+des fleurs. Et elle mettrait Paul dans les branches dâun arbuste: les
+garÃ§ons aiment tant grimper dans les arbres. Bon, le voilÃ  assis.
+A prÃ©sent, elle va cueillir des fleurs avec Alice.
+
+[Illustration]
+
+Â«Tiens, Alice, cueille cette pÃ¢querette.Â» Alice le fait avec les doigts
+de sa maman.
+
+Â«Et voici encore une pÃ¢querette, et encore une, encore une!Â»
+
+BientÃ´t elle en avait tout un petit bouquet. Mais au milieu de toutes
+ces petites couronnes blanches, il faut mettre encore quelques autres
+fleurs: câest plus joli!
+
+Â«Cueille-moi ce bouton dâor, Alice. Oh! quâil est joli. Tu ne le
+vois pas? LÃ , devant ton nez. Et en voilÃ  encore quelques-uns. Câest
+Ã§a. A prÃ©sent notre bouquet est joli. Il faut seulement encore quelques
+feuilles vertes. Mais comme Ã§a sent bon ici!Â»
+
+Marie lÃ¨ve la tÃªte et voit tout Ã  coup les belles fleurs du lilas. Elle
+aimerait en cueillir. Mais le lilas est trop haut et les petits bras
+de Marie sont trop courts. Câest dommage! Ah! une idÃ©e! Elle appellera
+Paul qui aime tant grimper aux arbres. Mais oÃ¹ est le mÃ©chant petit
+garÃ§on? Ah vraiment! voilÃ  quâil a dÃ©jÃ  grimpÃ© dans un arbuste, et cela
+dâune main!
+
+Â«Viens ici, Paul, crie Marie, cueille des fleurs pour ta maman, lÃ 
+haut, ce beau lilas.Â»
+
+Paul est un peu mÃ©chant, mais pourtant obÃ©issant. Il grimpe dans le
+lilas, mais il ne peut pas arriver plus haut que le bras de Marie, et
+lÃ  il nây a pas de fleurs. Toutes les fleurs sont au sommet de lâarbre
+et y forment un grand bouquet rose.
+
+Â«Allons Paul, allons!
+
+--Que doit faire Paul? dit tout Ã  coup une voix derriÃ¨re Marie.
+
+--Papa, il faut quâil me cueille des lilas.
+
+--Et il ne veut pas le faire?
+
+--Non, papa, il est mÃ©chant.
+
+--Veux-tu que papa tâen cueille?
+
+--Oh! oui, je veux bien!Â»
+
+Mais papa ne sait pas grimper aux arbres. Il cherche un petit
+escabeau et des ciseaux. Et puis il cueille deux belles branches de
+lilas pour Marie.
+
+Â«Merci, merci, papa,Â» dit celle-ci.
+
+Elle les met avec les autres fleurs et apporte tout le joli bouquet Ã 
+sa mÃ¨re.
+
+
+
+
+XXXVIII. Ce mÃ©chant Paul.
+
+
+Marie rentre avec Alice dans la maison.
+
+Â«Regarde, maman, dit Marie, quelles belles fleur nous avons cueillies
+pour toi.
+
+--Oh! quâelles sont jolies. Mettons-les vite dans un vase, sans cela
+elles se faneraient.Â»
+
+[Illustration]
+
+Et Marie aide sa mÃ¨re Ã  arranger les fleurs dans les vases: les lilas
+dans un grand vase quâon met sur la cheminÃ©e et les petites pÃ¢querettes
+dans une coupe. Câest un ouvrage trÃ¨s amusant. Alice est assise sur la
+table et regarde sa maman et sa grandâmaman. Et le pauvre petit
+Paul oÃ¹ est-il? Il est toujours sur la branche du lilas et Marie lâa
+tout Ã  fait oubliÃ©.
+
+Le soir, Marie va se coucher. Sa maman lui a dit bonne nuit, aprÃ¨s
+lâavoir bien bordÃ©e dans son petit lit.
+
+Mais avant de sâendormir, Marie pense encore aux pinsons du jardin,
+et aux belles fleurs, Ã  Papa qui lui a cueilli ce beau lilas et, tout
+Ã  coup, Ã  Paul. Le pauvre petit! Il est toujours dans le lilas. Et il
+fait si noir au jardin! Et peut-Ãªtre quâil fera froid cette nuit!
+
+Â«Maman! maman!Â» crie Marie.
+
+Mais la maman est dans lâautre chambre et nâentend pas les cris de sa
+petite fille.
+
+Â«Maman! maman!Â» crie encore Marie, et cette fois-ci plus fort.
+
+Â«Je crois que Marie tâappelle, dit papa. Jâirai voir ce quâelle veut.Â»
+
+Et voilÃ  papa qui entre dans la chambre Ã  coucher.
+
+Â«Quây a-t-il, chÃ©rie? demande-t-il.
+
+--O papa, Paul est encore dans le lilas.
+
+--Eh bien! quâest-ce que Ã§a fait?
+
+--O papa, il fait si noir dehors et, cette nuit, il fera peut-Ãªtre
+froid. Dis, voudrais-tu aller chercher Paul?
+
+--Mais pourquoi? Je croyais que Paul Ã©tait un mÃ©chant garÃ§on. Il ne
+voulait pas te cueillir des fleurs. Laisse-le au jardin. Câest bien
+fait pour lui sâil a peur et froid.
+
+--Oh non, papa, va le chercher sâil te plaÃ®t. Si Paul reste au jardin,
+je penserai tout le temps Ã  lui et je ne pourrai pas dormir.
+
+--Eh bien, jâirai te le chercher, bonne petite maman! Et oÃ¹ faut-il
+que je le mette?
+
+--Apporte-le-moi ici, sâil te plaÃ®t, papa!Â»
+
+Alors papa descend au jardin. Il sort Paul du lilas et lâapporte Ã 
+Marie.
+
+Â«Heureusement, le voilÃ , dit celle-ci. A-t-il bien froid, papa?Â»
+
+Papa donne Paul Ã  Marie, qui le prend dans ses bras et le met sous les
+couvertures.
+
+Â«Merci bien, papa, dit-elle encore. A prÃ©sent je mâendormirai bien
+vite!Â»
+
+Papa lui donne encore un baiser et sâen va.
+
+[Illustration]
+
+Et bientÃ´t Marie sâendort, en tenant son cher petit garÃ§on bien serrÃ©
+dans ses bras.
+
+
+
+
+XXXIX. A lâEcole? ou chez nous?
+
+
+Jean sâamusait toujours beaucoup Ã  lâÃ©cole. Et ce nâÃ©tait pas Ã©tonnant.
+Dâabord, il aimait Ã  apprendre. Ensuite, il avait trouvÃ© Ã  lâÃ©cole
+de gentils petits amis. Enfin, il aimait beaucoup son maÃ®tre qui Ã©tait
+trÃ¨s gentil. CâÃ©tait peut-Ãªtre pour cela surtout quâil aimait aller en
+classe.
+
+Monsieur Ã©tait toujours gai et faisait souvent rire les enfants.
+
+Â«Aimes-tu aller Ã  lâÃ©cole, Jean? dit-il un jour.
+
+--Oui, Monsieur.
+
+--Tiens, moi pas!Â»
+
+Jean et les autres enfants se mirent Ã  rire.
+
+Â«Et sais-tu pourquoi je nâaime pas aller Ã  lâÃ©cole, moi? poursuivit le
+maÃ®tre.
+
+--Parce que nous apprenons quelque chose et vous pas.
+
+--Non! câest parce que vous allez chez un maÃ®tre trÃ¨s gentil et que moi
+je vais chez de mÃ©chants garÃ§ons.
+
+--Mais nous ne sommes pas mÃ©chants, dit Jean en riant.
+
+--Tu aimes donc tant lâÃ©cole?
+
+--Oui, Monsieur.
+
+--Et aimerais-tu ne plus rentrer chez toi?
+
+--Oh non!
+
+--Et pourquoi aimes-tu tant rentrer chez toi?
+
+--Pour manger!
+
+--Tu peux bien manger ici aussi.
+
+--Et pour jouer!
+
+--Mais tu peux jouer ici avec tes amis.
+
+--Et pour dormir!
+
+--Apporte ton lit ici.
+
+--Et pour Ãªtre avec papa, et maman, et Marie!
+
+--AmÃ¨ne-les ici; ils pourront sâasseoir dans le banc, Ã  cÃ´tÃ© de
+toi!Â»
+
+Jean se mit Ã  rire. Ces grandes personnes, assises dans ces tout petits
+bancs! CâÃ©tait trop drÃ´le!
+
+Â«Allons, poursuivit Monsieur, puisque tu aimes tant rentrer chez toi,
+je tâapprendrai une poÃ©sie que tu trouveras trÃ¨s jolie.
+
+--Une poÃ©sie Ã  rÃ©citer, Monsieur?
+
+--Oui, mais aussi Ã  chanter.Â»
+
+Et non seulement Jean, mais toute la classe apprit la poÃ©sie; et chaque
+jour, avant de quitter lâÃ©cole, ils la chantaient.
+
+Et tout Ã©tait vrai dans la chanson. Quand ils chantaient: Je sais lire
+et mÃªme Ã©crire, câÃ©tait vrai. Il y avait prÃ¨s dâun an quâils Ã©taient
+Ã  lâÃ©cole et ils savaient lire et Ã©crire, pas si bien que les grands,
+mais trÃ¨s gentiment dÃ©jÃ .
+
+Jean chantait souvent sa chanson Ã  la maison, si souvent mÃªme, quâaprÃ¨s
+quelque temps, Marie la chantait aussi, mais quand Marie chantait,
+câÃ©tait un petit mensonge quâelle disait, car elle nâallait pas encore
+Ã  lâÃ©cole. Elle irait dans quelques mois seulement. Câest ce que nous
+verrons dans le livre suivant. Et Paul chantait aussi, mais pour lui,
+câÃ©taient de gros mensonges. Il ne pouvait pas dire: Je nâai pas perdu
+mon temps! Car toute la journÃ©e, il ne faisait que des bÃªtises, ce
+mÃ©chant garÃ§on.
+
+
+
+
+XL. La Sortie de lâEcole.
+
+
+[Illustration]
+
+Mais Ã  prÃ©sent, nous allons quitter nos enfants. Nous les retrouverons
+dans un autre livre.
+
+Mais, avant de leur dire un joyeux: au revoir! nous apprendrons,
+nous aussi, la chanson de Jean. Peut-Ãªtre pourrons-nous alors la
+chanter aussi Ã  quatre heures.
+
+    LA SORTIE DE LâECOLE.
+
+    [Musique]
+
+          Voici lâheure
+          La meilleure,
+    Lâheure de rentrer chez nous.
+          De lâÃ©cole             }
+          Lâon sâenvole.         } _bis_.
+    Maintenant faisons les fous! }
+          La journÃ©e
+          TerminÃ©e,
+    Chacun se met en chemin
+          Et rÃ©pÃ¨te
+          Dans sa tÃªte
+    La leÃ§on du lendemain.
+
+    _2e couplet._
+
+          Le bon pÃ¨re,
+          Ou la mÃ¨re
+    Demande: As-tu travaillÃ©?
+          Ecriture?
+          Ou lecture?
+    Montre-moi livre et cahier.
+
+    _3e couplet._
+
+          Oui, ma mÃ¨re,
+          Oui, mon pÃ¨re,
+    De moi vous serez contents.
+          Je sais lire,
+          MÃªme Ã©crire:
+    Je nâai pas perdu mon temps!
+
+    _Refrain._
+
+          Voici lâheure
+          La meilleure,
+    Lâheure de rentrer chez nous.
+          De lâÃ©cole             }
+          Lâon sâenvole:         } _bis_.
+    Maintenant faisons les fous. }
+
+
+
+
+                               LUCIE VOS,
+
+                             ENTRE NOUS, I.
+
+                          MOTS ET EXPRESSIONS.
+
+                           DEUXIÃME ÃDITION.
+
+
+                    J. B. WOLTERS--GRONINGUE--1906.
+
+
+
+
+                          MOTS ET EXPRESSIONS.
+
+
+
+
+    _Lâenfant qui ne veut pas trop chercher,
+    Ne doit seulement rien oublier._
+
+
+
+
+MOTS ET EXPRESSIONS.
+
+
+I.
+
+  MÃ©chant,                        ondeugend.
+  gourmand,                       gulzig of snoepachtig.
+  gentille,                       lief.
+
+
+II.
+
+  Se fÃ¢che,                       wordt boos.
+  est montÃ©,                      is geklommen.
+  le sucrier,                     de suikerpot.
+  le sucre,                       de suiker.
+  maman _regarde_ Paul,           mama _kijkt naar_ Paul.
+  il faut le gronder,             u moet hem beknorren.
+  il faut,                        letterlijk: het moet.
+  se lÃ¨ve,                        staat op.
+  sâapproche du,                  gaat naar den (lett.: nadert den).
+  encore une fois,                nog eens.
+  une tape,                       een tik.
+
+
+III.
+
+  VoilÃ  ce que câest,             dat komt ervan.
+  sâest fÃ¢chÃ©,                    is boos geworden.
+  est tombÃ© _par_ terre,          is gevallen _op den_ grond.
+  il sâest cassÃ© le bras,         hij heeft zijn arm gebroken.
+  veux-tu,                        wil je.
+  sâil te plaÃ®t,                  alsjeblieft.
+  aller _chez_ le docteur,        _naar_ den dokter gaan (denk er aan:
+                                    men zegt altijd _chez_ bij
+                                    personen, en _Ã _ bij plaatsen, b.v.
+                                    _aller Ã  la maison_).
+  il a bien mal,                  hij heeft erge pijn.
+  je vais _tout de suite_         ik ga _dadelijk_ halen.
+    chercher,
+  _Alors_, il _ouvre_ la porte,   hij _opent_ (doet open) _nu_ de
+                                    deur.
+  le corridor,                    de gang.
+
+
+IV.
+
+  Couche,                         legt in bed.
+  le petit blessÃ©,                de kleine gewonde.
+  est sorti _de_ la chambre,      is _uit_ de kamer gegaan.
+  il est allÃ© chercher,           hij is gaan halen.
+  elle le borde bien,             zij stopt hem lekker in.
+  bien mal,                       zooân pijn.
+  maintenant,                     nu.
+  allons!                         kom!
+  il _viendra_ tout Ã  lâheure,    hij komt (_zal komen_) straks.
+  il te guÃ©rira,                  hij zal je genezen.
+  sois sage,                      wees zoet.
+
+
+V.
+
+  Que je suis contente,           wat ben ik blij.
+  tant il a mal,                  zooân pijn heeft hij.
+  comment est arrivÃ© cet          hoe is dat ongeluk gebeurd?
+    accident?
+  entier,                         heel.
+  ils vivent _tous les deux_,     zij leven _allebei_.
+  remettre,                       zetten; weer aan maken.
+  Ã§a _ira_ bien,                  dat _zal_ wel _gaan_.
+
+
+VI.
+
+  Elle _sort_ Paul,               zij _neemt_ Paul (letterlijk: gaat
+                                    uit of haalt uit).
+  elle lâembrasse,                zij kust hem (letterlijk: omhelst
+                                    hem).
+  puis elle le _passe_,           daarna _geeft ze_ hem (letterlijk:
+                                    geeft door).
+  bien vite,                      heel gauw.
+  câest Ã§a,                       mooi zoo of dat is goed.
+  en portant,                     terwijl hij draagt (lett.: dragende).
+  en tenant,                      terwijl hij houdt (lett.: houdende).
+  au revoir,                      tot ziens.
+  Ã  bientÃ´t,                      tot straks.
+  merci,                          dank u.
+
+
+VII.
+
+  Jean va _Ã _ la cuisine,         Jan gaat _naar_ de keuken (zie opm.
+                                    bij III).
+  il _a mis_ le chapeau,          hij _heeft_ den hoed _opgezet_.
+  est en train de peler des       is aan ât appelen schillen.
+    pommes,
+  est en train de,                is bezig met.
+  tiens,                          zoo of kijk.
+  vient chercher,                 komt halen.
+  peut-Ãªtre,                      misschien.
+  un bout de ficelle,             een eindje touw of een touwtje.
+  un bout,                        een eind, een stuk.
+  pourquoi faire,                 waarom (letterlijk: om wat te
+                                    doen).
+  bien difficile,                 zeer moeilijk.
+  le tiroir,                      de lade.
+  merci beaucoup,                 dank je wel.
+  et _voilÃ _ aussi,               en _daar heb je_ ook (lett.
+                                    ziedaar).
+  _met_ dans sa poche,            _steekt_ in zijn zak.
+  lâattache,                      bindt het, maakt het vast.
+  autour du poignet,              om den pols.
+  autour de,                      om, rond om.
+  est attachÃ©,                    is vastgebonden, vastgehecht.
+  retournent _chez la maman_,     gaan _naar mama_ terug.
+  _bien des choses_ Ã  Madame,     _vele groeten_ aan Mevrouw.
+
+
+VIII.
+
+  Comment?                        hoe?
+  rentre,                         komt (terug) weer.
+  tout Ã  fait,                    heelemaal.
+  quel bonheur,                   hoe heerlijk (letterlijk: welk een
+                                    geluk).
+  Marie devient _toute_ triste,   Marie wordt _heel_ treurig.
+  le bras est retournÃ©,           de arm zit omgekeerd, onderst boven.
+  _tient_ Ã  lâÃ©paule,             _zit_ (letterlijk: houdt) aan den
+                                    schouder.
+  _se servir de_ sa main,         zijn hand _gebruiken_ (lett.: _zich
+                                    bedienen van_).
+  Ã§a ne fait rien,                dat hindert niet (letterlijk: dat
+                                    doet niets).
+  Paul ne pourra plus mettre,     Paul kan (zal kunnen) niet meer
+                                    steken.
+  câest vrai,                     dat is waar.
+  fera-t-il pour travailler,      zal hij moeten werken (letterlijk:
+                                    zal hij doen, om te).
+  plus tard,                      later.
+  le chanteur,                    de zanger.
+  il _nâa pas besoin de_ son      hij _heeft_ zijn arm _niet
+    bras,                           noodig_.
+
+
+IX.
+
+  Jean va _partir_,               Jan vertrekt (letterlijk: gaat
+                                    vertrekken).
+  la porte _sâouvre_,             de deur _gaat open_ (letterlijk:
+                                    opent zich).
+  lâaÃ®nÃ©,                         de oudste.
+  il _sâappelle_,                 hij _heet_ (lett.: noemt zich).
+  en entrant _dans_ la chambre,   als hij de kamer binnenkomt
+                                    (lett.: binnenkomende).
+  _Ã  quoi_ jouez-vous?            _wat_ speel jullie? (_jouer Ã _ bij
+                                    een spel; _jouer de_ bij een
+                                    muziekinstrument).
+  nous jouons au docteur,         wij spelen doktertje.
+  ajoute,                         voegt er aan toe.
+  il a remis,                     hij heeft gezet.
+  _sâÃ©crie_,                      _roept uit_.
+  ils se mettent Ã  rire,          zij beginnen te lachen.
+  en voyant,                      als ze zien (lett.: ziende).
+  il _va_ nous chanter,           hij _zal_ (letterlijk: _gaat_) voor
+                                    ons zingen.
+  appuyÃ© _Ã _,                     geleund _tegen_.
+  le dossier,                     de leuning.
+  que _savez_-vous chanter,       wat _kun_ je zingen? (letterlijk:
+                                    _weet_).
+  il ne rÃ©pond _toujours_ pas,    hij antwoord _nog altijd_ niet.
+  il se met Ã  chanter,            hij begint te zingen.
+  Marie _croit_,                  Marie _denkt_, meent (letterlijk:
+                                    gelooft).
+  vraiment,                       waarlijk.
+  que câest son petit garÃ§on      dat haar kleine jongen zingt (lett.:
+    qui chante,                     dat het is haar kleine jongen, die
+                                    zingt).
+
+
+X.
+
+  Ainsi que,                      evenals.
+  elle _en_ est trÃ¨s contente,    zij is _er_ heel blij mee
+                                    (letterlijk: zeer tevreden _over_).
+  pourtant,                       toch.
+  le second couplet,              het tweede versje.
+  car,                            want.
+  elle connaÃ®t,                   zij kent.
+  quâest-ce que Paul chante?      wat zingt Paul?
+  _Ã©coutez_ ces quatre petites    _luister naar_ deze vier stemmetjes.
+    voix,
+  vous le saurez,                 ge zult het weten.
+  cocorico,                       kukeluku.
+  Ã  voix pleine,                  luidkeels.
+  vont chantant,                  zingen (lett.: gaan zingende).
+  en picotant,                    terwijl ze oppikken (letterlijk:
+                                    oppikkende).
+  en buvant,                      terwijl ze drinken (letterlijk:
+                                    drinkende).
+  le soleil luit,                 de zon schijnt.
+  sâil va pleuvoir,               als het gaat regenen.
+  la plaine,                      de vlakte.
+
+
+XI.
+
+  Vrai,                           echt (letterlijk: waar).
+  la chambre dâÃ  cÃ´tÃ©,            de kamer ernaast.
+  sont assis,                     zitten (lett.: zijn gezeten).
+  ils _prennent_ une tasse de     zij _drinken_ een kopje thee
+    thÃ©,                            (letterlijk: nemen).
+  Maman pose son porteplume,      Mama legt haar penhouder neer.
+  un petit-four,                  een koekje.
+  jâai mal aux dents,             ik heb tand- of kiespijn.
+  elle verse,                     zij schenkt in (lett.: zij giet).
+  en fumant,                      terwijl hij rookt (letterlijk:
+                                    rookende).
+  comme les enfants font du       wat maken de kinderen een leven.
+    bruit,
+  quâest-ce quâil y a?            wat is er?
+  chez eux,                       bij hen.
+  ils jouent Ã  lâÃ©cole,           zij spelen schooltje.
+  si fort,                        zoo hard (sterk).
+  allons voir _un peu_,           laat ons _eens_ kijken (lett.: een
+                                    beetje).
+  ils se lÃ¨vent,                  zij staan op.
+  pour aller voir les enfants,    om  naar de kinderen (te gaan)
+                                    kijken.
+  ils sâarrÃªtent,                 zij blijven staan.
+  ils Ã©coutent,                   zij luisteren.
+  ils entendent,                  zij hooren.
+  le chant est si gai,            het liedje is zoo vroolijk.
+  doucement,                      zachtjes.
+  ils sâarrÃªtent _de_,            zij houden op _met_.
+  ils ne disent plus rien,        zij zeggen niets meer.
+
+
+XII.
+
+  Avoir besoin de,                behoeven (lett.: noodig hebben).
+  quâest-ce quâil y a donc,       wat is er toch?
+  ils Ã©clatent de rire,           zij barsten in lachen uit.
+  eh bien!                        wel!
+  qui est-ce,                     wie is dat?
+  il faut que Paul chante,        Paul moet zingen.
+  je nây comprends rien,          ik begrijp er niets van.
+  en voilÃ  un beau docteur,       dat is ook een mooie dokter.
+  la ficelle glissait _tout le    het touwtje gleed _telkens_ (_aldoor_)
+    temps_,                         uit (lett.: den heelen tijd).
+  _jâai mis_ la ficelle,          ik _heb_ het touwtje _gebonden_
+                                    (letterlijk: heb gelegd).
+  un _drÃ´le de_ docteur,          een _gekke_ dokter.
+  arracher une dent,              een kies (of tand) uittrekken.
+  au lieu de,                     in plaats van.
+  Ã§a ne fait rien,                dat hindert niets.
+
+
+XIII.
+
+  Toute seule,                    heelemaal alleen.
+  deux semaines aprÃ¨s,            veertien dagen (twee weken) later.
+  Marie _en_ Ã©tait trÃ¨s triste,   Marie was _er_ zeer treurig _om_.
+  Jean savait si bien,            Jan kon zoo goed.
+  voilÃ  quâil Ã©tait _parti_,      en nu was hij _weg_ (letterlijk:
+                                    vertrokken).
+  Ã©tait assis,                    zat (lett.: was gezeten).
+  Marie le sortit _de_ sa         Marie nam hem _uit_ zijn stoel.
+    chaise,
+  elle le prit _par la main_,     zij nam hem _bij de hand_.
+  se promener,                    wandelen.
+  sage,                           zoet (letterlijk: wijs).
+  elle _va conduire_ Paul Ã        zij _gaat brengen_ (lett.: geleiden),
+    lâÃ©cole,                        hier, zij brengt.
+  il faut quâil apprenne Ã ,       hij moet leeren.
+  calculer,                       rekenen.
+  elle sonne au bouton de         zij schelt aan den deurkruk.
+    la porte,
+  je viens conduire,              ik kom brengen.
+  mais _dâun ton_ plus bas,       maar _op een_ lager _toon_.
+  le voici,                       hier is hij.
+  il faut quâil devienne,         hij moet worden.
+  je mâen vais,                   ik ga heen.
+  elle _pose_ Paul _par terre_,   zij _zet_ Paul _op den grond_.
+  un coin,                        een hoek.
+  elle sâen va,                   zij gaat heen.
+
+
+XIV.
+
+  Jour de classe,                 schooldag.
+  aujourdâhui,                    vandaag.
+  suspendu,                       opgehangen.
+  le capuchon,                    de cape (mantel).
+  le bÃ©ret,                       de muts.
+  le portemanteau,                de kapstok.
+  dâautres nouveaux,              andere nieuwelingen.
+  il y _en_ a,                    er zijn _er_.
+  tous ont lâair timides,         allen zien er verlegen uit.
+  quel Ã¢ge avez-vous,             hoe oud ben je? (lett.: welken
+                                    leeftijd hebt ge?)
+  en regardant,                   terwijl  hij  aankijkt  (letterlijk:
+                                    aankijkende).
+  jâai six ans,                   ik ben (lett.: ik heb) zes jaar.
+  comment vous appelez-vous,      hoe heet je?
+  vous savez faire de la          je kunt muziek maken.
+    musique,
+  sans doute,                     zeker, stellig (letterlijk:  zonder
+                                    twijfel).
+  mais oui,                       welzeker.
+  jouer _de_ la harpe,            _op_ de harp spelen.
+  trÃ¨s joliment,                  heel mooi.
+  une jolie chanson,              een mooi liedje.
+  sa petite voix tremblait,       zijn stemmetje beefde.
+  pourtant,                       toch (evenwel).
+  Ã©coutez seulement,              luister maar.
+  il leva le doigt,               hij stak den vinger op.
+  commencez,                      begin.
+  il rÃ©cita,                      hij zei op.
+  câest tout,                     is dat alles? (lett.: dat is alles?)
+  cette belle poÃ©sie,             dat mooie versje.
+  une poÃ©sie sur Pierre,          een versje over Pieter.
+  sâamusait,                      had  pret (letterlijk:  vermaakte
+                                    zich).
+  en rentrant,                    toen hij thuis kwam (letterlijk:
+                                    thuis komende).
+  _tant_ il sâÃ©tait amusÃ©,        _zooveel_ pret had hij gehad.
+  je _te_ la rÃ©citerai,           ik zal het _voor u_ opzeggen.
+
+
+XV.
+
+  Quâest-ce que,                  wat.
+  promis,                         beloofd.
+  trÃ¨s bÃªte,                      zeer of erg dom.
+  quelque chose,                  iets.
+  travaillÃ© en classe,            gewerkt in de school.
+  Paul se taisait,                Paul zweeg.
+  toujours,                       aldoor (letterlijk: altijd).
+  elle allait le prendre,         zij wilde (letterlijk: ging) hem
+                                    pakken.
+  _par_ le bras,                  _bij_ den arm.
+  secouer,                        schudden.
+  elle se rappela,                zij herinnerde zich.
+  quâil _n_âavait _qu_âun bon     dat hij _maar_ Ã©Ã©n goeden arm had.
+    bras,
+  le gronda,                      beknorde hem.
+  seulement,                      alleen maar.
+  heureusement,                   gelukkig.
+  la porte sâouvrit,              de deur ging open (lett.: opende
+                                    zich).
+  _ton_ petit Paul _Ã  toi_,       _jouw_ kleine Paul.
+  je veux bien,                   graag (lett.: ik wil wel).
+  de toutes leurs oreilles,       met beide ooren (lett.: met al hun
+                                    ooren).
+  Louis dÃ©clama,                  Louis zei op.
+  a dorÃ©,                         heeft verguld.
+  sâÃ©veille,                      wordt wakker.
+  joyeux,                         vroolijk.
+  il quitte,                      hij verlaat.
+  sans peine,                     zonder moeite.
+  son oreiller,                   zijn kussen (van oreille = oor; een
+                                    canapÃ©-kussen = un coussin).
+  soyeux,                         zacht (lett.: zijdeachtig; soie =
+                                    zijde).
+  au plus vite,                   heel vlug (zoo gauw mogelijk).
+  il fait sa toilette,            hij wascht en kleedt zich.
+  le teint _vermeil_,             de _roode_ gelaatskleur.
+  surtout,                        vooral.
+  de sa peau bien nette,          van zijn zindelijke (reine) huid.
+  les jeux,                       de spelen.
+  au grand soleil,                in de volle zon.
+  parfois,                        somtijds.
+  amÃ¨re,                          bitter.
+  le savoir,                      het weten.
+
+
+XVI.
+
+  Quelques jours aprÃ¨s,           eenige dagen later.
+  il savait,                      hij kende (lett.: wist).
+  il savait la rÃ©citer,           hij kon het opzeggen.
+  bien content,                   heel blij.
+  la lumiÃ¨re,                     het licht.
+  _dÃ©jÃ _ luit,                    schijnt _al_.
+  hors du lit,                    het bed uit.
+  claironne,                      kraait.
+  rÃ©sonne,                        weerklinkt.
+  rÃ©veillez-vous,                 wordt wakker.
+  le second couplet,              het tweede versje.
+  câest Ã§a,                       dat is goed.
+  poursuivit,                     ging voort.
+  lÃ¨ve-toi,                       sta op.
+  notre chÃ¨vre,                   onze geit.
+  bÃªle,                           blaat.
+  tâappelle,                      roept je.
+  sans attendre,                  zonder te wachten op.
+  la rÃ©ponse,                     het antwoord.
+  le petit air,                   het wijsje.
+  suivant,                        volgende.
+
+
+XVII.
+
+  Quel vent dÃ©sagrÃ©able!          Wat ân nare wind!
+  _quel_ vilain temps,            _wat een_ leelijk weer.
+  il pleuvait,                    het regende.
+  il faisait du vent,             het woei.
+  un vrai temps de novembre,      echt Novemberweer.
+  chassait,                       joeg.
+  la figure,                      het gelaat.
+  Jean devait _aller_ en          Jan moest naar school (_gaan_).
+    classe,
+  naturellement,                  natuurlijk.
+  il ne voulait pas,              hij wilde niet.
+  ensemble,                       samen.
+  Jean _a_ trop _peur_,           Jan _is_ veel te _bang_.
+  quelque chose de nouveau,       iets nieuws.
+  il serait _en retard_,          hij zou _ten achter_ komen.
+  comme dans la poÃ©sie,           als in het liedje.
+  il irait,                       hij zou gaan.
+  le conduirait,                  zou hem brengen.
+  Jean boutonna,                  Jan knoopte dicht.
+  il tira,                        hij trok.
+  par dessus ses oreilles,        over zijn ooren.
+  les voilÃ  partis,               daar gingen ze weg.
+  bras dessus, bras dessous,      gearmd (letterlijk: arm boven, arm
+                                    onder).
+  _tant qu_âils Ã©taient,          _zoolang_ zij waren.
+  entre,                           tusschen.
+  donc,                           dus.
+  commode,                        gemakkelijk.
+  poussait,                      voortduwde.
+  le plaisir Ã©tait _fini_,        de pret was _uit_ (letterlijk:
+                                    geÃ«indigd).
+  souffla,                        blies.
+  dâun autre cÃ´tÃ©,                van een anderen kant.
+  comme si,                       alsof.
+  Ã  la fois,                      te gelijk.
+  elle rÃ©solut de le fermer,      zij besloot hem dicht te doen.
+  trop tard,                      te laat.
+  le voilÃ  retournÃ©,              hij was omgekeerd.
+  mouillait,                      maakte nat.
+  tout Ã  fait,                    heelemaal.
+  presque,                        bijna.
+  arracher _des_ mains,           rukken _uit de_ handen.
+  il essayait,                    hij probeerde.
+  rabattre,                       neerslaan.
+  en vain,                        vergeefs.
+  un sergent de ville,            een (politie) agent.
+  il tint,                        hij (hield) pakte.
+  _de_ lâautre cÃ´tÃ©,              _aan_ den anderen kant.
+  de sorte que,                   zoodat.
+  le vent _lui-mÃªme_,             de wind _zelf_.
+  les baleines et lâÃ©toffe,       de baleinen en de stof.
+  il rabattit,                    hij sloeg neer.
+  mais _lui il_ ajouta,           maar _hij_ (met nadruk) voegde erbij.
+
+
+XVIII.
+
+  DÃ©licieux,                      heerlijk, lekker.
+  bientÃ´t,                        gauw, spoedig.
+  Rose retourna,                  Rosa keerde terug.
+  il ne pleuvait plus,            het regende niet meer.
+  tranquille,                     kalm, rustig.
+  le vent ne pouvait pas _y_      de wind kon _er_ niet binnenkomen.
+    entrer,
+  chaque fois,                    telkens (lett.: elken keer).
+  essayait dâentrer,              probeerde binnen te komen.
+  il soulevait,                   hij lichtte op.
+  les manteaux suspendus dans     de mantels, die in de vestibule
+    le vestibule,                   hingen.
+  suspendu,                       (letterlijk: opgehangen).
+  il retournait,                  hij sloeg om.
+  les feuilles des livres,        de bladen der boeken.
+  on lui fermait vite la porte    men deed gauw de deur _voor zijn_
+    _au_ nez,                       neus dicht.
+  rester dehors,                  buiten blijven.
+  chasser,                        jagen.
+  taquiner,                       plagen.
+  autant que,                     zooveel als.
+  _câest ce qu_âil faisait,       _dat_ deed hij.
+  _par dessus_ les toits,         _over_ de daken.
+  il les attrapait,               hij pakte ze.
+  la cime,                        de top.
+  penchait Ã  droite et Ã           boog naar rechts en links.
+    gauche,
+  les branches craquaient,        de takken kraakten.
+  les feuilles mortes,            de dorre (letterlijk: doode) bladeren.
+  sâenvolaient,                   vlogen.
+  partout,                        overal heen.
+  elles ne savaient pas oÃ¹        zij wisten niet, waar ze heen zouden
+    aller,                          gaan (letterlijk: waar te gaan).
+  frayeur,                        angst.
+  pour les attraper _au vol_,     om ze _in de vlucht_ te vangen.
+
+
+XIX.
+
+  Les saisons,                    de jaargetijden.
+  sâamusaient beaucoup,           hadden veel pret.
+  bien des feuilles,              heel veel blÃ ren.
+  ils montraient,                 zij lieten zien.
+  nous sommes _en automne_,       we zijn _in den herfst_.
+  _câest ce que_ les enfants      _dat_ wisten de kinderen.
+    savaient,
+  mettez-vous sur le petit        ga op het bankje staan.
+    banc,
+  monta,                          klom.
+  le printemps,                   de lente (het voorjaar).
+  lâÃ©tÃ©,                          de zomer.
+  lâautomne,                      de herfst.
+  lâhiver,                        de winter.
+  pas non plus,                   ook niet.
+  _en_ Ã©tÃ©,                       _in den_ zomer.
+  il faisait chaud,               het was warm.
+  _en_ hiver,                     _in den_ winter.
+  il faisait froid,               het was koud.
+  _au_ printemps,                 _in het_ voorjaar.
+  elles tombaient,                zij vielen af.
+  quelle saison aimez-vous       van  welk  jaargetijde  houd je
+    _le mieux_,                     _het meest_?
+  il poursuivit,                  hij vervolgde.
+  _vous_ trouvez Ã§a amusant       _jij_ vindt dat prettig! (jij met
+    _vous_,                         klem).
+  se dit,                         dacht (lett.: zei) bij zichzelf.
+  il _avait_ bien _raison_,       hij _had_ wel _gelijk_.
+
+
+XX.
+
+  _A_ la fenÃªtre,                 _voor_ het raam.
+  elle aussi,                     haar ook.
+  sâenvolaient,                   vlogen weg.
+  parfois mÃªme,                   soms zelfs.
+  ce cycliste,                    die fietser.
+  il pÃ©dalait,                    hij trapte (fietste).
+  avancer,                        vooruit komen.
+  lÃ  bas,                         daar gindsch.
+  mince,                          dun.
+  elle _avait lâair_ dâavoir      zij _leek_ het koud te hebben.
+    froid,
+  elle avait lâair,               letterlijk: zij had het uiterlijk.
+  se chauffer,                    zich warmen.
+  appelle-la donc,                roep haar maar.
+  elle frappa _Ã _ la vitre,       zij tikte _tegen_ de ruit.
+  frappe _un peu_ plus fort,      tik _wat_ harder.
+  enfin,                          eindelijk.
+  Marie lui _fit signe des_       Marie _wenkte_ haar _met_ beide
+    deux mains,                     handen.
+  la fillette,                    het meisje.
+  la poitrine,                    de borst.
+  cela voulait dire,              dat wilde zeggen.
+  _câest moi que_ vous appelez,   roep je mij? (_ik ben het die_)
+  elle sâapprocha enfin de la     zij kwam eindelijk bij het raam.
+    fenÃªtre,
+  dâouvrir la porte,              de deur te openen.
+  la chambre bien chauffÃ©e,       de goed verwarmde kamer.
+  demanda,                        vroeg.
+  comment va ta mÃ¨re,             hoe maakt je moeder het? (hoe gaat het
+                                    met je moeder?)
+  va-t-elle mieux,                gaat het beter met haar?
+  Ã©tonnÃ©e,                        verwonderd.
+  connaissait,                    kende.
+  ce nâÃ©tait pas _Ã©tonnant_,      dat was geen _wonder_.
+  Ã©tonnant,                       letterlijk: verwonderend.
+  arranger,                       in orde brengen.
+
+
+XXI.
+
+  VoilÃ  plus dâun an que la       de moeder was nu al meer dan een jaar
+    mÃ¨re Ã©tait malade,              ziek.
+  elle Ã©tait couchÃ©e,             zij lag te bed.
+  elle se levait pendant          stond ze een uurtje op (letterlijk:
+    une heure,                      gedurende of voor een uur).
+  elle cousait,                   zij naaide.
+  câÃ©tait tout,                   dat was alles.
+  voilÃ  pourquoi,                 dat was de reden waarom.
+  faire le mÃ©nage,                de huishouding doen.
+  aider,                          helpen.
+  elle _n_âavait _que_ huit       zij was _maar_ acht jaar.
+     ans,
+  elle avait Ã©tÃ© voir,            zij had bezocht (letterlijk: zij was
+                                    geweest te zien).
+  apporter,                       brengen.
+  des fortifiants,                versterkende middelen.
+  je dois aller Ã  lâÃ©cole,        ik moet naar school.
+  les classes commencent,         de school (letterlijk: de klassen)
+                                    begint.
+  Jean est dÃ©jÃ  parti,            Jan is al weg (letterlijk:
+                                    vertrokken).
+  jâai dÃ» retourner _chez         ik moest terug (letterlijk: ik heb
+    nous_,                          moeten terugkeeren) _naar huis_.
+  pour en mettre une autre,       om een andere aan te trekken.
+  câÃ©tait dommage,                dat was jammer.
+  et _voilÃ  que_ Ninette,         en _nu_ moest N.
+  il faisait si froid,            het was zoo koud.
+  elle rougit,                    zij kreeg een kleur (letterlijk:
+                                    zij kleurde).
+  dis au revoir,                  zeg goedendag (letterlijk: tot
+                                    weerziens).
+  ta nouvelle petite amie,        je nieuw vriendinnetje.
+  qui avait bu,                   die opgedronken had.
+  partit Ã  lâÃ©cole,               ging (letterlijk: vertrok) naar
+                                    school.
+  tu reviendras,                  je zult terugkomen of je komt terug.
+  nâest-ce pas,                   is ât niet?
+
+
+XXII.
+
+  Marie lâavait vue partir,       Marie had haar zien vertrekken.
+  elle avait bien entendu         zij had wel hooren spreken.
+    parler,
+  ce que câÃ©tait,                 wat dit was.
+  il y avait,                     er (was) waren.
+  qui faisait les lits,           wie maakte de bedden op?
+  qui faisait la cuisine,         wie kookte?
+  câÃ©tait trop drÃ´le,             dat was te gek.
+  quand on a besoin dâun          als men een mantel noodig heeft.
+    manteau,
+  une boutique,                   een winkel.
+  pour _en_ acheter _un_,         om _er een_ te koopen.
+  apporter,                       brengen.
+  une boÃ®te,                      een doos.
+  on les essaye,                  men past ze aan.
+  papa paye,                      papa betaalt.
+  on achÃ¨te,                      men koopt.
+  chÃ©rie,                         lieveling.
+  pourquoi? ou: pourquoi pas?     waarom _niet_?
+  parce que,                      omdat.
+  cela coÃ»te-t-il cher,           kost dat veel? (letterlijk: duur).
+  câest Ã§a,                       goed zoo.
+  pour causer avec Rose _du_      om met Rosa te praten _over het_
+    dÃ®ner,                          middagmaal.
+
+
+XXIII.
+
+  De nouveau,                     opnieuw.
+  la croisÃ©e,                     de vensterbank.
+  regarder _par_ la fenÃªtre,      kijken _door_ het venster.
+  quels tours jouait le vent,     welke kunsten (poetsen) de wind
+                                    uithaalde (letterlijk: speelde).
+  une voiture Ã  bras,             een handkar.
+  tirer,                          trekken.
+  le vent enlÃ¨ve la casquette,    de wind neemt de pet af.
+  emporter,                       meenemen.
+  bien loin,                      heel ver.
+  au milieu,                      in het midden.
+  il court Ã  toutes jambes,       hij loopt, zoo hard hij kan.
+  pour attraper,                  om te pakken.
+  il se baisse,                   hij bukt (zich).
+  pour la ramasser,               om ze op te rapen.
+  presser,                        drukken.
+  attendre,                       wachten.
+  un moineau,                     een musch.
+  qui sâabattent _dans_ la rue,   die neerstrijken _op_ straat.
+  des miettes,                    kruimels.
+  le vent les pousse,             de wind duwt ze weg.
+  presque,                        bijna.
+  se tenir,                       zich staande houden, staan blijven
+                                    (letterlijk: zich houden).
+  leurs petites pattes,           haar pootjes.
+  ils voient,                     zij zien.
+  une graine,                     een korreltje.
+  ils doivent souvent _courir     zij moeten het vaak _naloopen_.
+    aprÃ¨s_,
+  justement,                      juist.
+  il a attachÃ©,                   hij heeft vastgemaakt.
+  reprendre,                      weer nemen.
+  continuer son chemin,           zijn weg vervolgen.
+  une vieille,                    een oude vrouw.
+  avancer,                        vooruitkomen.
+  elle marche tout _prÃ¨s des_     zij loopt heel _dicht bij de_ huizen.
+    maisons,
+  souffler,                       blazen.
+  sâarrÃªter,                      staan blijven.
+  ses jupes sont tendues          haar rokken zijn gespannen tegen haar
+    contre ses jambes,              beenen.
+  pauvre vieille,                 arm oudje.
+  comme Ã§a Marie voit,            zoo ziet Marie.
+
+
+XXIV.
+
+  Voler,                          vliegen.
+  veux-tu sortir avec moi,        wil je met me uitgaan?
+  aller _prendre Ã _ lâÃ©cole,      gaan _halen uit_ school.
+  petite MÃ¨re,                    Moesje.
+  pas du tout,                    heelemaal niet.
+  chaudement habillÃ©es,           warm gekleed.
+  dâabord,                        eerst.
+  un magasin de nouveautÃ©s,       een modemagazijn (winkel).
+  le marchand _en_ montre         de koopman laat _er_ verscheidene
+    plusieurs,                      zien.
+  choisir,                        kiezen.
+  il _fait_ si froid,             het _is_ zoo koud.
+  elles entendent une cloche,     zij hooren een bel.
+  deux Ã  deux,                    twee aan twee.
+  bien en rang,                   net in de rij.
+  celui-ci,                       deze.
+  jusquâÃ  la porte,               tot aan de deur.
+  il court _vers_ sa mÃ¨re,        hij loopt _naar_ zijn moeder.
+  et les _voilÃ _ partis tous      en _nu_ gaan ze alle drie weg.
+    les trois,
+  _au_ coin de la rue,            _op den_ hoek van de straat.
+  le vent essaya encore une       de wind probeerde nog eens.
+    fois,
+  Jean le tenait,                 Jan hield hem vast.
+  ils ont les joues bien          zij hebben heel roode wangen.
+    rouges,
+
+
+XXV.
+
+  Il nous faut travailler tous,   wij moeten allen werken (lett.: het
+                                    moet, dat....).
+  comme jâai faim,                wat heb ik een honger!
+  _en rentrant_ de lâÃ©cole,       _toen hij thuis kwam_ van school.
+  une bonne maladie,              een goedaardige ziekte.
+  le dÃ®ner te guÃ©rira,            het middagmaal zal je genezen.
+  il mangea _comme_ quatre,       hij at _voor_ vier.
+  la faim disparut,               de honger verdween.
+  maman prÃ©parait le thÃ©,         mama zette thee (letterlijk:
+                                    bereidde).
+  il sâÃ©tait endormi,             hij was ingeslapen.
+  ils faisaient beaucoup de       zij maakten veel lawaai.
+    bruit,
+  ils jouaient au vent,           zij speelden, dat het woei.
+  qui, _dâun_ bras, poussait,     die, _met een_ arm, duwde.
+  il lâavait lancÃ©e,              hij had ze (geworpen) geslingerd.
+  vous faites trop de bruit,      jullie maakt te veel lawaai.
+  papa ne peut pas _se            papa kan niet _uitrusten_.
+    reposer_,
+  _pendant_ un moment,            _voor_ een oogenblik.
+  tranquille,                     rustig.
+  le bruit recommenÃ§a,            het leven begon opnieuw.
+  il faisait tant de vent,        het woei zoo erg!
+  doucement,                      zachtjes.
+  papa se rÃ©veillera,             papa zal wakker worden.
+  il ne se sera pas bien          zal hij niet goed gerust hebben.
+    reposÃ©,
+  ils sâamusaient si bien,        zij hadden zooân pret.
+  nous dormons _la nuit_,         wij slapen _âs nachts_.
+  fatiguÃ©,                        vermoeid of moe.
+  pour gagner de lâargent,        om geld te verdienen.
+  ce manger,                      dit eten.
+  il faut de lâargent,            men moet geld hebben.
+  allons,                         kom.
+  je vous apprendrai,             ik zal je leeren.
+  une poÃ©sie sur cinq petits      een versje van vijf mannetjes.
+    bonshommes,
+  je nâen ai guÃ¨re,               ik heb bijna niets.
+  comment faire?                  wat te doen?
+  savez-vous,                     weet je.
+
+
+XXVI.
+
+  Les cinq doigts de la main,     de vijf vingers van de hand.
+  câest le pouce,                 dat is de duim.
+  lâindex,                        de wijsvinger.
+  qui remarque tristement,        die treurig opmerkt.
+  le majeur ou doigt du milieu,   de middelvinger (majeur, vroeger:
+                                    groot; nu: meerderjarig).
+  lâannulaire,                    de ringvinger.
+  le petit doigt ou               de kleine vinger of pink.
+    auriculaire,
+  câest tout juste comme dans     dat is net zoo als in Klein Duimpje.
+    le Petit Poucet,
+  ils demandÃ¨rent,                zij vroegen.
+  raconte-nous lâhistoire,        vertel ons het verhaal.
+  ils dÃ©siraient beaucoup,        zij wilden graag.
+  un bÃ»cheron,                    een houthakker.
+  demeurer,                       wonen.
+  le bois,                        het bosch.
+  sa femme, la bÃ»cheronne,        zijn vrouw, de houthakster.
+  le cadet,                       de jongste.
+  il sâappelait,                  hij heette.
+  nourrir,                        voeden, eten geven.
+  toutes ces petites bouches,     al deze (kleine monden) mondjes.
+  il gagnait,                     hij verdiende.
+  il nâavait plus rien Ã  leur     hij had niets meer om hun te eten
+    donner Ã  manger,                te geven.
+  je vais aller perdre les        ik zal maken, dat ik de kinderen
+    enfants dans le bois,           kwijt raak in het bosch
+                                    (letterlijk: ik ga gaan verliezen).
+  jâaime mieux,                   ik heb liever.
+  ils meurent de faim,            zij sterven van honger.
+  elle  consentit  enfin _Ã _      zij stemde eindelijk toe, _in_ wat
+    ce que son mari voulait,        haar man wilde.
+
+
+XXVII.
+
+  Suite,                          vervolg.
+  le lendemain,                   den volgenden dag.
+  partit,                         vertrok.
+  qui sâÃ©tait cachÃ©,              die zich verborgen had.
+  derriÃ¨re la porte,              achter de deur.
+  le soir,                        des avonds (letterlijk: de avond).
+  il  avait  emportÃ© des          hij had blanke (witte) keisteentjes
+    cailloux blancs,                meegenomen.
+  jeter,                          werpen.
+  la route,                       de weg.
+  quand le pÃ¨re fut parti,        toen de vader weg was.
+  et que les six frÃ¨res           en toen de zes broertjes schreiden.
+    pleuraient,
+  suivez-moi,                     volgt mij.
+  retrouver,                      terugvinden.
+  en suivant,                     door te volgen.
+  rester,                         blijven.
+  quelque temps,                  eenigen tijd.
+  le pÃ¨re avait reÃ§u,             de vader had gekregen (lett.:
+                                    ontvangen).
+  quand il nâeut plus dâargent,   toen hij geen geld meer had.
+  il rÃ©solut,                     hij besloot.
+  il emporta du pain,             hij nam brood mee.
+  les laissant seuls,             en liet hen alleen (letterlijk: hen
+                                    alleen latende).
+  les enfants voulurent           de kinderen wilden naar huis
+    rentrer,                        terugkeeren.
+  il nây avait plus de miettes,   er waren geen kruimels meer.
+  les voilÃ  tout seuls,           nu waren ze heelemaal alleen.
+  grimper,                        klimmen.
+  une lumiÃ¨re,                    een licht.
+  il descendit de lâarbre,        hij klom naar beneden (lett.: hij
+                                    daalde af van den boom).
+  les voilÃ  _en route_,           nu gingen ze _op weg_.
+  longtemps,                      lang.
+  ils frappÃ¨rent,                 zij klopten.
+  sâils pouvaient,                of ze mochten.
+  ils avaient peur _du_ loup,     zij waren bang _voor den_ wolf.
+  la nuit,                        in den nacht of des nachts.
+  cette maison Ã©tait _Ã _ son       dit huis was _van_ haar man.
+    mari,
+  lâogre,                         de menscheneter.
+  les cacher jusquâ_Ã _,           hen verbergen _tot_.
+  elle entendit,                  zij hoorde.
+  le lit,                         het bed.
+
+
+XXVIII.
+
+  Fin,                            einde.
+  tout de suite,                  dadelijk.
+  je sens la chair fraÃ®che,       ik ruik versch vleesch (letterlijk:
+                                    het versche vleesch).
+  partout,                        overal.
+  tuer,                           dooden.
+  le veau,                        het kalf.
+  rÃ´tir,                          braden.
+  demain,                         morgen.
+  sâendormir,                     inslapen.
+  le dÃ©jeuner,                    het ontbijt.
+  furieux,                        woedend.
+  mettre ses bottes,              zijn laarzen aantrekken.
+  les bottes de sept lieues,      de zevenmijlslaarzen.
+  il _courut aprÃ¨s_ les           hij _liep_ de kinderen _na_.
+    enfants,
+  ceux-ci,                        deze.
+  ils sâÃ©taient cachÃ©s,           zij hadden zich verstopt.
+  il passa _devant eux_,          hij liep (ging) _ze voorbij_.
+  se coucher,                     liggen gaan.
+  la mousse,                      het mos.
+  il sortit de sa cachette,       hij kwam uit zijn schuilhoek.
+  il coupa la tÃªte,               hij sneed het hoofd af.
+  il lui Ã´ta ses bottes,          hij trok hem de laarzen uit.
+  mais lui-mÃªme,                  maar hijzelf.
+  ensuite,                        vervolgens, daarna.
+  le roi Ã©tait en guerre,         de koning was in oorlog.
+  il lui apporta des nouvelles,   hij bracht hem berichten.
+  lâarmÃ©e,                        het leger.
+  il fit tant de commissions,     hij deed zooveel boodschappen.
+  un sac _de_ piÃ¨ces dâor,        een zak _met_ goudstukken.
+  celui-ci fut bien content de    deze was heel blij (hem te zien
+    le voir arriver,                aankomen), dat hij terugkwam.
+  ils vÃ©curent,                   zij leefden.
+
+
+XXIX.
+
+  La neige,                       de sneeuw.
+  comme toujours,                 zooals altijd.
+  il remarqua,                    hij merkte op.
+  quelque chose,                  iets.
+  qui ne lâavait jamais frappÃ©,   dat hem nooit getroffen had.
+  son papa Ã  lui,                 _zijn_ (met nadruk) vader.
+  un somme,                       een slaapje.
+  revenir,                        terugkomen.
+  le monde renversÃ©,              de omgekeerde wereld.
+  un tel papa,                    zulk een vader.
+  Jean avait raison,              Jan had gelijk.
+  les contes de fÃ©es,             sprookjes.
+  mauvais,                        slecht.
+  il neige,                       het sneeuwt.
+  le rideau,                      het gordijn.
+  ils virent,                     zij zagen.
+  le flocon,                      de vlok.
+  le ciel,                        de hemel.
+  dâabord, puis, bientÃ´t,         eerst, dan, weldra.
+  un peu plus,                    een weinig meer.
+  on _ne_ voyait _plus que_       men zag niets anders _meer_ dan wit.
+    du blanc,
+  ils nâavaient _pas envie_,      zij hadden _geen lust_.
+  monter,                         naar boven gaan.
+  ils pensÃ¨rent,                  zij dachten.
+  le lendemain,                   den volgenden morgen.
+  un tapis,                       een tapijt of kleed.
+  Ã©pais,                          dicht.
+  couvrir,                        bedekken.
+  jeudi,                          Donderdag.
+  ils se jetÃ¨rent _des_ boules    zij wierpen elkaar _met_ sneeuwballen.
+    de neige,
+  le traÃ®neau,                    de slede.
+  la glissade,                    de glijbaan.
+  quâelle Ã©tait amusante la       wat was de sneeuw prettig!
+    neige,
+
+
+XXX.
+
+  Comme Ã§a,                       zoodoende.
+  en mÃªme temps,                  te gelijk.
+  Jean apprenait Ã  M.             Jan leerde aan M.
+  _en_ voyage,                    _op_ reis.
+  le village,                     het dorp.
+  la plainte,                     de klacht.
+  font leur plainte de concert,   klagen samen.
+  lâabri,                         de beschutting.
+  plus dâabri,                    geen beschutting meer.
+  percer,                         dringen door.
+  surtout,                        bovenal.
+  partager,                       deelen.
+  le goÃ»ter,                      de namiddag-boterham (de boterham die
+                                    Fransche kinderen om 4 uur eten, als
+                                    men laat ât middagmaal gebruikt).
+  les trous du voisinage,         de schuilhoekjes (letterlijk: de
+                                    gaten) in de buurt.
+  joyeux tapage,                  vroolijk rumoer.
+  le toit,                        het dak.
+  les pauvrets,                   de arme bloedjes, de zieltjes.
+  prendre courage,                moed scheppen.
+  gaÃ®ment,                        vroolijk, lustig, welgemoed.
+  braver,                         trotseeren.
+
+
+XXXI.
+
+  Quatre fois deux _font_ sept,   viermaal twee is (letterlijk: maken)
+                                    zeven.
+  elle _aura_ congÃ©,              zij _is_ vrij (letterlijk: zij _zal
+                                    hebben_).
+  inviter,                        uitnoodigen.
+  que câest amusant,              wat is dat prettig!
+  Il faut quâelle reste, toute    dan moet zij den heelen dag blijven.
+    la journÃ©e,
+  la maman de N. allait un peu    het ging wat beter met de mama van N.
+    mieux,
+  passer,                         doorbrengen.
+  commander,                      bestellen, bevelen.
+  montrer,                        laten zien.
+  la voiture,                     het rijtuig.
+  les joujoux,                    het speelgoed.
+  voilÃ  dâautres visites,         daar komen andere gasten.
+  Louis sâen va,                  Louis gaat (heen).
+  _Ã  quoi_ joueront-elles,        wat (letterlijk:  waaraan) zullen zij
+                                    spelen.
+  M. et N. sâassoient,            M. en N. gaan zitten.
+  H. marche _de long en large_,   H. loopt _heen en weer_.
+  la table de cinq,               de tafel van vijf.
+  je ne la sais pas,              ik ken ze niet.
+  je tâaiderai,                   ik zal je helpen.
+  commence _toujours_,            begin _maar_.
+  ce nâest pas Ã§a,                dat is zoo niet.
+  les tables de multiplication,   de tafels van vermenigvuldiging.
+  compter,                        tellen.
+  elle _y_ est bien vite _comme   _zoo_ is ze _er_ heel gauw.
+    Ã§a_,
+  mais Ã  vrai dire,               maar om de waarheid te zeggen
+                                    (letterlijk: maar om waar te
+                                    zeggen).
+
+
+XXXII.
+
+  A prÃ©sent,                      nu.
+  jouer Ã  autre chose,            iets anders spelen.
+  un service Ã  thÃ©,               een theeserviesje.
+  un plateau,                     een theeblad.
+  la thÃ©iÃ¨re,                     de theepot.
+  le pot au lait,                 het melkkannetje.
+  la tasse,                       het kopje.
+  la soucoupe,                    het schoteltje.
+  enfin,                          eindelijk.
+  une boÃ®te,                      een kistje (doos).
+  la cuiller,                     de lepel.
+  de lâeau bouillante,            kokend water.
+  infuser,                        trekken.
+  le chauffe-thÃ©,                 de theemuts (Eng. the cosy).
+  venir _en_ visite,              _op_ visite komen.
+  vous allez bien?                gaat het goed? (letterlijk: gij gaat
+                                    goed).
+  quel temps, nâest-ce pas,       wat ân weer, niet waar?
+  le gamin,                       de straatjongen.
+  ils vous jettent _des_          zij gooien je _met_ (sneeuw)ballen.
+     boules,
+  asseyez-vous,                   gaat zitten.
+  puis-je vous offrir,            mag ik je aanbieden.
+  prenez-vous,                    hier: gebruik je.
+  remplir,                        vullen.
+  sans renverser une goutte,      zonder een droppel te morsen.
+  sa tasse Ã  elle,                _haar_ (met klem) kopje.
+  verser,                         schenken.
+  ce nâest pas joli,              ât is niet aardig.
+  un bain de pied,                een voetbad.
+  _Ã _ ses visites,                _tegen_ haar gasten.
+  je vais appeler,                ik zal roepen.
+  en toile,                       van linnen.
+  en son,                         van zemelen.
+  en faÃ¯ence,                     van aardewerk.
+  Ã  la bonne heure,               mooi zoo!
+  rÃ©parer,                        herstellen.
+  une boÃ®te _en fer blanc_,       een _blikken_ trommeltje (kistje,
+                                    doosje).
+  elle les offre,                 zij presenteert ze.
+  grignoter,                      knabbelen.
+  un grand coup,                  een harde slag.
+  de frayeur,                     van schrik.
+
+
+XXXIII.
+
+  Une grande cocarde blanche,     een groote witte plek (letterlijk:
+                                    kokarde).
+  les restes,                     de overblijfselen.
+  une balle,                      een kogel.
+  on se bat,                      men vecht.
+  un gros bonhomme,               een groote pop.
+  rouler,                         rollen.
+  deux grosses jambes,            twee dikke beenen.
+  une grosse boule,               een dikke bal.
+  reprÃ©senter,                    voorstellen.
+  le corps,                       het lijf, het lichaam.
+  au milieu de la tÃªte,           in ât midden van het hoofd.
+  un peu aplatie,                 een beetje afgeplat.
+  au-dessus,                      boven.
+  Ã  droite et Ã  gauche,           rechts en links.
+  une pierre,                     een steen.
+  les yeux,                       de oogen.
+  il est nÃ©,                      hij is geboren.
+  Ã  prÃ©sent,                      nu.
+  bombarder _de_,                 bombardeeren _met_.
+  lancer,                         werpen, slingeren.
+  _câest comme Ã§a qu_âil y        _daardoor_ is er een.
+    en a,
+  effrayer,                       verschrikken.
+  comme elles sont debout,        nu zij opgestaan zijn.
+  comme les garÃ§ons sâamusent,    wat vermaken de jongens zich.
+  qui reÃ§oit des visites,         die bezoek (gasten) ontvangt.
+  se mouiller,                    zich nat maken.
+  faire attention,                er aan denken.
+  prendre garde _Ã _,              oppassen _voor_.
+  courir Ã  toutes jambes,         hard loopen.
+  suivre,                         volgen.
+  mettre une branche,             een stokje (takje) steken.
+  la bouche,                      de mond.
+  il aura gagnÃ©,                  hij heeft gewonnen (letterlijk: hij
+                                    zal gewonnen hebben).
+  ils sont bien occupÃ©s,          zij zijn druk bezig.
+  ramasser,                       oprapen.
+  continuer _Ã _,                  voortgaan _met_.
+  fumer,                          rooken.
+  siffler,                        fluiten.
+  _autour de_ ses oreilles,       _om_ zijn ooren.
+  bouger,                         zich verroeren, bewegen.
+  toucher,                        raken.
+  viser,                          mikken.
+  elle sâamuse _tant_,            zij heeft _zooveel_ pret (zij vermaakt
+                                    zich zoo).
+  elle rit _de tout cÅur_,      zij lacht _hartelijk_.
+  cela ne lui arrive pas          dat gebeurt haar niet vaak.
+    souvent,
+
+
+XXXIV.
+
+  La glace,                       het ijs.
+  un nouvel amusement,            een nieuw vermaak.
+  geler,                          vriezen.
+  de suite,                       achtereen.
+  lâÃ©tang,                        de vijver.
+  couvrir,                        bedekken.
+  la couche,                      de laag.
+  ils ne savaient pas,            ze konden niet.
+  patiner,                        schaatsenrijden.
+  emmener,                        meenemen.
+  il nây avait pas de vent,       er was geen wind.
+  briller,                        schitteren.
+  rÃ©chauffer,                     verwarmen.
+  se mettre en route,             zich op weg begeven.
+  comme ils marchaient _dâun      daar zij _flink op_ liepen.
+    bon pas_,
+  descendre,                      afdalen.
+  la glissade,                    de glijbaan.
+  glisser,                        glijden.
+  tout le temps,                  aldoor, telkens.
+  _que de_ patineurs,             _wat een_ schaatsenrijders!
+  se croiser,                     zich kruisen.
+  dans tous les sens,             in alle richtingen.
+  il _y_ =en= avait tant que,     _er_ waren =er= zooveel, dat.
+  prÃ¨s du bord,                   dicht aan den kant.
+  tout ce _monde_,                al deze _menschen_.
+  avoir envie,                    lust hebben.
+  le patin,                       de schaats.
+  jâaimerais tant,                ik zou zoo graag.
+  arrivÃ¨rent lui dire bonjour,    kwamen hem goeden dag zeggen, hem
+                                    groeten.
+  vous avez tellement chaud,      jullie bent zoo warm.
+  attraper froid,                 kou vatten.
+  pour nous reposer,              om uit te rusten.
+  se remettre en marche,          weer verder gaan.
+  ils avaient disparu,            zij waren verdwenen.
+  faire le tour des Ã©tangs,       om de vijvers heenwandelen.
+
+
+XXXV.
+
+  Oter,                           uittrekken.
+  le gant,                        de handschoen.
+  dehors,                         buiten.
+  elle ne sâen Ã©tait pas          zij had het niet gemerkt.
+    aperÃ§ue,
+  sentir,                         voelen.
+  ne te mets pas prÃ¨s du poÃ«le,   ga niet dicht bij de kachel
+                                    staan.
+  les mains te feraient mal,      je handen zouden je zeer
+                                    doen.
+  un jeu,                         een spel.
+  Marie sâassied,                 Marie gaat zitten.
+  _en face d_âelle,               _tegenover_ haar.
+  taper,                          klappen.
+  la paume,                       de palm van de hand.
+  _en_ mesure,                    _op_ de maat.
+  jusquâau bout des doigts,       tot aan de toppen der vingers.
+  sâagiter,                       zich bewegen.
+  entrez vite en danse,           begin vlug te dansen.
+  frapper,                        slaan.
+
+
+XXXVI.
+
+  Passer,                         voorbijgaan.
+  câest dommage,                  ât is jammer.
+  sâamuser _Ã _ patiner,           zich vermaken _met_ schaatsenrijden.
+  sâamuser _Ã _ faire des          zich vermaken _met_ glijden.
+    glissades,
+  sâamuser _Ã _ sortir en          zich vermaken _met_ sleden
+    traÃ®neau,                       (letterlijk: uitgaan in een slede).
+  le charbon,                     steenkool.
+  les vÃªtements,                  de kleeren.
+  la nourriture,                  het voedsel.
+  fondre,                         smelten.
+  un baquet dâeau,                een bakje water.
+  une assiettÃ©e de pain,          een bordvol brood.
+  le pinson,                      de vink.
+  la mÃ©sange,                     de mees.
+  tout de mÃªme,                   toch.
+  la _bonne_ chaleur,             _die heerlijke_ (letterlijk: de goede)
+                                    warmte.
+  la terre,                       de aarde.
+  sâamollir,                      zachter, weeker worden.
+  le bourgeon,                    de knop.
+  se gonfler,                     zwellen (zich uitzetten).
+  bÃ¢tir,                          bouwen.
+  Ã©gayer,                         opvroolijken.
+  soigner,                        verzorgen.
+  un brin de paille,              een strootje (letterlijk: een halm
+                                    van stroo).
+  la branche,                     de tak.
+  ce petit coin,                  dit hoekje.
+  entre,                          tusschen.
+  prÃªt,                           klaar.
+  la femelle,                     het wijfje.
+  pondre,                         leggen.
+  construire,                     bouwen (samenstellen).
+  pas du tout,                    in ât geheel niet.
+
+
+XXXVII.
+
+  Se sentir,                      zich gevoelen.
+  un peu seule,                   een beetje eenzaam.
+  comprendre,                     begrijpen.
+  lâherbe,                        het gras.
+  cueillir,                       plukken.
+  un arbuste,                     een struik, een heester.
+  la pÃ¢querette,                  het madeliefje.
+  tout un petit bouquet,          een heel bouquetje.
+  la couronne blanche,            de witte kroon.
+  un bouton dâor,                 een boterbloempje (lett.: gouden
+                                    knoop).
+  en voilÃ  encore quelques-uns,   daar zijn er nog eenige.
+  comme Ã§a sent bon ici,          wat ruikt het hier lekker.
+  le lilas,                       de sering.
+  elle aimerait en cueillir,      zij zou er graag van plukken.
+  appeler,                        roepen.
+  et cela _d_âune main,           en dat _met_ Ã©Ã©n hand.
+  obÃ©issant,                      gehoorzaam.
+  le sommet,                      de top, de kruin.
+  allons Paul,                    toe Paul.
+  _quâest-ce que_ Paul doit       _wat_ moet Paul doen.
+    faire,
+  un escabeau,                    een voetbankje.
+  les ciseaux,                    de schaar.
+
+
+XXXVIII.
+
+  Se faner,                       verwelken.
+  arranger,                       (rang)schikken.
+  la cheminÃ©e,                    de schoorsteenmantel.
+  une coupe,                      een schaal.
+  un ouvrage,                     een werk.
+  tout Ã  fait,                    heelemaal.
+  oublier,                        vergeten.
+  border,                         toedekken.
+  il fait si noir au jardin,      ât is zoo duister in den tuin.
+  les cris,                       de kreten, het geschreeuw.
+  la chambre Ã  _coucher_,         de _slaap_kamer.
+  quâest-ce que Ã§a fait,          wat zou dat?
+  croire,                         meenen, gelooven, hier: denken.
+  câest bien fait pour lui,       dat is zijn verdiende loon.
+  la couverture,                  de deken.
+  un baiser,                      een kus.
+  sâen aller,                     heengaan.
+  serrer,                         drukken.
+
+
+XXXIX.
+
+  Ce nâÃ©tait pas Ã©tonnant,        dat was geen wonder.
+  aller en classe,                naar school gaan.
+  tiens, moi pas,                 zoo, ik niet.
+  poursuivre,                     vervolgen.
+  en riant,                       lachend.
+  emmener,                        meenemen.
+  sâasseoir,                      zitten gaan.
+  Ã  cÃ´tÃ© de toi,                  naast je.
+  câÃ©tait trop drÃ´le,             ât was te gek.
+  avant de quitter lâÃ©cole,       voor de school te verlaten.
+  il y avait _prÃ¨s_ dâun an,      het was _ongeveer_ een jaar.
+  gentiment,                      aardig.
+  un petit mensonge,              een leugentje.
+  nous verrons,                   wij zullen zien.
+  câÃ©taient de gros mensonges,    het waren dikke (grove) leugens.
+  une bÃªtise,                     een domheid, een dwaasheid.
+
+
+XL.
+
+  La sortie,                      het uitgaan.
+  quitter,                        verlaten.
+  retrouver,                      terugvinden.
+  la meilleure heure,             het beste uur.
+  sâenvoler,                      vlug weggaan (lett.: wegvliegen).
+  faisons les fous,               laten we dartel zijn.
+  terminer,                       eindigen.
+  lâÃ©criture,                     het schrift (schrijven).
+  la lecture,                     het lezen.
+
+
+
+
+[Vignette: IK BLIJF WERKEN]
+
+
+       *       *       *       *       *
+
+
+  Au lecteur.
+
+    Ce livre Ã©lectronique reproduit intÃ©gralement le texte original.
+    Seules quelques erreurs typographiques Ã©videntes ont Ã©tÃ© corrigÃ©es
+    comme indiquÃ© ci-aprÃ¨s, et quelques erreurs de ponctuation ont Ã©tÃ©
+    tacitement corrigÃ©es.
+
+  PREMIÃRE PARTIE
+
+    Page 11: Â«danÂ» remplacÃ© par Â«dansÂ» (dans son petit lit).
+    Page 38: Â«Ã©coIeÂ» par Â«Ã©coleÂ» (aller Ã  lâÃ©cole).
+    Page 55: Â«AussiÃ´tÂ» par Â«AussitÃ´tÂ» (AussitÃ´t, joyeux tapage).
+    Page 55: Â«enfanfsÂ» par Â«enfantsÂ» (comme tous les enfants).
+
+  MOTS ET EXPRESSIONS
+
+    Page  9: Â«nietÂ» mis en italiques (hij _heeft_ zijn arm _niet
+               noodig_.)
+    Page 21: Â«vensterbaukÂ» remplacÃ© par Â«vensterbankÂ» (de
+               vensterbank.)
+
+
+
+
+
+End of the Project Gutenberg EBook of Entre Nous, by Lucie Vos
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ENTRE NOUS ***
+
+***** This file should be named 44157-0.txt or 44157-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/1/5/44157/
+
+Produced by Branko Collin, Hans Pieterse and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

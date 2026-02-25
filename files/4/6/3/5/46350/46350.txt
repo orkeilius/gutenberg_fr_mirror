@@ -1,3 +1,2312 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:227f65fb6dcb3928206c1db0abe9722a55904a017cb99baa31a5e0cdcb5813e6
-size 117900
+*** START OF THE PROJECT GUTENBERG EBOOK 46350 ***
+
+  Au lecteur
+
+  Cette version Ã©lectronique reproduit dans son intÃ©gralitÃ© la version
+  originale, Ã  l'exception des deux pages de "publicitÃ©" Ã  la fin du
+  livre.
+
+  La ponctuation n'a pas Ã©tÃ© modifiÃ©e hormis quelques corrections
+  mineures.
+
+  Les mots en gras dans l'original sont entourÃ©s par des =.
+
+
+  =======================================================================
+  |                        L'ART ET LES ARTISTES                        |
+  |                                                                     |
+  |                 _Directeur-Fondateur_: ARMAND DAYOT                 |
+  |                                                                     |
+  | ABONNEMENT D'UN AN:                               ---_SecrÃ©taire_---|
+  |FRANCE.        20 fr.                               ADOLPHE THALASSO |
+  |ÃTRANGER.      25 fr.                              ------------------|
+  |                                                                     |
+  |                                                                     |
+  |       PRIX DU NÂº SPÃCIAL Â«=LA BELGIQUE HÃROÃQUE ET MARTYRE=Â»:       |
+  |                                                                     |
+  |_Sans le bois original Â«=_CONSUMMATUM EST_=Â» de_ Pierre GUSMAN, _sur |
+  |Japon ImpÃ©rial_, =3 fr. 50= pour la France; =4 fr.= pour l'Ãtranger. |
+  |                                                                     |
+  |_Avec le bois original de_ Pierre GUSMAN, _sur Japon ImpÃ©rial_,      |
+  | =8 fr. 50= pour la France; =9 fr.= pour l'Ãtranger.                 |
+  |                                                                     |
+  |Tout abonnÃ© ancien ou nouveau Ã  _L'Art et les Artistes_ recevra une  |
+  |Ã©preuve de la magnifique gravure sur bois du maÃ®tre graveur Pierre   |
+  |GUSMAN, Â«CONSUMMATUM ESTÂ», exÃ©cutÃ©e spÃ©cialement pour la Revue et    |
+  |tirÃ©e sur Japon ImpÃ©rial.                                            |
+  |                                                                     |
+  |_De plus, il a Ã©tÃ© fait de cet ouvrage un tirage de grand luxe de 50 |
+  |exemplaires numÃ©rotÃ©s, sur papier de la Manufacture ImpÃ©riale du     |
+  |Japon. Ces exemplaires renferment chacun une Ã©preuve avant la lettre,|
+  |sur Japon ImpÃ©rial Ã©galement, du bois Â«CONSUMMATUM ESTÂ»_ de Pierre   |
+  |GUSMAN.                                                              |
+  |                                                                     |
+  |PRIX DE L'EXEMPLAIRE DE LUXE: 25 francs pour la France; 26 francs    |
+  |pour l'Etranger.                                                     |
+  |                                                                     |
+  |=====================================================================|
+  |                                                                     |
+  |                      SOMMAIRE DU NUMÃRO SPÃCIAL                     |
+  |                                                                     |
+  |                 Â«_LA BELGIQUE HÃROÃQUE ET MARTYRE_Â»                 |
+  |                                                                     |
+  |                                                                     |
+  |                                TEXTES                               |
+  |                                                                     |
+  |=AVANT-PROPOS=                                    ARMAND DAYOT       |
+  |=POUR LA BELGIQUE=                                MAURICE MAETERLINCK|
+  |=PARMI LES CENDRES=                               ÃMILE VERHAEREN    |
+  |=LIÃGE=                                           MAURICE WILMOTTE   |
+  |=VILLES ET VILLAGES SACCAGÃS PAR LES VANDALES=:                      |
+  |_Dinant_, _Malines_, _Termonde_, _etc. etc._      L. DUMONT-WILDEN   |
+  |=LE CRIME DE LOUVAIN=                             P. DELANNOY        |
+  |=YPRES=                                           PAUL LAMBOTTE      |
+  |=NIEUPORT, FURNES, DIXMUDE=                       PIERRE NOTHOMB     |
+  |=LAMPERNISSE=                                     JEAN DE MOT        |
+  |=LES CRIMINELS AU PILORI.=                                           |
+  |                                                                     |
+  |                                                                     |
+  |                            ILLUSTRATIONS                            |
+  |                                                                     |
+  |=QUATRE-VINGT-CINQ ILLUSTRATIONS= d'aprÃ¨s des peintures, aquarelles  |
+  | et eaux-fortes originales et des documents photographiques avant    |
+  | et aprÃ¨sl'invasion.                                                 |
+  |                                                                     |
+  |                                                                     |
+  |   =ÃPREUVE D'ART=: _IntÃ©rieur de l'Ãglise Saint-Martin, Ã  Ypres_.   |
+  |                                                                     |
+  |=====================================================================|
+  |Tous droits de reproduction, de traduction et d'adaptation rÃ©servÃ©s  |
+  |pour tous pays.                                                      |
+  |=====================================================================|
+  |                          J. ALLARD & Cie                            |
+  |                                                                     |
+  |o            _Galerie des Tableaux des MaÃ®tres Modernes_            o|
+  |                      20, Rue des Capucines, 20                      |
+  |=====================================================================|
+  |                                                                     |
+  |Copyright by _L'Art et les Artistes_, 1915.                          |
+  |                                L'administrateur-gÃ©rant: Ch. PEYRARD.|
+  =======================================================================
+
+
+[Illustration:
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+INTÃRIEUR DE LA CATHÃDRALE SAINT-MARTIN, A YPRES]
+
+
+
+
+_AVANT-PROPOS_
+
+  Â«_PÃ©risse la Belgique plutÃ´t que l'honneur!_Â»
+
+  _Le Roi ALBERT Ã  son ArmÃ©e,
+  (1er septembre 1914)._
+
+  Â«_La Belgique est punie comme jamais peuple ne le fut, pour avoir fait
+  son devoir comme jamais peuple ne le fit._Â»
+
+  _Maurice MAETERLINCK._
+
+
+_Il n'est pas, dans l'histoire de la royautÃ©, un geste comparable Ã 
+celui d'Albert Ier rÃ©sistant de toute la hauteur de son courage et de sa
+loyautÃ© Ã  la honteuse violation de son royaume par les armÃ©es
+allemandes; il n'est pas dans l'histoire de l'humanitÃ© un mouvement plus
+hÃ©roÃ¯que que celui du peuple belge se groupant autour de son souverain,
+pour dÃ©fendre au prix de son sang, au prix de son existence, le droit
+des nations Ã  la libertÃ© et Ã  la vie. Et cela sans songer mÃªme aux
+prochaines reprÃ©sailles du vainqueur--du vainqueur d'un jour--et sans se
+soucier de la stupeur dÃ©courageante des Ã©tats neutres qui, dans leur
+impardonnable oubli des conventions internationales, code sacrÃ©
+aujourd'hui dÃ©truit, se regardaient en tremblant, le doigt sur les
+lÃ¨vres._
+
+_Le souvenir exemplaire de ce geste souverain et de cet Ã©lan national,
+confondus dans le plus douloureux et le plus absolu des sacrifices,
+traversera dÃ©sormais les siÃ¨cles avec une sorte de rayonnement
+lÃ©gendaire amplifiÃ© de jour en jour par la pieuse admiration des
+hommes._
+
+_Dans la mesure de ses moyens, la revue l'_Art et les Artistes _veut
+contribuer Ã  fixer ce mÃ©morable Ã©vÃ©nement, Ã  propager son prestige
+aussi, et Ã  dÃ©fendre contre le pardon et contre l'oubli l'odieuse
+conduite des soldats allemands et des chefs qui les conduisaient au
+pillage, au vol, aux incendies, aux massacres des femmes et des enfants
+et aux barbares et inutiles destructions des Åuvres d'art et des
+monuments du passÃ©. Â«Oublier c'est permettre au crime de se prÃ©parer
+dans l'ombre, c'est permettre au guet-apens de s'organiser de nouveau.Â»_
+
+_Il faut que l'infamie du bourreau reste liÃ©e Ã©ternellement dans
+l'histoire Ã  la noblesse de l'hÃ©roÃ¯que victime pour apparaÃ®tre, en
+pleine lumiÃ¨re des faits indiscutables, toujours plus hideuse et
+toujours plus mÃ©prisable. A cÃ´tÃ© de l'Åuvre d'art dans toute sa suprÃªme
+beautÃ©, dans tout l'Ã©panouissement de sa gloire, il faut montrer
+l'Ã©croulement final et la dÃ©solation des ruines oÃ¹, dans les gravats,
+dans les poussiÃ¨res et dans les cendres, rien ne subsiste plus du gÃ©nie
+des hommes; Ã  cÃ´tÃ© des restes des innocentes victimes, il faut produire
+sans cesse la brute triomphante et cruelle._
+
+_Mieux que les plus Ã©loquents discours, mieux que les Ã©crits les plus
+documentÃ©s, dont l'effet salutaire peut Ãªtre, parfois, troublÃ© ou mÃªme
+paralysÃ© par l'action empoisonnÃ©e de subtils mensonges, la simple image
+du crime, Ã©claire l'histoire d'une lumiÃ¨re sans ombre. C'est la preuve
+irrÃ©futable._
+
+_Ce que nous avons fait pour la_ CathÃ©drale de Reims, _nous voulons le
+faire aujourd'hui pour la_ Belgique hÃ©roÃ¯que et martyre.
+
+_Le lecteur verra passer devant ses yeux, d'aprÃ¨s des documents d'une
+Ã©mouvante sincÃ©ritÃ©, le douloureux cortÃ¨ge des villes et des villettes
+dÃ©truites, des campagnes saccagÃ©es et aussi quelques-uns de ces coins
+calmes et tranquilles particuliers Ã  ce bon pays de Flandre, si calmes
+et si tranquilles au bord du sombre miroir de leurs canaux silencieux,
+que les douces Ã¢mes mystiques, les plus Ã©prises de solitude et de
+recueillement, s'y rÃ©fugiaient, tremblantes colombes, comme dans un nid
+de consolant repos._
+
+_Que sont devenus ces tendres asiles de priÃ¨re, d'extase et de paix?_
+
+_La rÃ©daction et l'illustration de ce numÃ©ro spÃ©cial, oÃ¹ la sÃ¨che
+prÃ©cision photographique, alterne avec des reproductions d'Åuvres d'art
+de premier ordre, ne pouvaient Ãªtre confiÃ©es qu'Ã  des Belges. Nous ne
+saurions trop remercier de leur prÃ©cieux et inapprÃ©ciable concours les
+Ã©crivains et les artistes dont chacun aura contribuÃ© au succÃ¨s de ce
+recueil mÃ©lancolique et glorieux que la revue l'_Art et les Artistes
+_est heureuse et fiÃ¨re de dÃ©dier Ã  la Belgique hÃ©roÃ¯que et Ã  son
+hÃ©roÃ¯que souverain._
+
+  _ARMAND DAYOT._
+
+
+Illustrations:
+
+VISÃ--UNE VUE SUR L'HOTEL DE VILLE
+(commencement du XVIIe siÃ¨cle) (dÃ©truit)
+
+
+VUE GÃNÃRALE DE LIÃGE (d'aprÃ¨s une gravure du XVIIe siÃ¨cle)
+_App. Ã  M. Moreau._
+
+
+LIÃGE--AU FOND, UN DES FORTS DOMINANT LA VILLE
+
+
+RUINES DE L'ÃGLISE DE VISÃ
+_Ph. Belgica._
+
+
+L'HOTEL CURTIUS A LIÃGE
+
+
+DINANT--VUE GÃNÃRALE PRISE DE LA MONTAGNE SAINT-NICOLAS
+_Phot. N D._
+
+
+
+
+POUR LA BELGIQUE
+
+
+La Belgique est punie comme jamais peuple ne le fut, pour avoir fait son
+devoir comme jamais peuple ne le fit. Elle a sauvÃ© le monde, tout en
+sachant qu'elle ne pouvait pas Ãªtre sauvÃ©e. Elle l'a sauvÃ© en se jetant
+en travers de la ruÃ©e barbare, en se laissant piÃ©tiner jusqu'Ã  la mort,
+pour donner aux dÃ©fenseurs de la justice le temps, non point de la
+secourir, car elle n'ignorait point qu'elle ne pouvait plus Ãªtre
+secourue Ã  temps, mais de rassembler les forces nÃ©cessaires pour
+arracher au plus grand pÃ©ril qui l'ait menacÃ©e, la civilisation latine.
+Elle a ainsi rendu Ã  cette civilisation, qui est la seule oÃ¹ la plupart
+des hommes veuillent et puissent vivre, un service exactement pareil Ã 
+celui que la GrÃ¨ce, lors des grandes invasions asiatiques, avait rendu Ã 
+la mÃ¨re de cette civilisation. Mais si le service est pareil, l'acte
+passe toute comparaison. On a beau regarder dans l'histoire, on n'y
+dÃ©couvre rien qui monte Ã  sa hauteur. Le magnifique sacrifice des
+Thermopyles, qui est peut-Ãªtre ce que nous trouvons de plus fier dans
+les annales de la guerre, s'Ã©claire d'une lumiÃ¨re aussi hÃ©roÃ¯que mais
+moins idÃ©ale, parce qu'il Ã©tait moins dÃ©sintÃ©ressÃ© et moins immatÃ©riel.
+LÃ©onidas et ses trois cents Spartiates dÃ©fendaient en effet leurs
+foyers, leurs femmes, leurs enfants, toutes les rÃ©alitÃ©s qu'ils venaient
+de quitter. Le roi Albert et ses Belges, au contraire, n'ignoraient
+point qu'en barrant la route Ã  l'envahisseur, ils sacrifiaient
+inÃ©vitablement leurs foyers, leurs femmes et leurs enfants. Loin d'avoir
+comme les hÃ©ros de Sparte un intÃ©rÃªt impÃ©rieux et vital Ã  combattre, ils
+avaient tout Ã  gagner Ã  ne combattre point, et rien Ã  perdre,--sauf
+l'honneur. Il y avait en balance, d'un cÃ´tÃ© les pillages, les incendies,
+la ruine, les massacres et l'immense dÃ©sastre que nous voyons; et de
+l'autre, ce petit mot d'honneur qui reprÃ©sente aussi d'immenses choses;
+mais des choses qu'on ne voit point, ou qu'il faut Ãªtre trÃ¨s pur et trÃ¨s
+grand pour apercevoir avec une clartÃ© suffisante. Qu'un homme plus haut
+que les autres aperÃ§oive ce que reprÃ©sente ce mot et sacrifie sa vie et
+celle de ceux qu'il aime Ã  ce qu'il aperÃ§oit, cela s'est vu Ã§Ã  et lÃ 
+dans l'histoire, et l'on a vouÃ© non sans raison Ã  ces hommes une sorte
+de culte qui les met presque au rang des dieux. Mais que tout un peuple,
+grands et petits, riches et pauvres, savants et ignorants, se soit Ã  ce
+point dÃ©libÃ©rÃ©ment immolÃ© Ã  une chose qu'on ne voit point, je l'affirme
+sans craindre qu'en fouillant dans la mÃ©moire des hommes on trouve de
+quoi me contredire, cela ne s'Ã©tait pas encore vu.
+
+Et remarquez qu'il ne s'agit pas d'une de ces rÃ©solutions hÃ©roÃ¯ques
+prises dans une heure d'enthousiasme oÃ¹ l'homme se dÃ©passe facilement
+soi-mÃªme et qu'il n'a pas Ã  soutenir, lorsque son ivresse oubliÃ©e, il
+retombe le lendemain au niveau de sa vie quotidienne. Il s'agit d'une
+rÃ©solution qu'il faut prendre et soutenir chaque matin, depuis prÃ¨s de
+quatre mois, au sein d'une dÃ©tresse et d'un dÃ©sastre qui croissent
+chaque jour. Et non seulement cette rÃ©solution n'a pas flÃ©chi d'une
+ligne, mais elle s'Ã©lÃ¨ve du mÃªme pas que le malheur; et aujourd'hui que
+ce malheur atteint son comble, elle atteint elle aussi son sommet. J'ai
+vu un grand nombre de mes compatriotes rÃ©fugiÃ©s: les uns avaient Ã©tÃ©
+riches et avaient tout perdu; les autres Ã©taient pauvres avant la guerre
+et maintenant ne possÃ©daient mÃªme plus ce que possÃ¨de le plus pauvre.
+J'ai reÃ§u un grand nombre de lettres venues de tous les coins de
+l'Europe oÃ¹ les exilÃ©s du devoir avaient cherchÃ© un instant de repos.
+J'y ai trouvÃ© des plaintes trop naturelles, mais pas un reproche, pas un
+regret, pas une rÃ©crimination. Je n'y ai pas surpris une seule fois
+cette phrase dÃ©couragÃ©e mais excusable, qui devrait naÃ®tre si
+facilement, semble-t-il, sur des lÃ¨vres dÃ©sespÃ©rÃ©es: Â«Si notre roi
+n'avait pas fait ce qu'il a fait, nous ne souffririons pas ce que nous
+souffrons aujourd'hui.Â» Ils n'y songent mÃªme pas. On dirait que cette
+pensÃ©e n'est plus de celles qui puissent vivre dans l'atmosphÃ¨re
+purifiÃ©e par leur malheur. Ils ne sont pas rÃ©signÃ©s, car se rÃ©signer
+c'est renoncer et ne plus tendre son courage. Ils sont heureux et fiers
+dans leur dÃ©tresse. Ils sentent obscurÃ©ment que cette dÃ©tresse va les
+rÃ©gÃ©nÃ©rer comme un baptÃªme de confiance et de gloire et les ennoblir Ã 
+jamais dans la mÃ©moire des hommes. Un souffle inattendu, venu des
+rÃ©serves secrÃ¨tes de la race et des sommets du cÅur humain, a passÃ©
+tout Ã  coup sur leur vie et leur a donnÃ© une seule Ã¢me formÃ©e de la mÃªme
+substance hÃ©roÃ¯que que celle de leur grand roi.
+
+Ils ont fait ce qu'on n'avait pas encore fait; et il faut espÃ©rer pour
+le bonheur des hommes qu'aucun peuple n'aura plus Ã  refaire pareil
+sacrifice. Mais cet exemple admirable ne sera pas perdu, mÃªme s'il n'y a
+plus lieu de l'imiter. A l'heure oÃ¹ sous le poids d'un long bien Ãªtre et
+de rÃ©alitÃ©s trop Ã©goÃ¯stes, la conscience universelle allait subir je ne
+sais quel flÃ©chissement, il a Ã©levÃ© de plusieurs degrÃ©s ce qu'on
+pourrait appeler la morale politique du monde et l'a portÃ©e d'un coup Ã 
+une hauteur qu'elle n'avait pas encore atteinte et d'oÃ¹ elle ne pourra
+plus redescendre, car il est des actes si Ã©clatants et qui prennent une
+telle place dans la mÃ©moire, qu'ils fondent une sorte de religion
+nouvelle et fixent dÃ©finitivement le niveau de la conscience, de la
+loyautÃ© et du courage humains.
+
+Ils ont rÃ©ellement, comme je l'ai dit et comme l'histoire l'Ã©tablira
+quelque jour avec plus d'Ã©loquence et plus d'autoritÃ©, sauvÃ© la
+civilisation latine. Ils se trouvaient depuis des siÃ¨cles au confluent
+de deux cultures puissantes et ennemies. Ils avaient Ã  choisir. Ils
+n'ont pas hÃ©sitÃ©. Et leur choix est d'autant plus significatif, d'autant
+plus lourd d'enseignements, que nul n'avait autant qu'eux qualitÃ© pour
+choisir en connaissance de cause. Vous n'ignorez pas, en effet, que plus
+de la moitiÃ© de la Belgique est de souche germanique. Elle Ã©tait donc,
+par ses affinitÃ©s de race, mieux Ã  mÃªme que quiconque de comprendre
+cette culture qu'on lui offrait avec la thÃ©orie du dÃ©shonneur qui s'y
+trouvait incluse. Elle l'a si bien comprise, elle la connaÃ®t si bien,
+qu'elle l'a rejetÃ©e avec une horreur, un dÃ©goÃ»t d'une violence sans
+Ã©gale, spontanÃ©, unanime, irrÃ©sistible, portant ainsi une sentence sans
+appel et donnant au monde une leÃ§on pÃ©remptoire scellÃ©e de tout son
+sang.
+
+  Maurice MAETERLINCK.
+
+
+Illustrations:
+
+DINANT--VUE SUR LA CITADELLE ET L'ÃGLISE NOTRE-DAME
+_Ph. ND._
+
+
+DINANT--LA GRAND'-RUE APRÃS L'INVASION
+_Ph. Belgica._
+
+
+VICTOR GILSOUL--SOIR A MALINES (PEINTURE)
+_Ph. Paul Becker._                    _App. Ã  M. Spievogel._
+
+
+LA HALLE AUX DRAPS DE MALINES
+_Ph. des Monuments Historiques._
+
+
+VICTOR GILSOUL--NOTRE-DAME DE LA DYLE A MALINES (PEINTURE)
+_Ph. Paul Becker._                     _App. Ã  M. Watremez._
+
+
+VICTOR GILSOUL--MALINES SOUS LA NEIGE (PEINTURE)
+_App. Ã  M. Jules Melotte._
+
+
+LA CATHÃDRALE DE MALINES AVANT LE BOMBARDEMENT
+_Ph. des Monuments Historiques._
+
+
+LA CATHÃDRALE DE MALINES APRÃS LE BOMBARDEMENT
+_Ph. J. Courcier._
+
+
+
+
+PARMI LES CENDRES
+
+
+Je ne veux pas que ces lignes soient comme le texte d'une Ã©pitaphe pour
+nos villes gisantes Ã  terre. La vie demeure sous leur cendre comme le
+printemps circule, descend et remonte Ã  fleur de sol, sous l'hiver.
+
+La Flandre et la Wallonie ont connu des jours aussi sombres que ceux
+qu'elles traversent. La Bourgogne, l'Espagne, l'Autriche les ont tour Ã 
+tour mordues et dÃ©pecÃ©es. Elles n'en sont pas mortes; elles sont faites
+pour ressusciter toujours. Mais si l'Espoir nous demeure et s'il protÃ¨ge
+contre le vent fatal la lampe de l'Ã©veil au bout de l'avenue, il n'en
+est pas moins vrai que l'heure qui sonne est Ã©trangement douloureuse et
+terrible.
+
+Pour nous rÃ©duire, l'Allemagne ne s'est point contentÃ©e de dÃ©pÃªcher ses
+hommes au feu, elle les a envoyÃ©s Ã  l'incendie; elle ne s'est point
+bornÃ©e Ã  faire la guerre au soldat qui combat, elle l'a faite Ã  la mÃ¨re
+qui engendre et Ã  l'enfant qui grandit. C'est notre race entiÃ¨re qu'elle
+a visÃ©e. Elle a voulu l'atteindre non seulement en son avenir, mais en
+son passÃ©. Sa haine fut complÃ¨te.
+
+Notre avenir c'est notre espoir; il ne s'est point encore rÃ©alisÃ©, bien
+qu'il soit brÃ»lant de ferveur et de confiance. Il se cache en notre Ã¢me.
+On ne le peut toucher, ni voir. Pourtant il est aussi rÃ©el que notre
+prÃ©sence sur la terre.
+
+Notre passÃ© tout au contraire est visible et palpable. Il s'est fait
+pierre en nos demeures et en nos monuments. Depuis le XIe ou le XIIe
+siÃ¨cle, nous symbolisons par les constructions cruciales de nos Ã©glises
+et notre idÃ©al et notre foi. Nous ornons nos temples d'une dÃ©coration Ã 
+la fois rÃ©aliste et pieuse, pour dÃ©voiler et nuancer ainsi toute notre
+pensÃ©e. DÃ¨s le treiziÃ¨me siÃ¨cle, notre fiertÃ© civique s'est affirmÃ©e et
+consolidÃ©e dans mille beffrois. Ils se dressent dominant nos maisons
+privÃ©es et nos places publiques pour que l'on sache que cette fiertÃ©
+doit Ãªtre plus haute que nos intÃ©rÃªts particuliers et nos rivalitÃ©s
+sociales. Nous avons crÃ©Ã© nos bÃ©guinages pour y satisfaire notre dÃ©sir
+de mÃ©ditation et de silence. Nos halles, qu'elles fussent aux mains de
+nos foulons, de nos bouchers, de nos drapiers, indiquaient notre ardeur
+de travail, de nÃ©goce et d'industrie. Nous les avons crÃ©Ã©es imposantes
+et belles. Nous en fÃ®mes des chefs-d'Åuvre. Toute notre vie historique
+fut ardente et personnelle. Elle diffÃ©rait de celle des autres peuples.
+A deux reprises, au XVe et au XVIe siÃ¨cles, nous avons donnÃ© au monde,
+grÃ¢ce Ã  nos peintres, une leÃ§on d'art. Hier encore, notre Ã©cole
+littÃ©raire dÃ©jÃ  illustre quoiqu'Ã  peine nÃ©e, jetait vers les RenommÃ©es
+attentives les noms de nos grands Ã©crivains. L'Europe et l'AmÃ©rique les
+connaissent. Elles les vÃ©nÃ¨rent et les cÃ©lÃ¨brent. Le plus haut de tous
+est mis au rang des Carlyle et des Emerson. Ces floraisons esthÃ©tiques
+ont Ã©tÃ©, chaque fois, le rÃ©sultat d'une prospÃ©ritÃ© matÃ©rielle large et
+sÃ»re. AprÃ¨s l'Angleterre, l'Allemagne, la France, c'est la petite
+Belgique qui prend rang dans les luttes commerciales de l'Occident.
+
+C'est donc avec autoritÃ© que nous pouvons nous rÃ©clamer de nos mÃ©rites.
+Nous sommes dignes d'Ãªtre et de rester indÃ©pendants et libres, puisque
+nous possÃ©dons des qualitÃ©s ethniques qui nous sont propres et qui
+servent Ã  la force variÃ©e et Ã  la beautÃ© du monde.
+
+Il nous manquait peut-Ãªtre quelque gloire guerriÃ¨re. Et voici que grÃ¢ce
+Ã  nos ennemis eux-mÃªmes nous l'avons conquise. Certes--mais il ne faut
+pas trop le redire--nous avons Ã©tÃ© par notre rÃ©sistance acharnÃ©e de
+quelque secours et Ã  la France et Ã  l'Angleterre. Nous leur avons donnÃ©
+le temps de s'organiser et de s'armer, derriÃ¨re nous. Nous avons retardÃ©
+l'heure de la dangereuse et formidable surprise.
+
+Mais faisant cela, nous avons fait chose plus importante encore.
+
+Nous avons eu l'honneur--oh certes sans le savoir--de dÃ©fendre les
+premiers tout un passÃ© de splendeur et de civilisation. La GrÃ¨ce et Rome
+Ã©taient Ã  nos cÃ´tÃ©s, invisibles. A LiÃ©ge, dans le ciel nocturne,
+circulaient les grandes ailes de Pallas AthÃ©nÃ©, pendant que sous elle
+rÃ´daient les Zeppelins monstrueux. Aucun de nos petits soldats flamands
+ou wallons ne s'en doutait et nous-mÃªmes nous l'ignorions. Nous ne
+l'avons su que plus tard, quand la signification morale de cette guerre
+nous est apparue. Les thÃ©oriciens allemands nous ont confessÃ© leur rÃªve
+de civilisation asiatique oÃ¹ les peuples tiennent sous le joug d'autres
+peuples. Les temps des Darius, des XerxÃ¨s et des Nabuchodonosor Ã©taient
+Ã©voquÃ©s comme des temps qui pourraient revenir. La libertÃ© claire et
+l'oppression organisÃ©e Ã©taient Ã  nouveau l'enjeu de la lutte et
+c'Ã©taient nous, les Belges, qui l'engagions.
+
+Si dans l'immense malheur qui s'Ã©tend sur nous, il peut nous rester Ã 
+cÃ´tÃ© de l'indÃ©fectible espoir, quelque motif de haute exaltation et mÃªme
+de joie, c'est de songer que notre courage, notre ferveur et notre
+acharnement ont servi la plus grande des causes humaines. Disons encore
+que pendant ces heures tragiques des premiers jours d'aoÃ»t, nous avons
+aimÃ©, haÃ¯, voulu, criÃ©, chantÃ©, pleurÃ©, avec une intensitÃ© telle que
+toute notre existence nationale passÃ©e ne vaut pas cette minute soudaine
+et superbe vÃ©cue sous la foudre. Ãtions-nous vraiment un peuple, avant
+cet instant magnifique? Nous nous dÃ©pensions en minimes querelles; nous
+n'Ã©tions guÃ¨re aimantÃ©s vers les hautes rÃ©alitÃ©s; nous nous complaisions
+Ã  nous reprocher nos origines, soit flamandes, soit wallonnes; nous
+tÃ¢chions d'Ãªtre avocats, boutiquiers, fonctionnaires, avant d'Ãªtre des
+citoyens. Le pÃ©ril a rassemblÃ© nos forces Ã©parses en un seul et lumineux
+faisceau. Nous le dressons sur nos villes dÃ©truites, sur nos plaines
+rasÃ©es, sur l'immense champ de bataille qu'est aujourd'hui notre terre
+et, avec dÃ©jÃ  de la victoire dans le cÅur, nous attendons.
+
+  Ãmile VERHAEREN.
+
+
+Illustrations:
+
+TERMONDE--HOTEL DE VILLE DU XVIe SIÃCLE
+incendiÃ© par les Allemands
+_Ph. Belgica._
+
+
+ANSÃREMME--L'ANCIEN PRIEURÃ
+_Ph. ND._
+
+
+PANORAMA DE LOUVAIN--VUE PRISE DU MONT-CÃSAR
+_Ph. ND._
+
+
+L'UNIVERSITÃ DE LOUVAIN (ANCIENNE HALLE)(dÃ©truite)
+_Ph. des Monuments Historiques._
+
+
+TH. BOUTS--LA CÃNE (ÃGLISE SAINT-PIERRE A LOUVAIN)
+_Ph. ND._
+
+L'incendie, par miracle, n'a fait qu'effleurer ce chef-d'Åuvre que des
+mains pieuses, semble-t-il, ont rÃ©ussi Ã  sauver.
+
+
+CRYPTE DE L'UNIVERSITÃ DE LOUVAIN (HALLE AUX DRAPS) (dÃ©truite)
+_Ph. des Monuments Historiques._
+
+
+UNE DES GRANDES SALLES DE LA BIBLIOTHÃQUE DE L'UNIVERSITÃ DE LOUVAIN
+(dÃ©truite)
+_Ph. N D._
+
+
+
+
+LIÃGE
+
+  _LiÃ©ge et DÃ®nant, notre brave petite France de Meuse..._
+  (MICHELET).
+
+
+Elle est la gardienne. L'Ã©peron de ses collines verdoyantes ferme la
+grande plaine des batailles, Ã  l'ouest, et son fleuve dresse une
+barriÃ¨re presqu'infranchissable de l'autre cÃ´tÃ©. Sa vieille citadelle,
+aujourd'hui dÃ©mantelÃ©e, rÃ©sume une dÃ©fensive sÃ©culaire; ses forts,
+Ã©ventrÃ©s par les obus allemands, ont tenu pendant douze jours contre la
+plus puissante armÃ©e du monde. En brisant net l'Ã©lan germanique, ils
+nous ont peut-Ãªtre sauvÃ©s de la barbarie.
+
+Les journÃ©es d'aoÃ»t resteront inoubliables. Dans quelle fiÃ¨vre
+vivions-nous, comptant les heures, anxieux des nouvelles que la presse
+du matin, de midi et du soir nous dispensait avec une parcimonie
+obligÃ©e! Ã'avait d'abord Ã©tÃ© la surprise de l'attaque brusquÃ©e, puis le
+sursaut joyeux de l'Ã©chec humiliant infligÃ© Ã  nos ennemis; puis l'espoir
+d'une intervention franÃ§aise; puis encore l'abandon des intervalles,
+livrant la citÃ© sans ses forts, qui tenaient, tenaient bon. Enfin
+l'accalmie se fit; l'occupation devint calme et rÃ©guliÃ¨re; on respira,
+faiblement sans doute; on vÃ©cut. Au moment oÃ¹ je trace ces lignes,
+LiÃ©ge, morne et muette, garde toute sa fiertÃ© et tous ses espoirs; elle
+n'ignore rien de notre avance et de la dÃ©moralisation progressive de
+l'ennemi; une haine vengeresse couve dans sa banlieue ouvriÃ¨re et
+jusqu'au plus humble de ses foyers.
+
+La vieille citÃ© a connu, plus d'une fois, de telles amertumes. Son
+histoire porte plus d'un crÃªpe. Aucune invasion ne l'a Ã©pargnÃ©e. Elle
+n'Ã©tait qu'une mÃ©diocre bourgade avant Charlemagne; dÃ©jÃ  les Normands la
+ravagÃ¨rent. Puis ce fut le tour des vassaux turbulents que la fÃ©odalitÃ©
+Ã©mancipa sur les rives de la Meuse comme sur celles du Rhin. Notker fut
+le premier prince qui affermit chez elle une autoritÃ© rÃ©guliÃ¨re et
+victorieuse. AprÃ¨s lui elle goÃ»ta des jours de paix et de grandeur
+civique, jours troublÃ©s par les luttes intestines, par la jalousie de
+ses voisins, par le contre-coup de conflits plus vastes oÃ¹ elle se vit
+impliquÃ©e. Au XVe siÃ¨cle elle entendra le claquement des Ã©tendards de
+Charles le TÃ©mÃ©raire, elle subira le chÃ¢timent le plus terrible pour
+avoir rÃ©sistÃ© Ã  ce prince, qui la traita comme les Allemands ont, en
+aoÃ»t et septembre passÃ©s, traitÃ© Louvain. L'Ã©cho des guerres de religion
+parviendra jusqu'Ã  elle au siÃ¨cle suivant, et plus tard, le piaffement
+des coursiers de Mansfeld jettera la terreur dans ses faubourgs. Enfin,
+dans la crise rÃ©volutionnaire, sous NapolÃ©on et Ã  la veille de Waterloo,
+aucune douleur ne lui fut Ã©pargnÃ©e. Nos grands-pÃ¨res y chantaient
+encore, il y a vingt ans, les couplets d'une satire oÃ¹ les Prussiens
+Ã©taient comparÃ©s Ã  l'animal impur dont se nourrissent leurs
+petits-fils.
+
+Tout cela est de l'histoire... Et pourtant jamais les LiÃ©geois ne
+s'avouÃ¨rent vaincus. Jamais ils ne perdirent cette belle humeur qui est
+faite de confiance, de bravoure et de fiertÃ©. D'une tÃ©nacitÃ© sans Ã©gale,
+impatients de n'importe quel joug, juste assez insouciants pour ignorer
+les longs abattements, mais point oublieux de leurs devoirs, de leurs
+droits, des iniquitÃ©s subies et des revanches possibles, on les vit sans
+cesse relever le front aprÃ¨s la tempÃªte; leur silence obligÃ© Ã©tait
+ironique; il n'Ã©tait ni accablÃ© ni obsÃ©quieux. Comme nos ouvriers
+d'usine refusent le travail aux Allemands de 1915, leurs ancÃªtres
+refusaient le salut Ã  leurs maÃ®tres occasionnels et verrouillaient leurs
+portes. Si leur logis Ã©tait abattu, ils se rÃ©fugiaient dans la forÃªt
+prochaine, et puis ils profitaient de la moindre Ã©claircie pour rebÃ¢tir
+leur toit, reprendre l'outil, revendiquer leurs franchises. O
+l'admirable peuple, et combien les maÃ®tres actuels de la vieille citÃ©
+s'illusionnent s'ils croient l'avoir matÃ©e en quelques mois! Malheur Ã 
+eux, comme aux tyrannies d'antan, si un retour de fortune rendait leur
+occupation prÃ©caire! Ils sentiraient tÃ´t le souffle de haine qu'exhalent
+les milliers de bouches scellÃ©es maintenant; des mains pesantes
+s'abattraient sur des nuques devenues dÃ©biles; les pics des mineurs
+achÃ¨veraient la besogne des marteaux de nos forgerons et des limes de
+nos armuriers.
+
+Mais regardez donc cette ville! Elle semble crÃ©Ã©e pour Ãªtre l'asile de
+toutes les libertÃ©s. On n'y arrive qu'en traversant la puissante
+ceinture de ses fumÃ©es industrielles. Cent cheminÃ©es lancent des gaz
+plus asphyxiants que ceux dont la malignitÃ© prussienne inonde nos
+tranchÃ©es; cent hauts-fourneaux crachent, dans la nuit, des spirales de
+feu qui sont comme l'expectoration effroyable d'un monstre infernal; on
+dirait du cercle magique que le hÃ©ros de la lÃ©gende essaie en vain de
+franchir. Le fleuve qui serpente Ã  travers sa vallÃ©e est assez large, si
+on le dÃ©lestait de ses ponts, pour couper toute retraite. Dans les plis
+de ses vallons que d'embuscades meurtriÃ¨res!
+
+VoilÃ  les aspects redoutables de la vieille citÃ©. Et maintenant, voici
+son sourire. Le cercle franchi, derriÃ¨re ce rideau sinistre, dans la
+paix d'un crÃ©puscule heureux, elle apparaÃ®t, telle une enchanteresse.
+C'est d'abord l'ensemble charmeur de ses collines aux lignes molles et
+capricieuses. C'est la dÃ©gringolade de ses maisons blanches jusqu'Ã 
+cette Meuse franÃ§aise, qui roule ses eaux claires sur un fin gravier.
+C'est le son des cloches, qui anime et rend bavardes les tours de ses
+Ã©glises romanes et gothiques, tandis que le carillon de son vieux palais
+Ã©piscopal mÃªle sa note joyeuse--quasi Ã©grillarde--Ã  ce pieux concert.
+Ainsi allait-il dans le passÃ©, oÃ¹ les chanoines trÃ©fonciers de la
+cathÃ©drale fredonnaient parfois, devant une table bien servie, des
+refrains de danse populaire. C'est, enfin, l'animation surprenante des
+rues, digne d'une plus grande citÃ©, et la jovialitÃ© des promeneurs qui,
+vrais MÃ©ridionaux du Nord, Ã©changent des saluts, des sourires et des
+quolibets d'un trottoir Ã  l'autre. Terrible et plaisant, le caractÃ¨re
+liÃ©geois n'a guÃ¨re variÃ© depuis les Eburons de CÃ©sar jusqu'aujourd'hui,
+et ma petite patrie restera, dans la Belgique de demain, comme une
+rÃ©publique aimable, d'un loyalisme parfait.
+
+  Maurice WILMOTTE,
+
+  Professeur Ã  l'UniversitÃ© de LiÃ©ge,
+  agrÃ©Ã© Ã  l'UniversitÃ© de Paris.
+
+
+Illustrations:
+
+A. DELAUNOIS--CHAPELLE DE L'ÃGLISE SAINT-PIERRE Ã LOUVAIN (AQUARELLE)
+ _MusÃ©e de Brighton._
+
+
+LOUVAIN--LES STALLES DU CHÅUR DE L'ÃGLISE SAINTE-GERTRUDE
+_Ph. N D._
+
+
+L'ÃGLISE DE SAINT-PIERRE, Ã LOUVAIN (dÃ©truite)
+_Ph. des Monuments Historiques._
+
+
+LE JUBÃ DE L'ÃGLISE SAINT-PIERRE, A LOUVAIN
+_Ph. N D._
+
+
+TH. BOUTS--LE MARTYRE DE SAINT ERASME (TRIPTYQUE)
+(ÃGLISE SAINT-PIERRE, A LOUVAIN)
+_Ph. N D._
+
+Quoique frÃ´lÃ© par les flammes, ce merveilleux triptyque a, paraÃ®t-il, pu
+Ãªtre sauvÃ© et placÃ© en lieu sÃ»r
+
+
+BRUXELLES--MAISONS DES CORPORATIONS (PLACE DE L'HOTEL-DE-VILLE)
+_Ph. N D._
+
+
+L'HOTEL DE VILLE DE BRUXELLES
+_Ph. N D._
+
+Ce monument date de 1402.--La tour a Ã©tÃ© achevÃ©e en 1454
+
+
+LA MAISON DU ROI (PLACE DE L'HOTEL DE VILLE)
+_Ph. N D._
+
+Cet Ã©difice Ã©levÃ© par ordre de Charles-Quint Ã©tait dÃ©nommÃ© autrefois
+_Broodhuys_ (Halle au pain)
+
+
+
+
+Villes et Villages saccagÃ©s par les Vandales
+DINANT, MALINES, TERMONDE, etc., etc.
+
+
+On ne flÃ©trira jamais assez Ã©nergiquement la destruction de tant de
+monuments du passÃ©, de tant de souvenirs d'art et d'histoire ordonnÃ©s,
+gÃ©nÃ©ralement sans aucune nÃ©cessitÃ© militaire, par les chefs de l'armÃ©e
+allemande partout oÃ¹ ils ont passÃ©. Mais Ã  cÃ´tÃ© de ce vandalisme
+Ã©clatant, il est des ruines qui paraÃ®tront tout aussi douloureuses Ã 
+ceux qui aiment leur pays: ce sont les ruines de tant de villages, et de
+tant de petites villes sans gloire mais charmantes.
+
+Bien plus encore que la ville, c'est le village en effet qui donne Ã  un
+pays sa physionomie. Quelles que soient les diffÃ©rences que l'on
+constate de rÃ©gion Ã  rÃ©gion, du Nord au Sud et de l'Est Ã  l'Ouest de la
+France, les villages, sauf dans les dÃ©partements oÃ¹ la grande industrie
+a brusquement modifiÃ© l'aspect du pays, ont partout une physionomie qui
+s'apparente. Bourgs normands perdus dans les arbres, hameaux bretons
+dont les maisonnettes de pierre grise sont tapies dans une anfractuositÃ©
+du roc, villages du Valois ou du Parisis, gracieux et champÃªtres comme
+une bergerette du XVIIIe siÃ¨cle ou un conte de GÃ©rard de Nerval,
+bourgades mÃ©ridionales aux maisons blanches bien rangÃ©es autour du mail,
+le forum de l'ancien municipe, villages lorrains serrÃ©s autour de leurs
+clochers pointus comme pour mieux rÃ©sister aux invasions, villages de
+montagne encadrÃ©s dans la combe profonde, villages de la plaine fertile
+oÃ¹ tout respire l'abondance et la paix, villages forestiers, villages
+maritimes, tous les villages franÃ§ais racontent avec une discrÃ¨te
+Ã©loquence l'histoire intime d'une vieille civilisation agricole et
+policÃ©e, et d'un pays oÃ¹ depuis longtemps, l'homme des champs aussi est
+un homme libre. Et partout ou presque partout, on y trouve dans la
+disposition des plus humbles maisons, dans leur architecture, dans un
+goÃ»t traditionnel pour les arbres, les fleurs et les pampres, la preuve
+du goÃ»t instinctif d'une race nÃ©e pour l'art.
+
+A quelques nuances prÃ¨s, c'est une impression analogue qu'on Ã©prouvait
+dans les villages de Belgique. Tant en Flandre qu'en Wallonie, il y
+avait, avant la guerre, dans ces belles provinces qui semblaient avoir
+pour jamais oubliÃ© la guerre, quantitÃ© de bourgades si heureusement
+disposÃ©es, si bien patinÃ©es par les siÃ¨cles et si soigneusement
+entretenues par les hommes qu'elles apparaissaient comme de vÃ©ritables
+Åuvres d'art.
+
+Elles apparaissaient! Il faut, hÃ©las! pour des rÃ©gions entiÃ¨res, parler
+au passÃ©, car presque partout oÃ¹ l'armÃ©e allemande passa, il y a
+quelques mois, il ne reste plus que des ruines.
+
+On peut vraiment suivre l'invasion Ã  la trace sanglante et charbonneuse
+qu'elle a laissÃ©e. Partout des massacres, partout des pillages et des
+destructions, partout des incendies.
+
+Elle entre en Belgique par Verviers et le plateau de Herve, haute plaine
+agricole dont les gras pÃ¢turages sont renommÃ©s et oÃ¹ les grandes fermes
+et les gros bourgs abondent. Verviers, ville ouverte, ne rÃ©siste pas: on
+la respecte, on se contente de brÃ»ler une usine pour l'exemple; dans les
+campagnes on fusille quelques otages, on dÃ©truit quelques fermes sous
+divers prÃ©textes, mais ce ne sont lÃ  que de menues gentillesses, sans
+importance. A VisÃ©, prÃ¨s de la frontiÃ¨re hollandaise oÃ¹ une division de
+l'armÃ©e belge tente courageusement de disputer le passage de la Meuse,
+les gÃ©nÃ©raux de l'empereur allemand montreront mieux leur savoir-faire.
+VisÃ© prise sera plus qu'Ã  moitiÃ© dÃ©truite. Mais c'est aprÃ¨s la reddition
+de LiÃ©ge que la dÃ©vastation systÃ©matique commenÃ§a. A la formidable
+invasion qui se prÃ©parait, toutes les routes de la Belgique Ã©taient
+nÃ©cessaires; les routes classiques, la Meuse et la Sambre, les routes
+plus difficiles des Ardennes; toutes ont presque Ã©galement souffert du
+passage de la horde dÃ©vastatrice...
+
+La VallÃ©e de la Meuse! Beaucoup de soldats y ont passÃ© jadis. Henri II
+aprÃ¨s le sac de ThÃ©rouanne par Charles-Quint y entreprit une sorte
+d'expÃ©dition punitive; les bandes du duc de Nevers n'y allÃ¨rent pas de
+main morte et avant 1914 on disait dans les livres d'histoire que jamais
+on n'avait fait la guerre d'une maniÃ¨re aussi cruelle qu'en ce XVIe
+siÃ¨cle sanglant et passionnÃ©. Mais les soldats du Roi de France, pas
+plus que les reÃ®tres de l'empereur ne se prÃ©tendaient les reprÃ©sentants
+de la Culture et aucune confÃ©rence de La Haye n'Ã©tait venue codifier les
+lois de la guerre. Les armÃ©es de Louis XIV, celles de Guillaume
+d'Orange, roi d'Angleterre, celles de la RÃ©volution, qui, elles aussi
+passÃ¨rent par ces belles vallÃ©es, ne firent la guerre qu'aux soldats, et
+si quelques chÃ¢teaux du pays furent brÃ»lÃ©s par ces derniÃ¨res, ce fut
+avec la complicitÃ© des habitants que les haines sociales Ã©garaient.
+
+Mais ces souvenirs, au printemps dernier, appartenaient Ã  l'histoire,
+Ã  une trÃ¨s lointaine histoire, et l'on ne pouvait rien imaginer de plus
+paisible que ces rives de la Meuse, qui ressemblaient Ã  un immense parc.
+Sur les bords de l'eau, au pied des collines boisÃ©es, une quantitÃ© de
+villas opulentes ou coquettes, s'Ã©levaient dans les jardins et mariaient
+heureusement leur rusticitÃ© artificielle et bourgeoise avec le charme
+des vieux villages de pierre grise. C'Ã©tait un pays de villÃ©giature, un
+pays de repos, de confort, d'opulence, oÃ¹ la prospÃ©ritÃ© belge s'Ã©talait
+avec une complaisance joyeuse. Les villes elles-mÃªmes avaient toutes un
+aspect accueillant de villes d'eaux. Namur riait Ã  l'Ã©tranger dans sa
+ceinture de forts, et avait converti en parc sa vieille citadelle;
+Dinant, qui s'allongeait voluptueusement au pied du rocher autour de sa
+vieille Ã©glise dont l'Ã©trange et charmant clocher bulbeux accrochait le
+regard, avait l'air d'une capitale d'opÃ©rette. Andenne, Huy, HastiÃ¨res,
+Yvoir, Freyr, Godinne, tous les villages, toutes les villettes de la
+contrÃ©e avaient le mÃªme aspect de gaÃ®tÃ© tranquille et saine, de gaÃ®tÃ©
+wallonne. Ce n'Ã©taient pas prÃ©cisÃ©ment des villes d'art, des
+villes-musÃ©es,--bien que, dans quelques-unes d'entre elles, Ã  Huy, Ã 
+Dinant, Ã  HastiÃ¨res il y eÃ»t de fort belles Ã©glises, trÃ¨s anciennes et
+trÃ¨s curieuses,--mais c'Ã©taient cependant des Åuvres d'art en ce sens
+que, malgrÃ© les erreurs inÃ©vitables de la construction moderne, elles
+portaient l'empreinte d'une tradition architecturale mosane, qui a
+beaucoup de charme et d'originalitÃ©...
+
+
+Illustrations:
+
+ANVERS--FAÃADE D'UNE MAISON BOMBARDÃE, RUE DES TROIS-ROIS
+_Ph. Express._
+
+
+ANVERS--BERCHEM.--(QUARTIERS BURNTED)
+_Ph. Express._
+
+
+GAND--MAISON DES BATELIERS
+_Ph. N D._
+
+
+GAND--L'HOTEL DE VILLE
+_Ph. N D._
+
+
+Toutes, ou presque toutes, ont subi les stigmates de l'invasion. Namur,
+qui fut dÃ©fendue, Namur, qui fut bombardÃ©e et prise aprÃ¨s un siÃ¨ge en
+rÃ¨gle, a relativement peu souffert. Ce sont les villes ouvertes, les
+villes oÃ¹ les Allemands sont entrÃ©s sans coup fÃ©rir ou aprÃ¨s des
+batailles gagnÃ©es, qu'ils ont pillÃ©es et brÃ»lÃ©es. A Dinant oÃ¹ les
+Allemands, vaillamment attaquÃ©s par une avant-garde franÃ§aise avaient
+d'abord subi un sanglant Ã©chec, sur quatorze cents maisons que
+comptaient la ville et ses faubourgs deux cents Ã  peine sont encore
+debout. PrÃ¨s de l'Ã©glise dont les dÃ©bris calcinÃ©s sont Ã©claboussÃ©s d'une
+boue sanglante, cent vingt hommes ont Ã©tÃ© mitraillÃ©s sous les yeux de
+leurs femmes; Ã  l'autre extrÃ©mitÃ© de la place, quatre-vingt-quatre
+autres ont Ã©tÃ© fusillÃ©s. Pour qu'ils fussent atteints plus sÃ»rement on
+les avaient massÃ©s en carrÃ© contre un mur: les pelotons allemands
+tiraient dans le tas. Suivant le rapport officiel belge, la liste des
+victimes civiles de Dinant se monte Ã  huit cents noms et lÃ  oÃ¹ s'Ã©levait
+une des plus jolies villes de la Meuse il ne reste plus que des ruines
+dÃ©sertes, un fantÃ´me, un squelette de ville.
+
+Andenne, moins pittoresque que Dinant, mais agrÃ©ablement situÃ©e sur le
+bord de la Meuse entre LiÃ©ge et Huy et qui n'en Ã©tait pas moins une
+accorte et charmante petite citÃ© wallonne a eu Ã  peu prÃ¨s le mÃªme sort.
+Et ici le drame est encore plus inexplicable car les Allemands n'avaient
+pas eu Ã  se battre autour d'Andenne comme ils avaient eu Ã  se battre
+autour de Dinant. Â«AprÃ¨s deux jours d'une occupation plus ou moins
+pacifique, raconte M. Pierre Nothomb dans son terrible livre: _Les
+Barbares en Belgique_, le jeudi 20 aoÃ»t Ã  6 heures du soir, une vive
+fusillade Ã©clata de divers cÃ´tÃ©s Ã  la fois et une douzaine de maisons
+entre la Meuse et la gare se mirent Ã  flamber. Les habitants rÃ©fugiÃ©s
+dans leurs caves et qui avaient cru d'abord Ã  une arrivÃ©e des alliÃ©s sur
+la ville virent bientÃ´t que la fusillade Ã©tait dirigÃ©e contre eux. Ceux
+qui allÃ¨rent Ã  leur seuil pour voir ce qui se passait furent tuÃ©s. Le
+bourgmestre, M. Camus, remontÃ© de sa cave pour fermer sa porte fut
+blessÃ© d'une balle Ã©garÃ©e; son corps fut aussitÃ´t criblÃ© de vingt coups
+de baÃ¯onnettes. De vÃ©ritables feux de salve furent dirigÃ©s vers les
+caves et les soupiraux.Â»
+
+Trois cent vingt bourgeois furent ainsi assassinÃ©s, la plupart sous les
+yeux de leur femme et de leurs enfants, et trois cents maisons furent
+brÃ»lÃ©es. L'officier qui prÃ©sida Ã  ce beau fait de guerre s'appelle
+SchÅnman. Mais le gÃ©nÃ©ral von BÃ¼low s'empressa d'en prendre la
+responsabilitÃ©:
+
+  Â«C'est avec mon consentement, dÃ©clara ce noble homme de guerre, que le
+  gÃ©nÃ©ral en chef a fait brÃ»ler toute la localitÃ© d'Andenne et que cent
+  personnes environ ont Ã©tÃ© fusillÃ©esÂ». Il trouvait apparemment que son
+  subordonnÃ© avait un peu exagÃ©rÃ© en en tuant plus de trois cents...
+
+Huy fut moins cruellement traitÃ©e: on y a fusillÃ© quelques otages, brÃ»lÃ©
+et pillÃ© quelques maisons, mais c'est peu de chose, relativement Ã  ce
+qui fut fait ailleurs.
+
+Quant aux villages des rives de la Meuse ou des plateaux voisins, quant
+aux villas et aux chÃ¢teaux qui peuplaient les bois Ã  flanc de coteau,
+tous ont Ã©tÃ© pillÃ©s.
+
+Mais certaines rÃ©gions des Ardennes ont peut Ãªtre souffert davantage.
+L'offensive franÃ§aise s'y porta d'abord, et si nos troupes finalement
+durent battre en retraite, ce ne fut qu'aprÃ¨s de durs combats oÃ¹ les
+Allemands perdirent beaucoup de monde.
+
+C'est un pays de bois, de plateaux arides, coupÃ© de vallÃ©es profondes,
+un pays qui se prÃªterait merveilleusement Ã  la guerre de partisans. On
+sait que les Allemands en ont une peur affreuse: le franc-tireur est
+leur cauchemar. Aussi, quand les FranÃ§ais qui avaient Ã  dÃ©fendre le pays
+pied Ã  pied, profitÃ¨rent de la disposition du sol pour tendre
+d'heureuses embuscades, les attribuÃ¨rent-ils aux habitants. Ce fut le
+prÃ©texte d'affreuses reprÃ©sailles, massacres, fusillades, incendies,
+bombardements qui n'Ã©taient pas tout Ã  fait, du reste, sans effets
+militaires, car plus d'une fois nos troupes hÃ©sitÃ¨rent Ã  dÃ©fendre un
+village ou une ferme sans absolue nÃ©cessitÃ© dans la certitude oÃ¹ elles
+Ã©taient que leur dÃ©fense causerait la mort ou la ruine des habitants.
+Longtemps, on n'a rien su de ce qui s'Ã©tait passÃ© dans ce malheureux
+pays qui fut vraiment isolÃ© du reste du monde. On sait aujourd'hui que
+ses villages furent dÃ©truits par centaines, et ses habitants
+littÃ©ralement dÃ©cimÃ©s.
+
+C'Ã©taient aussi de beaux villages, moins riants, moins opulents que ceux
+de la Meuse, mais d'un pittoresque dÃ©licieux: maisons de pierre grise
+aux toits d'ardoise, clochers pointus, moulins Ã  eau, heureusement
+situÃ©s au bord des claires riviÃ¨res.
+
+Petits hameaux agrestes et paisibles suspendus au flanc d'une colline,
+petites villes agricoles et forestiÃ¨res tassÃ©es aux carrefours des
+grand'routes, Rossignol, Maissin, NeufchÃ¢teau, Etalle, Paliseul,
+Herbeumont, Suxy, nous savons que vous aussi vous avez souffert durement
+de la guerre; et quand nous pourrons Ã  nouveau parcourir ces hauts
+plateaux de l'Ardenne d'oÃ¹ l'on dÃ©couvre d'immenses paysages pareils Ã 
+des fonds de tableaux gothiques, et ces profondes vallÃ©es, oÃ¹ tant de
+fois, dans la paix des choses, nous avons cru qu'on pourrait oublier le
+monde, nous retrouverons bien des ruines. Mais le pays que vos jolis
+noms Ã©voquent ne nous en sera que plus cher. Il n'aura rien perdu de son
+charme qu'il doit Ã  la nature mÃªme, Ã  la configuration de son rude sol,
+Ã  la beautÃ© de son ciel changeant plus qu'Ã  l'effort des hommes, et
+d'avoir souffert du passage des Barbares il ne nous paraÃ®tra que plus
+Ã©mouvant.
+
+                                *
+                               * *
+
+En pays flamand, au contraire, les ravages sont irrÃ©parables. LÃ , la
+guerre n'a pas seulement causÃ© des ruines et semÃ© des deuils, elle a
+modifiÃ© tout l'aspect d'un pays. En quelques semaines, elle a dÃ©truit
+l'effort patient de plusieurs siÃ¨cles.
+
+
+Illustrations:
+
+F. WILLAERTS--RENTRÃE DU BÃGUINAGE--GAND (PEINTURE)
+_Cl. Braun et Cie._                   _MusÃ©e du Luxembourg._
+
+
+FRANK BRANGWYN--VIEILLES MAISONS A GAND (EAU-FORTE)
+_Ph. Vizzavona._
+
+
+A. BOERTSOEN--LE DÃGEL (PEINTURE)
+Aspect d'un vieux quartier de Gand sous la neige
+_Cl. Braun et Cie._                   _MusÃ©e du Luxembourg._
+
+
+C. HOUSSARD--HÃTEL DE VILLE D'ALOST (EAU-FORTE)
+
+
+C. HOUSSARD--LE BEFFROI DE BRUGES (EAU-FORTE)
+
+
+VICTOR GILSOUL--SOIR A BRUGES--LE QUAI DE LA POTERIE (PEINTURE)
+_Ph. Paul Becker._                   _App. Ã  M. DelbrugÃ¨re._
+
+
+VICTOR GILSOUL--LE BÃGUINAGE (PEINTURE)
+_Ph. Vizzavona._
+
+
+BRUGES--LA PLACE VAN-EYCK
+_Ph. N D._
+
+
+BRUGES--LE LAC D'AMOUR
+_Ph. N D._
+
+
+AprÃ¨s la chute de LiÃ©ge, tandis qu'une armÃ©e allemande, poursuivant ses
+avantages sur la rive droite de la Meuse, repoussait les FranÃ§ais jusque
+sur leur territoire, une autre entreprenait l'invasion de la Belgique
+sur un vaste front qui allait du Nord au Sud, poussant devant elle la
+petite armÃ©e belge qui, hÃ©roÃ¯quement, dÃ©fendait le terrain pied Ã  pied.
+Partout, elle commit les mÃªmes ravages, les mÃªmes horreurs. D'autres que
+moi raconteront le martyre d'Aerschot et de Louvain, de Tongres, de
+Diest, de quantitÃ© de bourgs et de villages, de ce gras pays brabanÃ§on
+qui semblait amÃ©nagÃ© pour les fÃªtes, les ripailles et les kermesses, et
+non pour la guerre. Malines, sÅur pensive de Bruges et de Louvain, fut
+prise et reprise. Plusieurs fois, les Allemands la bombardÃ¨rent, visant
+toujours avec obstination cette noble tour de Saint-Rombaut, qui se
+dresse dans la plaine flamande comme un flambeau. Mais une fois la ville
+prise, elle ne fut pas incendiÃ©e, ni systÃ©matiquement dÃ©truite, et si
+l'opulent pays qui s'Ã©tend entre Bruxelles et Anvers a Ã©tÃ© converti en
+dÃ©sert, du moins les Allemands peuvent-ils allÃ©guer qu'on s'y est
+durement battu, que l'armÃ©e belge, retirÃ©e dans Anvers, a fait plusieurs
+sorties qui inquiÃ©taient gravement les derriÃ¨res de l'armÃ©e d'invasion.
+Mais pour la destruction de Termonde, ils ne sauraient invoquer aucune
+excuse. C'est aprÃ¨s qu'elle eÃ»t Ã©tÃ© Ã©vacuÃ©e par les derniÃ¨res troupes
+belges, que la ville fut systÃ©matiquement dÃ©truite. Comme elle avait
+dÃ©jÃ  souffert d'un premier bombardement, et qu'elle semblait
+dÃ©finitivement acquise Ã  l'armÃ©e d'invasion, le bourgmestre vient
+trouver en suppliant le gÃ©nÃ©ral von Sommerfeld--tous ces noms sont Ã 
+retenir--tranquillement assis sur une chaise, devant un cafÃ© sur la
+Grand'Place. Il parle, il prie, il pleure, il est au moment de
+s'agenouiller devant le bourreau de sa ville; mais celui-ci le regarde
+froidement, rÃ©pond ces simples mots: Â«Nein! razierenÂ», et fait signe aux
+pionniers de commencer.
+
+Il ne reste plus aujourd'hui de Termonde que quelques petits tas de
+dÃ©combres au bord de l'Escaut.
+
+La jolie ville que c'Ã©tait! De pittoresques remparts Ã  la Vauban
+l'entouraient, de larges douves communiquant avec l'Escaut, lui
+faisaient une gracieuse ceinture d'eau qui ajoutait Ã  son charme intime
+et accueillant. C'Ã©tait comme un vieux petit port accroupi le long du
+grand fleuve, et soigneusement gardÃ© Ã  la faÃ§on d'autrefois contre les
+intrus et les indÃ©sirables. Pour entrer Ã  Termonde, on passait des ponts
+et des ponts encore, et tout Ã  coup, l'on arrivait dans quelque rue
+multicolore dont les maisons luisantes de peinture alignaient leurs
+faÃ§ades comme des jouets de Nuremberg. Un bout de canal, un bras de
+riviÃ¨re reflÃ©tait les fenÃªtres garnies de rideaux Ã  guipure et dÃ©corÃ©es
+de vases remplis de fleurs artificielles. Aucune animation, du reste,
+sauf sur les quais, du cÃ´tÃ© des fabriques. Aucun bruit, sauf l'aigre
+sonnerie des clairons de la garnison. Sur la Grand'Place, Ã  certaines
+heures, il ne passait pas trois personnes. Par moments, la porte d'un
+cafÃ© s'abattait avec un bruit sourd. Un officier traÃ®nait lentement ses
+pas vers le cercle militaire, puis tout retombait Ã  la solitude, au
+silence. Mais cette solitude n'avait rien d'hostile ni de triste. Elle
+Ã©tait souriante et confortable. Les gens de Termonde y Ã©taient habituÃ©s
+depuis si longtemps qu'ils semblaient ne pas supposer qu'il pÃ»t y avoir
+une autre vie. Ils s'ennuyaient confortablement et paraissaient heureux
+de s'ennuyer.
+
+Mais Termonde, outre le charme de ses rues multicolores, intÃ©ressait le
+voyageur par la coquetterie caractÃ©ristique de son hÃ´tel de ville. Il
+avait subi, au cours des siÃ¨cles, beaucoup de retouches, mais toutes les
+variations de son architecture s'Ã©taient trÃ¨s heureusement harmonisÃ©es.
+Une partie avait Ã©tÃ© restaurÃ©e selon les dessins de Maestertuis dans un
+gothique trÃ¨s pur et trÃ¨s simple, tandis que l'aile gauche s'ornait d'un
+pignon contournÃ© dans le goÃ»t de la Renaissance. Au milieu de l'Ã©difice,
+la tour se dressait d'un jet hardi, couronnÃ©e de quatre tourelles qui
+s'effilaient autour d'une lanterne finissant en flÃ¨che bulbeuse. Certes,
+ce monument n'avait rien de l'imposante solennitÃ© du beffroi de Bruges,
+ni de la fiÃ¨re Ã©nergie du beffroi d'Ypres, ni de la grÃ¢ce lÃ©gÃ¨re de
+l'hÃ´tel de ville d'Audenarde, mais sa silhouette avait de la grÃ¢ce et de
+la fiertÃ© et il faisait, somme toute, trÃ¨s bonne figure parmi les
+Ã©difices civils de la Flandre. A l'intÃ©rieur, la municipalitÃ© avait
+rÃ©uni les tableaux qu'elle possÃ©dait, et qui, presque tous, Ã©taient dÃ»s
+Ã  des peintres du terroir, car Termonde a marquÃ© dans l'histoire
+artistique de la Belgique contemporaine: c'est le lieu de naissance du
+grand paysagiste Courtens. On y trouvait, du reste, aussi quelques
+tableaux anciens de grande valeur. A Notre-Dame, la vieille collÃ©giale
+sombre dont la masse trapue s'Ã©levait au-dessus de l'ancien cimetiÃ¨re,
+on voyait, parmi l'or et le marbre des chapelles, un remarquable tableau
+de Gaspard de Crayer et deux Van Dyck excellents: une _Adoration des
+Bergers_ et un _Crucifiement_.
+
+Ces prÃ©cieuses toiles ont-elles Ã©tÃ© sauvÃ©es? je ne sais; mais les
+charmants Ã©difices qui leur servaient de cadre ont disparu Ã  jamais.
+Sans doute Termonde se relÃ¨vera de ses ruines, mais ce sera une autre
+ville, une ville neuve sans rien du charme discret et recueilli de la
+citÃ© dÃ©truite.
+
+                                *
+                               * *
+
+HÃ©las! il en est ainsi de presque toute la Flandre. Rien ne nous rendra
+son tranquille et placide visage. Elle pansera ses blessures, elle
+rÃ©parera ses dÃ©sastres avec cette patiente Ã©nergie qu'elle a toujours
+montrÃ©e au cours des siÃ¨cles, mais ses paysages silencieux et pensifs
+comme des jardins de bÃ©guines, ses villages riants, paisibles et
+vieillots ont disparu Ã  jamais.
+
+Peut-Ãªtre reverrons-nous la tour des halles d'Ypres se dresser fiÃ¨rement
+au milieu de la plaine reconquise, car on pourra la reconstruire
+pieusement, telle qu'elle Ã©tait, mais nous ne reverrons jamais la
+vieille petite place, la charmante Ã©glise de Loo, si artistement patinÃ©e
+par le temps; nous ne reverrons jamais le tendre bÃ©guinage de Dixmude,
+son vieux pont de l'Yser, ses maisonnettes multicolores, on ne refera
+pas ces quais ombragÃ©s de vieux arbres. Et de mÃªme Nieuport. Aucun
+archÃ©ologue, aucun architecte, ne nous restituera la vieille Ã©glise de
+brique et son clocher bulbeux, le modeste hÃ´tel de ville, avec son
+perron solennel, ni la Halle-aux-Drapiers, avec sa gracieuse tour
+carrÃ©e.
+
+A quoi bon chercher Ã  reconstituer ces humbles monuments? Ce n'Ã©taient
+rien moins que des modÃ¨les d'architecture et leur beautÃ© Ã©tait faite de
+leur parfaite convenance au cadre qui les entourait, de la couleur dont
+les siÃ¨cles les avaient revÃªtus, de l'harmonie qui s'Ã©tait Ã©tablie entre
+eux, et les arbres et le ciel. Les arbres de Nieuport ont Ã©tÃ© rasÃ©s par
+les obus, et le vÃ©tustÃ© petit port qui s'endormait si voluptueusement
+dans ses souvenirs, le long de l'Yser vaseux, n'est plus qu'un tas de
+briques et de plÃ¢tras.
+
+Nieuport, Ypres, Dixmude, Termonde, rien ne me donne comme ces noms
+l'affreuse sensation de l'irrÃ©parable...
+
+  L. DUMONT-WILDEN.
+
+
+Illustrations:
+
+VICTOR GILSOUL--LE TOURNANT DU CANAL DE BRUGES (PEINTURE)
+_Ph. Paul Becker._                  _App. Ã  M. Max Wolfers._
+
+
+VICTOR GILSOUL--SOIR A LOO--FLANDRES (PEINTURE)
+
+
+VICTOR GILSOUL--PAYSAGE DU LITTORAL BELGE (PEINTURE)
+                           _App. Ã  S. M. le Roi des Belges._
+
+
+VICTOR GILSOUL--ASPECT D'UN VIEUX VILLAGE FLAMAND (PEINTURE)
+_Ph. Paul Becker._                     _MusÃ©e de Barcelone._
+
+
+LES HALLES D'YPRES (dÃ©truites)
+_Ph. N D._
+
+
+LA HALLE A LA BOUCHERIE D'YPRES (dÃ©truite)
+_Ph. des Monuments Historiques._
+
+
+
+
+LE CRIME DE LOUVAIN
+
+
+Le crime de Louvain, n'est pas seulement un crime contre la Vie: c'est
+un crime contre l'Esprit, Ã©crivait rÃ©cemment Pierre Nothomb. Et de fait
+on ne pouvait Ã©voquer le nom de Louvain, sans songer au centre
+intellectuel, de rÃ©putation cÃ©lÃ¨bre, dont la fondation remonte Ã  1425;
+on ne pouvait traverser les rues Ã©troites et tortueuses de la vieille
+citÃ© brabanÃ§onne, sans admirer l'une ou l'autre faÃ§ade artistique des
+quarante-trois collÃ¨ges de l'ancienne universitÃ©! Depuis quelques annÃ©es
+des monuments nouveaux, laboratoires, instituts, pÃ©dagogies, s'Ã©levaient
+un peu partout, garants de la prospÃ©ritÃ© fÃ©conde de l'Ã©cole.
+
+Louvain Ã©tait au moyen Ã¢ge une ville commerciale, puissante et prospÃ¨re.
+Les draps Ã©carlates, les tapis, les futaines, les bougrans, les
+passements d'or, d'argent et de soie, tissÃ©s Ã  Louvain, Ã©taient renommÃ©s
+dans toute l'Europe. Pour abriter les mÃ©tiers et les Ã©choppes des
+drapiers, les magistrats firent construire en 1317 une Halle, d'aspect
+sombre et sÃ©vÃ¨re, d'une grande sobriÃ©tÃ© et d'une parfaite puretÃ© de
+style.
+
+Des deux salles du rez-de-chaussÃ©e, une seule subsistait de nos jours Ã 
+peu prÃ¨s intacte, divisÃ©e en deux nefs par une longue Ã©pine de colonnes,
+Ã  chapiteaux ornÃ©s de feuillages et de fruits; d'harmonieuses arcades en
+plein cintre, vigoureusement moulurÃ©es, s'appuyaient sur les colonnes.
+De magnifiques culs-de-lampe soutenaient les poutres en chÃªne du
+plafond; les sujets qu'ils reprÃ©sentaient Ã©taient des plus variÃ©s:
+feuillages, scÃ¨nes burlesques, Ãªtres fantastiques ou hybrides. Plusieurs
+de ces culs-de-lampe constituaient des spÃ©cimens originaux, qu'on
+rencontre rarement Ã  la mÃªme Ã©poque dans le reste de notre pays; tous
+Ã©taient d'un modelÃ© ferme et rude, formant contraste avec les ciselures
+plus fines et plus gracieuses de l'Ã©poque postÃ©rieure. On a reproduit
+souvent les deux bustes de chevaliers, revÃªtus de la cotte de maille et
+sÃ©parÃ©s par deux Ã©cus. Â«Ce morceau d'un modelÃ© trÃ¨s ferme et d'un trÃ¨s
+bon style, dit J. DestrÃ©e, dÃ©montrerait Ã  dÃ©faut d'autre tÃ©moignage la
+place distinguÃ©e que la sculpture occupait dÃ©jÃ  dans nos contrÃ©es dÃ¨s le
+dÃ©but du XIVe siÃ¨cle.Â»
+
+La Halle aux draps de Louvain ne connut pas longtemps la grouillante
+animation des marchÃ©s et des cÃ©lÃ¨bres foires de septembre; dÃ¨s la
+seconde moitiÃ© du XIVe siÃ¨cle une lutte fÃ©roce entre patriciens et
+plÃ©bÃ©iens ruina le commerce et forÃ§a les drapiers Ã  Ã©migrer en Hollande
+et en Angleterre.
+
+La grande citÃ© brabanÃ§onne allait dÃ©choir de son rang, elle Ã©tait vouÃ©e
+Ã  la ruine, lorsque, au commencement du XVe siÃ¨cle, une occasion unique
+s'offrit Ã  elle de connaÃ®tre Ã  nouveau des jours prospÃ¨res. Les
+conseillers du duc de Brabant venaient de dÃ©cider la fondation dans les
+Pays-Bas d'un Ã©tablissement d'Ã©tudes supÃ©rieures, afin de retenir dans
+nos frontiÃ¨res la jeunesse avide de savoir et obligÃ©e de frÃ©quenter les
+universitÃ©s Ã©trangÃ¨res. Les magistrats de la ville de Louvain ne
+mÃ©nagÃ¨rent ni les dÃ©marches, ni les plaidoyers habiles pour dÃ©terminer
+le duc Ã  fixer chez eux le siÃ¨ge de la nouvelle acadÃ©mie; ils obtinrent
+gain de cause.
+
+Aucune autre ville de nos provinces ne pouvait se prÃ©valoir des
+avantages prÃ©cieux que possÃ©dait Louvain pour devenir un centre
+d'Ã©tudes: de vastes locaux abandonnÃ©s par le commerce ruinÃ©, des
+habitants dont le contact continu avec l'Ã©tranger et les habitudes
+commerciales avaient faÃ§onnÃ© et adouci les mÅurs, un climat salubre,
+doux et tempÃ©rÃ©, tant vantÃ© par les historiens, de vastes jardins
+prÃªtant leurs ombrages aux promenades solitaires des savants, des rues
+silencieuses et tranquilles, une paix Ã©ternelle oÃ¹ rien ne devait
+troubler les travaux de l'esprit, les mÃ©ditations profondes et
+abstraites: _nusquam studetur quietius_, Ã©crivait Erasme.
+
+Avec la jeune Alma Mater, la ville de Louvain se reprit Ã  la vie et Ã 
+l'espÃ©rance. Consciente de sa dignitÃ© et du rÃ´le important qu'elle Ã©tait
+appelÃ©e Ã  jouer, elle voulut se parer de joyaux artistiques
+incomparables. L'annÃ©e mÃªme de la fondation de l'universitÃ© on
+commenÃ§ait, sous la direction de l'architecte Sulpice Van Vorst, de
+Diest, la construction de la collÃ©giale Saint-Pierre; le chÅur Ã©tait
+achevÃ© en 1434, mais les travaux de l'Ã©glise durÃ¨rent jusqu'au
+commencement du XVIe siÃ¨cle. De magnifiques tours de style flamboyant
+devaient couronner l'Ã©difice et lui donner l'envolÃ©e des plus belles
+cathÃ©drales; des Ã©croulements successifs firent abandonner ces projets
+et le monument conserva toujours l'aspect d'une Åuvre inachevÃ©e.
+L'intÃ©rieur prÃ©sentait un ensemble impressionnant par l'Ã©lancement des
+voÃ»tes, l'Ã©lÃ©gance des proportions, la puretÃ© des lignes; sept chapelles
+polygonales entouraient l'abside du chÅur.
+
+La collÃ©giale de Louvain renfermait des trÃ©sors artistiques. D'aprÃ¨s un
+dessin de Mathieu de Layens, on exÃ©cuta, en 1450, pour l'Ã©glise
+Saint-Pierre, un tabernacle en pierres d'Avennes: c'Ã©tait une gracieuse
+et lÃ©gÃ¨re tourelle pyramidale, fourmillant des sculptures les plus
+fines. A l'entrÃ©e du chÅur on admirait un jubÃ© dont les trois arcades
+ogivales, portÃ©es par de sveltes colonnes, soutenaient des myriades de
+statuettes. Citons encore la chaire en bois sculptÃ© et le remarquable
+porche de la Renaissance, tout ornÃ© de dentelles, de festons, de
+guirlandes, de mÃ©daillons.
+
+Deux chefs-d'Åuvre cÃ©lÃ¨bres de Thierry Bouts Ã©clipsaient les autres
+toiles, remarquables cependant, qui ornaient l'Ã©glise Saint-Pierre.
+C'Ã©taient la CÃ¨ne, une des perles les plus pures de l'Ã©cole flamande, oÃ¹
+parmi les spectateurs on remarquait le portrait du peintre, et le
+Martyre de saint Erasme, tryptique dont les volets reprÃ©sentaient saint
+JÃ©rÃ´me et saint Bernard, Åuvre au coloris brillant et poli.
+
+Les barbares ont livrÃ© aux flammes la superbe CollÃ©giale de Louvain; il
+n'en reste qu'une carcasse vide et dÃ©charnÃ©e... Les vieilles tapisseries
+flamandes ont Ã©tÃ© brÃ»lÃ©es; le magnifique tabernacle est en ruines. Par
+miracle les chapelles qui entourent le chÅur oÃ¹ se trouvaient les
+chefs-d'Åuvre de Thierry Bouts ont Ã©tÃ© prÃ©servÃ©es de l'incendie. Les
+deux toiles ont Ã©chappÃ© aux flammes qui les ont frÃ´lÃ©es; les mains
+pieuses d'un de mes collÃ¨gues de l'UniversitÃ© les ont placÃ©es en lieu
+sÃ»r.
+
+
+Illustrations:
+
+LES HALLES D'YPRES EN FEU
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+
+INCENDIE DES HALLES D'YPRES
+_Ph. Antony._
+
+
+LES RUINES D'YPRES--LA BIBLIOTHÃQUE
+_Ph. Antony._
+
+
+YPRES APRÃS LE PREMIER BOMBARDEMENT
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+
+L'hÃ´tel de ville de Bruxelles venait d'Ãªtre achevÃ©, lorsque les
+magistrats de Louvain, pris d'une ardente Ã©mulation, dÃ©cidÃ¨rent de
+construire un Ã©difice, qui le surpasserait en richesse et en Ã©lÃ©gance.
+Ils s'adressÃ¨rent Ã  un jeune architecte, dont le chef-d'Åuvre a
+immortalisÃ© le nom: Mathieu de Layens. La premiÃ¨re pierre de l'hÃ´tel de
+ville fut posÃ©e en 1448; les travaux Ã©taient achevÃ©s en 1463. Tout le
+monde connaÃ®t ce monument incomparable, ses ciselures fines et dÃ©licates
+comme la plus belle des dentelles, ses faÃ§ades au millier de sculptures
+lÃ©gÃ¨res; une harmonie parfaite prÃ©side Ã  l'enchevÃªtrement des
+balustrades, des pinacles, des colonnettes, des clochetons et des
+tourelles qui s'Ã©lancent et se dessinent dans l'azur avec une hardiesse
+Ã©tonnante. L'hÃ´tel de ville de Louvain semble l'Åuvre d'un imagier du
+moyen Ã¢ge, quelque tabernacle prÃ©cieux, dÃ©mesurÃ©ment grandi, Ã  placer
+dans un sanctuaire Ã  l'abri des intempÃ©ries trop rudes de notre climat.
+
+Les lourds et Ã©pais buveurs de biÃ¨re ont-ils ressenti tout Ã  coup un
+frisson d'Ã©motion artistique devant ce Â«Palais de fÃ©esÂ» si
+dÃ©licieusement ornÃ©? Ils prÃ©tendent l'avoir sauvÃ© des flammes au pÃ©ril
+de leur vie! HÃ©las! Le Â«Palais de fÃ©esÂ» reste seul debout au milieu de
+la dÃ©vastation gÃ©nÃ©rale; il semble pleurer les joyaux prÃ©cieux qui
+l'entouraient comme d'une couronne: la CollÃ©giale, nÃ©e du mÃªme Ã©lan
+artistique et pour ainsi dire du mÃªme souffle crÃ©ateur, et toutes les
+maisons anciennes aux pignons Ã©troits, aux faÃ§ades ornÃ©es
+d'inscriptions, de mÃ©daillons, de moulures dorÃ©es!
+
+Si l'hÃ´tel de ville de Louvain obtint grÃ¢ce devant les barbares, la
+Halle ne fut pas jugÃ©e digne de semblable faveur; devenue depuis des
+siÃ¨cles un foyer d'Ã©tudes et de patriotisme, elle mÃ©ritait en premiÃ¨re
+ligne les coups des disciples de la haute culture.
+
+DÃ¨s 1432, la ville de Louvain offrait Ã  l'universitÃ© un local dans la
+Halle aux draps pour l'enseignement de la ThÃ©ologie et l'annÃ©e suivante
+on y amÃ©nageait des locaux pour les FacultÃ©s de droit et de mÃ©decine. En
+1676, l'UniversitÃ© acheta la Halle Ã  la ville; quelques annÃ©es plus tard
+on surÃ©leva tout l'Ã©difice d'un vaste Ã©tage et en 1723 on y ajouta un
+bÃ¢timent perpendiculaire.
+
+De nos jours, toute la Halle Ã©tait occupÃ©e par la bibliothÃ¨que
+universitaire.
+
+L'immense salle de lecture, dite Â«salle des portraitsÂ», renfermait une
+collection unique, dont la perte est irrÃ©parable. On y avait rÃ©uni les
+toiles reprÃ©sentant les traits des professeurs les plus illustres et des
+bienfaiteurs insignes de l'ancienne universitÃ©, toiles d'une valeur
+artistique bien diffÃ©rente, mais toutes d'un puissant intÃ©rÃªt
+historique. Devant cette galerie de penseurs, aux traits durs et
+austÃ¨res, on se sentait pÃ©nÃ©trÃ© d'un sentiment profond de respect envers
+l'Ã©tude et la science; l'activitÃ© fiÃ©vreuse et toujours hÃ¢tive, dont une
+salle de lecture et de recherches est un ardent foyer, formait un
+contraste frappant avec l'attitude calme et mÃ©ditative de nos anciens
+maÃ®tres.
+
+Dans la principale salle de livres, aux dimensions Ã©normes, une
+magnifique boiserie en chÃªne, disposÃ©e en portiques Ã  colonnes,
+supportait des dais qui renfermaient les statues des grands philosophes
+et Ã©crivains de l'antiquitÃ©.
+
+La salle de travail des professeurs Ã©tait un bijou de la plus belle
+architecture de la Renaissance; nous venions d'y mettre Ã  jour, il y a
+un an, des voÃ»tes dÃ©licates, des boiseries en chÃªne d'une exÃ©cution trÃ¨s
+fine.
+
+Les sÃ©ances solennelles des promotions et des doctorats se dÃ©roulaient,
+avec toute la splendeur du protocole acadÃ©mique, dans l'ancien
+auditoire de mÃ©decine, conservÃ© avec ses bancs, ses stalles, ses
+tribunes, ses tableaux.
+
+La fondation de la BibliothÃ¨que universitaire de Louvain remonte Ã  1636;
+de nombreux fonds de vieux livres et manuscrits, lÃ©guÃ©s par des
+particuliers, vinrent enrichir considÃ©rablement le dÃ©pÃ´t et lui donner
+une importance de premier ordre. Le nombre de nos manuscrits s'Ã©levait
+environ Ã  500; le plus cÃ©lÃ¨bre Ã©tait un petit manuscrit Ã©crit de la main
+de Thomas a Kempis. Nous possÃ©dions Ã©galement plusieurs livres d'heures
+ornÃ©s d'enluminures trÃ¨s riches et de belles miniatures.
+
+Parmi les trÃ©sors innombrables, renfermÃ©s dans de grandes armoires
+d'exposition, on pouvait remarquer: la bulle d'Ã©rection du Studium de
+Louvain, concÃ©dÃ©e par le pontife Martin V en 1425; le fameux ouvrage
+d'AndrÃ© VÃ©sale, _De humani corporis fabrica_, exemplaire sur vÃ©lin donnÃ©
+par Charles-Quint Ã  l'UniversitÃ©; un trÃ¨s beau choix de reliures
+flamandes du XVIe et du XVIIe siÃ¨cles; les souvenirs de l'ancienne
+UniversitÃ©, sceaux des FacultÃ©s, mÃ©dailles, diplÃ´mes, etc.; des
+curiositÃ©s typographiques, des raretÃ©s bibliographiques de tout genre.
+
+La BibliothÃ¨que de Louvain renfermait plus de 250,000 volumes. Sa
+principale richesse consistait dans les fonds des vieux imprimÃ©s et des
+incunables. Les 800 Ã  1,000 incunables de Louvain formaient une des
+collections les plus prÃ©cieuses de l'Europe; on y rencontrait des
+Ã©ditions trÃ¨s rares, des exemplaires uniques. Les nombreux fonds, cÃ©dÃ©s
+par des spÃ©cialistes Ã  notre BibliothÃ¨que, contenaient bon nombre des
+ouvrages rÃ©putÃ©s, sortis des presses installÃ©es dans la ville
+universitaire dÃ¨s les dÃ©buts de l'imprimerie, alors que l'Ã©cole de
+Louvain jouait un rÃ´le si important dans le mouvement de l'humanisme.
+
+Qui ne connaÃ®t la part active prise par la FacultÃ© de thÃ©ologie de
+Louvain dans les grandes querelles doctrinales? Des mains pieuses
+avaient rÃ©uni en volumes les piÃ¨ces, les pamphlets, les lettres, les
+placards relatifs Ã  la RÃ©forme dans les Pays-Bas, au BaÃ¯anisme et au
+JansÃ©nisme. La reconstitution d'un ensemble aussi complet de documents
+historiques est impossible.
+
+Les Halles de Louvain ont toujours Ã©tÃ© le centre d'une vie universitaire
+intense. On semblait voir se dessiner sur ces murs Ã©pais et noircis les
+ombres d'AndrÃ© VÃ©sale et de Juste-Lipse; dans ces vastes locaux,
+imprÃ©gnÃ©s de souvenirs prÃ©cieux et touchants, on songeait Ã  l'ancienne
+Ã©cole de Louvain, illuminÃ©e des rayons les plus chauds de la
+Renaissance; on revoyait en esprit ces professeurs Â«patriotesÂ»,
+dÃ©fenseurs de nos libertÃ©s sacrÃ©es, que les soldats autrichiens, sabre
+au clair, retenaient enfermÃ©s dans les Halles universitaires, dans
+l'espoir de vaincre par la faim leur hÃ©roÃ¯que rÃ©sistance.
+
+J'ai vu les ruines de Louvain; j'ai vu se consumer lentement les trÃ©sors
+accumulÃ©s par des siÃ¨cles de labeur fÃ©cond et de recherches patientes.
+Des Halles universitaires il ne reste que des tronÃ§ons de colonnes, un
+amoncellement impraticable de briques, de pierres, de poutres; dans les
+rues de l'antique citÃ© dÃ©vastÃ©e, sur les ruines qui couvrent tous les
+quartiers les plus riches, et, plus loin dans la campagne, des feuillets
+de manuscrits et de livres Ã  moitiÃ© consumÃ©s voltigent au grÃ© du vent...
+
+  P. DELANNOY,
+
+  Professeur et bibliothÃ©caire
+  Ã  l'UniversitÃ© de Louvain.
+
+
+Illustrations:
+
+L. HUYGENS--LES HALLES D'YPRES EN FEU (PEINTURE)
+
+_Ph. Vizzavona._
+
+
+LE BEFFROI DES HALLES D'YPRES (avant sa destruction)
+_Ph. des Monuments Historiques._
+
+
+LE BEFFROI DES HALLES D'YPRES (aprÃ¨s le bombardement et l'incendie)
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+
+RUINES A YPRES
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+
+EFFET D'UNE BOMBE A FURNES
+_Ph. Capit. GÃ©rard._
+
+
+
+
+YPRES
+
+
+La destruction systÃ©matique des monuments d'Ypres par l'armÃ©e allemande,
+destruction nullement justifiÃ©e ou seulement explicable par quelque
+nÃ©cessitÃ© stratÃ©gique, fournit une marque nouvelle de cet Ã©tat d'esprit
+germanique qui veut la guerre non seulement contre les hommes mais aussi
+contre les idÃ©es.
+
+La premiÃ¨re manifestation Ã©clatante de cette mentalitÃ© de barbares fut
+l'incendie et le sac de Louvain.
+
+La seconde fut le bombardement de la cathÃ©drale de Reims.
+
+Une troisiÃ¨me, Ã  n'en pas douter, rÃ©sulte de l'acharnement obstinÃ©ment
+dÃ©ployÃ© contre le beffroi et les halles d'Ypres.
+
+Louvain c'est le centre de culture et de diffusion de la science
+catholique. L'UniversitÃ© de Louvain, l'_Alma Mater_, c'est par essence
+la citadelle spirituelle de la science en harmonie avec la foi. C'est
+contre elle que le crime, froidement prÃ©mÃ©ditÃ© et accompli, Ã©tait
+prÃ©parÃ©. L'incendie et le pillage de la cÃ©lÃ¨bre bibliothÃ¨que, la
+dÃ©vastation de la cathÃ©drale le proclament nettement.
+
+Les persÃ©cutions et les fusillades dont furent victimes tant de prÃ©lats,
+de moines et de prÃªtres en Belgique, le bombardement oiseux de la
+cathÃ©drale de Malines, furent suscitÃ©s par les mÃªmes mobiles, par la
+mÃªme haine sectaire de l'empereur protestant qui, tel un enfant gÃ¢tÃ©,
+croit annihiler une tradition ou une doctrine en jetant bas un Ã©difice
+qu'elle avait inspirÃ©.
+
+Reims, c'est en quelque sorte le Palladium de la France historique,
+croyante ou traditionaliste. L'Allemagne a voulu l'abolir.
+
+C'est le symbole insigne d'une histoire nationale glorieuse et
+magnifique que l'armÃ©e envahissante a atteint et tentÃ© de supprimer.
+L'attentat dirigÃ© contre la chaumiÃ¨re et la chapelle de DomrÃ©my fut
+inspirÃ© par la mÃªme frÃ©nÃ©sie.
+
+_Ypres_, d'autre part, c'est le symbole Ã©clatant de la persistance de
+l'esprit des anciens communiers, de la survivance de ce particularisme
+local qui depuis le plus lointain moyen-Ã¢ge a opposÃ©, en Belgique,
+l'hÃ´tel de ville au palais du suzerain ou de son dÃ©lÃ©guÃ©.
+
+L'autocrate fÃ©ru des principes du militarisme prussien, imbu des
+prÃ©jugÃ©s que doit engendrer l'Ã©troite discipline de l'armÃ©e Ã©tendue Ã 
+toute la nation, ne pouvait manquer de s'attaquer au monument type qui,
+dans cette ville morte, par ses dimensions imposantes et par sa
+somptuositÃ©, portait le tÃ©moignage irrÃ©cusable des victoires de la
+commune bourgeoise, des gildes d'artisans, au cours des siÃ¨cles, sur le
+pouvoir central reprÃ©sentÃ© par le suzerain ou son vassal, par le
+monarque ou par son gouverneur.
+
+Cet esprit communal survÃ©cut Ã  la fÃ©odalitÃ© et Ã  tous les rÃ©gimes
+postÃ©rieurs. Il conserve encore en Belgique sa tenace influence.
+
+Le Beffroi et les Halles d'Ypres furent bombardÃ©s et brÃ»lÃ©s par ordre du
+mÃªme vouloir despotique et brutal qui exigea l'arrestation et
+l'incarcÃ©ration du bourgmestre Max.
+
+Ces Ã©difices, c'Ã©tait la matÃ©rialisation figurÃ©e, cet homme, c'Ã©tait
+l'incarnation audacieuse du mÃªme esprit autochtone de rÃ©sistance
+irrÃ©ductible que l'impÃ©rialisme d'un Guillaume II ne peut tolÃ©rer sur
+les routes oÃ¹ il n'a pas craint de jeter ses hordes serviles.
+
+VoilÃ  le sens de l'acte de vandalisme commis, acte qui appauvrit une
+fois de plus le patrimoine du monde entier en lui Ã´tant un de ses plus
+significatifs chefs-d'Åuvre.
+
+                                *
+                               * *
+
+Le Beffroi et les Halles d'Ypres, ce n'est pas seulement de
+l'architecture qui disparaÃ®t. Les Ã©difices, dans leur structure
+gÃ©nÃ©rale, se peuvent restaurer. Leur survivance ne s'obtient qu'au prix
+de rÃ©fections renouvelÃ©es. C'est de l'art, des souvenirs prÃ©cieux, de
+l'histoire qui sombre et meurt.
+
+Oui, de l'histoire Ã©tait Ã©crite par les peintres sur les murailles, par
+les sculpteurs dans la pierre des mausolÃ©es et des statues, par les
+artisans d'art en mille ouvrages. La physionomie et l'Ã¢me de la vieille
+citÃ© sont brutalement supprimÃ©es. Ces pertes-lÃ , comme celles des
+manuscrits et des livres inestimables de Louvain, comme celles des
+sculptures anciennes sur les faÃ§ades de Reims, rien ne peut les rÃ©parer.
+Elles sont dÃ©finitives.
+
+Ypres, ville lÃ©thargique, s'Ã©tend dans la plaine basse des Flandres,
+dominant de ses tours et de ses pignons les dÃ©bris de ses anciens
+remparts, dÃ©mantelÃ©s en 1856. Elle se mire dans les eaux des fossÃ©s et
+des Ã©tangs alimentÃ©s par le cours paresseux de l'YperlÃ©e.
+
+ÃloignÃ©e des centres, Ã©cartÃ©e du chemin banal des touristes, Ypres
+valait une visite fervente. Depuis la vulgarisation de l'automobile,
+elle Ã©tait trÃ¨s Ã  la mode. RÃ©duite peu Ã  peu, depuis le XIIIe siÃ¨cle,
+d'une population de deux cent mille Ã¢mes Ã  une population actuelle qui
+n'atteignait plus le dixiÃ¨me de ce chiffre, elle Ã©talait encore partout
+les traces de sa splendeur ancienne et de sa longue prospÃ©ritÃ©. Telle
+une aÃ¯eule, elle tenait du charme dÃ©suet et morbide du passÃ©, un
+prestige touchant.
+
+Jadis les foulons et les drapiers mettaient en mouvement Ã  Ypres quatre
+mille mÃ©tiers. C'est aux frais de leurs corporations que furent Ã©rigÃ©es
+les gigantesques Halles aux draps dont la construction dura plus d'un
+siÃ¨cle. Maintenant seules, quelques vieilles dentelliÃ¨res aux doigts
+agiles, le coussin et les fuseaux sur les genoux, enchevÃªtrent les
+rÃ©seaux des lÃ©gÃ¨res Â«ValenciennesÂ» au seuil des logis branlants.....
+
+L'Ã©loquence du passÃ© Ã©tait tellement persuasive Ã  Ypres! La Grand'Place
+longue et large Ã  la mesure d'un peuple d'habitants, le beffroi gÃ©ant,
+les halles dÃ©mesurÃ©es, la cathÃ©drale immense, parlaient au moins
+sensible. Et les habitations jadis somptueuses partout debout
+proclamaient l'Ã©volution des styles dans l'art de bÃ¢tir, depuis la
+faÃ§ade de la rue de Lille, la Boucherie gothique et l'antique Â«GasthuysÂ»
+Belle, jusqu'aux logis datant des rÃ¨gnes de Louis XV et de Louis XVI
+attestant au milieu des vicissitudes, la persistance d'une vie locale
+florissante.
+
+                                *
+                               * *
+
+Que retrouverons-nous de ces trÃ©sors!
+
+DÃ©jÃ  des photographies nous ont rÃ©vÃ©lÃ© les dÃ©gÃ¢ts irrÃ©mÃ©diables. Les
+Halles effondrÃ©es et brÃ»lÃ©es, l'HÃ´tel de Ville Ã©croulÃ©, la tour du
+beffroi renversÃ©e, la cathÃ©drale Saint-Martin saccagÃ©e, les places et
+les rues de la ville ravagÃ©es par les obus et par les flammes.
+
+Les Halles Ã©taient dÃ©corÃ©es de peintures murales importantes. Les unes
+dataient du XIVe et du XVe siÃ¨cles. Elles avaient Ã©tÃ© indiscrÃ¨tement
+restaurÃ©es. Les autres avaient Ã©tÃ© exÃ©cutÃ©es au cours du siÃ¨cle
+dernier.
+
+
+Illustrations:
+
+FRANK BRANGWYN--ABSIDE DE L'ÃGLISE SAINTE-WALBURGE, A FURNES
+(EAU-FORTE)
+_Ph. Vizzavona._
+
+
+LUCIEN FRANK--LA PANNE (PEINTURE)
+DerniÃ¨re rÃ©sidence du Roi des Belges
+_Ph. Vizzavona._                      _MusÃ©e du Luxembourg._
+
+
+FURNES--L'HÃTEL DE VILLE, LE PALAIS DE JUSICE, LE BEFFROI ET L'ÃGLISE DE
+SAINTE-WALBURGE
+_Ph. Morez de Croo._
+
+
+VISION DE RUINES A TRAVERS UNE OUVERTURE FAITE PAR UN OBUS
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+
+Guffens, Swerts, Pauwels, et plus magistral, Delbecke y avaient tracÃ© de
+grandes compositions rappelant les fastes de la ville.
+
+Delbecke, dans ces fresques d'Ypres, avait donnÃ© toute la mesure d'un
+talent personnel et curieux. Nulle part ailleurs, il n'existe une Åuvre
+importante de lui. Il mourut jeune, relativement, laissant presque
+achevÃ© ce significatif ensemble. A cette heure, il ne reste rien de
+Delbecke, sauf quelques esquisses et petits tableaux sans importance. Ce
+peintre, qui mÃ©ritait d'occuper une place Ã©minente dans l'Ã©cole belge
+moderne est pour jamais rentrÃ© dans le nÃ©ant. Quand on songe Ã  l'intÃ©rÃªt
+que suscite le moindre bout de fresque retrouvÃ© de nos jours, on rÃ©alise
+l'admiration qui dans l'avenir eÃ»t consacrÃ© l'ensemble harmonieux de ces
+peintures sauvagement supprimÃ©es.
+
+Pauvre ville! Retrouverons-nous aprÃ¨s la guerre, dans le curieux hÃ´pital
+Belle, le triptyque de Melchior BrÅderlam, peintre officiel de Philippe
+le Hardi, duc de Bourgogne, de 1382 Ã  1401? C'est un document du plus
+haut intÃ©rÃªt artistique que l'Åuvre de ce prÃ©dÃ©cesseur des Van Eyck, de
+cet ancÃªtre Yprois de l'Ecole Brugeoise. Avec une naÃ¯vetÃ© dÃ©jÃ  servie
+par des moyens techniques habiles, BrÅderlam a peint la Vierge et
+l'Enfant entre les donateurs accompagnÃ©s de leurs Saints Patrons.
+
+La Vierge-Reine, couronnÃ©e d'or, douce et fine, est vÃªtue de brocart
+rouge et or. Salomon Belle et ses fils, assistÃ©s d'un saint Georges en
+bizarre armure, lance en mains, Christine de Guines et ses filles avec
+sainte Catherine sont demeurÃ©s ainsi, depuis le XIVe siÃ¨cle dans
+l'hÃ´pital qu'ils ont fondÃ©, Ã  travers d'autres guerres et d'autres
+vicissitudes..... Quel sort leur fut-il rÃ©servÃ©?
+
+Et dans l'Ã©glise Saint-Martin qu'est devenu le monument gothique fleuri
+Ã©rigÃ© Ã  la mÃ©moire de Louise de Laye, veuve d'Hugonet, chancelier de
+Bourgogne? Et le tombeau d'Antoine de Henin? Et la dalle qui recouvre la
+dÃ©pouille de JansÃ©nius, Ã©vÃªque d'Ypres, l'austÃ¨re fondateur du
+jansÃ©nisme!
+
+La magnifique verriÃ¨re en forme de rose est assurÃ©ment en miettes, et
+l'arche triomphale, construite en 1600 par Urban Taillebert renversÃ©e!
+Et le jubÃ© aux statuettes d'albÃ¢tre, la chaire aux sculptures
+exubÃ©rantes, les stalles du chÅur et les tableaux si harmonieux dans
+l'ombre des voÃ»tes, incendiÃ©s sans aucun doute.
+
+HÃ©las, Ypres, douloureuse martyre, ton Ã©crin d'Ã©difices a-t-il perdu son
+doux vieux cloÃ®tre aux ogives flamboyantes? sa curieuse Â«conciergerieÂ»
+bÃ¢tie au XVIIe siÃ¨cle dans le goÃ»t--partout ailleurs dÃ©modÃ©--de la
+Renaissance? son charmant Â«ouvroir des sÅursÂ» Ã  l'hospice Saint-Jean?
+ses faÃ§ades Ã  pignons de l'ancienne abbaye de ThÃ©rouanne? sa tour de
+Saint-Nicolas? l'hÃ´tel Merghelynck, abritant un musÃ©e de meubles et de
+bibelots du XVIIIe siÃ¨cle? et les Ã©glises, et les portes anciennes de la
+citÃ©? et les vieilles maisons? et tous les tÃ©moins Ã©mouvants et
+pittoresques du passÃ©?
+
+Quoiqu'il en subsiste parmi les ruines et les dÃ©bris, jamais les
+meurtrissures et les outrages infligÃ©s par l'ennemi Ã  la ville-aÃ¯eule ne
+seront effaÃ§ables.
+
+De l'art, de l'histoire, de la tradition, de la lÃ©gende avaient fleuri
+lÃ  et sont abolis.
+
+Le crime de ceux qui ont voulu cet anÃ©antissement ne saurait invoquer
+d'excuse.
+
+  PAUL LAMBOTTE,
+
+  _Directeur des Beaux-Arts
+  de la Belgique_.
+
+
+
+
+NIEUPORT, FURNES, DIXMUDE
+
+
+Parmi les prairies humides de la Flandre maritime les petites villes
+ressemblaient Ã  des sanctuaires. Elles surgissaient du PassÃ©, sans
+orgueil et sans pÃ©chÃ©. TrÃ¨s vieilles, trÃ¨s recueillies, leur beautÃ© ne
+saisissait pas le passant; il fallait pour les voir, commencer par les
+aimer, pour les entendre, savoir Ã©couter le silence. Le charme qui
+Ã©manait d'elles, on ne savait si c'Ã©tait le charme de la mort ou celui
+de la vie Ã©ternelle.
+
+Nieuport n'est plus aujourd'hui qu'un monceau de dÃ©combres. Mais
+l'ennemi toujours s'acharne sur cette morte. Quand, titubant d'horreur,
+sous le fracas des obus on cherche Ã  s'orienter dans ce qui fut la
+ville, l'affreuse monotonie des ruines empÃªche tout d'abord de dÃ©couvrir
+l'emplacement de l'Ã©glise, de l'hÃ´pital, des halles. Un soldat vous
+guide par ce dÃ©sert et, en longeant ce qui reste des ruelles, on se
+trouve bientÃ´t sur la place.
+
+On se souvient. Elle Ã©tait calme, rectangulaire, toujours vide. L'air
+mouillÃ© des pÃ¢tures s'y mÃªlait Ã  l'odeur salÃ©e des bassins. Des cabarets
+paisibles et des maisons carrÃ©es se regardaient placidement; au fond,
+flanquÃ© d'une curieuse tour, un bÃ¢timent trÃ¨s ancien s'allongeait, les
+Halles, vestige d'une splendeur Ã©teinte, d'une vie puissante abolie.
+DerriÃ¨re ces baies ogivales, dans les salles oÃ¹ jadis se nouaient les
+trafics des marchands, dormaient les tableaux naÃ¯fs, les souvenirs, les
+vÃ©nÃ©rables archives. En face, des rues trop larges allaient au port,
+bordÃ©es l'une de maisons basses et jaunes, gÃ®tes enfumÃ©s des pÃªcheurs de
+crevettes, l'autre de vieilles demeures grisÃ¢tres, sans Ã¢ge, dont les
+lignes avaient Ã©tÃ© sculptÃ©es jadis par d'humbles artisans, joyeux
+d'orner de lignes musicales les pignons pointus ou de surmonter les
+fenÃªtres de belles coquilles doucement creusÃ©es... C'est l'hospice et
+son humble tourelle, c'est le curieux _HÃ´tel de l'EspÃ©rance_, c'est le
+_Dunnehuus_ aux lÃ©gers meneaux de pierre, oÃ¹ habitÃ¨rent Isabelle et
+Albert, c'est la vieille prison dont les basses croisÃ©es sont dÃ©fendues
+par de lourds barreaux.
+
+
+Illustrations:
+
+GRAND'PLACE DE FURNES AVANT LE BOMBARDEMENT--UNE REVUE PASSÃE PAR LE ROI
+ALBERT
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+--Copyright.
+
+
+FURNES--LA VILLE ABANDONNÃE
+_Ph. Capit. GÃ©rard._
+
+
+INTÃRIEUR DE L'ÃGLISE DE DIXMUDE APRÃS LE BOMBARDEMENT
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+--Copyright.
+
+
+VUE DE MAISONS DÃTRUITES A NIEUPORT
+_Ph. E. Van HammÃ©e._ (Histoire de la Belgique dans la guerre des Nations).
+Copyright.
+
+
+VICTOR GILSOUL--BASSIN A NIEUPORT PRÃS DE L'ANCIEN PHARE (PEINTURE)
+_Ph. Paul Becker._
+
+
+LÃON CASSEL--LA BÃGUINE AU PUITS--BÃGUINAGE DE DIXMUDE
+(PEINTURE)
+
+
+VICTOR GILSOUL--NIEUPORT--SOIR SUR LE CHENAL (PEINTURE)
+_Ph. Paul Becker._                      _App. Ã  M. LembrÃ©e._
+
+
+VICTOR GILSOUL--L'ENTRÃE DU VILLAGE DE MANNEKENSVÃRE SITUÃ SUR L'YSER
+ENTRE NIEUPORT ET FURNES (PEINTURE)
+
+
+VICTOR GILSOUL--ARBRES DE LA CÃTE FLAMANDE (PEINTURE)
+_Ph. Paul Becker._                 _App. Ã  M. Michielssens._
+
+
+Tout prÃ¨s de la Grand'Place, au bord de la ville, l'Ã©glise s'enfonÃ§ait
+dans la terre; un terre-plein ombragÃ© de grands arbres prÃ©cÃ©dait son
+portail obscur oÃ¹ brÃ»lait, au soir tombant, dans une lanterne carrÃ©e une
+pauvre flamme dansante, sur laquelle se guidaient les saintes femmes aux
+mantes noires. L'Ã©glise avait une large tour, si large qu'elle en
+paraissait basse. On la voyait pourtant de loin, du fond des prairies de
+l'Yser, du haut des sables moutonnants, de la plage parfois, par une
+Ã©chancrure des dunes. Les autres tours de la cÃ´te Ã©taient des phares ou
+des vigies; batailleuses et obstinÃ©es, elles symbolisaient la rÃ©sistance
+Ã  la tempÃªte: on pressentait en celle-ci un refuge aimant. Puissante et
+vieillie, elle semblait s'Ãªtre tassÃ©e avec le temps, et, dans le soir,
+elle Ã©tait pareille Ã  une de ces dÃ©votes maternelles qui aurait
+entrouvert sa mante d'ombre pour mieux accueillir ses enfants.
+
+Elle avait Ã©tÃ© jadis Ã  la bouche du calme Yser le centre d'un bourg
+prospÃ¨re et fiÃ©vreux, elle l'avait vu s'entourer de murailles et devenir
+au bord des flots une fiÃ¨re place de guerre, elle avait sonnÃ© l'alarme
+et la victoire au jour bÃ©ni oÃ¹ l'archiduc Albert avait battu sous ses
+remparts Maurice de Nassau et ses reÃ®tres. Un tableau conservÃ© au petit
+musÃ©e voisin perpÃ©tuait le souvenir de cette journÃ©e. On y voyait tracÃ©
+un plan animÃ© de Nieuport, en l'annÃ©e 1600, agrÃ©mentÃ© de figures et de
+lÃ©gendes explicatives. Sur le chenal un pont Ã©tait jetÃ© par l'ennemi:
+_Hier is de brug van de vyand_--mais les nÃ´tres le faisaient brÃ»ler.
+L'ennemi passait la riviÃ¨re, mais de Saint-Georges et de Ramscapelle
+arrivait ventre Ã  terre un escadron de renfort: _Hier is het sercours!_
+L'ennemi portait alors son effort au bord des flots malgrÃ© la ligne des
+navires qui le canonnaient, impitoyables. Mais il Ã©tait bientÃ´t Ã©crasÃ©
+par les flamands victorieux: _De vyand loopt naar de zee_: l'ennemi est
+jetÃ© Ã  la mer! Et c'Ã©tait la prÃ©figure Ã©mouvante de la bataille oÃ¹
+l'autre Albert devait lutter--et devait vaincre.
+
+A l'Ã©glise le souvenir de l'Ã©poque espagnole s'exprimait autrement que
+par cet humble tableau de Folklore. Du fond des obscures voÃ»tes, Ã 
+travers le lourd jubÃ© de la renaissance, des trÃ©sors se devinaient sur
+l'autel et autour de l'autel. Des tombeaux somptueux, de pompeuses
+inscriptions, immortalisaient d'illustres capitaines, d'Ã©clatants
+chevaliers, des gouverneurs au nom sonore. On entendait encore dans le
+silence retentir leur pas Ã©peronnÃ©. Parmi les portraits mÃ©langÃ©s des
+saints et des rois on les revoyait se prosternant dans la chapelle
+d'Espagne, leurs pourpoints luisaient quand ils passaient sous les
+ogives flamboyantes... Ils Ã©taient le beau passÃ©, ils restaient un peu
+le prÃ©sent de la petite ville endormie. On songeait Ã  eux invinciblement
+quand on allait, Ã  travers la paix des ruelles, vers le petit port
+immobile.
+
+La mer tout doucement depuis leur temps s'Ã©tait retirÃ©e. Les sables
+peuplÃ©s d'argousiers avaient entourÃ©, comme un flot nouveau, les
+murailles. Les murailles s'Ã©taient Ã©croulÃ©es; le phare pointu du comte
+Guy bÃ¢ti de briques pÃ¢les Ã©tait restÃ©, au bord du chenal, dÃ©laissÃ© comme
+un tÃ©moin pensif, et le chenal s'Ã©tait prolongÃ© Ã  travers les dunes,
+mÃ©lancolique et tÃªtu, bordÃ© d'une file d'arbres obliques. Du port on les
+voyait accourir, poursuivis par le vent, et remonter le cours des canaux
+et des riviÃ¨res qui, du fond des bassins, vont au cÅur de la Flandre.
+Le quai restait dÃ©sert. Une odeur de marÃ©e y flottait aux heures de
+flux... Et la voici qui flotte encore malgrÃ© tout, avec le vent de deuil
+et le vent de gloire, Ã  cette heure oÃ¹ le voyageur imprudent s'attarde
+sur les cendres de cette ville--de cette ville oÃ¹ il n'y avait pas de
+chef-d'Åuvre, mais qui Ã©tait elle-mÃªme un poÃ¨me gris et or, un
+cimetiÃ¨re mÃ©lancolique.
+
+                                *
+                               * *
+
+Le charme de Dixmude Ã©tait tout diffÃ©rent. DÃ¨s l'abord une bouffÃ©e de
+fraÃ®cheur vous y montait Ã  l'Ã¢me. Cette petite ville, un peu Ã©levÃ©e sur
+la berge de l'Yser, et d'oÃ¹ jaillissaient, autour du haut clocher, de
+minces tourelles d'ardoises, semblait lÃ©gÃ¨re comme une Ã¢me. Et du petit
+BÃ©guinage fleuri, aux confins de la ville oÃ¹ elle suivait doucement,
+pour les abandonner bientÃ´t dans les campagnes molles, les petits canaux
+dÃ©serts, cette fraÃ®cheur errait comme un baiser de jeune fille. Elle
+Ã©tait pourtant si vieille, la petite ville, si repliÃ©e sur elle-mÃªme, si
+tendrement silencieuse, elle qui sortie de la nuit des Ã¢ges semblait en
+aimer mieux la lumiÃ¨re du printemps. Partout le paradoxe sous mille
+formes se rÃ©pÃ©tait: les hÃ´tels aux murs lÃ©zardÃ©s avaient des rideaux
+fraÃ®chement blanchis derriÃ¨re les vitres bien lavÃ©es, des glycines
+dÃ©bordaient des jardins centenaires, et l'herbe qui poussait entre les
+pavÃ©s des ruelles ne semblait point la marque persistante de l'ennui,
+mais l'obstination de la vie.
+
+Sauf de rares Ã©difices aux pignons Ã  redans--ces pignons qu'on nomme
+espagnols en Flandre et flamands en Espagne--les maisons n'avaient pas
+de style, elles Ã©taient simples et carrÃ©es, avec des portes
+hospitaliÃ¨res et des toits rouges, brunis par le temps. Mais elles
+s'Ã©taient si bien fondues Ã  l'ensemble, penchÃ©es l'une vers l'autre,
+que, patinÃ©es par l'atmosphÃ¨re de brume et de soleil mouillÃ©, elles
+semblaient avoir toujours Ã©tÃ©. Le miracle de cette fusion Ã©tait si
+insensible et si doux Ã  Dixmude que l'hÃ´tel de ville gothique, bÃ¢ti il y
+a moins d'un demi-siÃ¨cle sur la grand'place, paraissait Ã  peu prÃ¨s le
+contemporain de la vÃ©nÃ©rable Ã©glise qui se haussait derriÃ¨re lui pour
+mieux surveiller la ville.
+
+Jordaens rÃ©gnait dans cette Ã©glise. Au-dessus du maÃ®tre autel ses
+couleurs les plus Ã©clatantes se mÃªlaient Ã  l'azur vague de l'encens.
+Qu'est devenue cette Adoration des Mages? A-t-elle Ã©tÃ© dÃ©chirÃ©e par le
+fer ou tordue par les flammes? GÃ®t-elle encore Ã©crasÃ©e sous les pierres
+croulÃ©es de l'autel, sous les dÃ©bris du tabernacle qui se levait au bord
+du chÅur dans sa grÃ¢ce Ã©lancÃ©e et frÃªle, sous les restes amoncelÃ©s de
+ce jubÃ© de pierre blanche transparent Ã  force d'avoir Ã©tÃ© fouillÃ© par le
+ciseau le plus hardi, et qui, dressÃ© Ã  l'entrÃ©e de la nef, semblait un
+lÃ©ger voile tendu pour tamiser la flamme brÃ»lante du tableau cÃ©lÃ¨bre?
+
+Des bords de l'Yser oÃ¹ sont nos tranchÃ©es, quelle silhouette tragique
+est celle de Dixmude dÃ©couronnÃ©e, mutilÃ©e, calcinÃ©e! On songe au canal
+d'Handzaeme qui glissait le long de l'auberge du Perroquet pour caresser
+ensuite le charmant hÃ´tel des gouverneurs castillans, et dont Gilsoul a
+peint la douce vie! On se demande ce qui subsiste de la curieuse prison
+dont la faÃ§ade ressemblait Ã  celle d'un calme couvent, et ce qu'est
+devenue au BÃ©guinage la maison blanche de la _Grande Demoiselle_ et la
+petite Ã©glise posÃ©e de guingois au fond de la cour, parmi les lilas et
+les roses.
+
+
+Illustrations:
+
+LÃON CASSEL--LA MAISON DU PASSEUR, SUR L'YSER ET L'YPERLÃE
+MAISON HISTORIQUE (PEINTURE)
+
+
+RUINES DE LA MAISON DU PASSEUR
+
+
+VICTOR GILSOUL--L'YSER A DIXMUDE (PEINTURE)
+               _App. Ã  S. A. R. Mme la Comtesse de Flandre._
+
+
+VICTOR GILSOUL--VIEILLES MAISONS A DIXMUDE, QUARTIER COMPLÃTEMENT
+DÃTRUIT (PEINTURE)
+_Ph. Paul Becker._                  _App. Ã  Mme Le Marinel._
+
+
+L'expert allemand qui suit mÃ©thodiquement l'incendiaire et qui fait son
+rapport sur les Åuvres d'art dÃ©truites certifiera qu'en dehors du
+Jordaens, chef-d'Åuvre dÃ»ment cataloguÃ©, il n'y a rien Ã  regretter Ã 
+Dixmude, ville que les professeurs d'architecture n'ont pas classÃ©e,
+et dont les monuments ne sont pas figurÃ©s par des numÃ©ros dans des
+manuels! Malheureux qui n'a compris la beautÃ© que sur fiches! La grÃ¢ce
+propre d'une petite ville, son Ã©mouvant visage, son silence, le parfait
+accord de ses pierres et de son Ã¢me, la ligne traditionnelle de ses
+maisons, ses Åuvres d'art montÃ©es naturellement du sol et qui sont
+devenues nÃ©cessaires dans un ensemble harmonieux, tout cela lui Ã©chappe.
+Et, de mÃªme, lui Ã©chappera autour de la citÃ© Ã  jamais dÃ©truite la grave
+beautÃ© des grandes fermes de la Renaissance, avec leurs vastes granges,
+leur forme traditionnelle, leur corps de logis surÃ©levÃ©--ces belles
+fermes dont le spÃ©cimen le plus parfait est la ferme de Bogaerde, si
+largement assise lÃ -bas, entre la dune et les prairies, non loin de
+Furnes.
+
+                                *
+                               * *
+
+Au moins, sur la grand'place de Furnes, l'archÃ©ologue, mÃªme allemand, ne
+pouvait s'empÃªcher d'admirer. Avant l'insulte des bombes elle formait un
+des plus beaux ensembles architecturaux du monde. Il n'y avait lÃ  qu'une
+ou deux maisons qui ne fussent pas cÃ©lÃ¨bres. Ce n'Ã©tait pas la grÃ¢ce
+altiÃ¨re et dorÃ©e de la grand'place de Bruxelles, ni la magnificence--Ã 
+la fois orgueilleuse et tendre--d'Ypres, la sublime dÃ©chue, ni le grand
+poÃ¨me mÃ©lancolique de Bruges, c'Ã©tait quelque chose de plus intime qui
+ne dÃ©tonnait point dans une villette exigÃ¼e et modeste, qui l'achevait
+au contraire, la faisait complÃ¨te et parfaite et sans rien lui Ã´ter de
+sa simplicitÃ©. Imaginez un vaste carrÃ© bordÃ© de boutiques de briques
+grises s'achevant en pignons Ã©tagÃ©s, avec, autour des croisÃ©es, des
+colonnettes et des guirlandes. Des monuments d'une exquise Ã©lÃ©gance
+faisaient Ã  droite et Ã  gauche le coin des rues. Et tout prÃ¨s, par
+dessus les toits, deux Ã©glises se regardaient, Saint-Nicolas, Ã  la tour
+carrÃ©e, Sainte-Walburge qui n'Ã©tait guÃ¨re qu'un chÅur gothique levÃ©
+vers le ciel comme une chÃ¢sse.
+
+Au pied de celle-ci, sous un beffroi charmant, le palais de justice bÃ¢ti
+en 1613 par Sylvanus Boulin contenait la chapelle de la Chatellenie et
+son beau jubÃ© de chÃªne sculptÃ©. Un beau portrait de Louis XIV surmontait
+dans la salle des Pas-Perdus la grande cheminÃ©e de JÃ©rÃ´me Stalpaert. Une
+vieille porte reliait cette salle aux salons de l'hÃ´tel de ville,
+tapissÃ©s de cuir de Cordoue.
+
+Cet hÃ´tel de ville, complÃ©tant avec le palais de justice un des angles
+de la place, ouvrait sa porte d'ombre sur un gracieux perron Ã  colonne.
+Construit en 1596 il ne se composait que d'un seul pignon; on en ajouta
+un second Ã  peu prÃ¨s semblable vingt ans plus tard, et une inscription
+spirituelle, _coronabor augendo_, rÃ©pondit du faÃ®te du nouveau bÃ¢timent
+au pompeux _finis coronat opus_ qui couronnait la faÃ§ade primitive. Avec
+les dessins capricieux taillÃ©s dans ses murs de briques jaunes, avec sa
+tourelle terminÃ©e par un lÃ©ger bulbe d'ardoises, avec son porche ouvert
+sur une cour pittoresque oÃ¹ les paysans, aux jours de marchÃ©, dÃ©telaient
+leurs carrioles, ce monument sans prÃ©tentions avait une grÃ¢ce
+inimitable. Il en Ã©tait de mÃªme, Ã  l'autre bout de la place, de
+l'ancienne auberge de la _Pomme d'Or_ qui devint au XVIIe siÃ¨cle la
+maison des officiers espagnols, et de _l'HÃ´tel de la Noble Rose_ (la
+premiÃ¨re maison qu'atteignirent les bombes) qui n'avait pas perdu sa
+destination primitive, et oÃ¹ dÃ©jÃ  l'archiduchesse Isabelle avait dÃ®nÃ©
+sous le manteau d'une sÃ©culaire cheminÃ©e. La Halle aux viandes, le
+pittoresque corps de garde, en face de l'hÃ´tel de ville, Ã  l'angle du
+marchÃ© aux pommes, la belle maison du PÃ©lican aux dÃ©licats meneaux de
+briques... il faudrait nommer l'une aprÃ¨s l'une, dÃ©crire l'une aprÃ¨s
+l'une avec amour, toutes les maisons de cette place, bÃ¢ties sans plan
+d'ensemble et si proches parentes dans leur spontanÃ©itÃ© naÃ¯ve.
+
+Il faudrait relire surtout, avec piÃ©tÃ© et avec dÃ©lices, le roman curieux
+et frais oÃ¹ Camille Lemonnier a racontÃ© par le menu l'histoire mystique
+de la ville. _Le Petit Homme de Dieu_ Ã©tait le meilleur guide pour le
+poÃ¨te passant lÃ -bas. Il le reste pour le rÃªveur qui veut Ã©voquer
+aujourd'hui l'humble et glorieuse citÃ©. Avec lui ressuscitent et se
+prÃ©cisent tous les dÃ©tails du beau dÃ©cor. L'ayant lu, on ne pourra
+baiser les pierres sacrÃ©es des ruines sans sentir sous ses lÃ¨vres
+sourdre une Ã¢me adorable et claire.
+
+Ceux qui n'ont pas connu Furnes douce et vivante, ceux qui n'ont pas,
+quittant l'ombre de Saint-Nicolas, errÃ© dans les ruelles dÃ©sertes, le
+long des petits couvents et des grands jardins, et des placettes oÃ¹
+quelque chose d'indÃ©finissable semblait, dans le silence, toujours
+mourir, ceux qui n'ont pas fait le tour des vieux boulevards bordÃ©s de
+canaux et de haies, ceux qui ne se sont pas arrÃªtÃ©s sous les porches, Ã 
+l'entrÃ©e des cours d'auberge, aux carrefours mystÃ©rieux, n'ont pas connu
+dans toute sa dÃ©chirante beautÃ© cette petite ville innocente. Du bord
+des faubourgs, des fenÃªtres des cabarets, des chemins champÃªtres, des
+impasses, de partout l'on voyait groupÃ©es diffÃ©remment, encadrÃ©es
+autrement, Ã©clairÃ©es d'une autre lumiÃ¨re les trois tours de la
+grand'place, dont l'une Ã©tait carrÃ©e comme la foi, l'autre lÃ©gÃ¨re comme
+l'amour, la troisiÃ¨me Ã©lancÃ©e comme l'espÃ©rance.
+
+Dresse-t-elle encore, celle-ci, sa pointe aigÃ¼e sur le chÅur de
+Sainte-Walburge, n'a-t-elle pas, Ã  travers la toiture d'ardoise fine,
+chu dans l'Ã©glise bombardÃ©e, parmi les stalles d'Urbain Taillebert, les
+statues de la Renaissance, le Christ de la confrÃ©rie auquel le jour de
+leur admission les jeunes gens de Furnes se liaient symboliquement Ã 
+l'aide d'une corde vÃ©nÃ©rable. Et que sont-elles devenues les naÃ¯ves
+_stations_ sculptÃ©es reprÃ©sentant la vie du Christ, que des pÃ©nitents en
+cagoule brune promenaient encore Ã  travers les rues le 29 juillet
+dernier, au cours de la procession traditionnelle, tandis que roulaient
+dÃ©jÃ , sur les chemins d'Allemagne, les canons sacrilÃ¨ges qui allaient Ã 
+distance tuer ce qui ne devait pas mourir.
+
+  Pierre NOTHOMB.
+
+
+Illustrations:
+
+RUINES DU VILLAGE DE RAMSCAPPELLE GARDÃES PAR NOS FUSILIERS MARINS
+(AQUARELLE)
+
+CH. FOUQUERAY
+
+
+RUINES DE L'ÃGLISE DE PERVYSE (AQUARELLE)
+CH. FOUQUERAY
+
+
+TOUR DE L'ÃGLISE DE DIXMUDE APRÃS LE PREMIER BOMBARDEMENT
+
+
+NIEUPORT--RUINES DE L'ÃGLISE
+_Ph. Commandant Lauwers._
+
+
+RENINGHE--INTÃRIEUR DE L'ÃGLISE EN RUINES
+
+_Ph. Capit. GÃ©rard._
+
+
+RENINGHE TOUT CE QUI RESTE DE L'ÃGLISE
+_Ph. Capit. GÃ©rard._
+
+
+
+
+LAMPERNISSE
+
+
+A un coude de la route, dont les grands arbres sont courbÃ©s par le vent
+de la mer, la tour de Lampernisse apparaÃ®t ramassÃ©e et farouche.
+
+On dirait d'une sentinelle avancÃ©e Ã  l'entrÃ©e du champ de bataille. Par
+delÃ , c'est la plaine infinie de l'Yser avec des tas de dÃ©combres, d'oÃ¹
+Ã©merge parfois la silhouette dÃ©chiquetÃ©e d'un clocher. Jadis ce furent
+des villes et des villages, Nieuport et Dixmude, Pervyse, Ramscappelle,
+Oostkerke,--noms inconnus hier, illustres aujourd'hui. Les toits rouges
+et les murs blancs des fermes tranchent sur le vert Ã©meraude des
+prairies. Les rangÃ©es d'arbres, dÃ©cimÃ©es et appauvries, conduisent les
+routes vers le pays occupÃ©. Le miroir des inondations brille au loin,
+bleu ou gris selon les aspects changeants du ciel immense. Constamment
+les fumÃ©es blanches ou noires des obus picotent le paysage de taches
+mouvantes. Le canon gronde, assourdi ou proche. Et cependant, dans les
+pÃ¢turages humides, les vaches, paisiblement, ruminent.
+
+Devant son Ã©glise Ã©ventrÃ©e, au milieu du cimetiÃ¨re dÃ©vastÃ©, parmi les
+pauvres maisons ruinÃ©es du hameau, la tour de Lampernisse Ã©voque l'image
+de la NiobÃ©, debout encore et menaÃ§ante parmi les cadavres de ses
+enfants.
+
+Seule elle est restÃ©e, presqu'intacte, Ã  peine Ã©cornÃ©e par la mitraille
+qui fait perpÃ©tuellement rage autour d'elle.
+
+Elle est reprÃ©sentative du type de ces vieilles tours en briques de la
+rÃ©gion maritime, flanquÃ©e de contreforts massifs, accostÃ©e de la
+tourelle d'un escalier en pas de vis, percÃ©e de hautes fenÃªtres en ogive
+et couronnÃ©e d'un clocher d'ardoises, entre de minuscules poivriÃ¨res.
+
+C'est l'expression rustique de cette altiÃ¨re architecture dont les
+Halles d'Ypres Ã©taient, naguÃ¨re, le plus admirable spÃ©cimen et qui
+rappelle, dans les constructions civiles et religieuses, le caractÃ¨re
+guerrier de la grande Ã©poque communale.
+
+Tour guerriÃ¨re, elle semblait prÃ©destinÃ©e aux assauts qu'elle a subis.
+
+Ses abords sont d'un tragique intense. La dÃ©solation du petit cimetiÃ¨re
+est sans nom. On enjambe des gravats et des troncs d'arbres. PÃªle-mÃªle,
+dans les Ã©normes entonnoirs creusÃ©s par les obus de vingt et un, les
+humbles croix brisÃ©es voisinent avec les ossements et les biÃ¨res
+dÃ©chiquetÃ©es.
+
+PrÃ¨s des sÃ©pultures villageoises, des tombes fraÃ®ches de soldats tombÃ©s
+au champ d'honneur sont ornÃ©es avec un soin touchant de fleurs et de
+dessins faits de cailloutis et de bricaillons.
+
+L'une d'elles ne rÃ©unit pas moins de quarante-deux chasseurs alpins,
+tuÃ©s par un mÃªme obus, lancÃ© traÃ®treusement, par une nuit obscure de
+dÃ©cembre, dans la nef latÃ©rale de l'Ã©glise.
+
+L'on pÃ©nÃ¨tre sous la tour par une haute porte en ogive. Les nervures de
+la voÃ»te, qui forment un narthex, oÃ¹ dÃ©bouchent l'escalier de la tour et
+la logette du baptistaire, s'amortissent sur des culs-de-lampe ornÃ©s de
+tÃªtes naÃ¯ves. L'une, un jeune homme imberbe aux cheveux bouclÃ©s, est
+d'un style excellent qui rappelle celui de ces admirables talons de
+poutres du XVe siÃ¨cle, provenant d'Ypres, que l'on pouvait voir Ã 
+l'Exposition d'art ancien, Ã  Gand, en 1913.
+
+Le narthex s'ouvre directement sur l'Ã©glise par un arc Ã©levÃ©, barrÃ© par
+le jubÃ© et les orgues datant du XVIIIe siÃ¨cle.
+
+Le vaisseau, accostÃ© de bas cÃ´tÃ©s Ã©troits, se prolonge en trois nefs
+Ã©gales, plus hautes et plus claires, dÃ©bordant latÃ©ralement, Ã  la faÃ§on
+d'un transept. Il se produit ainsi une alternance de pÃ©nombre et de
+lumiÃ¨re plus saisissante encore dans l'Ã©tat actuel de dÃ©labrement de
+l'Ã©glise.
+
+Les arcs des travÃ©es sont supportÃ©s par des colonnes de pierre,
+massives, aux chapiteaux frustes d'un galbe Ã©crasÃ©, qui en font remonter
+la construction au XIVe siÃ¨cle.
+
+Les voÃ»tes sont en bois apparent, portÃ©es par des corbeaux naÃ¯vement
+historiÃ©s. Tandis que les nefs latÃ©rales se terminent carrÃ©ment, Ã  la
+nef centrale s'ajoute une abside polygonale, entre les deux sacristies.
+
+A l'obus fatal de DÃ©cembre, qui Ã©ventra la nef de droite et renversa
+l'un des piliers, en ont succÃ©dÃ© d'autres, crevant la toiture, faisant
+Ã©clater les vitraux, arrachant des murailles les boiseries et les
+confessionnaux.
+
+Tout cela formait un fouillis pathÃ©tique sur le dallage jonchÃ© d'une
+paille souillÃ©e du sang des victimes et des dÃ©bris de leurs
+Ã©quipements... Seule la petite chaire de vÃ©ritÃ©, sauvÃ©e depuis de
+dÃ©sastres futurs, se dressait comme un dÃ©fi ironique Ã  la barbarie
+teutonne, la chaire d'oÃ¹ si souvent Ã©taient tombÃ©es des paroles de paix
+et de fraternitÃ© universelle...
+
+En dÃ©pit des restaurateurs qui n'avaient pas manquÃ© de peinturlurer les
+voÃ»tes et d'orner le chÅur d'un autel de style nÃ©o-gothique et de
+quelques abominables statues polychromes, la nef avait gardÃ© ce
+caractÃ¨re si sympathique des vieilles Ã©glises des Flandres.
+
+La tourmente du XVIe siÃ¨cle, dont les horreurs pÃ¢lissent Ã  cotÃ© de
+celles de la guerre actuelle, avait dÃ©pouillÃ© celles-ci de la plupart de
+leurs ornements et de leur mobilier. Il fallut bien les remplacer et les
+gÃ©nÃ©rations qui suivirent s'employÃ¨rent, de leur mieux, Ã  rendre aux
+temples leur splendeur primitive.
+
+Il en rÃ©sulta un disparate pittoresque, naÃ¯f et touchant qui fait
+horreur aux architectes officiels, Ã©pris de l'unitÃ© de style, mais qui
+rÃ©jouit les artistes et les poÃ¨tes. L'Ã©glise apparaÃ®t bien comme la
+maison de tous et de tous les Ã¢ges et la foi s'y manifeste vivante et
+continue.
+
+Ainsi, Ã  mon sens, Ã  la sÃ©vÃ©ritÃ© grÃªle du gothique, la redondance des
+autels de style baroque, avec leurs lourdes colonnes, leurs chapiteaux
+surchargÃ©s, leurs draperies hÃ©roÃ¯ques, se marie parfaitement. Des Rubens
+de village les ont ornÃ©s, mais comme les autels Ã©clatants d'Anvers et
+de Gand, ils cÃ©lÃ¨brent, sur un ton plus humble, le catholicisme
+triomphant et thÃ©Ã¢tral qui, maniÃ© magistralement par les JÃ©suites,
+s'employa, au XVIIe siÃ¨cle, Ã  oindre les plaies vives et Ã  engourdir les
+espÃ©rances dÃ©Ã§ues.
+
+Puis les huchiers rustiques s'efforcÃ¨rent d'habiller les froides
+murailles de boiseries et de confessionnaux de chÃªne. Sous le ciseau du
+paysan flamand l'Ã©lÃ©gance des rinceaux franÃ§ais a pris une physionomie Ã 
+la fois robuste et colorÃ©e, qui n'est pas sans charmes. Aux piliers
+s'accrochent des torchÃ¨res de bois dorÃ© et des obits en losange des
+seigneurs de l'endroit. L'Ã©clat des cierges et des fleurs en papier dorÃ©
+entoure de gloire la Vierge resplendissante sous son lourd manteau de
+velours brochÃ© et son voile de dentelle arachnÃ©enne...
+
+Agenouillez sur les chaises de paille, quelques femmes en mante noire,
+et vous aurez l'image mystique et paisible que prÃ©sentait, aux jours
+heureux, l'Ã©glise, aujourd'hui ravagÃ©e, de Lampernisse.
+
+Celle-ci s'enorgueillissait d'un Christ cÃ©lÃ¨bre, que j'espÃ¨re sauvÃ© du
+dÃ©sastre, et qui sans doute figura au Petit Palais, avec les reliques du
+pays de l'Yser.
+
+Dans un des bas cÃ´tÃ©s, un monument conÃ§u en pseudo-gothique, d'il y a
+une cinquantaine d'annÃ©es, Ã©voque le souvenir glorieux du poissonnier
+Zannekin, tombÃ© en hÃ©ros, au Mont Cassel, le 23 aoÃ»t 1328, Ã  la tÃªte des
+milices communales. Ce cÃ©notaphe sanctifie par son voisinage les tombes
+proches des humbles soldats morts, pour la patrie, aux champs de l'Yser.
+
+A Lampernisse, petit village au nom sonore et doux, Charles de Coster a
+placÃ© l'Ã©pilogue de son livre Ã©pique, si cher Ã  nous autres Belges, et
+qui, Ã©voquant nos luttes sanglantes du XVIe siÃ¨cle, nous sera dorÃ©navant
+plus cher encore.
+
+Le curÃ©, le bedeau, l'Ã©chevin, le notaire, le fossoyeur, toutes les
+autoritÃ©s religieuses et civiles de Lampernisse, trouvent, un beau jour,
+Ã©tendus dans une prairie voisine, les corps nus et inanimÃ©s
+d'Uylenspiegel, l'incarnation de la rÃ©sistance des Flandres Ã  la
+tyrannie espagnole, et de NÃ¨le, sa petite amie.
+
+Ils s'apprÃªtent Ã  les ensevelir en terre bÃ©nie. Or, le hÃ©ros reprend ses
+sens et leur lance cette fiÃ¨re apostrophe:
+
+Â«Est-ce qu'on enterre NÃ¨le, le cÅur, Uylenspiegel, l'esprit de la mÃ¨re
+Flandre!...Â»
+
+Il ne nous reste de la Flandre maternelle qu'un petit lambeau de terre
+ravagÃ©e. Ses bourgs et ses villages ne sont plus que des ruines
+fumantes, et pourtant beaucoup d'habitants s'y terrent avec tÃ©nacitÃ©, ne
+pouvant se rÃ©soudre Ã  les quitter. Face Ã  l'ennemi, nos soldats
+regardent Ã©perdÃ»ment vers l'Est, par delÃ  leurs tranchÃ©es, par delÃ 
+l'Yser... la mÃ¨re Flandre captive, qui attend d'eux la dÃ©livrance.
+
+  En Flandre, mai 1915.
+
+  Jean DE MOT.
+
+  _Conservateur du MusÃ©e
+  du Cinquantenaire de Bruxelles._
+
+
+
+
+LES CRIMINELS AU PILORI
+
+
+_Dans un livre remarquable qui vient de paraÃ®tre, sous le titre_: Les
+CruautÃ©s allemandes, _M. Maccas, docteur en droit de l'UniversitÃ©
+d'AthÃ¨nes, aprÃ¨s avoir Ã©numÃ©rÃ©, d'aprÃ¨s les tÃ©moignages et les documents
+officiels, les attentats commis en Belgique et en France, par les
+troupes allemandes, dresse la liste dÃ©jÃ  longue des chefs qui doivent en
+Ãªtre tenus pour responsables. Cette nomenclature Ã©tait nÃ©cessaire. Les
+criminels au pilori! C'est une premiÃ¨re satisfaction aux impÃ©rieuses
+exigences de la conscience universelle_.
+
+  _Journal des DÃ©bats_ (23 mai 1915).
+
+
+La prÃ©face de =Les CruautÃ©s allemandes=[1] est de M. Paul Girard, de
+l'Institut. L'Ã©minent professeur de la FacultÃ© des Lettres nous prÃ©sente
+l'ouvrage en ces termes: Â«Ce nouveau livre sur la faÃ§on dont l'Allemagne
+entend et pratique la guerre est l'Åuvre d'un neutre, et cela seul
+suffirait Ã  lui assurer nos sympathies. Mais il est de plus composÃ© avec
+mÃ©thode, documentÃ©, sobre et d'une bonne foi Ã©vidente, et ce sont lÃ  de
+trop sÃ©rieuses qualitÃ©s pour ne pas forcer l'estime, non seulement du
+public franÃ§ais, mais de tous ceux, Ã  quelque nationalitÃ© qu'ils
+appartiennent, qui auront la curiositÃ© de le lire, ou seulement de le
+parcourir d'un Åil non prÃ©venu.Â»
+
+  [1] _Les CruautÃ©s allemandes_, par LÃON MACCAS, docteur en droit de
+  l'UniversitÃ© d'AthÃ¨nes. Nouvelle Librairie Nationale, 11, rue de
+  MÃ©dicis, Paris, 1 vol. in-12. 3 fr. 50.
+
+En ces heures tragiques, la lecture du rÃ©quisitoire de M. Maccas
+s'impose.
+
+Le lecteur se rendra compte, par des faits indiscutables, combien, avec
+raison, le prÃ©facier s'Ã©lÃ¨ve contre les Allemands qui, Ã  l'heure
+actuelle, Â«ont introduit dans la guerre un droit nouveau, une morale
+nouvelle, droit et morale manifestement contraires aux idÃ©es que
+l'humanitÃ© se faisait jusqu'ici de ces grandes choses, et aux tendances
+qui la portaient, qui la portent encore Ã  chercher des attÃ©nuations aux
+souffrances et aux horreurs lÃ©gales qu'entraÃ®ne la guerre entre nations
+civilisÃ©esÂ»; contre des ennemis qui Â«semblent avoir pris Ã  tÃ¢che de
+pratiquer partout, sous des formes diverses, l'abus de la forceÂ»; contre
+une nation qui a signÃ© certaines dÃ©clarations tendant Ã  adoucir, dans la
+mesure du possible, les rigueurs de la guerre, et qui, devenue
+belligÃ©rante, Â«ne tient plus aucun compte de ces mÃªmes dÃ©clarationsÂ».
+Devant de pareils actes, incontestablement prouvÃ©s, il comprendra
+combien lÃ©gitime est la vÃ©hÃ©mente conclusion de M. Girard s'Ã©criant:
+
+Â«De tout ceci ne peut naÃ®tre que de la haine, une haine tenace,
+inlassable, que la paix n'Ã©teindra pas, ni la victoire.....
+
+                                *
+                               * *
+
+Â«Si la haine subsiste, pieusement entretenue, attisÃ©e au feu sacrÃ© du
+souvenir, il n'y a pas pour celui qui en est l'objet, de sÃ©curitÃ©
+possible; elle est la paille qui menace silencieusement de destruction
+soudaine l'acier dont on est le plus sÃ»r.
+
+Â«Malheur au peuple qui s'est fait haÃ¯r!Â»
+
+
+Illustrations:
+
+L'INTÃRIEUR DE L'ÃGLISE DE PERVYSE, APRÃS LE BOMBARDEMENT
+_Ph. Meurisse._
+
+
+RUINES DE L'ÃGLISE D'OUDEKAPPELLE
+_Ph. H. de Hemptine._
+
+
+LA TOUR DE LAMPERNISSE, AVANT SA DESTRUCTION
+_Ph. H. de Hemptine._
+
+
+INTÃRIEUR DE L'ÃGLISE DE LAMPERNISSE
+_Ph. Capit. GÃ©rard._
+
+
+Des seize chapitres de cet ouvrage, nous ne nous arrÃªterons aujourd'hui
+que sur celui des _ResponsabilitÃ©s_. Dans ce chapitre, M. Maccas porte
+l'accusation que dans la guerre actuelle l'officier allemand a montrÃ©
+une Ã¢me essentiellement criminelle. Â«Nos recherchesÂ», Ã©crit-il, Â«et
+l'Ã©tude approfondie que nous avons faite du sujet, nous permettent de
+donner entiÃ¨rement raison Ã  la commission d'enquÃªte franÃ§aise quand elle
+affirme que le _commandement, jusque dans ses personnifications les plus
+hautes, portera devant l'humanitÃ© la responsabilitÃ© Ã©crasante_ des
+crimes commis par l'armÃ©e allemande.
+
+A cette affirmation fait suite une liste de cinquante-six noms, hauts et
+bas gradÃ©s de l'armÃ©e teutonne, coupables de crimes de droit commun.
+Nous donnons Ã  cette place le nom des inculpÃ©s dont l'action scÃ©lÃ©rate
+s'est exercÃ©e _sur le territoire de la Belgique seulement_, en plaÃ§ant
+en tÃªte, suivant l'ordre adoptÃ© par M. Maccas, le prince au nom duquel
+Â«tant d'excÃ¨s auront Ã©tÃ© commisÂ»:
+
+1. =L'Empereur GUILLAUME II=[2].--Dans une allocution adressÃ©e Ã  ses
+troupes, la veille de la bataille de la Vistule, l'empereur Guillaume
+lui-mÃªme a lancÃ© ces paroles, qui constituent comme le farouche
+programme de toutes les atrocitÃ©s commises: Â«Malheur aux vaincus! Le
+vainqueur ne connaÃ®t pas de grÃ¢ce.Â»
+
+  [2] Les numÃ©ros prÃ©cÃ©dant les noms sont ceux de livre de M. LÃ©on
+  Maccas.
+
+3. =Le prince EITEL-FRÃDÃRIC, fils de l'empereur d'Allemagne.=--Le
+prince a sÃ©journÃ© huit jours dans un chÃ¢teau prÃ¨s de LiÃ©ge. Le
+propriÃ©taire Ã©tait prÃ©sent. Sous les yeux de ses hÃ´tes, le prince fit
+emballer toutes les robes qu'il put trouver dans les armoires de la
+maÃ®tresse de maison et de ses filles.
+
+4. =Le duc de BRUNSWICK.=--Le prince a participÃ© au pillage du mÃªme
+chÃ¢teau, prÃ¨s de LiÃ©ge.
+
+6. =Le marÃ©chal von der GOLTZ=, gouverneur militaire de Belgique.--Dans
+un arrÃªtÃ© signÃ© de lui et affichÃ© le 5 octobre 1914 Ã  Bruxelles, le
+marÃ©chal a Ã©dictÃ© la peine de mort contre les habitants, coupables ou
+non, des endroits prÃ¨s desquels le tÃ©lÃ©graphe aurait Ã©tÃ© coupÃ© ou le
+chemin de fer dÃ©truit.
+
+7. =Le gÃ©nÃ©ral de BÃLOW=, commandant en chef la deuxiÃ¨me armÃ©e
+allemande.--Ce gÃ©nÃ©ral a ordonnÃ© le premier bombardement de Reims; le 22
+aoÃ»t, aprÃ¨s le sac d'Andenne, il a fait afficher ceci: Â«_C'est avec mon
+consentement que le gÃ©nÃ©ral en chef a fait brÃ»ler toute la localitÃ© et
+que cent personnes environ ont Ã©tÃ© fusillÃ©es_.Â» Le 25 aoÃ»t, Ã  Namur,
+autre proclamation de sa main, oÃ¹ on lisait: Â«Les soldats belges et
+franÃ§ais doivent Ãªtre livrÃ©s comme prisonniers de guerre avant quatre
+heures, devant la prison. Les citoyens qui n'obÃ©iront pas, seront
+condamnÃ©s aux travaux forcÃ©s Ã  perpÃ©tuitÃ© en Allemagne. L'inspection
+sÃ©vÃ¨re des immeubles commencera Ã  quatre heures. _Tout soldat trouvÃ©
+sera immÃ©diatement fusillÃ©._ Armes, poudre, dynamite, doivent Ãªtre remis
+Ã  quatre heures. Peine: fusillade. Toutes les rues seront occupÃ©es par
+une garde allemande, qui prendra dix otages dans chaque rue. _Si un
+attentat se produit dans la rue, les dix otages seront fusillÃ©s._Â»
+
+19. =Le gÃ©nÃ©ral SIXTUS D'ARNIM=, commandant le quatriÃ¨me corps d'armÃ©e
+allemand.--Il frappe la ville de Bruxelles et la province de Brabant de
+la monstrueuse contribution de guerre de 500 millions de francs.
+
+20. =Le gÃ©nÃ©ral von BISSING=, commandant le septiÃ¨me corps d'armÃ©e
+allemand.--Dans une proclamation adressÃ©e Ã  ses troupes en Belgique, il
+leur dit que Â«lorsque les civils se permettent de tirer sur nous, _les
+innocents doivent pÃ©rir avec les coupables_Â»; que Â«les autoritÃ©s
+allemandes ont dit Ã  diffÃ©rentes reprises dans leurs communications aux
+troupes _que l'on ne devait pas Ã©pargner des vies humaines dans la
+rÃ©pression de ces faits_Â»; que Â«sans doute il est regrettable que des
+maisons, des villages florissants, mÃªme des villes entiÃ¨res soient
+dÃ©truits, mais _cela ne peut nous laisser entraÃ®ner Ã  des sentiments de
+pitiÃ© dÃ©placÃ©e. Tout cela ne vaut pas la vie d'un seul soldat
+allemand_.Â»
+
+21. =Le gÃ©nÃ©ral de DOEHM=, commandant le IXe corps d'armÃ©e
+allemand.--Comme un journaliste amÃ©ricain, du _World_, lui disait avoir
+vu, ainsi que M. Gibson, secrÃ©taire de la lÃ©gation des Ãtats-Unis Ã 
+Bruxelles, des cadavres de femmes et d'enfants mutilÃ©s Ã  Louvain, ce
+gÃ©nÃ©ral a rÃ©pondu que de tels faits Ã©taient Â«_inÃ©vitables dans les
+combats de rues_Â» Le journaliste amÃ©ricain observa qu'un cadavre de
+femme avait les pieds et les mains coupÃ©s, que celui d'un vieillard
+montrait vingt-deux coups de baÃ¯onnette au visage, que celui d'un
+vieillard avait Ã©tÃ© trouvÃ© pendu par les mains aux poutres de sa maison,
+et qu'on l'avait brÃ»lÃ© vivant en allumant le feu par dessous. Le gÃ©nÃ©ral
+de Doehm s'est bornÃ© Ã  rÃ©pondre qu'il n'en Ã©tait pas responsable.
+
+22. =Le baron de MIRBACH.=--Il participa, avec le prince Eitel et le duc
+de Brunswick, au pillage d'un chÃ¢teau, prÃ¨s de LiÃ©ge.
+
+23. =Le duc de GRONAU.=--AprÃ¨s que le chÃ¢teau de Villers-Notre-Dame en
+Belgique eut Ã©tÃ© occupÃ© par son Ã©tat-major, lui-mÃªme y fit saisir 146
+couverts, 236 cuillers de vermeil, 3 montres en or, 62 poules, 32
+canards, des habits de soirÃ©e, des Åuvres d'art et quantitÃ© de linge
+d'enfant, qui furent emmenÃ©s en Allemagne.
+
+36. =Le lieutenant-colonel BLEGEN.=--Il ordonna les massacres et le sac
+de Dinant.
+
+37. =Le major BOTZWITZ.=--Il ordonna Ã  ses troupes l'achÃ¨vement des
+blessÃ©s et le meurtre des prisonniers de guerre.
+
+38. =Le major MANTEUFFEL.=--Il ordonna la destruction de Louvain et les
+horribles atrocitÃ©s qui y furent commises.
+
+39. =Le major SOMMERFELD.=--Il ordonna la destruction de Termonde.
+
+43. =Le major de BÃLOW.=--Il ordonna les massacres et la destruction
+d'Aerschot.
+
+44. =Le major DIECKMANN.=--Dans une proclamation datant du 6 septembre
+(GrivegnÃ©e, Belgique) il dÃ©clara qu' Â«_il y va de la vie des otages, Ã 
+ce que la population se tienne paisible en toute circonstance_Â», et que,
+si les premiers otages ne sont pas remplacÃ©s dans les quarante-huit
+heures par d'autres, Â«_l'otage encourt la peine de mort_Â», et que
+Â«_quiconque n'obtempÃ¨re pas au commandement: Levez les bras! est
+passible de la peine de mort_.Â»
+
+54. =L'officier allemand WALTER BLOEM.=--Il fut chargÃ© de faire une
+enquÃªte en Belgique (voir la _Gazette de Cologne_ du 10 fÃ©vrier 1915) et
+il avoua sans honte que tout ce qui y fut commis fait partie d'un
+systÃ¨me ayant pour principe que Â«_la collectivitÃ© entiÃ¨re Ã  laquelle il_
+(le coupable) _appartient doit expier_Â» et que, si les coupables ne
+peuvent Ãªtre dÃ©signÃ©s, Â«_les innocents doivent expier Ã  leur place, non
+pas parce qu'un crime a Ã©tÃ© commis, mais pour qu'un crime ne soit plus
+commis dans la suite_.Â»
+
+La presse entiÃ¨re des Nations alliÃ©es ne devrait-elle pas demander la
+nomination immÃ©diate d'un tribunal international pour juger et condamner
+par contumace--ainsi que le rÃ©clame le Â«FigaroÂ» (27 mai)--tous ces
+criminels de droit commun.
+
+                                *
+                               * *
+
+Nous ne pouvons mieux faire, en terminant cette liste, que de citer la
+conclusion du rÃ©quisitoire de M. LÃ©on Maccas.
+
+Â«Donc, la _responsabilitÃ© thÃ©orique_ des cruautÃ©s allemandesÂ»,
+affirme-t-il dans cette conclusion, Â«appartient: directement aux
+Ã©crivains militaires de l'Allemagne; plus profondÃ©ment et dans leurs
+causes, Ã  ses professeurs, Ã  ses historiens, Ã  ses philosophes. Au
+premier rang des exÃ©cuteurs viennent ensuite les chefs militaires.
+
+Â«Mais le _verdict gÃ©nÃ©ral_ porte sur toute l'Allemagne, car tous ses
+citoyens, du premier jusqu'au dernier, se prÃ©sentent aux yeux du monde,
+Ã©tonnÃ© au dÃ©but, rÃ©voltÃ© ensuite, comme solidaires dans l'Åuvre de
+dÃ©vastation, de meurtre, de pillage et de lÃ¢chetÃ©, qui signalera aux
+yeux de l'histoire la guerre que l'Allemagne a dÃ©chaÃ®nÃ©e.
+
+Â«Nous, du moins, neutre de nationalitÃ©, impartial de jugement, nous les
+solidarisons tous, dans le sentiment de mÃ©pris et de dÃ©goÃ»t qu'ils
+inspirent Ã  notre cÅur indignÃ©, et dans le jugement sÃ©vÃ¨re mais juste
+qu'ils ont mÃ©ritÃ© de notre raison dÃ©Ã§ueÂ».
+
+
+
+
+
+End of Project Gutenberg's La Belgique hÃ©roÃ¯que et martyre, by Various
+
+*** END OF THE PROJECT GUTENBERG EBOOK 46350 ***

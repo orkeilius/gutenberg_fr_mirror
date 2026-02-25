@@ -1,3 +1,950 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be484bfdb92257bf16c6a326089c215256bc882cc626e813846bf90fdb1974d6
-size 23786
+*** START OF THE PROJECT GUTENBERG EBOOK 68327 ***
+
+  Au lecteur
+
+  Cette version numÃ©risÃ©e reproduit intÃ©gralement le livre papier,
+  Ã  l'exception de deux pages non paginÃ©es du "Catalogue de la
+  Librairie Garnier FrÃ¨res".
+
+  La ponctuation a pu faire l'objet de quelques corrections mineures.
+
+
+
+
+  [Illustration:
+
+  LE LIVRE
+  DES
+  ENFANTS
+
+
+
+
+  OUVRAGES D'ANDRÃ HELLÃ
+
+
+  FILMS pour les Tout-Petits (_Librairie Garnier FrÃ¨res_)
+
+  La boÃ®te Ã  joujoux, ballet pour enfant, musique de Claude DEBUSSY.
+
+  La belle histoire que voilÃ .
+
+  Histoire de Quillembois, soldat.
+
+  Le livre des heures hÃ©roÃ¯ques et douloureuses, 1914-1918.
+
+  L'Alphabet de la Grande Guerre.
+
+  En seconde ligne.
+
+  Illustrations des fables de La Fontaine.
+
+
+  EN PRÃPARATION A LA LIBRAIRIE GARNIER
+
+  L'Arche de NoÃ©.
+
+
+
+
+  LE LIVRE
+
+  DES ENFANTS
+
+  PoÃ©sies
+  de Marceline Desbordes-Valmore
+
+  Dessins
+  de AndrÃ© HellÃ©
+
+  [Illustration]
+
+  PARIS
+
+  LIBRAIRIE GARNIER FRÃRES
+
+  6, Rue des Saints-PÃ¨res, 6
+
+
+
+
+  [Illustration:
+
+  PRÃFACE
+
+
+  _Jour par jour, de la vie une nouvelle page,
+        Enfants, va s'ouvrir Ã  vos yeux;
+  Autour de ses feuillets riants ou sÃ©rieux
+  Les bals, les chants d'oiseaux feront bien du tapage._
+
+  _Lisez, lisez toujours, et mÃ©ditez tout bas
+  Cette vie, aux cÅurs purs rarement infidÃ¨le;
+        Car tous ceux qui se plaignent d'elle
+        Sont ceux qui ne l'entendent pas._
+
+
+
+
+  [Illustration]
+
+  L'ÃCOLIER
+
+
+  Un tout petit enfant s'en allait Ã  l'Ã©cole.
+  On avait dit: Â«Allez!...Â» Il tÃ¢chait d'obÃ©ir;
+  Mais son livre Ã©tait lourd, il ne pouvait courir;
+  Il pleure, et suit des yeux une abeille qui vole.
+
+  Â«Abeille, lui dit-il, voulez-vous me parler?
+  Moi, je vais Ã  l'Ã©cole: il faut apprendre Ã  lire;
+  Mais le maÃ®tre est tout noir, et je n'ose pas rire:
+  Voulez-vous rire, abeille, et m'apprendre Ã  voler?
+  --Non, dit-elle, j'arrive et je suis trÃ¨s pressÃ©e.
+  J'avais froid; l'aquilon m'a longtemps oppressÃ©e;
+  Enfin j'ai vu les fleurs; je redescends du ciel,
+  Et je vais commencer mon doux rayon de miel.
+  Voyez! j'en ai dÃ©jÃ  puisÃ© dans quatre roses;
+  Avant une heure encor nous en aurons d'Ã©closes;
+
+  [Illustration]
+
+  Vite, vite Ã  la ruche! On ne rit pas toujours;
+  C'est pour faire le miel qu'on nous rend les beaux jours.Â»
+
+  Elle fuit et se perd sur la route embaumÃ©e.
+  Le frais lilas sortait d'un vieux mur entr'ouvert;
+  Il saluait l'aurore, et l'aurore charmÃ©e
+  Se montrait sans nuage et riait de l'hiver.
+
+  Une Hirondelle passe: elle effleure la joue
+  Du petit nonchalant qui s'attriste et qui joue;
+  Et, suspendue au nid qui l'abrita deux fois,
+  Fait tressaillir l'Ã©cho qui dort au fond des bois.
+
+  [Illustration]
+
+  Â«Oh! bonjour! dit l'enfant, qui se souvenait d'elle:
+  Je t'ai vue Ã  l'automne; oh! bonjour, hirondelle!
+  Viens! tu portais bonheur Ã  ma maison, et moi
+  Je voudrais du bonheur. Veux-tu m'en donner, toi?
+  Jouons.--Je le voudrais, rÃ©pond la voyageuse,
+  Car je respire Ã  peine, et je me sens joyeuse.
+  Mais j'ai beaucoup d'amis qui doutent du printemps;
+  Ils rÃªveraient ma mort si je tardais longtemps.
+  Non, je ne puis jouer. Pour finir leur souffrance
+  J'emporte un brin de mousse en signe d'espÃ©rance.
+  Nous allons relever nos palais dÃ©garnis:
+  L'herbe croÃ®t, c'est l'instant des amours et des nids.
+  J'ai tout vu. Maintenant, fidÃ¨le messagÃ¨re,
+  Je vais chercher mes sÅurs, lÃ -bas sur le chemin.
+  Ainsi que nous, enfant, la vie est passagÃ¨re;
+  Il faut en profiter. Je me sauve... A demain!Â»
+
+  L'enfant reste muet, et, la tÃªte baissÃ©e,
+  RÃªve et compte ses pas pour tromper son ennui,
+  Quand le livre importun, dont sa main est lassÃ©e,
+  Rompt ses fragiles liens et tombe auprÃ¨s lui.
+
+  [Illustration]
+
+  [Illustration]
+
+  Un dogue l'observait du coin de sa demeure;
+  Stentor, gardien sÃ©vÃ¨re et prudent Ã  la fois,
+  De peur de l'effrayer retient sa grosse voix.
+  HÃ©las! peut-on crier contre un enfant qui pleure?
+
+  Â«Bon dogue, voulez-vous que je m'approche un peu?
+  Dit l'Ã©colier plaintif. Je n'aime pas mon livre;
+  Voyez! ma main est rouge, il en est cause. Au jeu
+  Rien ne fatigue, on rit; et moi je voudrais vivre
+  Sans aller Ã  l'Ã©cole, oÃ¹ l'on tremble toujours.
+  Je m'en plains tous les soirs, et j'y vais tous les jours.
+  J'en suis trÃ¨s mÃ©content. Je n'aime aucune affaire;
+  Le sort des chiens me plaÃ®t, car ils n'ont rien Ã  faire.
+
+  --Ecolier! voyez-vous ce laboureur aux champs?
+  Eh bien! ce laboureur, dit Stentor, c'est mon maÃ®tre.
+  Il est trÃ¨s vigilant; je le suis plus peut-Ãªtre.
+  Il dort la nuit; et moi, j'Ã©carte les mÃ©chants.
+  J'Ã©veille aussi ce bÅuf qui, d'un pied lent, mais ferme,
+  Va creuser les sillons quand je garde la ferme.
+  Pour vous-mÃªme on travaille; et, grÃ¢ce Ã  nos brebis,
+  Votre mÃ¨re, en chantant, vous file des habits.
+  Par le travail tout plaÃ®t, tout s'unit, tout s arrange.
+  Allez donc Ã  l'Ã©cole; allez, mon petit ange!
+  Les chiens ne lisent pas, mais la chaÃ®ne est pour eux:
+  L'ignorance toujours mÃ¨ne Ã  la servitude.
+  L'homme est fin, l'homme est sage; il nous dÃ©fend l'Ã©tude:
+  Enfant, vous serez homme, et vous serez heureux;
+  Les chiens vous serviront. L'enfant l'Ã©couta dire;
+  Et mÃªme il le baisa! Son livre Ã©tait moins lourd.
+  En quittant le bon dogue, il pense, il marche, il court.
+  L'espoir d'Ãªtre homme un jour lui ramÃ¨ne un sourire.
+
+  A l'Ã©cole, un peu tard, il arrive gaÃ®ment,
+  Et dans le mois des fruits il lisait couramment.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  L'OREILLER D'UNE PETITE FILLE
+
+
+  Cher petit oreiller, doux et chaud sous ma tÃªte,
+  Plein de plume choisie, et blanc, et fait pour moi:
+  Quand on a peur du vent, des loups, de la tempÃªte,
+  Cher petit oreiller, que je dors tien sur toi!
+
+  Beaucoup, beaucoup d'enfants pauvres et nus, sans mÃ¨re,
+  Sans maison, n'ont jamais d'oreiller pour dormir;
+  Ils ont toujours sommeil. O destinÃ©e amÃ¨re!
+  Maman! Douce maman! Cela me fait gÃ©mir.
+
+  Et quand j'ai priÃ© Dieu pour tous ces petits anges
+  Qui n'ont point d'oreiller, moi, j'embrasse le mien.
+  Seule, dans mon doux nid qu'Ã  tes pieds tu m'arranges,
+  Je te bÃ©nis, ma mÃ¨re, et je touche le tien!
+
+  Je ne m'Ã©veillerai qu'Ã  la lueur premiÃ¨re
+  De l'aube; au rideau bleu, c'est si gai de la voir!
+  Je vais dire tout bas ma plus tendre priÃ¨re;
+  Donne encore un baiser, douce maman! Bonsoir!
+
+  PRIÃRE
+
+  Dieu des enfants! le cÅur d'une petite fille,
+  Plein de priÃ¨re, Ã©coute, est ici sous mes mains:
+  On me parle toujours d 'orphelins sans famille:
+  Dans l'avenir, mon Dieu, ne fais plus d'orphelins!
+
+  Laisse descendre au soir un ange qui pardonne,
+  Pour rÃ©pondre Ã  des voix que l'on entend gÃ©mir;
+  Mets sous l'enfant perdu, que sa mÃ¨re abandonne,
+  Un petit oreiller qui le fera dormir!
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  DORMEUSE
+
+
+    Si l'enfant sommeille,
+    Il verra l'abeille,
+  Quand elle aura fait son miel,
+  Danser entre terre et ciel.
+
+    Si l'enfant repose,
+    Un ange tout rose,
+  Que la nuit seule on peut voir,
+  Viendra lui dire: Â«Bonsoir!Â»
+
+    Si l'enfant est sage,
+    Sur son doux visage,
+  La Vierge se penchera,
+  Et longtemps lui parlera.
+
+    Si mon enfant m'aime,
+    Dieu dira lui-mÃªme:
+  Â«J'aime cet enfant qui dort;
+  Qu'on lui porte un rÃªve d'or!
+
+    Â«Fermez ses paupiÃ¨res,
+    Et sur ses priÃ¨res,
+  De mes jardins pleins de fleurs
+  Faites glisser les couleurs.
+
+    Â«Ourlez-lui des langes,
+    Avec vos doigts d'anges,
+  Et laissez sur son chevet
+  Pleuvoir votre blanc duvet.
+
+    Â«Mettez-lui des ailes
+    Comme aux tourterelles,
+  Pour venir dans mon soleil,
+  Danser jusqu'Ã  son rÃ©veil!
+
+  [Illustration]
+
+  [Illustration]
+
+    Â«Qu'il fasse un voyage
+    Au bras d'un nuage,
+  Et laissez-le, s'il lui plaÃ®t,
+  Boire Ã  mes ruisseaux de lait!
+
+    Â«Donnez-lui la chambre
+    De perles et d'ambre,
+  Et qu'il partage en dormant
+  Nos gÃ¢teaux de diamant!
+
+    Â«Brodez-lui des voiles
+    Avec mes Ã©toiles,
+  Pour qu'il navigue en bateau
+  Sur mon lac d'azur et d'eau!
+
+    Â«Que la lune Ã©claire
+    L'eau pour lui plus claire,
+  Et qu'il prenne, au lac changeant,
+  Mes plus fins poissons d'argent!
+
+    Â«Mais je veux qu'il dorme
+    Et qu'il se conforme
+  Au silence des oiseaux
+  Dans leurs maisons de roseaux!
+
+    Â«Car si l'enfant pleure,
+    On entendra l'heure
+  Tinter partout qu'un enfant
+  A fait ce que Dieu dÃ©fend!
+
+    Â«L'Ã©cho de la rue
+    Au bruit accourue,
+  Quand l'heure aura soupirÃ©,
+  Dira: L'enfant a pleurÃ©!
+
+    Â«Et sa tendre mÃ¨re,
+    Dans sa nuit amÃ¨re,
+  Pour son ingrat nourrisson
+  Ne saura plus de chanson!
+
+    Â«S'il brame, s'il crie.
+    Par l'aube en furie
+  Ce cher agneau rÃ©voltÃ©
+  Sera peut-Ãªtre emportÃ©!
+
+    Â«Un si petit Ãªtre
+    Par le toit, peut-Ãªtre,
+  Tout en criant s'en ira
+  Et jamais ne reviendra!
+
+    Â«Qu'il rÃ´de en ce monde,
+    Sans qu'on lui rÃ©ponde!
+  Jamais l'enfant que je dis
+  Ne verra mon paradis!Â»
+
+    Oui! mais s'il est sage,
+    Sur son doux visage
+  La Vierge se penchera,
+  Et longtemps lui parlera.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  SELON DIEU
+
+
+  MÃ¨re, un cheval est Ã  la porte,
+  Il demande la charitÃ©.
+  --Vite, du foin, qu'on le lui porte!
+  Il en sera rÃ©confortÃ©.
+  Cheval, dis Ã  Dieu, notre maÃ®tre,
+  Qu'avec joie et sans te connaÃ®tre,
+  Et nourris de sa charitÃ©,
+  Nous t'avons bien rÃ©confortÃ©.
+
+  MÃ¨re, un ramier est Ã  la porte,
+  Il demande la charitÃ©.
+  --J'ai lÃ  du blÃ©, qu'on le lui porte!
+  Il en sera rÃ©confortÃ©.
+
+  [Illustration]
+
+  Ramier, dis Ã  Dieu, notre maÃ®tre,
+  Qu'avec joie et sans te connaÃ®tre,
+  Et nourris de sa charitÃ©,
+  Nous t'avons bien rÃ©confortÃ©.
+
+  MÃ¨re, un enfant est Ã  la porte,
+  Il demande la charitÃ©.
+  --Tout notre lait qu'on le lui porte!
+  Il en sera rÃ©confortÃ©.
+  Enfant, dis Ã  Dieu, notre maÃ®tre,
+  Qu'avec joie et sans te connaÃ®tre,
+  Et nourris de sa charitÃ©,
+  Nous t'avons bien rÃ©confortÃ©.
+
+  MÃ¨re, un vieillard est Ã  la porte,
+  Il demande la charitÃ©.
+  --Du vin, du vin, qu'on le lui porte!
+  Il en sera rÃ©confortÃ©.
+  Vieillard, dis Ã  Dieu, notre maÃ®tre,
+  Qu'avec joie et sans te connaÃ®tre,
+  Et nourris de sa charitÃ©,
+  Nous t'avons bien rÃ©confortÃ©.
+
+  MÃ¨re, un coupable est Ã  la porte,
+  Il demande la charitÃ©.
+  --Ce manteau blanc, qu'on le lui porte!
+  Nous l'aurons rÃ©habilitÃ©.
+  Ami, dis Ã  Dieu, notre maÃ®tre,
+  Qu'avec joie et sans te connaÃ®tre,
+  Et brÃ»lants de sa charitÃ©,
+  Nous t'avons rÃ©habilitÃ©.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  LE NUAGE ET L'ENFANT
+
+
+  L'enfant disait au nuage:
+  Â«Attends-moi jusqu'Ã  demain,
+  Et, par le mÃªme chemin,
+  Nous nous mettrons en voyage.
+
+  Â«Toi, sous tes telles lueurs,
+  Moi, dans les champs pleins de fleurs,
+  Sur le cheval de mon pÃ¨re,
+  Nous irons vite, j'espÃ¨re.
+
+  Â«Je m'y tiens bien, tu verras!
+  J'y monte seul Ã  la porte;
+  Et, quand mon pÃ¨re m'emporte,
+  Je n'ai pas peur dans ses bras.
+
+  Â«Quand il fait beau, comme un guide,
+  En tÃªte, il me fait asseoir;
+  Toi, d'en haut tu pourrais voir
+  Comme je tiens bien la bride!
+
+  Â«Ah! je voudrais d'ici lÃ 
+  Ne faire qu'une enjambÃ©e
+  Sur la nuit toute tombÃ©e,
+  Pour te dire: Â«Me voilÃ !Â»
+
+  Â«Mais je vais faire un beau rÃªve
+  OÃ¹ je rÃªverai de toi;
+  Jusqu'Ã  ce que Dieu l'achÃ¨ve,
+  Ami nuage, attends-moi!Â»
+
+                *
+               * *
+
+  Comme il jetait les paroles
+  De ses espÃ©rances folles,
+  Le nuage dÃ©cevant
+  Glissait, poussÃ© par le vent.
+
+  Pourtant le bambin sautille,
+  L'oiseau chante, l'eau scintille,
+  Et l'Ã©cho lui sonne au cÅur:
+  Â«Demain! demain! quel bonheur!Â»
+
+  Enfin le soleil se couche,
+  Et son baiser qui le touche
+  D'un voile ardent clÃ´t ses yeux
+  Qu'il tenait ouverts aux cieux.
+
+  PrÃ¨s de rentrer chez sa mÃ¨re,
+  Au voyageur Ã©phÃ©mÃ¨re
+  L'enfant veut parler encor,
+  Mais le beau fantÃ´me d'or
+
+  N'est plus qu'une vapeur grise,
+  Qu'avec un cri de surprise
+  L'enfant qu'il vient d'Ã©blouir
+  Voit fondre et s'Ã©vanouir.
+
+  Au cri de la petite Ã¢me,
+  S'est Ã©lancÃ©e une femme,
+  Qui, le voyant sauf et sain,
+  Boudeur, l'emporte Ã  son sein.
+
+  Plaintif, le mignon s'y cache,
+  DÃ©clarant ce qui le fÃ¢che,
+  Que, sans son bel Ã©tranger,
+  Il ne veut plus voyager.
+
+  Â«Si tu chÃ©ris les nuages,
+  Mon amour, pour tes voyages
+  Le temps en aura toujours:
+  Il en passe tous les jours.
+
+  --Ce ne sera plus le mÃªme,
+  Celui-lÃ , mÃ¨re, je l'aime!Â»
+  Dit l'enfant, puis il pleura...
+  Et la femme soupira.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  L'ENFANT AU MIROIR
+
+                    A Mademoiselle Ãmilie Bascans
+
+
+  Si j'Ã©tais assez grande,
+    Je voudrais voir
+  L'effet de ma guirlande
+    Dans le miroir.
+  En montant sur la chaise,
+    Je l'atteindrais:
+  Mais, sans aide et sans aise,
+    Je tomberais.
+
+  La dame, plus heureuse,
+    Sans faire un pas,
+  Sans quitter sa causeuse,
+    De haut en bas,
+  Dans une glace claire,
+    Comme au hasard,
+  Pour apprendre Ã  se plaire,
+    Jette un regard.
+
+  Ah! c'est bien incommode
+    D'avoir huit ans!
+  Il faut suivre la mode
+    Et perdre un temps!...
+  Peut-on aimer la ville
+    Et les salons?
+  On s'en va si tranquille
+    Dans les vallons!
+
+  Quand ma mÃ¨re qui m'aime
+    Et me dÃ©fend,
+  Et qui veille elle-mÃªme
+    Sur son enfant,
+  M'emporte oÃ¹ l'on respire
+    Les fleurs et l'air,
+  Si son enfant soupire,
+    C'est un Ã©clair!
+
+  Les ruisseaux des prairies
+    Font des psychÃ©s,
+  OÃ¹, libres et fleuries,
+    Les fronts penchÃ©s,
+  Dans l'eau qui se balance,
+    Sans nous hausser,
+  Nous allons en silence
+    Nous voir passer.
+
+  C'est frais dans le bois sombre,
+    Et puis c'est beau
+  De danser comme une ombre
+    Au bord de l'eau!
+  Les enfants de mon Ã¢ge,
+    Courant toujours,
+  Devraient tous au village
+    Passer leurs jours.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  LA PETITE PLEUREUSE A SA MÃRE
+
+
+            On gronde l'enfant
+            A qui l'on dÃ©fend
+          De pleurer quand bon lui semble;
+            On dit que les fleurs
+            SÃ¨chent bien des pleurs...
+          Tu mÃªles donc tout ensemble?
+
+  Oui, maman, je t'ai vue avec ton air joyeux,
+  Le rire sur la bouche et les larmes aux yeux.
+
+  Au bal, sous ses bouquets, j'ai vu pleurer ma mÃ¨re.
+  J'ai baisÃ© cette larme, elle Ã©tait bien amÃ¨re.
+  Viens que je te console. Avais-tu trop dansÃ©?
+  Moi, je ne gronde pas! Moi, quand mon pied lassÃ©
+          Me dÃ©fend d'Ãªtre bien aise,
+            L'ennui qui me prend
+            M'arrÃªte en courant,
+          Et je m'endors sur ma chaise.
+  Oh! si je viens encor pleurer sur tes genoux,
+  Maman, ne me dis plus: Â«Vous n'Ãªtes pas gentille!Â»
+  Dansons, quand nous pouvons, ou pleurons entre nous,
+  Mais ne nous grondons pas: vois-tu! je suis ta fille,
+  Et je t'aime, et je vais prier Dieu tous les jours
+  De m'Ã©gayer beaucoup pour t'Ã©gayer toujours!
+  Embrasse donc bien fort ta petite chÃ©rie,
+  Et jamais, plus jamais ne dis: Â«Vous...Â» je t'en prie!
+  Ainsi consolons-nous et donnons-nous la main:
+  Si nous pleurons ce soir, va! nous rirons demain!
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  LA FRIVOLE
+
+
+  Ah! je suis inconsolable
+  D'avoir perdu mon ruban!
+  Ma chÃ¨re, il Ã©tait semblable
+  Aux rouleaux de mon volant.
+  Celui-ci, bien qu'adorable,
+  Regarde, est d'un autre blanc!...
+
+  On a bien raison de dire:
+  Â«Les chagrins sont prÃ¨s de nous.Â»
+  Pas un cÅur qui ne soupire
+  Du sort mÃ©chant et jaloux.
+  Tu ris... Ne me fais pas rire!
+  Pourtant, ce serait bien doux!
+
+  Mais je suis inconsolable
+  D'avoir perdu mon ruban!
+  Ma chÃ¨re, il Ã©tait semblable
+  Aux rouleaux de mon volant.
+  Celui-ci, bien qu'adorable,
+  Regarde, est d'un autre blanc!
+
+  Mise hier comme une fÃ©e,
+  Au bras de mon frÃ¨re Henri,
+  D'un coup de vent dÃ©coiffÃ©e,
+  J'entre, et chacun pousse un cri.
+  J'Ã©tais tout Ã©bouriffÃ©e:
+  Juge si nous avons ri!
+
+  Mais je suis inconsolable
+  D'avoir perdu mon ruban!
+  Ma chÃ¨re, il Ã©tait semblable
+  Aux rouleaux de mon volant.
+  Celui-ci, bien qu'adorable,
+  Regarde, est d'un autre blanc!
+
+  La joie est dans notre Ã©cole,
+  Mais toujours le bonheur ment!
+  Tiens, c'est un oiseau qui vole!
+  Moi, j'irai, Dieu sait comment...
+  Que ne suis-je un peu frivole
+  Au moins pour danser gaÃ®ment!
+
+  Mais je suis inconsolable
+  D'avoir perdu mon ruban!
+  Ma chÃ¨re, il Ã©tait semblable
+  Aux rouleaux de mon volant.
+  Celui-ci, bien qu'adorable,
+  Regarde, est d'un autre blanc!
+
+  Si j'Ã©tais moins dÃ©solÃ©e,
+  Nous redirions notre pas...
+  Pourtant, avant l'assemblÃ©e,
+  Chantons et valsons tout bas.
+  Suis-moi! Je suis envolÃ©e!
+  C'est enchanteur, n'est-ce pas?...
+
+  Mais je suis inconsolable
+  D'avoir perdu mon ruban!
+  Ma chÃ¨re, il Ã©tait semblable
+  Aux rouleaux de mon volant.
+  Celui-ci, bien qu'adorable,
+  Regarde, est d'un autre blanc!
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  L'ENFANT BÃNI
+
+                         A Marie Berthoud
+
+
+  Puisque la Vierge vous dÃ©fend,
+  Je vais lÃ -bas, mon doux enfant,
+  Vous chercher des choses jolies,
+  Des fuseaux, des perles polies,
+  Qu'on donne aux anges d'ici-bas;
+  Vous en aurez; ne criez pas!
+
+  Laissez couver le feu qui dort;
+  Jouez loin de ses rayons d'or:
+  Il consumerait vos dentelles
+  Et vous, nos espÃ©rances belles!
+  Le feu ne doit pas se toucher;
+  Il ne vient que trop nous chercher.
+
+  En priÃ¨re il faut vous tenir,
+  Pour m'entendre au loin revenir.
+  Gardez-vous d'ouvrir Ã  personne,
+  Aussi fort que la cloche sonne;
+  Quand mÃªme ce serait le roi,
+  N'ouvrez qu'Ã  Dieu, n'ouvrez qu'Ã  moi!
+
+  Enfant, puisque Dieu vous bÃ©nit
+  Et verse du blÃ© sur le nid,
+  A prÃ©sent tout rit sur la terre;
+  Car dans un doux coin solitaire,
+  Un fruit mÃ»r, un peu de froment,
+  Font tourner la terre gaÃ®ment!
+
+  La Vierge aime Ã  suivre des yeux
+  L'Ã¢me qu'elle a nourrie aux cieux;
+  Et quand votre mÃ¨re est sortie,
+  PrÃ¨s de l'enfant JÃ©sus blottie,
+  Vous n'avez qu'Ã  bien Ã©couter:
+  Votre Ã¢me l'entendra chanter!
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  POUR ENDORMIR L'ENFANT
+
+
+  Â«Ah! si j'Ã©tais le cher petit enfant
+  Qu'on aime bien, mais qui pleure souvent,
+          Gai comme un charme,
+          Sans une larme,
+  J'Ã©couterais chanter l'heure et le vent...
+  (Je dis cela pour le petit enfant.)
+
+  Â«Si je logeais dans ce mouvant berceau,
+  Pour mÃ©riter qu'on m'apporte un cerceau,
+          Je serais sage
+          Comme une image,
+  Et je ferais moins de bruit qu'un oiseau...
+  (Je dis cela pour l'enfant du berceau.)
+
+  Â«Ah! si j'Ã©tais notre blanc nourrisson,
+  Pour qui je fais cette belle chanson,
+          Tranquille Ã  l'ombre,
+          Comme au bois sombre,
+  Je rÃªverais que j'entends le pinson...
+  (Je dis cela pour le blanc nourrisson.)
+
+  Â«Ah! si j'Ã©tais l'ami des blancs poussins
+  Dormant entre eux, doux et vivants coussins,
+          Sans que je pleure,
+          J'irais sur l'heure
+  Faire chorus avec ces petits saints...
+  (Je dis cela pour l'ami des poussins.)
+
+  Â«Si le cheval demandait Ã  nous voir,
+  Riant d'aller nager Ã  l'abreuvoir,
+          Fermant le gÃ®te,
+          Je crÃ®rais vite:
+  Â«Demain l'enfant pourra vous recevoir...Â»
+  (Je dis cela pour l'enfant qu'il vient voir.)
+
+  Â«Si j'entendais les loups hurler dehors,
+  Bien dÃ©fendu par les grands et les forts,
+          Fier comme un homme
+          Qui fait un somme,
+  Je rÃ©pondrais: Â«Passez, messieurs, je dors!...Â»
+  (Je dis cela pour les loups du dehors.)Â»
+
+  On n'entendit plus rien dans la maison,
+  Ni le rouet, ni l'Ã©gale chanson;
+          La mÃ¨re ardente,
+          Fine et prudente,
+  Fit l'endormie auprÃ¨s de la cloison,
+  Et suspendit tout bruit dans la maison.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  LA PETITE FILLE
+  ET
+  L'OISEAU
+
+
+  L'OISEAU
+
+  Bonjour, petite fille!
+  Que fais-tu dans mon bois?
+  Es-tu de ma famille?
+  On dirait qu'autrefois
+  J'ai chantÃ© dans ta voix.
+
+  Moi, je nais. Vite vite,
+  De la mousse, un berceau!
+  Il faut que je m'acquitte,
+  Par ce temps clair et beau,
+  De mon devoir d'oiseau.
+
+  LA PETITE FILLE
+
+  Bonjour, oiseau! Je pense
+  Me reconnaÃ®tre ici...
+  Tu vois: les fleurs, la danse,
+  Me tiennent en souci.
+  J'ai mes devoirs aussi!
+
+  Il faut rire, il faut vivre,
+  On n'en vient pas Ã  bout.
+  Croit-on que sans un livre
+  On n'apprend rien du tout?
+  Pour moi, j'apprends partout!
+
+  L'OISEAU
+
+  Bravo, petite fille!
+  Viens souvent dans mon bois;
+  Nous vivrons en famille,
+  Chantant tous Ã  la fois
+  Avec la mÃªme voix.
+
+  Voler de fÃªte en fÃªte
+  Sous les cieux Ã©clatants,
+  C'est Ã  fendre la tÃªte;
+  Et l'on n'a pas le temps
+  De jouir du printemps!
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  MA FILLE
+
+
+  C'est beau la vie,
+  Belle par toi,
+  De toi suivie,
+  Toi devant moi!
+  C'est beau, ma fille,
+  Ce coin d'azur
+  Qui vit et brille
+  Sur ton front pur.
+
+  C'est beau ton Ã¢ge,
+  D'ange et d'enfant,
+  Voile ou nuage
+  Qui te dÃ©fend
+  Des folles Ã¢mes
+  Qui font souffrir,
+  Des tristes flammes
+  Qui font mourir.
+
+  Dieu fit tes charmes,
+  Dieu veut ton cÅur,
+  Tes jours sans larmes,
+  Tes nuits sans peur;
+  Mon jeune lierre,
+  Monte aprÃ¨s moi;
+  Dans ta priÃ¨re
+  Enferme-toi.
+
+  C'est beau, petite,
+  L'humble chemin
+  OÃ¹ je ne quitte
+  Jamais ta main;
+  Car dans l'espace,
+  Aux prosternÃ©s,
+  Une voix passe,
+  Qui dit: Â«Venez!Â»
+
+  Tout mal sommeille
+  Pour ta candeur;
+  Tu n'as d'oreille
+  Que dans ton cÅur:
+  Quel temps? quelle heure?
+  Tu n'en sais rien;
+  Mais que je pleure,
+  Tu l'entends bien.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  ADIEU D'UNE PETITE FILLE A L'ÃCOLE
+
+
+  Mon cÅur battait Ã  peine et vous l'avez formÃ©;
+  Vos mains ont dÃ©nouÃ© le fil de ma pensÃ©e,
+  Madame! et votre image est Ã  jamais tracÃ©e
+  Sur les jours de l'enfant que vous avez aimÃ©!
+
+  Si le bonheur m'attend, ce sera votre ouvrage;
+  Vos soins l'auront semÃ© sur mon doux avenir;
+  Et si, pour m'Ã©prouver, mon sort couve un orage,
+  Votre jeune roseau cherchera du courage.
+  Madame! en s'appuyant sur votre souvenir!
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  TABLE
+
+
+  PRÃFACE                                  5
+
+  L'Ã©colier                                7
+
+  L'oreiller d'une petite fille           12
+
+  Dormeuse                                14
+
+  Selon Dieu                              19
+
+  Le nuage et l'enfant                    22
+
+  L'enfant au miroir                      26
+
+  La petite pleureuse Ã  sa mÃ¨re           29
+
+  La frivole                              31
+
+  L'enfant bÃ©ni                           34
+
+  Pour endormir l'enfant                  36
+
+  La petite fille et l'oiseau             39
+
+  Ma fille                                42
+
+  Adieu d'une petite fille Ã  l'Ã©cole      45
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+  AchevÃ© d'imprimer le 30 AoÃ»t 1924
+  par G. DESGRANDCHAMPS
+  23, Rue Boissonade
+  PARIS
+
+*** END OF THE PROJECT GUTENBERG EBOOK 68327 ***

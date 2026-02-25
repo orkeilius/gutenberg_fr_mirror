@@ -1,3 +1,2760 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb01f5552d71a65252fa49c50cc89f749dc07066e58bdb2bc5e3b0b2e92f586d
-size 92541
+The Project Gutenberg EBook of Le vaisseau fant�me, by Richard Wagner
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Le vaisseau fant�me
+
+Author: Richard Wagner
+
+Translator: Charles Nuitter
+
+Release Date: October 18, 2008 [EBook #26943]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LE VAISSEAU FANT�ME ***
+
+
+
+
+Produced by Laurent Vogel and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+
+NOUVELLE �DITION
+
+
+LE VAISSEAU FANT�ME
+
+OP�RA EN TROIS ACTES DE RICHARD WAGNER
+
+TRADUCTION FRAN�AISE DE M. CHARLES NUITTER
+
+[P.-V. STOCK]
+
+PARIS P.-V. STOCK, �DITEUR
+(Ancienne librairie TRESSE & STOCK)
+8, 9, 10, 11, GALERIE DU TH��TRE-FRAN�AIS PALAIS-ROYAL
+
+1897
+
+_Tous droits de traduction, de reproduction et d'analyse r�serv�s pour
+tous les pays, y compris la Su�de et la Norv�ge._
+
+
+
+
+LE VAISSEAU FANT�ME
+
+_Repr�sent� pour la premi�re fois � Paris, sur le th��tre national de
+l'Op�ra-Comique, le 10 mai 1897._
+
+
+
+
+P.-V. STOCK, �DITEUR
+
+LES PREMIERS OP�RAS DE RICHARD WAGNER
+
+(Traduction de M. CH. NUITTER)
+
+  RIENZI, op�ra en cinq actes (1842), traduit par MM. Ch. Nuitter
+     et J. Guillaume.
+  LE VAISSEAU FANT�ME, op�ra en trois actes (1843).
+  TANNHAUSER, op�ra en trois actes (1845).
+  LOHENGRIN, op�ra en trois actes (1850).
+
+Pour la partition et les parties d'orchestre, s'adresser � MM. A. DURAND
+et Fils, �diteurs de musique, 4, place de la Madeleine, � Paris.
+
+�MILE COLIN--IMPRIMERIE DE LAGNY
+
+
+
+
+  La note de Richard Wagner, relative � la mise en sc�ne du _Vaisseau
+  fant�me_, qu'il nous a paru int�ressant de reproduire, a �t� ins�r�e
+  dans le tome V de ses oeuvres compl�tes. S'il en �tait besoin, elle
+  d�montrerait une fois de plus avec quel soin minutieux il savait
+  r�gler tout ce qui doit contribuer � la bonne ex�cution de ses drames
+  lyriques et rendre plus compl�te l'intime union du po�me et de la
+  musique. Cette note ne sera pas inutile aux artistes qui auront �
+  interpr�ter _le Vaisseau fant�me_, et parfois elle peut rendre �
+  l'oeuvre originale quelque chose de ce que lui fait perdre forc�ment
+  une traduction musicale.
+
+  Apr�s avoir parl� des d�corations et des effets de lumi�re, le ma�tre
+  passe � ce qui concerne le jeu des chanteurs:
+
+
+Je m'adresse donc exclusivement aux acteurs, et parmi eux surtout, �
+celui qui est charg� du r�le d'homme principal �Le Hollandais�, qui est
+si difficile.
+
+C'est de l'heureuse ex�cution de cette partie principale seule que
+d�pend le succ�s v�ritable de tout l'op�ra. Il faut que l'acteur
+parvienne � faire na�tre et � faire durer la compassion la plus
+profonde; il pourra y arriver s'il suit exactement les traits principaux
+caract�ristiques suivants:
+
+Son aspect ext�rieur est suffisamment indiqu�. Sa premi�re entr�e est
+excessivement solennelle et grave. La lenteur h�sitante avec laquelle il
+avance sur la terre ferme doit faire un contraste tout particulier avec
+le tangage extraordinairement violent et inqui�tant du vaisseau sur la
+mer.
+
+Pendant les sons graves de trompettes (si mineur) tout � fait � la fin
+de l'introduction, il s'est avanc� sur une planche plac�e par ses hommes
+du bordage du vaisseau jusqu'� une roche plate du rivage.
+
+La premi�re note de la ritournelle de l'air, le mi di�ze grave des
+basses, accompagne le premier pas du Hollandais sur la terre; sa
+d�marche chancelante, telle que l'ont les marins qui touchent terre,
+pour la premi�re fois apr�s une longue absence en mer, est de nouveau
+accompagn�e par l'imitation musicale des vagues que font les
+violoncelles et les altos.
+
+Sur le premier temps de la troisi�me mesure il fait le second pas,
+toujours les bras crois�s et la t�te baiss�e; il fait son troisi�me et
+son quatri�me pas � la huiti�me et � la dixi�me mesure.
+
+� partir de ce moment, ses mouvements suivent la spontan�it� instinctive
+de son ex�cution vocale et dramatique, mais il faut que l'acteur prenne
+garde de jamais se laisser entra�ner par une vivacit� exag�r�e dans ses
+mouvements sc�niques. Un certain calme, particuli�rement effrayant, dans
+son attitude et son aspect ext�rieurs, m�me, en exprimant, avec la
+passion int�rieure la plus forte, sa douleur et son d�sespoir, assurera
+l'effet voulu � tout ce qui doit vraiment caract�riser son apparition.
+
+Les premi�res phrases sont chant�es sans la moindre passion, comme par
+un homme �puis� de fatigue; presque exactement en mesure, comme en
+g�n�ral tout le r�citatif. Aux paroles: �Ah! superbe oc�an, etc...�,
+chant�es avec une rage am�re, il ne donne pas cours encore � la passion
+v�ritable: c'est plut�t avec un d�dain terrible qu'il se contente de
+tourner � demi la t�te vers la mer.
+
+Pendant la ritournelle qui suit: �Et ma peine est sans fin�, il baisse
+de nouveau la t�te, comme fatigu� et bris� de tristesse; il chante les
+paroles: �Mer, tu seras le t�moin, etc...�, avec les yeux hagards, le
+regard perdu devant lui.
+
+Pour la mimique qui doit accompagner l'allegro: �Combien de fois las de
+souffrir, etc...�, je ne veux pas restreindre trop �troitement le
+chanteur dans ses mouvements ext�rieurs, mais qu'il s'en tienne
+toujours, l� aussi, � ma principale observation, de conserver encore la
+plus grande tranquillit� possible dans son attitude, au moment m�me de
+la passion la plus grande, la plus saisissante, du sentiment de la plus
+profonde douleur, dont il doit animer l'expression de son chant; qu'il
+se contente d'un geste, pas trop large cependant, du bras ou de la main
+pour les quelques accents violents de la diction. M�me les paroles:
+�Mais ni la tombe, ni la mort!� qui doivent �tre chant�es avec la plus
+puissante accentuation sont la �description� de sa souffrance plut�t que
+l'explosion v�ritable et directe de son d�sespoir. Il y arrive seulement
+dans le passage qui suit, et pour ceci il lui faut r�server la supr�me
+�nergie de l'action.
+
+En r�p�tant les paroles: �Tel est l'arr�t cruel du sort�, il a courb� la
+t�te et s'est un peu inclin�: il reste ainsi jusque pendant les quatre
+derni�res mesures avec le tr�molo des violons dans la cinqui�me mesure,
+et, conservant toujours la m�me attitude, il l�ve les yeux vers le ciel.
+� l'entr�e pianissimo des timbales, dans la neuvi�me mesure, il commence
+� trembler �pouvant�, les mains baiss�es se crispent, serrant le poing,
+ses l�vres fr�missent, jusqu'� ce qu'il commence enfin, les yeux hagards
+toujours tourn�s vers le ciel, la phrase: �Ange du ciel�. Toute cette
+apostrophe presque directe � �l'ange, du ciel� qui doit �tre chant�e
+avec la plus terrible expression, sera ex�cut�e dans l'attitude d�j�
+indiqu�e sans autres changements importants que ceux qui sont exig�s par
+la diction de tels ou tels passages: nous devons voir devant nous un
+ange d�chu, qui, en sa terrible torture, exhale sa tragique fureur, en
+s'adressant � la justice �ternelle. Enfin, aux paroles: �En vain,
+j'esp�re�, toute la force de son d�sespoir se d�cha�ne; il se redresse
+avec rage, et, les yeux toujours dirig�s vers le ciel, il exprime toute
+la plus violente �nergie de la douleur.
+
+Vaine esp�rance: il ne veut plus rien savoir de la d�livrance promise,
+et son attitude change maintenant, � l'entr�e des timbales et des
+basses, comme s'il �tait an�anti.
+
+� l'entr�e de la ritournelle de l'allegro, ses traits se raniment, il
+revient � une nouvelle esp�rance, esp�rance horrible, la derni�re,
+l'esp�rance en la fin du monde, o� il devra p�rir, lui aussi.
+
+Cet allegro final exige la plus effrayante �nergie dans le chant comme
+dans la mimique, car tout ici est �motion directe. Que le chanteur
+parvienne cependant � faire para�tre ce �tempo�, entier, malgr� toute la
+puissance de la diction, comme n'�tant que l'effet de toutes ses forces
+r�unies: cette explosion devient la plus extr�me et la plus �crasante,
+aux paroles: �� mondes, cessez votre cours.� C'est l� que la sublimit�
+de l'expression doit atteindre � son comble.
+
+Apr�s les derni�res paroles: �� moi, n�ant, et pour toujours�, il
+demeure debout, pendant tout le fortissimo dans une fi�re attitude,
+presque semblable � une statue. Ce n'est qu'� l'entr�e du �piano�,
+pendant le chant sourd qui vient du vaisseau, que cette violente fixit�
+se d�tend peu � peu; ses bras s'abandonnent, retombent.
+
+Aux quatre mesures �expressivo� des premiers violons, il baisse la t�te,
+�puis�, et va en chancelant sur les derni�res huit mesures vers les
+roches de la falaise oppos�e: l� il s'adosse au roc, et alors les bras
+crois�s sur la poitrine, il demeure longtemps dans cette position.
+
+Je n'ai d�taill� si soigneusement cette sc�ne qu'afin de montrer en quel
+sens je veux que le �Hollandais� soit repr�sent�, et combien est grande
+l'importance de la plus minutieuse concordance du jeu avec la musique.
+
+Que l'acteur se donne la peine de chercher � concevoir dans le m�me sens
+son r�le tout entier. Au reste, cet �air� est la partie la plus
+difficile du r�le, surtout parce que c'est de la bonne r�alisation de
+cette sc�ne qui d�pend, pour le public, la compr�hension ult�rieure du
+sujet.
+
+Si ce monologue, selon mes intentions, a su saisir et �mouvoir
+compl�tement, le succ�s est assur� pour la partie la plus importante de
+l'oeuvre enti�re, tandis que tout ce qui suit ne serait pas capable de
+faire regagner ce que l'on aurait abandonn� ici.
+
+Dans la sc�ne avec Daland, le �Hollandais� reste pour un moment dans
+l'attitude pr�c�dente. Il r�pond, en relevant un peu la t�te, aux
+paroles que Daland lui adresse de son bord.
+
+Quand Daland le rejoint � terre, le Hollandais s'avance, avec un calme
+imposant, vers le milieu de la sc�ne.
+
+Tout son aspect d�note ici une dignit� calme et tranquille; dans tout ce
+qu'il dit l'expression est mesur�e, noble, mais sans aucun accent de
+force: il agit et parle comme s'il �tait habitu� d�s longtemps � ce qui
+se passe: si souvent d�j�, il lui est arriv� d'avoir de telles
+rencontres et de proc�der � de semblables n�gociations; tout, m�me les
+questions et les r�ponses qui paraissent les plus intentionnelles,
+doivent avoir lieu comme involontairement; il agit pour ainsi dire sous
+la contrainte de sa magique situation � laquelle il s'abandonne
+machinalement, comme �puis� et indiff�rent. Mais tout aussi
+involontairement se r�veille en lui cet ardent d�sir de r�demption:
+apr�s la terrible explosion de son d�sespoir, il est devenu plus doux,
+moins rude, et c'est avec une tristesse �mouvante qu'il exprime son
+ardent d�sir de repos. Il pose encore avec une apparente tranquillit� la
+question: �As-tu donc une fille?� La r�ponse enthousiaste de Daland:
+�Mais oui, fid�le enfant,� le rappelle de nouveau subitement � l'ancien
+espoir si souvent reconnu vain! Avec une h�te poignante il s'�crie:
+�Donne-la-moi!� L'ardent d�sir d'autrefois s'empare de lui � nouveau, et
+c'est avec l'expression la plus �mouvante qu'il s'abandonne � d�peindre
+sa situation, tout en gardant le calme ext�rieur, en chantant: �Sans une
+�pouse, sans un enfant.� La chaleureuse description que le p�re fait
+ensuite de sa fille anime de plus en plus en lui son ardent d�sir de
+�d�livrance par la fid�lit� d'une femme� et l'�l�ve dans l'allegro final
+du duo, jusqu'au combat le plus passionn� entre l'esp�rance et le
+d�sespoir, combat dans lequel l'esp�rance semble d�j� triompher.
+
+� sa premi�re rencontre avec Senta, au deuxi�me acte, le Hollandais
+appara�t de nouveau, calme et solennel dans son attitude ext�rieure:
+tous ses sentiments passionn�s sont refoul�s avec une tension �nergique,
+en son for int�rieur.
+
+Pendant la longue dur�e du premier point d'orgue, il reste immobile sous
+la porte; avec l'entr�e du solo de timbales, il s'avance lentement vers
+le devant de la sc�ne; avec la huiti�me mesure de ce solo, il s'arr�te,
+les deux mesures �accelerando� aux instruments � cordes se rapportent au
+geste de Daland, qui, tout �tonn�, attend que Senta lui souhaite la
+bienvenue, et l'y invite avec un mouvement de ses bras ouverts, dans une
+sorte d'impatience; pendant les trois mesures de timbales qui suivent,
+le Hollandais s'avance tout � fait sur le devant de la sc�ne, de c�t�;
+il reste l� maintenant pendant tout ce qui suit, sans mouvement, les
+yeux toujours fix�s sur Senta. Le dessin des instruments � cordes qui se
+r�p�te, se rapporte � la r�p�tition plus accentu�e du geste de Daland:
+au pizzicato, au point d'orgue, il cesse de l'inviter du geste, et tout
+�tonn� secoue la t�te; avec l'entr�e des basses apr�s le point d'orgue,
+il s'approche lui-m�me de Senta.
+
+Ce qui suit l'air de Daland doit �tre r�alis� mimiquement en entier.
+Pendant les quatre premi�res mesures �forte�, Daland se dispose tout de
+suite et avec d�cision � partir: sur la cinqui�me mesure et la sixi�me
+il s'arr�te et se retourne; les sept mesures qui suivent accompagnent sa
+mimique exprimant son attente, o� la satisfaction se m�le � la
+curiosit�; pendant les deux mesures suivantes de basses, il va jusqu'�
+la porte en secouant la t�te; quand le th�me revient aux instruments �
+vent, il passe encore une fois la t�te, se retire avec d�pit et ferme la
+porte sur lui, de sorte qu'� l'entr�e de l'accord en fa di�se majeur des
+instruments � vent, il est d�j� loin. Pendant le reste de m�me que
+pendant la ritournelle du duo qui suit, pas un mot, pas un geste sur la
+sc�ne.
+
+Senta et le Hollandais, aux deux c�t�s oppos�s, sur le devant de la
+sc�ne, restent fascin�s par la vue l'un de l'autre.
+
+Que les acteurs ne craignent pas de fatiguer par l� le public, il a �t�
+prouv� que c'est justement cette situation qui saisissait le plus le
+spectateur et le pr�parait le mieux � la sc�ne suivante.
+
+Dans la phrase en mi majeur qui suit, le Hollandais doit conserver, en
+chantant de la mani�re la plus �mue, la plus saisissante, une attitude
+ayant l'apparence du plus grand calme ext�rieur; qu'il ne se serve pour
+soutenir les accents les plus marqu�s que de la main et du bras (et ceci
+m�me avec mod�ration).
+
+Ce n'est qu'aux deux mesures du solo de timbales qui pr�c�de le passage
+en mi mineur que le Hollandais fait un mouvement, afin de s'approcher un
+peu de Senta: il marche avec une certaine timidit� et une courtoisie
+triste, en faisant quelques pas vers le milieu de la sc�ne pendant la
+petite ritournelle.
+
+Je dois ici faire observer au chef d'orchestre que l'exp�rience m'a
+d�montr� que je me suis tromp� en indiquant: �un poco meno sostenuto;�
+il est vrai que le grand mouvement pr�c�dent est assez lent au d�but
+surtout pour le premier solo du Hollandais; petit � petit jusqu'� la fin
+il s'anime involontairement mais de fa�on telle que forc�ment il doit de
+nouveau un peu ralentir, en rentrant en mi mineur, afin de donner au
+commencement du moins de cette phrase l'expression n�cessaire,
+solennelle et calme. Cette phrase de quatre mesures doit m�me �tre
+retard�e de mani�re que la quatri�me mesure soit ex�cut�e avec un grand
+�ritenuto�. Le m�me cas se repr�sente dans la premi�re phrase chant�e du
+Hollandais.
+
+Sur la neuvi�me mesure et sur la dixi�me, pendant le solo de timbales,
+il s'approche encore de Senta d'un pas d'abord et de deux pas ensuite.
+
+Pour la onzi�me et la douzi�me mesure, il s'agit de serrer un peu le
+mouvement afin d'arriver sur la phrase en la mineur �Dois-tu donner ta
+main, etc.� dans le vrai mouvement, toujours mod�r�, mais moins
+tra�nant, mouvement qui doit �tre maintenu par la suite sans �tre
+alt�r�. Dans le �piu animato:� �Quoi, pour toujours� le Hollandais
+trahit l'impression vivifiante qu'a faite sur lui la sinc�rit� des
+premi�res paroles de Senta: il faut d�j� qu'il chante cette phrase avec
+une grande �motion.
+
+Mais l'exclamation passionn�e de Senta: �De ses tourments qu'enfin je le
+d�livre�, le remue au plus profond de l'�tre. Plein d'�tonnement et
+d'admiration, il est pris d'un tremblement, en disant � voix presque
+basse: � doux accents au sein de ma douleur.�
+
+Dans le �molto piu animato�, il n'est presque plus ma�tre de lui; il
+chante avec feu et passion, et tombe � genoux en disant: �Qu'il vienne
+d'elle, � Dieu puissant.�
+
+Avec l'agitato en si mineur, il se rel�ve par un mouvement violent: son
+amour pour Senta se fait sentir tout de suite dans la plus terrible
+angoisse qui l'�treint en songeant au sort auquel elle s'expose en lui
+tendant la main pour le sauver. Cette pens�e entre dans son esprit comme
+un effrayant remords, et dans ce passage passionn� o� il dissuade Senta
+de compatir � sa destin�e, il devient tout � fait un �tre humain
+v�ritable, tandis que jusqu'alors il ne faisait surtout, la plupart du
+temps, que l'horrible impression d'un fant�me.
+
+L� encore l'acteur doit s'abandonner, en son attitude ext�rieure, � la
+passion la plus humaine. Comme an�anti, il se prosterne devant Senta,
+aux paroles �Fid�lit� ne brille en toi�, de sorte que Senta, debout, le
+domine, sublime, pareille � un ange, tandis que par les paroles
+suivantes, elle lui donne l'assurance de ce qu'elle entend par
+�Fid�lit�.
+
+Dans l'�allegro molto� qui suit, pendant la ritournelle le �Hollandais�
+se redresse tout debout avec une �motion solennelle et un transport
+grandiose: ses accents s'�chauffent jusqu'au plus sublime chant de
+victoire.
+
+Pour ce qui reste, il ne peut y avoir aucun malentendu: dans sa derni�re
+entr�e au troisi�me acte, tout est passion, douleur et d�sespoir.
+
+Tout particuli�rement je recommande de ne jamais �largir les r�citatifs,
+mais de tout prendre au contraire dans le mouvement le plus vif, le plus
+serr�.
+
+Il serait difficile de rendre mal le r�le de Senta. Il suffit d'avertir
+l'interpr�te d'un point seulement: on ne doit pas concevoir cet �tre
+�r�veur� dans le sens d'une sentimentalit� moderne, maladive! Bien au
+contraire, Senta est une jeune fille du Nord, tout � fait �nergique, et
+m�me, sous son apparence de sentimentalit�, elle est absolument na�ve.
+Ce n'est pr�cis�ment que sur une jeune fille tout � fait na�ve, avec le
+caract�re sp�cial de la nature du Nord, que les impressions telles que
+celles de la ballade du _Vaisseau fant�me_ et du portrait du p�le marin
+pouvaient produire un attrait aussi miraculeusement puissant, tel que
+celui qui la pousse � la d�livrance du Maudit. Cette impulsion se
+manifeste chez elle comme une puissante folie que seules les natures
+tout � fait na�ves sont capables de ressentir. Il a �t� reconnu que des
+jeunes filles du Nord �prouvaient des �motions d'une telle puissance que
+la mort �tait instantan�e par arr�t subit du coeur. Il en serait � peu
+pr�s de m�me pour l'�tat maladif en apparence de la p�le Senta.
+
+�rik non plus ne doit pas para�tre un �tre larmoyant et sentimental; il
+est au contraire imp�tueux, v�h�ment et sombre, tel que doit l'�tre un
+solitaire, surtout dans les hautes terres du Nord. Celui qui chanterait
+la cavatine du troisi�me acte d'une fa�on agr�able, me rendrait un
+mauvais service, car elle ne doit respirer qu'une douloureuse m�lancolie
+et une profonde tristesse. Tout ce qui pourrait justifier une fausse
+conception de ce morceau, par exemple le passage chant� en voix de t�te
+et le point d'orgue final, doit �tre chang� ou supprim�, je le demande
+avec instance.
+
+Je prie encore l'acteur charg� du r�le de Daland, de ne pas tourner ce
+r�le au comique proprement dit. C'est une exacte manifestation de
+l'existence vulgaire, c'est un marin qui brave les temp�tes et les
+dangers par amour du gain; l'on ne doit pas du tout consid�rer, par
+exemple, comme immoral--bien que cela puisse para�tre m�riter ce
+nom--l'acte par lequel il vend sa fille � un homme riche. Il pense et
+agit, comme font bien d'autres, et sans supposer � cela le moindre mal.
+
+RICHARD WAGNER.
+
+
+
+
+PERSONNAGES
+
+
+    LE HOLLANDAIS              MM.  BOUVET.
+    DALAND, marin Norv�gien         BELHOMME.
+    �RIK, chasseur                  J�ROME.
+    LE PILOTE, de Daland            CARBONNE.
+    SENTA, fille de Daland     Mlle MARCY.
+    MARIE, nourrice de Senta   Mme  CARR�-DELORN.
+
+
+L'action se passe en Norv�ge, au bord de la mer.
+
+
+
+
+LE VAISSEAU FANT�ME
+
+
+
+
+ACTE PREMIER
+
+
+Le Th��tre repr�sente un rivage bord� de rochers � pic.--La mer occupe
+une grande partie de la sc�ne.--La vue s'�tend au loin sur les
+flots.--Temps sombre.--Violent ouragan.
+
+
+SC�NE PREMI�RE
+
+LES MATELOTS NORV�GIENS, DALAND, LE PILOTE.
+
+(Le navire de Daland vient de jeter l'ancre pr�s du rivage. Les Matelots
+travaillent bruyamment � carguer les voiles, � lancer des c�bles.
+
+Daland est � terre, il gravit un rocher et regarde autour de lui pour
+reconna�tre la contr�e.)
+
+LES MATELOTS, travaillant.
+
+          Hiva! ho! hiva! ho!
+
+DALAND, descendant du rocher.
+
+        Plus de doute. En ce jour, l'orage
+      Nous a pouss�s � sept milles du port.
+        Si pr�s du but d'un long voyage,
+        Faut-il subir ce coup du sort?
+
+LE PILOTE, criant du bord � travers ses mains.
+
+    Eh! capitaine! h�!...
+
+DALAND.
+
+                          Tout va-t-il bien � bord?
+
+LE PILOTE.
+
+    Ici le fond est bon, tout va bien, capitaine.
+
+DALAND.
+
+      C'est bien Sandwik! La chose est trop certaine!
+      Malheur! J'allais revoir ce qui m'est cher
+      Senta, ma fille, et mon toit secourable,
+      Quand de ce gouffre il souffle un vent d'enfer,
+      Se fier au vent, c'est compter sur le diable!
+
+(Allant � bord.)
+
+      Mais � quoi bon?... D�j� l'air est moins lourd,
+        Pareil orage sera court.
+
+(Aux Matelots.)
+
+    Hol�! vous, c'est assez veiller, reposez-vous,
+      Je n'ai plus peur.
+
+(Les Matelots descendent dans la cale.--Au Timonier.)
+
+                        Toi, timonier, demeure.
+          Il faut veiller pour nous.
+      Tout est au mieux, mais veillons � toute heure.
+
+LE PILOTE.
+
+            Ne craignez rien,
+          Capitaine! Dormez bien.
+
+(Daland rentre dans sa cabine.)
+
+
+SC�NE II
+
+LE PILOTE.
+
+(Le Pilote est seul sur le pont. L'ouragan s'est un peu calm� et ne
+reprend plus que par intervalles. Au large les vagues s'�l�vent �normes.
+Le Pilote fait encore une fois la ronde; puis il s'assied au gouvernail.
+Bient�t il sent venir le sommeil, il se secoue et chante.)
+
+          Malgr� vents et temp�te,
+            Aupr�s des miens,
+          Ma belle, je reviens.
+          L'ouragan sur ma t�te
+            En vain gronda,
+          Ma belle, me voil�.
+        Sans un bon vent du sud, jamais
+          � toi je ne reviendrais.
+        Ah! souffle! souffle encor, bon vent,
+          Ma belle en ce jour m'attend.
+            Ah! ah! la! la! ah!
+
+(Une vague �branle le navire. Le Pilote se l�ve vivement et regarde. Il
+s'assure qu'il n'y a pas de mal, se rassied et chante tandis que le
+sommeil le gagne par degr�s.)
+
+          Des confins de la terre,
+            � toi toujours
+          J'ai pens�, mes amours!
+          En bravant le tonnerre
+            Et flots et vent
+          Je t'apporte un pr�sent.
+        Gr�ce au bon vent, je viens encor
+          Avec une cha�ne d'or!
+        Bon vent! ah! souffle sans faiblir,
+          Ce don lui fera plaisir!
+            Ah! ah! la! la! ah!
+
+(Il lutte contre la fatigue et finit par s'endormir. La temp�te
+recommence. Le temps s'assombrit. Dans le lointain se montre le vaisseau
+fant�me avec ses voiles d'un rouge de sang et ses m�ts noirs. Il
+s'approche avec rapidit� du rivage � c�t� du navire norv�gien. L'ancre
+tombe avec un bruit terrible. Le Pilote de Daland s'�veille en sursaut.
+Sans quitter sa place, il jette un coup d'oeil sur le gouvernail, et,
+assur� que tout est bien, il murmure quelques mots de sa chanson.)
+
+        Sans un bon vent du sud, jamais...
+
+(Il se rendort.)
+
+
+SC�NE III
+
+LE HOLLANDAIS, LE PILOTE, endormi.
+
+(Sans le moindre bruit l'�quipage fantastique du vaisseau fant�me cargue
+ses voiles. Le Hollandais descend � terre.)
+
+LE HOLLANDAIS.
+
+      L'heure a sonn�! Sept ans avec l'aurore
+          Sont �coul�s! Le flot
+        Lass� me rejette aussit�t.
+        Ah! superbe Oc�an, bient�t
+        Tes flots me porteront encore.
+      Ta rage expire, et ma peine est sans fin!
+          Je cherche en vain
+          Sur cette terre
+        Celle en qui j'esp�re.
+      Mer, tu seras le t�moin de mes maux
+      Jusqu'au moment o� l'ab�me en repos
+        Verra tarir enfin les flots.
+
+        Combien de fois, las de souffrir.
+        Je courus affronter l'orage!
+        H�las! la mort sembla me fuir.
+            En vain ma rage
+            � maint �cueil
+        Souvent demanda le naufrage.
+        Jamais ne s'ouvre mon cercueil!
+        Parfois j'ai brav� le pirate,
+        Dans les combats cherchant la mort.
+        �Viens! viens! que ta bravoure �clate;
+        L'argent ruisselle sur mon bord...�
+        Des mers j'ai vu l'enfant sauvage
+        En se signant au loin s'enfuir.
+        Combien de fois, voulant mourir,
+        J'ai d�fi� les vents, l'orage!
+        Dans l'esp�rance d'un cercueil,
+        Souvent j'allai chercher l'�cueil;
+        Mais ni la tombe ni la mort!
+        Tel est l'arr�t cruel du sort!
+
+      Ange du ciel, messager d'esp�rance,
+      Qui du salut m'as montr� le chemin,
+      En m'annon�ant un jour de d�livrance,
+      T'es-tu raill� de mon cruel destin?
+
+            En vain j'esp�re,
+            � voeux superflus!
+            Non! non! sur terre
+        Un coeur fid�le... il n'en est plus!
+        Un seul espoir encor me reste,
+        Et cet espoir jamais ne ment.
+        Si long que soit ce sort funeste,
+        Le monde aura sa fin pourtant!
+            � jour c�leste
+            Du jugement,
+            Quand dois-tu luire
+            Enfin pour moi?
+        Qu'il sonne, ce signal d'effroi
+        Qui doit tout perdre et tout d�truire.
+        Lorsque seront lev�s les morts,
+        Enfin la paix m'attend alors.
+        � mondes, cessez votre cours!
+        � moi, n�ant, et pour toujours!
+
+(Choeur sourd de l'�quipage du Vaisseau Fant�me.)
+
+        � nous, n�ant, et pour toujours!
+
+(Le Hollandais se couche sur un rocher � l'avant-sc�ne.)
+
+
+SC�NE IV
+
+LE HOLLANDAIS, DALAND, LE PILOTE.
+
+(Daland sort de sa cabine; il vient sur le pont et aper�oit le vaisseau
+du Hollandais.)
+
+DALAND, se tournant vers le pilote.
+
+      Eh! timonier! hol�!
+
+LE PILOTE, se levant � demi, encore sommeillant.
+
+                          C'est bien! c'est bien!
+
+(Continuant sa chanson.)
+
+    �Ah! souffle, souffle encor, bon vent...�
+
+DALAND.
+
+                                             Ne vois-tu rien?
+            Bien! l'on veille
+            � merveille!
+      Vois ce vaisseau! Depuis quand dors-tu l�?
+
+LE PILOTE.
+
+    Au diable, aussi! Pardon, capitaine.
+
+(Il prend � la h�te son porte-voix et h�le le vaisseau.)
+
+                                        Hol�!
+
+(Long silence. On entend deux fois l'�cho.)
+
+    Hol�! h�!
+
+(Long silence. Nouvel �cho.)
+
+DALAND.
+
+              Leur paresse � la n�tre est pareille!
+
+LE PILOTE.
+
+    R�pondez!--Quel pays? Quel navire?
+
+DALAND, apercevant le Hollandais � terre.
+
+                                       C'est bon!
+        L� bas je crois voir le patron.
+      Hol�! marin, dis-moi ton pays et ton nom.
+
+LE HOLLANDAIS, sans changer de place.
+
+        Je viens de loin. Pendant l'orage
+        Voudrais-tu me chasser d'ici?
+
+DALAND.
+
+            Non! Dieu, merci,
+        Des marins ce n'est pas l'usage!
+            Qui donc es-tu?
+
+LE HOLLANDAIS.
+
+        Hollandais.
+
+DALAND.
+
+                    Sois le bienvenu!
+            Du vent la violence
+        Nous a pouss�s vers ce rocher,
+      Tous deux ensemble.--� bien peu de distance
+        Est mon pays. Pr�s d'y toucher
+        Je suis jet� sur cette plage.
+      Mais, parle encore: as-tu quelque dommage?
+
+LE HOLLANDAIS.
+
+    Mon navire est solide et peut braver l'orage!
+        Jouet du vent qui se d�cha�ne,
+        J'ai sur les flots err� longtemps;
+        Depuis quand? je le sais � peine,
+        Car je ne compte plus les ans.
+        Je ne pourrais jamais te dire
+        Tous les pays o� j'ai pass�,
+        Il n'en est qu'un auquel j'aspire,
+        Et c'est le mien, qui m'est ferm�!
+      Dans ta maison consens � me conduire;
+      De ton accueil tu n'auras nul regret.
+      Les plus brillants tr�sors dans mon navire
+      Sont entass�s sans nombre, c'est peu dire;
+      Ami, crois-moi, tu seras satisfait.
+
+DALAND.
+
+      Discours �trange! Est-il pourtant sinc�re?
+
+(Au Hollandais.)
+
+      Un sort fatal t'a poursuivi longtemps?
+      Pour te servir je suis pr�t � tout faire,
+      Peut-on conna�tre, au moins, ces biens si grands?
+
+(Le Hollandais fait signe aux hommes de son �quipage. Deux d'entre eux
+apportent un coffre.)
+
+LE HOLLANDAIS.
+
+      Tu vas trouver des splendeurs infinies,
+      Perles d'Asie et riches pierreries.
+        Vois donc, de l'hospitalit�
+          La noble r�compense,
+            � ton oeil tent�
+              Briller d'avance.
+
+DALAND.
+
+        Grand Dieu! Richesses sans pareilles!
+      Qui donc pourrait payer tant de merveilles?
+
+LE HOLLANDAIS.
+
+      Payer! Le prix d�j� je te l'ai dit,
+      Tout est � toi pour l'abri d'une nuit.
+      Mais ce n'est l� que le moindre tr�sor
+      De ceux que mon vaisseau rec�le encor.
+    Qu'en puis-je faire, h�las! sans femme, sans enfant,
+        De mon pays toujours absent?
+        Tous mes tr�sors seront � toi
+        Si tu me fais une famille
+    Chez les tiens.
+
+DALAND.
+
+                   Dieu! qu'entends-je?
+
+LE HOLLANDAIS.
+
+                                        As-tu donc une fille?
+
+DALAND.
+
+      Mais oui... charmante enfant.
+
+LE HOLLANDAIS.
+
+                                    Donne-la-moi.
+
+DALAND, avec joie.
+
+      Lui! se peut-il! �pouser mon enfant!
+          Ah! sa pens�e est la mienne.
+      Ah! j'ai grand peur si j'h�site un instant
+          Qu'un autre projet survienne.
+
+LE HOLLANDAIS.
+
+      Sans une �pouse, h�las, sans un enfant,
+          Rien ne m'attache � la terre.
+      Un sort cruel me poursuit constamment
+          Tout vient combler ma mis�re.
+
+ENSEMBLE.
+
+LE HOLLANDAIS.
+
+        Chass� du lieu de ma naissance,
+        Qu'ai-je encor besoin d'un tr�sor?
+        � moi cette heureuse alliance
+        Et prends pour toi, prends tout mon or.
+
+DALAND.
+
+        Quel r�ve, � fortune subite!
+        Pourrais-je jamais trouver mieux?
+        Bien fou qui du sort ne profite!
+        Quelle ivresse, quel jour heureux!...
+
+DALAND.
+
+      Oui, je poss�de aimable jeune fille,
+      Tr�sor d'amour, fid�le et noble coeur.
+      C'est mon seul bien, l'orgueil de ma famille,
+      L'oubli des maux, le charme du bonheur.
+
+LE HOLLANDAIS.
+
+      Qu'elle ait toujours pour toi m�me tendresse,
+      Elle sera fid�le � son �poux.
+
+DALAND.
+
+            Perles, bijoux,
+          Oui, c'est l� ta richesse;
+          Mais quel tr�sor plus grand
+            Qu'un coeur constant.
+
+LE HOLLANDAIS.
+
+            Tu me le donnes?
+
+DALAND.
+
+          Vraiment oui, je le veux!
+      Ton sort m'�meut, coeur noble et g�n�reux,
+      Par ta grandeur, ta force, tu m'�tonnes.
+          Un gendre comme toi
+        F�t-il moins riche encore ma foi,
+          Par moi serait choisi.
+
+LE HOLLANDAIS.
+
+            Merci!
+        Verrai-je ta fille aujourd'hui?
+
+DALAND.
+
+      Le premier vent nous conduira pr�s d'elle,
+      Tu la verras, si tu la trouves belle...
+
+LE HOLLANDAIS.
+
+          Elle est � moi!...
+
+(� lui-m�me.)
+
+          Mon bon ange, est-ce toi?
+
+        Lorsque, bris� par la souffrance,
+        Dans mon salut encor j'ai foi
+        Du malheureux seule esp�rance.
+        Pourrai-je enfin compter sur toi?
+
+DALAND.
+
+        Ah! gloire � toi, terrible orage,
+        Qui m'as guid� dans ta fureur,
+        Je n'ai, sans chercher davantage,
+        Qu'� profiter de mon bonheur.
+        Soyez b�nis, � vents contraires,
+        Qui vers ces bords m'avez pouss�;
+        Mon voeu, ce voeu de tous les p�res,
+        �Un gendre riche!� est exauc�!
+
+LE HOLLANDAIS.
+
+        Ah! faut-il que du ciel un ange
+        Pour me sauver soit descendu!
+        Enfin de ma torture �trange,
+        Pour moi le terme est-il venu?
+
+ENSEMBLE.
+
+LE HOLLANDAIS.
+
+        Ah! quand l'espoir a fui mon coeur
+        Puis-je r�ver un sort meilleur?
+
+DALAND.
+
+        � lui, si g�n�reux, si bon,
+        � lui ma fille et ma maison!
+
+(La temp�te est compl�tement apais�e, le vent a tourn�.)
+
+LE PILOTE, � bord.
+
+        Vent du sud! Vent du sud!...
+
+LES MATELOTS, agitant leurs chapeaux.
+
+                                     H�! l�!...
+
+LE PILOTE, r�p�tant sa chanson.
+
+      Bon vent du sud, ah! souffle encore!
+
+LES MATELOTS.
+
+                                           Hiva!...
+          Hiva! ah! Hiva!...
+
+DALAND, au Hollandais.
+
+        Tu vois tout est calme � pr�sent.
+        Le vent est bon, la mer est belle
+        Allons! levons l'ancre � l'instant
+        Vers mon pays tout nous appelle.
+
+(Les Matelots l�vent l'ancre et mettent les voiles dehors.)
+
+LE HOLLANDAIS.
+
+      Pars je t'en prie, ami, ne m'attends pas:
+      Le vent est frais, mon �quipage est las.
+      Apr�s un court repos, je suis ta route.
+
+DALAND.
+
+      Mais notre vent?...
+
+LE HOLLANDAIS.
+
+                         Il va durer sans doute.
+            Ce vaisseau-l�
+          Bient�t te rejoindra!
+
+DALAND
+
+      Tu crois? Eh! bien! qu'il soit fait � ta guise.
+          Adieu! Puisses tu voir
+          Ma fille d�s ce soir!
+
+LE HOLLANDAIS.
+
+    C'est dit!
+
+DALAND, allant au bord de son navire.
+
+              H�! matelots! hol�! voici la brise.
+            Allons? allons!
+          Alerte, compagnons!
+
+LES MATELOTS, avec joie.
+
+          Malgr� vents et temp�te
+            Aupr�s des miens
+          Ma belle, je reviens.
+          L'ouragan sur ma t�te
+            En vain gronda
+          Ma belle me voil�!
+              Hurrah!...
+        Sans un bon vent du sud jamais
+          � toi je ne reviendrais!
+        Ah! souffle! souffle encor bon vent
+          Ma belle en ce jour m'attend!
+
+(Le Hollandais monte sur son navire.)
+
+FIN DU PREMIER ACTE.
+
+
+
+
+ACTE DEUXI�ME
+
+
+Une chambre spacieuse dans la maison de Daland. Aux murs sont accroch�s
+des instruments de marine, des cartes, etc.--Au fond un portrait d'homme
+au visage p�le, � la barbe brune, au v�tement noir.
+
+
+SC�NE PREMI�RE
+
+SENTA, MARIE, JEUNES FILLES.
+
+(Marie et les Jeunes Filles filent, assises autour de la chemin�e.
+Senta, au fond d'un grand fauteuil les bras crois�s, semble absorb�e
+dans la contemplation du portrait.)
+
+CHOEUR DES JEUNES FILLES.
+
+          Bon rouet, gronde et bourdonne!
+          Tourne, tourne, va ga�ment.
+          Bon rouet tourne et nous donne
+          Mille fils en bourdonnant.
+        Mon bien-aim� s'en va voguant
+        Et pense � celle qui l'attend.
+        Mon bon rouet tourne en sifflant
+        Si tu pouvais donner le vent
+          Comme il viendrait promptement.
+          File vite, � jeune fille!...
+          Bon rouet tourne et babille.
+
+MARIE
+
+                Courage!
+          Voyez comme va l'ouvrage!
+        Chacune pense au mariage.
+
+LES JEUNES FILLES.
+
+                  Marie!
+          Silence vous savez bien
+        Que la chanson n'est pas finie!
+
+MARIE.
+
+        Chantez et que le rouet crie!
+        Mais toi, Senta, tu ne dis rien?...
+
+LES JEUNES FILLES.
+
+          Bon rouet, tourne et bourdonne,
+          Tourne, tourne, va ga�ment
+          Bon rouet tourne et nous donne
+          Mille fils en bourdonnant
+        Mon bien-aim� voyage encore
+        Au sud il va gagner de l'or.
+        Mon bon rouet tourne ga�ment
+        Cet or est pour la belle enfant
+        Qui file, file vaillamment
+          File vite � jeune fille
+          Bon rouet, tourne et babille
+
+MARIE, � Senta qui reste plong�e dans sa contemplation.
+
+            M�chante enfant,
+          Si tu ne files, vraiment,
+          Tu n'auras nul pr�sent.
+
+LES JEUNES FILLES.
+
+        Elle a le temps, le fait est clair.
+        Son bien-aim� n'est pas en mer
+        C'est du gibier qu'il lui promet...
+        Ce qu'un chasseur vaut, on le sait.
+             Ah! ah! ah! ah!...
+
+(Senta semble chanter tout bas et comme pour elle un motif de la
+ballade.)
+
+MARIE.
+
+        Voyez-la! toujours m�me attrait!...
+        Veux-tu passer ta vie enti�re
+        � r�ver devant un portrait?
+
+SENTA, sans changer de place.
+
+        Pourquoi m'avoir dit sa mis�re?
+        Pourquoi m'avoir dit ce qu'il est?
+
+(Soupirant.)
+
+            L'infortun�!
+
+MARIE.
+
+            Que dieu t'assiste!...
+
+LES JEUNES FILLES, entre elles.
+
+        Eh! eh! eh! eh! comment juger?...
+        Le noir marin la fait songer.
+
+MARIE.
+
+        Toujours cet air pensif et triste!
+
+LES JEUNES FILLES.
+
+        Voyez ce que peut un portrait!
+
+MARIE.
+
+        Toujours je gronde et sans effet;
+        Viens, Senta; viens donc, s'il te pla�t.
+
+LES JEUNES FILLES.
+
+            Son coeur est sourd
+        Il est rempli d'un fol amour,
+        Cela peut mal finir vraiment!
+        �rik est vif! au sang ardent!
+        Un malheur vient si promptement.
+
+(Elles s'interrompent en riant.)
+
+        Assez!...
+
+(Entre elles.)
+
+                  Sa balle percerait
+        De son noir rival le portrait:
+      Ah! ah!...
+
+SENTA, avec vivacit�.
+
+                 Cessez! ce jeu ne peut me plaire.
+        Voulez-vous me mettre en col�re?
+
+LES JEUNES FILLES, se remettant au travail avec un empressement affect�
+et comme pour �ter � Senta le temps de les gronder.
+
+          Bon rouet tourne et bourdonne,
+          Tourne, tourne, va ga�ment.
+          Bon rouet tourne et nous donne
+          Mille fils en bourdonnant!
+
+SENTA.
+
+        Oh! quelle chanson d�plaisante
+        Qui gronde et bourdonne sans fin!
+        Si vous voulez qu'aussi je chante
+        Il faut chercher meilleur refrain!
+
+LES JEUNES FILLES.
+
+        Bien chante alors!
+
+SENTA.
+
+                           Non. Toi, Marie.
+        Dis la ballade je t'en prie.
+
+MARIE.
+
+        Moi! la chanter! oh! non! jamais!
+      Que le Vaisseau Fant�me reste en paix!
+
+SENTA, aux Jeunes Filles.
+
+        Je vais la dire, �coutez bien
+        Et que votre �me s'attendrisse
+        Sur ce cruel et long supplice!
+
+LES JEUNES FILLES.
+
+        Oui! chante donc!
+
+SENTA.
+
+                          N'en perdez rien!
+
+LES JEUNES FILLES.
+
+    Laissons l� nos rouets,
+
+MARIE, avec d�pit.
+
+                            Et moi je prends le mien.
+
+(Les jeunes filles quittent leurs rouets et se groupent autour de Senta
+plac�e dans le grand fauteuil. Marie prend son rouet et va filer pr�s de
+la chemin�e.)
+
+BALLADE.
+
+SENTA.
+
+I
+
+            Hiva! hiva!...
+        Avez-vous vu le vaisseau mort,
+          M�t noir et voile rouge?
+        Un homme p�le veille � bord
+          Sans que jamais il bouge:
+          Hui!... quel sifflement
+          Hui!... quel bruit du vent
+              Hiva!...
+          Il doit fuir sur les flots
+        Et sans fin, sans merci, sans repos!
+
+            Dans son malheur
+      L'instant peut venir de la d�livrance
+            S'il trouve un coeur
+      Qui jusqu'� la mort l'aime avec constance.
+            Pauvre marin
+          Exau�ant ma pri�re,
+            Le ciel j'esp�re
+        Te le fera trouver enfin!
+
+(Vers la fin Senta se tourne vers le portrait. Les jeunes filles
+�coutent avec int�r�t. Marie a cess� de filer.)
+
+II
+
+        Doublant un cap, il blasph�mait,
+          En vain la foudre gronde,
+        Je veux lutter quand ce serait
+          Jusqu'� la fin du monde!
+          Hui! Satan bient�t
+          Hui! l'a pris au mot!
+              Hiva!
+      Son arr�t est d'errer sur les flots
+          Sans merci, sans repos!
+
+            Dans son malheur,
+      L'instant peut venir de la d�livrance.
+            L'ange sauveur
+      En lui du salut a mis l'esp�rance.
+            Pauvre marin,
+          Exau�ant ma pri�re
+            Le ciel j'esp�re
+        Te le fera trouver enfin!
+
+LES JEUNES FILLES.
+
+            Pauvre marin,
+          Exau�ant ma pri�re
+            Le ciel j'esp�re
+        Te le fera trouver enfin.
+
+SENTA.
+
+(Apr�s que les Jeunes Filles ont r�p�t� le refrain, elle continue avec
+une �motion croissante.)
+
+III
+
+        � l'ancre il vient tous les sept ans
+          Pour chercher une belle.
+        Pas une, h�las! depuis le temps
+          Ne lui resta fid�le.
+          Hui! la voile au vent!
+          Hui! Vite en avant!
+        Hiva! Ah! faux amour! faux serment!
+        Sans merci, sans repos, en avant!
+
+LES JEUNES FILLES.
+
+            Ah! vers quel port
+      Celle que promit Dieu se trouve-t-elle?
+            Jusqu'� la mort
+      O� trouver ce coeur qui sera fid�le?
+
+SENTA, se levant saisie d'une inspiration soudaine.
+
+        C'est moi qui veux t'aimer sans cesse,
+        Dieu tout-puissant, fais qu'il paraisse,
+        Que gr�ce � moi sa peine cesse!
+
+(Les Jeunes Filles se l�vent effray�es.)
+
+MARIE et LES JEUNES FILLES.
+
+    --Qu'entends-je? Dieu!
+
+
+SC�NE II
+
+LES M�MES, �RIK.
+
+�RIK, qui du seuil a entendu Senta.
+
+                          --Senta! veux-tu donc que j'expire?...
+
+LES JEUNES FILLES.
+
+        � l'aide, �rik; ah! quel d�lire!
+
+MARIE.
+
+        De crainte � peine je respire.
+        Portrait maudit! Il s'en ira.
+        D�s que le p�re reviendra,
+
+�RIK, s�rieusement.
+
+      Le p�re vient.
+
+SENTA, qui �tait rest�e immobile et semblait ne rien entendre para�t
+s'�veiller et s'�lance avec joie.
+
+                    Mon p�re vient!
+
+�RIK.
+
+                                    D�j�
+          L'on peut voir son navire.
+
+MARIE.
+
+        On s'amuse � quelque chanson
+        Et rien n'est pr�t dans la maison!
+
+LES JEUNES FILLES.
+
+        Ils sont venus! Courons vers eux!
+
+MARIE.
+
+        Hol�! restez donc, je le veux!
+        Les marins ont fait maigre ch�re
+        � la cuisine il faut courir.
+
+LES JEUNES FILLES.
+
+        Que de questions � lui faire!
+        Je ne saurais me contenir.
+
+MARIE.
+
+        Faisons d'abord ce qu'il faut faire,
+        C'est son devoir qu'on doit remplir.
+
+LES JEUNES FILLES.
+
+        C'est bon! H�tons-nous de tout faire
+        Rien ne pourra nous retenir.
+
+(Marie pousse les Jeunes Filles devant elle et les suit.)
+
+
+SC�NE III
+
+SENTA, �RIK.
+
+Senta veut suivre les Jeunes Filles, �rik la retient.
+
+�RIK.
+
+      � reste! reste encore un seul instant!
+        D�livre moi de mon tourment,
+      Ou bien ach�ve, �te-moi l'existence?
+
+SENTA, h�sitant.
+
+    Comment! Eh quoi!
+
+�RIK.
+
+                      Senta! Que faut-il que je pense?
+      Ton p�re vient; et s'il doit repartir,
+      � son d�sir il faudra bien te rendre.
+
+SENTA.
+
+                Et quel d�sir?
+
+�RIK.
+
+          Il fera choix d'un gendre.
+        Mon coeur toujours fid�le et tendre,
+      Mon peu de bien, ma chance de chasseur,
+      � toi, r�ponds, est-ce assez pour pr�tendre,
+        Est-ce un refus qu'il faut attendre?
+        Et quand mon coeur sera meurtri,
+        Senta, qui doit parler pour lui?
+
+SENTA.
+
+      Ah! c'est assez, �rik; car, de ce pas,
+          Je vais chercher mon p�re
+      � son retour, s'il ne me voyait pas,
+          Cela pourrait d�plaire.
+
+�RIK.
+
+        Eh! quoi, tu pars!
+
+SENTA.
+
+                           Voici l'instant.
+
+�RIK.
+
+        Tu veux me fuir!
+
+SENTA.
+
+                         Mon p�re attend.
+
+�RIK.
+
+        Tu fuis l'aspect de ma blessure!
+        Tu fuis devant ma folle ardeur!
+        Entends encor, je t'en conjure,
+        Ce dernier cri de ma douleur;
+        Lorsque mon coeur sera meurtri
+        Senta, qui doit parler pour lui?...
+
+SENTA.
+
+        Quoi! sans compter sur ma tendresse
+        Ainsi tu doutes de mon coeur?
+        D'o� vient le trouble qui t'oppresse,
+        Dis-moi qui cause ta douleur?
+
+�RIK.
+
+      Ton p�re! c'est l'or seul qui le s�duit.
+      En toi, Senta, faut-il donc que j'esp�re?
+      Exau�as-tu jamais une pri�re?
+        Mon coeur g�mit et jour et nuit!
+
+SENTA.
+
+          Ton coeur...
+
+�RIK.
+
+                         Que dois-je faire?
+          Ce portrait...
+
+SENTA.
+
+                         Le portrait?
+
+�RIK.
+
+      D'un r�ve ardent quand finira l'effet.
+
+SENTA.
+
+      Puis-je emp�cher un charme qui me tente?
+
+�RIK.
+
+      Et la ballade... encor tu la chantais?
+
+SENTA.
+
+      Comme une enfant, sais-je ce que je chante?
+    R�ponds! as-tu donc peur des chansons, des portraits?
+
+�RIK.
+
+      Ton front p�lit, dis, n'ai-je rien � craindre?
+
+SENTA.
+
+      L'infortun� n'est-il donc pas � plaindre?
+
+�RIK.
+
+      Songe plut�t aux maux que je ressens!
+
+SENTA.
+
+    Ah! ne t'en vante pas! Que sont donc tes tourments?
+
+(Conduisant �rik pr�s du portrait.)
+
+      Connais-tu donc le sort de ce marin?
+        Vois comme avec un noir chagrin
+        Son oeil voil� vers moi s'abaisse.
+      Ah! de son sort l'�ternelle d�tresse
+      Me fait souffrir d'affreux tourments!
+
+�RIK.
+
+                                            Malheur!
+        Tu disais vrai, songe d'horreur!
+            Dieu te prot�ge!
+          Satan t'a prise au pi�ge.
+
+SENTA.
+
+    Mais quel effroi soudain?
+
+�RIK.
+
+                             �coute-moi, Senta!
+        Un r�ve ici t'�clairera.
+
+(Senta s'assied �puis�e dans le fauteuil. Au commencement du r�cit
+d'�rik elle semble tomber dans un sommeil magn�tique et voir � son tour
+tout ce qu'on lui raconte. �rik est debout aupr�s d'elle, appuy� sur le
+si�ge.)
+
+�RIK, d'une voix voil�e.
+
+        Sur le sommet d'un roc sauvage
+        Je contemplais le flot bruyant,
+        Et chaque vague sur la plage
+        Venait s'abattre en �cumant,
+        Quand un vaisseau fend l'onde am�re
+        �trange, bizarre, inconnu.
+        Deux hommes s'avan�aient � terre,
+        L'un d'eux, Senta, c'�tait ton p�re.
+
+SENTA, les yeux ferm�s.
+
+        Et l'autre?
+
+�RIK.
+
+                   Je l'ai reconnu!
+        Au noir habit, au front s�v�re.
+
+SENTA, de m�me.
+
+        � l'oeil chagrin!
+
+�RIK, montrant le portrait.
+
+                            C'�tait bien lui!
+
+SENTA.
+
+        Et moi?...
+
+�RIK.
+
+                  Sortant alors d'ici,
+        Tu vins pour saluer ton p�re.
+        Avec ferveur tu t'es h�t�e,
+        Vers l'�tranger lors emport�e,
+        � ses genoux tu t'es jet�e.
+
+SENTA, avec une impatience croissante.
+
+        Il prit mes mains...
+
+�RIK.
+
+                             Et sur son coeur
+        Il te pressait dans son ardeur.
+        Tu l'embrassais avec bonheur...
+
+SENTA.
+
+              Et puis?...
+
+�RIK, regardant Senta avec un �tonnement douloureux.
+
+          Sur mer tous deux enfuis!...
+
+SENTA, s'�veillant tout � coup, avec la plus vive exaltation.
+
+    Il vient � moi! Je dois le voir!
+
+�RIK.
+
+                                    L'effroi me tue!...
+
+SENTA.
+
+        Unie � lui, moi je mourrai!
+
+�RIK.
+
+        � sort trop clair! Elle est perdue!...
+            Mon r�ve est vrai!...
+
+(�rik s'enfuit rempli d'�pouvante. Senta apr�s un �lan d'enthousiasme
+retombe dans une muette contemplation et reste � la m�me place l'oeil
+fix� sur le portrait.)
+
+SENTA, d'une voix douce, mais tr�s-�mue.
+
+            Pauvre marin,
+          Qu'exau�ant ma pri�re
+            Ce coeur sinc�re
+        Le ciel te le r�serve enfin!
+
+
+SC�NE IV
+
+SENTA, DALAND, le HOLLANDAIS.
+
+La porte s'ouvre. Daland et le Hollandais entrent. Aussit�t que le
+Hollandais para�t, le regard de Senta passe du portrait sur lui. Elle
+pousse un cri de surprise et demeure immobile, comme fascin�e, sans
+quitter l'�tranger des yeux.--Le Hollandais s'avance sur le devant de la
+sc�ne. Daland s'est arr�t� � la porte et y reste comme attendant que
+Senta vienne au-devant de lui.
+
+DALAND, s'approchant lentement de Senta.
+
+        Ma fille, enfin vers toi j'arrive,
+        Quoi! pas un sourire, un baiser?
+        Quel charme �trange te captive?
+        Est-ce ainsi qu'on doit me traiter?
+
+SENTA, d�s que Daland est arriv� pr�s d'elle, elle lui prend la main.
+
+        Salut � toi!
+
+(L'attirant plus pr�s d'elle.)
+
+                    Cet �tranger,
+          P�re, qui peut-il �tre?
+
+DALAND.
+
+          Tu le voudrais conna�tre?
+    A l'�tranger enfant, ton accueil peut sourire,
+    C'est un marin qui vient demander un abri,
+    Sans femme, sans patrie, errant sur son navire,
+    Des biens les plus vant�s il revient enrichi.
+        Il veut, chass� de sa patrie,
+        Payer bien cher un toit ami.
+        Veux-tu, Senta, dis, je t'en prie,
+        Que l'�tranger habite ici?
+        Chez nous qu'il trouve un abri?
+
+(Au Hollandais.)
+
+        L'ai-je d�peinte trop charmante?
+        De tant d'attraits es-tu content?
+        Est-il besoin que je la vante?
+        De son sexe elle est l'ornement.
+
+(Le Hollandais fait un mouvement d'assentiment.)
+
+DALAND, � Senta.
+
+    � l'�tranger, enfant, ton accueil peut sourire,
+    L'espoir de ton amour l'am�ne aupr�s de nous
+    Tends-lui la main, qu'il soit, si ton coeur le d�sire,
+    Ton fianc� ce soir, et demain ton �poux.
+
+(Senta tressaille, mais reste calme. Daland prend une parure et la
+montre � sa fille).
+
+        Vois ces bijoux, cha�ne brillante;
+        Il garde encor plus beaux pr�sents.
+        N'est-il donc l� rien qui te tente?
+        Tout est � toi, si tu consens.
+
+(Senta, sans para�tre entendre, demeure les yeux fix�s sur le
+Hollandais. Celui-ci, de son c�t�, la contemple sans �couter Daland.)
+
+      Mais, pas un mot! je suis de trop pour eux.
+      Allons! laissons-les seuls, cela vaut mieux.
+
+(Il consid�re attentivement le Hollandais et sa fille.)
+
+(� Senta.)
+
+        Fais qu'il te garde sa tendresse,
+        Un tel bonheur n'est pas fr�quent.
+
+(Au Hollandais.)
+
+        Restez donc seuls, moi je vous laisse.
+        Son front est pur, son coeur constant.
+
+(Daland s'�loigne lentement en les consid�rant tous deux avec
+complaisance. Le Hollandais et Senta restent seuls. Ils demeurent
+immobiles.)
+
+
+SC�NE V
+
+SENTA, LE HOLLANDAIS.
+
+LE HOLLANDAIS.
+
+      Du temps pass�, comme un lointain mirage,
+        Son seul aspect vient m'�mouvoir.
+      Telle souvent m'apparut son image,
+        Telle � pr�sent j'ai cru la voir.
+      Combien de fois mes yeux sur une femme
+      Se sont lev�s dans un ardent d�sir!
+      Car � mon coeur Satan laissa sa flamme
+      Pour redoubler les maux qu'il doit souffrir.
+      Le sombre feu qui toujours me d�vore,
+      Du nom d'amour l'appellerai-je encore?
+      Oh! non! plut�t du salut c'est l'espoir!
+      � ce coeur pur puisse-je le devoir!
+
+SENTA.
+
+      Suis-je perdue, � pr�sent, dans un songe,
+         Mirage �trange du sommeil?
+      Jusqu'� ce jour, jouet d'un vain mensonge,
+         Est-ce l'instant de mon r�veil?
+      Lorsque je vois cette angoisse mortelle
+      O� tant de maux se lisent � la fois,
+      De la piti� la voix me trompe-t-elle?
+      Tel je le vis, et tel je le revois.
+      Ce feu br�lant dont l'ardeur me d�vore,
+      Ah! de quel nom l'appellerai-je encore?
+      La gr�ce, le salut, ton seul espoir,
+      � mon amour puisses-tu le devoir!
+
+LE HOLLANDAIS, s'approchant de Senta.
+
+        Veux-tu, docile aux voeux d'un p�re,
+        C�der au choix qu'il a su faire?
+      Veux-tu donner la main, ta vie enti�re,
+      � l'�tranger, et pour l'�ternit�?
+      Pour obtenir le repos que j'esp�re,
+      Puis-je compter sur ta fid�lit�?
+
+SENTA.
+
+      Qui que tu sois, quelque tourment barbare
+      Que le destin te condamne � subir,
+      Et quel que soit le sort qu'il me pr�pare,
+      Mon p�re parle, et je veux ob�ir.
+
+LE HOLLANDAIS.
+
+      Quoi! pour toujours tu consens � me suivre?
+      De mes tourments ainsi s'�meut ton coeur!
+
+SENTA, � elle-m�me.
+
+      De ses tourments, qu'enfin je le d�livre!
+
+LE HOLLANDAIS, qui a entendu Senta.
+
+      � doux accents, au sein de ma douleur!
+      Ange cl�ment, oui, ton amour c�leste
+        Vaincrait l'enfer et son tourment.
+      Ah! du salut si quelque espoir me reste,
+        Qu'il vienne d'elle, � Dieu puissant!
+        Si tu savais � quel supplice
+        Le sort t'expose aupr�s de moi,
+        Tu comprendrais quel sacrifice
+        Tu fais en me donnant ta foi!
+        � ce spectacle, ta jeune �me
+        Frissonnerait avec effroi,
+        Si la vertu qui fait la femme,
+        Fid�lit�! ne brille en toi.
+
+SENTA.
+
+        Je sais le devoir d'une femme,
+        Infortun�, rassure-toi!
+        Que le destin �prouve l'�me
+        Qui veut braver sa dure loi.
+        Dans la ferveur d'un coeur sans tache,
+        Ma foi se donne sans effort.
+        Oui, je saurai remplir ma t�che:
+        Fid�lit� jusqu'� la mort!
+
+LE HOLLANDAIS.
+
+        Un baume saint sur ma blessure
+        Para�t vers� par son serment.
+
+SENTA.
+
+        Quelle est la voix qui me conjure
+        De mettre fin � son tourment?
+
+LE HOLLANDAIS.
+
+      C'est mon salut, ah! tout enfin le prouve!
+        Cesse, rigueur d'un triste sort!
+
+SENTA.
+
+        Ah! comme en son pays, qu'il trouve
+        Apr�s l'orage enfin le port!
+        D'o� na�t en moi pareille audace,
+        Et dans mon sein quel feu nouveau?
+
+LE HOLLANDAIS.
+
+        L'�toile du malheur s'efface,
+        L'espoir rallume son flambeau.
+
+SENTA.
+
+        Le charme puissant qui m'enflamme,
+        C'est ton pouvoir, fid�lit�!
+
+LE HOLLANDAIS.
+
+        Vous, anges, faites qu'en son �me
+        R�gne � jamais fid�lit�!
+
+
+SC�NE VI
+
+LES M�MES, DALAND.
+
+DALAND, rentrant.
+
+      Pardon! mes gens sont l�, criant bien fort.
+              Chez nous on f�te
+            Le retour au port.
+              Et quand s'appr�te
+            Ce jour de plaisir,
+      Par votre hymen pourra-t-on l'embellir?
+
+(Au Hollandais.)
+
+    Tous deux vous avez pu vous conna�tre � loisir.
+
+(� Senta.)
+
+      Parle, Senta, dis, veux-tu consentir?
+
+SENTA, au Hollandais, avec une r�solution solennelle.
+
+        Voici ma main! � toi mon sort!
+        Fid�lit� jusqu'� la mort!
+
+LE HOLLANDAIS.
+
+        � moi son coeur jusqu'� la mort!
+        Enfin, l'enfer est le moins fort!
+
+DALAND.
+
+        Pour nous s'annonce un heureux sort!
+        Allons! Tout est en f�te au port!
+
+
+
+
+FIN DU DEUXI�ME ACTE.
+
+
+
+
+ACTE TROISI�ME
+
+Un havre bord� de rochers d'un c�t�. Sur le devant de la sc�ne, la
+maison de Daland. Au fond, le navire du Norv�gien, et celui du
+Hollandais assez rapproch�s l'un de l'autre. Nuit claire. Le navire
+norv�gien est illumin�, les matelots sont sur le pont, bruyants �clats
+de joie. L'aspect du navire Hollandais forme avec cette all�gresse un
+contraste sinistre; une nuit fantastique l'enveloppe de toutes parts. Il
+y r�gne un silence de mort.
+
+
+SC�NE PREMI�RE
+
+LES MATELOTS HOLLANDAIS.
+
+CHOEUR DE MATELOTS.
+
+          Timonier, viens � nous!
+          Le repos est si doux!
+          Hiva! matelots, carguez,
+                Et mouillez!
+            Nous ne craignons gu�re
+                Flots ni vent,
+            Sachons nous distraire
+                En chantant.
+            J'ai ma belle � terre
+                Qui m'attend,
+            Un flacon de rack
+          Et d'excellent tabac.
+                    Hiva!
+                En narguant
+                Flots et vent,
+                Amarrez
+                Et mouillez!
+
+(Ils dansent ga�ment sur le tillac en frappant du pied.)
+
+
+SC�NE II
+
+LES MATELOTS, LES JEUNES FILLES.
+
+Les jeunes filles arrivent apportant des corbeilles pleines de vivres et
+de liqueurs.
+
+LES JEUNES FILLES.
+
+        Ah! regardez! ils dansent tous,
+        Ils n'ont pas besoin de nous!
+
+(Elles s'approchent du vaisseau hollandais.)
+
+LES MATELOTS.
+
+        Les belles, o� donc allez-vous?
+
+LES JEUNES FILLES.
+
+        Quoi! ne pensez-vous donc qu'au vin?
+        Avec vous seuls loin d'�tre aimables,
+        Faisons la part pour le voisin.
+
+LES MATELOTS.
+
+        C'est vrai! donnez aux pauvres diables,
+        Ils sont mourants de soif, de faim.
+
+(Examinant le vaisseau hollandais.)
+
+            J'�coute en vain!
+    Mais nul fanal! voyez, sur leur bord nul marin!
+
+LES JEUNES FILLES, se dirigeant vers le vaisseau hollandais.
+
+        Eh! matelot! veux-tu du feu?
+        O� donc es-tu? on y voit peu!
+
+LES MATELOTS, riant.
+
+        Laissez-les donc! ils dorment tous!
+
+LES JEUNES FILLES.
+
+        Hol� marins! r�veillez-vous!
+
+(Long silence.)
+
+LES MATELOTS.
+
+        Ah! ah! je pense qu'ils sont morts!
+        Ils n'ont besoin de rien alors!
+            Allons! qu'on s'appr�te
+            Marins paresseux!
+            N'est-ce donc pas f�te
+            Aujourd'hui pour eux?
+        Ils restent tous muets encor
+        Comme un dragon gardant de l'or.
+            Hol�! h�! marin
+            Veux-tu du bon vin?
+            Quoi, rien ne te tente,
+            Tu fuis tout r�gal,
+        Pas un ne boit, pas un ne chante,
+        � bord ne brille aucun fanal.
+            N'as-tu sur la plage
+            Aucun rendez-vous?
+            Viens sur le rivage
+            Danser avec nous.
+        Ils sont tous vieux et tous perclus,
+        Leurs amoureuses ne sont plus.
+        Marins! marins! r�veillez-vous!
+        Voil� des fruits et du vin doux!
+
+(Long silence.)
+
+LES JEUNES FILLES, surprises et effray�es.
+
+        C'est bien certain! ils sont tous morts!
+        Ils n'ont besoin de rien alors!
+
+LES MATELOTS, plaisantant.
+
+      Sachez-le bien, ce vaisseau qu'on nomma
+        �_Le vaisseau Fant�me_� il est l�!
+
+LES JEUNES FILLES.
+
+        Ah! n'�veillez pas l'�quipage!
+            Ce sont, je gage,
+              Des esprits!
+
+LES MATELOTS.
+
+            Combien sur vos t�tes
+            De si�cles enfuis?
+            Des vents, des temp�tes
+            Vous narguez les bruits!
+
+LES JEUNES FILLES.
+
+        Ils n'ont besoin d'aucun r�gal
+        � bord ne brille aucun fanal.
+
+LES MATELOTS.
+
+            N'est-il pas de lettre
+            Que, depuis le temps,
+            Il faudrait remettre
+            � vos grands parents?
+
+LES JEUNES FILLES.
+
+        Ils sont tous vieux et tous perclus,
+        Leurs amoureuses ne sont plus.
+
+LES MATELOTS.
+
+            H�! montrez-nous comme,
+            Les voiles au vent,
+            Le Vaisseau Fant�me
+            S'enfuit promptement!
+
+LES JEUNES FILLES, s'�loignant avec effroi du navire hollandais.
+
+        Pas un n'entend! Ah! quel frisson!
+        Les appeler... Mais � quoi bon?
+
+LES MATELOTS.
+
+        Allons! laissez les morts en paix.
+        Gardez pour nous ces gais appr�ts.
+
+LES JEUNES FILLES, tendant leurs corbeilles par-dessus le bord.
+
+        Prenez sans g�ne, l'autre dort.
+
+LES MATELOTS.
+
+        Quoi! ne venez-vous pas � bord?
+
+LES JEUNES FILLES.
+
+        Il n'est pas temps, non, pas si vite.
+        C'est pour plus tard; buvez � flots,
+        Et, s'il vous pla�t, dansez ensuite,
+        Mais ne troublez pas leur repos.
+        Laissez le voisin en repos!
+
+(Elles s'en vont.)
+
+
+SC�NE III
+
+LES MATELOTS, LE TIMONIER.
+
+LES MATELOTS, vidant les corbeilles.
+
+          Hurrah! la bonne aubaine!
+          Ah! cher voisin, merci!
+
+LE TIMONIER.
+
+        Buvons, amis, � tasse pleine.
+        Merci, voisin! Buvons � lui!
+        Voisin, s'il te reste la voix,
+        �veille-toi! viens, chante et bois!
+
+(� partir de ce moment, le mouvement commence sur le vaisseau
+hollandais.)
+
+LES MATELOTS NORV�GIENS.
+
+        �veille toi! viens! chante et bois!
+                Hurrah!
+
+(Ils boivent et choquent fortement leurs gobelets.)
+
+          Timonier, viens � nous
+          Le repos est si doux!
+                Hiva!
+            Matelots, carguez,
+              Et mouillez!
+            De la mer profonde
+              Plus d'un grain
+            Nous fit go�ter l'onde,
+              C'est malsain.
+            Chantons � la ronde,
+              Verre en main.
+            Plus chaude liqueur
+          Va nous donner du coeur
+                Hiva!
+              En narguant
+              Flots et vent,
+              Amarrez
+              Et carguez.
+          Timonier viens � nous
+          Le repos est si doux,
+                Hiva!
+          Timonier, bois, avec nous,
+              En narguant
+              Flots et vent!
+
+
+SC�NE IV
+
+LES MARINS NORV�GIENS, LES MARINS HOLLANDAIS.
+
+L'�quipage du Vaisseau fant�me para�t sur le pont du navire. La mer, qui
+reste calme partout ailleurs, s'agite soudainement autour du Vaisseau
+fant�me. Une lueur bleu�tre et sinistre flamboie sur le navire comme un
+fanal de garde. Un vent de temp�te se met � siffler dans les cordages.
+L'�quipage qui, auparavant, n'avait pas donn� signe de vie, commence �
+s'animer et ex�cute avec rapidit� les diverses manoeuvres.
+
+LES MARINS DU VAISSEAU FANT�ME.
+
+    Ah! Hiva! Hui! Hiva! L'ouragan pousse au port!
+          Voile au vent, ancre � bord!
+              Et dans l'anse
+              On s'�lance!
+          Noir marin, allons, descends!
+          D�j� sont pass�s sept ans,
+          Fais la cour � blonde enfant.
+          Blonde enfant tiens ton serment!
+              Quelle f�te!
+          � fianc�s, la temp�te
+              Et le vent
+          Des noces c'est le chant!
+        Capitaine, es-tu de retour?
+          Voile au vent! mais ta belle
+            O� donc est-elle?
+    Vite en mer! Tu n'as pas de bonheur en amour!
+
+              Hiva! ah!
+          Que mugissent vents et flots!
+          Pour nos voiles nul repos!
+          Satan m�me les tissa,
+          Nul orage n'y mordra!
+            Ah! Hiva! ah!
+            Rien n'y fera!
+
+Les matelots norv�giens observent d'abord avec surprise, ensuite avec
+�pouvante ce qui se passe � bord du Vaisseau fant�me.
+
+Pendant le chant des Hollandais leur navire est ballotte par les flots.
+Un vent horrible se fait sentir � travers les cordages et les voiles qui
+s'agitent avec un bruit lugubre et mena�ant.
+
+Par un contraste surnaturel le calme le plus parfait r�gne dans l'air et
+sur la mer, partout, except� autour du Vaisseau fant�me.
+
+LES MATELOTS NORV�GIENS.
+
+              Ah! quels cris
+              Des esprits!
+              Je fr�mis!
+          R�p�tons hardiment
+              Notre chant!
+          Timonier, viens � nous
+          Le repos est si doux
+              R�p�tons
+              Nos chansons!
+
+LES HOLLANDAIS.
+
+              Hiva! ah!
+          Que mugissent vents et flots,
+          Pour nos voiles nul repos!
+          Satan m�me les tissa,
+          Nul orage n'y mordra.
+            Non! rien n'y fera,
+              Ah! Hiva!
+
+Le chant des Hollandais est devenu de plus en plus sauvage, les
+Norv�giens cherchent vainement � le dominer par leur chanson. Le tumulte
+de la mer et le mugissement d'une temp�te surnaturelle les r�duisent an
+silence. Au comble de l'�pouvante ils s'enfuient en abandonnant le pont
+de leur navire. Les Hollandais qui les voient fuir, poussent un cri
+strident de moquerie. Tout � coup un silence profond r�gne de nouveau
+sur le Vaisseau fant�me, la mer et la temp�te se calment �galement.
+
+
+SC�NE V
+
+SENTA, �RIK.
+
+Senta sort tout �mue de la maison. �rik la suit dans une vive agitation.
+
+�RIK.
+
+            Que viens-je d'entendre!
+            � fatalit�!
+        Est-ce mensonge ou v�rit�?...
+
+SENTA, se d�tournant avec une �motion douloureuse
+
+      Ah! laisse-moi! je n'ai rien � t'apprendre.
+
+�RIK.
+
+      � juste Dieu! nul doute... plus d'erreur!
+      Par quel pouvoir fatal fus-tu s�duite
+      Et quel attrait t'a fait c�der si vite?
+      C'est en riant que tu brisas mon coeur.
+      Ton p�re, lui, guida le fianc�!
+      Je le connais!... J'avais tout annonc�!...
+            Mais toi, quand j'y pense,
+        � peine est-il venu, soudain,
+        � l'�tranger donner ta main...
+
+SENTA, en proie � une lutte int�rieure.
+
+              Silence!...
+            Ah! je le dois!...
+
+�RIK.
+
+            Aveugle ob�issance
+            Et plus aveugle choix!
+      Sans h�siter je te vis te soumettre,
+      Du m�me coup tu m'�tes tout espoir!...
+
+SENTA.
+
+      Assez! va-t'en! il ne faut plus nous voir,
+            Ni nous conna�tre.
+            C'est l� mon devoir!
+
+�RIK.
+
+      Et quel devoir? Eh quoi! ta foi chancelle!...
+      Tu m'as promis nagu�re amour fid�le!...
+
+SENTA, avec vivacit�.
+
+      Quoi! ce serment aurait pu nous lier?
+
+�RIK, avec douleur.
+
+      Parle! Senta! Dis! peux-tu le nier?
+
+      Te souvient-il du jour o� dans la plaine
+      Aupr�s de toi tu m'appelais alors,
+      Ou sur un pic cherchant la fleur lointaine,
+      Je la cueillais au prix de mille efforts.
+      Songe � ce jour ou de ce roc qui penche
+      Nous avons vu ton p�re fuir le port?
+      Nous regardions au loin sa voile blanche,
+      Et c'est � moi qu'il confia ton sort.
+
+      Sur mon �paule alors jetant ton bras,
+      De tes serments ne te souviens-tu pas?
+      Ta main tremblait dans la mienne, et ce jour
+      Me pr�sageait le plus fid�le amour!
+
+
+SC�NE VI
+
+LES M�MES, LE HOLLANDAIS.
+
+(Le Hollandais, qui depuis un moment �coutait, accourt dans une violente
+agitation.)
+
+LE HOLLANDAIS.
+
+          C'en est fait! � mis�re!...
+    Ah! tout salut me fuit!...
+
+�RIK, reculant �pouvant�.
+
+                             Que vois-je! Dieu!...
+
+LE HOLLANDAIS.
+
+          Senta, je pars! adieu!...
+
+SENTA, se jetant devant le Hollandais.
+
+    Arr�te, malheureux!
+
+�RIK.
+
+                        Senta! que veux-tu faire?...
+
+LE HOLLANDAIS.
+
+      En mer! En mer! et pour l'�ternit�...
+
+(� Senta.)
+
+      Oui, c'en est fait de ta fid�lit�...
+          L'espoir du salut m'est �t�.
+      Adieu! Je veux au p�ril te soustraire.
+
+�RIK.
+
+          Son aspect fait fr�mir!...
+
+SENTA, au Hollandais, le retenant.
+
+      Attends! d'ici tu ne dois plus partir!...
+
+LE HOLLANDAIS, donnant le signal � son �quipage.
+
+              Voile au vent!
+              En avant!
+      Et pour jamais renoncez � la terre!
+
+SENTA, au Hollandais.
+
+        Peux-tu douter d'un coeur sinc�re?
+        Tu dois encor compter sur moi!
+        Attends! en notre hymen esp�re,
+        Car je saurai garder ma foi!
+
+LE HOLLANDAIS.
+
+        La mer encor, la mer m'appelle,
+        Doutant de toi, doutant de Dieu!...
+        Jamais, jamais d'amour fid�le
+        Et tes serments ne sont qu'un jeu!...
+
+�RIK.
+
+        Qu'entends-je, � ciel! Terreur soudaine
+        Qu'entends-je et qu'est-ce que je vois!
+        Senta, ta perte est trop certaine...
+        Reviens! Satan est avec toi!
+
+LE HOLLANDAIS, � Senta.
+
+    Apprends de quel destin je veux te garantir:
+      Victime, h�las! d'un sort inexorable,
+      La froide mort voil� mon seul d�sir.
+      Seule, de me sauver une femme est capable,
+      Un coeur, qui soit jusqu'au tr�pas constant.
+          D�j� j'ai re�u ton serment,
+    Mais tu n'as rien promis encore au tout-puissant!
+      Apprends quel est l'horrible ch�timent
+      Que le destin r�serve � l'infid�le:
+          Damnation �ternelle!
+      Plus d'une a d� subir cette inflexible loi
+          Mais je veux l'�carter de toi!
+    Adieu! Je pars et pour l'�ternit�!
+
+(Il remonte.)
+
+�RIK, criant et courant avec agitation de la maison au vaisseau. �
+Senta.
+
+                                       Suis-moi!
+        � l'aide! Dieu! piti� pour elle.
+
+SENTA, arr�tant le Hollandais.
+
+      Je te connais, je connaissais ton sort
+      Je savais tout quand je t'ai vu d'abord
+        De tes tourments voici la fin!
+      Oui, ma fid�lit� rend ton salut certain.
+
+�RIK.
+
+          � l'aide! elle est perdue!
+
+
+SC�NE VII
+
+LES M�MES, DALAND, MARIE, LES JEUNES FILLES, LES MATELOTS.
+
+(Aux cris d'�rik sont accourus Daland, Marie et les Jeunes Filles, les
+matelots sont descendus du navire.)
+
+DALAND.
+
+       Ah! Dieu!...
+
+TOUS.
+
+                    Dieu! qu'ai-je vu!
+
+LE HOLLANDAIS, � Senta.
+
+      Tu ne sais rien! mon sort t'est inconnu!
+
+(Il montre son vaisseau, dont les voiles rouges sont d�ploy�es et dont
+l'�quipage est en train d'appareiller avec une agitation effroyable.)
+
+        Demande aux flots, d'un p�le � l'autre,
+      Au matelot vieilli qui partout navigua,
+      Ils te diront quel navire est le n�tre
+      Car le Vaisseau Fant�me, le voil�!
+
+LES MATELOTS HOLLANDAIS.
+
+          Hoh�! H�! Hiva! Hiva!...
+
+(Le Hollandais, avec la rapidit� de l'�clair, monte sur son vaisseau qui
+s'�loigne � l'instant au bruit des cris de l'�quipage; Senta veut suivre
+le Hollandais, Daland, �rik et Marie la retiennent.)
+
+DALAND, �RIK,
+
+          Senta! reviens � toi!...
+
+(Senta s'est d�gag�e par un violent effort, elle atteint une pointe de
+roches qui s'avance dans la mer, de l� elle crie au Hollandais qui
+s'�loigne.)
+
+SENTA.
+
+        Gloire � ton ange! Gloire � sa loi!
+        Jusqu'� la mort je suis � toi!...
+
+(Elle se jette dans la mer. Au m�me moment le navire du Hollandais
+s'ab�me avec son �quipage au milieu des flots. Au fond on voit s'�lever
+au-dessus de la mer le Hollandais et Senta transfigur�s. Il la tient
+embrass�e.)
+
+
+
+
+FIN
+
+
+�MILE COLIN--IMPRIMERIE DE LAGNY
+
+
+
+
+
+End of the Project Gutenberg EBook of Le vaisseau fant�me, by Richard Wagner
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LE VAISSEAU FANT�ME ***
+
+***** This file should be named 26943-8.txt or 26943-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/6/9/4/26943/
+
+Produced by Laurent Vogel and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,3 +1,6577 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84350160e19f0fe350597822b0cad3baa01e65f263061e06428d19fa8261c572
-size 196502
+ï»¿The Project Gutenberg eBook of Recueil de chansons en patois de la Bresse, by P. C. de la GeliÃ¨re
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Recueil de chansons en patois de la Bresse
+
+Author: P. C. de la GeliÃ¨re
+
+Release Date: January 9, 2015 [eBook #47919]
+[Most recently updated: October 29, 2021]
+
+Language: French
+
+Character set encoding: UTF-8
+
+Produced by: Claudine Corbasson and Hans Pieterse
+
+*** START OF THE PROJECT GUTENBERG EBOOK RECUEIL DE CHANSONS EN PATOIS ***
+
+
+
+
+    Au lecteur.
+
+    Ce livre Ã©lectronique reproduit intÃ©gralement le texte original,
+    et l'orthographe d'origine a Ã©tÃ© en gÃ©nÃ©ral conservÃ©e. Cependant
+    dans le texte franÃ§ais, les erreurs clairement introduites par le
+    typographe ont Ã©tÃ© tacitement corrigÃ©es. Dans le texte bressan,
+    quelques erreurs typographiques probables ont Ã©tÃ© corrigÃ©es.
+    La liste de ces modifications se trouve Ã  la fin du texte.
+    Ãgalement, la ponctuation a Ã©tÃ© alignÃ©e Ã  diffÃ©rents endroits.
+
+
+
+
+  RECUEIL
+  DE
+  CHANSONS
+  EN
+  PATOIS DE LA BRESSE
+
+  PAR
+  P. C. de la GeliÃ¨re
+
+  _Viriat 1898_
+
+  PREMIÃRE PARTIE
+
+
+  IMPRIMERIE LOUIS CHADUC
+  CHATILLON-SUR-CHALARONNE & BELLEY
+  1899
+
+
+
+
+ERRATA
+
+
+Le tirage de la premiÃ¨re partie de ce recueil ayant eu lieu, en ce qui
+concerne le chant, par suite de malentendus, sans que les Ã©preuves
+aient Ã©tÃ© prÃ©alablement corrigÃ©es par l'auteur, je me trouve dans la
+regrettable nÃ©cessitÃ© d'ajouter cette feuille d'errata.
+
+Je fais appel Ã  l'extrÃªme indulgence et bonne volontÃ© des personnes
+qui dÃ©sireront apprendre les chansons en les priant de vouloir bien,
+auparavant, faire Ã  la main les corrections principales indiquÃ©es ci
+aprÃ¨s:
+
+  PAGES PORTÃES MESURES NOTES   A LA PLACE DE   METTRE
+
+   6      1     4       5       noire            croche
+   6      2     2 et 3          _Ã  diviser par une barre de mesure_
+   6      3     2       1       noire            noire pointÃ©e
+   6      3     5       3       noire            croche
+   6      4     2       1       croche           noire
+   6      4     2       4       rÃ©               si
+   8      1     5       1       noire            noire pointÃ©e
+   8      2     1 et 2          _Ã  diviser par une barre de mesure_
+   8      2     4       1       noire            noire pointÃ©e
+   8      2     5       1       noire            noire pointÃ©e
+   8      3     3       1 et 2  noire et croche  noire pointÃ©e et noire
+  14      2     4       1       croche           noire
+  14      2     5       1       noire pointÃ©e    noire point. et croche
+                                                 liÃ©es
+  14      3     2       1       noire pointÃ©e    noire point. et croche
+                                                 liÃ©es
+  14      3     3       1       double croche    noire
+  14      3     4       2       croche           noire
+  14      3     5       1       croche           noire
+  17      1     2       1       noire            noire pointÃ©e
+  17      1     4       2       noire            croche
+  17      2     3       2       noire            croche
+  17      3     3       1       noire pointÃ©e    noire
+  21      1     2       1       noire            noire pointÃ©e
+  22      2     3               soupir           demi-soupir
+  22      4     2       3       croche           double croche
+  22      4     3       4       double croche    croche
+  22      4     4       1       si               sol
+  22      4     4       3       double croche    croche
+  22      6     3       5       croche           double croche
+  23      1     2       2       do               si
+  24      1     3       1       noire            noire et demi-soupir
+  24      3     3       2 et 3  do rÃ©            la si
+  24      3     3       4       croche           noire pointÃ©e
+  25      1     2 et 3  3       croche           noire
+  25      2     3 et 4  3       croche           noire
+  25      4     2       4       fa               rÃ©
+  26      1     1       1 et 5  noires           croches
+  27      2     3       1       croche           noire pointÃ©e
+  28      1     2       1       double croche    croche
+  28      1     2 et 3          _Ã  diviser par une barre de mesure_
+  29      1     1       1       noire pointÃ©e    noire
+  29      2     4       4 et 5  noires           croches
+  29      2     6       2       la               do
+  43      1     3       1 et 3  noire            noire pointÃ©e et croche
+  50      1     6       1       noire            croche
+
+  M. DE LA GIRODIÃRE
+
+
+
+
+AVANT-PROPOS
+
+
+Cet ouvrage qui s'adresse particuliÃ¨rement aux enfants de la Bresse,
+mes compatriotes, a pour but de faire revivre les vieilles coutumes
+locales et de perpÃ©tuer le souvenir de nos pÃ¨res.
+
+C'est un recueil de chansons patoises sur les sujets, les mÅurs et les
+usages les plus caractÃ©ristiques de la Bresse. Quelques-unes m'ont Ã©tÃ©
+inspirÃ©es par mes relations frÃ©quentes avec les rares familles qui ont
+su conserver Ã  peu prÃ¨s intactes les vieilles traditions de nos aÃ¯eux,
+tandis que d'autres font dÃ©jÃ  partie du rÃ©pertoire populaire. Seulement
+ces derniÃ¨res ont subi de telles altÃ©rations, en passant par les Ã¢ges,
+que, Ã©crites comme elles se chantent actuellement, leurs auteurs ne les
+reconnaÃ®traient peut-Ãªtre plus. C'est pourquoi j'ai voulu essayer de
+les reconstituer pour les rendre plus comprÃ©hensibles.
+
+Elles sont Ã©crites en patois avec la traduction franÃ§aise en regard:
+traduction littÃ©rale qui demande bien souvent l'emploi de mots vicieux
+et d'expressions triviales. De plus j'ai dÃ» nÃ©gliger complÃ©tement
+l'orthographe pour m'attacher spÃ©cialement Ã  rendre la prononciation
+plus facile, aussi, malgrÃ© la diffÃ©rence de consonnance qui existe
+entre les divers parlÃ©s de la Bresse, de commune Ã  commune, voire mÃªme
+d'un hameau Ã  l'autre, j'espÃ¨re Ãªtre lu et compris par la majeure
+partie des Bressans.
+
+Il y a deux sons cependant qui rendent l'Ã©criture du patois fort
+difficile parce qu'ils n'existent pas dans la langue franÃ§aiseâPour
+faciliter la lecture j'ai toujours reprÃ©sentÃ© par Â«shÂ» celui que l'ont
+produit en appuyant la langue contre les dents supÃ©rieures et en
+sifflant comme pour prononcer s., et par Â«zhÂ» celui que l'on produit en
+appuyant la langue de la mÃªme faÃ§on et en sifflant comme pour prononcer
+z.
+
+La partie de chant est l'Åuvre d'un ami, pur Bressan aussi, M. de la
+GirodiÃ¨re, qui a bien voulu, sur ma demande se charger de noter ces
+chansons telles qu'elles se chantent dans nos campagnes, sans-souci des
+rÃ¨gles musicales.
+
+  P. C. DE LA GELIÃRE.
+
+
+
+
+LA BRACHE
+
+LA BRESSE
+
+_Air de Â«BÃ©ranger Ã  l'AcadÃ©mieÂ»_
+
+
+  1
+
+  QuÃ© l'Ã©trÃ¨zhi que travache la Fronche
+  Treuve on pays fenamÃ¨ cultivau;
+  QuÃ© y va de recoulte Ã© n'abondanche
+  DÃ© tui leu shamp, dÃ© le tarre, dÃ© leu prau;
+  QuÃ© y va de bÃ©te de toutes raches
+  AllÃ©, veniÃ¨ de la buzhe u pauqui,
+  I da che dezhe: SÃ© vramÃ¨ tiÃ« la Brache
+  Oh quÃ© pays! Oh quÃ© fameux pays.      _bis_
+
+              1
+
+              Quand l'Ã©tranger qui traverse la France
+              Trouve un pays, finement cultivÃ©;
+              Quand il voit des rÃ©coltes en abondance
+              Dans tous les champs, dans les terres, dans les prÃ©s
+              Quand il voit des bÃªtes de toutes races
+              Aller, venir, de l'Ã©table au pÃ¢turage
+              Il doit se dire: si c'est vraiment lÃ  la Bresse
+              Oh quel pays! Oh quel fameux pays.           _bis_
+
+  2
+
+  PÃ¨dÃ¨ que leu cavÃ«s n'ont que jo cauve,
+  Pe tout Ã©treteni dÃ¨ la majon
+  Leu Brachon ont, sÃ¨ parlau de le rauve,
+  A ramachau touta la grÃ¨ sajon,
+  U renouvÃ©, Ã© leur sho, le navete.
+  QuÃ© vin juillet y machounon leu blau,
+  VÃ© la TeussÃ¨ y font d'autre rÃ©colte:
+  Leu Brachon machounon touta l'Ã¨nau.   _bis_
+
+              2
+
+              Pendant que les cavets n'ont que leurs caves
+              Pour tout entretenir dans la maison
+              Les Bressans ont, sans parler des raves
+              A ramasser toute la grande saison
+              Au renouveau, c'est le chou, la navette
+              Quand vient juillet, ils ramassent les blÃ©s
+              Vers la Toussaint, ils font d'autres rÃ©coltes
+              Les Bressans moissonnent toute l'annÃ©e.      _bis_
+
+  3
+
+  Bon travaillon, intriguÃ¨, Ã©conome,
+  Lou Brachon cha treye parti de tout,
+  QuemÃ¨ pre lui jamais l'euvra ne chaume,
+  L'arzhÃ¨ vÃ© lui abonde azhi touzhou;
+  Quasi pretou l'entretien du moin-nazhou
+  Che treuve su la vÃªta dÃ© shapon,
+  Le bÃ©te font pe la sÃ¨cha leu gazhou,
+  Pi lou greni pe couliau lou bouchon.  _bis_
+
+              3
+
+              Bon travailleur, intrigant, Ã©conome
+              Le Bressan sait tirer parti de tout
+              Comme pour lui jamais le travail ne chÃ´me
+              L'argent chez lui abonde aussi toujours
+              Presque partout l'entretien du mÃ©nage
+              Se trouve sur la vente des chapons
+              Les bÃªtes font pour la ferme, les gages
+              Puis le grenier pour gonfler le bourson.     _bis_
+
+  4
+
+  Pe leu Brachon que, chon loin de le vele
+  N'a-t-eu pau toute seurte d'agrÃ©mÃ¨?
+  L'ont pe s'y raidre de bene vatezhe,
+  Pi de shevaux que vont quemÃ¨ lou vÃ¨,
+  Tui leu grÃ¨ zhou neutre brauve Brachonde
+  Peurton jo shapÃ¨ brachon garni d'eu,
+  RÃ¨ quÃ¨ vayÃ¨ che le figuzhe fronshe
+  CÃ¨ vous revellie l'ama dÃ¨ lou cÅu.   _bis_
+
+              4
+
+              Pour les Bressans qui sont loin des villes
+              N'y a-t-il pas toutes sortes d'agrÃ©ments?
+              Ils ont pour s'y rendre de bonnes voitures
+              Puis des chevaux qui vont comme le vent
+              Tous les grands jours nos jolies Bressannes
+              Portent leurs chapeaux bressans garnis d'or
+              Rien qu'en voyant ces figures franches
+              Cela vous rÃ©veille l'Ã¢me dans le cÅur.      _bis_
+
+  5
+
+  Pe complÃ©tau cho tablau de la Brache
+  De davou dezhe que tout vra Brachon,
+  DÃ© vio Gaulois, l'homeu de neutra rache,
+  Cha coucharvau le meliou tradition;
+  Tout u deva, jamais y ne parjuzhe,
+  La foi, l'honeu se leÃ¯on su chon fron,
+  Pichque vÃ© nou jamais nion ne recule
+  Amis shÃ©tin don: Vive leu Brachon.    _bis_
+
+              5
+
+              Pour complÃ©ter ce tableau de la Bresse
+              Je dois vous dire que tout vrai Bressan
+              Des vieux Gaulois, l'honneur de notre race
+              Sait conserver les meilleures traditions
+              Tout au devoir jamais il ne parjure
+              La foi, l'honneur se lisent sur son front
+              Puisque chez nous jamais personne ne recule
+              Amis chantons donc: Â«Vivent les Bressans.Â»   _bis_
+
+
+
+
+LA LIAUDIN-NA ANCIENNE
+
+LA CLAUDINE
+
+
+  1
+
+  QuÃ¨ d'ezha amau de ma Liaudinna,
+  RÃ¨ ne mÃ¨quove a meu dÃ©si,
+  Che pinne fajon bin me pinne,
+  Seu plasi Ã©zhon meu plasi,
+  Nou nou dijin dechou lou chozhou
+  Que nou nou j'amezhin touzhou.
+  Vouzhe le me lache pe notrou,
+  Alle eubleÃ¯e neutreu j'amou.
+
+              1
+
+              Quand j'Ã©tais aimÃ© de ma Claudine,
+              Rien ne manquait Ã  mes dÃ©sirs,
+              Ses peines faisaient bien mes peines,
+              Ses plaisirs Ã©taient mes plaisirs,
+              Nous nous disions dessous le saule,
+              Que nous nous aimerions toujours.
+              Maintenant elle me laisse pour un autre.
+              Elle oublie nos amours.
+
+  2
+
+  Tui leu matin dÃ¨ la preleia
+  Nou menovin neutreu moton,
+  Me chetova prÃ¨ de ma meÃ¯a,
+  Nou quemÃ¨chovin na shÃ¨chon,
+  Pi aprÃ¨ cÃ¨tiÃ« nou dÃ¨chovon
+  E nou teniÃ¨ tui deu la mon,
+  De plasi leu moton chotauvon
+  MÃ¨ le ne vin pau mÃ© Ã¨ shon.
+
+              2
+
+              Tous les matins dans la prairie
+              Nous menions nos moutons
+              Je m'asseyais prÃ¨s de ma mie
+              Nous commencions une chanson,
+              Puis aprÃ¨s cela nous dansions
+              En nous tenant tous deux la main
+              De plaisir les moutons sautaient
+              Mais elle ne vient plus au champ.
+
+  3
+
+  La lou piÃ« megnon, la mon blanshe,
+  Lou pa touzhou biÃ¨ trenatau,
+  Le drate, prema su le j'ansche,
+  Pi ma fa brovamÃ¨ meudau
+  La leu zu nea tout quemÃ¨ d'Ã¨crou,
+  Le dÃ¨ blanshe quemÃ¨ on papi,
+  Le rouzhaye quemÃ¨ on combrou
+  MÃ¨ pe notrou l'brauva auzhourdi.
+
+              3
+
+              Elle a le pied mignon, la main blanche
+              Les cheveux toujours bien tressÃ©s
+              Elle est droite, fine sur la hanche
+              Et ma foi, joliment modÃ©e
+              Elle a les yeux noirs comme de l'encre
+              Les dents blanches comme un papier
+              Elle est rouge comme un cambre
+              Mais pour un autre elle est belle aujourd'hui.
+
+  4
+
+  La mÃª d'esprit que lou ra mÃ©mou
+  Tout le mondou Ã¨ne-t-Ã©bahi,
+  Le vou parle avoua tÃ¨ d'Ã©mou,
+  LÃ¨ fa vreÃ¯e la tÃ©ta Ã  tui,
+  Le rÃ¨velia quemÃ¨ na rata,
+  Le shÃ¨te quemÃ¨ on reucenieu,
+  MÃ¨ le me mÃ©prije la shata
+  De notrou le fa lou beneu.
+
+              4
+
+              Elle a plus d'esprit que le roi mÃªme
+              Tout le monde en est Ã©bahi
+              Elle vous parle avec tant d'Ã¢me
+              Qu'elle en fait tourner la tÃªte Ã  tous
+              Elle est rÃ©veillÃ©e comme une rate
+              Elle chante comme un rossignol
+              Mais elle me mÃ©prise la chatte
+              D'un autre elle fait le bonheur.
+
+  5
+
+  Tui leu cha chou lou mÃ©mou chozhou
+  U nou j'in tÃ¨ dÃ¨cha tui deu,
+  Te vindrÃ¨ choule peuvrou Liaudou
+  Te vindrÃ¨ bÃ©lau ton malheu;
+  Tou lou mondou chazha ta pin-na
+  Te shÃ©tezhÃ© cÃ¨ tin qu'u zhou
+  Pau mÃ© ne m'ame ma Liaudinna
+  MÃ© ma de l'amezhe touzhou.
+
+              5
+
+              Tous les soirs sous le mÃªme saule
+              OÃ¹ nous avons tant dansÃ© tous deux
+              Tu viendras seul pauvre Claude
+              Tu viendras bÃªler ton malheur
+              Tout le monde saura ta peine
+              Tu chanteras cela jusqu'au jour
+              Plus elle ne m'aime ma Claudine
+              Mais moi je l'aimerai toujours.
+
+
+
+
+LA LIAUDIN-NA NOUVELLE
+
+LA CLAUDINE
+
+(_Sur le mÃªme air_)
+
+
+  1
+
+  D'amou ma petita Liaudin-na
+  Che dÃ¨gredia, che rÃ¨velia,
+  Qu'Ã¨ n'a pau dÃ¨ touta la plin-na
+  Na fellie ple brauva que lia;
+  L'a lou pa na, la bena mena,
+  De trai que seureÃ¯on touzhou,
+  AvouÃ© cÃ¨ l'a la taille fena
+  Pi de zu brajaye d'amou.
+
+              1
+
+              J'aime une petite Claudine
+              Si dÃ©gourdie, si rÃ©veillÃ©e
+              Qu'il n'y a pas dans toute la plaine
+              Une fille plus jolie qu'elle
+              Elle a les cheveux noirs elle a bonne mine
+              Des traits qui sourient toujours
+              Avec Ã§a elle a la taille fine
+              Et les yeux Â«braisayantÂ» d'amour.
+
+  2
+
+  Le bin che viva che frequÃ©ta
+  Le ch'abeliÃ« avoua tÃ¨ de goÃ»,
+  Que le mÃ¨ fa vreiÃ« la tÃ©ta
+  Ne pÃ¨chou qu'Ã  lia tou lou zhou;
+  Pi quemÃ¨ la nai dÃ¨ meu chonzhou
+  Me crayou touzhou prÃ© de lia,
+  De dremou contÃ¨ quemÃ¨ n'onzhou
+  QuÃ¨ bin si choule dÃ¨ mon lia.
+
+              2
+
+              Elle est bien si vive si friquette
+              Elle s'habille avec tant de goÃ»t
+              Qu'elle m'en fait tourner la tÃªte
+              Je ne pense qu'Ã  elle tout le jour
+              Puis comme la nuit dans mes songes
+              Je me crois toujours prÃ¨s d'elle
+              Je dors content comme un ange
+              Quand mÃªme je suis seul dans mon lit.
+
+  3
+
+  MÃ© lou matin quÃ¨ me rÃ©veliou
+  S'Ã¨ von meu rÃ©vou de beneu,
+  Pichqu'Ã©zhou me livou, m'hadeliou
+  MÃ© l'Ã¨nui me crive lou cÅu.
+  QuemÃ¨ n'ai rÃ¨ pe me distraizhe
+  Que rÃ¨ ne peut me conchoulau.
+  Pi que n'Ã©fÃ¨ qu'a perdu cha mÃ¨zhe
+  De bÃ©lou touta la zhournau.
+
+              3
+
+              Mais le matin quand je me rÃ©veille
+              S'en vont mes rÃªves de bonheur
+              Puisqu'il fait jour je me lÃ¨ve, je m'habille
+              Mais l'ennui me crÃ¨ve le cÅur
+              Comme je n'ai rien pour me distraire
+              Que rien ne peut me consoler
+              Pire qu'un enfant qui a perdu sa mÃ¨re
+              Je pleure toute la journÃ©e.
+
+  4
+
+  DÃ© mon tourmÃ© pe va ma blonde
+  L'a sheurshezha sÃ¨ m'arrÃ©tau.
+  Pe lamÃ¨ mamau cha man blanshe
+  De baillezha bin mon grÃ¨ prau,
+  De l'amou tÃ¨ que rÃ¨ su tarra
+  Ne vaut pre ma che n'amitia,
+  Pe la va d'azardezha me n'ama
+  Pe l'a va de vÃ¨dra ma via.
+
+              4
+
+              Dans mon tourment pour voir ma blonde
+              Je la chercherais sans m'arrÃªter
+              Pour seulement baiser sa main blanche
+              Je donnerais bien mon grand prÃ©
+              Je l'aime tant que rien sur terre
+              Ne vaut pour moi son amitiÃ©
+              Pour la voir j'hasarderais mon Ã¢me
+              Pour l'avoir je vendrais ma vie.
+
+  5
+
+  MÃ©, oh quÃ© beneu! ma Liaudin-na
+  A vu meu tourmÃ¨, ma douleu,
+  Ch n'ama a compris la min-na
+  Chon bon cÅu a compris mon cÅu,
+  Pichque pe zh' adoci me pin-ne
+  Le vu bin partazhie mon seu,
+  Que che voulÃ©tau cheyon le min-ne
+  Chon beneu fazha mon beneu.
+
+              5
+
+              Mais oh! quel bonheur! ma Claudine
+              A vu mes tourments, ma douleur
+              Son Ã¢me a compris la mienne
+              Son bon cÅur a compris mon cÅur
+              Puisque pour adoucir mes peines
+              Elle veut bien partager mon sort
+              Que ses volontÃ©s soient les miennes
+              Son bonheur fera mon bonheur.
+
+
+
+
+L'ÃBAUDA
+
+L'ÃBAUDE
+
+
+  1
+
+  Uvre me don ta peurta
+  Uvre me don MeÃ¯on,
+  E pleu quemÃ© na queurda.
+  On ne sin paumÃ© nion,
+  EtÃ©te chouliau l'euzha.
+  De greloutou de fra,
+  Aqueurde me don n'ozha
+  A pachau avouÃ© ta.
+
+              1
+
+              Ouvre-moi donc ta porte
+              Ouvre-moi donc Mion,
+              Il pleut comme une corde.
+              On ne sent plus personne,
+              Entends-tu souffler le vent.
+              Je grelotte de froid,
+              Accorde-moi donc une heure
+              A passer avec toi.
+
+  2
+
+  E chetivoui ta fÃ©ta
+  Pourre te bin dremi,
+  QuÃ¨ dechou ta fenÃ©tra
+  Choupizhe te n'ami,
+  Fa te don va la tÃ©ta
+  Pe me parlau MeÃ¯on,
+  Te va bin que chou l'Ã©tra
+  Avouai ma Ã© n'a nion.
+
+              2
+
+              C'est aujourd'hui ta fÃªte
+              Pourrais-tu bien dormir,
+              Quand sous ta fenÃªtre
+              Soupire ton ami,
+              Fais-toi donc voir la tÃªte
+              Pour me parler Mion,
+              Tu vois bien que sous l'hangar
+              Avec moi il n'y a personne.
+
+  3
+
+  Boncha mon peuvrou Liaudou
+  Ne fin pau trou de via,
+  Mon pÃ¨zhe Ã¨ de pau n'autrou
+  Revozhe dÃ¨ chon lia;
+  Eye bin va que t'amou
+  MÃ© te n'eu dezhÃ© pau,
+  Che nou parlin mariazhou
+  TÃ© sui d'Ã¨tre Ã¨conviau.
+
+              3
+
+              Bonsoir mon pauvre Claude
+              Ne faisons pas trop de vie,
+              Mon pÃ¨re, ce n'est pas un autre
+              Bouge dans son lit;
+              C'est bien vrai que je t'aime
+              Mais tu ne le diras pas,
+              Si nous parlons de mariage
+              Tu es sÃ»r d'Ãªtre renvoyÃ©.
+  4
+
+  SÃ© ne tin qu'Ã  ton paizhe
+  De t'Ã©poujau MeÃ¯a,
+  De m'Ã©nizhe te braizhe
+  Lou rÃ©chtou de ma via,
+  L'Ã© vedre on ple reshou
+  PretÃ© lou bin ne l'eu
+  MeÃ¯a te gazhÃ¨tashou
+  Ne fon pau lou beneu.
+
+              4
+
+              S'il ne tient qu'Ã  ton pÃ¨re
+              De t'Ã©pouser Mie,
+              Je m'en irai te braire
+              Le restant de ma vie,
+              Il en voudrait un plus riche
+              Pourtant le bien ni l'or
+              Mie, je te le garantis
+              Ne font pas le bonheur.
+  5
+
+  Lou deri mou de Liaudou
+  N'Ã©zhe pau abadau,
+  Qu'arrevi tou de quatrou
+  Lou paizhe pe leu z'Ã©grau,
+  MeÃ¯on teu qu'Ã©ya pretiÃ«
+  Que t'Ã©pashe de dremi?
+  âEye l'euzha que seuliÃ«
+  Que fa pretou creci.
+
+              5
+
+              Le dernier mot de Claude
+              N'Ã©tait pas sorti,
+              Qu'arriva tout de quatre
+              Le pÃ¨re par l'escalier,
+              Mion, qu'y a-t-il par lÃ 
+              Qui t'empÃªche de dormir?
+              âC'est le vent qui souffle
+              Qui fait partout craquer.
+
+  6
+
+  âTe me di qu'Ã©ye l'euzha
+  MeÃ¯on cÃ¨ ne pau va,
+  D'Ã©tÃ©dou Ã  la peurta
+  CaujeliÃ« avouai ta;
+  Y peu che prÃ¨de garda
+  Cho que m'a fai levau,
+  Che d'attrapou n'Ã©parra
+  De mÃ© vai l'Ã©cegau.
+
+              6
+
+              âTu me dis que c'est le vent
+              Mion cela n'est pas vrai,
+              J'entends Ã  ta porte
+              Causer avec toi;
+              Il peut prendre garde
+              Celui qui m'a fait lever,
+              Si j'attrape une trique
+              Je m'en vais Â«le faire partirÂ».
+
+  7
+
+  QuÃ¨ l'Ã¨tedi lou paize
+  Lou galon dÃ©quÃ¨pi
+  Pi che meti Ã  braizhe
+  N'euzhÃ© peu reveni.
+  PÃ©dÃ¨ que cha maÃ®trÃ©che
+  Grelauve dÃ¨ chon lia,
+  De la po de chon paizhe
+  Que l'ave rÃ©velia.
+
+              7
+
+              Quand il entendit le pÃ¨re
+              Le galant dÃ©campa
+              Puis se mit Ã  braire
+              N'osant pas revenir.
+              Pendant que sa maÃ®tresse
+              Grelottait dans son lit,
+              De la peur de son pÃ¨re
+              Qu'elle avait rÃ©veillÃ©.
+
+  8
+
+  Equetau zheune felliÃ«
+  Pi vou zheunou gachon,
+  De cho que vou conchelliÃ«
+  Reteni la leÃ§on:
+  Che jamais dÃ¨ on carou
+  Vou z'Ã©te on rendez-vou,
+  Assuriau-vou davÃªchou
+  SÃ© n'a nion deri vou.
+
+              8
+
+              Ãcoutez jeunes filles
+              Et vous jeunes garÃ§ons,
+              De celui qui vous conseille
+              Retenez la leÃ§on:
+              Si jamais dans un coin
+              Vous avez un rendez-vous,
+              Assurez-vous d'avance
+              Qu'il n'y ait personne derriÃ¨re vous.
+
+
+
+
+ÃBAUDA NOUVALLA
+
+ÃBAUDE NOUVELLE
+
+(_Sur le mÃªme air_)
+
+
+  1
+
+  O don boncha ma meÃ¯a
+  VramÃ© tÃ© cru cushia,
+  Pichque devÃ© la leÃ®a
+  On ne va point de foua:
+  Mais Ã  Ã©tÃ¨dre brizhe
+  MeÃ¯on dÃ¨ ta maijon
+  De pÃ¨chou que te file
+  U foua d'on bon tijon.
+
+                  1
+
+                  O donc bonsoir ma mie
+                  Vraiment je t'ai cru couchÃ©e,
+                  Puisque, vers la barriÃ¨re
+                  On ne voit point de feu:
+                  Mais Ã  entendre bruire
+                  Mion dans ta maison
+                  Je pense que tu files
+                  Au feu d'un bon tison.
+
+  2
+
+  Allon depi ta shombra
+  Equeta dÃ¨ la cou
+  Cho que dÃ¨ la nai chombra
+  Vin te fauzhe l'amou
+  EtÃ¨te ma peteta
+  Lou dreulou menÃ©tri
+  Pin-neau dÃ¨ cha mezeta
+  Pe te pra-ye d'uvri.
+
+                  2
+
+                  Allons, depuis ta chambre
+                  Ãcoute dans la cour
+                  Celui qui dans la nuit sombre
+                  Vient te faire l'amour
+                  Entends-tu ma petite
+                  Le drÃ´le mÃ©nÃ©trier
+                  Souffler dans sa musette
+                  Pour te prier d'ouvrir.
+
+  3
+
+  Pichqu'Ã© demon ta fÃ©ta
+  T'apeurtou on bouque
+  Fait de fleu de zhenÃ©ta
+  Pi de brauvou mougue,
+  Che te vu ma coulomba
+  M'Ã ccourdau la faveu
+  De pachau dÃ¨ ta shombra
+  Lou mettre su ton cÅu.
+
+                  3
+
+                  Puisque c'est demain ta fÃªte
+                  Je t'apporte un bouquet
+                  Fait de fleurs de genÃªts
+                  Puis de jolis muguets,
+                  Si tu veux ma colombe
+                  M'accorder la faveur
+                  De passer dans ta chambre
+                  Je le mettrai sur ton cÅur.
+
+  4
+
+  Voua uvra ta fenÃ©tra
+  De ma prÃ© don pedia
+  De zhelou shou te n'Ã©tra
+  Touta la grÃ¨ velia:
+  Te chau bin que ne vivou
+  MeÃ¯on rÃ¨ que pre ta
+  Che te n'uvre pau vitou
+  De moure chou ton ta.
+
+                  4
+
+                  Oui ouvre ta fenÃªtre
+                  De moi prends donc pitiÃ©
+                  Je gÃ¨le sous le hangar
+                  Toute la grande veillÃ©e:
+                  Tu sais bien que je ne vis
+                  Mion rien que pour toi
+                  Si tu n'ouvres pas vite
+                  Je mourrai sous ton toit.
+
+
+
+
+LA VOUGUA DE CRAU
+
+LA VOGUE DE CRAS
+
+
+  1
+
+  Eye t'a la vougua de Crau,
+  QuÃ© ne faut pau allau mianau,
+  Y chon na troupa,
+  Cashia chou leu zÃ©grau
+  Qu'on bu la goutta,
+  Pe pouva miau grippau.
+
+              1
+
+              C'est Ã  la vogue de Cras,
+              Qu'il ne faut pas aller miauler,
+              Ils sont une troupe,
+              CachÃ©s sous les escaliers
+              Qui ont bu la goutte,
+              Pour pouvoir mieux griffer.
+
+  2
+
+  Eya n'Ã¨nau qu'y chou Ã©tau
+  Leu gachon de Monlafretau,
+  A la Bavizhe
+  PrÃ©chau pe cÃ© de Crau,
+  DÃ¨ la Revizhe
+  Et fossi tui chautau.
+
+              2
+
+              Il y a une annÃ©e qu'y sont allÃ©s
+              Les garÃ§ons de Malafretaz,
+              A la BÃ©viÃ¨re
+              PressÃ©s par ceux de Cras,
+              Dans la riviÃ¨re
+              Ils durent tous sauter.
+
+  3
+
+  MÃ© cÃ© d'Etrez pessizhon mio
+  Pe ne pau recheva de co,
+  Que l'Ã¨tÃ¨dizhon
+  Peteau de tui leu lion,
+  Y che cashizhon
+  Chou lou pont de Barton.
+
+              3
+
+              Mais ceux d'Etrez pensÃ¨rent mieux
+              Pour ne pas recevoir des coups,
+              Quand ils entendirent
+              Taper de tous cÃ´tÃ©s,
+              Ils se cachÃ¨rent
+              Sous le pont de Barton.
+
+  4
+
+  Pe quÃ¨ tÃ© vaillÃ¨ de Marbeu
+  Qu'avons tui Ã¨ possÃ¨ leu beu
+  Pri de reÃ¯eutÃ©
+  Pe pazhau cÃ© de Crau
+  L'on, su le queute,
+  ReÃ§u de co de pau.
+
+              4
+
+              Pour quand aux vaillants de Marboz
+              Qui avaient tous en passant les bois
+              Pris des grosses verges
+              Pour parer ceux de Cras
+              Ils, sur les cÃ´tes,
+              ReÃ§urent des coups de pieux.
+
+  5
+
+  Eyia azhi cÃ© de Tenia
+  Que n'ont pau mau Ã©tau quenia,
+  De la Pienizhe,
+  A galou pe leu prau.
+  A le Bodizhe
+  Y fuzhon couratau.
+
+              5
+
+              Il y a aussi ceux d'Attignat
+              Qui n'ont pas mal Ã©tÃ© cognÃ©s,
+              De la PeigniÃ¨re,
+              Au galop par les prÃ©s.
+              Aux BaudiÃ¨res
+              Ils furent couratÃ©s.
+  6
+
+  Pe quÃ¨ ta cÃ© de SÃª Martin
+  Qu'on voulu fauzhe dÃ© malin,
+  Tuinqu'a la varna
+  Depi lou bou de Crau,
+  A co d'Ã©para,
+  Che chon t-y fait couliau.
+
+              6
+
+              Pour quand Ã  ceux de St Martin
+              Qui voulurent faire les malins.
+              Jusqu'Ã  la Verne
+              Depuis le bourg de Cras,
+              A coup d'Ã©parre,
+              Se sont-ils fait gonfler.
+
+  7
+
+  Tout pÃ©dÃ¨ che la sharpelia,
+  Su lou marronni biÃ¨ cashia,
+  De compeujauva,
+  SÃ© fauzhe poin de via,
+  De chela vouga
+  La shÃ¨chon que vetia.
+
+              7
+
+              Tout pendant ce chamaillis,
+              Sur le marronnier bien cachÃ©,
+              Je composais,
+              Sans faire point de vie,
+              De cette vogue
+              La chanson que voici.
+
+
+
+
+LE FELLIÃ DE VERIA
+
+LES FILLES DE VIRIAT
+
+_Air de Â«La vougua de CrauÂ»_
+
+
+  1
+
+  Eye le felliÃ« de Veria,
+  Surtou le z'ene qu'Ã© y a,
+  Le chon frequette
+  L'amon greu leu gachon
+  MÃ© biÃ¨ de mÃ©zhe
+  Ne treuvon pau cÃ¨ bon.
+
+              1
+
+              Ce sont les filles de Viriat,
+              Surtout les unes qu'il y a,
+              Elles sont friquettes
+              Elles aiment gros les garÃ§ons
+              Mais toutes les mÃ¨res
+              Ne trouvent pas Ã§a bon.
+
+  2
+
+  QuÃ¨ leu magna velion le va
+  Y che rezhouÃ«nion deu-z-u tra,
+  Von Ã  la peurta
+  CreÃ¯on: live te don
+  Nou j'in na liota
+  Pe faushe on rigoudon.
+
+              2
+
+              Quand les magnats veulent les voir
+              Ils se rejoignent deux ou trois,
+              Vont Ã  la porte
+              Crient: lÃ¨ve toi donc
+              Nous avons une flÃ»te
+              Pour faire un rigodon.
+
+  3
+
+  Cheteu la fellie rÃ©vellia
+  L'a bin viton dÃ©ferouilla
+  Su cha shemije
+  Efile on coutelion,
+  Pi sÃ¨ lemizhe
+  Seu parlau Ã¨ gachon.
+
+              3
+
+              SitÃ´t la fille rÃ©veillÃ©e
+              Elle a bien vite dÃ©verrouillÃ©
+              Sur sa chemise
+              Enfile un cotillon,
+              Puis sans lumiÃ¨re
+              Sort parler aux garÃ§ons.
+
+  4
+
+  On co qu'y l'on tui Ã©bracha
+  La fellie di: zheunou magna
+  DÃ¨ la grÃ¨ buzhe
+  Alin nou j'amouje
+  LÃ© nion n'y cushe
+  Nou z'y pourin dÃ¨che.
+
+              4
+
+              Une fois qu'ils l'ont tous embrassÃ©e
+              La fille dit: jeunes magnats
+              Dans la grande Ã©table
+              Allons nous amuser
+              LÃ  personne n'y couche
+              Nous y pourrons danser.
+
+  5
+
+  PretÃ¨ cÃ¨ fameu rendez-vous
+  Ne reuchashon po teu touzhou
+  De sai na mÃ©zhe
+  Que s'Ã©tÃ¨ rÃ¨velia,
+  Deci u pÃ©zhe:
+  Cou don va che qu'Ã©ya.
+
+              5
+
+              Pourtant ces fameux rendez-vous
+              Ne rÃ©ussissent pas tÃ´t toujours
+              Je sais une mÃ¨re
+              Qui s'Ã©tant rÃ©veillÃ©e,
+              Dit au pÃ¨re:
+              Cours donc voir ce qu'il y a.
+  6
+
+  Lou pÃ¨zhe Ã¨ n'Ã¨tÃ¨dÃ¨ cho bri
+  PrÃ¨ on pau, cou Ã¢ l'Ã©quezhi.
+  Preni vou garda
+  ChaprÃ¨ grÃ¨ poulichon
+  ZhÃ© tie n'Ã©parra
+  Que n'Ã©parmazha nion.
+
+              6
+
+              Le pÃ¨re en entendant ce bruit
+              Prend un pieu, court Ã  l'Ã©curie.
+              Prenez-vous garde
+              SaprÃ© grands polissons
+              J'ai lÃ  une Ã©parre
+              Qui n'Ã©pargnera personne.
+  7
+
+  L'azhon bin voulu s'Ã©chcujau
+  Dezhe, nou ne fin poin de mau
+  MÃ© cho vio pÃ¨zhe
+  Ezhe bin che montau
+  Bin sÃ¨ coulÃ¨zhe
+  Qui leu j'a tui conliau.
+
+              7
+
+              Ils auraient bien voulu s'excuser
+              Dire: nous ne faisons pas de mal
+              Mais ce vieux pÃ¨re
+              Ãtait bien si montÃ©
+              Bien si en colÃ¨re
+              Qu'il les a tous gonflÃ©s.
+  8
+
+  Pe quÃ¨ t'a vou zheunou magna
+  Pe ne pau Ã©tre Ã©paraÃ¯a,
+  QuÃ¨ veutra Liauda
+  Che treuvezha cushia
+  RÃ¨viau l'Ã©bauda
+  A nautra sÃ¨pelia.
+
+              8
+
+              Pour quand Ã  vous jeunes magnats
+              Pour ne pas Ãªtre Ã©parrayÃ©s
+              Quand votre Claudine
+              Se trouvera couchÃ©e
+              Renvoyez l'Ã©baude
+              A une autre occasion.
+
+
+
+
+LA VOUGUA DE VERIA
+
+LA VOGUE DE VIRIAT
+
+_Air de Â«Blonde ou BruneÂ»_
+
+
+  On parle de le vougue,
+  De Crau pi de Tenia,
+  MÃ¨ avÃ¨ toute,
+  Et oncouzhe Ã  Veria
+  De tui leu j'allÃ¨tou,
+  MÃ©mou pleteu qu'Ã  Bou
+  Qu'on vin de prefezhonche,
+  A neutron rendez-vous
+  Fauzhe bombonche.    (_bis_)
+
+              1
+
+              On parle des vogues,
+              De Cras et d'Attignat,
+              Mais avant toutes,
+              C'est encore Ã  Viriat
+              De tous les alentours,
+              MÃªme plutÃ´t qu'Ã  Bourg
+              Qu'on vient de prÃ©fÃ©rence,
+              A notre rendez-vous
+              Faire bombance.        (_bis_)
+
+  2
+
+  DÃ¨ toute le famellie
+  Pe fÃ©tau cÃ© zhou tie
+  E faut qu'Ã© brellie
+  Du ron u seurdellie.
+  On saigne de poulÃ«,
+  De vÃ© mÃ©mou de bouÃ«;
+  On rÃ¨pla la futaille
+  Pi de Bu Ã© GrefouÃ«
+  Tout fa ripaille.    (_bis_)
+
+              2
+
+              Dans toutes les familles
+              Pour fÃªter ce jour-lÃ 
+              Il faut que Ã§a brille
+              Du balai au ciel de lit.
+              On saigne des poulets,
+              Des veaux mÃªme des bÅufs;
+              On remplit la futaille
+              Puis de But aux Greffets
+              Tout fait ripaille.    (_bis_)
+
+  3
+
+  SÃ© fa bon pe la vougua,
+  QuÃ¨ on a biÃ¨ gueutau,
+  On va Ã¨ troupa
+  U bou che premenau,
+  LÃ¨ des tenio de jeu,
+  Que pipon neutreu seu,
+  Et faut va lou ramazhou,
+  VÃ© leu shevau de beu,
+  Tout fa tapazhou.    (_bis_)
+
+              3
+
+              S'il fait bon pour la vogue,
+              Quand on a bien dÃ®nÃ©,
+              On va en troupe
+              Au bourg se promener,
+              LÃ , des teneurs de jeux,
+              Qui pipent nos sous,
+              Il faut voir le ramage,
+              Vers les chevaux de bois,
+              Tout fait tapage.      (_bis_)
+
+  4
+
+  PÃ©dÃ¨ que leu vio shÃ©ton
+  L'atou des shÃ©penon
+  Leu zheunou dÃ¨chon
+  Pi che font de bon chon.
+  Lou cha quÃ¨ Ã© fa bon
+  Deu-ja-deu y s'Ã¨ von
+  Choule pe le sharrizhe,
+  QuÃ¨ l'ombra des boÃ¯chons
+  Cha de lemizhe.      (_bis_)
+
+              4
+
+              Pendant que les vieux chantent
+              Autour des chopinons
+              Les jeunes dansent
+              Et se font du bon sang.
+              Le soir quand il fait beau
+              Deux Ã  deux ils s'en vont
+              Seuls par les charriÃ¨res,
+              Quand l'ombre des buissons
+              Sert de lumiÃ¨re.       (_bis_)
+
+  5
+
+  E pre cÃ¨ que le vougue
+  Font a n'Ã¨ pau doutau
+  Fauzhe de nouches
+  Qu'on ne comptauve pau;
+  Mais malhezheujemÃ¨
+  De fellie, biÃ¨ chouvÃ¨
+  Pe zh ava voulu rizhe
+  On fauta devÃ¨ n'Ã¨
+  De na brelizhe.      (_bis_)
+
+              5
+
+              C'est pour cela que les vogues
+              Font Ã  n'en pas douter
+              Faire des noces
+              Qu'on ne comptait pas;
+              Mais malheureusement
+              Des filles, bien souvent
+              Pour avoir voulu rire
+              Ont faute avant un an
+              D'une berceuse.        (_bis_)
+
+
+
+
+LA PRAÅ¸ZHE DU PAÅ¸JON
+
+LA PRIÃRE DU PAYSAN
+
+_Air: Â«Le Credo du PaysanÂ»_
+
+
+  1
+
+  Dieu tou puissÃ¨, Dieu de mizÃ¨zhicÅurde,
+  Vou que depi d'amon lou pazhadi,
+  Gouvarnau tou che que la tarra peurte,
+  Lou firmamÃ¨, tout l'univers Ã¨ti;
+  QuÃ¨ lou matin, l'atou de neutra frema,
+  L'arba du zhou quemÃ¨che Ã  yalenau,
+  RÃ©veliau me, meu servetio, ma fena
+  Tui biÃ¨ pourtÃ¨ pe zh allau u travau.
+
+              1
+
+              Dieu tout puissant, Dieu de misÃ©ricorde,
+              Vous que du haut du Paradis,
+              Gouvernez tout ce que la terre porte,
+              Le firmament, tout l'univers entier;
+              Quand le matin, autour de notre ferme,
+              L'aube du jour commence Ã  Ã©clairer,
+              RÃ©veillez-nous, mes serviteurs, ma femme
+              Tous bien portants pour aller au travail.
+
+  _Refrain_
+
+  Dieu tout puissÃ¨, don rÃ©que la pÃ©ssizhe
+  A suffi pe creÃ¯au touta l'humanitau,
+  PÃ©dÃ¨ la via a ma famelliÃ« Ã¨tizhe              } _bis_
+  PrÃ©tau benea saitau, la paix, la libretau.    }
+
+              _Refrain_
+
+              Dieu tout puissant, dont rien que la pensÃ©e
+              A suffi pour crÃ©er toute l'humanitÃ©,
+              Pendant la vie, Ã  ma famille entiÃ¨re,         } _bis_
+              PrÃªtez bonne santÃ©, la paix, la libertÃ©.      }
+
+  2
+
+  Baillau azhi pe toute le recoulte
+  Lou tin qu'Ã© fau pe le fauzhe levau,
+  De tÃ¨ z'Ã¨ tin na reujau quauque goutte,
+  On bon chelo, pe le fauzhe mozhau;
+  Faite azhi mÃ© que vÃ© nou la vremena,
+  Leu pinzhon, leu lapin, leu ca-yons grau,
+  Leu shevau, leu vÃ©, la greucha bouvenea,
+  Tout fache arzhÃ©, tou fache ben Ã¨nau.
+
+              2
+
+              Donnez aussi pour toutes les rÃ©coltes
+              Le temps qu'il faut pour les faire lever,
+              De temps en temps une rosÃ©e, quelques gouttes,
+              Un bon soleil pour les faire mÃ»rir;
+              Faites aussi que chez nous la vermine,
+              Les pigeons, les lapins, les cochons gras,
+              Les chevaux, les veaux, la grosse bovine,
+              Tout fasse argent, tout fasse bonne annÃ©e.
+
+  3
+
+  Prejarvau nou pre cÃ©, dÃ© gre plouvaizhou,
+  De le choitiÃ«, des mauvai j'ouragan,
+  De le grÃ¨ fra dÃ© grÃ¨ co de tounaizhou
+  Qu'amoin-non la grela su le machon;
+  Prejarvau nou du malheu de la garra
+  Que chouvÃ¨ lou ple tÃ©riblou de tui,
+  Pichqu'y nou prÃ¨ leu produit de la tarra
+  Neutreu z'Ã©fÃ¨ pi rouin-ne lou pays.
+
+              3
+
+              PrÃ©servez-nous, pour Ã§Ã  des grandes pluies,
+              Des sÃ©cheresses, des mauvais ouragans,
+              Des grands froids des grands coups de tonnerre
+              Qui amÃ¨nent la grÃªle sur les moissons;
+              PrÃ©servez-nous du malheur de la guerre
+              Qui est souvent le plus terrible de tous,
+              Puisqu'il nous prend les produits de la terre
+              Nos enfants, puis ruine le pays.
+
+  4
+
+  Prejarvau-nou de le mauvaije bÃ©te
+  Que ne sheurshon qu'Ã  nou fauzhe de mau,
+  Depi lou leo tin qu'Ã  le greuche guÃ©pe
+  Surtout de le charpÃ¨s Ã©vezhounau.
+  Faite que de la rache faramena
+  Nion de vÃ© nou ne chaye dÃ©vouzhau
+  Epargnau-nou la pechta, la famena,
+  Pi tÃ¨ de mau que pourron arrevau.
+
+              4
+
+              PrÃ©servez-nous des mauvaises bÃªtes
+              Qui ne cherchent qu'Ã  nous faire du mal,
+              Depuis le loup jusqu'aux grosses guÃªpes
+              Surtout des serpents venimeux.
+              Faites que de la race faramine
+              Personne de chez nous ne soit dÃ©vorÃ©
+              Ãpargnez-nous la peste, la famine,
+              Puis tant de maux qui pourraient nous arriver.
+
+  5
+
+  Faite azhi mÃ© grÃ© Dieu que ma fameliÃ«
+  Ne chaye pau tracacha des esprits,
+  Des diabloutins que troumÃ©ton le felliÃ«,
+  De le fÃ©teume, des folÃ«, des chouci;
+  Faite que jamais dÃ¨ le seneguougue,
+  Que cÃ¨ reveniÃ¨s font pe nous tÃªtau,
+  QuÃ© bin ces damnau vindront de grÃ¨ troupe
+  Que nion vÃ© nous ne s'y laiche Ã¨trin-nau.
+
+              5
+
+              Faites aussi, grand Dieu, que ma famille
+              Ne soit pas tracassÃ©e par les esprits,
+              Des diablotins qui tourmentent les filles,
+              Des fantÃ´mes, des follets, des sorciers;
+              Faites que jamais, dans les synagogues,
+              Que ces revenants font pour nous tenter,
+              Quand mÃªme ces damnÃ©s viendraient de grandes troupes
+              Que personne de chez nous ne se laisse entraÃ®ner.
+
+  6
+
+  Mais che pretÃ¨ pÃ¨dÃ¨ me n'existanche
+  E vou plaije mon Dieu pe m'Ã©prouvau,
+  De m'accablau de pinne, de chouffranches,
+  De grÃ¨ shagrin, de terriblou flÃ©au,
+  Loin de grondau contre cho que gouvarne,
+  A deux zheno devÃ¨ vou de dezha:
+  De grÃ ce Ã©pargnau me don tÃ¨ d'alarmes
+  Dieu de bontau, preni pedia de ma.
+
+              6
+
+              Mais si pourtant pendant mon existence
+              Il vous plaisait mon Dieu pour m'Ã©prouver,
+              De m'accabler de peines, de souffrances,
+              De grands chagrins, de terribles flÃ©aux,
+              Loin de gronder contre celui qui gouverne,
+              A deux genoux devant vous je dirai:
+              De grÃ¢ce Ã©pargnez-moi tant d'alarmes
+              Dieu de bontÃ©, prenez pitiÃ© de moi.
+
+  _Refrain_
+
+  Dieu tou puissÃ¨, don rÃ¨que la pessizhe
+  A suffi pe creÃ¯au tonta l'humanitau,
+  AprÃ© ma meu, u dela de la bizhe               } _bis_
+  Baillau me u pazhadi, via pe l'Ã©ternitau.     }
+
+              _Refrain_
+
+              Dieu tout puissant, dont rien que la pensÃ©e
+              A suffi pour crÃ©er l'humanitÃ©,
+              AprÃ¨s ma mort, au delÃ  de la biÃ¨re            } _bis_
+              Donne-moi, au paradis, vie pour l'Ã©ternitÃ©.   }
+
+
+
+
+LA GRÃ VELIA
+
+LA GRANDE VEILLÃE
+
+
+  1
+
+  VÃ© zÃ© PerÃ© Ã  la grÃ¨velia,
+  QuÃ¨ yÃ¨ na qu'on don avu fra.
+  Ey a vede brove felliÃ«
+  MaularÃ¨zhia,
+  Que leu gachon d'vonagneula
+  Ont bin guÃ©tia.
+
+              1
+
+              Chez Joseph Perret Ã  la grand'veillÃ©e,
+              Qu'il y en a qui ont donc eu froid.
+              Il y avait de belles filles,
+              Mal arrangÃ©es,
+              Que les garÃ§ons de vacagnole
+              Ont bien regardÃ©es.
+
+  2
+
+  Leu magna pe che dÃ©vreti,
+  Fuzhon quezhi on menÃ©tri;
+  Toute le feliÃ« de la zelize
+  Ont greu dÃ¨chÃ .
+  PÃ¨dÃ¨ que d'autre Caillassizhe
+  Le jon guÃ©tiÃ .
+
+              2
+
+              Les magnats, pour se divertir,
+              Furent quÃ©rir un mÃ©nÃ©trier;
+              Toutes les filles de la GeliÃ¨re
+              Ont gros dansÃ©.
+              Pendant que d'autres CaillassiÃ¨res
+              Les ont regardÃ©es.
+
+  3
+
+  E y ave latiÃ« de Pelo
+  Qu'azhe voulu baill'on bon co,
+  MÃ© le s'Ã¨ne, quemÃ¨ biÃ¨ d'autres,
+  Vra bin pachau;
+  QuÃ¨bin l'ave che brauve shauche,
+  L'na pau trouvau.
+
+              3
+
+              Il y avait celle du PÃªloux
+              Qui aurait voulu donner un bon coup,
+              Mais elle s'en est, comme bien d'autres,
+              Vrai bien passÃ©;
+              Quand mÃªme elle avait ses jolis bas,
+              Elle n'a pas trouvÃ©.
+
+  4
+
+  MÃ¨ la ple fouala des gachon,
+  Ye bin MeÃ¯on du Shavaton;
+  QuÃ¨ lÃ¨ sin yon dÃ¨ neutron carou,
+  L'y vin tou drÃ ,
+  QuÃ© cheye Zhon, Liaudou u Piarou,
+  Le vu lou vÃ .
+
+              4
+
+              Mais la plus folle des garÃ§ons,
+              C'est bien Mion du Chavaton;
+              Quand elle en sent un dans notre quartier,
+              Elle y vient tout droit,
+              Que ce soit Jean, Claude ou Pierre,
+              Elle veut le voir.
+
+  5
+
+  E la MarlÃ , lou freguelion,
+  Que sÃ¨ va pe zhÃ¨ gaugniÃ« yon.
+  Et fau la va me pe le sharizhe,
+  Che dÃ¨veniÃ«,
+  Eya de qua vous fozhe rizhe
+  De la guÃ©tiÃ«.
+
+              5
+
+              C'est la Merle, le freguillon,
+              Qui s'en voit pour en gagner un.
+              Il faut la voir par les charriÃ¨res,
+              Se dÃ©mener,
+              Il'y a de quoi vous faire rire
+              De la regarder.
+
+  6
+
+  Qu'a compoujau che la sÃ©choun?
+  Eye PerÃ¨ lou farnÃ©zhou.
+  On zhou pÃ¨dÃ¨ que l'Ã¨grenauve
+  On chÃ  de pon,
+  Pi que la MeÃ¯on abouquauve
+  Seu greu shapon.
+
+              6
+
+              Qui a composÃ© cette chanson?
+              C'est Perret le Â«farnaironÂ»[1].
+              Un jour pendant qu'il engrenait
+              Un sac de pain,
+              Puis que la Mion embecquait
+              Ses gros chapons.
+
+[1] Meunier.
+
+
+
+
+LEU GACHON DE VERIA
+
+LES GARÃONS DE VIRIAT
+
+_Air de Â«La GrÃ¨ VeliaÂ»_
+
+
+  1
+
+  On shÃ¨te le felliÃ« de Veria,
+  MÃ¨ vÃ¨ vous shÃ¨tau leu magna
+  DÃ¨ vio gachon, quemÃ¨ dÃ¨ zheunou,
+  De parlezhe,
+  SÃ¨ Ã©bleiÃ« quÃ¨que bon j'oumou
+  DÃ© meu couple.
+
+              1
+
+              On chante les filles de Viriat,
+              Je m'en vais vous chanter les magnats
+              Des vieux garÃ§ons, comme des jeunes,
+              Je parlerai,
+              Sans oublier quelques bons hommes
+              Dans mes couplets.
+
+  2
+
+  Pe ne point fauzhe de zhelo,
+  QuemÃ©chin va pe leu ple vio:
+  On dit que cho de la Zhelizhe
+  Va quauque co
+  E queutÃ© vÃ¨ de Caillassizhe
+  Que n'on pau po.
+
+              2
+
+              Pour ne pas faire de jaloux,
+              CommenÃ§ons voir par les plus vieux:
+              On dit que celui de la GeliÃ¨re
+              Va quelque fois
+              Voisiner chez des CaillassiÃ¨res
+              Qui n'ont pas peur.
+
+  3
+
+  Nou j'in n'autrou fameu pailla,
+  A l'Ã©trau dÃ© shon de Veria,
+  Qu'ave bin na brauva mÃ©trÃ¨che
+  VÃ¨ shemesi;
+  MÃ¨ deri leu beu de le Baiche,
+  Lou leo l'a pri.
+
+              3
+
+              Nous avons un autre fameux paillard,
+              A l'entrÃ©e des champs de Viriat,
+              Qui avait bien une jolie maÃ®tresse
+              Vers les Merciers;
+              Mais derriÃ¨re les bois des Baisses,
+              Le loup l'a pris.
+
+  4
+
+  Velivou on bon breÃ¯audi?
+  Nou z'Ã¨nin yon Ã  Shemessi,
+  Pe tourtelliÃ« le zheune felliÃ«,
+  Le dÃ¨ premi;
+  Pe zhouÃ¯e na paucha de guelliÃ«,
+  Contau su lui.
+
+              4
+
+              Voulez-vous un bon dÃ©gourdi?
+              Nous en avons un aux Merciers,
+              Pour tortiller les jeunes filles,
+              C'est un des premiers;
+              Pour jouer une partie aux quilles,
+              Comptez sur lui.
+
+  5
+
+  A yÃ© crazhe la RÃ©noumau
+  Shaution fazhe on peu de mau;
+  She bin qu'Ã¨ GrefouÃ«, on zheun'oumou,
+  A che qu'on cra,
+  BalliÃ« de fameu co de chabrou,
+  DÃ¨ chon contra.
+
+              5
+
+              A en croire la renommÃ©e
+              Chacun ferait un peu de mal;
+              Si bien qu'aux Greffets, un jeune homme,
+              A ce que l'on croit,
+              Donne des fameux coups de sabre,
+              Dans son contrat.
+
+  6
+
+  E che t'azhi de, pe Liazha,
+  D'on greu tartazhÃ© qu'Ã© y a,
+  Que pe desÃ¨nouye cha fena,
+  Y va tou dra,
+  S'Ã©gauniaÃ¯e vÃ¨ cha vÃ©zena
+  QuÃª vint lou cha.
+
+              6
+
+              Il s'est aussi dit, par Fleyriat,
+              D'un gros Â«tartarÃ©Â»[2] qu'il y a,
+              Que pour dÃ©sennuyer sa femme,
+              Il va tout droit,
+              S'Ã©tendre chez sa voisine
+              Quand vient le soir.
+
+  7
+
+  Nou z'in nautrou zheunou mariau
+  Qu'ame greu leu brovou shevau;
+  L'ame de mÃ©mon de fremizhe,
+  Dit-on vÃ© nou,
+  A TÃªvou, Ã  la Bretenizhe,
+  L'Ã© n'a pretou.
+
+              7
+
+              Nous avons un autre jeune mariÃ©
+              Qui aime gros les beaux chevaux;
+              Il aime de mÃªme des fermiÃ¨res,
+              Dit-on chez nous,
+              A Tanvol, Ã  la BretonniÃ¨re,
+              Il en a partout.
+
+  8
+
+  MÃ© lou ple fricouti de tui,
+  E zhouzÃ¨ lou cabazhati,
+  E n'a cozi pau zheuna fena
+  DÃ¨ lou paÃ¯,
+  Que n'a vio lou bÃ© de cha plema
+  DÃ¨ seu papi.
+
+              8
+
+              Mais le plus fricotteur de tous,
+              C'est Joseph, le cabaretier,
+              Il n'y a presque pas de jeune femme
+              Dans le pays,
+              Qui n'ait vu le bec de sa plume
+              Dans ses papiers.
+
+  9
+
+  Nou j'in azhi on tabati
+  Qu'Ã  chouvÃ¨ chon ciga Ã¨pri;
+  On menizi qu'Ã  cha varloupa
+  Touzhou montau;
+  On marshau qu'a na piÃ«che shauda
+  Touta l'Ãªnau.
+
+              9
+
+              Nous avons aussi un marchand de tabac
+              Qui a souvent son cigare allumÃ©;
+              Un menuisier qui a sa varlope
+              Toujours montÃ©e;
+              Un marÃ©chal qui a une piÃ¨ce chaude
+              Toute l'annÃ©e.
+
+  10
+
+  E y Ã¨na pretÃ¨ yon u bou
+  Que vin on peu moin avouÃ© nou,
+  MÃ¨ che l'ebleye neutra bÃ¨da,
+  L'a che rÃ¨yon:
+  E que l'a na brauva serveta,
+  DÃ¨ cha mÃ©jon.
+
+              10
+
+              Il y en a pourtant un au bourg
+              Qui vient un peu moins avec nous,
+              Mais s'il oublie notre bande,
+              Il a ses raisons:
+              C'est qu'il a une jolie servante,
+              Dans sa maison.
+
+  11
+
+  Pe quÃ¨ Ã  cÃ¨ de ThÃ¨venon,
+  Si che retizhon tout de bon:
+  L'azhon compris qu'Ã¨ mariazhou,
+  SÃ¨ biÃ¨ seurti,
+  On peu vra bin dÃ¨ chon moin-nazhou,
+  Che dÃ¨vreti.
+
+              11
+
+              Pour quant Ã  ceux de Thevenon,
+              S'ils se retirent pour tout de bon:
+              Ils auront compris qu'en mariage,
+              Sans beaucoup sortir,
+              On peut trÃ¨s bien dans son mÃ©nage,
+              Se divertir.
+
+  12
+
+  Pe prÃ©sidau che l'assÃªblau,
+  Nou j'in neutre n'ami Putau,
+  Cho qu'Ã  dix leÃ¯es Ã  la reÃ¯onda
+  Ye renoumau
+  Pe le z'Ã©baude, pe la vougua,
+  Pi pe troutau.
+
+              12
+
+              Pour prÃ©sider cette assemblÃ©e,
+              Nous avons notre ami Puthod,
+              Celui qu'Ã  dix lieux Ã  la ronde
+              Est renommÃ©
+              Pour les Ã©baudes, pour la vogue,
+              Puis pour trotter.
+
+  13
+
+  Pe trouvau cÃ¨ que zh'ai shÃ¨tau,
+  Sheurshau dÃ¨ leu bon dÃ©cidau:
+  Eye na troupa de bon bizou
+  SÃ¨ leu vaitau.
+  Que rÃ¨don greu mÃ¨ de servichou
+  Qu'on ne di pau.
+
+              13
+
+              Pour trouver ceux que j'ai chantÃ©,
+              Cherchez parmi les bons dÃ©cidÃ©s:
+              C'est une troupe de Â«forts luronsÂ»
+              Qui rendent gros plus de services
+              Qu'on ne dit pas.
+
+[2] TartarÃ©âhomme solide.
+
+
+
+
+LA VIA DES PAÅ¸JONS
+
+LA VIE DES PAYSANS
+
+_Sur l'air de Â«BÃ©rangerÂ»_
+
+
+  1
+
+  De vu shÃ¨tau lou mondou de quÃ¨pagne,
+  De vu shetau la via des payjons;
+  Ne courriashÃ¨ pau cÃ¨ de la montagne,
+  De parlezhe lamÃ¨ des bons Brachons;
+  De shÃ¨tezhe che le zheunes Brachondes
+  QuÃ¨ brede rouzhes, brovou chabou blanc,
+  Chavon tÃªtau, le brene pi le blonde,
+  Seu grÃ¨s monsus quemÃ¨ leu payjons.     (_bis_)
+
+              1
+
+              Je veux chanter le monde de la campagne,
+              Je veux chanter la vie des paysans;
+              Ne connaissait pas ceux de la montagne,
+              Je parlerai seulement des bons Bressans;
+              Je chanterai ces jeunes Bressannes
+              Qui ont brides rouges, jolis sabots blancs,
+              Savent tenter les brunes et les blondes,
+              Les grands messieurs comme les paysans.    (_bis_)
+
+  2
+
+  Che leu Brachon ont chouvÃ¨ gros de pinne,
+  Lont bin azhi jo moumÃ¨s de plasi:
+  U zhou de l'Ã¨, lou tin de le z'Ã©trinne,
+  Tui leu magnas vont shourshiÃ« de geni.
+  Vinr CarmÃ¨trÃª. VÃ¨ l'atiÃ« qui courtije,
+  Shauque galan va brulau son foulieu:
+  L'a fa dÃ¨che latou de ia bodizhe
+  E l'y parlÃ¨ de che mariau jo deu.      (_bis_)
+
+              2
+
+              Si les Bressans ont souvent gros de peine,
+              Ils ont bien aussi leurs moments de plaisir:
+              Au jour de l'an, le temps des Ã©trennes,
+              Tous les magnats vont chercher du Â«gÃ¨niÂ».
+              Vient Carnaval. Chez celle qu'il courtise,
+              Chaque galant va brÃ»ler son faulieu:
+              La fait danser autour du brasier
+              En lui parlant de se marier eux deux.      (_bis_)
+
+  3
+
+  On peu ple tar, qu'Ã¨ revenion le vougue,
+  Leu vra Brachon chavon che dÃ¨vreti;
+  AprÃ¨ machon; y font pretou de couque
+  QuÃ¨ chon bredau le meÃ¯e, leu pali.
+  Vint SÃ¨ MeshiÃ«, leu vashi, le vashizhe
+  U prau nous font mÃ¨zhiÃ« leu matafon;
+  Pi SÃ© Martin, Ã¨ ramenÃ¨ la bize,
+  DÃ¨ servetio vint garni lou bouchon.    (_bis_)
+
+              3
+
+              Un peu plus tard, quand reviennent les vogues,
+              Les vrais Bressans savent se divertir;
+              AprÃ¨s moissons, ils font partout des coques
+              Quand sont bridÃ©s les meules, les paillers.
+              Vient St Michel, les vachers, les vachÃ¨res
+              Au prÃ© nous font manger des matefins;
+              Puis St Martin en ramenant la bise,
+              Des serviteurs vient garnir le gousset.    (_bis_)
+
+  4
+
+  N'assuizhe pau sÃ¨ parlau de le nouche
+  QuemÃ¨ chavon le fauzhe leu Brachons;
+  Y font, cÃ© zhons, Ã¨ guija de breÃ¯oushe,
+  De grÃ¨ fournÃ¨ de tautres de pounions;
+  E t'adon quÃ© fauva, prÃ¨ de le felliÃ«s,
+  Leu dÃ©gredis, pourtios de dezhon-nons,
+  Chotau, dÃ¨che, dÃ©conliau le boutelliÃ«s,
+  E shÃ¨te tui: Vive leu Payjons.         (_bis_)
+
+              4
+
+              Je ne finirai pas sans parler des noces
+              Comme savent les faire les Bressans;
+              Ils font, ces jours, en guise de brioches,
+              Des grandes fournÃ©es de tartes de pognons;
+              C'est alors qu'il faut voir prÃ¨s des filles,
+              Les dÃ©gourdis porteurs de dÃ©jeuners,
+              Sauter, danser, dÃ©gonfler les bouteilles,
+              En chantant tous: Vive les Paysans.        (_bis_)
+
+  5
+
+  Vetia quemÃ¨, loin du bri de la vela,
+  Pache cha via, l'honÃªte payjon.
+  Che du monsu, y n'a pau la pÃ¨ fena,
+  Y n'a pau teu moins de queu, moins de chang;
+  Si ne seutin ne ra, ne rÃ©publique,
+  E fau lou va dÃ©fÃ¨dre cha Patrie;
+  E tin de pai, touta cha politique
+  Ye de rÃ©pli che cauve, seu greni.      (_bis_)
+
+              5
+
+              VoilÃ  comment, loin des bruits de la ville,
+              Passe sa vie, l'honnÃªte paysan.
+              Si du monsieur, il n'a pas la peau fine,
+              Il n'a pas moins de cÅur, moins de sang;
+              S'il ne soutient ni roi, ni rÃ©publique,
+              Il faut le voir dÃ©fendre sa Patrie;
+              En temps de paix, toute sa politique
+              Est de remplir ses caves, ses greniers.    (_bis_)
+
+  6
+
+  Bons payjons, pe gardau l'Espezhanche,
+  Gardins la foi dÃ¨ cha simplicitau;
+  Pe mezetau de tui la confianche,
+  Gardin nous biÃ¨ de mÃ¨ti, de trompau;
+  Pe zh'Ã¨tre amau, ne sheurshin pau la gara;
+  A cÃ¨ qu'on fon, baillin on peu de pon;
+  Efin pe zh'Ã©tre Ã¨dÃ¨pÃ¨dÃ¨ su tara,
+  Meu bon j'amis, demeuzhin payjon.      (_bis_)
+
+              6
+
+              Bons Paysans, pour garder l'EspÃ©rance,
+              Gardons la foi dans sa simplicitÃ©;
+              Pour mÃ©riter de tous la confiance,
+              Gardez-nous de mentir, de tromper;
+              Pour Ãªtre aimÃ©, ne cherchons pas la guerre;
+              A ceux qui ont faim, donnons un peu de pain;
+              Enfin pour Ãªtre indÃ©pendant sur terre,
+              Mes bons amis, restons paysan.             (_bis_)
+
+
+
+
+LOU BATÃMOU D'ON GACHON
+
+LE BAPTÃME D'UN GARÃON
+
+
+  De plazi de pardou la tÃ©ta
+  On me bateye on greu gachon,
+  E fau qu'on fache tui biÃ¨ la fÃ¨ta,
+  Api qu'on bave ou plein pouchon.
+
+              De plaisir je perds la tÃªte
+              On me baptise un gros garÃ§on,
+              Il faut qu'on fasse tous bien la fÃªte,
+              Et puis qu'on boive un plein tonneau.
+
+  REFRAIN
+
+  Leu bon brachon font la ripaille
+  Pe lou batÃ©mou d'on gachon,
+  Pe tui biÃ¨ fauzhe bredifaille,
+  Que la vieula ch'aqueurde     } (_bis_)
+  Avoua neutra shÃ¨chon.         }
+
+              REFRAIN
+
+              Les bons bressans font la ripaille
+              Pour le baptÃªme d'un garÃ§on,
+              Pour tous bien faire bredifaille,
+              Que la vieille s'accorde     } (_bis_)
+              Avec notre chanson.          }
+
+  2
+
+  Quezenizhe qu'on che dÃ¨pashe
+  D'allau quezhi vÃ© lou beushi,
+  Reuti de vÃ©, frecacha de vashe,
+  Pi de poulaille u poulali.
+
+              2
+
+              CuisiniÃ¨res que l'on se dÃ©pÃªche
+              D'aller chercher vers le boucher,
+              RÃ´ti de veau, fricassÃ©e de vache,
+              Puis des poules au poulailler.
+
+  3
+
+  Pe cheti voui, point de quatrouille,
+  Point de pa, point de j'hazbicau,
+  Point d'Ã©chcargou, point de renouille
+  Et faut qu'on reboute u fricau.
+
+              3
+
+              Pour aujourd'hui point de pommes de terre,
+              Point de pois, point d'haricots,
+              Point d'escargots, point de grenouille
+              Il faut qu'on Â«rebouteÂ»[3] au fricot.
+
+  4
+
+  De j'ole chon rÃ¨zhia Ã¨ fache
+  Du foua, d'on grou fagou bredau,
+  EtÃ¨divou frejoulau la cache,
+  La frecacha vou monte u nau.
+
+              4
+
+              Des marmites sont rangÃ©es en face
+              Du feu, d'un gros fagot bridÃ©,
+              Entendez-vous rissoler la poÃ¨le,
+              La fricassÃ©e vous monte au nez.
+  5
+
+  Zheunou magna, zeune female,
+  ShÃ¨tau, dÃªchau, faite des fos,
+  PÃ¨dÃ¨ qu'allietau su jo chale,
+  Tin qu'Ã  demon bezhon leu vios.
+
+              5
+
+              Jeunes magnats, jeune femelles,
+              Sautez, dansez, faites les fous,
+              Pendant que collÃ©s sur leur chaise,
+              Jusqu'Ã  demain boiront les vieux.
+
+  6
+
+  CoumÃ¨zhe, aku don de froumaille
+  Su la marmaille, Ã  plin-ne mon;
+  Pi l'Ã¨ que vin Ã  neutre z'Ã©poujaille,
+  Y dÃ¨chezhon lou rigoudon.
+
+              6
+
+              CommÃ¨re, jette donc des dragÃ©es
+              Sur la marmaille, Ã  pleines mains;
+              Puis l'an qui vient Ã  nos Ã©pousailles,
+              Ils danseront le rigodon.
+
+[3] Â«RebouterÂ»ârenoncer pour ne plus pouvoir manger.
+
+
+
+
+LEU PAÅ¸ON VAILLON BIN LEU MONSU
+
+LES PAYSANS VALENT BIEN LES MESSIEURS
+
+
+  1
+
+  On di qu'Ã¨ ya de monsu pe zh'a prÃ¨de
+  D'Ã¨ mou Ã© fo de ruja Ã¨ crÃ©tins.
+  E paÃ¯jon pe pouva Ã¨ revÃ¨dre,
+  E fau ma fa che rÃ©velie matin.                            (_bis_)
+  HonnÃªte et franc, mÃ©prijÃ¨ la carrouta,
+  Pre lui l'honneu pache avÃ¨ leu z'Ã©cu.
+  Pi sÃ© chazi de baille na calouta,
+  Leu payjons vaillon bin leu monsu.
+
+              1
+
+              On dit qu'il y a des messieurs pour apprendre
+              De l'esprit aux fous de la ruse aux crÃ©tins.
+              Aux paysans pour pouvoir en revendre,
+              Il faut ma foi se rÃ©veiller matin.  (_bis_)
+              HonnÃªte et franc, mÃ©prisant la carrotte,
+              Pour lui l'honneur passe avant les Ã©cus.
+              Puis s'il s'agit de donner une calotte,
+              Les paysans valent bien les messieurs.
+
+  2
+
+  QuÃ©, Ã  douje Ã¨ d'allauva Ã  l'Ã©cÅula,
+  D'apreniva, lou valin dÃ© shemin,
+  A goulattau Ã  biÃ¨ fauzhe la reuva;
+  QuÃ¨ on monsu me traiti de gamin.              (_bis_)
+  Y m'appeli: PaÃ¯jon la beshache.
+  L'y rÃ©pondi: te m'au l'air d'on canu.
+  On s'Ã©pegni tui deu pe la tegnache,
+  Leu paÃ¯jon vaillon bin leu monsu.
+
+              2
+
+              Quand, Ã  12 ans, j'allais Ã  l'Ã©cole,
+              J'apprenais, le long des chemins,
+              A colleter Ã  bien faire la roue;
+              Quand un monsieur me traita de gamin.         (_bis_)
+              Il m'appela: Paysan la besace.
+              Je lui rÃ©pondis: Tu m'as l'air d'un canut.
+              On s'empoigna tous deux par la tignasse,
+              Les paysans valent bien les messieurs.
+
+  3
+
+  VÃ© meu quinjÃª, d'ava zhia lou vezazhou
+  Garni de pa, nazhayÃ¨ chou lou nau;
+  E n'ave pau, dÃ¨ tou lou vezenazhou,
+  On ga ple dra, on cadÃ© mio plÃ¨tau.            (_bis_)
+  De pourtauva mon shapÃ© su l'ourellie,
+  Mio qu'on prÃ©fet ne peurte chon cournu;
+  SÃ¨ le parlau, d'amauva zhia fellie.
+  Leu paÃ¯jon vaillon bin leu monsu.
+
+              3
+
+              Vers mes quinze ans, j'avais dÃ©jÃ  le visage
+              Garni de poils, noircissant sous le nez;
+              Il n'y avait pas dans tout le voisinage,
+              Un gars plus droit, un cadet mieux plantÃ©.    (_bis_)
+              Je portais mon chapeau sur l'oreille,
+              Mieux qu'un prÃ©fet ne porte son cornu;
+              Sans leur parler, j'aimais dÃ©jÃ  les filles.
+              Les paysans valent bien les messieurs.
+
+  4
+
+  MÃ© Ã  vingt Ã¨, Ã© fu bin autre seuje;
+  N'ava biÃ¨ sui pau mon mÃ©tie Ã  Pazhi.
+  De fu noumau pe ma taille, ma feuche,
+  Lou peurte-drapeau des conchcri du paÃ¯        (_bis_)
+  De tui leu lion, toute le zheune fellie
+  E me va-yÃ© m'avalauvon dÃ¨ z'u,
+  Ne sezhe t'eu que pe zhouhie Ã  le guellie,
+  Leu paÃ¯jon vaillon bin leu monsu.
+
+              4
+
+              Mais Ã  vingt ans, ce fut bien autre chose;
+              Je n'avais bien sÃ»r pas mon maÃ®tre Ã  Paris.
+              Je fus pommÃ© pour ma taille, ma force,
+              Le porte-drapeau des conscrits du pays        (_bis_)
+              De tout cÃ´tÃ©, toutes les jeunes filles
+              En me voyant m'avalaient des yeux,
+              Ne serait-ce que pour jouer aux quilles,
+              Les paysans valent bien les messieurs.
+
+  5
+
+  On peu ple ta, quÃ¨ vin sizhon le garre,
+  Qu'on Ã©clatau, pe la rÃ©volution;
+  E combattÃ¨, dÃ¨ toute le bagarre,
+  D'Ã©zha touzhou placha u premi ron             (_bis_)
+  PÃ©dÃ¨ cho tin, Ã¨ deri le vatezhe
+  Sharrayovon leu monsu trou vÃ¨tru,
+  DÃ¨ leu comba lÃ¨chau me vou zeu dezhe,
+  Leu paÃ¯jon vaillon bin leu monsu.
+
+              5
+
+              Un peu plus tard, quand arrivÃ¨rent les guerres,
+              Qui ont Ã©clatÃ©, pour la RÃ©volution;
+              En combattant dans toutes les bagarres,
+              J'Ã©tais toujours placÃ© au premier rang        (_bis_)
+              Pendant ce temps, en arriÃ¨re, les voitures
+              TraÃ®naient les messieurs trop ventrus,
+              Dans les combats, laissez-moi vous le dire,
+              Les paysans valent bien les messieurs.
+
+  6
+
+  MÃ©, meu z'Ã©fÃ¨, la feuche, lou couzhazhou,
+  Qu'avon de ma fÃ¨ on preu, on vaillÃ¨
+  Ou dÃ©clinau, de sintou que de plaÃ¯ou
+  Chou mon pa blanc, chou meu quatrou-vin-z Ã¨   (_bis_)
+  MÃ© che pretÃ¨ quÃ¨brin zh'ai de bequellie,
+  QuÃ©que monsu me dije: T'Ã© foutu;
+  D'amezha greu li fretau le j'ouzhellie.
+  Leu paÃ¯jon vaillon bin leu monsu.
+
+              6
+
+              Mais, mes enfants, la force, le courage,
+              Qui avaient de moi fait un preu, un vaillant
+              Ont dÃ©clinÃ©, je sens que je plie
+              Sous mes cheveux blancs, sous mes 80 ans      (_bis_)
+              Mais si pourtant, quoique j'aie des bÃ©quilles,
+              Quelque monsieur me disait: Tu es fichu;
+              J'aimerais bien lui frotter les oreilles.
+              Les paysans valent bien les messieurs.
+
+
+
+
+LA CHOUP' Ã VIN
+
+LA SOUPE AU VIN
+
+
+  1
+
+  L'Ã¨zhon bin nava tra coumÃ¨zhe
+  VÃ¨ la Maria, vÃ¨ la Maria,
+  Que che dejon yena Ã  l'autra,
+  Eya pedia, Ã©ya pedia
+  Eya pri mau Ã  la Liaudinna,
+  Cheti matin, cheti matin,
+  Fin li don vivamÃ¨ na choup'Ã¨,
+  Na choup'Ã¨ vin, na choup'Ã¨ vin.
+
+              1
+
+              Elles Ã©taient une fois trois commÃ¨res
+              Chez la Maria, chez la Maria,
+              Qui se disaient l'une Ã  l'autre,
+              Il y a pitiÃ©, il y a pitiÃ©
+              Il a pris mal Ã  la Claudine,
+              Ce matin-ci, ce matin-ci,
+              Faisons lui vivement une soupe,
+              Une soupe au vin, une soupe au vin.
+
+  2
+
+  CommÃ¨ze, de si bin malada,
+  Eya grÃ¨ tein, Ã©ya grÃ¨ tein,
+  E me fa greu mau dÃ¨ l'estouma,
+  Pi dÃ¨ le rein, pi dÃ¨ le rein;
+  PretÃ¨ ne vu ne mÃ©decena,
+  Ne mÃ©decin, ne mÃ©decin;
+  D'amezha mio n'Ã©couala plin-na
+  De choup'Ã¨ vin, de choup'Ã¨ vin.
+
+              2
+
+              CommÃ¨re, je suis bien malade,
+              Il y a longtemps, il y a longtemps,
+              Il me fait grand mal dans l'estomac,
+              Puis dans les reins, puis dans les reins;
+              Pourtant je ne veux ni mÃ©decine,
+              Ni mÃ©decin, ni mÃ©decin;
+              J'aimerais mieux une Ã©cuelle pleine
+              De soupe au vin, de soupe au vin.
+
+  3
+
+  L'Ã¨ buzhon shotiÃ«na d'Ã©couala,
+  Dra lou matin, dra lou matin;
+  A midi l'Ã¨ buzon encouzhe
+  Ne sai combin, ne sai combin.
+  Lou chÃ , metizhon su la traubla
+  Lou grÃ¨ tepin, lou grÃ¨ tepin,
+  Pi lou buzhon bien plein shotiÃ«na
+  De choup'Ã¨ vin, de choup'Ã¨ vin.
+
+              3
+
+              Elles en burent chacune une Ã©cuelle,
+              DÃ¨s le matin, dÃ¨s le matin;
+              A midi elles en burent encore
+              Je n' sais combien, je n' sais combien.
+              Le soir, elles mirent sur la table
+              Le grand pot, le grand pot,
+              Puis le burent plein chacune
+              De soupe au vin, de soupe au vin.
+
+  4
+
+  A ta sÃ©tau, neutra vÃ©zenÃ ,
+  Ba on bon co, ba on bon co,
+  Pi que le rein, pi que l'estoumÃ 
+  Che peurte mio, che peurte mio.
+  VramÃ¨, quÃ¨ dÃ¨vale la goutta,
+  Le fa de bin, le fa de bin;
+  Pe la sÃ©tau, vive l'Ã©couala
+  De choup'Ã¨ vin, de choup'Ã¨ vin.
+
+              4
+
+              A ta santÃ©, notre voisine,
+              Bois un bon coup, bois un bon coup,
+              Puis que les reins, puis que l'estomac
+              Se portent mieux, se portent mieux.
+              Vraiment, quand descend une goutte,
+              Elle fait du bien, elle fait du bien;
+              Pour la santÃ©, vive l'Ã©cuelle
+              De soupe au vin, de soupe au vin.
+
+  5
+
+  Le che dijon, pe le sharizhe,
+  E s'Ã©n 'alÃ¨, Ã¨ s'Ã¨n' alÃ¨:
+  Cheu co nou chin vramÃ¨ trou grije,
+  Tenien nou biÃ¨, tenien nou biÃ¨,
+  De nou, tou lou mondou ch'amouije
+  QuÃ¨ nou brÃ¨lin pe leu shemin.
+  Nou z-Ã© che bin vediÃ  l'Ã©couala
+  De choup'Ã¨ vin, de choup'Ã¨ vin.
+
+              5
+
+              Elles se disaient, par les charriÃ¨res,
+              En s'en allant, en s'en allant:
+              Cette fois nous sommes vraiment trop grises,
+              Tenons-nous bien, tenons-nous bien,
+              De nous, tout le monde s'amuse
+              Quand nous branlons par les chemins.
+              Nous avons si bien vidÃ© l'Ã©cuelle
+              De soupe au vin, de soupe au vin.
+
+  6
+
+  PretÃ¨, che quauthion nou demÃ¨de
+  D'u nou venien, d'u nou venien,
+  Nou chazhin pro que leu repondre,
+  Nou leu dezhin, nou leu dezhin:
+  Eya pri mau Ã  la Liaudin-na,
+  Cheti matin, cheti matin;
+  L'ezhe fouthia sÃ¨ che n'Ã©couala
+  De choup'Ã¨ vin, de choup'Ã¨ vin.
+
+              6
+
+              Pourtant, si quelqu'un nous demande
+              D'oÃ¹ nous venons, d'oÃ¹ nous venons,
+              Nous saurons assez que leur rÃ©pondre,
+              Nous leur dirons, nous leur dirons:
+              Il y a pris mal Ã  la Claudine,
+              Ce matin, ce matin;
+              Elle Ã©tait fichue sans son Ã©cuelle
+              De soupe au vin, de soupe au vin.
+
+
+
+
+LA BOUILLAUDA DE SÃ NEZI
+
+LA BOUILLAUDE DE St NIZIER
+
+
+  1
+
+  A SÃ¨ Nezi on dit qu'Ã¨ya
+  Na bouillauda malada
+  Alle malada dÃ¨ chon lia,
+  SÃ¨ chava la rajon prequa.
+
+              1
+
+              A Saint-Nizier on dit qu'il y a
+              Une bouillaude malade
+              Elle est malade dans son lit,
+              Sans savoir la raison pourquoi.
+
+  2
+
+  Et faut allau Ã  Shalamon
+  Pe quezhi monsu Marlou,
+  Cho mÃ¨decin cougnatra bin
+  Tie que la maladie che tin.
+
+              2
+
+              Il faut aller Ã  Chalamont
+              Pour quÃ©rir Monsieur Merle,
+              Ce mÃ©decin connaÃ®tra bien
+              OÃ¹ la maladie se tient.
+
+  3
+
+  QuÃ¨ monsu Marlou l'u toteau
+  Y di Ã  la bouillauda,
+  Che n'ami vou ja margoutau
+  E lui qu'azha fait tout lou mau.
+
+              3
+
+              Quand Monsieur Merle l'eut tÃ¢tÃ©e
+              Il dit Ã  la bouillaude,
+              Si un ami vous a margottÃ©e
+              C'est lui qui aura fait tout le mal.
+
+  4
+
+  Ne crayou pau que me n'ami
+  M'aÃ¯e rÃ¨dia malada,
+  Depi si ma que le moudau
+  Ne l'y ai jamai reparlau.
+
+              4
+
+              Je ne crois pas que mon ami
+              M'ait rendue malade,
+              Depuis six mois qu'il est parti
+              Je ne lui ai jamais reparlÃ©.
+
+  5
+
+  Ne sezhe teu pau de cho tein
+  Que la maladi poche?
+  Contau me cÃ¨, ne cashau rien,
+  De vu chava de qui le vin.
+
+              5
+
+              Ne serai-ce pas de ce temps
+              Que la maladie pousse?
+              Contez-moi Ã§a, ne cachez rien,
+              Je veux savoir d'oÃ¹ elle vient.
+
+  6
+
+  E lou cha de la sÃ¨ nezi
+  Que deri neutra buzhe
+  Pe pouva mio nou margouton
+  Nou j'allizhin nou premenau.
+
+              6
+
+              C'est le soir de la St Nizier
+              Que derriÃ¨re notre Ã©curie
+              Pour pouvoir mieux nous margoter
+              Nous allÃ¢mes nous promener.
+
+  7
+
+  QuÃ© y m'u margoutau chon seu
+  Y me cali pe tarra,
+  Pi s'y cali tou quemÃ¨ ma
+  SÃ¨ dezhe la rajon prequa.
+
+              7
+
+              Quand il m'eut margottÃ©e son saoul
+              Il me jeta par terre,
+              Puis s'y jeta tout comme moi
+              Sans dire la raison pourquoi.
+
+  8
+
+  Eye sÃ¨ que d'ava pÃ¨chau
+  Marmouti monsu Marlou,
+  Pe mezhi sÃ¨ n'a pau de mau
+  EyÃ¨ n'a greu pe vou mariau.
+
+              8
+
+              C'est ce que j'avais pensÃ©
+              Marmotta Monsieur Merle,
+              Pour mourir, il n'y a pas de mal
+              Il y en a gros pour vous marier.
+
+  9
+
+  De cho que vou j'a cazhÃ¨cha
+  Faut dÃ¨veni la fena
+  N'autrou sezhe pÃ©zhe Ã¨ tra ma
+  SÃ¨ chava la rajon prequa.
+
+              9
+
+              De celui qui vous a caressÃ©e
+              Faut devenir la femme
+              Un autre serait pÃ¨re en trois mois
+              Sans savoir la raison pourquoi.
+
+  10
+
+  QuÃ¨ vou z'izha vou premenau,
+  Vou j'autre, zheune felie,
+  Ne vou lachau pau margoutau
+  E n'a rÃ¨ que fa tÃ© de mau.
+
+              10
+
+              Quand vous irez vous promener,
+              Vous autres, jeunes filles,
+              Ne vous laissez pas margotter
+              Il n'y a rien qui fasse tant de mal.
+
+
+
+
+TRAVAS DU MARIAZHOU
+
+TRAVERS DU MARIAGE
+
+
+  1
+
+  DÃ¨ lou tin que d'ezha servaita,
+  D'ava toute seurte d'amis;
+  Lou cha venivon Ã  ma peurta,
+  Leu z'Ã©baudis, leu menÃ©tris.
+  MÃ¨ depi que de si mariau
+  Pleni me peuvra Liauda,
+  La nai, lou zhou dai la tÃ©ta cachau,
+  Eya don bin shezhia d'Ã©bauda.
+
+              1
+
+              Dans le temps que j'Ã©tais servante,
+              J'avais toutes sortes d'amis;
+              Le soir venaient Ã  ma porte,
+              Les Ã©baudis, les mÃ©nÃ©triers.
+              Mais depuis que je suis mariÃ©e
+              Plaignez-moi pauvre Claudine,
+              La nuit, le jour j'ai la tÃªte cassÃ©e,
+              Cela a bien changÃ© d'Ã©baude.
+
+  2
+
+  Tui leu matin quÃ¨ de me livou,
+  QuÃ¨ bin n'ai rÃ© dremi la nai,
+  E faut que me dÃ©pasha vitou
+  A levau tui meu cachcazhÃ¨.
+  Eya de mardea leu plein lia,
+  DÃ¨ leu crÃ«, su la traubla;
+  Eya on zhou que d'ava fournaya,
+  L'on sheyÃ  dÃ¨ ma pauta.
+
+              2
+
+              Tous les matins, quand je me lÃ¨ve,
+              Quand mÃªme je n'ai rien dormi de la nuit,
+              Il faut que je me dÃ©pÃªche vite
+              A lever tous mes marmots.
+              Il y a de la m... les pleins lits,
+              Dans les berceaux, sur la table;
+              Il y a un jour que je faisais au four,
+              Ils ont ch... dans ma pÃ¢te.
+
+  3
+
+  Cheteu levau, che la marmaille
+  Brame la cha, brame la fon;
+  On che quere va na bataille
+  A leur va chautau su lou pon,
+  Leu jon demÃªdon de paria,
+  D'autrou vedron de tautra;
+  L'avalezhon de mardea frecacha
+  Chon deje quÃ© de dauba.
+
+              3
+
+              SitÃ´t levÃ©e, cette marmaille
+              Pleure la faim;
+              On croirait voir une bataille
+              En les voyant sauter sur le pain,
+              Les uns demandent de la confiture,
+              D'autres voudraient de la tarte;
+              Ils avaleraient de la ... fricassÃ©e
+              Si on disait que c'est de la daube.
+
+  4
+
+  Pe comblou de malheu, zh'ai n'houmou
+  Que ne dÃ©jartzhe jamais.
+  Touta la zhournau, l'a lou coudou
+  Su le trauble dÃ¨ cabazhÃ©;
+  N'ai pau cheteu deu seu gaugna,
+  Qu'y pachon pe cha gueula.
+  Hola! grÃ¨ Dieu, de ma prenni pedia,
+  De si trou malezheuja.
+
+              4
+
+              Pour comble de malheur, j'ai un homme
+              Qui ne dÃ©saltÃ¨re jamais.
+              Toute la journÃ©e, il a le coude
+              Sur les tables des cabarets;
+              Je n'ai pas sitÃ´t deux sous gagnÃ©s,
+              Qu'ils passent par sa gueule.
+              HÃ©las! grand Dieu de moi prenez pitiÃ©,
+              Je suis trop malheureuse.
+
+  5
+
+  Equetau biÃ©, zheune female
+  Che troumÃ¨tau de vous mariau,
+  Ne chayau don pau mÃ© che fouale,
+  Evio cÃ¨ galons premenau,
+  PÃ¨dÃ¨ qu'y vou parlon d'amou,
+  E n'a rÃ¨ de ple chazhou;
+  On co mariau, che fouton bien de vou,
+  Pi de veutron moin-nazhou.
+
+              5
+
+              Ãcoutez bien, jeunes femmes
+              Si tourmentÃ©es de vous marier,
+              Ne soyez donc pas si folles,
+              Envoyez ces galants promener,
+              Pendant qu'ils vous parlent d'amour,
+              Il n'y a rien de plus sage;
+              Une fois mariÃ©, ils se fichent de vous,
+              Et puis de votre mÃ©nage.
+
+
+
+
+LOU BOUÃ DE NOUYE
+
+LE BÅUF DE NOÃL
+
+_Air: Â«La grÃ¨ veliaÂ»_
+
+
+  1
+
+  Nou zin on grÃ¨ beuschi vÃ¨ nou,
+  QuemÃ¨ Ã¨ nÃ© n'a po pretou,
+  Ne tuvÃ¨ jamÃ© que de vache,
+  Lou bon gachon
+  Achoume chele peuvre carnes
+  A co de ron.
+
+              1
+
+              Nous avons un grand boucher chez nous
+              Comme il n'y en a pas partout,
+              Ne tuant jamais que des vaches,
+              Le bon garÃ§on
+              Assomme ces pauvres carnes
+              A coup de balais.
+
+  2
+
+  Che t'eyÃ¨, pe fozhe NouyÃ©,
+  L'a tiau; u mouatÃ¨ de la nai,
+  On boue, qu'a Ã¨tÃ¨dre seu dezhe,
+  Ezhe she greu
+  Qui pourre ferni tra quemenes
+  QuemÃ¨ Marbeu.
+
+              2
+
+              Cette annÃ©e, pour faire NoÃ«l,
+              Il a tuÃ©, au milieu de la nuit,
+              Un bÅuf, qu'a entendre son dire,
+              Etait si gros
+              Qu'il pourrait fournir trois communes
+              Comme Marboz.
+
+  3
+
+  On co cho fameu bouÃ« saigna,
+  Conlio pÃ¨du, pi depouilla,
+  Y l'uvrit vitou la vÃ¨traille.
+  Peuvrou nouyÃ©!
+  N'ave t'y po dÃª le z'Ã©trailles
+  On pete vÃ¨.
+
+              3
+
+              Une fois ce fameux bÅuf saignÃ©,
+              GonflÃ©, pendu et dÃ©pouillÃ©,
+              Il lui ouvrit vite la ventraille.
+              Pauvre noÃ«l!
+              N'avait-il pas dans les entrailles
+              Un petit veau.
+
+  4
+
+  Non pau d'Ã©croutau cho meurnÃ¨,
+  I fu dÃ©coupo Ãª moucÃ¨,
+  Pi debraye dÃª na chodizhe
+  Avouai leu bouÃ¨
+  Pe z'Ã¨tre betau Ã¨ chaussiches,
+  E n'autezhÃ©.
+
+              4
+
+              Au lieu d'enfouir ce mort-nÃ©,
+              Il fut dÃ©coupÃ© en morceaux,
+              Puis broyÃ© dans une chaudiÃ¨re
+              Avec les boyaux
+              Pour Ãªtre mis en saucisses,
+              En fricandeaux.
+
+  5
+
+  On co que tout fu fabreco;
+  Y couzhi fozhe tebourno,
+  Que cÃ¨ qu'on fauta de zhezheule
+  Alon vÃ© lui;
+  Y leu z'Ã¨ vÃªdra de fameuje,
+  L'Ãª-na pre tui.
+
+              5
+
+              Une fois que le tout fut fabriquÃ©;
+              Il courut faire tambourner,
+              Que ceux qui ont besoin de saucisses
+              Aillent chez lui;
+              Il leur en vendra des fameuses,
+              Il en a pour tous.
+
+  6
+
+  Lou lÃ¨demon, tout cho fricau,
+  Pe lou paÃ¯ fut dÃ©bito.
+  L'Ã¨ vÃ¨di Ã  toute le fene
+  DÃ© z'Ã¨vezhon;
+  Pe zh'Ã©tre mezhia dÃ¨ le freme,
+  U rÃ¨velion.
+
+              6
+
+              Le lendemain, tout ce fricot,
+              Par le pays fut dÃ©bitÃ©.
+              Il en vendit Ã  toutes les femmes
+              Des environs;
+              Pour Ãªtre mangÃ© dans les fermes,
+              Au rÃ©veillon.
+
+  7
+
+  Avouai l'Ã©quema du belion,
+  Ecrim-mo su che l'avourton,
+  Neutron beuschi, houmou pratique
+  E-n'a fondu
+  De grÃ¨ cizhou qua la fabrique,
+  L'a tui vÃ¨du.
+
+              7
+
+              Avec l'Ã©cume du bouillon,
+              EcrÃ©mÃ©e sur cet avorton,
+              Notre boucher, homme pratique
+              En a fondu
+              De grands cierges qu'Ã  la fabrique,
+              Il a tous vendus.
+
+  8
+
+  La servÃ¨ta qu'ave tout vu
+  N'Ã¨ pouvÃ¨ po crazhe seu zu,
+  Pe lou bou raconti la seujha,
+  SÃ¨ mau pÃ¨cho,
+  SÃ¨ comprede que sha pazheula
+  Sezhe pÃ©jo.
+
+              8
+
+              La servante qui avait tout vu
+              N'en pouvant pas croire ses yeux,
+              Par le bourg raconta la chose,
+              Sans mal penser,
+              Sans comprendre que sa parole
+              Serait pesÃ©e.
+
+  9
+
+  Dhotion bin libaou de seu gout,
+  MÃ¨ d'espÃ©zhon greu que vÃ¨ nous,
+  On frecachezha de catrouille
+  A l'aveni,
+  Pleteu qu'alo a la fripouille
+  VÃ© lou beuchi.
+
+              9
+
+              Chacun est bien libre de ses goÃ»ts,
+              Mais j'espÃ¨re fort que chez nous,
+              On fricassera des pommes de terre
+              A l'avenir,
+              PlutÃ´t que d'aller Ã  la fripouille
+              Chez le boucher.
+
+  10
+
+  Quy teu qu'a fait chela sÃ¨chon?
+  E yon que n'a po leu blÃ©von,
+  Po lamÃª leu fils Ã  la lingua
+  QuÃ¨ Ã© shazi
+  De fozhe paschau la verguinnea
+  D'on greu beuschi.
+
+              10
+
+              Qui est-ce qui a fait cette chanson?
+              C'est un qui n'a pas les blevons[4],
+              Ni mÃªme les fils Ã  la langue
+              Quand il s'agit
+              De faire passer la rancune
+              D'un gros boucher.
+
+[4] Mal de gorge et de la langue.
+
+
+
+
+PETITE SCÃNE DE LA VIE
+
+VÃ© lou Barbi
+
+
+Allon meu j'ami, quemÃ¨ Ã¨ vous voyÃ© bauliau vous Ã©te l'air de vou
+j'amouije su veutre chale quemÃ¨ ch'amouijezhon na frelia de gouafon
+qu'on fazhe baniÃ« dÃ¨ on leni d'Ã©tale, Ã© fau que vous raconta quauque
+seuja pe zh'assuizhe de vou j'Ã¨dremi.
+
+Me n'affauzhe che pache vÃ¨ on barbiâde Veria.
+
+Pe pouva, Ã  tui, vou fauzhe avalau mon boucon sÃ¨ trou vou freni de
+chocha, Ã¨ fau que de vou deya que neutron barbi, on grÃ¨ dÃ©pÃ¨dia de
+zhÃ¨zheule ch'apale GrÃ©gueula (on niom que convin vra bien a chela
+seurta de profession tiÃ«, pichqu'Ã©ye convenu, dÃ¨ tou pay, qu'on rajo de
+pauva parlau leu zhou Ã¨ti sÃ¨ lamÃ¨ prÃ¨de lou tein de che moushiÃ« d'on
+bin d'allau chequeurre cha quelauta).
+
+D'Ã©zha don vÃ¨ lui dimeshe matin pe m'y fauzhe Ã©moutau pe lou premi co,
+leu deu z'u tra pa fo que me catelion la pÃ© chou lou nau, quÃ¨ Liaudou
+TrouprÃ©chau, Bena Binlaizi, Piarou Crainlabise, Tienou Goubaleuzha, pi
+na troupa d'autrou que ne cougnashon pau l'amÃ¨ y Ã©trizhon azhi pe che
+fauzhe dÃ©cayonnau devÃ¨ la grÃ¨mecha.
+
+Allon, vetia don mon GrÃ¨gueula que, pe ne pau lÃ¨che Ã¨dremi tui cÃ¨
+j'houmou su chon bon, quemÃ¨che, quemÃ¨ font touzhou cÃ¨ que velion parlau
+pe ne rÃ¨ dezhe, Ã  parlau de la plouzhe pi du bon tin, deyÃ¨ quemÃ¨ cÃ¨, Ã¨
+che veriÃ¨ du lion de la peurta pe zh'i consultau lou tin qu'Ã©yave l'air
+de fauzhe: Eh bin! que dit-on de cho tin, Ã© dÃ¨ lou ca de fauzhe bon
+cheti voui sÃ© ne pleut pau.
+
+âOh! Ã©yeu faudre bin que repond lon pÃ©zhe Crainlafra, Ã©ye greu ple
+dreulou de chequeurre la pocha de cha quelauta que de rauliau la
+gueullie de che caboute.
+
+âOh! bon pe la pocha, que reprÃ¨ Baptista Quamerizhe, mÃ¨ Ã  part cÃ¨,
+ma vou deyon que na peteta reujau shauda fa touzhou de bin tie que le
+dÃ©roushe: de pourra mÃ¨mou vou z'en prouvau pichque la derizhe qu'Ã 
+deravatau vÃ¨ nou a fait repochau tin qu'Ã  le poume rin-nette de neutra
+mÃ©trechaâquemÃª vou zete vu sÃª douta.
+
+_1er Refrain_
+
+    DÃ¨ tou pays quÃ¨ la dimÃ¨she
+    On tin d'aprÃ¨de lou nouvÃ©
+    VÃ© lou barbi Ã¨ faut che rÃ¨dre    } _bis_
+    E vÃ© lui qu'Ã¨ s'Ã¨ di lou mÃ©.     }
+
+
+SCÃNE II
+
+Allon pÃ¨zhe Binlaisi de crayou qu'Ã©ye t'a veutron tou; veni va que
+de vou rauselia on peu che la vieillie pÃ© de beya pÃ©dÃ© que Piarou
+Crainlabise va nou dezhe s'Ã¨ye vra va qui che dÃ©cide cheu co Ã  mariau
+cha fellie.
+
+âOh! oh! qu'y repond, Ã¨ seureyÃ¨ dÃ¨ cha barba que frije quemÃ¨ le dÃ©
+d'on pienou Ã  dÃ¨quati le z'Ã©toupe. SÃ¨ ne chazive que de mariau, Ã¨ sezhe
+bin Ã©ja vÃ© nou, Ã¨ ne pau leu galon que mÃ¨quon, Ã©yÃ¨ n'a petÃ©tre bin mÃ©
+de quinje que bÃ»lon latou de Claudine quemÃ¨ na troupa de bourdon nea
+latou de na greucha boja frÃ©she. MÃ© Ã© ne pau tou de bourdou-nau latou
+Ã© chazi de betau la mon dessu; pi vou peute contau qu'Ã©yÃ¨ faudra on
+dÃ©gredi pe pouva y arrevau...
+
+âVoua, Ã© pazha bin que ne pau vra la premizhe venia que repond
+GrÃ©gueula que raboutauve lou pÃ¨zhe Binlaisi Ã¨ lou teniÃ¨ pe lou nau de
+la mon gaushe quemin neutra fena tin seu poule pe la crÃ©ta que le leu
+j'abouque.
+
+âLa premizhe venia que reprÃ¨ vitou Crainlabise, oh non va vou z'eu
+peute crazhe, touta zheuna que le, le ne che zhin-ne pau greu pe
+repondre marda Ã  cha mÃ©zhe. Avouai cÃ¨ pe na fellie peupra comptau
+qu'eyÃ¨ne yena. CÃ¨ ne che moushe touzhou rÃ¨qu'avoua leu da pe ne pau
+chauli chon moushio de cafa. Pi pe l'Ã©conomie on n'Ã¨ parle pau, Ã© ne
+la zhin-ne pau de pachau leu ma Ã¨ti sÃ¨ che lavau lou nau rÃ¨que pe
+zh'Ã©parmau lou chavon. Mais Ã¨ ne pau tou... che vou deja que le fa
+Ã©peli leu juÃ« rÃ©qu'Ã¨ leu pourtÃ¨ dÃ¨ che cafe, quÃ¨ dezhau-vou hein? Eye
+pretÃ¨ taulou que de vou z'eu deyou. Betin che vou veli qu'Ã© ne pau
+brauvou Ã  ma de vou z'eu dezhe mais qu'Ã©peurte, Ã¨ n'Ã¨pashe pau que pe
+na femala tein de mariau contau qu'eyÃ¨ne yena.
+
+_2e Refrain.â(air de la Liaudin-na)_
+
+    La lou chon ple shau que la brauja
+    Leu z'u ple brelliÃ¨ que lou foua
+    Le cha menau lou dar, la paula
+    L'Ã©coucho, la shoucha, lou goua
+    Le raupeliÃ« mio que na fouin-na
+    Le ple rujau qu'on vio rena
+    Le chaute leu boichon sÃ¨ pin-na
+    Le cou mio que neutron shin-na.
+
+
+SCÃNE III
+
+Mais Ã  prepeu de mariazhou, vou, pÃ©zhe Goubaleuzha qu'Ã©te azhi on
+gachon que ne pau nomple lou vra premi venu, n'Ã¨ pourrau-vous pau
+fauzbe n'appla avoua Claudine Crainlabise? E me sÃ¨ble qu'y fazhon on
+brauvou zho lui deux.âQu'Ã¨ dete-vous?
+
+âD'Ã¨ deyou que quÃ¨ la fauta de mariau l'y troutezha pe lou vÃ¨trou,
+mon gachon azha bin l'Ã©mou d'eu cougnatre sÃ¨ que l'y deya le bin
+pro malin pre cÃ¨tie,âLamÃ©, sÃ¨ ava l'air de voula cayounau Claudine
+Crainlabize, de peuvou vou dezhe que che dÃ©gredia que le pouiche Ã©tre,
+de ne la crayou pau teu de taille Ã  pouva figuzhau avoua neutron Bena,
+quemÃ© vous pourra vou z'Ã¨ rÃ¨dre comptou pe l'affauzhe que de vai vous
+racontau.
+
+âEya pretiÃ« on cha de la chemon-na pachau que cha mÃ©zhe, Ã¨nouya de
+touzhou vÃ¨lau le po chouleta, l'y deci quemÃ¨ cÃ¨ Ã¨ choupÃ¨âBena quemÃ¨
+rÃ¨que Ã¨ te vayÃ¨ rouzhayÃ« lou blan des u, pi garlayÃ« lou fon de ta
+quelauta quÃ¨ te moude, de cougnashou qu'Ã© te vetia dravouzhe tin de
+mariau, de te premashou t'ashetau on boune bardou lou premi co que
+lou meci repassezha vÃ© nou che te vu me premi d'allau courtijÃ¨ Benate
+Coutouzhou qua a chequ'on de le lavezhi de beya deu pea de pinzhon na
+pourtau de lapin, pi na brauva camiseula de lon-na verda, sÃ¨ parlau
+de le j'autr berneguije que le pourra ava Ã¨ mariazhouâQu'Ã¨ dite? Che
+tÃ© che dÃ©gredi quÃ© sÃ¨ble, fa z'eu vaâOh! qu'y l'y repondi aprÃ© ava
+chonzhia on moumÃ¨ Ã¨ che grattÃ¨ l'ourellie, pe zhon boune bardou ne me
+dÃ©rÃ¨zhezhe pau, mais che vou veli me premi na cachquette Ã  bequa, de
+veu courtije dra vouzheâEh bin qu'Ã¨ chayeâAllon bon lou vetia parti
+vÃ© chon croufou, Ã©file seu guÃ©tron neuvou, cha berjellie blanshe pi che
+meton-ne, pi lou vetia Ã©barquau avoua on bon vizha-shin Ã  la mon pi
+na pipa de boui Ã  la gueurzheâEyazhe fallu lou va moudau, on azhe
+de lou marquis de Caraba s'Ã¨barquÃ¨ Ã  la garraâQuemÃ¨ Ã© ne pau vra loin
+pe zh'allau vÃ© leu Coutouzhou Ã¨ paucÃ¨ pe la travacha, l'y arrevi justou
+quemÃ¨ y quemÃ¨chauvon Ã  blayÃ« aprÃ¨s choupau.
+
+âBoncha Bena que l'y deci lou pÃ©zhe Coutouzhou Ã¨ lou vayÃ¨ Ã¨trau,
+t'arreve justou pe nou j'adiÃ« Ã  blayÃ«, prÃ¨ don na chalaâMais Ã  prepeu,
+te ne sezhe pretÃ¨ pau venu pe courtije neutra Benate que tÃ© che biÃ¨
+arrezhia cheti chaâChefai que l'y repon Bena' de n'air dÃ©cidau quemÃ¨
+cho du greu shin de la Zhelizhe que meuh tui cÃ© que pÃ¢chonâde si venu
+pe courtije veutra Benate, che vou veli me la ballie, balliau me la, pi
+che vou ne veli pau la mariau, gardau la, de ne si pau ple fo de lia
+que na mardaâPi lou vetia reparti Ã¨ fassÃ¨ bodaye cha pipa sÃ¨ lamÃ¨ ava
+ballia Ã  Coutouzhou lou tin de repondre.
+
+âEh bin qu'Ã¨ dete vou de che la courtija? pÃ¨chau-vou qui chon oncouzhe
+biÃ¨ Ã©pais leu gachon dÃ©gredi quemÃ¨ chotiÃ«? E n'Ã¨pashe pau que depi cho
+cha lÃ© lou tin duzhe bin tellemÃ¨ de Bena Ã  chela peuvra Benate que l'Ã¨
+rÃ©le tou lou grÃ¨ zhou quemÃ¨ on vÃ© qu'on dÃ©treyÃ«.
+
+âMÃ¨ l'azha biau bramau pi bio rÃ©lau, le ne lou tin poncouzhe la peuvra
+fellie va! Ã¨ faudra bin na gaillarda oncouzhe ple rÃ©shodau que l'atie
+pe dÃ©zhelau chomagna, contau z'i.....
+
+_3eme refrain, sur l'air de la Liaudinna._
+
+    Depi qui venu de la gara
+    De l'ila de Mezhagaspa
+    Mon Bena ple feu que na barra
+    Y caujÃ© quemÃ¨ n'avouca
+    Toute le felliÃ« du vellazhou
+    Ne couzhon qu'aprÃ¨ cho gailla
+    Le che vÃ¨dron bin tout'u grÃ¨ diablou
+    Si pouve le z'y fauzhe ava.
+
+
+SCÃNE IV.
+
+Ardi pÃ©zhe Sinlourinchou, que dit tout pe zhon co la mÃ¨ze GrÃ¨gueula que
+chavounove lou nau de zÃ¨ Crinlafra, raconto nous va azhi lou nouvÃ¨ de
+veutron carrou.
+
+Ma, vous racontau de nouvÃ©, mÃ© vous plaizÃ¨tau mÃ¨zhe GrÃ©geula; vous sÃ¨te
+bin que n'Ã¨ sai point.
+
+De chava de nouvÃ¨ Ã© bon a vous que teni na che brova peteta betequa
+su lou devÃ¨ pe zh'atreye leu j'houmou qu'on fauta de rajo pi qu'on
+che bin laizi de vous leu raconto Ãª n'atÃ¨dÃ¨ jo tou de pouva plÃ¨tau
+lou maiton dÃª veutron plat Ã  barba. MÃ© ma que n'ai, quemÃª vous saite,
+pe louzhemÃ¨ qu'on chaulou pete goule prelai su lou deri, que veliuous
+que d'aprenia de nouvÃ¨ pischque jamÃ¨ nion ne vint betau lou nau dÃª
+cho goule beurniou sÃ¨ ne pau leu shin predu pi quoque travesi que
+sheurshons louzhemÃ¨ Ã  bon marshia.
+
+PretÃª, quemÃ¨ n'ai rÃ¨ Ã  vous refujo mezhe GrÃ¨gueula, pisque lou pezhe
+Groubaleuzha vint tiÃ© de vou betau la gueurzhe Ã¨ bon gout Ãª vous parlÃ¨
+de la mardea, Ã¨ fau bin que me dÃ©boutouna tÃª se peu, quemÃ¨ on dit vÃ¨
+nous, pe taye de vous servi azhi on moucÃ¨ arezhia Ã  la mÃ¨ma chocha.âPi
+aprÃ¨ tout n'azhe pau pre cÃ¨ fauta de biÃª me fourche leu bouÃ¨ de la tÃ©ta
+pisque d'ai n'Ã©bauda touta neuva Ã  vous raconto quemÃ¨ vous jalo va sÃ¨
+vous beushie le j'ouzhelie.....
+
+QuÃ¨ nous j'alizin devÃª-t-ye a cha Ã  la buzhe pe zÃ©treni aprÃ© velia,
+nous trouvizhin neutra vashe barda troumÃ¨to du vÃ© apeuprÃ¨ quemÃ© sezhe
+neutron grÃ© vaule pe zh'allau a le z'Ã©baudeâvetia que biÃªânous l'y
+fuzhin tout de suite na bena paille, pi, quemÃ¨ neutra servÃ¨ta ame greu
+s'Ã©quipau de chela seurta de mÃ©canique tiÃ©, Ã¨ fut don convenu quÃ© sezhe
+lia que velliezhe chela vashe.
+
+Le s'Ã©zhe don bravamÃ¨ instalo Ã©-n'arret deri chelÃ  bÃªte e-n'atÃ¨dÃ¨âÂ«On
+azhe de on rena Ãª-n'arret deri na darbounize Ã¨-n'attÃ¨dÃ¨ que lou darbon
+venieÂ» que tout pe zhon co le vi veni quoque seuja ne ressÃ¨blÃª Ãª rÃª
+leu liapon d'on vÃ© quemÃ¨ Ã© deve Ã¨tre.âAllons, sÃ¨ lamÃ© prÃ¨de lou tein
+de biÃ¨ che rÃ¨dre contou de che que chauve po, vetia ma grÃ¨ bardala de
+serveta que vinsi u grÃª galou creyau a la peurta de la maijon: MaÃ®tre,
+maÃ®tre, livau vous don pe veni va, de crayou qu'Ã© ton bouquin que la
+barda vu fauzhe, on l'y va zhia la barba!...
+
+D'azha bin voulu coure va chela bÃªte, mais lou coualion de ma shemije
+se trouvi bin che biÃª Ãªtrefeshia dÃª cho moumÃª avouai cho de neu tra cha
+maÃ®tre que ne poussi pÃ´ me relevau tout de suite.
+
+PÃ©dÃª cho tein la servÃ¨ta Ã©zhe recouria Ã  chon peustou pe zhatÃªdre
+l'Ã©venemÃª. MÃ© cho diablou de vÃ  ne venive touzhou pau Ã  shavon!âQue
+fauzhe?âEnouya de touzhou attÃªdre, ma benea gaillarda de servÃ¨ta prit
+tout simplamÃª l'idÃ¨ de treye chela petetea bÃªte Ãª l'ou preniÃª pe che
+que le prenive pe de barba pi que n'ezhe autre sheuje que lou shavon de
+la couva du vÃ©.
+
+Ah, mÃ© le ne perdi pau chon tein..... Tout pe zhon co che l'Ãªnimea
+de vÃ© que venive u mondou lou petreyau lou premi che meti a trompetau
+Ãª possÃª cho foutu Ã¨shali que l'Ã©trenive tÃª lou vÃ¨trou, pedÃ¨ qu'Ã¨ memou
+tein, pe che dÃ©conliau sÃ¨ douta, l'Ã¨viy na bardelia de n'espÃ¨che de pau
+belete Ã¨ plin vezazhou de ma zhauna de servÃ©ta que lou tezhauve pe la
+couva Ã¨ reyÃ¨ touta chouleta Ã  grÃª gueurzhe dÃ©playa....
+
+Che de vou dija que l'Ã¨ na mÃ¨zhia de che le po de qua ly servi de
+dezhon lou lÃ©demon matin, de mÃªtron petÃ©tre omp eu, mÃ© pe lou sui l'Ã¨
+na pauchablamÃ¨ avalau pisqu'Ã© l'y Ã© seurtive oncouzhe pe le j'ouzhellie
+pi pe lou nau devÃ¨ que le che dÃ©cayouniche cheti matin pe veni a la grÃª
+mechaâvous demÃ¨dou ompeu che nous zÃ© n'in ri vÃ© nous!....
+
+_4eme refrain, sur l'air du refrain de ma babÃ©._
+
+    Ami qu'amau le po belete
+    Vous n'a don qu'a betau lou nau
+    U cu d'on vÃ© quÃ¨ y trompete    } _bis_
+    Vou sezha servu quemÃ© fau.     }
+
+
+
+
+DEUXIÃME PARTIE
+
+
+LA GUARRA
+
+LA GUERRE
+
+_Air: de l'Â«Abdication de NapolÃ©on 1erÂ»_
+
+
+  1
+
+  QuÃ© l'Allemand, seurtÃ¨ de la BaviÃ©zhe,
+  E l'Ã©nau mil vouÃ« cÃ¨ choicÃ¨tÃ©-di,
+  Passi lou Rhin, traveci la frontiÃ©zhe,
+  Pe veni ravazhiÃ« neutron pays,
+  De tui leu lion la trompeta d'alarme,
+  De la Fronche, neutra mÃ©zhe patri,
+  Rappeli tui seu z'Ã©fÃ¨ sous le j'arme
+  Pe delivrau lou pays Ã©vahi.          (_bis_)
+
+              1
+
+              Quand l'Allemand, sortant de la BaviÃ¨re,
+              En l'annÃ©e mil huit cent soixante dix,
+              Passa le Rhin, traversa la frontiÃ¨re,
+              Pour venir ravager notre pays,
+              De tous les cÃ´tÃ©s la trompette d'alarme,
+              De la France, notre mÃ¨re patrie,
+              Rappela tous ses enfants sous les armes
+              Pour dÃ©livrer le pays envahi.       (_bis_)
+
+  2
+
+  Mais cÃ© gari, Ã¨nivrau de couzhazhou,
+  Ont biau che battre quemÃ© de leyon,
+  Que pouvon t-y luttÃ¨ yon contre quatrou,
+  MÃ¨quÃ¨ de pon, mÃ¨quiÃ¨ de munition;
+  Mau quemÃ¨dau, Ã©crajau pe lou nombrou,
+  BiÃ¨ che fou thiau pleteu que requelau,
+  Pleteu qu'ava leu dÃ©joneu, u l'hontou
+  D'abÃ©dounau on carrou du drapeau.    (_bis_)
+
+              2
+
+              Mais ces guerriers, enivrÃ©s de courage,
+              Ont beau se battre comme des lions,
+              Que pouvaient-ils un contre quatre,
+              Manquant de pain, manquant de munitions,
+              Mal commandÃ©s Ã©crasÃ©s par le nombre,
+              Beaucoup se font tuer plutÃ´t que de reculer,
+              PlutÃ´t que d'avoir le dÃ©shonneur, la honte
+              D'abandonner un coin du drapeau.    (_bis_)
+
+  3
+
+  De cÃ© hÃ©ros, victime de la garra,
+  De cÃ© vaillÃ¨ meu devÃ¨ l'ennemi;
+  Leu nion Ã©cri su de plaque de marbra
+  Sezhon, dÃ© tui leu quÃ¨ton du pays;
+  Pe rappelau Ã  la nouvala Fronche
+  CÃ© frÃ©zhe meu dÃ©fÃ¨dÃ¨ la Patri,
+  E n'attÃ¨dÃ¨ l'hozha de la vÃ¨zhonche
+  De cÃ© j'ami gardin lou souveni.      (_bis_)
+
+              3
+
+              De ces hÃ©ros, victimes de la guerre,
+              De ces vaillants morts devant l'ennemi;
+              Les noms Ã©crits sur des plaques de marbre
+              Seront, dans tous les cantons du pays;
+              Pour rappeler Ã  la nouvelle France
+              Ces frÃ¨res morts dÃ©fendant la Patrie,
+              En attendant l'heure de la vengeance
+              De ces amis gardons le souvenir.    (_bis_)
+
+
+
+
+LA SÃ MARTIN
+
+LA SAINT MARTIN
+
+_(Revue et complÃ©tÃ©e) air connu._
+
+
+  1
+
+  Vetia la sÃª Martin qu'apruushe
+  Neutron vole dÃ  s'Ãªnalo,
+  Che nous pardin neutron vole
+  Nous pardin tout,
+  Nous fazhin mauvais moineazhou
+  Ma pis vous.
+  Tralalalala, lalalalala
+  Tralalalala lalalalala.
+
+              1
+
+              VoilÃ  la St Martin qui approche
+              Notre valet doit s'en aller,
+              Si nous perdons notre valet
+              Nous perdons tout,
+              Nous ferons mauvais mÃ©nage
+              Moi et vous.
+
+  2
+
+  Vu-t-on chava che que nous mÃ¨zhin
+  QuÃª nous sint tui vÃ© la maijon,
+  Lou vole pi neutra maitrecha
+  Ont de pon blan;
+  Lou minnou nea quemÃª de trefa
+  Peuvrou Zhon!
+
+              2
+
+              Veut-on savoir ce que nous mangeons
+              Quand nous sommes tous Ã  la maison,
+              Le valet et notre maÃ®tresse
+              Ont du pain blanc;
+              Le mien est noir comme du tourteau
+              Pauvre Jean!
+
+  3
+
+  Vu-t-on chav ache que nous bavin
+  QuÃª nous chin tui vÃ© la maijon,
+  Lou vole pi neutra maitrecha
+  Vont u ponchon;
+  Ma de bavou Ã  la chelieta
+  Peuvrou Zhon!
+
+              3
+
+              Veut-on savoir ce que nous buvons
+              Quand nous sommes tous Ã  la maison,
+              Le valet et notre maÃ®tresse
+              Vont au tonneau;
+              Moi je bois Ã  la seillette
+              Pauvre Jean!
+
+  4
+
+  Querau vous bin quemÃª nous cushin,
+  QuÃª nous sint tui vÃ¨ la maijon,
+  Lou vole pi neutra maitrecha
+  Ont de lia blanc;
+  Pi ma de cushou su la mata
+  Peuvrou Zhon!
+
+              4
+
+              Croiriez-vous bien comment nous couchons,
+              Quand nous sommes tous Ã  la maison,
+              Le valet et notre maÃ®tresse
+              Ont des lits blancs;
+              Et moi je couche sur la mate
+              Pauvre Jean!
+
+  5
+
+  Apre cÃ¨ saite-vous la sheuja
+  Que me crive lou mÃ© lou cÅu,
+  Et quÃª lou vole pi la maitrecha,
+  Font Ãª chÅur,
+  Femau lou fregon, la panoucha
+  L'amadeu.
+
+              5
+
+              AprÃ¨s cela savez-vous la chose
+              Qui me crÃ¨ve le plus le cÅur,
+              C'est quand le valet et la maÃ®tresse,
+              Font en chÅur,
+              Fumer le fourgon, la panosse
+              Et l'amadou.
+
+  6
+
+  VouzhÃªdra vous tui que m'Ã©quetau
+  Reteni biÃª chela leÃ§on:
+  Cozi toujhou lÃ  laide fena
+  Tin chon rang,
+  Tie que de che n'oumou, la brova
+  Fa on Zhon!
+
+              6
+
+              Maintenant tous qui m'Ã©coutez
+              Retenez bien cette leÃ§on:
+              Presque toujours la laide femme
+              Tient son rang,
+              LÃ  oÃ¹ de son mari, la belle
+              Fait un Jean!
+
+
+
+
+NA BATAILLIE DE FELLIÃ
+
+UNE BATAILLE DE FILLES
+
+ou
+
+LES FILLES DE BOISSEY ET DE CHEVROUX
+
+
+  1
+
+  Ne sai pau vra biÃ¨ shÃ¨tau,
+  MÃ¨ vous contezhe na seu-ja,
+  Que vin l'amÃ¨ d'arrevau,
+  Pi que ne pau biÃ¨ mau dreula,
+  Vou j'allau va que le felliÃ«,
+  De Boicha pi de Shievro,
+  N'Ã¨parmon pau jo guenelliÃ«,
+  Pau lamÃ¨ leu co d'etrelliÃ«,
+  QuÃ© lon bio jo pete co.
+
+              1
+
+              J'ne sais pas vrai bien chanter,
+              Mais j'vous conterai une chose,
+              Qui vient seulement d'arriver,
+              Puis qui n'est pas bien mal drÃ´le,
+              Vous allez voir que les filles,
+              De Boissey et de Chevroux,
+              N'Ã©pargnent pas leur guenille,
+              Pas seulement les coups d'Ã©trille,
+              Quand elles ont bu leur petit coup.
+
+  2
+
+  QuÃ¨ vin lou Vendredi-Chin,
+  E faudre va che le zÃªte,
+  Pe zhallau Ã  Donmartin
+  E viazhou pe toute bÃ©te:
+  Le che pienon, le che frijon,
+  Le che lavon bien lou nau,
+  Le che bredon, le che mirion,
+  Le che nipon, le ch'ajuston,
+  Le che monton quemÃ© faut.
+
+              2
+
+              Quand vient le Vendredi Saint,
+              Il faudrait voir ces Josephtes,
+              Pour aller Ã  Dommartin
+              En voyage pour toutes bÃªtes:
+              Elles se peignent, elles se frisent,
+              Elles se lavent bien le nez,
+              Elles se brident, elles se mirent,
+              Elles se nippent, elles s'ajustent,
+              Elles se montent comme il faut.
+
+  3
+
+  Chete yÃ¨ su leu Pelo,
+  Le fameuje Boichatizhe
+  Prizhon on brondai de bio,
+  Y pÃ¨dizhon de Brouyzhe.
+  âBiÃ¨ pÃªchau, deci Claudine,
+  E sÃ¨blezha on drapeau,
+  Vedre-te bin Madeline
+  Me prÃ©tau ta capeline
+  Pe zh'on peu mio lou marquau.
+
+              3
+
+              Cette annÃ©e sur le Peloux,
+              Les fameuses BoissatiÃ¨res
+              Prirent une branche de bouleau,
+              Y pendirent des bruyÃ¨res.
+              Bien pensÃ©, dit Claudine,
+              Ãa semblera un drapeau,
+              Voudrais-tu bien Madeline
+              Me prÃªter ta capeline
+              Pour un peu mieux le marquer.
+
+  4
+
+  Mais Ã© beu de Dommartin,
+  Arrevizhon le premizhe,
+  UshÃ¨ quemÃ¨ de lutin,
+  Le terrible shievroutizhe.
+  You hi hi, tra la la lire
+  Vive le fellie de shievro!
+  Veni don grÃ¨ Boichatizhe
+  Qu'on piene veutre brouyzhe,
+  Qu'on vous trenate on bon co.
+
+              4
+
+              Mais au bois de Donmartin,
+              ArrivÃ¨rent les premiÃ¨res,
+              Huchant comme des lutins,
+              Les terribles ChevroutiÃ¨res.
+              You hi hi, tra la la lire
+              Vivent les filles de Chevroux!
+              Venez donc grandes BoissatiÃ¨res
+              Qu'on peigne vos bruyÃ¨res,
+              Qu'on vous tresse un bon coup.
+
+  5
+
+  Shievroutizhe, couajau vou,
+  Repondon le Boichatizhe,
+  Nou chavin bin que cho zhou
+  Vou fazhau quauque bÃ©tije;
+  DÃ¨ touta neutra paroushe
+  On ne parle que de vou,
+  On dit que, greuche guenioushe,
+  Vous faites chounau le lioushe
+  MÃ¨ que le fene de vÃ¨ nou.
+
+              5
+
+              ChevroutiÃ¨res, taisez-vous,
+              RÃ©pondent les BoissatiÃ¨res,
+              Nous savions bien que ce jour
+              Vous feriez quelques bÃªtises;
+              Dans toute notre paroisse
+              On ne parle que de vous,
+              On dit que, grosses godiches,
+              Vous faites sonner les cloches
+              Plus que les femmes de chez nous.
+
+  6
+
+  Que peut-on dezhe de vou?
+  Reprenion le shievroutizhe
+  On cha bin qu'aqueuta nou
+  Vou n'Ã¨te que de vashizhes.
+  PÃ©dÃ¨ qu'Ã  trava lou mondou
+  Nou chin renoumau pretou,
+  E n'a pau lamÃ¨ velazhou
+  E defeu de veutron carou
+  Qu'on ne che mouque de vou.
+
+              6
+
+              Que peut-on dire de vous?
+              Reprennent les ChevroutiÃ¨res
+              On sait bien, qu'Ã  cÃ´tÃ© de nous
+              Vous n'Ãªtes que des vachÃ¨res.
+              Pendant qu'Ã  travers le monde
+              Nous sommes renommÃ©es partout,
+              Il n'y a pas seulement un village
+              En dehors de votre quartier
+              OÃ¹ l'on ne se moque de vous.
+
+  7
+
+  Voua vous Ã©tÃ© renoumau.
+  Pi de na dreula maniÃ¨zhe,
+  Pichqu'Ã¨ye pe petioulau
+  Ple chouvÃ¨ que veutre mÃ©zhe.
+  Che vou j'avo ompeu d'hontou
+  N'izhau vou pau vou cashie
+  QuÃ¨ Ã© che di pe lou mondou
+  Que dÃ¨che de mÃ©zhe caÃ¯e
+  Ne chon brauve qu'Ã  la chou.
+
+              7
+
+              Oui, vous Ãªtes renommÃ©es.
+              Mais d'une drÃ´le maniÃ¨re,
+              Puisque c'est pour faire des petits
+              Plus souvent que vos mÃ¨res.
+              Si vous aviez un peu de honte
+              N'iriez-vous pas vous cacher
+              Quand il se dit par le monde
+              Qu'ainsi des mÃ¨res truies
+              Ne sont belles qu'Ã  la porcherie.
+
+  8
+
+  S'Ã©ya de caÃ¯e vÃ© nou,
+  Ne t'eu pÃ u quÃ¨ vous y Ã©te,
+  QuÃ¨ leu magna vont vÃ© vou
+  On cha bin quemÃ¨ vous faite:
+  Que l'achon lou tÃ¢, la raushe
+  Tui leu j'houmou vou chon bon
+  PessÃ¨ dÃ¨ privau le j'autre
+  Vous Ã©te toute pro chaule
+  Pe n'Ã¨ pau refujau yon.
+
+              8
+
+              S'il y a des truies chez nous,
+              N'est-ce pas quand vous y Ãªtes,
+              Quand les magnats vont chez vous
+              On sait bien ce que vous faites:
+              Qu'ils aient le Â«tÃ¢Â»[5] la Â«rÃ cheÂ»[6]
+              Tous les hommes vous sont bons
+              Pensant d'en priver les autres
+              Vous Ãªtes toutes assez sales
+              Pour n'en pas refuser un.
+
+  9
+
+  AprÃ¨ s'Ã©tre tout creÃ¯au,
+  Le quemÃ¨chon la bataille;
+  Le gauge, leu co de pau
+  Veulon quemÃ¨ la mitraille;
+  Le s'Ã¨penion, che dÃ©bourlon,
+  Le ch'attrapon pe lou nau.
+  Chela bÃ¨da de female
+  Quin-non quemÃ¨ de cavales
+  Qu'on vint lamÃ¨ d'abadau.
+
+              9
+
+              AprÃ¨s s'Ãªtre tout criÃ©,
+              Elles commencent la bataille;
+              Les gazons, les coups de pieux
+              Volent comme la mitraille;
+              Elles s'empoignent, se dÃ©peignent,
+              Elles s'attrapent par le nez.
+              Cette bande de femelles
+              Cuinent comme des juments
+              Qu'on vient seulement de mettre en libertÃ©.
+
+  10
+
+  Le fajon bin tÃ¨ de train,
+  Que dÃ¨ tou lou vÃ©zenazhou
+  Tin qu'u bou de Dommartin
+  On cru qu'Ã© yÃ©zhe lou diablou,
+  Lou maizhe pri che n'Ã©charpa,
+  Tui leu pompier jo fezi
+  Et creÃ¯Ã¨ pretou Ã  l'Ã¢rma!
+  Preni garda, Ã¨ la gara,
+  Nou z'Ã©tÃ¨din l'ennemi.
+
+              10
+
+              Elles faisaient bien tant de train,
+              Que dans tout le voisinage
+              Jusqu'au bourg de Donmartin
+              On crut que c'Ã©tait le diable,
+              Le maire prit son Ã©charpe,
+              Tous les pompiers leur fusil
+              En criant partout: Aux armes!
+              Prenez garde, c'est la guerre,
+              Nous entendons l'ennemi.
+
+  11
+
+  AprÃ¨ cÃ¨, chon ne vu pau
+  Fauzhe frapau de mÃ©daille,
+  Que l'on pretÃ¨ mezhetau,
+  DÃ¨ che l'Ã©trÃ¨zha bataille,
+  E faudre Ã  che le fellie
+  Qu'avon bu on che greu co
+  Fauzhe Ã¨viau quauque boutelliÃ©,
+  De bon vin vio que petellie,
+  Pe refauzho notrou co.
+
+              11
+
+              AprÃ¨s cela, si on ne veut pas
+              Faire frapper de mÃ©dailles,
+              Qu'elles ont pourtant mÃ©ritÃ©es,
+              Dans cette Ã©trange bataille,
+              Il faudrait Ã  ces filles
+              Qui avaient bu un si gros coup
+              Faire envoyer quelques bouteilles,
+              De bon vin vieux qui pÃ©tille,
+              Pour refaire une autre fois.
+
+[5] TÃ¢âsang viciÃ©.
+
+[6] Racheâsorte de gale.
+
+
+
+
+LA VIA DU MONDOU
+
+LA VIE DU MONDE
+
+
+  1
+
+  L'Ã¨fÃ¨ dessus la tarra
+  Ne pau cheteu venu
+  Qu'y bÃ¨le creie Ã  l'arma,
+  DevÃ¨ d'uvri leu zu,
+  On dezhe qui sin zhia
+  Lou troumÃ¨ de la via.
+
+              1
+
+              L'enfant dessus la terre
+              N'est pas sitÃ´t venu
+              Qu'il pleure, crie aux larmes,
+              Avant d'ouvrir les yeux,
+              On dirait qu'il sent dÃ©jÃ 
+              Les tourments de la vie.
+
+  2
+
+  QuÃ¨ l'on di-z'Ã¨ le felliÃ«
+  Parlon de le poupÃ©,
+  Leu gachon de le guelliÃ«
+  DÃ© shevau, dÃ© JoizÃ©,
+  A cho tein leu z'Ã©fÃ¨
+  RÃ©von l'amujemÃ¨.
+
+              2
+
+              Quand elles ont dix ans, les filles
+              Parlent de leur poupÃ©e,
+              Les garÃ§ons de leurs quilles
+              Des chevaux, des oiseaux;
+              A ce temps les enfants
+              RÃªvent l'amusement.
+
+  3
+
+  A vingt Ã¨ la jeunesse
+  Ne chonzhe qu'Ã© plaizi:
+  Parlau galon, mÃ©trÃ©che,
+  Vetia tou chon seuci;
+  MÃ© lou tein dÃ© j'amou
+  Ne duzhe pau touzhou!
+
+              3
+
+              A vingt ans la jeunesse
+              Ne songe qu'au plaisir:
+              Parler galants, maÃ®tresses,
+              VoilÃ  tout leur souci;
+              Mais le temps des amours
+              Ne dure pas toujours!
+
+  4
+
+  A trÃªte Ã¨ fleu de l'azhou
+  Eye tein d'Ã©parmau
+  Seu revenu, seu gazhou,
+  Chon pÃ¨che Ã  che mariau,
+  QuÃ¨ on vu che montau
+  Eya greu Ã  comptau.
+
+              4
+
+              A trente ans, fleur de l'Ã¢ge
+              Il est temps d'Ã©conomiser
+              Ses revenus, ses gages,
+              Si l'on pense se marier,
+              Quand on veut se monter
+              Il y a gros Ã  compter.
+
+  5
+
+  E vÃ© la quazhÃ¨tin-na
+  Que cÃ© que chon mariau
+  Ont chouvÃ¨ mÃ© de pin-na,
+  E fau touzhou gretau,
+  MÃ© dÃ¨ lou cÃ©liba
+  On a moins de traca.
+
+              5
+
+              C'est vers la quarantaine
+              Que ceux qui sont mariÃ©s
+              Ont souvent le plus de peines,
+              Il faut toujours bercer,
+              Mais dans le cÃ©libat
+              On a moins de tracas.
+
+  6
+
+  QuÃ¨ vint la chinquÃ¨tin-na,
+  Enouya du beneu,
+  On ne craint pau la pin-na
+  On sheurshe leu j'honeu,
+  Sheution vedre vÃ© lui
+  Etre mÃ©zhe u marli.
+
+              6
+
+              Quand vient la cinquantaine,
+              EnnuyÃ© du bonheur,
+              On ne craint pas la peine
+              On cherche les honneurs,
+              Chacun voudrait chez lui
+              Etre maire ou marguillier.
+
+  7
+
+  MÃ© quÃ¨ la tra vingt n'houmou
+  Dit: zhÃ© pro travailla,
+  Pe zh'Ã©tre pre trÃ¨quilou
+  Lou rÃ©chtou de cha via,
+  CÃ¨de tout Ã¨ z'Ã©fÃ¨
+  Pe vivre sÃ¨ tourmÃ¨.
+
+              7
+
+              Mais quand il a trois vingt l'homme
+              Dit: J'ai assez travaillÃ©,
+              Pour Ãªtre plus tranquille
+              Le reste de sa vie,
+              CÃ¨de tout aux enfants
+              Pour vivre sans tourment.
+
+  8
+
+  QuÃ¨ vint la septÃ¨tin-na
+  On a biau che dreci,
+  Rentier, cho qu'a de pin-na
+  QuemÃ¨chon a croubi
+  PretÃ¨ leu jon qu'Ã¨ya
+  Font touzhou leu gailla.
+
+              8
+
+              Quand vient la septantaine
+              On a beau se redresser,
+              Rentier, celui qui a de la peine
+              Commencent Ã  se courber
+              Pourtant les uns qu'il y a
+              Font toujours les gaillards.
+
+  9
+
+  A quatrou-vingt lou tarmou
+  De la via ne pau loin,
+  Leu feu quemÃ¨ leu fablou
+  Appreushon de la fin:
+  E fau bon grÃ¨ mau grÃ¨
+  Prepazhau chon paquet.
+
+              9
+
+              A quatre-vingt le terme
+              De la vie n'est pas loin,
+              Les forts comme les faibles
+              Approchent de la fin:
+              Il faut bon grÃ© mal grÃ©
+              PrÃ©parer son paquet.
+
+  10
+
+  Pischque su che la tarra
+  Tui leu pau qu'on y fa
+  Nou moin-non vÃ¨ la tomba
+  Que da nou recheva:
+  Vivin don quemÃ¨ fau
+  Ne fint jamÃ¨ lou mau.
+
+              10
+
+              Puisque sur cette terre
+              Tous les pas qu'on y fait
+              Nous mÃ¨nent vers la tombe
+              Qui doit nous recevoir:
+              Vivons donc comme il faut
+              Ne faisons jamais le mal.
+
+
+
+
+LEU DOUJE MA DE L'ÃNAU
+
+LES DOUZE MOIS DE L'ANNÃE
+
+_Sur l'air du roi Dagobert_
+
+
+  1
+
+  E janvier, mÃ  de fra
+  On ne seu pau trou de vÃ¨ cha,
+  De nezhe de verlia
+  Touta la quÃ¨pagne crevia;
+  PÃ¨dÃ¨ la zhournau
+  On fa la mÃ©liau,
+  Pe che rÃ©shodau
+  On va u fourniau,
+  MÃ© lou cha, la vellia,
+  Qu'on ne tui rezhoin prÃ¨s du foua,
+  On brache leu jatou
+  ChouvÃ¨ tin qu'Ã  l'arba du zhou.
+
+              1
+
+              En janvier, mois de froid
+              On ne sort pas trop de chez soi,
+              De la neige, du verglas
+              Toute la campagne est couverte;
+              Pendant la journÃ©e
+              On fait la mÃªlÃ©e,
+              Pour se rÃ©chauffer
+              On va au fourneau,
+              Mais le soir la veillÃ©e,
+              Quand on est tous rejoint prÃ¨s du feu,
+              On brasse les atouts
+              Souvent jusqu'Ã  l'aube du jour.
+
+  2
+
+  E fevri lou chelo
+  Che fa va lou nau quauque co,
+  Pe veni ranimau
+  CarmÃ¨trÃ¨ si ne pau zhelau;
+  Et faut va cho zhou
+  Fait pe leu j'amou,
+  Tui leu rendez-vou
+  Qui cashe pretou,
+  Leu zheunou deu-j-Ã  deu
+  Vont fozhe brulau jo faulieu,
+  PÃ¨dÃ© qu'Ã  la mÃ©jon
+  On prepazhe leu matafon.
+
+              2
+
+              En fÃ©vrier le soleil
+              Se fait voir quelque fois,
+              Pour venir ranimer
+              Carnaval s'il n'est pas gelÃ©;
+              Il faut voir ce jour
+              Fait pour les amours,
+              Tous les rendez-vous
+              Qu'il cache partout,
+              Les jeunes deux Ã  deux
+              Vont faire brÃ»ler leur folieux[7]
+              Pendant qu'Ã  la maison
+              On prÃ©pare les matefins.
+
+  3
+
+  E mars la shoucha
+  Qu'on ave Ã©touya tout l'eva,
+  SÃ© ne fa pau mÃ© fra
+  QuemÃ¨che Ã  trache quauque rat;
+  MÃ© le zhÃ¨boulÃ©
+  DÃ¨ lou renouvÃ©,
+  Epashon chouvÃ¨
+  DÃ¨ fauzhe biÃ¨ grÃ¨,
+  On ne t'Ã¨cazhin-nau
+  De zhon-nau lou vÃ¨trou fa mau,
+  MÃ© Ã  Pauque chounau
+  Shaution pourra che rattrapau.
+
+              3
+
+              En mars, la charrue
+              Qu'on avait rentrÃ©e tout l'hiver,
+              S'il ne fait pas trop froid
+              Commence Ã  tracer quelques raies;
+              Mais les giboulÃ©es
+              Dans le renouveau,
+              EmpÃªchent souvent
+              D'en faire bien long,
+              On est Â«encarÃªmÃ©Â»
+              DÃ©jeuner le ventre fait mal,
+              Mais Ã  PÃ¢ques sonnÃ©
+              Chacun pourra se rattraper.
+
+  4
+
+  Avri on co venu
+  Qu'on a Ã¨tÃ¨du lou coucu,
+  Tout quete la majon
+  SÃ¨ va travaille dÃ¨ leu shon;
+  Eye dÃ¨ cho mÃ 
+  Qu'on ba leu tremÃ 
+  Tui leu payjon
+  Chenon Ã  plin mon
+  DÃ¨ leu beu, leu boichon
+  Tui leu j'oizÃ©, tinqu'u bushon,
+  N'arÃ©ton de shÃ¨tau
+  PÃ©dÃ© qu'y senion jo couvau.
+
+              4
+
+              Avril une fois venu
+              Qu'on a entendu le coucou,
+              Tout quitte la maison
+              S'en va travailler dans les champs;
+              C'est dans ce mois
+              Qu'on fait les semis
+              Tous les paysans
+              SÃ¨ment Ã  pleine main
+              Dans les bois les buissons
+              Tous les oiseaux jusqu'au Â«buchonÂ»,
+              N'arrÃªtent de chanter
+              Pendant qu'ils soignent leur couvÃ©e.
+
+  5
+
+  MÃ© de tui, Ã©ye mai
+  Lou ma lou ple biau, lou ple gai,
+  DÃ¨ cho tin de fleu
+  Tout vit de plasi, de beneu.
+  DÃ¨ tui leu verzhi
+  Leu j'abrou Ã  fri,
+  Che sharzhon de lio
+  De toutes coulo,
+  Depi lou biau vashi
+  Tinqu'u grÃ¨ vaule, u bouvi,
+  Shotion ressin l'ardeu,
+  L'amou, reveni dÃ¨ chon cÅu.
+
+              5
+
+              Mais de tous, c'est mai
+              Le mois le plus beau, le plus gai,
+              Dans ce temps des fleurs
+              Tout vit de plaisir, de bonheur.
+              Dans tous les vergers
+              Les arbres Ã  fruits,
+              Se chargent de fleurs
+              De toutes couleurs,
+              Depuis le beau vacher
+              Jusqu'au grand valet, au bouvier,
+              Chacun ressent l'ardeur,
+              L'amour revenu dans son cÅur.
+
+  6
+
+  QuÃ© vint lou ma de juin
+  Arreve lou moumÃ¨ dÃ© fein,
+  U prau du grÃ¨ matin
+  On ne t'ashevau su l'Ã¨din;
+  Efau va cho fein
+  QuÃ¨ Ã© fa bon tein
+  Chon lou fa chautau
+  Touta la zhournau,
+  PretÃ¨ chartin j'ouvri
+  Ebleyon quauque co l'oti,
+  SÃ© ya de fenezhi
+  DÃ© leu prau pe le dÃ¨vreti.
+
+              6
+
+              Quand vient le mois de juin
+              Arrive le moment des foins,
+              Au prÃ© du grand matin
+              On est Ã  cheval sur l'andain;
+              Il faut voir ce foin
+              Quand il fait beau temps
+              Si on le fait sauter
+              Toute la journÃ©e,
+              Pourtant certains ouvriers
+              Oublient quelquefois l'outil,
+              S'il y a des faneuses
+              Dans les prÃ©s pour les divertir.
+
+  7
+
+  E juillet la machon
+  Qu'a mozhau depi la SÃ¨ zhon,
+  Amin-ne dÃ¨ leu shon
+  Tout lou mondou de la mÃ©jon,
+  Avoua quÃ© plasi
+  Leu bon machouni,
+  Meurdon u chelion
+  De quauque sezon,
+  Cho qu'attrappe la crui
+  L'habelie dÃ© ple biau z'Ã©pi
+  QuÃ¨ on prÃ¨ lou rena
+  On ushe Ã  gueurzhe dÃ©playa.
+
+              7
+
+              En juillet la moisson
+              Qui a mÃ»ri depuis la St Jean,
+              AmÃ¨ne dans les champs
+              Tout le monde de la maison,
+              Avec quel plaisir
+              Les bons moissonneurs,
+              Mordent au sillon
+              De quelque Suzon,
+              Celui qui attrape la croix
+              L'habille des plus beaux Ã©pis
+              Quand on prend le renard
+              On huche Ã  gorge dÃ©ployÃ©e.
+
+  8
+
+  MÃ© de touta l'Ã¨nau
+  Eye lou ma d'eu lou ple shau,
+  Qu'on che fa don trauchau
+  Chon n'Ã©queu touta la zhournau,
+  On co chon pali
+  Pienau, biÃ¨ bredau,
+  Pi su chon greni
+  Chon blau tou queblau,
+  Tout contÃ¨ lou fremi
+  RassÃ¨ble tui seu machouni,
+  On fa leu matafon
+  On shÃ¨te, on chequeu lou ponchon.
+
+              8
+
+              Mais de toute l'annÃ©e
+              C'est le mois d'aoÃ»t le plus chaud,
+              Qu'on se fait donc suer
+              Si on bat toute la journÃ©e,
+              Une fois le pailler
+              PeignÃ©, bien bridÃ©,
+              Puis sur le grenier
+              Le blÃ© tout criblÃ©,
+              Tout content le fermier
+              Rassemble tout ses moissonneurs,
+              On fait les matefins
+              On chante, on secoue le tonneau.
+
+  9
+
+  Septembre leu raijin
+  Que nous baillon de che bon vin,
+  Pe nous fauzhe shÃ¨tau
+  Chon mo, Ã¨ fau leu ramachau.
+  DÃ¨ cho mÃ¨mou tein
+  On fa leu revein,
+  Pi cÃ© qu'on lÃ©si
+  Prenion on fesi
+  MÃ¨ chouvÃ¨ lou premi
+  Ne cha qu'Ã  shourshiÃ« na gebi,
+  Qu'on ne tuve pau teu
+  QuÃ¨ bin le trouvau dÃ¨ leu beu.
+
+              9
+
+              Septembre, les raisins
+              Qui nous donnent du si bon vin,
+              Pour nous faire chanter
+              Sont mÃ»rs, il faut les ramasser.
+              Dans ce mÃªme temps
+              On fait les regains,
+              Puis ceux qui ont le loisir
+              Prennent un fusil
+              Mais souvent le permis
+              Ne sert que pour chercher un gibier,
+              Qu'on se garde bien de tuer
+              Quand mÃªme on le trouve dans le bois.
+
+  10
+
+  E n'octobre leu zhou
+  On zhia greu dÃ¨fourzhia vÃ© nou,
+  PretÃ© leu payjon
+  On greu d'euvra de tui leu lion,
+  Et fau ramachau
+  Pe pouva femau,
+  Vitou labouzhau
+  Pe coure chenau,
+  E fau Ã¨tre pretou,
+  A la mÃ¨jon, Ã© shon u fou
+  ChouvÃ¨ Ã¨ fau velliÃ«
+  Tinqu'Ã  minai pe dÃ©pelliÃ«.
+
+              10
+
+              En octobre les jours
+              Ont dÃ©jÃ  gros diminuÃ© chez nous,
+              Pourtant les paysans
+              Ont beaucoup d'ouvrage de tous cÃ´tÃ©s,
+              Il faut ramasser
+              Pour pouvoir fumer,
+              Vite labourer
+              Puis courir semer,
+              Il faut Ãªtre partout,
+              A la maison, aux champs, au four
+              Souvent il faut veiller
+              Jusqu'Ã  minuit pour dÃ©feuiller.
+
+  11
+
+  E novembre leu zhou
+  Devenion mauvais quemÃ¨ tout,
+  On ne va que brouilla
+  Que chon chouvÃ¨ brovamÃ¨ fra.
+  QuÃ¨ bin dÃ¨ leu shon
+  E n'y fa pau bon,
+  E fau s'y teni
+  Crevi leu ravi,
+  E n'a pau mÃ© de shau
+  Le nai quemÃ¨chon Ã  zhelau,
+  La nezhe, leu zhevrin
+  Suivont de prÃ¨ la SÃª Martin.
+
+              11
+
+              En novembre, les jours
+              Deviennent mauvais comme tout,
+              On ne voit que brouillard
+              Qui sont souvent joliment froids.
+              Lors mÃªme que dans les champs
+              Il n'y fait pas bon,
+              Il faut s'y tenir
+              Couvrir ses raviers,
+              Il n'y a plus de chaleur
+              Les nuits commencent Ã  geler,
+              La neige, les givres
+              Suivent de prÃ¨s la St Martin.
+
+  12
+
+  E dÃ©cembre assui tout
+  La shau, leu travau, leu biau zhou,
+  Cho ma na que NouyÃ¨
+  Pe nou rÃ¨dre on peu de gaÃ®tÃ©,
+  QuÃ¨ vin la minai
+  DÃ¨ che la grÃª nai,
+  Shaution de tou cÅu
+  FÃ¨te lou sauveu,
+  Pachau cho zhou l'Ã¨nau
+  SÃ¨ va dÃ¨clinÃ¨ Ã  grÃª pau,
+  SÃªblÃ© nou dezhe Ã  tui
+  QuemÃ¨ tout pache, tout assui!
+
+              12
+
+              En DÃ©cembre finit tout
+              Le chaud, les travaux, les beaux jours,
+              Ce mois n'a que NoÃ«l
+              Pour nous rendre un peu de gaÃ®tÃ©,
+              Quand vient la minuit
+              Dans cette grande nuit,
+              Chacun de tout cÅur
+              FÃªte le Sauveur,
+              PassÃ© ce jour, l'annÃ©e
+              S'en va dÃ©clinant Ã  grands pas,
+              Semblant nous dire Ã  tous
+              Comme tout passe! comme tout finit!
+
+[7] Folieux ou brandon.
+
+
+
+
+LA BELLE MARION
+
+Air connu
+
+
+  1
+
+  J'aimerais mieux la belle Marion
+  Que toutes vos demoiselles
+  L'Ã¨ne brauva, pi le ri
+  L'Ã¨ne faite Ã  meu dÃ©si
+  GrÃ¨ Dieu que l'Ã¨ne brauva
+  De l'amou mio que n'autra.
+
+              1
+
+              J'aimerais mieux la belle Marion
+              Que toutes vos demoiselles
+              Elle est belle et elle rit
+              Elle est faite Ã  mes dÃ©sirs
+              Grand Dieu qu'elle est belle
+              Je l'aime mieux qu'une autre.
+
+  2
+
+  Embrasse moi la belle Marion
+  Embrasse moi ma mie
+  Embrasse moi autant de fois
+  Qu'il y a de feuilles dans ces bois
+  De fleurs dans la prairie
+  Embrasse moi ma mie.
+
+              2
+
+              Embrasse moi ma belle Marion
+              Embrasse moi ma mie
+              Embrasse moi autant de fois
+              Qu'il y a de feuilles dans ces bois
+              De fleurs dans la prairie
+              Embrasse moi ma mie.
+
+  3
+
+  Mais quÃ¨ nou l'y fazhin l'amou
+  N'y allin pau trou vitou
+  Prequa ple vitou nou z'izhin
+  Mais d'arzhÃ¨ nous mezhezhin
+  De m'amau che la brune
+  La barba nou z'Ã¨ fÃ»me.
+
+              3
+
+              Mais quand nous lui ferons l'amour
+              N'y allons pas trop vite
+              Parce que plus vite nous irons
+              Plus d'argent nous mangerons
+              D'embrasser cette brune
+              La barbe nous en fume.
+
+  4
+
+  Maitre vou ne s'Ã¨te don pau
+  Che que leu meshiÃ¨ deÃ¯on
+  Y s'Ã¨ von pretou deÃ¯Ã¨
+  Que n'a pau chin seu vaillÃ¨
+  Pe zh'ashetau na blauda
+  Pe zh'allau va ma Liauda.
+
+              4
+
+              MaÃ®tre vous ne savez donc pas
+              Ce que les mÃ©chants disent
+              Ils s'en vont partout disant
+              Que je n'ai pas cinq sous vaillant
+              Pour acheter un paletot
+              Pour aller voir ma Claude.
+
+  5
+
+  Mon maitre m'y a repondu
+  Ne sizh'ou pau bon maitre
+  Va vendre ses six moutons
+  Cela t'y fera de l'argent
+  Pour acheter une veste
+  Pour aller voir ta maÃ®tresse.
+
+              5
+
+              Mon maÃ®tre m'y a rÃ©pondu
+              Ne suis-je pas bon maÃ®tre
+              Va vendre ces six moutons
+              Cela t'y fera de l'argent
+              Pour acheter une veste
+              Pour aller voir ta maÃ®tresse.
+
+
+
+
+N'AMETIA DÃPONDIA
+
+UNE AMITIÃ ROMPUE
+
+
+  1
+
+  HolÃ  meÃ¯a
+  Te sevinte de ma,
+  Du tinque deri ta peurta
+  Te m'invitauve lou cha
+  O ma meÃ¯a ressevinte de ma.
+
+              1
+
+              Hola mie
+              Te souviens-tu de moi,
+              Du temps que derriÃ¨re ta porte
+              Tu m'invitais le soir
+              O ma mie ressouviens-toi de moi.
+
+  2
+
+  Oh lou magna, presqua vin-te vÃ¨ ma
+  QuÃ¨ ma mezhe pi ma tanta
+  AprÃ¨ ta che chon faushia,
+  PÃ® qu'Ã  nautrou ma fa me si premia.
+
+              2
+
+              Oh le magnat, pourquoi viens-tu chez moi
+              Quand ma mÃ¨re et puis ma tante
+              AprÃ¨s toi se sont fÃ¢chÃ©es,
+              Et qu'Ã  un autre, je me suis promise.
+
+  3
+
+  MeÃ¯a quÃ¨ bin Ã  nautrou tÃ¨ premia
+  Va, nÃ¨ si guÃ©zhou Ã¨ pin-na,
+  Me fou de te n'amitia,
+  DÃ¨ treuvezhe na chie brauva que ta.
+
+              3
+
+              Mais quand mÃªme Ã  un autre tu es promise
+              Va, je n'en suis guÃ¨re en peine,
+              Je me fiche de ton amitiÃ©,
+              j'en trouverai une plus belle que toi.
+
+  4
+
+  TÃ¨ mio, magna, mais rÃ¨ me mon foula,
+  Mon foula de brauva chaÃ¯a
+  Que t'ava ballia on cha,
+  On cha, que n'amauva que ta.
+
+              4
+
+              Tant mieux, magnat, mais rends-moi mon foulard,
+              Mon foulard de jolie soie
+              Que je t'avais donnÃ© un soir,
+              Un soir, que je n'aimais que toi.
+
+  5
+
+  Oh non, MeÃ¯a, t'nazhÃ© pau ton foula,
+  Le vÃ© nou dedÃ¨ ma shombra,
+  DÃ¨ on croufou bien froumau;
+  Depi lontÃ¨ dÃ¨ n'ai perdu la liau.
+
+              5
+
+              Oh non, Mie, tu n'auras pas ton foulard,
+              Il est chez nous dedans ma chambre,
+              Dans un coffre bien fermÃ©;
+              Depuis longtemps j'en ai perdu la clef.
+
+  6
+
+  Gazha magna, ch'te ne rÃ¨ pau tou,
+  Ya de gachon u velazhou
+  A qui n'azhe qu'Ã  parlau
+  Pe te fauzhe balliÃ« dessus lou nau.
+
+              6
+
+              Gare magnat, si tu ne rends pas tout,
+              Il y a des garÃ§ons au village
+              A qui je n'aurai qu'Ã  parler
+              Pour te faire donner sur le nez.
+
+  7
+
+  MeÃ¯a, teu galon ne leu cregnou pau,
+  Ma qu'ai fait mon tou de Fronche
+  Depi Veria tin qu'Ã  Crau,
+  Jamais nion ne m'a ballia su lou nau.
+
+              7
+
+              Mie, tes galants je ne les crains pas,
+              Moi qui ai fait mon tour de France
+              Depuis Viriat Jusqu'Ã  Cras,
+              Jamais personne ne m'a donnÃ© sur le nez.
+
+  8
+
+  Fellie, gachon, vou date vou jamau,
+  Mais che l'exÃ¨plon trou laidou,
+  Pe shourshiÃ« Ã  l'imitau
+  Ne vou j'amau que tÃ¨ quÃ¨ peut dezhau.
+
+              8
+
+              Filles, garÃ§ons, vous devez vous aimer,
+              Mais si l'exemple est trop vilain,
+              Pour chercher Ã  l'imiter
+              Ne vous aimez que tant que cela peut durer.
+
+
+
+
+MA TANTA PERNETA
+
+MA TANTE PERNETTE
+
+
+  1
+
+  Ma Tanta Perneta,
+  A bin mau u da,
+  L'a na vasche Ã  trÃ©zhe, qui que la quinquelliezheta
+  Qui que la tizhe la bouyeta,
+  Qui que la traizha.
+
+              1
+
+              Ma Tante Pernette,
+              A bien mal au doigt,
+              Elle a une vache Ã  traire, qui que la quinquillerette
+              Qui que la tire la bouyette,
+              Qui qui la traira.
+
+  2
+
+  Oh! dit ma vÃ¨zena, que bin dÃ¨gredia,
+  Baillau la greleta, ma d'y vai, quinquelliezheta,
+  Ma d'y vai, tizhe la bouyeta,
+  Ma d'y vai tout dra.
+
+              2
+
+              Oh! dit une voisine, qui est bien dÃ©gourdie,
+              Donnez la grelette, moi j'y vais, quinquillerette,
+              Moi j'y vais, tirer la bouyette,
+              Moi j'y vais tout droit.
+
+  3
+
+  Allons ma bouyeta, ton lait baillava,
+  Mais la vashe viva a bailla quinquelliezheta,
+  A bailla, tizhe la bouyeta,
+  A bailla du pia.
+
+              3
+
+              Allons ma bouyette, ton lait donne voir,
+              Mais la vache vive a donnÃ©, qinquillerette,
+              A donnÃ©, tire la bouyette,
+              A donnÃ© du pied.
+
+  4
+
+  Foutia grÃ¨ bardala t'au tou trabeshia,
+  T'au goulia ma rouba, pi verchau, quinquelliezheta,
+  Pi verchau, tizhe la bouyeta,
+  Verchau ma creshia.
+
+              4
+
+              Fichue grande bardelle, tu as tout trÃ©buchÃ©,
+              T'as bouÃ© ma robe, puis versÃ©, quinquillerette,
+              Puis versÃ©, tire la bouyette,
+              VersÃ© ma cruchÃ©e.
+
+  5
+
+  QuÃ¨ n'autrou co, tanta, lou mau vou prÃ¨da,
+  Che vou j'a n'a vashe, que baille, quinquelliezheta,
+  Que baille tizhe la bouyeta,
+  Que baille du pia.
+
+              5
+
+              Quand un autre coup, tante, vous prendra,
+              Si vous avez une vache, qui donne, quinquillerette,
+              Qui donne, tire la bouyette,
+              Qui donne du pied.
+
+  6
+
+  Vou la fazha traizhe Ã  qui vedra,
+  Pre ma me contÃ¨tou de na sÃ¨... quinquelliezheta,
+  De na sÃ¨... tizhe la bouyeta,
+  De na sÃ¨pelia.
+
+              6
+
+              Vous la ferez traire Ã  qui vous voudrez,
+              Pour moi, je me contente d'une sem... quinquillerette,
+              D'une sem... tire la bouyette,
+              D'une sempillerÃ©e.
+
+  7
+
+  Oh qu'Ã¨ya de fellie dÃ¨ neutron Veria,
+  SÃ¨ qu'on sÃ¨ mÃ¨feye, rebaillon, quinquelliezheta,
+  MÃ¨ de na, tizhe la bouyeta,
+  MÃ¨ d'na tourtelia.
+
+              7
+
+              Oh! qu'il y a des filles, dans notre Viriat,
+              Sans qu'on s'en mÃ©fie, redonne, quinquillerette,
+              Plus d'une, tire la bouyette,
+              Plus d'une tortillÃ©e.
+
+
+
+
+JOUZÃ BOUVA
+
+JOSEPH BOUVARD
+
+
+  1
+
+  Veli vous chava na schÃ¨chon,
+  De na felliÃ« pi don gachon;
+  La felliÃ« chapale Marion,
+  Le reste u velazhou d'amon,
+  Le reste vÃ© ShaunÃ© Ã  Bala,
+  JouzÃ© Bouva la va chouvÃ¨ va.
+
+              1
+
+              Voulez-vous savoir une chanson,
+              D'une fille et d'un garÃ§on;
+              La fille s'appelle Marion,
+              Elle reste au village d'amont,
+              Elle reste chez Chanel Ã  Bel-Air,
+              Joseph Bouvard la va souvent voir.
+
+  2
+
+  Tui leu cha, quÃ¨ y va la va,
+  Y pauche pe d'ava la ma,
+  Pi y travache lou verzhi,
+  CreÃ¯e Marion, vin don m'uvri,
+  De si venu va, cheti cha,
+  Che te velive te mariau avoua ma.
+
+              2
+
+              Tous les soirs, quand il va la voir,
+              Il passe en aval de la mare,
+              Puis il traverse le verger,
+              Crie: Marion, viens donc m'ouvrir,
+              Je suis venu voir, ce soir,
+              Si tu voulais te marier avec moi.
+
+  3
+
+  Marion Raufou l'y a repondu,
+  De n'air brauvamÃ¨ rejoulu:
+  SÃ¨ yÃ¨zhe ton frÃ©zhe FrÃ¨cha,
+  De l'amezha bin mio que ta,
+  Si m'ave parlau quemÃ¨ ta
+  L'y azha zhia bin de: qu'oua.
+
+              3
+
+              Marion Raffour lui a rÃ©pondu,
+              D'un air si joliment rÃ©solu:
+              Si c'Ã©tait ton frÃ¨re FranÃ§ois,
+              Je l'aimerais bien mieux que toi,
+              S'il m'avait parlÃ© comme toi
+              Je lui aurais dÃ©jÃ  bien dit: oui.
+
+  4
+
+  Marion Raufou, te ne chau don pau
+  Que mon frÃ©zhe, FrÃ¨cha ne t'ame pau;
+  Ma que de t'a touzhou tÃ¨ amau
+  Prequa ne vu te pau m'amau,
+  Ma que d'ta fÃ¨ la cou pÃ¨dÃ¨ nÃ¨
+  Teu bin de crazhe que te ne m'amerÃ¨.
+
+              4
+
+              Marion Raffour, tu ne sais donc pas
+              Que mon frÃ¨re, FranÃ§ois, ne t'aime pas;
+              Moi qui t'ai toujours tant aimÃ©
+              Pourquoi ne veux-tu pas m'aimer,
+              Moi qui t'ai fait la cour pendant un an
+              Est-ce bien de croire que tu m'aimes rien.
+
+  5
+
+  E travecÃ¨ lou bou de Crau,
+  JouzÃ¨ Bouva che betau a shÃ¨tau;
+  Eya l'atie Ã  Marlou dÃ¨ juÃ«
+  De l'azhe bin quÃ¨ dÃ¨ vedre;
+  Tui leu co que de l'y Ã¨ n'a parlau
+  Jamais chon pÃ©zhe ne me l'a refujau.
+
+              5
+
+              En traversant le bourg de Cras,
+              Joseph Bouvard se mit Ã  chanter;
+              Il y a celle Ã  Merle des Åufs
+              Je l'aurai bien quand je voudrais;
+              Toutes les fois que je lui en ai parlÃ©
+              Jamais son pÃ¨re ne me l'a refusÃ©e.
+
+  6
+
+  Teu qu'a compeujau che la shÃ¨chÃ´n?
+  EyÃ« leu gachon du d'amont
+  E bevÃ¨ vÃ© Mimi Raton
+  A shau sheupene, sheupenon,
+  Lon bin dÃ©pÃ¨chau vingt-chin fron
+  Pe compeu Jau che la shÃ¨chon.
+
+              6
+
+              Qui est-ce qui a composÃ© cette chanson?
+              C'est les garÃ§ons d'amont
+              En buvant chez Mimi Raton
+              Par chopine, et chopinon,
+              Ils ont bien dÃ©pensÃ© vingt cinq francs
+              Pour composer cette chanson.
+
+  VARIETTA U DERI COUPLE
+
+  Teu qua compeujau che la shÃ¨chon?
+  EyÃ« bin tra bravou gachon:
+  Lou premi n'a point de mÃ¨ton,
+  Lou chegon a leu piÃ« reÃ¯on,
+  L'autrou boussu quemÃ¨ on benon,
+  Ne t'eu pau tra brauvou gachon.
+
+              VARIANTE AU DERNIER COUPLET
+
+              Qui est-ce qui a composÃ© cette chanson?
+              C'est bien trois jolis garÃ§ons:
+              Le premier n'a point de menton,
+              Le second a les pieds ronds,
+              L'autre est bossu comme un benon,
+              N'est-ce pas trois jolis garÃ§ons?
+
+
+
+
+LEU J'AMOUAZHO
+
+LES AMOUREUX
+
+_Air de Â«JouzÃ© BouvaÂ»_
+
+
+  1
+
+  Saite-vou, qu'Ã¨ Brache, leu gachon
+  Ne che font pau mau de bon chon.
+  De vou noumezha de magna
+  Que sÃ¨ pauchau pe de pailla,
+  Treuvon moyen de chamouije,
+  E n'ayÃ¨ pau l'air d'y toushiÃ«.
+
+              1
+
+              Savez-vous, qu'en Bresse, les garÃ§ons
+              Ne se font pas mal du bon sang.
+              Je vous nommerais des magnats
+              Qui, sans passer pour des paillards,
+              Trouvent moyen de s'amuser,
+              En n'ayant pas l'air d'y toucher.
+
+  2
+
+  QuemÃ¨ vou parlau dÃ© gachon?
+  Vou ne parlau pau d'le sezon!
+  NÃ¨ vedra point dezhe de mau;
+  PretÃ¨, Ã¨ fau bin racontau
+  Que le chavon treÃ¯Ã¨ jo plan
+  Pe leu rendez-vous Ã¨ galan.
+
+              2
+
+              Comment: vous parlez des garÃ§ons?
+              Vous ne parlez pas des Sezon!
+              Je n'en voudrais pas dire du mal;
+              Pourtant il faut bien vous raconter
+              Qu'elles savent tirer leur plan
+              Pour les rendez-vous aux galants.
+
+  3
+
+  Lou ple chouvÃ¨, eyÃ« ta Bou,
+  Que le leu baillon rendez-vou.
+  Pre cÃ¨, lou mÃ¨credi matin,
+  QuÃ¨ lon fait mÃ¨zhiÃ« leu pezhin,
+  Le deÃ¯on: MÃ¨zh'teu quÃ¨ vou fa,
+  Laichau m'don allau u marshia.
+
+              3
+
+              Le plus souvent, c'est Ã  Bourg,
+              Qu'elles leur donnent rendez-vous.
+              Pour Ã§a, le mercredi matin,
+              Quand elles ont fait manger les poussins,
+              Elles disent: mÃ¨re qu'est-ce que Ã§a vous fait,
+              Laissez-moi donc aller au marchÃ©.
+
+  4
+
+  Ma fa, la mezhe, sÃ¨ mau pÃ¨chau
+  Repon: vas-y, vai-me gardau;
+  Faut-eu prepazhau lou pani?
+  Pe teyÃ« d'on peu t'avÃ¨ci;
+  On n'jamais trou teu arrevau
+  P'vÃ¨dr'chon marshia quemÃ¨ fau.
+
+              4
+
+              Ma foi, la mÃ¨re, sans mal penser
+              RÃ©pond: vas-y, j'vais me garder;
+              Faut-il prÃ©parer le panier?
+              Pour essayer d'un peu t'avancer;
+              On n'est jamais trop tÃ´t arrivÃ©
+              Pour vendre comme il faut son marchÃ©.
+
+  5
+
+  E mÃ¨mou tin, Ã¨ n'affourÃ©,
+  Lou galan dit: s'Ã© n'vou fa rÃ¨
+  PÃ¨zhe, d'izhe Ã  Bou cheti voui,
+  Zhai d'affauzhe Ã  y allau quezhi.
+  Pi lou pÃ¨zhe repon: vas-y,
+  Zh'vai me gardau pichqu'Ã¨ t'adi.
+
+              5
+
+              En mÃªme temps, en affourant,
+              Le galant dit: Si Ã§a ne vous fait rien
+              PÃ¨re, j'irai Ã  Bourg aujourd'hui,
+              J'ai des affaires Ã  y aller chercher.
+              Puis le pÃ¨re rÃ©pond: vas-y,
+              J'vais me garder puisque Ã§a te va.
+
+  6
+
+  Vetia don neutreu j'amouazho,
+  ContÃ¨ de caroutau jo vio.
+  Oh! quÃ¨ beneu! oh! quÃ¨ biau zhou!
+  Y von che rencontrau Ã  Bou,
+  E fa bon che va, che parlau,
+  QuÃ¨ leu vios ne s'Ã¨ mÃ©fion pau.
+
+              6
+
+              VoilÃ  donc nos amoureux,
+              Contents de carotter leur vieux.
+              Oh! quel bonheur! oh! quel beau jour!
+              Ils vont se rencontrer Ã  Bourg,
+              Il fait si bon se voir, se parler,
+              Quand les vieux ne s'en mÃ©fient pas.
+
+  7
+
+  Mais cÃ¨, ne pau de blau nouvÃ¨.
+  Neutreu pÃ©zhe Ã¨n'on atÃ¨ fai,
+  Pichque de tout Ã©ternitau
+  Lou mondou fu fait pe ch'amau;
+  DÃ¨ j'amouazho, peuvin parlau
+  Mais gardin-nous de leu blamau.
+
+              7
+
+              Mais cela, n'est pas du blÃ© nouveau.
+              Nos pÃ¨res en ont autant fait,
+              Puisque de toute Ã©ternitÃ©
+              Le monde fut fait pour s'aimer;
+              Des amoureux, nous pouvons parler
+              Mais gardons-nous de les blÃ¢mer.
+
+
+
+
+LEU Z'AUTRICHIENS A VERIA
+
+LES AUTRICHIENS A VIRIAT
+
+
+  1
+
+  CoumÃ¨zhe vin donc cheti cha,
+  Te racontezhe ne chaqua,
+  Neutron ZhouzÃ© nous j'a Ã©crit
+  Qu'y che batton Ã¨ n'Italie,
+  AvouÃ© ces diablous d'Autrichiens
+  Qu'on sÃ© sevin chon che malins.
+
+              1
+
+              CommÃ¨re viens donc ce soir,
+              Je te raconterai quelque chose,
+              Notre Joseph nous a Ã©crit
+              Qu'il se battait en Italie,
+              Avec ces diables d'Autrichiens
+              Que l'on s'en souvient sont si malins.
+
+  2
+
+  Y conte que cÃ© grÃª groumÃ¨,
+  DÃ©vozhon tou, ne lÃ¨chon rÃ¨;
+  I di, que rÃ¨que n'Autrichien,
+  Peu bin mÃ¨zhiÃ« tui leu matin,
+  Na doujin-na de greu poulÃ©,
+  Pi na grÃª panaria de juÃ«.
+
+              2
+
+              Il conte que ces grands gourmands,
+              DÃ©vorent tout, ne laissent rien;
+              Il dit, que rien qu'un Autrichien,
+              Peut bien manger tous les matins,
+              Une douzaine de gros poulets,
+              Puis un grand panier d'Åufs.
+
+  3
+
+  Y conte azhi que cÃ© vaurÃ¨,
+  DÃ©vachton tou, n'Ã©pargnon rÃ¨;
+  Y di, qui beton l'Itali
+  SÃ¨ dessu dechou, sÃ¨ devÃ¨ deri,
+  La po de leu reva vÃ© nou,
+  Me bete sÃ¨ dessu dechou.
+
+              3
+
+              Il conte aussi que ces vauriens,
+              DÃ©vastent tout, n'Ã©pargnent rien;
+              Il dit, qu'ils mettent l'Italie
+              Sans dessus dessous, sans devant derriÃ¨re,
+              La peur de les revoir chez nous,
+              Me met sans dessus dessous.
+
+  4
+
+  CoumÃ©zhe, cÃ¨ teu bin vra va?
+  E mÃ© fa tou dreci lou pa,
+  Si revenion pe leu GrefouÃ«
+  Gazha leu pinzhon, leu poule,
+  Gazha ma cazhia de shapon,
+  Pi neutra pourtau de caÃ¯on.
+
+              4
+
+              CommÃ¨re, cela est-il bien vrai?
+              Cela m'en fait dresser les cheveux,
+              S'ils reviennent par les Greffets
+              Garent les pigeons, les poulets,
+              Garent ma cagÃ©e de chapons,
+              Puis notre portÃ©e de cochons.
+
+  5
+
+  L'autrou co, pe neutron Veria,
+  L'on tou mÃ¨zhia l'on tou pellia,
+  L'on saigna tui neutreu nerin,
+  Le quatrou shievre, lou bouquin,
+  Leu bouÃ«, le vashe, leu shevau,
+  Leu poulain, tout y a pachau.
+
+              5
+
+              L'autre fois, par notre Viriat,
+              Ils ont tout mangÃ©, tout pillÃ©,
+              Ils ont saignÃ© tous nos porcs,
+              Les quatre chÃ¨vres, le bouquin,
+              Les bÅufs, les vaches, les chevaux,
+              Les poulains, tout y a passÃ©.
+
+  6
+
+  Pi quÃ¨ y vinsizhon vÃ© nou
+  E fuzhon-t-y moin que vÃ© vou?
+  L'on prÃ¨ meu chabou, meu choula,
+  Mon devÃ¨ti, mon shemeza;
+  Che qu'Ã  lou mÃ© faushia ZhouzÃ©,
+  E quÃ¨ l'on prÃ¨ chon pelliezhÃ©.
+
+              6
+
+              Puis, quand ils vinrent chez nous
+              En firent-ils moins que chez vous?
+              Ils ont pris mes sabots, mes souliers,
+              Mon tablier, mon corsage;
+              Ce qui a le plus fÃ¢chÃ© Joseph,
+              C'est quand ils ont pris son tablier de peau.
+
+  7
+
+  CoumÃ©zhe, te ne dezhÃ© pau
+  Che que de vai te racontau:
+  D'Ã©zha on cha, dÃ¨ mon shÃ¨bron,
+  AprÃ© remÃ¨dau meu shochon,
+  QuÃ¨ Ã© yÃ¨ vinsi yon vÃ© ma
+  DÃ©vena la raijon prequa?
+
+              7
+
+              CommÃ¨re, tu ne diras pas
+              Ce que je vais te raconter:
+              J'Ã©tais un soir, dans ma petite chambre,
+              En train de raccommoder mes chaussons,
+              Quand il en vint un vers moi
+              Devine la raison pourquoi?
+
+  8
+
+  CoumÃ©zhe, ne t'alarma pau,
+  E m'Ã¨na bin mÃ© arevau.
+  On cha, aprÃ© na dÃ¨pellia,
+  N'Autrichien m'a tÃ¨ tourtellia,
+  Qu'a la fin du biau ma de mai
+  L'Ã¨nau aprÃ©, d'ava mon zÃ©.
+
+              8
+
+              CommÃ¨re ne t'alarme pas,
+              Il m'en est bien plus arrivÃ©.
+              Un soir, aprÃ¨s une Â«dÃ©feuillÃ©eÂ»,
+              Un Autrichien m'a tant tortillÃ©,
+              Qu'Ã  la fin du beau mois de mai
+              L'annÃ©e aprÃ¨s, j'avais mon Joseph.
+
+  9
+
+  Pichqu'Ã¨ye fai, cashin z'eu biÃ¨,
+  Che neutre fellie chavon cÃ¨,
+  Le vedron toute, Ã¨ n'Itali,
+  Allau combattre l'ennemi,
+  QuemÃ¨ nou jin fai dÃ¨ lou tein
+  AvouÃ© cÃ© mÃ©mou z'Autrichien.
+
+              9
+
+              Puisque c'est fait, cachons y bien.
+              Si nos filles savaient cela,
+              Elles voudraient toutes, en Italie,
+              Aller combattre l'ennemi,
+              Comme nous avons fait dans le temps
+              Avec ces mÃªmes Autrichiens.
+
+
+
+
+NOUCHES BRACHONDES
+
+NOCES BRESSANES
+
+_Air de Â«JouzÃ© BouvarÂ»_
+
+
+  1
+
+  Meu j'ami, pich'quÃ¨ faut shÃ¨tau,
+  Du mariazhou, vai vou parlau;
+  De vou racontezhe quemÃ¨
+  Che font le nouche biÃ¨ chouvÃ¨,
+  A Veria, pi Ã¨ z'Ã¨vezhon
+  QuÃ¨ che marion reshou brachon.
+
+              1
+
+              Mes amis, puisqu'il faut chanter,
+              Du mariage, je vais vous parler;
+              Je vais vous raconter, comment
+              Se font les noces bien souvent,
+              A Viriat, et puis aux environs
+              Quand se marient riches bressans.
+
+  2
+
+  QuemÃ¨ Ã¨ sÃ¨ treuve, leu-j-on,
+  Che mariant sÃ¨ eu dezhe a nion,
+  De chela seurta de cayon,
+  Ne dezhe rÃ¨ dÃ¨ ma shÃ©chon.
+  Pe ne parlau que dÃ© vivÃ¨,
+  N'Ã©bleyÃ¨ nion Ã¨ che mariÃ¨.
+
+              2
+
+              Comme il s'en trouve, les uns,
+              Se mariant sans le dire Ã  personne,
+              De cette sorte de cochons,
+              N'en parlons pas dans notre chanson.
+              Je ne parlerai que des viveurs,
+              Qui n'oublient personne quand ils se marient.
+
+  3
+
+  Lou zhou d'acourdaille fixau,
+  On quemÃ¨che pe bien gueutau;
+  Pi, quemÃ¨ on ne vedre pau
+  Che quetau sÃ¨ tou arrÃ©tau,
+  Eye chouvÃ¨ tea dÃ¨ la nÃ©,
+  QuÃ¨ on s'Ã© va, leu j'aqueu fÃ©.
+
+              3
+
+              Le jour des accordailles fixÃ©,
+              On commence par bien dÃ®ner;
+              Puis, comme l'on ne voudrait pas
+              Se quitter sans tout arrÃªter,
+              C'est souvent bien tard dans la nuit,
+              Lorsqu'on s'en va, les accords finis.
+
+  4
+
+  DÃ¨ la majon de la premia
+  Che pachezha sui lou contra;
+  A le froumaille assistezhon
+  Lau ple prÃ© pazhÃ¨ dÃ¨ deu lion;
+  Leu repau touzhou bien servu
+  Montrezha qu'on a de-z-Ã©cu.
+
+              4
+
+              Dans la maison de la fiancÃ©e
+              Se fera sans doute le contrat;
+              Aux fianÃ§ailles assisteront
+              Les plus proches parents des deux cÃ´tÃ©s;
+              Le repas toujours bien servi
+              Montrera que l'on a des Ã©cus.
+
+  5
+
+  PÃ¨dÃ¨ lou tein qui chon fiÃ¨cha,
+  Leu premi pachon brava via,
+  L'ufron de froumaille pretou,
+  Ne parlon que plazi, d'amou;
+  On leu regale de matafon
+  DÃ¨ toute le majon qui von.
+
+              5
+
+              Pendant le temps des fianÃ§ailles,
+              Les promis passent une belle vie,
+              Ils offrent des dragÃ©es partout,
+              Ne parlent que plaisirs, d'amour;
+              On les rÃ¨gale avec des matefins
+              Dans toutes les maisons oÃ¹ ils vont.
+
+  6
+
+  La dimÃ¨she avÃ¨ lou grÃ© zhou,
+  Le pazhÃ¨te dÃ© j'alÃ¨tou,
+  Apeurton de grÃ¨ panariÃ«
+  De beurou frais pite de juÃ«;
+  Le quemÃ¨chon cho zhou lou trin,
+  Pe zh'anonche lou grÃ© festin.
+
+              6
+
+              Le Dimanche avant le grand jour,
+              Les parentes des alentours,
+              Apportent de grands paniers
+              De beurre frais et puis des Åufs;
+              Elles commencent ce jour le train,
+              Pour annoncer le grand festin.
+
+  7
+
+  Lou lÃ¨demon, fau va lou fou
+  Chon lou fa femau tou lou zhou;
+  Lou cha venion coulatiounau,
+  Leu fameu pourtio de choupau
+  Qu'Ã¨diablon zhia touta la nÃ©
+  PÃ¨dÃ¨ qu'on garna jo shapÃ©.
+
+              7
+
+              Le lendemain, il faut voir le four
+              Si on le fait fumer tout le jour;
+              Le soir, viennent collationner,
+              Les fameux porteurs de souper
+              Qui endiablent toute la nuit
+              Pendant qu'on garnit leurs chapeaux.
+
+  8
+
+  Dozha, lou matin, leu gachon
+  VÃ¨ la feliÃ«, l'arrevezhon;
+  Toushezhon du lion du matin
+  E che dÃ¨che fÃ¨ de teu tein.
+  L'onÅu de baille on premi co
+  Rejarvau u gachon d'Ã¨po.
+
+              8
+
+              De bonne heure, le matin, les garÃ§ons
+              Chez la fille, ils arriveront;
+              Frapperont du cÃ´tÃ© du matin
+              Il s'est toujours fait ainsi.
+              L'honneur de donner le premier coup
+              Est rÃ©servÃ© au garÃ§on d'honneur.
+
+  9
+
+  VÃ¨ la feliÃ« Ã¨ leu j'attÃ¨dÃ¨,
+  De la nÃ¨, on ne dreme rÃ¨
+  Pe repondre Ã  ces Ã©baudi;
+  Qu'on ferouille Ã¨ vayÃ¨ veni,
+  DÃ¨ la majon yazha biÃ¨ sui
+  Le feurte lingue du pays.
+
+              9
+
+              Chez la fiancÃ©e, en les attendant,
+              De la nuit, ils ne dorment pas
+              Pour rÃ©pondre Ã  ces Ã©baudis;
+              On ferme la porte quand on les voit venir,
+              Dans la maison, il y a sÃ»rement
+              Les meilleures langues du pays.
+
+  10
+
+  QuÃ¨ des deu lion ya che qu'Ã© fau,
+  E fau leu z'Ã¨tÃ¨dre blagau,
+  QuÃ¨ bin defeu l'on bon bagou
+  Chavon trouvau mille dÃ©tou,
+  E fau bin pe che fauzhe uvri
+  Reclamau che qu'on vin quezhi.
+
+              10
+
+              Quand des deux cÃ´tÃ©s, il y a ceux qu'il faut,
+              Il faut les entendre blaguer,
+              Quand bien dehors, ils ont bonne langue
+              Savent trouver mille dÃ©tours,
+              Il faut bien pour se faire ouvrir
+              RÃ©clamer ce qu'ils viennent chercher.
+
+  11
+
+  Leu vetia don dÃ¨ la majon,
+  MÃ¨ on di: Meu peuvrou gachon,
+  SÃ¨ neutre feliÃ« quÃ¨ vou fau
+  Sheurshau le, nou n'Ã¨pashin pau,
+  MÃ¨ vou n'azha Ã  dÃ©zhon-nau
+  Que quÃ¨ vou le j'azha trouvau.
+
+              11
+
+              Les voilÃ  dans la maison,
+              Mais on leur dit: Mes pauvres garÃ§ons,
+              Si ce sont nos filles que vous voulez
+              Cherchez-les, nous n'empÃªchons pas,
+              Mais vous n'aurez Ã  dÃ©jeuner
+              Que lorsque vous les aurez trouvÃ©es.
+
+  12
+
+  Vetia don neutreu bon cadet,
+  SheurshÃ¨ quemin de shin d'arret
+  Y vont betÃ¨ lou nau pretou:
+  DÃ¨ leu poulali, dÃ¨ le chou;
+  L'onÅu de le menau din-nau
+  T'a cho que pourra le trouvau.
+
+              12
+
+              VoilÃ  donc nos bons cadets,
+              Cherchant comme des chiens d'arrÃªt
+              Ils vont mettant le nez partout:
+              Dans les poulaillers, dans les tects Ã  porcs;
+              L'honneur de les mener dÃ©jeuner
+              Est Ã  celui qui pourra les trouver.
+
+  13
+
+  A din-nau, pourtio de choupau,
+  Avaion ch'que l'on appourtau.
+  Eya dÃ¨ chela prouvision,
+  De vin, de tautra, de pounion
+  Pe zh'attrapau leu ple prÃ©chau,
+  Ya de seuje qu'on ne dit pau.
+
+              13
+
+              Au dÃ©jeuner, les porteurs de souper,
+              Montrent ce qu'ils ont apportÃ©.
+              Il y a dans ces provisions,
+              Du vin, de la tarte, du pognon
+              Pour attraper les plus pressÃ©s,
+              Il y a des choses qu'on ne dit pas.
+
+  14
+
+  Lou fameu dÃ©zhon-non assui,
+  Vite on fa signe u mÃ©netri
+  D'allau baille na segneulau
+  Pe l'atiÃ«, que da che mariau;
+  La sharzhe de betau l'Ã¨train,
+  U gachon d'Ã¨lion le revin.
+
+              14
+
+              Le fameux dÃ©jeuner fini,
+              Vite on fait signe au mÃ©nÃ©trier
+              D'aller donner une signolÃ©e
+              Pour celle qui doit se marier;
+              La charge de mettre l'entrain,
+              Au garÃ§on d'honneur revient.
+
+  15
+
+  Pi, quÃ¨ vin l'hozha de moudau,
+  On va prepazhau leu shevau;
+  D'autrou co, bra dessus, dechou,
+  E deu-j-a deu, qu'on va u bou;
+  Chau qu'afatiÃ« va lou premi,
+  Pi, aprÃ¨s lui leu menÃ©tri.
+
+              15
+
+              Puis, quand vient l'heure de partir,
+              On va prÃ©parer les chevaux;
+              D'autre fois, c'est bras dessus dessous,
+              Et deux Ã  deux, que l'on va jusqu'au bourg;
+              Celui qui balaye va le premier,
+              Puis, vient ensuite les menÃ©triers.
+
+  16
+
+  A l'Ã¨lige on sui leu z'Ã¨po,
+  A la chacristi quÃ¨que co;
+  AprÃ©s cÃ¨, on s'en izha tui
+  A l'auberge che dÃ©vreti,
+  On fa bodaye lou vin shau
+  PÃ¨de qu'che prepazhe lou gueutau.
+
+              16
+
+              A l'Ã©glise, on suit les Ã©poux,
+              A la sacristie, quelque fois;
+              AprÃ¨s cela, on s'en va tous
+              A l'auberge se divertir,
+              On fait fumer le vin chaud
+              Pendant que se prÃ©pare le dÃ®ner.
+
+  17
+
+  On arrÃ©te, quosi touzhou,
+  La noucha que s'Ã¨ va du bou,
+  On courdÃ¨, barre lou shemin,
+  PÃ¨dÃ¨ qu'on leu z'ufre de vin.
+  PichequÃ© n'onÅu d'Ã¨tre arrÃ©tau
+  Fau don chava s'exÃ©cutau.
+
+              17
+
+              On arrÃªte, presque toujours,
+              La noce qui s'en va du bourg,
+              Un cordeau, barre le chemin,
+              Pendant qu'on leur offre du vin.
+              Puisque c'est un honneur d'Ãªtre arrÃªtÃ©
+              Il faut savoir s'exÃ©cuter.
+
+  18
+
+  E n'arevÃ¨ Ã  la majon,
+  On leu j'acu leu grenaton;
+  A la mariau, on ufre de vin,
+  U mariau, d'Ã¨diÃ«, Ã  plin tepin;
+  On prÃ¨ pe lou panau lou nau
+  Na panoucha biÃ¨ maushezhau.
+
+              18
+
+              En arrivant Ã  la maison,
+              On leur jette des petites graines;
+              A la mariÃ©e, on offre du vin,
+              Au mariÃ© de l'eau un plein pot;
+              On prend pour lui essuyer le nez
+              Un torchon bien machurÃ©.
+
+  19
+
+  Pi, Ã¨ n'Ã¨trÃ¨ dÃ¨ la majon,
+  Pe tarra, Ã©yazha on ron,
+  Che la mariau feule dessus
+  E mauvais signe Ã  tui leu zu,
+  Che la choin de lou relevau
+  On flattezha tui lou mariau.
+
+              19
+
+              Puis, en entrant dans la maison,
+              Par terre il y a un balai.
+              Si la mariÃ©e marche dessus
+              C'est un mauvais signe Ã  tous les yeux,
+              Si elle a le soin de le relever
+              On flattera tous le mariÃ©.
+
+  20
+
+  Ne parlin guÃ©zhou du gueutau,
+  On cha qu'Ã¨ya greu de fricau,
+  AprÃ¨s leu zheunou dÃ¨chezhon,
+  Leu vios, bezhon u shÃ¨tezhon,
+  D'autrou pet'Ã©tre courtijezhon,
+  Shotion peu rizhe Ã  cha fachon.
+
+              20
+
+              Ne parlons guÃ¨re du dÃ®ner,
+              On sait qu'il y a beaucoup Ã  manger,
+              AprÃ¨s les jeunes danseront,
+              Les vieux, boiront ou chanteront,
+              D'autres peut-Ãªtre courtiseront,
+              Chacun peut rire Ã  sa faÃ§on.
+
+  21
+
+  P'le nouche du deri mariau,
+  Lou cha, on fazha sÃ¨ mÃ¨quau,
+  A che n'honÅu on foa de joa,
+  Qu'Ã©ye la mariau qu'Ã¨prÃ¨da,
+  On va tui latou, sÃ¨ fa bon,
+  DÃ¨che, chautau on rigoudon.
+
+              21
+
+              Pour les noces du dernier mariÃ©,
+              Le soir, on fera sans manquer,
+              A son honneur un feu de joie,
+              Ce sera la mariÃ©e qui l'allumera,
+              On va tous autour, s'il fait beau temps,
+              Danser, chanter un rigodon.
+
+  22
+
+  Lou cha, che le peu, la mariau,
+  S'en izha pe che repeujau.
+  On va, lou lÃ¨demon matin,
+  La quezhi su on cha de fin,
+  Bien garni de planshe pretou,
+  Nion ne peu s'Ã¨guin-neo dechou.
+
+              22
+
+              Le soir, si elle peut, la mariÃ©e,
+              S'en ira pour se reposer.
+              On va, le lendemain matin,
+              La chercher sur un char de foin,
+              Bien garni de planches partout,
+              Personne ne peut se faufiler dessous.
+
+  23
+
+  On co que l'Ã©poujau dessus,
+  Qu'y on montau sÃ¨ qu'on voulu,
+  Avoua na choa, de bataillon,
+  S'y appleyon, leu bon luzhon;
+  Pi ardi, Ã¨ trava boachon,
+  On chaute tinqu'Ã¨ bazhagnon.
+
+              23
+
+              Une fois que l'Ã©pousÃ©e est dessus,
+              Qu'y sont montÃ©s ceux qui ont voulu,
+              Avec une corde, des bataillons,
+              S'y attÃ¨lent les bons lurons;
+              Puis hardi Ã  travers buissons,
+              On saute jusqu'aux baragnons.
+
+  24
+
+  Pi, quÃ¨ la sharau dÃ¨ la cou,
+  Vite on n'Ã¨prÃ¨ lou foa dechou,
+  CÃ¨, pe prÃ¨veni l'Ã¨poujau,
+  Que dÃ¨ la via, Ã¨ fau contau
+  D'ava petÃ©tre de z'Ã©nui
+  Lou lÃ¨demon dÃ© grÃ¨ plÃ©zi.
+
+              24
+
+              Puis, quand le char est dans la cour,
+              Vite on Ã©claire le feu dessous,
+              Ãa pour prÃ©venir l'Ã©pousÃ©e,
+              Que dans la vie, il faut compter
+              D'avoir peut-Ãªtre des ennuis
+              Le lendemain des grands plaisirs.
+
+  25
+
+  Cho zhou, leu grÃ¨ j'amouijemÃ¨,
+  QuemÃ¨ la vellie n'arrÃ©ton rÃ¨;
+  MÃ¨ lou cha, la zheuna mariau,
+  SÃ¨ retournezha prepazhau
+  Chon paquet, pe lou sÃ¨medi,
+  Que chon j'houmou izha quezhi.
+
+              25
+
+              Ce jour, les grands amusements,
+              Comme la veille n'arrÃªtent pas;
+              Mais le soir, la jeune mariÃ©e,
+              Se rentournera prÃ©parer
+              Son paquet, pour le samedi,
+              Que son mari ira chercher.
+
+  26
+
+  L'Ã¨poujau, pe lou premi co,
+  Cho sÃ¨medi, caushe vÃ¨ l'Ã¨po;
+  Lou lÃ¨demon du grÃ¨ matin,
+  On leu peurte la choup'Ã¨ vin
+  Pe leu z'Ã¨pashiÃ«, d'vÃ¨ lou quezhau,
+  A la mecha de fringalau.
+
+              26
+
+              La mariÃ©e, pour la premiÃ¨re fois,
+              Ce samedi, couche avec son Ã©poux;
+              Le lendemain du grand matin,
+              On leur porte la soupe en vin
+              Pour leur empÃªcher, devant le curÃ©,
+              A la messe de fringaler.
+
+  27
+
+  La dimÃ¨she, Ã© lou renouchon,
+  Qu'on fa pe cÃ© dÃ¨ z'Ã¨vezhon,
+  Qu'Ã  le nouche Ã©tÃ¨ invitau
+  N'avon pau tui pu y allau;
+  SÃ¨ s'y treuve quauque vio gachon,
+  Le sui d'Ã¨pourtau lou greton.
+
+              27
+
+              Le dimanche, du retour de la noce,
+              Que l'on fait pour ceux des environs,
+              Qu'aux noces ils Ã©taient invitÃ©s
+              Et n'avaient pu tous y aller;
+              S'il se trouve quelque vieux garÃ§on,
+              Il est sÃ»r d'emporter le croÃ»ton.
+
+  28
+
+  VouÃ« zhou aprÃ©, Ã¨ l'arcanau,
+  DÃ¨ la fameliÃ« de la mariau,
+  Cheuco Ã¨ sezha la vra fin
+  DÃ¨ j'amouijemÃ¨, du festin;
+  On quete leu zheunou mariau,
+  Leu choatÃ¨ grÃ¨ postÃ©zhitau.
+
+              28
+
+              Huit jours aprÃ¨s, a lieu l'acarno[8],
+              Dans la famille de la mariÃ©e,
+              Cette fois, c'est la vraie fin
+              Des amusements, du festin;
+              On quitte les jeunes mariÃ©s,
+              Leur souhaitant grande postÃ©ritÃ©.
+
+  29
+
+  Ami, quÃ¨ de me mariÃ«-zhe,
+  A me nouche vou z'invitezhe;
+  MÃ¨ d'accourdaille Ã¨ n'arcanau,
+  SÃ¨ da dezhau sÃ¨ dÃ©bredau
+  PÃ¨dÃ¨ quosi deu ma Ã¨ti,
+  Attedi, mÃ¨ vÃ© rÃ¨flÃ¨chi!
+
+              29
+
+              Amis, quand je me marierai,
+              A mes noces, je vous inviterai;
+              Mais des accordailles Ã  l'acarno,
+              Si Ã§a doit durer sans discontinuer
+              Pendant presque deux mois entiers,
+              Attendez, je vais rÃ©flÃ©chir!
+
+[8] Dernier jour du festin.
+
+
+
+
+LOU BANQUET DES VIOS GACHONS A VERIA
+
+LE BANQUET DES VIEUX GARÃONS A VIRIAT
+
+
+  1
+
+  DÃ© la quemena de Veria,
+  VouÃ« zhou aprÃ© la sÃ© t'Eggueta,
+  Leu vios gachons che chon paya
+  On grÃ© geutau vÃ© la zhaqueta,
+  MÃ© leu j'houmou mariau
+  Pe ne pau dÃ©rÃ¨zhie jo moinnazhou,
+  MÃ© leu j'houmou mariau
+  N'y devon pau betau le nau.
+
+              1
+
+              Dans la commune de Viriat,
+              Huit jours aprÃ¨s la Ste Agathe,
+              Les vieux garÃ§ons se sont payÃ©s
+              Un grand dÃ®ner chez la Jacquette,
+              Mais les hommes mariÃ©s
+              Pour ne pas dÃ©ranger leur mÃ©nage,
+              Mais les hommes mariÃ©s
+              N'y devaient pas mettre le nez.
+
+  2
+
+  QuÃ¨ vinsi la fin du gueutau,
+  Shaution beve Ã  cha maniÃ©zhe:
+  Leu j'on, velivon de vin shau,
+  D'autrou, toushauvon su la biÃ©zhe,
+  Y che chon tÃ¨ conliau
+  Qu'y fajon rizhe
+  Le quezenizhe,
+  Y che chon tÃ¨ conliau
+  Qu'y n'Ã¨ poujon pau mÃ© bauliau.
+
+              2
+
+              Quand vint la fin du dÃ®ner,
+              Chacun buvait Ã  sa maniÃ¨re:
+              Les uns, voulaient du vin chaud,
+              D'autres, touchaient sur la biÃ¨re,
+              Ils se sont tant gonflÃ©s
+              Qu'ils en faisaient rire
+              Les cuisiniÃ¨res,
+              Ils se sont tant gonflÃ©s
+              Qu'ils n'en pouvaient plus bailler.
+
+  3
+
+  PretÃ¨ devÃ¨ de che quetau
+  AprÃ© ava pro fait ripaille,
+  Neutreu gailla ont dÃ©cidau,
+  Pe zh'Ã¨vitau toutes batailles;
+  Que t'Ã¨ qu'y treuvezhon
+  Fellie u fene
+  Le chon toute bene,
+  Que dÃ¨chon sÃ¨ fachon
+  Jamais fena y ne prÃ¨don.
+
+              3
+
+              Pourtant avant de se quitter
+              AprÃ¨s avoir fait ripaille,
+              Nos gaillards ont dÃ©cidÃ©,
+              Pour Ã©viter toutes batailles;
+              Que tant qu'ils trouveront
+              Filles ou femmes
+              Elles sont toutes bonnes,
+              Qui dansent sans faÃ§on
+              Jamais femme ils ne prendront.
+
+  4
+
+  Fellie ne vou dÃ©joulau pau
+  QuÃ© bin sÃ¨ vios galon vou grondon,
+  L'idÃ¨e, la fauta de mariau,
+  Leu prÃ¨da pre teu qu'y ne conton,
+  Lou cÅu d'on vio gachon
+  QuemÃ¨ de brauja
+  Que touzhou shauda
+  E faut lou revozhiÃ«
+  Pe lou fauzhe reboda-ye.
+
+              4
+
+              Filles ne vous dÃ©solez pas
+              Quand mÃªme ces vieux garÃ§ons vous grondent,
+              L'idÃ©e, la faute de marier,
+              Les prendra plutÃ´t qu'ils ne comptent,
+              Le cÅur d'un vieux garÃ§on
+              Comme de la braise
+              Qui est toujours chaude
+              Il faut le remuer
+              Pour le faire reflamber.
+
+
+
+
+PETE TRAVAS DE LA VIA
+
+PETIT TRAVERS DE LA VIE
+
+_Sur l'air de Monsieur et Madame Denis_
+
+
+  1
+
+  MeÃ¯on, te ne quere pau,
+  QuemÃ¨ d'si troumÃ¨tau;
+  Depi lou matin u cha,
+  De si dÃ¨ lou foua      (_bis_)
+  Depi lou matin u cha
+  Mon cÅu brÃ»le pre ta.
+
+              1
+
+              Marion, tu ne croirais pas,
+              Comment je suis tourmentÃ©;
+              Depuis le matin au soir,
+              Je suis dans le feu          (_bis_)
+              Depuis le matin au soir
+              Mon cÅur brÃ»le pour toi.
+
+  2
+
+  Bena quÃ¨ on a trou shau
+  Eye t'Ã©ja che refiau,
+  Eya d'Ã¨guiÃ« lou plein bi
+  Va don t'y fouti       (_bis_)
+  Te verÃ© que dÃ¨che on bin
+  Te fazha greu de bin.
+
+              2
+
+              BenoÃ®t, quand on a trop chaud
+              C'est facile de se refroidir,
+              Il y a de l'eau le plein bief
+              Va donc t'y jeter            (_bis_)
+              Tu verras que comme Ã§a un bain
+              Te fera grand bien.
+
+  3
+
+  Contre lou foua que me tin,
+  En'a n'Ã©guiÃ«, ne bin,
+  Pe lou calmau, l'amourtau;
+  De crayou quÃ© fau,     (_bis_)
+  Pe lou calmau, l'amourtau,
+  E faudra nou mariau.
+
+              3
+
+              Contre le feu qui me tient,
+              Il n'y a ni eau, ni vin,
+              Pour le calmer l'Ã©teindre;
+              Je crois qu'il faut,         (_bis_)
+              Pour le calmer, l'Ã©teindre,
+              Il faudrait nous marier.
+
+  4
+
+  Che ta shau, qu'Ã  cÃ¨ ne tin
+  Mary-in nou, de vu bin;
+  PetÃ©tre que ton grÃ¨ foua
+  On co avoua ma         (_bis_)
+  PetÃ©tre que ton grÃ¨ foua,
+  Bena che calmezha.
+
+              4
+
+              Si ta chaleur, qu'Ã  cela ne tient
+              Marions-nous, je veux bien;
+              Peut-Ãªtre que ton grand feu
+              Une fois avec moi            (_bis_)
+              Peut-Ãªtre que ton grand feu,
+              BenoÃ®t se calmera.
+
+  5
+
+  Que nou chin don de benheu
+  D'Ã©tre tombau d'accÅu,
+  Nou vin don d'asteu pouva
+  Chou lou mÃ©mou ta,     (_bis_)
+  Nou vin don d'asteu pouva
+  Ne dÃ©fauzhe qu'on lia.
+
+              5
+
+              Que nous sommes donc heureux
+              D'Ãªtre tombÃ©s d'accord,
+              Nous allons donc bientÃ´t pouvoir
+              Sous le mÃªme toit,           (_bis_)
+              Nous allons donc bientÃ´t pouvoir
+              Ne dÃ©faire qu'un lit.
+
+  6
+
+  Ne t'eu pau dreulou la via
+  A de moumÃ¨ qu'Ã¨ya?
+  N'amauva Ã©tÃ¨ gachon
+  RÃ¨que ma meÃ¯on,        (_bis_)
+  Du zhou que de l'ai mariau
+  De m'Ã¨ si dÃ¨goutau.
+
+              6
+
+              N'est-elle pas drÃ´le la vie
+              A certains moments qu'il y a?
+              Je n'aimais Ã©tant garÃ§on
+              Rien que ma Marion,          (_bis_)
+              Du jour que je me suis mariÃ©
+              Je m'en suis dÃ©goÃ»tÃ©.
+
+  7
+
+  Bena, te n'au point de cÅu,
+  Te quefond te n'hauneu,
+  Mais che te n'arrÃ©te pau
+  De tÃ¨ couratau         (_bis_)
+  DÃ© vai fauzhe attÃ¨ que ta,
+  Advindra que pourra.
+
+              7
+
+              BenoÃ®t tu n'as point de cÅur,
+              Tu perds ton honneur,
+              Mais si tu ne t'arrÃªtes pas
+              De tant courir               (_bis_)
+              Je vais faire autant que toi,
+              Adviendra que pourra.
+
+  8
+
+  Va te vou cho vio shochon
+  Que me fa la leÃ§on,
+  Le peut montau chon shevau
+  Ne m'Ã¨ fou pau mau,    (_bis_)
+  Pourvu que d'aiya touzhou
+  De qua fauzhe l'amou.
+
+              8
+
+              Voyez-vous ce vieux chausson
+              Qui me fait la leÃ§on,
+              Elle peut monter son cheval
+              Je ne m'en fiche pas mal,    (_bis_)
+              Pourvu que j'aie toujours
+              De quoi faire l'amour.
+
+  9
+
+  PÃ¨dÃ¨ que Bena moudau,
+  De vu me rattrapau,
+  Veni, zheunou libertin,
+  Nou j'in de bon vin    (_bis_)
+  Veni, zheunou libertin,
+  Nou nou j'amouijezhin.
+
+              9
+
+              Pendant que BenoÃ®t partira,
+              Je veux me rattraper,
+              Venez, jeunes libertins,
+              Nous avons du bon vin        (_bis_)
+              Venez, jeunes libertins,
+              Nous nous amuserons.
+
+  10
+
+  On dit qu'avouai on fazhon,
+  Epri des deux shavon,
+  L'ailou ne fa pau lon foua;
+  De crayou qu'Ã© va      (_bis_)
+  La preuva neutron betin
+  Fume quemÃ¨ lou train.
+
+              10
+
+              On dit qu'avec une mÃ¨che,
+              ÃclairÃ©e des deux cÃ´tÃ©s,
+              L'huile ne fait pas long feu;
+              Je crois que c'est vrai      (_bis_)
+              La preuve notre bien
+              DisparaÃ®t comme le train.
+
+  11
+
+  Che neutron betin, monsu
+  S'Ã© va, t'eu yau voulu,
+  Che te n'avÃ¨ pau zhouya
+  Jamais de n'azha,      (_bis_)
+  Che te n'ave pau zhouya
+  Jamais de n'azha dÃ¨cha.
+
+              11
+
+              Si notre bien, Monsieur
+              S'en va, tu l'as voulu,
+              Si tu n'avais pas jouÃ©
+              Jamais je n'aurais,          (_bis_)
+              Si tu n'avais pas jouÃ©
+              Jamais je n'aurais dansÃ©.
+
+  12
+
+  MeÃ¯on, de neutreu malheu
+  E t'a ma tui leu teu,
+  MÃ© de meu z'Ã©gazhemÃ¨
+  De si repÃ¨tÃ¨;          (_bis_)
+  MÃ¨ de meu z'Ã¨gazhemÃ¨
+  De fazhe l'Ã¨tremÃ¨.
+
+              12
+
+              Marion de notre malheur
+              C'est Ã  moi tous les torts,
+              Mais de mes Ã©garements
+              Je suis repentant;           (_bis_)
+              Mais de mes Ã©garements
+              J'en ferai l'enterrement.
+
+  13
+
+  Che t'Ã© repÃ¨tÃ¨, Bena,
+  D'y si atÃ¨ que ta,
+  Pichque nou nou chin trompau
+  N'Ã¨ reparlin pau       (_bis_)
+  Pichque nou nou chin trompau
+  E faut nous pardounau.
+
+              13
+
+              Si tu es repentant, BenoÃ®t,
+              Je le suis autant que toi,
+              Puisque nous nous sommes trompÃ©s
+              Nous n'en parlerons pas      (_bis_)
+              Puisque nous nous sommes trompÃ©s
+              Il faut nous pardonner.
+
+  14
+
+  Pe repazhau leu mÃ©fait,
+  Lou mau que nou j'in fait,
+  QuemÃ¨ nou z'Ã¨ chin fauzhia
+  ShÃ¨zhin don de nia     (_bis_)
+  Pre cÃ¨ nou vin quemÃ¨che
+  A bien nou z'Ã¨brache.
+
+              14
+
+              Pour rÃ©parer les mÃ©faits,
+              Le mal que nous avons fait,
+              Comme nous Ã©tions fÃ¢chÃ©s
+              Changeons donc de vie        (_bis_)
+              Pour Ã§a nous allons commencer
+              Par bien nous embrasser.
+
+
+
+
+LA ZHAUNA U MELIN
+
+LA JEANNE AU MOULIN
+
+
+  1
+
+  QuÃ¨ la zhauna va u melin,
+  Le ne piate, pau chon schemin.
+  Le chetau su che n'ausnou,
+  LÃ don, lÃ don, la brauva Sezon lÃ don
+  Le chetau su che n'aunou,
+  Su chon pet'aunazhon.
+
+              1
+
+              Quand la Jeanne va au moulin,
+              Elle ne piÃ©tine pas son chemin.
+              Elle est assise sur son Ã¢ne,
+              Ladon, ladon la belle Suzon ladon
+              Elle est assise sur son Ã¢ne,
+              Sur son petit Ã¢non.
+
+  2
+
+  QuÃ¨ lou mon-ni la va veni,
+  De rizhe y ne peut che teni,
+  Te vetia don la zhauna,
+  Ladon, ladon, la brauva Sezon ladon,
+  Te vetia don la zhauna,
+  Su ton pete aunazhon.
+
+              2
+
+              Quand le meunier la voit venir,
+              De rire il ne peut se tenir,
+              Te voilÃ  donc la Jeanne,
+              Ladon, ladon, la belle Suzon ladon,
+              Te voilÃ  donc la Jeanne,
+              Sur ton petit Ã¢non.
+
+  3
+
+  Zhauna, tÃ¨ que maudra ton blau,
+  Que nou vin allau Ã¨grenau,
+  T'attashezhÃ© te n'aunou,
+  Ladon, ladon, la brauva Sezon ladon,
+  T'attashezhÃ© te n'aunou
+  A l'ombra du boichon.
+
+              3
+
+              Jeanne, pendant que moudra ton blÃ©,
+              Que nous allons aller engrener,
+              Tu attacheras ton Ã¢ne,
+              Ladon, ladon, la brave Suzon ladon,
+              Tu attacheras ton Ã¢ne
+              A l'ombre du buisson.
+
+  4
+
+  PÃ¨dÃ¨ que lou blau a moulu,
+  Lou leo a mÃ¨zhia lou bourru;
+  Que dezha t'y mon pezhe,
+  Ladon, ladon, la brauva Sezon ladon,
+  Que dezha t'y mon pÃ©zhe
+  De chon pete aunazhon.
+
+              4
+
+              Pendant que le blÃ© a moulu,
+              Le loup a mangÃ© le bourru;
+              Que dira-t-il, mon pÃ¨re,
+              Ladon, ladon la belle Suzon ladon,
+              Que dira-t-il mon pÃ¨re
+              De son petit Ã¢non.
+
+  5
+
+  Da dix ecu dÃ¨ mon bouchon;
+  T'Ã¨ vetia neu, dÃ¨ gardou yon,
+  Avoua cÃ¨ t-azhÃ¨ naunou
+  Ladon, ladon, la brauva Sezon ladon,
+  Avoua cÃ¨ t'azhÃ¨ n'aunou
+  Nautrou pete aunazhon.
+
+              5
+
+              J'ai dix Ã©cus dans mon bourson;
+              T'en voilÃ  neuf, j'en garde un,
+              Avec Ã§a tu auras un Ã¢ne
+              Ladon, ladon, la belle Suzon ladon,
+              Avec Ã§a tu auras un Ã¢ne
+              Un autre petit Ã¢non.
+
+  6
+
+  Mais quÃ¨ chon pÃ©zhe la vi veni,
+  De braizhe y ne pu che teni,
+  CÃª ne pau neutre n'aunou
+  Ladon, ladon, la brauva Sezon ladon
+  CÃ¨ ne pau neutre n'aunou
+  Neutron pete aunazhon.
+
+              6
+
+              Mais quand son pÃ¨re la vit venir,
+              De braire il ne put se retenir,
+              Cela n'est pas notre Ã¢ne
+              Ladon, ladon, la belle Suzon ladon,
+              Cela n'est pas notre Ã¢ne
+              Notre petit Ã¢non.
+
+  7
+
+  PÃ¨zhe, Ã¨ vetia lou mÃ¢ de ma,
+  Toute le bÃ©te shÃ¨zhon de pa,
+  L'aunau a fait de mÃ©mou
+  Ladon, ladon, lou pete aunazhon ladon
+  L'annou a fait de mÃ©mou
+  A l'ombra du boichon.
+
+              7
+
+              PÃ¨re, voilÃ  le mois de mai,
+              Toutes les bÃªtes changent de poil,
+              L'Ã¢ne a fait de mÃªme
+              Ladon, ladon, le petit Ã¢non, ladon
+              L'Ã¢ne a fait de mÃªme
+              A l'ombre du buisson.
+
+  8
+
+  Fellie, quÃ¨ vou vÃ©te u melin
+  Segnau don mio veutron betin,
+  Gardau biÃ¨ veutre n'aunou,
+  Ladon, ladon, petete guenon ladon,
+  Gardau biÃ¨ veutre n'aunou,
+  Veutron pete aunazhon.
+
+              8
+
+              Filles, quand vous allez au moulin
+              Soignez donc, mieux votre butin,
+              Gardez bien votre Ã¢ne,
+              Ladon, ladon, petite guenon ladon,
+              Gardez bien votre Ã¢ne,
+              Votre petit Ã¢non.
+
+
+
+
+LEU CONCHCRITS
+
+LES CONSCRITS
+
+_Air de Â«Bon voyage M. DumoletÂ»_
+
+
+  1
+
+  Drapeau u vÃª tÃ¨bou musique Ãª tÃ©ta,
+  Ardi conchcrits Ã¨ faut nous dÃ©vreti;
+  E t'a vingt-Ãª qu'on fa lou mio la fÃ©ta,
+  Amuijin-nous Ã¨ lou tein des plaisis.
+
+              1
+
+              Drapeau au vent tambour musique en tÃªte
+              Hardis conscrits il faut nous divertir;
+              C'est Ã  vingt ans qu'on fait le mieux la fÃªte,
+              Amusons-nous c'est le temps des plaisirs.
+
+  _Refrain_
+
+  En'avÃ© vive leu conchcrits,
+  Nous vint moudo pe servi la patrie,
+  En'avÃ¨, vive leu conchcrits,
+  Conto su nous pe pazho l'ennemi.
+
+              _Refrain_
+
+              En avant, vive les conscrits.
+              Nous allons partir pour servir la patrie,
+              En avant, vive les conscrits,
+              Comptez sur nous pour parer Ã  l'ennemi.
+
+  2
+
+  AprÃ© ces zhou de plaisi, de bombance,
+  U rÃ©jimÃª, Ã¨ faudra s'Ã©barquo;
+  PishquÃ© chazi d'allo servi la France,
+  Nous moudezhin conto-zy sÃª trÃªblo.
+
+              2
+
+              AprÃ¨s ces jours de plaisirs, de bombances
+              Au rÃ©giment, il faudra s'embarquer;
+              Puisqu'il s'agit d'aller servir la France,
+              Nous partirons contez-y sans trembler.
+
+  3
+
+  R'assurio-vous, bons pÃ¨zhes, bone mÃ¨zhe,
+  De la garra, nous chazhin rapourto
+  L'oneu d'ava dÃ©fÃ¨du la frontiÃ¨zhe,
+  L'oneu d'ava dÃ©fÃ¨du lou drapeau.
+
+              3
+
+              Rassurez vous, bons pÃ¨res, bonnes mÃ¨res
+              De la guerre nous saurons rapporter
+              L'honneur d'avoir dÃ©fendu la frontiÃ¨re,
+              L'honneur d'avoir dÃ©fendu le drapeau.
+
+  4
+
+  Pe quÃª-t-a vou neutre jeunes suzelles,
+  QuÃª lou destin nous j'azha sÃ©pazheau
+  PÃªcho Ã  nous demeuzeo-nous fidÃ¨les,
+  Pe qu'u retou nou puichin nous mario.
+
+              4
+
+              Pour quant Ã  vous jeune Suzelles,
+              Quand le destin nous aura sÃ©parÃ©s
+              Pensez Ã  nous, demeurez-nous fidÃ¨les
+              Pour qu'au retour nous puissions nous marier.
+
+
+
+
+LA MARION SU LOU POUMI
+
+LA MARION SUR LE POMMIER
+
+
+  1
+
+  La Marion su lou Poumi,
+  Quelive de poumes,
+  Quelive de poumes decha,
+  Quelive de poumes dela
+  Quelive de poumes.
+
+              1
+
+              La Marion sur le Pommier,
+              Cueillait des pommes,
+              Cueillait des pommes deci,
+              Cueillait des pommes delÃ 
+              Cueillait des pommes.
+
+  2
+
+  On boato vin-t-Ã  pachau
+  Que la reluquauve,
+  Que la reluquauve decha,
+  Que la reluquauve delÃ ,
+  Que la reluquauve.
+
+              2
+
+              Un boiteux vient Ã  passer
+              Qui la reluquait,
+              Qui la reluquait deci,
+              Qui la reluquait delÃ ,
+              Qui la reluquait.
+
+  3
+
+  Boato, te me guÃ©tiÃ« biÃ¨,
+  Me treuve te brauva.
+  Me treuve te brauva decha,
+  Me treuve te brauva delÃ ,
+  Me treuve te brauva.
+
+              3
+
+              Boiteux tu me regardes bien,
+              Me trouves-tu belle.
+              Me trouves-tu belle deci,
+              Me trouves-tu belle delÃ ,
+              Me trouves-tu belle.
+
+  4
+
+  Voa, de vedra te mariau,
+  Vu-t-Ã¨tre ma fena?
+  Vu-t-Ã¨tre ma fena decha,
+  Vu-t-Ã¨tre ma fena delÃ ,
+  Vu-t-Ã¨tre ma fena?
+
+              4
+
+              Oui, je voudrais te marier,
+              Veux-tu Ãªtre ma femme?
+              Veux-tu Ãªtre ma femme deci,
+              Veux-tu Ãªtre ma femme delÃ ,
+              Veux-tu Ãªtre ma femme?
+
+  5
+
+  Voa, me n'ami, de vu bin
+  Deveni ta fena,
+  Deveni ta fena decha,
+  Deveni ta fena delÃ ,
+  Deveni ta fena.
+
+              5
+
+              Oui, mon ami, je veux bien
+              Devenir ta femme,
+              Devenir ta femme deci,
+              Devenir ta femme delÃ ,
+              Devenir ta femme.
+
+  6
+
+  Le poume de la MeÃ¯on
+  Depi cho zhou fourzhon,
+  Depi cho zhou fourzhon decha,
+  Depi cho zhou fourzhon delÃ ,
+  Depi cho zhou fourzhon.
+
+              6
+
+              Les pommes de la Marion
+              Depuis ce jour grandissent,
+              Depuis ce jour grandissent deci,
+              Depuis ce jour grandissent delÃ ,
+              Depuis ce jour grandissent.
+
+
+
+
+LA SÃ MARTIN
+
+LA SAINT MARTIN
+
+
+  1
+
+  Vaules servaites, caras, berzizhes
+  La SÃª Martin ye t'arrevau
+  Menin grÃ© bri pe le sharrizhe
+  Neutron gazhou ye t'affanau.
+  Moudin quezhi on menÃ©tri
+  On menio de mezeta.
+  Magna faudra nous dÃ©vreti,      } _bis_
+  Shaution neutra Jouseta.        }
+  La la la la la la la etc.
+
+              1
+
+              Valets servantes, caras, bergÃ¨res
+              La Saint Martin, est arrivÃ©e
+              Menons grand bruit par les charriÃ¨res
+              Nos gages sont gagnÃ©s.
+              Partons quÃ©rir un mÃ©nÃ©trier
+              Un joueur de musette.
+              Magnats faudra nous divertir,           } _bis_
+              Chacun notre Josephte.                  }
+
+  2
+
+  MÃ¨ pe biÃ¨ quemÃ¨che la fÃ©ta,
+  Allin nou z'Ã¨ va bien gueutau,
+  QuÃ¨ lou vin sharfezha la tÃ©ta,
+  Le schombe pourron mio chautau;
+  Pite nou j'autrou payjon,
+  QuÃ¨ lou vin nou j'attije,
+  Eye-t-adon qu'on ne galon,      } _bis_
+  E-t-adon que l'on courtije.     }
+
+              2
+
+              Mais pour bien commencer la fÃªte,
+              Allons-nous en bien dÃ®ner,
+              Quand le vin chauffera la tÃªte,
+              Les jambes pourront mieux sauter;
+              Puis, nous autres payans,
+              Quand le vin nous excite,
+              C'est Ã  ce moment qu'on est galant,     } _bis_
+              C'est Ã  ce moment que l'on courtise.    }
+
+  3
+
+  E vetia lou bouchon qu'Ã¨platiÃ«,
+  Eye tein de nou z'Ã¨n'allau,
+  AprÃ¨ na fazhe quemÃ¨ latiÃ«,
+  On peut remoudau ch'affroumau,
+  A mÃ©tre nou reteurnezhin
+  Affanau nautrou gazhou;
+  Boncha magna, Ã  l'Ã¨ que vin,    } _bis_
+  Chon ne pau Ã¨ moin-nazhou.      }
+
+              3
+
+              VoilÃ  la bourse qui diminue,
+              C'est temps de nous en aller,
+              AprÃ¨s une foire comme celle-ci,
+              On peut retourner s'affermer,
+              En condition nous retournerons
+              Gagner un autre gage;
+              Bonsoir magnat, Ã  l'annÃ©e prochaine     } _bis_
+              Si nous ne sommes point en mÃ©nage.      }
+
+
+
+
+BLONDES OU BRUNES
+
+
+  1
+
+  Ãcoutez chansonnette
+  Chanson bien approuvÃ©e
+  D'une fillette
+  Et de son bien-aimÃ©
+  D'un garÃ§on boulanger
+  Qui s'est bien prÃ©parÃ©
+  Pour aller voir sa brune
+  C'la m'y revient toujours
+  Qu'il m'en faut une.    (_bis_)
+
+  2
+
+  Et puisqu'il m'en faut une
+  Cela n'en coÃ»te rien,
+  Blonde-z-ou brune
+  La couleur n'y fait rien,
+  Quand elles ont des appÃ¢ts
+  Cela ne vaut-il pas
+  La meilleure des fortunes?
+  Cela m'y revient toujours
+  Qu'il m'en faut une.    (_bis_)
+
+  3
+
+  C'est donc Ã  toi ma belle,
+  Que j'ai prÃªtÃ© serment
+  D'Ãªtre fidÃ¨le,
+  Jusqu'au dernier moment.
+  Tu oublias pourtant
+  Ton plus fidÃ¨le amant:
+  Sois donc plus gentille,
+  Tu ne s'ras pas toujours
+  jeune et jolie.         (_bis_)
+
+  4
+
+  Le temps de la jeunesse
+  Est un temps d'agrÃ©ment,
+  Mais la vieillesse
+  A bien du changement.
+  Le printemps a ses fleurs,
+  L'Ã©tÃ© a ses chaleurs,
+  L'hiver a sa froidure,
+  CelÃ  m'y revient toujours
+  Qu'il m'en faut une.    (_bis_)
+
+[Illustration: FIN]
+
+
+
+
+TABLE DES MATIÃRES
+
+
+  PREMIÃRE PARTIE
+                                       Pages
+  Avant-propos                             3
+  La Brache                                5
+  La Liaudin-na ancienne                   6
+  La Liaudin-na nouvelle                   7
+  L'Ãbauda                                 8
+  Ãbauda nouvalla                         10
+  La Vougua de Crau                       11
+  Le felliÃ« de Veria                      12
+  La vougua de Veria                      14
+  La Prayzhe du payjon                    15
+  La grÃª velia                            17
+  Leu gachon de Veria                     18
+  La via des payjons                      20
+  Lou batÃ©mou d'on gachon                 21
+  Leu payjons vaillon bin leu monsu       23
+  La choup Ã¨ vin                          25
+  La bouillauda de SÃ¨ Nezi                27
+  Travas du mariazhou                     28
+  Lou bouÃ« de nouyÃ©                       30
+  Petite scÃ¨ne de la vie:
+    VÃ© lou Barbi                          32
+
+  DEUXIÃME PARTIE
+
+  La guarra                               39
+  La SÃª Martin                            40
+  Na bataillie de fellie                  41
+  La via du mondou                        43
+  Leu douje ma de l'Ã¨nau                  45
+  La belle Marion                         49
+  N'ametia dÃ©pondia                       50
+  Ma tanta Perneta                        51
+  JouzÃ© Bouva                             52
+  Leu j'amouazho                          54
+  Lau z'Autrichiens Ã  Veria               55
+  Nouches brachondes                      57
+  Lou banquet des vios gachons Ã  Veria    61
+  Pete travas de la via                   63
+  La zhauna u melin                       65
+  Lou conshcrits                          67
+  La Marion su lou poumi                  68
+  La SÃª Martin                            68
+
+
+       *       *       *       *       *
+
+Modifications dans le texte bressan.
+
+  Page 14: Â«reudez-vousÂ» remplacÃ© par Â«rendez-vousÂ» (A neutron
+             rendez-vous).
+  Page 14: Â«OuÂ» remplacÃ© par Â«OnÂ» (On saigne de poulÃ«).
+  Page 16: Â«loÂ» remplacÃ© par Â«leoÂ» (Depi lou leo tin qu'Ã  le greuche
+             guÃ©pe)
+  Page 18: Â«OuÂ» remplacÃ© par Â«OnÂ» (On dit que cho de la Zhelizhe).
+  Page 29: Â«hienÂ» remplacÃ© par Â«bienÂ» (On co mariau, che fouton bien
+             de vou).
+  Page 32: Â«qnemÃ¨Â» remplacÃ© par Â«quemÃ¨Â» (quemÃ¨ font touzhou cÃ¨ que
+             velion).
+  Page 32: Â«qnelautaÂ» remplacÃ© par Â«quelautaÂ» (la pocha de cha
+             quelauta).
+  Page 43: Â«cavalcsÂ» remplacÃ© par Â«cavalesÂ» (Quin-non quemÃ¨ de
+             cavales).
+  Page 43: Â«qu{t}Ã©Â» remplacÃ© par Â«qu'Ã©Â» (On cru qu'Ã© yÃ©zhe lou
+             diablou).
+  Page 52: Â«quiuquelliezhetaÂ» remplacÃ© par Â«quinquelliezhetaÂ» dans la
+             strophe 6.
+  Page 52: Â«feliÃ«Â» remplacÃ© par Â«felliÃ«Â» (De na felliÃ« pi don gachon).
+  Page 55: Â«JÂ» remplacÃ© par Â«IÂ» (I di, que rÃ¨que n'Autrichien).
+  Page 55: Â«PcuÂ» remplacÃ© par Â«PeuÂ» (Peu bin mÃ¨zhiÃ« tui leu matin).
+  Page 56: Â«Ou'aÂ» remplacÃ© par Â«Qu'aÂ» (Qu'a la fin du biau ma de mai).
+  Page 68: Â«SÃ¨Â» remplacÃ© par Â«SÃªÂ» (La SÃª Martin).
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK RECUEIL DE CHANSONS EN PATOIS ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

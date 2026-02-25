@@ -1,3 +1,2662 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d3f9d0cea2142dc444af400c690ef4a90a297258174995df3b379c93444a61b
-size 160815
+ï»¿The Project Gutenberg EBook of MÃ©moires du duc de Saint-Simon
+by Louis de Rouvroy Saint-Simon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: MÃ©moires du duc de Saint-Simon
+       SiÃ¨cle de Louis XIV, la rÃ©gence, Louis XV
+
+Author: Louis de Rouvroy Saint-Simon
+
+Commentator: Hippolyte Adolphe Taine et M. Sainte-Beuve
+
+Release Date: November 11, 2005 [EBook #17044]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MÃMOIRES DU DUC DE SAINT-SIMON ***
+
+
+
+
+Produced by Gallica - Bibliotheque Nationale de France,
+Mireille Harmelin, Pierre Lacaze and the Online Distributed
+Proofreading Team.
+
+
+
+
+
+ÃTUDE HISTORIQUE.
+
+MÃMOIRES
+
+DU DUC DE SAINT-SIMON
+
+SiÃ¨cle de Louis XIV.--La RÃ©gence.--Louis XV.
+
+PAR H. TAINE.
+
+AUGMENTÃ DE QUELQUES ANNOTATIOMS INÃDITES FAITES PAR SAINT-SIMON AU
+JOURNAL DE DANGEAU,
+
+ET D'UNE ANALYSE DE CE JOURNAL
+
+PAR
+
+M. SAINTE-BEUVE.
+
+
+BRUXELLES
+
+LIBRAIRIE INTERNATIONALE, RUE DES SABLES, 17.
+
+1856
+
+
+
+
+I
+
+L'ÃDITION.
+
+
+L'Ã©diteur ne met point en tÃªte de ces MÃ©moires: _Nouvelle
+Ã©dition_; c'est dire que les prÃ©cÃ©dentes n'existent pas. En effet,
+il le pense, non sans raisons. Il y a dÃ©couvert beaucoup de bÃ©vues,
+dont plusieurs fort amusantes. Â«Chamillart, disaient-elles, se fit
+adorer de ses ennemis.Â» Le grand homme! Comment a-t-il pu faire?
+Attendez un peu; le vrai texte change un mot: Â«commis,Â» au lieu
+d'ennemis. Vous et moi nous serons aussi habiles que Chamillart quand
+nous serons ministres; il nous suffira d'un sac d'Ã©cus.--D'autres
+corrections nous humilient. Nous lisions avec Ã©tonnement cette phrase
+Ã©tonnante: Â«Il n'y eut personne dans le chapitre qui ne le louÃ¢t
+extrÃªmement, mais sans louanges. M. de Marsan fit mieux que pas
+un.Â» Nous cherchions le secret de ce galimatias avec une admiration
+respectueuse. L'admiration Ã©tait de trop; le galimatias appartenait
+aux Ã©diteurs; il y a un point aprÃ¨s _extrÃªmement_: Â«mais sans
+louanges, M. de Marsan fit mieux que pas un.Â» La phrase redevient
+sensÃ©e et claire.--Les anciens Ã©diteurs, trouvant des singularitÃ©s
+dans Saint-Simon, lui ont prÃªtÃ© des bizarreries. On est libÃ©ral
+avec les riches: Â«La nouvelle comtesse de Mailly, disent-ils, avait
+apportÃ© tout le gauche de sa province, et _entra_ dessus toute la
+gloire de la toute-puissante faveur de madame de Maintenon.Â» Cette
+mÃ©taphore inintelligible vous effarouche; ne vous effarouchez pas.
+Saint-Simon a mis _enta_. S'il y a lÃ  une broussaille littÃ©raire,
+ce sont les Ã©diteurs qui l'ont plantÃ©e. Ils en ont plantÃ© bien
+d'autres, plus embarrassantes, car elles sont historiques: des noms
+estropiÃ©s, des dates fausses, Villars Ã  la place de Villeroy; le
+comte de Toulouse et la duchesse de Berry mariÃ©s avant leur mariage;
+et, ce qui est pis, des contre-sens de mÅurs. En voici un singulier:
+Â«Le roi, tout _content_ qu'il Ã©tait toujours, riait aussi.Â»
+On s'Ã©tonnait de trouver Louis XIV bonhomme, guilleret et joyeux
+compÃ¨re, et l'on ne savait pas que le manuscrit porte _contenu_ au
+lieu de _content_.--Le pis, c'est que le Saint-Simon prÃ©tendu complet
+ne l'Ã©tait pas. Les Ã©diteurs l'avaient Ã©courtÃ©, comme autrefois
+les ministres; l'inadvertance littÃ©raire lui avait nui comme la
+pruderie monarchique. Plusieurs passages, et des plus curieux,
+manquaient, entre autres les portraits de tous les grands personnages
+du conseil d'Espagne. Celui-ci, par exemple, Ã©tait-il indigne d'Ãªtre
+conservÃ©? Â«Escalona, mais qui plus ordinairement portait le nom de
+Villena, Ã©tait la vertu, l'honneur, la probitÃ©, la foi, la loyautÃ©,
+la valeur, la piÃ©tÃ©, l'ancienne chevalerie mÃªme, je dis celle de
+l'illustre Bayard, non pas celle des romans et des romanesques.
+Avec cela beaucoup d'esprit, de sens, de conduite, de hauteur et de
+sentiment, sans gloire et sans arrogance, de la politesse, mais avec
+beaucoup de dignitÃ©; et par mÃ©rite et sans usurpation, le dictateur
+perpÃ©tuel de ses amis, de sa famille, de sa parentÃ©, de ses
+alliances, qui tous et toutes se ralliaient Ã  lui. Avec cela,
+beaucoup de lecture, de savoir, de justesse et de discernement
+dans l'esprit, sans opiniÃ¢tretÃ©, mais avec fermetÃ©; fort
+dÃ©sintÃ©ressÃ©, toujours occupÃ©, avec une belle bibliothÃ¨que, et
+commerce avec force savants dans tous les pays de l'Europe, attachÃ©
+aux Ã©tiquettes et aux maniÃ¨res d'Espagne sans en Ãªtre esclave; en
+un mot, un homme de premier mÃ©rite, et qui par lÃ  a toujours Ã©tÃ©
+comptÃ©, aimÃ©, rÃ©vÃ©rÃ© beaucoup plus que par ses grands emplois, et
+qui a Ã©tÃ© assez heureux pour n'avoir contractÃ© aucune tache de ses
+malheurs militaires en Catalogne.Â» Ce portrait Ã©panouit le cÅur.
+Nous nous Ã©tonnons et nous nous rÃ©jouissons qu'il y ait eu un
+si honnÃªte homme dans un pays si perdu, parmi tant de coquins et
+d'imbÃ©ciles, aux yeux d'un juge si pÃ©nÃ©trant, si curieux, si
+sÃ©vÃ¨re. Nous louons l'Ã©dition, et nous remarquons, en relisant la
+premiÃ¨re page, que nous aurions pu sans examen la louer sur le titre:
+c'est M. ChÃ©ruel qui a corrigÃ© le texte; c'est M. Sainte-Beuve qui a
+fait l'introduction.
+
+
+
+
+II
+
+LE SIÃCLE.
+
+
+Il y a des grandeurs dans le XVIIe siÃ¨cle: des Ã©tablissements, des
+victoires, des Ã©crivains de gÃ©nie, des capitaines accomplis, un roi,
+homme supÃ©rieur, qui sut travailler, vouloir, lutter et mourir. Mais
+les grandeurs sont Ã©galÃ©es par les misÃ¨res. Ce sont les misÃ¨res
+que Saint-Simon rÃ©vÃ¨le au public.
+
+Avant de l'ouvrir, nous Ã©tions au parterre, Ã  distance, placÃ©s
+comme il fallait pour admirer et admirer toujours. Sur le devant
+du thÃ©Ã¢tre, Bossuet, Boileau, Racine, tout le chÅur des grands
+Ã©crivains jouaient la piÃ¨ce officielle et majestueuse. L'illusion
+Ã©tait parfaite; nous apercevions un monde sublime et pur. Dans les
+galeries de Versailles, prÃ¨s des ifs taillÃ©s, sous des charmilles
+gÃ©omÃ©triques, nous regardions passer le roi, serein et rÃ©gulier
+comme le soleil son emblÃ¨me. En lui, chez lui, autour de lui, tout
+Ã©tait noble. Les choses basses et excessives avaient disparu de la
+vie humaine. Les passions s'Ã©taient contenues sous la discipline du
+devoir. Jusque dans les moments extrÃªmes, la nature dÃ©sespÃ©rÃ©e
+subissait l'empire de la raison et des convenances. Quand le roi,
+quand Monsieur serraient Madame mourante de si tendres et de si vains
+embrassements, nul cri aigu, nul sanglot rauque ne venait rompre la
+belle harmonie de cette douleur suprÃªme; les yeux un peu rougis,
+avec des plaintes modÃ©rÃ©es et des gestes dÃ©cents, ils pleuraient,
+pendant que les courtisans, Â«autour d'eux rangÃ©s,Â» imitaient par
+leurs attitudes choisies les meilleures peintures de Lebrun. Quand
+on expirait, c'Ã©tait sur une phrase limÃ©e, en style d'acadÃ©mie; si
+l'on Ã©tait grand homme, on appelait ses proches et on leur disait:
+
+  Dans cet embrassement dont la douceur me flatte,
+  Venez et recevez l'Ã¢me de Mithridate.
+
+Si l'on Ã©tait coupable, on mettait la main sur ses yeux avec
+indignation, et l'on s'Ã©criait:
+
+  Et la mort, Ã  mes yeux dÃ©robant la clartÃ©,
+  Rend au jour qu'ils souillaient toute sa puretÃ©.
+
+Dans les conversations, quelle dignitÃ© et quelle politesse! Il nous
+semblait voir les grands portraits de Versailles descendre de leurs
+cadres, avec l'air de gÃ©nie qu'ils ont reÃ§u du gÃ©nie des peintres.
+Ils s'abordaient avec un demi-sourire, empressÃ©s et pourtant graves,
+Ã©galement habiles Ã  se respecter et Ã  louer autrui. Ces seigneurs
+en perruques majestueuses, ces princesses aux coiffures Ã©tagÃ©es,
+aux robes traÃ®nantes, ces magistrats, ces prÃ©lats agrandis par les
+magnifiques plis de leurs robes violettes, ne s'entretenaient que des
+plus beaux sujets qui puissent intÃ©resser l'homme; et si parfois des
+hauteurs de la religion, de la politique, de la philosophie, de la
+littÃ©rature, ils daignaient s'abaisser au badinage, c'Ã©tait avec la
+condescendance et la mesure de princes nÃ©s acadÃ©miciens. Nous avions
+honte de penser Ã  eux; nous nous trouvions bourgeois, grossiers,
+polissons, fils de M. Dimanche, de Jacques Bonhomme et de Voltaire;
+nous nous sentions devant eux comme des Ã©coliers pris en faute;
+nous regardions avec chagrin notre triste habit noir, hÃ©ritage des
+procureurs et des saute-ruisseaux antiques; nous jetions les yeux au
+bout de nos manches, avec inquiÃ©tude, craignant d'y voir des mains
+sales. Un duc et pair arrive, nous tire du parterre, nous mÃ¨ne dans
+les coulisses, nous montre les gens dÃ©barrassÃ©s du fard que les
+peintres et les poÃ¨tes ont Ã  l'envi plaquÃ© sur leurs joues. Eh! bon
+Dieu! quel spectacle! Tout est habit dans ce monde. Otez la perruque,
+la rhingrave, les canons, les rubans, les manchettes; reste Pierre ou
+Paul, le mÃªme hier qu'aujourd'hui.
+
+Allons, s'il vous plaÃ®t, chez Pierre et chez Paul: ne craignez pas de
+vous compromettre. Le duc de Saint-Simon nous conduit; d'abord chez
+M. le Prince, fils du grand CondÃ©, en qui le grand CondÃ©, comme dit
+Bossuet, Â«avait mis toutes ses complaisances.Â» Voici un intÃ©rieur
+de mÃ©nage: Â«Madame la Princesse Ã©tait sa continuelle victime.
+Elle Ã©tait Ã©galement laide, vertueuse et sotte; elle Ã©tait un peu
+bossue, et avec cela un gousset fin qui la faisait suivre Ã  la piste,
+mÃªme de loin. Toutes ces choses n'empÃªchÃ¨rent pas M. le Prince
+d'en Ãªtre jaloux jusqu'Ã  la fureur et jusqu'Ã  sa mort. La piÃ©tÃ©,
+l'attention infatigable de madame la Princesse, sa douceur, sa
+soumission de novice ne purent la garantir ni des injures frÃ©quentes,
+ni des coups pied et de poing, qui n'Ã©taient pas rares.Â» Il avait
+couru aprÃ¨s l'alliance des bÃ¢tards, et, pendant que sa fille Ã©tait
+chez le roi, faisait antichambre Ã  la porte. Nous ne savions pas
+qu'un prince eÃ»t l'Ã¢me et les mÅurs d'un laquais.
+
+Celui-lÃ  est le seul sans doute. Courons chez les princesses. Ces
+charmantes fleurs de politesse et de dÃ©cence nous feront oublier
+ce charretier en habit brodÃ©.--Â«Monseigneur, en entrant chez lui,
+trouva madame la duchesse de Chartres et madame la duchesse qui
+fumaient avec des pipes qu'elles avaient envoyÃ© chercher au corps
+de garde suisse. Monseigneur, qui en vit les suites, si cette odeur
+gagnait, leur fit quitter cet exercice. Mais la fumÃ©e les avait
+trahies.Â» C'Ã©tait une gaietÃ©, n'est-ce pas, un enfantillage?--Non
+pas, c'Ã©tait une habitude. Elles recommencÃ¨rent Ã  plusieurs
+reprises, et le roi fut obligÃ© de les gourmander Ã  plusieurs
+reprises. Un jour, madame la princesse de Conti, Ã  haute voix, devant
+toute la cour, appela madame de Chartres Â«sac Ã  vin.Â» Celle-ci,
+faisant allusion aux basses galanteries de l'autre, riposta par
+Â«sac Ã  guenilles.Â» Les effets se devinent: Â«madame la duchesse
+de Bourgogne fit un souper Ã  Saint-Cloud avec madame la duchesse de
+Berry. Madame la duchesse de Berry et M. le duc d'OrlÃ©ans, mais elle
+bien plus que lui, s'y enivrÃ¨rent au point que madame la duchesse de
+Bourgogne, madame la duchesse d'OrlÃ©ans, et tout ce qui Ã©tait lÃ  ne
+surent que devenir. L'effet du vin, par haut et bas, fut tel qu'on
+en fut en peine, et ne la dÃ©senivra point, tellement qu'il fallut la
+ramener en cet Ã©tat Ã  Versailles. Tous les gens des Ã©quipages
+le virent, et ne s'en turent pas.Â» C'Ã©tait la rÃ©gence avant la
+rÃ©gence. Les Ã©normes soupers de Louis XIV et les indigestions de
+Monseigneur Â«tout noyÃ© dans l'apathie et dans la graisse,Â» en
+donnaient un avant-goÃ»t.
+
+A tout le moins, le roi se respecte; s'il avale en loup, il mange
+en monarque. Sa table est noble; on n'y voit point les bouffonneries
+d'une cour du moyen Ã¢ge, ni les grossiÃ¨res plaisanteries d'un
+rÃ©gal d'Ã©tudiants. Attendez; voici un de ces soupers et un de
+leurs personnages: Â«Madame Panache Ã©tait une petite et fort vieille
+crÃ©ature avec des lippes et des yeux Ã©raillÃ©s Ã  faire mal Ã  ceux
+qui la regardaient, une espÃ¨ce de gueuse qui s'Ã©tait introduite Ã 
+la cour sur le pied d'une maniÃ¨re de folle, qui Ã©tait tantÃ´t
+au souper du roi, tantÃ´t au dÃ®ner de Monseigneur et de madame la
+Dauphine, oÃ¹ chacun se divertissait de la mettre en colÃ¨re, et qui
+chantait pouille aux gens Ã  ces dÃ®ners-lÃ  pour faire rire, mais
+quelquefois fort sÃ©rieusement et avec des injures qui embarrassaient
+et divertissaient encore plus les princes et les princesses, qui
+lui emplissaient ses poches de viandes et de ragoÃ»ts, dont la sauce
+dÃ©coulait tout du long de ses jupes; les autres lui donnaient une
+pistole ou un Ã©cu, les autres des chiquenaudes et des croquignoles
+dont elle entrait en furie; parce qu'avec des yeux pleins de chassie,
+elle ne voyait pas au bout de son nez, ni qui l'avait frappÃ©e,
+et c'Ã©tait le passe-temps de la cour.Â» Aujourd'hui l'homme qui
+s'amuserait d'un tel passe-temps passerait probablement pour un goujat
+de bas Ã©tage, et je ne raconterai pas ici ceux qu'on prit avec la
+princesse d'Harcourt.
+
+On rÃ©pondra que ces gens s'ennuyaient, que ces mÅurs Ã©taient
+une tradition, qu'un amusement est un accident, qu'au fond le cÅur
+n'Ã©tait pas vil: Â«Nanon, la vieille servante de madame de Maintenon,
+Ã©tait une demi-fÃ©e Ã  qui les princesses se trouvaient heureuses
+quand elles avaient occasion de parler et d'embrasser, toutes filles
+de roi qu'elles Ã©taient, et Ã  qui les ministres qui travaillaient
+chez madame de Maintenon faisaient la rÃ©vÃ©rence bien bas.Â»
+L'intendant Voysin, petit roturier, Ã©tant devenu ministre, Â«jusqu'Ã 
+Monseigneur se piqua de dire qu'il Ã©tait des amis de madame Voysin,
+depuis leur connaissance en Flandre.Â» On verra dans Saint-Simon
+comment Louvois, pour se maintenir, brÃ»la le Palatinat, comment
+Barbezieux, pour perdre son rival, ruina nos victoires d'Espagne. Les
+belles faÃ§ons et le superbe cÃ©rÃ©monial couvrent les bassesses et
+les trahisons; on est lÃ  comme Ã  Versailles, contemplant des yeux
+la magnificence du palais, pendant que l'esprit compte tout bas les
+exactions, les misÃ¨res et les tyrannies qui l'ont bÃ¢ti. J'omets les
+scandales; il y a des choses qu'aujourd'hui on n'ose plus Ã©crire, et
+il faut Ãªtre Saint-Simon, duc et pair, historien secret, pour
+parler de M. de Brissac, du chevalier de Lorraine et de madame de
+Valentinois. LÃ -dessus les MÃ©moires de Madame nous Ã©difieraient
+encore davantage. Les mÅurs nobles au XVIIe siÃ¨cle, comme les
+mÅurs chevaleresques au XIIe, ne furent guÃ¨re qu'une parade.
+Chaque siÃ¨cle joue la sienne et fabrique un beau type: celui-ci le
+chevalier, celui-lÃ  l'homme de cour. Il serait curieux de dÃ©mÃªler
+le chevalier vrai sous le chevalier des poÃ«mes. Il est curieux, quand
+on a connu l'homme de cour par les Ã©crivains et par les peintres, de
+connaÃ®tre par Saint-Simon le vÃ©ritable homme de cour.
+
+Rien de plus vide que cette vie. Vous devez attendre, suer et bÃ¢iller
+intÃ©rieurement, six ou huit heures chaque jour chez le roi. Il
+faut qu'il connaisse de longue vue votre visage; sinon vous Ãªtes un
+mÃ©content. Quand on demandera une grÃ¢ce pour vous, il rÃ©pondra:
+Â«Qui est-il? C'est un homme que je ne vois point.Â» Le premier
+favori, l'homme habile, le grand courtisan est le duc de la
+Rochefoucauld: suivez son exemple. Â«Le lever, le coucher; les
+deux autres changements d'habits tous les jours, les chasses et les
+promenades du roi, tous les jours aussi, il n'en manquait jamais;
+quelquefois dix ans de suite sans dÃ©coucher d'oÃ¹ Ã©tait le roi, et
+sur pied de demander un congÃ©, non pas pour dÃ©coucher, car en plus
+de quarante ans il n'a jamais couchÃ© vingt fois Ã  Paris, mais pour
+aller dÃ®ner hors de la cour et ne pas Ãªtre de la promenade.Â» Vous
+Ãªtes une dÃ©coration, vous faites partie des appartements; vous Ãªtes
+comptÃ© comme un des baldaquins, pilastres, consoles et sculptures
+que fournit Lepautre. Le roi a besoin de voir vos dentelles, vos
+broderies, votre chapeau, vos plumes, votre rabat, votre perruque.
+Vous Ãªtes le dessus d'un fauteuil. Votre absence lui dÃ©robe un
+de ses meubles. Restez donc, et faites antichambre. AprÃ¨s quelques
+annÃ©es d'exercice on s'y habitue; il ne s'agit que d'Ãªtre en
+reprÃ©sentation permanente. On manie son chapeau, on secoue du doigt
+ses dentelles, on s'appuie contre une cheminÃ©e, on regarde par la
+fenÃªtre une piÃ¨ce d'eau, on calcule ses attitudes et l'on se plie en
+deux pour les rÃ©vÃ©rences; on se montre et on regarde; on donne et
+on reÃ§oit force embrassades; on dÃ©bite et l'on Ã©coute cinq ou six
+cents compliments par jour. Ce sont des phrases que l'on subit et
+que l'on impose sans y donner attention, par usage, par cÃ©rÃ©monie,
+imitÃ©es des Chinois, utiles pour tuer le temps, plus utiles
+pour dÃ©guiser cette chose dangereuse, la pensÃ©e. On conte des
+commÃ©rages. On s'attendrit sur l'anthrax du souverain. Le style est
+excellent, les mÃ©nagements infinis, les gestes parfaits, les habits
+de la bonne faiseuse; mais on n'a rien dit, et pour toute action on a
+fait antichambre. Si vous Ãªtes las, imitez M. le Prince. Â«Il dormait
+le plus souvent sur un tabouret, auprÃ¨s de la porte, oÃ¹ je l'ai
+maintes fois vu ainsi attendre avec les courtisans que le roi vÃ®nt se
+coucher.Â» Bloin, le valet de chambre, ouvre les battants. Heureux
+le grand seigneur qui Ã©change un mot avec Bloin! les ducs sont
+trop contents quand ils peuvent dÃ®ner avec lui. Le roi entre et
+se dÃ©shabille. On se range en haie. Ceux qui sont par derriÃ¨re se
+dressent sur leurs pieds pour accrocher un regard. Un prince lui offre
+la chemise. On regarde avec une envie douloureuse le mortel fortunÃ©
+auquel il daigne confier le bougeoir. Le roi se couche, et les
+seigneurs s'en vont, supputant ses sourires, ses demi-saluts, ses
+mots, sondant les faveurs qui baissent ou qui montent, et l'abÃ®me
+infini des consÃ©quences. Iront-ils chez eux se reposer de
+l'Ã©tiquette? Non pas; vite les carrosses. Courons Ã  Meudon, tÃ¢chons
+de gagner Dumont, un valet de pied, Francine ou tout autre. Il faut
+contre-peser le marÃ©chal d'Uxelles qui tous les jours envoie des
+tÃªtes de lapins pour le chien de la maÃ®tresse de Monseigneur.--Mais,
+bon Dieu! en gagnant Monseigneur, ses domestiques, sa maÃ®tresse et le
+chien de sa maÃ®tresse, n'aurais-je point offensÃ© madame de Maintenon
+et Â«son mignon,Â» M. de Maine, le poltron qui va se confesser pour
+ne point se battre en Flandre? Vite Ã  Saint-Cyr, puis Ã  l'hÃ´tel du
+Maine.--J'y pense, le meilleur moyen de gagner les nouveaux bÃ¢tards,
+c'est de flatter les anciens bÃ¢tards; pour gagner le duc du Maine,
+saluons bien bas le duc de VendÃ´me. Cela est dur, l'homme est
+grossier. N'importe, marchons chez lui, et bon courage; mon Ã©toile
+fera peut-Ãªtre que je ne le trouverai ni par terre, ivre sous la
+table, ni trÃ´nant sur sa chaise percÃ©e.--O imprudent que je suis!
+voir les princes, sans avoir vu d'abord les ministres! Vite chez
+Barbezieux, chez Pontchartrain, chez Chamillart, chez Voysin, chez
+leurs parents, chez leurs amis, chez leurs domestiques. N'oublions
+point surtout que demain matin il faut Ãªtre Ã  la messe et vu de
+madame de Maintenon, qu'Ã  midi je dois faire ma cour Ã  madame la
+duchesse de Bourgogne, qu'il sera prudent d'aller recevoir ensuite les
+rebuffades allemandes de Madame et les algarades seigneuriales de M.
+le Prince; que je ferai sagement de louer la chimie dans l'antichambre
+de M. le duc d'OrlÃ©ans, qu'il me faut assister au billard du roi, Ã 
+sa promenade, Ã  sa chasse, Ã  son assemblÃ©e, que je dois Ãªtre ravi
+en extase s'il me parle, pleurer de joie s'il me sourit, avoir le
+cÅur brisÃ© s'il me nÃ©glige, rÃ©pandre devant lui, comme Lafeuillade
+et d'Aubin, les effusions de ma vÃ©nÃ©ration et de ma tendresse, crier
+Ã  Marly, comme l'abbÃ© de Polignac, que la pluie de Marly ne mouille
+point!--Des intrigues et des rÃ©vÃ©rences, des courses en carrosse et
+des stations d'antichambre, beaucoup de tracas et beaucoup de vide,
+l'assujettissement d'un valet, les agitations d'un homme d'affaires,
+voilÃ  la vie que la monarchie absolue impose Ã  ses courtisans.
+
+Il y a profit Ã  la subir. Je copie au hasard un petit passage
+instructif: M. le duc d'OrlÃ©ans ayant fait Law contrÃ´leur gÃ©nÃ©ral,
+voulut consoler les gens de la cour: Â«Il donna 600,000 livres Ã  la
+Fare, capitaine de ses gardes; 100,000 livres Ã  Castries, chevalier
+d'honneur de la duchesse d'OrlÃ©ans; 200,000 livres au vieux prince
+de Courtenay, qui en avait grand besoin; 20,000 livres de pension au
+prince de Talmont; 6,000 livres Ã  la marquise de Bellefond, qui en
+avait dÃ©jÃ  une pareille, et, Ã  force de cris de M. le prince de
+Conti, une de 60,000 livres au comte de la Marche son fils, Ã  peine
+Ã¢gÃ© de trois ans. Il en donna encore de petites Ã  diffÃ©rentes
+personnes.Â» La belle curÃ©e! Saint-Simon, si fier, y met la main
+par occasion et en retire une augmentation d'appointements de 11,000
+livres. Depuis que la noblesse parade Ã  Versailles en habits brodÃ©s,
+elle meurt de faim, il faut que le roi l'aide. Les seigneurs vont Ã 
+lui; il est pÃ¨re de son peuple. Et qu'est-ce que son peuple, sinon
+les gentilshommes[1]?--Sire, Ã©coutez mes petites affaires. J'ai
+des crÃ©anciers, donnez-moi des lettres d'Ãtat pour suspendre leurs
+poursuites. J'ai Â«froquÃ© un fils, une fille et fait prÃªtre malgrÃ©
+lui un autre fils;Â» donnez une charge Ã  mon aÃ®nÃ© et consolez mon
+cadet par une abbaye. Il me faut des habits dÃ©cents pour monter dans
+vos carrosses; accordez-moi 100,000 francs de retenue sur ma charge.
+Un homme admis Ã  vos levers a besoin de douze domestiques; donnez-moi
+cette terre qu'on vient de confisquer sur un protestant; ajoutez-y ce
+dÃ©pÃ´t qu'il m'avait confiÃ© en partant et que je vous rÃ©vÃ¨le[2].
+Mes voitures me coÃ»tent gros; soulagez-moi en m'accordant _une
+affaire_. Le comte de Grammont a saisi un homme qui fuyait, condamnÃ©
+Ã  une amende de 12,000 Ã©cus, et il en a tirÃ© 50,000 livres.
+Donnez-moi aussi un homme, un protestant, le premier venu, celui qu'il
+vous plaira, ou, si vous l'aimez mieux, un droit de 30,000 livres
+sur les halles, ou mÃªme une rente de 20,000 livres sur les carrosses
+publics. La source est bourgeoise, mais l'argent est toujours bon.--Et
+comme le roi, en vÃ©ritable pÃ¨re, entrait dans les affaires privÃ©es
+de ses sujets, on ajoutait: Sire, ma femme me trompe, mettez-la au
+couvent. Sire, un tel, petit compagnon, courtise ma fille, mettez-le
+Ã  la Bastille. Sire, un tel a battu mes gens, ordonnez-lui de me
+faire rÃ©paration. Sire, on m'a chansonnÃ©, chassez le mÃ©disant de
+la cour.--Le roi, bon justicier, faisait la police, et au besoin, de
+lui-mÃªme, commandait aux maris d'enfermer leurs femmes[3], aux
+pÃ¨res de Â«laver la tÃªte Ã  leurs fils.Â» Nous comprenons maintenant
+l'adoration, les tendresses, les larmes de joie, les gÃ©nuflexions des
+courtisans auprÃ¨s de leur maÃ®tre. Ils saluaient le sac d'Ã©cus
+qui allait remplir leurs poches et le bÃ¢ton qui allait rosser leurs
+ennemis.
+
+[Note 1: Â«Toute la France en hommes remplissait la
+grand'chambre.Â» Saint-Simon, I, 301. La France, c'est la cour.]
+
+[Note 2: Trait du prÃ©sident Harlay, I, 414.]
+
+[Note 3: Par exemple au duc de Choiseul, I, 41.]
+
+Ils saluaient quelque chose de plus. La soif qui brÃ»lait leur cÅur,
+la furieuse passion qui les prosternait aux genoux du maÃ®tre, l'Ã¢pre
+aiguillon du dÃ©sir invincible qui les prÃ©cipitait dans les extrÃªmes
+terreurs et jusqu'au fond des plus basses complaisances, Ã©tait la
+vanitÃ© insatiable et l'acharnement du rang. Tout Ã©tait matiÃ¨re Ã 
+distinctions, Ã  rivalitÃ©s, Ã  insultes. De lÃ  une Ã©chelle
+immense, le roi au sommet, dans une gloire surhumaine, sorte de dieu
+foudroyant, si haut placÃ©, et sÃ©parÃ© du peuple par une si longue
+suite de si larges intervalles, qu'il n'y avait plus rien de
+commun entre lui et les vermisseaux prosternÃ©s dans la poussiÃ¨re,
+au-dessous des pieds de ses derniers valets. ÃlevÃ©s dans
+l'Ã©galitÃ©, jamais nous ne comprendrons ces effrayantes distances,
+le tremblement de cÅur, la vÃ©nÃ©ration, l'humilitÃ© profonde qui
+saisissait un homme devant son supÃ©rieur, la rage obstinÃ©e avec
+laquelle il s'accrochait Ã  l'intrigue, Ã  la faveur, au mensonge,
+Ã  l'adulation et jusqu'Ã  l'infamie pour se guinder d'un degrÃ©
+au-dessus de son Ã©tat. Saint-Simon, un si grand esprit, remplit des
+volumes et consuma des annÃ©es pour des querelles de prÃ©sÃ©ance. Le
+glorieux amiral de Tourville se confondait en dÃ©fÃ©rences devant un
+jeune duc qui sortait du collÃ¨ge. Madame de Guise Ã©tait petite fille
+de France: Â«M. de Guise n'eut qu'un ployant devant madame sa femme.
+Tous les jours Ã  dÃ®ner il lui donnait la serviette, et quand elle
+Ã©tait dans son fauteuil et qu'elle avait dÃ©pliÃ© sa serviette, M.
+de Guise debout, elle ordonnait qu'on lui apportÃ¢t un couvert. Ce
+couvert se mettait en retour au bout de la table; puis elle disait Ã 
+M. de Guise de s'y mettre, et il s'y mettait.Â» M. de Boufflers qui
+Ã  Lille avait presque sauvÃ© la France, reÃ§oit en rÃ©compense les
+grandes entrÃ©es; Ã©perdu de reconnaissance, il tombe Ã  genoux et
+embrasse les genoux du roi. Il n'y a point d'action qui ne fÃ»t un
+moyen d'honneur pour les uns, de mortification pour les autres. Ma
+femme aura-t-elle un tabouret? Monterai-je dans les carrosses du roi?
+Pourrai-je entrer avec mon carrosse jusque chez le roi? Irai-je
+en manteau chez M. le duc? M'accordera-t-on l'insigne grÃ¢ce de me
+conduire Ã  Meudon? Aurai-je le bonheur suprÃªme d'Ãªtre admis aux
+Marly? Dans l'oraison funÃ¨bre de mon pÃ¨re, est-ce Ã  moi ou au
+cardinal officiant que le prÃ©dicateur adressera la parole? Puis-je me
+dispenser d'aller Ã  l'adoration de la croix?--C'est peu d'obtenir des
+distinctions pour soi; il faut en obtenir pour ses domestiques; les
+princesses triomphent de dÃ©clarer que leurs dames d'honneur
+mangeront avec le roi. C'est peu d'obtenir des distinctions pour sa
+prospÃ©ritÃ©, il faut en obtenir pour ses supplices: la famille
+du comte d'Auvergne, pendu en effigie, se dÃ©sole, non de le voir
+exÃ©cutÃ©, mais de le voir exÃ©cutÃ© comme un simple gentilhomme.
+C'est peu d'obtenir des distinctions de gloire, il faut obtenir des
+distinctions de honte: les bÃ¢tards simples du roi ont la joie de
+draper Ã  la mort de leur mÃ¨re, au dÃ©sespoir des bÃ¢tards doubles
+qui ne le peuvent pas. Dans quel ocÃ©an de minuties, de tracasseries
+poussÃ©es jusqu'aux coups de poings Â«et de griffes;Â» dans
+quel abÃ®me de petitesses et de ridicules, dans quelles chicanes
+inextricables de cÃ©rÃ©monial et d'Ã©tiquette la noblesse Ã©tait
+tombÃ©e, c'est ce qu'un mandarin chinois pourrait seul comprendre. Le
+roi confÃ¨re gravement, longuement, comme d'une affaire d'Ãtat, du
+rang des bÃ¢tards; et pour Ã©tablir ce rang, voici ce qu'on imagine:
+Â«Il faut donner Ã  M. le duc du Maine Â«le bonnet comme aux princes
+du sang qui depuis longtemps ne l'est plus aux pairs, mais lui faire
+prÃªter le mÃªme serment des pairs, sans aucune diffÃ©rence de la
+forme ni du cÃ©rÃ©monial, pour en laisser une entiÃ¨re Ã  l'avantage
+des princes du sang qui n'en prÃªtent point; et pareillement le faire
+entrer et sortir de sÃ©ance tout comme les pairs, au lieu que les
+princes du sang traversent le parquet; l'appeler par son nom comme
+les autres pairs, en lui demandant son avis, mais avec le bonnet Ã  la
+main _un peu moins baissÃ©_ que pour les princes du sang qui ne sont
+que regardÃ©s sans Ãªtre nommÃ©s; enfin le faire recevoir et conduire
+en carrosse par un seul huissier Ã  chaque fois qu'il viendra au
+Parlement, Ã  la diffÃ©rence des princes du sang qui le sont par deux,
+et des pairs dont aucun n'est reÃ§u par un huissier au carrosse que
+le jour de sa rÃ©ception, et qui, sortant de la sÃ©ance deux Ã  deux,
+sont conduits par un huissier jusqu'Ã  la sortie de la grande salle
+seulement.Â»
+
+N'allons pas plus loin: de 1689, on aperÃ§oit 1789.
+
+
+
+
+III
+
+L'HOMME.
+
+
+Il y a deux parts en nous: l'une que nous recevons du monde, l'autre
+que nous apportons au monde; l'une qui est acquise, l'autre qui est
+innÃ©e; l'une qui nous vient des circonstances, l'autre qui nous vient
+de la nature. Toutes deux vont dans Saint-Simon au mÃªme effet, qui
+est de le rendre historien.
+
+Il fut homme de cour et n'Ã©tait point fait pour l'Ãªtre; son
+Ã©ducation y rÃ©pugnait; pour Ãªtre bon valet, il Ã©tait trop grand
+seigneur; dÃ¨s l'enfance, il avait pris chez son pÃ¨re les idÃ©es
+fÃ©odales. Ce pÃ¨re, homme hautain, vivait, depuis l'avÃ¨nement de
+Louis XIV, retirÃ© dans son gouvernement de Blaye, Ã  la faÃ§on des
+anciens barons, si absolu dans son petit Ãtat que le roi lui envoyait
+la liste des demandeurs de places avec libertÃ© entiÃ¨re d'y choisir
+ou de prendre en dehors, et de renvoyer ou d'avancer qui bon lui
+semblait. Il Ã©tait roi de sa famille comme de son gouvernement, et de
+sa femme comme de ses domestiques. Un jour madame de Montespan envoie
+Ã  madame de Saint-Simon un brevet de dame d'honneur; il ouvre la
+lettre, Ã©crit Â«qu'Ã  son Ã¢ge il n'a pas pris une femme pour la
+cour, mais pour lui.--Ma mÃ¨re y eut grand regret, mais il n'y parut
+jamais.Â» Je le crois; on se taisait sous un pareil maÃ®tre.--Il se
+faisait justice, impÃ©tueusement, impÃ©rieusement, lui-mÃªme, avec
+l'Ã©pÃ©e, comme sous Henri IV. Un jour ayant vu une phrase injurieuse
+dans les MÃ©moires de la Rochefoucauld, Â«il se jeta sur une plume, et
+mit Ã  la marge: _L'auteur en a menti_.Â» Il alla chez le libraire,
+et fit de mÃªme aux autres exemplaires; les MM. de la Rochefoucauld
+criÃ¨rent: il parla plus haut qu'eux, et ils burent l'affront.--Aussi
+roide envers la cour, il Ã©tait restÃ© fidÃ¨le pendant la Fronde, par
+orgueil, repoussant les rÃ©compenses, prÃ©disant que le danger passÃ©
+on lui refuserait tout, chassant les envoyÃ©s d'Espagne avec menace de
+les jeter dans ses fossÃ©s s'ils revenaient, dÃ©daigneusement superbe
+contre le temps prÃ©sent, habitant de souvenir sous Louis XIII, Â«le
+roi des nobles,Â» que jusqu'Ã  la fin il appelait le roi son maÃ®tre.
+Saint-Simon fut Ã©levÃ© dans ces enseignements; ses premiÃ¨res
+opinions furent contraires aux opinions utiles et courantes; le
+mÃ©contentement Ã©tait un de ses hÃ©ritages; il sortit frondeur de
+chez lui.
+
+A la cour il l'est encore: il aime le temps passÃ© qui paraÃ®t
+gothique; il loue Louis XIII en qui on ne voit d'autre mÃ©rite que
+d'avoir mis Louis XIV au monde. Dans ce peuple d'admirateurs il est
+dÃ©placÃ©; il n'a point l'enthousiasme profond ni les genoux pliants.
+Madame de Maintenon le juge Â«glorieux.Â» Il ne sait pas supporter une
+injustice, et donne sa dÃ©mission faute d'avancement. Il a le
+parler haut et libre; Â«il lui Ã©chappe d'abondance de cÅur des
+raisonnements et des blÃ¢mes.Â» TrÃ¨s-pointilleux et rÃ©calcitrant,
+Â«c'est chose Ã©trange, dit le roi, que M. de Saint-Simon ne songe
+qu'Ã  Ã©tudier les rangs et Ã  faire des procÃ¨s Ã  tout le monde.Â»
+Il a pris de son pÃ¨re la vÃ©nÃ©ration de son titre, la foi parfaite
+au droit divin des nobles, la persuasion enracinÃ©e que les charges et
+le gouvernement leur appartiennent de naissance comme au roi et sous
+le roi, la ferme croyance que les ducs et pairs sont mÃ©diateurs entre
+le prince et la nation, et par-dessus tout l'Ã¢pre volontÃ© de
+se maintenir debout et entier dans Â«ce long rÃ¨gne de vile
+bourgeoisie.Â» Il hait les ministres, petites gens que le roi
+prÃ©fÃ¨re, chez qui les seigneurs font antichambre, dont les femmes
+ont l'insolence de monter dans les carrosses du roi. Il mÃ©dite des
+projets contre eux pendant tout le rÃ¨gne, et ce n'est pas toujours Ã 
+l'insu du maÃ®tre; il veut Â«mettre la noblesse dans le ministÃ¨re aux
+dÃ©pens de la plume et de la robe, pour que peu Ã  peu cette
+roture perde les administrations et pour soumettre tout Ã  la
+noblesse.Â»--AprÃ¨s avoir blessÃ© le roi dans son autoritÃ©, il le
+blesse dans ses affections. Quand il s'agit Â«d'espÃ¨ces,Â» comme
+les favoris et les bÃ¢tards, il est intraitable. Pour empÃªcher les
+nouveaux venus d'avoir le pas sur lui, il combat en hÃ©ros, il
+chicane en avocat, il souffre en malade; il Ã©clate en expressions
+douloureuses comme s'il Ã©tait coudoyÃ© par des laquais. C'est Â«la
+plus grande plaie que la patrie pÃ»t recevoir, et qui en devint la
+lÃ¨pre et le chancre.Â» Lorsqu'il apprend que d'Antin veut Ãªtre pair,
+Â«Ã  cette prostitution de la dignitÃ©,Â» les bras lui tombent; il
+s'Ã©crie amÃ¨rement: Â«Le triomphe ne coÃ»tera guÃ¨re sur des victimes
+comme nous.Â» Quand il va faire visite chez le duc du Maine, bÃ¢tard
+parvenu, c'est parce qu'il est certain d'Ãªtre perdu s'il y manque,
+ployÃ© par l'exemple Â«des hommages arrachÃ©s Ã  une cour esclave,Â»
+le cÅur brisÃ©, Ã  peine domptÃ© et traÃ®nÃ© par toute la volontÃ© du
+roi jusqu'Ã  Â«ce calice.Â» Le jour oÃ¹ le bÃ¢tard est dÃ©gradÃ©
+est une Â«rÃ©surrection.Â» Â«Je me mourais de joie, j'en Ã©tais Ã 
+craindre la dÃ©faillance. Mon cÅur, dilatÃ© Ã  l'excÃ¨s, n'avait plus
+d'espace pour s'Ã©tendre. Je triomphais, je me vengeais, je nageais
+dans ma vengeance. J'Ã©tais tentÃ© de ne me plus soucier de rien.Â»
+Il est clair qu'un homme aussi mal pensant ne pouvait Ãªtre employÃ©.
+C'Ã©tait un seigneur d'avant Richelieu, nÃ© cinquante ans trop tard,
+sourdement rÃ©voltÃ© et disgraciÃ© de naissance. Ne pouvant agir, il
+Ã©crivit; au lieu de combattre ouvertement de la main, il combattit
+secrÃ¨tement de la plume. Il eÃ»t Ã©tÃ© mÃ©content et homme de ligue;
+il fut mÃ©content et mÃ©disant.
+
+Il choquait par ses mÅurs comme par ses prÃ©tentions; il y avait en
+lui toutes les oppositions, aristocratiques et morales; s'il Ã©tait
+pour la noblesse comme Boulainvillier, il Ã©tait, comme FÃ©nelon,
+contre la tyrannie. Le grand seigneur ne murmurait-pas plus que
+l'honnÃªte homme; avec la rÃ©volte du rang, on sentait en lui
+la rÃ©volte de la vertu. Dans ce voisinage de la rÃ©gence, sous
+l'hypocrisie rÃ©gnante et le libertinage naissant, il fut pieux,
+mÃªme dÃ©vot, et passa pour tel: c'Ã©tait encore un legs de famille.
+Â«Madame sa mÃ¨re, dit _le Mercure_, l'a fait particuliÃ¨rement
+instruire des devoirs d'un bon chrÃ©tien.Â» Son pÃ¨re, pendant
+plusieurs annÃ©es, allait tous les jours Ã  la Trappe. Â«Il m'y avait
+menÃ©. Quoique enfant pour ainsi dire encore, M. de la Trappe eÃ»t
+pour moi des charmes qui m'attachÃ¨rent, et la saintetÃ© du lieu
+m'enchanta.Â» Chaque annÃ©e il y fit une retraite, parfois de
+plusieurs semaines; il y prit beaucoup d'inclination pour les
+chrÃ©tiens sÃ©vÃ¨res, pour les jansÃ©nistes, pour le duc de
+Beauvilliers, pour ses gendres. Il y prit aussi des scrupules; lui
+si prompt a juger, si violent, si libre quand il faut railler Â«un
+cuistre violet,Â» transpercer les jÃ©suites ou dÃ©masquer la cour de
+Rome, il s'arrÃªte au seuil de l'histoire, inquiet, n'osant avancer,
+craignant de blesser la charitÃ© chrÃ©tienne, ayant presque envie
+d'imiter les deux ducs Â«qu'elle tient enfermÃ©s dans une bouteille,Â»
+s'autorisant du Saint-Esprit qui a daignÃ© Ã©crire l'histoire, Ã  peu
+prÃ¨s comme Pascal qui justifiait ses ironies par l'exemple de Dieu.
+Cette piÃ©tÃ© un peu timorÃ©e contribua Ã  le rendre honnÃªte homme,
+et l'orgueil du rang confirma sa vertu. En respectant son titre, on se
+respecte; les bassesses semblent une roture, et l'on se dÃ©fend de la
+sÃ©duction des vices comme des empiÃ©tements des parvenus. Saint-Simon
+est un noble cÅur, sincÃ¨re, sans restrictions ni mÃ©nagements,
+implacable contre la bassesse, franc envers ses amis et ses ennemis,
+dÃ©sespÃ©rÃ© quand la nÃ©cessitÃ© extrÃªme le force Ã  quelque
+dissimulation ou Ã  quelque condescendance, loyal, hardi pour le bien
+public, ayant toutes les dÃ©licatesses de l'honneur, vÃ©ritablement
+Ã©pris de la vertu. Plus austÃ¨re, plus fier, plus roide que ses
+contemporains, un peu antique comme Tacite, on apercevait en lui, avec
+le dÃ©fenseur de l'aristocratie brisÃ©e, l'interprÃ¨te de la justice
+foulÃ©e, et, sous les ressentiments du passÃ©, les menaces de
+l'avenir.
+
+Comment un Tacite a-t-il subsistÃ© Ã  la cour? Vingt fois pendant
+ces dÃ©tails, involontairement je l'ai vu, en chaise de poste, sur la
+route de Blaye, avec un ordre du roi qui le renvoie dans ses terres.
+Il est restÃ© pourtant; sa femme fut dame d'honneur de la duchesse
+de Bourgogne; il a eu maintes fois le bougeoir; le roi l'a grondÃ©
+parfois, majestueusement, Â«d'un vrai ton de pÃ¨re,Â» mais ne
+l'a jamais foudroyÃ©. Comptez d'abord son beau titre; ses grandes
+amitiÃ©s, ses alliances, M. de Lorge, M. de Beauvilliers, le duc
+d'OrlÃ©ans, le duc de Bourgogne. Mais le vrai paratonnerre fut son
+ambition, instruite par la vue des choses. Il voulait parvenir, et il
+savait comment on parvient. Quand il entra dans le monde, il trouva le
+roi demi-dieu. C'Ã©tait au siÃ©ge de Namur, en 1692: quarante ans de
+gloire, point de revers encore; les plus grands rÃ©duits, les trois
+Ordres empressÃ©s sous le despotisme. Il prit d'abord des impressions
+de respect et d'obÃ©issance, et pour faire sa cour accepta et tenta
+tout ce qu'un homme fier, mais ambitieux, peut entreprendre et
+subir. Les cavaliers de la maison du roi, habituÃ©s aux distinctions,
+refusaient de prendre des sacs de grains en croupe. Â«J'acceptai ces
+sacs, parce que je sentis que cela ferait ma cour aprÃ¨s tout le
+bruit qui s'Ã©tait fait.Â» Soldat, il voulait bien obÃ©ir en soldat;
+courtisan, il voulait bien parler en courtisan. Ãcoutez ce style:
+Â«Je dis au roi que je n'avais pas pu vivre davantage dans sa
+disgrÃ¢ce, sans me hasarder Ã  chercher Ã  apprendre par oÃ¹ j'y
+Ã©tais tombÃ©...; qu'ayant Ã©tÃ© quatre ans durant de tous les voyages
+de Marly, la privation m'en avait Ã©tÃ© une marque qui m'avait Ã©tÃ©
+trÃ¨s-sensible, et par la disgrÃ¢ce et par la privation de ces temps
+longs de l'honneur de lui faire ma cour...; que j'avais grand soin de
+ne parler mal de personne; que pour Sa MajestÃ© j'aimerais mieux Ãªtre
+mort (en le regardant avec feu entre deux yeux). Je lui parlai aussi
+de la longue absence que j'avais faite, de douleur de me trouver mal
+avec lui, d'oÃ¹ je pris occasion de me rÃ©pandre moins en respects
+qu'en choses affectueuses sur mon attachement Ã  sa personne et
+mon dÃ©sir de lui plaire en tout, que je poussai avec une sorte de
+familiaritÃ© et d'Ã©panchement... Je le suppliai mÃªme de daigner
+me faire avertir s'il lui revenait quelque chose de moi qui pÃ»t lui
+dÃ©plaire, qu'il en saurait aussitÃ´t la vÃ©ritÃ©, ou pour pardonner
+Ã  mon ignorance, ou pour mon instruction, ou pour voir si je n'Ã©tais
+pas en faute.Â» On parlait au roi comme Ã  un Dieu, comme Ã  un pÃ¨re,
+comme Ã  une maÃ®tresse; lorsqu'un homme d'esprit attrapait ce style,
+il Ã©tait difficile de le renvoyer chez lui. Le roi sourit, salua,
+parut bienveillant; Saint-Simon demeura Ã  la cour, sans charge, au
+bon point de vue, ayant le loisir de tout Ã©couter et de tout Ã©crire,
+un peu disgraciÃ©, point trop disgraciÃ©, juste assez pour Ãªtre
+historien.
+
+Il l'Ã©tait autant par nature que par fortune; son tour d'esprit comme
+sa position le fit Ã©crivain. Il Ã©tait trop passionnÃ© pour Ãªtre
+homme d'action. La pratique et la politique ne s'accommodent pas des
+Ã©lans impÃ©tueux ni des mouvements brusques; au contraire, l'art
+en profite. La sensibilitÃ© violente est la moitiÃ© du gÃ©nie; pour
+arracher les hommes Ã  leurs affaires, pour leur imposer ses douleurs
+et ses joies, il faut une surabondance de douleur et de joie. Le
+papier est muet sous l'effort d'une passion vulgaire; pour qu'il
+parle, il faut que l'artiste ait criÃ©. DÃ¨s sa premiÃ¨re action
+Saint-Simon se montre ardent et emportÃ©. Le voilÃ  amoureux du duc
+de Beauvilliers; sur-le-champ il lui demande une de ses filles en
+mariage, n'importe laquelle; c'est lui qu'il Ã©pouse. Le duc n'ose
+contraindre sa fille, qui veut Ãªtre religieuse. Le jeune homme
+pousse en avant avec la verve d'un poÃ«te qui conÃ§oit un roman et
+sur-le-champ passe la nuit Ã  l'Ã©crire. Il attend le duc d'un air
+allumÃ© de crainte et d'espÃ©rance.Â» Son dÃ©sir l'enflamme; en
+vÃ©ritable artiste, il s'Ã©chauffe Ã  l'Åuvre. Â«Je ne pus me
+contenir de lui dire Ã  l'oreille que je ne serais point heureux avec
+une autre qu'avec sa fille.Â» On lui oppose de nouvelles difficultÃ©s;
+Ã  l'instant un poÃ«me d'arguments, de rÃ©futations, d'expÃ©dients,
+pousse et vÃ©gÃ¨te dans sa tÃªte; il Ã©tourdit le duc Â«de la force
+de son raisonnement et de sa prodigieuse ardeur;Â» c'est Ã  peine
+si enfin, vaincu par l'impossible, il se dÃ©prend de son idÃ©e fixe.
+Balzac courait comme lui aprÃ¨s des romans pratiques ou non pratiques.
+Cette invention violente et cet acharnement de dÃ©sir sont la grande
+marque littÃ©raire. Ajoutez-y la drÃ´lerie comique et l'Ã©lan de
+jeunesse; il y a telle phrase dans le procÃ¨s des ducs qui court avec
+une prestesse de gamin. La mÃ¨re de Saint-Simon ne voulait pas donner
+des lettres d'Ãtat, essentielles pour l'affaire. Â«Je l'interrompis
+et lui dis que c'Ã©tait chose d'honneur, indispensable, promise,
+attendue sur-le-champ, et, sans attendre de rÃ©plique, pris la clef du
+cabinet, puis les lettres d'Ãtat, et cours encore.Â» Cependant le duc
+de Richelieu arrivait avec un lavement dans le ventre, fort pressÃ©,
+comme on peut croire, Â«exorcisantÂ» madame de Saint-Simon entre deux
+opÃ©rations et du plus vite qu'il put: voilÃ  MoliÃ¨re et le
+malade imaginaire.--Ces gaietÃ©s ne sont point le ton habituel; la
+sensibilitÃ© exaltÃ©e n'est comique que par accÃ¨s; elle tourne
+vite au tragique: elle est naturellement effrÃ©nÃ©e et terrible.
+Saint-Simon a des fureurs de haine, des ricanements de vengeance; des
+transports de joie, des folies d'amour, des abattements de douleur,
+des tressaillements d'horreur que nul, sauf Shakspeare, n'a
+surpassÃ©s. On le voit les yeux fixes et le corps frissonnant,
+lorsque, dans le suprÃªme Ã©puisement de la France, Desmarets Ã©tablit
+l'impÃ´t du dixiÃ¨me: Â«La capitation doublÃ©e et triplÃ©e Ã  la
+volontÃ© arbitraire des intendants des provinces, les marchandises, et
+les denrÃ©es de toute-espÃ¨ce imposÃ©es en droit au quadruple de leur
+valeur, taxes d'aides et autres de toute nature et sur toutes sortes
+de choses: tout cela Ã©crasait, nobles et roturiers, seigneurs et
+gens d'Ã©glise, sans que ce qu'il en revenait au roi pÃ»t suffire,
+qui tirait le sang de ses sujets sans distinction, qui en exprimait
+jusqu'au pus. On compte pour rien la dÃ©solation de l'impÃ´t mÃªme
+dans une multitude d'hommes de tous les Ã©tats si prodigieuse, la
+combustion des familles par ces cruelles manifestations et par cette
+lampe portÃ©e sur leurs parties les plus honteuses. Moins d'un mois
+suffit Ã  la pÃ©nÃ©tration de ces humains commissaires chargÃ©s de
+rendre leur compte de ce doux projet au Cyclope qui les en avait
+chargÃ©s. Il revit avec eux l'Ã©dit qu'ils en avaient dressÃ©, tout
+hÃ©rissÃ© de foudre contre les dÃ©linquants. Ainsi fut bÃ¢clÃ©e
+cette sanglante affaire, et immÃ©diatement aprÃ¨s signÃ©e, scellÃ©e,
+enregistrÃ©e parmi les sanglots suffoquÃ©s.Â» L'homme qui Ã©crit
+ainsi palpite et frÃ©mit tout entier comme un prisonnier devant des
+cannibales; le mot y est: Â«Bureau d'anthropophages.Â» Mais l'effet
+est plus sublime encore, quand le cri de la justice violentÃ©e
+est accru par la furieuse clameur de la souffrance personnelle.
+L'impression que laisse sa vengeance contre Noailles est accablante;
+il semble que liÃ© et fixe, on sente crouler sur soi l'horrible poids
+d'une statue d'airain. Trahi, presque perdu par un mensonge, dÃ©criÃ©
+auprÃ¨s de toute la noblesse, il fit ferme, dÃ©mentit l'homme
+publiquement Â«de la maniÃ¨re la plus diffamatoire et la plus
+dÃ©mesurÃ©e,Â» sans relÃ¢che, en toute circonstance, pendant douze
+ans. Â«Noailles souffrit tout en coupable Ã©crasÃ© sous le poids de
+son crime. Les insultes publiques qu'il essuya de moi sans nombre ne
+le rebutÃ¨rent pas. Il ne se lassa jamais de s'arrÃªter devant moi
+chez le rÃ©gent, en entrant et sortant du conseil de rÃ©gence, avec
+une rÃ©vÃ©rence extrÃªmement marquÃ©e, ni moi de passer droit sans le
+saluer jamais, et quelquefois dÃ©tourner la tÃªte avec insulte. Et il
+est trÃ¨s-souvent arrivÃ© que je lui ai fait des sorties chez M. le
+duc d'OrlÃ©ans et au conseil de rÃ©gence, dÃ¨s que j'y trouvais le
+moindre jour, dont le ton, les termes et les maniÃ¨res effrayaient
+l'assistance, sans qu'il rÃ©pondÃ®t jamais un seul mot; mais il
+rougissait, il pÃ¢lissait et n'osait se commettre Ã  une nouvelle
+reprise. Cela en vint au point qu'un jour, au sortir d'un conseil oÃ¹,
+aprÃ¨s l'avoir forcÃ© de rapporter une affaire que je savais qu'il
+affectionnait, et sur laquelle je l'entrepris sans mesure et le fis
+tondre, je lui dictais l'arrÃªt tout de suite, et le lisais aprÃ¨s
+qu'il l'eut Ã©crit, en lui montrant avec hauteur et dÃ©rision ma
+dÃ©fiance et Ã  tout le conseil; il se leva, jeta son tabouret Ã  dix
+pas, et lui qui en place n'avait osÃ© rÃ©pondre un seul mot que de
+l'affaire mÃªme avec l'air le plus embarrassÃ© et le plus respectueux:
+Mort... dit-il, Â«il n'y a plus moyen d'y durer!Â» s'en alla chez
+lui, d'oÃ¹ ses plaintes me revinrent, et la fiÃ¨vre lui en prit.Â» La
+douziÃ¨me annÃ©e, aprÃ¨s un an de supplications, Saint-Simon forcÃ©
+par ses amis, plia, mais Â«comme, un homme qui va au supplice,Â»
+et consentit par grÃ¢ce Ã  traiter Noailles en indiffÃ©rent. Cette
+franchise et cette longueur de haine marquent la force du ressort.
+Ce ressort se dÃ©banda plus encore le jour de la dÃ©gradation des
+bÃ¢tards, lÃ  oÃ¹ l'homme d'action se contient, l'artiste s'abandonne;
+on voit ici l'impudeur de la passion Ã©panchÃ©e hors de toute digue,
+si dÃ©bordÃ©e qu'elle engloutit le reste de l'homme, et qu'on y sent
+l'infini comme dans une mer. Â«Je l'accablai Ã  cent reprises dans la
+sÃ©ance de mes regards assÃ©nÃ©s et forlongÃ©s avec persÃ©vÃ©rance.
+L'insulte, le mÃ©pris, le dÃ©dain, le triomphe lui furent lancÃ©s de
+mes yeux jusqu'en ses moelles. Souvent il baissait la vue, quand il
+attrapait mes regards; une fois ou deux, il fixa le sien sur moi, et
+je me plus Ã  l'outrager par des sourires dÃ©robÃ©s, mais noirs qui
+achevÃ¨rent de le confondre. Je me baignais dans sa rage, et je me
+dÃ©lectais Ã  le lui faire sentir.Â» Un pareil homme ne devait pas
+faire fortune. Pouvait-il Ãªtre toujours maÃ®tre de lui sous Louis
+XIV? Il l'a cru; il se trompait; ses regards, le pli de ses lÃ¨vres,
+le tremblement de ses mains, tout en lui criait tout haut son amour
+ou sa haine; les yeux les moins clairvoyants le perÃ§aient. Il
+s'Ã©chappait; au fort de l'action, l'ouragan intÃ©rieur l'emportait;
+on avait peur de lui; personne ne se souciait de manier une tempÃªte.
+Il n'Ã©tait chez lui et dans son domaine que le soir, les verrous
+tirÃ©s, seul, sous sa lampe, libre avec le papier, assez refroidi par
+le demi-oubli et par l'absence pour noter ses sensations.
+
+Non-seulement il en avait de trop vives, mais encore il en avait trop.
+Leur nombre aussi bien que leur force lui dÃ©fendaient la vie pratique
+et lui imposaient la vie littÃ©raire. Tant d'idÃ©es gÃªnent. Le
+politique n'en voit qu'une qui est la vraie; il a le tact juste,
+plutÃ´t que l'imagination abondante; d'instinct, il devine la bonne
+route, et la suit sans plus chercher. Saint-Simon est un poÃ«te
+Ã©pique; le pour, le contre, les partis mitoyens, l'inextricable
+entrelacement et les prolongations infinies des consÃ©quences, il a
+tout embrassÃ©, mesurÃ©, sondÃ©, prÃ©vu, discutÃ©; le plan exact du
+labyrinthe est tout entier dans sa tÃªte, sans que le moindre petit
+sentier rÃ©el ou imaginaire ait Ã©chappÃ© Ã  sa vision. Ne vous
+souvient-il pas que Balzac avait inventÃ© des thÃ©ories chimiques,
+une rÃ©forme de l'administration, une doctrine philosophique, une
+explication de l'autre monde, trois cents maniÃ¨res de faire fortune,
+les ananas Ã  quinze sous piÃ¨ce, et la maniÃ¨re de gouverner l'Ãtat?
+Le gÃ©nie de l'artiste consiste Ã  dÃ©couvrir vite, aisÃ©ment et sans
+cesse, non ce qui est applicable, mais ce qui est vraisemblable.
+Ainsi fait Saint-Simon; Ã  chaque volume il trouve le moyen de sauver
+l'Ãtat. Ses amis, FÃ©nelon, le duc de Bourgogne, Ã  huis clos, les
+domestiques dehors, refaisaient comme lui le royaume. Ils fabriquaient
+des Salente et autres bonnes petites monarchies bien absolues, ayant
+pour frein l'honnÃªtetÃ© du roi et l'enfer au bout. C'Ã©tait une
+Ã©cole de Â«chimÃ©riques.Â» Saint-Simon fonda aussi (sur le papier) sa
+rÃ©publique; il limitait la monarchie en dÃ©clarant les engagements
+du roi viagers, sans force pour lier le successeur. A son avis cette
+dÃ©claration rÃ©parait tout; quatre ou cinq pages de consÃ©quences
+Ã©talent Ã  flots pressÃ©s le magnifique torrent de bÃ©nÃ©dictions
+et de fÃ©licitÃ©s qui vont couler sur la nation; un bout de parchemin
+dÃ©livrait le peuple et relevait la monarchie; rien n'Ã©tait oubliÃ©,
+sinon cet autre bout de parchemin inÃ©vitable, publiÃ© par tout roi,
+huit jours aprÃ¨s le premier, annulant le premier comme attentatoire
+aux droits de la couronne. C'est que nulle force ne se limite
+d'elle-mÃªme: son invincible effort est de s'accroÃ®tre, non de se
+restreindre; limitons-la, mais par une force diffÃ©rente; ce qui
+pouvait rÃ©primer la royautÃ©, ce n'Ã©tait pas la royautÃ©, mais
+la nation. Saint-Simon ne fut qu'un homme Â«plein de vues,Â»
+c'est-Ã -dire romanesque comme FÃ©nelon, quoique prÃ©servÃ© des
+pastorales. Mais cette richesse d'invention systÃ©matique, dangereuse
+en politique, est utile en littÃ©rature; Saint-Simon entraÃ®ne, quoi
+qu'on en ait; il nous maÃ®trise et nous possÃ¨de. Je ne connais rien
+de plus Ã©loquent que les trois entretiens qu'il eut avec le duc
+d'OrlÃ©ans pour lui faire renvoyer sa maÃ®tresse. Nulle part on n'a
+vu une telle force, une telle abondance de raisons si hardies, si
+frappantes, si bien accompagnÃ©es de dÃ©tails prÃ©cis et de preuves;
+tous les intÃ©rÃªts, toutes les passions appelÃ©es au secours,
+l'ambition, l'honneur, le respect de l'opinion publique, le soin de
+ses amis, l'intÃ©rÃªt de l'Ãtat, la crainte; toutes les objections
+renversÃ©es, tous les expÃ©dients trouvÃ©s, appliquÃ©s, ajustÃ©s; une
+inondation d'Ã©vidence et d'Ã©loquence qui terrasse la rÃ©sistance,
+qui noie les doutes, qui verse Ã  flots dans le cÅur la lumiÃ¨re
+et la croyance; par-dessus tout une impÃ©tuositÃ© gÃ©nÃ©reuse, un
+emportement d'amitiÃ© qui fait tout Â«mollir et ployer sous le faix de
+la vÃ©hÃ©mence;Â» une licence d'expressions qui, en face d'un prince
+du sang, se dÃ©chaÃ®ne jusqu'aux insultes, Â«personne ne pouvant plus
+souffrir dans un petit-fils de France de trente-cinq ans ce que le
+magistrat et la police eussent chÃ¢tiÃ© il y a longtemps dans tout
+autre;Â» Ã©tant certain Â«que le dÃ©nÃ»ment et la saletÃ© de sa vie le
+feraient tomber plus bas que ces seigneurs pÃ©ris sous les ruines de
+leur obscuritÃ© dÃ©bordÃ©e; que c'Ã©tait Ã  lui, dont les deux mains
+touchaient Ã  ces deux si diffÃ©rents Ã©tats, d'en choisir un
+pour toute sa vie, puisque aprÃ¨s avoir perdu tant d'annÃ©es et
+nouvellement depuis l'affaire d'Espagne, meule nouvelle qui l'avait
+nouvellement suraccablÃ©, un dernier affaissement aurait scellÃ© la
+pierre du sÃ©pulcre oÃ¹ il se serait enfermÃ© tout vivant, duquel
+aprÃ¨s nul secours humain, ni sien ni de personne, ne le pourrait
+tirer.Â» Le duc d'OrlÃ©ans fut emportÃ© par ce torrent et cÃ©da. Nous
+plions comme lui; nous comprenons qu'une pareille Ã¢me avait besoin
+de s'Ã©pancher. Faute de place dans le monde, il en prit une dans
+les lettres. Comme un lustre flamboyant, chargÃ© et encombrÃ© de
+lumiÃ¨res, mais exclu de la grande salle de spectacle, il brÃ»la en
+secret dans sa chambre, et aprÃ¨s cent cinquante ans, il Ã©blouit
+encore. C'est qu'il a trouvÃ© sa vraie place; cet esprit qui
+regorgeait de sensations et d'idÃ©es Ã©tait nÃ© curieux, passionnÃ©
+pour l'histoire, affamÃ© d'observations, Â«perÃ§ant de ses regards
+clandestins chaque physionomie,Â» psychologue d'instinct, Â«ayant si
+fort imprimÃ© en lui les diffÃ©rentes cabales, leurs subdivisions,
+leurs replis, leurs divers personnages et leurs degrÃ©s, la
+connaissance de leurs chemins, de leurs ressorts, de leurs divers
+intÃ©rÃªts, que la mÃ©ditation de plusieurs jours ne lui eÃ»t pas
+dÃ©veloppÃ© et reprÃ©sentÃ© toutes ces choses plus nettement que le
+premier aspect de tous les visages.Â» Â«Cette promptitude des yeux Ã 
+voler partout en sondant les Ã¢mesÂ» prouve qu'il aima l'histoire pour
+l'histoire. Sa faveur et sa disgrÃ¢ce, son Ã©ducation et son naturel,
+ses qualitÃ©s et ses dÃ©fauts l'y avaient portÃ©. Ainsi naissent les
+grands hommes, par hasard et nÃ©cessitÃ©, comme les grands fleuves,
+quand les accidents du sol et sa pente rÃ©unissent en un lit tous ses
+ruisseaux.
+
+
+
+
+IV
+
+L'ÃCRIVAIN.
+
+
+Au XVIIe siÃ¨cle, les artistes Ã©crivaient en hommes du monde;
+Saint-Simon, homme du monde, Ã©crivit en artiste. C'est lÃ  son trait.
+Le public court Ã  lui comme au plus intÃ©ressant des historiens.
+
+Ce talent consiste d'abord dans la vue exacte et entiÃ¨re des objets
+absents. Les poÃ«tes du temps les voyaient par une notion vague et les
+disaient par une phrase gÃ©nÃ©rale. Saint-Simon se figure le dÃ©tail
+prÃ©cis, les angles des formes, la nuance des couleurs, et il les note
+avec une nettetÃ© de peintre ou de gÃ©omÃ¨tre; je cite tout de suite,
+pour Ãªtre prÃ©cis et l'imiter; il s'agit de la Vauguyon, demi-fou,
+qui un jour accula madame Pelot contre la cheminÃ©e, lui mit la tÃªte
+en ses deux poings, et voulut la mettre en compote. Â«VoilÃ  une
+femme bien effrayÃ©e qui, entre ses deux poings, lui faisait des
+rÃ©vÃ©rences _perpendiculaires_ et des compliments tant qu'elle
+pouvait, et lui toujours en furie et en menace.Â» Legendre n'eÃ»t
+pas mieux dit. Chose inouÃ¯e dans ce siÃ¨cle, il imagine le physique,
+comme Victor Hugo; sans mÃ©taphore, ses portraits sont des portraits:
+Â«Harlay Ã©tait un petit homme, vigoureux et maigre, un visage
+en _losange_, un nez grand et aquilin, des yeux beaux, parlants,
+perÃ§ants, qui ne regardaient qu'Ã  la dÃ©robÃ©e, mais qui, fixÃ©s
+sur un client ou sur un magistrat, Ã©taient pour le faire rentrer en
+terre; un habit peu ample, un rabat presque d'ecclÃ©siastique, et des
+manchettes plates comme eux, une perruque fort brune et fort mÃªlÃ©e
+de blanc, touffue mais courte, avec une grande calotte par-dessus. Il
+se tenait et marchait un peu courbÃ©, avec un faux air plus humble que
+modeste, et rasait toujours les murailles pour se faire faire place
+avec plus de bruit, et n'avanÃ§ait qu'Ã  force de rÃ©vÃ©rences
+respectueuses, et comme honteuses, Ã  droite et Ã  gauche Ã 
+Versailles.Â» VoilÃ  une des raisons qui rendent aujourd'hui
+Saint-Simon si populaire; il dÃ©crit l'extÃ©rieur, comme Walter Scott,
+Balzac et tous les romanciers contemporains, lesquels sont volontiers
+antiquaires, commissaires-priseurs et marchandes Ã  la toilette; son
+talent et notre goÃ»t se rencontrent; les rÃ©volutions de l'esprit
+nous ont portÃ©s jusqu'Ã  lui.--Il voit aussi distinctement le moral
+que le physique, et il le peint parce qu'il le distingue. Tout le
+monde sait que le dÃ©faut de nos poÃ«tes classiques est de mettre en
+scÃ¨ne non des hommes, mais des idÃ©es gÃ©nÃ©rales; leurs personnages
+sont des passions abstraites qui marchent et dissertent. Vous diriez
+des vices et des vertus Ã©chappÃ©s de l'Ãthique d'Aristote, habillÃ©s
+d'une robe grecque ou romaine, et occupÃ©s Ã  s'analyser et Ã  se
+rÃ©futer. Saint-Simon connaÃ®t l'_individu_; il le marque par ses
+traits spÃ©ciaux, par ses particularitÃ©s, par ses diffÃ©rences; son
+personnage n'est point le jaloux ou le brutal, c'est un certain jaloux
+ou un certain brutal; il y a trois ou quatre mille coquins chez lui
+dont pas un ne ressemble Ã  l'autre. Nous n'imaginons les objets que
+par ces prÃ©cisions et ces contrastes; il faut marquer les qualitÃ©s
+distinctives pour rendre les gens visibles; notre esprit est une
+toile unie oÃ¹ les choses n'apparaissent qu'en s'appropriant une forme
+arrÃªtÃ©e et un contour personnel. VoilÃ  pourquoi ce portrait de
+l'abbÃ© Dubois est un chef-d'Åuvre. Â«C'Ã©tait un petit homme
+maigre, effilÃ©, chafouin, Ã  perruque blonde, Ã  mine de fouine, Ã 
+physionomie d'esprit, qui Ã©tait en plein ce qu'un mauvais franÃ§ais
+appelle un _sacre_, mais qui ne se peut guÃ¨re exprimer autrement.
+Tous les vices combattaient en lui Ã  qui en demeurerait le maÃ®tre.
+Ils y faisaient un bruit et un combat continuel entre eux. L'avarice,
+la dÃ©bauche, l'ambition Ã©taient ses dieux; la perfidie, la
+flatterie, les servages, les moyens; l'impiÃ©tÃ© parfaite, son repos.
+Il excellait en basses intrigues, il en vivait, il ne pouvait s'en
+passer, mais toujours avec un but oÃ¹ toutes ses dÃ©marches
+tendaient, avec une patience qui n'avait de terme que le succÃ¨s ou
+la dÃ©monstration rÃ©itÃ©rÃ©e de n'y pouvoir arriver, Ã  moins que
+cheminant ainsi dans la profondeur et les tÃ©nÃ¨bres, il ne vÃ®t
+jour Ã  mieux en ouvrant un autre boyau. Il passait sa vie dans
+les sapes.Â» Ne voyez-vous pas la bÃªte souterraine, furet furieux,
+Ã©chauffÃ© par le sang qu'il suce, sifflant et jurant au fond des
+terriers qu'il sonde? Â«La fougue lui faisait faire quelquefois le
+tour entier et redoublÃ© d'une chambre courant sur les tables et les
+chaises sans toucher du pied la terre.Â» Il vÃ©cut et mourut dans les
+rages et les blasphÃ¨mes, Â«grinÃ§ant des dents,Â» Ã©cumant, Â«les
+yeux hors de la tÃªte,Â» avec une telle tempÃªte et si continue
+d'ordures et d'injures qu'on ne comprenait pas comment des nerfs
+d'homme y pouvaient rÃ©sister; le sang fiÃ©vreux de l'animal de
+proie s'allumait pour ne plus s'Ã©teindre, et par des redoublements
+exaspÃ©rÃ©s s'acharnait aprÃ¨s le butin. Il y a lÃ  une observation
+pour le physiologiste, il y en a une pour le peintre, pour l'homme du
+monde, pour le psychologue, pour l'auteur dramatique, pour le premier
+venu. Le gÃ©nie suffit Ã  tout et fournit Ã  tout; la vision de
+l'artiste est si complÃ¨te que son Åuvre offre des matÃ©riaux aux
+gens de tout mÃ©tier, de toute vie et de toute science. Ame et esprit
+et caractÃ¨re, intÃ©rieur et dehors, gestes et vÃªtements, passÃ©
+et prÃ©sent, Saint-Simon voit tout et fait tout voir. En rassemblant
+toutes les littÃ©ratures, vous ne trouveriez guÃ¨re que trois
+ou quatre imaginations aussi comprÃ©hensives et aussi nettes que
+celle-lÃ .
+
+Avec la facultÃ© de voir les objets absents, il a la verve; il ne dit
+rien sans passion. Balzac, aussi profond et aussi puissant visionnaire
+que lui, n'Ã©tait qu'un Ã©crivain lent, constructeur minutieux de
+bÃ¢tisses Ã©normes, sorte d'Ã©lÃ©phant littÃ©raire, capable de porter
+des masses prodigieuses, mais d'un pas lourd. Saint-Simon a des ailes.
+Il Ã©crit avec emportement, d'un Ã©lan, suivant Ã  peine le torrent
+de ses idÃ©es par toute la prÃ©cipitation de sa plume, si prompt Ã 
+la haine, si vite enfoncÃ© dans la joie, si subitement exaltÃ© par
+l'enthousiasme ou la tendresse, qu'on croit en le lisant vivre un
+mois en une heure. Cette impÃ©tueuse passion est la grande force des
+artistes; du premier coup, ils Ã©branlent; le cÅur conquis, la raison
+et toutes les facultÃ©s sont esclaves. Quand un homme nous donne des
+sensations, nous ne le quittons plus. Quand un homme nous met le feu
+au cerveau, nous nous sentons presque du gÃ©nie sous la contagion
+de sa verve; par la chaleur notre esprit arrive Ã  la lumiÃ¨re;
+l'Ã©motion l'agrandit et l'instruit. Quand on a lu Saint-Simon, toute
+histoire paraÃ®t dÃ©colorÃ©e et froide. Il n'est pas d'affaire
+qu'il n'anime, ni d'objet qu'il ne rende visible. Il n'est point de
+personnage qu'il ne fasse vivre, ni de lecteur qu'il ne fasse penser.
+
+Cette passion Ã´te au style toute pudeur. ModÃ©ration, bon goÃ»t
+littÃ©raire, Ã©loquence, noblesse, tout est emportÃ© et noyÃ©. Il
+note les Ã©motions comme elles viennent, violemment, puisqu'elles
+sont violentes, et que, l'occupant tout entier, elles lui bouchent
+les oreilles contre les rÃ©clamations du bon style et du discours
+rÃ©gulier. La cuisine, l'Ã©curie, le garde-manger, la maÃ§onnerie, la
+mÃ©nagerie, les mauvais lieux, il prend des expressions partout.
+Il est crÃ», trivial et pÃ©trit ses figures en pleine boue. Tout en
+restant grand seigneur, il est peuple; sa superbe unit tout; que
+les bourgeois Ã©purent leur style, prudemment, en gens soumis Ã 
+l'AcadÃ©mie, il traÃ®ne le sien dans le ruisseau en homme qui mÃ©prise
+son habit et se croit au-dessus des taches. Un jour, impatientÃ©, il
+dit de deux Ã©vÃªques: Â«Ces deux animaux mitrÃ©s.Â» Quand la Choin
+entra en faveur, Â«M. de Luxembourg, qui avait le nez fin, l'Ã©cuma,Â»
+et pour Clermont, son amant, Â«il se fit honneur de le ramasser.Â»
+Ailleurs, il Â«s'espaceÂ» sur Dangeau, Â«singe du roi, chamarrÃ©
+de ridicules, avec une fadeur naturelle, entÃ©e sur la bassesse du
+courtisan, et recrÃ©pie de l'orgueil du seigneur postiche.Â» Un
+peu plus haut, il s'agit de Monaco, Â«souverainetÃ© d'une roche,
+de laquelle on peut pour ainsi dire cracher hors de ses Ã©troites
+limites.Â» Ces familiaritÃ©s annoncent l'artiste qui se moque de tout
+quand il faut peindre, et fait litiÃ¨re des biensÃ©ances sous son
+talent. Saint-Simon a besoin de mots vils pour avilir; il en prend.
+Son chien, son laquais, son soulier, sa marmite, sa garde-robe, son
+fumier, il fait sauter tout pÃªle-mÃªle et retire de ce bourbier
+l'objet qui peut figurer Ã  nos yeux son personnage, nous le rendre
+aussi prÃ©sent, aussi tangible, aussi maniable que notre robe de
+chambre et notre pelle Ã  feu. Il y a tel passage oÃ¹ l'on voit
+un sculpteur qui tripote dans sa glaise, les manches retroussÃ©es
+jusqu'au coude, pÃ©trissant en pleine pÃ¢te, obsÃ©dÃ© par son idÃ©e,
+prÃ©cipitant ses mains pour la transporter dans l'argile. Â«Madame
+de Castries Ã©tait un quart de femme, une espÃ¨ce de biscuit manquÃ©,
+extrÃªmement petite, mais bien prise, et aurait passÃ© par un
+mÃ©diocre anneau; ni derriÃ¨re, ni gorge, ni menton; fort laide, l'air
+toujours en peine et Ã©tonnÃ©; avec cela une physionomie qui Ã©clatait
+d'esprit et qui tenait encore plus parole.Â» Il les palpe, il les
+retourne, il porte les mains partout, avec irrÃ©vÃ©rence, fougueux et
+rude. Rien de tout cela n'Ã©tonne quand on se souvient qu'aprÃ¨s la
+condamnation de FÃ©nelon, un jour, disputant avec le duc de Charost
+sur FÃ©nelon et RancÃ©, il cria: Â«Au moins mon hÃ©ros n'est pas
+un repris de justice.Â» M. de Charost suffoquait. On lui versa des
+carafes d'eau sur la tÃªte, et pendant ce temps les dames semonÃ§aient
+Saint-Simon. C'est Ã  ce prix qu'est le gÃ©nie; uniquement et
+totalement englouti dans l'idÃ©e qui l'absorbe, il perd de vue la
+mesure, la dÃ©cence et le respect.
+
+Il y gagne la force; car il y prend le droit d'aller jusqu'au bout de
+sa sensation, d'Ã©galer les mouvements de son style aux mouvements de
+son cÅur, de ne mÃ©nager rien, de risquer tout. De lÃ  cette peinture
+de la cour aprÃ¨s la mort de Monseigneur, tableau d'agonie physique,
+sorte de comÃ©die horrible, farce funÃ¨bre, oÃ¹ nous contemplons en
+face la grimace de la VÃ©ritÃ© et de la Mort. Les passions viles
+s'y Ã©talent jusqu'Ã  l'extrÃªme; du premier mot on y aperÃ§oit tout
+l'homme; ce n'est pas le mort que l'on pleure, c'est un pot-au-feu
+perdu. Â«Une foule d'officiers de Monseigneur se jetÃ¨rent Ã  genoux
+tout du long de la cour, des deux cÃ´tÃ©s sur le passage du roi, lui
+criant avec des hurlements Ã©tranges d'avoir compassion d'eux qui
+avaient tout perdu et qui mouraient de faim.Â» DorÃ© seul rendrait
+cette scÃ¨ne et ces deux files de mendiants galonnÃ©s, agenouillÃ©s
+avec des flambeaux, criant aprÃ¨s leur marmite. Dans les salles
+trottent les valets envoyÃ©s par les gens de la cabale contraire,
+qui questionnent d'un Åil Ã©tincelant et hument dans l'air la bonne
+nouvelle. Â«Plus avant commenÃ§ait la foule des courtisans de toute
+espÃ¨ce. Le plus grand nombre, c'est-Ã -dire les sots, tiraient des
+soupirs de leurs talons, et avec des yeux Ã©garÃ©s et secs louaient
+Monseigneur, mais toujours de la mÃªme louange, c'est-Ã -dire de
+bontÃ©, et plaignaient le roi de la perte d'un si bon fils. Les
+plus politiques, les yeux fichÃ©s en terre et reclus dans des coins,
+mÃ©ditaient profondÃ©ment aux suites d'un Ã©vÃ©nement aussi peu
+attendu, et bien davantage sur eux-mÃªmes.Â» Le duc de Berry,
+qui perdait tout et d'avance se sentait pliÃ© sous son frÃ¨re,
+s'abandonnait. Â«Il versait des larmes pour ainsi dire sanglantes,
+tant l'amertume en paraissait grande; il poussait non des sanglots,
+mais des cris, mais des hurlements. Il se taisait parfois; mais de
+suffocations, puis Ã©clatait, mais avec un tel bruit, et un bruit si
+fort, la trompette forcÃ©e du dÃ©sespoir, que la plupart Ã©clataient
+aussi Ã  ces redoublements si douloureux, ou par un aiguillon
+d'amertume, ou par un aiguillon de biensÃ©ance.Â» Un peu plus loin,
+la duchesse de Bourgogne profitait Â«de quelques larmes amenÃ©es du
+spectacle, entretenues avec soin,Â» pour rougir et barbouiller ses
+yeux d'hÃ©ritiÃ¨re. Survint l'Allemande, cÃ©rÃ©monieuse et violente,
+Madame, qui outra tout et barbota Ã  travers les biensÃ©ances,
+Â«rhabillÃ©e en grand habit, hurlante, ne sachant bonnement
+pourquoi ni l'un ni l'autre, et les inonda tous de ses larmes en
+les embrassant.Â» Dans les coins du tableau, on voit les dames en
+dÃ©shabillÃ© de nuit, par terre, autour du canapÃ© des princes, les
+unes en Â«tas,Â» d'autres approchant du lit, et trouvant le bras nu
+d'un bon gros Suisse qui bÃ¢ille de tout son cÅur et se renfonce sous
+les couvertures, fort tranquille, cuvant son vin, et doucement bercÃ©
+par ce tintamarre de l'hypocrisie et de l'Ã©goÃ¯sme. VoilÃ  la mort
+telle qu'elle est, pleurÃ©e par l'intÃ©rÃªt et par le mensonge,
+raillÃ©e et coudoyÃ©e par des contrastes amers, entrecoupÃ©e de
+rires, ayant pour vraies funÃ©railles le hoquet convulsif de quelques
+douleurs dÃ©bordÃ©es, accusant l'homme ou de faiblesse ou de feinte,
+ou d'avarice, traÃ®nÃ©e au cimetiÃ¨re parmi des calculs qui ne savent
+se cacher, ou des Â«mugissementsÂ» qui ne savent se contenir.
+
+Cette cruditÃ© de style et cette violence de vÃ©ritÃ© ne sont que les
+effets de la passion; voici la passion pure: Prenez l'affaire la plus
+mince, une querelle de prÃ©sÃ©ance, une picoterie, une question
+de pliant et de fauteuil, tout au plus digne de la comtesse
+d'Escarbagnas: elle s'agrandit, elle devient un monstre, elle prend
+tout le cÅur et l'esprit; on y voit le suprÃªme bonheur de toute une
+vie, la joie dÃ©licieuse avalÃ©e Ã  longs traits et savourÃ©e jusqu'au
+fond de la coupe, le superbe triomphe, digne objet des efforts les
+plus soutenus, les mieux combinÃ©s et les plus grands; on pense
+assister Ã  quelque victoire romaine, signalÃ©e par l'anÃ©antissement
+d'un peuple entier, et il s'agit tout simplement d'une mortification
+infligÃ©e Ã  un Parlement et Ã  un prÃ©sident. Â«Le scÃ©lÃ©rat
+tremblait en prononÃ§ant la remontrance. Sa voix entrecoupÃ©e, la
+contrainte de ses yeux, le saisissement et le trouble visible de toute
+sa personne dÃ©mentaient le reste de venin dont il ne put refuser la
+libation Ã  lui-mÃªme et Ã  sa compagnie. Ce fut lÃ  oÃ¹ je savourai,
+avec toutes les dÃ©lices qu'on ne peut exprimer, le spectacle de
+ces fiers lÃ©gistes (qui osent nous refuser le salut) prosternÃ©s Ã 
+genoux et rendant Ã  nos pieds un hommage au trÃ´ne, tandis que nous
+Ã©tant assis et couverts, sur les hauts siÃ©ges, aux cÃ´tÃ©s du
+mÃªme trÃ´ne, ces situations et ces postures, si grandement
+disproportionnÃ©es, plaident seules avec tout le perÃ§ant de
+l'Ã©vidence la cause de ceux qui vÃ©ritablement et d'effet sont
+_laterales regis_ contre ce _vas electum_ du tiers Ã©tat. Mes yeux
+fichÃ©s, collÃ©s sur ces bourgeois superbes, parcouraient tout ce
+grand banc Ã  genoux, ou debout, et les amples replis de ces fourrures
+ondoyantes Ã  chaque gÃ©nuflexion longue et redoublÃ©e, qui ne
+finissait que par le commandement du roi par la bouche du garde des
+sceaux; vil petit-gris qui voudrait contrefaire l'hermine en peinture,
+et ces tÃªtes dÃ©couvertes et humiliÃ©es Ã  la hauteur de nos pieds.Â»
+Qui songe Ã  rire de ces pÃ©danteries latines et de ces dÃ©tails de
+costumier? L'artiste est une machine Ã©lectrique chargÃ©e de foudres,
+qui illumine et couvre toute laideur et toute mesquinerie sous le
+pÃ©tillement de ses Ã©clairs; sa grandeur consiste dans la grandeur
+de sa charge; plus ses nerfs peuvent porter, plus il peut faire;
+sa capacitÃ© de douleur et de joie mesure le degrÃ© de sa force. La
+misÃ¨re des sciences morales est de ne pouvoir noter ce degrÃ©; la
+critique, pour dÃ©finir Saint-Simon, n'a que des adjectifs vagues et
+des louanges banales; je ne puis dire combien il sent et combien il
+souffre; pour toute Ã©chelle, j'ai des exemples et j'en use. Lisez
+encore celui-ci; je ne sais rien d'Ã©gal. Il s'agit de la conduite du
+duc de Bourgogne aprÃ¨s la mort de sa femme. Quiconque a la moindre
+habitude du style y sent non-seulement un cÅur brisÃ©, une Ã¢me
+suffoquÃ©e sous l'inondation d'un dÃ©sespoir sans issue, mais le
+roidissement des muscles crispÃ©s et l'agonie de la machine physique
+qui, sans s'affaisser, meurt debout: Â«La douleur de sa perte
+pÃ©nÃ©tra jusque dans ses plus intimes moelles. La piÃ©tÃ© y surnagea
+par les plus prodigieux efforts. Le sacrifice fut entier, mais il fut
+sanglant. Dans cette terrible affliction, rien de bas, rien de petit,
+rien d'indÃ©cent. On voyait un homme hors de soi, qui s'extorquait une
+surface unie, et qui y succombait.Â»
+
+Ce genre d'esprit s'est dÃ©ployÃ© en Saint-Simon seul et sans frein;
+de lÃ  son style, Â«emportÃ© par la matiÃ¨re, peu attentif Ã  la
+maniÃ¨re de la rendre, sinon pour la bien expliquer.Â» Il n'Ã©tait
+point homme d'AcadÃ©mie, discoureur rÃ©gulier, ayant son renom de
+docte Ã©crivain Ã  dÃ©fendre. Il Ã©crivait seul, en secret, avec la
+ferme rÃ©solution de n'Ãªtre point lu tant qu'il vivrait, n'Ã©tant
+guidÃ© ni par le respect de l'opinion, ni par le dÃ©sir de la gloire
+viagÃ¨re. Il n'Ã©crivait pas sur des sujets d'imagination, lesquels
+dÃ©pendent du goÃ»t rÃ©gnant, mais sur des choses personnelles et
+intimes, uniquement occupÃ© Ã  conserver ses souvenirs et Ã  se faire
+plaisir. Toutes ces causes le livrÃ¨rent Ã  lui-mÃªme. Il violenta le
+franÃ§ais Ã  faire frÃ©mir ses contemporains, s'ils l'eussent lu;
+et aujourd'hui encore il effarouche la moitiÃ© des lecteurs. Ces
+Ã©trangetÃ©s et ces abandons sont naturels, presque nÃ©cessaires;
+seuls ils peignent l'Ã©tat d'esprit qui les produit. Il n'y a que
+des mÃ©taphores furieuses capables d'exprimer l'excÃ¨s de la tension
+nerveuse; il n'y a que des phrases disloquÃ©es capables d'exprimer
+les soubresauts de la verve inventive. Quand il peint les liaisons
+de FÃ©nelon et de madame Guyon, en disant que Â«leur sublime
+s'amalgama,Â» cette courte image, empruntÃ©e Ã  la singularitÃ© et Ã 
+la violence des affinitÃ©s chimiques est un Ã©clair; quand il montre
+les courtisans joyeux de la mort de Monseigneur, Â«un je ne sais quoi
+de plus libre en toute la personne, Ã  travers le soin de se tenir et
+de se composer, un vif, une sorte d'Ã©tincelant autour d'eux qui les
+distinguait malgrÃ© qu'ils en eussent,Â» cette expression folle est
+le cri d'une sensation; s'il eÃ»t mis Â«un air vif, des regards
+Ã©tincelants,Â» il eÃ»t effacÃ© toute la vÃ©ritÃ© de son image; dans
+sa fougue, le personnage entier lui semble pÃ©tillant, entourÃ© par la
+joie d'une sorte d'aurÃ©ole. Nul ne voit plus vite et plus d'objets
+Ã  la fois; c'est pourquoi son style a des raccourcis passionnÃ©s,
+des mÃ©taphores Ã  l'instant traversÃ©es par d'autres, des idÃ©es
+explicatives attachÃ©es en appendice Ã  la phrase principale,
+Ã©tranglÃ©es par le peu d'espace, et emportÃ©es avec le reste comme
+par un tourbillon. Ici cinq ou six personnages sont tracÃ©s Ã  la
+volÃ©e, chacun par un trait unique. Â«L'aprÃ¨s-dÃ®nÃ©e nous nous
+assemblÃ¢mes; M. de GuÃ©mÃ©nÃ©e rÃªva Ã  la Suisse, Ã  son ordinaire,
+M. de LesdiguiÃ¨res, tout neuf encore, Ã©coutait fort Ã©tonnÃ©; M. de
+Chaulnes raisonnait en ambassadeur avec le froid et l'accablement d'un
+courage Ã©touffÃ© par la douleur de son Ã©change dont il ne put
+jamais revenir. Le duc de BÃ©thune bavardait des misÃ¨res, et le duc
+d'EstrÃ©es grommelait en grimaÃ§ant sans qu'il en sortÃ®t rien.Â»
+Ailleurs, les mots entassÃ©s et l'harmonie imitative impriment dans le
+lecteur la sensation du personnage.
+
+Â«Harlay aux Ã©coutes tremblait Ã  chaque ordinaire de Bretagne, et
+respirait jusqu'au suivant.Â» La phrase file comme un homme qui glisse
+et vole effarÃ© sur la pointe du pied.--Plus loin le style
+lyrique monte Ã  ses plus hautes figures pour Ã©galer la force
+des impressions. Â«La mesure et toute espÃ¨ce de dÃ©cence et de
+biensÃ©ance Ã©taient chez elle dans leur centre, et la plus exquise
+superbe sur son trÃ´ne.Â» Cette mÃªme phrase, qu'il a cassÃ©e Ã  demi,
+montre, par ses deux commencements diffÃ©rents, l'ordre habituel de
+ses pensÃ©es. Il dÃ©bute, une autre idÃ©e jaillit, les deux jets se
+croisent, il ne les sÃ©pare pas et les laisse couler dans le mÃªme
+canal. De lÃ  ces phrases dÃ©cousues, ces entrelacements, ces idÃ©es
+fichÃ©es en travers et faisant saillie, ce style Ã©pineux tout
+hÃ©rissÃ© d'additions inattendues, sorte de fourrÃ© inculte oÃ¹ les
+sÃ¨ches idÃ©es abstraites et les riches mÃ©taphores florissantes
+s'entrecroisent, s'entassent, s'Ã©touffent, et Ã©touffent le lecteur.
+Ajoutez des expressions vieillies, populaires, de circonstance ou de
+mode; le vocabulaire fouillÃ© jusqu'au fond, les mots pris partout,
+pourvu qu'ils suffisent Ã  l'Ã©motion prÃ©sente, et par-dessus
+tout une opulence d'images passionnÃ©es digne d'un poÃ«te. Ce style
+bizarre, excessif, incohÃ©rent, surchargÃ©, est celui de la nature
+elle-mÃªme; nul n'est plus utile pour l'histoire de l'Ã¢me; il est la
+notation littÃ©raire et spontanÃ©e des sensations.
+
+Un historien secret, un gÃ©omÃ¨tre malade, un bonhomme rÃªveur,
+traitÃ© comme tel, voilÃ  les trois artistes du XVIIe siÃ¨cle. Ils
+faisaient raretÃ© et un peu scandale. La Fontaine, le plus heureux,
+fut le plus parfait; Pascal, chrÃ©tien et philosophe, est le plus
+Ã©levÃ©; Saint-Simon, tout livrÃ© Ã  sa verve, est le plus puissant et
+le plus vrai.
+
+
+
+
+ANNOTATIONS INÃDITES DE SAINT-SIMON AU JOURNAL DE DANGEAU.
+
+
+Voici, pour commencer, une anecdote assez curieuse sur le prÃ©sident
+de Bauquemare et son frÃ¨re, gouverneur de Bergues[1]:
+
+[Note 1: Ces extraits ont dÃ©jÃ  Ã©tÃ© publiÃ©s par l'_AthenÅum
+franÃ§ais_, aux mois de mai et de juillet de cette annÃ©e. Le beau
+travail que M. Taine a bien voulu nous autoriser Ã  reproduire a Ã©tÃ©
+insÃ©rÃ© au mois d'aoÃ»t 1836, dans le _Journal des DÃ©bats_.]
+
+Â«Ces deux frÃ¨res jumeaux, et semblables en tout Ã  s'y mÃ©prendre,
+avoient une telle sympathie, que le prÃ©sident Ã©tant un matin Ã 
+l'audience sentit tout Ã  coup une grande douleur Ã  la cuisse; on
+sut aprÃ¨s qu'au mÃªme instant son frÃ¨re qui Ã©toit Ã  l'armÃ©e avoit
+reÃ§u un grand coup d'Ã©pÃ©e au mÃªme endroit et du mÃªme cÃ´tÃ© oÃ¹
+son frÃ¨re avoit senti cette douleur[1]. Le prÃ©sident avoit une femme
+extrÃªmement du monde de Paris, et joueuse Ã  outrance, qui vivoit
+trÃ¨s-bien d'ailleurs avec lui, logeant et mangeant ensemble, mais qui
+n'avoit voulu jamais porter son nom, et qui s'appeloit la prÃ©sidente
+d'Onsenbray, sans aucune autre raison que sa fantaisie. La bonne
+compagnie de la ville alloit fort chez elle. Elle est morte Ã 
+quatre-vingt-huit ou quatre-vingt-dix ans, dans une santÃ© et une
+gaietÃ© entiÃ¨re jusqu'Ã  sa derniÃ¨re maladie de pure vieillesse,
+perÃ§ant (_sic_) les jours et plus encore les nuits au jeu jusqu'Ã  la
+fin.Â»
+
+[Note 1: Le _Mercure_ de fÃ©v. 1697 cite aussi cette anecdote.]
+
+--Â«Le baron de Breteuil Ã©toit frÃ¨re de Breteuil, conseiller
+d'Ãtat, intendant des finances, pÃ¨re de celui qui a Ã©tÃ©
+secrÃ©taire d'Ãtat de la guerre pendant la disgrÃ¢ce de M. le Blanc.
+Sa baronnie Ã©toit d'Ãªtre nÃ© Ã  Toulouse pendant que son pÃ¨re y
+Ã©tait intendant et la vieille chimÃ¨re que ceux qui y naissent ont
+le titre de barons; il avoit Ã©tÃ© ordinaire du roi et envoyÃ© Ã 
+Mantoue. C'Ã©toit un homme Ã  qui le goÃ»t de la cour, des seigneurs
+et surtout des ministres avoit donnÃ© une sorte de science du monde
+par un usage continuel et la familiaritÃ© qu'il y avoit usurpÃ©e. Il
+se fit aprÃ¨s lecteur du roi pour avoir les entrÃ©es, et s'attacha
+comme il put Ã  quelques gens considÃ©rables; le roi le traitoit assez
+bien, et il se fourroit partout; et souvent oÃ¹ l'on n'en vouloit
+point, ou sans s'en apercevoir, ou sans en faire semblant. Il changea
+sa charge de lecteur, dont il conserva les entrÃ©es, contre celle
+d'introducteur des ambassadeurs, qu'il faisoit bien parce qu'il Ã©toit
+fort rompu au monde, et s'enrichit extrÃªmement par la protection de
+M. de Pontchartrain, tandis qu'il eut les finances, qui se moquoit de
+lui toute la journÃ©e et tout ce qui Ã©toit chez lui, mais qui ne
+lui refusoit rien. Le ver de la qualitÃ© le rongeoit sans pourtant se
+dÃ©placer, et il mourut fort vieux et fort riche. Ses enfants n'ont ni
+paru ni prospÃ©rÃ©. Il avoit mariÃ© sa fille Ã  un homme de la maison
+du ChÃ¢telet. Il y a des contes de lui sans fin. Un jour Ã  table chez
+M. de Pontchartrain, devenu chancelier, qu'on le plaisantoit sur son
+ignorance, la chanceliÃ¨re lui demanda s'il savoit qui avoit fait le
+_Pater_; le voilÃ  Ã  se scandaliser et Ã  demander pour qui on le
+prenoit, et la chanceliÃ¨re Ã  pousser sa pointe. Pendant le dÃ©bat il
+sortit de table, et en rentrant dans la piÃ¨ce oÃ¹ l'on se tenoit, son
+ami, M. de Caumartin, se mit Ã  marcher derriÃ¨re lui, et, comme pour
+le soulager dans son embarras, lui dit tout bas: Â«MoÃ¯se.Â» VoilÃ  le
+baron bien soulagÃ©, qui dÃ¨s que la compagnie fut rentrÃ©e remet la
+question sur le tapis, et aprÃ¨s plusieurs gentillesses d'un homme
+sÃ»r de son fait et qui fait semblant de ne l'Ãªtre pas, dit Ã  la
+fin, puisqu'on le poussoit Ã  bout, qu'il falloit donc montrer qu'il
+n'ignoroit pas ce que les enfants savoient, que MoÃ¯se Ã©toit l'auteur
+du _Pater_. La risÃ©e universelle le mit bien en un autre Ã©tat,
+mais il avoit tous les jours besoin de Caumartin aux finances, et sa
+cruautÃ© fut aisÃ©ment tournÃ©e en plaisanterie.Â»
+
+--Â«Santeuil n'Ã©toit point fait pour Saint-Victor. Il Ã©toit poÃ«te
+en tout, capricieux, plaisant, hardi, plein de sel, amoureux de la
+libertÃ©, aimant le vin et la bonne chÃ¨re, mais trÃ¨s-sage sur les
+femmes. On feroit un volume des contes qu'il a fournis, tous plus
+singuliers et plus divertissants les uns que les autres; toutes les
+belles-lettres possibles, une mÃ©moire prodigieuse, une facilitÃ© Ã 
+faire les plus beaux vers latins qui n'Ã©toit donnÃ©e Ã  personne,
+et parmi tout cela un fond de religion; dÃ©sirÃ© dans toutes les
+meilleurs compagnies dont il faisoit tout l'ornement des unes et des
+autres tout le plaisir. Il amusoit extrÃªmement M. le prince, qui
+avoit beaucoup de lettres et qui aimoit ses caprices, et M. le duc
+aimoit aussi Ã  le voir. Il le mena Ã  Dijon, oÃ¹ il alloit tenir les
+Ã©tats, oÃ¹ un soir, aprÃ¨s s'Ãªtre Ã©chauffÃ©s de propos et de vin,
+Santeuil en prit un grand verre Ã  la main, M. le duc trouva plaisant
+de verser dedans sa tabatiÃ¨re de tabac d'Espagne; le malheureux
+l'avala, et en creva fort tÃ´t aprÃ¨s.Â»
+
+--Â«Le couvent de Moret est une Ã©nigme qui n'est pas encore mise au
+net. C'est un petit couvent borgne oÃ¹ Ã©toit professe une Moresse
+inconnue Ã  tout le monde; hors Ã  Bontemps, premier valet de chambre
+du roi et gouverneur de Versailles, par qui les choses de secret
+domestique passoient de tout temps. Il avoit payÃ© une dot qui ne se
+disoit point, payoit exactement une grosse pension, avoit soin de plus
+que rien de nÃ©cessaire ne manquÃ¢t Ã  cette Moresse, ni rien mÃªme de
+ce que l'abondance d'une religieuse peut dÃ©sirer. Madame de Maintenon
+y alloit trÃ¨s-souvent de Fontainebleau et prenoit soin du bien-Ãªtre
+du couvent, oÃ¹ la feue reine alloit souvent, et donnoit ou procuroit
+beaucoup. Ni elle ni madame de Maintenon aprÃ¨s elle, ne montroient
+pas un soin direct de la Moresse et ne la voyaient pas exactement
+toutes les fois qu'ils alloient Ã  ce couvent; mais ils l'y voyoient
+souvent, avoient une attention fort grande Ã  sa conduite et Ã  celle
+que les supÃ©rieures avoient avec elle, et la Moresse Ã©toit lÃ  avec
+plus de considÃ©ration et de soins que la personne la plus connue et
+la plus distinguÃ©e. Monseigneur y a Ã©tÃ© une fois ou deux, et les
+princes ses enfants, et l'ont demandÃ©e, et elle-mÃªme se prÃ©valoit
+fort du mystÃ¨re de ce qu'elle Ã©toit, joint aux soins qu'on prenoit
+d'elle. Beaucoup de gens ont cru qu'elle Ã©toit fille du roi et de la
+reine, que sa couleur avoit fait cacher et passer sa couche pour
+une fausse couche, et quoiqu'elle vÃ©cÃ»t lÃ  rÃ©guliÃ¨rement, on
+s'apercevoit bien en elle d'une vocation aidÃ©e.Â»
+
+--Â«M. d'AubignÃ© Ã©toit chevalier de l'ordre et gouverneur du Berry,
+et n'avoit qu'une fille unique que madame de Maintenon Ã©levoit; son
+frÃ¨re lui pesoit Ã©trangement par les extravagances de sa conduite
+avec des filles et compagnie Ã  l'avenant, Ã  son Ã¢ge, et par
+celles de ses propos. Il parloit volontiers des temps passÃ©s, disoit
+volontiers _le beau-frÃ¨re_, parlant du roi devant tout le monde, et
+surtout faisoit Ã  madame de Maintenon des sorties Ã©pouvantables sur
+ce qu'il n'Ã©toit pas duc et pair, et au moins marÃ©chal de France,
+bien qu'il n'eÃ»t jamais Ã©tÃ© que capitaine d'infanterie. Sa femme,
+fille d'un mÃ©decin, piÃ¨tre en son nom et fort sotte aussi en son
+maintien, mais vertueuse et modeste, avoit fort Ã  souffrir avec lui,
+et madame de Maintenon Ã©toit toujours embarrassÃ©e de n'avoir
+jamais et encore plus d'avoir quelquefois sa belle-sÅur qui n'Ã©toit
+d'aucune mise. Elle fit donc tant par Saint-Sulpice, Ã  qui M.
+l'Ã©vÃªque de Chartres l'avoit livrÃ©e, que M. d'AubignÃ© fut conduit
+dans cette retraite, disant Ã  tout le monde que sa sÅur lui faisoit
+accroire malgrÃ© lui qu'il Ã©toit dÃ©vot, et l'assiÃ©geoit de prÃªtres
+qui le feroient mourir. Il n'y tint pas longtemps; mais on le
+rattrapa encore, et on lui donna pour gardien un suivant du curÃ©
+de Saint-Sulpice qui s'appeloit Madot, des plus crasseux de corps et
+d'esprit de la communautÃ© de Saint-Sulpice, propre Ã  rien, trop bon
+encore pour cet emploi, qui pourtant le fit Ã©vÃªque de Belley; mais
+ce ne fut qu'aprÃ¨s sa mort, aprÃ¨s l'avoir longtemps gardÃ© de feu et
+d'eau, et suivi partout comme son ombre. Pour la femme, elle se seroit
+aussi fort bien passÃ©e de se mettre en retraite, mais elle prit la
+chose plus doucement.Â»
+
+--Â«L'abbÃ© de Froulay Ã©toit prÃªtre, comte de Lyon, bon homme qui ne
+manquoit ni d'esprit ni de savoir, mais tout Ã  fait extraordinaire,
+et un des plus prodigieux mangeurs de France jusqu'Ã  sa mort, sans
+excÃ¨s pour lui ni ivrognerie. Il alloit toujours Ã  pied, par choix,
+et avoit des chambres et des chemises par tous les quartiers de Paris,
+pour changer quand il en avoit besoin, car il suoit largement, et
+Ã©toit grand et gros. Tout l'Ã©tÃ© il alloit sans culotte avec sa
+soutane. Un enfant de chÅur qui le dÃ©couvrit dans un Ã©glise oÃ¹
+il disoit assez souvent la messe, eut la malice, en l'habillant Ã  la
+sacristie, de lui attacher avec une Ã©pingle le bas de son aube avec
+sa soutane et le bout de sa chemise, puis, au lever-Dieu, de lever
+bien haut la chasuble et l'aube, tellement qu'il prÃ©senta son
+derriÃ¨re en plein tout nu Ã  la compagnie. Le lieu de le faire et le
+temps encore plus fut Ã©trange, et l'Ã©clat de rire aussi universel
+que la surprise.Â»
+
+--Â«Le roi, dit Dangeau, Ã  la date du 6 septembre 1698, a ordonnÃ© Ã 
+TessÃ©, colonel gÃ©nÃ©ral des dragons, de prendre le bonnet quand il
+le salue Ã  la tÃªte des dragons. Cela ne se fait jamais que pour le
+roi.Â» Saint-Simon a mis Ã  ce passage la note suivante: Â«Ce bonnet
+de TessÃ© pour saluer le roi fut la suite d'une malice noire que lui
+fit M. de Lauzun, pour qui la charge de colonel gÃ©nÃ©ral des dragons
+qu'avoit TessÃ© fut Ã©rigÃ©e. Il lui demanda comment il prÃ©tendoit
+saluer le roi Ã  la tÃªte des dragons, et, aprÃ¨s bien des
+demi-discours, il lui apprit avec autoritÃ© qu'il Ã©toit de sa charge
+de saluer en cette occasion avec un chapeau gris. TessÃ©, ravi, envoie
+Ã  Paris, et se sent fort obligÃ© d'un avis si important, d'une chose
+qui ne lui seroit jamais venue dans l'idÃ©e. DÃ¨s que son chapeau gris
+fut arrivÃ© et parÃ© de cocarde et de plumes, il le porta au lever du
+roi, et y surprit la compagnie d'un ornement devenu si extraordinaire,
+dont il dit la raison Ã  chacun qui la lui demanda. La porte ouverte,
+le roi n'eut pas plutÃ´t aperÃ§u ce chapeau gris dont TessÃ© se
+pavanoit, et qu'il prÃ©sentoit en avant, que, choquÃ© de cette
+couleur qu'il haÃ¯ssoit tellement aux chapeaux qu'il en avoit dÃ©truit
+l'usage, il demanda Ã  TessÃ© de quoi il s'Ã©toit avisÃ© avec ce beau
+chapeau. TessÃ©, souriant et piÃ©tonnant, marmottoit entre ses dents,
+et Lauzun, qui Ã©toit restÃ© tout exprÃ¨s, rioit sous cape. Enfin,
+poussÃ© par deux ou trois questions du roi l'une sur l'autre et d'un
+ton assez sÃ©rieux, il expliqua l'usage de ce chapeau; mais il fut
+bien Ã©tonnÃ© quand il s'entendit demander oÃ¹ diable il avoit pris
+cela, et tout aussitÃ´t son ami Lauzun s'Ã©coula. TessÃ© le cita, et
+le roi lui rÃ©pondit que Lauzun s'Ã©toit moquÃ© de lui, et qu'il lui
+conseilloit d'envoyer tout Ã  l'heure ce chapeau gris au gÃ©nÃ©ral des
+PrÃ©montrÃ©s. Celui des dragons ne demanda pas son reste, et ne
+fut pas sitÃ´t dÃ©livrÃ© de la risÃ©e et des plaisanteries des
+courtisans.Â»
+
+--Â«Le camp de CompiÃ¨gne, qui pour des marionnettes que le roi voulut
+se donner, et plus encore Ã  madame de Maintenon sous le nom de M. le
+duc de Bourgogne et de son instruction, devint un spectacle effrayant
+de magnificence et de luxe qui Ã©tonna l'Europe aprÃ¨s une si longue
+guerre, et qui ruina troupes et particuliers, les uns pour longtemps,
+d'autres Ã  ne s'en jamais relever. Cette attaque de CompiÃ¨gne donna
+aux Ã©trangers accourus sans nombre, et mÃªme aux FranÃ§ois, une sorte
+de spectacle qui demeura peint et imprimÃ© dans la tÃªte de ceux qui
+le virent, bien des annÃ©es aprÃ¨s. Le roi Ã©toit sur le cavalier,
+c'est-Ã -dire sur un endroit un peu plus Ã©levÃ© du rempart de
+CompiÃ¨gne ou de la terrasse qui est de plain-pied Ã  son appartement;
+qui sert d'unique jardin et qui a vue sur une vaste campagne qui est
+entre la ville et la forÃªt. Toute la cour, hommes et femmes, Ã©toit
+en haie sur plusieurs rangs, debout le long de cette terrasse, et
+toute l'armÃ©e en plusieurs lignes au bas; ainsi le roi Ã©toit vu Ã 
+dÃ©couvert de toute l'armÃ©e et de toute sa cour. Il Ã©toit debout,
+un bras appuyÃ© sur le haut d'une chaise Ã  porteurs fermÃ©e dans
+laquelle Ã©toit madame de Maintenon, Ã  qui il expliquoit tout, et lui
+parloit Ã  tout moment; Ã  chaque fois il se dÃ©couvroit, se baissoit
+Ã  la hauteur d'une glace de cÃ´tÃ© dont madame de Maintenon tiroit
+quatre doigts au plus et la repoussoit dÃ¨s que le roi se relevoit, et
+le nombre de fois que cela arriva fut innombrable. Madame la duchesse
+de Bourgogne Ã©toit assise sur un des bÃ¢tons de la chaise. En avant,
+des deux cÃ´tÃ©s de la chaise, les princesses du sang et les dames,
+debout en haie et bien parÃ©es. Cela dura bien prÃ¨s de deux
+bonnes heures. Pendant ce temps-lÃ , Canillac, colonel du rÃ©giment
+d'infanterie de Rouergue, venant de la part de Crenan demander quelque
+ordre au roi, entra par une petite porte faite exprÃ¨s au bas du
+cavalier, et le monta, par le roide, droit au roi, qu'il trouva
+vis-Ã -vis de lui. Comme il avoit toujours demeurÃ© tout au pied de
+la muraille, il n'avoit rien vu de ce qui Ã©toit sur le cavalier. Il
+l'aperÃ§ut donc en entier et d'un seul coup d'Åil en le montant,
+et il en demeura surpris de telle sorte que, la machine suivant
+l'impression de l'Ã¢me, il resta court, sans parole et sans oreilles;
+il fut assez longtemps sans pouvoir se remettre. Il s'expliqua, il
+entendit aussi peu, et redescendit si plein de la vision qu'il venoit
+de voir qu'il ne pouvoit s'en remettre. Elle fit grande impression sur
+chacun, et plus de bruit que la prudence ne le devoit permettre.Â»
+
+       *       *       *       *       *
+
+EXTRAIT DU TOME VII.
+
+Â«M. de Noyon[1] fourniroit un livre par ses faits et ses dits.
+Toutefois ils sont tels qu'on en rapportera ici quelques-uns Ã  mesure
+qu'ils viendront Ã  l'esprit.
+
+[Note 1: F. de Clermont-Tonnerre, Ã©vÃªque de Noyon.]
+
+C'Ã©toit un homme d'esprit et de savoir, mais d'un savoir brouillÃ©
+et confus, homme d'honneur et de bien, et bon Ã©vÃªque, charitable,
+rÃ©sidant, appliquÃ© Ã  ses devoirs et gouvernant bien sagement, fort
+au demeurant de vanitÃ© de toute espÃ¨ce, et ne s'en contraignant
+point. Il disoit qu'il Ã©toit devenu Ã©vÃªque comme un coquin, Ã 
+force de prÃªcher, et appeloit beaucoup d'Ã©vÃªques, Ã©vÃªques
+du second[1] ordre. A ceux-lÃ  il rÃ©pondoit Monsieur quand ils
+l'appeloient Monseigneur, et Monseigneur quand ils lui disoient
+Monsieur. Il appeloit souvent le pape Â«Monsieur de Rome,Â» et
+assuroit que si Monsieur de Rome, se trouvant Ã  Noyon, y vouloit
+faire des fonctions sans sa permission, il l'en empÃªcheroit
+trÃ¨s-bien.
+
+[Note 1: Il y a dans le manuscrit une abrÃ©viation qui peut
+signifier second ou dernier.]
+
+M. de Noyon avoit boisÃ© tout son appartement de Noyon peint en brun,
+et dans tous les cadres c'Ã©toient deux clefs en sautoir dans un
+manteau ducal avec la couronne, sans pas un chapeau d'Ã©vÃªque; et
+cela rÃ©pÃ©tÃ© partout; aux deux cÃ´tÃ©s de sa galerie il avoit mis
+une grande carte gÃ©nÃ©alogique avec cette inscription: Descente
+des empereurs d'Orient, en l'une, et en l'autre, d'Occident de la
+trÃ¨s-auguste maison de Clermont-Tonnerre; et au milieu un grand
+tableau qu'on eÃ»t pris pour un concile sans deux religieuses qui le
+fermoient; et il disoit que c'Ã©toient les saints et les saintes de sa
+maison. Dans sa chambre Ã  coucher il avoit sur sa cheminÃ©e ses armes
+avec tous les honneurs temporels et ecclÃ©siastiques qui se peuvent
+rassembler, et se dÃ©lassoit devant son feu Ã  contempler ce trophÃ©e,
+et tout le vaste parterre de sa maison abbatiale de Saint-Martin de
+Laon n'Ã©toit que ses armes en buis avec ses honneurs autour.
+
+Il fit un trait Ã©norme Ã  M. d'Harlay, alors archevÃªque de Paris
+et point encore duc. Il entroit dans la cour de Saint-Germain dans un
+carrosse et passa auprÃ¨s de M. de Paris, qui y entroit aussi Ã  pied.
+Le voilÃ  Ã  crier Ã  son cocher, et M. de Paris Ã  aller Ã  lui, ne
+doutant pas qu'il ne criÃ¢t ainsi pour mettre pied Ã  terre. Point du
+tout. Il s'Ã©lance, saisit la main de M. de Paris, fait avancer au pas
+et le mÃ¨ne en laisse jusqu'au bas de l'escalier. M. de Paris pensa
+mourir de rage, et toujours M. de Noyon Ã  le complimenter et le tint
+toujours de la sorte. Jamais M. de Paris ne le lui a bien pardonnÃ©.
+Longtemps aprÃ¨s M. de Noyon, qu'on avoit rapatriÃ© avec lui et qui
+l'alloit voir, trouva mauvais que M. de Paris ne lui rendÃ®t point de
+visites, qui s'Ã©toit mis sur le pied de n'aller guÃ¨re chez personne,
+et lui fit ordonner par le roi de l'aller voir; aussi s'en vengea-t-il
+cruellement en apprenant Ã  M. de Noyon ce dont il ne s'Ã©toit point
+aperÃ§u, et que personne n'avoit voulu lui dire de la dÃ©rision
+de l'abbÃ© de Caumartin dans sa harangue lorsqu'il le reÃ§ut Ã 
+l'AcadÃ©mie, dont on a vu l'histoire en son lieu[1].
+
+[Note 1: Voyez, sur cette sÃ©ance de l'AcadÃ©mie, un article de M.
+Sainte-Beuve, dans l'_AthenÅum_ du 18 aoÃ»t 1855.]
+
+Â«Au repas que le cardinal d'EstrÃ©es donna Ã  la rÃ©ception au
+parlement de M. de Laon, son neveu, on avoit mis deux cadenas pour
+M. le prince et M. le duc, qui est mort le dernier M. le prince; on
+s'attendoit qu'ils les Ã´teroient; mais M. de Noyon, qui crut peu s'y
+devoir fier, en prit le soin, et regardant ces princes en les Ã´tant:
+Â«Messieurs, dit-il, il est plus aisÃ© d'en Ã´ter deux que d'en faire
+venir quinze ou seize pour ce que nous sommes ici de pairs.
+
+M. le prince le hÃ©ros Ã©toit trop goutteux pour conduire, et en
+faisoit le compliment, duquel M. son fils prit peu Ã  peu la coutume.
+Il le fit donc un jour Ã  M. de Noyon en lui disant: Â«Vous ne voulez
+pas qu'on vous conduise?Â» Â«Moi, rÃ©pondit vivement le Noyon, point
+du tout; c'est vous apparemment, monsieur, qui me le voulez faire
+accroire.Â» Sur cela M. le duc, fort Ã©tonnÃ©, se met Ã  le conduire,
+et l'autre se laissa conduire jusqu'au bout, et s'est toujours laissÃ©
+conduire depuis, sans que les princes du sang lui aient plus hasardÃ©
+ce: Â«Vous ne voulez pas qu'on vous reconduise.Â» Sortant longtemps
+aprÃ¨s de chez ce mÃªme M. le duc, devenu alors M. le prince, qui le
+conduisoit, M. de la Suse, archevÃªque d'Auch, qui sortoit en mÃªme
+temps, fit des compliments Ã  M. le prince; M. de Noyon se tournant
+Ã  M. d'Auch et le prenant par le bras: Â«Ce n'est pas vous, monsieur,
+lui dit-il, mais moi que M. le prince conduit; je vous en avertis;Â»
+puis acheva de le laisser conduire.
+
+Il en fit un autre, Ã  propos de conduite, qui fut Ã©trange. Il Ã©tait
+Ã  Versailles chez la chanceliÃ¨re de Pontchartrain avec bien du
+monde. Comme il s'en alla, madame la chanceliÃ¨re et sa belle-fille,
+sÅur du comte de Roucy, se mirent Ã  le conduire; vers le milieu de
+la chambre, il se tourne Ã  elles, et d'un air souriant prend madame
+de Pontchartrain par la main et la prie de n'aller pas plus loin, et
+laisse faire madame la chanceliÃ¨re. Ces dames allant toujours, il
+se retourne vers la porte, et dit Ã  madame de Pontchartrain: Â«Vous,
+madame, qui Ãªtes ma parente, en voilÃ  trop; et je ne veux
+pas absolument que vous alliez plus loin;Â» puis, regardant la
+chanceliÃ¨re: Â«Pour madame, ajouta-t-il, elle fait ce qu'elle doit;Â»
+et la laissa aller tant qu'elle voulut. Toutes deux demeurÃ¨rent
+confondues et la compagnie fort embarrassÃ©e qui baissa les yeux au
+retour de la chanceliÃ¨re, fort rouge et fort silencieuse, et on en
+rit bien aprÃ¨s qu'on fut sorti de lÃ .
+
+Au pÃ©nultiÃ¨me lit de justice du roi, les cardinaux prÃ©tendirent
+prÃ©cÃ©der les pairs ecclÃ©siastiques. Ils se fondoient sur les
+derniers exemples des cardinaux de Richelieu et Mazarin et sur
+d'autres encore. Les pairs ecclÃ©siastiques rÃ©clamoient leurs droits
+usurpÃ©s par autoritÃ© et par violence; M. de Noyon soutint presque
+seul le choc d'une part, et les cardinaux de Bouillon et Bonzi[1] de
+l'autre, et l'affaire s'Ã©chauffa. M. de Noyon tout publiquement
+dit au roi que les cardinaux Ã©toient une chimÃ¨re d'Ãglise, MM.
+de Bouillon une chimÃ¨re d'Ãtat, qui ne pouvoient se mesurer en
+rÃ©alitÃ© Ã  l'Ã©piscopat ni Ã  la pairie, et qu'ayant toujours
+disputÃ© Ã  deux cardinaux qui gouvernoient tout, il ne cÃ©deroit pas
+Ã  deux cardinaux qui ne gouvernoient rien. Le cardinal de Bouillon
+fut outrÃ© pour sa rade(_sic_) et jeta les hauts cris. Il voulut
+exciter le cardinal Bonzi, qui lui rÃ©pondit froidement que ce qu'il
+trouvoit de pis dans le propos de M. de Noyon, c'est que le cardinal
+de Bouillon ni lui, Bonzi, ne gouvernoient en effet pas grand'chose.
+M. de Noyon cependant s'applaudissoit de son bon mot et le rÃ©pÃ©toit
+Ã  tout le monde. Il l'emporta sur les cardinaux, qui de dÃ©pit n'ont
+plus paru depuis Ã  aucun lit de justice. Le cardinal Dubois essaya de
+donner atteinte au jugement du feu roi, et voulut prÃ©cÃ©der les pairs
+ecclÃ©siastiques au lit de justice qui fut tenu de son temps; mais il
+n'en put venir Ã  bout, et s'abstint de s'y trouver.
+
+[Note 1: Il y a par erreur _Bouzi_ partout dans l'imprimÃ©.]
+
+Il arriva une fois Ã  ce M. de Noyon d'avoir grande envie de pisser,
+qu'il se trouvoit un jour de grande fÃªte, pontificalement revÃªtu
+dans le chÅur de sa cathÃ©drale. Il n'en fit pas Ã  deux fois; il
+se mit en marche, sa chape tenue des deux cÃ´tÃ©s par le diacre et le
+sous-diacre, sort Ã  la porte en cet Ã©tat ainsi assistÃ©, troussa sa
+jaquette, se soulagea et revint pontificalement Ã  sa place. Une autre
+fois, la mÃªme envie lui prit Ã  Versailles comme il passoit dans la
+tribune, qui du temps de la vieille chapelle servoit de passage de
+l'aile neuve au reste du chÃ¢teau. Il ne s'en contraignit pas, et se
+mit Ã  pisser par la balustrade. Le bruit de la chute de l'eau de haut
+en bas sur le marbre dont la chapelle Ã©toit pavÃ©e fit accourir le
+suisse de la porte de l'appartement, qui fut si indignÃ© du spectacle
+qu'il alla querir Bontemps, premier valet de chambre de confiance et
+gouverneur de Versailles, qui accourut tout essoufflÃ© et qui joignit
+M. de Noyon qui passoit l'appartement et ne demandoit pas son reste.
+Le bonhomme le querella, et M. de Noyon, tout Noyon qu'il Ã©toit, se
+trouva fort empÃªchÃ© de sa personne. Le roi en rit beaucoup, mais il
+eut la considÃ©ration pour lui de ne lui en point parler.
+
+Le roi s'en amusoit fort, et prenoit plaisir Ã  lui parler Ã  son
+dÃ®ner et Ã  son souper, Ã  le mettre aux mains avec quelqu'un, et,
+faute de ces occasions, Ã  l'agacer. Il en fut un jour rudement payÃ©.
+C'Ã©toit quelques annÃ©es aprÃ¨s la mort de madame la dauphine
+de BaviÃ¨re, et longtemps avant le mariage de celle de Savoie.
+L'appartement de la reine, oÃ¹ cette premiÃ¨re dauphine Ã©toit morte,
+avoit toujours Ã©tÃ© fermÃ© depuis. Le roi le fit ouvrir pour y
+exposer Ã  la vue des courtisans des ornements superbes qu'il avoit
+fait faire pour l'Ã©glise de Strasbourg, et cela donna lieu Ã 
+beaucoup de raisonnements sur madame de Maintenon, dont on crut que le
+mariage alloit Ãªtre dÃ©clarÃ©, et qu'on avoit rouvert l'appartement
+de la reine sous le prÃ©texte de ces ornements pour y accoutumer le
+monde et y mettre aprÃ¨s la reine dÃ©clarÃ©e; et la vÃ©ritÃ© est que
+cela ne tint alors qu'Ã  un filet, et que l'affaire Ã©toit faite si M.
+de Meaux et M. de Paris, Harlay, que cela perdit aprÃ¨s de crÃ©dit et
+de faveur, eussent pu Ãªtre gagnÃ©s Ã  dÃ©cider que le roi y Ã©toit
+obligÃ© en conscience. Dans ce temps-lÃ  prÃ©cisÃ©ment, le roi,
+badinant Ã  son dÃ®ner M. de Noyon sur toutes ses dignitÃ©s et
+ses honneurs et sur ce qu'il devoit Ãªtre l'homme du monde le plus
+satisfait de soi-mÃªme, M. de Noyon entra dans cet amusement du roi,
+et conclut que toutefois il manquoit encore une seule chose Ã  son
+contentement. Le roi, qui ne douta pas qu'il n'eÃ»t envie de mettre le
+chapeau en avant, et qui plaisantoit toujours avec lui sur le peu de
+cas qu'il disoit faire du cardinalat, le poussa Ã  plusieurs reprises
+pour le faire expliquer. A la fin, il le fit par une Ã©nigme fort
+claire, et dit au roi que ce qu'il dÃ©siroit ne pouvait Ãªtre
+que quand la justice de Sa MajestÃ© auroit couronnÃ© la vertu.
+VÃ©ritablement ce fut un coup de foudre. Le roi baissa la tÃªte sur
+son assiette et n'en Ã´ta les yeux de tout le reste du dÃ®ner, qu'il
+dÃ©pÃªcha fort promptement. J'Ã©tois Ã  cÃ´tÃ© de M. de Noyon, qui
+d'abord piÃ©tina, se pavanant et regardant la compagnie; mais chacun
+les yeux bas ne se permettoit que des Åillades Ã  la dÃ©robÃ©e,
+le fit apercevoir de l'extrÃªme embarras du roi et de tous les
+assistants. Il ne dit plus pas un mot et badinoit avec sa croix de
+l'ordre, en homme fort dÃ©concertÃ©, et personne ne trouva le reste du
+dÃ®ner plus long que le roi et lui. Il arriva pourtant que madame
+de Maintenon ne put lui savoir mauvais grÃ© d'avoir dÃ©clarÃ© si Ã 
+brÃ»le-pourpoint son dÃ©sir d'Ãªtre son grand-aumÃ´nier, et qu'il n'en
+fut pas plus mal avec le roi.
+
+Le roi lui fit une malice fort plaisante. M. de Noyon Ã©toit fort des
+amis du premier prÃ©sident d'Harlay, qu'il avoit apprivoisÃ© au point
+de l'aller voir aux heures les plus familiÃ¨res, et de manger chez lui
+sans Ãªtre priÃ© quand il vouloit. Le roi lui demanda un jour si le
+premier prÃ©sident faisoit bonne chÃ¨re. Â«Mais, sire, rÃ©pondit-il,
+assez bonne, une bonne petite chÃ¨re bourgeoise.Â» Le roi rit, et mit
+ce mot en rÃ©serve. Quatre jours aprÃ¨s, le premier prÃ©sident Ã©tant
+venu parler au roi dans son cabinet, le roi lui rendit le propos de M.
+de Noyon, qui le piqua au point oÃ¹ on le peut croire du plus faux et
+du plus glorieux des hommes. Il ne dit mot, et attendit M. de Noyon Ã 
+venir. Il ne tarda pas et sur l'heure du dÃ®ner. Le premier prÃ©sident
+fut au-devant de lui en grandes rÃ©vÃ©rences, et lui demanda avec son
+hypocrite humilitÃ© ce qui lui plaisoit lui commander. M. de Noyon,
+bien Ã©tonnÃ© de l'accueil, lui demanda Ã  son tour ce qu'il lui
+vouloit dire d'un style si nouveau pour lui qui venoit lui demander Ã 
+dÃ®ner. Â«A dÃ®ner! rÃ©pondit le premier prÃ©sident. Nous ne faisons
+cÃ©ans qu'une petite chÃ¨re bourgeoise qui convient Ã  des bourgeois
+comme nous, et qu'il ne nous appartient pas de prÃ©senter Ã  un
+prÃ©lat aussi distinguÃ© par sa dignitÃ© et par sa naissance.Â»
+RÃ©plique de M. de Noyon, qui sentit bien que le roi l'avoit trahi.
+Duplique du premier prÃ©sident. Tant qu'enfin M. de Noyon dit que
+cette plaisanterie Ã©toit belle et bonne, mais qu'il avoit renvoyÃ©
+son carrosse. Â«Qu'Ã  cela ne tienne, rÃ©pondit le premier prÃ©sident,
+vous en aurez un tout Ã  cette heure;Â» et tant fut procÃ©dÃ© qu'il
+le renvoya dans le sien et sans dÃ®ner. M. de Noyon bien en peine fit
+parler au premier prÃ©sident dans l'espÃ©rance de tourner la chose en
+plaisanterie; mais il se trouva qu'elle n'eut aucun lieu, tellement
+que M. de Noyon alla au roi, qui, aprÃ¨s avoir bien ri de la farce
+qu'il s'Ã©toit faite et laissÃ© M. de Noyon plusieurs jours bien en
+peine, lui promit enfin de raccommoder ce qu'il avoit gÃ¢tÃ©, et le
+raccommoda en effet. Le premier prÃ©sident n'osa ne pas vivre avec M.
+de Noyon diffÃ©remment de ce qu'il avoit fait, parce que le roi, qui
+pour se divertir, avoit fait la brouillerie, avoit voulu sÃ©rieusement
+les raccommoder; mais l'orgueil du personnage n'en put jamais revenir.
+
+M. de Noyon eut une maladie qui le mit Ã  la derniÃ¨re extrÃ©mitÃ© Ã 
+Paris; avant de recevoir ses sacrements, il envoya prier le nonce
+de lui donner la bÃ©nÃ©diction apostolique. Cela fut trouvÃ© fort
+Ã©trange surtout d'un Ã©vÃªque qui appeloit quelquefois le pape:
+Â«Monsieur de Rome.Â» Il guÃ©rit, mais pour peu d'annÃ©es; et quand
+il le fut, le roi le rÃ©primanda de la singularitÃ© de sa dÃ©votion,
+moins que cela ayant souvent profitÃ© Ã  la cour de Rome pour Ã©tendre
+sa juridiction. On en diroit bien d'autres sur M. de Noyon. Ce
+peu suffit pour faire connoÃ®tre un homme dont on parlera encore
+longtemps. Mais il en faut encore dire une, outre le dais brisÃ© qu'on
+l'accusoit de porter avec lui en voyage.
+
+On a vu dans la suite de ces remarques quelle Ã©toit la duchesse de
+Picquigny. Chaulnes et d'autres terres Ã  elle sont du diocÃ¨se de
+Noyon; et il s'Ã©toit formÃ© une assez grande amitiÃ© entre eux qui
+dura plusieurs annÃ©es, et jusqu'Ã  une visite que M. de Noyon lui
+rendit, oÃ¹ ils parlÃ¨rent de rangs. M. de Noyon lui dit que, s'il
+pouvoit Ãªtre mariÃ©, sa femme passeroit devant elle. Madame de
+Picquigny soutint le contraire. M. de Noyon allÃ©gua l'anciennetÃ©
+de sa pairie, Madame de Picquigny qu'elle Ã©toit duchesse et qu'il
+n'Ã©toit que comte. Tant fut procÃ©dÃ© qu'ils s'Ã©chauffÃ¨rent si bien
+sur ce bel Ãªtre de raison qu'ils se sÃ©parÃ¨rent brouillÃ©s, et ce
+qu'il y eut de plus beau, c'est qu'ils le demeurÃ¨rent.
+
+On prÃ©tend qu'il conduisoit son neveu, mÃªme enfant, Ã  son carrosse,
+comme Ã©tant son aÃ®nÃ©; mais ce qui est certain, c'est que se
+trouvant chez lui avec l'abbÃ© de Tonnerre, mort Ã©vÃªque de Langres,
+et M. de Chaste[1], mort Ã©vÃªque de Laon, et qui l'Ã©toit dÃ©jÃ ,
+quelqu'un qui arriva lui dit qu'il le trouvoit lÃ  en famille. Â«En
+famille! reprit-il, oui en famille. VoilÃ  monsieur, en montrant
+l'abbÃ©, qui est de ma maison;Â» puis montrant l'Ã©vÃªque: Â«Et
+monsieur qui s'en dit; oui, en famille, monsieur, en famille.Â» Le
+pauvre Laon fut dÃ©montÃ© et ne rÃ©pliqua ni ne leva le siÃ©ge. Mais,
+Ã  la fin, en voilÃ  assez.Â»
+
+[Note 1: Il faut lire _Chatte_ (Louis-Anne de Clermont).]
+
+--M. de Noirmoustier, cadet de la maison de la TrÃ©moille, Ã©toit fils
+de M. de Noirmoustier, si avant dans le parti des frondeurs dans la
+minoritÃ© de Louis XlV, et qui, Ã  force d'esprit, de souplesses et
+d'intrigues, obtint un brevet de duc en 1650 et mourut en 1666. Sa
+mÃ¨re Ã©toit fille de Beaumarchais, trÃ©sorier de l'Ã©pargne, et sa
+femme d'Aubery, prÃ©sident en la chambre des comptes. Il laissa
+deux fils et deux filles dont les trois _(sic)_ furent tous
+considÃ©rables[1]. L'aÃ®nÃ©, dont il s'agit ici, Ã©toit un des hommes
+de son temps le plus beau et le mieux fait, avec beaucoup d'esprit,
+mais ornÃ©, agrÃ©able, gai, solide et fait Ã©galement pour le monde
+et pour les affaires. Il arriva donc avec ces talents, qui le firent
+briller et rechercher par la meilleure compagnie de la cour; mais la
+petite vÃ©role qui le prit allant joindre la cour Ã  Chambord et
+qui lui creva les deux yeux, arrÃªta Ã  dix-huit ans, dÃ¨s son
+commencement, une vie qui promettoit tant. Le dÃ©sespoir qu'il en
+conÃ§ut l'enferma plusieurs annÃ©es sans vouloir presque Ãªtre vu de
+personne, charmant ses ennuis par une continuelle lecture; et, comme
+rien n'en dissipoit son esprit, il n'oublia jamais rien, et sans le
+vouloir il se forma Ã  tout. Le peu d'amis qu'il s'Ã©toit rÃ©servÃ©s
+et qui, par le charme de sa conversation, lui Ã©toient demeurÃ©s
+fidÃ¨les, le forcÃ¨rent Ã  la fin de vivre dans un cercle un peu
+plus Ã©tendu, et de l'un Ã  l'autre il devint le rendez-vous de la
+compagnie la plus choisie et souvent la plus Ã©levÃ©e. Tout est mode.
+Il devint du bon air d'Ãªtre admis chez lui. Le mÃ©diocre Ã©tat de
+ses affaires lui fit Ã©pouser en 1688 la fille de la Grange-Trianon,
+prÃ©sident aux requÃªtes veuve de Bermond, conseiller au parlement;
+et puis veuf sans enfants au bout d'un an. Il demeura ainsi jusqu'en
+1700, qu'il se remaria Ã  la fille de Duret de Chevry, prÃ©sident
+en la chambre des compte, par amour rÃ©ciproque d'esprit. La fameuse
+princesse des Ursins, sa sÅur, longtemps mÃ©contente de ces mariages,
+fut obligÃ©e enfin d'avoir recours Ã  ses conseils, Ã  son industrie,
+Ã  ses amis, et le fit entrer en beaucoup de choses importantes, qui
+le firent faire duc vÃ©rifiÃ©, et frÃ¨re cardinal. Depuis leur mort,
+moins occupÃ© d'affaires, il s'est toujours amusÃ© de celles du
+monde et de ses amis, et sa maison a Ã©tÃ© un rÃ©duit, un conseil, un
+tribunal qui s'est toujours soutenu en considÃ©ration distinguÃ©e par
+celle de tous les gens principaux qui se sont fait honneur d'y Ãªtre
+admis.
+
+[Note 1: Le duc de Noirmoutiers eut neuf enfants, cinq fils et
+quatre filles, qui moururent tous aprÃ¨s 1666.]
+
+--Le cardinal de Furstemberg a jouÃ© un tel rÃ´le dans les affaires
+entre l'empire et la France qu'il seroit inutile de parler de lui. On
+se contentera de remarquer qu'ils Ã©toient comtes de l'empire, sans
+autre prÃ©tention, jusqu'en l'an 1654 que l'empereur les crÃ©a princes
+de l'empire. Le cardinal avoit aimÃ© de longue main une comtesse
+de Walvoord, veuve du comte de la Mark et mÃ¨re de celui qui fut
+chevalier du Saint-Esprit en 1724, aprÃ¨s plusieurs emplois au dehors.
+Il l'avoit remariÃ©e Ã  un comte de Furstemberg, son neveu, et il
+vivoit avec elle en France, mÃ©nage public, logeant toujours ensemble.
+C'Ã©toit une crÃ©ature fort haute, fort emportÃ©e, de beaucoup
+d'esprit, plus que galante, et qui avoit Ã©tÃ© belle, mais grande et
+grosse comme un Suisse, effrontÃ©e Ã  l'avenant, et qui avoit pris un
+tel ascendant sur le cardinal qu'il n'osoit souffler devant elle. Son
+luxe en tout genre Ã©toit si prodigieux qu'on n'en croiroit pas les
+Ã©tranges dÃ©tails de magnificence, de profusion, de dÃ©licatesse dont
+son jeu prodigieux ne faisoit pas la plus forte dÃ©pense, qui ruinoit
+le cardinal, quoiqu'il eÃ»t entre 7 Ã  800,000 livres de rentes en
+bÃ©nÃ©fices ou pensions du roi.
+
+Â«Le scandale en Ã©toit Ã©norme; mais ses services et ses souffrances
+pour le roi, dÃ©corÃ©s de sa pourpre, mettaient tout Ã  couvert, au
+point que la comtesse avoit une grande considÃ©ration du roi et des
+ministres, dont elle Ã©toit traitÃ©e avec une singuliÃ¨re distinction.
+Madame de Soubise, Ã  qui le roi avoit ses anciennes raisons de ne
+rien refuser, et qui, moyennant son traitÃ© avec madame de Maintenon
+de n'aller jamais Ã  Marly et de ne voir jamais le roi en particulier,
+l'avoit toujours Ã  elle pour tout ce qu'elle souhaitoit, avoit mis un
+de ses fils dans le chapitre de Strasbourg par force et par autoritÃ©
+du roi dÃ©ployÃ©e, parce qu'il Ã©toit boiteux d'un quartier, et ce
+quartier Ã©toit le cuisinier de Henri IV, le cÃ©lÃ¨bre la Varenne, que
+les plaisirs de ce prince firent son portemanteau et que son esprit
+et les affaires oÃ¹ son maÃ®tre l'employa enrichirent tellement,
+qu'aprÃ¨s bien de la rÃ©sistance il fut convenu qu'ils seroient dupes
+et passeroient ce quartier pour celui d'une maison noble de ce mÃªme
+nom qui toutefois n'avoit jamais eu d'alliance avec celle de Rohan.
+DÃ¨s qu'il fut chanoine, sa bonne mÃ¨re songea Ã  le faire Ã©vÃªque,
+et fit sa cour Ã  la comtesse de Furstemberg tout de son mieux; mais
+la cour concluante consistoit aux pistoles pour faire consentir le
+cardinal au titre amer de coadjuteur. Le traitÃ© fait, il fallut
+capter la bienveillance du chapitre, qui conserve encore les dehors de
+la libertÃ© et qui postule ou Ã©lit. Un abbÃ© de Camilly, Normand de
+basse Ã©toffe, mais d'esprit dÃ©liÃ© et accort, et grand vicaire Ã 
+Strasbourg, fut gagnÃ© par madame de Soubise, et eut le secret de la
+nÃ©gociation, qu'il fit rÃ©ussir, et dont il eut l'Ã©vÃªchÃ© de
+Toul en rÃ©compense, et est mort archevÃªque de Tours, et, _quod
+horrendum_, comme il avoit vÃ©cu. C'Ã©toient toutes ces simonies
+que le cardinal de Bouillon avoit mises au net, instruit par ses
+Ã©missaires de point en point et enragÃ© qu'il Ã©toit de manquer
+Strasbourg pour lui et pour ses neveux, qui tous trois Ã©toient
+dans le chapitre, dans les dignitÃ©s, et bien auparavant l'abbÃ© de
+Soubise, plus jeune que l'abbÃ© d'Auvergne. Ce fut aussi ce qui piqua
+le roi, protecteur d'un marchÃ© qu'il ignoroit, et ce qui outra la
+comtesse et madame de Soubise, desquelles la beautÃ© faisoit le
+plus beau coadjuteur de l'Europe et le plus jeune aussi, moyennant
+quantitÃ© de pistoles; et ce fut ce qui acheva la perte rÃ©solue du
+cardinal de Bouillon, que sa conduite aggrava de plus en plus et dont
+il n'a pu sortir dans le long reste d'une honteuse et trÃ¨s-misÃ©rable
+vie.Â»
+
+--Nous signalerons, en terminant, le passage (Ã  la date du 16
+novembre 1700) oÃ¹ l'on voit l'origine du mot cÃ©lÃ¨bre: _Il n'y a
+plus de PyrÃ©nÃ©es_, attribuÃ© Ã  Louis XIV. Lorsque ce prince eut
+prÃ©sentÃ© son petit-fils, le duc d'Anjou, comme successeur de Charles
+II Ã  l'ambassadeur d'Espagne, et autorisÃ© les seigneurs de sa cour
+Ã  accompagner le nouveau roi mÃªme jusqu'Ã  Madrid, Â«l'ambassadeur,
+raconte Dangeau, dit fort Ã  propos que ce voyage devenoit aisÃ©
+et que _prÃ©sentement les PyrÃ©nÃ©es Ã©toient fondues_.Â»Ce mot fut
+dÃ©figurÃ© dÃ¨s l'instant mÃªme dans le _Mercure_, qui le rapporte
+ainsi: Â«Quelle joie! _il n'y a plus de PyrÃ©nÃ©es_, elles sont
+abÃ®mÃ©es et nous ne sommes plus qu'un.Â»
+
+
+
+
+ANALYSE DU JOURNAL DE DANGEAU
+
+PAR M. SAINTE-BEUVE.
+
+
+Chez Dangeau, l'importance des rÃ©vÃ©lations historiques est toujours
+masquÃ©e par du cÃ©rÃ©monial, et il faut quelque temps pour s'en
+dÃ©barrasser. Le tome III s'ouvre au 1er octobre de l'annÃ©e 1689,
+quand la France est engagÃ©e dans une grande guerre europÃ©enne
+qui chaque jour s'Ã©tend et qui oblige de faire face sur toutes les
+frontiÃ¨res, sur le Rhin, en Flandre et aux PyrÃ©nÃ©es, bientÃ´t du
+cÃ´tÃ© des Alpes, et dÃ©jÃ  aussi dans les colonies et sur les mers.
+L'Empire et l'Allemagne, la Hollande, l'Espagne, l'Angleterre, la
+Savoie tout Ã  l'heure, on a Ã  tenir tÃªte Ã  toutes ces puissances,
+et on y rÃ©ussit d'abord sans trop de fatigue et sans presque qu'il
+y paraisse au dedans. La cour n'a jamais paru plus tranquille et
+plus brillante. Â«--Samedi 1er octobre, Ã  Versailles.--Le roi et
+monseigneur s'amusÃ¨rent le matin Ã  faire tailler les arbres verts
+de Marly; ils en partirent l'aprÃ¨s-dÃ®nÃ©e aprÃ¨s avoir jouÃ© aux
+portiques...Â»--Â«Lundi 3.--Le roi dÃ®na Ã  son petit couvert avec
+monseigneur; sur les cinq heures il alla faire la revue de ses
+mousquetaires et puis se promener dans le potager...Â»--Â«Mercredi
+5.--Le roi dÃ®na Ã  son petit couvert et alla tirer...Â» Les soirs il
+y a comÃ©die ou appartement, jeux avant et aprÃ¨s souper. C'est lÃ 
+le commencement et la fin de la plupart des journÃ©es chez Dangeau.
+Monseigneur continue de chasser chaque matin et de prendre _son loup_,
+tant qu'il y a des loups; car Ã  la fin il en a tant tuÃ© qu'Ã  de
+certains jours il n'en trouve plus. On a, par Dangeau, le nom exact de
+tous les jeux auxquels on jouait Ã  la cour de Louis XIV et oÃ¹ le roi
+prenait part lui-mÃªme. Rabelais nous a donnÃ© la liste complÃ¨te
+de ceux de Gargantua enfant aprÃ¨s ses repas et les grÃ¢ces dites:
+Â«Puis... se lavoit les mains de vin frais, s'Ã©curoit les dents avec
+un pied de porc, et devisoit joyeusement avec ses gens. Puis, le
+vert Ã©tendu, l'on dÃ©ployait force cartes, force dez et renfort de
+tabliers. LÃ  jouoit
+au flux,
+Ã  la prime,
+Ã  la vole,
+Ã  la pile,
+Ã  la triomphe, etc. etc.Â»
+
+Et l'on en a ainsi pendant plusieurs pages. Pour Louis XIV et
+Monseigneur on dresserait une liste pareille, et l'on sait
+maintenant qu'ils jouaient Ã  l'hombre,--au reversis,--au brelan,--au
+lansquenet,--aux portiques,--Ã  culbas,--au trou-madame,--Ã  l'anneau
+tournant,--Ã  la roulette,--Ã  l'_escarpoulette_, etc. C'est Ã 
+n'en pas finir. Les nouvelles les plus importantes de la guerre s'y
+entremÃªlent et sont enregistrÃ©es Ã  cÃ´tÃ©: on a la physionomie
+exacte des choses. La Dauphine, prÃ¨s de qui Dangeau est chevalier
+d'honneur, meurt vers ce temps-lÃ ; on a le cÃ©rÃ©monial de ses
+funÃ©railles dans la derniÃ¨re prÃ©cision. Au moment oÃ¹ le corps de
+la Dauphine est exposÃ© dans sa chambre, avant l'autopsie, il s'est
+commis une irrÃ©gularitÃ© dont le narrateur ne manque pas de nous
+avertir: Â«Madame la Dauphine a Ã©tÃ© Ã  visage dÃ©couvert jusqu'Ã 
+ce qu'on l'ait ouverte, et on a fait une faute: c'est que pendant ce
+temps-lÃ , les dames qui n'ont pas droit d'Ãªtre assises devant elle
+pendant sa vie, n'ont pas laissÃ© d'Ãªtre assises devant son corps Ã 
+visage dÃ©couvert.Â» Les choses se passent plus correctement en ce
+qui est des Ã©vÃªques: Â«Il a Ã©tÃ© rÃ©glÃ©, nous dit Dangeau, que les
+Ã©vÃªques qui viennent garder le corps de madame la Dauphine auront
+des chaises Ã  dos, parce qu'ils en eurent Ã  la reine; l'ordre avait
+Ã©tÃ© donnÃ© d'abord qu'ils n'eussent que des tabourets.Â» L'acte de
+l'adoration de la Croix, le jour du vendredi saint, est avant tout,
+chez Dangeau, l'occasion d'une querelle de rang, d'un grave problÃ¨me
+de prÃ©sÃ©ance: Â«Ce matin, les ducs ont Ã©tÃ© Ã  l'adoration de
+la Croix aprÃ¨s les princes du sang. MM. de VendÃ´me et les princes
+Ã©trangers ne s'y sont pas trouvÃ©s.Â» (de peur de compromettre leurs
+prÃ©tentions). Dangeau ne trouve pas Ã  tout cela le plus petit mot
+pour rire, et s'il ne prend pas feu comme Saint-Simon, que ces sortes
+de questions ont le privilÃ¨ge de faire dÃ©border, il s'applique Ã 
+bien exposer les points en litige, comme un rapporteur sÃ©rieux
+et convaincu. Il relate en greffier d'honneur combien, au service
+funÃ¨bre solennel de cette mÃªme Dauphine, il y eut de chaises vides
+entre les princes ou princesses et les premiers prÃ©sidents, soit
+du Parlement, soit de la Chambre des comptes, combien on fit de
+rÃ©vÃ©rences auxdits princes et princesses. Il ne manque Ã  rien, et
+trouve moyen de suivre quelques-unes de ces difficultÃ©s d'Ã©tiquette
+mÃªme de loin, et de l'armÃ©e du Rhin, oÃ¹ il est allÃ©. Un procÃ¨s
+s'est Ã©levÃ© entre M. de Blainville, grand maÃ®tre des cÃ©rÃ©monies,
+et M. de Sainctot, qui n'est que maÃ®tre des cÃ©rÃ©monies. Le roi
+prend lui-mÃªme connaissance de l'affaire et dÃ©cide; presque tout est
+jugÃ© en faveur de Sainctot, qui a pour lui une longue possession: il
+restera indÃ©pendant de M. de Blainville, ne prendra point l'ordre de
+lui, marchera Ã  sa gauche, mais sur la mÃªme ligne, etc. Â«La seule
+chose qui est favorable Ã  M. de Blainville, ajoute Dangeau, c'est
+qu'il aura la queue de son manteau plus longue d'une aune que celle de
+M. Sainctot; et ainsi les charges ne sont pas Ã©gales, mais elles ne
+sont pas subordonnÃ©es.Â» Il semble Ã  quelqu'un de spirituel avec qui
+je lis ce passage, que Dangeau, cette fois, a Ã©tÃ© Ã  une ligne prÃ¨s
+de trouver cela ridicule, mais qu'il n'a pas osÃ©. Non, je ne crois
+pas que Dangeau, mÃªme en cet endroit, ait Ã©tÃ© si prÃ¨s de
+sourire; on n'a jamais pris plus constamment au sÃ©rieux toutes ces
+puÃ©rilitÃ©s majestueuses, qui avaient, au reste, leurs avantages,
+si on ne les avait poussÃ©es si Ã  bout. On a connu, depuis, les
+inconvÃ©nients du sans-gÃªne dans les hommes publics et dans les
+choses d'Ãtat. Toujours des excÃ¨s.
+
+Dangeau, fidÃ¨le menin, accompagne Monseigneur Ã  l'armÃ©e du Rhin
+(mai 1690). C'est la seconde campagne de Monseigneur, qui Ã  la
+premiÃ¨re, dix-huit mois auparavant, s'Ã©tait assez distinguÃ©. Il
+ne se passe rien d'important dans celle-ci. Au lieu des chasses de
+Monseigneur, Dangeau nous rend exactement toutes ses revues, les
+fourrages de l'armÃ©e, le _tous-les-jours_ du camp, comme il faisait
+du train de Versailles. Les questions de cÃ©rÃ©monial et de salut
+militaire ne sauraient Ãªtre oubliÃ©es: Â«En arrivant ici (au camp
+de Lamsheim), Monseigneur vit toute l'infanterie en bataille sous
+une ligne Ã  quatre de hauteur... M. de la FeuillÃ©e, lieutenant
+gÃ©nÃ©ral, qui Ã©tait demeurÃ© ici pour commander l'infanterie, salua
+Monseigneur, de l'Ã©pÃ©e, Ã  cheval.Â» Monseigneur toutefois, dans
+cette campagne, s'il ne fait rien d'extraordinaire, ne manque Ã  rien
+d'essentiel: il remplit les devoirs de son mÃ©tier, il fait manÅuvrer
+son monde. Dans ses diffÃ©rentes marches, il Ã©tudie le terrain et les
+campements, ce qui s'y est fait autrefois de considÃ©rable. Il se fait
+montrer par le marÃ©chal de Lorges les postes qu'occupaient Ã  Sasbach
+MontÃ©cuculli et Turenne, l'endroit oÃ¹ celui-ci a Ã©tÃ© frappÃ© Ã 
+mort, et l'arbre au pied duquel on le transporta pour y mourir. Mais
+au milieu des qualitÃ©s honnÃªtes et rÃ©guliÃ¨res du Dauphin, on
+regrette de ne sentir aucune Ã©tincelle; il n'a pas le dÃ©mon en lui.
+Parti le 17 mai de Versailles, il s'en revient Ã  la fin de septembre
+sans avoir rencontrÃ© ni fait naÃ®tre d'occasion, sans avoir rien
+tentÃ© de mÃ©morable. Il rejoint Ã  Fontainebleau la cour, et Dangeau,
+qui ne le quitte pas, rentre dans ses eaux.
+
+L'annÃ©e suivante se passe mieux. Louis XIV part le 17 mars 1691 pour
+se mettre en personne Ã  la tÃªte de son armÃ©e de Flandre. On a
+ici, en suivant Dangeau pas Ã  pas, une impression bien nette de ce
+qu'Ã©tait un de ces fameux siÃ©ges classiques de Louis XIV, solennels,
+rÃ©guliers, un peu courts Ã  notre grÃ©, toujours sÃ»rs de rÃ©sultat,
+pleins d'Ã©clat pourtant, de nobles actions, de dangers et de belles
+morts. Le roi, dÃ¨s l'automne dernier, s'Ã©tait dit qu'il fallait
+frapper un coup. Le bruit se rÃ©pand Ã  Versailles, dans les premiers
+jours de mars, qu'on va faire un _gros siÃ©ge_; on ne dit pas encore
+de quelle place: sera-ce Mons? sera-ce Namur? Cette annÃ©e, ce sera
+Mons. Le roi le dÃ©clare le mercredi 14 Ã  Versailles, Ã  son lever.
+Chacun s'empresse d'en Ãªtre; nous avons la composition de cette
+brillante armÃ©e, dont la tÃªte est formÃ©e de princes et des plus
+beaux noms de noblesse et de guerre. La place est investie par
+Bouflers. Vauban, _l'Ã¢me des siÃ©ges_, est parti de Valenciennes
+pour Ãªtre devant Mons Ã  l'arrivÃ©e du roi. Louvois, cette autre
+providence, a tout prÃ©parÃ© et a fait dresser de longue main les
+instructions, les Ã©tudes. Les choses se passent comme on l'avait
+prÃ©vu et Ã  point nommÃ©. Louis XIV, son fils, son frÃ¨re n'ont
+plus qu'Ã  sortir Ã  cheval le matin, et Ã  avoir l'Åil Ã  ce qui
+s'exÃ©cute. On ouvre ce que Vauban appelle le _dispositif_ de la
+tranchÃ©e le samedi 24. Le roi pendant le siÃ©ge, et malgrÃ© la goutte
+dont il ressent quelque accÃ¨s, persiste Ã  monter Ã  cheval et Ã 
+aller Ã  la tranchÃ©e: Â«Il n'a mis pied Ã  terre que vis-Ã -vis de
+la batterie, raconte Dangeau (27 mars); ensuite il a visitÃ© tout le
+travail qu'on a fait, et a Ã©tÃ© aux travaux les plus avancÃ©s. Il ne
+s'est pas contentÃ© de cela, et pour mieux voir, il s'est montrÃ©
+fort Ã  dÃ©couvert; il s'est mÃªme mis fort en colÃ¨re contre les
+courtisans qui l'en voulaient empÃªcher, et a montÃ© sur le parapet de
+la tranchÃ©e, oÃ¹ il a demeurÃ© assez longtemps. Il Ã©tait aisÃ© aux
+ennemis de reconnaÃ®tre son visage, tant il Ã©tait prÃ¨s. M. le Grand
+(le grand Ã©cuyer), qui Ã©tait prÃ¨s de lui, a Ã©tÃ© renversÃ© de la
+terre du parapet que le canon a percÃ©, et en a Ã©tÃ© tout couvert
+sans en Ãªtre blessÃ© pourtant.Â» Au retour de cette inspection, Louis
+XIV travaille avec ses ministres et tient conseil comme s'il Ã©tait
+Ã  Versailles. Tout son monde de Versailles est lÃ , mÃªme Racine, le
+gentilhomme ordinaire, qui prend ses notes pour l'histoire dont il est
+chargÃ© et qu'il n'Ã©crira pas; on a de lui une lettre intÃ©ressante
+Ã  Boileau, aussi exacte et circonstanciÃ©e que peut l'Ãªtre la
+relation de Dangeau lui-mÃªme. L'accident principal du siÃ©ge est
+l'attaque d'un ouvrage Ã  cornes qui dÃ©fend la place. Â«Samedi 31
+avril.--Vauban a dit au roi que s'il Ã©tait pressÃ© de prendre Mons,
+on pouvait dÃ¨s aujourd'hui se rendre maÃ®tre de l'ouvrage Ã  cornes;
+mais que puisque rien ne pressait, il valait mieux encore attendre un
+jour ou deux, et _lui_ sauver du monde.Â» Ce n'est pas le monde qu'on
+sauve, c'est du monde qu'on veut sauver Ã  Louis XIV. L'attaque, mÃªme
+diffÃ©rÃ©e d'un jour, coÃ»ta cher pourtant: l'ouvrage Ã  cornes fut
+pris d'abord, puis perdu; il fallut revenir Ã  la charge le lendemain.
+La plupart des officiers y furent tuÃ©s ou blessÃ©s. Un Courtenay
+mousquetaire y fut tuÃ©, un descendant lÃ©gitime de Louis le Gros et,
+Ã  sa maniÃ¨re, un petit-fils de France. Â«Je voyais toute l'attaque
+fort Ã  mon aise, Ã©crit Racine Ã  Boileau, d'un peu loin Ã  la
+vÃ©ritÃ©; mais j'avais de fort bonnes lunettes, que je ne pouvais
+presque tenir ferme tant le cÅur me battait Ã  voir tant de braves
+gens dans le pÃ©ril.Â» Le roi, Ã  ce siÃ©ge de Mons comme l'annÃ©e
+suivante Ã  celui de Namur, s'offre bien Ã  nous dans l'attitude sinon
+hÃ©roÃ¯que, du moins royale, et il satisfait Ã  l'honneur, au courage,
+Ã  tous ses devoirs, y compris l'humanitÃ©. Â«Jeudi 5 avril.--Le roi,
+en faisant le tour des lignes, a passÃ© Ã  l'hÃ´pital pour voir si
+l'on avait bien soin des blessÃ©s et des malades, si les bouillons
+Ã©taient bons, s'il en mourait beaucoup, et si les chirurgiens
+faisaient bien leur devoir.Â» La ville a demandÃ© Ã  capituler aprÃ¨s
+seize jours de tranchÃ©e ouverte: Â«Le roi, dit Dangeau, a donnÃ©
+ce matin (9 avril) Ã  Vauban 100,000 francs, et l'a priÃ© Ã  dÃ®ner,
+honneur dont il a Ã©tÃ© plus touchÃ© que de l'argent. Il n'avait
+jamais eu l'honneur de manger avec le roi.Â» La garnison, composÃ©e
+d'environ cinq mille hommes, sort de la place le lendemain 10;
+Monseigneur assiste au dÃ©filÃ©: Â«Le gouverneur salua Monseigneur de
+l'Ã©pÃ©e, et sans mettre pied Ã  terre; il lui dit qu'il Ã©tait
+bien fÃ¢chÃ© de n'avoir pu tenir plus longtemps, afin de contribuer
+davantage Ã  la gloire du roi.Â» Ainsi tout se passait de part et
+d'autre en parfait honneur et en courtoisie.
+
+Les campagnes durent peu quand le roi y est. Le roi, son siÃ©ge fait
+et son coup de foudre lancÃ©, revient Ã  temps, cette annÃ©e
+1691, pour entendre la messe le dimanche de PÃ¢ques, 15 avril,
+Ã  CompiÃ¨gne, et pour faire ses pÃ¢ques le dimanche d'aprÃ¨s Ã 
+Versailles. Les chasses et les jeux recommencent.
+
+C'est l'impression gÃ©nÃ©rale seulement que je veux donner. Assez
+d'autres chercheront dans le Journal de Dangeau tel ou tel fait
+particulier; trÃ¨s-peu de monde aura la patience de le lire d'un bout
+Ã  l'autre comme on lit un livre. J'avouerai que cette lecture un peu
+prolongÃ©e, quand on s'y applique, produit une fatigue et un cassement
+de tÃªte par cette succession de faits sans rapport et sans suite qui
+font l'effet d'une mascarade. On serait tentÃ©, au sortir de lÃ , de
+prendre un livre de raisonnement et de logique pour se reposer.
+Mais enfin, en poursuivant cette lecture Ã  travers les mille
+particularitÃ©s dont elle se compose, et en faisant la part de la
+bienveillance et de l'optimisme de Dangeau, dÃ©cidÃ© Ã  trouver tout
+bien, on arrive Ã  un rÃ©sultat qui, selon moi, ne trompe point: on
+ressent et l'on respire ce qui est dans l'air Ã  un certain moment. Eh
+bien, mÃªme Ã  travers cette guerre immense et laborieuse, les annÃ©es
+1691, 1692, 1693, sont encore fort belles et continuent de donner une
+bien haute idÃ©e de Louis XIV. Au milieu de la grandeur, la gaietÃ©
+de la cour, la lÃ©gÃ¨retÃ© mÃªme survivent et se perpÃ©tuent, grÃ¢ce
+surtout Ã  ces charmantes filles du roi, la princesse de Conti
+et madame la Duchesse. Ce n'est plus l'Ã¢ge des la ValliÃ¨re, des
+Soubise, des Montespan, dansant avec Louis ou autour de Louis
+_sous des berceaux de fleurs_; mais c'est encore le beau moment des
+promenades des dames sur le canal de Versailles, des collations de
+Marly, de Trianon, et les enchantements n'ont point cessÃ©. Ils
+ne cesseront sensiblement que dans les derniÃ¨res annÃ©es de cette
+guerre. Et par cela seul que Dangeau Ã©crit jour par jour, ce nous
+sera un tÃ©moin de ce changement graduel; il ne sera pas en son
+pouvoir de le dissimuler.
+
+Nous sommes encore ici dans les temps qui prÃ©cÃ¨dent la date Ã 
+laquelle s'ouvrent les MÃ©moires de Saint-Simon. Celui-ci ne les
+commence, en effet, qu'avec le siÃ©ge de Namur en 1692, ce qui donne
+plus de prix aux faits antÃ©rieurs racontÃ©s par Dangeau et aux notes
+que Saint-Simon y joint, et qui n'ont pas toutes passÃ© en substance
+dans son grand ouvrage. La mort soudaine de Louvois au sortir d'un
+travail avec Louis XIV (16 juillet 1691) est un des endroits de
+Dangeau que Saint-Simon commente le plus; il fait de ce grand Ministre
+un admirable portrait, oÃ¹ cependant, Ã  force de vouloir tout
+rassembler, il a introduit peut-Ãªtre quelques contradictions et des
+jugements inconciliables, comme lorsque aprÃ¨s l'avoir reprÃ©sentÃ©
+si absolu, si entier, il veut qu'il n'ait Ã©tÃ© bon qu'Ã  servir en
+second et sous un maÃ®tre. Il s'y est donnÃ© aussi toute carriÃ¨re
+pour le soupÃ§on et pour les profondeurs mystÃ©rieuses, ayant bien
+soin de faire entendre que cette mort subite n'est pas venue au
+hasard, et laissant planer l'accusation dans un vague infini. Il
+paraÃ®t croire, d'ailleurs, que si Louvois n'Ã©tait pas mort Ã 
+propos ce jour-lÃ , les ordres Ã©taient donnÃ©s pour le conduire Ã  la
+Bastille. A force d'Ãªtre curieux, et soupÃ§onneux, il y a des moments
+oÃ¹ Saint-Simon devient crÃ©dule. Restons dans les limites sÃ©vÃ¨res
+de l'histoire. Louis XIV sentit Ã  la fois qu'il faisait une perte
+et qu'il Ã©tait dÃ©livrÃ© d'une gÃªne. Le roi d'Angleterre lui ayant
+envoyÃ© faire des compliments sur la mort de Louvois, il rÃ©pondit Ã 
+celui qui venait de sa part: Â«Monsieur, dites au roi d'Angleterre que
+j'ai perdu un bon ministre, mais que ses affaires et les miennes n'en
+iront pas plus mal pour cela.Â» Vraies paroles et vrai sentiment de
+roi! Louis XIV, dans Lyonne, dans Colbert mÃªme et dans Louvois, a des
+ministres et des instruments puissants, mais pas de collÃ¨gues. On a
+fait abus, de nos jours, de ces collÃ¨gues et de ces maÃ®tres qu'on a
+donnÃ©s Ã  Louis XIV.
+
+Ce qui est bien sensible chez Dangeau, c'est qu'Ã  l'instant oÃ¹ il
+perd Louvois, Louis XIV se met en devoir de s'en passer. Son emploi
+Ã©tant donnÃ© un peu pour la forme et par complaisance au jeune M.
+de Barbezieux, le roi, qui se fait comme son tuteur et son garant,
+s'applique plus que jamais au travail; il devient son propre ministre
+Ã  lui-mÃªme:
+
+Â«Vendredi 31 aoÃ»t (1691), Ã  Marly.--Le roi se promena tout le matin
+dans ses jardins; il travailla beaucoup l'aprÃ¨s-dÃ®nÃ©e, comme il
+fait prÃ©sentement tous les jours.Â»
+
+Il se met Ã  faire la revue dÃ©taillÃ©e de ses troupes en ordonnateur
+en chef:
+
+Â«Mercredi 7 novembre (1691), Ã  Marly.--Le roi alla le matin sur la
+bruyÃ¨re de Marly, devant la grille, faire la revue de deux compagnies
+de ses gardes du corps, celle de Luxembourg et celle de Lorges; il les
+vit Ã  cheval et Ã  pied, et homme par homme, et se fit montrer
+les gardes qui s'Ã©taient distinguÃ©s au combat de Leuze pour les
+rÃ©compenser.Â»
+
+Â«Samedi 17, Ã  Versailles.--Le roi, aprÃ¨s son dÃ®ner, fit sur les
+terrasses de ses jardins la revue de huit compagnies de son rÃ©giment
+des gardes, des quatre qui montent et des quatre qui descendent la
+garde. Il en avait dÃ©jÃ  fait autant dimanche. Il est plus sÃ©vÃ¨re
+qu'aucun commissaire.Â»
+
+Il va encore Ã  la chasse quand il peut, il s'amuse Ã  tirer, ou Ã 
+voir tailler ses arbres; mais le soir, mÃªme quand il y a appartement,
+il s'accoutume Ã  n'y point aller. Il finira par passer tous ses soirs
+chez madame de Maintenon, Ã  y travailler avec ses ministres. Quelques
+passages rapprochÃ©s, et qui deviennent aussi frÃ©quents chez Dangeau
+que l'Ã©taient autrefois les articles des jeux et des divertissements,
+en diront plus que tout:
+
+Â«Dimanche 6 janvier (1692), Ã  Versailles.--Le soir il y eut
+appartement; mais le roi n'y vient plus. M. de Barbezieux est malade
+depuis quelques jours, et le roi travaille encore plus qu'Ã  son
+ordinaire.Â»
+
+Â«Lundi 28, Ã  Versailles.--Le roi ne sortit point de tout le jour,
+non plus qu'hier. Il donne beaucoup d'audiences, et travaille tout le
+reste du jour; il s'est accoutumÃ© Ã  dicter et fait Ã©crire Ã  M. de
+Barbezieux, sous lui, toutes les lettres importantes qui regardent les
+affaires de la guerre.Â»
+
+Â«Mercredi 2 avril, Ã  Versailles.--Le roi et Monseigneur entendirent
+les tÃ©nÃ¨bres Ã  la chapelle; ensuite le roi travailla avec ses
+ministres. Il n'y a point de journÃ©e prÃ©sentement oÃ¹ le roi ne
+travaille huit ou neuf heures.Â»
+
+Cela se soutient et se rÃ©gularise de plus en plus les annÃ©es
+suivantes, et Dangeau, par des rÃ©sumÃ©s de fin d'annÃ©e, prend soin
+de constater cette rÃ©forme de plus en plus laborieuse de rÃ©gime, qui
+suit la mort de Louvois. Louis XIV, en un mot, Ã  cette Ã©poque oÃ¹ il
+allait dater de la cinquantiÃ¨me annÃ©e de son rÃ¨gne (14 mai 1692),
+se mettait Ã  l'ouvrage plus que jamais, et Ã  son mÃ©tier de roi sans
+plus de distraction. S'il y fit des fautes, il ne cesse d'y mÃ©riter
+l'estime. Il avait cinq grandes armÃ©es, sur pied: celle de Flandre,
+sous M. de Luxembourg; celle d'Allemagne, sous M. de Lorges; de la
+Moselle, sous M. de Bouflers; d'Italie, sous Catinat; de Roussillon,
+sous le duc de Noailles; je ne parle pas des flottes, alors si
+actives. Il se dÃ©cide, pour cette campagne de 1692, Ã  faire encore
+quelque gros siÃ©ge; ce sera celui de Namur.--Â«Jeudi 10 avril,
+Ã  Versailles.--Le roi tient conseil de guerre le matin avec M. de
+Luxembourg, M. de Barbezieux, Chanlay et Vauban. On fait partir Vauban
+incessamment, et on ne doute pas que le roi ne partÃ®t bientÃ´t si la
+saison Ã©tait moins retardÃ©e.Â» Ce Chanlay dont il est parlÃ©, et
+que Dangeau, annotÃ© par Saint-Simon, nous fait particuliÃ¨rement
+connaÃ®tre, Ã©tait de ces seconds indispensables Ã  la guerre, un
+officier d'Ã©tat-major accompli, parfait Ã  Ã©tudier les questions,
+les lieux, Ã  dresser des instructions et des mÃ©moires, Ã  juger des
+hommes. Louvois l'avait lÃ©guÃ© Ã  Louis XIV, qui voulait en faire
+un ministre: Ã  quoi la modestie de Chanlay rÃ©sista. Ces parties
+sÃ©rieuses et toutes pratiques du rÃ¨gne de Louis XIV trouvent leur
+ouverture et leur Ã©claircissement par bien des passages de Dangeau.
+On part de Versailles pour le siÃ©ge de Namur le 10 mai; on arrive
+devant la place le lundi 26. Le roi y est pris de goutte; ce qui ne
+l'empÃªche pas de tout voir, de donner ordre Ã  tout. La ville se rend
+aprÃ¨s sept ou huit jours de tranchÃ©e; le chÃ¢teau tient un peu plus
+longtemps. C'est encore un beau siÃ©ge classique, rÃ©gulier, modÃ©rÃ©,
+courtois. DÃ¨s le premier jour les dames de qualitÃ© s'effrayent de
+rester dans la ville; on demande pour elles un passe-port: Â«Le roi
+l'a refusÃ©; cependant les dames sont sorties et sont venues Ã  une
+maison prÃ¨s de la Sambre. Le roi y a envoyÃ© le prince d'Elbeuf. Il
+voulait qu'elles retournassent dans la ville; mais elles persistÃ¨rent
+Ã  n'y vouloir point retourner, et apparemment le roi aura la bontÃ©
+de se relÃ¢cher; il leur a mÃªme envoyÃ© Ã  souper.Â» Et le lendemain
+le roi envoie des carrosses Ã  ces dames pour les conduire Ã  une
+abbaye voisine. Â«Outre les quarante femmes qui sont sorties du cÃ´tÃ©
+du roi, il y en a eu encore trente, dit Dangeau, qui sont sorties du
+cÃ´tÃ© de M. de Bouflers.Â» Le roi, tout souffrant et peu valide
+qu'il est, s'expose suffisamment. A une action, pendant le siÃ©ge du
+chÃ¢teau, il reste toujours Ã  cheval Ã  une demi-portÃ©e de mousquet
+de la place, et quelques gens sont blessÃ©s fort loin derriÃ¨re lui.
+Valeur et politesse, discipline et humanitÃ©, l'impression qui nous
+reste de tout cela, sans aller jusqu'Ã  l'enthousiasme lyrique de
+Boileau, est celle de quelque chose de noble, d'honorable et de bien
+royal. Il arrive lÃ , Ã  cette prise de Namur, ce qui est plus d'une
+fois arrivÃ© Ã  la France dans le temps d'une victoire remportÃ©e sur
+terre, c'est un dÃ©sastre sur mer: on apprend la dÃ©faite de M. de
+Tourville Ã  la Hogue. A son retour de Namur Ã  Versailles, et dÃ¨s
+le premier soir, Louis XIV, voit entrer M. de Tourville, qui venait
+le saluer. Il lui dit tout haut, dÃ¨s qu'il l'aperÃ§oit: Â«Je suis
+trÃ¨s-content de vous et de toute la marine; nous avons Ã©tÃ© battus,
+mais vous avez acquis de la gloire et pour vous et pour la nation.
+Il nous en coÃ»te quelques vaisseaux; cela sera rÃ©parÃ© l'annÃ©e qui
+vient, et sÃ»rement nous battrons les ennemis.Â» Parole encore de
+vrai roi, qui n'a ni l'humeur du despote, irritÃ© que les choses lui
+rÃ©sistent, ni la versatilitÃ© du peuple, dont les jugements varient
+selon le bon ou le mauvais succÃ¨s.
+
+Cette annÃ©e 1692 nous offre aussi le trÃ¨s-beau combat de
+Steenkerque, livrÃ© le 3 aoÃ»t par le marÃ©chal de Luxembourg.
+Dangeau, qui dans le premier moment de la nouvelle l'appelle le combat
+d'Enghien, nous dit: Â«Samedi 9 aoÃ»t, Ã  Versailles.--M. le comte de
+Luxe arriva ici; il apporta au roi une relation fort ample de M. de
+Luxembourg de tout ce qui s'est passÃ© au combat. Le roi nous a dit
+qu'il n'avait jamais vu une si belle relation, et qu'il nous la ferait
+lire.Â» Les Ã©diteurs ont eu l'heureuse idÃ©e de nous faire le mÃªme
+plaisir que Louis XIV Ã  ses courtisans, c'est-Ã -dire de nous donner
+le texte mÃªme de la relation de M. de Luxembourg, conservÃ©e au
+dÃ©pÃ´t de la guerre, et de laquelle s'Ã©taient amplement servis les
+historiens militaires du rÃ¨gne; mais dans sa premiÃ¨re forme et
+dans son tour direct, elle a quelque chose de vif, de spirituel, de
+brillant et de poli qui justifie bien l'Ã©loge de Louis XIV, et qui en
+fait de tout point une page des plus franÃ§aises.
+
+L'admiration de Dangeau est communicative, va-t-on me dire; prenez
+garde d'y trop donner. Je rends ce que j'Ã©prouve en ces bons
+endroits, comme encore on me laissera citer ce mot de Louis XIV;
+conservÃ© par Dangeau, lorsque deux ans aprÃ¨s environ le vainqueur
+de Steenkerque et de Neerwinden, Luxembourg, se meurt: Â«Vendredi 31
+dÃ©cembre 1694, Ã  Versailles.--M. de Luxembourg Ã  cinq heures du
+matin s'est trouvÃ© mal, et sa maladie commence si violemment que les
+mÃ©decins _le_ dÃ©sespÃ¨rent. Le roi en paraÃ®t fort touchÃ©, et a
+dit ce soir Ã  M. mon frÃ¨re: Â«Si nous sommes assez malheureux pour
+perdre ce pauvre homme-lÃ , celui qui en porterait la nouvelle au
+prince d'Orange serait bien reÃ§u.Â» Et ensuite il a dit Ã  M. Fagon,
+son premier mÃ©decin: Â«Faites, monsieur, pour M. de Luxembourg tout
+ce que vous feriez pour moi-mÃªme si j'Ã©tais dans l'Ã©tat oÃ¹ il
+est.Â»
+
+Louis XIV n'offre pas d'abord des trÃ©sors Ã  celui qui sauvera M.
+de Luxembourg; il dit ce simple mot humain: _Faites comme pour
+moi-mÃªme_. Ce sont lÃ  de rares moments dans sa vie de roi trop
+asiatique et trop idolÃ¢trÃ©: il n'est que plus juste d'en tenir
+compte.
+
+La campagne de 1692 fut la derniÃ¨re de Louis XIV qui mÃ©rite ce
+nom; car celle de l'annÃ©e suivante ne parut qu'un voyage brusquement
+interrompu. Parti de Versailles le 18 mai 1693 pour l'armÃ©e de
+Flandre, Louis XIV, plus lent qu'Ã  l'ordinaire, n'ayant rien arrÃªtÃ©
+de prÃ©cis et s'Ã©tant trouvÃ© pendant quelques jours malade au
+Quesnoy, fait mine de s'avancer du cÃ´tÃ© de LiÃ©ge; puis tout d'un
+coup, le 9 juin, au camp de Gembloux, il dÃ©clare qu'il s'en retourne
+Ã  Versailles. Cette rÃ©solution soudaine Ã©tonna beaucoup. Le roi
+ne se montrait pas en cela fidÃ¨le Ã  son principe, qui Ã©tait de
+ne point s'en retourner sans avoir fait quelque chose. Il renonce
+dÃ©sormais Ã  Ãªtre gÃ©nÃ©ral et Ã  aller de sa personne Ã  la guerre.
+Jusque-lÃ , quand il l'avait fait, Ã§'avait Ã©tÃ© trÃ¨s-honorablement,
+bien que toujours dans son rÃ´le de roi. Il ne cherchait point les
+pÃ©rils, mais aussi il ne les Ã©vitait pas. Dangeau, pas plus en
+cette derniÃ¨re occasion qu'en aucune autre, ne se permet le moindre
+commentaire: mais, ce qu'il y a d'un peu lourd ou de peu svelte
+jusque dans la force et la grandeur de Louis XIV, paraÃ®t bien dans
+le dÃ©tail journalier de sa relation. Cet appesantissement en partie
+physique qui augmentait avec l'Ã¢ge, cet enchaÃ®nement aux habitudes,
+ce besoin d'avoir toujours autour de soi une grosse cour, finirent par
+retenir le monarque Ã  Versailles et dans ses maisons.
+
+Si l'espace me le permettait, j'aurais Ã  noter, dans le tome Ve,
+les teintes plus sombres qui se laissent apercevoir Ã  travers
+l'uniformitÃ© officielle et l'impassibilitÃ© souriante de Dangeau.
+Ainsi on ne joue plus tant Ã  la cour; la santÃ© du roi se dÃ©range
+plus souvent; quoique Ã  chaque indisposition Dangeau prenne soin de
+nous rassurer. Les gouttes, les fiÃ¨vres, aidÃ©es des mÃ©decines de
+prÃ©caution dont Fagon abuse, tournent en habitude chez Louis XIV,
+malgrÃ© son fonds d'excellente constitution. En mÃªme temps les
+impÃ´ts augmentent; les capitations ne rendent qu'avec lenteur. Le
+roi, qui a retranchÃ© une moitiÃ© sur les Ã©trennes de ses enfants
+(1694) et deux cents chevaux de son Ã©curie, cherche Ã  Ã©tendre ses
+Ã©conomies sur tout ce qui est dÃ©penses de luxe, et sur les courriers
+que les gÃ©nÃ©raux multipliaient sans nÃ©cessitÃ© pour la moindre
+affaire, et sur les Gobelins dont on a congÃ©diÃ© tous les ouvriers.
+On ne paye plus l'AcadÃ©mie des sciences, ni Â«la petite AcadÃ©mie que
+M. Bignon avait fait Ã©tablir pour la description des arts,Â» celle
+qui est devenue l'AcadÃ©mie des inscriptions. MÃªme au travers du
+Dangeau, cela s'entend, tout crie misÃ¨re. Des dÃ©sertions, des
+rÃ©voltes dans les troupes se font sentir. Les nouvelles levÃ©es
+d'hommes sont de plus en plus difficiles, et d'odieux recruteurs
+y emploient la violence Ã  l'insu du roi. Il est temps, c'est
+l'impression qu'on a, que la paix se fasse, et que le traitÃ© de
+Ryswyck arrive pour procurer Ã  la France un intervalle de repos qui,
+malheureusement, ne sera pas assez long.
+
+Les anecdotes, les portraits et croquis qu'on pourrait extraire de
+ces derniers volumes seraient sans fin, et Saint-Simon se greffant sur
+Dangeau produit des fruits qui ont une saveur tout Ã  fait neuve.
+J'ai remarquÃ© plus d'une jolie anecdote, une entre autres, toute
+littÃ©raire, qui montre que ce n'est pas seulement de nos jours que
+l'ironie s'est glissÃ©e sous un air d'Ã©loge dans le discours d'un
+directeur de l'AcadÃ©mie franÃ§aise recevant un nouveau confrÃ¨re.
+
+FIN.
+
+
+
+
+TABLE.
+
+  I.--L'Ã©dition                                   5
+  II.--Le siÃ¨cle                                  9
+  III.--L'homme                                   27
+  IV.--L'Ã©crivain                                 47
+  Annotations inÃ©dites de Saint-Simon au
+  _Journal de Dangeau_                            64
+  Analyse du _Journal de Dangeau_                 97
+
+FIN DE LA TABLE.
+
+
+
+
+
+End of the Project Gutenberg EBook of MÃ©moires du duc de Saint-Simon
+by Louis de Rouvroy Saint-Simon
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MÃMOIRES DU DUC DE SAINT-SIMON ***
+
+***** This file should be named 17044-0.txt or 17044-0.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/7/0/4/17044/
+
+Produced by Gallica - Bibliotheque Nationale de France,
+Mireille Harmelin, Pierre Lacaze and the Online Distributed
+Proofreading Team.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

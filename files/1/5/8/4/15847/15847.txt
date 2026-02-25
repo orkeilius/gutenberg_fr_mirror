@@ -1,3 +1,4491 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37b4676c2b9f9baf0342d70682c826c634290c737f7479d3d07c6c03c3528c4c
-size 202322
+The Project Gutenberg EBook of Jules C�sar, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Jules C�sar
+
+Author: William Shakespeare
+
+Release Date: May 17, 2005 [EBook #15847]
+[Date last updated: June 1, 2005]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK JULES C�SAR ***
+
+
+
+
+Produced by Paul Murray, Renald Levesque and the Online Distributed
+Proofreading Team. This file was produced from images generously
+made available by the Biblioth�que nationale de France (BnF/Gallica)
+
+
+
+
+
+  Note du transcripteur.
+  ======================================================================
+  Ce document est tir� de:
+
+  OEUVRES COMPL�TES DE
+  SHAKSPEARE
+
+  TRADUCTION DE
+  M. GUIZOT
+
+  NOUVELLE �DITION ENTI�REMENT REVUE
+  AVEC UNE �TUDE SUR SHAKSPEARE
+  DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+  Volume 2
+  Jules C�sar.
+  Cl�op�tre.--Macbeth.--Les M�prises.
+  Beaucoup de bruit pour rien.
+
+  PARIS
+  A LA LIBRAIRIE ACAD�MIQUE
+  DIDIER ET Ce, LIBRAIRES-�DITEURS
+  35, QUAI DES AUGUSTINS
+  1864
+
+
+  ======================================================================
+
+JULES C�SAR
+
+TRAG�DIE
+
+NOTICE SUR JULES CESAR
+
+
+Parmi les trag�dies de Shakspeare que l'opinion a plac�es au premier
+rang, _Jules C�sar_ est celle dont les commentateurs ont parl� le
+plus froidement. Le plus froid de tous, Johnson, se contente de dire:
+�Plusieurs passages de cette trag�die m�ritent d'�tre remarqu�s, et on y
+a g�n�ralement admir� la querelle et la r�conciliation de Brutus et de
+Cassius; mais jamais en la lisant je ne me suis senti fortement agit�,
+et en la comparant � quelques autres ouvrages de Shakspeare, il me
+semble qu'on la peut trouver assez froide et peu propre � �mouvoir.�
+
+C'est adopter un principe de critique enti�rement faux que de juger
+Shakspeare d'apr�s lui-m�me, et de comparer les impressions qu'il a
+pu produire, dans un genre et dans un sujet donn�s, avec celles qu'il
+produira dans un autre sujet et un autre genre, comme s'il ne poss�dait
+qu'un m�rite sp�cial et singulier qu'il f�t tenu de d�ployer dans chaque
+occasion, et qui rest�t le titre unique de sa gloire. Ce g�nie vaste et
+vrai veut �tre mesur� sur une �chelle plus large; c'est � la nature,
+c'est au monde qu'il faut comparer Shakspeare: et, dans chaque cas
+particulier, c'est entre la portion du monde et de la nature qu'il a
+dessein de repr�senter et le tableau qu'il en fait, que se doit
+�tablir la comparaison. Ne demandez pas au peintre de Brutus les m�mes
+impressions, les m�mes effets qu'� celui du roi Lear ou de Rom�o et
+Juliette; Shakspeare p�n�tre au fond de tous les sujets, et sait tirer
+de chacun les impressions qui en d�coulent naturellement, et les effets
+distincts et originaux qu'il doit produire.
+
+Qu'apr�s cela, le spectacle de l'�me de Brutus soit, pour Johnson, moins
+touchant et moins dramatique que celui de telle ou telle passion,
+de telle ou telle situation de la vie, c'est l� un r�sultat des
+inclinations personnelles du critique, et du tour qu'ont pris ses id�es
+et ses sentiments; on n'y saurait trouver une r�gle g�n�rale, sur
+laquelle se doive fonder la comparaison entre des ouvrages d'un genre
+absolument diff�rent. Il est des esprits form�s de telle sorte que
+Corneille leur donnera plus d'�motions que Voltaire, et une m�re se
+sentira plus troubl�e, plus agit�e � _M�rope_ qu'� _Za�re_. L'esprit
+de Johnson, plus droit et plus ferme qu'�lev�, arrivait assez bien �
+l'intelligence des int�r�ts et des passions qui agitent la moyenne
+r�gion de la vie, mais il ne parvenait gu�re � ces hauteurs o� vit sans
+effort et sans distraction une �me vraiment sto�que. Le temps de Johnson
+n'�tait pas d'ailleurs celui des grands d�vouements; et bien que, m�me
+� cette �poque, le climat politique de l'Angleterre pr�serv�t un peu sa
+litt�rature de cette molle influence qui avait �nerv� la n�tre, elle ne
+pouvait cependant �chapper enti�rement � cette disposition g�n�rale des
+esprits, � cette sorte de mat�rialisme moral, qui n'accordant, pour
+ainsi dire, � l'�me aucune autre vie que celle qu'elle re�oit du choc
+des objets ext�rieurs, ne supposait pas qu'on p�t lui offrir d'autres
+objets d'int�r�t que le path�tique proprement dit, les douleurs
+individuelles de la vie, les orages du coeur et les d�chirements des
+passions. Cette disposition du XVIIIe si�cle �tait si puissante qu'en
+transportant sur notre th��tre la mort de C�sar, Voltaire, qui se
+glorifiait � juste titre d'y avoir fait r�ussir une trag�die sans amour,
+n'a pas cru cependant qu'un pareil spectacle p�t se passer de l'int�r�t
+path�tique qui r�sulte du combat douloureux des devoirs et des
+affections. Dans cette grande lutte des derniers �lans d'une libert�
+mourante contre un despotisme naissant, il est all� chercher, pour lui
+donner la premi�re place, un fait obscur, douteux, mais propre � lui
+fournir le genre d'�motions dont il avait besoin; et c'est de la
+situation, r�elle ou pr�tendue, de Brutus plac� entre son p�re et sa
+patrie, que Voltaire a fait le fond et le ressort de sa trag�die.
+
+Celle de Shakspeare repose tout enti�re sur le caract�re de Brutus;
+on l'a m�me bl�m� de n'avoir pas intitul� cet ouvrage _Marcus Brutus_
+plut�t que _Jules C�sar_. Mais si Brutus est le h�ros de la pi�ce,
+C�sar sa puissance, sa mort, en voil� le sujet. C�sar seul occupe
+l'avant-sc�ne; l'horreur de son pouvoir, le besoin de s'en d�livrer
+remplissent toute la premi�re moiti� du drame; l'autre moiti� est
+consacr�e au souvenir et aux suites de sa mort. C'est, comme le dit
+Antoine, l'ombre de C�sar �promenant sa vengeance;� et pour ne pas
+laisser m�conna�tre son empire, c'est encore cette ombre qui, aux
+plaines de Sardes et de Philippes, appara�t � Brutus comme son mauvais
+g�nie.
+
+Cependant � la mort de Brutus finira le tableau de cette grande
+catastrophe. Shakspeare n'a voulu nous int�resser � l'�v�nement de sa
+pi�ce que par rapport � Brutus, de m�me qu'il ne nous a pr�sent� Brutus
+que par rapport � cet �v�nement; le fait qui fournit le sujet de la
+trag�die et le caract�re qui l'accomplit, la mort de C�sar et le
+caract�re de Brutus, voil� l'union qui constitue l'oeuvre dramatique
+de Shakspeare, comme l'union de l'�me et du corps constitue la vie,
+�l�ments �galement n�cessaires l'un et l'autre � l'existence de
+l'individu. Avant que se pr�par�t la mort de C�sar, la pi�ce n'a pas
+commenc�; apr�s la mort de Brutus, elle finit.
+
+C'est donc dans le caract�re de Brutus, �me de sa pi�ce, que Shakspeare
+a d�pos� l'empreinte de son g�nie; d'autant plus admirable dans cette
+peinture, qu'en y demeurant fid�le � l'histoire, il en a su faire une
+oeuvre de cr�ation, et nous rendre le Brutus de Plutarque tout aussi
+vrai, tout aussi complet dans les sc�nes que le po�te lui a pr�t�es
+que dans celles qu'a fournies l'historien. Cet esprit r�veur, toujours
+occup� � s'interroger lui-m�me, ce trouble d'une conscience s�v�re aux
+premiers avertissements d'un devoir encore douteux, cette fermet� calme
+et sans incertitude d�s que le devoir est certain, cette sensibilit�
+profonde et presque douloureuse, toujours contenue dans la rigueur des
+plus aust�res principes, cette douceur d'�me qui ne dispara�t pas un
+seul instant au milieu des plus cruels offices de la vertu, ce caract�re
+de Brutus enfin, tel que l'id�e nous en est � tous pr�sente, marche
+vivant et toujours semblable � lui-m�me � travers les diff�rentes sc�nes
+de la vie o� nous le rencontrons, et o� nous ne pouvons douter qu'il
+n'ait paru sous les traits que lui donne le po�te.
+
+Peut-�tre cette fid�lit� historique a-t-elle caus� la froideur des
+critiques de Shakspeare sur la trag�die de _Jules C�sar_. Ils n'y
+pouvaient rencontrer ces traits d'une originalit� presque sauvage qui
+nous saisissent dans les ouvrages que Shakspeare a compos�s sur des
+sujets modernes, �trangers aux habitudes actuelles de notre vie, comme
+aux id�es classiques sur lesquelles se sont form�es les habitudes de
+notre esprit. Les moeurs de Hotspur sont certainement beaucoup plus
+originales pour nous que celles de Brutus: elles le sont davantage en
+elles-m�mes; la grandeur des caract�res du moyen �ge est fortement
+empreinte d'individualit�; la grandeur des anciens s'�l�ve r�guli�rement
+sur la base de certains principes g�n�raux qui ne laissent gu�re, entre
+les individus, d'autre diff�rence tr�s-sensible que celle de la hauteur
+� laquelle ils parviennent. C'est ce qu'a senti Shakspeare; il n'a song�
+qu'� rehausser Brutus et non � le singulariser; plac�s dans une sph�re
+inf�rieure, les autres personnages reprennent un peu la libert� de leur
+caract�re individuel, affranchi de cette r�gle de perfection que le
+devoir impose � Brutus. Le po�te aussi semble se jouer autour d'eux avec
+moins de respect, et se permettre de leur imposer quelques-unes des
+formes qui lui appartiennent plus qu'� eux, Cassius comparant avec
+d�dain la force corporelle de C�sar � la sienne, et parcourant la nuit
+les rues de Rome, au fort de la temp�te, pour assouvir cette fi�vre de
+danger qui le d�vore, ressemble beaucoup plus � un compagnon de Canut ou
+de Harold qu'� un Romain du temps de C�sar; mais cette teinte barbare
+jette, sur les irr�gularit�s du caract�re de Cassius, un int�r�t qui
+ne na�trait peut-�tre pas aussi vif de la ressemblance historique. M.
+Schlegel, dont les jugements sur Shakspeare m�ritent toujours beaucoup
+de consid�ration, me semble cependant tomber dans une l�g�re erreur
+lorsqu'il remarque que �le po�te a indiqu� avec finesse la sup�riorit�
+que donnaient � Cassius une volont� plus forte et des vues plus justes
+sur les �v�nements.� Je pense au contraire que l'art admirable de
+Shakspeare consiste, dans cette pi�ce, � conserver au principal
+personnage toute sa sup�riorit�, m�me lorsqu'il se trompe, et � la faire
+ressortir par ce fait m�me qu'il se trompe et que n�anmoins on lui
+d�f�re, que la raison des autres c�de avec confiance � l'erreur de
+Brutus. Brutus va jusqu'� se donner un tort; dans la sc�ne de la
+querelle avec Cassius, vaincu un moment par une effroyable et secr�te
+douleur, il oublie la mod�ration qui lui convient; enfin Brutus a tort
+une fois, et c'est Cassius qui s'humilie, car en effet Brutus est
+demeur� plus grand que lui.
+
+Le caract�re de C�sar peut nous para�tre un peu trop entach� de cette
+jactance commune � tous les temps barbares o� la force individuelle,
+sans cesse appel�e aux plus terribles luttes, ne s'y soutient que par
+le sentiment exalt� de sa propre puissance, et m�me a besoin d'�tre
+secourue par l'id�e qu'en con�oivent les autres. Il fallait montrer
+dans C�sar la force qui soumet les Romains et l'orgueil qui les �crase;
+Shakspeare n'avait qu'un coin pour laisser entrevoir cet �tat de l'�me
+du h�ros; il a forc� les couleurs. Cependant son C�sar, je l'avoue, ne
+me para�t pas plus faux que le n�tre; Shakspeare me semble m�me,
+au milieu de ses rodomontades, lui avoir mieux conserv� ces formes
+d'�galit� que le despote d'une r�publique garde toujours envers ceux
+qu'il opprime.
+
+Le ton du _Jules C�sar_ est plus g�n�ralement soutenu que celui de la
+plupart des autres trag�dies de Shakspeare. A peine, dans tout le r�le
+de Brutus, se trouve-t-il une image basse, et c'est au moment o� il se
+laisse aller � la col�re. Le soin visible qu'a mis le po�te � imiter
+le langage laconique que l'histoire attribue � son h�ros ne l'a que
+tr�s-rarement conduit � l'affectation, si ce n'est dans le discours
+de Brutus au peuple, mod�le de l'�loquence scolastique du temps de
+l'auteur. Le langage de Cassius, plus figur� parce qu'il est plus
+passionn�, et d'une �l�vation moins simple que celui de Brutus, est
+cependant �galement exempt de trivialit�. La harangue d'Antoine est un
+mod�le de ruse et de la feinte simplicit� d'un fourbe adroit qui veut
+gagner les esprits d'une multitude grossi�re et mobile. Voltaire bl�me,
+au moins avec s�v�rit�, Shakspeare d'avoir pr�sent� sous une forme
+comique la sc�ne des Lupercales, dont le fond, dit-il, �est si noble et
+int�ressant.� Voltaire ne voit ici qu'une couronne demand�e � un peuple
+libre qui la refuse; mais C�sar se faisant, en pr�sence du
+peuple, l'acteur d'une farce pr�par�e pour lui, et d�sesp�r� des
+applaudissements qu'on donne � la mani�re dont il a jou� son r�le,
+c'�tait l� en effet, pour les bons esprits de Rome, quelque chose
+d'extr�mement comique et qui ne pouvait leur �tre pr�sent� autrement.
+
+L'action de la pi�ce comprend depuis le triomphe de C�sar, apr�s la
+victoire remport�e sur le jeune Pomp�e, jusqu'� la mort de Brutus, ce
+qui lui donne une dur�e d'environ trois ans et demi.
+
+On a en anglais une autre trag�die de _Jules C�sar_ compos�e par lord
+Sterline, connue du public, � ce qu'il para�t, quelques ann�es avant que
+Shakspeare compos�t la sienne, et � laquelle Shakspeare pourrait bien
+avoir emprunt� quelques id�es. Cette trag�die finit � la mort de C�sar,
+que l'auteur a mise en r�cit. Un docteur Richard Eedes, c�l�bre de son
+temps comme po�te tragique, avait fait en latin une pi�ce sur le m�me
+sujet, imprim�e, dit-on, en 1582, mais qui n'a pas �t� retrouv�e, non
+plus qu'une pi�ce anglaise intitul�e _The history of C�sar and Pompey_,
+ant�rieure � l'ann�e 1579. On imprima � Londres, en 1607, une pi�ce
+intitul�e _The trag�die of C�sar and Pompey, or C�sar's revenge_. Cette
+pi�ce, qui comprend depuis la bataille de Pharsale jusqu'� celle
+de Philippes inclusivement, avait �t� repr�sent�e sur un th��tre
+particulier, par quelques �tudiants d'Oxford; on suppose qu'elle fut
+imprim�e � l'occasion de la repr�sentation et du succ�s de celle de
+Shakspeare, que la chronologie de M. Malone rapporte � cette m�me ann�e
+1607.
+
+Le _Jules C�sar_ a �t� repr�sent�, corrig� par Dryden et Davenant, sous
+le titre de _Julius C�sar, with the death of Brutus_, imprim� � Londres
+en 1719.
+
+Le duc de Buckingham a aussi retravaill� cette m�me trag�die qu'il a
+s�par�e en deux parties, la premi�re sous le titre de _Julius C�sar,_
+avec des changements, un prologue et un choeur; la seconde sous le
+titre de _Marcus Brutus_, avec un prologue et deux choeurs; toutes deux
+imprim�es en 1722.
+
+
+
+
+                             JULES C�SAR
+
+                              TRAG�DIE
+
+
+
+PERSONNAGES
+
+  JULES C�SAR.
+
+  OCTAVE C�SAR,      ) triumvirs
+  MARC-ANTOINE,      ) ap. la mort
+  M.EMILIUS LEPIDUS, ) de C�sar.
+
+  PUBLIUS,       )
+  POPILIUS L�NA, ) s�nateurs
+  CICERON.       )
+
+  BRUTUS,           )
+  CASSIUS,          )
+  CASCA,            )
+  TREBONIUS,        ) conjur�s
+  LIGARIUS,         ) contre
+  DECIUS BRUTUS[1]  ) Jules C�sar.
+  METELLUS CIMBER,  )
+  CINNA.            )
+
+  FLAVIUS    )
+  MARULLUS   ) tribuns du peuple.
+
+  LUCILIUS         )
+  TITINIUS         )
+  MESSALA          ) amis de Brutus
+  Le jeune CATON,  ) et de Cassius.
+  VOLUMNIUS        )
+
+  ARTEMIDORE, sophiste ou rh�teur de Guide.
+
+  Un devin.
+  CINNA, po�te.
+  Un autre Po�te.
+
+  VARRON,     )
+  CLITUS,     ) serviteurs de Brutus
+  CLAUDIUS,   ) ou Romains attach�s
+  STRATON,    ) � lui.
+  LUCIUS,     )
+  DARDANIUS,  )
+
+  PINDARUS, esclave de Cassius.
+
+  CALPHURNIA, femme de C�sar.
+  PORCIA, femme de Brutus.
+  S�NATEURS, CITOYENS, GARDES ET SUITE.
+
+
+La sc�ne, pendant la plus grande partie de la pi�ce, est � Rome, ensuite
+� Sardes et pr�s de Philippes.
+
+[Note 1: Ce conjur� s'appelait non pas _D�cius_, mais _D�cimus
+Brutus_ surnomm� _Albinus_. C'est de lui que Plutarque dit, dans la
+Vie de Brutus, qu'on s'ouvrit � lui de la conjuration, �non qu'il f�t
+autrement homme � la main, ou vaillant de sa personne, mais parce
+qu'il pouvoit beaucoup � cause d'un grand nombre de serfs escrimans �
+oultrance qu'il nourrissoit pour donner au peuple le passe-temps de les
+voir combattre; joint aussi qu'il avoit cr�dit alentour de C�sar.� Il
+dit ailleurs que C�sar avait tant de confiance en ce D�cimus Brutus
+qu'il l'avait nomm� son second h�ritier. Ce fut lui qui, le jour de
+sa mort, alla le chercher et le d�cida � se rendre au s�nat, malgr�
+Calphurnia et les augures.]
+
+
+
+
+ACTE PREMIER
+
+
+
+SC�NE I
+
+
+Rome.--Une rue.
+
+_Entrent_ FLAVIUS ET MARULLUS, _et une multitude de citoyens des basses
+classes_.
+
+FLAVIUS.--Hors d'ici, rentrez, fain�ans; rentrez chez vous. Est-ce
+aujourd'hui f�te? Quoi! ne savez-vous pas que vous autres artisans vous
+ne devez circuler dans les rues les jours ouvrables qu'avec les signes
+de votre profession?--Parle, quel est ton m�tier?
+
+PREMIER CITOYEN.--Moi, monsieur? charpentier.
+
+MARULLUS.--O� sont ton tablier de cuir et ta r�gle? Que fais-tu ici avec
+ton habit des jours de f�tes?--Et vous, s'il vous pla�t, quel est votre
+m�tier?
+
+SECOND CITOYEN.--Pour dire vrai, monsieur, en fait d'ouvrage fin, je ne
+suis pas autre chose que comme qui dirait un savetier.
+
+MARULLUS.--Mais quel est ton m�tier? R�ponds-moi tout de suite.
+
+SECOND CITOYEN.--Un m�tier, monsieur, que je crois pouvoir faire en
+s�ret� de conscience: je remets en �tat les �mes[2] qui ne valent rien.
+
+[Note 2: _Soals_, semelles; dans l'ancienne �dition, _souls_, �mes.
+Ces deux mots se prononcent de m�me, et c'est l�-dessus que roule
+la plaisanterie du savetier; la correction faite dans les �ditions
+subs�quentes ne me para�t pas heureuse, car si le cordonnier disait que
+son m�tier est de raccommoder les mauvaises semelles; _bad soals_, il
+serait �trange que Marullus ne le compr�t pas sur-le-champ. Le mot
+_souls_ m'aurait donc paru plus convenable � laisser dans le texte.
+Quant � la traduction, il s'est trouv�, par un bonheur qui n'est pas
+commun lorsqu'il s'agit de rendre un calembour, que, dans l'argot du
+cordonnier, une partie de la botte s'appelle _�me_; ce qui a donn�
+le moyen de rendre ce jeu de mots avec une fid�lit� qu'il n'est pas
+possible de promettre toujours.]
+
+MARULLUS.--Quel est ton m�tier, maraud, mauvais dr�le, ton m�tier?
+
+SECOND CITOYEN.--Monsieur, je vous en prie, que je ne vous fasse pas
+ainsi sortir de votre caract�re[3]. Cependant, si vous en sortiez par
+quelque bout, monsieur, je pourrais vous remettre en �tat.
+
+[Note 3: _Be not out with me, yet if you be out_.--_To be out_
+signifie �galement �tre de mauvaise humeur et avoir un v�tement
+d�chir�.]
+
+MARULLUS.--Qu'entends-tu par l�? Me remettre en �tat, insolent?
+
+SECOND CITOYEN.--Sans difficult�, monsieur, vous _resaveter._
+
+MARULLUS.--Tu es donc savetier? L'es-tu?
+
+SECOND CITOYEN.--Bien vrai, monsieur, je n'ai pour vivre que mon al�ne.
+Je n'entre pas, moi, dans les affaires de commerce, dans les affaires de
+femmes; je n'entre qu'avec mon al�ne [4] Au fait, monsieur, je suis un
+chirurgien de vieux souliers: quand ils sont presque perdus, je les
+recouvre [5]; et on a vu bien des gens, je dis des meilleurs qui aient
+jamais march� sur peau de b�te, faire leur chemin sur de l'ouvrage de ma
+fa�on[6].
+
+[Note 4: _I meddle with no tradesman's matters, nor women's matters,
+but with awl, with all_ ou _withal_, jeu de mots qu'on n'a pu rendre,
+mais qu'on a t�ch� de suppl�er, parce qu'il est dans le caract�re du
+personnage.]
+
+[Note 5: _When they are in great danger I recover them. Recover_,
+recouvrir, _recover_, gu�rir, sauver, recouvrer.]
+
+[Note 6: Cette derni�re phrase est omise dans la traduction qu'a
+faite Voltaire des trois premiers actes de Jules C�sar. Voltaire ayant
+donn� cette traduction comme exacte, on rel�vera quelques-unes de ses
+nombreuses inexactitudes.]
+
+FLAVIUS.--Mais pourquoi n'es-tu pas dans ta boutique aujourd'hui?
+pourquoi m�nes-tu tous ces gens-l� courir les rues?
+
+SECOND CITOYEN.--Vraiment, monsieur, pour user leurs souliers, afin de
+me procurer plus d'ouvrage.--Mais s�rieusement, monsieur, nous nous
+sommes mis en f�te pour voir C�sar, et nous r�jouir de son triomphe.
+
+MARULLUS.--Vous r�jouir! et de quoi? quelles conqu�tes vient-il vous
+rapporter? Quels nouveaux tributaires le suivent � Rome pour orner,
+encha�n�s, les roues de son char? B�ches, pierres que vous �tes, vous
+�tes pires que les choses insensibles! O coeurs durs, cruels enfants
+de Rome, n'avez-vous point connu Pomp�e? Bien des fois, bien souvent,
+n'�tes-vous pas mont�s sur les murailles et les cr�neaux, sur les
+fen�tres et les tours, jusque sur le haut des chemin�es, vos enfants
+dans vos bras; et l�, patiemment assis, n'attendiez-vous pas tout le
+long du jour pour voir le grand Pomp�e traverser les rues de Rome; et
+de si loin que vous voyiez para�tre son char, le cri universel de vos
+acclamations ne faisait-il pas trembler le Tibre au plus profond de
+son lit, de l'�cho de vos voix r�p�t� sous ses rivages caverneux? Et
+aujourd'hui vous prenez vos plus beaux v�tements, et vous choisissez
+ce jour pour un jour de f�te! et aujourd'hui vous semez de fleurs
+le passage de l'homme qui vient � vous triomphant du sang de
+Pomp�e![7].--Allez-vous-en.--Courez � vos maisons, tombez � genoux,
+priez les dieux de suspendre l'in�vitable fl�au pr�s d'�clater sur cette
+ingratitude.
+
+[Note 7: Apr�s la victoire remport�e en Espagne sur les enfants
+de Pomp�e. C'�tait la premi�re fois que Rome voyait triompher d'une
+victoire remport�e sur des Romains, et ce fut ce qui commen�a �
+indisposer fortement contre C�sar. Shakspeare place ce triomphe le jour
+de cette f�te des Lupercales, o� Antoine offrit la couronne � C�sar, ce
+qui n'eut lieu que plus d'un an apr�s. Il fait de m�me des Lupercales la
+veille des ides de mars, quoique les Lupercales se c�l�brassent vers le
+milieu de f�vrier et que les ides fussent le 15 mars.
+
+Voltaire n'a pas bien compris ce passage, et a cru que C�sar triomphait
+de la bataille de Pharsale.
+
+  Quoi vous couvrez de fleurs le chemin d'un coupable,
+  Du vainqueur de Pomp�e encor teint de son sang!]
+
+FLAVIUS.--Allez, allez, bons compatriotes; et pour expier votre faute,
+assemblez tous les pauvres gens de votre sorte, conduisez-les au bord du
+Tibre; et l�, pleurez dans son canal tout ce que vous avez de larmes,
+jusqu'� ce que ses eaux, � l'endroit le plus enfonc� de son cours,
+caressent le point le plus �lev� de son rivage. _(Les citoyens
+sortent.)_ Voyez si cette mati�re grossi�re n'a pas �t� �mue: ils
+disparaissent la langue encha�n�e par le sentiment de leur tort.--Vous,
+descendez cette rue qui m�ne au Capitole; moi, je vais suivre ce chemin.
+D�pouillez les statues si vous les trouvez par�es d'ornements de f�te.
+
+MARULLUS.--Le pouvons-nous? Vous savez que c'est aujourd'hui la f�te des
+Lupercales.
+
+FLAVIUS.--N'importe, ne souffrons pas qu'aucune statue porte les
+troph�es de C�sar[8]. Je vais parcourir ces quartiers et chasser
+le peuple des rues; faites-en de m�me partout o� vous le trouverez
+attroup�. Ces plumes naissantes arrach�es de l'aile de C�sar ne le
+laisseront voler qu'� la hauteur ordinaire; autrement dans son essor, il
+s'�l�verait trop haut pour �tre vu des hommes, et nous tiendrait tous
+dans un servile effroi.
+
+(Ils sortent.)
+
+[Note 8: Ce ne fut point � ce moment, mais apr�s que la couronne e�t
+�t� offerte � C�sar, que Flavius et Marullus d�pouill�rent ses statues
+non pas d'ornements triomphaux, mais des diad�mes dont quelques-unes
+avaient �t� couronn�es.]
+
+
+
+SC�NE II
+
+
+Toujours � Rome.--Une place publique.
+
+_Entrent en procession et avec la musique_ C�SAR, ANTOINE _pr�par�
+pour la course;_ CALPHURNIA, PORCIA, D�CIUS, CIC�RON, BRUTUS, CASSIUS,
+CASCA.--Ils sont suivis d'une grande multitude dans laquelle se trouve
+un devin.
+
+C�SAR.--Calphurnia!
+
+CASCA.--Hol�! silence! C�sar parle[9].
+
+(La musique cesse.)
+
+[Note 9: Voltaire, _paix, messieurs_; le mot _messieurs_, qu'il
+attribue ici � C�sar, n'a aucun �quivalent dans l'original. Voltaire
+traduit aussi constamment le _my lord_ par _mylord_, qui n'en est point
+la traduction. _Mylord_ n'est qu'une application particuli�re que les
+Anglais font du mot de _lord_ � la dignit� de pair, et qui n'affecte en
+rien la signification g�n�rale de ce mot, consacr� en anglais � exprimer
+toutes les sortes de dominations et de dignit�s, en sorte qu'� moins
+qu'il ne s'applique � des pairs d'Angleterre, il doit �tre traduit,
+comme tous les autres mots de la langue, par un �quivalent fran�ais.]
+
+C�SAR.--Calphurnia!
+
+CALPHURNIA.--Me voici, mon seigneur.
+
+C�SAR.--Ayez soin de vous tenir sur le passage d'Antoine, quand il
+courra.--Antoine!
+
+ANTOINE.--C�sar, mon seigneur.
+
+C�SAR.--N'oubliez pas en courant, Antoine, de toucher Calphurnia; car
+nos anciens disent que les femmes inf�condes, en se faisant toucher dans
+cette sainte course, secouent la mal�diction qui les rendait st�riles.
+
+ANTOINE.--Je m'en souviendrai. Quand C�sar dit: _Faites cela_, cela est
+fait.
+
+C�SAR.--Partez, et n'omettez aucune c�r�monie.
+
+(Musique.)
+
+LE DEVIN.--C�sar!
+
+C�SAR.--Ha! qui m'appelle?
+
+CASCA, _s'adressant � ceux qui l'environnent._--Commandez que tout bruit
+cesse. Encore une fois, silence!
+
+(La musique s'arr�te.)
+
+C�SAR.--Qui est-ce, dans la foule, qui m'appelle ainsi? J'entends une
+voix, plus per�ante que tous les instruments de musique crier _C�sar!_
+Parle, C�sar se tourne pour entendre.
+
+LE DEVIN.--Prends garde aux ides de mars.
+
+C�SAR.--Quel est cet homme?
+
+BRUTUS.--Un devin qui vous avertit de prendre garde aux ides de mars.
+
+C�SAR.--Amenez-le devant moi, que je voie son visage.
+
+CASCA.--Mon ami, sors de la foule, regarde C�sar.
+
+C�SAR.--Qu'as-tu � me dire maintenant? R�p�te encore.
+
+LE DEVIN.--Prends garde aux ides de mars.
+
+C�SAR.--C'est un visionnaire; laissons-le, passons.
+
+(Les musiciens ex�cutent un morceau.)
+
+(Tous sortent, except� Brutus et Cassius.)
+
+CASSIUS.--Irez-vous voir l'ordre de la course?
+
+BRUTUS.--Moi? non.
+
+CASSIUS.--Je vous en prie, allez-y.
+
+BRUTUS.--Je ne suis point un homme de divertissements; je n'ai pas tout
+� fait la vivacit� d'Antoine. Que je ne vous emp�che pas, Cassius, de
+suivre votre intention; je vais vous laisser.
+
+CASSIUS.--Brutus, je vous observe depuis quelque temps: je ne re�ois
+plus de vos yeux ces regards de douceur, ces signes d'affection que
+j'avais coutume d'en recevoir. Vous tenez envers votre ami, qui vous
+aime, une conduite trop froide et trop peu cordiale.
+
+BRUTUS.--Ne vous y trompez point, Cassius: si mon regard s'est voil�,
+ce trouble de mon maintien ne porte que sur moi-m�me. Je suis tourment�
+depuis quelque temps de sentiments qui se contrarient, d'id�es qui
+ne concernent que moi, et donnent peut-�tre quelque bizarrerie � mes
+mani�res: mais que mes bons amis, au nombre desquels je vous compte,
+Cassius, n'en soient donc pas afflig�s, et ne voient rien de plus dans
+cette n�gligence, sinon que ce pauvre Brutus, en guerre avec lui-m�me,
+oublie de donner aux autres des t�moignages de son amiti�[10].
+
+[Note 10: Traduction de Voltaire:
+
+  Vous vous �tes tromp�: quelques ennuis secrets,
+  Des chagrins peu connus, ont chang� mon visage;
+  Ils me regardent seul et non pas mes amis.
+  Non, n'imaginez point que Brutus vous n�glige:
+  Plaignez plut�t Brutus en guerre avec lui-m�me:
+  J'ai l'air indiff�rent, mais mon coeur ne l'est pas.]
+
+CASSIUS.--Alors je me suis bien tromp�, Brutus, sur le sujet de vos
+peines, et cela m'a fait ensevelir dans mon sein des pens�es d'un haut
+prix, d'honorables m�ditations. Dites-moi, digne Brutus, pouvez-vous
+voir votre propre visage?
+
+BRUTUS.--Non, Cassius; car l'oeil ne peut se voir lui-m�me, si ce n'est
+par r�flexion, au moyen de quelque autre objet.
+
+CASSIUS.--Cela est vrai, et l'on d�plore beaucoup, Brutus, que vous
+n'ayez pas de miroirs qui puissent r�fl�chir � vos yeux votre m�rite
+cach� pour vous, qui vous fassent voir votre image. J'ai entendu
+plusieurs des citoyens les plus consid�r�s de Rome (sauf l'immortel
+C�sar) parler de Brutus; et, g�missant sous le joug qui opprime notre
+g�n�ration, ils souhaitaient que le noble Brutus f�t usage de ses yeux.
+
+BRUTUS.--Dans quels p�rils pr�tendez-vous m'entra�ner, Cassius, en me
+pressant de chercher en moi-m�me ce qui n'y est pas.
+
+CASSIUS.--Brutus, pr�parez-vous � m'�couter; et puisque vous savez que
+vous ne pouvez pas vous voir vous-m�me aussi bien que par la r�flexion,
+moi, votre miroir, je vous d�couvrirai modestement les parties de
+vous-m�me que vous ne connaissez pas encore. Et ne vous m�fiez pas de
+moi, excellent Brutus: si je suis un railleur de profession, si j'ai
+coutume de faire avec les serments ordinaires, �talage de mon amiti� �
+tous ceux qui viennent me protester de la leur, si vous savez que
+je courtise les hommes et les �touffe de caresses pour les d�chirer
+ensuite, ou que dans la chaleur des festins je fais des d�clarations
+d'amiti� � toute la salle, alors tenez-moi pour dangereux.
+
+(On entend des trompettes et une acclamation.)
+
+BRUTUS.--Qu'annonce cette acclamation? Je crains que ce peuple n'adopte
+C�sar pour roi.
+
+CASSIUS.--Oui? le craignez-vous?--Je dois donc penser que vous ne
+voudriez pas qu'il le f�t.
+
+BRUTUS.--Je ne le voudrais pas, Cassius; cependant je l'aime
+beaucoup.--Mais pourquoi me retenez-vous si longtemps? de quoi
+d�sirez-vous me faire part? Si c'est quelque chose qui tende au
+bien public, placez devant mes yeux l'honneur d'un c�t�, la mort de
+l'autre[11], et je les regarderai tous deux indiff�remment; car je
+demande aux dieux de m'�tre aussi propices, qu'il est vrai que j'aime ce
+qui s'appelle honneur plus que je ne crains la mort.
+
+[Note 11: _Set honour in one eye, and death i' the other._
+
+Voltaire a traduit:
+
+  La gloire dans un oeil, et le tr�pas dans l'autre.
+
+_Eye_ veut dire ici _point de vue_; il est continuellement employ� en
+anglais dans ce sens.]
+
+CASSIUS.--Je vous connais cette vertu, Brutus, tout aussi bien que je
+connais le charme de vos mani�res. Eh bien! l'honneur est le sujet de ce
+que j'ai � vous exposer. Je ne puis dire ce que vous et d'autres hommes
+pensent de cette vie; mais pour moi, j'aimerais autant ne pas �tre que
+de vivre dans la crainte et le respect devant un �tre semblable � moi.
+Je suis n� libre comme C�sar; vous aussi; nous avons tous deux profit�
+de m�me; tous deux nous pouvons aussi bien que lui soutenir le froid de
+l'hiver.--Dans un jour brumeux et orageux o� le Tibre agit� s'irritait
+contre ses rivages, C�sar me dit: �Oses-tu, Cassius, t'�lancer avec moi
+dans ce courant furieux, et nager jusque l�-bas?�--� ce seul mot, v�tu
+comme j'�tais, je plongeai dans le fleuve, en le sommant de me suivre.
+En effet, il me suivit: le torrent rugissait; nous le battions de nos
+muscles nerveux, rejetant ses eaux des deux c�t�s et coupant le courant
+d'un coeur anim� par la dispute. Mais avant que nous eussions atteint
+le but marqu�, C�sar s'�crie: �Secours-moi, Cassius, ou je p�ris.� Moi,
+comme �n�e notre grand anc�tre emporta sur son �paule le vieux Anchise
+hors des flammes de Troie, j'emportai hors des vagues du Tibre C�sar
+�puis�: et cet homme aujourd'hui est devenu un dieu, et Cassius n'est
+qu'une mis�rable cr�ature, et il faut que son corps se courbe si C�sar
+daigne seulement le saluer d'un signe de t�te n�gligent!--En Espagne,
+il eut la fi�vre, et pendant l'acc�s je fus frapp� de voir comme il
+tremblait. Rien n'est plus vrai, je vis ce dieu trembler: ses l�vres
+poltronnes avaient fui leurs couleurs; et ce m�me oeil, dont le regard
+seul impose au monde, avait perdu son �clat. Je l'entendis g�mir, oui,
+en v�rit�; et cette langue qui commande aux Romains de l'�couter et de
+d�poser ses paroles dans leurs annales[12], criait: �H�las! Titinius,
+donne-moi � boire,� comme l'aurait fait une petite fille malade. Dieux
+que j'atteste, je me sens confondu qu'un homme si faible de temp�rament
+prenne les devants sur ce monde majestueux, et seul remporte la palme.
+
+(Acclamation, fanfare.)
+
+[Note 12: Voltaire s'est ici tout � fait m�pris sur le sens; il
+traduit ainsi:
+
+  Et cette m�me voix qui commande � la terre,
+  Cette terrible voix (remarque bien, Brutus,
+  Remarque, et que ces mots soient �crits dans tes livres)]
+
+BRUTUS.--Encore une acclamation! Sans doute ces applaudissements
+annoncent de nouveaux honneurs qu'on accumule sur la t�te de C�sar.
+
+CASSIUS.--Eh quoi! mon cher, il foule comme un colosse cet �troit
+univers, et nous autres petits bonshommes nous circulons entre ses
+jambes �normes, cherchant de tous c�t�s o� nous pourrons trouver � la
+fin d'ignominieux tombeaux. Les hommes, � de certains moments, sont
+ma�tres de leur sort; et si notre condition est basse, la faute, cher
+Brutus, n'en est pas � nos �toiles; elle en est � nous-m�mes. Brutus et
+C�sar.... Qu'y a-t-il donc dans ce C�sar? Pourquoi ferait-on r�sonner
+ce nom plus que le v�tre? �crivez-les ensemble, le v�tre est tout aussi
+beau; prononcez-les, il remplit tout aussi bien la bouche; pesez-les,
+son poids sera le m�me; employez-les pour une conjuration, Brutus
+�voquera aussi facilement un esprit que C�sar. Maintenant dites-moi,
+au nom de tous les dieux ensemble, de quelle viande se nourrit donc ce
+C�sar d'aujourd'hui pour �tre devenu si grand? Si�cle, tu es d�shonor�!
+Rome, tu as perdu la race des nobles courages! Quel si�cle s'est �coul�
+depuis le grand d�luge, qui ne se soit enorgueilli que d'un seul homme?
+A-t-on pu dire, jusqu'� ce jour, en parlant de Rome, que ses vastes murs
+n'enfermaient qu'un seul homme? C'est bien toujours Rome, en v�rit�, et
+la place n'y manque pas, puisqu'il n'y a qu'un seul homme[13]. Oh! vous
+et moi nous avons ou� dire � nos p�res qu'il fut jadis un Brutus qui e�t
+aussi ais�ment souffert dans Rome le tr�ne du d�mon �ternel que celui
+d'un roi.
+
+[Note 13:_Now it is Rome indeed, and room enough
+         When there is in it but one only man._
+
+  _Room_, place, lieu, endroit, se prononce � peu pr�s comme _Rome_.
+  C'est tout au plus si on a pu dans la traduction donner un sens �
+  cette phrase, qui, dans l'original, n'en a absolument que par le
+  calembour.]
+
+BRUTUS.--Que vous m'aimiez, Cassius, je n'en doute point. Ce que vous
+voudriez que j'entreprisse, je crois le deviner: ce que j'ai pens� sur
+tout cela, et ce que je pense du temps o� nous vivons, je le dirai plus
+tard. Quant � pr�sent, je d�sire n'�tre pas press� davantage; je vous le
+demande au nom de l'amiti�. Ce que vous m'avez dit, je l'examinerai.
+Ce que vous avez � me dire encore, je l'�couterai avec patience, et je
+trouverai un moment convenable pour vous �couter et r�pondre sur de si
+hautes mati�res. Jusque-l�, mon noble ami, m�ditez sur ceci: Brutus
+aimerait mieux �tre un villageois que de se compter pour un enfant de
+Rome aux dures conditions que ce temps doit probablement nous imposer.
+
+CASSIUS.--Je suis bien aise que le choc de mes faibles paroles ait du
+moins fait jaillir cette �tincelle de l'�me de Brutus.
+
+(Rentrent C�sar et son cort�ge.)
+
+BRUTUS.--Les jeux sont termin�s; C�sar revient.
+
+CASSIUS.--Quand ils passeront pr�s de nous, retenez Casca par la manche;
+et il vous racontera de son ton bourru tout ce qui s'est aujourd'hui
+pass� de remarquable.
+
+BRUTUS.--Oui, je le ferai. Mais regardez, Cassius: la teinte de la
+col�re enflamme le front de C�sar, et tout le reste a l'air d'une troupe
+de serviteurs r�primand�s. Les joues de Calphurnia sont p�les; Cic�ron
+a ce regard fureteur et flamboyant que nous lui avons vu au Capitole,
+lorsque dans nos d�bats il �tait contredit par quelques s�nateurs.
+
+CASSIUS.--Casca nous dira de quoi il s'agit.
+
+C�SAR.--Antoine!
+
+ANTOINE.--C�sar.
+
+C�SAR.--Que j'aie toujours autour de moi des hommes gras et � la face
+brillante, des gens qui dorment la nuit. Ce Cassius l�-bas a un visage
+h�ve et d�charn�; il pense trop. De tels hommes sont dangereux.
+
+ANTOINE.--Ne le crains pas, C�sar; il n'est pas dangereux. C'est un
+noble Romain et bien intentionn�.
+
+C�SAR.--Je voudrais qu'il f�t plus gras, mais je ne le crains pas.
+Cependant si quelque chose en moi pouvait �tre sujet � la crainte, je ne
+conna�trais point d'homme que je voulusse �viter avec plus de soin que
+ce maigre Cassius. Il lit beaucoup, il est grand observateur et p�n�tre
+jusqu'au fond des actions des hommes. Il n'a point comme toi le go�t
+des jeux, Antoine; on ne le voit point �couter de musique. Rarement il
+sourit, et il sourit alors de telle sorte qu'il a l'air de se moquer de
+lui-m�me, et de d�daigner son propre esprit parce qu'il a pu se laisser
+�mouvoir � sourire de quelque chose. Les hommes de ce caract�re n'ont
+jamais le coeur � l'aise tant qu'ils en voient un autre plus �lev�
+qu'eux; et voil� ce qui les rend si dangereux. Je te dis ce qui est �
+craindre plut�t que ce que je crains, car je suis toujours C�sar. Passe
+� ma droite, j'ai cette oreille dure, et dis-moi franchement ce que tu
+penses de lui.
+
+(C�sar sort avec son cort�ge.)
+
+(Casca demeure en arri�re.)
+
+CASCA.--Vous m'avez tir� par mon manteau. Voudriez-vous me parler?
+
+BRUTUS.--Oui, Casca. Dites-nous, que s'est-il donc pass� aujourd'hui,
+que C�sar ait l'air si triste?
+
+CASCA.--Quoi! vous �tiez � sa suite. N'y �tiez-vous pas?
+
+BRUTUS.--Je ne demanderais pas alors � Casca ce qui s'est pass�.
+
+CASCA.--Eh bien! on lui a offert une couronne; et quand on la lui a
+offerte, il l'a repouss�e ainsi du revers de la main. Alors tout le
+peuple a pouss� de grands cris.
+
+BRUTUS.--Et la seconde acclamation, quelle en �tait la cause?
+
+CASCA.--Mais c'�tait encore pour cela.
+
+CASSIUS.--Il y a eu trois acclamations. Pourquoi la derni�re?
+
+CASCA.--Pourquoi? pour cela encore.
+
+BRUTUS.--Est-ce que la couronne lui a �t� offerte trois fois?
+
+CASCA.--Eh! vraiment oui, et trois fois il l'a repouss�e, mais chaque
+fois plus doucement que la pr�c�dente; et, � chacun de ses refus, mes
+honn�tes voisins se remettaient � crier.
+
+CASSIUS.--Qui lui offrait la couronne?
+
+CASCA.--Qui? Antoine.
+
+BRUTUS.--Dites-nous: de quelle mani�re l'a-t-il offerte, cher Casca?
+
+CASCA.--Que je sois pendu si je puis vous dire la mani�re. C'�tait une
+vraie momerie; je n'y faisais pas attention. J'ai vu Marc-Antoine lui
+pr�senter une couronne: ce n'�tait pourtant pas non plus tout � fait une
+couronne; c'�tait une esp�ce de diad�me[14]; et comme je vous l'ai dit,
+il l'a repouss� une fois. Mais malgr� tout cela, j'ai dans l'id�e qu'il
+aurait bien voulu l'avoir.--Alors Antoine la lui offre encore,--et alors
+il la refuse encore,--mais j'ai toujours dans l'id�e qu'il avait bien
+de la peine � en d�tacher ses doigts.--Et alors il la lui offre une
+troisi�me fois.--La troisi�me fois encore il la repousse; et � chacun de
+ses refus, la populace jetait des cris de joie: ils applaudissaient de
+leurs mains toutes taillad�es; ils faisaient voler leurs bonnets de
+nuit tremp�s de sueur; et parce que C�sar refusait la couronne, ils
+exhalaient en telles quantit�s leurs puantes haleines, que C�sar en a
+presque �t� suffoqu�. Il s'est �vanoui, et il est tomb�; et pour ma part
+je n'osais pas rire, de crainte, en ouvrant la bouche, de recevoir le
+mauvais air.
+
+[Note 14: L'original dit _coronet_, ce qui signifie, non pas, comme
+l'a dit Voltaire, les _coronets_ des pairs d'Angleterre, mais quelque
+chose qui para�t � Casca un peu diff�rent d'une couronne.]
+
+CASSIUS.--Mais un moment, je vous en prie. Quoi! C�sar s'est �vanoui?
+
+CASCA.--Il est tomb� au milieu de la place du march�; il avait l'�cume �
+la bouche et ne pouvait parler.
+
+BRUTUS.--Cela n'est point surprenant; il tombe du haut mal.
+
+CASSIUS.--Non, ce n'est point C�sar; c'est vous, c'est moi et l'honn�te
+Casca, qui tombons du haut mal.
+
+CASCA.--Je ne sais ce que vous entendez par l�; mais il est certain que
+C�sar est tomb�. Si cette canaille en haillons ne l'a pas claqu� et
+siffl�, selon que sa conduite leur plaisait ou d�plaisait, comme ils ont
+coutume de faire aux acteurs sur le th��tre, je ne suis pas un honn�te
+homme.
+
+BRUTUS.--Qu'a-t-il dit en revenant � lui?
+
+CASCA.--Eh! vraiment, avant de s'�vanouir, quand il a vu ce troupeau de
+pl�b�iens se r�jouir de ce qu'il refusait la couronne, il vous a ouvert
+son habit et leur a offert sa poitrine � percer. Pour peu que j'eusse
+�t� un de ces ouvriers, si je ne l'avais pas pris au mot, je veux aller
+en enfer avec les coquins. Et alors il est tomb�. Lorsqu'il est revenu �
+lui, il a dit �que s'il avait fait ou dit quelque chose de d�plac�,
+il priait leurs Excellences de l'attribuer � son infirmit�.� Trois ou
+quatre cr�atures autour de moi se sont �cri�es: �H�las! la bonne �me!�
+Elles lui ont pardonn� de tout leur coeur, mais il n'y a pas � y faire
+grande attention. C�sar e�t �gorg� leurs m�res, qu'ils en auraient dit
+autant.
+
+BRUTUS.--Et c'est apr�s cela qu'il est revenu si chagrin?
+
+CASCA.--Oui.
+
+CASSIUS.--Cic�ron a-t-il dit quelque chose?
+
+CASCA.--Oui, il a parl� grec.
+
+CASSIUS.--Dans quel sens?
+
+CASCA.--Ma foi, si je peux vous le dire, que je ne vous regarde jamais
+en face[15]. Ceux qui l'ont compris souriaient l'un � l'autre en secouant
+la t�te; mais pour ma part, je n'y entendais que du grec. Je puis vous
+dire encore d'autres nouvelles. Flavius et Marullus, pour avoir �t�
+les ornements qu'on avait mis aux statues de C�sar, sont r�duits au
+silence[16]. Adieu; il est bien d'autres choses absurdes, si je pouvais
+m'en souvenir.
+
+[Note 15: Traduction de Voltaire:
+
+�Ma foi, je ne sais, je ne pourrai plus gu�re vous regarder en face.�
+C'est un contre-sens.]
+
+[Note 16: Ce fut plus tard, et pour avoir, comme on l'a d�j� dit,
+arrach� les diad�mes plac�s sur quelques-unes des statues de C�sar.
+Ils avaient aussi reconnu et fait arr�ter quelques-uns des hommes qui,
+apost�s par Antoine, avaient applaudi lorsqu'il avait pr�sent� la
+couronne � C�sar.]
+
+CASSIUS.--Voulez-vous souper ce soir avec moi, Casca?
+
+CASCA.--Non, je suis engag�.
+
+CASSIUS.--Demain, voulez-vous que nous d�nions ensemble?
+
+CASCA.--Oui, si je suis vivant, si vous ne changez pas d'avis, et si
+votre d�ner vaut la peine d'�tre mang�.
+
+CASSIUS.--Il suffit: je vous attendrai.
+
+CASCA.--Attendez-moi. Adieu tous deux.
+
+(Il sort.)
+
+BRUTUS.--Qu'il s'est abruti en prenant des ann�es! Lorsque nous le
+voyions � l'�cole, c'�tait un esprit plein de vivacit�.
+
+CASSIUS.--Et malgr� les formes pesantes qu'il affecte, il est le m�me
+encore lorsqu'il s'agit d'ex�cuter quelque entreprise noble et hardie.
+Cette rudesse sert d'assaisonnement � son esprit; elle r�veille le go�t,
+et fait dig�rer ses paroles de meilleur app�tit.
+
+BRUTUS.--Il est vrai. Pour le moment je vais vous laisser. Demain, si
+vous voulez que nous causions ensemble, j'irai vous trouver chez vous;
+ou, si vous l'aimez mieux, venez chez moi, je vous y attendrai.
+
+CASSIUS.--Volontiers, j'irai. D'ici l�, songez � l'univers. (_Brutus
+sort._) Bien, Brutus, tu es g�n�reux; et, cependant, je le vois, le
+noble m�tal dont tu es form� peut �tre travaill� dans un sens contraire
+� celui o� le porte sa disposition naturelle. Il est donc convenable
+que les nobles esprits se tiennent toujours dans la soci�t� de leurs
+semblables; car, quel est l'homme si ferme qu'on ne puisse le s�duire?
+C�sar ne peut me souffrir, mais il aime Brutus. Si j'�tais Brutus
+aujourd'hui, et que Brutus f�t Cassius, C�sar n'aurait pas d'empire sur
+moi.--Je veux cette nuit jeter sur ses fen�tres des billets trac�s en
+caract�res diff�rents, comme venant de divers citoyens et exprimant tous
+la haute opinion que Rome a de lui. J'y glisserai quelques mots obscurs
+sur l'ambition de C�sar; et, apr�s cela, que C�sar se tienne ferme, car
+nous la renverserons, ou nous aurons de plus mauvais jours encore �
+passer[17].
+
+(Il sort.)
+
+[Note 17: Traduction de Voltaire:
+
+  Son joug est trop affreux, songeons � le d�truire,
+  Ou songeons � quitter le jour que je respire.]
+
+
+
+SC�NE III
+
+
+Toujours � Rome.--Une rue.--Tonnerre et �clairs.
+
+_Entrent des deux c�t�s oppos�s_ CASCA, _l'�p�e � la main_, ET CIC�RON.
+
+CIC�RON.--Bonsoir, Casca. Avez-vous reconduit C�sar chez lui? Pourquoi
+�tes-vous ainsi hors d'haleine? Pourquoi ces regards effray�s?
+
+CASCA.--N'�tes-vous pas �mu quand toute la masse de la terre chancelle
+comme une machine mal assur�e? O Cic�ron! j'ai vu des temp�tes o� les
+vents en courroux fendaient les ch�nes noueux; j'ai vu l'ambitieux
+Oc�an s'enfler, s'irriter, �cumer, et s'�lever jusqu'au sein des nues
+mena�antes: mais jamais avant cette nuit, jamais jusqu'� cette heure,
+je ne marchai � travers une temp�te qui se r�pand�t en pluie de feu:
+il faut qu'il y ait guerre civile dans le ciel, ou que le monde, trop
+insolent envers les dieux, les excite � lui envoyer la destruction.
+
+CIC�RON.--Quoi! avez-vous donc vu des choses encore plus merveilleuses?
+
+CASCA.--Un esclave de la plus basse classe, vous le connaissez de vue, a
+lev� la main gauche en l'air, elle a flamb� et br�l� comme vingt torches
+unies; et cependant sa main, insensible � la flamme, est rest�e intacte.
+Outre cela (et depuis mon �p�e n'est pas rentr�e dans le fourreau), pr�s
+du Capitole, j'ai rencontr� un lion, ses yeux reluisants se sont fix�s
+sur moi, puis il a pass� d'un air farouche sans m'inqui�ter; pr�s de l�
+s'�taient attroup�es une centaine de femmes semblables � des spectres,
+tant la peur les avait d�figur�es: elles jurent qu'elles ont vu des
+hommes tout flamboyants errer par les rues; et hier, en plein midi,
+l'oiseau de la nuit s'est �tabli criant et g�missant sur la place du
+march�. Quand tous ces prodiges se rencontrent � la fois, que les
+hommes ne disent pas: �Ils portent en eux-m�mes leurs causes, ils sont
+naturels.� Pour moi, je pense que ce sont des pr�sages mena�ants pour la
+contr�e dans laquelle ils ont eu lieu.
+
+CIC�RON.--En effet, ce temps semble dispos� � d'�tranges �v�nements;
+mais les hommes interpr�tent les choses selon leur sens, tr�s-diff�rent
+peut-�tre de celui dans lequel se dirigent les choses-elles-m�mes. C�sar
+vient-il demain au Capitole?
+
+CASCA.--Il y vient, car il a charg� Antoine de vous faire savoir qu'il y
+serait demain.
+
+CIC�RON--Sur cela, je vous souhaite une bonne nuit, Casca: sous ce ciel
+orageux, il ne fait pas bon se promener dehors.
+
+(Cic�ron sort.)
+
+(Entre Cassius.)
+
+CASCA.--Adieu, Cic�ron!
+
+CASSIUS.--Qui va l�?
+
+CASCA.--Un Romain.
+
+CASSIUS.--C'est la voix de Casca.
+
+CASCA.--Votre oreille est bonne, Cassius, qu'est-ce que c'est qu'une
+nuit pareille?
+
+CASSIUS.--Une nuit agr�able aux honn�tes gens.
+
+CASCA.--Qui a jamais vu les cieux menacer ainsi?
+
+CASSIUS.--Ceux qui ont vu la terre aussi pleine de crimes. Pour moi, je
+me suis promen� le long des rues, m'exposant � cette nuit p�rilleuse;
+et mes v�tements ouverts comme vous le voyez, Casca, j'ai pr�sent� ma
+poitrine nue � la pierre du tonnerre[18]; et lorsque le sillon bleu�tre
+entr'ouvrait le sein du firmament, je me pla�ais dans la direction de
+son trait flamboyant.
+
+[Note 18: _Thunder-stone._ Shakspeare parle encore ailleurs de cette
+_pierre du tonnerre_.]
+
+CASCA.--Mais pourquoi tentiez-vous ainsi les cieux! C'est aux hommes
+� craindre et � trembler quand les dieux tout-puissants envoient en
+t�moignages d'eux-m�mes ces h�rauts formidables pour nous �pouvanter
+ainsi.
+
+CASSIUS.--Vous ne savez pas comprendre, Casca; et ces �tincelles de
+vie que devrait renfermer en lui-m�me un Romain vous manquent, ou vous
+demeurent inutiles. Vous p�lissez, vous paraissez interdit et saisi de
+crainte; vous vous abandonnez � l'�tonnement en voyant cette �trange
+impatience des cieux: mais si vous vouliez remonter � la vraie cause
+et chercher pourquoi tous ces feux, tous ces spectres glissant dans
+l'ombre; pourquoi ces oiseaux, ces animaux qui s'�cartent des lois
+de leur esp�ce; pourquoi ces vieillards imb�ciles, ces enfants qui
+proph�tisent; pourquoi, de leur r�gle ordinaire, de leur nature propre,
+de leur mani�re d'�tre pr�ordonn�e, toutes ces choses passent ainsi �
+une existence monstrueuse; alors vous arriveriez � concevoir que le
+ciel ne leur infuse cet esprit qui les agite que pour en faire des
+instruments de crainte et nous avertir d'une situation monstrueuse.
+Maintenant, Casca, je pourrais te nommer un homme semblable � cette
+effrayante nuit, un homme qui tonne, foudroie, ouvre les tombeaux
+et rugit comme le lion dans le Capitole, un homme qui de sa force
+personnelle n'est pas plus puissant que toi ou moi, et qui cependant est
+devenu prodigieux et terrible comme ces �tranges bouleversements.
+
+CASCA.--C'est de C�sar que vous parlez: n'est-ce pas de lui, Cassius?
+
+CASSIUS.--Qui que ce soit, qu'importe? les Romains d'aujourd'hui sont,
+pour la taille et la force, pareils � leurs anc�tres; mais malheur sur
+notre temps! les �mes de nos p�res sont mortes, et nous ne sommes plus
+gouvern�s que par l'esprit de nos m�res; notre joug et notre patience �
+le souffrir ne font plus voir en nous que des eff�min�s.
+
+CASCA.--En effet, on pr�tend que les s�nateurs se proposent d'�tablir
+demain C�sar pour roi, et qu'il portera sa couronne sur mer, sur terre,
+partout, except� ici, en Italie[19].
+
+[Note 19: Traduction de Voltaire:
+
+  Oui, si l'on m'a dit vrai, demain les s�nateurs
+  Accordent � C�sar ce titre affreux de roi;
+  Et sur terre, et sur mer, il doit porter le sceptre,
+  En tous lieux, hors de Rome, o� d�j� C�sar r�gne.]
+
+CASSIUS.--Moi, je sais alors o� je porterai ce poignard. Cassius
+affranchira Cassius de l'esclavage. C'est par l�, grands dieux, que vous
+donnez de la force aux faibles; c'est par l�, grands dieux, que vous
+d�jouez les tyrans. Ni la tour de pierre, ni les murailles de bronze
+travaill�, ni le cachot priv� d'air, ni les liens de fer massif, ne
+peuvent encha�ner la force de l'�me; mais la vie fatigu�e de ces
+entraves terrestres ne manque jamais du pouvoir de s'en affranchir. Si
+je sais cela, que le monde entier le sache: cette part de tyrannie que
+je porte, je puis � mon gr� la rejeter loin de moi.
+
+CASCA.--Je le puis de m�me, et tout captif porte dans sa main le pouvoir
+d'an�antir sa servitude.
+
+CASSIUS.--Alors, pourquoi donc C�sar serait-il un tyran? Pauvre homme!
+Je sais bien, moi, qu'il ne serait pas un loup s'il ne voyait que
+les Romains sont des brebis; il ne serait pas un lion si les Romains
+n'�taient pas des biches. Qui veut �lever en un instant une flamme
+puissante commence par l'allumer avec de faibles brins de paille. Quel
+amas d'ordures, de d�bris, de pourriture, doit �tre Rome pour fournir le
+vil aliment de la lumi�re qui se r�fl�chit sur un aussi vil objet que
+C�sar! Mais, � douleur! o� m'as-tu conduit? Peut-�tre parl�-je ici � un
+esclave volontaire, et alors je sais que j'aurai � en r�pondre; mais je
+suis arm�, et les dangers me sont indiff�rents.
+
+CASCA.--Vous parlez � Casca, � un homme qui n'est point un impudent
+faiseur de rapports. Voil� ma main, travaillez � redresser tous ces
+abus: Casca posera son pied aussi avant que celui qui ira le plus loin.
+
+CASSIUS.--C'est un trait� conclu. Apprenez maintenant, Casca, que j'ai
+dispos� un certain nombre des plus g�n�reux Romains � entrer avec moi
+dans une entreprise honorable et dangereuse par son importance: dans ce
+moment, je le sais, ils m'attendent sous le portique de Pomp�e, car,
+dans cette effroyable nuit, il n'y a pas moyen de se tenir dehors ni de
+se promener dans les rues; et la face des �l�ments, comme l'oeuvre qui
+repose dans nos mains, est sanglante, enflamm�e et terrible.
+
+(Entre Cinna.)
+
+CASCA.--Mettons-nous un moment � l'�cart; quelqu'un s'avance � grands
+pas.
+
+CASSIUS.--C'est Cinna, je le reconnais � sa d�marche: c'est un
+ami.--Cinna, o� courez-vous ainsi?
+
+CINNA.--Vous chercher.--Qui est-l�? M�tellus Cimber?
+
+CASSIUS.--Non, c'est Casca, un Romain qui fait corps avec nous pour nos
+entreprises. Ne suis-je pas attendu, Cinna?
+
+CINNA.--J'en suis bien aise. Quelle terrible nuit que celle-ci!
+Quelques-uns d'entre nous ont vu d'�tranges ph�nom�nes.
+
+CASSIUS.--Ne suis-je pas attendu? dites-le moi.
+
+CINNA.--Oui, vous l'�tes. O Cassius! si vous pouviez gagner � notre
+parti le noble Brutus!
+
+CASSIUS.--Vous serez content. Cher Cinna, prenez ce papier, ayez soin
+de le placer dans la chaire du pr�teur, de fa�on que Brutus puisse l'y
+trouver. Jetez celui-ci sur sa fen�tre; fixez ce dernier avec de la cire
+sur la statue de Brutus l'ancien. Cela fait, revenez au portique de
+Pomp�e, o� vous nous trouverez. D�cius Brutus et Tr�bonius y sont-ils?
+
+CINNA.--Tous y sont, except� M�tellus Cimber qui est all� vous chercher
+� votre demeure. Moi, je vais me h�ter et distribuer ces papiers comme
+vous me l'avez prescrit.
+
+CASSIUS.--Apr�s cela revenez au th��tre de Pomp�e. (_Cinna sort_.)
+Venez, Casca; vous et moi nous irons avant le jour voir Brutus � son
+logis: il est aux trois quarts � nous, et � la premi�re rencontre
+l'homme tout entier nous appartiendra.
+
+CASCA.--Oh! Brutus est plac� bien haut dans le coeur du peuple; et ce
+qui para�trait en nous un attentat, l'autorit� de son nom, comme la plus
+puissante alchimie, le transformera en m�rite et en vertu.
+
+CASSIUS.--Vous vous �tes form� une juste id�e de lui, de son prix, et de
+l'extr�me besoin que nous avons de lui.--Marchons, car il est plus de
+minuit, et avant le jour nous irons l'�veiller et nous assurer de lui.
+
+(Ils sortent.)
+
+FIN DU PREMIER ACTE.
+
+
+
+
+ACTE DEUXI�ME
+
+
+
+SC�NE I
+
+
+Toujours � Rome.--Les vergers de Brutus.
+
+_Entre_ BRUTUS.
+
+BRUTUS.--Hol�, Lucius, viens!--Je ne puis, par l'�l�vation des �toiles,
+juger si le jour est loin encore.--Lucius? Eh bien!--Je voudrais que
+mon d�faut f�t de dormir aussi profond�ment.--Allons, Lucius, allons!
+�veille-toi, te dis-je! Viens donc, Lucius!
+
+(Entre Lucius.)
+
+LUCIUS.--M'avez-vous appel�, seigneur?
+
+BRUTUS.--Lucius, porte un flambeau dans ma biblioth�que; d�s qu'il sera
+allum�, reviens m'avertir ici.
+
+LUCIUS.--J'y vais, seigneur.
+
+(Il sort.)
+
+BRUTUS.--Sa mort est le seul moyen, et pour ma part, je ne me connais
+aucun motif personnel de le rejeter que la cause g�n�rale. Il voudrait
+�tre couronn�: � quel point cela peut changer sa nature, voil� la
+question. C'est l'�clat du jour qui fait �clore le serpent, et nous
+contraint ainsi de marcher avec pr�caution. Le couronner! c'est
+pr�cis�ment cela.... C'est, je ne saurais le nier, l'armer d'un dard
+avec lequel il pourra, � sa volont�, cr�er le danger. Le mal de la
+grandeur, c'est quand du pouvoir elle s�pare la conscience[20]; et pour
+rendre justice � C�sar, je n'ai point vu que ses passions aient jamais
+eu plus de pouvoir que sa raison: mais c'est une v�rit� d'exp�rience
+que, pour la jeune ambition[21], la modestie est une �chelle vers
+laquelle celui qui s'�l�ve tourne son visage; mais une fois parvenu �
+l'�chelon le plus haut, il tourne le dos � l'�chelle, porte son regard
+dans les nues, d�daignant les humbles degr�s par lesquels il est
+mont�. Ainsi pourrait faire C�sar: de peur qu'il ne le puisse faire,
+pr�venons-le, et puisque ce qu'il est ne suffit pas pour qualifier
+l'attaque, consid�rons-le sous cette face: ce qu'il est, en augmentant,
+le conduirait � tels et tels exc�s. Regardons-le comme l'oeuf d'un
+serpent qui une fois �clos, deviendrait malfaisant par la loi de son
+esp�ce, et tuons-le dans sa coquille.
+
+[Note 20: _Remorse._ On ne con�oit pas pourquoi Warburton a voulu que
+_remorse_ signifi�t ici _mis�ricorde, piti�, sensibilit�_.]
+
+[Note 21: Traduction de Voltaire:
+
+  ...On sait assez quelle est l'ambition.
+  L'�chelle des grandeurs � ses yeux se pr�sente,
+  Elle y monte en cachant son front aux spectateurs.]
+
+(Rentre Lucius.)
+
+LUCIUS.--Le flambeau br�le dans votre cabinet, seigneur.--En cherchant
+une pierre � feu sur la fen�tre, j'ai trouv� ce billet ainsi scell�; je
+suis s�r qu'il n'y �tait pas quand je suis all� me coucher.
+
+BRUTUS.--Retourne � ton lit, il n'est pas jour encore. Mon gar�on,
+n'avons-nous pas demain les ides de mars?
+
+LUCIUS.--Je ne sais pas, seigneur.
+
+(Il sort.)
+
+BRUTUS.--Regarde dans le calendrier, et reviens me le dire.
+
+LUCIUS.--J'y vais, seigneur.
+
+BRUTUS.--Ces exhalaisons qui sifflent � travers les airs jettent tant de
+clart�, que je puis lire � leur lumi�re.
+
+(Il ouvre le billet et le lit.)
+
+_Brutus tu dors: r�veille-toi, vois qui tu es. Faudra-t-il que
+Rome...? Parle, frappe, r�tablis nos droits.--Brutus tu dors,
+r�veille-toi._--J'ai trouv� souvent de pareilles instigations jet�es sur
+mon passage: _Faudra-t-il que Rome...?_ Voici ce que je dois suppl�er:
+_Faudra-t-il que Rome demeure tremblante sous un homme?_ Qui! Rome? Mes
+anc�tres chass�rent des rues de Rome ce Tarquin qui portait le nom de
+roi.--_Parle, frappe, r�tablis nos droits._ Ainsi donc on me presse de
+parler et de frapper. O Rome! je t'en fais la promesse: s'il en r�sulte
+le r�tablissement de tes droits, tu obtiendras de la main de Brutus tout
+ce que tu demandes.
+
+(Rentre Lucius.)
+
+LUCIUS.--Seigneur, mars a consum� quatorze de ses jours.
+
+BRUTUS.--Il suffit. (_On frappe derri�re le th��tre._) Va � la porte,
+quelqu'un frappe. (_Lucius sort._) Depuis que Cassius a commenc� �
+m'exciter contre C�sar, je n'ai point dormi.--Entre la premi�re pens�e
+d'une entreprise terrible et son ex�cution, tout l'intervalle est comme
+une vision fantastique ou un r�ve hideux. Le g�nie de l'homme et les
+instruments de mort tiennent alors conseil, et l'�tat de l'homme
+offre en petit celui d'un royaume o� s'agitent tous les �l�ments de
+l'insurrection.
+
+(_Rentre Lucius._)
+
+LUCIUS.--Seigneur, c'est votre fr�re Cassius qui est � la porte; il
+demande � vous voir.
+
+BRUTUS.--Est-il seul?
+
+LUCIUS.--Non, seigneur, il y a plusieurs personnes avec lui.
+
+BRUTUS.--Les connais-tu?
+
+LUCIUS.--Non, seigneur; leurs chapeaux sont enfonc�s jusque sur leurs
+oreilles, et la moiti� de leurs visages est ensevelie dans leurs
+manteaux, au point que je n'ai pu distinguer leurs traits de fa�on � les
+reconna�tre[22].
+
+[Note 22: _That by no means I may discover them,
+             By any mark of favour_.
+
+_Favour_ signifie ici _trait, maintien_. Voltaire s'y est tromp� et a
+traduit ainsi:
+
+  Et nul � Lucius ne s'est fait reconna�tre:
+  Pas la moindre amiti�.]
+
+BRUTUS.--Fais-les entrer. (_Lucius sort._) Ce sont les conjur�s. O
+conspiration! as-tu honte de montrer dans la nuit ton front redoutable,
+� l'heure o� le mal est en pleine libert�? O� trouveras-tu donc dans le
+jour, une caverne assez sombre pour dissimuler ton monstrueux visage?
+Conspiration, n'en cherche point: qu'il se cache dans les sourires de
+l'affabilit�; car si tu marches portant � d�couvert tes traits naturels,
+l'�r�be m�me n'est pas assez obscur pour te d�rober au soup�on.
+
+
+
+SC�NE II
+
+
+_Entrent_ CASSIUS, CASCA, D�CIUS, CINNA, M�TELLUS CIMBER ET TR�BONIUS.
+
+CASSIUS.--Je crains que nous n'ayons trop indiscr�tement troubl� votre
+repos. Bonjour, Brutus: sommes-nous importuns?
+
+BRUTUS.--Je suis lev� depuis une heure; j'ai pass� toute la nuit sans
+dormir. Dites-moi si je connais ceux qui vous accompagnent.
+
+CASSIUS.--Oui, vous les connaissez tous; et pas un ici qui ne vous
+honore, pas un qui ne d�sire que vous ayez de vous-m�me l'opinion qu'a
+de vous tout noble Romain. Voici Tr�bonius.
+
+BRUTUS.--Il est le bienvenu.
+
+CASSIUS.--Celui-ci est D�cius Brutus.
+
+BRUTUS.--Il est aussi le bienvenu.
+
+CASSIUS.--Celui-ci est Casca; celui-l� Cinna; celui-l� M�tellus Cimber.
+
+BRUTUS.--Tous sont les bienvenus. Quels soucis vigilants sont venus
+s'interposer entre la nuit et vos paupi�res[23]?
+
+[Note 23: Voltaire s'est tromp�. Il traduit:
+
+  Quels projets importants
+  Les m�nent en ces lieux entre vous et la nuit?]
+
+CASSIUS.--Pourrai-je dire un mot?
+
+(Ils se parlent bas.)
+
+D�CIUS.--C'est ici l'orient: n'est-ce pas l� le jour qui commence �
+poindre de ce c�t�?
+
+CASCA.--Non.
+
+CINNA.--Oh! pardon, seigneur, c'est le jour; et ces lignes gris�tres qui
+prennent sur les nuages sont les messagers du jour.
+
+CASCA.--Vous allez m'avouer que vous vous trompez tous deux. C'est l�,
+� l'endroit m�me o� je pointe mon �p�e, que se l�ve le soleil, beaucoup
+plus vers le midi, en raison de la jeune saison de l'ann�e. Dans deux
+mois environ, plus �lev� vers le nord, il lancera de ce point ses
+premiers feux; et l'orient proprement dit est vers le Capitole, dans
+cette direction-l�.
+
+BRUTUS.--Donnez-moi tous la main, l'un apr�s l'autre.
+
+CASSIUS.--Et jurons d'accomplir notre r�solution.
+
+BRUTUS.--Non, point de serment. Si notre figure d'hommes[24], la
+souffrance de nos �mes, les iniquit�s du temps sont des motifs
+impuissants, rompons sans d�lai: que chacun de nous retourne � son lit
+oisif; laissons la tyrannie � l'oeil hautain se promener � son gr�,
+jusqu'� ce que chacun de nous tombe d�sign� par le sort. Mais si,
+comme j'en suis certain, ces motifs portent avec eux assez de feu pour
+enflammer les l�ches, et pour donner une trempe valeureuse � l'esprit
+mollissant des femmes; alors, compatriotes, quel autre aiguillon nous
+faut-il que notre propre cause pour nous exciter au redressement de nos
+droits? Quel autre lien que ce secret gard� par des Romains qui ont dit
+le mot et ne biaiseront point? et quel autre serment que l'honn�tet�
+engag�e envers l'honn�tet� � ce que cela soit ou que nous p�rissions.
+Laissons jurer les pr�tres, les l�ches, les hommes craintifs, ces
+vieillards qu'affaiblit un corps d�compos�, et ces �mes patientes de qui
+l'injustice re�oit un accueil serein. Qu'elles jurent au profit de la
+cause injuste, les cr�atures dont on peut douter: mais nous, ne faisons
+pas � l'immuable saintet� de notre entreprise, ni � l'insurmontable
+constance de nos �mes, l'affront de penser que notre cause ou notre
+action eurent besoin d'un serment, tandis que chaque Romain doit savoir
+que chaque goutte du sang qu'il porte dans ses nobles veines s'entache
+d'une multiple b�tardise, du moment o� il manque � la plus petite
+particule de la moindre promesse sortie de sa bouche.
+
+[Note 24: _The face of men._ Les commentateurs ont cherch� �
+expliquer ce passage de diff�rentes mani�res, dont aucune n'a paru aussi
+satisfaisante que celle-ci. Voltaire ne l'a pas traduit. En tout, ce
+discours de Brutus est l'un des morceaux les plus d�figur�s dans sa
+traduction.]
+
+CASSIUS.--Mais que pensez-vous de Cic�ron? �tes-vous d'avis de le
+sonder? je crois qu'il entrerait fortement dans notre projet.
+
+CASCA.--Il ne faut pas le laisser de c�t�.
+
+CINNA.--Non, gardons-nous-en bien.
+
+M�TELLUS CIMBER.--Oh! ayons pour nous Cic�ron: ses cheveux d'argent nous
+gagneront la bonne opinion des hommes, et nous ach�teront des voix qui
+c�l�breront notre action: on dira que sa sagesse a dirig� nos bras; il
+ne sera plus question de notre jeunesse, de notre t�m�rit�; tout sera
+envelopp� dans sa gravit�.
+
+BRUTUS.--Oh! ne m'en parlez pas; ne nous ouvrons point � lui; jamais il
+n'entrera dans ce que d'autres auront commenc�.
+
+CASSIUS.--Laissons-le donc � l'�cart.
+
+CASCA.--En effet, il ne nous convient pas.
+
+D�CIUS.--Ne frappera-t-on aucun autre que C�sar?
+
+CASSIUS.--C'est une question bonne � �lever, D�cius. Moi, je pense qu'il
+n'est pas � propos que Marc-Antoine, si ch�ri de C�sar, survive � C�sar.
+Nous trouverons en lui un dangereux machinateur; et, vous le savez, ses
+ressources, s'il les met en oeuvre, pourraient s'�tendre assez loin pour
+nous susciter � tous de grands embarras. Il faut, pour les pr�venir,
+qu'Antoine et C�sar tombent ensemble.
+
+BRUTUS.--Nos proc�d�s[25] para�tront bien sanguinaires, Ca�us Cassius, si
+apr�s avoir abattu la t�te nous mettons ensuite les membres en pi�ces,
+comme le fait la col�re en donnant la mort, et la haine apr�s
+l'avoir donn�e; car Antoine n'est qu'un membre de C�sar. Soyons des
+sacrificateurs et non des bouchers, Cassius. C'est contre l'esprit de
+C�sar que nous nous �levons tous: dans l'esprit de l'homme il n'y a
+point de sang. Oh! si nous pouvions atteindre � l'esprit de C�sar sans
+d�chirer C�sar! Mais, h�las! pour cela il faut que le sang de C�sar
+coule; mes bons amis, tuons-le hardiment, mais non avec rage: d�pe�ons
+la victime comme un mets propre aux dieux, ne la mettons pas en lambeaux
+comme une carcasse bonne � �tre jet�e aux chiens. Que nos coeurs soient
+semblables � ces ma�tres habiles qui commandent � leurs serviteurs un
+acte de violence, et semblent ensuite les en r�primander. Alors
+notre action semblera na�tre de la n�cessit�, et non de la haine; et
+lorsqu'elle para�tra telle aux yeux du peuple, nous serons nomm�s des
+purificateurs, non des assassins. Quant � Marc-Antoine, ne songez point
+� lui: il ne peut rien de plus que ne pourra le bras de C�sar, quand la
+t�te de C�sar sera tomb�e.
+
+[Note 25: En anglais, _course_. Voltaire l'a traduit par le mot
+_course_, et fait une note pour l'expliquer dans un sens tout � fait
+bizarre, ce qui �tait parfaitement inutile. _Course_ peut se traduire
+litt�ralement par les mots _proc�d�, marche, carri�re_, etc., et n'a
+rien de plus extraordinaire qu'aucun de ces mots et une foule d'autres
+que nous employons continuellement dans un sens figur�.]
+
+CASSIUS.--Cependant je le redoute, car cette tendresse qui s'est
+enracin�e dans son coeur pour C�sar....
+
+BRUTUS.--H�las! bon Cassius, ne songez point � lui. S'il aime C�sar,
+tout ce qu'il pourra faire n'agira que sur lui-m�me; il pourra se
+laisser aller au chagrin, et mourir pour C�sar; et ce serait beaucoup
+pour lui, livr� comme il l'est aux plaisirs, � la dissipation et aux
+soci�t�s nombreuses.
+
+TR�BONIUS.--Il n'est point � craindre: qu'il ne meure point par nous,
+car nous le verrons vivre et rire ensuite de tout cela.
+
+(L'horloge sonne.)
+
+BRUTUS.--Silence, comptons les heures.
+
+CASSIUS.--L'horloge a frapp� trois coups.
+
+TR�BONIUS.--Il est temps de nous s�parer.
+
+CASSIUS.--Mais il est encore incertain si C�sar voudra ou non sortir
+aujourd'hui, car il est depuis peu devenu superstitieux, et s'�loigne
+tout � fait de l'opinion g�n�rale qu'il s'�tait autrefois form�e sur
+les visions, les songes et les pr�sages tir�s des sacrifices[26]. Il se
+pourrait que ces prodiges si marquants, les terreurs inaccoutum�es
+de cette nuit, et les sollicitations de ses augures le retinssent
+aujourd'hui loin du Capitole.
+
+[Note 26: Dans l'anglais, _ceremonies_. Voltaire a traduit:
+
+  Et l'on dirait qu'il croit � la religion.]
+
+D�CIUS.--Ne le craignez pas. Si telle est sa r�solution, je me charge de
+la surmonter; car il aime � entendre r�p�ter qu'on prend les licornes
+avec des arbres[27], les ours avec des miroirs, les �l�phants dans des
+fosses, les lions avec des filets, et les hommes avec des flatteries:
+mais quand je lui dis que lui il hait les flatteurs, il me r�pond que
+cela est vrai; et c'est alors qu'il est le plus flatt�. Laissez-moi
+faire; je sais tourner son humeur comme il me convient, et je le m�nerai
+au Capitole.
+
+[Note 27: En se pla�ant devant un arbre derri�re lequel on se retire
+au moment o� l'animal veut vous percer de sa corne, qui de cette mani�re
+s'enfonce dans l'arbre, et laisse la licorne � la merci du chasseur.
+Spencer, en plusieurs endroits, fait allusion � cette fable.]
+
+CASSIUS.--Nous irons tous chez lui le chercher.
+
+BRUTUS.--� la huiti�me heure. Est-ce l� notre dernier mot?
+
+CINNA.--Que ce soit le dernier mot, et n'y manquons pas.
+
+M�TELLUS CIMBER.--Ca�us Ligarius veut du mal � C�sar, qui l'a maltrait�
+pour avoir bien parl� de Pomp�e. Je m'�tonne qu'aucun de vous n'ait
+song� � lui.
+
+BRUTUS.--Allez donc, cher M�tellus, allez le trouver. Il m'aime
+beaucoup, et je lui en ai donn� sujet: envoyez-le-moi seulement, et j'en
+ferai ce que je voudrai.
+
+CASSIUS.--Le jour va nous atteindre. Nous allons vous quitter, Brutus;
+et vous, amis, dispersez-vous: mais souvenez-vous tous de ce que vous
+avez dit, et montrez-vous de vrais Romains.
+
+BRUTUS.--Mes bons amis[28], prenez un visage riant et serein. Que nos
+regards ne manifestent pas nos desseins; mais qu'ils portent le secret,
+comme nos acteurs romains, sans apparence d'abattement et d'un air
+imperturbable. Maintenant je vous souhaite � tous le bonjour.
+
+[Note 28: _Good gentlemen._ Voltaire traduit _mes braves
+gentilshommes_, et met en note qu'il a traduit fid�lement: il se trompe.
+Tout le monde sait aujourd'hui que _gentleman_ ne peut presque dans
+aucun cas se rendre par notre mot _gentilhomme_. Dans son sens le plus
+ordinaire, _gentleman_ n'a pas de correspondant en fran�ais.]
+
+(Tous sortent except� Brutus.)
+
+BRUTUS _appelle Lucius_.--Gar�on! Lucius! Il dort de toutes ses forces.
+� la bonne heure, go�te le bienfait de la douce ros�e que le sommeil
+appesantit sur toi; tu n'as point de ces images, de ces fant�mes que
+l'active inqui�tude trace dans le cerveau des hommes. Aussi dors-tu bien
+profond�ment.
+
+(Entre Porcia.)
+
+PORCIA.--Brutus, mon seigneur!
+
+BRUTUS.--Porcia, quel est votre dessein? pourquoi vous lever � cette
+heure? Il n'est pas bon pour votre sant� d'exposer ainsi votre
+complexion d�licate au froid humide du matin.
+
+PORCIA.--Cela n'est pas bon non plus pour la v�tre. Vous vous �tes
+brusquement d�rob� de mon lit, Brutus; et hier au soir, � souper, vous
+vous �tes lev� tout � coup, vous avez commenc� � vous promener les bras
+crois�s, pensif, et poussant des soupirs; et quand je vous ai demand�
+ce qui vous occupait, vous avez fix� sur moi des regards troubl�s et
+m�contents. Je vous ai press� de nouveau: alors vous grattant le front,
+vous avez frapp� du pied avec impatience. Cependant j'ai insist� encore;
+mais d'un geste irrit� de votre main, vous m'avez fait signe de vous
+laisser. Je vous ai laiss�, dans la crainte d'irriter cette impatience
+qui d�j� ne paraissait que trop allum�e, esp�rant d'ailleurs que ce
+n'�tait l� qu'un des acc�s de cette humeur qui de temps � autre trouve
+son moment pr�s de tout homme quel qu'il soit[29]. Ce chagrin ne vous
+laisse ni manger, ni parler, ni dormir; et s'il agissait autant sur
+votre figure qu'il a d�j� alt�r� votre mani�re d'�tre, je ne vous
+reconna�trais plus, Brutus. Mon cher �poux, faites-moi conna�tre la
+cause de votre chagrin.
+
+[Note 29: Voltaire traduit:
+
+  Et je pris ce moment pour un moment d'humeur
+  Que souvent les maris font sentir � leur femmes.
+
+Et une note plac�e au bas de la page para�t destin�e � faire remarquer
+comme ridicule le sens qui n'est pas dans l'original. Les deux suivants
+pr�sentent un contre-sens:
+
+  Non, je ne puis Brutus, ni vous laisser parler,
+  Ni vous laisser manger, ni vous laisser dormir.]
+
+BRUTUS.--Je ne me porte pas bien; voil� tout.
+
+PORCIA.--Brutus est sage, et s'il ne se portait pas bien, il emploierait
+les moyens n�cessaires pour recouvrer sa sant�.
+
+BRUTUS.--Et c'est ce que je fais. Ma bonne Porcia, retournez � votre
+lit.
+
+PORCIA.--Brutus est malade! Est-ce donc un r�gime salutaire que de se
+promener � demi v�tu, et de respirer les humides exhalaisons du matin?
+Quoi! Brutus est malade, et il se d�robe au repos bienfaisant de son lit
+pour affronter les malignes influences de la nuit, et l'air impur et
+brumeux qui ne peut qu'aggraver son mal! Non, non, cher Brutus; c'est
+dans votre �me qu'est le mal dont vous souffrez; et en vertu de mes
+droits, de mon titre aupr�s de vous, je dois en �tre instruite; et �
+deux genoux je vous supplie, au nom de ma beaut� autrefois vant�e, au
+nom de tous vos serments d'amour, et de ce serment solennel qui a r�uni
+nos personnes en une seule, de me d�couvrir, � moi cet autre vous-m�me,
+� moi votre moiti�, ce qui p�se sur votre �me; dites-moi aussi quels
+�taient ceux qui sont venus vous trouver cette nuit? car il est entr�
+ici six ou sept hommes qui cachaient leurs visages � l'obscurit� m�me.
+
+BRUTUS.--Ne vous mettez pas ainsi � genoux, ma bonne Porcia.
+
+PORCIA.--Je n'en aurais pas besoin si vous �tiez mon bon Brutus.
+Dites-moi, Brutus, est-il fait pour nous cette exception aux liens de
+mariage, que je ne participe point aux secrets qui vous appartiennent?
+ne suis-je une autre vous-m�me que jusqu'� un certain point, et avec de
+certaines r�serves? pour vous tenir compagnie � table, faire la douceur
+de votre couche, et vous adresser quelquefois la parole? N'occup�-je
+donc que les avenues de votre affection? Ah! si je n'ai rien de plus,
+Porcia est la concubine[30] de Brutus, et non pas sa femme.
+
+[Note 30: _Harlot._ Voltaire, avec une �trange l�g�ret�, fait ici une
+note pour nous apprendre que le mot de l'original est _whore_; le sens
+de ce mot serait plus grossier encore que celui de _harlot_.]
+
+BRUTUS.--Vous �tes ma femme fid�le et honor�e, aussi pr�cieuse pour moi
+que les gouttes rouge�tres qui arrivent � mon triste coeur.
+
+PORCIA.--Si cela �tait vrai, je saurais d�j� ce secret. Je suis une
+femme, j'en conviens, mais une femme que le grand Brutus a prise pour
+�pouse. Je suis une femme, j'en conviens, mais une femme de bon renom,
+la fille de Caton. Pensez-vous que je ne sois pas plus forte que mon
+sexe, fille d'un tel p�re et femme d'un tel �poux? Dites-moi ce que vous
+m�ditez, je ne le r�v�lerai point. J'ai voulu fortement �prouver ma
+constance; je me suis fait une blessure ici � la cuisse: capable de
+soutenir ceci avec patience, pourrais-je ne pas l'�tre de porter les
+secrets de mon mari?
+
+BRUTUS.--O vous, dieux, rendez-moi digne de cette noble �pouse. (_On
+frappe derri�re le th��tre._) �coutez, �coutez, on frappe.--Porcia,
+rentre un moment, et bient�t ton sein va partager tous les secrets de
+mon coeur; je te d�velopperai tous mes engagements et tout ce qui
+est �crit sur mon triste front[31]. Retire-toi promptement. (_Porcia
+sort._)--Lucius, qui est-ce qui frappe?
+
+[Note 31: _All the charactery of my sad brows._ Voltaire traduit:
+
+  Va, mes sourcils fronc�s prennent un air plus doux.]
+
+LUCIUS.--Il y a l� un homme malade qui voudrait vous entretenir.
+
+BRUTUS.--C'est Ca�us Ligarius, dont M�tellus nous a parl�. Lucius,
+�loigne-toi.--Ca�us Ligarius, comment �tes-vous?
+
+LIGARIUS.--Recevez le bonjour que vous adresse une voix bien faible.
+
+BRUTUS.--Oh! quel temps avez-vous choisi, brave Ca�us, pour garder votre
+bonnet de nuit? Que je voudrais que vous ne fussiez pas malade!
+
+LIGARIUS.--Je ne suis plus malade, si Brutus a en main quelque exploit
+digne d'�tre marqu� du nom de l'honneur.
+
+BRUTUS.--J'aurais en main un exploit de ce genre, Ligarius, si pour
+l'entendre vous aviez l'oreille de la sant�.
+
+LIGARIUS.--Par tous les dieux devant qui se prosternent les Romains, je
+chasse loin de moi mon infirmit�. �me de Rome, fruit g�n�reux des
+reins d'un p�re respect�, comme un exorciste tu as conjur� l'esprit de
+maladie. Ordonne-moi d'aller en avant, et mes efforts tenteront des
+choses impossibles; que dis-je! ils en viendront � bout.--Que faut-il
+faire?
+
+BRUTUS.--Une oeuvre par laquelle des hommes malades retrouveront la
+sant�.
+
+LIGARIUS.--Mais n'est-il pas quelques hommes en sant� que nous devons
+rendre malades?
+
+BRUTUS.--C'est aussi ce qu'il faudra. Ce que c'est, cher Ca�us, je te
+l'expliquerai en nous rendant ensemble au lieu o� la chose doit se
+faire.
+
+LIGARIUS.--Que votre pied m'indique la route, et d'un coeur anim� d'une
+flamme nouvelle, je vous suivrai sans savoir � quelle entreprise: il
+suffit que Brutus me guide.
+
+BRUTUS.--Suis-moi donc.
+
+(Ils sortent.)
+
+
+
+SC�NE III
+
+
+Toujours � Rome.--Une pi�ce du palais de C�sar.--Tonnerre et �clairs.
+
+_Entre_ C�SAR _en robe de chambre_.
+
+C�SAR.--Ni le ciel ni la terre n'ont �t� en paix cette nuit. Trois
+fois Calphurnia dans son sommeil s'est �cri�e: �Au secours! oh! ils
+assassinent C�sar!�--Y a-t-il l� quelqu'un?
+
+(Entre un serviteur.)
+
+LE SERVITEUR.--Mon seigneur?
+
+C�SAR.--Va, commande aux pr�tres d'offrir � l'instant un sacrifice, et
+reviens m'apprendre quel succ�s ils en augurent.
+
+LE SERVITEUR.--J'y vais, mon seigneur.
+
+(Il sort.)
+
+(Entre Calphurnia.)
+
+CALPHURNIA.--Que pr�tendez-vous, C�sar? Penseriez-vous � sortir? vous ne
+sortirez point aujourd'hui de chez vous.
+
+C�SAR.--C�sar sortira. Les choses qui m'ont menac� ne m'ont jamais
+regard� que de dos: d�s qu'elles apercevront le visage de C�sar, elles
+s'�vanouiront.
+
+CALPHURNIA.--C�sar, jamais je ne me suis arr�t�e aux pr�sages; mais
+aujourd'hui ils m'�pouvantent. Sans parler de tout ce que nous avons
+entendu et vu, il y a de l'autre c�t� un homme qui raconte d'horribles
+ph�nom�nes vus par les gardes. Une lionne a fait ses petits au milieu
+des rues; la bouche des s�pulcres s'est ouverte et a laiss� �chapper
+leurs morts; de terribles guerriers de feu combattaient sur les nuages,
+en lignes, en escadrons, et avec toute la r�gularit� de la guerre; il en
+pleuvait du sang sur le Capitole; le choc de la bataille retentissait
+dans les airs; on entendait les hennissements des coursiers et les
+g�missements des mourants, et des spectres ont pouss� le long des rues
+des cris aigus et lamentables! O C�sar, ces pr�sages sont inou�s, et je
+les redoute.
+
+C�SAR.--Que peut-on �viter de ce qui est d�cr�t� par les puissants
+dieux? C�sar sortira, car ces pr�sages s'adressent au monde entier
+autant qu'� C�sar.
+
+CALPHURNIA.--Quand il meurt des mendiants, on ne voit pas des com�tes;
+mais les cieux m�mes signalent par leurs feux la mort des princes.
+
+C�SAR.--Les l�ches meurent plusieurs fois avant leur mort, le brave ne
+go�te jamais la mort qu'une fois. De tous les prodiges dont j'aie encore
+ou� parler, le plus �trange pour moi, c'est que les hommes puissent
+sentir la crainte, voyant que la mort, fin n�cessaire, arrivera �
+l'heure o� elle doit arriver. (_Rentre le serviteur._)--Que disent les
+augures?
+
+LE SERVITEUR.--Ils voudraient que vous ne sortissiez pas aujourd'hui: en
+retirant les entrailles d'une des victimes, ils n'ont pu retrouver le
+coeur de l'animal.
+
+C�SAR.--Les dieux ont voulu faire honte � la l�chet�. C�sar serait un
+animal sans coeur si la peur le retenait aujourd'hui dans sa maison:
+non, C�sar n'y restera pas. Le danger sait tr�s-bien que C�sar est plus
+dangereux que lui: nous sommes deux lions mis bas le m�me jour, mais je
+suis l'a�n� et le plus terrible, et C�sar sortira.
+
+CALPHURNIA.--H�las! mon seigneur, vous consumez toute votre sagesse en
+confiance. Ne sortez point aujourd'hui: donnez ma crainte et non la
+v�tre pour le motif qui vous retiendra ici. Nous enverrons Marc-Antoine
+au s�nat: il dira que vous ne vous portez pas bien aujourd'hui; me voici
+� genoux devant vous, pour l'obtenir.
+
+C�SAR.--Marc-Antoine dira que je ne me porte pas bien; et pour complaire
+� ton caprice, je resterai. (_Entre D�cius._) Voici D�cius Brutus; il le
+leur dira.
+
+D�CIUS.--Salut � C�sar! Bonjour, digne C�sar! Je viens vous chercher
+pour aller au s�nat.
+
+C�SAR.--Et vous �tes venu fort � propos, D�cius, pour porter mes
+salutations aux s�nateurs, et leur dire que je ne veux pas aller
+aujourd'hui au s�nat. Que je ne le puis, serait faux; que je ne l'ose,
+plus faux encore[32]. Je ne veux pas y aller aujourd'hui: dites-le leur
+ainsi, D�cius.
+
+[Note 32: Voltaire fait de cette phrase un apart�, ce qui n'est pas
+dans l'original.]
+
+CALPHURNIA.--Dites qu'il est malade.
+
+C�SAR.--C�sar leur fera-t-il porter un mensonge? Ai-je �tendu si loin
+mon bras et mes conqu�tes, pour craindre de dire la v�rit� � quelques
+barbes grises?--D�cius, allez leur dire que C�sar ne veut pas y aller.
+
+D�CIUS.--Tr�s-puissant C�sar, faites-moi conna�tre quelques-unes de
+vos raisons, de peur qu'on ne me rie au nez quand je leur rendrai ce
+discours.
+
+C�SAR.--La raison est dans ma volont�: je n'y veux pas aller; c'en
+est assez pour satisfaire le s�nat. Mais, pour votre satisfaction
+particuli�re et parce que je vous aime, je vous dirai que c'est
+Calphurnia que voil�, ma femme, qui me retient ici. Elle a r�v� cette
+nuit qu'elle voyait ma statue, semblable � une fontaine, verser du
+sang tout pur par cent tuyaux. Plusieurs Romains vigoureux venaient en
+souriant baigner leurs mains dans ce sang. Elle prend tout cela pour des
+avis et des pr�sages de maux imminents; et, � genoux, elle m'a conjur�
+de demeurer aujourd'hui chez moi.
+
+D�CIUS.--Ce songe est interpr�t� � contre-sens: c'est une vision
+heureuse et favorable. Votre statue jetant par un grand nombre de tuyaux
+du sang dans lequel tant de Romains se baignent en souriant signifie que
+l'illustre Rome va recevoir de vous un sang qui la ranimera, et que,
+parmi les hommes magnanimes, il y aura empressement � en �tre teint,
+� en obtenir quelque marque, quelque empreinte sacr�e qui les fasse
+reconna�tre[33]; et voil� ce que signifie le songe de Calphurnia.
+
+[Note 33: Voltaire para�t n'avoir pas remarqu� le sens cach� de ces
+paroles qui font �videmment allusion au projet de meurtre. Il traduit
+ainsi:
+
+  Par vous Rome vivifi�e
+  Re�oit un nouveau sang et de nouveaux destins.]
+
+C�SAR.--Vous en avez ainsi tr�s-bien expliqu� le sens.
+
+D�CIUS.--Vous le verrez quand vous aurez entendu ce que j'ai � vous
+dire. Sachez maintenant que le s�nat a r�solu de d�cerner aujourd'hui
+une couronne au puissant C�sar: si vous envoyez dire que vous ne voulez
+pas vous y rendre, les esprits peuvent changer. D'ailleurs il s'en
+pourrait faire quelques plaisanteries, et l'on traduirait ainsi votre
+message: �Que le s�nat se s�pare; ce sera pour une autre fois, quand la
+femme de C�sar aura fait de meilleurs r�ves.� Si C�sar se cache, ne se
+diront-ils pas � l'oreille: �Voyez, C�sar a peur?� Pardonnez-moi, C�sar;
+c'est mon tendre, mon bien tendre z�le pour votre fortune, qui me
+commande de vous parler ainsi; et la raison est ici dans l'int�r�t de
+mon affection.
+
+C�SAR.--Que vos terreurs semblent absurdes maintenant, Calphurnia! J'ai
+honte d'y avoir c�d�. Qu'on me donne ma robe; je veux aller au s�nat.
+(_Entrent Publius, Brutus, Ligarius, M�tellus, Casca, Tr�bonius et
+Cinna._)--Et voyez, Publius vient ici me chercher.
+
+PUBLIUS.--Bonjour, C�sar.
+
+C�SAR.--Soyez le bienvenu, Publius. Quoi! Brutus aussi sorti de si bonne
+heure! Bonjour, Casca. Ca�us Ligarius, jamais C�sar ne fut autant votre
+ennemi que cette fi�vre qui vous a ainsi maigri.--Quelle heure est-il?
+
+BRUTUS.--C�sar, huit heures sont sonn�es.
+
+C�SAR.--Je vous rends gr�ce de votre complaisance et de vos soins.
+(_Entre Antoine._) Voyez Antoine. Lui qui se divertit tant que la nuit
+dure, il n'en est pas moins lev�. Bonjour, Antoine.
+
+ANTOINE.--Bonjour � l'illustre C�sar.
+
+C�SAR.--Dites-leur l�-dedans de tout pr�parer.--Je m�rite des reproches,
+pour me faire ainsi attendre.--Voil� maintenant Cinna qui arrive; voil�
+M�tellus. Ha! Tr�bonius, j'ai besoin de causer une heure avec vous:
+souvenez-vous de venir ici aujourd'hui. Tenez-vous pr�s de moi, de peur
+que je ne vous oublie.
+
+TR�BONIUS.--Je le ferai, C�sar. (_A part._) Et je serai si pr�s, que vos
+meilleurs amis souhaiteront que j'en eusse �t� plus loin.
+
+C�SAR.--Entrez, mes bons amis, et prenez une coupe de vin avec moi[34];
+puis nous nous en irons tout � l'heure ensemble comme des amis.
+
+[Note 34: _Taste some wine with me._ Voltaire a traduit: _Buvons
+bouteille ensemble_, et met en note: _Toujours la plus grande fid�lit�
+dans la traduction._]
+
+BRUTUS.--Les apparences trompent souvent, � C�sar, et le coeur de Brutus
+se serre lorsqu'il y r�fl�chit.
+
+
+
+SC�NE IV
+
+
+Toujours � Rome.--Une rue pr�s du Capitole.
+
+ART�MIDORE _entre, lisant un papier_.
+
+ART�MIDORE.--�C�sar, d�fie-toi de Brutus; prends garde � Cassius;
+n'approche point de Casca; aie l'oeil sur Cinna; ne te fie point �
+Tr�bonius; observe bien M�tellus Cimber. D�cius Brutus ne t'aime point;
+tu as offens� Ca�us Ligarius. Tous ces hommes sont anim�s d'un m�me
+esprit contre C�sar. Si tu n'es pas immortel, prends garde � toi, la
+s�curit� laisse le champ libre � la conspiration. Que les puissants
+dieux te d�fendent!
+
+�Ton ami ART�MIDORE.�
+
+Je veux attendre ici que C�sar passe; alors je lui pr�senterai ceci
+comme une supplique. Mon coeur d�plore que la vertu ne puisse vivre hors
+de la port�e des dents de l'envie. Si tu lis cette note, � C�sar, tu
+peux vivre; sinon, les destins conspirent avec les tra�tres.
+
+
+
+SC�NE V
+
+
+Toujours � Rome.--Une autre partie de la m�me rue, devant la maison de
+Brutus.
+
+_Entrent_ PORCIA ET LUCIUS.
+
+PORCIA.--Je t'en prie, mon gar�on, cours au s�nat. Ne t'arr�te point �
+me r�pondre, mais pars sur-le-champ. Pourquoi restes-tu l�?
+
+LUCIUS.--Pour savoir quel est mon message, madame.
+
+PORCIA.--Je voudrais que tu fusses d�j� arriv� au s�nat, et revenu avant
+que j'eusse pu te dire ce que tu as � faire.--O constance! tiens-toi
+ferme � mes c�t�s; place une �norme montagne entre mon coeur et ma
+langue: j'ai l'�me d'un homme, mais je n'ai que la force d'une femme.
+Qu'il est difficile aux femmes de se soumettre � la prudence!--Quoi! te
+voil� encore!
+
+LUCIUS.--Que faut-il que je fasse, madame? Courir au Capitole, et pas
+autre chose? Puis revenir aupr�s de vous, et pas autre chose?
+
+PORCIA.--Oui, mon gar�on, viens me redire si ton ma�tre a l'air bien
+portant, car il est sorti malade; et remarque bien ce que fait C�sar,
+quels sont les suppliants qui se pressent autour de lui.--�coute, mon
+gar�on!... quel bruit est-ce l�?
+
+LUCIUS.--Je n'entends rien, madame.
+
+PORCIA.--Je t'en prie, �coute bien. J'ai entendu un bruit tumultueux,
+comme de gens qui se battent; le vent l'apporte du Capitole.
+
+LUCIUS.--En v�rit�, madame, je n'entends rien.
+
+(Entre le devin.)
+
+PORCIA.--Approche, mon ami: de quel c�t� viens-tu?
+
+LE DEVIN.--De ma maison, ma bonne dame.
+
+PORCIA.--Quelle heure est-il?
+
+LE DEVIN.--Environ la neuvi�me heure, madame.
+
+PORCIA.--C�sar est-il d�j� rendu au Capitole?
+
+LE DEVIN.--Madame, pas encore. Je vais prendre ma place pour le voir,
+quand il passera pour s'y rendre.
+
+PORCIA.--Tu as quelque supplique � pr�senter � C�sar, n'est-ce pas?
+
+LE DEVIN.--J'en ai une, madame. S'il pla�t � C�sar de vouloir assez de
+bien � C�sar pour m'�couter, je le conjurerai de se traiter lui-m�me en
+ami.
+
+PORCIA.--Quoi! as-tu appris qu'on voul�t lui faire quelque mal?
+
+LE DEVIN.--Aucun dont j'aie la certitude, beaucoup dont je crains la
+possibilit�. Bonjour, madame. La rue est �troite ici. Cette foule de
+s�nateurs, de pr�teurs, de suppliants de la classe commune, qui se
+presse sur les pas de C�sar, pourrait s'amasser au point qu'un homme
+faible comme moi en serait presque �touff�. Je veux gagner un endroit
+moins obstru�, et l� parler au grand C�sar au moment de son passage.
+
+(Il sort.)
+
+PORCIA.--Il faut que je rentre. Oh que je souffre! quelle faible chose
+que le coeur d'une femme! O Brutus, que les dieux te secondent dans ton
+entreprise!--S�rement ce gar�on m'aura entendue!--Brutus demande une
+faveur que C�sar n'accordera pas.--Oh! je me sens d�faillir. Cours,
+Lucius; va, parle de moi � mon mari. Dis-lui que je suis joyeuse; puis
+reviens ici et me rapporte ce qu'il t'aura dit.
+
+FIN DU DEUXI�ME ACTE.
+
+
+
+
+ACTE TROISI�ME
+
+
+
+SC�NE I
+
+
+Toujours � Rome.--Le Capitole.--Le s�nat est assembl�.
+
+(Dans la rue qui conduit au Capitole, une foule de peuple dans laquelle
+se trouvent Art�midore et le devin.--Fanfares.)
+
+_Entrent_ C�SAR, BRUTUS, CASSIUS, CASCA, D�CIUS, M�TELLUS, TR�BONIUS,
+CINNA, ANTOINE, LEPIDUS, POPILIUS, PUBLIUS _et plusieurs autres_.
+
+C�SAR.--Les ides de mars sont arriv�es.
+
+LE DEVIN.--Oui, C�sar, mais non pass�es.
+
+ART�MIDORE.--Salut � C�sar.--Lis ce billet.
+
+D�CIUS.--Tr�bonius vous demande de parcourir � votre loisir son humble
+requ�te que voici.
+
+ART�MIDORE.--O C�sar, lisez d'abord la mienne, car c'est la mienne dont
+l'objet touche C�sar de plus pr�s. Lisez-la, grand C�sar.
+
+C�SAR.--Ce qui n'int�resse que nous sera examin� le dernier.
+
+ART�MIDORE.--Ne diff�rez pas, C�sar; lisez la mienne � l'instant.
+
+C�SAR.--Je crois vraiment que cet homme est fou.
+
+PUBLIUS.--Allons, l'ami, place.
+
+CASSIUS.--Quoi, vous pr�sentez vos p�titions dans les rues! Venez au
+Capitole.
+
+POPILIUS, _� part � Cassius_.--Je souhaite que votre entreprise
+d'aujourd'hui puisse r�ussir.
+
+CASSIUS.--Quelle entreprise, Popilius?
+
+POPILIUS.--Portez-vous bien.
+
+(Il s'avance vers C�sar.)
+
+BRUTUS.--Que vous a dit Popilius L�na?
+
+CASSIUS.--Qu'il souhaitait que notre entreprise d'aujourd'hui p�t
+r�ussir. Je crains que nos projets ne soient d�couverts.
+
+BRUTUS.--Regardez quel sera son maintien en parlant � C�sar.
+Observez-le.
+
+CASSIUS, _bas � Casca_.--Casca, soyez prompt; car nous craignons d'�tre
+pr�venus. (_� Brutus._) Brutus, que ferons-nous? Si la chose se sait,
+Cassius ou C�sar n'en reviendra pas[35], car je me tuerai.
+
+[Note 35: _Cassius or C�sar never shall turn back._ Voltaire traduit:
+
+  Cassius ou C�sar tournerait-il le dos?]
+
+BRUTUS.--Cassius, ne perdez pas courage; Popilius L�na ne parle point de
+notre dessein. Regardez, il sourit, et C�sar ne change point de visage.
+
+CASSIUS.--Tr�bonius sait prendre son temps. Remarquez-vous, Brutus? il
+tire Marc-Antoine � l'�cart.
+
+(Sortent Antoine et Tr�bonius. C�sar et les s�nateurs prennent leurs
+si�ges.)
+
+D�CIUS.--O� est M�tellus Cimber? Qu'il s'avance et pr�sente en ce moment
+sa requ�te � C�sar.
+
+BRUTUS.--Il est pr�t: il faut nous serrer autour de lui et le seconder.
+
+CINNA, _bas_.--Casca, c'est vous qui devez le premier lever le bras.
+
+C�SAR.--Sommes-nous pr�ts? Quels sont les abus que C�sar et son s�nat
+doivent r�former?
+
+M�TELLUS CIMBER.--Tr�s-noble, tr�s-grand et tr�s-puissant C�sar,
+M�tellus apporte devant ton tribunal les humbles voeux de son coeur.
+
+(Il se met � genoux.)
+
+C�SAR.--Je dois te pr�venir, Cimber, que ces formes rampantes, ces
+hommages pleins de bassesse, peuvent enflammer le sang des hommes
+vulgaires, et changer en vains projets d'enfants les d�crets arr�t�s
+dans leurs premi�res r�solutions. Mais ne te flatte point de cette id�e
+que C�sar porte en lui-m�me un sang si rebelle, qu'il se laisse rel�cher
+de son �nergie naturelle par ce qui charme les imb�ciles, par de douces
+paroles, de basses courbettes, et de viles caresses d'�pagneul. Ton
+fr�re est banni par un d�cret: si tu t'avises de venir pour lui
+t'incliner, prier, cajoler, je te chasserai de mon chemin comme un
+vilain roquet. Apprends que C�sar ne fait point d'injustices, et qu'il
+ne se laisse point apaiser sans motifs[36].
+
+[Note 36: Voltaire traduit:
+
+  Lorsque C�sar fait tout, il a toujours raison.]
+
+M�TELLUS CIMBER.--N'est-il point ici quelque voix plus recommandable que
+la mienne, qui, avec des accents plus doux � l'oreille du grand C�sar,
+sollicite le rappel de mon fr�re exil�?
+
+BRUTUS.--Je baise ta main, mais non pas par flatterie, C�sar, en te
+demandant que Publius Cimber obtienne � l'instant la libert� de revenir.
+
+C�SAR.--Quoi, Brutus!
+
+CASSIUS.--Pardon, C�sar; C�sar, pardon: Cassius s'abaisse jusqu'� tes
+pieds pour obtenir de toi que Publius Cimber soit d�livr� de son exil.
+
+C�SAR.--Vous pourriez me fl�chir si je vous ressemblais; si je pouvais
+prier pour �mouvoir, je pourrais �tre �mu par des pri�res. Mais je suis
+immuable comme l'�toile du nord, qui seule dans le firmament demeure
+vraiment fixe et dans sa constante immobilit�. Les cieux sont peints
+d'innombrables �tincelles: elles sont toutes de feu, et chacune d'entre
+elles resplendit de clart�, mais il n'en est qu'une entre toutes qui
+garde constamment sa place. Ce monde est de m�me, bien peupl� d'hommes,
+et tous ces hommes sont de chair et de sang, tous dou�s d'intelligence;
+mais dans le nombre je n'en connais qu'un qui sache conserver son rang
+� l'abri de toute atteinte, inaccessible � tout mouvement: cet homme,
+c'est moi; je veux en donner une petite preuve m�me en ceci. C'est parce
+que je suis ferme que Cimber a d� �tre banni; et je demeure ferme en
+voulant qu'il reste banni.
+
+M�TELLUS CIMBER.--O C�sar!
+
+C�SAR.--Loin de moi. Veux-tu �branler l'Olympe?
+
+D�CIUS.--Grand C�sar!
+
+C�SAR.--Brutus n'a-t-il pas fl�chi le genou en vain?
+
+CASCA.--Mon bras parle pour moi!
+
+(Casca frappe C�sar au cou. C�sar lui saisit le bras: il est alors
+frapp� par plusieurs autres conjur�s, et enfin par Marcus Brutus.)
+
+C�SAR.--_Et tu, Brute[37]?_--Alors tombe, C�sar.
+
+(Il meurt. Les s�nateurs et le peuple se retirent en tumulte.)
+
+[Note 37: Su�tone rapporte seulement comme un ou� dire, auquel m�me
+il n'ajoute pas foi, que C�sar dit en grec � Brutus:[Grec: Kai su
+teknon], _et toi aussi mon fils_. Les historiens ont depuis naturalis�
+ce mot en latin, et en ont fait le _et tu, Brute_, mot devenu si
+populaire, que Shakspeare n'imagina pas probablement qu'il f�t permis
+de le faire passer dans une autre langue. Il est assez singulier que
+Voltaire n'ait pas fait mention de cette bizarrerie.]
+
+CINNA.--Libert�! d�livrance! La tyrannie est morte. Courez, allez le
+proclamer, le crier dans toutes les rues.
+
+CASSIUS.--Quelques-uns de vous aux tribunes. Allez et criez: Libert�!
+d�livrance! affranchissement!
+
+BRUTUS.--Peuple et s�nateurs, ne vous effrayez point, ne fuyez point,
+restez � vos places: la dette de l'ambition est acquitt�e.
+
+CASCA.--Allez � la tribune, Brutus.
+
+D�CIUS.--Et Cassius aussi.
+
+BRUTUS.--O� est Publius?
+
+CINNA.--Le voici, tout constern� de ce soul�vement.
+
+M�TELLUS CIMBER.--Demeurons fermes tous ensemble, de crainte que
+quelques amis de C�sar n'essayent....
+
+BRUTUS.--Ne parle point de demeurer.--Publius, point d'abattement;
+on n'a le dessein de vous faire aucun mal, ni � aucun autre Romain.
+Annoncez-le � tous, Publius.
+
+CASSIUS.--Et quittez-nous, Publius, de peur que ce peuple, en fondant
+sur nous, ne mette votre vieillesse en danger.
+
+BRUTUS.--Oui, �loignez-vous, et que nul homme n'ait � supporter les
+suites de cette action, que nous qui l'avons faite[38].
+
+[Note 38: Voltaire a traduit:
+
+  Allez, qu'aucun Romain ne prenne ici l'audace
+  De soutenir ce meurtre, et de parler pour nous;
+  C'est un droit qui n'est d� qu'aux seuls vengeurs de Rome.]
+
+(Rentre Tr�bonius.)
+
+CASSIUS--O� est Antoine?
+
+TR�BONIUS--Dans sa maison, o� il s'est enfui d'�pouvante. Hommes,
+femmes, enfants, les regards pleins de terreur, crient et courent comme
+si nous �tions au jour du jugement.
+
+BRUTUS.--Destins, nous conna�trons vos volont�s. Que nous devons mourir,
+nous le savons. Ce n'est que de l'�poque et du soin d'en retarder le
+jour que s'inqui�tent les hommes.
+
+CASSIUS.--V�ritablement, celui qui retranche vingt ann�es de la vie,
+retranche vingt ann�es de crainte de la mort.
+
+BRUTUS.--Cela convenu, la mort est un bienfait; et nous nous sommes
+montr�s les amis de C�sar en abr�geant le temps qu'il avait � la
+craindre. Baissez-vous, Romains, baissez-vous; baignons nos bras dans
+le sang de C�sar, et que nos �p�es en soient enduites. Marchons ensuite
+jusqu'� la place publique, et brandissant nos glaives rougis au-dessus
+de nos t�tes, crions tous: Paix! d�livrance! libert�!
+
+CASSIUS.--Baissons-nous donc et qu'ils en soient tremp�s....--Combien de
+si�cles futurs verront repr�senter la noble sc�ne que nous donnons ici,
+dans des empires � na�tre et dans des langages encore inconnus!
+
+BRUTUS.--Combien de fois verra-t-on couler, par mani�re de jeu, le sang
+de ce C�sar que voil� �tendu sur la base de la statue de Pomp�e, de pair
+avec la poussi�re!
+
+CASSIUS.--Et chaque fois que cela se verra, on dira de notre
+association: Ce sont l� les hommes qui donn�rent � leur pays la libert�.
+
+D�CIUS.--Eh bien! sortirons-nous?
+
+CASSIUS.--Oui, marchons tous, Brutus nous conduira; et, attach�s � ses
+pas, les coeurs les plus intr�pides et les plus vertueux de Rome vont
+honorer sa marche.
+
+(Entre un serviteur.)
+
+BRUTUS.--Un moment, qui vient � nous? un ami d'Antoine.
+
+LE SERVITEUR.--Brutus, mon ma�tre m'a recommand� de fl�chir ainsi le
+genou; ainsi Marc-Antoine m'a enjoint de me jeter � vos pieds, et il m'a
+ordonn�, lorsque je me serais prostern�, de vous parler en ces mots:
+�Brutus est noble, sage, vaillant et vertueux; C�sar fut puissant,
+intr�pide, illustre et capable d'affection. Dis que j'ai aim� Brutus et
+que je l'honore; dis que je craignais C�sar, l'honorais, et l'aimais.
+Si Brutus veut permettre qu'Antoine vienne � lui sans avoir rien �
+craindre, s'il veut lui expliquer comment C�sar a m�rit� d'�tre frapp�
+de mort, Marc-Antoine n'aimera pas C�sar mort autant que Brutus vivant!
+mais il suivra avec une enti�re fid�lit� la fortune et les int�r�ts du
+noble Brutus � travers les hasards de cette situation encore inusit�e.�
+Ainsi parle Antoine mon ma�tre.
+
+BRUTUS.--Ton ma�tre est un sage et brave Romain; jamais je n'en jugeai
+d'une mani�re moins favorable. Dis-lui que, s'il lui pla�t de venir en
+ce lieu, il sera satisfait, et que, sur mon honneur, il en sortira sans
+nul outrage.
+
+LE SERVITEUR.--Je vais le chercher � l'instant.
+
+(Il sort.)
+
+BRUTUS.--Je sais que nous l'aurons ais�ment pour ami.
+
+CASSIUS.--Je d�sire qu'il en soit ainsi: cependant j'ai en pens�e qu'il
+faut le redouter beaucoup, et toujours mes pressentiments sinistres vont
+droit � l'�v�nement.
+
+(Rentre Antoine.)
+
+BRUTUS.--Voil� Antoine qui s'avance. Soyez le bienvenu, Marc-Antoine.
+
+MARC-ANTOINE.--O puissant C�sar, es-tu donc tomb� si bas? tes conqu�tes,
+toutes tes gloires, tes triomphes, les d�pouilles que tu as remport�es
+sont-ils donc resserr�s dans ce court espace? Adieu!--Patriciens,
+j'ignore vos intentions: j'ignore quel autre que C�sar doit voir couler
+son sang, quel autre est devenu trop puissant. Si c'est moi, il n'est
+point pour ma mort d'heure aussi convenable que l'heure de la mort de
+C�sar, ni d'arme aussi digne de moiti� que ces �p�es que vous tenez,
+illustr�es par le plus noble sang de cet univers. Je vous en conjure, si
+vous me voulez du mal, maintenant, tandis que vos mains rougies fument
+encore de la vapeur du sang, satisfaites votre d�sir. J'aurais mille ans
+� vivre, que jamais je ne me trouverais si dispos� � mourir. Aucun lieu,
+aucun genre de mort, ne me plairont jamais comme de mourir ici pr�s de
+C�sar et par vos coups, vous, l'�lite des grandes �mes de cet �ge.
+
+BRUTUS.--O Antoine, n'implorez point de nous votre mort. Nous devons
+maintenant para�tre sanguinaires et cruels, ainsi que par l'�tat de nos
+mains et par l'action que nous venons d'ex�cuter nous le paraissons �
+vos yeux: mais vous ne voyez que nos mains et cette oeuvre sanglante
+qu'elles ont accomplie: nos coeurs, vous ne les voyez pas; ils sont
+pitoyables, et c'est la piti� pour l'injure publique faite � Rome (car
+la flamme chasse une autre flamme, et de m�me la piti� une autre piti�)
+qui a ainsi agi contre C�sar. Mais pour vous, Marc-Antoine, nos �p�es
+n'ont qu'une pointe de plomb, et nos bras, nos coeurs, fr�res en
+�nergique col�re, vous re�oivent avec toute la bienveillance de
+l'affection, avec estime, avec �gard.
+
+CASSIUS.--Votre voix aura autant d'influence que celle d'aucun autre
+dans la distribution des nouvelles dignit�s.
+
+BRUTUS.--Seulement, ayez patience jusqu'� ce que nous ayons calm� la
+multitude hors d'elle-m�me de frayeur; et alors nous vous expliquerons
+par quel motif, moi qui aimais C�sar au moment m�me o� je le frappai, je
+me suis conduit ainsi.
+
+ANTOINE.--Je ne doute point de votre sagesse.--Que chacun de vous me
+donne sa main sanglante. D'abord, Marcus Brutus, je veux secouer la
+v�tre. Puis je prends votre main, Ca�us Cassius; maintenant la v�tre,
+D�cius Brutus! et la v�tre, M�tellus; et la v�tre, Cinna; et la v�tre,
+mon brave Casca; la v�tre enfin, bon Tr�bonius, nomm� le dernier, mais
+non pas le moindre dans mon amiti�.--Tous tous, patriciens.... H�las!
+que dirai-je? Ma r�putation repose maintenant sur un terrain si
+glissant, que vous devez concevoir de moi l'une de ces mauvaises
+pens�es, ou que je suis un l�che, ou que je suis un flatteur.--Que
+je t'aimai, C�sar, oh! c'est la v�rit�! Si ton �me nous contemple
+maintenant, ne te sera-ce pas une douleur plus sensible que ta mort, de
+voir ton Antoine faisant sa paix avec tes ennemis, et secouant leur main
+sanglante, � grand homme! en pr�sence de ton cadavre? Si j'avais autant
+d'yeux que tu as de blessures, et qu'ils versassent des larmes aussi
+abondantes que les ruisseaux qu'elles versent de ton sang, cela me
+si�rait bien mieux que de m'unir par des conventions d'amiti� avec tes
+ennemis.--Pardonne-moi, Jules.--Ici tu fus environn�, cerf courageux;
+ici tu es tomb�: et ici se sont arr�t�s les chasseurs portant les
+marques de ton massacre, et baign�s dans le fleuve cramoisi de ton sang!
+O monde, tu �tais la for�t de ce cerf; et v�ritablement, � monde, il
+�tait ton centre[39].--Maintenant te voil� �tendu comme le cerf frapp�
+par plusieurs princes.
+
+[Note 39:_O world, thou wast the forest to this hart
+          And this, indeed, O world, the heart of thee_.
+
+  _Hart_, cerf, et _heart_, coeur, se prononcent de la m�me mani�re:
+  ainsi la phrase d'Antoine signifiera �galement, il �tait _ton coeur_
+  ou _ton centre_, et il �tait _ton cerf_.]
+
+CASSIUS.--Marc-Antoine!...
+
+ANTOINE.--Pardonnez-moi, Cassius; les ennemis de C�sar en diront autant.
+C'est donc de la part d'un ami une bien froide mod�ration.
+
+CASSIUS.--Je ne vous bl�me point de louer ainsi C�sar. Mais quel trait�
+pr�tendez-vous faire avec nous? Voulez-vous �tre inscrit au nombre de
+nos amis, ou bien poursuivrons-nous sans compter sur vous?
+
+ANTOINE.--Vous le savez, j'ai pris vos mains; mais il est vrai, j'ai �t�
+distrait de mon objet en baissant les yeux sur C�sar. Je suis de vos
+amis � tous, et tous je vous aime, dans l'esp�rance que vous me donnerez
+des raisons qui me feront comprendre comment et en quoi C�sar �tait
+dangereux.
+
+BRUTUS.--S'il en �tait autrement, ce serait un atroce spectacle.
+Les explications que nous avons � vous donner abondent tellement en
+consid�rations l�gitimes que fussiez-vous, vous Antoine, le fils de
+C�sar, vous devriez en �tre satisfait.
+
+ANTOINE.--C'est tout ce que je d�sire; et de plus, je voudrais obtenir
+de vous qu'il me f�t permis de pr�senter son corps sur la place
+du march�, et de parler � la tribune, lors de la c�r�monie de ses
+fun�railles, comme il convient � un ami.
+
+BRUTUS. Vous le pourrez, Marc-Antoine.
+
+CASSIUS. Brutus, un mot. (_� part_.) Vous ne savez pas ce que vous
+accordez l�. Ne consentez point qu'Antoine parle � ses fun�railles:
+savez-vous � quel point ce qu'il dira ne sera pas capable d'�mouvoir le
+peuple?
+
+BRUTUS.--Permettez.... Je monterai le premier � la tribune: j'exposerai
+les motifs de la mort que nous avons donn�e � C�sar; tout ce qu'Antoine
+dira, je d�clarerai qu'Antoine le dit de notre aveu, par notre
+permission, et que nous consentons qu'on accomplisse pour C�sar tous les
+rites r�guliers, toutes les c�r�monies l�gales. Cela nous sera plut�t
+avantageux que contraire.
+
+CASSIUS.--Je ne sais ce qui en peut arriver: cela me d�pla�t.
+
+BRUTUS.--Approchez, Marc-Antoine; disposez du corps de C�sar. Dans votre
+harangue fun�raire, vous vous abstiendrez de nous bl�mer; mais dites de
+C�sar tout le bien qui vous viendra en pens�e, et ajoutez que vous le
+faites par notre permission; autrement vous n'aurez aucune esp�ce de
+part dans ses fun�railles.
+
+ANTOINE.--Soit; je n'en d�sire pas davantage.
+
+BRUTUS.--Pr�parez donc le corps et suivez-nous.
+
+(Tous sortent, except� Antoine.)
+
+ANTOINE.--O pardonne-moi, masse de terre encore saignante, si je parais
+doux et pacifique avec ces bouchers! Tu es le d�bris du plus grand
+homme qui ait jamais v�cu dans la dur�e des �ges. Malheur � la main qui
+r�pandit ce sang pr�cieux! Je le pr�dis en ce moment sur tes blessures,
+qui, comme autant de bouches muettes, ouvrent leurs l�vres rougies pour
+me demander la voix et les paroles de ma langue. La mal�diction va
+fondre sur la t�te des hommes; les fureurs intestines, la terrible
+guerre civile vont envahir toutes les parties de l'Italie. Le sang, la
+destruction seront des choses si communes, et les objets effroyables
+deviendront si familiers, que les m�res ne feront plus que sourire � la
+vue de leurs enfants d�chir�s des mains de la guerre. Toute piti� sera
+�touff�e par l'habitude des actions atroces; et conduisant avec
+elle At�, sortie br�lante de l'enfer, l'ombre de C�sar prom�nera
+sa vengeance, criant d'une voix puissante dans l'int�rieur de nos
+fronti�res: Carnage[40]! et alors seront l�ch�s les chiens de la guerre,
+jusqu'� ce qu'enfin l'odeur de cette action ex�crable s'�l�ve au-dessus
+de la terre avec les exhalaisons des cadavres pourris, g�missant apr�s
+la s�pulture. (_Entre un serviteur._) Vous servez Octave C�sar, n'est-il
+pas vrai?
+
+[Note 40: _Havock!_ (d�vastation, carnage) �tait en Angleterre, dans
+les anciens temps, le cri par lequel on ordonnait aux combattants de ne
+faire aucun quartier.]
+
+LE SERVITEUR.--Je le sers, Marc-Antoine.
+
+ANTOINE.--C�sar lui a �crit de se rendre � Rome.
+
+LE SERVITEUR.--Il a re�u les lettres de C�sar. Il est en chemin, et
+il m'a charg� de vous dire de vive voix.... (_Il aper�oit le corps de
+C�sar._) O C�sar!
+
+ANTOINE.--Ton coeur se gonfle: retire-toi � l'�cart et pleure. La
+douleur, je le sens, est contagieuse; et mes yeux, en voyant rouler dans
+les tiens ces marques de ton affliction, commencent � se remplir de
+larmes.--Ton ma�tre vient-il?
+
+LE SERVITEUR.--Il couche cette nuit � sept lieues de Rome.
+
+ANTOINE.--Retourne sur tes pas en diligence, et dis-lui ce qui est
+arriv�. Il n'y a plus ici qu'une Rome en deuil, une Rome dangereuse,
+et non point une Rome o� Octave puisse encore trouver la s�ret�[41].
+H�te-toi de partir et de lui donner cet avis.--Non, demeure encore: tu
+ne partiras point que je n'aie port� ce corps sur la place du march�.
+L�, dans ma harangue, je pressentirai les dispositions du peuple sur le
+cruel succ�s de ces hommes de sang, et, selon l'�v�nement, tu rendras
+compte au jeune Octave de l'�tat des choses.--Pr�tez-moi la main.
+
+(Ils sortent, emportant le corps de C�sar.)
+
+[Note 41: _No Rome of safety._ Shakspeare a eu probablement ici
+l'intention de renouveler le jeu de mots entre _Rome_ et _room_, d�j�
+employ� dans la premi�re sc�ne, entre Cassius et Brutus.]
+
+
+
+SC�NE II
+
+
+Toujours � Rome.--Le Forum.
+
+_Entrent_ BRUTUS ET CASSIUS, _et une foule de citoyens_.
+
+LES CITOYENS.--Nous voulons qu'on nous rende raison de ce qui a �t�
+fait: rendez-nous-en raison.
+
+BRUTUS.--Suivez-moi donc et pr�tez l'oreille � mon discours,
+amis.--Vous, Cassius, passez dans la rue voisine et partageons le peuple
+entre nous.--Ceux qui voudront m'entendre parler, qu'ils demeurent ici;
+que ceux qui veulent �couter Cassius aillent avec lui, et il va �tre
+rendu un compte public des motifs de la mort de C�sar.
+
+PREMIER CITOYEN.--Je veux entendre parler Brutus.
+
+SECOND CITOYEN.--Je veux entendre Cassius, afin de comparer leurs
+raisons quand nous les aurons �cout�s s�par�ment l'un et l'autre.
+
+(Cassius sort avec une partie du peuple. Brutus monte dans le rostrum.)
+
+TROISI�ME CITOYEN.--Le noble Brutus est mont�; silence.
+
+BRUTUS.--�coutez patiemment jusqu'� la fin. Romains, compatriotes, amis,
+entendez-moi dans ma cause, et faites silence pour que vous puissiez
+entendre. Croyez-moi pour mon honneur, et ayez �gard � mon honneur, afin
+que vous puissiez me croire. Jugez-moi dans votre sagesse, et faites
+usage de votre raison afin de pouvoir mieux juger. S'il est dans cette
+assembl�e quelque ami sinc�re de C�sar, je lui dis que l'amour de Brutus
+pour C�sar n'�tait pas moindre que le sien. Si cet ami demande pourquoi
+Brutus s'est �lev� contre C�sar, voici ma r�ponse: ce n'est pas que
+j'aimasse moins C�sar, mais j'aimais Rome davantage. Aimeriez-vous mieux
+voir C�sar vivant et mourir tous esclaves, que de voir C�sar mort, et de
+vivre tous libres? C�sar m'aimait, je le pleure; il fut heureux, je m'en
+r�jouis; il �tait vaillant, je l'honore: mais il fut ambitieux, et
+je l'ai tu�. Il y a des larmes pour son amiti�, du respect pour
+sa vaillance, de la joie pour sa fortune, et la mort pour son
+ambition.--Quel est ici l'homme assez abject pour vouloir �tre esclave?
+S'il en est un, qu'il parle, car pour lui je l'ai offens�. Quel est ici
+l'homme assez stupide pour ne vouloir pas �tre un Romain? S'il en est
+un, qu'il parle, car pour lui je l'ai offens�. Quel est ici l'homme
+assez vil pour ne pas aimer sa patrie? S'il en est un, qu'il parle, car
+pour lui je l'ai offens�.--Je m'arr�te pour attendre une r�ponse.
+
+PLUSIEURS CITOYENS _parlant � la fois_.--Personne, Brutus, personne.
+
+BRUTUS.--Je n'ai donc offens� personne. Je n'ai pas fait plus contre
+C�sar que vous n'avez droit de faire contre Brutus. Les motifs de
+sa mort sont enregistr�s au Capitole, sans att�nuer la gloire qu'il
+m�ritait, sans appuyer sur ses fautes, pour lesquelles il a subi la
+mort. (_Entrent Antoine et plusieurs autres conduisant le corps de
+C�sar._)--Voici son corps qui s'avance accompagn� de signes de deuil
+par les soins de Marc-Antoine, qui, sans avoir particip� � sa mort,
+recueillera les fruits de son tr�pas, une place dans la r�publique. Et
+qui de vous n'en recueillera pas une? Voici ce que j'ai � vous dire en
+vous quittant: Ainsi que j'ai tu� mon meilleur ami pour le bien de Rome,
+de m�me je garde ce poignard pour moi d�s que ma patrie jugera ma mort
+n�cessaire.
+
+LES CITOYENS.--Vivez, Brutus, vivez, vivez!
+
+PREMIER CITOYEN.--Reconduisons-le en triomphe jusque dans sa maison.
+
+SECOND CITOYEN.--�levons-lui une statue parmi ses anc�tres.
+
+TROISI�ME CITOYEN.--Qu'il soit fait C�sar.
+
+QUATRI�ME CITOYEN.--Les meilleures qualit�s de C�sar seront couronn�es
+dans Brutus.
+
+PREMIER CITOYEN.--Il faut le conduire � sa maison avec de bruyantes
+acclamations.
+
+BRUTUS.--Mes concitoyens!
+
+SECOND CITOYEN.--Paix, silence; Brutus parle.
+
+PREMIER CITOYEN.--Hol�, silence.
+
+BRUTUS.--Bons concitoyens, laissez-moi me retirer seul, et, pour l'amour
+de moi, demeurez ici avec Antoine. Accueillez le corps de C�sar,
+et accueillez aussi sa harangue � la gloire de C�sar.--C'est notre
+permission qui autorise Marc-Antoine � la faire. Je vous conjure, que
+personne ne sorte d'ici que moi seul, jusqu'� ce qu'Antoine ait parl�.
+
+(Il sort.)
+
+PREMIER CITOYEN.--Hol�, restez; �coutons Marc-Antoine.
+
+TROISI�ME CITOYEN.--Qu'il monte dans la tribune, nous l'�couterons.
+Noble Antoine, montez.
+
+ANTOINE.--Je suis reconnaissant de ce que vous m'accordez pour l'amour
+de Brutus.
+
+QUATRI�ME CITOYEN.--Que dit-il de Brutus?
+
+TROISI�ME CITOYEN.--Il dit qu'il est reconnaissant envers nous tous de
+ce que nous lui accordons pour l'amour de Brutus.
+
+QUATRI�ME CITOYEN.--Il ferait bien de ne pas parler mal de Brutus.
+
+PREMIER CITOYEN.--Ce C�sar �tait un tyran.
+
+TROISI�ME CITOYEN.--Oui, cela est certain: nous sommes bien heureux que
+Rome en soit d�livr�e.
+
+SECOND CITOYEN.--Paix: �coutons ce qu'Antoine pourra dire.
+
+ANTOINE.--G�n�reux Romains....
+
+LES CITOYENS.--Silence! hol�! �coutons-le.
+
+ANTOINE.--Amis, Romains, compatriotes, pr�tez-moi l'oreille.--Je viens
+pour inhumer C�sar, non pour le louer. Le mal que font les hommes vit
+apr�s eux; le bien est souvent enterr� avec leurs os. Qu'il en soit
+ainsi de C�sar.--Le noble Brutus vous a dit que C�sar �tait ambitieux:
+s'il l'�tait, ce fut une faute grave, et C�sar en a �t� gravement
+puni.--Ici par la permission de Brutus et des autres (car Brutus est un
+homme honorable: ils le sont tous, tous des hommes honorables), je viens
+pour parler aux fun�railles de C�sar. Il �tait mon ami, il fut fid�le et
+juste envers moi; mais Brutus dit qu'il �tait ambitieux, et Brutus est
+un homme honorable.--Il a ramen� dans Rome une foule de captifs dont
+les ran�ons ont rempli les coffres publics: C�sar en ceci parut-il
+ambitieux? Lorsque les pauvres ont g�mi, C�sar a pleur�: l'ambition
+devrait �tre form�e d'une mati�re plus dure.--Cependant Brutus dit qu'il
+�tait ambitieux, et Brutus est un homme honorable.--Vous avez tous vu
+qu'aux Lupercales, trois fois je lui pr�sentai une couronne de roi,
+et que trois fois il la refusa. �tait-ce l� de l'ambition?--Cependant
+Brutus dit qu'il �tait ambitieux, et s�rement Brutus est un homme
+honorable. Je ne parle point pour contredire ce que Brutus a dit, mais
+je suis ici pour dire ce que je sais.--Vous l'aimiez tous autrefois, et
+ce ne fut pas sans cause: quelle cause vous emp�che donc de pleurer sur
+lui? O discernement, tu as fui chez les brutes grossi�res, et les hommes
+ont perdu leur raison!--Soyez indulgents pour moi; mon coeur est dans ce
+cercueil avec C�sar: il faut que je m'arr�te jusqu'� ce qu'il me soit
+revenu.
+
+PREMIER CITOYEN.--Il y a, ce me semble, beaucoup de raison dans ce qu'il
+dit.
+
+SECOND CITOYEN.--Si tu examines sens�ment cette affaire, C�sar a essuy�
+une grande injustice.
+
+TROISI�ME CITOYEN.--Serait-il vrai, compagnons? Je crains qu'il n'en
+vienne � sa place un plus mauvais que lui.
+
+QUATRI�ME CITOYEN.--Avez-vous remarqu� ces mots: �Il ne voulut pas
+prendre la couronne?� Donc il est certain qu'il n'�tait pas ambitieux.
+
+PREMIER CITOYEN.--Si cela est prouv�, il en co�tera cher � quelques-uns.
+
+SECOND CITOYEN.--Pauvre homme! ses yeux sont rouges comme le feu � force
+de pleurer.
+
+TROISI�ME CITOYEN.--Il n'est pas dans Rome un homme d'un plus grand
+coeur qu'Antoine.
+
+QUATRI�ME CITOYEN.--Attention maintenant, il recommence � parler.
+
+ANTOINE.--Hier encore la parole de C�sar aurait pu r�sister � l'Univers:
+aujourd'hui le voil� �tendu, et parmi les plus mis�rables, il n'en est
+pas un qui croie avoir � lui rendre quelque respect! O citoyens, si
+j'avais envie d'exciter vos coeurs et vos esprits � la r�volte et � la
+fureur, je pourrais faire tort � Brutus, faire tort � Cassius, qui, vous
+le savez tous, sont des hommes honorables. Je ne veux pas leur faire
+tort: j'aime mieux faire tort au mort, � moi-m�me, et � vous aussi,
+que de faire tort � des hommes si honorables.--Mais voici un parchemin
+scell� du sceau de C�sar; je l'ai trouv� dans son cabinet. Si le peuple
+entendait seulement ce testament, que, pardonnez-le-moi, je n'ai pas
+dessein de vous lire, tous courraient baiser les blessures du corps de
+C�sar, et tremper leurs mouchoirs dans son sang sacr�; oui, je vous le
+dis, tous solliciteraient en souvenir de lui un de ses cheveux qu'�
+leur mort ils mentionneraient dans leurs testaments, le l�guant � leur
+post�rit� comme un pr�cieux h�ritage.
+
+QUATRI�ME CITOYEN.--Nous voulons entendre le testament: lisez-le,
+Marc-Antoine.
+
+LES CITOYENS.--Le testament! le testament! nous voulons entendre le
+testament de C�sar.
+
+ANTOINE.--Mod�rez-vous, mes bons amis; je ne dois pas le lire. Il n'est
+pas � propos que vous sachiez combien C�sar vous aimait. Vous n'�tes pas
+de bois, vous n'�tes pas de pierre, vous �tes des hommes; et puisque
+vous �tes des hommes, si vous entendiez le testament de C�sar, il vous
+rendrait fr�n�tiques. Il est bon que vous ne sachiez pas que vous �tes
+ses h�ritiers; car si vous le saviez, oh! qu'en arriverait-il?
+
+QUATRI�ME CITOYEN.--Lisez le testament; nous voulons l'entendre,
+Antoine. Vous nous lirez le testament, le testament de C�sar.
+
+ANTOINE.--Voulez-vous avoir de la patience? voulez-vous diff�rer quelque
+temps?--Je me suis laiss� entra�ner trop loin en parlant du testament.
+Je crains de faire tort � ces hommes honorables dont les poignards ont
+massacr� C�sar; je le crains.
+
+QUATRI�ME CITOYEN.--Ce furent des tra�tres. Eux, des hommes honorables!
+
+LES CITOYENS.--Le testament! les dispositions de C�sar!
+
+SECOND CITOYEN.--Ce sont des sc�l�rats, des assassins.--Le testament! le
+testament!
+
+ANTOINE.--Vous voulez donc me contraindre � lire le testament? Puisqu'il
+en est ainsi, formez un cercle autour du corps de C�sar, et
+laissez-moi vous montrer celui qui fit le testament.--Descendrai-je? y
+consentez-vous?
+
+LES CITOYENS.--Venez, venez.
+
+SECOND CITOYEN.--Descendez.
+
+TROISI�ME CITOYEN.--Nous y consentons.
+
+(Antoine descend de la tribune.)
+
+QUATRI�ME CITOYEN.--Formons un cercle, mettons-nous autour de lui.
+
+PREMIER CITOYEN.--�cartez-vous du cercueil, �cartez-vous du corps.
+
+SECOND CITOYEN.--Place pour Antoine, le noble Antoine.
+
+ANTOINE.--Ne vous jetez pas ainsi sur moi, tenez-vous �loign�s.
+
+LES CITOYENS.--En arri�re, place, reculons en arri�re.
+
+ANTOINE.--Si vous avez des larmes, pr�parez-vous � les r�pandre
+maintenant.--Vous connaissez tous ce manteau.--Je me souviens de la
+premi�re fois o� C�sar le porta: c'�tait un soir d'�t� dans sa tente, le
+jour m�me qu'il vainquit les Nerviens.--Regardez; � cet endroit il a �t�
+travers� par le poignard de Cassius. Voyez quelle large d�chirure y a
+faite le haineux Casca! C'est � travers celle-ci que le bien-aim�
+Brutus a poignard� C�sar; et lorsqu'il retira son d�testable fer, voyez
+jusqu'o� le sang de C�sar l'a suivi, se pr�cipitant au dehors comme
+pour s'assurer si c'�tait bien Brutus qui frappait si cruellement; car
+Brutus, vous le savez, �tait un ange pour C�sar. Jugez, � vous, grands
+dieux, avec quelle tendresse C�sar l'aimait: cette blessure fut pour
+lui la plus cruelle de toutes; car lorsque le noble C�sar vit Brutus le
+poignarder, l'ingratitude, plus forte que les bras des tra�tres, acheva
+de le vaincre: alors son coeur puissant se brisa, et de son manteau
+enveloppant son visage, au pied m�me de la statue de Pomp�e qui
+ruisselait de son sang, le grand C�sar tomba.--Oh! quelle a �t� cette
+chute, mes concitoyens! Alors vous et moi, et chacun de nous, tomb�mes
+avec lui, tandis que la trahison sanguinaire brandissait triomphante son
+glaive sur nos t�tes.--Oh! maintenant vous pleurez; je le vois, vous
+sentez le pouvoir de la piti�. Ce sont de g�n�reuses larmes. Bons
+coeurs, quoi, vous pleurez, en ne voyant encore que les plaies du
+manteau de notre C�sar! Regardez-ici: le voici lui-m�me d�chir�, comme
+vous le voyez, par des tra�tres!
+
+PREMIER CITOYEN.--O lamentable spectacle!
+
+SECOND CITOYEN.--O noble C�sar!
+
+TROISI�ME CITOYEN.--O jour de malheur!
+
+QUATRI�ME CITOYEN.--O tra�tres! sc�l�rats!
+
+PREMIER CITOYEN.--O sanglant, sanglant spectacle!
+
+SECOND CITOYEN.--Nous voulons �tre veng�s. Vengeance!--Courons,
+cherchons.--Br�lons.--Du feu!--Tuons, massacrons.--Ne laissons pas vivre
+un des tra�tres.
+
+ANTOINE.--Arr�tez, concitoyens.
+
+PREMIER CITOYEN.--Paix; �coutez le noble Antoine.
+
+SECOND CITOYEN.--Nous l'�couterons, nous le suivrons; nous mourrons avec
+lui.
+
+ANTOINE.--Bons amis, chers amis, que ce ne soit point moi qui vous
+pr�cipite dans ce soudain d�bordement de r�volte.--Ceux qui ont fait
+cette action sont des hommes honorables. Quels griefs personnels ils
+ont eu pour la faire, h�las! je ne le sais pas: ils sont sages et
+honorables, et sans doute ils auront des raisons � vous donner.--Je ne
+viens point, amis, surprendre insidieusement vos coeurs; je ne suis
+point, comme Brutus un orateur; je suis tel que vous me connaissez tous,
+un homme simple et sans art qui aime son ami, et ceux qui m'ont donn�
+la permission de parler de lui en public le savent bien; car je n'ai ni
+esprit, ni talent de parole, ni autorit�, ni gr�ce d'action, ni organe,
+ni aucun de ces pouvoirs d'�loquence qui �meuvent le sang des hommes.
+Je ne sais qu'exprimer la v�rit�; je ne vous dis que ce que vous savez
+vous-m�mes: je vous montre les blessures du bon C�sar (pauvres, pauvres
+bouches muettes!), et je les charge de parler pour moi. Mais si j'�tais
+Brutus, et que Brutus f�t Antoine, il y aurait alors un Antoine qui
+porterait le trouble dans vos esprits, et donnerait � chaque blessure de
+C�sar une langue qui remuerait les pierres de Rome et les soul�verait �
+la r�volte.
+
+LES CITOYENS.--Nous nous soul�verons.
+
+PREMIER CITOYEN.--Nous br�lerons la maison de Brutus.
+
+TROISI�ME CITOYEN.--Courons � l'instant, venez, cherchons les
+conspirateurs.
+
+ANTOINE.--�coutez-moi encore, compatriotes; �coutez encore ce que j'ai �
+vous dire.
+
+LES CITOYENS.--Hol�, silence; �coutons Antoine, le tr�s-noble Antoine.
+
+ANTOINE.--Quoi, mes amis, savez-vous ce que vous allez faire? En quoi
+C�sar a-t-il m�rit� de vous tant d'amour? H�las! vous l'ignorez: il faut
+donc que je vous le dise. Vous avez oubli� le testament dont je vous ai
+parl�.
+
+LES CITOYENS.--C'est vrai!--Le testament; restons et �coutons le
+testament.
+
+ANTOINE.--Le voici, le testament, et scell� du sceau de C�sar.--�
+chaque citoyen romain, � chacun de vous tous, il donne soixante-quinze
+drachmes.
+
+SECOND CITOYEN.--O noble C�sar!--Nous vengerons sa mort.
+
+TROISI�ME CITOYEN.--O royal C�sar!
+
+ANTOINE.--�coutez-moi avec patience.
+
+LES CITOYENS.--Silence donc.
+
+ANTOINE.--En outre il vous a l�gu� tous ses jardins, ses bocages ferm�s,
+et ses vergers r�cemment plant�s de ce c�t� du Tibre. Il vous les a
+laiss�s, � vous et � vos h�ritiers � perp�tuit�, pour en faire des
+jardins publics destin�s � vos promenades et � vos amusements.--C'�tait
+l� un C�sar: quand en na�tra-t-il un pareil?
+
+PREMIER CITOYEN.--Jamais, jamais.--Venez, partons, partons; allons
+br�ler son corps sur la place sacr�e, et avec les tisons incendier
+toutes les maisons des tra�tres.--Enlevez le corps.
+
+SECOND CITOYEN.--Allez, apportez du feu.
+
+TROISI�ME CITOYEN.--Jetez bas les si�ges.
+
+QUATRI�ME CITOYEN.--Enlevez les bancs, les fen�tres, tout.
+
+(Le peuple sort emportant le corps.)
+
+ANTOINE, _� part_.--Maintenant laissons faire.--G�nie du mal! te voil�
+lanc�; suis le cours qu'il te plaira.--(_Entre un serviteur._) Qu'y
+a-t-il, camarade?
+
+LE SERVITEUR.--Seigneur, Octave est d�j� arriv� dans Rome.
+
+ANTOINE.--O� est-il?
+
+LE SERVITEUR.--L�pidus et lui sont dans la maison de C�sar.
+
+ANTOINE.--Je vais l'y voir � l'instant; il arrive � souhait.--La Fortune
+est en belle humeur, et dans ce caprice elle nous accordera tout.
+
+LE SERVITEUR.--Octave a dit devant moi que Brutus et Cassius �taient
+sortis au galop hors des portes de Rome, comme des hommes qui ont la
+t�te perdue.
+
+ANTOINE.--Sans doute ils auront re�u du peuple quelque nouvelle de la
+mani�re dont je l'ai anim�.--Conduis-moi vers Octave.
+
+(Antoine sort, suivi du serviteur.)
+
+
+
+SC�NE III
+
+
+Toujours � Rome.--Une rue.
+
+_Entre_ CINNA _le po�te_.
+
+CINNA.--J'ai r�v� cette nuit que j'�tais � un banquet avec C�sar, et mon
+imagination est obs�d�e d'id�es funestes. Je me sens de la r�pugnance �
+sortir de ma maison; cependant quelque chose m'entra�ne.
+
+(Entrent des citoyens.)
+
+PREMIER CITOYEN.--Quel est votre nom?
+
+SECOND CITOYEN.--O� allez-vous?
+
+TROISI�ME CITOYEN.--O� demeurez-vous?
+
+QUATRI�ME CITOYEN.--�tes-vous mari� ou gar�on?
+
+SECOND CITOYEN.--R�pondez sans d�tour � chacun de nous.
+
+PREMIER CITOYEN.--Oui, et bri�vement.
+
+QUATRI�ME CITOYEN,--Oui, et sagement.
+
+TROISI�ME CITOYEN.--Oui, et v�ridiquement; vous ferez bien.
+
+CINNA.--Quel est mon nom, o� je vais, o� je demeure, si je suis mari� ou
+gar�on? Eh bien! pour r�pondre � chacun de vous sans d�tour, bri�vement,
+v�ridiquement et sagement, je dis sagement: Je suis gar�on.
+
+SECOND CITOYEN.--Autant dire: Il n'y a que les imb�ciles qui se marient.
+Vous pourriez bien �tre ross� pour �a, j'en ai peur. Poursuivez et sans
+d�tour.
+
+CINNA.--Sans d�tour? J'allais aux fun�railles de C�sar.
+
+PREMIER CITOYEN.--Comme ami, ou comme ennemi?
+
+CINNA.--Comme ami.
+
+SECOND CITOYEN.--C'est r�pondre sans d�tour.
+
+QUATRI�ME CITOYEN.--Et votre demeure? Bri�vement.
+
+CINNA.--Bri�vement? Je demeure pr�s du Capitole.
+
+TROISI�ME CITOYEN.--Et votre nom, s'il vous pla�t? v�ridiquement.
+
+CINNA.--V�ridiquement? Mon nom est Cinna.
+
+PREMIER CITOYEN.--Mettons-le en pi�ces: c'est un conspirateur.
+
+CINNA.--Je suis Cinna le po�te, je suis Cinna le po�te.
+
+QUATRI�ME CITOYEN.--Mettons-le en pi�ces pour ses mauvais vers,
+mettons-le en pi�ces pour ses mauvais vers.
+
+CINNA.--Je ne suis point Cinna le conspirateur.
+
+QUATRI�ME CITOYEN.--N'importe, il se nomme Cinna; arrachons seulement
+son nom de son coeur, et puis nous le laisserons aller.
+
+TROISI�ME CITOYEN.--D�chirons-le, d�chirons-le,--Allons, des brandons,
+hol�, des brandons de feu!--Chez Brutus, chez Cassius, br�lons
+tout.--Quelques-uns � la maison de D�cius, quelques-uns chez Ligarius:
+partons, courons.
+
+(Ils sortent.)
+
+FIN DU TROISI�ME ACTE.
+
+
+
+ACTE QUATRI�ME
+
+
+
+SC�NE I
+
+
+Toujours � Rome.--Une pi�ce de la maison d'Antoine.
+
+ANTOINE, OCTAVE, L�PIDUS, _assis autour d'une table_.
+
+ANTOINE.--Ainsi, tous ceux-l� p�riront. Leurs noms sont point�s.
+
+OCTAVE.--Votre fr�re aussi doit mourir. Y consentez-vous, L�pidus?
+
+L�PIDUS.--J'y consens.
+
+OCTAVE.--Pointez-le, Antoine.
+
+L�PIDUS.--� condition que Publius[42] ne vivra pas, le fils de votre
+soeur, Marc-Antoine.
+
+[Note 42: Ce ne fut point Publius, mais Lucius C�sar, son oncle,
+qu'Antoine abandonna � la proscription. PLUTARQUE, _Vie d'Antoine_.]
+
+ANTOINE.--Il ne vivra pas: voyez, de ce trait, je le condamne.--Mais
+vous, L�pidus, allez � la maison de C�sar, rapportez-nous le testament,
+et nous verrons � faire quelques coupures dans les charges qu'il nous a
+l�gu�es.
+
+L�PIDUS.--Mais vous retrouverai-je ici?
+
+OCTAVE.--Ou ici, ou au Capitole.
+
+(L�pidus sort.)
+
+ANTOINE.--_regardant aller L�pidus_.--C'est l� un homme nul et sans
+m�rite, bon � �tre envoy� en message. Lorsqu'il se fait trois parts de
+l'univers, convient-il qu'il soit l'un des trois copartageants?
+
+OCTAVE.--Vous le jugiez ainsi, et vous avez pris sa voix sur ceux
+qui doivent �tre d�sign�s � la mort dans notre noire sentence de
+proscription!
+
+ANTOINE.--Octave, j'ai vu plus de jours que vous; et si nous pla�ons
+ces honneurs sur cet homme en vue de nous soulager nous-m�mes de divers
+fardeaux odieux, il ne fera que les porter comme l'�ne porte l'or,
+g�missant et suant sous sa charge, tant�t conduit, tant�t chass� dans la
+voie que nous lui indiquerons; et quand il aura voitur� notre tr�sor au
+lieu qui nous convient, alors nous lui reprendrons son fardeau, et nous
+le renverrons, comme l'�ne d�charg�, secouer ses oreilles et pa�tre dans
+les pr�s du commun.
+
+OCTAVE.--Vous pouvez faire ce qu'il vous plaira; mais c'est un soldat
+intr�pide et �prouv�.
+
+ANTOINE.--Comme mon cheval, Octave; et � cause de cela je lui assigne
+sa ration de fourrage. C'est un animal que j'instruis � combattre, �
+volter, � s'arr�ter ou � courir en avant. Ses mouvements physiques sont
+gouvern�s par mon intelligence, et � certains �gards L�pidus n'est rien
+de plus; il a hesoin d'�tre instruit, dress� et averti de se mettre en
+marche. C'est un esprit st�rile n'ayant pour p�ture que les objets, les
+arts, les imitations, qui, d�j� us�s et vieillis pour les autres hommes,
+deviennent ses mod�les. Ne t'en occupe que comme d'une chose qui nous
+appartient; maintenant, Octave, de grands int�r�ts r�clament notre
+attention.--Brutus et Cassius l�vent des arm�es; il faut nous pr�parer �
+leur tenir t�te. Songeons donc � combiner notre alliance, � nous assurer
+de nos meilleurs amis, � d�ployer nos plus puissantes ressources; et
+allons de ce pas nous r�unir pour d�lib�rer sur les moyens les plus
+efficaces de d�couvrir les choses cach�es, sur les plus s�rs moyens de
+faire face aux p�rils connus.
+
+OCTAVE.--J'en suis d'avis; car nous sommes comme la b�te attach�e au
+poteau, entour�s d'ennemis qui aboient et nous harc�lent; et plusieurs
+qui nous sourient renferment, je le crains bien, dans leurs coeurs des
+millions de projets perfides.
+
+(Ils sortent.)
+
+
+
+SC�NE II
+
+
+Le devant de la tente de Brutus, au camp de Sardes.
+
+TAMBOURS. _Entrent_ BRUTUS, LUCILIUS, LUCIUS _et des soldats_; TITINIUS
+ET PINDARUS _viennent � leur rencontre_.
+
+BRUTUS.--Hol�, halte!
+
+LUCILIUS.--Le mot d'ordre; hol�! halte!
+
+BRUTUS.--Qu'y a-t-il, Lucilius? Cassius est-il pr�s d'ici?
+
+LUCILIUS.--Tout pr�s; et Pindarus vient vous saluer de la part de son
+ma�tre.
+
+(Pindarus donne une lettre � Brutus.)
+
+BRUTUS.--Je re�ois son salut avec plaisir. Pindarus, votre ma�tre, soit
+par son propre changement, soit par la faute de ses subordonn�s, m'a
+donn� quelques sujets de souhaiter que des choses faites ne le fussent
+pas. Mais puisqu'il arrive, il me satisfera lui-m�me.
+
+PINDARUS.--Je ne doute point que mon noble ma�tre ne se montre tel qu'il
+est, plein d'�gards et de consid�ration pour vous.
+
+BRUTUS.--Je n'en fais aucun doute.--Lucilius, un mot. Je voudrais savoir
+comment il vous a re�u. �clairez-moi � ce sujet.
+
+LUCILIUS.--Avec civilit� et assez d'�gards, mais non pas avec cet air
+de familiarit�, avec ce ton de conversation franche et amicale qui lui
+�taient ordinaires autrefois.
+
+BRUTUS.--Tu viens de peindre un ami chaud qui se refroidit. Remarque,
+Lucilius, que toujours l'amiti�, quand elle commence � s'affaiblir et �
+d�cliner, a recours � un redoublement de politesses c�r�monieuses. Il
+n'y a point d'art dans la franche et simple bonne foi; mais les hommes
+doubles, semblables � des chevaux ardents � la main, se montrent si
+vigoureux, qu'� les voir on doit tout attendre de leur courage; puis au
+moment o� il faudrait savoir supporter l'�peron sanglant, ils laissent
+tomber leur t�te, et, comme une b�te us�e qui n'a que l'apparence, ils
+succombent dans l'�preuve.--Vient-il avec toutes ses troupes?
+
+LUCILIUS.--Elles comptent prendre cette nuit leurs quartiers dans
+Sardes. Le gros de l'arm�e, la cavalerie enti�re, arrivent avec Cassius.
+
+(Une marche derri�re le th��tre.)
+
+BRUTUS.--�coutons, il approche. Marchons sans bruit � sa rencontre.
+
+(Entrent Cassius et des soldats.)
+
+CASSIUS.--Hol�, halte!
+
+BRUTUS.--Hol�, halte! Faites passer l'ordre le long des files.
+
+(Derri�re le th��tre.)
+
+Halte! halte! halte!
+
+CASSIUS _� Brutus_.--Mon noble fr�re, vous avez eu des torts envers moi.
+
+BRUTUS.--O dieux que j'atteste, jugez-moi.--Ai-je jamais eu des torts
+envers mes ennemis? Comment donc voudrais-je avoir des torts envers mon
+fr�re?
+
+CASSIUS.--Brutus, cette r�serve cache des torts, et quand vous en
+avez....
+
+BRUTUS.--Cassius, assez, exposez vos griefs sans violence. Je vous
+connais bien. Ne nous querellons point ici sous les yeux de nos deux
+arm�es qui ne devraient apercevoir entre nous que de l'amiti�. Faites
+retirer vos soldats; et alors, Cassius, venez dans ma tente, d�taillez
+vos griefs, et je vous �couterai.
+
+CASSIUS.--Pindarus, commande � nos chefs de conduire leurs troupes �
+quelque distance.
+
+BRUTUS.--Donne le m�me ordre, Lucilius; et tant que durera notre
+conf�rence, ne laisse personne approcher de la tente. Que Lucius et
+Titinius en gardent l'entr�e.
+
+(Ils sortent.)
+
+
+
+SC�NE III
+
+
+L'int�rieur de la tente de Brutus.--Lucius et Titinius � une certaine
+distance.
+
+_Entrent_ BRUTUS ET CASSIUS.
+
+CASSIUS.--Que vous ayez des torts envers moi, cela est manifeste en
+ceci: vous avez condamn� et not� Lucius Pella[43] pour s'�tre ici laiss�
+corrompre par les Sardiens, et n'avez ainsi tenu aucun compte des
+lettres que je vous �crivais en sa faveur parce que je le connaissais.
+
+[Note 43: Ce ne fut que le lendemain de cette querelle que Brutus
+_condamna judiciellement en public, et nota d'infamie Lucius Pella_,
+ce qui �d�pleut merveilleusement � Cassius, � cause que peu de jours
+auparavant avoit seulement admonest� de paroles en priv�, deux de ses
+amis atteincts et convaincus de mesmes crimes, et en public, les avoit
+absouts, et ne laissoit pas de les employer et de s'en servir comme
+devant. PLUTARQUE, _Vie de Brutus_.]
+
+BRUTUS.--C'�tait vous faire tort � vous-m�me que d'�crire pour une
+pareille affaire.
+
+CASSIUS.--Dans le temps o� nous sommes, il n'est pas � propos que la
+plus l�g�re faute entra�ne ainsi ses cons�quences.
+
+BRUTUS.--Mais vous, Cassius, vous-m�me, souffrez que je vous le dise:
+on vous reproche d'avoir une main avide, de trafiquer des emplois qui
+d�pendent de vous, et de les vendre pour de l'or � des hommes sans
+m�rite.
+
+CASSIUS.--Moi une main avide!.... Vous savez bien que vous �tes Brutus
+lorsque vous me parlez ainsi; ou, par les dieux, ce discours e�t �t�
+pour vous le dernier.
+
+BRUTUS.--La corruption s'honore ainsi du nom de Cassius, et le ch�timent
+est oblig� de cacher sa t�te.
+
+CASSIUS.--Le ch�timent!
+
+BRUTUS.--Souvenez-vous du mois de mars, souvenez-vous des ides de mars.
+Le sang du grand C�sar ne coula-t-il pas au nom de la justice? Parmi
+ceux qui port�rent la main sur lui, quel �tait le sc�l�rat qui l'e�t
+poignard� pour une autre cause que la justice? Quoi! nous qui n'avons
+frapp� le premier homme de l'Univers que pour avoir prot�g� des voleurs,
+nous souillerons aujourd'hui nos doigts de pr�sents inf�mes? nous
+vendrons la magnifique carri�re qu'ouvrent les honneurs les plus �lev�s,
+nous la vendrons pour cette poign�e de vils m�taux que peut contenir ma
+main? J'aimerais mieux �tre un chien et aboyer � la lune, que d'�tre un
+pareil Romain.
+
+CASSIUS.--Brutus, ne vous m�lez pas de me gourmander, je ne l'endurerai
+point: vous vous oubliez vous-m�me; vous me poussez � bout. Je suis un
+soldat, moi, plus ancien que vous dans le m�tier, plus capable que vous
+de faire des conditions.
+
+BRUTUS.--Allons donc! vous ne l'�tes nullement, Cassius.
+
+CASSIUS.--Je le suis.
+
+BRUTUS.--Je vous dis que vous ne l'�tes pas.
+
+CASSIUS.--Ne continuez pas � m'irriter ainsi, ou je m'oublierai. Songez
+� votre vie; ne me tentez pas davantage.
+
+BRUTUS.--Laissez-moi, homme sans consistance.
+
+CASSIUS.--Est-il possible?
+
+BRUTUS.--�coutez-moi, car je veux parler. Suis-je oblig� de laisser un
+libre cours � votre fougueuse col�re? Serai-je effray� parce qu'un fou
+me regarde?
+
+CASSIUS.--O dieux! O dieux! me faudra-t-il endurer tout cela?
+
+BRUTUS.--Oui, tout cela, et plus encore. Agitez-vous jusqu'� ce que
+votre coeur orgueilleux en �clate. Allez montrer � vos esclaves combien
+vous �tes col�rique, et faire trembler vos vilains. Faudra-t-il que je
+m'�carte? Faudra-t-il que je vous observe? Faudra-t-il que je subisse
+en rampant les caprices de votre humeur maussade? Par les dieux, vous
+d�vorerez tout le fiel de votre bile, dussiez-vous en crever, car
+d�sormais je veux que vos acc�s de fureur servent � m'�gayer, oui, � me
+faire rire.
+
+CASSIUS.--Quoi! nous en sommes l�!
+
+BRUTUS.--Vous dites que vous �tes un meilleur soldat, faites-le voir;
+justifiez votre bravade, et ce sera me faire un vrai plaisir. Je
+serai bien aise, pour mon compte, de m'instruire � l'�cole des hommes
+sup�rieurs.
+
+CASSIUS.--Vous me faites injure sur tous les points; vous me faites
+injure, Brutus! J'ai dit un plus ancien soldat, et non un meilleur.
+Ai-je dit meilleur?
+
+BRUTUS.--Quand vous l'auriez dit, peu m'importe.
+
+CASSIUS.--C�sar, lorsqu'il vivait, n'e�t pas os� m'irriter � ce point.
+
+BRUTUS.--Paix, paix; vous n'auriez pas os� le provoquer ainsi.
+
+CASSIUS.--Je n'eusse pas os�?
+
+BRUTUS.--Non.
+
+CASSIUS.--Quoi! pas os� le provoquer?
+
+BRUTUS.--Non, sur votre vie, vous ne l'eussiez pas os�.
+
+CASSIUS.--Ne pr�sumez pas trop de mon amiti�; je pourrais faire ce
+qu'apr�s je serais f�ch� d'avoir fait.
+
+BRUTUS.--Vous l'avez fait ce que vous devriez �tre f�ch� d'avoir fait.
+Cassius, il n'y a point pour moi de terreur dans vos menaces; je suis
+si solidement arm� de ma probit�, qu'elles passent pr�s de moi comme le
+vain souffle du vent, sans que j'y fasse attention. Je vous ai envoy�
+demander quelques sommes d'or que vous m'avez refus�es; car moi, je ne
+puis me procurer d'argent par d'indignes moyens. Par le ciel, j'aimerais
+mieux monnayer mon coeur, et livrer chaque goutte de mon sang pour en
+faire des drachmes que d'extorquer, par des voies ill�gitimes, de la
+main durcie des paysans, leur mis�rable portion de vil m�tal. Je vous ai
+envoy� demander de l'or pour payer mes l�gions; vous me l'avez refus�.
+Cette action �tait-elle de Cassius? Quand Marcus Brutus deviendra assez
+sordide pour tenir sous cl� ces mis�rables jetons et les interdire � ses
+amis, soyez pr�ts, vous dieux, � le r�duire en cendres.
+
+CASSIUS.--Je ne vous ai point refus�.
+
+BRUTUS.--Mais si.
+
+CASSIUS.--Je ne l'ai pas fait.--Celui qui vous a rapport� ma r�ponse
+n'�tait qu'un imb�cile.--Brutus a d�chir� mon coeur. Un ami devrait
+supporter les faiblesses de son ami; mais Brutus exag�re les miennes.
+
+BRUTUS.--Non, en v�rit�, tant que vous m'en faites ressentir l'effet.
+
+CASSIUS.--Vous ne m'aimez point.
+
+BRUTUS.--Je n'aime point vos d�fauts.
+
+CASSIUS.--De pareils d�fauts, l'oeil d'un ami ne les verrait jamais.
+
+BRUTUS.--L'oeil d'un flatteur ne voudrait pas les voir, fussent-ils
+aussi �normes que le haut Olympe.
+
+CASSIUS.--Viens, Antoine; jeune Octave, viens. Vengez-vous sur Cassius
+seul; Cassius est las du monde: ha� d'un homme qu'il aime, insult� par
+son fr�re, maltrait� comme un esclave, tous ses d�fauts remarqu�s,
+enregistr�s, �tudi�s, appris par coeur pour me les jeter au visage. Oh!
+mes larmes pourraient tant couler que d'an�antir mon courage. Tiens,
+voil� mon poignard, et voici mon sein nu, et dedans est un coeur plus
+pr�cieux que les mines de Plutus, plus riche que l'or. Si tu es un
+Romain, arrache-le: moi qui te refusai de l'or, je t'offre mon coeur;
+frappe comme tu frappais C�sar, car je sais que, lors m�me que tu l'as
+le plus ha�, tu l'aimais plus encore que tu n'aimas jamais Cassius.
+
+BRUTUS.--Mettez votre poignard dans son fourreau; emportez-vous quand
+vous voudrez, je vous en laisserai enti�re libert�. Faites ce que vous
+voudrez; d'une action honteuse je dirai: c'est son humeur. O Cassius,
+vous �tes attel� avec un agneau qui porte en lui la col�re comme le
+caillou porte le feu: le plus grand effort en fait appara�tre une rapide
+�tincelle, et aussit�t il est refroidi.
+
+CASSIUS.--Cassius a-t-il v�cu jusqu'ici pour ne fournir � son Brutus que
+des sujets de gaiet� et des occasions de rire quand il est triste et mal
+dispos�?
+
+BRUTUS.--Quand j'ai parl� ainsi, j'�tais mal dispos� moi-m�me.
+
+CASSIUS.--Vous en convenez? Donnez-moi votre main.
+
+BRUTUS.--Et aussi mon coeur.
+
+CASSIUS.--O Brutus!
+
+BRUTUS.--Eh bien! quoi?
+
+CASSIUS.--N'avez-vous pas assez de tendresse pour me supporter quand
+cette humeur fougueuse, que je tiens de ma m�re, me fait tout oublier?
+
+BRUTUS.--Oui, Cassius; et d�sormais quand vous vous emporterez contre
+votre Brutus, il pensera que c'est votre m�re qui gronde, et il vous
+laissera faire.
+
+(Bruit derri�re le th��tre.)
+
+LE PO�TE (_derri�re le th��tre_).--Laissez-moi entrer, je veux voir les
+g�n�raux: il y a de la discorde entre eux; il n'est pas prudent de les
+laisser seuls.
+
+LUCIUS (_derri�re le th��tre_).--Vous ne p�n�trerez point jusqu'� eux.
+
+LE PO�TE (_derri�re le th��tre_).--Rien ne peut m'arr�ter que la mort.
+
+(Entre le po�te.)
+
+CASSIUS.--Qu'est-ce que c'est? de quoi s'agit-il?
+
+LE PO�TE.--Quelle honte � vous, g�n�raux! que pr�tendez-vous?
+Aimez-vous; soyez amis comme doivent l'�tre deux hommes tels que vous:
+j'ai vu, soyez-en s�rs, plus d'ann�es que vous[44].
+
+[Note 44: Imitation de ce vers d'Hom�re:
+
+[Grec: Alla pithesth amph� de ne�ter� eston emeio].
+
+Ce personnage n'�tait pas un po�te, mais un cynique nomm� Marcus
+Faonius, �qui avait �t�, par mani�re de dire, amoureux de Caton en
+son vivant, et se m�lait de contrefaire le philosophe, non tant avec
+discours et raison qu'avec une imp�tuosit� et une furieuse et passionn�e
+affection.� PLUTARQUE, _Vie de Brutus_.]
+
+CASSIUS.--Ah! ah! ah! que ce cynique fait de mauvais vers.
+
+BRUTUS.--Sortez d'ici, faquin, insolent; hors d'ici!
+
+CASSIUS.--Ne vous f�chez pas, Brutus; c'est sa mani�re.
+
+BRUTUS.--J'apprendrai � me faire � ses mani�res quand il apprendra �
+choisir son temps. Qu'a-t-on besoin � l'arm�e de ces sots faiseurs de
+vers? Hors d'ici, compagnon.
+
+CASSIUS.--Allons, allons, va-t'en.
+
+(Le po�te sort.)
+
+(Entrent Lucilius et Titinius.)
+
+BRUTUS.--Lucilius et Titinius, commandez aux chefs de pr�parer le
+logement de leurs troupes pour cette nuit.
+
+CASSIUS.--Revenez ensuite sur-le-champ tous les deux, et amenez avec
+vous Messala.
+
+(Lucilius et Titinius sortent.)
+
+BRUTUS.--Lucius, une coupe de vin.
+
+CASSIUS.--Je n'aurais pas cru que vous fussiez capable de tant de
+col�re.
+
+BRUTUS.--O Cassius, je suis accabl� de bien des chagrins.
+
+CASSIUS.--Vous ne faites pas usage de votre philosophie, si vous laissez
+votre �me ouverte aux maux accidentels.
+
+BRUTUS.--Nul homme ne supporte mieux la douleur. Porcia est morte[45].
+
+[Note 45: Nicola�s le Philosophe et Val�re M�dime placent la mort
+de Porcia apr�s celle de Brutus, et l'attribuent � la douleur de cette
+perte. �Toutefois, dit Plutarque, on trouve une lettre missive de Brutus
+� ses amis, par laquelle il se plaint de leur nonchalance d'avoir tenu
+si peu de compte de sa femme, qu'elle avoit mieux aim� mourir que de
+languir plus longtemps malade. Ainsi sembleroit-il que ce philosophe
+n'auroit pas bien cogneu le temps, car l'�pistre, au moins si elle est
+v�ritablement de Brutus, donne assez � entendre la maladie et l'amour
+de cette dame, et aussi la mani�re de sa mort.� PLUTARQUE, _Vie de
+Brutus_.]
+
+CASSIUS.--Ah! Porcia!--
+
+BRUTUS.--Elle est morte.
+
+CASSIUS.--Comment ne m'avez-vous pas tu� quand je vous ai tourment�
+ainsi? O perte sensible, insupportable!--De quelle maladie?
+
+BRUTUS.--De n'avoir pu soutenir mon absence, et du chagrin de voir
+grossir � ce point les forces de Marc-Antoine et du jeune Octave;
+car j'ai re�u cette nouvelle avec celle de sa mort: sa raison en fut
+alt�r�e; et dans l'absence de ceux qui la servaient, elle avala du feu.
+
+CASSIUS.--Et elle en est morte?
+
+BRUTUS.--Elle en est morte.
+
+CASSIUS.--O dieux immortels!
+
+(Lucius entre, tenant une coupe et des flambeaux.)
+
+BRUTUS.--Ne me parle plus d'elle.--Donne-moi une coupe de vin.--Cassius,
+j'ensevelis ici tout sentiment d'aigreur.
+
+(Il boit.)
+
+CASSIUS.--Mon coeur a soif de la noble coupe[46] qui va vous faire
+raison. Remplis, Lucius, jusqu'� ce que le vin d�borde: je ne puis trop
+boire de l'amiti� de Brutus.
+
+[Note 46: _My heart is thirsty for that noble pledge_. _Pledge_, coup
+de vin destin� � faire raison � celui qui boit � votre sant�. La formule
+usit�e autrefois en fran�ais �tait: _Je bois � vous_, � quoi le convive
+r�pondait: _Je vous pleige d'autant_.]
+
+(Rentre Titinius avec Messala.)
+
+BRUTUS.--Entre, Titinius.--Sois le bienvenu, brave Messala.--Maintenant
+prenons place, serrons-nous autour de ce flambeau, et d�lib�rons sur ce
+que nous avons � faire.
+
+CASSIUS.--O Porcia, as-tu donc cess� de vivre?
+
+BRUTUS.--Cessez, je vous conjure.--Messala, ces lettres que j'ai re�ues,
+m'apprennent que le jeune Octave et Marc-Antoine viennent � nous avec
+une puissante arm�e, et dirigent leur marche sur Philippes.
+
+MESSALA.--J'ai aussi des lettres qui annoncent absolument la m�me chose.
+
+BRUTUS.--Qu'y ajoute-t-on?
+
+MESSALA.--Que par des d�crets de proscription et de mise hors la loi[47],
+Octave, Antoine et L�pidus ont fait p�rir cent s�nateurs.
+
+[Note 47: _Outlawry_.]
+
+BRUTUS.--En cela nos lettres ne s'accordent pas bien. Les miennes
+ne parlent que de soixante-dix s�nateurs morts par l'effet de cette
+proscription: Cic�ron en est un.
+
+CASSIUS.--Cic�ron en est?
+
+MESSALA.--Oui, Cic�ron est mort, il �tait sur la liste de
+proscription.--Brutus, avez-vous re�u des lettres de votre femme?
+
+BRUTUS.--Non, Messala.
+
+MESSALA.--Et dans vos lettres, ne vous mande-t-on rien sur elle?
+
+BRUTUS.--Rien, Messala.
+
+MESSALA.--Cela me para�t �trange.
+
+BRUTUS.--Pourquoi me le demandez-vous? En avez-vous appris quelque chose
+dans les v�tres?
+
+MESSALA.--Non, mon seigneur.
+
+BRUTUS.--Si vous �tes Romain, dites-moi la v�rit�.
+
+MESSALA.--Supportez donc en Romain la v�rit� que je vous annonce. Il est
+certain qu'elle est morte, et d'une mani�re �trange.
+
+BRUTUS.--Eh bien! adieu, Porcia.--Il nous faut mourir, Messala: c'est
+pour avoir pens� qu'elle devait mourir un jour que j'ai la patience de
+supporter aujourd'hui ce coup.
+
+MESSALA.--C'est ainsi que les grands hommes devraient toujours supporter
+les grandes pertes.
+
+CASSIUS.--J'en ai l�-dessus appris tout autant que vous, et cependant ma
+nature ne pourrait jamais s'y soumettre de m�me.
+
+BRUTUS.--Soit.--A notre t�che qui est vivante.--Si nous marchions �
+l'instant vers Philippes? qu'en pensez-vous?
+
+CASSIUS.--Je ne crois pas que ce f�t bien fait.
+
+BRUTUS.--La raison?
+
+CASSIUS.--La voici: il vaut mieux que l'ennemi nous cherche; par-l� il
+consumera ses ressources, fatiguera ses soldats, et se nuira ainsi �
+lui-m�me; tandis que nous, qui n'aurons pas chang� de place, nous nous
+trouverons pleins de repos, entiers et pr�ts � tout.
+
+BRUTUS.--De bonnes raisons doivent n�cessairement c�der � de meilleures.
+Les peuples qui sont entre Philippes et ce camp ne sont contenus que
+par une affection forc�e, car ils ne nous ont accord� qu'� regret des
+subsides. L'ennemi, en traversant leur pays, compl�tera chez eux ses
+troupes; il s'avancera rafra�chi, recrut� et plein d'un nouveau courage,
+avantages que nous lui interceptons si nous allons le rencontrer �
+Philippes, tenant ces peuples sur nos derri�res.
+
+CASSIUS.--Mon bon fr�re, �coutez-moi.
+
+BRUTUS.--Permettez; il faut de plus faire attention � ceci. Nous savons
+� pr�sent le compte de nos amis jusqu'au dernier. Nos l�gions sont
+compl�tes; notre cause est m�re; de jour en jour l'ennemi s'�l�ve;
+tandis que nous, arriv�s � notre plus haut p�riode, nous sommes pr�s de
+d�cliner. Les affaires humaines ont leurs mar�es, qui, saisies au moment
+du flux, conduisent � la fortune; l'occasion manqu�e, tout le voyage de
+la vie se poursuit au milieu des bas-fonds et des mis�res. En ce moment,
+la mer est pleine et nous sommes � flot: il faut prendre le courant
+tandis qu'il nous est favorable, ou perdre toutes nos chances.
+
+CASSIUS.--Eh bien! vous le voulez, marchez. Nous vous accompagnerons et
+nous irons les trouver � Philippes.
+
+BRUTUS.--Les heures les plus profondes de la nuit sont insensiblement
+arriv�es sur notre entretien, et la nature doit ob�ir � la n�cessit� �
+laquelle nous ne conc�derons qu'un peu de repos. Il ne nous reste rien
+de plus � dire?
+
+CASSIUS.--Rien de plus. Bonne nuit. Demain de grand matin nous serons
+pr�ts et en marche.
+
+(Entre Lucius.)
+
+BRUTUS.--Lucius, ma robe.--Adieu, digne Messala.--Bonne nuit,
+Titinius.--Noble, noble Cassius, bonne nuit et bon repos.
+
+CASSIUS.--O mon cher fr�re, elle a bien mal commenc�, cette nuit.--Que
+jamais semblable discorde ne se mette entre nos �mes! Ne le permets pas,
+Brutus.
+
+BRUTUS.--Tout est bien.
+
+CASSIUS.--Bonne nuit, mon ma�tre.
+
+BRUTUS.--Bonne nuit, mon bon fr�re.
+
+TITINIUS ET MESSALA.--Bonne nuit, Brutus, notre ma�tre � tous.
+
+BRUTUS.--Adieu, tous. (_Cassius, Titinius et Messala se
+retirent._--_Rentre Lucius, avec la robe de Brutus._)--Donne-moi cette
+robe. O� est ton instrument?
+
+LUCIUS.--Ici dans la tente.
+
+BRUTUS.--Tu r�ponds d'une voix assoupie. Pauvre gar�on, je ne t'en
+fais point un reproche, tu es harass� de veilles. Appelle Claudius et
+quelques autres de mes gens: je veux qu'ils restent l�; ils dormiront
+sur des coussins dans ma tente.
+
+LUCIUS.--Varron! Claudius!
+
+(Entrent Varron et Claudius.)
+
+VARRON.--Appelez-vous, mon seigneur?
+
+BRUTUS.--Je vous prie, mes amis, couchez et dormez dans ma tente: il est
+possible que je vous �veille bient�t pour porter quelque message � mon
+fr�re Cassius.
+
+VARRON.--Permettez-nous de rester debout, seigneur, et de veiller en
+attendant vos ordres.
+
+BRUTUS.--Non, je ne veux pas que vous veilliez; couchez-vous, mes amis.
+Il peut se faire que je change de pens�e.--Vois, Lucius, voici le livre
+que j'ai tant cherch�; je l'avais mis dans la poche de ma robe.
+
+(Les serviteurs se couchent.)
+
+LUCIUS.--J'�tais bien s�r que vous ne me l'aviez pas donn�, seigneur.
+
+BRUTUS.--Excuse-moi, mon bon gar�on, je suis sujet � oublier.--Peux-tu
+tenir ouverts un moment tes yeux appesantis, et jouer sur ton instrument
+un air ou deux?
+
+LUCIUS.--Oui, mon seigneur, si cela vous fait plaisir.
+
+BRUTUS.--J'en serai bien aise, mon gar�on. Je te fatigue trop, mais tu
+as bonne volont�.
+
+LUCIUS.--C'est mon devoir, seigneur.
+
+BRUTUS.--Je ne devrais pas �tendre tes devoirs au del� de tes forces. Je
+sais qu'un jeune sang demande son temps de sommeil.
+
+LUCIUS.--J'ai dormi, mon seigneur.
+
+BRUTUS.--Tu as bien fait, et tu dormiras encore: je ne te retiendrai
+pas longtemps. Si je vis, je te ferai du bien. (_Musique accompagn�e de
+chant._) C'est un chant � endormir. O sommeil meurtrier! tu appesantis
+donc ta massue de plomb sur ce gar�on qui te jouait un air! Honn�te
+serviteur, dors bien; je ne veux pas te faire le tort de t'�veiller.
+Si tu laisses tomber ta t�te, tu briseras ton instrument: je vais te
+l'�ter, et bonne nuit, mon bon gar�on.--Voyons, voyons; n'ai-je pas
+pli� le feuillet en quittant ma lecture? C'est ici, je crois. (_ Il
+s'assied_) Que ce flambeau �claire mal! (_Entre l'ombre de Jules
+C�sar_.) Ah! qui entre ici? C'est apparemment la faiblesse de mes yeux
+qui produit cette horrible vision!--Il s'avance sur moi!--Es-tu quelque
+chose? es-tu quelque dieu, quelque ange ou quelque d�mon, toi qui glaces
+mon sang et fais dresser mes cheveux? Parle-moi, qu'es-tu?
+
+L'OMBRE DE C�SAR.--Ton mauvais g�nie, Brutus.
+
+BRUTUS.--Pourquoi viens-tu?
+
+L'OMBRE DE C�SAR.--Pour te dire que tu me verras � Philippes.
+
+BRUTUS.--A la bonne heure. Je te reverrai donc encore?
+
+L'OMBRE DE C�SAR.--Oui, � Philippes.
+
+BRUTUS.--Eh bien! je te reverrai � Philippes. (_L'ombre dispara�t.)_
+Quand je retrouvais mon courage, tu t'�vanouis: mauvais g�nie, j'aurais
+voulu t'entretenir plus longtemps.--Gar�on! Lucius! Varron! Claudius!
+amis! �veillez-vous. Claudius!
+
+LUCIUS.--Il y a des cordes fausses, mon seigneur.
+
+BRUTUS.--Il croit �tre encore � son instrument.--Lucius, r�veille-toi.
+
+LUCIUS.--Mon seigneur.
+
+BRUTUS.--Est-ce un songe, Lucius, qui t'a fait pousser ce cri?
+
+LUCIUS.--Seigneur, je ne crois pas avoir cri�.
+
+BRUTUS.--Oui, tu as cri�.--As-tu vu quelque chose?
+
+LUCIUS.--Rien, mon seigneur.
+
+BRUTUS.--Rendors-toi, Lucius!--Allons, Claudius; et toi mon ami,
+�veille-toi.
+
+VARRON.--Seigneur.
+
+CLAUDIUS.--Seigneur.
+
+BRUTUS.--Pourquoi donc, je vous en prie, avez-vous tous deux cri� dans
+votre sommeil?
+
+VARRON ET CLAUDIUS.--Nous, seigneur?
+
+BRUTUS.--Oui, vous. Avez-vous vu quelque chose?
+
+VARRON.--Non, mon seigneur, je n'ai rien vu.
+
+CLAUDIUS.--Ni moi, mon seigneur.
+
+BRUTUS.--Allez, saluez de ma part mon fr�re Cassius: dites-lui qu'il
+mette de bonne heure ses troupes en marche; nous le suivrons.
+
+VARRON ET CLAUDIUS.--Vous serez ob�i, mon seigneur.
+
+(Ils sortent.)
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+ACTE CINQUI�ME
+
+
+
+SC�NE I
+
+
+Les plaines de Philippes.
+
+_Entrent_ ANTOINE, OCTAVE _et leur arm�e_
+
+OCTAVE.--Vous le voyez, Antoine, l'�v�nement a r�pondu � nos esp�rances.
+Vous disiez que l'ennemi ne descendrait point en plaine, mais qu'il
+tiendrait les collines et le haut pays. Le contraire arrive; leurs
+arm�es sont en vue. Leur intention est de venir ici nous provoquer au
+combat, et ils r�pondent avant que nous les ayons demand�s.
+
+ANTOINE.--Bah! je suis dans leur �me, et je sais bien pourquoi ils le
+font. Ils consentiraient volontiers � se trouver ailleurs; c'est la peur
+qui les fait descendre pour nous braver, s'imaginant par cette parade
+nous donner une ferme conviction de leur courage; mais ils n'en ont
+aucun.
+
+(Entre un messager.)
+
+LE MESSAGER.--Pr�parez-vous, g�n�raux: l'ennemi vient en belle
+ordonnance; il a d�ploy� l'enseigne sanglante de la bataille. Il faut �
+l'instant faire quelques dispositions.
+
+ANTOINE.--Octave, menez au pas votre arm�e sur la gauche de la plaine.
+
+OCTAVE.--C'est moi qui tiendrai la droite; prenez vous-m�me la gauche.
+
+ANTOINE.--Pourquoi me contrecarrer dans un moment aussi critique?
+
+OCTAVE.--Je ne cherche pas � vous contrecarrer, mais je le veux ainsi.
+
+(Marche.--Tambour.--Entrent Brutus et Cassius, avec leur arm�e; Lucius,
+Titinius, Messala et plusieurs autres.)
+
+BRUTUS.--Ils s'arr�tent, et voudraient parlementer.
+
+CASSIUS.--Faites halte, Titinius; nous allons sortir des lignes pour
+conf�rer avec eux.
+
+OCTAVE.--Marc-Antoine, donnerons-nous le signal du combat?
+
+ANTOINE.--Non, C�sar; nous attendrons leur attaque. Les g�n�raux
+voudraient s'aboucher un moment.
+
+OCTAVE.--Ne vous �branlez point jusqu'au signal.
+
+BRUTUS.--Les paroles avant les coups, n'est-il pas vrai, compatriotes?
+
+OCTAVE.--Non que nous pr�f�rions les paroles, comme vous le faites.
+
+BRUTUS.--De bonnes paroles, Octave, valent mieux que de mauvais coups.
+
+ANTOINE.--En portant vos mauvais coups, Brutus, vous donnez de bonnes
+paroles: t�moin l'ouverture que vous avez faite dans le coeur de C�sar,
+en criant: �Salut et longue vie � C�sar.�
+
+CASSIUS.--Antoine, la place o� vous portez vos coups est encore
+inconnue; mais pour vos paroles, elles vont d�pouiller les abeilles
+d'Hybla, et les laissent priv�es de miel.
+
+ANTOINE.--Mais non pas d'aiguillon.
+
+BRUTUS.--Oh vraiment! d'aiguillon et de voix; car vous leur avez d�rob�
+leur bourdonnement, Antoine, et tr�s-prudemment vous avez soin de
+menacer avant de frapper.
+
+ANTOINE.--Tra�tres, vous n'en f�tes pas de m�me, quand de vos l�ches
+poignards vous vous bless�tes l'un l'autre dans les flancs de C�sar:
+vous lui montriez vos dents comme des singes, vous rampiez devant lui
+comme des l�vriers, et, prostern�s comme des captifs, vous baisiez les
+pieds de C�sar; tandis que le d�testable Casca, venant par derri�re
+comme un chien ab�tardi, per�a le cou de C�sar. O flatteurs!
+
+CASSIUS.--Flatteurs. Rends-toi gr�ces, Brutus. Si Cassius en avait �t�
+cru, cette langue ne nous outragerait pas ainsi aujourd'hui.
+
+OCTAVE.--Finissons, allons au fait. Si le d�bat nous met en sueur, elle
+coulera plus rouge au moment de la preuve.--Voyez, je tire l'�p�e
+contre les conspirateurs: quand pensez-vous que l'�p�e rentrera dans
+le fourreau? Jamais, jusqu'� ce que les vingt-trois blessures de C�sar
+soient pleinement veng�es, ou que le meurtre d'un second C�sar se soit
+accumul� sur l'�p�e des tra�tres.
+
+BRUTUS.--C�sar, tu ne peux pas mourir de la main des tra�tres, � moins
+que tu ne les am�nes avec toi.
+
+OCTAVE.--Je l'esp�re bien; je ne suis pas n� pour mourir par l'�p�e de
+Brutus.
+
+BRUTUS.--O fusses-tu le plus noble de ta race, jeune homme, tu ne
+pourrais p�rir d'une main plus honorable.
+
+CASSIUS.--�colier mal appris, indigne d'un tel honneur! l'associ� d'un
+farceur et d'un d�bauch�!
+
+ANTOINE.--Toujours le vieux Cassius!
+
+OCTAVE.--Venez, Antoine; �loignons-nous. Au d�fi, tra�tres! nous vous le
+jetons par la face. Si vous osez combattre aujourd'hui, venez en plaine;
+sinon, venez quand vous en aurez le coeur.
+
+(Octave et Antoine sortent avec leur arm�e.)
+
+CASSIUS.--Allons, vents, soufflez maintenant; vagues, enflez-vous, et
+vogue la barque! La temp�te est soulev�e, et tout est � la merci du
+hasard.
+
+BRUTUS.--Lucilius, �coutez un mot.
+
+LUCILIUS.--Mon seigneur.
+
+(Brutus et Lucilius s'entretiennent � part.)
+
+CASSIUS.--Messala.
+
+MESSALA.--Que veut mon g�n�ral?
+
+CASSIUS.--Messala, ce jour est celui de ma naissance; ce m�me jour vit
+na�tre Cassius. Donne-moi ta main, Messala: sois-moi t�moin que c'est
+malgr� moi que je suis forc�, comme le fut Pomp�e, de confier au hasard
+d'une bataille toutes nos libert�s. Tu sais combien je fus attach� � la
+secte d'�picure et � ses principes: aujourd'hui mes pens�es ont chang�,
+et j'ajoute quelque foi aux signes qui pr�disent l'avenir. Dans notre
+marche depuis Sardes, deux puissants aigles se sont abattus sur notre
+enseigne avanc�e; ils s'y sont pos�s, et l�, prenant leur p�ture de la
+main de nos soldats, ils nous ont accompagn�s jusqu'� ces champs de
+Philippes. Ce matin ils ont pris leur vol, et ont disparu: � leur place
+une nu�e de corbeaux et de vautours planent sur nos t�tes; du haut des
+airs ils fixent la vue sur nous, comme sur une proie d�j� mourante, et,
+nous couvrant de leur ombre, ils semblent former un dais fatal sous
+lequel s'�tend notre arm�e pr�s de rendre l'�me.
+
+MESSALA.--Ne croyez point � tout cela.
+
+CASSIUS.--Je n'y crois que jusqu'� un certain point, car je me sens
+plein d'ardeur, et d�termin� � affronter avec constance tous les p�rils.
+
+BRUTUS.--Qu'il en soit ainsi, Lucilius.
+
+CASSIUS.--Maintenant, noble Brutus, que les dieux nous soient
+aujourd'hui assez favorables pour que nous puissions, toujours amis,
+conduire nos jours jusqu'� la vieillesse. Mais puisqu'il reste toujours
+quelque incertitude dans les choses humaines, raisonnons sur ce qui
+peut arriver de pis. Si nous perdons cette bataille, cet instant est
+le dernier o� nous converserons ensemble: qu'avez-vous r�solu de faire
+alors?
+
+BRUTUS.--De me r�gler sur cette philosophie qui me fit bl�mer Caton pour
+s'�tre donn� la mort � lui-m�me. Je ne puis m'emp�cher de trouver qu'il
+est l�che de pr�venir ainsi, par crainte de ce qui peut arriver, le
+terme assign� � la vie: je m'armerai de patience, attendant ce que
+voudront ordonner ces puissances supr�mes, quelles qu'elles soient, qui
+nous gouvernent ici-bas[48].
+
+[Note 48: Brutus lui r�pondit: �Estant encore jeune et non assez
+exp�riment� �s affaires de ce monde, je fis, ne s�ay comment, un
+discours de philosophie par lequel je reprenois et blasmois fort Caton
+de s'estre desfait soy-mesme, comme n'estant point acte licite ny
+religieux, quant aux dieux ny quant aux hommes vertueux, de ne point
+c�der � l'ordonnance divine, et ne prendre pas constamment en gr� tout ce
+qui lui plaist nous envoyer, ainsi faire le restif et s'en retirer:
+mais maintenant me trouvant au milieu du p�ril, je suis de toute autre
+r�solution, tellement que s'il ne plaist � Dieu que l'issue de cette
+bataille soit heureuse pour nous, je ne veux plus tenter d'autres
+esperances, ni t�cher � remettre sus de rechef autre �quipage de guerre,
+ains me d�livreray des mis�res de ce monde, car je donnai aux ides de
+mars ma vie � mon pays, pour laquelle j'en vivrai une autre libre et
+glorieuse.� PLUTARQUE, _Vie de Brutus_.
+
+Shakspeare, qui n'a jamais mis en r�cit que ce qui lui est impossible
+de mettre en action, renferme ici en une seule sc�ne le changement que
+plusieurs ann�es ont op�r� dans l'esprit de Brutus. C'est d'ailleurs une
+explication donn�e d'avance des raisons pour lesquelles Brutus ne se
+tuera pas apr�s la mort de Cassius et l'�v�nement tr�s-incertain de
+la bataille. Il s'annonce comme d�termin� � tout supporter avec
+r�signation, except� le malheur auquel il ne croit pas qu'il soit permis
+� un homme d'honneur de se soumettre, la honte d'�tre men� en triomphe.
+Cette intention de l'auteur est �vidente; les commentateurs anglais qui
+ont multipli� les notes sur ce passage, auraient d� la faire remarquer.]
+
+CASSIUS.--Ainsi donc, si nous perdons cette bataille, vous consentez �
+�tre conduit en triomphe � travers les rues de Rome?
+
+BRUTUS.--Non, Cassius, non. Ne pense pas, noble Romain, que jamais
+Brutus soit conduit encha�n� � Rome; il porte un coeur trop grand. Il
+faut que ce jour m�me consomme l'ouvrage commenc� aux ides de mars, et
+je ne sais si nous devons nous revoir encore: faisons-nous donc notre
+�ternel adieu. Pour jamais, et pour jamais adieu, Cassius. Si nous nous
+revoyons, eh bien! ce sera avec un sourire; sinon, nous aurons eu raison
+de nous dire adieu.
+
+CASSIUS.--Pour jamais, et pour jamais adieu, Brutus. Si nous nous
+revoyons, oui, sans doute, ce sera avec un sourire; sinon, tu as dit
+vrai, nous aurons eu raison de nous dire adieu.
+
+BRUTUS.--Allons, en marche.--Oh! si l'on pouvait conna�tre la fin des
+�v�nements de ce jour avant le moment qui doit l'amener. Mais il suffit,
+le jour finira; et alors nous le saurons.--Allons, ho! partons.
+
+(Ils sortent.)
+
+
+
+SC�NE II
+
+
+Toujours pr�s de Philippes.--Le champ de bataille.--Une alarme.
+
+_Entrent_ BRUTUS ET MESSALA.
+
+BRUTUS _vivement_.--A cheval, � cheval, Messala! cours, remets ces
+billets aux l�gions de l'autre aile. (_Une vive alarme._) Qu'elles
+donnent � la fois; car je vois que l'aile d'Octave va mollement: un
+choc soudain la culbutera. Vole, vole, Messala: qu'elles fondent toutes
+ensemble!
+
+(Ils sortent.)
+
+
+
+SC�NE III
+
+
+Toujours pr�s de Philippes.--Une autre partie du champ de bataille.--Une
+alarme.
+
+_Entrent_ CASSIUS ET TITINIUS.
+
+CASSIUS.--Oh! regarde, Titinius, regarde; les l�ches fuient. Je me suis
+fait l'ennemi de mes propres soldats: cette enseigne que voil�, je l'ai
+vue tourner en arri�re; j'ai tu� le l�che, et je l'ai reprise de sa
+main.
+
+TITINIUS.--O Cassius! Brutus a donn� trop t�t le signal. Se voyant
+quelque avantage sur Octave, il s'y est abandonn� avec trop d'ardeur;
+ses soldats se sont livr�s au pillage, tandis qu'Antoine nous
+enveloppait tous.
+
+PINDARUS.--Fuyez plus loin, seigneur, fuyez plus loin: Marc-Antoine est
+dans vos tentes. Fuyez donc, mon seigneur; noble Cassius, fuyez au loin.
+
+CASSIUS.--Cette colline est assez loin.--Vois, vois, Titinius: est-ce
+dans mes tentes que j'aper�ois cette flamme?
+
+TITINIUS.--Ce sont elles, mon seigneur.
+
+CASSIUS.--Titinius, si tu m'aimes, monte mon cheval, et enfonce-lui les
+�perons dans les flancs jusqu'� ce que tu sois arriv� � ces troupes
+l�-bas, et de l� ici: que je puisse �tre assur� si ces troupes sont
+amies ou ennemies.
+
+TITINIUS.--Je serai de retour ici dans l'espace d'une pens�e.
+
+(Il sort.)
+
+CASSIUS.--Toi, Pindarus, monte plus haut vers ce sommet: ma vue fut
+toujours trouble; suis de l'oeil Titinius, et dis-moi ce que tu
+remarques sur le champ de bataille. (_Pindarus sort_.) Ce jour fut le
+premier o� je respirai: le temps a d�crit son cercle, et je finirai
+au point o� j'ai commenc�: le cours de ma vie est r�volu.--Eh bien!
+dis-moi, quelles nouvelles?
+
+PINDARUS, _de la hauteur_.--Oh! mon seigneur!
+
+CASSIUS.--Quelles nouvelles?
+
+PINDARUS.--Voil� Titinius investi par la cavalerie, qui le poursuit
+� toute bride.--Cependant il galope encore.--Les voil� pr�s de
+l'atteindre.--Maintenant Titinius.... maintenant quelques-uns mettent
+pied � terre.--Oh! il met pied � terre aussi.--Il est pris!--�coutez,
+ils poussent un cri de joie.
+
+(On entend des cris lointains.)
+
+CASSIUS.--Descends, ne regarde pas davantage.--O l�che que je suis,
+de vivre assez longtemps pour voir mon fid�le ami pris sous mes yeux!
+(_Entre Pindarus._) Toi, viens ici: je t'ai fait prisonnier chez les
+Parthes, et, en conservant ta vie, je te fis jurer que quelque chose
+que je pusse te commander, tu l'entreprendrais: maintenant remplis
+ton serment. De ce moment sois libre; prends cette fid�le �p�e qui se
+plongea dans les flancs de C�sar, et traverses-en mon sein. Ne t'arr�te
+point � me r�pliquer: ob�is, prends cette poign�e, et d�s que j'aurai
+couvert mon visage comme je le fais en ce moment, toi, dirige le
+fer.--C�sar, tu es veng� avec la m�me �p�e qui te donna la mort.
+
+(Il meurt.)
+
+PINDARUS.--Me voil� donc libre! Si j'avais os� faire ma volont�, je
+n'eusse pas voulu le devenir ainsi.--O Cassius! Pindarus fuira si loin
+de ces contr�es que jamais Romain ne pourra le reconna�tre.
+
+(Il sort.)
+
+(Rentrent Titinius et Messala.)
+
+MESSALA.--Ce n'est qu'un �change, Titinius; car Octave est renvers�
+par l'effort du noble Brutus, comme les l�gions de Cassius le sont par
+Antoine.
+
+TITINIUS.--Ces nouvelles vont bien consoler Cassius.
+
+MESSALA.--O� l'avez-vous laiss�?
+
+TITINIUS.--Tout d�sesp�r�, avec son esclave Pindarus, ici, sur cette
+colline.
+
+MESSALA.--N'est-ce point lui qui est couch� sur l'herbe?
+
+TITINIUS.--Il n'est pas couch� comme un homme vivant.--Oh! mon coeur
+fr�mit!
+
+MESSALA.--N'est-ce pas lui?
+
+TITINIUS.--Non, ce fut lui, Messala! Cassius n'est plus! O soleil
+couchant, de m�me que tu descends dans la nuit au milieu de tes rayons
+rouge�tres, de m�me le jour de Cassius s'est couch� rougi de sang. Le
+soleil de Rome est couch�, notre jour est fini: viennent les nuages, les
+vapeurs de la nuit, les dangers; notre t�che est faite. C'est la crainte
+que je ne pusse r�ussir qui l'a conduit � cette action.
+
+MESSALA.--C'est la crainte de ne pas r�ussir qui l'a conduit � cette
+action. O d�testable erreur, fille de la m�lancolie, pourquoi montres-tu
+� la vive imagination des hommes des choses qui ne sont pas? O erreur si
+promptement con�ue, tu n'arrives jamais � une heureuse naissance; mais
+tu donnes la mort � la m�re qui t'engendra.
+
+TITINIUS.--Hol�, Pindarus! Pindarus, o� es-tu?
+
+MESSALA,--Cherchez-le, Titinius, tandis que je vais au-devant du noble
+Brutus, foudroyer son oreille de cette nouvelle. Je puis bien dire
+foudroyer, car l'acier per�ant et les fl�ches empoisonn�es seraient
+aussi bien re�ues de Brutus que le r�cit de ce que nous venons de voir.
+
+TITINIUS.--H�tez-vous, Messala; et moi pendant ce temps je chercherai
+Pindarus. (_Messala sort_.) Pourquoi m'avais-tu envoy� loin de toi,
+brave Cassius? N'ai-je pas trouv� tes amis? n'ont-ils pas mis sur mon
+front cette couronne de victoire, me chargeant de te la donner? n'as-tu
+pas entendu leurs acclamations? H�las! tu as mal interpr�t� toutes ces
+choses. Mais attends, re�ois cette guirlande sur ta t�te. Ton Brutus
+me recommanda de te la donner; je veux accomplir son ordre.--Viens,
+approche, Brutus, et vois ce qu'�tait pour moi Galus Cassius.--Vous me
+le permettez, grands dieux! j'accomplis le devoir d'un Romain. Viens,
+�p�e de Cassius, et trouve le coeur de Titinius.
+
+(Il meurt.)
+
+(Une alarme.--Rentre Messala, avec Brutus, le jeune Caton, Straton,
+Volumnius et Lucilius.)
+
+BRUTUS.--O� est-il? o� est-il? O� est son corps, Messala?
+
+MESSALA.--L�-bas, l�; et Titinius g�missant pr�s de lui.
+
+BRUTUS.--Le visage de Titinius est tourn� vers le ciel!
+
+CATON.--Il s'est tu�!
+
+BRUTUS.--O Jules C�sar, tu es puissant encore! ton ombre se prom�ne sur
+la terre, et tourne nos �p�es contre nos propres entrailles.
+
+(Bruit d'alarme �loign�.)
+
+CATON.--Brave Titinius! Voyez, n'a-t-il pas couronn� Cassius mort?
+
+BRUTUS.--Est-il encore au monde deux Romains semblables � ceux-l�? Toi
+le dernier de tous les Romains, adieu, repose en paix: il est impossible
+que jamais Rome enfante ton �gal.--Amis, je dois plus de larmes � cet
+homme mort que vous ne me verrez lui en donner.--J'en trouverai le
+temps, Cassius, j'en trouverai le temps!--Venez donc, et faites porter
+ce corps � Thasos. Ses obs�ques ne se feront point dans notre camp;
+elles pourraient nous abattre.--Suivez-moi, Lucilius; venez aussi, jeune
+Caton: retournons au champ de bataille. Lab�on, Flavius, faites avancer
+nos lignes. La troisi�me heure finit: avant la nuit, Romains, nous
+tenterons encore la fortune dans un nouveau combat[49].
+
+(Ils sortent.)
+
+[Note 49: Ce ne fut pas le m�me jour, mais trois semaines apr�s, que
+Brutus donna la seconde bataille dans ces m�mes plaines de Philippes o�
+les deux arm�es demeur�rent tout ce temps en pr�sence.]
+
+
+
+SC�NE IV
+
+
+Une autre partie du champ de bataille.
+
+UNE M�L�E--_Entrent en combattant des soldats des deux arm�es; puis_
+BRUTUS, CATON, LUCILIUS, _et plusieurs autres._
+
+BRUTUS.--Encore, compatriotes! oh! tenez encore un moment.
+
+CATON.--Quel b�tard le refusera? Qui veut me suivre? Je veux proclamer
+mon nom dans tout le champ de bataille.--Je suis le fils de Marcus
+Caton, l'ennemi des tyrans, l'ami de ma patrie. Soldats, je suis le fils
+de Marcus Gaton.
+
+(Il charge l'ennemi.)
+
+BRUTUS.--Et moi je suis Brutus, Marcus Brutus, l'ami de mon pays:
+connaissez-moi pour Brutus.
+
+(Il sort en chargeant l'ennemi.--Le jeune Caton est accabl� par le
+nombre et tombe.)
+
+LUCILIUS.--O jeune et noble Caton, te voil� tomb�! Eh bien! tu meurs
+aussi courageusement que Titinius; tu m�rites qu'on t'honore comme le
+fils de Caton.
+
+PREMIER SOLDAT.--C�de, ou tu meurs.
+
+LUCILIUS.--Je ne c�de qu'� condition de mourir. Tiens, prends tout cet
+or pour me tuer � l'instant. (_Il lui pr�sente de l'or)._ Tue Brutus, et
+deviens fameux par sa mort.
+
+PREMIER SOLDAT.--Il ne faut pas le tuer: c'est un illustre prisonnier.
+
+SECOND SOLDAT.--Place, place. Dites � Antoine que Brutus est pris.
+
+PREMIER SOLDAT.--C'est moi qui lui dirai cette nouvelle. Le g�n�ral
+vient. (_Entre Antoine_). Brutus est pris, Brutus est pris, mon
+seigneur.
+
+ANTOINE.--O� est-il?
+
+LUCILIUS.--En s�ret�, Antoine; Brutus est toujours en s�ret�. Jamais,
+j'ose t'en r�pondre, jamais ennemi ne prendra vivant le noble Brutus.
+Les dieux le pr�servent d'une telle ignominie! En quelque lieu que tu le
+trouves, vivant ou mort, tu le trouveras toujours semblable � Brutus,
+semblable � lui-m�me.
+
+ANTOINE.--Amis, ce n'est point l� Brutus; mais je vous assure que je ne
+regarde pas cette prise comme moins importante. Ayez soin qu'il ne
+soit fait aucun mal � cet homme; traitez-le avec toute sorte d'�gards.
+J'aimerais mieux avoir ses pareils pour amis que pour ennemis. Avancez,
+voyez si Brutus est mort ou en vie, et revenez � la tente d'Octave nous
+rendre compte de ce qui est arriv�.
+
+(Ils sortent.)
+
+
+
+SC�NE V
+
+
+Une partie de la plaine.
+
+_Entrent_ BRUTUS, DARDANIUS, CLITUS, STRATON ET VOLUMNIUS.
+
+BRUTUS.--Venez, tristes restes de mes amis: reposons-nous sur ce rocher.
+
+CLITUS.--Statilius a montr� au loin sa torche allum�e: cependant, mon
+seigneur, il ne revient point; il est captif ou tu�.
+
+BRUTUS.--Assieds-toi l�, Clitus: tuer est le mot; c'est l'action
+appropri�e au moment. �coute, Clitus.
+
+(Il lui parle � l'oreille.)
+
+CLITUS.--Quoi! moi, monseigneur? Non, pas pour le monde entier.
+
+BRUTUS.--Silence donc, pas de paroles.
+
+CLITUS.--J'aimerais mieux me tuer moi-m�me.
+
+BRUTUS--Dardanius, �coute.
+
+(Il lui parle bas.)
+
+DARDANIUS.--Moi! commettre une pareille action?
+
+CLITUS.--O Dardanius!
+
+DARDANIUS.--O Clitus!
+
+CLITUS.--Quelle funeste demande Brutus t'a-t-il faite?
+
+DARDANIUS.--De le tuer, Clitus. Regarde, le voil� qui m�dite.
+
+CLITUS.--Maintenant ce noble vase est si plein de douleur, qu'il d�borde
+jusque par ses yeux.
+
+BRUTUS.--Approche, bon Volumnius. Un mot, �coute.
+
+VOLUMNIUS.--Que veut mon ma�tre?
+
+BRUTUS.--Ceci, Volumnius. L'ombre de C�sar m'est apparue la nuit � deux
+reprises diff�rentes, une fois � Sardes, et la nuit derni�re ici, dans
+les champs de Philippes. Je sais que mon heure est venue.
+
+VOLUMNIUS.--Non, seigneur, non.
+
+BRUTUS.--Elle est venue, j'en suis certain, Volumnius. Tu vois ce monde,
+Volumnius, et comment tout s'y passe. Nos ennemis nous ont battu,
+jusqu'au bord de l'ab�me. Il est plus noble de nous y lancer nous-m�mes,
+que d'h�siter jusqu'� ce qu'ils nous y poussent. Bon Volumnius, tu sais
+que nous f�mes aux �coles ensemble. Au nom de cette vieille amiti� qui
+nous unit, tiens, je t'en prie, la poign�e de mon �p�e, tandis que je me
+jetterai sur le fer.
+
+VOLUMNIUS.--Ce n'est pas l� l'office d'un ami, mon seigneur.
+
+(Une nouvelle alarme.)
+
+CLITUS.--Fuyez, fuyez, mon seigneur! il n'y a pas un instant � perdre.
+
+BRUTUS.--Adieu, vous, et vous, et vous Volumnius.--Straton, tu es rest�
+tout ce temps endormi: adieu, toi aussi, Straton.--Compatriotes, mon
+coeur se r�jouit parce que dans toute ma vie je n'ai pas trouv� un homme
+qui ne me f�t fid�le. Je recueillerai plus de gloire dans ce jour de
+d�sastre, qu'Octave et Marc-Antoine n'en obtiendront par cette vile
+conqu�te. Ainsi, adieu tous � la fois, car la langue de Brutus a presque
+termin� l'histoire de sa vie. La nuit est suspendue sur mes yeux; et mes
+membres, qui n'ont travaill� que pour atteindre � cette heure, demandent
+le repos. (_Alarme._--_Cris derri�re le th��tre._) Fuyez, fuyez, fuyez.
+
+CLITUS.--Fuyez, mon seigneur, fuyez.
+
+BRUTUS.--Pars, je vais te suivre.--(_Sortent Clitus, Dardanius et
+Volumnius_). Straton, je t'en prie, reste aupr�s de ton ma�tre. Tu es
+un homme plein d'attachement, ta vie n'a point �t� sans honneur: prends
+donc mon �p�e, et d�tourne ton visage, tandis que je me pr�cipiterai
+dessus. Veux-tu, Straton?
+
+STRATON.--Auparavant, donnez-moi votre main. Mon ma�tre, adieu!
+
+BRUTUS.--Adieu, bon Straton.--C�sar, maintenant apaise-toi: je ne te
+tuai pas la moiti� d'aussi bon coeur.
+
+(Il se pr�cipite sur son �p�e, et meurt.)
+
+(Une alarme.--Une retraite.) (Entrent Antoine, Octave et leur arm�e;
+Messala et Lucius.)
+
+OCTAVE, _regardant Straton_.--Quel est cet homme?
+
+MESSALA.--Il appartient � mon g�n�ral.--Straton, o� est ton ma�tre?
+
+STRATON.--Hors des cha�nes que vous portez, Messala. Les vainqueurs
+n'ont plus que le pouvoir de le r�duire en cendres. Brutus seul a
+triomph� de Brutus, et nul autre homme que lui n'a l'honneur de sa mort.
+
+LUCILIUS.--Et c'�tait ainsi qu'on devait trouver Brutus.--Je te rends
+gr�ces, Brutus, d'avoir prouv� que Lucilius disait la v�rit�.
+
+OCTAVE.--Tous ceux qui servirent Brutus, je les retiens aupr�s de
+moi.--Mon ami, veux-tu passer avec moi ta vie?
+
+STRATON.--Oui, si Messala veut vous r�pondre de moi.
+
+OCTAVE.--Fais-le, Messala.
+
+MESSALA.--Comment est mort mon g�n�ral, Straton?
+
+STRATON.--J'ai tenu son �p�e, il s'est jet� sur le fer.
+
+MESSALA.--Octave, prends donc � ta suite celui qui a rendu le dernier
+service � mon ma�tre.
+
+ANTOINE.--Ce fut l� le plus noble Romain d'entre eux tous. Tous les
+conspirateurs, hors lui seul, n'ont fait ce qu'ils ont fait que par
+jalousie du grand C�sar: lui seul entra dans leur ligue par un principe
+vertueux et de bien public. Sa vie fut douce; les �l�ments de son �tre
+�taient si heureusement combin�s, que la nature put se lever et dire �
+l'Univers: _C'�tait un homme_[50].
+
+OCTAVE.--Rendons-lui le respect et les devoirs fun�bres que m�rite sa
+vertu. Son corps reposera cette nuit dans ma tente, environn� de tous
+les honneurs qui conviennent � un soldat. Rappelons l'arm�e sous les
+tentes, et allons jouir ensemble de la gloire de cette heureuse journ�e.
+
+(Ils sortent.)
+
+[Note 50: Plutarque rapporte dans la _Vie d'Antoine_ que celui-ci
+ayant trouv� le corps de Brutus, lui dit d'abord quelques injures, �mais
+ensuite il le couvrit de sa propre cotte d'armes, et donna ordre � l'un
+de ses serfs affranchis qu'il meist ordre � sa s�pulture: et depuis
+ayant entendu que le serf affranchi n'avoit pas fait br�ler la cotte
+d'armes avec le corps pour autant qu'elle valoit beaucoup d'argent, et
+qu'il avoit substrait une bonne partie des deniers ordonn�s pour ses
+fun�railles et pour sa s�pulture, il l'en fe�t mourir.�]
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+End of the Project Gutenberg EBook of Jules C�sar, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK JULES C�SAR ***
+
+***** This file should be named 15847-8.txt or 15847-8.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/5/8/4/15847/
+
+Produced by Paul Murray, Renald Levesque and the Online Distributed
+Proofreading Team. This file was produced from images generously
+made available by the Biblioth�que nationale de France (BnF/Gallica)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

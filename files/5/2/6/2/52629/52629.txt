@@ -1,3 +1,4542 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a15843fbfd7730317d45c1758881d1236a0618453f6513c959288c67c3bbad84
-size 164668
+*** START OF THE PROJECT GUTENBERG EBOOK 52629 ***
+
+Note sur la transcription: Les erreurs clairement introduites par le
+typographe ont Ã©tÃ© corrigÃ©es. L'orthographe d'origine a Ã©tÃ© conservÃ©e et
+n'a pas Ã©tÃ© harmonisÃ©e.
+
+
+
+
+[Illustration:
+
+    LA
+    GUIRLANDE
+    DE
+    JULIE
+
+A. Mongin del et sculp. Imp. A. Salmon.]
+
+
+
+
+    LA
+    GUIRLANDE DE JULIE
+    _AugmentÃ©e de Documents nouveaux_
+    PUBLIÃE AVEC NOTICE, NOTES ET VARIANTES
+    PAR OCTAVE UZANNE
+    ET ORNÃE D'UN
+    _PORTRAIT INÃDIT DE JULIE D'ANGENNES_
+
+    [Illustration]
+
+    PARIS
+    LIBRAIRIE DES BIBLIOPHILES
+    Rue Saint-HonorÃ©, 338
+
+    M DCCC LXXV
+
+
+
+
+[Illustration: IVLIE LVCINE
+
+D'ANGENNES
+
+DAMOISELLE DE RAMBOVILLET]
+
+
+
+
+[Illustration]
+
+
+
+
+ÃPITRE DÃDICATOIRE
+
+A. M. PAUL LACROIX
+
+(Bibliophile Jacob)
+
+
+    MONSIEUR,
+
+_Je viens, disciple fidÃ¨le, placer cette Ã©dition de la_ Guirlande de
+Julie _sous votre haute protection, rendre humblement hommage Ã  votre
+vaste savoir, et attÃ©nuer, s'il est possible, ma dette de reconnaissance
+envers vous_.
+
+_C'est non-seulement au_ maÃ®tre, _au docte bibliophile, au grand lettrÃ©
+de ce siÃ¨cle, que je dÃ©die cette rÃ©impression, c'est plus encore Ã 
+l'homme bienveillant, au savant d'intimitÃ©, prodigue, comme les vraiment
+riches, de ses immenses trÃ©sors bibliographiques, de son expÃ©rience et
+de ses conseils._
+
+_N'est-ce pas, en effet, sous l'influence de vos gÃ©nÃ©reux encouragements
+que j'ai pu concevoir ma tÃ¢che, prÃ©parer et mÃ»rir la rÃ©habilitation des_
+poÃ«tes de ruelles _du XVIIe siÃ¨cle?_
+
+_Aux quelques_ beaux esprits _que je me proposais d'exhumer, Ã _ Sarasin,
+Voiture, Colletet, Malleville, BrÃ©beuf et ScudÃ©ry, _n'avez-vous pas
+ajoutÃ©, avec l'enthousiasme juvÃ©nile de votre ardente Ã©rudition, les
+noms de_ Chapelle, Montreuil, Charleval, Lainez, Ferrand, _et autres
+poÃ«tes, hÃ©las! oubliÃ©s, jadis oracles dans le temple du beau langage,
+talents originaux, prÃ©cieusement Ã©toffÃ©s de couleur locale, au milieu de
+la grandiose universalitÃ© littÃ©raire du siÃ¨cle de Louis le Grand?_
+
+_Vous avez particuliÃ¨rement daignÃ© sourire Ã  l'illustre galanterie du
+marquis de Montausier, Ã©close dans ce pays de_ la conversation, _ou
+Julie d'Angennes Ã©tait reine et idole, et j'ai eu l'inapprÃ©ciable
+bonheur de contempler dans votre cabinet de travail, radieuse dans son
+aurÃ©ole de fleurs, la_ ravissante Guirlandeuse, _dont le portrait si
+recherchÃ©, et jusqu'alors ignorÃ©, embellit, grÃ¢ce Ã  vous, cette nouvelle
+Ã©dition_.
+
+_Ne sont-ce pas lÃ , monsieur, des titres Ã  mon entier dÃ©vouement, et ne
+dois-je pas m'estimer fier et heureux d'avoir su rencontrer, au dÃ©but du
+chemin, le guide sÃ»r et charmant qui a bien voulu faire quelques pas sur
+ma route?_
+
+_C'est donc sous votre inspiration que paraÃ®t aujourd'hui la_ Guirlande
+de Julie, _et que renaÃ®tront tour Ã  tour tous ces rimeurs galants_,
+favoris des Parnassides, _troupe lÃ©gÃ¨re d'avant-garde des Corneille et
+des MoliÃ¨re, qui, en dÃ©pit de la verte fÃ©rule du_ rÃ©gent Boileau, _sut
+si agrÃ©ablement faire l'Ã©cole buissonniÃ¨re et butiner dans les sentiers
+de la double colline_.
+
+_GrÃ¢ces vous soient rendues, monsieur, si je puis mener Ã  bonne fin
+l'entreprise que je conÃ§ois, et offrir aux lettrÃ©s, dans une gracieuse
+rÃ©novation, ces dÃ©licates victimes de l'oubli._
+
+_Quoi qu'il en soit, heureux ou non dans l'avenir, ayant votre
+exemple comme guide et votre mÃ©rite comme but, je marcherai fiÃ¨rement en
+avant, prenant la devise que les anciens, dans leur erreur, plaÃ§aient
+sous le disque solaire_:
+
+    Fit cursu clarior.
+
+_Avec l'assurance de ma plus vive reconnaissance et de ma sincÃ¨re
+amitiÃ©, veuillez me croire_,
+
+    MONSIEUR,
+
+    _Le plus fervent et le plus dÃ©vouÃ© de vos
+    admirateurs_.
+
+    OCTAVE UZANNE.
+
+Paris, le 10 dÃ©cembre 1875.
+
+
+
+
+[Illustration]
+
+
+
+
+NOTICE
+
+SUR LA GUIRLANDE DE JULIE
+
+    Quand les dieux eurent fait
+    Le chef-d'Åuvre parfait
+    Que _Julie_ on appelle,
+    Minerve qui la vit
+    En pleura de dÃ©pit,
+    Et se trouva moins belle.
+
+      VOITURE.
+
+    AprÃ¨s Helene, il n'y a gueres eu de personne dont
+      la beautÃ© ayt estÃ© plus generalement chantÃ©e.
+
+      TALLEMANT DES RÃAUX.
+
+
+La princesse Aminte, fille de la DÃ©esse d'AthÃ¨nes, avoit un esprit de
+pacification, et portoit la paix partout oÃ¹ elle alloit. C'Ã©toit une
+personne aimable et aimÃ©e de tout le monde, qui n'a jamais fait que du
+bien, et qui a toujours empÃªchÃ© le mal autant qu'elle a pÃ». Elle avoit
+des charmes dans l'esprit qui se faisoient connoÃ®tre Ã  tous ceux qui
+l'approchoient, mais qui ne se peuvent exprimer. Jamais personne n'a
+mieux sÃ§Ã» qu'elle conserver l'affection de ceux qui Ã©toient le plus mal
+ensemble, ni Ãªtre si bien venuÃ« chez les ennemis des gens qu'elle venoit
+de quitter. Rien n'Ã©toit beau sans elle: les maisons qu'elle ne vouloit
+pas honorer de ses visites Ã©toient dÃ©sertes et dÃ©criÃ©es; enfin son
+approbation seule faisoit valoir ceux qu'elle en jugeoit dignes, et pour
+bien dÃ©buter dans le monde, il falloit avoir l'honneur d'Ãªtre connu
+d'elle.Â»
+
+Ainsi parle _Mademoiselle_ dans la _Princesse de Paphlagonie_[1], et si
+nous commenÃ§ons cette Notice par un dÃ©but digne des Perrault et des
+Galland, c'est que Julie-Lucine d'Angennes de Rambouillet fut une fÃ©e,
+bonne, gracieuse, spirituelle et presque divine, Ã  laquelle les poÃ«tes
+ses contemporains prodiguÃ¨rent avec justice les plus Ã©clatants hommages
+dus Ã  sa fÃ©minine puissance.
+
+  [1] _La Princesse de Paphlagonie_, petit roman de _Mademoiselle_,
+  dont Segrais fut le correcteur. (Voyez _OEuvres de Segrais_,
+  Amsterdam, 1723, t. II, p. 213.) On trouve une clef de cette
+  histoire dans le mÃªme ouvrage (t. Ier, p. 159). Mme de
+  Rambouillet y est peinte sous le nom symbolique de la _DÃ©esse
+  d'AthÃ¨nes_, et Julie d'Angennes est reprÃ©sentÃ©e par la princesse
+  _Aminte_.
+
+Ces Ã©loges enthousiastes dont elle fut l'objet, ces pompeuses
+mÃ©tamorphoses dans lesquelles on se plut Ã  transformer ses diffÃ©rents
+mÃ©rites comme pour mieux les fixer, ces bouquets de madrigaux qui
+enguirlandent encore sa mÃ©moire aprÃ¨s avoir animÃ© son exquise beautÃ©,
+toute cette gamme de louanges enfin peut paraÃ®tre Ã  premiÃ¨re vue
+excessive et fanatique, mais l'Ã©tude sÃ©rieuse de sa personne et de sa
+vie justifie pleinement Ã  nos yeux l'ardente admiration qu'elle sut
+inspirer.
+
+Julie d'Angennes fut un esprit rare, digne de tenir un illustre rang
+dans l'histoire littÃ©raire des femmes franÃ§aises, par sa grÃ¢ce, ses
+vertus, sa remarquable intelligence, et le doux Ã©clat poÃ©tique qu'elle
+semble jeter sur la sociÃ©tÃ© polie de son Ã©poque.
+
+Le XVIIe siÃ¨cle naissait Ã  peine, que la poÃ©sie des Ronsard, des BaÃ¯f et
+des Du Bellay changeait brusquement sa maniÃ¨re rude, quoique mignarde,
+au sein mÃªme de l'hÃ´tel de Rambouillet. La Muse vigoureuse et fÃ©conde du
+XVIe siÃ¨cle, introduite par Malherbe dans la maison de la vertueuse
+Arthenice, y abandonna son allure nÃ©gligÃ©e. InitiÃ©e peu Ã  peu Ã  de
+nouvelles doctrines, elle sut se faÃ§onner Ã  l'Ã©tiquette du bel esprit,
+et, mettant tous ses soins Ã  enjoliver son style, Ã  gazer son langage, Ã 
+modifier son ton, elle fut tour Ã  tour coquette sans Ãªtre prude,
+spirituelle avec malice, frivole avec enjouement. De forte fille
+populaire Ã  l'accent net et franc, elle devint _damoiselle_ affÃ©tÃ©e, usa
+de mÃ©taphores, sut jouer de l'Ã©ventail et Ã©taler ses falbalas. Elle eut
+peut-Ãªtre moins de verve gauloise; mais elle acquit Ã  coup sÃ»r plus de
+politesse franÃ§aise. La Muse avait pris rang _de qualitÃ©_.
+
+Julie ne contribua pas mÃ©diocrement Ã  cette transformation poÃ©tique,
+conÃ§ue et opÃ©rÃ©e sous ses auspices; Ã  la protection qu'accordait madame
+de Rambouillet aux littÃ©rateurs en renom, elle ajouta les charmes de sa
+pÃ©tulante conversation et de son vivace entrain, et fut surtout, par sa
+seule prÃ©sence, la reine des madrigaux, le bon gÃ©nie inspirateur, la
+vivante idole, et comme le palpable idÃ©al des poÃ«tes qui
+l'entouraient[2].
+
+  [2] Â«Elle est, dit Mlle de ScudÃ©ry, la plus affectueuse du monde,
+  ayant un charme si particulier dans la conversation, pour peu que
+  les gens qui sont avec elle lui plaisent, qu'il suffiroit, pour
+  devenir amoureux de _Philonide_, de passer une aprÃ¨s-dÃ®nÃ©e Ã  sa
+  ruelle, quand mÃªme on y seroit sans la voir, et en un de ces
+  jours d'Ã©tÃ© oÃ¹ les dames font une nuit artificielle dans leurs
+  chambres pour Ã©viter la grande chaleur.Â» (_Le grand Cyrus_, t.
+  VII, livre Ier.)
+
+Autour de cette dÃ©itÃ© se forma une cour brillante et courtisanesque,
+nourrie de l'_AstrÃ©e_ et des pastorales Ã  la mode, esprits dÃ©licats,
+talents graduÃ©s, gÃ©nies naissants, qui tous se hasardaient avec savoir
+sur les gracieux confins du PaÃ¯s de Tendre[3], en se proclamant heureux
+de se mourir pour la dame de leurs pensÃ©es et de payer la dÃ®me Ã  sa
+beautÃ©.
+
+  [3] Nous ne prÃ©tendons pas parler ici du _PaÃ¯s de Tendre_,
+  introduit plus tard, par de _fausses prÃ©cieuses_, dans le roman
+  de _ClÃ©lie_, et dont la Mer dangereuse, le Lac d'indiffÃ©rence,
+  Orgueil, TiÃ©deur, Oubli, etc., formaient les redoutables Limites.
+
+Dans ce temple du beau parler, la recherche Ã©tait de bon goÃ»t, le
+vulgaire Ã  l'index, et tous les efforts incombaient Ã  proscrire le
+malsonnant, Ã  chasser le banal, et Ã  revÃªtir d'honnÃªtes circonlocutions
+la brutalitÃ© de certains mots, trop court vÃªtus jusqu'alors.
+
+Il fallait Ãªtre passÃ© maÃ®tre dans l'art du bien dire, et superbement
+connaÃ®tre _tout le bel air des choses_, pour possÃ©der ses grandes et
+petites entrÃ©es dans cette immortelle rÃ©union; un novice eÃ»t-il laissÃ©
+Ã©chapper une expression triviale, une tournure de phrase basse ou
+grossiÃ¨re, qu'aussitÃ´t environnÃ© de mignonnes toux sÃ¨ches, de cris
+Ã©touffÃ©s, et du mouvement accÃ©lÃ©rÃ© de _zÃ©phirs_[4], il fÃ»t restÃ©
+pÃ©trifiÃ© devant les visages froidement dÃ©daigneux et l'attitude
+visiblement outragÃ©e de la noble assemblÃ©e. Aussi, quel langage
+chastement imagÃ© il se parlait dans ce sanctuaire d'euphonie et de
+pudeur! Que d'audacieux nÃ©ologismes, que d'habiles pÃ©riphrases, que de
+brillantes et solides Ã©pithÃ¨tes qui vinrent enrichir notre langue pour
+demeurer aujourd'hui parmi nous, et sans qu'on y songe, de l'emploi le
+plus familier!
+
+  [4] Les Ã©ventails Ã©taient ainsi nommÃ©s. Voy. le _Dict._ de
+  Saumaize.
+
+C'est sur cette sociÃ©tÃ© d'Ã©lus, oÃ¹ sa spirituelle beautÃ© s'Ã©panouissait,
+que l'illustre Julie rÃ©gnait sans Ã©gale. Elle Ã©tait l'arbitre souverain
+des belles choses, le point de mire des saillies vives et Ã©lÃ©gantes.
+Toutes les fusÃ©es d'esprit Ã©taient tirÃ©es en son honneur, et une Åuvre
+badine ou sÃ©rieuse n'aurait pu se passer de son assentiment.
+
+N'est-ce pas pour elle que Voiture Ã©crivait ses lettres les plus
+galantes et ciselait ses vers les plus enjouÃ©s; que le vÃ©nÃ©rable Godeau,
+abandonnant ses paraphrases bibliques, se faisait rimeur de ruelles, et
+que le grave Chapelain, infidÃ¨le Ã  sa _Pucelle_, contraignait son bon
+sens Ã  _madrigaliser_? N'est-ce pas encore pour cette douce
+enchanteresse que Colletet, Malleville, Gombaud, ScudÃ©ry, Habert,
+Desmarests et tant d'autres luttaient de talent et de finesse, et que
+Pierre Corneille, amoureux lui-mÃªme, dictait Ã  sa muse Ã©mue les petits
+vers musquÃ©s qu'il parafait de son grand nom?
+
+Il n'y a jamais eu une dame qui ait si bien entendu la galanterie, ni si
+mal entendu les galants, pensait spirituellement le malicieux
+Voiture[5]. En effet, au milieu de tous ces mourants, Julie d'Angennes
+demeurait d'une humeur toujours libre et aimable, savante sans orgueil,
+modeste sans contrainte; elle vivait dans ce monde galant, comme la
+salamandre parmi les flammes, sans que le moindre soupÃ§on ait pu
+l'atteindre; sa vertu toujours souriante brillait dans toute sa puretÃ©,
+et elle semblait enfin soutenir de son exemple cette admirable mais
+trop souvent dangereuse maxime de madame de SablÃ©: Â«Que les femmes,
+ornements de la terre, sont faites pour Ãªtre adorÃ©es et rÃ©pandre autour
+d'elles tous les grands sentiments, en accordant comme une assez digne
+rÃ©compense leur estime et leur amitiÃ©.Â»
+
+  [5] Lettre Ã©crite Ã  Mlle Paulet, datÃ©e de Lisbonne, en octobre
+  1633.
+
+C'est de sa mÃ¨re, la marquise de Rambouillet, s'Ã©crie FlÃ©chier dans sa
+remarquable oraison funÃ¨bre[6], que Â«l'admirable Julie tenoit cette
+grandeur d'Ã¢me, cette bontÃ© singuliÃ¨re, cette prudence consommÃ©e, cet
+esprit sublime et cette parfaite connoissance des choses qui rendirent
+sa vie si Ã©clatante. Vous dirai-je, poursuit l'harmonieux orateur,
+qu'elle pÃ©nÃ©troit dÃ¨s son enfance les dÃ©fauts les plus cachÃ©s des
+ouvrages d'esprit et qu'elle en discernoit les traits les plus dÃ©licats?
+que personne ne savoit mieux estimer les choses louables, ni mieux louer
+ce qu'elle estimoit? qu'on gardoit ses lettres comme un modÃ¨le de
+pensÃ©es raisonnables et de la puretÃ© de notre langue... et que, tout
+enfant qu'elle Ã©toit, elle se fit admirer de ceux qui Ã©toient eux-mÃªmes
+l'ornement et l'admiration de leur siÃ¨cle?Â»
+
+  [6] _Oraison funÃ¨bre_ de Mme Julie-Lucine d'Angennes de
+  Rambouillet, duchesse de Montausier, prononcÃ©e par FlÃ©chier, en
+  l'Ã©glise de l'abbaye d'HiÃ¨re, le 2 janvier 1672.
+
+Telle Ã©tait l'incomparable fille d'Arthenice, qui, Ã  ces belles
+qualitÃ©s, joignait un dÃ©vouement hÃ©roÃ¯que et un philosophique mÃ©pris de
+la mort[7], et si l'on envisage cet Ã©clatant ensemble de perfections,
+qui s'Ã©levait modestement au milieu d'une civilisation avide de trouver
+la femme forte pour la diviniser, on comprendra que tout ce que Paris
+comptait alors de personnes illustres et distinguÃ©es, se soit empressÃ©
+autour de cet _astre_, pour lui dÃ©cerner de justes honneurs et de
+sincÃ¨res adulations.
+
+  [7] Le plus jeune des fils de Mme de Rambouillet, nÃ© en 1624, et
+  qui prit le titre de son pÃ¨re, celui de Â«vidame du MansÂ», fut
+  atteint de la peste, Ã  l'Ã¢ge de sept ans. Cette Ã©pouvantable
+  Ã©pidÃ©mie faisait fuir souvent parents et amis loin de ceux qui en
+  Ã©taient atteints. Julie d'Angennes ne quitta pas le chevet de son
+  jeune frÃ¨re, et elle l'assista jusqu'Ã  son dernier soupir, ainsi
+  que Mme Paulet.
+
+Lorsque le baron de Sainte-Maure parut Ã  l'hÃ´tel de Rambouillet, il
+tomba aussitÃ´t sous le charme de Julie d'Angennes, et par ses maniÃ¨res
+courtoises, ses multiples attentions et ses franches coquetteries, il
+essaya de donner l'Ã©veil au cÅur de cette sirÃ¨ne, dont il se dÃ©clara
+vivement l'amant le plus passionnÃ© et le prÃ©tendant le plus tendre[8].
+
+  [8] Charles de Sainte-Maure n'Ã©leva ses prÃ©tentions Ã  la main de
+  Julie qu'aprÃ¨s la mort de son frÃ¨re aÃ®nÃ©, qui aspirait lui-mÃªme Ã 
+  ce mariage. Il n'avait alors que vingt-cinq ans et ne comptait
+  pas Ã  son actif les charges honorables qui firent de lui, plus
+  tard, un des plus beaux partis que pÃ»t rÃªver la fille d'une
+  illustre maison. Tallemant, du reste, rapporte, dans ses
+  _Historiettes_, que: M. de Salles (depuis M. de Montausier) ne se
+  dÃ©clara point qu'il ne fÃ»t marÃ©chal de camp et gouverneur de
+  l'Alsace.
+
+Montausier n'Ã©tait Ã  cette Ã©poque que le brillant officier de Casal[9];
+il avait l'air noble et grand, la taille bien prise, les yeux vifs et
+pleins de feu, et sur la mÃ¢le beautÃ© de son visage se peignait une
+expression de tÃ©mÃ©raire franchise qui semblait dÃ©fier l'hypocrisie; Ã 
+cet extÃ©rieur aimable et sympathique, le futur gouverneur du Dauphin
+ajoutait un esprit cultivÃ©, une farouche bravoure et cette scrupuleuse
+honnÃªtetÃ© Ã  remplir ses devoirs qui fit dire plus tard Ã  Montesquieu:
+Â«Le caractÃ¨re de Montausier a quelque chose des anciens philosophes et
+de cet excÃ¨s de leur raison.Â»
+
+  [9] Voyez la _Vie de Montausier_, par le PÃ¨re Nicolas Petit,
+  jÃ©suite, citÃ©e plus loin, et l'Ãloge _de Charles de Sainte-Maure,
+  duc de Montausier_, par Garat, 1781.
+
+Le nouveau venu reÃ§ut l'accueil le plus chaleureux dans le palais
+d'honneur des Rambouillet; ce n'Ã©tait pas encore l'austÃ¨re Alceste qu'il
+fut dans la suite, mais le gentilhomme dans toute sa magnificence, l'ami
+des plaisirs et des agrÃ©ables entretiens, le poÃ«te improvisateur et le
+chansonnier habile, le plaisant moraliste enfin, qui savait rire des
+vices de son Ã©poque et les censurer gaÃ®ment. A ces diffÃ©rents titres, il
+eut vite conquis tous les suffrages et toutes les sympathies dans le
+cercle spirituel d'Arthenice, oÃ¹ il prenait Ã  partie Balzac ou Sarasin,
+MÃ©nage ou Voiture, Charleval ou l'abbÃ© Cotin, et surtout Conrart et le
+_formaliste_ Chapelain. Mais il ne pouvait consacrer Ã  ces aimables
+rÃ©crÃ©ations que les pacifiques entr'actes de sa jeunesse active: la
+guerre ou la politique venaient trop tÃ´t le rappeler en province ou Ã 
+l'Ã©tranger, et le soupirant de Julie devait faire voyager sa passion que
+ces absences forcÃ©es ne faisaient qu'allumer davantage. Cependant,
+hÃ¢tons-nous de le dire, absent ou prÃ©sent, M. de Sainte-Maure occupa
+toujours une place importante dans la sociÃ©tÃ© de la marquise de
+Rambouillet. Il s'Ã©tait liÃ© assez intimement avec Chapelain, dont il fut
+sans cesse le fidÃ¨le ami, et avait entrepris avec le pÃ¨re de la
+_Pucelle_ une correspondance familiÃ¨re et suivie, Ã  laquelle
+participaient quelquefois la marquise et sa fille, et tous les beaux
+esprits de l'endroit[10].
+
+  [10] Cette correspondance fut si suivie qu'il en Ã©tait rÃ©sultÃ©,
+  au dire de Chapelain (_lettres d'avril 1638_), plus de lettres en
+  prose et en vers qu'il n'en faudrait pour faire une _Arcadie_ de
+  Sannazar.
+
+Montausier Ã©tait-il Ã  l'armÃ©e, la docte assemblÃ©e ne parlait que de sa
+bravoure et de ses actions d'Ã©clat dans les campagnes auxquelles il
+prenait part; chacun se plaisait Ã  vanter l'universel mÃ©rite de l'absent
+regrettÃ©, et l'aprÃ¨s-dÃ®nÃ©e se passait le plus souvent Ã  commenter sa
+derniÃ¨re missive ou son nouveau sonnet.
+
+De son cÃ´tÃ©, le pauvre exilÃ© trouvait un grand adoucissement Ã  sa
+tristesse dans les Ã©pÃ®tres qui lui Ã©taient adressÃ©es. C'Ã©taient de longs
+et curieux bavardages, remplis des bruits du jour, des scandales Ã  la
+mode, des ouvrages nouveaux, parmi lesquels le tendre amant savait si
+bien retrouver tous les _coq-Ã -l'Ã¢ne_ de la conversation de l'_hÃ´tel_,
+qu'il parvenait Ã  assister de loin aux agrÃ©ables devis de la ruelle
+d'Arthenice.
+
+NÃ©anmoins, l'impatient jeune homme dÃ©sirait vivement assurer les liens
+sacrÃ©s qui l'unirent par la suite Ã  Julie d'Angennes. Cette derniÃ¨re
+hÃ©sitait Ã  contracter ce mariage: elle comprenait peu qu'on se donnÃ¢t de
+sang-froid un maÃ®tre, et rÃ©pÃ©tait souvent qu'elle renoncerait le plus
+tard possible Ã  sa chÃ¨re libertÃ©, qu'elle ne devait abandonner, en
+effet, dans les mains du marquis de Montausier, que quatorze ans plus
+tard.
+
+Les choses en Ã©taient lÃ  vers 1641, lorsque Montausier, dans ses loisirs
+justement acquis, rÃ©unit et fit Ã©crire par Jarry les madrigaux de sa
+fameuse _Guirlande_, qu'il avait conÃ§ue et prÃ©parÃ©e bien avant que d'en
+couronner sa charmante fiancÃ©e.
+
+Quoiqu'il existÃ¢t dÃ©jÃ  plusieurs recueils de poÃ©sies italiennes sous le
+nom de _Guirlande_[11], le galant baron sut donner Ã  sa fantaisie un
+cachet de nouveautÃ© et d'originalitÃ©, qui surpassa les dons les plus
+merveilleux que l'amour ait pu faire Ã©clore dans l'imagination des
+amants.
+
+  [11] Voyez 1Â° _La Ghirlanda_ della Contessa Angela Bianca
+  Beccaria, contesta di Madrigali de diversi autori dichiarati da
+  Stefano Guazzo. _Genova_, pel Bartoli, 1595, in-4Â°;
+
+  --2Â° Ghirlanda di frondi, fiori e frutti, ed altre rime del signor
+  Alcide infiammati per l'illustrissima Signora Zenobia Reina
+  Beccaria Parona, gentildonna di Pavia. _In Pavia_, per gli credi
+  di Girolamo Bartoli. 1596, in-12.
+
+  (Quadrio, _Storia e ragione d'ogni poesia_, en 47 vol., t. Ier, p.
+  263.)
+
+  Il existe Ã©galement des livres de poÃ©sie franÃ§aise sous le titre
+  de _Couronne de fleurs_, etc. Voy. au Catalogue imprimÃ© des belles
+  lettres de la BibliothÃ¨que du Roy, p. 511, col. 1, lettre Y, no
+  4898.
+
+Ce manuscrit... Mais laissons, pour un instant, la parole Ã  M. de
+GaignÃ¨res, l'auteur principal d'une Notice que la tradition a
+consacrÃ©e[12]. Charles Nodier, dans l'Ã©dition qu'il a donnÃ©e de la
+_Guirlande_, prÃ©tend qu'il y aurait quelque pÃ©dantisme Ã  la remplacer
+par une autre; nous nous rangeons Ã  l'avis de _ce maÃ®tre_, et bien que
+la Notice en question soit assez confusÃ©ment rÃ©digÃ©e, nous nous
+contenterons de l'annoter et d'y ajouter les Ã©claircissements que nous
+croyons nÃ©cessaires.
+
+  [12] Cette Notice est insÃ©rÃ©e dans le Catalogue des livres rares
+  et prÃ©cieux de feu M. le duc de La ValliÃ¨re, rÃ©digÃ© par Guillaume
+  de Bure fils aÃ®nÃ© (premiÃ¨re partie, t. III, p. 57 du supplÃ©ment
+  de ce Catalogue, _Ã  Paris_, chez Guillaume de Bure, 1783). Toutes
+  les Ã©ditions de la _Guirlande de Julie_ sont prÃ©cÃ©dÃ©es de cette
+  Notice.
+
+Nous reproduisons donc ici cette Notice sans en changer l'orthographe et
+dans toute son intÃ©gritÃ©[13]:
+
+_Le dessein de cet ouvrage est un des plus ingÃ©nieux et des plus galants
+qu'on pÃ»t imaginer en ce genre. M. Huet l'a appelÃ© le chef-d'Åuvre de
+la galanterie et a vantÃ© la magnificence de son exÃ©cution[14]. On peut
+dire qu'elle n'a Ã©tÃ© en rien infÃ©rieure au projet._
+
+  [13] Nous avons groupÃ© autour de cette Notice, sous la forme
+  succincte d'annotations, toutes nos Ã©tudes sur la _Guirlande_ et
+  l'histoire de ses manuscrits; nous croyons apporter une certaine
+  lumiÃ¨re sur plusieurs points assez obscurs jusqu'ici, et rendre
+  par lÃ  mÃªme cette nouvelle Ã©dition aussi achevÃ©e que possible et
+  plus complÃ¨te qu'aucune autre.
+
+  [14] _Huetiana_ (Ã©dition de Paris, in-12, 1722, p. 103). Â«Jamais,
+  dit l'Ã©vÃªque d'Avranches, l'amour n'a inventÃ© de galanterie plus
+  ingÃ©nieuse, plus polie et plus nouvelle que la _Guirlande de
+  Julie_, dont le duc de Montausier rÃ©gala Julie d'Angennes, un
+  premier jour de l'an, lorsqu'il la recherchoit en mariage.Â» Dans
+  cet article, l'honorable M. Huet fixe le don de la _Guirlande_ Ã 
+  l'annÃ©e 1633 ou 1634. Il y a certainement erreur, car le
+  manuscrit porte la date de 1641.
+
+_Il a pour auteur feu M. le duc de Montausier[15] qui l'envoya, le jour
+de la fÃªte de Julie-Lucine[16] d'Angennes de Rambouillet[17], Ã  cette
+charmante personne dont il devint l'Ã©poux aprÃ¨s en avoir Ã©tÃ© longtemps
+l'amant[18]._
+
+  [15] Charles de Sainte-Maure, alors baron de Salles, est nÃ© le 6
+  octobre 1610. C'Ã©tait le second fils de LÃ©on de Sainte-Maure,
+  baron de Montausier, et de Marguerite de Chateaubriant, tous deux
+  issus des plus illustres maisons de la Bretagne et de la
+  Touraine. Marquis en 1644, puis duc et pair en 1664, il reÃ§ut en
+  l'annÃ©e 1668 la charge de gouverneur du Dauphin. MoliÃ¨re, dans
+  son _Misanthrope_, a taillÃ© son portrait _en plein marbre, sous
+  les traits d'Alceste_, dont il fut, paraÃ®t-il, l'original.
+
+  [16] Elle s'appelait _Julie_, du nom de sa grand'mÃ¨re, Julia
+  Savelli; celui de _Lucine_ lui fut donnÃ© par une tradition
+  trÃ¨s-ancienne dans la maison Savelli; on ajoutait toujours ce nom
+  Ã  celui que recevaient, en baptÃªme, les filles issues de cette
+  ancienne famille de Rome.
+
+  [17] Julie d'Angennes, nÃ©e en 1607, Ã©tait l'aÃ®nÃ©e des quatre
+  filles de Charles d'Angennes, marquis de Rambouillet et de
+  Pisani, et de Catherine de Vivonne-Savelli. Elle devint, par
+  suite de son mariage avec M. de Montausier, gouvernante de
+  monseigneur le Dauphin et dame d'honneur de la reine; et mourut Ã 
+  Paris, le 15 novembre 1671, dans la soixante-quatriÃ¨me annÃ©e de
+  son Ã¢ge. (Voyez le P. Anselme, _Histoire gÃ©nÃ©al._, t. II, p. 427,
+  et t. V, p. 20; et FlÃ©chier, _Oraison funÃ¨bre de madame la
+  duchesse de Montausier_.)
+
+  [18] Ce ne fut que quatre ans aprÃ¨s la prÃ©sentation de la
+  _Guirlande_ que M. de Montausier Ã©pousa Julie d'Angennes (le 13
+  juillet 1645). Elle avait alors trente-huit ans. Â«Elle s'Ã©toit
+  mariÃ©e (dit madame de Motteville dans ses _MÃ©moires_), n'Ã©tant
+  plus jeune, au marquis de Montausier, qui l'avoit aimÃ©e _quatorze
+  ans_, et en se donnant Ã  lui, il lui sembla qu'elle Ã©toit plus
+  touchÃ©e des obligations qu'elle lui avoit et de son mÃ©rite que du
+  dÃ©sir de se marier.Â»
+
+  M. de Montausier, pour conclure ce mariage, abjura la religion
+  protestante pour se faire catholique.
+
+_Comme cette fÃªte arrivoit dans un temps oÃ¹ la terre ne produit pas
+assez de fleurs au grÃ© des amants[19], celui-ci supplÃ©a Ã  la stÃ©rilitÃ©
+de la saison par cette guirlande._
+
+  [19] Le 22 mai, _jour de la Sainte-Julie_. Nous serions plutÃ´t
+  tentÃ© d'affirmer, avec M. Huet, que l'offre de la _Guirlande_ eut
+  lieu Â«un premier jour de l'anÂ»; car, Mai, le mois du renouveau,
+  produit certes assez de fleurs, mÃªme au grÃ© des amants. Quant Ã 
+  l'annÃ©e oÃ¹ Julie trouva ce chef-d'Åuvre _Ã  son rÃ©veil_, il est
+  probable que ce fut le 1er janvier 1642, puisque le manuscrit est
+  datÃ© de 1641.
+
+_Ce manuscrit commence par huit feuillets._
+
+_Les trois premiers sont en blanc. On lit au haut du recto du second le
+billet que l'abbÃ© de Rothelin[20] Ã©crivoit de sa main Ã  M. de Boze[21],
+en lui faisant prÃ©sent de ce beau livre_:
+
+   Je prie M. de Boze de vouloir bien accepter le prÃ©sent livre, et le
+   placer dans son magnifique cabinet, comme une marque de ma tendre
+   amitiÃ©.
+
+    _L'abbÃ©_ DE ROTHELIN.
+
+_Le quatriÃ¨me feuillet contient le titre._
+
+_Sur le cinquiÃ¨me est peinte une guirlande superbe, au milieu de
+laquelle on lit ces mots_:
+
+
+LA
+
+GVIRLANDE
+
+DE
+
+IVLIE
+
+  [20] Charles d'OrlÃ©ans de Rothelin, abbÃ© de Cormeilles et
+  littÃ©rateur distinguÃ©, nÃ© Ã  Paris, le 5 aoÃ»t 1691, mort le 17
+  juillet 1744. Il fut reÃ§u Ã  l'AcadÃ©mie franÃ§aise en 1728, et Ã 
+  celle des Inscriptions en 1732.
+
+  [21] Claude Gros de Boze, antiquaire, nÃ© Ã  Lyon en 1680, mort Ã 
+  Paris, en 1753. Il remplaÃ§a FÃ©nelon Ã  l'AcadÃ©mie franÃ§aise et fut
+  reÃ§u Ã  celle des Inscriptions, dont il devint secrÃ©taire
+  perpÃ©tuel en 1706.
+
+_Le sixiÃ¨me est encore en blanc._
+
+_Il y a sur le septiÃ¨me une miniature oÃ¹ l'on voit ZÃ©phire entourÃ©
+d'un nuage et reprÃ©sentÃ© du cÃ´tÃ© gauche au cÃ´tÃ© droit du spectateur[22].
+Il tient dans sa main droite une rose, et dans sa gauche la guirlande de
+fleurs[23], au nombre de vingt-neuf, qu'il souffle lÃ©gÃ¨rement sur la
+terre pour qu'on puisse les reconnoÃ®tre aisÃ©ment[24]._
+
+  [22] C'est-Ã -dire faisant face au spectateur. Dans cette
+  position, la droite de ZÃ©phire est Ã  gauche du spectateur; il est
+  reprÃ©sentÃ© de trois quarts.
+
+  [23] Cette seconde guirlande, en forme de couronne, peut avoir
+  deux pouces au plus de diamÃ¨tre, tandis que la premiÃ¨re occupe
+  presque entiÃ¨rement la page. Celle-lÃ  n'est pas la copie exacte
+  de celle-ci, qu'elle ne rappelle que vaguement, et c'est plutÃ´t
+  dans la premiÃ¨re que dans la seconde que les fleurs peuvent Ãªtre
+  comptÃ©es.
+
+  [24] Ces fleurs que souffle ZÃ©phire ne sont pas aussi variÃ©es que
+  celles de la premiÃ¨re guirlande. (C'est d'aprÃ¨s M. Ch.-L. Livet
+  que nous donnons ces dÃ©tails. Plus heureux que nous, M. Livet a
+  pu visiter, chez le duc d'UzÃ¨s, le prÃ©cieux manuscrit avant la
+  publication de son Ã©dition. Voy. l'Appendice de _PrÃ©cieux et
+  PrÃ©cieuses_. Paris, Didier, 1870, 2e Ã©dition.)
+
+_Le huitiÃ¨me contient un madrigal intitulÃ©_: ZÃ©phire Ã  Ivlie.
+
+_Le corps de l'ouvrage vient ensuite; il est de quatre-vingt-dix
+feuillets, dont le premier est cotÃ© 6, et le dernier 95._
+
+_De ces quatre-vingt-dix feuillets, il y en a vingt-neuf qui contiennent
+chacun une fleur, et soixante et un qui contiennent chacun un
+madrigal[25]._
+
+  [25] Nous avons fait en sorte de rendre, dans notre rÃ©impression,
+  cette disposition du manuscrit original, en ne mettant qu'un
+  fleuron par chaque sorte de fleurs. Les Ã©ditions prÃ©cÃ©dentes
+  n'avaient pas suivi, d'aussi prÃ¨s que nous l'avons fait, la
+  reproduction de l'Åuvre de Jarry.
+
+_Ce volume est terminÃ© par une table alphabÃ©tique qui n'est point du
+tout commode. Elle est dressÃ©e selon l'ordre des premiÃ¨res lettres de
+chaque madrigal, de lÃ  vient que le nom de la mÃªme fleur y est rÃ©pÃ©tÃ©
+plusieurs fois, et qu'on n'y voit pas d'un seul coup d'Åil toutes les
+piÃ¨ces qui ont Ã©tÃ© faites sur elle[26]._
+
+  [26] L'Ã©dition, Ã  la suite de la _Vie de Montausier_ par Nicolas
+  Petit (_Paris_, 2 vol. in-12, _Rollin et Genneau_, 1729), a
+  reproduit cette table.
+
+_Nous avons corrigÃ© ce dÃ©faut en substituant Ã  cette table dÃ©fectueuse
+celle donnÃ©e par l'abbÃ© Rive[27]._
+
+  [27] L'abbÃ© Rive (Jean-Joseph), bibliographe, nÃ© le 19 janvier
+  1730, mort en 1792. La table dont il est question ici fut dressÃ©e
+  par l'abbÃ© Ã  la suite de sa notice. Voyez _Notices historiques et
+  critiques_ de DEUX MANUSCRITS uniques et trÃ¨s-prÃ©cieux de la
+  bibliothÃ¨que de M. le duc de La ValliÃ¨re, dont l'un a pour titre:
+  LA GUIRLANDE DE JULIE, et l'autre: _Recueil de fleurs et insectes
+  peints par Daniel Rabel en 1624_. Par l'abbÃ© Rive. _A Paris_, de
+  l'imprimerie de Didot l'aÃ®nÃ©, 1779, in-4Âº de 20 pages. Cette
+  plaquette est trÃ¨s-rare.
+
+_Sans vouloir enrichir le passÃ© aux dÃ©pens du prÃ©sent, il faut avouer
+qu'il seroit difficile aujourd'hui d'assembler un aussi grand nombre de
+beaux esprits et de poÃ«tes cÃ©lÃ¨bres qu'il s'en trouva alors pour
+immortaliser le nom de_ JULIE.
+
+_La table qui contient les noms de tous ces poÃ«tes, et que nous avons
+ajoutÃ©e Ã  celle de l'abbÃ© Rive, ne prÃ©sente que les illustres fondateurs
+de l'AcadÃ©mie franÃ§oise, qui s'Ã©levoit alors Ã  l'hÃ´tel de Rambouillet,
+en attendant qu'elle reÃ§Ã»t et sa forme et sa gloire du cardinal de
+Richelieu._
+
+_Mais quand on n'auroit pas appris par lÃ  qui sont ceux qui aidÃ¨rent Ã 
+M. de Montausier Ã  cÃ©lÃ©brer mademoiselle de Rambouillet, il seroit
+toujours facile de juger, par tant de poÃ©sies diverses et ingÃ©nieuses,
+que des esprits d'un ordre supÃ©rieur y ont eu part._
+
+_Ces poÃ©sies ou madrigaux ont Ã©tÃ© imprimÃ©s Ã  Paris, en 1729[28], Ã  la
+suite de la Vie de M. de Montausier, rÃ©digÃ©e par Nicolas Petit, jÃ©suite,
+qu'on a confondu avec d'autres auteurs du mÃªme nom, dont les ouvrages
+sont annoncÃ©s dans la France littÃ©raire, t. Ier, p. 361; t. II, p. 92,
+et SupplÃ©ment, part. Ire, p. 167. L'on vient de rÃ©imprimer tout
+rÃ©cemment[29] ces madrigaux avec la Vie de M. le duc de Montausier._
+
+  [28] Cette Ã©dition fut rÃ©imprimÃ©e Ã  Paris, chez Rollin fils, en
+  1735, puis en 1736. Le mÃªme ouvrage parut anonyme Ã  Rotterdam (ou
+  Berlin), in-12, en 1731, sous le titre: _MÃ©moires de M. le duc de
+  Montausier_.
+
+  [29] La rÃ©cente rÃ©impression dont parle Guillaume de Bure, au
+  moment oÃ¹ il rÃ©digeait son Catalogue, fut sans doute l'Ã©dition,
+  alors sous presse, donnÃ©e par Didot en 1784, d'aprÃ¨s l'in-4Âº
+  manuscrit de la _Guirlande_, achetÃ© par cet imprimeur Ã  la vente
+  Crozat de Tugny, en 1751. Mais cette Ã©dition parut isolÃ©e, et
+  c'est par erreur qu'elle figure dans cette Notice comme ayant
+  paru avec la Vie de Montausier.
+
+_L'on apercevra aisÃ©ment Ã  la table des noms des auteurs, que M. de
+Montausier, comme amant, a composÃ© un trÃ¨s-grand nombre de ces
+madrigaux. On ignore les raisons pour lesquelles il s'est cachÃ©
+quelquefois sous ces lettres: M. le M. de M.[30], ainsi que le marquis
+de Racan par celles de M. le M. de R.[31]; M. Conrart, que l'on peut
+appeler le pÃ¨re de l'AcadÃ©mie franÃ§oise, n'y est dÃ©signÃ© que par M.
+C.[32]._
+
+  [30] Tous les noms d'auteurs sont Ã©crits par Jarry, dans l'angle
+  gauche de chacune des pages oÃ¹ commencent leurs madrigaux. Les
+  poÃ«tes de la _Guirlande_ ne signÃ¨rent donc pas de leur main, Ã  la
+  fin de chaque piÃ¨ce. Le marquis de Montausier ne se cache
+  nullement sous les initiales dÃ©crites ici. ExceptÃ© Ã  la table et
+  au madrigal _ZÃ©phire Ã  Julie_, son nom paraÃ®t toujours en toutes
+  lettres.
+
+  [31] Rien ne fait supposer que le sixain signÃ© M. le M. de R.
+  soit du marquis de Racan; tout, au contraire, porte Ã  croire
+  qu'il a pour auteur le marquis de Rambouillet, pÃ¨re de Julie. (V.
+  la _Note 23, Ã  la fin du prÃ©sent volume_.)
+
+  [32] Nous ne savons sur quelle autoritÃ© ont pu s'appuyer les
+  auteurs de cette Notice pour attribuer Ã  Valentin Conrart les
+  madrigaux signÃ©s _M. C._ Conrart ne faisait pas de vers galants,
+  et en eÃ»t-il fait, les six piÃ¨ces signÃ©es de ces initiales ne
+  seraient pas de lui. Trois de ces madrigaux sont assurÃ©ment de
+  Pierre Corneille; pour les trois autres, s'ils ne sont pas du
+  mÃªme auteur, leur paternitÃ© est restÃ©e assez obscure pour qu'on
+  puisse les attribuer Ã  l'abbÃ© Cotin ou Ã  tout autre (non
+  Colletet, ni Chapelain, qui signent dans le recueil) aussi bien
+  qu'au _PÃ¨re de l'AcadÃ©mie franÃ§oise_. (Voyez, _Ã  la fin de cette
+  Ã©dition_, les _notes 18, 21, 24, 27, 29, 33_.)
+
+_Comme la baronnie de Montausier ne fut Ã©rigÃ©e en marquisat qu'en
+1644[33], trois ans aprÃ¨s que la_ Guirlande de Julie _fut prÃ©sentÃ©e Ã 
+mademoiselle de Rambouillet, l'on sera sans doute Ã©tonnÃ© que M. de
+Montausier ait pris le nom de marquis avant de l'Ãªtre effectivement;
+mais on ne doit pas ignorer qu'il Ã©toit trÃ¨s-commun que les gens de
+qualitÃ© prissent dans le monde le titre de marquis avant que la terre de
+leur nom fÃ»t Ã©rigÃ©e en marquisat[34]. Le frÃ¨re aÃ®nÃ© de M. le duc de
+Montausier, qui mourut en 1633[35], avoit aussi portÃ© le titre de
+marquis de Montausier._
+
+  [33] La baronnie de Montausier fut Ã©rigÃ©e en marquisat, en 1644,
+  par lettres patentes donnÃ©es Ã  Paris, au mois de mai de la mÃªme
+  annÃ©e. Ce marquisat fut ensuite Ã©rigÃ© en duchÃ©-pairie, en 1664.
+  (Voyez le P. Anselme, _Hist. gÃ©nÃ©al._, t. V, pp. 1 et 20.)
+
+  [34] MoliÃ¨re, dans les _PrÃ©cieuses_, a ridiculisÃ© les marquis
+  sans marquisat, et l'on connaÃ®t cette pointe de Scarron, dans son
+  _Roman comique_:
+
+  Â«... Enfin il se tint Ã  la fille d'un marquis de je ne sais quel
+  marquisat: car c'est la chose du monde dont je voudrois le moins
+  jurer, dans un temps oÃ¹ tout le monde se marquise de soy-mesme, je
+  veux dire de son chef.Â»
+
+  [35] C'est par erreur qu'on a donnÃ© cette date de 1633. Hector de
+  Sainte-Maure, baron de Montausier, fut blessÃ© d'un coup de pierre
+  Ã  la tÃªte, devant BornÃ©o, et succomba le 20 juillet 1635. Sans
+  cet accident, M. de Montausier, l'aÃ®nÃ©, eÃ»t peut-Ãªtre Ã©pousÃ©
+  Julie d'Angennes; c'est du moins ce que nous apprend Tallemant:
+  Â«On avoit parlÃ© autrefois, dit l'intÃ©ressant anecdotier, de
+  marier madame de Montauzier Ã  feu M. de Montauzier, aisnÃ© de
+  celuy-ci.Â» A la mort de son frÃ¨re, Montausier le jeune avait dejÃ 
+  commencÃ© Ã  prÃ©parer la GUIRLANDE, dont les madrigaux devaient
+  Ãªtre presque tous rassemblÃ©s.
+
+_Chapelain, fameux par l'attente de la_ Pucelle _qui avoit par avance un
+nom qu'elle n'a pu soutenir quand elle a Ã©tÃ© au grand jour[36], fut un
+de ceux qui brilla le plus en cette occasion. La fleur impÃ©riale
+dont il fit choix donna lieu Ã  une allÃ©gorie fort spirituelle, sur
+laquelle roule toute la finesse de son madrigal[37]._
+
+  [36] Chapelain avait partagÃ© son poÃ«me en vingt-quatre chants,
+  dont les douze premiers seuls parurent en 1656. Jusque-lÃ  sa
+  renommÃ©e n'Ã©tait fondÃ©e que sur des petits ouvrages de poÃ©sie:
+  odes, sonnets, madrigaux, tous assez bons pour ne pas nuire Ã  la
+  haute idÃ©e d'un poÃ«me, fruit de tant de veilles, et que la France
+  entiÃ¨re semblait attendre impatiemment. (Voyez d'Olivet,
+  _Histoire de l'AcadÃ©mie franÃ§oise_; Guizot, _Corneille et son
+  temps_. Paris, Didier, nouvelle Ã©dition, 1866.)
+
+  [37] Voyez la note 2, aux _Notes et Variantes_.
+
+_En voici l'explication en deux mots:_
+
+_Le grand Gustave Ã©toit alors au plus haut pÃ©riode de sa gloire, et il
+en jouissoit sans rivaux, puisque personne ne pouvoit lui disputer celle
+d'Ãªtre le plus fameux conquÃ©rant de son siÃ¨cle. Mademoiselle de
+Rambouillet, juge trÃ¨s-capable du vrai mÃ©rite, ne parloit d'ordinaire de
+ce prince qu'avec Ã©loge; elle avoit mÃªme son portrait dans sa chambre,
+et disoit toujours qu'elle ne vouloit point d'autre amant que ce
+hÃ©ros[38]._
+
+  [38] Â«Julie faisoit paroÃ®tre une grande admiration pour la valeur
+  de ce prince, dit Ã©galement Huet (_Huetiana_, p. 105). Elle avoit
+  son portrait dans sa ruelle et prenoit plaisir Ã  dire qu'elle ne
+  vouloit pas d'autre galant que lui. M. de Montausier Ã©toit
+  pourtant son galant fort ardent et fort dÃ©clarÃ©.Â»
+
+_Cela donna lieu Ã  Chapelain de choisir pour sujet de son madrigal la
+fleur qu'on nomme_ impÃ©riale, _qu'il suppose Ãªtre Gustave ainsi
+mÃ©tamorphosÃ© qui vient lui rendre hommage et lui offrir de la couronner.
+Voiture, Ã  qui cette fiction avoit sans doute paru trÃ¨s-noble, y fait
+allusion dans la lettre qu'il Ã©crivit Ã  mademoiselle de Rambouillet[39],
+au nom du roi de SuÃ¨de, et qui commence_: Voicy le lion du Nord, _etc._
+
+  [39] (_OEuvres de Voiture_, lettre VII.) Cette lettre fut Ã©crite,
+  sous le nom du roi de SuÃ¨de, Ã  mademoiselle de Rambouillet, en
+  mars 1632. Voiture, ayant fait travestir cinq Ã  six hommes en
+  SuÃ©dois, les envoya en carrosse Ã  l'hÃ´tel de Rambouillet oÃ¹ ils
+  se prÃ©sentÃ¨rent comme ambassadeurs de Gustave-Adolphe, en
+  remettant Ã  Julie d'Angennes, avec cette lettre, un portrait du
+  grand conquÃ©rant.
+
+_On a cru devoir cette explication en particulier Ã  ceux qui verront ce
+livre, sans entrer dans le dÃ©tail du reste, qui s'entend facilement, et
+l'on se contentera d'ajouter ici que Robert[40], cÃ©lÃ¨bre peintre
+d'alors, fut chargÃ© de peindre les fleurs dont il est enrichi, et que
+Nicolas Jarry[41], le plus fameux maÃ®tre d'Ã©criture de son temps, a_
+_Ã©crit de sa main et les madrigaux et la table des auteurs._
+
+  [40] Robert, peintre et graveur Ã  la pointe, nÃ© Ã  Langres, vers
+  1610, mort en 1684. Il peignait en miniature pour Gaston de
+  France, duc d'OrlÃ©ans, et excellait dans la peinture des plantes,
+  fleurs et insectes. Nous avons vu, au Cabinet des estampes de la
+  BibliothÃ¨que nationale, un fort intÃ©ressant recueil qui fait
+  honneur Ã  cet artiste: c'est un grand in-folio portant le no
+  1199, en 2 volumes, cotÃ©s J. C. 33, sous le titre de: _Plantes
+  dessinÃ©es Ã  la sanguine, par Robert_, tomes I et II. Les dessins
+  sont dÃ©licats et d'une merveilleuse exÃ©cution, bien qu'un peu
+  affaiblis par le temps.
+
+  [41] Nicolas Jarry, nÃ© Ã  Paris, vers 1620, mort vers 1670. Tout
+  ce qui est sorti de la main de cet inimitable artiste passe pour
+  chef-d'Åuvre. Son talent dans l'art calligraphique est au-dessus
+  de tout Ã©loge; il a effacÃ© tous ceux qui l'ont prÃ©cÃ©dÃ© ou suivi
+  dans la mÃªme carriÃ¨re. (_Dictionnaire de bibliologie_, par
+  Gabriel Peignot, 1802, t. II, p. 388.--Le _Dictionnaire des
+  artistes_, de l'abbÃ© de Fontenac, 1776, reste muet sur Jarry.)
+
+  Ce fameux calligraphe avait Ã  peine vingt et un ans, lorsqu'il
+  Ã©crivit la _Guirlande de Julie_; six ans plus tard, il fit un
+  autre chef-d'Åuvre: les _Heures de Notre-Dame_, in-8Â° de 120
+  feuillets. Il reÃ§ut plus tard de Louis XIV le brevet de _maÃ®tre
+  Ã©crivain_ et de noteur de la musique du roy.
+
+  Le recueil manuscrit de Maurepas attribue mÃªme Ã  Jarry le dessin
+  et la peinture des fleurs de la _Guirlande_.
+
+_Afin que rien ne manquÃ¢t Ã  embellir cet ouvrage, il fut reliÃ© par le
+Gascon, qui n'avoit pas d'Ã©gal en son art, et enrichi par le dehors et
+le dedans des chiffres de Julie-Lucine, afin que l'on sÃ»t d'abord Ã  qui
+il Ã©toit[42]._
+
+  [42] Ce manuscrit est reliÃ© en maroquin rouge, avec filets, et
+  recouvert d'un Ã©tui en peau de frangipane; le chiffre, imprimÃ© en
+  or, est semÃ© sur le maroquin; il est formÃ© des lettres J.-L.
+  (Julie-Lucine), Ã©crites Ã  la fois de gauche Ã  droite et de droite
+  Ã  gauche.
+
+_Tant que madame de Montausier a vÃ©cu, elle a conservÃ© prÃ©cieusement ce
+gage de la politesse et de l'amour de son mari pour elle. Ãtant morte,
+M. de Montausier en devint le dÃ©positaire et le montroit avec plaisir Ã 
+ses amis. De ses mains, il passa en celles de madame la duchesse d'UzÃ¨s,
+sa fille[43], qui savoit trop ce qu'il valoit pour ne pas le garder avec
+soin. Aussi ce ne fut qu'aprÃ¨s sa mort que ce livre fut vendu par ses
+hÃ©ritiers, comme une piÃ¨ce qui ne mÃ©ritoit pas leur attention. Un
+particulier l'acheta Ã  l'intention de M. Moreau, premier valet de
+chambre de monseigneur le duc de Bourgogne, si connu par son mÃ©rite
+et son bon goÃ»t, qui lui paya quinze louis d'or, valant alors deux cents
+livres; et depuis il a eu l'honnÃªtetÃ© de m'en faire un prÃ©sent et de
+m'obliger Ã  le prendre, croyant, avec raison, enrichir par lÃ  mon
+cabinet[44]._
+
+  [43] Marie-Julie de Sainte-Maure, nÃ©e vers 1646, mariÃ©e en 1664,
+  Ã  Emmanuel de Crussol, duc d'UzÃ¨s, morte le 14 avril 1695.
+  Tallemant des RÃ©aux, dans ses _Historiettes_, lui a rÃ©servÃ©
+  quelques lignes sous ce titre: Â«_La petite Montauzier_Â». Il y
+  raconte trÃ¨s-agrÃ©ablement les reparties prÃ©coces de la jeune et
+  chÃ¨re enfant de Julie d'Angennes. La Vie de Montausier que nous
+  avons citÃ©e fut Ã©crite par le P. Petit, jÃ©suite, d'aprÃ¨s les
+  _MÃ©moires de la duchesse d'UzÃ¨s_.
+
+  [44] C'est du cabinet de M. de GaignÃ¨res, auteur principal de
+  cette Notice, qu'il est question ici.
+
+_Nicolas Jarry, Ã©crivain inimitable du dernier siÃ¨cle, fit trois
+manuscrits de la Guirlande de Julie dans la mÃªme annÃ©e 1641, savoir: un
+in-folio, un in-quarto et un in-octavo._
+
+_Le premier[45], annoncÃ© dans le Catalogue des livres de M. le prÃ©sident
+Crozat de Tugny, Paris, 1751, p. 119, no 1316, n'Ã©toit pas imprimÃ©.
+C'est une erreur de ne pas l'avoir annoncÃ© manuscrit. Il est de la
+propre main de Jarry, sur papier in-quarto, Ã  longues lignes, et
+contient cinquante-trois feuillets trÃ¨s-bien Ã©crits, en lettres
+bÃ¢tardes. Il paraÃ®t avoir Ã©tÃ© l'esquisse et le modÃ¨le de l'in-folio
+prÃ©sentÃ© Ã  mademoiselle de Rambouillet. M. le marquis de Courtanvaux en
+a Ã©tÃ© ensuite possesseur. Il est passÃ©, Ã  sa vente, entre les mains de
+P. F. Didot, imprimeur de Monsieur[46]._
+
+  [45] C'est le second qu'il faudrait dire, car c'est du manuscrit
+  in-4Âº que l'auteur veut parler. Il est annoncÃ© comme imprimÃ© dans
+  le Catalogue de M. Crozat de Tugny (in-8Âº, Ã  Paris, chez
+  Thiboust, 1751), dont la vente fut faite au commencement d'aoÃ»t
+  de cette mÃªme annÃ©e. Il y fut adjugÃ© au marquis de Courtanvaux,
+  au prix surprenant de 3 francs. M. P. F. Didot jeune l'acheta, Ã 
+  la vente de ce dernier, pour la somme, non moins Ã©tonnante, de 3
+  fr. 75; et c'est d'aprÃ¨s cet in-4Âº que l'Ã©dition de 1784 fut
+  donnÃ©e par ce mÃªme imprimeur.
+
+  [46] Nous ne pouvons suivre au delÃ  les changements de
+  propriÃ©taire que ce manuscrit a dÃ» subir. Il n'est probablement
+  pas restÃ© dans la famille des Didot. En tous cas, le savant
+  bibliophile M. Ambroise Firmin Didot ne le possÃ¨de pas.
+
+_Le second[47], trÃ¨s-prÃ©cieux, sur vÃ©lin in-folio, qui a donnÃ© lieu Ã 
+cette Notice, est supÃ©rieurement Ã©crit en lettres rondes; les figures de
+toutes les fleurs, peintes par le fameux Robert, et la reliure
+magnifique, en maroquin rouge, de ce livre, ornÃ©, en dehors et en
+dedans, du chiffre entrelacÃ© de J. L., ajoutent au trÃ¨s-grand mÃ©rite de
+cet ouvrage unique en son genre._
+
+  [47] C'est-Ã -dire le premier. La rÃ©daction de cette Notice est
+  fautive: la marche Ã  suivre Ã©tait de dÃ©crire Ã  la suite
+  l'in-folio, l'in-octavo, et, en dernier lieu, l'in-quarto. Nous
+  ne sommes pas Ã©tonnÃ© des nombreuses erreurs qui se sont glissÃ©es
+  dans les diffÃ©rentes bibliographies de la _Guirlande_, qui toutes
+  ont pris cette Notice pour guide.
+
+_Il paraÃ®t qu'aprÃ¨s M. de GaigniÃ¨res, ce manuscrit passa entre les mains
+du chevalier de B***; il fut achetÃ©, en 1726, Ã  la vente de ses
+livres[48], par M. l'abbÃ© de Rothelin, qui, comme on l'a vu plus haut,
+en fit prÃ©sent quelque temps aprÃ¨s Ã  M. de Boze. M. de Cotte[49]
+l'acheta des hÃ©ritiers de M. de Boze, avec une partie de sa
+bibliothÃ¨que, et le cÃ©da Ã  M. Gaignat, Ã  la vente duquel il fut
+achetÃ© par M. le duc de La ValliÃ¨re[50]. M. Peyne, libraire de Londres,
+l'a payÃ©, Ã  la vente de ce dernier[51], quatorze mille cinq cent dix
+livres. Nous ignorons entre les mains de qui il est passÃ©[52]._
+
+  [48] _Catalogus librorum viri nobilis D. equitis D. B***_
+  (Bauche). _Parisiis_, 1726 (nÂ° 785, p. 70.)
+
+  [49] Jules Robert de Cotte, mort en 1767, fils de Robert de
+  Cotte, Ã©lÃ¨ve et beau-frÃ¨re de Mansard. Ce fut lui qui disposa
+  l'amÃ©nagement de la BibliothÃ¨que du roi, dans le palais Mazarin.
+
+  [50] M. le duc de La ValliÃ¨re le paya, Ã  cette vente, 780 fr.
+
+  [51] Catalogue du feu duc de La ValliÃ¨re, t. II, p. 382, no 3247.
+  La notice de l'abbÃ© Rive, citÃ©e plus haut (Didot, 1779), fut
+  vendue, sous le no 3249, la somme de 15 fr., Ã  cette mÃªme vente.
+
+  [52] M. Ch. Nodier, dans son Ã©dition, a reproduit ces lignes,
+  sans annoncer que M. le duc d'UzÃ¨s Ã©tait devenu possesseur de ce
+  prÃ©cieux volume. AprÃ¨s la vente La ValliÃ¨re, il fut acquis par
+  madame la duchesse de ChÃ¢tillon, Ã  la mort de laquelle il passa
+  chez la duchesse d'UzÃ¨s, sa fille. Il appartient aujourd'hui Ã  M.
+  de Crussol, qui l'a reÃ§u de son pÃ¨re, le duc d'UzÃ¨s. Il figurait
+  Ã  l'exposition organisÃ©e Ã  Paris, au profit des
+  Alsaciens-Lorrains, en 1874. On a offert plus de _cent mille
+  francs_ de cet admirable manuscrit au duc d'UzÃ¨s, qui s'est
+  empressÃ© de refuser.
+
+  Madame la duchesse de ChÃ¢tillon se _rendit sans doute
+  propriÃ©taire_ de ce chef-d'Åuvre Ã  Hambourg, en 1795, car nous
+  trouvons, dans la _Botanique littÃ©raire_ de madame de Genlis
+  (Paris, chez Maradan, libraire, 1810, p. 190), cette intÃ©ressante
+  note touchant ce manuscrit: Â«Ce monument intÃ©ressant de la
+  galanterie du XVIIe siÃ¨cle, passÃ© dans des mains Ã©trangÃ¨res (sans
+  doute par les malheurs de la RÃ©volution), se trouvoit transportÃ© Ã 
+  Hambourg en 1795, et il Ã©toit en vente... On ignore quelle est la
+  personne qui en fit l'acquisition.Â» (Cette vente eut donc lieu
+  onze ans aprÃ¨s celle du duc de La ValliÃ¨re.)
+
+_Le troisiÃ¨me et dernier manuscrit de la_ Guirlande[53] _contient
+quarante feuillets sur vÃ©lin in-octavo, Ã©crits en_ lettres _bÃ¢tardes. Il
+ne renferme que les madrigaux seuls, sans aucune peinture. La
+reliure est la mÃªme que celle du manuscrit prÃ©cÃ©dent (1641), parce
+qu'ils furent prÃ©sentÃ©s, tous les deux en mÃªme temps, Ã  mademoiselle de
+Rambouillet, par M. le duc de Montausier. L'on ignore absolument comment
+il est passÃ© dans la bibliothÃ¨que de M. le duc de La ValliÃ¨re[54]. M. G.
+Debure fils aÃ®nÃ©, chargÃ© de la vente de cette bibliothÃ¨que, l'a payÃ©
+quatre cent six livres, et en est actuellement le possesseur[55]
+(1784)._
+
+  [53] Ce manuscrit, sur vÃ©lin in-8Âº, reliÃ© en maroquin rouge,
+  vient de la bibliothÃ¨que de l'abbÃ© de Rothelin, dont il porte les
+  armes, gravÃ©es en taille-douce, collÃ©es sur l'intÃ©rieur du
+  premier carton de la couverture. Le Catalogue de l'abbÃ© de
+  Rothelin n'en faisant pas mention, il est probable qu'il aura Ã©tÃ©
+  donnÃ©, par celui-ci, Ã  M. de Boze en mÃªme temps que l'in-folio.
+  Le corps de ce manuscrit commence Ã  la page 3, par le madrigal de
+  _ZÃ©phire Ã  Julie_; il finit Ã  la page 70, et il est suivi d'une
+  table de 5 feuillets, dressÃ©e comme celle de l'in-folio. Notre
+  Ã©dition se trouve donc presque en tout point conforme Ã  ce
+  manuscrit, sur lequel _le recueil de Maurepas_ prit copie, et non
+  sur l'in-folio, comme on semble gÃ©nÃ©ralement le supposer.
+
+  [54] Ce volume manuscrit a sans doute suivi le destin du superbe
+  in-folio: les acquÃ©reurs de l'un se seront faits adjudicataires
+  de l'autre, et ils durent ainsi fraternellement arriver dans la
+  bibliothÃ¨que du duc de La ValliÃ¨re, Ã  la vente duquel le sort des
+  enchÃ¨res les sÃ©para.
+
+  [55] Brunet, dans le _Manuel du libraire_, annonce cet in-octavo
+  vendu 406 francs Ã  la vente La ValliÃ¨re (no 3248, p. 384, t. II),
+  622 francs Ã  la vente d'Hangard, 250 francs Ã  la vente de Febvre,
+  et enfin 2,900 francs Ã  la vente du dernier de Bure, qui eut lieu
+  en 1853. Il fut alors acquis par M. le marquis de Sainte-Maure,
+  dans la famille duquel il a dÃ» rester.
+
+_Ce manuscrit peut Ãªtre regardÃ© comme le chef-d'Åuvre de M. Jarry,
+parce qu'il excelloit encore plus dans les_ lettres bÃ¢tardes _que dans
+les_ lettres rondes.
+
+_Nous croyons ne pouvoir mieux finir cette Notice qu'en rapportant le
+sonnet de Gilles MÃ©nage, imprimÃ© dans ses_ Miscellanea, Parisiis, 1652,
+_in-4Âº, p. 124_.
+
+
+SONNET
+
+SUR
+
+LA GVIRLANDE DE IVLIE[56]
+
+    Sous ces ombrages verds la nymphe que j'adore,
+    Ce miracle d'amour, ce chef-d'Åuvre des Dieux,
+    Avecque tant d'Ã©clat vient d'Ã©bloÃ¼yr nos yeux,
+    Que Zephire amoureux l'auroit prise pour Flore.
+
+    Son teint estoit plus beau que le teint de l'Aurore,
+    Ses yeux estoient plus vifs que le flambeau des Cieux,
+    Et sous ses nobles pas on voyoit en tous lieux
+    Les roses, les jasmins et les Åillets Ã©clore.
+
+    Vous qui, pour sa GVIRLANDE, allez cueillant des fleurs,
+    Nourrissons d'Apollon, favoris des neuf sÅurs,
+    Ne les Ã©pargnez point pour un si bel ouvrage.
+
+    Venez de mille fleurs sa teste couronner:
+    Sous les pieds de IVLIE il en naÃ®t davantage
+    Que vos savantes mains n'en peuvent moissonner.
+
+  [56] Nous signalons l'analogie qui existe entre ce sonnet et
+  celui de Voiture, qui dÃ©bute ainsi:
+
+    _Sous un habit de fleurs, la nymphe que j'adore_, etc.
+
+  (Voyez l'Ã©dition de Voiture donnÃ©e par A. Ubicini. _Paris_,
+  Charpentier, t. II, p. 309.)
+
+Nous avons donnÃ© audience Ã  M. de GaignÃ¨res pour la contexture et
+l'histoire des trois manuscrits de Jarry; complÃ©tons sa Notice par
+l'analyse succincte et aussi complÃ¨te que possible des diverses copies
+et Ã©ditions de la _Guirlande de Julie_.
+
+C'est le _Recueil de Maurepas_ que nous citerons en premier lieu: Le
+volume I de ce Recueil manuscrit[57] contient une copie prise
+trÃ¨s-fidÃ¨lement, le 24 octobre 1715, sur le texte de l'in-8Â° de Jarry,
+appartenant alors Ã  M. le duc d'UzÃ¨s.
+
+  [57] Recueil de chansons, vaudevilles, sonnets, Ã©pigrammes,
+  Ã©pitaphes et autres vers satiriques et historiques, avec des
+  remarques curieuses depuis 1389 jusqu'en 164... (Vol. 1er, p.
+  527.)
+
+  _BibliothÃ¨que nationale_, dÃ©partement des manuscrits. FR. 12, 616.
+
+En second lieu, dans un des manuscrits de Conrart[58] indÃ©pendant des
+deux collections connues de la bibliothÃ¨que de l'Arsenal, nous voyons
+une version trÃ¨s-incomplÃ¨te des madrigaux de la _Guirlande_, parmi
+lesquels plusieurs piÃ¨ces aussi anonymes qu'inÃ©dites se trouvent mÃªlÃ©es.
+
+  [58] MÃ©langes de vers et de prose, petit in-folio;
+  belles-lettres, 145 pp. 1087 et suivantes. (Voyez Madrigaux
+  inÃ©dits, p. 79 de ce vol.) _BibliothÃ¨que de l'Arsenal_, mss., B.
+  L., nÂ° 151.
+
+Ces deux copies manuscrites sont les seules dont nous ayons eu
+connaissance.
+
+Le recueil de Sercy[59] eut la gloire de mettre au jour les madrigaux
+_imprimÃ©s_ de l'illustre _Guirlande_, mais c'est Ã  l'Ã©dition de la Vie
+du duc de Montausier, parue en 1729[60], que revient l'honneur d'une
+premiÃ¨re impression conforme au texte de l'in-folio manuscrit.
+
+  [59] PoÃ©sies choisies de MM. Corneille, Benserade, de ScudÃ©ry,
+  Bois-Robert, Cotin, etc., 5 vol. in-12. (_Paris_, Ch. de Sercy,
+  1657-1666, t. II, p. 237.) A part les trois madrigaux de
+  Corneille, aucune piÃ¨ce de la Guirlande n'est signÃ©e dans ce
+  recueil.
+
+  [60] Vie de M. le duc de Montausier, gouverneur de Monseigneur le
+  Dauphin, par N*** (Nicolas Petit), _Paris_, Rollin et Genneau,
+  1729, 2 vol. Les madrigaux se trouvent Ã  la fin du tome II.
+
+Voici maintenant les Ã©ditions intÃ©grales et successives de la _Guirlande
+de Julie_:
+
+1Â° LA GUIRLANDE DE JULIE, offerte Ã  Mlle de Rambouillet, _Julie-Lucine
+d'AngÃ¨nes_, par M. le Marquis de Montausier. _Paris, de l'Imprimerie de
+Monsieur_, 1784, in-8Â° de 82 pages[61].
+
+  [61] M. Renouard, dans le _Catalogue d'un amateur_, prÃ©tend que
+  cette Ã©dition de Didot (qu'on peut considÃ©rer comme Ã©dition
+  princeps) fut tirÃ©e Ã  90 exemplaires, et Brunet affirme qu'elle
+  le fut au moins Ã  250. De toutes maniÃ¨res, ce livre est devenu
+  excessivement rare, et son prix est trÃ¨s-Ã©levÃ© dans les ventes oÃ¹
+  il figure.
+
+2Â° LA GUIRLANDE DE JULIE, offerte Ã  Mlle de Rambouillet, _Julie-Lucine
+d'AngÃ¨nes_, par M. le Marquis de Montausier, ornÃ©e de trente gravures
+dessinÃ©es et peintes par Mme Legendre. _A Paris_, chez Mlle AdÃ¨le
+Prudhomme, rue des Marais, no 18.--_H. Nicole et Pelicier._--_Imprimerie
+de Didot le jeune_, 1818, in-18 carrÃ©, frontispice gravÃ©, avec
+vignette[62].
+
+  [62] Cette Ã©dition, copie fidÃ¨le du texte de 1784, est sur papier
+  vÃ©lin double satinÃ©, et d'une forme carrÃ©e peu agrÃ©able. Bien que
+  relativement rare, ce petit volume est ornÃ© de dessin-enluminÃ©s
+  si mÃ©diocres d'exÃ©cution, qu'ils sembleraient destinÃ©s Ã  un
+  manuel de botanique plutÃ´t qu'Ã  la Guirlande de la belle
+  Julie.--Il est douteux, comme le dit Nodier, que cette Ã©dition
+  passe jamais du boudoir des dames dans le cabinet du bibliophile.
+
+3Â° LA GUIRLANDE DE JULIE, expliquÃ©e par de nouvelles annotations sur les
+madrigaux et sur les fleurs peintes qui la composent, par M. Amoreux, Dr
+M{n}. _Gabon et Cie, Montpellier et Paris_, 1824, in-8Â°[63].
+
+  [63] La Guirlande de Julie expliquÃ©e par les annotations de M.
+  Amoreux suit le texte des Ã©ditions prÃ©cÃ©dentes; mais les
+  Ã©claircissements et notes de l'Ã©diteur portent peut-Ãªtre trop sur
+  _la flore_ de chaque madrigal pour ne pas assez s'attacher au
+  madrigal lui-mÃªme.--Cependant, bien que M. Amoreux se soit
+  Ã©loignÃ© du but oÃ¹ il eÃ»t dÃ» grouper ses notes, son Ã©dition est
+  intÃ©ressante et digne d'Ãªtre consultÃ©e.
+
+4Â° LA GUIRLANDE DE JULIE, offerte Ã  Mlle de Rambouillet par M. de
+Montausier. _Paris_, N. Delangle, Ã©diteur, 1826 (collection des Petits
+Classiques franÃ§ois)[64].
+
+  [64] La collection des _Petits Classiques franÃ§ois_, si
+  recherchÃ©e aujourd'hui, a prÃªtÃ© sa charmante typographie Ã  la
+  _Guirlande de Julie_, qui en fait partie.--M. Ch. Nodier, associÃ©
+  de N. Delangle, s'est contentÃ© de rÃ©imprimer Ã©lÃ©gamment l'Ã©dition
+  de 1784, avec toutes ses erreurs, sans y joindre la moindre
+  note.--C'est sous la forme d'un simple petit avertissement que le
+  fin bibliophile a prouvÃ© sa collaboration Ã  cette nouvelle
+  Ã©dition.
+
+5Â° LA GUIRLANDE DE JULIE pour Mlle de Rambouillet, _Julie-Lucine
+d'Angennes_. (Appendice de _PrÃ©cieux et PrÃ©cieuses_, par Ch. L. Livet.
+_Paris_, Didier et Cie, in-8Âº, 1859; 2e Ã©dition, in-12, 1870[65]).
+
+  [65] La galanterie de M. de Montausier ne pouvait Ãªtre mieux
+  prÃ©cÃ©dÃ©e que de la riche Ã©tude des mÅurs littÃ©raires du XVIIe
+  siÃ¨cle que M. Ch. L. Livet peint si habilement dans _PrÃ©cieux et
+  PrÃ©cieuses_. M. Livet nous introduit Ã  l'hÃ´tel de Rambouillet, oÃ¹
+  rien ne nous Ã©chappe. Avec lui nous vivons la vie de tous les
+  littÃ©rateurs connus de l'Ã©poque; leur langage imagÃ© refleurit
+  comme aux beaux jours, et nous voyons vigoureusement dessinÃ©es,
+  dÃ©filer devant nous, les silhouettes de ScudÃ©ry, Boisrobert,
+  RenÃ©, Le Pays, l'abbÃ© Cotin, l'abbÃ© d'Aubignac et tant
+  d'autres.--C'est pour terminer cette Ã©tonnante rÃ©surrection et
+  placer dans son vrai milieu l'Åuvre de Montausier que M. Livet
+  donne la _Guirlande de Julie_ Ã  la fin de son volume.--Son
+  Ã©dition est correcte, sÃ©rieuse, et revue avec le plus grand soin
+  sur le manuscrit original que possÃ¨de aujourd'hui M. le duc
+  d'UzÃ¨s.
+
+La bibliographie de ce livre aussi recherchÃ© que curieux se termine ici;
+nous croyons avoir notÃ© aussi consciencieusement que possible les faits
+les plus saillants qui ont rapport Ã  cet ouvrage; nous avons parlÃ© de
+ses manuscrits, de ses copies et de ses diffÃ©rentes rÃ©impressions;
+revenons donc Ã  son _parrain_ et aux poÃ«tes qui dans cette fÃªte des
+madrigaux prirent part, sur le Parnasse, Ã  la nombreuse cueillette des
+fleurs qui composÃ¨rent l'immortelle couronne.
+
+Pendant son sÃ©jour Ã  Paris, M. de Sainte-Maure, assidu Ã  l'hÃ´tel de
+Rambouillet, vivait dans la plus parfaite intelligence avec les
+familiers de la marquise. C'Ã©taient chaque jour assauts de sonnets, de
+rimes Ã©quivoques, d'Ã©pigrammes ou de rondeaux. Dans cette Ã©picurienne
+demeure des Muses, l'esprit sans cesse Ã©tait en sentinelle et
+l'impromptu sur le _qui-vive_, prÃªts Ã  saisir la plus petite allusion ou
+le moindre prÃ©texte pour lancer un bon mot, une espiÃ¨glerie, un rien
+adorable. Aussi, lorsque l'occasion s'offrit Ã  tous ces poÃ«tes de faire
+leur cour Ã  la _princesse Julie_, ce fut par un enthousiasme gÃ©nÃ©ral et
+une pluie de fleurs qu'ils s'empressÃ¨rent d'y rÃ©pondre.
+
+L'ingÃ©nieuse conception de Montausier rallia vers un but unique les
+talents les plus opposÃ©s; les flÃ¨ches du madrigal furent mises en commun
+dans le mÃªme carquois, la coquetterie de chacun fit trÃªve pendant
+quelque temps pour laisser paraÃ®tre la galanterie d'un seul. Enfin, il
+se forma pour ce plan d'amour une association gÃ©nÃ©reuse et spontanÃ©e,
+une union fidÃ¨le, une fraternelle solidaritÃ©.
+
+Les jardins d'Apollon furent dÃ©valisÃ©s. C'Ã©tait Ã  qui apporterait les
+plus belles fleurs ou en plus grand nombre[66], et Montausier vit venir
+Ã  lui, tous animÃ©s du mÃªme zÃ¨le, Arnauld d'Andilly pÃ¨re et fils, Arnauld
+de Corbeville, Arnauld de Briotte, marquis de Pomponne; Chapelain,
+Colletet, Corneille, Desmarests de Saint-Sorlin, Godeau, Gombaud, Habert
+de Montmor; Habert, abbÃ© de CÃ©risy; Habert, commissaire d'artillerie;
+Malleville, Martin de Pinchesne, ScudÃ©ry, Tallemant des RÃ©aux, et
+jusqu'au vieux marquis de Rambouillet qui voulut, comme les autres,
+attacher son petit madrigal Ã  la Guirlande de sa fille Julie.
+
+  [66] Voyez l'Avertissement que nous donnons aux _Madrigaux
+  inÃ©dits_.
+
+Voiture seul manquait Ã  l'appel: poÃ«te trop grand seigneur, et amoureux
+pour son propre compte, il ne voulait pas Ãªtre comparÃ©. Il est vrai, Ã 
+ce que dit Tallemant, Â«que les chiens de M. de Montausier et les siens
+n'ont jamais trop chassÃ© ensemble[67]Â»; mais il est juste aussi
+d'ajouter que le grand Ã©pistolier voyageait alors en Espagne[68], et
+qu'il prit fiÃ¨rement sa revanche plus tard par ses lettres et poÃ©sies Ã 
+l'adresse de Mlle de Rambouillet et sa riche mÃ©tamorphose de _Julie en
+Diamant_[69].
+
+  [67] Tallemant des RÃ©aux (Historiette de _Montausier le cadet_).
+  Chapelain, dans une lettre Ã©crite Ã  Montausier, en Alsace (en
+  avril 1640), confirme le bavardage de l'anecdotier; car, en
+  parlant de Voiture, il l'appelle: _la suffisance de votre
+  aversion_.
+
+  [68] Voiture fit son voyage d'Espagne vers 1633, juste Ã  l'Ã©poque
+  oÃ¹ fut faite en principe la _Guirlande de Julie_ (d'aprÃ¨s notre
+  opinion), bien qu'elle n'ait Ã©tÃ© calligraphiÃ©e et offerte qu'en
+  1641.
+
+  [69] Ms. de Conrart, t. X, p. 604.
+
+M. de Montausier composa seize madrigaux pour sa chÃ¨re cruelle: l'amant,
+comme on le voit, avait fait au poÃ«te la part du lion; mais la muse
+Erato n'inspira pas toujours le poÃ«te comme elle l'aurait dÃ», et, bien
+qu'il ait luttÃ© sans trop de dÃ©savantage avec ses illustres Ã©mules, nous
+ne pouvons disconvenir que quelques-unes de ses fleurs manquent de
+coloris et paraissent maussades. L'_Alceste de l'hÃ´tel de Rambouillet_
+ne fut pas toujours exempt de cet esprit alambiquÃ© qui fit jaillir la
+pure critique de l'_Alceste de MoliÃ¨re_, et, de l'avis de Charles
+Nodier, l'_Oronte_ de la comÃ©die aurait trouvÃ© place dans la
+_Guirlande_[70].
+
+  [70] Remarques prÃ©liminaires de l'Ã©dition donnÃ©e par Nodier et
+  citÃ©e plus haut.
+
+Claude de Malleville vient aprÃ¨s Montausier par le nombre de madrigaux.
+L'heureux poÃ«te de la _Belle Matineuse_, qui remporta le prix sur tous
+ses concurrents pour ce cÃ©lÃ¨bre sonnet proposÃ© au mÃ©rite[71], travailla
+sur treize fleurs de la _Guirlande_, dont neuf furent insÃ©rÃ©es dans le
+manuscrit original[72]; ses vers, galamment tournÃ©s, remplis de
+dÃ©licatesse et de douceur, sont dignes assurÃ©ment de ses autres poÃ©sies.
+
+  [71] Malleville avait une telle facilitÃ© Ã  composer des sonnets
+  qu'il en fit trois pour la _Belle Matineuse_.--L'abbÃ© MÃ©nage les
+  cite dans une dissertation curieuse qu'il a faite sur tous les
+  sonnets que produisit cette maniÃ¨re de concours. D'aprÃ¨s lui, ce
+  sont des imitations d'Annibal, cÃ©lÃ¨bre poÃ«te italien qui avait
+  traitÃ© le mÃªme sujet.
+
+  [72] Voyez _PoÃ©sies de Malleville_, Ã©dition A. CourbÃ©, Paris,
+  1649, in-4Â°. Tous les madrigaux y figurent.--Nous avons ajoutÃ© Ã 
+  la fin de notre Ã©dition les quatre piÃ¨ces qui manquent au
+  manuscrit.
+
+Georges de ScudÃ©ry vient ensuite avec un bouquet de douze fleurs
+brillantes et diaprÃ©es, parmi lesquelles cinq seulement furent prises et
+conservÃ©es par Montausier. Ces piÃ¨ces, du fÃ©cond auteur d'_Alaric_, sont
+empreintes d'une lÃ©gÃ¨re affectation, mais le sentiment qui les a dictÃ©es
+est sincÃ¨re[73], et l'on reconnaÃ®t vite d'ailleurs, sous l'aimable
+tournure de ses madrigaux, le faire original du _PoÃ«te guerrier_.
+ScudÃ©ry rima souvent pour la marquise de Rambouillet et la charmante
+Julie. Nous trouvons dans ses poÃ©sies, outre de longues stances Ã 
+Arthenice[74], le sixain suivant sur le portrait de Mme de Montausier,
+_peinte sur marbre en habillement de Pallas, par Stella_[75]:
+
+    Cette taille, ce port et cette majestÃ©,
+    Mieux que l'habillement, montrent la vÃ©ritÃ©
+    De ce que le pinceau nous a voulu dÃ©peindre.
+        L'art icy n'a point voulu feindre,
+        Et sans doute, ayant tant d'appas,
+        Ou c'est IVLIE ou c'est PALLAS.
+
+  [73] Voyez page 92: _Fleurs inÃ©dites de M. de Scudery_.
+
+  [74] Scudery, _PoÃ©sies diverses_, CourbÃ©, 1649, in-4Â°.--_Neptune
+  Ã  la nymphe de Seine pour Madame la marquise de Rambouillet_, p.
+  257.
+
+  [75] _Le Cabinet de M. de Scudery_, etc., _Ã  Paris_, chez A.
+  CourbÃ©, 1646, in-4Â°, p. 124.--Ce portrait, sans doute Ã©garÃ© ou
+  dÃ©truit, malgrÃ© toutes les recherches faites pour le dÃ©couvrir,
+  est complÃ©tement inconnu aujourd'hui.
+
+AprÃ¨s ScudÃ©ry, Pierre Corneille apparaÃ®t, modestement dissimulÃ© derriÃ¨re
+l'initiale C, et porteur de six fleurs qu'on attribua faussement Ã 
+Conrart[76]. HabituÃ© de l'hÃ´tel de Rambouillet, oÃ¹ de sa voix lente et
+monotone il donnait la premiÃ¨re lecture de ses tragÃ©dies[77], et digne
+admirateur des vertus de Julie, l'auteur du _Cid_ ne pouvait rester
+inactif dans ce tournoi galant: il abaissa donc mignardement son _vers_
+ample et sonore au ton madrigalesque, son style fier et Ã©levÃ© devint
+doucereux et fleuri, bref le grand tragique daigna changer sa maniÃ¨re et
+laissa gracieusement coqueter sa plume pour le chef-d'Åuvre de
+Montausier.
+
+  [76] Voyez l'_Histoire de Pierre Corneille_, par J. Taschereau,
+  ainsi que les notes que nous donnons Ã  la fin de notre Ã©dition
+  sur les madrigaux signÃ©s C.
+
+  [77] La BruyÃ¨re, _Caracteres_, ch. XII; Vigneul de Marville,
+  _MÃ©langes d'histoire et de littÃ©rature_, t. I, p. 167.
+
+Guillaume Colletet[78], au contraire, poÃ«te bon vivant et madrigalier
+par tempÃ©rament, semble mal Ã  l'aise et un peu guindÃ© dans les quatre
+piÃ¨ces qu'il Ã©crivit pour la _Guirlande_. Sa muse, comme celle de
+Villon, s'abandonnait au dÃ©braillÃ©, aux chansons Ã  boire et aux sonnets
+grivois, et l'_Ã©poux de Claudine_, qui prenait d'habitude ses divinitÃ©s
+en bas lieu, dut se trouver cÃ©rÃ©monieusement intimidÃ© lorsqu'il eut Ã 
+chanter la chaste beautÃ© de Julie.
+
+  [78] Guillaume Colletet, acadÃ©micien en 1634 et mort en 1659,
+  paraÃ®t Ãªtre un poÃ«te du XVIe siÃ¨cle Ã©garÃ© dans le XVIIe. Sa
+  fÃ©conditÃ© fut Ã©norme et son talent trop peu goÃ»tÃ©. Cet Ã©picurien
+  passa sa vie entre Apollon et Bacchus, sans s'embarrasser du
+  lendemain; aussi, mourut-il pauvre, et Chapelain, dans ses
+  _Lettres_, dit qu'il fallut quÃªter pour l'enterrer.--Voyez:
+  _Histoire de l'AcadÃ©mie franÃ§oise_; Moreri, _Dictionnaire_, et
+  _les Grotesques_, de Th. Gautier, qui a peint avec son coloris
+  habituel ce _bohÃ¨me_ d'un autre Ã¢ge.
+
+Philippe Habert, le commissaire de l'artillerie et l'auteur du _Temple
+de la mort_[79], attacha trois fleurs Ã  la couronne poÃ©tique offerte Ã 
+Julie: le _Narcisse_ et deux _Soucis_. Ses madrigaux sont d'une finesse
+et d'une Ã©lÃ©gance remarquable, le troisiÃ¨me surtout, le plus connu aprÃ¨s
+celui de Desmarests, est poussÃ© dans le dernier galant:
+
+    Ne pouvant vous donner ni Sceptre, ni Couronne,
+    Ni ce qui peut flatter les cÅurs ambitieux,
+    Recevez ce _Soucy_, qu'aujourd'huy je vous donne
+    Pour ceux que tous les jours me donnent vos beaux yeux.
+
+  [79] Philippe Habert, l'un des premiers de l'AcadÃ©mie franÃ§aise,
+  en 1629, _mourut dans l'annÃ©e 1637_. Comme la _Guirlande de
+  Julie_ ne fut Ã©crite et offerte qu'en 1641, c'est donc une
+  nouvelle preuve qui confirme notre opinion _sur la date de 1632_,
+  oÃ¹ fut commencÃ©e la _Guirlande de Julie_.--Les poÃ©sies diverses
+  de cet auteur se trouvent dans diffÃ©rents recueils, et, si l'on
+  en croit Sorel dans sa _BibliothÃ¨que franÃ§oise_, quelques-unes
+  furent mises au jour en un volume.--Son principal ouvrage est le
+  _Temple de la mort_, qui, selon Pellisson, est une des plus
+  belles piÃ¨ces de notre poÃ©sie franÃ§aise.
+
+Ce joli quatrain n'est-il pas d'un tour spirituel et d'une grÃ¢ce
+parfaite!
+
+Simon Arnauld, marquis de Pomponne[80], choisit avec dÃ©licatesse le
+_Muguet_, la _Fleur de grenade_ et la _Perce-Neige_. Il traita avec goÃ»t
+ces trois sujets, qu'il signa du nom de _De Briotte_, sorte de
+pseudonyme dont le futur grand ministre ornait volontiers les
+productions poÃ©tiques de sa jeunesse.
+
+  [80] Simon Arnauld de Pomponne, nÃ© en 1618, mort en 1699, est
+  fils d'Arnauld d'Andilly et neveu du grand Arnauld. Il succÃ©da Ã 
+  M. de Lionne aux affaires Ã©trangÃ¨res, et c'est sous son ministÃ¨re
+  que fut conclue la glorieuse paix de NimÃ¨gue. Voyez les _MÃ©moires
+  du marquis de Pomponne_, publiÃ©s en 2 vol. in-8Âº, Ã  Paris, en
+  1862. On trouve, dans le tome II du _Recueil de poÃ©sies
+  diverses_, par M. de La Fontaine, pages 113 et 114, un fort beau
+  sonnet pour le _tombeau de M. le duc de Weymar_, et une ode
+  superbe _sur la Sagesse_, de la composition de M. de Pomponne.
+
+D'Andilly le fils se dÃ©cida pour le _Soucy_ (sous le nom de Clytie) et
+la fleur de _Thym_; il se fit l'avocat de ces deux fleurs d'une maniÃ¨re
+si correctement adulatrice, que Julie d'Angennes dut prendre souvent
+plaisir Ã  regarder le feuillet de vÃ©lin oÃ¹ elles s'Ã©panouissaient dans
+leur Ã©lÃ©gance raffinÃ©e.
+
+Desmarests, sieur de Saint-Sorlin[81], qu'on nommait le plus fou de tous
+les poÃ«tes, et le meilleur poÃ«te qui fÃ»t entre les fous, prouva, Ã 
+l'occasion de la _Guirlande_, que s'il savait composer de longs et
+innombrables poÃ«mes, il pouvait faire Ã©galement de petits et dÃ©licieux
+madrigaux.--Il se prÃ©senta avec deux quatrains: l'un sur les _Lys_,
+l'autre sur la _Violette_; le premier d'un charme agrÃ©able, mais
+peut-Ãªtre Ã©quivoque; le second tendrement expressif et d'un mouvement si
+emblÃ©matiquement vrai, qu'il l'emporte en franche beautÃ© sur tous les
+autres madrigaux du recueil de Montausier. Il est impossible d'exprimer
+une prÃ©tention plus noble sous une forme aussi humblement sÃ©duisante. La
+_Violette_ de Desmarests a conservÃ© sa fraÃ®cheur et son parfum dÃ©licat.
+Elle brille encore aujourd'hui dans tout son Ã©clat, et la coquette
+petite fleur demeurera assurÃ©ment immortelle dans notre poÃ©sie comme un
+parangon symbolique de grÃ¢ce modeste et de timide hardiesse.
+
+  [81] Jean Desmarests de Saint-Sorlin fut reÃ§u Ã  l'AcadÃ©mie
+  franÃ§aise en 1634, et mourut Ã  Paris en 1676, Ã¢gÃ© de plus de 80
+  ans. Outre son poÃ«me de _Saint Louis_, le plus connu, il en
+  composa dix autres, plus ses piÃ¨ces de thÃ©Ã¢tre: _les
+  Visionnaires_, _Roxane_, _Scipion_, _Mirame_, et _l'Europe_.
+  QuantitÃ© de piÃ¨ces de vers de ce fÃ©cond auteur se trouvent Ã  la
+  fin de ses Åuvres de thÃ©Ã¢tre et dans diffÃ©rents recueils de
+  poÃ©sies. Voyez: _Histoire de l'AcadÃ©mie franÃ§aise_; Dictionnaires
+  de _Bayle_ et de _MorÃ©ri_; Baillet, _Jugement des SÃ§avans sur les
+  poÃ«tes modernes_, etc.
+
+Le pÃ¨re Le Moyne[82], auteur du poÃ«me hÃ©roÃ¯que de _Saint Louis_, fit
+par la suite une si ingÃ©nieuse _MÃ©tamorphose de la Violette_, que nous
+n'hÃ©sitons pas Ã  la citer comme une charmante paraphrase du quatrain de
+Desmarests.
+
+La voici:
+
+    L'humble et timide violette
+    Craint de montrer aux yeux du jour
+    L'infortune de son amour,
+    Depuis la faute qu'elle a faite.
+    Sans ajustement et sans fard,
+    Elle n'emprunte rien de l'art:
+    Son habit est simple et modeste,
+    Et son visage sans couleur,
+    Dans le repentir qui lui reste,
+    En fait un voile Ã  sa douleur.
+
+  [82] _OEuvres poÃ©tiques_ du pÃ¨re Le Moyne, in-fÂ°, 1672, p.
+  446.--A l'exemple de Montausier, sans doute, le pÃ¨re Le Moyne
+  offrit Ã  Mlle d'Angenois une _guirlande_ composÃ©e de fleurs du
+  Parnasse cueillies par la main des Muses. Nous n'avons pu trouver
+  le texte exact de cette nouvelle _Guirlande_, dont nous n'avons
+  eu connaissance que par la lettre d'envoi (p. 330. _EpÃ®tre en
+  vers_). Dans ce mÃªme volume (p. 435), nous trouvons la douce
+  Ã©pigramme suivante sur le _portrait de Julie_:
+
+    Sage et noble _Julie_, estoit-ce pas assez
+    Qu'avecque ton esprit, qu'avecque ton visage,
+    Aux illustres du temps et des Ã¢ges passez
+    Ton heureuse naissance eust ostÃ© l'avantage,
+    Sans que ce beau portrait demeurÃ¢t pour ternir
+        Celle des siÃ¨cles Ã  venir.
+
+Sans avoir l'attrait ni la forme succincte du madrigal de Desmarests,
+l'Åuvre du pÃ¨re Le Moyne est assez gracieuse pour figurer Ã  sa suite.
+
+Habert, l'abbÃ© de CÃ©risy[83], celui-lÃ  mÃªme qui sut traiter avec un goÃ»t
+achevÃ© un poÃ«me d'environ 700 vers _sur la mÃ©tamorphose des yeux de
+Philis en Astres_, pouvait d'autant plus aisÃ©ment se faire l'interprÃ¨te
+de la _Rose_ et du _Narcisse_ en faveur de _Julie_.--Il prÃªta Ã  ces
+deux fleurs un langage de piquante courtoisie, qui, dans son exquise
+politesse, laisse percevoir le genre d'esprit de cet excellent Ã©crivain.
+
+  [83] Germain Habert, abbÃ© de La Roche, abbÃ© et comte de CÃ©risy,
+  frÃ¨re de Philippe Habert, commissaire de l'artillerie, citÃ© plus
+  haut.--L'abbÃ© de CÃ©risy fut un des premiers de l'AcadÃ©mie. Il a
+  donnÃ©: en prose, _La vie du cardinal de Berulle_, in-4Â°, Paris,
+  1646;--_La mÃ©tamorphose des yeux de Philis en Astres_, in-4Â°,
+  _Paris_, 1639.--Il fit beaucoup d'autres vers non imprimÃ©s.--Mort
+  en 1654.--Voyez la _Muse historique_ de Loret, _Gazette_ du 6
+  juin 1654.
+
+La majestÃ© des _Lys_ tenta par deux fois Martin, sieur de Pinchesne[84],
+qui fit deux madrigaux sur ces fleurs royales.--Ce poÃ«te ne fut pas
+divinement inspirÃ© en cette occurrence, mais on ne saurait le juger sur
+cette Åuvre de civilitÃ©: les Muses ne rÃ©pondent pas toutes les fois
+qu'on les appelle, et le neveu de Voiture dÃ©ploya assez de talent par la
+suite pour qu'on puisse le considÃ©rer comme le plus injustement nÃ©gligÃ©
+parmi les oubliÃ©s du XVIIe siÃ¨cle.--De Pinchesne fut un des chantres les
+plus fidÃ¨les des beautÃ©s de _Julie_, et aprÃ¨s la mort de Madame de
+Montausier il gravait encore sur son tombeau le sonnet suivant:
+
+    Tout ce qui peut rester d'une brillante vie,
+    Quand la mort en a mis la dÃ©pouille au tombeau,
+    Reste encore de _Julie_ en un estat si beau
+    Qui d'honneurs immortels rend sa perte suivie.
+
+    Son Ã¢me, aux lois du temps cessant d'Ãªtre asservie,
+    Ne se ferme aux rayons du cÃ©leste flambeau
+    Que pour s'ouvrir au jour d'un autre tout nouveau,
+    Dont elle est dans la gloire heureusement ravie.
+
+    Tandis que ses beaux ans furent en leur estÃ©,
+    Jamais tant de vertu, d'esprit et de clartÃ©
+    N'ont rendu parmi nous un mÃ©rite cÃ©lÃ¨bre.
+
+    Ses beaux ans ne sont plus, mais son nom vit toujours,
+    Et la nuit ny l'oubli de l'empire funÃ¨bre
+    Jamais sous le soleil n'en borneront le cours.
+
+  [84] Estienne Martin, sieur de Pinchesne, contrÃ´leur ancien et
+  vÃ©tÃ©ran de la maison du roy, nÃ© en 1616, mort en 1705.--Ce poÃ«te,
+  neveu de Voiture (dont il fit l'Ã©loge en tÃªte de ses Åuvres),
+  Ã©tait fort jeune lorsqu'il composa ses madrigaux pour la
+  _Guirlande_. Les poÃ©sies qu'il fit par la suite marquent un
+  talent original et personnel, une imagination vive et colorÃ©e,
+  une forme correcte et pure.--Boileau ayant dÃ©daignÃ© de le
+  dÃ©barbouiller de son fiel, il est restÃ© inconnu des chercheurs de
+  nos jours. Voyez:
+
+  1Â° _PoÃ©sies meslÃ©es_ du sieur de Pinchesne, dÃ©diÃ©es Ã  Monseigneur
+  le duc de Montausier, in-4Âº, 1672;
+
+  2Â° _Amours et poÃ©sies chrestiennes_ de M. de Pinchesne, in-4Âº,
+  1674;
+
+  3Â° _GÃ©orgiques_ de Virgile, traduites en vers franÃ§ois par Martin
+  de Pinchesne, in-8, Rouen, 1708.
+
+Il nous reste Ã  noter les huit poÃ«tes qui, bornant leur ambition Ã  un
+seul madrigal, choisirent avec recherche, sur les fertiles coteaux de
+l'HÃ©licon, la fleur unique dont ils devaient orner le front de Julie.
+
+CommenÃ§ons par Chapelain[85] et son altiÃ¨re _Couronne ImpÃ©riale_, qui
+fut si goÃ»tÃ©e Ã  l'hÃ´tel de Rambouillet. M. de GaignÃ¨res parle assez
+longuement dans sa Notice du sujet allÃ©gorique traitÃ© dans ce madrigal;
+nous ne jugerons donc que l'Åuvre en elle-mÃªme.--Chapelain s'Ã©tait si
+puissamment imposÃ© Ã  son Ã©poque, avant la pÃ©nible apparition de son
+poÃ«me, que _de fait il ne pouvait Ãªtre mÃ©diocre_. Les quelques piÃ¨ces
+qu'il donnait en Ã -compte sur _son colossal chef-d'Åuvre_, Ã©taient
+saisies, admirÃ©es, exaltÃ©es avec une telle passion, que c'eÃ»t Ã©tÃ© un
+crime de ne pas s'extasier.--Aujourd'hui nous pouvons considÃ©rer la
+_Couronne ImpÃ©riale_ avec un sens plus rassis et exempt de ce prisme
+d'enthousiasme qui fit regarder le crÃ©ateur de la _Pucelle_ comme le
+premier poÃ«te du monde, et, Ã  l'avouer franchement, le madrigal de
+Chapelain nous semble lÃ©gÃ¨rement boursouflÃ© et d'une allure un peu trop
+majestueuse pour l'harmonie gÃ©nÃ©rale et l'ensemble bien caractÃ©risÃ© de
+la _Guirlande_.
+
+  [85] L'abbÃ© Goujet, dans sa _BibliothÃ¨que franÃ§oise_ (tome XVII,
+  p. 373), attribue Ã  Chapelain, outre la _Couronne ImpÃ©riale_, une
+  piÃ¨ce intitulÃ©e _l'Aigle de l'Empire Ã  la princesse Julie_. Cette
+  Ã©pistre de 96 vers environ, qui est insÃ©rÃ©e dans le Recueil de
+  Sercy (tome V, p. 400), ne peut Ãªtre de Chapelain, car elle se
+  trouve signÃ©e des initiales D. M. (sans doute Desmarests). Dans
+  le mÃªme Recueil se trouve une piÃ¨ce qui est assurÃ©ment de
+  Chapelain, c'est un sonnet sur le mariage de M. le marquis de
+  Montausier. Voyez, sur la _Couronne ImpÃ©riale_, la note 2, aux
+  _Notes et Variantes_.
+
+Godeau[86], par contre, trouva pour sa _Tulipe_ une forme fraÃ®che et
+idyllique; il donna Ã  son vers l'Ã©lÃ©gance et le tour agrÃ©able de la
+pastorale, et le madrigal du _Nain de la princesse Julie_ est si
+honnÃªtement troussÃ© et d'une physionomie si colorÃ©e que l'on s'Ã©tonne,
+en le regrettant, que M. _de Vence_ ait presque exclusivement consacrÃ©
+son talent Ã  rimer des psaumes et Ã  versifier des mÃ©ditations
+chrÃ©tiennes et des Ã©glogues sacrÃ©es.
+
+  [86] Antoine Godeau, Ã©vÃªque de Grasse et de Vence, de l'AcadÃ©mie
+  franÃ§aise; nÃ© vers 1605, mort en 1672. Les ouvrages de Godeau
+  sont tellement considÃ©rables que nous renvoyons au _Catalogue
+  acadÃ©mique_, dressÃ© par l'abbÃ© d'Olivet.--M. de Grasse prÃ©sida au
+  mariage du marquis de Montausier et de _Julie d'Angennes_. Â«Ce
+  fut Ã  Rueil que les nopces se firent, dit Tallemant, et par une
+  rencontre plaisante, celuy qu'on appeloit autrefois _le Nain de
+  la princesse Julie_ fut celuy-lÃ  mÃªme qui les espousa.Â»
+
+D'Andilly le pÃ¨re[87] drapa royalement ses _Lys_, sous son inspiration.
+Ils dressent noblement la tÃªte et donnent Ã  Julie, dans un langage
+pompeux, les marques de la plus haute courtoisie.
+
+  [87] Robert Arnaud d'Andilly, nÃ© le 28 mai 1589, mort le 27
+  septembre 1674.--M. d'Andilly composa de nombreux ouvrages de
+  poÃ©sies chrÃ©tiennes, qui (au dire d'un de ses contemporains) font
+  autant d'honneur aux lettres qu'Ã  la religion.--Voyez la piquante
+  historiette de Tallemant des RÃ©aux sur ce _saint homme_.
+
+Le vieux Gombaud[88], en vÃ©tÃ©ran du madrigal, paya d'un fier et
+magistral quatrain sur l'_Amaranthe_, les bontÃ©s et les douces
+attentions que les Rambouillet lui prodiguaient dans sa fortune adverse.
+
+  [88] Jean Ogier de Gombaud, de l'AcadÃ©mie franÃ§oise, nÃ© vers
+  1570, mort en 1666.--Voyez, sur ce curieux poÃ«te, l'historiette
+  de Tallemant, et le portrait si originalement Ã©tudiÃ© par Paul de
+  Musset dans les _Originaux du XVIIe siÃ¨cle_, Paris, Charpentier,
+  1848.
+
+L'auteur des _Historiettes_, le _calomniographe_ Tallemant des
+RÃ©aux[89], montra un Ã©chantillon de son savoir-faire galant dans un
+madrigal sur les _Lys_, et il s'en tira assez dÃ©licatement pour
+recevoir tous les Ã©loges.
+
+  [89] GÃ©dÃ©on Tallemant, seigneur des RÃ©aux, nÃ© en 1619, mort en
+  1692. MM. MonmerquÃ© et Paulin-Paris ont Ã©crit sur Tallemant une
+  longue et savante Ã©tude, insÃ©rÃ©e dans les _Historiettes_,
+  publiÃ©es chez Techener.
+
+Arnauld de Corbeville[90] emprunta le pinceau de Flore pour donner le
+plus vif coloris et les tons les plus fins Ã  la fleur qu'il cueillit; sa
+_Tulipe_, superbe d'Ã©clat, reste l'emblÃ¨me du plus parfait amour sous la
+forme la plus Ã©lÃ©gante.
+
+  [90] Pierre-Arnauld de Corbeville, mestre de camp, gÃ©nÃ©ral des
+  carabiniers, de la grande famille des Arnauld, que Balzac
+  appelait la _famille Ã©loquente_: mort en 1651.--Voiture parle
+  souvent de lui dans ses poÃ©sies et ses lettres, et c'Ã©toit au
+  moins, dit Tallemant, le _Racan_ de Voiture en poÃ©sie burlesque.
+
+Habert de Montmor[91] eut le choix original; il rima sur une robuste
+mais modeste petite fleur: La blanche _Perce-Neige_ prÃªta Ã 
+l'imaginative de l'auteur une grÃ¢ce et un esprit qui font de son
+madrigal un des plus rÃ©ussis de la _Guirlande_.
+
+  [91] Henri-Louis Habert, sieur de Montmor, conseiller du roy en
+  ses conseils, maÃ®tre des requÃªtes, de l'AcadÃ©mie franÃ§aise, et
+  cousin de Philippe et Germain Habert, citÃ©s plus haut.--Mort vers
+  1635.--Cet auteur fit peu de vers franÃ§ais; Ã  part quelques
+  Ã©pigrammes, on ne connaÃ®t de lui que des Ã©tudes latines.
+
+Le marquis de Rambouillet[92] enfin, qui n'Ã©tait assurÃ©ment pas le
+courtisan ordinaire des Muses, essaya, pour la premiÃ¨re fois peut-Ãªtre,
+de les invoquer, afin de couronner son admirable fille. A travers la
+mÃ©tamorphose de l'_Hyacinthe_ qu'il choisit, il trouva matiÃ¨re Ã  un
+aimable sixain, assez agrÃ©ablement tournÃ© pour faire honneur Ã  un poÃ«te
+de profession.
+
+  [92] Charles d'Angennes, marquis de Rambouillet, nÃ© en 1577, mort
+  en 1652.
+
+Avec le pÃ¨re de la princesse Aminte se termine notre Ã©tude sur la
+_Guirlande_. Nous aurions pu Ã©tendre cette Notice, l'augmenter de
+nombreuses piÃ¨ces, y joindre des poÃ©sies Ã  la louange de Julie, et faire
+ressortir davantage la _flore_ de chaque madrigal; mais nous avons
+craint d'alourdir de trop de plomb le fragile canevas sur lequel se
+joue, en lÃ©gÃ¨res arabesques, la dÃ©licatesse des plus doux madrigaux.
+
+Nous avons reproduit avec une grande exactitude, l'orthographe de la
+_Guirlande de Julie_, extrÃªmement surannÃ©e mÃªme pour l'Ã©poque oÃ¹ elle
+fut calligraphiÃ©e par le cÃ©lÃ¨bre Jarry. AprÃ¨s avoir revu sur tous les
+textes connus le texte original de l'Åuvre de Montausier, nous en avons
+minutieusement recueilli les variantes pour les placer Ã  la fin de ce
+volume, et, sans vouloir parler du luxe typographique dont nous
+entourons cette rÃ©impression, nous croyons, grÃ¢ce aux sÃ©rieuses Ã©tudes
+auxquelles nous nous sommes livrÃ©, donner une Ã©dition justement
+recommandable par sa clartÃ©, ses annotations, ses documents inÃ©dits et
+les soins scrupuleux que nous avons apportÃ©s dans les plus petits
+dÃ©tails.
+
+La _Guirlande de Julie_ devait figurer dans notre collection des _PoÃ«tes
+de ruelles_ au XVIIe siÃ¨cle.--Le concours de tant de brillants esprits,
+rÃ©unis pour une Åuvre si fameuse qu'elle est, en quelque sorte devenue
+classique, est d'un vif attrait pour la savante curiositÃ© des
+lettrÃ©s.--Nous ne prÃ©tendons pas cependant prÃ©senter au public un
+chef-d'Åuvre littÃ©raire: ces petites piÃ¨ces de poÃ©sie, ainsi que nous
+le fait remarquer un bibliographe judicieux, ont un mÃ©rite assez mince
+quand on les considÃ¨re sÃ©parÃ©es des peintures pour lesquelles elles ont
+Ã©tÃ© faites, et privÃ©es d'une circonstance unique dans l'histoire de la
+galanterie; mais, en souvenir et pour le respect que nous portons Ã  Mlle
+de Rambouillet, la _Guirlande de la princesse Julie_ restera toujours le
+livre de l'imagination la plus franÃ§aise, l'Anthologie galante la plus
+prÃ©cieuse de notre littÃ©rature, et comme un monument d'illustre
+courtoisie, Ã  cette Ã©poque admirable et de suprÃªme politesse oÃ¹ le
+talent tenait Ã  honneur de couronner dignement et de fleurs immortelles
+la vertu, le mÃ©rite et la beautÃ©.
+
+    OCTAVE UZANNE.
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+    LA
+    GVIRLANDE
+    DE
+    IVLIE,
+
+    pour
+    Mademoiselle de Rambouillet,
+    IVLIE-LVCINE
+    D'ANGENNES.
+
+    [Illustration]
+
+    Escript par N. Jarry.
+    1641
+
+
+
+
+[Illustration]
+
+
+
+
+ZEPHIRE A IVLIE[1].
+
+_Madrigal._
+
+
+          Recevez, Ã´ Nymphe adorable,
+          Dont les cÅurs reÃ§oiuent les loix,
+          Cette COVRONNE, plus durable
+    Que celle que l'on met sur la teste des Roys.
+          Les Fleurs dont ma main la compose
+    Font honte Ã  ces Fleurs d'or qu'on voit au Firmament;
+          L'eau dont Permesse les arrose
+    Leur donne vne fraÃ®cheur qui dure jncessamment:
+          Et tous les jours ma belle Flore,
+          Qui me chÃ©rit et que i'adore,
+          Me reproche, auecque courroux,
+          Que mes soupirs iamais pour elle
+          N'ont fait naistre de Fleur si belle
+          Que i'en ay fait naistre pour vous.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA COVRONNE IMPERIALE[2].
+
+_Madrigal._
+
+
+            Ie suis ce Prince glorieux
+            De qui le bras victorieux
+    A terracÃ© l'orgueil d'vn redoutable Empire.
+    Au plus froid des climats je me sentis brusler
+    Par vn nouueau Soleil que l'vniuers admire,
+    Et que celuy des Cieux ne sÃ§auroit Ã©galer.
+    Du riuage inconnu de l'aspre CorÃ©lie,
+    OÃ¹ la mer sous la glace est toute enseuelie,
+    Le flambeau de l'Amour mes voiles conduisant,
+    Ie vins pour rendre hommage Ã  l'auguste IVLIE;
+    Mais, iugeant ma Couronne vn indigne prÃ©sent,
+    Ie voulus conquÃ©rir le riche DiadÃªme
+    Dont iadis les CÃ¦sars en leur pompe suprÃªme
+          Eurent le front si reluisant.
+    Au comble d'vn succÃ©s qui les peuples Ã©tonne,
+    Vainqueur des ennemis et vaincu du malheur,
+    Ie rencontray la mort dans le champ de Bellonne.
+    L'Amour vid mon dÃ©sastre, et, flattant ma douleur,
+        Me conuertit en vne illustre Fleur
+        Que de l'EMPIRE il nomma la COVRONNE.
+    Ainsi ie fus le prix que cherchoit ma valeur,
+    Ainsi par mon trÃ©pas i'acheuay ma conqueste.
+    En cet Ã©tat, IVLIE, accorde ma requeste,
+          Sois pitoyable Ã  ma langueur;
+          Et si ie n'ay place en ton cÅur,
+          Que ie l'aye au moins sur ta teste.
+
+      De M. CHAPELAIN.
+
+[Illustration]
+
+
+LA COVRONNE IMPERIALE.
+
+_Madrigal._
+
+    BIEN que de la Rose et du Lys
+    Deux Roys, d'Ã©ternelle mÃ©moire,
+    Facent voir leurs fronts embellis,
+    Ces Fleurs sont moindres que ta gloire;
+    Il faut vn plus riche ornement
+    Pour rÃ©compenser dignement
+    Vne vertu plus que Royale;
+    Et si l'on se veut acquitter,
+    On ne peut moins te prÃ©senter
+    Qu'vne COVRONNE IMPERIALE.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+LA COVRONNE IMPERIALE[3].
+
+_Madrigal._
+
+    Qvelqve diuersitÃ© que le parterre Ã©tale,
+        Ie me treuve sans effroy:
+        LA COVRONNE IMPERIALE
+        Est seule digne de toy.
+        Tant de Fleurs que la nature
+        Esmaille de sa peinture
+        N'ont rien qu'on doiue estimer.
+        Voy l'Ã©clat qui m'enuironne:
+        Moy seule fais LA COVRONNE
+    Que tant d'autres ensemble ont peine de former.
+
+     De M. DE SCUDERY.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA ROSE.
+
+_Madrigal._
+
+
+    Alors que ie me voy si belle et si brillante,
+    Dans ce teint dont l'Ã©clat fait naistre tant de vÅux
+    L'excÃ©s de ma beautÃ© moy-mÃªme me tourmente;
+    Ie languis pour moy-mÃªme, et brusle de mes feux,
+    Et ie crains qu'aujourd'huy la ROSE ne finisse
+    Par ce qui fit iadis commencer le Narcisse.
+
+     De M. HABERT, abbÃ© de CÃ©risy.
+
+[Illustration]
+
+
+LA ROSE[4].
+
+_Madrigal._
+
+    Devant ce teint d'vn beau sang animÃ©,
+    Ie ne parois que pour ne plus paroistre;
+    Ie n'ay plus rien de ce lustre enflamÃ©
+    Que de VÃ©nus le sang auoit fait naistre.
+    Le vif Ã©clat de ce teint nompareil
+    Me fait paslir, accuser le Soleil,
+    Seicher d'enuie et languir de tristesse.
+    O sort bizarre! Ã´ rigoureux effet!
+    Ce qu'a produit le sang d'vne DÃ©esse,
+    Le sang d'vne autre aujourd'huy le dÃ©fait.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+LA ROSE[5].
+
+_Madrigal._
+
+    Assise en majestÃ© sur vn Throsne d'Ã©pines,
+          Ie porte le Sceptre des Fleurs,
+    Qui cÃ©dent Ã  l'Ã©clat de mes grÃ¢ces diuines,
+    Quand l'Aurore au matin m'arrose de ses pleurs;
+          Mais, beautÃ© que le monde adore,
+          Et qui sÃ§ais doucement rauir,
+    I'estime beaucoup plus l'honneur de vous seruir
+    Que celuy de rÃ©gner dans l'Empire de Flore.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+LA ROSE.
+
+_Madrigal._
+
+    Si vous n'auiez banny l'ardeur dÃ©mesurÃ©e
+    Qui du cÅur des mortels fait triompher l'Amour,
+    Ma beautÃ© prÃ©s de vous seroit mal assurÃ©e:
+    Aux chaleurs de l'estÃ© ie ne dure qu'vn jour.
+    Mais vn sort plus heureux en ce lieu m'enuironne:
+    Le temps, dont le pouuoir de toute chose ordonne,
+    Par vos charmes puissans se trouue surmontÃ©;
+    I'ay de vous obtenu la faueur desirÃ©e,
+    Et sur vostre visage, oÃ¹ rÃ¨gne la beautÃ©,
+            Ie suis d'Ã©ternelle durÃ©e.
+
+     De M. COLLETET.
+
+[Illustration]
+
+
+LA ROSE[6].
+
+_Madrigal._
+
+        Qvoy que la Fable nous raconte,
+        Iamais la Reine d'Amathonte
+    Ne changea ma couleur ni mon lustre ancien.
+    Si quelque trait de flame Ã  ma neige s'allie,
+    C'est de honte que i'ay que le teint de IVLIE
+    Est estimÃ© plus frais et plus beau que le mien.
+
+     De M. COLLETET.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LE NARCISSE[7].
+
+_Madrigal._
+
+
+    Ie consacre, IVLIE, vn NARCISSE Ã  ta gloire;
+    Luy-mesme des beautez te cÃ©de la victoire.
+    Estant iadis touchÃ© d'vn amour sans pareil,
+            Pour voir dedans l'eau son image,
+            Il baissoit toujours son visage,
+    Qu'il estimoit plus beau que celuy du Soleil.
+    Ce n'est plus ce dessein qui tient sa teste basse;
+    C'est qu'en te regardant, il a honte de voir
+              Que les Dieux ont eu le pouuoir
+    De faire vne beautÃ© qui la sienne surpasse.
+
+     De M. le marquis DE MONTAUSIER
+
+[Illustration]
+
+
+LE NARCISSE[8].
+
+_Madrigal._
+
+            Ie suis ce NARCISSE fameux
+    Pour qui iadis Echo rÃ©pandit tant de larmes,
+    Et de qui les appas ne cÃ©dent qu'Ã  vos charmes,
+            Qui viens pour vous offrir mes vÅux.
+            Qu'on m'accuse, _belle Ivlie_,
+    D'auoir en ce dessein plus de temeritÃ©
+            Que ie n'eus iamais de folie
+            Adorant ma propre beautÃ©,
+    Ie ne puis m'empescher de commettre ce crime,
+            Ie le trouue trop glorieux.
+    Oyez donc ce discours que ma pasleur exprime,
+            Et qui ne s'entend que des yeux:
+            Si vous me voyez le teint blesme,
+            Ce n'est plus moi, c'est vous que i'ayme.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+LE NARCISSE[9].
+
+_Madrigal._
+
+          Epris de l'amour de moy-mÃªme,
+    De Berger que i'estois ie deuins vne Fleur;
+          Faites proffit de mon malheur,
+    Vous que le Ciel orna d'vne beautÃ© suprÃªme;
+          Et pour en euiter les coups,
+    Puisqu'il faut que tout ayme, aymez d'autres que vous.
+
+     De M. HABERT, cap. de l'artillerie.
+
+[Illustration]
+
+
+LE NARCISSE[10].
+
+_Madrigal._
+
+    Qvand ie voy vos beaux yeux si brillans et si doux,
+    Qui n'ont plus desormais rien Ã  prendre que vous,
+    Leur Ã©clat m'est suspect, et pour vous i'apprÃ©hende.
+    Souuent ce riche don est chÃ©rement vendu:
+    Je sÃ§ay que ma beautÃ© ne fut jamais si grande,
+    Et pourtant chacun sÃ§ait comme elle m'a perdu.
+
+     De M. HABERT, abbÃ© de CÃ©risy.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'AMARANTHE[11].
+
+_Madrigal._
+
+
+    Ie suis la Fleur d'Amour, qu'AMARANTHE on appelle,
+    Et qui viens de IVLIE adorer les beaux yeux.
+    Roses, retirez-vous, i'ay le nom d'Immortelle!
+    Il n'appartient qu'Ã  moy de couronner les Dieux.
+
+     De M. DE GOMBAUD.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'ANGELIQVE.
+
+_Madrigal._
+
+
+    Recevez mon service, adorable IVLIE,
+    Seule que la nature a fait naistre accomplie.
+    Ah! que i'estimeray mon destin glorieux,
+    Si vÃ´tre belle main sur vos cheueux m'applique!
+            Ie suis fauorite des Cieux,
+            Ie porte le nom d'ANGELIQVE;
+    Mais ie n'ignore pas qu'au jugement de tous,
+            Ie la suis beaucoup moins que vous.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+L'ANGELIQVE[12].
+
+_Madrigal._
+
+    Qvand toutes les Fleurs prennent place
+    Sur l'yuoire de vÃ´tre front,
+    Il faut par raison que ie face
+    Ce que par audace elles font;
+    Et certes, si la voix publique
+    Me nomme par-tout ANGELIQVE,
+    Et me donne tant de renom,
+    Ie rÃ©pons mal Ã  ses louanges,
+    Et ne mÃ©rite plus mon nom,
+    Si ie ne couronne les Anges.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'OEILLET.
+
+_Madrigal._
+
+
+            Bien que dans l'Empire des Fleurs
+            I'espere emporter la Couronne
+            Dessus toutes mes autres sÅurs,
+            Au moins si la beautÃ© la donne,
+            Deuant ton teint vif et vermeil,
+    De qui l'effet, plus grand que celuy du Soleil,
+    Des cÅurs les plus gelez fond la plus dure glace,
+    Mon Ã©clat se ternit et mon lustre s'efface;
+    Mais dessus tes cheueux ie reprens ma beautÃ©,
+    Et i'emprunte de toy ce que tu m'as ostÃ©.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA FLEVR DE THIN[13].
+
+_Madrigal._
+
+
+    Sans beautÃ©, sans grandeur, sans Ã©clat et sans grace,
+    Ie nays, par un arrest de mon jniuste sort,
+        Incapable d'vn bel effort
+        Pour acquÃ©rir l'illustre place
+    OÃ¹ mon ambition m'ose faire aspirer.
+        Toutesfois, Ã´ belle IVLIE,
+    Si de tes doux regards tu daignes m'Ã©clairer,
+    Ie renaistray par eux de tant d'attraits remplie
+        Que i'auray suiet d'espÃ©rer
+    De rendre ta COVRONNE et ma gloire accomplie.
+        Sois donc fauorable Ã  mes vÅux,
+    Embellis ma laideur, releue ma bassesse,
+        Des Destins montre-toy maÃ®tresse,
+    Metz-moy, malgrÃ© leur haine, en vn Ã©tat heureux.
+    La Nature, pour moy non moins barbare qu'eux,
+        En vain t'oppose ses obstacles;
+    Tes beaux yeux chaque iour font de plus grans miracles.
+
+     De M. D'ANDILLY le filz.
+
+
+
+
+[Illustration]
+
+
+
+
+LE IASMIN.
+
+_Madrigal._
+
+
+    Cavse de tant de feux, source de tant de pleurs,
+          _Ivlie_, accorde ma requeste;
+          Comme Ã  toutes ces autres Fleurs,
+          Donne-moy place sur ta teste:
+          Deuant le lustre de mon teint
+          L'Ã©clat des plus beaux Lys s'Ã©teint;
+          Par tout ailleurs ie leur fais honte;
+    Seulement dans ton sein leur blancheur me surmonte.
+
+     De M. le marquis _de Montausier_.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'ANEMONE.
+
+_Madrigal._
+
+
+          Ie m'offre Ã  vous, belle IVLIE,
+          Mais ne refusez pas mes vÅux;
+    La COVRONNE qu'on met dessus vos beaux cheueux
+          Sans moy ne peut estre accomplie.
+    Ie dois entre les Fleurs tenir le premier rang;
+    On ne sÃ§auroit cueillir que parmy les Ã©pines
+    Cette Fleur que VÃ©nus fit naistre de son sang,
+    Et ie n'en mesle point Ã  mes beautez diuines;
+          Mais l'Ã©clat de votre beautÃ©
+          M'accuse de temeritÃ©,
+          Ie cÃ©derai toujours aux Roses,
+    Tandis qu'elles seront sur vÃ´tre teint Ã©closes.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA VIOLETTE[14].
+
+_Madrigal._
+
+
+    Franche d'ambition, ie me cache sous l'herbe,
+    Modeste en ma couleur, modeste en mon sÃ©iour;
+    Mais si sur vostre front ie me puis voir vn jour,
+    La plus humble des Fleurs sera la plus superbe.
+
+     De M. DES MARESTZ.
+
+[Illustration]
+
+
+LA VIOLETTE.
+
+_Madrigal._
+
+    De tant de Fleurs par qui la France
+    Peut les yeux et l'ame rauir,
+    Vne seule ne me deuance
+    Au juste soin de te seruir.
+    Que si la Rose en son partage
+    Fait gloire de quelque auantage
+    Que le Ciel daigne luy donner,
+    Elle a tort d'en estre plus fiÃ©re,
+    I'ay l'honneur d'estre la premiÃ©re
+    Qui naisse pour te couronner.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LES LYS.
+
+_Madrigal._
+
+
+    Merveille de nos jours, dont les charmes vainqueurs
+    Rauissent les esprits et regnent dans les cÅurs,
+    Rare present du Ciel, adorable IVLIE;
+    Lors que toutes les Fleurs d'vn email precieux
+    Viennent rendre Ã  l'enuy ta COVRONNE embellie,
+    C'est sur moy que tu dois arrester tes beaux yeux.
+      De la Reyne de l'air ie suis la fleur diuine,
+    Ma blancheur de son lait tire son origine,
+    Il se fait voir encor sur mon teint sans pareil;
+    Et le Dieu dont les loix forment la destinÃ©e
+    Veut que le plus grand Roy qu'Ã©claire le Soleil
+    Ayt de moy seulement la teste couronnÃ©e.
+      Au temple de ThÃ©mis ie preside auec luy;
+    Son Throsne glorieux est mon illustre appuy;
+    La valeur de ce Mars fait pour moy des miracles,
+    Et ie dois espÃ©rer que par son bras puissant
+    S'accompliront bien-tÃ´t les celebres oracles
+    Qui me promettent place au dessus du Croissant.
+      Mais parmy ces grandeurs, le bruit de ton merite
+    A me donner Ã  toy si fortement m'jnuite,
+    Que ie veux de ma gloire enrichir ta beautÃ©.
+    En vain toutes les Fleurs, dans leur pompe suprÃªme
+    Se vantent de t'orner d'vn Royal DiadÃªme,
+    Leur plus superbe Ã©clat n'a point de majestÃ©.
+      Nulle autre que le LYS sans audace n'aspire
+    A te rendre vn honneur qui soit digne de toy:
+    Elles parent ton front, et ie t'offre vn Empire,
+    Puis qu'en te couronnant, ie t'Ã©gale Ã  mon Roy.
+
+     De M. D'ANDILLY.
+
+[Illustration]
+
+
+LES LYS[15].
+
+_Madrigal._
+
+          Le plus ardent de tous mes vÅux
+          Est de couronner tes cheueux,
+          Et ie croy, si ie ne me flatte,
+    Que ie puis aspirer Ã  cet honneur nouueau;
+          Car par moy ton visage est beau,
+    Et par moy de nos Roys le DiadÃªme Ã©clatte:
+          Mais i'ay plus de gloire cent fois,
+          Et ie tire plus d'auantage
+          D'Ã©clatter dessus ton visage
+          Que dessus la teste des Roys.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+LES LYS[16].
+
+_Madrigal._
+
+          ReÃ§oy les LYS que ie te donne,
+          Pour en former vne Couronne
+          Par qui ton pouuoir soit dÃ©peint;
+          C'est l'ornement que ie t'apreste:
+    Pour rendre ce qu'on doit aux LYS de ton beau teint,
+          Il t'en faut mettre sur la teste.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+LE LYS.
+
+_Madrigal._
+
+    Devant vous je pers la victoire
+    Que ma blancheur me fit donner,
+    Et ne preten plus d'autre gloire
+    Que celle de vous couronner.
+      Le Ciel, par vn honneur insigne,
+    Fit choix de moy seul autres fois,
+    Comme de la Fleur la plus digne
+    Pour faire vn present Ã  nos Roys.
+      Mais si i'obtenois ma requeste,
+    Mon sort seroit plus glorieux
+    D'estre montÃ© sur vÃ´tre teste
+    Que d'estre descendu des Cieux.
+
+     De M. DES REAUX-TALLEMANT.
+
+[Illustration]
+
+
+LES LYS.
+
+_Madrigal._
+
+    Ie puis mettre, entre les louanges
+    Qui me rendent si glorieux,
+    D'auoir fleury dedans les Cieux,
+    CultiuÃ© de la main des Anges;
+    Mais, certes, c'est y retourner
+    Que de vous pouuoir couronner.
+
+     De M. MARTIN.
+
+[Illustration]
+
+
+LES LYS[17].
+
+_Madrigal._
+
+    Qve i'ay de gloire Ã  cette fois,
+    Que j'ombrage ces belles tresses!
+    Ie ne couronnois que les Roys,
+    Et ie couronne les DÃ©esses.
+
+     De M. MARTIN.
+
+[Illustration]
+
+
+LES LYS[18].
+
+_Madrigal._
+
+    Vn diuin oracle, autres fois,
+    A dit que ma pompe et ma gloire
+    Sur celle du plus grand des Roys
+    Pouuoit emporter la victoire;
+    Mais si i'obtiens, selon mes vÅux,
+    De pouuoir parer vos cheueux,
+    Ie dois, Ã´ IVLIE adorable,
+    Toute autre gloire abandonner,
+    Car nul honneur n'est comparable
+    A celuy de vous couronner.
+
+     De M. C... (?)
+
+[Illustration]
+
+
+LES LYS[19].
+
+_Madrigal._
+
+          Belle, ces LYS que ie vous donne,
+          Auront plus d'honneur mille fois
+          De seruir Ã  vÃ´tre COVRONNE
+    Que d'estre couronnez aux armes de nos Roys.
+
+     De M. DES MARETZ.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA TVLIPE[20].
+
+_Madrigal._
+
+
+          Ie fus vn Berger, autres fois,
+          Qui, poussÃ© d'vne belle audace,
+          Alla cueillir dessus Parnasse
+    Des lauriers plus fameux que les lauriers des Roys.
+    Ce genereux desir d'vne Ã©ternelle gloire
+          Ne m'empÃ©cha pas de seruir
+          Auec les Filles de MÃ©moire
+    Les mortelles beautez qui me sceurent rauir.
+          Mais mon Ã¢me fut si volage,
+    A tant d'obiets diuers elle rendit hommage,
+          Et les bergeres si souuent,
+          En me reprochant leurs caresses,
+          Se plaignirent que mes promesses
+    Se perdoient parmy l'air dessus l'aile du vent,
+          Qu'Amour vint d'vne main puissante
+          Me transformer en cette Fleur,
+          Qui, comme i'eus l'ame inconstante,
+          Est inconstante en sa couleur.
+    Miracle de nos iours, si mes yeux t'eussent veuÃ«
+    Avec tous ces appas dont le Ciel t'a pourueuÃ«,
+           Mon cÅur n'eut point estÃ© leger;
+    Mais mon sort me console, et pour ma gloire ordonne,
+    Depuis que i'ay l'honneur d'embellir ta COVRONNE,
+    Que mes viues couleurs ne pourront plus changer.
+
+     De M. GODEAU.
+
+[Illustration]
+
+
+LA TVLIPE.
+
+_Madrigal._
+
+            Ie suis le plus brillant ouurage
+    Dont le pinceau de Flore embellit les estez,
+    Et sur les autres Fleurs i'ay le mÃªme auantage
+    Qu'a le feu de tes yeux sur les autres clartez.
+            Mais dans l'Ã©clat qui m'enuironne,
+    Et qui de cent couleurs relÃ©ue mes beautez,
+            La gloire que le Ciel me donne,
+            D'estre vne fleur de ta COVRONNE,
+            A pour moy de si doux appas,
+    Que, bien que de ma mort ma gloire soit suiuie,
+            Pour mourir d'vn si beau trÃ©pas,
+            J'ayme mieux la mort que la vie.
+
+     De M. ARNAUD DE CORBEVILLE.
+
+[Illustration]
+
+
+LA TVLIPE, AV SOLEIL[21].
+
+_Madrigal._
+
+    Bel Astre Ã  qui je dois mon estre et ma beautÃ©,
+            AjoÃ»te l'jmmortalitÃ©
+    A l'Ã©clat nompareil dont ie suis embellie;
+    EmpÃªche que le temps n'efface mes couleurs:
+    Pour Throsne donne-moy le beau front de IVLIE;
+    Et si cet heureux sort Ã  ma gloire s'allie,
+            Ie seray la Reyne des Fleurs.
+
+     De M. C. (CORNEILLE.)
+
+[Illustration]
+
+
+LA TVLIPE
+
+NOMMÃE FLAMBOYANTE.
+
+_Madrigal._
+
+    Permettez-moy, belle IVLIE,
+    De mesler mes viues couleurs
+    A celles de ces rares Fleurs,
+    Dont vÃ´tre teste est embellie:
+    Ie porte le nom glorieux
+    Qu'on doit donner Ã  vos beaux yeux.
+
+     De M. le marquis de MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA IONQUILLE[22].
+
+_Madrigal._
+
+
+          Dans la Fable, ni dans l'Histoire
+          Il ne se parle point de moy;
+    Je ne me puis vanter de possÃ©der la gloire
+    De descendre du sang ni d'vn Dieu ni d'vn Roy:
+          Mais la passion vÃ©ritable
+          Que vous tÃ©moigne ma couleur,
+          Plus qu'vne plus illustre Fleur
+          Me doit rendre recommandable.
+          O beautÃ© qu'on doit adorer!
+          Permettez-moy de vous parer,
+    Et ie m'estimeray cent fois plus glorieuse
+    Que celle dont l'histoire est cent fois plus fameuse.
+
+     De M. le marquis de MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'HYACINTHE[23].
+
+_Madrigal._
+
+
+    Ie n'ay plus de regret Ã  ces armes fameuses
+    Dont l'jniuste refus prÃ©cipita mon sort;
+    Si ie n'ai possedÃ© ces marques glorieuses,
+    Vn destin plus heureux m'accompagne Ã  la mort;
+    Le sang que i'ay versÃ© d'vne illustre folie
+    A fait naistre vne Fleur qui couronne IVLIE.
+
+     De M. le M. DE R. (marquis DE RAMBOUILLET).
+
+[Illustration]
+
+
+L'HYACINTHE.
+
+_Madrigal._
+
+    Depvis mon changement, tout l'Vniuers remarque
+            Que d'vn triste et muet discours
+            Ie me plains qu'en mes plus beaux jours
+        I'ai ressenti la rigueur de la Parque;
+            Mais ie cesse de murmurer;
+    Car l'extrÃªme plaisir que i'ai de te parer
+            Efface maintenant la plainte
+            Que mes feuilles portoient empreinte.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+L'HYACINTHE[24].
+
+_Madrigal._
+
+    D'vn Ã©ternel bon-heur ma disgrace est suiuie;
+    Ie n'ai plus rien en moy qui marque mon ennuy,
+    Autres fois vn Soleil me fit perdre la vie;
+    Mais vn autre Soleil me la rend aujourd'huy.
+
+     De M. C. (?)
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'ELIOTROPE
+
+OV TOVRNESOL.
+
+_Madrigal._
+
+
+    A ce coup, les Destins ont exaucÃ© mes vÅux;
+    Leur bontÃ© me permet de parer les cheueux
+            De l'jncomparable IVLIE;
+            Pour elle, Apollon, ie t'oublie,
+            Ie n'adore plus que ses yeux.
+    C'est auecque leurs traits qu'Amour me fait la guerre;
+            Ie quitte le Soleil des Cieux,
+            Pour suiure celuy de la terre.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LE SOVCY.
+
+_Madrigal._
+
+
+    Si l'on vous donne vn Lys, vn OEillet, vne Rose,
+          Ie vous veux prÃ©senter aussy
+          Vn triste et languissant SOVCY:
+          Le sort ne me laisse autre chose.
+          Ie souffre vne telle douleur
+          De vous offrir la moindre Fleur,
+          Qu'on verra dans vÃ´tre COVRONNE
+          Que ie deuiens ce que ie donne.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+LE SOVCY.
+
+_Madrigal._
+
+    Favt-il donc que la Rose ait sur moy l'auantage
+    D'Ã©taler ses beautez dessus vÃ´tre visage,
+    D'y charmer tous les cÅurs et d'y donner des loix?
+    Luisez, Astre viuant, dessus ma derniÃ¨re heure,
+    Vne jalouse ardeur ordonne que ie meure,
+    Pour vn second Soleil, vne seconde fois.
+
+     De M. HABERT, C... de l'artillerie.
+
+[Illustration]
+
+
+LE SOVCY.
+
+_Madrigal._
+
+    Ne pouuant vous donner ni Sceptre, ni Couronne,
+    Ni ce qui peut flatter les cÅurs ambitieux,
+    Receuez ce SOVCY, qu'aujourd'huy ie vous donne,
+    Pour ceux que tous les jours me donnent vos beaux yeux.
+
+     De M. HABERT, C... de l'artillerie.
+
+[Illustration]
+
+
+LE SOVCY AV SOLEIL.
+
+_Madrigal._
+
+    Qvoy que tu sois pourueu d'vn Ã©clat nompareil,
+    Ce n'est pas de ton feu que ie suis embellie;
+            Si ie suis la Fleur du Soleil,
+    C'est du Soleil qui luit dans les yeux de IVLIE.
+
+     De M. COLLETET.
+
+[Illustration]
+
+
+LE SOVCY[25].
+
+_Madrigal._
+
+            Iadis les rigueurs du Soleil
+                  Me coÃ»tÃ©rent la vie;
+            I'attens vn accident pareil
+            A cause que i'ai mÃªme enuie;
+    Mais il m'importe peu qu'elle me soit rauie,
+            Puis-que, mÃªme aprÃ¨s le trÃ©pas,
+            Ie sÃ§ay l'art de suiure ses pas.
+
+     De M. DE SCUDERY.
+
+[Illustration]
+
+
+LE SOVCY[26],
+
+SOVS LE NOM DE _CLYTIE_.
+
+_Madrigal._
+
+    Mortels, qu'on ne m'accuse pas
+    D'estre jnfidÃ©le, ni volage,
+    Bien qu'vn miracle de cet Ã¢ge
+    Ait pris mon Ã¢me en ses appas;
+    Ie puis sans crime, et sans folie,
+    Cherir cet objet nompareil;
+    Aymer Apollon, ou IVLIE,
+    C'est toujours aymer le Soleil.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+LE SOVCY,
+
+SOVS LE NOM DE _CLYTIE_.
+
+_Madrigal._
+
+              Ie suis l'Amante, et l'Image
+    De l'Astre Ã©tincellant qui regne dans les Cieux,
+    Et ie puis sans orgueil prÃ©tendre l'auantage
+              De parer son front glorieux;
+              Mes riualles ont eu l'audace,
+              Dans leur plus superbe appareil,
+              De t'oser demander ma place;
+              Mais, jncomparable Soleil,
+    Plus digne de mes vÅux que celuy qu'on adore
+              Nulle dans l'Empire de Flore
+    Ne me peut disputer cet honneur sans pareil.
+              Ie n'exalte point ma naissance,
+              Ie ne vante point mes appas;
+              Pour conceuoir cette espÃ©rance,
+              I'ay ce que les autres n'ont pas:
+    De rayons Ã©clattans ie suis enuironnÃ©e;
+                    Telle est ma destinÃ©e,
+    Que tu ne peux qu'Ã  moy cette gloire donner:
+    Qui pourroit, qu'vn Soleil, vn Soleil Couronner?
+
+     De M. D'ANDILLY le filz.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA PENSEE.
+
+_Madrigal._
+
+
+    Vovs qui suiuez l'Amour, dont le feu vous Ã©gare,
+    Ne jettez point les yeux sur vn obiet si rare;
+    C'est auecque respect qu'il en faut approcher:
+    Quoy que de ses beautez vÃ´tre Ã¢me soit blessÃ©e,
+    Apprenez que les mains n'ont pas droit d'y toucher,
+    Et que cet heur n'est deu qu'Ã  la seule PENSÃE.
+
+     De M. COLLETET.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LES SOVCYS ET LES PENSÃES.
+
+_Madrigal._
+
+
+    Lors que, pressÃ© de mon deuoir,
+    Ie veux t'offrir vne GVIRLANDE,
+    Ta beautÃ© m'oste le pouuoir
+    D'accomplir ce qu'il me commande;
+
+    Ce qui te la fait mÃ©riter
+    Empesche que tu ne l'obtiennes:
+    Ton beau teint ne peut supporter
+    D'autres merueilles que les siennes;
+
+    Par luy la Rose est sans couleur,
+    Les OEillets ont perdu la leur,
+    Les Tulipes sont effacÃ©es,
+
+    Les Lys n'ont plus de puretÃ©;
+    Et pour toy rien ne m'est restÃ©
+    Que des SOVCYS et des PENSÃES.
+
+     De M. DE MALLEVILLE.
+
+
+
+
+[Illustration]
+
+
+
+
+LA FLEVR D'ORANGE[27].
+
+_Madrigal._
+
+
+    Dv palais d'emeraude oÃ¹ la riche Nature
+    M'a fait naistre et regner auecque maiestÃ©,
+    Ie viens pour adorer la diuine beautÃ©
+    Dont le Soleil n'est rien qu'vne foible peinture.
+    Si ie n'ay point l'Ã©clat ni les viues couleurs
+            Qui font l'orgueil des autres Fleurs,
+    Par mes douces odeurs ie suis plus accomplie,
+    Et par ma puretÃ© plus digne de IVLIE.
+    Ie ne suis point suiette au fragile destin
+            De ces belles infortunÃ©es
+            Qui meurent dÃ¨s qu'elles sont nÃ©es,
+    Et de qui les appas ne durent qu'vn matin;
+    Mon sort est plus heureux, et le ciel fauorable
+    Conserue ma fraÃ®cheur et la rend plus durable.
+    Ainsi, charmant objet, rare prÃ©sent des Cieux,
+    Pour mÃ©riter l'honneur de plaire Ã  vos beaux yeux,
+            I'ai la pompe de ma naissance,
+    Ie suis en bonne odeur, en tout temps, en tous lieux,
+            Mes beautez ont de la constance,
+    Et ma pure blancheur marque mon jnnocence;
+    I'ose donc me vanter, en vous offrant mes vÅux,
+    De vous faire moy seule vne riche Couronne,
+            Bien plus digne de vos cheueux
+    Que les plus belles Fleurs que ZÃ©phire vous donne.
+    Mais si vous m'accusez de trop d'ambition,
+    Et d'aspirer plus haut que ie ne deurois faire,
+            Condamnez ma prÃ©somption,
+            Et me traittez en temeraire;
+    Punissez, i'y consens, mon superbe dessein
+            Par une seuÃ©re dÃ©fense,
+    De m'Ã©leuer plus haut que iusqu'Ã  vÃ´tre sein,
+    Et ma punition sera ma rÃ©compense.
+
+     De M. C. (CORNEILLE).
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LE SAFFRAN.
+
+_Madrigal._
+
+
+    Ie viens m'offrir Ã  vous pour parer vos cheueux,
+          Diuin obiet de mille vÅux,
+          Par qui toute ame est enflammÃ©e;
+          La Nature, Mere des Fleurs,
+          Pour me distinguer de mes sÅurs,
+          De langues m'a toute formÃ©e;
+    Mais, aymable IVLIE, il le faut auouÃ«r,
+    Ie n'en ay pas encore assez pour vous louÃ«r.
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA FLAMBE.
+
+_Madrigal._
+
+
+    Ie ne croy pas que ces GVIRLANDES,
+    Dont chacun vous fait des offrandes,
+    Conseruent toutes leurs couleurs;
+    Si votre bel Åil les Ã©claire,
+    Ie m'attens bien de luy voir faire
+    Des FLAMBES de toutes les Fleurs.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+LA FLAMBE.
+
+_Madrigal._
+
+            Parmy toutes ces autres Fleurs,
+    Receuez cette FLAMBE, Ã´ IVLIE adorable!
+    C'est le viuant portrait des mortelles douleurs
+    Que cause dans mon sein vne playe jncurable;
+    Pour vous montrer l'Ã©tat de mon cÅur consumÃ©,
+    Ie ne pouuois choisir qu'vn obiet enflammÃ©!
+
+     De M. le marquis DE MONTAUSIER.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LE MVGVET[28].
+
+_Madrigal._
+
+
+    I'abandonne les bois, dont les feÃ¼illages sombres,
+    MalgrÃ© l'Astre bruslant qui rÃ©pand les clartez,
+    Conseruant ma fraicheur sous leurs Ã©paisses ombres,
+    Pour venir rendre hommage Ã  tes rares beautez.
+    Mais ie crains, en voyant l'Ã©clat qui t'enuironne,
+                  Que ton feu sans pareil,
+    Ne me soit plus fatal que celuy du Soleil.
+    N'jmporte, toutes fois, quoy que le Ciel ordonne,
+          Ou i'embelliray ta COVRONNE,
+          Ou, mourant au feu de tes yeux,
+    Mon sort Ã©galera le sort des demy-Dieux.
+
+     De M. DE BRIOTTE.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA FLEVR DE GRENADE[29].
+
+_Madrigal._
+
+
+    Dans l'Empire fameux de Flore et de Pomone,
+    Mon pere a mille enfans qui portent la Couronne;
+            Mais, prÃ©fÃ©rant mon sort au leur,
+            I'ay mieux aymÃ© demeurer Fleur,
+    Auec le vif Ã©clat dont ie suis embellie,
+    Afin de m'offrir Vierge Ã  la chaste IVLIE.
+    O perte fauorable! Ã´ change prÃ©cieux!
+              Ie quitte vne gloire mortelle,
+    Pour l'jmmortel honneur de parer cette belle,
+    Et le destin des Roys pour le destin des Dieux.
+
+     De M. C... (?)
+
+[Illustration]
+
+
+LA FLEVR DE GRENADE.
+
+_Madrigal._
+
+    D'vn pinceau lumineux l'Astre de la lumiere
+          Anime mes viues couleurs,
+    Et regnant sur l'Olympe en sa vaste carriere,
+          Il me fait regner sur les Fleurs;
+    Ma pourpre est l'ornement de l'empire de Flore;
+    Autres fois ie brillay sur la teste des Roys,
+                Et le riuage More
+                Fut suiet Ã  mes loix;
+    Mais, mÃ©prisant l'Ã©clat dont ie suis embellie,
+          Ie renonce au Flambeau des Cieux,
+          Et viens, Ã´ diuine IVLIE!
+                Adorer tes beaux yeux,
+    Pour viure par le feu d'vne plus noble vie,
+          Ie viens par vne belle ardeur,
+    A la honte du Ciel, acheuer ta grandeur;
+          Il te deuoit vne Couronne,
+                Et moy ie te la donne.
+
+     De M. DE BRIOTTE.
+
+
+
+
+[Illustration]
+
+
+
+
+LA FLEVR D'ADONIS[30].
+
+_Madrigal._
+
+
+    Si quelque soin vous tient de vous rendre jmmortelle,
+    Et de voir vÃ´tre nom par le monde semÃ©,
+    Rendez-vous Ã  l'Amour, ne soyez plus rebelle;
+    Si ie fleuris encor, c'est pour auoir aymÃ©.
+
+     De M. DE MALLEVILLE.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LA PERCE-NEIGE.
+
+_Madrigal._
+
+
+          Fille du bel Astre du jour,
+          Ie nays de sa seule lumiere,
+    Alors que sans chaleur, Ã  son nouueau retour,
+          Des mois il ouure la Carriere.
+          Ie vis pure, et dans la froideur;
+          Et mon teint, qui la NEIGE efface,
+    Conserue son Ã©clat dans l'extrÃ©me rigueur
+          De l'hyver couronnÃ© de glace.
+          Fleurs peintes d'vn riche dessein
+          Que le chaud du Soleil fait naistre,
+    Et qui, peu chastement, ouurez votre beau sein
+          Au Pere qui vous donna l'estre;
+          Vous qui sans pudeur aux ZÃ©phirs
+          Souffrez dÃ©couurir vos richesses,
+    Et vous laissant toucher Ã  leurs foibles soupirs,
+          Ployez sous leurs molles caresses;
+          Osez-vous, peu modestes Fleurs,
+    PrÃ©tendre Couronner cette beautÃ© sÃ©uÃ¨re?
+    Et ne craignez-vous point les cruelles froideurs
+    Dont elle sait punir vne ame temeraire?
+          N'ayez plus cette vanitÃ©,
+    Puis que seule ie dois obtenir l'auantage
+    D'orner de son beau chef l'auguste maiestÃ©,
+    Lors que de tous les cÅurs elle reÃ§oit l'hommage,
+          Au Throsne de la puretÃ©.
+
+     De M. DE MONTMOR-HABERT.
+
+[Illustration]
+
+
+LA PERCE-NEIGE[31].
+
+_Madrigal._
+
+    Sovs vn voile d'argent la Terre enseuelie
+          Me produit, malgrÃ© sa fraicheur;
+          La NEIGE conserue ma vie,
+    Et, me donnant son nom, me donne sa blancheur;
+    Mais celle de ton sein, nompareille IVLIE,
+          Me fait perdre aujourd'huy le prix
+          Que ie ne cede pas au Lys.
+
+     De M. DE BRIOTTE.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+LE PAVOT.
+
+_Madrigal._
+
+
+            Accordez-moy le priuilÃ©ge
+            D'approcher de ce front de nÃ©ge;
+    Et si ie suis placÃ© (comme il est Ã  propos)
+    AuprÃ¨s de ces Soleils que le Soleil seconde,
+            Ie leur donneray le repos
+            Qu'ils dÃ©robbent Ã  tout le monde.
+
+     De M. DE SCUDERY.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'IMMORTELLE[32].
+
+_Madrigal._
+
+
+          Foibles Fleurs, Ã  qui le destin
+          Ne donne jamais qu'vn matin,
+          Reconnoissez vÃ´tre folie;
+    Moy seule dois prÃ©tendre Ã  couronner IVLIE.
+          Digne objet des plus dignes vÅux,
+          Placez-moi dessus vos cheueux;
+    I'aspire Ã  cet honneur, faites que ie l'obtienne;
+    Ainsi puisse le Ciel vous combler de plaisirs,
+    Faire que tout succÃ©de Ã  vos justes desirs,
+    Et que vÃ´tre beautÃ© dure autant que la mienne!
+
+     De M. DE SCUDERY.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+L'IMMORTELLE BLANCHE[33].
+
+_Madrigal._
+
+
+    Donnez-moy vos couleurs, Tulipes, AnÃ©mones;
+    OEillets, Roses, Iasmins, donnez-moy vos odeurs:
+    Des contraires saisons le froid, ni les ardeurs,
+          Ne respectent que les Couronnes
+          Que l'on compose de mes Fleurs;
+    Ne vous vantez donc point d'estre aymables ni belles;
+    On ne peut nommer beau ce qu'efface le Temps,
+      Pour couronner les beautez Ã©ternelles,
+          Et pour rendre leurs yeux contens,
+          Il ne faut point estre mortelles.
+      Si vous voulez affranchir du trÃ©pas
+          Vos brillans, mais frÃªles appas,
+          Souffrez que i'en sois embellie;
+    Et si ie leur fais part de mon Ã©ternitÃ©,
+    Ie les rendray pareils aux appas de IVLIE,
+    Et dignes de parer sa diuine beautÃ©.
+
+     De M. C. (CORNEILLE).
+
+
+
+
+[Illustration]
+
+
+
+
+LE MELEAGRE[34].
+
+_Madrigal._
+
+
+            Ie vay finir pour IVLIE:
+            O que Mon destin est beau!
+            La glorieuse folie!
+            Dieux! le superbe tombeau!
+          Ie suis Fleur, et fus jadis Homme;
+    Mon sort vne autre fois se trouue au mÃªme point,
+          Car un feu secret me consomme,
+          Qui me brusle et ne paroist point.
+
+     De M. DE SCUDERY.
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+MADRIGAUX
+
+DESTINÃS
+
+A LA GUIRLANDE DE JULIE
+
+
+
+
+[Illustration]
+
+
+
+
+AVERTISSEMENT
+
+    _Il_ avoit cueilli sur le Parnasse _toutes les
+    plus belles fleurs_ qui composoient cette
+    fameuse _Guirlande_, dont les Muses franÃ§oises
+    couronnÃ¨rent Ã  l'envie l'illustre Julie.
+
+     NICOLAS PETIT, _Vie de Montausier_.
+
+
+_Le baron de Sainte-Maure s'occupait depuis longtemps de la composition
+de sa_ Couronne poÃ©tique, _avant que Jarry ne se mÃ®t Ã  l'Åuvre, et
+l'idÃ©e de_ la Guirlande _fut au moins conÃ§ue, selon nous, dans le
+courant de l'annÃ©e 1632_[93].
+
+  [93] Voyez la note que nous donnons plus loin, aux Madrigaux de
+  ScudÃ©ry, imprimÃ©s en 1636, avec un trÃ¨s-intÃ©ressant
+  _Advertissement_.
+
+  M. AmÃ©dÃ©e Roux, dans son remarquable ouvrage _Montausier, sa vie
+  et son temps_ (Paris, Didier, 1860), relÃ¨ve une erreur du pÃ¨re
+  Petit, jÃ©suite, qui porte la prÃ©sentation des deux Montausier Ã 
+  l'hÃ´tel de Rambouillet en 1634. C'est dans l'hiver 1631-1632 que
+  cette prÃ©sentation eut lieu (affirme M. A. Roux). Or, par un
+  curieux rapprochement qui vient fortifier notre assertion sur la
+  date oÃ¹ fut conÃ§ue la _Guirlande_, Tallemant nous apprend que le
+  baron de Sainte-Maure fut amoureux, dÃ¨s qu'il la vit, de Julie
+  d'Angennes, et que cette derniÃ¨re dut s'en apercevoir, Â«_car dÃ¨s
+  le temps du Roy de SuÃ¨de il avoit commencÃ© Ã  travailler Ã  la_
+  GuirlandeÂ». _Le temps du Roi de SuÃ¨de_, n'est-ce pas l'Ã©poque des
+  grandes guerres et de la mort du hÃ©ros, c'est-Ã -dire 1631 et 1632?
+  (Voyez Tallemant des RÃ©aux, historiette de _Montauzier_.)
+
+_Plus guerrier que poÃ«te, et par consÃ©quent moins souvent Ã  Paris qu'au
+delÃ  du Rhin, l'amant discret de Julie d'Angennes, ne pouvant donner Ã 
+son Åuvre que ses rares moments de loisir, dut convier par avance tous
+les poÃ«tes Ã  l'illustre galanterie qu'il a su perpÃ©tuer_.
+
+_Les fleurs affluÃ¨rent en gerbes, briguant l'honneur d'Ãªtre nouÃ©es Ã  la_
+Guirlande, _qui, certes, se fÃ»t de beaucoup augmentÃ©e si M. de
+Montausier, forcÃ© de choisir, n'eÃ»t fait l'anthologie manuscrite que
+nous rÃ©imprimons_.
+
+_Le_ Dignus intrare _ne fut donc pas prononcÃ© pour toutes les fleurs, et
+nombre de pauvres madrigaux durent rester Ã  la porte, honteux et confus
+de ne pas orner le front de Julie_.
+
+_Les poÃ«tes de l'Ã©poque Ã©taient inconstants, et dans le_ _monde
+prÃ©cieux qui frÃ©quentait le_ Bureau d'esprit, _un madrigal ne pouvait
+rester longtemps inoccupÃ©; il serait donc plausible qu'une partie des
+fleurs primitivement destinÃ©es Ã  la_ Guirlande, _lÃ©gÃ¨rement retouchÃ©es
+et fardÃ©es par la suite, fussent passÃ©es comme simples bluettes dans les
+mains de beautÃ©s inconnues_.
+
+_Par un heureux contraste, des fidÃ¨les comme Malleville et ScudÃ©ry, des
+madrigaliers modestes comme les anonymes du manuscrit de Conrart,
+dÃ©posÃ¨rent intacts dans diffÃ©rents recueils leurs madrigaux rejetÃ©s de
+la_ Guirlande _comme un hommage dÃ©vouÃ© que nous devons respecter_.
+
+_Nous ne saurions, Ã  la suite de notre rÃ©impression, refuser
+l'hospitalitÃ© Ã  ces courageux madrigaux, depuis trop de temps vagabonds;
+M._ Ch. L. Livet, _dans la parfaite et sÃ©rieuse Ã©dition qu'il a donnÃ©e
+de la_ Guirlande[94], _a dÃ©jÃ  restituÃ© Ã  leur vÃ©ritable place les
+anonymes du manuscrit de Conrart et les piÃ¨ces de Malleville qui ne
+figurent pas dans le texte original_.
+
+  [94] Appendice Ã  la savante Ã©tude des _PrÃ©cieux et PrÃ©cieuses_
+  (Paris, Didier, 1870, 2e Ã©dition).
+
+_Nous suivons cette excellente voie, et ajoutons Ã  notre nouvelle
+Ã©dition sept madrigaux, jusqu'alors inÃ©dits, conservÃ©s dans les poÃ©sies
+de ScudÃ©ry._
+
+_En ramassant en quelque sorte les fleurs tombÃ©es en dehors de la_
+Guirlande _manuscrite, et en les groupant de nouveau, nous faisons plus
+qu'une restitution, nous adhÃ©rons pieusement aux vÅux des poÃ«tes qui
+voulurent payer Ã  la belle Julie leur tribut d'estime et d'admiration_.
+
+    _O. U._
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+MADRIGAUX INÃDITS
+
+COMPOSÃS POUR LA GUIRLANDE
+
+MANUSCRIT DE CONRART[95]
+
+  [95] Ces madrigaux inÃ©dits, destinÃ©s Ã  la _Guirlande de Julie_
+  nous sont fournis par une copie, d'ailleurs trÃ¨s-incomplÃ¨te, qui
+  se trouve dans un des volumes manuscrits de Conrart, indÃ©pendant
+  des deux collections bien connues de l'Arsenal. (Manuscrit petit
+  in-f{o}, MÃ©langes de vers et prose, Belles-lettres, 145, pages
+  1087 et suivantes.) Les madrigaux de ce manuscrit ne portaient
+  pas primitivement de noms d'auteurs. M. J. B. A. SOULIÃ a
+  restituÃ© sa paternitÃ© connue Ã  chaque madrigal, et a dressÃ© une
+  nomenclature des piÃ¨ces qui manquent Ã  cette version manuscrite.
+  Tous les madrigaux que nous donnons ici sont anonymes et ne
+  figurent pas dans le manuscrit original.
+
+  Ce texte est scrupuleusement conforme Ã  l'orthographe du
+  manuscrit.
+
+
+SUR LA FLAMBE
+
+GUSTAVE A JULIE
+
+    _Divine cause de mes pleurs,
+    Object dont la gloire m'estonne,
+    Adjouste Ã  tant de belles fleurs
+    Ceste_ Flambe _que je te donne_.
+
+    _Tes yeux peuvent bien approuver
+    Ce prÃ©sent d'un cÅur tributaire;
+    La_ Flambe _qui te va trouver
+    Est un feu qui tend Ã  sa sphere_.
+
+    _Jette ton regard curieux
+    Sur les merveilles qu'elle enserre;
+    Ce qu'est Iris dedans les Cieux,
+    La_ Flambe _l'est dessus la terre_.
+
+    _Ou sois favorable Ã  mes vÅux,
+    Ou tu seras digne de blasme;
+    Je ne mets que sur tes Cheveux
+    Ce que tu mets dedans mon Ã¢me._
+
+    _Il faut que son feu nompareil
+    Cherche un object Ã  qui tout cede,
+    Et que ce qui vient du Soleil
+    Un autre Soleil le possede._
+
+    _A peine luit-elle en ces lieux,
+    OÃ¹ l'amour veut que je l'envoye,_
+    _Que, paroissant devant tes yeux,
+    Elle s'espanouit de joye._
+
+    _Tes yeux en cest heureux sÃ©jour
+    Raniment sa grÃ¢ce premiere,
+    Et c'est moins de l'Astre du jour
+    Que d'eux qu'elle tient sa lumiere._
+
+    _L'Arc-en-Ciel n'a point de couleur
+    Que le Soleil rende si belle
+    Que le lustre de cette fleur
+    Quand tes yeux rayonnent sur elle._
+
+    _A l'esclat du feu vehement
+    Dont toutes ses feuilles sont pleines,
+    Tu pourras juger aysement
+    Celuy qui brusle dans mes veynes._
+
+    _Ces feuilles qui dans ce beau lieu
+    N'ont rien que de vif et de rare,
+    Sont autant de langues de feu
+    Par qui mon amour se dÃ©clare._
+
+    _Je ne puis en la vive ardeur
+    Que me cause ta renommÃ©e
+    Exprimer l'estat de mon cÅur
+    Que par une chose enflammÃ©e._
+
+    _Certes, mon courage est atteint
+    D'autant de peines violentes
+    Que l'Ã©mail dont elle se peint
+    Brille de couleurs differentes._
+
+    _Face l'Astre qui luit aux Roys,
+    Pour adoucir mon amertume,
+    Que la_ Flambe _que tu reÃ§ois
+    Passe en ton cÅur et te consume_[96]!
+
+     ANONYME
+
+  [96] P. 1097 du manuscrit.
+
+
+
+
+LA TULIPE[97]
+
+    _Curieux Enfants d'espÃ©rance,
+    Belle troupe de mes Amans,
+    Ne vivez plus dans l'ignorance
+    Du suject de mes changemens.
+    Je cherche Ã  me rendre embellie
+    D'un si grand nombre de couleurs
+    Qu'il ne faille que de mes fleurs
+    Pour la Guirlande de_ Julie.
+
+     ANONYME.
+
+  [97] P. 1100 du manuscrit.
+
+
+
+
+EN FAVEUR DE LA GUYRLANDE DE JULIE
+
+MADRIGAL[98]
+
+    _Quell' est cette beautÃ© que tout le monde adore?
+    A voir son front ornÃ© de tant de vives fleurs,
+    Et son teint surmonter l'esclat de leurs couleurs,
+        On la prendroit pour la DÃ©esse Flore.
+    Mais non, Flore s'esmeut au doux vent des Zephirs,
+    Et celle-cy resiste au vent de noz souspirs._
+
+     ANONYME.
+
+  [98] P. 1102 du manuscrit.
+
+
+LE NARCISSE
+
+POUR LA GUIRLANDE DE JULIE[99]
+
+    _Lorsque la Nymphe Ãcho fut rÃ©duitte en servage,
+    Et ressentit les traicts de ma vaine beautÃ©,
+    Si de_ Julie _elle eust eu le visage,
+    J'eusse banny de moy l'insensibilitÃ©.
+    Jamais une fontaine en son cristal mobile_
+    _Ne m'eust charmÃ© les yeux d'un object decevant,
+    Un autre plus divin m'eust pris auparavant
+    Et la Nymphe eust trouvÃ© ma conqueste facile.
+    Je ne serois pas fleur; mais, Ã´ doux changement,
+    MÃ©morable destin d'un bienheureux Amant!
+                AgrÃ©able folie!
+    Je triomphe en ma perte et deviens glorieux
+    De pouvoir vivre ainsy jusqu'au temps de_ Julie,
+    _D'embellir sa Guirlande et de plaire Ã  ses yeux_.
+
+     ANONYME.
+
+  [99] P. 1103 du manuscrit.
+
+
+L'OEILLET A JULIE[100]
+
+    _La blancheur de ta main m'est un trosne d'yvoire,
+    Et, bien que par ton teint le mien soit surmontÃ©,
+    Je suis soubz ton Empire au comble de la gloire,
+    Et j'emprunte de toy ma plus grande beautÃ©._
+
+     ANONYME.
+
+  [100] P. 1104 du manuscrit.
+
+
+L'ANGELIQUE[101]
+
+          _De tant de fleurs que l'on vous donne
+          Pour composer cette Couronne,
+          Celle que je vous viens offrir
+                Vous sera la plus chere.
+    Le Ciel qui cognoissoit qu'elle vous devoit plaire,
+    D'un Amour non commun a daignÃ© la chÃ©rir;
+    A ce que vous aymez ses dons il communique,
+    Et vous aymez surtout la celeste_ Angelique[102].
+
+     ANONYME.
+
+  [101] P. 1106 du manuscrit.
+
+  [102] Allusion Ã  la sÅur de Julie, AngÃ©lique-Claire d'Angennes
+  (mariÃ©e Ã  FranÃ§ois-AdhÃ©mar de Monteil, comte de Grignan, morte le
+  22 dÃ©cembre 1664).
+
+
+LA ROSE
+
+A JULIE[103]
+
+    _Par la loy d'un nouveau Destin,
+    Ma pourpre, qui jadis ne vivoit qu'un matin,
+    Conserve son esclat dans ta riche Guirlande._
+    _Je naquis du beau sang de la Mere d'Amour;
+            Mais c'est une grace plus grande
+          De conserver que de donner le jour._
+
+     ANONYME.
+
+  [103] P. 1108 du manuscrit.
+
+LA ROSE[104]
+
+    _VÃ©nus qui veoid les Cieux[105], ainsi que les Mortelz,
+    Implorer sa clemence au pied de ses autelz,
+    Se repent que son sang m'ayt donnÃ© la naissance,
+            Et croit recevoir un affront
+            Me voyant couronner le front
+    De celle dont le cÅur se rit de sa puissance._
+
+     ANONYME.
+
+  [104] P. 1108 du manuscrit.
+
+  [105] Les (?) Dieux.
+
+
+
+
+LE NARCISSE[106]
+
+            _Rien n'est esgal Ã  ma douleur;
+            Bien que je ne sois qu'une fleur,
+            J'ayme la fille d'Artenice[107],
+    Aux flammes de ses yeux je me laisse esblouyr;
+    Mais je suis sans espoir, car le sort de_ Narcisse
+    _Est d'aymer les objets dont il ne peut jouir_.
+
+     ANONYME.
+
+  [106] P. 1109 du manuscrit.
+
+  [107] _ArthÃ©nice_ est l'anagramme cÃ©lÃ¨bre que Malherbe composa
+  pour Mme de Rambouillet (_Catherine_ de Vivonne), mÃ¨re de Julie.
+
+
+L'HYACINTHE[108]
+
+    _Alors que d'un GarÃ§on je devins une Fleur,
+    Le Dieu qui me perdoit voulut que sa douleur
+        Dessus mes feuilles fÃ»t tracÃ©e;
+        Mais te couronnant aujourd'huy,_
+    _Qu'on ne s'estonne point de la veoir effacÃ©e,
+    Je gaigne plus en toy que je ne perds en luy_[109].
+
+     ANONYME.
+
+  [108] P. 1109 du manuscrit.
+
+  [109] Le titre de cette piÃ¨ce a Ã©tÃ© Ã©crit de la main mÃªme de
+  Conrart, ainsi que le mot EN, qui paraÃ®t deux fois dans le
+  dernier vers, comme correctif Ã 
+
+    Je gaigne plus de toy que je ne perds de lui.
+
+  [Illustration]
+
+
+
+
+  [Illustration]
+
+
+
+
+  PIÃCES
+
+  CONSERVÃES DANS LES POÃSIES DE MALLEVILLE
+
+  Sous le titre _Madrigaux_.
+
+
+  LE SOUCY
+
+  SOUS LE NOM DE _CLYTIE_
+
+  AU SOLEIL
+
+    _Perfide Amant, je te declare
+    Que mon cÅur n'est plus ton captif;
+    C'est trop chercher un fugitif
+    Et trop reclamer un barbare.
+    Un plus admirable flambeau,
+    Un Astre plus doux et plus beau
+    Me vient guerir de ma folie.
+    J'adore son feu nompareil,_
+    _Et ne cognois plus de Soleil
+    Que dans les beaux yeux de_ JULIE[110].
+
+  [110] _PoÃ©sies de Malleville_, in-4Âº, chez Augustin CourbÃ©,
+  Paris, 1649, p. 264. (Ãgalement dans l'in-12, Ã  Paris, chez
+  Nicolas Bessin, 1659.)
+
+
+SUR LA FLEUR DE GRENADE
+
+    _Moy qui pouvois passer pour la Reyne des Fleurs,
+    Je seiche, je languis, je flestris et je meurs
+    Quand je voy ces beaux yeux, dont l'esclat me surmonte;
+    Mon teint n'a plus ce feu qui brilloit vivement,
+    Et s'il rougit encore, il rougit seulement
+                De depit et de honte_[111].
+
+  [111] _PoÃ©sies_, 1649, p. 268.
+
+
+LE NARCISSE
+
+    _AprÃ¨s m'estre perdu dans une onde perfide,
+    Je seiche au feu des yeux d'une belle homicide,
+    Quand je luy rend hommage et m'acquitte d'un vÅu._
+    _O Destin, qui me fais cette injure seconde!
+    N'estoit-ce pas assez d'avoir pery par l'onde
+                Sans perir par le feu[112]?_
+
+  [112] _PoÃ©sies_, 1649, p. 268.
+
+
+LA FLEUR D'ADONIS
+
+    _Je suis si fragile en mon estre
+    Que je ne puis longtemps fleurir;
+    Le vent qui les Roses fait naistre
+    Est si fort qu'il me fait mourir.
+    Je dÃ©pens du moindre Zephyre,
+    Et dÃ¨s le moment qu'il souspire
+    Je tombe Ã  terre et ne vis plus:
+    Mais si je suis sur vostre teste,
+    Ne seray-je pas au-dessus
+    Et des vents et de la tempeste[113]?_
+
+  [113] _PoÃ©sies_, 1649, p. 269.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+FLEURS INÃDITES
+
+DE M. DE SCUDÃRY
+
+DESTINÃES A LA GVIRLANDE DE LA PRINCESSE IVLIE
+
+
+_ADVERTISSEMENT_[114]
+
+Tovs les bons esprits de la Cour, ayans trauaillÃ© Ã  la Guirlande de
+cette excellente personne Ã  qui i'offre ce liure, pour y contribuer
+quelque chose, j'ay voulu cueillir ces fleurs au pied du Parnasse, oÃ¹ je
+n'ay pas le droict de monter comme eux.--Leur forme, leur couleur, leur
+nature, ou les Fables qui s'en voyent, m'ont fourny les pensÃ©es sur ce
+sujet; et je croy que c'estoit ainsy que je le deuois traitter: Sois en
+iuge comme du reste de mes ouvrages.
+
+    De Scvdery.
+
+  [114] Ce curieux avertissement et les madrigaux suivants se
+  trouvent Ã  la suite du _Vassal gÃ©nÃ©reux_, poÃ«me tragi-comique,
+  dÃ©diÃ© par M. de ScudÃ©ry Ã  Mlle de Rambouillet (Paris, A. CourbÃ©,
+  1636). Ce qui donne une grande valeur Ã  ce document, c'est
+  l'annÃ©e mÃªme de sa publication, 1636. La _Guirlande_ ayant Ã©tÃ©
+  mise au jour en 1641, il en rÃ©sulterait que les madrigaux Ã©taient
+  achevÃ©s depuis fort longtemps lorsque Jarry se mit Ã  l'Åuvre.
+
+  ScudÃ©ry fut prÃ©sentÃ© Ã  l'hÃ´tel de Rambouillet, vers 1631, par le
+  poÃ«te Chandeville, son ami, mort quelque temps aprÃ¨s.
+
+   Suivent _douze fleurs destinÃ©es Ã  la Guirlande de Julie_, parmi
+   lesquelles les sept madrigaux que nous publions[115], et qui ne
+   font pas partie du texte original, ni des Ã©ditions de la
+   _Guirlande_ donnÃ©es jusqu'alors.
+
+  [115] Nous avons suivi textuellement, pour ces sept madrigaux,
+  l'orthographe de l'Ã©dition de CourbÃ©.
+
+
+LA PENSÃE
+
+            _I'estein mes flames insensÃ©es,
+            Ie reste aux termes du devoir,
+            Iugeant que vous voulez avoir
+                  De plus hautes pensÃ©es;
+    Je cÃ¨de vostre front Ã  l'orgueil du Iasmin,
+    Et suffira pour moy de parer le chemin
+            (Sans pleurs et sans melancholie)
+    Que fouleront les pas de la belle_ Ivlie.
+
+
+L'IRIS
+
+    _Si i'approche de vous avec le moindre orgueil,
+    Celle qui me nourrit devienne mon cercueil,
+    Que le froid Aquilon me dÃ©clare la guerre,
+    Que ma feuille se seiche et tombe sous vos pas,
+    Et qu'on chasse de l'air, ainsi que du parterre_,
+          (_Afin de vanger vos appas_)
+          L'IRIS _du Ciel et de la terre_.
+
+
+LE NARCISSE
+
+    _Enfin ie le confesse, auprÃ¨s d'un Åil si dous,
+        Et dont le pouvoir (est) extreme,
+        Ie suis plus amoureux de vous
+        Que ie ne le fus de moy-mesme._
+
+
+LA ROSE
+
+        _Le bel Åil qui me surmonta,
+        Ne voit rien qu'il ne dompte:_
+              _Et celle qui m'ensanglanta,
+        Rougira comme moy de despit et de honte._
+
+
+LE SOVCY
+
+    _Si parmy tant de fleurs, ie puis estre choisie[116],
+    I'auray bien de l'amour et de la jalousie:
+    Mais pour rendre vos maux et les miens adoucis
+    Escartez loing de vous tous les autres_ SOUCIS.
+
+  [116] Ce premier vers du _Soucy_ vient corroborer notre opinion
+  sur le _tri_ que M. de Montausier dut opÃ©rer, avant que de livrer
+  sa _Guirlande_ au cÃ©lÃ¨bre calligraphe Jarry.
+
+
+LA FLEVR D'ORANGE
+
+    _Si pour vous couronner on me croit inutile,
+            Souffrez qu'en pleurs ie me distile,
+    Mes larmes vous plairont; et peut estre vos yeux,
+    En auront par pitiÃ©, qui plairont beaucoup mieux:
+            Ainsy nous ferons un meslange,
+            De l'eau de Nasse et de l'eau d'Ange._
+
+
+L'OEILLET
+
+    _Divin object tousjours vainqueur,
+    Il faut que ie t'approche, il faut que ie te cueilles:
+    Deusse-ie ressentir plus de pointes au cÅur
+            Qu'on n'en voit Ã  mes feuilles._
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+NOTES ET VARIANTES
+
+SUR LES
+
+FLEURS DE LA GUIRLANDE DE JULIE
+
+
+1.--Dans l'original, tous les vers, de quelque nombre de syllabes qu'ils
+soient, commencent Ã  Ã©gale distance de la marge.--Nous ne poussons pas
+le scrupule jusqu'Ã  reproduire dans notre Ã©dition cet arrangement
+disgracieux, tout au plus admissible dans un manuscrit.
+
+_ZÃ©phire Ã  Julie_ est le seul madrigal du marquis de Montausier qui ne
+soit pas signÃ© dans l'original.
+
+
+2.--La _Couronne ImpÃ©riale_, de Chapelain, fut regardÃ©e, Ã  l'hÃ´tel
+de Rambouillet, comme l'un des plus beaux madrigaux de la
+_Guirlande_.--Julie professait la plus grande admiration pour le roi de
+SuÃ¨de, Gustave-Adolphe, tuÃ© Ã  la bataille de Lutzen, qu'il gagna;
+Chapelain suppose que ce hÃ©ros ayant voulu conquÃ©rir une _couronne
+impÃ©riale_ pour l'offrir Ã  son admiratrice, fut mÃ©tamorphosÃ© en la fleur
+Ã  laquelle cet Ã©vÃ©nement fit donner le nom de _Couronne ImpÃ©riale_.
+
+Voiture, dans ses Lettres, nomme Chapelain pÃ¨re de la _Pucelle_ et
+ouvrier de la _Couronne ImpÃ©riale_, et ce madrigal, alors si fameux, fut
+insÃ©rÃ© dans le _HuÃ©tiana_ (page 105, chap. XLIV) Huet, le vÃ©nÃ©rable
+Ã©vÃªque d'Avranches, bien qu'un des plus violents dÃ©fenseurs de
+Chapelain, lors de l'apparition de la _Pucelle_, fait remarquer avec
+justesse le contre sens des vers suivants:
+
+    Â«Du rivage inconnu de l'aspre CorÃ©lie,
+    OÃ¹ la _mer sous la glace est toute ensevelie_,
+    Le flambeau de l'Amour _mes voiles conduisant_,
+    Je vins pour rendre hommage Ã  l'auguste Julie.Â»
+
+Comment, s'Ã©crie le prÃ©lat, des vaisseaux pouvaient-ils avancer sur une
+mer toute ensevelie sous la glace?
+
+L'honnÃªte Chapelain, pour se justifier, eÃ»t peut-Ãªtre rÃ©pondu que _le_
+Â«_flambeau de l'Amour_, qui conduisait les voiles de Gustave-Adolphe,
+Ã©tait assez incandescent pour fondre toute la glace de _l'aspre
+CorÃ©lie_!Â»
+
+Le _Recueil_ de Conrart (in-f{o}, Belles-Lettres 145, bibl. de
+l'Arsenal), page 1087, donne ce madrigal avec le sous-titre: _A la
+Princesse Julie_. L'orthographe de ce manuscrit est de beaucoup plus
+surannÃ©e que celle de l'original.
+
+
+3.--Au second vers de ce madrigal, le mot _treuve_, qui est Ã©crit ainsi
+que nous le donnons, dans le texte original et dans la copie de
+Maurepas, subit la variante de _trouve_ dans les Ã©ditions Nodier, Didot,
+et dans les Åuvres de ScudÃ©ry, qui portent:
+
+    Â«Je me trouve sans effroy.Â»
+
+
+4:.--.....:
+
+    Â«Je n'ay plus rien de ce lustre enflammÃ©
+    Que de VÃ©nus le sang avait fait naistre.Â»
+
+Quelques auteurs ont fait sortir la _Rose_ d'une piqÃ»re de VÃ©nus, image
+gracieuse, mais fable peu consacrÃ©e.
+
+Voiture fit Ã©galement une _mÃ©tamorphose en prose de la Rose_ pour _Me de
+Rambouillet_.
+
+
+5.--Les derniers vers de la _Rose_, de M. de Montausier, se trouvent
+trÃ¨s-maltraitÃ©s dans le recueil de Sercy, qui termine ainsi ce madrigal:
+
+    Â«Mais beautÃ© que le monde adore,
+    Â«_J'estime celuy de rÃ¨gner dans l'empire de Flore_.
+
+Il faut attribuer Ã  une faute d'impression ce non-sens et ce vers faux.
+
+
+6.--Le mÃªme Recueil de Sercy fait dÃ©buter ainsi la _Seconde Rose_, de M.
+Colletet:
+
+    Â«Quoyque la fable nous raconte
+    Jamais la _Royne d'Amaronte_,Â» etc.
+
+
+7.--La version manuscrite de Conrart donne ces lÃ©gÃ¨res variantes Ã  ce
+premier madrigal du _Narcisse_: au troisiÃ¨me vers, _jadis estant_ au
+lieu de _estant jadis_, et au sixiÃ¨me vers:
+
+        Il baissoit toujours son visage,
+    Qu'il estimoit _plus beau que le soleil_;
+
+au lieu de:
+
+    Qu'il estimoit plus beau que celui du soleil.
+
+
+8.--Le manuscrit de Conrart, page 1105, donne cette Ã©norme variante;
+aprÃ¨s le troisiÃ¨me vers, le madrigal continue ainsi:
+
+    _Je viens pour vous offrir mes vÅux,
+    Unique beautÃ© que j'estime,
+    Escoutez ce discours que ma pasleur exprime:
+    Vous pour qui souffrent mille amans
+    Un nombre infini de tourments,
+    Si vous me voyez le teint blesme,
+    Ce n'est plus moy, c'est vous que j'ayme._
+
+
+9.--Le Recueil de Sercy nous fournit cette variante pour la fin du
+_Narcisse_ de M. Habert:
+
+    _Et pour Ã©viter son courroux,
+    Julie, aimez d'autres que vous._
+
+A propos de _cet Habert_ auquel les Ã©ditions Didot et Nodier dÃ©cernent Ã 
+tort le titre de _capitaine_, nous rectifions, ainsi que l'a fait M. Ch.
+L. Livet, cette grosse erreur. Habert Ã©tait _commissaire_ et non
+_capitaine de l'artillerie_. Nous signons donc, ainsi que le manuscrit
+original et le recueil de Maurepas, les madrigaux de cet auteur: M.
+Habert, C. de l'artillerie.
+
+NOTA. C'est par suite d'une faute de correcteur que le mot _cap_.
+subsiste dans la signature de ce madrigal.
+
+
+10.--Dans la copie manuscrite de Maurepas, le _Narcisse_, du commissaire
+de l'artillerie est placÃ© ainsi que nous le donnons. L'Ã©dition Nodier,
+au contraire, place le _Narcisse_ de l'abbÃ© de Cerisy auparavant.
+
+Au sujet de celui-ci, les textes de Didot et Nodier portent cette
+variante au dernier vers:
+
+    Â«_Chacun sÃ§ait toutefois_ comme elle m'a perdu.
+
+
+11.--Jean Ogier de Combaud est auteur d'une pastorale Ã©galement nommÃ©e
+_Amaranthe_ (in-8, 1631). L'allusion qu'il fait dans son quatrain, Ã 
+l'immortalitÃ© de l'_amarante_, est appuyÃ©e par toute l'antiquitÃ©.
+
+HomÃ¨re nous apprend qu'aux funÃ©railles d'Achille, les Thessaliens
+Ã©taient couronnÃ©s d'_amarantes_, et Malherbe dit, dans une ode Ã  Henri
+IV (_Sur l'heureux succÃ¨s du voyage de Sedan_):
+
+    Â«La louange dans mes vers,
+    _D'amarante couronnÃ©e_,
+    N'aura sa fin terminÃ©e
+    Qu'en celle de l'Univers.Â»
+
+L'amarante d'or Ã©tait le prix de l'ode dans les jeux floraux.
+
+
+12.--_L'AngÃ©lique_, de M. de Malleville, ne se trouve pas dans ses
+madrigaux (Paris, A. CourbÃ©, 1649). Ce fait est d'autant plus curieux
+que c'est le seul madrigal de ce poÃ«te qui manque Ã  l'appel dans ses
+poÃ©sies imprimÃ©es.
+
+
+13.--Le mot _THIN_ est ainsi Ã©crit dans le manuscrit original; nous
+faisons cette remarque d'aprÃ¨s l'abbÃ© Rive.
+
+
+14.--Ce fameux madrigal de la _Violette_ n'a jamais Ã©tÃ© attribuÃ© qu'Ã 
+Desmarest; dans l'original il est signÃ© avec cette orthographe: _M. Des
+Marestz_; dans la copie de Maurepas, signÃ©: _De_.....
+
+L'Ã©dition de 1729, Ã  la suite de la vie de Montausier, du pÃ¨re N. Petit,
+porte: Â«_Anonyme_Â», et donne cette trÃ¨s-intÃ©ressante variante, dont on
+n'a pas encore fait mention jusqu'ici:
+
+    Â«_Fleur sans ambition_, je me cache sous l'herbe.Â»
+
+
+15.--Au troisiÃ¨me vers du _Lys_ de M. de Montausier, la copie de
+Maurepas donne, en supprimant la particule nÃ©gative:
+
+    Â«Et je crois _si je me flatte_.Â»
+
+
+16.--Dans les poÃ©sies de Malleville (1649), il se trouve la variante
+suivante:
+
+          Â«ReÃ§oy les lys que je te donne
+          Pour en former une couronne
+    _Par qui de ta beautÃ© le lustre soit dÃ©peint_.Â»
+
+
+17.--Le manuscrit de Maurepas donne Ã  ce madrigal le dÃ©but suivant:
+
+    Â«_Que j'ay d'honneur Ã  cette fois._Â»
+
+Cette variante est intÃ©ressante, car la copie de Maurepas suit assez
+fidÃ¨lement le texte original.
+
+
+18.--Cette piÃ¨ce est seulement signÃ©e des initiales _M. C._ dans
+l'original et la copie de Maurepas; les textes imprimÃ©s de Didot et de
+Nodier signent: Â«_Conrart_Â», sans motifs connus. Il est vrai que l'abbÃ©
+Goujet, dans sa _BibliothÃ¨que FranÃ§oise_ (tome XVII, page 401, et tome
+XVIII, page 444) met Ã  l'actif de Conrart quelques-uns des madrigaux de
+la _Guirlande_. Mais est-ce lÃ  une autoritÃ© suffisante? L'Ã©diteur de
+1729, plus circonspect, ne garde de _Conrart_ que le silence prudent et
+signe Â«_M. C._Â» M. Taschereau, dans son _Histoire de la vie et des
+ouvrages de Corneille_ (Paris, Jannet, 1855, page 318), revendique pour
+l'auteur du _Cid_ les six piÃ¨ces signÃ©es Â«_M. C._Â»
+
+
+19.--Ce dernier madrigal sur les _Lys_ est signÃ© _Desmaretz_ dans le
+recueil manuscrit de Maurepas. L'Ã©dition de 1729 le porte _anonyme_.
+
+
+20.--Dans la _Tulipe_, de _M. de Vence_, la version manuscrite de
+Conrart remplace ce vers:
+
+    Â«Miracle de nos jours si mes yeux t'eussent vueÂ»,
+
+par:
+
+    Â«_Julie si je t'eusse vue_Â».
+
+
+21.--La _Tulipe_ signÃ©e _M. C._, dans l'original et dans la copie de
+Maurepas, est une des trois piÃ¨ces attribuÃ©es Ã  Corneille. Le Recueil de
+Sercy, si avare cependant de signatures intÃ©grales, signe ce madrigal:
+Â«_Corneille_Â», et l'abbÃ© Granet, Ã©diteur des Åuvres diverses du grand
+tragique, a insÃ©rÃ© dans son Ã©dition (_Paris_, _Gissey_, 1738, in-12) la
+_Tulipe_, ainsi que la _Fleur d'Orange_ et l'_Immortelle blanche_, de
+mÃªme signÃ©es Â«_Corneille_Â» dans le Recueil de Sercy.--Madame de Genlis,
+dans sa _Botanique historique et littÃ©raire_ (Paris, 1810, p. 91), donne
+Ã©galement Ã  Corneille la paternitÃ© de ces trois madrigaux, et dans la
+_Bibliographie CornÃ©lienne_, qui vient de paraÃ®tre (Paris, Fontaine,
+1875), les Ã©diteurs attachent une assez grande importance Ã  ces trois
+madrigaux, qu'ils attribuent Ã  Corneille, car, page 198 et suivantes,
+ils ont dressÃ© fort consciencieusement la liste des trois manuscrits et
+des diffÃ©rentes Ã©ditions de la _Guirlande de Julie_.
+
+Les Ã©ditions Didot et Nodier signent: Â«_Conrart_Â».
+
+
+22.--La _Jonquille_ Ã©tait une fleur rarissime et trÃ¨s-chÃ¨re en 1641. Mme
+de SÃ©vignÃ©, en parlant d'une superbe fÃªte, raconte, comme une chose
+extraordinaire, qu'on _y avait prodiguÃ© les jonquilles_.
+
+
+23.--Le Recueil de Sercy, au deuxiÃ¨me vers de ce madrigal, donne, au
+lieu de:
+
+    Â«Dont l'injuste refus prÃ©cipita mon sortÂ»,
+
+cette variante:
+
+    Â«_Dont mon juste repos_ prÃ©cipita mon sortÂ».
+
+Dans l'original, la copie de Maurepas et l'Ã©dition de 1729, ce sixain
+paraÃ®t signÃ© des initiales: Â«de M. le M. de R.Â»--Les textes de Didot et
+de Nodier, ennemis des initiales, signent Ã  tort: Â«_M. le marquis de
+Racan_.Â»--Le poÃ«te des _Bergeries_ n'est aucunement l'auteur de ce
+madrigal, gÃ©nÃ©ralement attribuÃ©, et avec raison, au marquis de
+Rambouillet, pÃ¨re de Julie.
+
+Tallemant est lÃ , du reste, pour appuyer notre assertion: Â«Elle
+remercia, dit-il (en parlant de Julie d'Angennes), tous ceux qui
+avoient fait des vers pour elle. Il n'y eut pas _jusqu'Ã  M. le
+marquis de Rambouillet qui n'en fist, on y voit un madrigal de sa
+faÃ§on_.Â»--Tallemant (historiette de _Montauzier_).
+
+
+24.--Ce quatrain de l'_Hyacinthe_ est signÃ©: Â«M. C.Â» dans l'original, le
+manuscrit de Maurepas et l'Ã©dition de 1729. Les Ã©ditions Nodier et
+Didot, logiques dans leurs hypothÃ¨ses, portent: Â«_M. Conrart_.Â»
+
+
+25.--Ce madrigal n'est pas insÃ©rÃ© dans l'Ã©dition de 1729, mais il se
+trouve dans celle de 1784.
+
+
+26.--A la page 1094 de la version manuscrite de Conrart, nous
+trouvons, au quatriÃ¨me vers de ce huitain, cette petite variante:
+
+    Au lieu de: Â«Ait pris mon Ã¢me en ses appasÂ»,
+    Il y a:     Â«_Ayt pris Ã¢me_ en ses appasÂ».
+
+Le texte imprimÃ© des poÃ©sies de Malleville (CourbÃ©, 1649) donne cette
+autre variante pour les deux derniers vers:
+
+    Â«Aymer la divine Julie
+    N'est-ce pas aymer le Soleil?Â»
+
+
+27.--La _Fleur d'Orange_ est la seconde fleur de la _Guirlande_, qu'on
+attribue Ã  Corneille; Sercy la signe en toutes lettres Â«_Corneille_Â»
+dans son Recueil, et l'abbÃ© Granet l'insÃ©ra dans son Ã©dition des Åuvres
+diverses de ce poÃ«te.
+
+L'original, la copie de Maurepas et l'Ã©dition de 1729 signent de Â«_M.
+C._Â». Les textes Didot et Nodier, consÃ©quents dans leur erreur, signent:
+Â«_M. Conrart_Â».
+
+
+28.--Le manuscrit de Maurepas Ã©crit ainsi le pseudonyme du marquis de
+Pomponne: Â«_M. de Briotte_Â». L'Ã©dition Livet: Â«_M. Briote_Â». Nous
+adoptons l'orthographe du Recueil de Maurepas.
+
+
+29.--Ce madrigal, signÃ© avec constance Â«_Conrart_Â» dans les textes de
+Didot et Nodier, ne porte dans l'original et le Recueil de Sercy que les
+initiales _M. C._--Au sujet de cette fleur, on avait donnÃ© cette devise
+Ã  la reine Anne d'Autriche: _Une grenade_, avec ces mots: _Mon prix
+n'est pas dans ma couronne_.
+
+
+30.--Dans les poÃ©sies de Malleville (1649, p. 269), ce madrigal subit
+cette variante au second vers:
+
+    Â«_Et de voir votre nom sur la terre estimÃ©._Â»
+
+Le manuscrit de Conrart donne, page 1095, ce madrigal conforme Ã 
+l'original, et, page 1097, le mÃªme avec la variante de Malleville que
+nous venons de citer.
+
+
+31.--Mme de Genlis, dans sa _Botanique historique et littÃ©raire_ (Paris,
+1810, page 189), s'exprime ainsi sur ce madrigal:
+
+Â«Le Perce-Neige fut encore une fleur de la guirlande de Julie;
+_Benserade_ en fit les vers que voici:Â»
+
+Suit le madrigal avec cette curieuse variante qu'il nous procure pour
+les derniers vers:
+
+    Â«Mais celle de ton sein, _adorable Julie,
+    Me fait perdre aux yeux Ã©blouis
+    La gloire dÃ©sormais ternie
+    Que je ne cÃ©dois pas aux lys_.Â»
+
+Nous laissons Ã  Mme de Genlis la responsabilitÃ© de son affirmation, et
+nous ne chercherons pas comment _Benserade_ pourrait Ãªtre auteur d'un
+madrigal signÃ© Â«de BriotteÂ» dans l'original.
+
+
+32.--L'_Immortelle_ devient l'_Amarante_ au titre de ce madrigal, dans
+les poÃ©sies de ScudÃ©ry, Ã  la suite du _Vassal gÃ©nÃ©reux_ (Paris, CourbÃ©,
+1636). Nous devions signaler cette synonymie.
+
+
+33.--L'_Immortelle blanche_ est le troisiÃ¨me madrigal signÃ© Â«M. C.Â» pour
+lequel le Recueil de Sercy ait donnÃ©, avec sa puissante autoritÃ©, la
+signature de Â«_Corneille_Â». Avec la _Tulipe_ et la _Fleur d'Orange_, il
+fait partie des Åuvres diverses de notre grand poÃ«te, publiÃ©es par
+l'abbÃ© Granet.
+
+L'original, la copie manuscrite de Maurepas et l'Ã©dition de 1729 signent
+Â«M. C.Â»; _Conrart_ est la signature que donnent les Ã©ditions Didot et
+Nodier.
+
+
+34.--Ce madrigal, qui est le dernier du volume, occupe dans le manuscrit
+original le feuillet 95. (Les feuillets ne sont paginÃ©s qu'au recto.)
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+TABLE ALPHABÃTIQUE DES AUTEURS
+
+AVEC L'INDICATION
+
+DU PREMIER VERS DE LEURS MADRIGAUX
+
+
+                                                                   Pages
+
+    ANDILLY (M. d').
+
+    _Merveille de nos jours, dont les charmes vainqueurs_             27
+
+
+    ANDILLY (M. d') le filz.
+
+    _Sans beautÃ©, sans grandeur, sans Ã©clat et sans grace_            22
+    _Je suis et l'Amante et l'Image_                                  52
+
+
+    BRIOTTE (M. de).
+
+    _J'abandonne les bois dont les feuillages sombres_                61
+    _D'un pinceau lumineux l'Astre de la lumiere_                     63
+    _Sous un voile d'argent la terre ensevelie_                       67
+
+
+    CHAPELAIN (M.).
+
+    _Je suis ce Prince glorieux_                                       5
+
+
+    COLLETET (M.).
+
+    _Si vous n'aviez banny l'ardeur dÃ©mesurÃ©e_                        12
+    _Quoy que la Fable nous raconte_                                  13
+    _Quoique tu sois pourveu d'un Ã©clat nompareil_                    49
+    _Vous qui suivez l'Amour dont le feu vous Ã©gare_                  54
+
+
+    M. C. (?).
+
+    _Un divin oracle autresfois_                                      34
+    _Bel Astre Ã  qui je dois mon estre et ma beautÃ©_ [Corneille]      39
+    _D'un Ã©ternel bonheur ma disgrÃ¢ce est suivie_                     44
+    _Du palais d'Ã©meraude, oÃ¹ la riche Nature_ [Corneille]            56
+    _Dans l'Empire fameux de Flore et de Pomone_                      62
+    _Donnez-moi vos couleurs, Tulipes, AnÃ©mones_ [Corneille]          70
+
+
+    CORBEVILLE (Arnaud de).
+
+    _Je suis le plus brillant ouvrage_                                38
+
+
+    DES MARESTZ (M.).
+
+    _Franche d'ambition, je me cache sous l'herbe_                    25
+    _Belle, ces Lys que je vous donne_                                35
+
+
+    GODEAU (M.).
+
+    _Je fus un Berger autrefois_                                      36
+
+
+    GOMBAUD (M. de).
+
+    _Je suis la fleur d'Amour qu'Amarante on appelle_                 18
+
+
+    HABERT (M.), abbÃ© de CÃ©risy.
+
+    _Alors que je me voy si belle et si brillante_                     9
+    _Quand je voy vos beaux yeux si brillans et si doux_              17
+
+
+    HABERT (M.), commissaire de l'artillerie.
+
+    _Epris de l'Amour de moy-mÃªme_                                    16
+    _Faut-il donc que la Rose ait sur moi l'avantage_                 47
+    _Ne pouvant vous donner ni Sceptre ni Couronne_                   48
+
+
+    MALLEVILLE (M. de).
+
+    _Bien que de la Rose et du Lys_                                    7
+    _Devant ce teint d'un beau sang animÃ©_                            10
+    _Quand toutes les Fleurs prennent place_                          20
+    _De tant de Fleurs par qui la France_                             26
+    _ReÃ§ois les Lys que je te donne_                                  30
+    _Mortels, qu'on ne m'accuse pas_                                  51
+    _Lorsque pressÃ© de mon devoir_                                    55
+    _Je ne croy pas que ces Guirlandes_                               59
+    _Si quelque soin vous tient de vous rendre immortelle_            64
+
+
+    MARTIN (M.).
+
+    _Je puis mettre entre les louanges_                               32
+    _Que j'ay de gloire Ã  cette fois_                                 33
+
+
+    MONTAUSIER (M. le marquis de).
+
+    _Recevez, Ã´ Nymphe adorable_                                       3
+    _Assise en majestÃ© sur un Throsne d'Ã©pines_                       11
+    _Je consacre, Julie, un Narcisse Ã  ta gloire_                     14
+    _Je suis ce Narcisse fameux_                                      15
+    _Recevez mon service, adorable Julie_                             19
+    _Bien que dans l'Empire des Fleurs_                               21
+    _Cause de tant de feux, source de tant de pleurs_                 23
+    _Je m'offre Ã  vous, belle Julie_                                  24
+    _Le plus ardent de tous mes vÅux_                                 29
+    _Permettez-moy, belle Julie_                                      40
+    _Dans la Fable ni dans l'Histoire_                                41
+    _Depuis mon changement tout l'Univers remarque_                   43
+    _A ce coup les Destins ont exaucÃ© mes vÅux_                       45
+    _Si l'on vous donne un Lys, un OEillet, une Rose_                 46
+    _Je viens m'offrir Ã  vous pour parer vos cheveux_                 58
+    _Parmy toutes ces autres Fleurs_                                  60
+
+
+    MONTMOR-HABERT (M. de).
+
+    _Fille du bel Astre du jour_                                      65
+
+
+    M. le M. de R. (marquis de Rambouillet).
+
+    _Je n'ay plus de regret Ã  ces armes fameuses_                     42
+
+
+    RÃAUX-TALLEMANT (M. des).
+
+    _Devant vous je pers la victoire_                                 31
+
+
+    SCUDÃRY (M. de).
+
+    _Quelque diversitÃ© que le parterre Ã©tale_                          8
+    _Jadis les rigueurs du Soleil_                                    50
+    _Accordez-moi le privilÃ©ge_                                       68
+    _Foibles Fleurs Ã  qui le Destin_                                  69
+    _Je vay finir pour Julie_                                         71
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+TABLE
+
+DE LA GUIRLANDE DE JULIE
+
+PAR ORDRE ALPHABÃTIQUE DES FLEURS[117]
+
+  [117] Nous donnons cette table d'aprÃ¨s celle dressÃ©e par l'abbÃ©
+  Rive Ã  la suite de sa Notice sur la _Guirlande_.--Pour plus de
+  commoditÃ©, nous avons placÃ© en premier lieu la table par ordre
+  alphabÃ©tique des auteurs.
+
+
+                                                                   Pages
+
+    ADONIS (La Fleur d'), madrigal de M. de Malleville                64
+      _Si quelque soin vous tient de vous rendre immortelle._
+
+
+    AMARANTE (L'), madrigal de M. de Gombaud                          18
+      _Je suis la Fleur d'Amour qu'Amarante on appelle._
+
+
+    ANÃMONE (L'), madrigal de M. le marquis de Montausier             24
+      _Je m'offre Ã  vous, belle Julie._
+
+    ANGÃLIQUE (L'), premier madrigal de M. le marquis de Montausier   19
+      _Recevez mon service, adorable Julie._
+
+    Second madrigal de M. de Malleville                               20
+      _Quand toutes les Fleurs prennent place._
+
+
+    ÃLIOTROPE (L'), madrigal de M. le marquis de Montausier           45
+      _A ce coup les Destins ont exaucÃ© mes vÅux._
+
+
+    FLAMBE (La), premier madrigal de M. de Malleville                 59
+      _Je ne croy pas que ces Guirlandes._
+
+    Second madrigal de M. le marquis de Montausier                    60
+      _Parmi toutes ces autres Fleurs._
+
+
+    GRENADE (La Fleur de), premier madrigal de M. C. (?)              62
+      _Dans l'Empire fameux de Flore et de Pomone._
+
+    Second madrigal de M. de Briotte                                  63
+      _D'un pinceau lumineux, l'Astre de la lumiere._
+
+
+    HYACINTHE (L'), premier madrigal de M. le marquis
+    de R. (de Rambouillet)                                            42
+      _Je n'ai plus de regret Ã  ces armes fameuses._
+
+    Second madrigal de M. le marquis de Montausier                    43
+      _Depuis mon changement, tout l'Univers remarque._
+
+    TroisiÃ¨me madrigal de M. C. (?)                                   44
+      _D'un Ã©ternel bonheur ma disgrÃ¢ce est suivie._
+
+
+    IMMORTELLE (L'), madrigal par M. de ScudÃ©ry                       69
+      _Foibles Fleurs Ã  qui le Destin._
+
+
+    IMMORTELLE BLANCHE (L'), madrigal de M. C.
+    (Corneille)                                                       70
+      _Donnez-moy vos couleurs, Tulipes, AnÃ©mones._
+
+
+    IMPÃRIALE (La Couronne), premier madrigal de
+
+    M. Chapelain                                                       5
+      _Je suis ce Prince glorieux._
+
+    Second madrigal de M. de Malleville                                7
+      _Bien que de la Rose et du Lys._
+
+    TroisiÃ¨me madrigal de M. de ScudÃ©ry                                8
+      _Quelque diversitÃ© que le parterre Ã©tale._
+
+
+    JASMIN (Le), madrigal de M. le marquis de Montausier              23
+    _Cause de tant de feux, source de tant de pleurs._
+
+
+    JONQUILLE (La), madrigal de M. le marquis de Montausier           41
+      _Dans la Fable ni dans l'Histoire._
+
+
+    LYS (Les), premier madrigal de M. d'Andilly                       27
+      _Merveille de nos jours, dont les charmes vainqueurs._
+
+    Second madrigal de M. le marquis de Montausier                    29
+      _Le plus ardent de tous mes vÅux._
+
+    TroisiÃ¨me madrigal de M. de Malleville                            30
+      _ReÃ§ois les Lys que je te donne._
+
+    QuatriÃ¨me madrigal de M. des RÃ©aux-Tallemant                      31
+      _Devant vous je pers la victoire._
+
+    CinquiÃ¨me madrigal de M. Martin                                   32
+      _Je puis mettre entre les louanges._
+
+    SixiÃ¨me madrigal de M. Martin                                     33
+      _Que j'ay de gloire Ã  cette fois._
+
+    SeptiÃ¨me madrigal de M. C. (?)                                    34
+      _Un divin oracle autresfois._
+
+    HuitiÃ¨me madrigal de M. Desmarestz                                35
+      _Belle, ces Lys que je vous donne._
+
+
+    MÃLÃAGRE (La Fleur de), madrigal de M. de ScudÃ©ry                 71
+      _Je vay finir pour Julie._
+
+
+    MUGUET (Le), madrigal de M. de Briotte                            61
+      _J'abandonne les bois dont les feuillages sombres._
+
+
+    NARCISSE (Le), premier madrigal de M. le marquis
+    de Montausier                                                     14
+      _Je consacre, Julie, un Narcisse Ã  ta gloire._
+
+    Second madrigal du mÃªme                                           15
+      _Je suis ce Narcisse fameux._
+
+    TroisiÃ¨me madrigal de M. Habert, commissaire de l'artillerie      16
+      _Ãpris de l'Amour de moy-mÃªme._
+
+    QuatriÃ¨me madrigal de M. Habert, abbÃ© de CÃ©risy                   17
+      _Quand je voy vos beaux yeux si brillans et si doux._
+
+
+    OEILLET (L'), madrigal de M. le marquis de Montausier             21
+      _Bien que dans l'empire des Fleurs._
+
+
+    ORANGE (La Fleur d'), madrigal de M. C. (Corneille).              56
+      _Du palais d'Ã©meraude, oÃ¹ la riche Nature._
+
+
+    PAVOT (Le), madrigal de M. de ScudÃ©ry                             68
+      _Accordez-moi le privilÃ©ge._
+
+
+    PENSÃE (La), madrigal de M. Colletet                              54
+      _Vous qui suivez l'Amour, dont le feu vous Ã©gare._
+
+
+    PERCE-NEIGE (La), premier madrigal de M. de
+    Montmor Habert                                                    65
+      _Fille du bel Astre du jour._
+
+    Second madrigal de M. de Briotte                                  67
+      _Sous un voile d'argent la Terre ensevelie._
+
+
+    ROSE (La), premier madrigal de M. Habert, abbÃ© de
+    CÃ©risy                                                             9
+      _Alors que je me vois si belle et si brillante._
+
+    Second madrigal de M. de Malleville                               10
+      _Devant ce teint d'un beau sang animÃ©._
+
+    TroisiÃ¨me madrigal de M. le marquis de Montausier                 11
+      _Assise en majestÃ© sur un Throsne d'Ã©pines._
+
+    QuatriÃ¨me madrigal de M. Colletet                                 12
+      _Si vous n'aviez banny l'ardeur dÃ©mesurÃ©e._
+
+    CinquiÃ¨me madrigal du mÃªme                                        13
+      _Quoique la Fable nous raconte._
+
+
+    SAFFRAN (Le), madrigal de M. le marquis de Montausier             58
+      _Je viens m'offrir Ã  vous pour parer vos cheveux._
+
+
+    SOUCY (Le), premier madrigal de M. le marquis de
+    Montausier                                                        46
+      _Si l'on vous donne un Lys, un OEillet, une Rose._
+
+    Second madrigal de M. Habert, commissaire de
+    l'artillerie                                                      47
+      _Faut-il donc que la Rose ait sur moi l'avantage._
+
+    TroisiÃ¨me madrigal du mÃªme                                        48
+      _Ne pouvant vous donner ni Sceptre ni Couronne._
+
+    QuatriÃ¨me madrigal de M. Colletet                                 49
+      _Quoyque tu sois pourveu d'un Ã©clat nompareil._
+
+    CinquiÃ¨me madrigal de M. de ScudÃ©ry                               50
+      _Jadis les rigueurs du Soleil._
+
+    SixiÃ¨me madrigal de M. de Malleville                              51
+      _Mortels, qu'on ne m'accuse pas._
+
+    SeptiÃ¨me madrigal de M. d'Andilly le filz                         52
+      _Je suis et l'Amante et l'image._
+
+    Ces deux derniers madrigaux sont intitulÃ©s:
+      _Le Soucy sous le nom de Clytie_.
+
+
+    SOUCYS ET LES PENSÃES (Les), madrigal de M. de
+    Malleville                                                        55
+      _Lorsque pressÃ© de mon devoir._
+
+
+    THIN (La Fleur de), madrigal de M. d'Andilly le filz              22
+      _Sans beautÃ©, sans grandeur, sans Ã©clat et sans grace._
+
+
+    TULIPE (La), premier madrigal de M. Godeau                        36
+      _Je fus un Berger autrefois._
+
+    Second madrigal de M. Arnaud de Corbeville                        38
+      _Je suis le plus brillant ouvrage._
+
+    TroisiÃ¨me madrigal de M. C. (Corneille)                           39
+      _Bel Astre Ã  qui je dois mon estre et ma beautÃ©._
+
+
+    TULIPE (La), nommÃ©e _flamboyante_, madrigal de M. le
+    marquis de Montausier                                             40
+      _Permettez-moy, belle Julie._
+
+
+    VIOLETTE (La), premier madrigal de M. Desmarestz                  25
+      _Franche d'ambition, je me cache sous l'herbe._
+
+    Second madrigal de M. de Malleville                               26
+      _De tant de Fleurs par qui la France._
+
+
+    ZÃPHIRE A JULIE, madrigal de M. le marquis de
+    Montausier                                                         3
+      _Recevez, Ã´ Nymphe adorable._
+
+    Ce madrigal est sur le huitiÃ¨me des feuillets qui sont Ã  la
+    tÃªte de ce manuscrit.
+
+[Illustration]
+
+
+
+
+TABLE GÃNÃRALE
+
+
+    ÃPITRE DÃDICATOIRE.
+
+
+    NOTICE.
+
+
+    MADRIGAUX DE LA GUIRLANDE DE JULIE.
+
+
+    MADRIGAUX DESTINÃS Ã  _la Guirlande de Julie_:
+
+      1Âº _Avertissement_;
+
+      2Âº Madrigaux inÃ©dits du manuscrit de Conrart;
+
+      3Âº PiÃ¨ces conservÃ©es dans les poÃ©sies de Malleville;
+
+      4Âº Fleurs inÃ©dites de M. de ScudÃ©ry.
+
+
+    NOTES ET VARIANTES.
+
+
+    TABLE de _la Guirlande de Julie_, par ordre alphabÃ©tique des
+      Auteurs, avec l'indication du premier vers de leurs
+      Madrigaux.
+
+
+    TABLE par ordre alphabÃ©tique des Fleurs.
+
+[Illustration]
+
+
+
+
+_AchevÃ© d'imprimer_
+
+LE DIX DÃCEMBRE MIL HUIT CENT SOIXANTE-QUINZE
+
+Pour OCTAVE UZANNE
+
+PAR D. JOUAUST
+
+IMPRIMEUR BREVETÃ
+
+338, Rue Saint-HonorÃ©, 338
+
+A PARIS
+
+
+
+
+
+End of the Project Gutenberg EBook of La guirlande de Julie, by 
+Charles Montausier, Charles de Sainte-Ma
+
+*** END OF THE PROJECT GUTENBERG EBOOK 52629 ***

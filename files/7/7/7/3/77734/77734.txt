@@ -1,3 +1,4413 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efc9ef80b70fc042ee0ed4a4b9dcfa904633b98500f4cebda75263790a199dca
-size 182764
+*** START OF THE PROJECT GUTENBERG EBOOK 77734 ***
+
+
+
+
+
+  GUSTAVE LE BON
+
+  LES
+  INCERTITUDES
+  de lâHeure prÃ©sente
+
+  RÃFLEXIONS
+  sur la politique, les guerres, les alliances,
+  le droit, la morale,
+  les religions, les philosophies, etc.
+
+
+  PARIS
+  ERNEST FLAMMARION, ÃDITEUR
+  26, RUE RACINE
+
+  1923
+
+
+
+
+DU MÃME AUTEUR:
+
+
+Voyage au NÃ©pal (PubliÃ© par le _Tour du monde_.)
+
+LâÃvolution de la MatiÃ¨re. 1 vol. in-18 illustrÃ© de 63 figures
+photographiÃ©es au laboratoire de lâauteur, 37e mille.
+
+LâÃvolution des Forces. 1 vol. in-18 illustrÃ© de 40 figures, 24e mille.
+
+Les Monuments de lâInde. In-folio illustrÃ© de 400 planches, par
+lâauteur. (_ÃpuisÃ©._)
+
+Lois psychologiques de lâÃ©volution des peuples. 1 vol. in-18, 17e
+Ã©dition.
+
+Psychologie des foules. 1 vol. in-18, 24e Ã©dition.
+
+Psychologie du Socialisme. 1 vol. in-8Âº, 8e Ã©dition.
+
+Psychologie de lâÃducation. 1 vol. in-18, 21e mille.
+
+Psychologie politique. 1 vol. in-18, 18e mille.
+
+Les Opinions et les Croyances. 1 vol. in-18, 16e mille.
+
+La RÃ©volution franÃ§aise et la Psychologie des rÃ©volutions. 1 vol. in-18,
+15e mille.
+
+La Vie des VÃ©ritÃ©s. 1 vol. in-18, 10e mille.
+
+Enseignements Psychologiques de la guerre europÃ©enne. 1 vol. in-18, 36e
+mille.
+
+PremiÃ¨res consÃ©quences de la guerre. 1 vol. in-18, 29e mille.
+
+Hier et Demain. PensÃ©es brÃ¨ves. 1 vol. in-18, 10e mille.
+
+Psychologie des temps nouveaux. 1 vol. in-18, 10e mille.
+
+
+Il existe des traductions en allemand, anglais, italien, russe,
+polonais, espagnol, portugais, suÃ©dois, danois, tchÃ¨que, arabe, turc,
+hindoustani, japonais, etc. de plusieurs des prÃ©cÃ©dents ouvrages.
+
+
+
+
+Droits de traduction et de reproduction rÃ©servÃ©s pour tous les pays.
+
+Copyright 1923,
+
+by ERNEST FLAMMARION.
+
+
+
+
+    A
+    MON AMI
+    ARISTIDE BRIAND
+    ANCIEN PRÃSIDENT DU CONSEIL DES MINISTRES
+
+    En souvenir
+    de nos longues causeries philosophiques
+    durant
+    les pesantes annÃ©es de guerre
+    et les heures incertaines qui la suivent.
+
+    Gustave Le Bon.
+
+
+
+
+PRÃFACE
+
+
+LâÃ©volution scientifique moderne a fait naÃ®tre des nÃ©cessitÃ©s
+Ã©conomiques nettement contraires aux impulsions affectives et mystiques
+qui, depuis les dÃ©buts de lâhistoire, dirigent les actions des hommes.
+
+Cette opposition, accentuÃ©e chaque jour, est une des causes profondes du
+dÃ©sÃ©quilibre actuel. Notre Ã©poque oscille entre les influences
+hÃ©rÃ©ditaires qui orientaient jadis le monde et les nÃ©cessitÃ©s issues des
+dÃ©couvertes scientifiques nouvelles.
+
+Comment concilier les ambitions, les rivalitÃ©s et les haines poussant
+les races Ã  de furieuses luttes, avec lâengrenage Ã©conomique qui les lie
+dâune si Ã©troite interdÃ©pendance que le dommage subi par lâune dâelles
+atteint bientÃ´t toutes les autres?
+
+Si cette interdÃ©pendance nâa pas rÃ©ussi Ã  faire de la solidaritÃ© une des
+lois du monde moderne, câest que les passions et les sentiments,
+gÃ©nÃ©rateurs habituels de la conduite, sont lâhÃ©ritage dâun long passÃ©,
+alors que les nÃ©cessitÃ©s Ã©conomiques nouvelles, datant dâhier, pÃ¨sent
+peu encore dans la balance des motifs qui font agir les hommes.
+
+                   *       *       *       *       *
+
+La domination des forces rationnelles par les forces affectives et
+mystiques doit Ãªtre toujours prÃ©sente Ã  lâesprit quand on veut
+comprendre la genÃ¨se des grands Ã©vÃ©nements qui perturbent la vie des
+peuples.
+
+Croire ces Ã©vÃ©nements dÃ©terminÃ©s par la pure logique rationnelle conduit
+Ã  de redoutables illusions.
+
+Ils en furent victimes, les pacifistes qui, Ã  la veille de la guerre,
+soutenaient, avec un Ã©minent professeur de la Sorbonne, quâun conflit
+entre la France et lâAllemagne Ã©tant rationnellement impossible, une
+coÃ»teuse prÃ©paration militaire devenait inutile.
+
+Les faits leur prouvÃ¨rent bientÃ´t que la logique savante des professeurs
+ne rÃ©git pas encore lâHistoire. Les logiques affective et mystique qui
+lâorientent obÃ©issent Ã  de tout autres lois. Nous aurons plus dâune fois
+Ã  en marquer la nature dans cet ouvrage.
+
+                   *       *       *       *       *
+
+Les rÃ©flexions provoquÃ©es par les agitations de lâheure prÃ©sente varient
+naturellement suivant les habitudes mentales de lâobservateur. Les
+points de vue du savant ne sauraient Ãªtre ceux du croyant dont la foi
+limite lâhorizon, ni ceux de lâhomme dâÃtat absorbÃ© par les nÃ©cessitÃ©s
+journaliÃ¨res, moins encore ceux des adeptes dâun parti politique,
+uniquement prÃ©occupÃ©s des intÃ©rÃªts de ce parti.
+
+SâÃ©lever au-dessus de ces barriÃ¨res est nÃ©cessaire pour percevoir les
+origines et les consÃ©quences des problÃ¨mes qui troublent si profondÃ©ment
+aujourdâhui lâÃ¢me des nations.
+
+                   *       *       *       *       *
+
+Dans lâÃ©tat prÃ©sent de nos connaissances, et aprÃ¨s les bouleversements
+qui ont Ã©branlÃ© lâantique armature sociale, quelles idÃ©es peut-on se
+faire du droit, de la morale, des institutions, des croyances
+religieuses, politiques et sociales qui ont guidÃ© la marche des
+civilisations et la guident encore?
+
+Une rÃ©ponse suffisante Ã  de telles questions exigerait des volumes. Mais
+les phÃ©nomÃ¨nes sociaux, de mÃªme dâailleurs que les phÃ©nomÃ¨nes physiques,
+sont dominÃ©s, malgrÃ© leur complexitÃ©, par quelques principes
+fondamentaux dont les cas particuliers dÃ©coulent et quâil est possible
+de formuler briÃ¨vement. Ces principes, vÃ©ritable substratum des choses,
+sont plus suggestifs, souvent, que de longues explications.
+
+Câest pourquoi je me suis dÃ©cidÃ© une fois encore Ã  condenser en pensÃ©es
+brÃ¨ves les observations dÃ©rivÃ©es des grands Ã©vÃ©nements qui troublent
+notre Ã©poque.
+
+Les vues dâun philosophe ayant beaucoup explorÃ© le monde et recherchÃ©
+aussi des vÃ©ritÃ©s nouvelles dans le silence des laboratoires,
+prÃ©senteront peut-Ãªtre quelque intÃ©rÃªt.
+
+DÃ©gagÃ©es des passions trompeuses et des rÃ©criminations stÃ©riles, elles
+pourront contribuer Ã  dissiper les brumes qui obscurcissent le prÃ©sent
+et rendent si incertain lâavenir.
+
+
+
+
+CHAPITRE PREMIER
+
+LA VIE POLITIQUE
+
+
+I
+
+PERTURBATIONS POLITIQUES ET MORALES CRÃÃES PAR LA GUERRE
+
+LâinstabilitÃ© universelle est une des plus visibles consÃ©quences de la
+guerre: instabilitÃ© des institutions, instabilitÃ© des alliances,
+instabilitÃ© des pensÃ©es.
+
+                   *       *       *       *       *
+
+Ce nâest pas seulement lâEurope matÃ©rielle, mais lâEurope morale, quâil
+faudrait pouvoir reconstruire. Cependant, les ambitions, les haines et
+les besoins grandissent, alors que le goÃ»t du travail, la discipline et
+le sentiment du devoir ne cessent de faiblir.
+
+                   *       *       *       *       *
+
+Toutes les anciennes armatures sociales ayant Ã©tÃ© Ã©branlÃ©es par la
+conflagration universelle, les peuples cherchent Ã  tÃ¢tons des
+institutions nouvelles. Sâils reviennent invariablement aux anciennes,
+câest probablement quâil nâen existe pas dâautres.
+
+                   *       *       *       *       *
+
+Les Ã©quilibres dâÃtats formÃ©s avant la guerre Ã©taient stables parce
+quâils avaient mis des siÃ¨cles Ã  se former. Les Ã©quilibres artificiels
+crÃ©Ã©s depuis la paix sont instables parce quâils dÃ©rivent de principes
+thÃ©oriques, Ã©trangers aux rÃ©alitÃ©s.
+
+                   *       *       *       *       *
+
+LâEurope marche visiblement vers de nouveaux groupements politiques qui
+ne seront ni ceux antÃ©rieurs Ã  la guerre, ni ceux fondÃ©s par elle.
+LâItalie sâoriente vers lâAngleterre, lâAllemagne vers lâAngleterre et
+la Russie, la France vers la Turquie, la Pologne et les Ãtats
+balkaniques. Des luttes nombreuses deviendront nÃ©cessaires pour
+stabiliser ces nouveaux Ã©quilibres.
+
+                   *       *       *       *       *
+
+La ruine des classes intellectuelles moyennes et leur retour forcÃ© Ã  un
+demi-prolÃ©tariat coÃ¯ncidant avec lâaisance des anciens prolÃ©taires est
+une des plus dangereuses consÃ©quences de la guerre.
+
+                   *       *       *       *       *
+
+Le nombre des soldats victimes de la grande guerre est connu. Celui des
+idÃ©es et des croyances dÃ©truites par elle reste encore ignorÃ©.
+
+                   *       *       *       *       *
+
+Parmi les causes profondes du dÃ©sÃ©quilibre social actuel, figure la
+perte partielle des habitudes mentales qui orientaient jadis la conduite
+et dispensaient dâavoir trop Ã  rÃ©flÃ©chir avant dâagir.
+
+                   *       *       *       *       *
+
+Quand les idÃ©es qui soutiennent une sociÃ©tÃ© sâÃ©croulent, cette sociÃ©tÃ©
+tombe dans lâanarchie jusquâau jour oÃ¹ elle retrouve dâautres principes
+directeurs assez puissants pour lui constituer une nouvelle armature.
+Tout changement dâidÃ©al impliquant de profonds bouleversements, le
+passage dâun idÃ©al Ã  un autre est toujours fort long.
+
+
+II
+
+LES DIFFICULTÃS MODERNES DES GOUVERNEMENTS
+
+La vÃ©ritÃ©, pour la grande majoritÃ© des hommes, Ã©tant ce quâils croient,
+câest surtout avec leurs croyances quâon doit gouverner les peuples.
+
+                   *       *       *       *       *
+
+Parmi les connaissances psychologiques les plus nÃ©cessaires aux
+gouvernants figure lâart de pÃ©nÃ©trer la mentalitÃ© dâhommes dont les
+idÃ©es diffÃ¨rent des leurs et de raisonner avec ces idÃ©es.
+
+                   *       *       *       *       *
+
+Une des graves difficultÃ©s de la politique est lâobligation de gouverner
+avec des idÃ©es tenues pour vraies par les multitudes alors que ces idÃ©es
+sont erronÃ©es.
+
+                   *       *       *       *       *
+
+Jadis, les hommes dâÃtat gouvernaient en sâappuyant sur des coutumes et
+des traditions trÃ¨s fixes. ObligÃ©s aujourdâhui de suivre des convictions
+populaires mobiles, ils doivent se borner Ã  suggÃ©rer des opinions
+acceptables et essayer de modifier celles qui ne le sont pas.
+
+                   *       *       *       *       *
+
+Un pays peut changer de gouvernement mais ses traditions politiques ne
+changent guÃ¨re. La Convention a continuÃ© sur bien des points la
+politique de Louis XIV. Les bolchevistes eux-mÃªmes poursuivent en Orient
+celle des tsars.
+
+                   *       *       *       *       *
+
+Les gouvernants doivent savoir discerner les sentiments qui font mouvoir
+les hommes, sans se prÃ©occuper beaucoup des influences rationnelles qui
+devraient les faire agir.
+
+                   *       *       *       *       *
+
+Quel que soit le mode de gouvernement, il aboutit toujours Ã  une
+oligarchie: permanente dans le rÃ©gime monarchique, Ã©phÃ©mÃ¨re dans le
+rÃ©gime dÃ©mocratique.
+
+                   *       *       *       *       *
+
+Les gouvernants doivent savoir ce quâils veulent et ce quâils peuvent,
+mais aussi ce que veulent et peuvent leurs adversaires.
+
+                   *       *       *       *       *
+
+Bien connaÃ®tre les bornes de son pouvoir est nÃ©cessaire afin de ne
+jamais sâapprocher des limites oÃ¹ se manifesterait lâimpuissance.
+
+                   *       *       *       *       *
+
+Le dÃ©clanchement des Ã©vÃ©nements appartient souvent aux hommes dâÃtat,
+mais devant leur dÃ©roulement ils restent impuissants. LâAllemagne
+pouvait dÃ©cider ou ne pas dÃ©cider la guerre sous-marine Ã  outrance: une
+fois commencÃ©e, elle entraÃ®nait fatalement lâintervention de lâAmÃ©rique.
+Le premier ministre anglais conseillant aux Polonais de traiter avec
+lâarmÃ©e bolcheviste qui cernait leur capitale, prÃ©parait lâinvasion de
+lâEurope, sâil eÃ»t Ã©tÃ© Ã©coutÃ©.
+
+                   *       *       *       *       *
+
+Dans les pays composÃ©s de peuples diffÃ©rant par la religion, la race et
+la langue, un rÃ©gime despotique est seul capable dâempÃªcher de
+sanguinaires luttes intestines. Jamais les Balkaniques ne se sont autant
+massacrÃ©s que depuis leur affranchissement de la domination turque. Elle
+seule avait rÃ©ussi Ã  maintenir la paix parmi eux pendant cinq cents ans.
+
+                   *       *       *       *       *
+
+Reculer devant un danger a pour rÃ©sultat certain de le grandir.
+
+                   *       *       *       *       *
+
+Ne pas rÃ©sister, en politique, Ã  une force antagoniste naissante est se
+condamner Ã  la voir devenir irrÃ©sistible. Les Girondins de tous les Ã¢ges
+en ont fait lâexpÃ©rience. Cette Ã©ternelle loi conduisit la rÃ©volution
+russe, dâabord pacifique, Ã  sombrer dans une sanglante dictature.
+
+                   *       *       *       *       *
+
+Les apÃ´tres ne se combattant quâavec des apÃ´tres, on ne triomphe des
+meneurs quâen leur opposant dâautres meneurs.
+
+                   *       *       *       *       *
+
+Un ministre ne saurait Ãªtre le mÃªme homme au pouvoir et hors du pouvoir.
+Au pouvoir, il sâoccupe nÃ©cessairement des intÃ©rÃªts gÃ©nÃ©raux. Hors du
+pouvoir, il perÃ§oit seulement ses intÃ©rÃªts personnels, dont le plus
+essentiel est de remonter au pouvoir.
+
+                   *       *       *       *       *
+
+Entre hommes politiques de partis diffÃ©rents lâamitiÃ© est possible.
+Entre hommes dâun mÃªme parti la jalousie est gÃ©nÃ©ralement trop intense
+pour permettre lâamitiÃ©.
+
+                   *       *       *       *       *
+
+Si la carriÃ¨re diplomatique exigeait un examen prouvant la connaissance
+du caractÃ¨re des divers peuples, de leurs rÃ©actions possibles suivant
+les circonstances et des moyens dâinfluencer efficacement leur conduite,
+on ne trouverait sans doute pas dix hommes en Europe capables de bien
+passer cet examen.
+
+                   *       *       *       *       *
+
+Une science approfondie des choses paralyse souvent lâaction. Des hommes
+dâÃtat possÃ©dant un esprit assez vaste pour percevoir toutes les
+consÃ©quences possibles de leurs dÃ©cisions agiraient fort peu.
+
+                   *       *       *       *       *
+
+Lâhomme dâÃtat capable de prÃ©voir toutes les rÃ©percussions de ses actes
+serait comparable au joueur dâÃ©checs lisant sur lâÃ©chiquier de son
+adversaire les possibilitÃ©s invisibles rÃ©sultant du dÃ©placement des
+piÃ¨ces visibles.
+
+                   *       *       *       *       *
+
+La vie politique et sociale nâÃ©tant possible quâau moyen de transactions
+et de compromis, lâintransigeance constitue la plus dangereuse des
+doctrines.
+
+                   *       *       *       *       *
+
+Un gouvernement quelconque est toujours entourÃ© de forces hostiles.
+LâhabiletÃ© consiste Ã  les orienter pour nâavoir pas Ã  les combattre.
+
+                   *       *       *       *       *
+
+En politique, il est Ã  peu prÃ¨s impossible de juger avec Ã©quitÃ© les
+opinions dâun adversaire.
+
+                   *       *       *       *       *
+
+Les hommes dâÃtat font bien dâutiliser la logique rationnelle dans leurs
+discours, mais ils ne doivent jamais oublier que les peuples sont
+souvent conduits par des passions, des croyances, des intÃ©rÃªts fort
+Ã©trangers Ã  la logique des livres.
+
+                   *       *       *       *       *
+
+Pour quâune menace politique conserve son prestige, il faut reculer le
+plus possible sa rÃ©alisation.
+
+                   *       *       *       *       *
+
+Le temps aide les gouvernements forts, mais rarement les gouvernements
+faibles.
+
+                   *       *       *       *       *
+
+Les maÃ®tres des peuples nâont pas seulement Ã  rÃ©gir les vivants. Il leur
+faut tenir compte aussi de lâimpÃ©rieuse volontÃ© des morts.
+
+
+III
+
+LES CROYANCES POLITIQUES
+
+Croyances religieuses et croyances politiques ont des fondements
+psychologiques identiques. Elles naissent et se propagent de la mÃªme
+faÃ§on.
+
+                   *       *       *       *       *
+
+La propagation de certaines croyances politiques, telles que le
+communisme, est incomprÃ©hensible quand on ignore le mystique besoin de
+croyance qui domine la vie des peuples.
+
+                   *       *       *       *       *
+
+Les vÃ©ritÃ©s scientifiques sont des vÃ©ritÃ©s universelles. Les croyances
+politiques, tenues pour des vÃ©ritÃ©s, reprÃ©sentent habituellement des
+convictions transitoires, issues de passions et de sentiments que la
+raison ne gouverne pas.
+
+                   *       *       *       *       *
+
+Alors mÃªme que les religions semblent ne plus agir sur les Ã¢mes, leur
+puissance se maintient dans lâinconscient et reste mobile dâaction. La
+haine contre la Turquie, si Ã©nergiquement manifestÃ©e par les Anglais et
+les AmÃ©ricains, reprÃ©sente une survivance ancestrale de la lutte
+sÃ©culaire entre la Croix et le Croissant.
+
+                   *       *       *       *       *
+
+Une croyance politique nâest, souvent, quâun acte de foi dÃ©pourvu de
+support rationnel. Elle a pour origine le mÃ©contentement chez les
+illettrÃ©s, lâenvie et lâambition chez les hommes instruits.
+
+                   *       *       *       *       *
+
+Si destructive que soit une croyance politique, elle trouve toujours
+pour la dÃ©fendre des intellectuels dont les ambitions dÃ©passaient les
+capacitÃ©s.
+
+                   *       *       *       *       *
+
+Certaines croyances politiques attirent une foule de rhÃ©teurs totalement
+indiffÃ©rents Ã  ces croyances, mais espÃ©rant les utiliser au profit de
+leurs convoitises. Catilina vivant aujourdâhui se dÃ©clarerait
+syndicaliste ou bolchÃ©viste.
+
+                   *       *       *       *       *
+
+Une croyance rationnellement fausse, mais capable de solidariser les
+hommes, est politiquement supÃ©rieure Ã  une doctrine rationnellement
+exacte, mais impuissante Ã  crÃ©er lâunitÃ© de pensÃ©e sans laquelle les
+peuples ne peuvent prospÃ©rer. Câest Ã  la lumiÃ¨re de ce principe que
+lâhistoire des croyances politiques et religieuses doit se juger.
+
+                   *       *       *       *       *
+
+On se reprÃ©sente difficilement lâexistence dâun peuple gouvernÃ© par des
+rÃ©alitÃ©s au lieu de lâÃªtre par des illusions religieuses, politiques ou
+sociales. Lâhistoire nâen cite pas dâexemple.
+
+                   *       *       *       *       *
+
+Dans les cycles de lâaffectif et du mystique, oÃ¹ sâÃ©laborent les
+croyances politiques et sociales, lâintelligence pÃ©nÃ©trant fort peu, les
+convictions des illettrÃ©s et des savants nâont pas une valeur bien
+diffÃ©rente.
+
+                   *       *       *       *       *
+
+Lâexemple du dictateur bolcheviste envoyant du Kremlin ses ordres aux
+rÃ©volutionnaires respectueusement rÃ©unis en congrÃ¨s Ã  Tours pour les
+recueillir, contribue Ã  montrer combien le besoin de soumission Ã  des
+dogmes reste intense mÃªme chez des rÃ©voltÃ©s sâimaginant libÃ©rÃ©s de toute
+croyance.
+
+                   *       *       *       *       *
+
+DÃ¨s quâelles atteignent un certain degrÃ©, les croyances mystiques,
+religieuses ou politiques, deviennent fatalement destructives.
+
+                   *       *       *       *       *
+
+En art comme en politique, le prestige est un grand rÃ©gulateur des
+valeurs. Lorsque le Louvre achetait 700.000 francs un tableau qui lui
+avait Ã©tÃ© offert pour 20.000 quelques annÃ©es auparavant, il payait
+simplement le prestige acquis par le nom de lâauteur. La valeur
+numÃ©rique de ce prestige Ã©tait exactement reprÃ©sentÃ©e par la diffÃ©rence
+entre les deux sommes. Le prestige des formules politiques subit souvent
+des variations du mÃªme ordre.
+
+                   *       *       *       *       *
+
+Les progrÃ¨s du bolchevisme contribuent Ã  prouver quâune doctrine chargÃ©e
+dâespÃ©rances sâimpose plus facilement que les vÃ©ritÃ©s rationnelles les
+mieux dÃ©montrÃ©es.
+
+                   *       *       *       *       *
+
+RÃ©publicains et socialistes constituent, malgrÃ© leur collaboration
+Ã©phÃ©mÃ¨re, deux partis politiques opposÃ©s. Les premiers reprÃ©sentent la
+dÃ©mocratie, les seconds la dictature.
+
+                   *       *       *       *       *
+
+Une des forces du convaincu est de ne pas discuter la valeur rationnelle
+de sa croyance.
+
+                   *       *       *       *       *
+
+En politique et en religion, le rÃªve des convaincus fut toujours de
+pouvoir massacrer sans pitiÃ© les hommes qui ne pensent pas comme eux.
+
+                   *       *       *       *       *
+
+Une excellente dÃ©finition du radicalisme est celle quâen donna jadis le
+prÃ©sident Wilson. Â«Ce terme signifie, disait-il: simplisme, violence et
+envie.Â»
+
+                   *       *       *       *       *
+
+Le radicalisme durera longtemps sans doute, parce que la nature humaine
+suppose volontiers que des mesures simples et violentes peuvent remÃ©dier
+instantanÃ©ment Ã  des maux rÃ©sultant, en rÃ©alitÃ©, dâun ensemble de causes
+lointaines et profondes.
+
+                   *       *       *       *       *
+
+Lorsque les raisons psychologiques des Ã©vÃ©nements et leur complication
+seront mieux comprises, bien peu dâhommes instruits consentiront Ã  se
+dire radicaux.
+
+                   *       *       *       *       *
+
+En politique, une vÃ©ritÃ© indiscutÃ©e nâest souvent quâune erreur
+suffisamment rÃ©pÃ©tÃ©e.
+
+
+IV
+
+LES FORMULES POLITIQUES
+
+Dans les sciences, la valeur dâune idÃ©e demeure indÃ©pendante des
+formules qui la traduisent. En politique ce sont uniquement les formules
+qui agissent sur les multitudes.
+
+                   *       *       *       *       *
+
+Dans les assemblÃ©es politiques, le prestige du verbe domine gÃ©nÃ©ralement
+la compÃ©tence.
+
+                   *       *       *       *       *
+
+Une idÃ©e nâacquiert dâinfluence quâaprÃ¨s Ãªtre devenue collective. Elle
+sâextÃ©riorise alors en formules, et peut devenir assez forte pour
+orienter la vie dâun peuple.
+
+                   *       *       *       *       *
+
+Une formule bien choisie est capable de bouleverser le monde. Simple,
+brÃ¨ve et violente, elle impressionne beaucoup plus que tous les
+raisonnements. Avec la formule Â«Dieu le veutÂ» lâEurope fut lancÃ©e sur
+lâOrient Ã  lâÃ©poque des croisades. La formule Â«dictature du prolÃ©tariatÂ»
+ruina la Russie. La formule Â«lâAllemagne paieraÂ» a crÃ©Ã© des gaspillages
+financiers dont le poids nous Ã©crase.
+
+                   *       *       *       *       *
+
+Les rÃ©formateurs nâinfluencent les Ã¢mes quâÃ  la condition dâavoir pour
+soutiens des formules mystiques chargÃ©es dâespÃ©rances.
+
+                   *       *       *       *       *
+
+La puissance des formules politiques populaires disparaÃ®t gÃ©nÃ©ralement
+avec leur rÃ©alisation. AprÃ¨s avoir fait plusieurs rÃ©volutions afin
+dâobtenir le suffrage universel, les rÃ©volutionnaires de divers pays
+fascistes en Italie, sinn-feiners en Irlande, communistes en Russie,
+syndicalistes en France, etc., le rejettent de plus en plus pour lui
+substituer des formes diverses de dictature.
+
+                   *       *       *       *       *
+
+Constituer un parti politique revient gÃ©nÃ©ralement Ã  revÃªtir de noms
+nouveaux des choses fort anciennes.
+
+                   *       *       *       *       *
+
+Les rÃ©alitÃ©s cachÃ©es sous les formules nâont souvent aucun rapport avec
+ces formules. Lorsque, par exemple, un gouvernement rÃ©clame la libertÃ©
+des dÃ©troits conduisant Ã  Constantinople, cela signifie simplement quâil
+voudrait devenir maÃ®tre de ces dÃ©troits pour empÃªcher, au besoin, ses
+rivaux dây pÃ©nÃ©trer.
+
+                   *       *       *       *       *
+
+Sur mille hommes rÃ©pÃ©tant avec enthousiasme une formule politique pour
+laquelle ils sont prÃªts Ã  sacrifier leur vie, on nâen trouverait souvent
+aucun capable de dÃ©finir exactement le sens de cette formule.
+
+
+V
+
+LES ERREURS DE PSYCHOLOGIE EN POLITIQUE
+
+Le chaos oÃ¹ sâenlise lâEurope dÃ©rive tout autant dâune succession
+dâerreurs psychologiques que des perturbations Ã©conomiques crÃ©Ã©es par la
+guerre.
+
+                   *       *       *       *       *
+
+La logique qui mÃ¨ne le monde Ã©tant sans rapport avec la logique
+livresque, il serait dangereux pour un pays dâavoir Ã  sa tÃªte trop
+dâhommes uniquement formÃ©s par les livres.
+
+                   *       *       *       *       *
+
+Dans les temps modernes, les erreurs politiques sont chargÃ©es de
+consÃ©quences formidables. Les Anglais ont perdu lâÃgypte, la
+MÃ©sopotamie, la Perse et voient leur puissance menacÃ©e dans lâInde pour
+avoir voulu rayer de lâEurope la Turquie, considÃ©rÃ©e par tous les
+musulmans comme le centre de leur foi.
+
+                   *       *       *       *       *
+
+Ne pas tenir compte dâÃ©vÃ©nements possibles, mais improbables, est
+toujours imprudent. Lâintervention de lâAmÃ©rique, la trahison de la
+Russie, la dÃ©faite de lâAllemagne aprÃ¨s de nombreuses victoires et bien
+dâautres Ã©vÃ©nements de la derniÃ¨re guerre montrent, une fois de plus, le
+rÃ´le de lâimprobable en histoire.
+
+                   *       *       *       *       *
+
+Dans un parlement ou une assemblÃ©e dÃ©libÃ©rante quelconque, le parti qui
+gouverne en rÃ©alitÃ© nâest pas le plus nombreux, mais le plus violent.
+Notre Parlement resta pendant vingt ans dominÃ© par une minoritÃ©
+socialiste.
+
+                   *       *       *       *       *
+
+MalgrÃ© les illusions socialistes, le travail collectif exige des
+capacitÃ©s dâautant plus hautes quâil est plus collectif. Câest pourquoi
+notre Ã©poque a besoin de beaucoup plus de chefs quâelle nâen trouve. Le
+cÃ©lÃ¨bre industriel allemand, Hugo Stinnes, disait Ã  ce sujet: Â«Si cette
+dÃ©cadence de lâindividualitÃ© continue, aucun progrÃ¨s nâest plus
+possible.Â»
+
+                   *       *       *       *       *
+
+Pour Ã´ter aux socialistes leurs illusions sur les avantages de
+lâadministration Ã©tatiste, il leur suffirait de remarquer que dans
+certaines entreprises gÃ©rÃ©es par lâÃtat, telles que les postes, les
+frais du personnel reprÃ©sentent 78 % des dÃ©penses totales de
+lâexploitation. Aucune industrie, aucun commerce ne pourrait vivre dans
+des conditions semblables.
+
+                   *       *       *       *       *
+
+Aux Ã©poques agitÃ©es, les grands problÃ¨mes qui surgissent chaque jour ne
+comportent guÃ¨re de solutions simples et immÃ©diates. Suivre alors
+lâopinion simpliste des foules conduit vite Ã  des catastrophes.
+
+                   *       *       *       *       *
+
+Les impulsifs sont toujours dangereux, car les rÃ©alitÃ©s Ã©chappent Ã 
+lâhomme qui agit sans rÃ©flÃ©chir. Les Ãªtres capables de rÃ©flexion, mais
+dÃ©pourvus de volontÃ©, sont aussi nuisibles parce que leur irrÃ©solution
+les paralyse devant les Ã©vÃ©nements exigeant une dÃ©cision immÃ©diate.
+
+                   *       *       *       *       *
+
+En politique, les consÃ©quences dâun acte ont parfois plus dâimportance
+que cet acte lui-mÃªme.
+
+                   *       *       *       *       *
+
+Bien des catastrophes seront Ã©vitÃ©es le jour, probablement lointain, oÃ¹
+les gouvernants possÃ©deront un thermomÃ¨tre psychologique capable de leur
+apprendre quand il faut rÃ©sister et quand il faut cÃ©der. Charles Ier
+perdit sa tÃªte pour avoir trop rÃ©sistÃ©; Louis XVI pour avoir trop cÃ©dÃ©.
+
+                   *       *       *       *       *
+
+Une pÃ©nÃ©tration psychologique supÃ©rieure peut seule prÃ©voir les
+rÃ©actions de lâÃ¢me des peuples sous des influences diverses. Les
+Allemands nâauraient pas irritÃ© lâAmÃ©rique et perdu la guerre, si leurs
+chefs avaient possÃ©dÃ© une telle pÃ©nÃ©tration.
+
+                   *       *       *       *       *
+
+Une des plus frÃ©quentes sources dâerreurs politiques est dâattribuer Ã 
+des causes uniques des Ã©vÃ©nements issus de causes nombreuses et
+compliquÃ©es.
+
+                   *       *       *       *       *
+
+Câest la sÃ©rie dâerreurs psychologiques commises par les AlliÃ©s qui
+permit Ã  lâAllemagne dâobtenir ces deux grands rÃ©sultats: dissocier
+lâEntente et rendre impossible par la dÃ©prÃ©ciation de sa monnaie le
+paiement de lâindemnitÃ© due aux vainqueurs.
+
+                   *       *       *       *       *
+
+La vÃ©ritable force de lâAutriche rÃ©sidait dans les aspirations
+contraires des races diffÃ©rentes qui la composaient. Ce grand empire
+Ã©tait fondÃ© sur un Ã©quilibre de haines.
+
+                   *       *       *       *       *
+
+Quelle que soit lâintelligence dâun homme dâÃtat, en arrivant au pouvoir
+il cherche Ã  suivre lâopinion mobile des foules pour se rendre
+populaire. Câest ainsi que, souvent, il perd le pouvoir.
+
+                   *       *       *       *       *
+
+La crainte des Ã©lecteurs, la peur des responsabilitÃ©s, la prÃ©occupation
+exclusive de lâheure prÃ©sente, constituent pour un homme politique
+moderne trois sources dâerreur auxquelles il lui est difficile
+dâÃ©chapper.
+
+                   *       *       *       *       *
+
+Les interventions Ã©tatistes troublant le jeu des lois naturelles sont
+chargÃ©es dâincidences invisibles qui perturbent profondÃ©ment la vie dâun
+pays. La taxe sur le blÃ© pendant la guerre en constitue un exemple
+frappant. Les paysans dÃ©laissÃ¨rent aussitÃ´t sa culture et le
+gouvernement dut se procurer Ã  grands frais, au dehors, le blÃ©
+nÃ©cessaire, puis abolir la taxe.
+
+                   *       *       *       *       *
+
+Un gouvernement faible a pour terminaison nÃ©cessaire un gouvernement
+anarchique, auquel succÃ¨de bientÃ´t un gouvernement despotique.
+
+                   *       *       *       *       *
+
+LâimpartialitÃ© en politique est impossible parce que lâhomme impartial
+aurait immÃ©diatement contre lui tous les partis, y compris celui auquel
+il appartient.
+
+                   *       *       *       *       *
+
+Dans le rÃ©gime dÃ©mocratique, les chefs sont souvent plus disposÃ©s Ã 
+obÃ©ir quâÃ  commander. Ils finissent ainsi par perdre tout prestige.
+
+                   *       *       *       *       *
+
+Suivre toujours lâopinion mobile des multitudes, câest se rÃ©signer Ã  ne
+rien prÃ©voir, rien empÃªcher, rien pouvoir.
+
+                   *       *       *       *       *
+
+En politique comme en agriculture, on rÃ©colte ce quâon a semÃ©. Les
+Anglais, reprochant Ã  la France dâavoir favorisÃ© la Turquie, oubliaient
+les ennuis que pendant quatre ans ils nous suscitÃ¨rent un peu partout.
+
+                   *       *       *       *       *
+
+Les erreurs politiques peuvent engendrer par contagion mentale des
+Ã©pidÃ©mies dÃ©vastatrices. La contagion bolcheviste a fait pÃ©rir plus
+dâhommes que bien des batailles et ramenÃ© la Russie aux pÃ©riodes
+sauvages de la prÃ©histoire.
+
+                   *       *       *       *       *
+
+Lâhomme dâÃtat qui ne sait pas orienter les Ã©vÃ©nements est bientÃ´t
+submergÃ© par eux.
+
+                   *       *       *       *       *
+
+Bien que la politique soit certainement lâart dont la pratique exigerait
+le plus de jugement, câest celui oÃ¹ il sâen dÃ©pense le moins.
+
+                   *       *       *       *       *
+
+Lâarsenal psychologique contient des armes qui, bien maniÃ©es, peuvent
+dÃ©passer le pouvoir des canons. Ce maniement, que nâenseignent pas les
+livres, exige une longue expÃ©rience.
+
+
+
+
+CHAPITRE II
+
+LES GUERRES, LES RÃVOLUTIONS ET LE DÃSARMEMENT
+
+
+I
+
+LES CAUSES FUTURES DE GUERRE ET LA REVANCHE GERMANIQUE
+
+Les anciennes guerres, dÃ©rivant surtout de lâambition personnelle des
+souverains, nâavaient aucun caractÃ¨re de nÃ©cessitÃ©. Les conflits
+modernes rÃ©sultant de luttes dâintÃ©rÃªts collectifs sont bien plus
+difficilement Ã©vitables. Alexandre et CÃ©sar pouvaient ne pas
+entreprendre leurs conquÃªtes. De nos jours, la volontÃ© de lâempereur
+dâAllemagne fÃ»t, tÃ´t ou tard, devenue impuissante Ã  dominer les
+aspirations dâun peuple hantÃ© par le besoin mystique dâhÃ©gÃ©monie.
+
+                   *       *       *       *       *
+
+Les accroissements de territoires rÃ©cemment rÃ©alisÃ©s par lâAngleterre
+montrent Ã  quel point lâidÃ©e de sâagrandir au moyen de conquÃªtes reste
+une des conceptions directrices de certains peuples.
+
+                   *       *       *       *       *
+
+A lâheure de la victoire, il est facile au vainqueur dâimposer ses
+volontÃ©s. Cette possibilitÃ© sâattÃ©nue progressivement jusquâau jour oÃ¹
+la rÃ©sistance du vaincu ne pouvant plus Ãªtre anÃ©antie que par la force,
+une nouvelle guerre devient nÃ©cessaire.
+
+                   *       *       *       *       *
+
+Les peuples ne se rÃ©signent pas Ã  la dÃ©faite quand ils se croient
+supÃ©rieurs Ã  leurs vainqueurs. Une tentative de revanche germanique peut
+donc Ãªtre considÃ©rÃ©e comme un des plus sÃ»rs Ã©vÃ©nements de la future
+Histoire.
+
+                   *       *       *       *       *
+
+LâidÃ©al de lâempereur Guillaume, dâaprÃ¨s ses _MÃ©moires_, Ã©tait dâavoir
+une armÃ©e et une flotte assez puissantes pour que nul nâosÃ¢t les
+attaquer. Il oubliait alors que le possesseur de pareils moyens de
+dÃ©fense songe bientÃ´t Ã  les utiliser pour se dÃ©barrasser de rivaux
+gÃªnants. Ce fut justement la notion de sa force qui le conduisit Ã  la
+guerre.
+
+                   *       *       *       *       *
+
+Deux formes de revanche sont rÃªvÃ©es en Allemagne: 1Âº par les armes; 2Âº
+par lâexpansion commerciale. Le succÃ¨s de la seconde tentative
+entraÃ®nerait fatalement la rÃ©alisation de la premiÃ¨re.
+
+                   *       *       *       *       *
+
+Lâunique moyen--en dehors de formidables armements--dâempÃªcher une
+future agression de lâAllemagne, eÃ»t Ã©tÃ© son retour aux provinces
+autonomes qui la composaient avant 1871. Elle-mÃªme le rÃ©clamait aprÃ¨s
+lâarmistice, pour se soustraire Ã  la domination prussienne. Les
+historiens sâÃ©tonneront sÃ»rement que les auteurs du traitÃ© de paix
+nâaient pas compris une telle Ã©vidence.
+
+                   *       *       *       *       *
+
+Beaucoup de phÃ©nomÃ¨nes sociaux possÃ¨dent un point critique comparable Ã 
+celui de certains phÃ©nomÃ¨nes physiques. Dans son voisinage, de faibles
+influences peuvent dÃ©terminer des changements trÃ¨s grands, la paix ou la
+guerre, par exemple. Lâorigine des guerres de 1870 et de 1914 vÃ©rifie
+cette observation.
+
+                   *       *       *       *       *
+
+Le conflit mondial a rÃ©vÃ©lÃ© deux principes que les guerres antÃ©rieures
+ne permettaient pas de pressentir. Le premier, que le vainqueur se
+trouve aussi ruinÃ© que le vaincu. Le second, que les indemnitÃ©s
+incombant au vaincu sont indirectement payÃ©es par les autres peuples, y
+compris ceux qui nâont pris aucune part au conflit.
+
+                   *       *       *       *       *
+
+Le capital matÃ©riel dâun peuple peut Ãªtre dÃ©truit dans une guerre. Le
+capital moral, constituÃ© par lâintelligence, le pouvoir dâorganisation
+et la capacitÃ© technique, Ã©tant indestructible, permet de reconstituer
+rapidement le capital matÃ©riel. LâAllemagne en fournit un nouvel
+exemple.
+
+                   *       *       *       *       *
+
+La prochaine histoire de lâEurope dÃ©pendra surtout de lâintÃ©rÃªt
+quâauront les grandes nations Ã  prolonger, durant la paix, les alliances
+formÃ©es pendant la guerre.
+
+                   *       *       *       *       *
+
+Il est de toute Ã©vidence que si trois grands pays comme la France,
+lâAngleterre et lâAmÃ©rique avaient acceptÃ© de sâunir contre un agresseur
+quelconque, la paix se fÃ»t trouvÃ©e assurÃ©e. Les divergences dâintÃ©rÃªts
+et de mentalitÃ© de ces nations et la mÃ©fiance rÃ©ciproque de leurs
+gouvernants, ayant empÃªchÃ© cette alliance de se rÃ©aliser, les peuples
+sont condamnÃ©s Ã  se ruiner en armements.
+
+                   *       *       *       *       *
+
+Si la raison pouvait exercer un rÃ´le quelconque sur les relations entre
+les peuples, ils seraient vite persuadÃ©s que leur intÃ©rÃªt est de
+sâentrâaider au lieu de sâentre-dÃ©truire.
+
+
+II
+
+LES LUTTES POUR LâHÃGÃMONIE
+
+Les consÃ©quences rÃ©elles de la grande guerre diffÃ¨rent beaucoup des
+rÃ©sultats prÃ©vus. Certains peuples sâaperÃ§oivent maintenant quâaprÃ¨s
+avoir Ã©cartÃ© au prix de gigantesques efforts lâhÃ©gÃ©monie militaire
+allemande, il leur faut subir lâhÃ©gÃ©monie Ã©conomique et politique de
+lâAngleterre. Elle ne paraÃ®t pas moins lourde.
+
+                   *       *       *       *       *
+
+LâhÃ©gÃ©monie anglaise nâa plus aujourdâhui dâautre contrepoids que le
+pouvoir grandissant des Ãtats-Unis.
+
+                   *       *       *       *       *
+
+Parmi les signes divers rÃ©vÃ©lant lâaspiration Ã  lâhÃ©gÃ©monie figure le
+langage des diplomates. LâAngleterre sâest emparÃ©e des flottes et des
+colonies germaniques, puis a proclamÃ© son protectorat sur la Perse et
+lâÃgypte; mais quand les alliÃ©s voulurent dÃ©fendre leurs droits, le
+langage des dirigeants anglais devint agressif. Le monde comprit alors
+quâune hÃ©gÃ©monie nouvelle Ã©tait nÃ©e.
+
+                   *       *       *       *       *
+
+Le jour oÃ¹ lâexpÃ©rience prouva que, malgrÃ© flottes et sous-marins,
+lâAmÃ©rique pouvait envoyer en Europe un million dâhommes armÃ©s, la
+situation mondiale de lâAngleterre sâest trouvÃ©e virtuellement
+transformÃ©e. La domination des mers et la suprÃ©matie commerciale lui
+Ã©chapperont fatalement dans lâavenir au profit de lâAmÃ©rique.
+
+                   *       *       *       *       *
+
+Si lâAngleterre avait rÃ©ussi, au moyen de ses tentatives rÃ©pÃ©tÃ©es, Ã 
+empÃªcher la France dâexiger les rÃ©parations dues par lâAllemagne, elle
+eÃ»t retirÃ© de la guerre ces deux immenses rÃ©sultats: 1Âº se dÃ©barrasser
+de la rivalitÃ© maritime allemande; 2Âº supprimer la rivalitÃ© commerciale
+possible de la France, forcÃ©e de consacrer toutes ses ressources Ã  la
+restauration des dÃ©partements dÃ©vastÃ©s.
+
+                   *       *       *       *       *
+
+Lorsque lâAllemagne rÃªvait dâune paix universelle par lâÃ©tablissement de
+son hÃ©gÃ©monie, elle subissait une illusion psychologique dont furent
+victimes tous les grands conquÃ©rants. Son succÃ¨s eÃ»t fatalement
+dÃ©clanchÃ© une sÃ©rie de coalitions qui auraient dÃ©truit sa puissance,
+comme le fut celle de NapolÃ©on.
+
+                   *       *       *       *       *
+
+La grande rivalitÃ© entre lâAngleterre et lâAllemagne sâest terminÃ©e par
+lâhÃ©gÃ©monie anglaise en Europe. La lutte pour lâhÃ©gÃ©monie de lâAsie ne
+fait que commencer.
+
+                   *       *       *       *       *
+
+Lâimportance donnÃ©e au Japon par la guerre et sa rapide conquÃªte du
+Pacifique hÃ¢teront nÃ©cessairement le choc colossal entre la race blanche
+et la race jaune. Les rÃ©sultats du conflit diront dans quelles mains le
+sceptre de lâAsie devra passer.
+
+                   *       *       *       *       *
+
+Les hommes dâÃtat actuels se dÃ©fendent bien haut de toute pensÃ©e
+dâimpÃ©rialisme et affectent de considÃ©rer cette accusation comme une
+injure. Ils savent cependant que seules des visÃ©es impÃ©rialistes ont
+Ã©difiÃ© et fait prospÃ©rer les grands empires dont est formÃ©e lâEurope.
+
+                   *       *       *       *       *
+
+Le premier acte de la guerre mondiale, la lutte militaire, est
+aujourdâhui terminÃ©. Le second acte, la guerre Ã©conomique, commence. Le
+troisiÃ¨me acte, lutte de la race jaune contre la race blanche pour
+lâhÃ©gÃ©monie de lâAsie, semble prochain.
+
+                   *       *       *       *       *
+
+Si la notion dâinterdÃ©pendance des peuples nâarrive pas Ã  remplacer
+celle dâhÃ©gÃ©monie, lâEurope devra subir des guerres dâextermination qui
+la plongeront dans une dÃ©cadence sans espoir.
+
+
+III
+
+LES ILLUSIONS SUR LA POSSIBILITÃ DâUN DÃSARMEMENT
+
+A tous les Ã¢ges de lâhistoire, et aujourdâhui plus que jamais, le
+respect quâinspire un peuple dÃ©pend surtout de son prestige militaire.
+
+                   *       *       *       *       *
+
+Les grandes nations modernes sont oppressÃ©es par ce dilemme: renoncer Ã 
+leurs armements pour Ã©viter une ruine financiÃ¨re, ou les accroÃ®tre pour
+empÃªcher des invasions plus coÃ»teuses encore.
+
+                   *       *       *       *       *
+
+Un peuple ne se protÃ¨ge contre les attaques de ses rivaux quâen restant
+fort. Si les idÃ©es pacifistes propagÃ©es avant la guerre par les
+socialistes nâavaient pas considÃ©rablement affaibli notre prÃ©paration
+militaire, il est infiniment probable que lâAllemagne nâaurait jamais
+songÃ© Ã  nous attaquer.
+
+                   *       *       *       *       *
+
+Guillaume II, dans ses _MÃ©moires_, Ã©crit un vÃ©ritable traitÃ© de la
+guerre et de la paix en deux lignes quand il dit quâun peuple doit Ãªtre
+assez armÃ© sur terre et sur mer pour crÃ©er chez son adversaire la peur
+du risque. On ne se permet guÃ¨re, en effet, dâattaquer les forts, alors
+que les faibles restent toujours menacÃ©s.
+
+                   *       *       *       *       *
+
+Les guerres ne pourront disparaÃ®tre quâavec la suppression des causes
+qui les font naÃ®tre: haine entre les races, besoin dâhÃ©gÃ©monie des
+peuples forts, rivalitÃ©s Ã©conomiques, etc. La science devra donc dâabord
+dÃ©couvrir un moyen de transformer complÃ¨tement la nature de lâhomme.
+
+                   *       *       *       *       *
+
+Depuis les origines de lâhistoire, les relations entre peuples faibles
+et peuples forts furent exactement celles du gibier avec le chasseur.
+
+                   *       *       *       *       *
+
+LâidÃ©e finit quelquefois par dominer le canon, mais privÃ©e de la
+protection du canon elle reste sans force.
+
+                   *       *       *       *       *
+
+Les philosophes soutenant que la philanthropie occasionnera encore plus
+de ravages que les Ã©pidÃ©mies et les canons auraient peut-Ãªtre raison, si
+les harangues des philanthropes avaient jamais exercÃ© une influence
+quelconque sur la conduite des peuples. Mais elles ne servent guÃ¨re quâÃ 
+orner des discours.
+
+                   *       *       *       *       *
+
+Aimez-vous les uns les autres, conseillent inutilement les religions;
+supportez-vous, exigent simplement les codes. Aidez-vous deviendra la
+maxime de lâavenir quand les peuples auront dÃ©couvert lâinterdÃ©pendance
+qui les lie.
+
+                   *       *       *       *       *
+
+Dans lâÃ©tat de dÃ©sÃ©quilibre du monde actuel, le terme dÃ©sarmement est
+synonyme de servitude.
+
+
+IV
+
+LES INCERTITUDES SUR LES ORIGINES DE LA GUERRE
+
+Il nâest pas toujours facile de dÃ©couvrir les vrais auteurs dâune
+guerre. Il fallut longtemps pour reconnaÃ®tre quâen 1870, le roi de
+Prusse et lâEmpereur des FranÃ§ais firent la guerre malgrÃ© eux.
+
+                   *       *       *       *       *
+
+Les origines de la guerre mondiale sont incomprÃ©hensibles quand on
+lâimagine issue de la volontÃ© des trois empereurs qui lâordonnÃ¨rent. Il
+faut lâenvisager comme la rÃ©sultante inÃ©vitable non seulement de
+lâhistoire des Ãtats europÃ©ens depuis un siÃ¨cle, mais aussi de
+lâenseignement des historiens et des universitÃ©s germaniques depuis
+cinquante ans.
+
+                   *       *       *       *       *
+
+Pour Ã©crire aujourdâhui lâhistoire de la grande guerre et de ses causes,
+ce ne sont pas les documents qui manquent mais la sÃ©rÃ©nitÃ© de jugement
+permettant de lâÃ©tudier comme sâil sâagissait dâÃ©vÃ©nements anciens, tels
+que les guerres puniques ou la bataille dâActium.
+
+                   *       *       *       *       *
+
+Il est probable quâen 1914 lâempereur dâAllemagne nâeÃ»t pas dÃ©clarÃ© la
+guerre si lâAngleterre avait manifestÃ© plus tÃ´t son intention de sâunir
+Ã  la France, mais Ã©tant donnÃ© lâÃ©tat dâesprit crÃ©Ã© par les militaires et
+les universitaires allemands, il semble que le conflit eÃ»t Ã©tÃ©
+simplement retardÃ©.
+
+                   *       *       *       *       *
+
+Les guerres franco-allemandes ne sont intelligibles que considÃ©rÃ©es
+comme des phases successives dâun conflit sÃ©culaire dont la fin ne
+sâentrevoit pas encore.
+
+                   *       *       *       *       *
+
+Quand on recherche les origines lointaines de la derniÃ¨re guerre, il
+apparaÃ®t vite quâune lutte armÃ©e entre lâhÃ©gÃ©monie allemande et
+lâhÃ©gÃ©monie anglaise Ã©tait aussi fatale que le fut, jadis, celle entre
+Rome et Carthage.
+
+                   *       *       *       *       *
+
+
+V
+
+LES CAUSES DES RÃVOLUTIONS
+
+Les peuples vivent surtout dâespÃ©rances. Leurs rÃ©volutions ont pour but
+de substituer des espÃ©rances nouvelles Ã  dâanciennes espÃ©rances devenues
+sans force.
+
+                   *       *       *       *       *
+
+Un pays est vouÃ© aux rÃ©volutions dÃ¨s que les partis ayant intÃ©rÃªt Ã 
+dÃ©fendre lâordre Ã©tabli deviennent moins Ã©nergiques que ceux qui
+aspirent Ã  le dÃ©truire.
+
+                   *       *       *       *       *
+
+Le principal rÃ©sultat des rÃ©volutions qui bouleversent lâhistoire est de
+changer les chefs incarnant le principe dâautoritÃ©. Les multitudes
+profitent rarement de cette substitution.
+
+                   *       *       *       *       *
+
+Lorsque les nÃ©cessitÃ©s Ã©conomiques sont contraires aux impulsions
+affectives et mystiques qui mÃ¨nent les hommes, une rÃ©volution devient
+inÃ©vitable.
+
+                   *       *       *       *       *
+
+Lâenvie et son insÃ©parable compagne, la haine, forment les grands
+ressorts des rÃ©volutions sociales. La RÃ©volution FranÃ§aise eut pour
+cause initiale les diffÃ©rences extÃ©rieures et les privilÃ¨ges qui
+sÃ©paraient la bourgeoisie de la noblesse. La rÃ©volution sociale dont
+nous sommes menacÃ©s comptera parmi ses origines les distinctions
+existant, non dans les codes, mais dans les mÅurs, entre les diverses
+classes.
+
+                   *       *       *       *       *
+
+Quand la haine remplace chez lâinfÃ©rieur le respect du supÃ©rieur, une
+rÃ©volution est proche.
+
+                   *       *       *       *       *
+
+Le bolchevisme reprÃ©sente un Ã©tat mental qui a plusieurs fois sÃ©vi dans
+lâhistoire. Ses Ã©lÃ©ments psychologiques furent toujours les mÃªmes:
+indiscipline, haine jalouse des supÃ©rioritÃ©s, dÃ©sir intense de sâemparer
+par la violence des biens quâon se sent incapable dâacquÃ©rir par le
+travail ou lâintelligence.
+
+                   *       *       *       *       *
+
+Les civilisations modernes traÃ®nent derriÃ¨re elles une foule croissante
+dâinadaptÃ©s rÃªvant de les dÃ©truire afin de leur substituer des formes de
+vie sociale moins compliquÃ©es, telles que le communisme.
+
+                   *       *       *       *       *
+
+LâarmÃ©e des inadaptÃ©s devient aussi menaÃ§ante aujourdâhui que les
+futures invasions germaniques.
+
+                   *       *       *       *       *
+
+Un des grands problÃ¨mes modernes consiste Ã  savoir si des bolchevistes
+sans culture--ou, ce qui est plus dangereux encore, munis dâune
+demi-culture,--rÃ©ussiront Ã  ramener nos grandes civilisations Ã  des
+types infÃ©rieurs voisins de la barbarie.
+
+                   *       *       *       *       *
+
+La mentalitÃ© dâun peuple dÃ©terminant rigoureusement ses institutions et
+ses lois, certaines nations lâIrlande en Europe, les rÃ©publiques latines
+dans lâAmÃ©rique, semblent condamnÃ©es par leur Ã¢me mÃªme Ã  ne jamais
+sortir des rÃ©volutions et de lâanarchie.
+
+                   *       *       *       *       *
+
+La RÃ©volution FranÃ§aise, faite par la bourgeoisie contre la noblesse,
+rÃ©ussit parce que les capacitÃ©s de cette bourgeoisie Ã©taient devenues
+supÃ©rieures Ã  celles de la noblesse. De nos jours, une rÃ©volution
+prolÃ©tarienne pourrait momentanÃ©ment triompher, grÃ¢ce Ã  la puissance du
+nombre, mais elle ne saurait durer parce que lâÃ©volution industrielle
+exige des compÃ©tences directrices que lâouvrier ne possÃ¨de pas.
+
+                   *       *       *       *       *
+
+Un parti rÃ©volutionnaire douÃ© de prestige rallie facilement des
+mÃ©contents de tous les autres partis. Les bolchevistes recrutent des
+adeptes en Perse et en Turquie, bien que lâislamisme et le communisme
+nâaient aucun caractÃ¨re commun.
+
+
+VI
+
+LES RÃSULTATS DES RÃVOLUTIONS
+
+La premiÃ¨re phase dâune rÃ©volution est consacrÃ©e Ã  combattre les
+nÃ©cessitÃ©s Ã©conomiques et sociales qui rÃ©gissent la vie des peuples.
+LâexpÃ©rience prouvant bientÃ´t que ces nÃ©cessitÃ©s dominent les volontÃ©s,
+lâancienne organisation reparaÃ®t sous des noms nouveaux. Ainsi se
+terminera nÃ©cessairement la rÃ©volution russe.
+
+                   *       *       *       *       *
+
+Les rÃªveurs nâont aucun pouvoir crÃ©ateur, mais ils possÃ¨dent parfois une
+puissance destructive considÃ©rable. Sous leur dissolvante action, les
+institutions pÃ©niblement Ã©difiÃ©es par le temps se dÃ©sagrÃ¨gent avec une
+extrÃªme rapiditÃ©. Quelques mois suffirent aux communistes russes pour
+ramener leur pays Ã  la barbarie.
+
+                   *       *       *       *       *
+
+Lâimagination crÃ©atrice prÃ©pare lâinvention. Le laboratoire en fixe les
+contours. Lâusine la transforme en Ã©lÃ©ments de progrÃ¨s quâutilisent tous
+les hommes. Le massacre des intellectuels par les communistes russes
+montre combien est ignorÃ©e des foules cette genÃ¨se des dÃ©couvertes dont
+elles profitent. Le bolchevisme a rÃ©vÃ©lÃ© le degrÃ© de misÃ¨re auquel peut
+tomber lâouvrier privÃ© de la pensÃ©e capable dâorienter ses efforts.
+
+                   *       *       *       *       *
+
+Si Ã©quitable que puisse Ãªtre un idÃ©al rÃ©volutionnaire, il ne triomphe
+quâau prix de guerres acharnÃ©es. Vingt annÃ©es de luttes meurtriÃ¨res
+furent nÃ©cessaires pour Ã©tablir en Europe le principe dâÃ©galitÃ© devant
+la loi et supprimer les privilÃ¨ges de certaines classes.
+
+                   *       *       *       *       *
+
+Un gouvernement rÃ©volutionnaire ne subsiste quâÃ  la condition de tomber
+sous le despotisme de quelques meneurs.
+
+                   *       *       *       *       *
+
+Les rÃ©volutions ne durent jamais longtemps parce quâelles se heurtent
+bientÃ´t au mur des nÃ©cessitÃ©s Ã©conomiques et sociales qui dominent le
+monde. Percevant alors lâimpuissance des thÃ©oriciens, la foule se
+dÃ©tourne dâeux. Avant dâarriver Ã  cette derniÃ¨re phase, bien des ruines
+sont accumulÃ©es. La Russie en fait aujourdâhui lâexpÃ©rience.
+
+                   *       *       *       *       *
+
+Les rÃ©volutions enrichissent quelques-uns des chefs qui leur survivent,
+mais elles augmentent invariablement la misÃ¨re des foules qui les ont
+rÃ©alisÃ©es. Cette vÃ©ritÃ© Ã©tant inaccessible aux multitudes, les meneurs
+rÃ©volutionnaires pourront continuer longtemps Ã  bouleverser le monde.
+
+                   *       *       *       *       *
+
+Lâhistoire des assemblÃ©es rÃ©volutionnaires de tous les temps montre que
+les fanatiques nâont encore dÃ©couvert aucune autre mÃ©thode de persuasion
+que le massacre systÃ©matique de leurs adversaires.
+
+                   *       *       *       *       *
+
+Ce nâest pas Ã  la libertÃ© mais Ã  la servitude que beaucoup de
+rÃ©volutionnaires modernes aspirent sans le savoir. La libertÃ© nâest
+conÃ§ue par eux que sous forme de soumission Ã  un maÃ®tre dont les
+moindres paroles sont des oracles. Toutes les rÃ©volutions modernes se
+terminent par la crÃ©ation dâun autocrate.
+
+                   *       *       *       *       *
+
+La soif dâinÃ©galitÃ© semble un besoin irrÃ©ductible de la nature humaine.
+On sait avec quelle ardeur les Conventionnels Ã©chappÃ©s Ã  la guillotine
+sollicitaient de NapolÃ©on des titres nobiliaires. Le rÃªve Ã©galitaire qui
+les avaient conduits Ã  tant de massacres nâÃ©tait donc en rÃ©alitÃ© quâun
+violent dÃ©sir dâinÃ©galitÃ© Ã  leur profit. Lâhistoire nâa pas encore citÃ©,
+dâailleurs, de pays oÃ¹ rÃ©gnÃ¢t lâÃ©galitÃ©.
+
+                   *       *       *       *       *
+
+Jamais baron fÃ©odal ne manifesta pour les serfs un mÃ©pris Ã©gal Ã  celui
+que tÃ©moignent au peuple les chefs des nouveaux partis rÃ©volutionnaires,
+le communisme russe notamment. DÃ¨s lâarrivÃ©e au pouvoir des dictateurs
+bolchevistes, la libertÃ© de la presse, la journÃ©e de huit heures, le
+suffrage universel, furent supprimÃ©s et lâouvrier devint un simple
+esclave.
+
+                   *       *       *       *       *
+
+On ne rencontre guÃ¨re dâexemple dans lâHistoire de rÃ©volutions nâayant
+pas finalement engendrÃ© des rÃ©sultats absolument contraires Ã  ceux que
+poursuivaient leurs auteurs.
+
+                   *       *       *       *       *
+
+La RÃ©volution bolcheviste est une de celles qui montrent le mieux
+combien les buts atteints par les rÃ©volutions peuvent diffÃ©rer des buts
+poursuivis. Elle triompha en promettant la paix, et se trouva bientÃ´t en
+guerre avec tous ses voisins. Elle voulait supprimer le militarisme et
+nâa fait quâÃ©tablir un rÃ©gime militaire plus dur que tous les rÃ©gimes
+antÃ©rieurs. Elle prÃ©tendait abolir le droit de propriÃ©tÃ© et nâa rÃ©ussi
+quâÃ  crÃ©er la propriÃ©tÃ© individuelle dans un pays qui nâavait encore
+connu que la propriÃ©tÃ© collective.
+
+                   *       *       *       *       *
+
+Ãtant donnÃ© le nombre immense de paysans russes devenus propriÃ©taires et
+possÃ©dant, dÃ¨s lors, la mentalitÃ© particuliÃ¨re que dÃ©termine la
+propriÃ©tÃ©, on peut affirmer que la Russie sera bientÃ´t le pays du monde
+qui renfermera le moins de socialistes.
+
+                   *       *       *       *       *
+
+Ce nâest pas dâune rÃ©volution, mais dâune transformation profonde des
+idÃ©es que rÃ©sultent les rÃ©formes durables.
+
+                   *       *       *       *       *
+
+DâaprÃ¨s tous les enseignements de lâhistoire des rÃ©volutions,
+lâextrÃ©misme en politique a comme terminaison nÃ©cessaire soit la
+destruction de la civilisation oÃ¹ il sÃ©vit, soit lâanarchie et la
+dictature.
+
+                   *       *       *       *       *
+
+Il faut beaucoup dâannÃ©es Ã  un peuple pour acquÃ©rir un Ã©quilibre durable
+et peu de temps pour le perdre.
+
+
+
+
+CHAPITRE III
+
+LES RELATIONS INTERNATIONALES ET LES ALLIANCES
+
+
+I
+
+LES RELATIONS INTERNATIONALES
+
+Alors que la solidaritÃ© des peuples devrait Ãªtre la loi des temps
+modernes, une haine intense plane sur lâunivers. Haine entre nations,
+entre classes diverses dâune mÃªme nation, haine entre partis politiques
+de chaque classe. LâinterdÃ©pendance des peuples est une nÃ©cessitÃ© qui
+finira peut-Ãªtre par les solidariser, mais son influence reste
+actuellement nulle.
+
+                   *       *       *       *       *
+
+La haine entre peuples, la dÃ©fiance entre gouvernants, sont devenues les
+grands ressorts psychologiques de la politique actuelle. On put Ã©valuer
+lâintensitÃ© de ces sentiments quand on vit lâAmÃ©rique et lâAngleterre
+renoncer Ã  la paix future, que leur promesse dâintervention en cas
+dâattaque de lâAllemagne eÃ»t rendue certaine.
+
+                   *       *       *       *       *
+
+Si, dans leurs relations, les individus se conduisaient avec autant de
+mauvaise foi et de mÃ©fiance que les peuples entre eux, aucune sociÃ©tÃ© ne
+pourrait durer.
+
+                   *       *       *       *       *
+
+Lâunion entre citoyens Ã  lâintÃ©rieur, entre alliÃ©s Ã  lâextÃ©rieur, est
+reconnue comme seule base possible dâune paix durable. Les haines
+grandissantes de peuple Ã  peuple et dâune classe Ã  lâautre, dans un mÃªme
+pays, prouvent malheureusement que des intÃ©rÃªts Ã©vidents, mais
+lointains, restent sans force contre les impulsions passionnelles du
+moment.
+
+                   *       *       *       *       *
+
+LâamitiÃ© entre individus peut subsister malgrÃ© les diffÃ©rences
+dâintÃ©rÃªts. Entre peuples, lâamitiÃ© ne reprÃ©sentant quâune communautÃ©
+dâintÃ©rÃªts ne saurait survivre Ã  leurs divergences. Ce principe de
+psychologie collective conditionne la durÃ©e possible dâune alliance.
+
+                   *       *       *       *       *
+
+Le monde oscille aujourdâhui entre le nationalisme, impÃ©rialiste et
+lâinternationalisme. Le nationalisme implique, avec la solidaritÃ©
+sociale, le culte de la patrie. Lâinternationalisme, remplaÃ§ant la
+solidaritÃ© par la lutte des classes, rendrait un peuple aussi impuissant
+Ã  se protÃ©ger contre les guerres civiles que contre les invasions.
+
+                   *       *       *       *       *
+
+Le nationalisme, qui seul donne aux peuples leur cohÃ©sion, a des chances
+de durÃ©e parce quâil constitue un sentiment naturel. Mais la force mÃªme
+de ce sentiment le fait souvent dÃ©gÃ©nÃ©rer en impÃ©rialisme agressif. Il
+substitue alors les guerres extÃ©rieures aux guerres intÃ©rieures.
+
+                   *       *       *       *       *
+
+Si intense soit la haine entre peuples, elle nâest jamais aussi vive
+quâentre les partis politiques dâun mÃªme peuple.
+
+                   *       *       *       *       *
+
+Le monde changera de face et les rapports entre les divers pays seront
+profondÃ©ment transformÃ©s lorsque les politiciens qui en dirigent les
+destinÃ©es auront dÃ©couvert que lâintÃ©rÃªt dâune nation nâest pas basÃ© sur
+le dommage causÃ© Ã  une autre. Ils renonceront alors au besoin
+dâhÃ©gÃ©monie qui continue dâaveugler lâesprit des gouvernants.
+
+                   *       *       *       *       *
+
+En politique internationale, les coups dâÃ©pingle rÃ©pÃ©tÃ©s finissent par
+engendrer des coups de canon.
+
+
+II
+
+LES FORCES ÃCONOMIQUES
+
+Ce nâest plus la volontÃ© des dieux, mais les lois Ã©conomiques qui, dans
+les temps modernes, dÃ©terminent la destinÃ©e des nations.
+
+                   *       *       *       *       *
+
+Si un bouleversement gÃ©ologique avait dÃ©truit, il y a un siÃ¨cle, toutes
+les mines de charbon et de pÃ©trole de lâunivers, cet Ã©vÃ©nement nâaurait
+entraÃ®nÃ© aucune consÃ©quence importante. Sâil se produisait aujourdâhui,
+les chemins de fer et les usines cesseraient aussitÃ´t de fonctionner. La
+rÃ©gression immÃ©diate de nos civilisations en rÃ©sulterait. Un abÃ®me
+sÃ©pare le monde actuel de son Ã©tat antÃ©rieur.
+
+                   *       *       *       *       *
+
+Les discours, les confÃ©rences, les lois elles-mÃªmes sont impuissantes Ã 
+combattre les nÃ©cessitÃ©s Ã©conomiques qui Ã©treignent le monde. Il faut
+sây adapter ou pÃ©rir.
+
+                   *       *       *       *       *
+
+Les vÃ©ritÃ©s scientifiques sâÃ©tablissent facilement parce quâelles
+sâadressent Ã  lâintelligence. Les vÃ©ritÃ©s Ã©conomiques, se heurtant Ã  des
+sentiments et Ã  des illusions sociales, ne sâimposent quâaprÃ¨s de
+dÃ©sastreuses expÃ©riences. La ruine de la Russie en est le plus rÃ©cent
+exemple.
+
+                   *       *       *       *       *
+
+Dans les questions Ã©conomiques et sociales, les intÃ©rÃªts dÃ©terminent
+lâopinion et les institutions qui en dÃ©rivent. Les Anglais resteront
+libre-Ã©changistes, les AmÃ©ricains protectionnistes, tant quâils
+trouveront un avantage Ã  maintenir leurs doctrines.
+
+                   *       *       *       *       *
+
+Dans une guerre prolongÃ©e, il arrive un moment oÃ¹ vaincu et vainqueur
+Ã©tant Ã©galement ruinÃ©s, les indemnitÃ©s exigibles du vaincu ne peuvent
+jamais compenser les pertes subies par le vainqueur.
+
+                   *       *       *       *       *
+
+On a justement observÃ© que ce sont les pays Ã  change Ã©levÃ© qui souffrent
+le plus du chÃ´mage. Le change, en effet, a pour les acheteurs exactement
+les mÃªmes consÃ©quences quâune Ã©lÃ©vation considÃ©rable du prix des
+marchandises. Ces marchandises devenant alors presque invendables, il en
+rÃ©sulte la fermeture des usines et le chÃ´mage.
+
+                   *       *       *       *       *
+
+Un peuple vivant dâemprunts Ã©trangers tombe fatalement sous la
+dÃ©pendance du prÃªteur obligÃ© de surveiller les garanties de sa crÃ©ance.
+Une nation assez riche pour prÃªter beaucoup Ã  une nation pauvre finirait
+par la dominer plus Ã©troitement quâau moyen dâune conquÃªte militaire.
+
+                   *       *       *       *       *
+
+La richesse dâun pays ne rÃ©side pas dans des billets sans garantie quâil
+peut Ã©mettre Ã  volontÃ©, mais dans son industrie et son agriculture.
+LâAllemagne, nâayant perdu ni ses champs ni ses usines, reste presque
+aussi riche quâavant la guerre malgrÃ© la perte Ã  peu prÃ¨s totale de sa
+monnaie.
+
+                   *       *       *       *       *
+
+Les problÃ¨mes financiers actuels nâauront de solution possible
+quâÃ©tudiÃ©s en fonction du temps. Avec son concours, la dette la plus
+colossale devient aussi petite quâon le dÃ©sire. La somme la plus minime,
+au contraire, peut devenir considÃ©rable. Les collectivitÃ©s seules sont
+capables de rÃ©aliser des combinaisons basÃ©es sur la puissance du temps,
+parce que leur vie est illimitÃ©e.
+
+                   *       *       *       *       *
+
+Le change reprÃ©sente simplement le degrÃ© de la confiance du monde dans
+le crÃ©dit dâun Ãtat. On ne stabilise pas plus le change quâon ne
+stabilise un baromÃ¨tre ou tout autre instrument de mesure. Les
+oscillations du change rÃ©vÃ¨lent surtout les oscillations de la
+confiance.
+
+                   *       *       *       *       *
+
+Une grÃ¨ve pour lâaugmentation des salaires ne reprÃ©sente pas en rÃ©alitÃ©
+une lutte entre ouvriers et patrons, mais entre les ouvriers et le
+public. Câest le public, en effet, qui paie toujours lâÃ©lÃ©vation de prix
+dÃ©terminÃ©e par le succÃ¨s dâune grÃ¨ve. Sâil prend gÃ©nÃ©ralement le parti
+des grÃ©vistes, câest que les collectivitÃ©s sont incapables de saisir les
+consÃ©quences un peu lointaines des phÃ©nomÃ¨nes.
+
+                   *       *       *       *       *
+
+Les Ã©nergies invisibles qui mÃ¨nent le monde sont comparables Ã 
+lâÃ©lectricitÃ©, force de nature ignorÃ©e, connue seulement par les
+rÃ©sultats visibles quâelle produit.
+
+
+III
+
+LES TRAITÃS DE PAIX ET LES CONGRÃS POLITIQUES
+
+LâidÃ©e que des collectivitÃ©s puissent dÃ©couvrir la solution de problÃ¨mes
+ayant Ã©chappÃ© Ã  des individualitÃ©s compÃ©tentes serait reconnue erronÃ©e
+depuis longtemps si les dÃ©terminations collectives ne reprÃ©sentaient, le
+plus souvent, la dÃ©cision dâune personnalitÃ© assez forte pour sâimposer.
+La rÃ©solution supposÃ©e collective nâest alors, en rÃ©alitÃ©, quâune
+dÃ©cision personnelle.
+
+                   *       *       *       *       *
+
+Il y a peu de rapports entre les principes formulÃ©s par les hommes
+dâÃtat dans les congrÃ¨s et ceux qui guident leur conduite. Pendant les
+confÃ©rences de la paix, lâÃ¢me des diplomates anglais fut dominÃ©e par
+trois principes inavouÃ©s: 1Âº accroÃ®tre les possessions britanniques, 2Âº
+empÃªcher la France de devenir trop forte, 3Âº laisser lâAllemagne assez
+puissante pour faire Ã©quilibre Ã  la France.
+
+                   *       *       *       *       *
+
+Il faudrait supposer beaucoup de candeur aux dirigeants britanniques
+pour admettre quâils aient cru remÃ©dier Ã  la situation Ã©conomique de
+lâEurope en rÃ©unissant des confÃ©rences. Le but poursuivi Ã©tait donc tout
+autre que le but proclamÃ©.
+
+                   *       *       *       *       *
+
+La plupart des congrÃ¨s de lâhistoire ont fait surgir des causes de
+guerre et nâen ont empÃªchÃ© aucune.
+
+                   *       *       *       *       *
+
+La seule utilitÃ© possible dâun congrÃ¨s aux yeux des hommes politiques
+assez influents pour imposer leur volontÃ©, est de renforcer par
+lâautoritÃ© du nombre les dÃ©cisions personnelles quâils veulent faire
+accepter.
+
+                   *       *       *       *       *
+
+Si la rÃ©daction du traitÃ© de paix eÃ»t Ã©tÃ© soumise Ã  lâopinion publique,
+et non discutÃ©e en secret, toute la subtilitÃ© de certains diplomates
+nâaurait jamais fait admettre que le chiffre des rÃ©parations dues Ã  la
+France serait fixÃ© par une commission composÃ©e en majoritÃ© des
+reprÃ©sentants de pays nâayant aucun intÃ©rÃªt Ã  ces rÃ©parations.
+
+                   *       *       *       *       *
+
+Les consÃ©quences du traitÃ© de paix qui termina la grande guerre,
+montrent combien fut complÃ¨te la cÃ©citÃ© mentale de ses auteurs,
+expulsant la Turquie de lâEurope et dÃ©coupant lâAutriche en petits Ãtats
+sans ressources Ã©conomiques pouvant les soustraire Ã  la misÃ¨re et Ã 
+lâanarchie. Il devient Ã©vident aujourdâhui que, dans lâintÃ©rÃªt de
+lâEurope, lâunitÃ© de lâAutriche devait Ãªtre soigneusement conservÃ©e et
+lâAllemagne ramenÃ©e Ã  des Ãtats sÃ©parÃ©s comme elle lâÃ©tait avant de
+tomber sous la domination prussienne.
+
+                   *       *       *       *       *
+
+La rÃ©daction du traitÃ© de Versailles ne fut pas gÃªnÃ©e seulement par la
+contradiction des intÃ©rÃªts en prÃ©sence, mais aussi par le dÃ©sir de cÃ©der
+Ã  certaines exigences en raison de la reconnaissance due Ã  lâAngleterre
+et Ã  lâAmÃ©rique. Venus, croyait-on, au secours de la France, pour
+sauvegarder le droit et la justice, ces Ãtats reconnaissent aujourdâhui
+Ãªtre entrÃ©s dans la lutte uniquement pour dÃ©fendre leurs intÃ©rÃªts
+menacÃ©s.
+
+                   *       *       *       *       *
+
+Les confÃ©rences atteignent frÃ©quemment un but contraire Ã  celui quâelles
+se proposaient. La confÃ©rence de GÃªnes ne fit que consolider la
+situation des soviets et favoriser le rapprochement, si opposÃ© aux
+intÃ©rÃªts franÃ§ais, de la Russie et de lâAllemagne.
+
+                   *       *       *       *       *
+
+Lorsque des diplomates se rÃ©unissent pour rÃ©soudre une question sur
+laquelle ils sont certains de ne pas sâentendre, la discussion se porte
+immÃ©diatement sur des dÃ©tails accessoires afin dâÃ©viter le sujet
+principal. Câest ainsi quâÃ  Washington la question du libre
+Ã©tablissement des Japonais aux Ãtats-Unis, qui obsÃ©dait tous les
+esprits, ne fut mÃªme pas effleurÃ©e.
+
+
+IV
+
+LES TRAITÃS DâALLIANCE ET LEUR VALEUR
+
+Il devient impossible de prÃ©voir oÃ¹ conduira une alliance, et câest sans
+doute pourquoi certains grands peuples hÃ©sitent aujourdâhui Ã  en
+contracter. Ils nâont pas oubliÃ© que lâalliance de la France avec la
+Russie entraÃ®na une guerre ruineuse, et que la trahison de lâalliÃ©e pour
+laquelle nous Ã©tions entrÃ©s en lutte avec lâAllemagne faillit nous faire
+perdre la guerre.
+
+                   *       *       *       *       *
+
+Quand on Ã©tudiera les origines de la grande guerre il faudra remonter
+assez loin pour dÃ©terminer la genÃ¨se des sentiments qui animaient alors
+les divers pays. Si, par exemple, la Russie se dÃ©tourna de lâAllemagne
+pour aller vers la France, ce fut surtout parce que Bismarck, aprÃ¨s le
+conflit russo-turc, empÃªcha les Russes de prendre Constantinople.
+Lâempereur Guillaume le rappelle dans ses _MÃ©moires_ lorsquâil dit quâen
+1914 Â«la revanche pour Sedan sâunit Ã  la revanche pour StefanoÂ».
+
+                   *       *       *       *       *
+
+Un alliÃ© trop puissant est parfois aussi redoutable quâun ennemi
+dÃ©clarÃ©. Lâalliance dâun peuple faible avec un peuple fort ne constitue
+gÃ©nÃ©ralement pour le peuple faible quâune forme attÃ©nuÃ©e de la
+servitude.
+
+                   *       *       *       *       *
+
+Lâalliance de plusieurs peuples durant une guerre est gÃ©nÃ©ralement trÃ¨s
+stable, parce que leurs intÃ©rÃªts sont alors identiques. Lâunion pendant
+la paix sâaffaiblit au contraire trÃ¨s vite parce que les intÃ©rÃªts en
+prÃ©sence deviennent bientÃ´t divergents.
+
+                   *       *       *       *       *
+
+Les traitÃ©s dâalliance ou de paix perpÃ©tuelle ne peuvent jamais Ãªtre une
+Åuvre dâentiÃ¨re bonne foi. Les politiciens qui les signent connaissent
+trop bien lâHistoire pour ignorer quâun pacte entre puissances liÃ©es par
+des intÃ©rÃªts communs se dissout dÃ¨s que disparaÃ®t la communautÃ©
+dâintÃ©rÃªts qui le fit naÃ®tre.
+
+                   *       *       *       *       *
+
+Parmi les difficultÃ©s qui accompagnÃ¨rent la rÃ©daction du traitÃ© de paix
+figura lâobligation oÃ¹ se trouvaient nos gouvernants de choisir entre
+une solitude pleine de futurs dangers et une alliance fertile en
+dÃ©boires, mais qui semblait nÃ©cessaire. Il nâest pas certain que la
+solution choisie fut la meilleure.
+
+                   *       *       *       *       *
+
+Une entente sans Ã©crit vaut mieux, dit-on, quâun Ã©crit sans entente. Il
+ne faut pas oublier, cependant, que ce fut surtout lâabsence dâÃ©crit
+entre la France et lâAngleterre qui fit espÃ©rer Ã  lâAllemagne la
+neutralitÃ© britannique, et lui suggÃ©ra de nous dÃ©clarer la guerre.
+
+                   *       *       *       *       *
+
+Les traitÃ©s dâalliance chargÃ©s de rÃ©ticences sont plus dangereux
+quâutiles par la fausse sÃ©curitÃ© quâils inspirent.
+
+                   *       *       *       *       *
+
+Lorsque, aprÃ¨s avoir Ã©tÃ© un lien qui unit, les alliances deviennent une
+chaÃ®ne qui entrave, leur dÃ©sagrÃ©gation est prochaine.
+
+
+V
+
+LA SOCIÃTÃ DES NATIONS
+
+Le palais de la SociÃ©tÃ© des nations Ã  GÃªnes est aux yeux des
+psychologues un palais dâillusions, mais ces illusions se trouvent
+enveloppÃ©es dâespÃ©rances assez fortes pour en voiler la mÃ©diocritÃ©. Les
+peuples sâimaginent que cet arÃ©opage de sages vieillards dÃ©couvrira le
+moyen de soustraire le monde Ã  lâenfer de ruines et de dÃ©solation auquel
+aboutissent les guerres modernes.
+
+                   *       *       *       *       *
+
+Les juristes vertueux mais bornÃ©s qui, aux confÃ©rences de la Haye,
+prÃ©tendaient proscrire lâusage de certaines armes, ne soupÃ§onnaient pas
+la supÃ©rioritÃ© militaire quâils auraient ainsi attribuÃ©e aux pays
+dÃ©daignant leurs prescriptions sur ceux qui les auraient respectÃ©es.
+
+                   *       *       *       *       *
+
+Les rÃªveries humanitaires, et notamment le principe des nationalitÃ©s,
+ont contribuÃ© Ã  plonger lâEurope dans un Ã©tat dâanarchie dont nul ne
+peut prÃ©voir le terme.
+
+                   *       *       *       *       *
+
+La SociÃ©tÃ© des nations restera une absurditÃ© psychologique jusquâau jour
+oÃ¹ elle possÃ©dera une force morale ou matÃ©rielle suffisante pour la
+transformer en un super-Ãtat dont les dÃ©cisions seraient aussi
+universellement respectÃ©es que celles des Papes au moyen Ã¢ge.
+
+                   *       *       *       *       *
+
+Tous les projets dâarbitrage international par une SociÃ©tÃ© des nations
+semblent devoir rester bien illusoires lorsquâil sâagira de concilier
+des intÃ©rÃªts nettement inconciliables. Ãtait-il un arbitrage possible
+entre Rome et Carthage Ã  lâÃ©poque des guerres puniques ou entre
+lâAngleterre et la France quand elles se disputaient la domination de
+lâInde? Nul arbitrage nâest possible entre le Japon cherchant Ã  dÃ©verser
+sur les Ãtats-Unis lâexcÃ©dent de sa population et la grande RÃ©publique
+qui refuse lâinvasion de la race jaune. De tels intÃ©rÃªts Ã©tant aussi
+diffÃ©rents que ceux du mouton et du boucher, du gibier et du chasseur,
+la guerre constitue le seul arbitre dont les dÃ©cisions soient
+respectÃ©es.
+
+                   *       *       *       *       *
+
+La lutte rÃ©cente des Turcs contre les Grecs montre une fois de plus que
+certaines questions ne peuvent Ãªtre rÃ©solues que par le canon.
+
+
+
+
+CHAPITRE IV
+
+LE DROIT ET LA MORALE
+
+
+I
+
+LES COUTUMES ET LES LOIS
+
+Le roi, la loi et lâopinion reprÃ©sentent les divers principes de
+gouvernement. Les rois ayant perdu leur prestige restent sans force.
+Lâopinion est trop mobile pour donner de la stabilitÃ© Ã  un peuple. La
+loi seule peut aujourdâhui crÃ©er la stabilitÃ©. DÃ¨s quâelle cesse dâÃªtre
+respectÃ©e, lâanarchie commence.
+
+                   *       *       *       *       *
+
+Refuser dâobÃ©ir Ã  un chef, Ã  une loi, Ã  une croyance, en un mot Ã  une
+contrainte, câest se condamner Ã  nâavoir pour guides que des impulsions
+instinctives et retourner, par consÃ©quent, Ã  lâÃ©tat de barbarie dont les
+peuples mirent tant de siÃ¨cles Ã  sortir.
+
+                   *       *       *       *       *
+
+La vie sociale et la vie scientifique constituent deux faces de la
+civilisation rÃ©gies par des principes bien diffÃ©rents. Dans la vie
+sociale, le respect du principe dâautoritÃ©--autoritÃ© du chef, de la loi,
+des coutumes--est une condition fondamentale dâexistence. Dans la vie
+scientifique, le rejet absolu du principe dâautoritÃ© reprÃ©sente, au
+contraire, la condition nÃ©cessaire du progrÃ¨s. DÃ¨s que le principe
+dâautoritÃ© sâintroduit dans une science, le dÃ©veloppement de cette
+science sâarrÃªte.
+
+                   *       *       *       *       *
+
+Ãdicter des lois violant les habitudes et les intÃ©rÃªts gÃ©nÃ©raux, et ne
+pouvant donc Ãªtre observÃ©es, câest Ã©branler dans les Ã¢mes le respect des
+codes, ciment essentiel des grandes civilisations.
+
+                   *       *       *       *       *
+
+PrÃ©tendre combattre avec des lois les nÃ©cessitÃ©s Ã©conomiques qui mÃ¨nent
+le monde est une dangereuse erreur. Les lois restrictives accumulÃ©es
+depuis quelques annÃ©es pour obÃ©ir aux exigences de thÃ©oriciens
+simplistes, nâont fait que paralyser la vie industrielle, agricole,
+Ã©conomique de plusieurs peuples.
+
+                   *       *       *       *       *
+
+Les luttes de lâavenir entre les diverses classes dâun mÃªme peuple ne se
+feront probablement pas toujours Ã  main armÃ©e. Elles se traduiront
+surtout, comme chez les anciens Grecs, par des lois sociales provoquant
+la ruine totale des plus faibles.
+
+                   *       *       *       *       *
+
+Les lois rÃ©pressives deviennent prÃ©ventives dÃ¨s quâelles sont imposÃ©es
+avec rigueur. La crainte du chÃ¢timent est alors plus efficace que son
+application. La mÃ©connaissance de ce principe psychologique contribua
+beaucoup Ã  lâaccroissement de la criminalitÃ© dans divers pays.
+
+                   *       *       *       *       *
+
+Les effets dâune loi dÃ©pendent toujours de la mentalitÃ© des hommes
+quâelle est destinÃ©e Ã  rÃ©gir. Les juristes rÃ©pÃ¨tent que les lois ne sont
+rien sans les mÅurs, mais dÃ¨s quâils se mettent Ã  lÃ©gifÃ©rer, ils
+oublient cette maxime.
+
+                   *       *       *       *       *
+
+Les lois sociales, qui reprÃ©sentent des contraintes artificielles,
+restent bientÃ´t sans force. Les lois Ã©conomiques rÃ©sultant de nÃ©cessitÃ©s
+naturelles sâimposent au contraire toujours, malgrÃ© les efforts tentÃ©s
+pour les violer.
+
+                   *       *       *       *       *
+
+Une des erreurs dÃ©mocratiques les plus rÃ©pandues est de croire que les
+lois peuvent Ã©tablir des coutumes. En rÃ©alitÃ©, les coutumes engendrent
+finalement des lois, mais les lois ne crÃ©ent que rarement des coutumes.
+
+                   *       *       *       *       *
+
+Parmi les milliers dâhommes aspirant Ã  Ã©tablir le rÃ¨gne du droit et de
+la justice, bien peu seraient capables de dÃ©finir le droit et la
+justice.
+
+
+II
+
+LE DROIT ET LA FORCE
+
+La force ne prime pas le droit, mais le droit ne se dÃ©montre que par la
+force.
+
+                   *       *       *       *       *
+
+Le droit sans force est comparable aux dÃ©cors de forteresses peints sur
+les toiles dâun thÃ©Ã¢tre. Incapables de rÃ©sister au moindre choc, ils ne
+conservent leur aspect redoutable que si lâon nây touche pas.
+
+                   *       *       *       *       *
+
+Une force quelconque ne peut Ã©videmment Ãªtre annulÃ©e que par une autre
+au moins Ã©gale. Assurer que le droit domine la force serait absurde si
+lâon ne sous-entendait ainsi que le droit arrive Ã  susciter des forces
+supÃ©rieures aux puissances matÃ©rielles quâil doit vaincre.
+
+                   *       *       *       *       *
+
+On peut mÃ©dire de la force et assurer quâelle ne saurait triompher du
+droit, mais en politique rien ne la remplace. Quelques semaines avant la
+foudroyante victoire de Kemal, le premier ministre anglais dÃ©daignait de
+recevoir son envoyÃ©. Le lendemain de la victoire, le mÃªme ministre
+traitait sur un pied dâÃ©galitÃ© avec la Turquie si mÃ©prisÃ©e la veille et
+lui abandonnait des provinces oÃ¹ avait flottÃ© le drapeau britannique.
+
+                   *       *       *       *       *
+
+Le droit et la force acquiÃ¨rent un grand pouvoir par leur association.
+La force seule nâengendre pas de succÃ¨s durable. Les Allemands en ont
+fait lâexpÃ©rience.
+
+                   *       *       *       *       *
+
+La force a toujours gouvernÃ© le monde, mais ce ne furent pas les mÃªmes
+forces qui prÃ©dominÃ¨rent aux divers Ã¢ges de lâhistoire. Les forces
+Ã©conomiques tendent Ã  devenir aussi souveraines du monde actuel que les
+forces religieuses le furent jadis.
+
+                   *       *       *       *       *
+
+OÃ¹ sÃ©vit lâinÃ©galitÃ©, sÃ©vit aussi lâinjustice. Ne pouvant empÃªcher
+lâinÃ©galitÃ©, loi irrÃ©ductible de la nature, il faut bien se rÃ©signer Ã 
+subir lâinjustice.
+
+                   *       *       *       *       *
+
+Il est difficile de reprocher aux Allemands leur persistance Ã  proclamer
+la supÃ©rioritÃ© de la force. Vaincus par les armÃ©es que leur besoin
+dâhÃ©gÃ©monie dÃ©chaÃ®na, ils voient Ã  quel Ã©tat misÃ©rable le manque de
+force peut conduire un peuple.
+
+
+III
+
+LES FORCES MORALES
+
+Il nâest pas dâexemple de peuples arrivÃ©s Ã  la civilisation sans
+discipline, sans respect des lois et sans morale.
+
+                   *       *       *       *       *
+
+Un peuple ne sort de la barbarie que par lâacquisition dâune morale trÃ¨s
+stable. DÃ¨s quâil lâa perdue, il retourne Ã  la barbarie.
+
+                   *       *       *       *       *
+
+La guerre a montrÃ© une fois encore que la puissance dâune nation rÃ©side
+beaucoup plus dans sa force morale que dans sa culture intellectuelle.
+
+                   *       *       *       *       *
+
+La lutte mondiale fut peut-Ãªtre la premiÃ¨re au cours de lâhistoire oÃ¹ le
+succÃ¨s final dÃ©pendit autant de la rÃ©sistance des soldats que de la
+capacitÃ© des gÃ©nÃ©raux. Ludendorff, dans ses _MÃ©moires_, reconnaÃ®t que la
+guerre lui sembla perdue quand il vit flÃ©chir le moral de son armÃ©e.
+
+                   *       *       *       *       *
+
+Les liens moraux peuvent devenir aussi forts que des liens matÃ©riels.
+Sur la trirÃ¨me qui le ramenait volontairement Ã  Carthage, oÃ¹ il se
+savait condamnÃ© Ã  pÃ©rir, le consul RÃ©gulus Ã©tait attachÃ© par sa parole
+plus rigoureusement quâil ne lâeÃ»t Ã©tÃ© par des chaÃ®nes de fer. Rome
+domina le monde tant quâelle possÃ©da de tels hommes.
+
+                   *       *       *       *       *
+
+Les lois scientifiques gardent leur invariabilitÃ© Ã  travers le temps
+chez les peuples les plus divers. La morale change au contraire selon
+les besoins de chaque Ã©poque. Si, comme le remarquait Pascal, ce quâon
+appelle vice et vertu varie avec les climats, câest que le vice et la
+vertu, Ã©tant lâexpression des nÃ©cessitÃ©s sociales dâune Ã©poque, se
+transforment forcÃ©ment quand ces nÃ©cessitÃ©s Ã©voluent. Il est donc
+naturel quâen matiÃ¨re sociale Â«la vÃ©ritÃ© en deÃ§Ã  des PyrÃ©nÃ©es devienne
+erreur au delÃ Â».
+
+                   *       *       *       *       *
+
+La caractÃ©ristique des natures primitives est de cÃ©der facilement Ã 
+leurs impulsions. Il faut une longue Ã©ducation ancestrale pour apprendre
+au cerveau Ã  dominer les impulsions des sens, et acquÃ©rir ainsi ce
+_self-control_ que les Anglais considÃ¨rent comme une des plus
+importantes qualitÃ©s du caractÃ¨re.
+
+                   *       *       *       *       *
+
+Lâhomme vraiment moral nâa pas besoin de discuter sa morale avant
+dâagir. Une morale dÃ©battue demeure gÃ©nÃ©ralement sans force.
+
+                   *       *       *       *       *
+
+Les canons restent des armes vaines quand ils ne sont pas soutenus par
+la force morale des combattants.
+
+                   *       *       *       *       *
+
+Un peuple ayant perdu son armature morale est bien prÃ¨s dâavoir tout
+perdu.
+
+
+IV
+
+LES SOURCES DE LA MORALE
+
+La morale servant de guide dans la vie a de tout autres sources que
+celle enseignÃ©e par les livres.
+
+                   *       *       *       *       *
+
+La discipline externe, momentanÃ©ment imposÃ©e par une force matÃ©rielle,
+disparaÃ®t avec cette force. Une discipline interne, fondÃ©e sur
+lâhabitude, se maintient au contraire sans la nÃ©cessitÃ© dâune loi ou
+dâun maÃ®tre.
+
+                   *       *       *       *       *
+
+Si la religion avait beaucoup dâinfluence sur la morale, les peuples les
+plus religieux seraient les plus moraux. Or, si lâon vante la
+religiositÃ© des Espagnols et des Russes, personne ne loue beaucoup leur
+moralitÃ©.
+
+                   *       *       *       *       *
+
+Une morale ayant la crainte de lâenfer et lâespoir du paradis pour bases
+nâest quâune forme un peu infÃ©rieure de la morale utilitaire. Les
+thÃ©ologiens auraient dÃ» le remarquer depuis longtemps.
+
+                   *       *       *       *       *
+
+La vertu ne reposant que sur la crainte de lâenfer et lâespoir du
+Paradis, est entiÃ¨rement dÃ©pourvue de mÃ©rite. Les solitaires de
+_Port-Royal_ obsÃ©dÃ©s par la terreur de la damnation suivaient des
+mobiles Ã©goÃ¯stes ne mÃ©ritant aucune considÃ©ration.
+
+                   *       *       *       *       *
+
+Les disciplines purement rationnelles quâon prÃ©tend gÃ©nÃ©raliser
+aujourdâhui resteront toujours impuissantes Ã  dominer les impulsions
+instinctives.
+
+                   *       *       *       *       *
+
+Quelles sont les bases possibles de la morale? La peur des dieux? Leurs
+chÃ¢timents sont lointains et peu redoutÃ©s aujourdâhui. La crainte des
+lois? Elles sâÃ©ludent facilement. La raison? Il nây a plus que de rares
+professeurs pour lui attribuer un tel rÃ´le. La seule morale efficace est
+la morale inconsciente crÃ©Ã©e par les habitudes. Ces habitudes se
+dÃ©veloppent Ã  lâÃ©cole, puis Ã  la caserne, par une discipline dâabord
+sÃ©vÃ¨rement imposÃ©e, mais pratiquÃ©e ensuite sans effort grÃ¢ce au
+mÃ©canisme de la rÃ©pÃ©tition.
+
+                   *       *       *       *       *
+
+Les universitaires qui, depuis Kant, prÃ©tendent Ã©difier la morale sur
+une base Ã  la fois rationnelle et mystique, au lieu de la fonder sur des
+habitudes issues de lâÃ©ducation, ne donnent quâun enseignement
+totalement dÃ©pourvu dâefficacitÃ©.
+
+                   *       *       *       *       *
+
+La morale individuelle a pour soutien puissant la morale collective.
+Dans les manifestations de leur vie journaliÃ¨re, les hommes pensent et
+agissent gÃ©nÃ©ralement comme les autres membres du groupe professionnel,
+politique ou social auquel ils appartiennent. Leurs actes individuels
+sont alors rÃ©gis par des influences collectives.
+
+                   *       *       *       *       *
+
+Le problÃ¨me de lâorganisation--industrielle ou sociale--reprÃ©sente
+surtout une question de discipline morale. Il Ã©chappe Ã  lâaction des
+institutions et des lois.
+
+
+
+
+CHAPITRE V
+
+LES FORMES MODERNES DU DESPOTISME
+
+
+I
+
+LâEXTRÃMISME
+
+LâextrÃ©misme observÃ© chez tous les partis rÃ©volutionnaires est un Ã©tat
+mental oÃ¹ lâhomme, dominÃ© par une idÃ©e fixe, devient incapable de
+percevoir les rÃ©alitÃ©s et leurs consÃ©quences.
+
+                   *       *       *       *       *
+
+Les extrÃ©mistes de toutes opinions possÃ¨dent, malgrÃ© la divergence des
+buts poursuivis, des caractÃ¨res identiques. LâextrÃ©miste sincÃ¨re est
+mystique, violent et bornÃ©.
+
+                   *       *       *       *       *
+
+Un extrÃ©miste qui possÃ©derait quelque trace de jugement et de
+clairvoyance cesserait aussitÃ´t dâÃªtre extrÃ©miste.
+
+                   *       *       *       *       *
+
+Le Conventionnel, pourvoyeur fervent de la guillotine, qui se dÃ©clarait
+prÃªt Ã  transformer son pays en cimetiÃ¨re pour imposer ses croyances,
+traduisait la mentalitÃ© des extrÃ©mistes de tous les Ã¢ges. Les apÃ´tres du
+syndicalisme, du communisme et du socialisme rÃªvent les mÃªmes massacres.
+
+                   *       *       *       *       *
+
+La suggestion et la contagion mentale conduisent facilement une foule Ã 
+lâextrÃ©misme, mais cet extrÃ©misme est gÃ©nÃ©ralement Ã©phÃ©mÃ¨re.
+
+                   *       *       *       *       *
+
+Dans les assemblÃ©es rÃ©volutionnaires, les opinions extrÃªmes tendent Ã 
+engendrer des opinions plus extrÃªmes encore. AprÃ¨s les Girondins, ce fut
+la Terreur. Aux rÃ©volutionnaires russes modÃ©rÃ©s qui renversÃ¨rent le
+tsarisme, se substituÃ¨rent bientÃ´t les sanguinaires bolchevistes.
+
+                   *       *       *       *       *
+
+Depuis les origines de lâhistoire, tous les partis politiques extrÃªmes
+dÃ©butent dans la splendeur des illusions et finissent dans la bassesse
+des rivalitÃ©s intestines.
+
+                   *       *       *       *       *
+
+Les progrÃ¨s de certaines opinions extrÃ©mistes, visiblement absurdes,
+confirment cette fondamentale notion, que la force dâune thÃ©orie sociale
+ou religieuse ne dÃ©pend pas de sa valeur rationnelle, mais seulement de
+son empire sur les Ã¢mes.
+
+                   *       *       *       *       *
+
+Lâambition et le besoin de popularitÃ© ont pu conduire certains hommes
+clairvoyants Ã  lâextrÃ©misme; mais, sachant trÃ¨s bien que son application
+rendrait tout gouvernement impossible, ils le rejettent en arrivant au
+pouvoir.
+
+                   *       *       *       *       *
+
+A la phase ultime de son Ã©volution, lâextrÃ©misme ressort beaucoup plus
+du domaine de la pathologie mentale que de la politique. Les
+Ã©tablissements dâaliÃ©nÃ©s sont remplis dâextrÃ©mistes.
+
+
+II
+
+LE SOCIALISME
+
+Le socialisme, terme incertain, recouvre, suivant les races, des
+concepts trÃ¨s diffÃ©rents. Il en rÃ©sulte que, dans leurs congrÃ¨s, les
+socialistes de divers pays ne sâentendent guÃ¨re.
+
+                   *       *       *       *       *
+
+Le socialisme aux Ãtats-Unis diffÃ¨re totalement du socialisme europÃ©en.
+LâidÃ©al du travailleur amÃ©ricain est de devenir patron, alors que
+lâouvrier latin rÃªve surtout la suppression du patron.
+
+                   *       *       *       *       *
+
+Lâhypertrophie de certains sentiments est fort dangereuse pour un
+peuple. Celle de lâenvie, fondement principal du socialisme, a dÃ©jÃ 
+occasionnÃ© autant de ravages en Europe que les plus redoutables flÃ©aux.
+
+                   *       *       *       *       *
+
+Si la jalousie, lâenvie et la haine pouvaient Ãªtre Ã©liminÃ©es de
+lâunivers, le socialisme disparaÃ®trait le mÃªme jour.
+
+                   *       *       *       *       *
+
+La haine des inÃ©galitÃ©s, base du socialisme, entraÃ®ne comme consÃ©quence
+nÃ©cessaire la destruction des Ã©lites qui font la grandeur dâun pays. Le
+bolchevisme russe comprit parfaitement cette nÃ©cessitÃ© quand il procÃ©da
+au massacre systÃ©matique des intellectuels. Le socialisme
+rÃ©volutionnaire qui triompha un instant en Allemagne et en Hongrie,
+rÃ©pÃ©ta les mÃªmes destructions.
+
+                   *       *       *       *       *
+
+Le socialisme niveleur, trÃ¨s accessible Ã  lâÃ¢me simpliste des foules,
+oriente facilement les forces aveugles et dÃ©vastatrices du nombre.
+
+                   *       *       *       *       *
+
+La haine intense des socialistes pour le capitalisme ne traduit souvent
+quâune forme aiguÃ« du dÃ©sir de richesse. Les pays comme les Ãtats-Unis,
+oÃ¹ lâaccÃ¨s Ã  la fortune est relativement facile, comptent peu de
+socialistes.
+
+                   *       *       *       *       *
+
+Les lois dites sociales ont un pouvoir destructeur parfois supÃ©rieur Ã 
+celui des canons. Câest ainsi que lâapplication de la loi de huit heures
+Ã  notre marine commerciale lâaurait rapidement ruinÃ©e au profit de
+concurrents trop intelligents pour accepter un tel dÃ©cret. Il fallut
+lâabroger.
+
+                   *       *       *       *       *
+
+Supprimer, comme le voudraient les socialistes, la concurrence entre
+peuples et entre individus serait anÃ©antir un grand facteur
+psychologique du progrÃ¨s. Sans lâÃ©mulation, la plupart des dÃ©couvertes
+dont bÃ©nÃ©ficie lâhumanitÃ© nâeussent jamais vu le jour.
+
+                   *       *       *       *       *
+
+La population ouvriÃ¨re des Ãtats-Unis montre expÃ©rimentalement que les
+classes dÃ©clarÃ©es ennemies par les socialistes ont beaucoup plus
+dâintÃ©rÃªt Ã  sâassocier quâÃ  se combattre. Si cette vÃ©ritÃ© pouvait
+sâÃ©tablir en France, notre vie Ã©conomique et sociale serait transformÃ©e.
+
+                   *       *       *       *       *
+
+Lâinitiative, le jugement, lâÃ©mulation, le goÃ»t du risque, qualitÃ©s
+gÃ©nÃ©ratrices des grandes dÃ©couvertes qui ont transformÃ© le monde, sont
+des aptitudes exclusivement individuelles quâaucune collectivitÃ© ne
+possÃ©da jamais. Un pays oÃ¹ les socialistes rÃ©ussiraient Ã  ruiner
+lâeffort individuel ne rÃ©aliserait plus un seul progrÃ¨s.
+
+                   *       *       *       *       *
+
+Puisque des expÃ©riences rÃ©pÃ©tÃ©es pendant de longs siÃ¨cles dâhistoire
+nâont pas suffi Ã  prouver que les progrÃ¨s des peuples sâeffectuent
+seulement par leurs Ã©lites, il Ã©tait utile que la ruine de la Russie
+vÃ®nt le dÃ©montrer une fois encore.
+
+
+III
+
+LE SYNDICALISME
+
+La RÃ©volution avait divinisÃ© la volontÃ© du peuple. Nos rÃ©volutionnaires
+modernes lâexaltent aussi, mais dÃ©jÃ  ils en sÃ©parent une sorte
+dâaristocratie qualifiÃ©e Â«prolÃ©tariat organisÃ© et conscientÂ». En vertu
+de ce nouveau concept ils dÃ©daignent la libertÃ©, le suffrage universel
+et toutes les conquÃªtes dÃ©mocratiques.
+
+                   *       *       *       *       *
+
+La discipline rigide acceptÃ©e par les adeptes du syndicalisme montre Ã 
+quel point il deviendra despotique. On peut se demander si lâesclavage
+total de lâindividu ne constitue pas lâaboutissement nÃ©cessaire de
+lâÃ©volution dÃ©mocratique.
+
+                   *       *       *       *       *
+
+Si les syndicats groupaient seulement des intÃ©rÃªts matÃ©riels similaires
+leur influence serait faible; mais, en associant des mÃ©contentements et
+des haines, ils acquiÃ¨rent une grande puissance rÃ©volutionnaire.
+
+                   *       *       *       *       *
+
+Les plus dangereux conflits de lâavenir ne se produiront pas toujours
+entre peuples rivaux. Ils Ã©clateront entre syndicats dâun mÃªme peuple,
+rendus concurrents par leurs divergences dâintÃ©rÃªts. Les rÃ©publiques
+syndicalistes italiennes du moyen Ã¢ge, celle de Florence notamment,
+pÃ©rirent tour Ã  tour en de pareils conflits.
+
+                   *       *       *       *       *
+
+Si la dictature du prolÃ©tariat que rÃ©clament les socialistes devait Ãªtre
+exercÃ©e par la totalitÃ© des travailleurs, elle ne diffÃ©rerait pas dâun
+gouvernement dÃ©mocratique ordinaire. PratiquÃ©e seulement par quelques
+individus, elle serait identique Ã  celle des anciens rÃ©gimes
+autocratiques.
+
+                   *       *       *       *       *
+
+Les thÃ©oriciens de la raison pure nâont pas Ã©tÃ© heureux dans leurs
+tentatives pour lâappliquer au gouvernement des peuples. La premiÃ¨re,
+celle de la grande RÃ©volution, rÃ©alisÃ©e suivant lâÃ©vangile de Rousseau,
+aboutit aux massacres de la Terreur et Ã  vingt ans de guerres. La
+seconde, celle de la Russie, inspirÃ©e par lâÃ©vangile de Karl Marx, amena
+la ruine totale du grand empire des tzars.
+
+
+IV
+
+LE COMMUNISME
+
+Le bolchevisme communiste, comme le socialisme, a pour caractÃ©ristiques
+essentielles le mÃ©contentement, la haine des supÃ©rioritÃ©s et le dÃ©sir de
+dÃ©truire violemment lâordre de choses Ã©tabli.
+
+                   *       *       *       *       *
+
+Quand, par une cause quelconque, le mÃ©contentement grandit chez un
+peuple, il accepte dâemblÃ©e la premiÃ¨re doctrine proposÃ©e pour remÃ©dier
+Ã  ses maux. Le succÃ¨s du communisme chez diverses nations est une
+consÃ©quence de cette loi.
+
+                   *       *       *       *       *
+
+On trouve facilement des hommes disposÃ©s Ã  massacrer, mais fort peu qui
+soient capables de diriger les mÃ©canismes compliquÃ©s dâune civilisation.
+Les communistes russes ne soupÃ§onnaient pas cette vÃ©ritÃ© Ã©lÃ©mentaire
+quand ils assassinÃ¨rent systÃ©matiquement les intellectuels de leur pays.
+Ils nâaperÃ§urent leur erreur que devant la ruine Ã©conomique qui rÃ©sulta
+de ces hÃ©catombes.
+
+                   *       *       *       *       *
+
+La dÃ©sorganisation de la Russie, dont les ouvriers travaillent douze
+heures par jour sous la fÃ©rule de maÃ®tres trÃ¨s durs, pour un maigre
+morceau de pain, montre une fois encore combien les sociÃ©tÃ©s sont des
+organismes compliquÃ©s. Fils de la nÃ©cessitÃ© et du temps, ils sont aussi
+impossibles Ã  transformer avec des dÃ©crets que la structure dâun Ãªtre
+vivant.
+
+                   *       *       *       *       *
+
+Contrairement Ã  ses thÃ©ories, le communisme Ã©volue de plus en plus vers
+un nationalisme jadis inconnu. Les Russes ne comprirent la force de
+lâidÃ©e de patrie que le jour oÃ¹ cette patrie parut menacÃ©e par
+lâÃ©tranger.
+
+                   *       *       *       *       *
+
+On a dit, avec raison, au Parlement anglais, que la Russie ne manquait
+pas dâargent, mais des cerveaux de lâOccident. LâexpÃ©rience seule put
+faire entrer cette vÃ©ritÃ© dans la faible cervelle des communistes.
+
+                   *       *       *       *       *
+
+Si les thÃ©ories communistes avaient rÃ©gi lâhumanitÃ© Ã  travers les Ã¢ges,
+lâhomme vivrait encore au fond des cavernes, vÃªtu de peaux de bÃªtes et
+disputant aux animaux fÃ©roces une problÃ©matique pÃ¢ture. La persistance
+du bolchevisme en Russie ramÃ¨nerait bientÃ´t ce pays aux tÃ©nÃ¨bres de la
+prÃ©histoire.
+
+                   *       *       *       *       *
+
+Une sociÃ©tÃ© purement bolcheviste nâa pas plus besoin de savants que les
+nÃ¨gres du continent africain.
+
+                   *       *       *       *       *
+
+Le communisme russe a subi deux phases bien diffÃ©rentes. La premiÃ¨re,
+lâÃ©galisation gÃ©nÃ©rale, obtenue par le pillage des fortunes et le
+massacre des intellectuels. Ce fut lâÃ¢ge dâor de la doctrine. Mais aprÃ¨s
+lâÃ©puisement des stocks pillÃ©s, lorsque, faute de capacitÃ©s, les usines,
+les mines et les moyens de transports cessÃ¨rent dâÃªtre utilisables,
+lâillusion sâÃ©vanouit. Il fallut alors solliciter les capitaux et
+lâintelligence de lâOccident.
+
+                   *       *       *       *       *
+
+Lâextension du socialisme Ã©galitaire, qui ravage la Russie, ramÃ¨nerait
+lâEurope Ã  la phase de barbarie qui suivit les anciennes invasions
+germaniques.
+
+
+V
+
+LâÃGALITÃ ET LE BESOIN DE SERVITUDE
+
+La libertÃ© nâest, le plus souvent, pour lâhomme que la facultÃ© de
+choisir sa servitude.
+
+                   *       *       *       *       *
+
+Le premier ministre de lâEmpire britannique assurait que Â«le monde
+entier Ã©tait las de toutes les souverainetÃ©sÂ». En rÃ©alitÃ©, les peuples
+nâont jamais autant demandÃ© quâaujourdâhui Ã  Ãªtre gouvernÃ©s. Les
+rÃ©volutionnaires eux-mÃªmes ne cessent de rÃ©clamer des dictateurs.
+
+                   *       *       *       *       *
+
+Le problÃ¨me socialiste se ramÃ¨ne Ã  savoir si lâÃ©galitÃ© dans la misÃ¨re,
+sans moyen dâen sortir, est prÃ©fÃ©rable Ã  des inÃ©galitÃ©s qui, permettant
+toutes les ambitions, constituent pour lâhomme un stimulant Ã©nergique
+dâefforts et de progrÃ¨s.
+
+                   *       *       *       *       *
+
+Quelles que puissent Ãªtre les combinaisons rÃªvÃ©es, une dictature du
+prolÃ©tariat se ramÃ¨nera toujours Ã  la tyrannie absolue de quelques
+meneurs. Le rÃ©sultat final dâun tel rÃ©gime serait, comme en Russie,
+lâaggravation notable de lâancien despotisme.
+
+                   *       *       *       *       *
+
+Si les bossus arrivaient Ã  former la majoritÃ© dâune sociÃ©tÃ©, ils
+feraient probablement exterminer tous les individus se permettant de
+nâÃªtre pas contrefaits. Câest pour une raison du mÃªme ordre que les
+communistes russes supprimÃ¨rent tant dâintellectuels.
+
+
+
+
+CHAPITRE VI
+
+LâÃVOLUTION DES CIVILISATIONS
+
+
+I
+
+COMMENT LES CIVILISATIONS NAISSENT ET COMMENT ELLES DISPARAISSENT
+
+Les civilisations se fondent sur un petit nombre dâidÃ©es tenues pour des
+certitudes et universellement respectÃ©es. Ce nâest pas leur valeur
+rationnelle mais leur rÃ´le quâil importe de connaÃ®tre.
+
+                   *       *       *       *       *
+
+Les grandes civilisations furent dominÃ©es chacune par un Ã©lÃ©ment
+diffÃ©rent. ÃlÃ©ment militaire dans la civilisation romaine; Ã©lÃ©ment
+artistique et littÃ©raire dans la civilisation grecque; Ã©lÃ©ment religieux
+dans la civilisation du moyen Ã¢ge; Ã©lÃ©ment industriel dans le monde
+moderne.
+
+                   *       *       *       *       *
+
+La prÃ©dominance actuelle de la technique confÃ¨re Ã  lâingÃ©nieur et Ã 
+lâouvrier une autoritÃ© comparable Ã  celle des hommes dâÃglise pendant le
+moyen Ã¢ge.
+
+                   *       *       *       *       *
+
+Les peuples dont lâÃ¢me est stabilisÃ©e par un long passÃ© possÃ¨dent seuls,
+malgrÃ© les divergences de partis, des opinions unanimes sur les
+questions fondamentales concernant les intÃ©rÃªts collectifs de leur race.
+
+                   *       *       *       *       *
+
+Lâhistoire des peuples civilisÃ©s retombÃ©s dans la barbarie, comme le
+monde romain aprÃ¨s les invasions germaniques et la Russie de nos jours,
+rÃ©vÃ¨le lâimportance de certains Ã©lÃ©ments de civilisation, tels que le
+respect des contrats, de la propriÃ©tÃ© et de la vie des citoyens. Leur
+possession semble trÃ¨s naturelle. Pour les acquÃ©rir il fallut cependant
+des siÃ¨cles dâefforts.
+
+                   *       *       *       *       *
+
+La civilisation crÃ©e forcÃ©ment plus dâentraves Ã  la libertÃ© que lâÃ©tat
+sauvage, mais il faut supporter ces entraves pour sâÃ©lever de la
+barbarie Ã  la civilisation.
+
+                   *       *       *       *       *
+
+Lâaction des hallucinÃ©s dans le monde a Ã©tÃ© prodigieuse. De leurs idÃ©es
+dÃ©rive lâarmature des grandes civilisations. Il nâest pas trÃ¨s sÃ»r que
+la face du monde aurait changÃ©, comme lâaffirmait Pascal, si le nez de
+ClÃ©opÃ¢tre eÃ»t Ã©tÃ© plus court. Il est certain que de tout autres formes
+de civilisations se fussent manifestÃ©es si de grands hallucinÃ©s comme
+Bouddha et Mahomet nâavaient pas possÃ©dÃ© le merveilleux pouvoir de faire
+accepter par des millions dâhommes les illusions issues de leurs rÃªves.
+
+                   *       *       *       *       *
+
+Tous les grands empires qui ne furent pas anÃ©antis par des conquÃªtes
+pÃ©rirent sous lâinfluence des guerres civiles, câest-Ã -dire se
+dÃ©truisirent eux-mÃªmes. Tel fut le sort de la GrÃ¨ce dans le monde
+antique, des rÃ©publiques italiennes au moyen Ã¢ge, tel sera celui de la
+Pologne et probablement de lâIrlande dans les temps modernes.
+
+                   *       *       *       *       *
+
+Un peuple dont la population croÃ®t plus vite que ses moyens de
+subsistance finit toujours par envahir ses voisins. En sâemparant de
+toutes les colonies oÃ¹ lâAllemagne pouvait dÃ©verser lâexcÃ©dent de ses
+habitants, lâAngleterre encercla au centre de lâEurope une nation amenÃ©e
+pour vivre Ã  empiÃ©ter sur ses voisins, dÃ¨s quâelle se croira la plus
+forte.
+
+                   *       *       *       *       *
+
+Il est dangereux pour un peuple de compter dans son sein trop de vanitÃ©s
+individuelles et pas assez dâorgueils collectifs.
+
+                   *       *       *       *       *
+
+A certaines heures de la vie des peuples, lâintelligence dâun seul homme
+peut changer leur destinÃ©e. LâAngleterre Ã©tait sur le point de rayer la
+Turquie de lâEurope lorsque le gÃ©nie dâun gÃ©nÃ©ral sauva cet empire de
+lâabÃ®me oÃ¹ il allait sombrer.
+
+                   *       *       *       *       *
+
+Les nouvelles conceptions politiques fondÃ©es sur le droit des nations Ã 
+disposer dâelles-mÃªmes ne peuvent sâappliquer ni aux peuples amorphes,
+ne sachant pas au juste ce quâils veulent, ni Ã  ceux qui sont incapables
+de vouloir longtemps la mÃªme chose.
+
+                   *       *       *       *       *
+
+Les peuples, comme les individus, ne progressent que par des efforts
+continus. Quand leur Ã©volution progressive sâarrÃªte, une Ã©volution
+rÃ©gressive, crÃ©atrice de dÃ©gÃ©nÃ©rescence, lui succÃ¨de bientÃ´t.
+
+
+II
+
+LES INSTITUTIONS POLITIQUES
+
+Bien des rÃ©volutions seront, sans doute, encore nÃ©cessaires pour prouver
+que les changements dâinstitutions politiques ont une influence trÃ¨s
+faible sur la vie des nations. Câest la mentalitÃ© des peuples et non les
+institutions qui dÃ©termine leur histoire.
+
+                   *       *       *       *       *
+
+LâÃ©tat actuel dâun Ãªtre quelconque Ã©tant dÃ©terminÃ© par la succession de
+ses Ã©tats antÃ©rieurs, les transformations rÃ©alisables par chaque
+gÃ©nÃ©ration sont toujours minimes. LâÃ©tat social dâun peuple se trouvant
+Ã©galement conditionnÃ© par ses Ã©tats antÃ©rieurs, les changements absolus
+que rÃªvent les partis politiques ne sont jamais rÃ©alisables.
+
+                   *       *       *       *       *
+
+La trame de la vie mentale dâun peuple est composÃ©e dâidÃ©es,
+dâhabitudes, de croyances, de prÃ©jugÃ©s mÃªme, souvent dÃ©pourvus de valeur
+rationnelle, mais indispensables cependant Ã  lâexistence de ce peuple.
+
+                   *       *       *       *       *
+
+Pour changer les institutions dâun peuple, il faudrait dâabord
+transformer les sentiments et les rÃªves qui forment lâarmature de son
+Ã¢me. LâimpossibilitÃ© de telles modifications explique pourquoi les
+thÃ©oriciens du radicalisme nâont jamais rÃ©ussi Ã  imposer nos
+institutions aux indigÃ¨nes des colonies.
+
+                   *       *       *       *       *
+
+La dictature du prolÃ©tariat rÃ©clamÃ©e par les dirigeants des partis
+socialistes et syndicalistes signifie uniquement la possession, pour ces
+dirigeants, de tous les profits que lâexercice du pouvoir entraÃ®ne.
+
+                   *       *       *       *       *
+
+Dans les sciences, lâautoritÃ© des faits a depuis longtemps remplacÃ©
+lâautoritÃ© des personnes. En politique, lâautoritÃ© personnelle reste
+toujours nÃ©cessaire.
+
+                   *       *       *       *       *
+
+LâunitÃ© dâun peuple peut Ãªtre artificiellement crÃ©Ã©e par la force dâun
+chef, mais elle dÃ©pend alors de lâaction de ce chef et ne lui survit
+pas. La seule unitÃ© durable est celle que rÃ©alise dans les Ã¢mes la
+communautÃ© dâinstitutions, dâintÃ©rÃªts et de croyances.
+
+                   *       *       *       *       *
+
+Un parti politique prÃ©tendant dominer tous les autres finit par
+engendrer des rÃ©actions qui dÃ©terminent sa fin. Les croissants
+privilÃ¨ges de la noblesse et du clergÃ© amenÃ¨rent la rÃ©volution
+franÃ§aise. Les prÃ©tentions de lâAllemagne Ã  lâhÃ©gÃ©monie dÃ©clanchÃ¨rent la
+guerre oÃ¹ elle devait sombrer.
+
+                   *       *       *       *       *
+
+Au point de vue des institutions politiques possibles, les peuples
+peuvent Ãªtre divisÃ©s en stables, instables et amorphes.
+
+                   *       *       *       *       *
+
+La Russie Ã©tant une masse amorphe de peuples primitifs sans intÃ©rÃªts
+communs, sans traditions et sans culture que recouvre une mince
+pellicule de civilisation, lâautocratie peut seule y Ã©tablir lâunitÃ©.
+
+                   *       *       *       *       *
+
+Chez les peuples infÃ©rieurs, un pouvoir politique ne subsiste quâen
+devenant absolutiste ou thÃ©ocratique.
+
+                   *       *       *       *       *
+
+Les populations asiatiques ne supportant que des institutions
+autocratiques, le communisme russe fut bientÃ´t obligÃ© dâadopter un
+rÃ©gime pratiquement identique Ã  celui des anciens tsars.
+
+                   *       *       *       *       *
+
+En politique, lâaction engendrant comme en mÃ©canique une rÃ©action Ã©gale
+et contraire, toute tyrannie grandissante crÃ©e rapidement une rÃ©action
+destructrice de cette tyrannie.
+
+
+III
+
+QUELQUES CONSÃQUENCES DES IDÃES DÃMOCRATIQUES
+
+Une dÃ©mocratie se dÃ©finit thÃ©oriquement: le gouvernement par le peuple.
+En rÃ©alitÃ©, aucune dÃ©mocratie ne se maintient sans la direction dâune
+Ã©lite. Quand un gouvernement dÃ©mocratique comme celui de lâAngleterre
+dure longtemps, câest quâil a fini par devenir une aristocratie de la
+fortune et de lâintelligence.
+
+                   *       *       *       *       *
+
+Le triomphe dâune dÃ©mocratie marque souvent la fin du pays oÃ¹ il se
+produit. Sous les influences dÃ©mocratiques, la GrÃ¨ce sombra dans la
+servitude, Rome dans la dÃ©cadence, les RÃ©publiques italiennes du moyen
+Ã¢ge et la Russie moderne dans lâanarchie et la dictature.
+
+                   *       *       *       *       *
+
+Platon soutenait que tous les progrÃ¨s de lâesprit humain sont dus Ã 
+lâaristocratie de lâintelligence. Contrairement Ã  cette doctrine, les
+dictateurs russes divisÃ¨rent les hommes en quatre classes, dont la plus
+haute se trouvait reprÃ©sentÃ©e par les ouvriers manuels et la plus basse
+par les intellectuels. Une ruine totale montra vite les consÃ©quences de
+cette classification.
+
+                   *       *       *       *       *
+
+LâexpÃ©rience russe aura dÃ©finitivement prouvÃ© quâun gouvernement
+bourgeois, si mÃ©diocre quâon le suppose, est infiniment moins despotique
+quâun gouvernement prolÃ©tarien, si parfait quâil puisse Ãªtre.
+
+                   *       *       *       *       *
+
+Loin de rÃ©duire les haines internationales, le progrÃ¨s des dÃ©mocraties
+les rend chaque jour plus fortes.
+
+                   *       *       *       *       *
+
+Une des plus frÃ©quentes erreurs du rÃ©gime parlementaire consiste Ã 
+renverser les dirigeants au moment prÃ©cis oÃ¹ les Ã©vÃ©nements, dominant
+les volontÃ©s, ne permettent pas aux successeurs des ministres renversÃ©s
+de rien changer Ã  la politique de leurs prÃ©dÃ©cesseurs.
+
+                   *       *       *       *       *
+
+Le principe du service universel obligatoire substituant aux petites
+armÃ©es de jadis la totalitÃ© des habitants valides dâun pays, est
+Ã©videmment parfait au point de vue dÃ©mocratique. Dans la pratique, il
+engendre de vÃ©ritables guerres dâextermination et, par consÃ©quent, la
+destruction des dÃ©mocraties crÃ©atrices de ce principe.
+
+                   *       *       *       *       *
+
+LâÃ¢ge moderne se trouve obligÃ© de faire vivre ensemble des hommes
+exigeant lâÃ©galitÃ©, alors que les progrÃ¨s des civilisations, comme ceux
+de la nature, se rÃ©alisent seulement par des inÃ©galisations successives.
+
+
+IV
+
+LES RÃCITS HISTORIQUES
+
+Les historiens se mettraient peut-Ãªtre dâaccord si les Ã©vÃ©nements ne
+prÃ©sentaient quâune seule face; mais comme ils en ont plusieurs,
+susceptibles dâinterprÃ©tations diverses, lâaccord devient impossible.
+
+                   *       *       *       *       *
+
+Les livres dâhistoire rÃ©vÃ¨lent surtout les croyances de leurs auteurs.
+
+                   *       *       *       *       *
+
+Si lâhistoire est une science trÃ¨s conjecturale, ce nâest pas seulement
+en raison de notre faible connaissance des Ã©vÃ©nements, mais aussi parce
+que les sentiments qui les dÃ©terminÃ¨rent restent ignorÃ©s.
+
+                   *       *       *       *       *
+
+Certains Ã©vÃ©nements comme la Saint-BarthÃ©lemy semblent
+incomprÃ©hensibles, parce que nous nâÃ©prouvons plus les sentiments qui
+les firent naÃ®tre. Il faudrait possÃ©der la mentalitÃ© de lâÃ©poque pour
+comprendre lâenthousiasme provoquÃ© par ce massacre dans lâEurope
+catholique. De nombreuses mÃ©dailles furent frappÃ©es, notamment par
+GrÃ©goire XVI, pour fÃªter lâÃ©vÃ©nement. Les tableaux que fit exÃ©cuter ce
+pape pour en perpÃ©tuer les dÃ©tails figurent toujours au Vatican.
+
+                   *       *       *       *       *
+
+Les narrations historiques sont tellement incertaines quâon y rencontre
+les mÃªmes erreurs rÃ©pÃ©tÃ©es indÃ©finiment. Quelques auteurs ayant assurÃ©
+que lâempire byzantin constituait une pÃ©riode de dÃ©cadence, tous les
+Ã©crivains lâont redit. Il fallut les ressources de lâÃ©rudition moderne
+pour dÃ©montrer que lâEmpire byzantin possÃ©da pendant mille ans une des
+plus brillantes civilisations de lâhistoire.
+
+                   *       *       *       *       *
+
+On a justement fait observer que les guerres modernes ruinent autant le
+vainqueur que le vaincu. Il ne faudrait pas, cependant, les croire
+inutiles, puisque quelques batailles suffisent parfois pour transformer
+entiÃ¨rement les conditions dâexistence dâun peuple. Câest par sa lutte
+avec la Russie que le Japon devint une grande puissance. Câest par sa
+guerre avec la GrÃ¨ce que la Turquie, sur le point de disparaÃ®tre, reprit
+son ancienne puissance. Câest encore par la guerre que fut transfÃ©rÃ©e Ã 
+lâAngleterre lâhÃ©gÃ©monie germanique.
+
+                   *       *       *       *       *
+
+En politique, les principes thÃ©oriques dÃ©duits de la raison pure crÃ©ent
+facilement des dÃ©sastres. Le principe dâÃ©quilibre rÃ©sultant de la lente
+action des siÃ¨cles avait amenÃ© lâEurope Ã  un certain Ã©tat de stabilitÃ©.
+Le nouveau principe thÃ©orique des nationalitÃ©s la conduira fatalement Ã 
+des guerres rÃ©pÃ©tÃ©es jusquâÃ  ce que des Ã©quilibres nouveaux soient
+Ã©tablis.
+
+                   *       *       *       *       *
+
+Des ententes provisoires sont supÃ©rieures aux alliances parce quâune
+alliance, quelle que soit sa forme, ne survit pas Ã  lâÃ©vanouissement des
+intÃ©rÃªts qui la firent naÃ®tre.
+
+                   *       *       *       *       *
+
+Le grand talent des historiens douÃ©s de prestige est de rendre
+vraisemblables les invraisemblances de lâhistoire.
+
+                   *       *       *       *       *
+
+Les dÃ©couvertes de la psychologie suffisent Ã  montrer que lâhistoire
+classique est le rÃ©cit dâÃ©vÃ©nements aussi incompris de leurs auteurs que
+des Ã©crivains qui les racontÃ¨rent.
+
+                   *       *       *       *       *
+
+LâÃ©tude de lâhistoire ne semble pas donner aux historiens une grande
+facultÃ© de prÃ©vision. On sait avec quelle ardeur beaucoup de
+professeurs, et surtout Renan, formaient jadis des vÅux pour la
+rÃ©alisation de lâunitÃ© allemande qui nous valut les guerres de 1870 et
+de 1914.
+
+
+
+
+CHAPITRE VII
+
+LâINTELLIGENCE, LE CARACTÃRE ET LâÃDUCATION
+
+
+I
+
+LâINCOMPRÃHENSION ET LES CONFLITS DE MENTALITÃS
+
+Les mÃªmes mots pouvant Ã©voquer des idÃ©es diffÃ©rentes, la communautÃ© de
+langage nâimplique nullement celle des pensÃ©es. LâincomprÃ©hension domine
+les relations entre individus de sexe, dâÃ©ducation, de race, diffÃ©rents.
+
+                   *       *       *       *       *
+
+Comment espÃ©rer une communautÃ© de pensÃ©e quand on voit les plus usitÃ©s
+des termes abstraits Dieu, Ã¢me, nature, libertÃ©, etc., Ã©voquer des
+conceptions trÃ¨s diverses suivant la mentalitÃ© des Ãªtres qui les
+entendent?
+
+                   *       *       *       *       *
+
+Vouloir interprÃ©ter au point de vue rationnel un sentiment ou une
+croyance, câest sâinterdire de les comprendre. Le rationnel dont le rÃ´le
+se montre si grand dans la genÃ¨se des dÃ©couvertes exerce une trÃ¨s faible
+influence dans la vie des peuples.
+
+                   *       *       *       *       *
+
+La comprÃ©hension dâun code, dâune institution, dâun traitÃ©, variant avec
+les passions, les croyances, les prÃ©jugÃ©s de chaque Ã©poque, les
+interprÃ©tations des historiens changent constamment.
+
+                   *       *       *       *       *
+
+La jeunesse se montre toujours intolÃ©rante parce que, nâayant ni le sens
+des possibilitÃ©s ni celui des nÃ©cessitÃ©s, elle croit facile de rÃ©former
+ce qui choque sa logique rationnelle. Il faut rÃ©flÃ©chir longtemps pour
+dÃ©couvrir que ce nâest pas cette logique qui mÃ¨ne le monde.
+
+                   *       *       *       *       *
+
+Les contes, les lÃ©gendes, les Åuvres dâart, les romans mÃªme, sont
+beaucoup plus vÃ©ridiques que les livres dâhistoire. Ils expriment la
+sensibilitÃ© dâune Ã©poque, alors que le langage rationnel des historiens
+ne la fait pas connaÃ®tre.
+
+                   *       *       *       *       *
+
+Notre opinion des choses doit naturellement varier avec lâÃ©volution de
+ces choses. Lâignorant seul possÃ¨de des opinions invariables.
+
+                   *       *       *       *       *
+
+Si lâincomprÃ©hension domine les relations entre peuples, câest que la
+plupart des questions impliquent des points de vue divers: rationnel,
+sentimental et politique nâayant pas de commune mesure.
+
+                   *       *       *       *       *
+
+La sympathie naÃ®t facilement entre nations Ã©loignÃ©es ne se connaissant
+pas. DÃ¨s quâelles se trouvent en contact, leurs divergences de
+sentiments, dâidÃ©es et de croyances Ã©clatent et toute sympathie
+sâÃ©vanouit.
+
+                   *       *       *       *       *
+
+Avec lâinterdÃ©pendance Ã©conomique croissante des peuples, lâEurope
+cessera bientÃ´t dâÃªtre le centre du monde. Elle ne lâest plus
+militairement depuis que lâexpÃ©rience a prouvÃ© quâune armÃ©e pouvait
+facilement franchir lâOcÃ©an. Elle ne lâest plus scientifiquement depuis
+que les inventions du nouveau monde Ã©galent celles de lâancien. Elle ne
+lâest plus Ã©conomiquement depuis que la majeure partie de lâor europÃ©en
+a passÃ© en AmÃ©rique.
+
+                   *       *       *       *       *
+
+Il est aussi difficile de vivre avec les hommes ne changeant jamais
+dâidÃ©es quâavec ceux qui en changent constamment.
+
+                   *       *       *       *       *
+
+Des Ã©vÃ©nements comme ceux de la grande guerre restent toujours mal
+compris quand on les isole de leurs causes passÃ©es et de leurs effets
+futurs.
+
+
+II
+
+LE CARACTÃRE ET LâINTELLIGENCE DANS LA VIE DES PEUPLES
+
+Lâhomme sâavoue rarement les sentiments qui le mÃ¨nent et que,
+dâailleurs, il ne connaÃ®t pas toujours. Les rÃ©volutionnaires
+extrÃ©mistes, dont la haine et lâenvie sont les vrais guides, se croient
+animÃ©s du dÃ©sir dâÃ©tablir le rÃ¨gne de la justice et du bonheur.
+
+                   *       *       *       *       *
+
+Les erreurs intellectuelles sont gÃ©nÃ©ralement sans durÃ©e. Les erreurs
+dâorigine sentimentale ou mystique persistent, au contraire, longtemps
+et rÃ©ussissent parfois Ã  bouleverser le monde.
+
+                   *       *       *       *       *
+
+Parmi les facteurs actuels de la vie des peuples lâenvie est le plus
+fort, lâamour du prochain le plus faible, lâespÃ©rance le plus incertain.
+
+                   *       *       *       *       *
+
+LâamitiÃ© reprÃ©sente un sentiment faible, mais durable; lâamour, un
+sentiment fort, mais peu durable. Lâenvie, dont le rÃ´le social devient
+si prÃ©pondÃ©rant, constitue un des rares sentiments possÃ©dant Ã  la fois
+force et durÃ©e.
+
+                   *       *       *       *       *
+
+On trouve plus facilement mille hommes prÃªts Ã  obÃ©ir quâun seul capable
+de prendre une initiative.
+
+                   *       *       *       *       *
+
+Le plaisir de tuer, qui anime les chasseurs, est si grand quâon lâoffre
+avant tout autre aux souverains visitant un pays Ã©tranger.
+
+                   *       *       *       *       *
+
+Ne nous plaignons pas trop de voir lâhypocrisie gouverner les hommes. Le
+monde deviendrait vite un enfer si lâhypocrisie en Ã©tait bannie.
+
+                   *       *       *       *       *
+
+On croyait jadis que la science adoucirait les mÅurs. LâexpÃ©rience
+prouve, au contraire, quâelle a rendu les guerres beaucoup plus fÃ©roces
+et meurtriÃ¨res que celles du passÃ©.
+
+                   *       *       *       *       *
+
+Pour doser les sentiments, nous ne possÃ©dons encore aucun moyen de
+mesure. Le passage du qualitatif au quantitatif, qui transforma toutes
+les sciences, reste Ã  rÃ©aliser dans le cycle de lâaffectif.
+
+                   *       *       *       *       *
+
+Si la science arrivait Ã  dÃ©couvrir un thermomÃ¨tre des sentiments, des
+passions et des volontÃ©s, la conduite de lâhomme dans une circonstance
+donnÃ©e serait aussi facile Ã  calculer que la trajectoire dâune planÃ¨te.
+
+                   *       *       *       *       *
+
+La civilisation rÃ©elle est celle des sentiments, disait un Japonais. On
+pourrait ajouter que si quelques annÃ©es dâenseignement universitaire
+procurent une dose suffisante de civilisation intellectuelle, il faut
+beaucoup plus de temps pour civiliser les sentiments. Les cruautÃ©s et
+les dÃ©vastations des Allemands pendant la guerre ont de nouveau montrÃ© Ã 
+quel point la civilisation de lâintelligence reste Ã©trangÃ¨re Ã  celle des
+sentiments.
+
+                   *       *       *       *       *
+
+Le fondement principal de la grandeur dâun peuple ne rÃ©side ni dans le
+chiffre de ses habitants, ni dans lâÃ©tendue de son territoire, ni dans
+le nombre de ses canons, mais dans la force de son caractÃ¨re.
+
+                   *       *       *       *       *
+
+Une volontÃ© forte est beaucoup plus utile dans la vie quâune instruction
+forte superposÃ©e Ã  une volontÃ© faible.
+
+                   *       *       *       *       *
+
+Loin dâÃªtre une preuve de caractÃ¨re, la violence constitue souvent une
+manifestation de faiblesse. Lâhomme faible se montre parfois violent
+pour cacher sa faiblesse.
+
+                   *       *       *       *       *
+
+LâÃªtre qui ne sait pas dominer ses impulsions instinctives devient
+facilement esclave de ceux qui lui proposent de les satisfaire.
+
+                   *       *       *       *       *
+
+Dans toutes les affaires humaines il faut risquer pour rÃ©ussir. Câest de
+la juste Ã©valuation des chances de gain et de perte que dÃ©pendent les
+grands succÃ¨s.
+
+                   *       *       *       *       *
+
+Bien des Ã©vÃ©nements de la derniÃ¨re guerre ont prouvÃ© quels dÃ©sastres
+peuvent causer lâindÃ©cision et lâabsence dâinitiative. Il a Ã©tÃ© reconnu
+devant le Parlement anglais que la guerre eÃ»t Ã©tÃ© trÃ¨s brÃ¨ve si, au
+dÃ©but des hostilitÃ©s, les navires alliÃ©s avaient eu Ã  leur tÃªte un
+amiral assez hardi pour entrer Ã  Constantinople comme le firent les
+Allemands. Pour tÃ¢cher de rÃ©parer cette insuffisance du caractÃ¨re,
+100.000 hommes pÃ©rirent inutilement dans lâexpÃ©dition des Dardanelles.
+
+                   *       *       *       *       *
+
+Dans les civilisations compliquÃ©es oÃ¹ la moindre profession se hÃ©risse
+de concours mnÃ©moniques Ã©liminatoires, il arrive fatalement que des
+capacitÃ©s rÃ©elles ne peuvent se libÃ©rer de ces artificielles barriÃ¨res.
+Ainsi se produisent des pertes de forces et des haines de classes
+inconnues dans les pays neufs comme lâAmÃ©rique, oÃ¹ ces entraves sont
+ignorÃ©es.
+
+                   *       *       *       *       *
+
+Un sentiment fort ne pouvant Ãªtre dominÃ© que par un sentiment plus fort,
+on comprend lâusage de la terreur par les conquÃ©rants et les fondateurs
+de croyances. Les codes civils ou religieux eurent toujours de
+terrifiantes menaces pour soutiens.
+
+                   *       *       *       *       *
+
+Pour agir sur les Ãªtres qui nous entourent, la connaissance de leurs
+dÃ©fauts est parfois plus utile que celle de leurs qualitÃ©s.
+
+                   *       *       *       *       *
+
+Une des grandes causes de faiblesse des peuples latins tient Ã  ce que
+tout leur personnel dirigeant est issu dâexamens universitaires prouvant
+la mÃ©moire des candidats, mais nullement les qualitÃ©s de caractÃ¨re qui
+font la valeur de lâhomme dans la vie.
+
+
+III
+
+LâINTELLIGENCE, LES SENTIMENTS ET LâINTUITION
+
+Lâintelligence et les sentiments sont des compagnons insÃ©parables, mais
+qui, depuis lâorigine des Ã¢ges, ont rarement rÃ©ussi Ã  sâentendre.
+
+                   *       *       *       *       *
+
+Lâintelligence ayant considÃ©rablement Ã©voluÃ© dans le cours des siÃ¨cles,
+alors que les sentiments ont peu changÃ©, il en rÃ©sulte une discordance
+croissante entre la logique sentimentale, qui dÃ©termine la conduite, et
+la logique rationnelle, qui cherche Ã  la diriger, mais y rÃ©ussit
+rarement.
+
+                   *       *       *       *       *
+
+Dans le domaine de lâintelligence, la diffÃ©rence entre les hommes est
+immense. Dans les cycles de lâaffectif et du mystique oÃ¹ sâÃ©laborent les
+causes de nos actions, lâinÃ©galitÃ© disparaÃ®t. Câest pour cette raison
+quâun bolcheviste sans culture et un professeur instruit peuvent
+accepter des illusions identiques.
+
+                   *       *       *       *       *
+
+La raison se met facilement au service des sentiments, alors que ces
+derniers se mettent rarement au service de la raison. Cette loi
+psychologique explique lâorigine de guerres quâaucun argument rationnel
+ne pourrait justifier.
+
+                   *       *       *       *       *
+
+LâÃªtre dont lâintelligence ne rÃ©ussit pas Ã  dominer la sensibilitÃ©
+pourra devenir un remarquable artiste, un Ã©minent Ã©crivain, mais non un
+homme dâÃtat supÃ©rieur.
+
+                   *       *       *       *       *
+
+Une conviction fondÃ©e seulement sur la raison devient rarement mobile
+dâaction. Les influences mystiques et sentimentales sont indispensables
+pour faire agir.
+
+                   *       *       *       *       *
+
+Lâhomme est en progrÃ¨s quand il commence a sÃ©parer sa raison de ses
+passions. Le progrÃ¨s sâaccentue lorsque sa raison devient assez forte
+pour dominer un sentiment prÃ©sent en lui opposant lâinfluence dâun
+sentiment lointain.
+
+                   *       *       *       *       *
+
+Lâacquisition de lâaptitude Ã  dominer ses sentiments exigea des siÃ¨cles
+dâefforts. Bien des peuples en sont restÃ©s Ã  lâÃ¢ge oÃ¹ ÃsaÃ¼ vendait
+contre un plat de lentilles prÃ©sent son droit dâaÃ®nesse futur.
+
+                   *       *       *       *       *
+
+GrÃ¢ce au mode de connaissance qualifiÃ© intuition, les femmes arrivent Ã 
+deviner des consÃ©quences que la logique rationnelle ne perÃ§oit pas
+aisÃ©ment.
+
+                   *       *       *       *       *
+
+La raison seule peut montrer si les certitudes intuitives constituent
+des rÃ©alitÃ©s ou des erreurs. Lâintelligence est donc le complÃ©ment
+nÃ©cessaire de lâintuition.
+
+                   *       *       *       *       *
+
+Les intuitions intellectuelles sont gÃ©nÃ©ratrices de dÃ©couvertes dans
+tous les domaines de lâart et de la pensÃ©e. Les intuitions sentimentales
+reprÃ©sentent les vÃ©ritables guides dans les circonstances difficiles de
+la vie.
+
+                   *       *       *       *       *
+
+On reconnaÃ®t quâune poussiÃ¨re dâhommes est devenue une nation lorsque,
+dans les grands Ã©vÃ©nements comme la derniÃ¨re guerre, se forment
+instantanÃ©ment des intuitions collectives conduisant tous les citoyens Ã 
+une conduite identique malgrÃ© les divergences de croyances.
+
+                   *       *       *       *       *
+
+Lâhabitude, permettant de canaliser les intuitions et refrÃ©ner les
+impulsions, constitue un guide de la vie plus sÃ»r que tous les
+enseignements des livres.
+
+
+IV
+
+LâINSTRUCTION ET LâÃDUCATION
+
+Dans les discussions sur la rÃ©forme de lâenseignement, un Ã©minent
+orateur assurait que Â«lâhellÃ©nisme donne Ã  lâesprit lâÃ©quilibre et
+lâharmonie dâun templeÂ». Cet Ã©quilibre de lâesprit ne suffit pas, sans
+doute, Ã  crÃ©er lâÃ©quilibre des sentiments puisque les permanentes
+dissensions des anciens Grecs les conduisirent Ã  la servitude.
+
+                   *       *       *       *       *
+
+Chaque phase dâune civilisation, diffÃ©rant des phases antÃ©rieures,
+nÃ©cessite une Ã©ducation adaptÃ©e aux besoins nouveaux et aux mentalitÃ©s
+nouvelles. Câest mÃ©connaÃ®tre cette vÃ©ritÃ© banale quâimposer Ã  la
+jeunesse actuelle la culture grÃ©co-latine du monde antique et du moyen
+Ã¢ge.
+
+                   *       *       *       *       *
+
+Les dÃ©fauts dâun peuple nâÃ©tant visibles quâaux Ã©trangers ne se
+corrigent guÃ¨re. Tous connaissent lâinfÃ©rioritÃ© de nos mÃ©thodes
+universitaires, mais comme nous ne lâapercevons pas, aucune rÃ©forme
+rÃ©elle nâest possible.
+
+                   *       *       *       *       *
+
+La nourriture intellectuelle donnÃ©e par lâinstruction est comparable Ã 
+la nourriture matÃ©rielle. Ce nâest pas ce quâon mange qui nourrit, mais
+seulement ce quâon digÃ¨re.
+
+                   *       *       *       *       *
+
+Beaucoup de nos idÃ©es sociales seront transformÃ©es lorsquâon dÃ©couvrira
+quâun ouvrier habile est intellectuellement fort supÃ©rieur Ã  un
+bachelier mÃ©diocre.
+
+                   *       *       *       *       *
+
+Il nâest dâÃ©ducation utile que celle cultivant les aptitudes spÃ©ciales
+de chaque Ãªtre. On obtient alors tout ce que lâÃ©lÃ¨ve peut donner sans
+exiger un inutile travail.
+
+                   *       *       *       *       *
+
+En imposant Ã  tous les Ã©lÃ¨ves une instruction identique, on obtient un
+minimum de rendement avec un maximum dâeffort.
+
+                   *       *       *       *       *
+
+Une des erreurs latines qui ont le plus pesÃ© sur la vie de nos colonies
+fut de croire que lâinstruction classique permettait de franchir
+rapidement les Ã©tapes sÃ©parant la barbarie de la civilisation. Un nÃ¨gre
+peut recevoir une Ã©ducation classique complÃ¨te sans devenir un homme
+civilisÃ©.
+
+                   *       *       *       *       *
+
+Les expÃ©riences permettant de remplacer la tÃªte dâun insecte par celle
+dâun autre insecte de sexe diffÃ©rent ont montrÃ© que les femelles Ã  tÃªte
+de mÃ¢le prennent les instincts des mÃ¢les. On peut se demander si
+lâÃ©ducation masculine donnÃ©e au sexe fÃ©minin ne rÃ©alisera pas
+indirectement cette substitution.
+
+                   *       *       *       *       *
+
+Les mÃ©thodes propres Ã  la culture de lâintelligence sont diverses. Pour
+agir sur le caractÃ¨re, il nâen existe quâune: la pratique des qualitÃ©s Ã 
+dÃ©velopper. Lâinitiative, la persÃ©vÃ©rance et la volontÃ© ne sâacquiÃ¨rent
+pas autrement.
+
+                   *       *       *       *       *
+
+Notre enseignement universitaire se transformera seulement quand il sera
+gÃ©nÃ©ralement admis que les livres ne suffisent pas Ã  Ã©duquer le
+caractÃ¨re, la morale et lâintelligence.
+
+                   *       *       *       *       *
+
+Câest avec raison que les Anglais et les AmÃ©ricains attribuent une forte
+influence Ã©ducatrice aux jeux sportifs. Ces jeux enseignent, notamment,
+lâart dâobÃ©ir, sans lequel ne saurait sâacquÃ©rir lâart de commander.
+
+                   *       *       *       *       *
+
+Les peuples ayant dÃ©couvert que lâÃ©ducation du caractÃ¨re est plus
+importante que celle de lâintelligence sont trÃ¨s en avance sur ceux qui
+nâont pas fait cette dÃ©couverte. Les universitÃ©s latines ne lâont pas
+rÃ©alisÃ©e encore.
+
+                   *       *       *       *       *
+
+La grande habiletÃ© de la Prusse fut de transformer, grÃ¢ce Ã  son systÃ¨me
+dâÃ©ducation pratique et Ã  sa discipline militaire, une poussiÃ¨re
+dâindividualitÃ©s mÃ©diocres, provenant de races diverses, en un bloc
+collectif trÃ¨s fort.
+
+                   *       *       *       *       *
+
+AprÃ¨s avoir constatÃ© que, depuis la paix, le goÃ»t du travail,
+lâhonnÃªtetÃ© professionnelle et la politesse disparaissaient de
+lâAllemagne, une revue germanique attribuait trÃ¨s justement cette
+dÃ©cadence Ã  ce que la jeunesse allemande nâest plus soumise Ã  la
+discipline militaire.
+
+                   *       *       *       *       *
+
+Un systÃ¨me quelconque dâinstruction ou dâÃ©ducation est parfait sâil
+rÃ©ussit Ã  crÃ©er des automatismes inconscients utiles. Lâintelligence
+possÃ¨de alors des serviteurs dociles prÃªts Ã  exÃ©cuter ses ordres. Mal
+dressÃ©s, ils ne les exÃ©cutent pas.
+
+                   *       *       *       *       *
+
+La discipline peut remplacer bien des qualitÃ©s. Aucune ne remplace la
+discipline.
+
+                   *       *       *       *       *
+
+Lâintelligence est un vernis qui recouvre les sentiments mais ne les
+transforme pas.
+
+                   *       *       *       *       *
+
+Le temps et lâhabitude usent rapidement lâamour mais fortifient au
+contraire lâamitiÃ©, mÃªme quand elle succÃ¨de parfois Ã  lâamour.
+
+                   *       *       *       *       *
+
+Le jugement sans volontÃ© est aussi inutile que la volontÃ© sans jugement.
+
+
+
+
+CHAPITRE VIII
+
+LES INFLUENCES CONSCIENTES ET INCONSCIENTES DANS LA VIE DES PEUPLES
+
+
+I
+
+LA VIE CONSCIENTE ET LA VIE INCONSCIENTE
+
+La vie inconsciente est Ã  la vie consciente ce quâest une montagne Ã  un
+grain de sable, la mer profonde aux vagues qui la recouvrent. Son Ã©tude
+Ã©claire dÃ©jÃ  dâune lumiÃ¨re toute nouvelle les mobiles de la conduite.
+
+                   *       *       *       *       *
+
+Câest la volontÃ© inconsciente quâil faut influencer pour dÃ©terminer les
+hommes Ã  lâaction. LâÃ¢me consciente peut Ãªtre convaincue par persuasion,
+mais la conviction seule ne suffit pas Ã  faire agir.
+
+                   *       *       *       *       *
+
+Les causes de certains Ã©vÃ©nements historiques, les origines de la grande
+guerre notamment, demeurent incomprÃ©hensibles quand on ignore les
+diffÃ©rences qui sÃ©parent la volontÃ© consciente de la volontÃ©
+inconsciente.
+
+                   *       *       *       *       *
+
+La substitution de la pensÃ©e collective Ã  la pensÃ©e individuelle
+reprÃ©sente une des caractÃ©ristiques de lâÃ¢ge actuel. Les hommes capables
+de pensÃ©es personnelles deviennent chaque jour plus rares. En politique
+ils ont Ã  peu prÃ¨s disparu.
+
+                   *       *       *       *       *
+
+Câest parce que les influences collectives agissent profondÃ©ment sur
+lâinconscient, que la part dâindÃ©pendance possible Ã  lâindividu isolÃ©
+devient fort restreinte.
+
+                   *       *       *       *       *
+
+Ce nâest pas toujours la mauvaise foi qui empÃªche de conformer les actes
+aux discours. Les actes importants traduisent les impulsions
+inconscientes de lâÃ¢me ancestrale, alors que les discours dÃ©rivent de
+lâÃ¢me consciente individuelle. Si, en 1914, les socialistes qui avaient
+jurÃ© de dÃ©serter en cas de guerre rejoignirent le front sans hÃ©siter,
+câest que lâÃ¢me inconsciente de la race qui dirigea leur conduite fut
+plus forte que la raison consciente inspirant leurs discours.
+
+                   *       *       *       *       *
+
+En politique, des mobiles inconscients dirigent souvent les actes que
+leurs auteurs croient dictÃ©s seulement par la raison. Le projet de
+dÃ©membrer la Turquie, qui souleva tout lâIslam contre lâAngleterre, eut
+pour principal auteur un pieux ministre anglais inconsciemment guidÃ© par
+lâidÃ©e dâune revanche de la croix sur le croissant.
+
+                   *       *       *       *       *
+
+Les grands bouleversements font naÃ®tre des idÃ©es inconscientes qui,
+substituÃ©es Ã  celles servant habituellement de guide, engendrent des
+mouvements sociaux imprÃ©vus.
+
+                   *       *       *       *       *
+
+Une opÃ©ration intellectuelle consciente suffisamment rÃ©pÃ©tÃ©e, passe dans
+lâinconscient et devient habitude. Maintenue pendant plusieurs
+gÃ©nÃ©rations, elle finit par constituer un caractÃ¨re de race.
+
+                   *       *       *       *       *
+
+Une dÃ©cision rÃ©flÃ©chie ne conduit pas toujours Ã  lâaction. Lâimmense
+majoritÃ© des hommes agit au contraire sous lâinfluence dâimpulsions
+inconscientes dont toute rÃ©flexion est exclue.
+
+                   *       *       *       *       *
+
+Il nâest de discipline rÃ©elle que la discipline devenue inconsciente.
+Celle qui repose uniquement sur la contrainte est sans durÃ©e et sans
+force.
+
+                   *       *       *       *       *
+
+Les habitudes inconscientes ont une force que ne possÃ¨dent jamais les
+principes.
+
+
+II
+
+LA VIE COLLECTIVE ET LE RÃLE DES MENEURS
+
+Les foules et les individus de mentalitÃ© infÃ©rieure possÃ¨dent ce
+caractÃ¨re commun dâÃªtre fortement influencÃ©s par les Ã©vÃ©nements prÃ©sents
+et trÃ¨s peu par leurs consÃ©quences, si inÃ©vitables quâelles puissent
+Ãªtre.
+
+                   *       *       *       *       *
+
+Lâerreur individuelle est tenue pour vÃ©ritÃ© dÃ¨s quâelle devient
+collective. Aucun argument rationnel ne peut alors lâÃ©branler.
+
+                   *       *       *       *       *
+
+Perdue dans les rouages complexes des civilisations modernes, enveloppÃ©e
+dâeffets dont les causes lui Ã©chappent, la foule attribue forcÃ©ment Ã 
+des volontÃ©s particuliÃ¨res les Ã©vÃ©nements dont elle ne peut saisir les
+lois. Ses rÃ©voltes nâont souvent pas dâautres causes.
+
+                   *       *       *       *       *
+
+Dans les grands Ã©vÃ©nements intÃ©ressant la vie dâun peuple, lâhomme agit
+surtout sous des influences collectives. Son Ã©goÃ¯sme individuel
+sâÃ©vanouit alors au point de lui faire sacrifier sans hÃ©siter sa vie Ã 
+des intÃ©rÃªts communs.
+
+                   *       *       *       *       *
+
+Les hommes se divisent en meneurs et en menÃ©s. Lâimmense majoritÃ© se
+compose de menÃ©s.
+
+                   *       *       *       *       *
+
+Une collectivitÃ© nâa dâautre cerveau que celui de son meneur.
+
+                   *       *       *       *       *
+
+Croyances politiques et croyances religieuses ont un mÃªme mÃ©canisme de
+propagation. Lâaffirmation, la rÃ©pÃ©tition, le prestige et la contagion
+suffisent Ã  crÃ©er des suggestions auxquelles les collectivitÃ©s rÃ©sistent
+rarement.
+
+                   *       *       *       *       *
+
+Les plus Ã©videntes vÃ©ritÃ©s restent sans action sur lâÃ¢me des multitudes
+quand elles manquent dâapÃ´tres pour les propager.
+
+                   *       *       *       *       *
+
+Les illusions que dâambitieux meneurs font surgir dans lâÃ¢me populaire
+deviennent souvent redoutables. Si lâillusion des capacitÃ©s politiques
+et industrielles du prolÃ©tariat, qui a dÃ©jÃ  ruinÃ© la Russie, continuait
+Ã  se rÃ©pandre, elle amÃ¨nerait la fin des plus brillantes civilisations.
+
+                   *       *       *       *       *
+
+Un meneur douÃ© de prestige nâa pas besoin de donner des explications.
+Les ordres expÃ©diÃ©s au CongrÃ¨s socialiste de Tours par les dictateurs de
+Moscou et dont ils obtinrent la respectueuse acceptation Ã©taient
+formulÃ©s en termes impÃ©rieux et brefs ne contenant aucun exposÃ© de
+doctrine.
+
+                   *       *       *       *       *
+
+La contagion mentale peut se produire sans lâintervention personnelle
+dâun meneur. Un mot, une formule, un courant dâopinion suffisent parfois
+Ã  suggestionner une multitude.
+
+                   *       *       *       *       *
+
+La mentalitÃ© grÃ©gaire des foules permettra toujours aux meneurs
+dâimposer une doctrine quelconque. Les plus absurdes croyances ne
+manquÃ¨rent jamais dâadeptes.
+
+                   *       *       *       *       *
+
+Le despotisme des meneurs de la classe ouvriÃ¨re dÃ©passe de beaucoup
+celui des tyrans asiatiques. Aucun de ces derniers nâaurait osÃ© ordonner
+lâarrÃªt total des chemins de fer, imposÃ© en Angleterre pendant un mois
+par les chefs syndicalistes, ni la suppression des journaux imposÃ©e en
+France pendant trois semaines par quelques meneurs.
+
+
+III
+
+LâAME DES PEUPLES
+
+La vie politique dâun peuple reste incomprÃ©hensible quand on ignore
+combien les sentiments individuels sont diffÃ©rents des sentiments
+collectifs.
+
+                   *       *       *       *       *
+
+LâÃ¢me dâun peuple stabilisÃ©e par un long passÃ© finit par possÃ©der des
+Ã©lÃ©ments aussi fixes que les caractÃ¨res anatomiques. Aucune Ã©ducation ne
+peut alors lui faire subir des transformations profondes.
+
+                   *       *       *       *       *
+
+La connaissance du caractÃ¨re dâun peuple, de sa morale, des idÃ©es qui le
+guident et de lâÃ©ducation quâil reÃ§oit, rÃ©vÃ¨le facilement sâil est sur
+la voie du progrÃ¨s ou sur celle de la dÃ©cadence.
+
+                   *       *       *       *       *
+
+Parmi les facteurs dÃ©terminant la force des Anglo-Saxons, aussi bien en
+Angleterre quâen AmÃ©rique, il faut citer: le _self-control_ et le
+respect des lois. Des siÃ¨cles dâefforts sont parfois nÃ©cessaires pour
+acquÃ©rir ces qualitÃ©s. Elles ne sâapprennent pas dans les livres.
+
+                   *       *       *       *       *
+
+Avec une dÃ©pÃªche anodine dont il altÃ©ra le sens, Bismarck provoqua en
+France une explosion dâindignation qui conduisit le gouvernement Ã 
+dÃ©clarer la guerre sans vÃ©rifier lâexactitude de cette dÃ©pÃªche. Il
+fallait bien connaÃ®tre la grande Ã©motivitÃ© du peuple franÃ§ais pour
+rÃ©ussir une telle opÃ©ration. Son succÃ¨s eÃ»t Ã©tÃ© probablement nul en
+Angleterre.
+
+                   *       *       *       *       *
+
+Ce fut surtout parce quâils avaient perdu leur discipline sociale que
+les Grecs, dont la pensÃ©e et les arts charmÃ¨rent le monde, furent
+asservis par des Romains ne possÃ©dant quâune faible culture, mais dont
+la discipline avait unifiÃ© les Ã¢mes.
+
+                   *       *       *       *       *
+
+Dans les grands Ã©vÃ©nements menaÃ§ant lâexistence dâun peuple, la volontÃ©
+des morts soutient Ã©nergiquement celle des vivants. Les nations nâayant
+pas assez de morts pour les dÃ©fendre ne rÃ©sistent guÃ¨re. Tel fut le cas
+de la Russie vers la fin de la grande guerre.
+
+                   *       *       *       *       *
+
+La plupart des hommes, surtout quand ils font partie dâune collectivitÃ©,
+Ã©prouvent le besoin dâÃªtre dirigÃ©s dans leurs moindres actes. Ce besoin
+de servitude est un des principaux Ã©lÃ©ments de succÃ¨s du socialisme.
+
+                   *       *       *       *       *
+
+Dans lâimmense majoritÃ© de leurs actes, les peuples sont dirigÃ©s par des
+habitudes et des croyances. Dans les circonstances oÃ¹ ces mobiles
+nâagissent plus, les illusions crÃ©Ã©es par les hasards du moment
+deviennent les seuls guides.
+
+                   *       *       *       *       *
+
+Les dÃ©couvertes individuelles transforment les civilisations. Les
+croyances collectives rÃ©gissent lâhistoire.
+
+                   *       *       *       *       *
+
+La grande force des dÃ©cisions collectives rÃ©side dans le pouvoir
+mystique que le nombre exerce sur lâÃ¢me des multitudes. Câest pour cette
+raison que les chefs dâÃtat sont obligÃ©s de paraÃ®tre sâappuyer sur
+lâopinion populaire.
+
+                   *       *       *       *       *
+
+Une des bases les plus efficaces de lâÃ©ducation morale est la contagion
+mentale rÃ©sultant de lâinfluence du milieu. Le vice aussi bien que la
+vertu se propagent par contagion.
+
+
+IV
+
+LES OSCILLATIONS DE LâOPINION
+
+Les lois de la genÃ¨se des opinions permettent seules de comprendre
+comment devint belliqueuse la mentalitÃ© pacifique dâAmÃ©ricains dÃ©sireux
+de rester neutres pour commercer fructueusement avec les belligÃ©rants.
+Sans doute lâhÃ©gÃ©monie allemande menaÃ§ait leurs futurs intÃ©rÃªts. Mais
+comment ces intÃ©rÃªts lointains devinrent-ils visibles? La guerre
+sous-marine ne fut quâune des causes de la transformation des sentiments
+qui dÃ©termina lâenvoi dâun million de soldats en Europe.
+
+                   *       *       *       *       *
+
+Tous les hommes sont plus ou moins suggestionnables, mais ils le sont
+surtout dans les sujets quâils ne connaissent pas. Ainsi sâexplique la
+crÃ©dulitÃ© de nombreux savants.
+
+                   *       *       *       *       *
+
+Avec les moyens actuels de publicitÃ©, une opinion une croyance, une
+doctrine, peuvent Ãªtre lancÃ©s comme un produit pharmaceutique
+quelconque. Ce fut par leur propagande que les communistes russes
+recrutÃ¨rent tant dâadeptes Ã  lâÃ©tranger.
+
+                   *       *       *       *       *
+
+Si la publicitÃ© des journaux constitue un moyen de persuasion trÃ¨s
+efficace, câest que peu dâesprits se trouvent assez forts pour rÃ©sister
+au pouvoir de la rÃ©pÃ©tition. Chez la plupart des hommes elle crÃ©e
+bientÃ´t la certitude.
+
+                   *       *       *       *       *
+
+Les influences dÃ©terminant le vote dâun Ã©lecteur sont bien rarement
+dâorigine rationnelle. Des haines, des craintes, des espÃ©rances,
+provoquent gÃ©nÃ©ralement son choix.
+
+                   *       *       *       *       *
+
+En matiÃ¨re scientifique, pour Ãªtre cru il faut prouver. En politique,
+les discours dâun orateur douÃ© de prestige suffisent Ã  crÃ©er
+dâimaginaires certitudes.
+
+                   *       *       *       *       *
+
+La presse canalise lâopinion beaucoup plus quâelle ne la dirige. Elle
+sert aussi Ã  condenser en termes nets des milliers de petites opinions
+fragmentaires trop incertaines pour Ãªtre clairement formulÃ©es.
+
+                   *       *       *       *       *
+
+Câest parce que la rÃ©pÃ©tition transforme facilement lâerreur en vÃ©ritÃ©
+que fut acceptÃ©e dans les milieux militaires la croyance au respect de
+la neutralitÃ© belge par les Allemands. Elle nous coÃ»ta lâinvasion de dix
+dÃ©partements.
+
+                   *       *       *       *       *
+
+Les Ã©vÃ©nements capables dâagir violemment sur la sensibilitÃ© collective
+produisent ce quâon appelle une explosion dâopinions, câest-Ã -dire
+lâorientation instantanÃ©e dâÃ©motions collectives dans le mÃªme sens.
+Ainsi naissent les rÃ©volutions. Telle, par exemple, celle du 4 septembre
+1870 qui renversa instantanÃ©ment lâEmpire. Telle encore la rÃ©volution
+allemande qui, au moment de lâarmistice, contraignit lâempereur
+dâAllemagne et tous les souverains germaniques Ã  une abdication
+immÃ©diate.
+
+                   *       *       *       *       *
+
+Câest sâillusionner sur les hommes dâÃtat que sâimaginer quâils
+apporteront dans leurs actes lâÃ©nergie manifestÃ©e dans leurs discours.
+
+                   *       *       *       *       *
+
+Si les peuples sont souvent dÃ©Ã§us par leurs gouvernants, câest quâils
+leur demandent de rÃ©aliser le meilleur, alors quâun homme dâÃtat ne peut
+rÃ©aliser que le possible.
+
+                   *       *       *       *       *
+
+Pour beaucoup dâÃªtres la vie serait parfois bien lourde si la nature ne
+leur avait donnÃ© la facultÃ© de parler sans rÃ©flÃ©chir et dâÃ©mettre des
+opinions dÃ©pourvues de tout fondement.
+
+                   *       *       *       *       *
+
+Câest du besoin de rÃ©criminer que dÃ©rivent la plupart des opinions
+populaires. Pour beaucoup dâesprits, rÃ©criminer reprÃ©sente un grand
+bonheur, souvent mÃªme le seul bonheur.
+
+
+
+
+CHAPITRE IX
+
+LâÃVOLUTION DES DIEUX DANS LâHISTOIRE
+
+
+I
+
+LE RÃLE DES DIEUX
+
+Lâhistoire des peuples est dominÃ©e par celle de leurs dieux. Dans les
+temps modernes cette domination est restÃ©e aussi grande, mais les
+divinitÃ©s ont changÃ© de nom. Elles sont remplacÃ©es par des idÃ©es et des
+formules auxquelles leurs adorateurs attribuent la mÃªme puissance quâaux
+anciens dieux.
+
+                   *       *       *       *       *
+
+Aucun peuple ne vÃ©cut sans dieux. Lâusure du temps, et non la raison,
+quelquefois les renverse, mais leur trÃ´ne ne reste jamais vide. Le
+paganisme usÃ© fit place au Christianisme, qui, usÃ© Ã  son tour, tend Ã 
+Ãªtre remplacÃ© par la foi socialiste.
+
+                   *       *       *       *       *
+
+Une civilisation entiÃ¨rement dÃ©gagÃ©e dâinfluences mystiques serait-elle
+viable? Nous lâignorons. Aucune civilisation semblable ne sâest encore
+manifestÃ©e Ã  la surface du globe.
+
+                   *       *       *       *       *
+
+Bien que les croyances religieuses nâaient eu que des illusions pour
+soutien, elles ont servi dâarmature aux grandes civilisations. Pour les
+propager ou les combattre, le monde fut souvent bouleversÃ©.
+
+                   *       *       *       *       *
+
+Toutes les grandes divinitÃ©s de lâhistoire: Jupiter, JÃ©hovah, Bouddha,
+Allah et tant dâautres que des millions dâhommes ont adorÃ©es ou vÃ©nÃ¨rent
+encore ne furent pas des crÃ©ations de la peur, comme le voulait LucrÃ¨ce.
+Elles naquirent de lâespÃ©rance, seule divinitÃ© que le temps nâait pu
+Ã©branler.
+
+                   *       *       *       *       *
+
+Les dieux Ã©tant issus des mÃªmes illusions, et ayant exercÃ© le mÃªme rÃ´le,
+on ne saurait Ã©tablir de hiÃ©rarchie entre eux.
+
+                   *       *       *       *       *
+
+Les croyants imaginent toujours Ã  leur image le dieu quâils adorent. Les
+Hindous pacifiques attribuent Ã  Bouddha leur tolÃ©rance et leur douceur.
+Les Carthaginois, les ChrÃ©tiens et les Juifs dotÃ¨rent leurs Dieux de
+lâesprit vindicatif qui les animait.
+
+                   *       *       *       *       *
+
+Un des plus utiles rÃ´les des religions fut de crÃ©er des certitudes
+dâexistence future capables dâembellir la vie prÃ©sente. Lâhomme assurÃ©
+dâun bonheur Ã©ternel est plus heureux que sâil croit son existence
+Ã©phÃ©mÃ¨re. Seule, la peur de lâenfer lâempÃªche dâÃªtre tout Ã  fait
+heureux.
+
+                   *       *       *       *       *
+
+Câest principalement dans la manifestation des arts plastiques que les
+religions montrÃ¨rent leur influence. Les grandes Åuvres dâart de
+lâÃgypte, de lâInde et de lâEurope furent surtout des monuments
+religieux. A des dieux supposÃ©s Ã©ternels il fallait bien construire des
+temples Ã©galement Ã©ternels.
+
+                   *       *       *       *       *
+
+Une des forces des dieux rÃ©side dans la difficultÃ© de les remplacer. Les
+illusions socialistes sont encore moins satisfaisantes pour lâesprit que
+les illusions religieuses.
+
+                   *       *       *       *       *
+
+La psychologie explique la propagation des croyances religieuses, mais
+la naissance des dieux est dâune interprÃ©tation beaucoup plus difficile.
+Comment naquirent: Moloch, Jupiter, Apollon, JÃ©hovah et bien dâautres?
+Certaines religions, comme lâislamisme, sortirent tout entiÃ¨res du
+cerveau dâun hallucinÃ©, mais cette genÃ¨se nâest pas applicable Ã 
+lâhistoire de tous les dieux.
+
+                   *       *       *       *       *
+
+Ce sera seulement sans doute avec les derniers hommes que disparaÃ®tront
+les derniers dieux.
+
+
+II
+
+LE POUVOIR DES CROYANCES
+
+Lâhomme dominÃ© par une croyance voit son Ã©nergie notablement accrue. La
+foi constitua toujours un trÃ¨s puissant mobile dâaction. On a dit
+justement quâelle peut soulever des montagnes.
+
+                   *       *       *       *       *
+
+La force dâune croyance telle que lâislamisme ou le bolchevisme ne
+dÃ©pend pas des dogmes quâelle enseigne, mais de lâÃ©nergie des
+convictions quâelle inspire.
+
+                   *       *       *       *       *
+
+LâunitÃ© de pensÃ©e, qui confÃ¨re une grande force Ã  un peuple, ne fut
+guÃ¨re fondÃ©e jusquâici que sur des croyances religieuses. La raison
+seule nâa pas encore rÃ©ussi Ã  solidariser les hommes.
+
+                   *       *       *       *       *
+
+Câest surtout quand une religion est morte ou va mourir que son utilitÃ©
+apparaÃ®t. Plusieurs peuples ont vu leur civilisation pÃ©rir ou se
+transformer avec la mort de leurs dieux.
+
+                   *       *       *       *       *
+
+Alors mÃªme que lâusure du temps fait disparaÃ®tre une croyance, elle
+conserve longtemps encore dans les Ã¢mes une influence assez forte pour
+devenir mobile dâaction. La haine de certains diplomates anglais
+puritains Ã  lâÃ©gard des Musulmans nâa probablement pas dâautres causes.
+
+                   *       *       *       *       *
+
+La faim et lâamour ne suffiraient pas Ã  soutenir la vie du monde, comme
+lâaffirmait un grand poÃ¨te. Il faut y ajouter lâespoir crÃ©Ã© par les
+croyances.
+
+                   *       *       *       *       *
+
+Les dieux vindicatifs condamnant leurs crÃ©atures Ã  des supplices
+Ã©ternels pour des fautes lÃ©gÃ¨res eurent une utilitÃ© certaine aux Ã¢ges de
+grande barbarie. A une Ã©poque Ã©clairÃ©e, leur fÃ©rocitÃ© nâest plus
+dÃ©fendable.
+
+
+III
+
+LES FORMES DIVERSES DE CROYANCES
+
+Les adeptes des grandes religions monothÃ©istes ne sauraient Ãªtre
+tolÃ©rants. DÃ©tenteurs de la vÃ©ritÃ© pure, ils considÃ¨rent comme un devoir
+de massacrer les infidÃ¨les pour extirper lâerreur. Si le protestantisme
+est devenu tolÃ©rant, câest que sa division en sectes nombreuses lâa
+rapprochÃ© du polythÃ©isme.
+
+                   *       *       *       *       *
+
+Les religions polythÃ©istes furent toujours tolÃ©rantes. Les croisades,
+les guerres de religion, lâinquisition auraient Ã©tÃ© impossibles chez les
+peuples polythÃ©istes. Si Rome, dont la tolÃ©rance religieuse Ã©tait
+complÃ¨te, finit par persÃ©cuter les ChrÃ©tiens, câest quâils cherchaient Ã 
+Ã©branler son pouvoir politique.
+
+                   *       *       *       *       *
+
+Si le fait dâÃªtre monothÃ©iste constituait une supÃ©rioritÃ© pour une
+religion, il faudrait mettre lâislamisme au premier rang. Il reprÃ©sente,
+en effet, la seule religion vraiment monothÃ©iste. Le JÃ©hovah des Juifs
+avait des rivaux quâil ne domina jamais complÃ¨tement. Le Dieu des
+ChrÃ©tiens comprend trois personnes et une armÃ©e de saints, divinitÃ©s
+secondaires comparables Ã  celles du paganisme.
+
+                   *       *       *       *       *
+
+Les fondateurs de religions ont sagement agi en dotant leurs dieux de
+toutes les passions animant les hommes. Si ces dieux sont jaloux,
+irritables et vindicatifs, câest que, reprÃ©sentÃ©s autrement, ils
+nâeussent sÃ©duit personne.
+
+                   *       *       *       *       *
+
+Tanit, Ã  Carthage, ordonnait des immolations dâenfants. Les dieux
+dâHomÃ¨re exigeaient quâAgamemnon leur sacrifiÃ¢t sa fille. Les idÃ©es
+modernes hÃ©ritiÃ¨res des anciens dieux rÃ©clament encore plus
+dâhÃ©catombes. A lâÃ©poque de la RÃ©volution les divinitÃ©s nouvelles
+dÃ©signÃ©es sous les noms de LibertÃ© et dâÃgalitÃ© ensanglantÃ¨rent vingt
+ans lâEurope. On ne compte plus les massacres engendrÃ©s par lâidÃ©e
+communiste.
+
+                   *       *       *       *       *
+
+Dans le domaine de la foi religieuse lâabsurde est inconnu. On ne
+citerait pas au cours de lâhistoire une seule croyance, si monstrueuse
+quâelle pÃ»t Ãªtre, nâayant pas trouvÃ© de dÃ©fenseurs.
+
+                   *       *       *       *       *
+
+Lâardeur des disciples de la religion communiste tient Ã  ce que les
+croyances religieuses nouvelles inspirent toujours Ã  leurs adeptes un
+dÃ©sir intense de dÃ©truire les vestiges de lâancienne foi. Les nouveaux
+convertis nâhÃ©sitent pas, comme jadis Polyeucte, Ã  sacrifier leur vie
+pour dÃ©truire les faux dieux.
+
+                   *       *       *       *       *
+
+A chaque pÃ©riode de leur histoire les hommes adoptent des religions et
+des philosophies Ã  leur mesure. Bien que nâayant gÃ©nÃ©ralement aucun
+rapport avec la rÃ©alitÃ©, elles sont fort utiles pour crÃ©er les
+explications dont lâesprit humain ne saurait se passer.
+
+                   *       *       *       *       *
+
+Â«Sâil y a un Dieu, Ã©crivait Pascal, il est infiniment
+incomprÃ©hensible... Nous sommes donc incapables de connaÃ®tre, ni ce
+quâil est, ni sâil est.Â» La science nâest pas plus avancÃ©e aujourdâhui.
+Elle admet cependant de plus en plus que si les Dieux existent, ils
+nâinterviennent jamais dans la vie des Ãªtres.
+
+                   *       *       *       *       *
+
+Croire quâon doit croire, câest dÃ©jÃ  croire.
+
+
+IV
+
+LA RAISON ET LA FOI
+
+LâabsurditÃ© dâun rÃªve ne choque pas plus le rÃªveur que lâabsurditÃ© dâune
+croyance religieuse ou politique ne choque le croyant. RÃªves et
+croyances ont ce caractÃ¨re commun dâÃ©chapper entiÃ¨rement au pouvoir de
+la raison.
+
+                   *       *       *       *       *
+
+LâirrÃ©sistible force des croyances religieuses et lâimpuissance de la
+raison sur elles apparaissent clairement quand on voit de grands gÃ©nies
+comme Descartes et Pascal accepter des dogmes religieux qui depuis
+longtemps nâÃ©taient plus dÃ©fendables. Quand Newton, par exemple,
+dissertait sur les divagations de lâApocalypse, sa raison Ã©tait
+Ã©videmment paralysÃ©e par des influences mystiques qui la dominaient
+entiÃ¨rement.
+
+                   *       *       *       *       *
+
+Au point de vue de la raison pure, toutes les croyances religieuses,
+depuis lâadoration du serpent jusquâÃ  celle dâAllah, ont une valeur
+sensiblement Ã©gale, parce quâelles dÃ©rivent dâillusions psychologiques
+identiques.
+
+                   *       *       *       *       *
+
+Si les croyants pouvaient se prÃ©occuper de la valeur rationnelle de
+leurs croyances, il nây aurait bientÃ´t plus de croyants.
+
+                   *       *       *       *       *
+
+Le croyant refusant de raisonner sa foi pour ne pas la perdre est
+victime dâune crainte trÃ¨s chimÃ©rique. Une croyance nâest dÃ©truisible
+par la raison que lorsquâelle Ã©tait prÃ¨s de mourir dans lâÃ¢me du
+croyant.
+
+                   *       *       *       *       *
+
+Pour concevoir avec quelle lenteur la raison agit sur les croyances, il
+faut se rappeler que, pendant plusieurs siÃ¨cles, des milliers dâhommes
+furent brÃ»lÃ©s vifs Ã  la suite de leurs relations supposÃ©es avec le
+diable.
+
+                   *       *       *       *       *
+
+PrÃ©tendre dÃ©truire une religion en persÃ©cutant ses disciples, comme le
+firent si longtemps les radicaux en France, montre Ã  quel point les
+fondements psychologiques des croyances restent mÃ©connus.
+
+                   *       *       *       *       *
+
+Â«Câest le cÅur qui sent Dieu et non la raisonÂ», disait Pascal. Les dieux
+pÃ©riraient vite si les jugements du cÅur Ã©taient ceux de la raison.
+
+                   *       *       *       *       *
+
+Les parfaits dÃ©vots, comme cherchait vainement Ã  lâÃªtre Pascal et comme
+lâÃ©taient rÃ©ellement les solitaires de Port-Royal, mÃ¨nent une existence
+assez misÃ©rable. Lâespoir du paradis est annulÃ© chez eux par une
+horrible peur de lâenfer oÃ¹ ils redoutent de brÃ»ler toujours.
+
+                   *       *       *       *       *
+
+Une des erreurs du catholicisme moderne fut de ne pas avoir compris Ã 
+quel point il devenait inacceptable en continuant Ã  parler de supplices
+Ã©ternels dans un enfer sans espoir.
+
+                   *       *       *       *       *
+
+On peut se demander oÃ¹ en seraient aujourdâhui les civilisations, si
+lâhumanitÃ© avait consacrÃ© Ã  la poursuite de vÃ©ritÃ©s scientifiques une
+faible partie des efforts accomplis pour obÃ©ir aux volontÃ©s de divinitÃ©s
+imaginaires. Mais peut-Ãªtre ces illusoires fantÃ´mes Ã©taient-ils seuls
+capables de contraindre lâhomme aux efforts dont tous ses progrÃ¨s
+naquirent.
+
+                   *       *       *       *       *
+
+La conversion Ã  une religion nouvelle est gÃ©nÃ©ralement instantanÃ©e, mais
+il lui faut des siÃ¨cles pour sâimplanter dÃ©finitivement dans les Ã¢mes et
+des siÃ¨cles encore pour en disparaÃ®tre. MalgrÃ© la longue existence du
+christianisme, le paganisme grÃ©co-latin nâest pas complÃ¨tement mort
+puisque lâart sous toutes ses formes en reste imprÃ©gnÃ©.
+
+                   *       *       *       *       *
+
+Les chrÃ©tiens qualifiant dâabsurde lâadoration du crocodile par les
+Ãgyptiens ou du serpent par les Hindous ne se doutent pas que leurs
+descendants jugeront aussi absurde lâadoration dâun Dieu jugeant
+nÃ©cessaire de laisser crucifier son fils pour racheter une dÃ©sobÃ©issance
+Ã  ses ordres.
+
+                   *       *       *       *       *
+
+Alors mÃªme que les civilisations futures nâaccepteraient que la science
+pour guide, elles auraient cependant intÃ©rÃªt Ã  construire encore des
+cathÃ©drales, des mosquÃ©es, des pagodes, oÃ¹ les hommes se
+solidariseraient un peu en mÃ©ditant sur les forces mystÃ©rieuses dont ils
+sont enveloppÃ©s et que personnifiaient leurs anciens Dieux.
+
+                   *       *       *       *       *
+
+Au point de vue purement rationnel le laboratoire est Ã©videmment
+supÃ©rieur Ã  la caserne et Ã  lâÃ©glise, mais il sâÃ©coulera probablement
+bien des siÃ¨cles avant quâil soit possible de renoncer Ã  lâÃ©glise et Ã 
+la caserne.
+
+                   *       *       *       *       *
+
+Le vrai miracle du Christianisme est dâavoir pu faire accepter pendant
+vingt siÃ¨cles Ã  des esprits capables de raisonner la prodigieuse lÃ©gende
+dâun Dieu condamnant son fils Ã  un dÃ©gradant supplice et fabriquant un
+enfer Ã©ternel pour y punir ses crÃ©atures.
+
+                   *       *       *       *       *
+
+Une des forces du Christianisme aux Ãtats-Unis est dâÃªtre uniquement
+envisagÃ© au point de vue de son utilitÃ© sociale sans se prÃ©occuper de la
+part de vÃ©ritÃ© ou dâerreur quâil contient.
+
+                   *       *       *       *       *
+
+Les crÃ©ateurs des dieux ont donnÃ© Ã  lâhomme la prÃ©cieuse espÃ©rance, mais
+en Ã©change ils lâenfermÃ¨rent pendant des siÃ¨cles dans une prison
+dâignorance et dâerreurs.
+
+                   *       *       *       *       *
+
+Il nâest guÃ¨re dâidÃ©al qui ne contienne une forte part dâillusions et
+cependant aucun peuple nâa pu prospÃ©rer sans lâinfluence dâun idÃ©al.
+
+                   *       *       *       *       *
+
+Lâexpression Â«je ne veux pas croire queÂ» dÃ©rive dâune erreur
+psychologique. Ce nâest jamais par un effort de la volontÃ© consciente
+que lâon croit ou que lâon ne croit pas.
+
+
+
+
+CHAPITRE X
+
+VISIONS PHILOSOPHIQUES DU MONDE
+
+
+I
+
+CONCEPTIONS PHILOSOPHIQUES DU MONDE
+
+Le monde est-il rÃ©el ou irrÃ©el, fini ou infini, crÃ©Ã© ou incrÃ©Ã©, Ã©phÃ©mÃ¨re
+ou Ã©ternel? La science nâentrevoit pas le moment oÃ¹ elle pourra rÃ©pondre
+Ã  une seule de ces questions.
+
+                   *       *       *       *       *
+
+LâimpossibilitÃ© de dÃ©couvrir la nature intime de la vie de la matiÃ¨re et
+de la force montre que lâesprit humain reste encore confinÃ© dans la
+connaissance des effets sans pouvoir remonter Ã  leurs causes.
+
+                   *       *       *       *       *
+
+La physique est la science du rÃ©el, la mÃ©taphysique celle de lâirrÃ©el,
+mais jusquâici le monde a Ã©tÃ© beaucoup plus guide par lâirrÃ©el que par
+le rÃ©el. La mÃ©taphysique reste donc la grande thÃ©oricienne du monde.
+
+                   *       *       *       *       *
+
+Vouloir comprendre trop vite est se condamner Ã  ne jamais comprendre.
+
+                   *       *       *       *       *
+
+Les grands progrÃ¨s rÃ©sultent de la substitution du quantitatif au
+qualitatif. Des instruments de mesure comme la balance, le galvanomÃ¨tre
+et le thermomÃ¨tre, ont plus modifiÃ© nos pensÃ©es et nos conditions
+dâexistence que toutes les dissertations philosophiques.
+
+                   *       *       *       *       *
+
+La vie dâun pur esprit, câest-Ã -dire dâun Ãªtre dÃ©pourvu dâorganes des
+sens et, par consÃ©quent, de sensibilitÃ©, serait fort misÃ©rable. HomÃ¨re
+lâavait pressenti quand il fait dire Ã  lâombre dâAchille Ã©voquÃ©e par
+Ulysse: Â«Je prÃ©fÃ©rerais nâÃªtre quâun pauvre laboureur sur terre que roi
+dans lâempire des ombres.Â»
+
+                   *       *       *       *       *
+
+Lorsque les Ãªtres qui nous entourent semblent disparaÃ®tre, ils ne font
+en rÃ©alitÃ© que changer de forme. LâÃ©vanouissement total Ã©tant
+scientifiquement impossible, les Ã©lÃ©ments fondamentaux des Ãªtres ne sont
+concevables que sous un aspect Ã©ternel.
+
+                   *       *       *       *       *
+
+Le passÃ© est formÃ© dâÃ©vÃ©nements dÃ©finitivement fixÃ©s. LâÃ©phÃ©mÃ¨re prÃ©sent
+devient rapidement un passÃ©, fixÃ© Ã  son tour. Lâavenir se compose
+dâÃ©lÃ©ments non fixÃ©s encore, mais dÃ©terminÃ©s dÃ©jÃ  par lâÃ©tat prÃ©sent.
+
+                   *       *       *       *       *
+
+Le prÃ©sent rÃ©sultant du passÃ© qui lâa prÃ©cÃ©dÃ©, on peut dire que le
+prÃ©sent se compose surtout de passÃ©.
+
+                   *       *       *       *       *
+
+Le temps ne nous est accessible que sous forme de changement: changement
+de position dâun astre, de lâaiguille dâun cadran ou encore des Ãªtres
+qui nous entourent. Les Cieux Ã©ternels des religions ne pouvant changer,
+le temps y serait nÃ©cessairement inconnu.
+
+                   *       *       *       *       *
+
+Certains mÃ©taphysiciens contestent la rÃ©alitÃ© du temps, mais ils ne
+sauraient nier quâune loi universelle oblige les Ãªtres Ã  naÃ®tre,
+grandir, dÃ©cliner et mourir. Câest Ã  cette loi du changement que nous
+pouvons donner le nom de temps.
+
+                   *       *       *       *       *
+
+Vivre câest changer. Le changement est lâÃ¢me des choses.
+
+                   *       *       *       *       *
+
+La faÃ§on dâenvisager la vie se transforme dÃ¨s quâau lieu de la
+considÃ©rer Ã  travers notre personnalitÃ© Ã©phÃ©mÃ¨re nous lâenvisageons Ã 
+travers la personnalitÃ© collective durable de la race. XerxÃ¨s Ã©tait
+attristÃ© Ã  lâidÃ©e quâaucun homme de son immense armÃ©e ne survivrait dans
+un siÃ¨cle. Revenu au bout de ce siÃ¨cle et retrouvant la mÃªme armÃ©e
+formÃ©e dâhommes aussi jeunes, possÃ©dant les mÃªmes visages, il eÃ»t
+compris que la mort nâest pas dÃ©finitive puisque les dÃ©funts dâun jour
+revivent bientÃ´t dans leurs descendants.
+
+                   *       *       *       *       *
+
+Si tous les phÃ©nomÃ¨nes physiques, chimiques et biologiques dÃ©passant
+notre comprÃ©hension devaient Ãªtre qualifiÃ©s de surnaturels, il nây
+aurait guÃ¨re que du surnaturel dans le monde.
+
+                   *       *       *       *       *
+
+Certains philosophes admettent que le monde perÃ§u par nos sens est une
+crÃ©ation artificielle de ces sens. Il importe peu que le monde observÃ©
+soit un monde artificiel dÃ©formÃ© puisque lâensemble des dÃ©formations qui
+le constituent est soumis Ã  des lois dont lâobservation vÃ©rifie la
+constance.
+
+                   *       *       *       *       *
+
+Aimez-vous les uns les autres, disent les religions. DÃ©vorez-vous les
+uns les autres, prescrit la nature. Si lâhomme nâavait pas, comme tous
+les Ãªtres, respectÃ© les prescriptions de la nature, il vivrait encore au
+fond des cavernes sans Ã©bauche de civilisation.
+
+                   *       *       *       *       *
+
+La vie des plus grands gÃ©nies semble avoir pour la nature juste autant
+dâimportance que celle dâune colonie de microbes ou dâune fourmiliÃ¨re.
+
+                   *       *       *       *       *
+
+La comprÃ©hension des causes premiÃ¨res semble si au-dessus de notre
+intelligence quâun Ãªtre supÃ©rieur venu dâun monde lointain pour nous les
+expliquer nây rÃ©ussirait probablement pas mieux que si nous voulions
+apprendre lâalgÃ¨bre Ã  un singe.
+
+                   *       *       *       *       *
+
+Le savant est souvent embarrassÃ© pour dÃ©terminer les causes dâun
+phÃ©nomÃ¨ne. Lâignorant ne lâest jamais.
+
+                   *       *       *       *       *
+
+Lâavenir est contenu dans le prÃ©sent comme le chÃªne lâest dans le gland.
+Le temps fait sortir le chÃªne du gland, mais ne le crÃ©e pas.
+
+
+II
+
+LA VÃRITÃ ET LA CERTITUDE
+
+Les hommes se passent facilement de vÃ©ritÃ©s. Ils nâont jamais vÃ©cu sans
+certitudes.
+
+                   *       *       *       *       *
+
+Les croyances les plus visiblement absurdes aux yeux de la raison sont
+gÃ©nÃ©ralement celles qui font naÃ®tre le plus de certitudes. Pendant de
+longs siÃ¨cles les hommes eurent la certitude que Moloch exigeait quâon
+lui immolÃ¢t des enfants et que JÃ©hovah condamnait Ã  des supplices
+Ã©ternels les crÃ©atures nâobÃ©issant pas Ã  ses lois. Les communistes
+modernes possÃ¨dent des certitudes du mÃªme ordre.
+
+                   *       *       *       *       *
+
+LâÃ¨re des grands progrÃ¨s scientifiques qui transformÃ¨rent les
+civilisations naquit seulement lorsque lâhomme rÃ©ussit Ã  distinguer la
+vÃ©ritÃ© de la certitude.
+
+                   *       *       *       *       *
+
+Les illusions tenues pour des certitudes furent parfois aussi fÃ©condes
+que des vÃ©ritÃ©s. La raison construit des gares et des laboratoires, mais
+elle nâeÃ»t jamais fait surgir du nÃ©ant les pyramides, les mosquÃ©es, les
+cathÃ©drales et toutes les merveilles qui ornent nos civilisations.
+
+                   *       *       *       *       *
+
+Les vÃ©ritÃ©s scientifiques sont des vÃ©ritÃ©s universelles. Les certitudes
+religieuses ou politiques tenues pour des vÃ©ritÃ©s sont gÃ©nÃ©ralement des
+convictions transitoires issues de passions et de sentiments nâayant
+aucun Ã©lÃ©ment rationnel pour soutien.
+
+                   *       *       *       *       *
+
+Les certitudes chimÃ©riques Ã©tant chargÃ©es dâinÃ©puisables espÃ©rances, la
+froide raison restera toujours impuissante contre elles.
+
+                   *       *       *       *       *
+
+Les philosophes qui, jadis, considÃ©raient comme vÃ©ritÃ© toute opinion
+acceptÃ©e par le consentement universel confondaient la vÃ©ritÃ© et la
+certitude. LâadhÃ©sion universelle crÃ©e des certitudes. La science seule
+Ã©difie des vÃ©ritÃ©s.
+
+                   *       *       *       *       *
+
+Depuis lâorigine des Ã¢ges les adorateurs des divinitÃ©s peuplant les
+cieux crurent possÃ©der des certitudes. Il fallut des siÃ¨cles de
+rÃ©flexion pour dÃ©couvrir quâil nâexistait aucune trace de vÃ©ritÃ© dans
+ces certitudes.
+
+                   *       *       *       *       *
+
+Alors que les certitudes religieuses finissent toujours par pÃ©rir, les
+vÃ©ritÃ©s scientifiques restent Ã©ternelles. Celles Ã©noncÃ©es par ArchimÃ¨de
+et Euclide gardent la mÃªme valeur quâil y a 2000 ans.
+
+                   *       *       *       *       *
+
+Dans le domaine de la science, les choses ont une valeur rÃ©elle
+indÃ©pendante des opinions. Dans celui des croyances, elles nâont guÃ¨re
+dâautre valeur que lâidÃ©e quâon sâen fait.
+
+                   *       *       *       *       *
+
+Il faut parfois longtemps pour quâune vÃ©ritÃ© dÃ©montrÃ©e devienne une
+vÃ©ritÃ© acceptÃ©e.
+
+                   *       *       *       *       *
+
+Les faits scientifiquement dÃ©montrÃ©s restent immuables mais leur
+explication varie avec les progrÃ¨s de la connaissance. Les thÃ©ories de
+Darwin et de Pasteur sont dÃ©jÃ  dÃ©passÃ©es. Lâatome, jadis miracle de
+simplicitÃ©, est devenu miracle de complexitÃ©.
+
+                   *       *       *       *       *
+
+Dans les sciences sâadressant Ã  lâintelligence, la forme offre peu
+dâimportance. Elle est essentielle au contraire dans la littÃ©rature, qui
+sâadresse surtout aux sentiments. Dâillustres Ã©crivains nâeurent sur la
+vie, les sociÃ©tÃ©s, les conflits des peuples, etc., que de puÃ©riles
+conceptions. On les admire trÃ¨s justement pourtant, comme on admire la
+forme dâune statue sans sâoccuper de la matiÃ¨re qui la compose.
+
+                   *       *       *       *       *
+
+Pourquoi les crÃ©ateurs de lÃ©gendes nâont-ils jamais imaginÃ© un monde
+peuplÃ© dâÃªtres dÃ©pourvus dâillusion? Sans doute parce que la vie de tels
+Ãªtres ne serait pas concevable.
+
+                   *       *       *       *       *
+
+Les rÃ©alitÃ©s scientifiques les plus solides contiennent toujours,
+cependant, une part notable dâillusions. Les progrÃ¨s de la science
+consistent surtout Ã  la rÃ©duire.
+
+                   *       *       *       *       *
+
+Si une conviction dâorigine sentimentale est toujours plus forte quâune
+conviction dâorigine rationnelle, câest que les sentiments dominent
+facilement la raison, alors que la raison a peu dâaction sur les
+sentiments.
+
+
+III
+
+LES LOIS DE LA VIE
+
+Lâenfant venant Ã  la lumiÃ¨re est dÃ©jÃ  trÃ¨s vieux, puisquâil reprÃ©sente
+la synthÃ¨se dâun immense passÃ©. Son Ã¢me individuelle se trouve
+constituÃ©e par une accumulation de rÃ©sidus dâÃ¢mes ancestrales.
+
+                   *       *       *       *       *
+
+Il est aussi exact dâaffirmer quâon ne revoit jamais le mÃªme Ãªtre que de
+constater, avec HÃ©raclite, quâon ne se baigne pas deux fois dans le mÃªme
+fleuve. Cette seconde assertion est Ã©vidente, alors quâil a fallu tous
+les progrÃ¨s de la physiologie pour Ã©tablir la premiÃ¨re.
+
+                   *       *       *       *       *
+
+La vie apparaÃ®t aujourdâhui comme une puissance directrice chargÃ©e de
+passÃ©, capable dâutiliser toutes les forces de la nature mais ne pouvant
+Ãªtre crÃ©Ã©e par elles. Jusquâici la vie nâest sortie que de la vie. Elle
+seule peut obliger la microscopique cellule par laquelle dÃ©butent tous
+les Ãªtres Ã  subir les transformations nÃ©cessaires pour devenir un homme,
+un Ã©lÃ©phant ou un chÃªne. Lâimpuissance de la science Ã  interprÃ©ter ce
+mystÃ¨re marque nettement les limites de notre intelligence.
+
+                   *       *       *       *       *
+
+Sur toute lâÃ©chelle des Ãªtres, les supÃ©rioritÃ©s exceptionnelles
+reprÃ©sentent des monstruositÃ©s. Pour cette raison, sans doute, la nature
+ramÃ¨ne leurs descendants au niveau moyen de lâespÃ¨ce dont ils font
+partie.
+
+                   *       *       *       *       *
+
+Pendant les centaines de siÃ¨cles qui prÃ©cÃ©dÃ¨rent lâapparition de
+lâhomme, tous les Ãªtres vivaient fort bien sans possÃ©der notre raison.
+Affirmer quâils Ã©taient guidÃ©s par dâaveugles instincts, câest
+simplement constater lâÃ©tat rudimentaire de notre psychologie.
+
+                   *       *       *       *       *
+
+Dans tous les actes de la vie organique, les choses se passent comme
+sâil existait des modes de connaissance parfois trÃ¨s supÃ©rieurs, parfois
+infÃ©rieurs Ã  notre intelligence, mais toujours fort diffÃ©rents de cette
+intelligence.
+
+                   *       *       *       *       *
+
+La vie est sans doute aussi indestructible que les autres forces. Si
+donc, comme tout semble le prouver, la personnalitÃ© est entiÃ¨rement
+dÃ©truite par la mort, les Ã©lÃ©ments de cette personnalitÃ© servent Ã 
+former de nouveaux Ãªtres. Câest donc la vie collective et non la vie
+individuelle qui serait Ã©ternelle.
+
+                   *       *       *       *       *
+
+La lutte pour lâexistence et lâaptitude Ã  sâadapter aux variations de
+milieu font survivre et Ã©voluer les mieux douÃ©s des Ãªtres. LâhÃ©rÃ©ditÃ©
+transmet les changements ainsi acquis. MalgrÃ© de patients efforts, la
+science ne peut rien ajouter Ã  ces bien sommaires notions sur les
+origines et lâÃ©volution des Ãªtres vivants. La partie essentielle de ces
+phÃ©nomÃ¨nes nous Ã©chappe entiÃ¨rement.
+
+                   *       *       *       *       *
+
+La mort intellectuelle commence dÃ¨s que les opinions deviennent trop
+fixÃ©es pour changer. Lâhomme, mÃªme restÃ© jeune, entre alors dans le
+domaine des morts. Le prÃ©sent et lâavenir ne sont plus concevables pour
+lui quâenveloppÃ©s de passÃ©.
+
+                   *       *       *       *       *
+
+Si les forces qui ont fait surgir la vie de lâinerte matiÃ¨re sont douÃ©es
+dâintelligence, cette intelligence paraÃ®t dominÃ©e par dâaveugles
+nÃ©cessitÃ©s lui Ã´tant toute libertÃ©. Ce nâest pas assurÃ©ment Ã  la suite
+de raisonnements savants que furent crÃ©Ã©s tant de malfaisants microbes.
+Des raisons que ne comprend pas encore notre raison et oÃ¹
+lâintelligence, telle que nous la connaissons, ne saurait jouer aucun
+rÃ´le, semblent avoir dirigÃ© lâÃ©volution des Ãªtres.
+
+                   *       *       *       *       *
+
+Pour les forces inexpliquÃ©es qui firent sortir la vie de la matiÃ¨re, et
+aprÃ¨s des entassements de siÃ¨cles surgir la pensÃ©e de la vie, tous les
+Ãªtres sont Ã©gaux. Lâexistence du plus pernicieux microbe est aussi
+protÃ©gÃ©e par la nature que celle des autres Ãªtres.
+
+
+IV
+
+LA SAGESSE ET LE BONHEUR
+
+Unanimes pour admettre que le bonheur constitue le but principal de la
+vie, les hommes furent rarement dâaccord sur les moyens de lâobtenir.
+Suivre aveuglÃ©ment ses passions? Elles procurent moins de joie que de
+douleur.--Se guider dâaprÃ¨s la raison? Ses clartÃ©s sont bien
+incertaines.--ObÃ©ir aux ordres des dieux? Ils se taisent depuis
+longtemps.--Sâadapter simplement aux nÃ©cessitÃ©s de son milieu semble le
+plus sage.
+
+                   *       *       *       *       *
+
+On ne gagne pas beaucoup Ã  trop rÃ©flÃ©chir sur la destinÃ©e. La vraie
+philosophie consiste peut-Ãªtre Ã  traverser la vie avec la sÃ©rÃ©nitÃ©
+tranquille de lâanimal broutant lâherbe du sentier qui le mÃ¨ne Ã 
+lâabattoir. Le mÃªme animal deviendrait fort misÃ©rable sâil soupÃ§onnait
+lâexistence de lâabattoir.
+
+                   *       *       *       *       *
+
+Un des meilleurs moyens dâÃªtre heureux consiste Ã  croire quâon lâest
+rÃ©ellement ou quâon le sera un jour. Les religions crÃ©ant cette
+certitude devaient pour cette seule raison jouer un rÃ´le important dans
+la vie des peuples.
+
+                   *       *       *       *       *
+
+Une course trop rapide au bonheur nâest souvent quâune course au
+malheur.
+
+                   *       *       *       *       *
+
+Il est utile de penser quelquefois. Pour rester heureux, on ne doit pas
+trop penser.
+
+                   *       *       *       *       *
+
+LâespÃ©rance de possÃ©der les choses rend-elle plus heureux que la
+possession de ces choses? RÃ©pondre Ã  cette question impliquerait la
+connaissance dâun thermomÃ¨tre du bonheur.
+
+                   *       *       *       *       *
+
+Se nourrir, se reproduire et sâentre-dÃ©truire, furent les principales
+occupations des peuples depuis les origines de lâhistoire. Rien
+nâindique encore que leur existence puisse Ãªtre diffÃ©remment orientÃ©e.
+
+                   *       *       *       *       *
+
+Dans le monde physique comme dans le monde moral rÃ¨gne une dualitÃ©, loi
+fondamentale des phÃ©nomÃ¨nes. Attractions et rÃ©pulsions du monde physique
+deviennent plaisir et douleur, haine et amour du monde moral.
+
+                   *       *       *       *       *
+
+La hardiesse sans jugement est dangereuse; le jugement sans hardiesse,
+inutile.
+
+                   *       *       *       *       *
+
+Rien ne sert dâagir si une idÃ©e directrice nâoriente pas utilement la
+volontÃ© dâagir.
+
+                   *       *       *       *       *
+
+Savoir sans vouloir ne crÃ©e pas de pouvoir.
+
+                   *       *       *       *       *
+
+La vieillesse reprÃ©sente souvent une forme peu attÃ©nuÃ©e de la servitude.
+
+                   *       *       *       *       *
+
+Dans les relations entre individus et entre peuples la mÃ©fiance est
+nÃ©cessaire, mais jusquâau jour de sa justification elle doit rester
+expectante et non agissante.
+
+                   *       *       *       *       *
+
+Câest surtout dans le dÃ©roulement des Ã©vÃ©nements que le rigoureux
+enchaÃ®nement qualifiÃ© de fatalitÃ© joue son rÃ´le.
+
+                   *       *       *       *       *
+
+LâhÃ©roÃ¯sme peut sauver un peuple dans les circonstances difficiles, mais
+câest lâaccumulation journaliÃ¨re de petites vertus qui dÃ©termine sa
+grandeur.
+
+                   *       *       *       *       *
+
+Lâinjustice dont on profite devient vite de la justice.
+
+
+V
+
+LâIMPRÃVISIBLE ET LA RÃGION DES CAUSES
+
+LâimprÃ©visible domine lâHistoire. La bataille de la Marne,
+lâintervention amÃ©ricaine, la trahison russe, la dÃ©bÃ¢cle allemande,
+constituent une sÃ©rie dâÃ©vÃ©nements quâaucun cerveau ne pouvait prÃ©voir.
+Le pessimisme actuel rÃ©sulte en partie de ce que les peuples se sentent
+enveloppÃ©s dâimprÃ©visibles dangers.
+
+                   *       *       *       *       *
+
+Les Allemands furent vaincus dans la derniÃ¨re guerre par lâimmense part
+dâimprÃ©visible que les phÃ©nomÃ¨nes sociaux contiennent. Alliances,
+armements, tout avait Ã©tÃ© si minutieusement prÃ©parÃ© que le triomphe de
+lâAllemagne paraissait certain. Elle nâaboutit pourtant quâÃ  une
+Ã©crasante dÃ©faite.
+
+                   *       *       *       *       *
+
+Dans tous les phÃ©nomÃ¨nes scientifiques ou sociaux les limites du
+prÃ©visible sont vite atteintes. Les astronomes eux-mÃªmes ne prÃ©voient
+que des faits trÃ¨s simples. DÃ¨s que les phÃ©nomÃ¨nes se compliquent un
+peu, toute prÃ©vision leur Ã©chappe. Câest ainsi que la dÃ©termination des
+trajectoires de trois astres sâinfluenÃ§ant rÃ©ciproquement reste
+impossible.
+
+                   *       *       *       *       *
+
+Dans les phÃ©nomÃ¨nes sociaux, la complexitÃ© des causes empÃªche
+gÃ©nÃ©ralement la prÃ©vision des effets.
+
+                   *       *       *       *       *
+
+Le calcul des probabilitÃ©s qui permet de prÃ©dire certains phÃ©nomÃ¨nes,
+tels que le chiffre des dÃ©cÃ¨s Ã  un Ã¢ge donnÃ© pour un pays donnÃ©,
+sâapplique uniquement Ã  des faits trÃ¨s rÃ©pÃ©tÃ©s et non Ã  des cas isolÃ©s.
+Aux Ã©vÃ©nements collectifs seuls les prÃ©visions sont applicables.
+
+                   *       *       *       *       *
+
+Lâignorance de la vÃ©ritable raison des choses constitua toujours une
+source frÃ©quente de luttes sociales et internationales.
+
+                   *       *       *       *       *
+
+Câest dans lâÃ¢me dâun peuple, beaucoup plus que dans les Ã©vÃ©nements
+extÃ©rieurs, quâil faut chercher les causes de sa destinÃ©e. Rome dÃ©clina
+quand, sous lâinfluence de croyances nouvelles et dâinfiltrations
+rÃ©pÃ©tÃ©es dâÃ©trangers, son Ã¢me nationale se trouva dÃ©sagrÃ©gÃ©e.
+
+                   *       *       *       *       *
+
+Les vÃ©ritables causes des Ã©vÃ©nements Ã©chappent toujours lorsque, au lieu
+de rechercher leurs sources lointaines, on se prÃ©occupe seulement de
+leurs origines immÃ©diates. Beaucoup des faits de la grande guerre
+restent inexpliquÃ©s pour cette seule raison.
+
+                   *       *       *       *       *
+
+Les idÃ©es fixes rendent impossible la perception des rÃ©alitÃ©s les plus
+visibles. Bien voir est souvent aussi difficile que prÃ©voir.
+
+                   *       *       *       *       *
+
+Beaucoup dâeffets visibles restent incomprÃ©hensibles parce quâils
+constituent lâextÃ©riorisation de causes invisibles, inaccessibles.
+
+                   *       *       *       *       *
+
+Jamais il ne fut aussi difficile quâaujourdâhui de pressentir
+lâorientation prochaine de lâhistoire. Certaines dÃ©couvertes comme
+celles des forces motrices issues de la houille et du pÃ©trole ont, sur
+la vie des peuples, une influence beaucoup plus considÃ©rable que celle
+exercÃ©e jadis par les conflits religieux ou les ambitions des rois.
+
+                   *       *       *       *       *
+
+Parmi les milliers dâhommes aspirant Ã  Ã©tablir le rÃ¨gne du droit et de
+la justice, combien en est-il capables de dÃ©finir le droit et de
+comprendre la justice?
+
+                   *       *       *       *       *
+
+Les Ã©vÃ©nements seraient interprÃ©tÃ©s de faÃ§on bien diffÃ©rente si, pour
+les juger, lâesprit et le cÅur utilisaient la mÃªme mesure.
+
+
+
+
+TABLE DES MATIÃRES
+
+
+  PrÃ©face                                                              I
+
+  CHAPITRE I
+  LA VIE POLITIQUE
+
+    I. Perturbations politiques et morales crÃ©Ã©es par la guerre        3
+   II. Les DifficultÃ©s modernes des Gouvernements                      7
+  III. Les Croyances politiques                                       15
+   IV. Les Formules politiques                                        21
+    V. Les Erreurs de psychologie en politique                        25
+
+  CHAPITRE II
+  LES GUERRES, LES RÃVOLUTIONS ET LE DÃSARMEMENT
+
+    I. Les Causes futures de guerres et la Revanche germanique        35
+   II. Les Luttes pour lâhÃ©gÃ©monie                                    41
+  III. Les Illusions sur la possibilitÃ© dâun dÃ©sarmement              45
+   IV. Les Incertitudes sur les origines de la guerre                 49
+    V. Les Causes des RÃ©volutions                                     51
+   VI. Les RÃ©sultats des RÃ©volutions                                  55
+
+  CHAPITRE III
+  LES RELATIONS INTERNATIONALES ET LES ALLIANCES
+
+    I. Les Relations internationales                                  63
+   II. Les Forces Ã©conomiques                                         67
+  III. Les TraitÃ©s de paix et les grands CongrÃ¨s politiques           73
+   IV. Les TraitÃ©s dâalliance et leur valeur                          77
+    V. La SociÃ©tÃ© des Nations                                         81
+
+  CHAPITRE IV
+  LE DROIT ET LA MORALE
+
+    I. Les Coutumes et les Lois                                       87
+   II. Le Droit et la Force                                           91
+  III. Les Forces morales                                             95
+   IV. Les Sources de la Morale                                       99
+
+  CHAPITRE V
+  LES FORMES MODERNES DU DESPOTISME
+
+    I. LâExtrÃ©misme                                                  105
+   II. Le Socialisme                                                 109
+  III. Le Syndicalisme                                               113
+   IV. Le Communisme                                                 117
+    V. LâÃgalitÃ© et le Besoin de servitude                           121
+
+  CHAPITRE VI
+  LâÃVOLUTION DES CIVILISATIONS
+
+    I. Comment les Civilisations naissent et pourquoi elles
+         disparaissent                                               125
+   II. Les Institutions politiques                                   131
+  III. Quelques ConsÃ©quences des idÃ©es dÃ©mocratiques                 135
+   IV. Les RÃ©cits historiques                                        139
+
+  CHAPITRE VII
+  LâINTELLIGENCE, LE CARACTÃRE ET LâÃDUCATION
+
+    I. LâIncomprÃ©hension et les Conflits de mentalitÃ©s               145
+   II. Le CaractÃ¨re et lâIntelligence dans la vie des Peuples        149
+  III. LâIntelligence, les Sentiments et lâIntuition                 155
+   IV. LâInstruction et lâÃducation                                  159
+
+  CHAPITRE VIII
+  LES INFLUENCES CONSCIENTES ET INCONSCIENTES DANS LA VIE DES PEUPLES
+
+    I. La Vie consciente et la Vie inconsciente                      167
+   II. La Vie collective. Les Meneurs et les MenÃ©s                   171
+  III. LâAme des peuples                                             175
+   IV. Les Oscillations de lâopinion                                 179
+
+  CHAPITRE IX
+  LES DIEUX DANS LâHISTOIRE
+
+    I. Le RÃ´le des Dieux                                             185
+   II. Le Pouvoir des croyances                                      189
+  III. Les Formes diverses des croyances                             191
+   IV. La Raison et la Foi                                           195
+
+  CHAPITRE X
+  VISIONS PHILOSOPHIQUES DU MONDE
+
+    I. Les Conceptions philosophiques du Monde                       203
+   II. La VÃ©ritÃ© et la Certitude                                     209
+  III. Les Lois de la Vie                                            215
+   IV. La Sagesse et le Bonheur                                      219
+    V. LâImprÃ©visible et la RÃ©gion des causes                        224
+
+
+Sceaux.--Imp. Charaire.
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 77734 ***

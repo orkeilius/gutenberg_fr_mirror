@@ -1,3 +1,4034 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:005a5bb46b1c630fb9295bfa355dda94e80d6327b06b586e4ecdd462e399abaa
-size 137620
+*** START OF THE PROJECT GUTENBERG EBOOK 44359 ***
+
+  PIERRE QUILLARD
+
+  LA LYRE
+  HÃROÃQUE ET DOLENTE
+
+  DE SABLE ET D'OR
+  LA GLOIRE DU VERBE.--L'ERRANTE
+  LA FILLE AUX MAINS COUPÃES
+
+  [Marque d'imprimeur]
+
+  PARIS
+  SOCIÃTÃ DV MERCVRE DE FRANCE
+  XV, RVE DE L'ÃCHAVDÃ-SAINT-GERMAIN, XV
+
+  M DCCC XCVII
+
+  Tous droits rÃ©servÃ©s
+
+
+
+
+_DU MÃME AUTEUR:_
+
+
+  L'ANTRE DES NYMPHES de Porphyre, traduit du grec           1 plq.
+
+  LES LETTRES RUSTIQUES de Claudius Ãlianus, Prenestin,
+    traduites du grec, illustrÃ©es d'un Avant-propos
+    et d'un Commentaire latin                                1 vol.
+
+  LE LIVRE DE JAMBLIQUE SUR LES MYSTÃRES, traduit
+    du grec                                                  1 vol.
+
+  PHILOKTÃTÃS, traduit de Sophocle et reprÃ©sentÃ© Ã 
+    l'OdÃ©on                                                  1 vol.
+
+  LA QUESTION D'ORIENT ET LA POLITIQUE PERSONNELLE
+    DE M. HANOTAUX, en collaboration avec le docteur
+    L. Margery                                               1 vol.
+
+
+
+
+IL A ÃTÃ TIRÃ DE CET OUVRAGE:
+
+_Trois exemplaires sur japon impÃ©rial, numÃ©rotÃ©s de 1 Ã  3
+
+et douze exemplaires sur papier de Hollande, numÃ©rotÃ©s de 4 Ã  15._
+
+EXEMPLAIRE NÂº 1
+
+
+Droits de reproduction et de traduction rÃ©servÃ©s pour tous pays, y
+compris la SuÃ¨de et la NorvÃ¨ge.
+
+
+
+
+DÃDICACE
+
+A LA MÃMOIRE D'ÃPHRAÃM MIKHAEL
+
+
+    Tu t'en allas, un soir de mai: la ville en fÃªte
+    Haletait de printemps, de jeunesse et d'amour,
+    Et tu nous as quittÃ©s pour la nuit sans retour,
+    Ame mÃ©lancolique et toujours inquiÃ¨te.
+
+    En vain les mornes dieux, formidables et doux,
+    Ont dÃ©tachÃ© ta main de nos mains fraternelles:
+    Le sel Ã¢cre des pleurs brÃ»le encor nos prunelles
+    Quand ta voix, triomphant des heures, chante en nous
+
+    Et fait surgir parmi les roses des vesprÃ©es,
+    Sous des voiles tissus de soleils et de cieux,
+    Une vierge dolente au regard anxieux
+    Qui nous appelle et fuit vers les ombres sacrÃ©es.
+
+    Forme grave dressÃ©e au seuil mauvais du sort,
+    Image de fiertÃ© qui pleurait et s'est tue,
+    Ma bouche te cherchait d'une lÃ¨vre Ã©perdue;
+    Mais j'ai heurtÃ© du front les portes de la mort
+
+    HÃ©las! et tu survis dans nos seules mÃ©moires
+    Et sans que rien m'entende au tombeau souterrain,
+    Je fixe tristement sur le vantail d'airain
+    Avec l'amer laurier les palmes illusoires.
+
+
+
+
+DE SABLE ET D'OR
+
+
+
+
+LES FLEURS NOIRES
+
+_A MARCEL COLLIÃRE_
+
+
+
+
+LES FLEURS NOIRES
+
+_A Ãmile Galle._
+
+
+    Au bord de quels sinistres lacs d'eau lourde et sombre,
+    O tÃ©nÃ©breuses fleurs plus vastes que la mort,
+    Les dieux muets du soir et les dieux froids du nord
+            Tissent-ils votre robe d'ombre?
+
+    Vos abÃ®mes de nuit dÃ©vorent le soleil;
+    Le jour est offensÃ© par vos voiles de veuves
+    Et vous avez puisÃ© sans peur aux mornes fleuves
+            L'onde farouche du sommeil.
+
+    O fleurs noires, le vent de l'aube vous balance:
+    Mais nul parfum d'amour ne s'exhale de vous,
+    ChÃ¨res, et vous versez dans les coeurs las et fous
+            L'incantation du silence.
+
+    La vie Ã©pand en vain ses perfides douceurs;
+    La pourpre du printemps inutile flamboie:
+    Votre deuil rÃ©dempteur libÃ¨re de la joie;
+            Salut, impÃ©rieuses soeurs.
+
+    Je vous aime et je veux dormir, soyez clÃ©mentes:
+    Je ne troublerai pas votre calme immortel
+    Et, lÃ -bas, j'oublierai, loin du jour et du ciel,
+            La bouche rouge des amantes.
+
+
+
+
+LE DIEU MORT
+
+_A AndrÃ© Fontainas._
+
+
+    Une Ã©toile, une seule Ã©toile. O funÃ©railles
+    Royales! solitude oÃ¹ la gloire mourait
+    Sur un bÃ»cher perdu derriÃ¨re la forÃªt,
+    A l'Ã©cart des drapeaux, du glaive et des batailles.
+
+    Le hÃ©ros s'en allait sans pourpre, enseveli
+    Dans une soie Ã©teinte et dans les tresses rousses
+    Des captives et des amantes: lÃ¨vres douces
+    Et voraces, vous qui buviez le sang pÃ¢li,
+
+    Vers quels baisers souriez-vous? Vers quelles fÃªtes
+    Sonne dÃ©jÃ  l'appel de vos chants oublieux?
+    Ah, mensongÃ¨res! pour des larmes en vos yeux,
+    Il fallait l'apparat de cÃ©lÃ¨bres dÃ©faites
+
+    Et l'horreur des clairons dÃ©chirant le ciel noir,
+    Pour tordre avec des cris de pleureuses louÃ©es
+    Vos corps, mimes en deuil sous le vol des nuÃ©es,
+    Parmi la rouge odeur des torches dans le soir.
+
+    Mais nul regard viril n'a, du haut des murailles,
+    Avidement cueilli la fleur de vos bras nus:
+    Vous avez fui. Le roi ne s'Ã©veillera plus.
+    Une Ã©toile, une seule Ã©toile. O funÃ©railles.
+
+
+
+
+RUINES
+
+_A Maurice Nicolle._
+
+
+    L'illustre ville meurt Ã  l'ombre de ses murs;
+    L'herbe victorieuse a reconquis la plaine;
+    Les chapiteaux brisÃ©s saignent de raisins mÃ»rs.
+
+    Le barbare enroulÃ© dans sa cape de laine
+    Qui paÃ®t de l'aube au soir ses chevreaux outrageux
+    Foule sans frissonner l'orgueil du sol HellÃ¨ne.
+
+    Ni le soleil oblique au flanc des monts neigeux
+    Ni l'aurore dorant les cimes embrumÃ©es
+    Ne rÃ©veillent en lui la mÃ©moire des dieux.
+
+    Ils dorment Ã  jamais dans leurs urnes fermÃ©es
+    Et quand le buffle vil insulte insolemment
+    La porte triomphale oÃ¹ passaient des armÃ©es,
+
+    Nul glaive de hÃ©ros apparu ne dÃ©fend
+    Le porche dÃ©vastÃ© par l'hiver et l'automne
+    Dans le tragique deuil de son Ã©croulement.
+
+    Le sombre lierre a clos la gueule de Gorgone.
+
+
+
+
+PAR LA NUIT D'AUTOMNE
+
+
+    Par l'automnale nuit la terre se rÃ©signe,
+    Muette sous le fait des ombres tumulaires:
+    Nul astre en qui survive un espoir d'aubes claires,
+    Un espoir de matin crevant son oeuf de cygne.
+
+    Les soleils d'autrefois fermentent dans la vigne.
+
+
+    Maintenant au pas sourd de noires haquenÃ©es,
+    Sans faire gÃ©mir l'herbe ou rÃ©sonner la roche,
+    Tel qu'une chevauchÃ©e impitoyable, approche
+    Le troupeau saccageur des suprÃªmes journÃ©es.
+
+    Un parfum triste vient des grappes condamnÃ©es.
+
+
+    Demain l'or et le sang des Ã©toiles sublimes
+    Seront dÃ©shonorÃ©s par la soif de la horde;
+    Mais voici qu'une pluie invisible dÃ©borde
+    Et tombe lentement des sinistres abÃ®mes.
+
+    Serait-ce pas les Dieux qui pleurent leurs vieux crimes?
+
+
+    O Dieux, je ne sais pas quel LÃ©thÃ© vous enivre
+    De poisons plus amers que le fiel des LÃ©mures:
+    Que vous importe Ã  vous, la mort des grappes mÃ»res
+    Et le viol raillÃ© par le bruit vil du cuivre?
+
+    Les pampres dessÃ©chÃ©s ne veulent pas revivre.
+
+
+
+
+SOLITUDE
+
+_A GrÃ©goire le Roy._
+
+
+    C'est un grand silence aprÃ¨s le chant du cor,
+    Comme dans les villes mortes
+    OÃ¹ les chats peuvent encor
+    RÃªver sur le seuil des portes.
+
+    Sous le dais noir de la nuit
+    Les rois radieux, les belles chevauchÃ©es
+    Foulaient dans l'or et le bruit
+    Le sang des roses fauchÃ©es.
+
+    Des femmes embaumaient l'air
+    Parmi le velours des porches;
+    Nous voyions couler la rÃ©sine des torches
+    Sur les gantelets de fer.
+
+    Mais les heures sont passÃ©es
+    De la joie et du dÃ©cor
+    Et dans nos Ã¢mes lassÃ©es
+    C'est un grand silence aprÃ¨s le chant du cor.
+
+
+
+
+PAROLES SUR LA TERRASSE
+
+_A Puvis de Chavannes._
+
+
+    Des reines blanches inclinÃ©es
+    Aux balustrades d'amÃ©thystes
+    Pour fleurir la mort des journÃ©es
+    Effeuillent des glycines tristes.
+
+    Fleurs plus brÃ¨ves que les plus brÃ¨ves,
+    Vains thyrses que le vent spolie,
+    Les noirs flots sans rives ni grÃ¨ves
+    Emportent leur cendre pÃ¢lie;
+
+    Et c'est le deuil d'un double automne,
+    Soir du jour et soir des feuillÃ©es,
+    Qui dÃ©vaste l'ombre et frissonne
+    Dans les ramilles dÃ©pouillÃ©es.
+
+    Des pas glissent sur la terrasse;
+    Une Ã©toffe roide s'y froisse;
+    Les voix que la nuit blÃªme efface
+    Tremblent d'adieux, meurent d'angoisse,
+
+    Et cygnes chassÃ©s de tout fleuve,
+    S'en vont fÃ©briles et blessÃ©es,
+    Sans que la tÃ©nÃ¨bre s'Ã©meuve
+    Aux cris des Ã¢mes dÃ©laissÃ©es.
+
+
+
+
+L'AUTOMNE A DÃNUDÃ...
+
+
+    L'automne a dÃ©nudÃ© les glÃ¨bes et le soir,
+    Un soir d'exil et de mains dÃ©sunies,
+    S'approche Ã  l'horizon des plaines infinies,
+    Roi dÃ©vÃªtu de pourpre et spoliÃ© d'espoir.
+
+    O marcheur aux pieds nus et las qui viens t'asseoir
+    Sans compagnon, parmi les landes dÃ©fleuries,
+    PrÃ¨s des eaux mornes, quelles mÃªmes agonies
+    Alourdissent ton front vers ce triste miroir?
+
+    Je le sais, tout se meurt dans ton Ã¢me d'automne.
+    Laisse la nuit prendre les fleurs qu'elle moissonne
+    Et l'amour dÃ©faillant d'un coeur ensanglantÃ©,
+
+    Pour qu'aprÃ¨s le sommeil et les ombres fidÃ¨les
+    Les clairons triomphaux de l'aube et de l'Ã©tÃ©
+    Fassent surgir enfin les roses immortelles.
+
+
+
+
+LES VAINES IMAGES
+
+_A HENRI DE RÃGNIER_
+
+
+
+
+PSYCHÃ
+
+
+    Petite Ã¢me, PsychÃ© mÃ©lancolique, dors,
+    Lys d'aurore surgi des heures tÃ©nÃ©breuses,
+    Tes bras souples et frais et tes lÃ¨vres heureuses
+    Ont rajeuni mon coeur et rÃ©joui mon corps.
+
+    Et tu m'as cru, petite Ã¢me blanche et farouche,
+    Tel que ton dÃ©sir vierge encore me voulait
+    Pendant tes longs baisers de miel pur et de lait,
+    Tant que l'ombre a menti comme mentait ma bouche.
+
+    Nulle parole et nulle Ã©treinte et nul baiser
+    N'ont trahi la douleur secrÃ¨te du cilice;
+    Mais Ã©veillÃ©e avec l'aube rÃ©vÃ©latrice
+    Tu frÃ©missais, PsychÃ© fragile, Ã  te briser,
+
+    Si le jour dÃ©sillant ta paupiÃ¨re sereine
+    Au lieu du doux vainqueur que rÃªvait ton Ã©moi
+    Te dÃ©celait mes poings crispÃ©s mÃªme vers toi
+    Et mes yeux Ã©perdus de colÃ¨re et de haine;
+
+    Car je te hais de tout ton amour, Ã´ PsychÃ©,
+    Pour les jours Ã  venir et les futures heures
+    Et les perfides flots de larmes et de leurres
+    Qui jailliront un jour de ton Ãªtre cachÃ©.
+
+    Mais avant que la nuit divine m'abandonne,
+    Avec le dur mÃ©tal des gouffres sidÃ©raux
+    Je forgerai le masque amoureux d'un hÃ©ros,
+    Rieur comme l'Avril, grave comme l'automne;
+
+    Mort vivant sur les lÃ¨vres mortes d'un vivant,
+    Le masque couvrira ma face convulsÃ©e;
+    Et maintenant que l'aube Ã©clate! O fiancÃ©e
+    Chez qui la femme, hÃ©las! va survivre Ã  l'enfant.
+
+    Eveille-toi, rouvre ta bouche qui s'est tue,
+    Tu n'entendras de moi que paroles d'orgueil
+    Et je me dresse sous les morsures du deuil
+    LaurÃ© d'or et pareil Ã  ma propre statue.
+
+
+
+
+ÃLIANE
+
+
+I
+
+    Des jours et puis des jours ont fui. Je me souviens
+    De cette joie ainsi que de quelque Ã©trangÃ¨re
+    Et c'est une fÃ©erie encor que j'exagÃ¨re
+    De tout le deuil enclos dans les plaisirs anciens.
+
+    Mais nos baisers furent les fruits des HespÃ©rides
+    Dont nous avons mÃ¢chÃ© la cendre, seulement
+    La cendre! le verger solitaire et charmant
+    N'a pas calmÃ© la soif de nos lÃ¨vres arides.
+
+    D'autres sont revenus semblables Ã  des dieux
+    De l'Ã®le oÃ¹ par orgueil nous nous aventurÃ¢mes;
+    Les guirlandes d'amour alourdissaient leurs rames
+    Et la galÃ¨re en fleurs Ã©merveillait les yeux.
+
+    Je ne jalouse pas leurs fanfares de gloire
+    Ni les pavois ni les Ã©tendards Ã©ployÃ©s
+    Dont l'ombre rouge flotte auprÃ¨s des boucliers:
+    Leur songe Ã©tait moins beau que notre ivresse noire,
+
+    Et j'erre en ce jardin fouettÃ© du vent brutal,
+    Plus fier que les hÃ©ros aux soirs d'apothÃ©oses,
+    Tandis qu'autour de moi les nostalgiques roses
+    S'effeuillent vainement vers l'Orient natal.
+
+
+II
+
+    Je t'aimais et les dieux ont dÃ©nouÃ© nos bras,
+    Et nous vivons Ã  la dÃ©rive au cours des heures;
+    Et je ne t'entends plus quand tu ris ou tu pleures:
+    Mais je viendrai vers toi quand tu m'appelleras.
+
+    A la dÃ©rive! des palais au bord des fleuves,
+    D'impÃ©rieuses voix m'invitent, dans la nuit
+    Et par les aubes; mais qu'importe? l'eau s'enfuit
+    Et je ferme mes yeux aux chevelures veuves.
+
+    Je sais: l'hÃ´tellerie est pleine de buveurs:
+    Au mur rit la lambrusque et la rose trÃ©miÃ¨re
+    Et les raisins gonflÃ©s d'aurore et de lumiÃ¨re
+    Versent les vieux soleils dans les cerveaux rÃªveurs.
+
+    Les sveltes baladins, les joueuses de lyre
+    Et les masques d'amour y glissent dans le soir
+    Et la terrasse est vide oÃ¹ je pourrais m'asseoir:
+    Je n'aborderai pas aux perrons de porphyre;
+
+    Nulle reine en manteau de pourpre et d'argent clair
+    Ne tendra sur le seuil ses lÃ¨vres vers ma bouche;
+    Voile noire, carÃ¨ne noire, ombre farouche,
+    La nef sans gouvernail s'en va jusqu'Ã  la mer
+
+    Et je m'endormirai parmi les vagues vertes,
+    Parmi les mornes flots sans borne, Ã  moins qu'un soir,
+    Sur une rive heureuse, au sommet de la tour
+    Dominant la vallÃ©e et les terres dÃ©sertes,
+
+    Tu ne paraisses dans ta robe de soleil
+    Et tu ne m'offres en un geste qui pardonne
+    Tes cheveux Ã©ployÃ©s plus riches que l'automne
+    Et les baisers anciens plus doux que le sommeil.
+
+
+III
+
+    Je ne sais plus dans quels chemins ni sous quels cieux
+    La reine de mon coeur, la reine de mes yeux,
+    La souveraine de mes larmes ignorÃ©es,
+    Qui tord en ses cheveux l'or fauve des vesprÃ©es,
+    Passa sans un regard vers mon front en exil
+    Comme un soleil d'hiver oublieux de l'avril.
+
+    HÃ©las! les lys sont morts; les roses sont fanÃ©es;
+    L'impitoyable deuil dÃ©fleurit les annÃ©es.
+    Elle ne connaÃ®t plus les choses d'autrefois;
+    Son oreille infidÃ¨le a dÃ©sappris ma voix,
+    Ma voix tremblante et les paroles murmurÃ©es
+    Et le frissonnement des Ã©treintes sacrÃ©es.
+
+    Et maintenant, et maintenant! je veux en vain
+    M'interdire les jours et le passÃ© divin.
+    Ma lÃ¨vre qu'elle sut dÃ©licate naguÃ¨res
+    Est chaude d'une bouche et de baisers vulgaires
+    Et j'ai bu pour marcher dans l'ombre de la mort
+    Le vin des matelots et des hommes du port.
+
+    Mais cette ivresse est triste, Ã´ reine, et je t'implore.
+    Reviens, fais resplendir la gloire de l'aurore.
+    Jette sur les bois nus un manteau de printemps
+    Et pare les sentiers des roses que j'attends.
+
+    Sois bienveillante; ou si les beaux jardins des rÃªves
+    Sont clos pour jamais, soit! les heures seront brÃ¨ves
+    OÃ¹ je vivrai dans la lumiÃ¨re et dans le bruit,
+    Et je descendrai seul les marches de la nuit.
+
+
+IV
+
+    Par quelle cruautÃ© des implacables dieux?
+    Si loin des jours royaux et pavoisÃ©s de joie,
+    Un soleil tel que les anciens soleils flamboie
+    Et tes cheveux en fleur Ã©pouvantent mes yeux.
+
+    Parmi le deuil hÃ©las! et les ombres tombales,
+    Que me veux-tu, sourire impÃ©rieux encor
+    Qui fais se rÃ©veiller avec un sursaut d'or
+    Le prestige menteur des aubes triomphales?
+
+    Oui: tes lÃ¨vres m'Ã©taient douces prÃ¨s de la mer
+    Et sur la fauve grÃ¨ve oÃ¹ dormaient les carÃ¨nes
+    Gonflaient d'un chant si pur les conques des SirÃ¨nes
+    Que des oiseaux neigeaient autour de toi dans l'air
+
+    Et que le souvenir des ailes Ã©ployÃ©es
+    Palpite en mes regards Ã©blouis. O rayons
+    Eteints! vols disparus d'aigles et d'alcyons!
+    Voix morte dÃ©sormais sur des lÃ¨vres souillÃ©es!
+
+    Voix morte et pour moi seul vivante: je voudrais
+    Ne plus l'entendre et que la terre devÃ®nt noire
+    Et que la nuit sereine engloutÃ®t la mÃ©moire
+    De ta beautÃ© semblable aux roses des forÃªts.
+
+    Mais l'ombre dÃ©cevante est encore hantÃ©e
+    Par les dieux importuns qui dÃ©fendent l'oubli
+    Et la poignante fleur au calice pÃ¢li
+    Sollicite toujours ma bouche ensanglantÃ©e.
+
+
+
+
+HYMNIS
+
+_Pour Bernard Lazare._
+
+
+I
+
+    Face d'ombre, je viens Ã  toi; la nuit m'emporte.
+    PoussiÃ¨re Ã©vanouie aux plis blancs d'un linceul,
+    PÃ¢le vierge oubliÃ©e et que j'honore seul
+    D'une fleur morte hÃ©las! moins que ta grÃ¢ce morte,
+
+    Je viens Ã  toi qui dors au fond des siÃ¨cles lourds
+    Et dont le pur tombeau fait les lÃ¨vres fidÃ¨les:
+    Je n'ai pas entendu les mots qui naissaient d'elles
+    Ni goÃ»tÃ© la douceur de tes tristes amours:
+
+    Mais je pleure ton corps et son charme Ã©quivoque
+    Et les baisers trop lents qui l'auraient effleurÃ©,
+    Chair de jadis, dÃ©sir dont je me suis leurrÃ©
+    Parce qu'un mÃªme appel de buccins nous Ã©voque
+
+    Vers les mÃªmes cyprÃ¨s noirs et silencieux...
+    Vain appel, vaine ombre et menteuses fanfares:
+    Jamais je ne clorai de mes lÃ¨vres avares
+    Tes yeux dÃ©senchantÃ©s qui connurent les dieux.
+
+    Sommeille loin de moi prÃ¨s de la mer antique
+    Sous un ciel insultÃ© par de confuses voix
+    OÃ¹ la vague qui chante encor comme autrefois
+    Entrechoque les mÃ¢ts du port aromatique:
+
+    Toujours l'Ã¢pre soleil et la foule et l'embrun,
+    Loin de moi, troubleront ta poussiÃ¨re ignorÃ©e
+    Et l'inutile fleur que je t'ai consacrÃ©e
+    Ne rÃ©jouira pas ta cendre d'un parfum.
+
+
+II
+
+    Viens respirer l'odeur des vignes et des fruits.
+
+    Ce soir te sera doux comme tes longues nuits,
+    Hymnis, enfant qui dors depuis deux mille annÃ©es,
+    Et par le souffle lent des sentes oÃ¹ je fuis
+    Les roses du tombeau ne seront point fanÃ©es.
+
+
+    Je te dÃ©die, enfant, la mourante forÃªt.
+
+    Elle se pare encor malgrÃ© son mal secret:
+    Tu te reconnaÃ®tras Ã  sa noble agonie,
+    Vierge dont le front pÃ¢le et fiÃ©vreux se paraÃ®t
+    D'or royal attristÃ© par la blÃªme ancolie.
+
+
+    L'automne funÃ©raire embaume les halliers.
+
+    Hymnis! Hymnis! Hymnis! tes cheveux dÃ©liÃ©s
+    Libres du bandeau strict oÃ¹ tu les emprisonnes
+    Ont frÃ´lÃ© des santals et des girofliers
+    Et se sont enivrÃ©s de cruelles automnes.
+
+
+    De plus calmes parfums, ce soir, te charmeront.
+
+    Pour que ton corps sacrÃ© retourne sans affront
+    De la forÃªt qui meurt aux tÃ©nÃ¨bres divines
+    Je veux entrelacer Ã  l'entour de ton front
+    Le thyrse noir du lierre aux suprÃªmes glycines.
+
+
+
+
+CHRYSARION
+
+
+    Sur cette mer toujours dÃ©serte oÃ¹ nos yeux vains
+    S'Ã©garaient dans l'ennui des solitudes mornes,
+    Le navire, aux clameurs des conques et des cornes,
+    Fleurit avec l'aurore Ã©clatante; et tu vins,
+
+    Apportant le parfum des terres Ã©trangÃ¨res,
+    Le reflet des soleils morts parmi tes cheveux
+    Et pour les coeurs lassÃ©s, graves et dÃ©daigneux
+    L'enchantement de quelques heures plus lÃ©gÃ¨res.
+
+    Trop de dÃ©sirs dÃ©Ã§us et d'espoirs abusÃ©s
+    Hantent notre mÃ©moire et sanglotent en elle:
+    Nous n'avons pas tendu vers ta chair fraternelle
+    Nos lÃ¨vres dÃ¨s longtemps dÃ©prises des baisers.
+
+    Mais les heures passaient douces comme la soie
+    En vÃªtements tramÃ©s de soleil et de nuit,
+    Danseuse au collier d'or qui fulgure et s'enfuit,
+    Amante triste et grave en marche vers la joie,
+
+    Et vous qui regardiez des astres abolis,
+    Visages inquiets ivres du vieux mensonge,
+    O faces de stupeur, d'extases et de songe
+    Sur qui l'ombre clÃ©mente est tombÃ©e Ã  longs plis;
+
+    Puis la derniÃ¨re; et ce fut toi-mÃªme, inclinÃ©e
+    A la poupe et semant des roses dans le soir
+    Afin que la galÃ¨re et le sillage noir
+    S'illustrassent encor d'une pourpre fanÃ©e
+
+    Et que la sombre mer sourÃ®t Ã  nos yeux vains.
+
+
+
+
+L'ERRANTE
+
+_A RACHILDE_
+
+
+
+
+L'ERRANTE
+
+I nunc ad hostem, at in perpetuum mea.
+
+
+I. _DE SABLE ET D'OR._
+
+L'HOMME songe dans le soir somptueux et morne; Ã  la balustrade croulante
+de la vieille demeure, il s'est accoudÃ© solitairement et ses yeux, qui
+depuis des mois et des annÃ©es n'ont plus reflÃ©tÃ© que les choses
+silencieuses, regardent au loin, dans les plaines assombries, s'Ã©tager
+les villes oÃ¹ des foules inconnues aiment, bataillent, agonisent et
+s'Ã©vanouissent comme des fumÃ©es.
+
+Ici le roc que nul printemps n'a parÃ©, cime triste abreuvÃ©e jadis par le
+sang des victimes, alors que les dieux stupides se gorgeaient de
+sacrifices, cime cruelle oÃ¹ les roses d'Avril n'ont jamais souri, oÃ¹ les
+sources n'ont pas pleurÃ© doucement la mort future des fleurs vouÃ©es au
+vieillard qui les emporte, quand vient l'automne.
+
+L'HOMME songe dans le soir somptueux et morne; tandis que le ciel
+flamboie d'une plus rouge gloire et que l'or insultant les tÃ©nÃ¨bres
+enrichit ses prunelles, des bÃ»chers tragiques s'effondrent et l'Ã¢me
+dÃ©serte est envahie par un tumulte de chevauchÃ©e; tourbillons de fer,
+gueules hurlantes, Ã©clairs de glaive, chevelures et criniÃ¨res
+confondues, la horde passe dans sa pensÃ©e.
+
+Et l'HOMME se dÃ©tourne du spectacle Ã©clatant; ailleurs la terrasse est
+interrompue: les pesantes eaux d'un lac sans fond baignent de leur
+horreur immobile la roche qui disparaÃ®t dans le vertige de l'abÃ®me.
+Maintenant l'HOMME marche, les yeux ivres de nuit, vers le lac d'ombre
+monotone et sa voix lassÃ©e frÃ´le de lentes paroles les ondes
+sÃ©pulcrales, les ondes Ã©paisses qui ne frissonnent pas.
+
+
+L'HOMME
+
+    Nuit moins sinistre que le soir, Ã´ nuit rebelle
+    A mon dÃ©sir, tu n'es pas l'ombre que j'appelle
+    Et trop d'astres encor m'offusquent de clartÃ©
+    Pour que je boive en toi les coupes du LÃ©thÃ©.
+
+    Autrefois, j'ai vÃ©cu derriÃ¨re les murailles
+    Des villes; je connais les brÃ¨ves funÃ©railles
+    De toute joie et vers la cime et vers la tour,
+    Pour le muet exil que je veux sans retour,
+    J'ai fui l'Ã¢cre parfum des roses effeuillÃ©es.
+
+    Lorsque je suis venu, les portes verrouillÃ©es
+    Pleuraient plaintivement comme des chiens meurtris,
+    Et j'oubliais le monde et mÃ©prisais leurs cris:
+    Mais la pierre me parle ainsi qu'une vivante
+    Maintenant, et flambeau d'angoisse et d'Ã©pouvante,
+    Dans mon coeur las du crÃ©puscule rouge et noir,
+    Chaque Ã©toile qui monte allume un triste espoir.
+
+    Eaux bienheureuses, vos paupiÃ¨res sont voilÃ©es:
+    Aucun rÃªve de ciel et d'algues emmÃªlÃ©es
+    N'ondule dans le calme abÃ®me; nul reflet
+    Des jours antÃ©rieurs oÃ¹ l'aube Ã©tincelait
+    Sur votre moire alors juvÃ©nile et chantante
+    Ne se rÃ©veille en vous par la nuit Ã©clatante
+    Avec le souvenir d'un antique soleil.
+    Eaux bienheureuses, vous dormez du vrai sommeil.
+    Vous les pÃ¢les, vous les froides et les obscures,
+    Vous les mortes.
+
+            J'attends les suprÃªmes augures,
+    Les cygnes Ã©ternels ouvrant leur vol sacrÃ©,
+    Et l'heure, enfin libÃ©ratrice, oÃ¹ je serai,
+    Eaux bienheureuses, lac de nuit, lac de silence,
+    Digne de votre accueil et de votre clÃ©mence.
+
+Ainsi le solitaire invoque les ondes fatidiques. Mais pendant qu'il
+parle, les Ã©toiles plus nombreuses ruissellent sur les pentes abruptes
+et l'ERRANTE est survenue; ses haillons brochÃ©s d'or illusoire par les
+astres dÃ©noncent les routes hostiles, les morsures du vent, peut-Ãªtre
+l'agression de mains brutales. Furtive elle s'est assise sur les marches
+disjointes et l'HOMME tout Ã  coup se trouve face Ã  face avec elle.
+
+L'HOMME
+
+    Va-t'en. Que me veux-tu, larve ou fantÃ´me humain,
+    Dont le pas sacrilÃ¨ge usurpe mon chemin:
+    J'ignore quel passÃ© funÃ©raire t'escorte
+    Et me barre avec toi la route de la porte,
+    Ou si ta robe aux plis tÃ©nÃ©breux de son deuil
+    RecÃ¨le un Ã©tendard de victoire et d'orgueil,
+
+    Mais qu'importe? tu viens des carrefours vulgaires,
+    Et tendresse, douleur, pourpre illustre des guerres,
+    Clameurs des foules furieuses, bruit des pas,
+    Gestes des suppliants, monde, je ne veux pas,
+    Quand je me penche enfin vers l'ombre sans aurore,
+    Qu'un souvenir des jours anciens attente encore
+    A mon Ã¢me recluse et mÃ»re pour la nuit.
+    Va-t'en.
+
+L'ERRANTE
+
+            Je suis venue oÃ¹ le soir me conduit,
+    Par le soleil ou par la pluie aux larges gouttes,
+    AprÃ¨s des routes et des routes et des routes.
+    Quand je suivais la mer aux heures de reflux
+    Le sable de la grÃ¨ve a brÃ»lÃ© mes pieds nus;
+    Et ma chair a saignÃ© de toutes les Ã©pines
+    A travers les fourrÃ©s, les ronces des ravines
+    Et les ajoncs aux rudes marges des marais.
+    Mais partout, aussitÃ´t que la terre oÃ¹ j'errais
+    Portait empreinte sur l'argile ou sur l'arÃ¨ne
+    La trace des vivants, j'ai fui. Je sais la haine
+    Dont ils poursuivent la passante et sur mes yeux
+    Ont pesÃ© trop souvent leurs poings injurieux
+    Pour que je m'aventure ayant vu leurs foulÃ©es.
+
+    Seuls parfois les palais des villes Ã©croulÃ©es
+    Sous leurs porches dÃ©chus fraternels Ã  mon sort
+    M'ont offert un sommeil puissant comme la mort.
+    La solitude ment oÃ¹ tu viens d'apparaÃ®tre;
+    L'asile de repos que je croyais sans maÃ®tre
+    Abrite hÃ©las! ton Ã¢me fauve de vivant:
+    Je quitterai le seuil et le toit dÃ©cevant
+    OÃ¹ ton deuil autre que mon deuil se cache et pleure
+    L'ombre immense est hospitaliÃ¨re.
+
+L'HOMME
+
+            Non, demeure,
+    Puisque la volontÃ© de ton sort et du soir
+    A menÃ© tes pieds las vers le morne manoir
+    Et vers l'hÃ´te imprÃ©vu dressÃ© devant ta face
+    En qui ta voix a fait s'Ã©panouir, vivace,
+    Une fleur de jadis aux pistils oubliÃ©s.
+    J'y consens: Ã´ soleils abolis, flamboyez
+    Encore, surgissez dans ma sombre mÃ©moire
+    En aube de suprÃªme et cinÃ©raire gloire
+    Avant que cette chair s'engloutisse Ã  jamais;
+    Et toi, dolente ombre d'une ombre que j'aimais
+    Et qui m'a refusÃ© ses lÃ¨vres mensongÃ¨res,
+    Toi qui dormis sous des Ã©toiles Ã©trangÃ¨res
+    Des sommeils flagellÃ©s par l'Ã¢pre fouet du vent,
+    Entre sans peur avec un sourire d'enfant
+    Et l'ingÃ©nuitÃ© d'une Ã¢me puÃ©rile
+    Dans la vieille maison oÃ¹ le hasard t'exile.
+
+L'ERRANTE
+
+    Je ne sais mÃªme pas ce qu'on nomme les ans,
+    Ni combien de matins, combien de jours pesants
+    Ont Ã©crasÃ© l'errante amÃ¨re et rÃ©signÃ©e,
+    Homme, ni quelles eaux lustrales l'ont baignÃ©e
+    OÃ¹ le secret des dieux demeure enseveli,
+    Quelles eaux de pitiÃ©, de refuge et d'oubli,
+    Emportant dans le cours pacifique des fleuves
+    Tout un faix diluÃ© de souffrance et d'Ã©preuves.
+
+    A peine un souvenir obscur survit en moi,
+    Heure d'angoisse, heure de dÃ©tresse et d'effroi
+    Qui m'a fait tressaillir d'une crainte ignorÃ©e:
+    Des reÃ®tres ont voulu m'entraÃ®ner, Ã  l'orÃ©e
+    De la forÃªt; j'ai fui leurs lÃ¨vres et leurs mains,
+    Eperdue, Ã  travers les rochers sans chemins,
+    Et je frissonne encor de l'Ã©treinte Ã©ludÃ©e
+    Jadis, quand mon horreur de vierge dÃ©nudÃ©e
+    Ãcoutait survenir l'approche des pas lourds.
+
+    Cependant par des soirs, solitaires toujours,
+    J'ai mirÃ© mon visage au miroir des fontaines
+    Et tendu vers mon front des lÃ¨vres incertaines
+    Dont la source perfide a glacÃ© le dÃ©sir;
+    Et l'ombre s'effaÃ§a que j'ai voulu saisir,
+    Comme un pÃ¢le soleil qui sombre au flot nocturne,
+    Sans avoir accueilli mon baiser taciturne.
+
+    Mais voici que ta voix grave qui m'effrayait
+    Parle plus doucement Ã  mon coeur inquiet
+    Et qu'aprÃ¨s les assauts de la tempÃªte rude
+    Des astres bienveillants dorent la solitude.
+    Donc j'entrerai sans peur dans la maison.
+
+            Salut,
+    Seuil, et que les haillons du passÃ© rÃ©volu
+    S'envolent de ma chair au vent qui les emporte
+    Ainsi qu'un vain linceul d'oÃ¹ jaillit une morte
+    Pour renaÃ®tre en splendeur de soleil exaltÃ©,
+    Belle de sa jeunesse et de sa nuditÃ©.
+
+
+II. _DE GUEULES._
+
+Dans la mÃ©lancolique demeure oÃ¹ les murs s'Ã©merveillaient de sa beautÃ©,
+saluÃ©e par les figures amies des lices, irradiant l'eau ternie des
+miroirs, l'ERRANTE est entrÃ©e blanche et nue.
+
+Elle n'a point refusÃ© ses lÃ¨vres et les rouges floraisons de la joie ont
+fleuri impÃ©rieusement, par la vibrante offrande de son corps Ã  l'HOMME
+Ã©veillÃ© d'un long rÃªve.
+
+Il a plongÃ© dans les coffrets de bronze ses mains fiÃ©vreuses et
+prodigues, et l'armure d'or et les brocarts et les gemmes et le glaive
+ont Ã©chappÃ© aux chaÃ®nes noires des tÃ©nÃ¨bres.
+
+Sur les seins et sur les Ã©paules de l'ERRANTE, tous les trÃ©sors enfouis
+dans le sÃ©pulcre du silence depuis des siÃ¨cles, des ans et des jours,
+resplendissent avec l'aurore.
+
+Au seuil matinal de la porte, elle se dresse en sa robe de pourpre qui
+recÃ¨le sous le sang figÃ© de la soie, avec la cotte de mailles,
+l'irrÃ©prochable acier du glaive.
+
+Pensive, elle s'est retournÃ©e vers l'HOMME qui fait un geste d'adieu, et
+comme hÃ©sitante et retenue par la puissance d'une main invisible, elle
+tarde Ã  franchir le seuil.
+
+L'ERRANTE
+
+    Je le sais: mon destin m'entraÃ®ne et tu le veux,
+    J'irai. Je dois offrir aux chocs tumultueux
+    DÃ¨s le premier appel de l'aube avant-courriÃ¨re
+    Ma poitrine hÃ©roÃ¯que et libre de guerriÃ¨re;
+    Et mon poing brandira le glaive dÃ©sormais.
+    Je le sais: mais l'exil sombre oÃ¹ tu t'enfermais
+    S'illumine pour toi de ma chair apparue,
+    Et radieuse encor, mÃªme absente, j'obstrue
+    Les portes de la nuit que tu heurtais dÃ©jÃ .
+    Ami, dont ma venue importune outragea
+    Le manoir de silence et d'ombre inviolÃ©e,
+    Pardonne, pour ton deuil de solitude emblÃ©e,
+    A l'Errante qui part, chaude de tes baisers.
+
+L'HOMME
+
+    Va: le soleil bondit dans les cieux embrasÃ©s;
+    C'est l'heure, il faut franchir le seuil et vers les villes
+    Te ruer en clamant aux oreilles serviles
+    Tout ce que les tombeaux t'ont livrÃ© de secrets.
+
+    Viens et regarde: lÃ  de houleuses forÃªts
+    OÃ¹ les pasteurs de porcs se vautrent dans les bauges;
+    Puis des plaines, rumeurs des blÃ©s, parfum des sauges,
+    Et les paysans nus courbÃ©s sous les sillons
+    A jamais; et plus loin des foules en haillons,
+    Troupeaux lÃ¢ches que tu mueras en fauves hardes,
+    Tournent vers le palais des prunelles hagardes
+    Et des poings dÃ©charnÃ©s par l'immuable faim
+    Sans que la torche encor s'enflamme dans leur main.
+
+    Ce qui fut moi naguÃ¨re et richesse stÃ©rile
+    Et dÃ©pouille des temps silencieux rutile
+    Autour de ton front jeune et de tes seins altiers:
+    Voici venir un vol de cygnes Ã©ployÃ©s,
+    Le vol tardif et sÃ»r des prophÃ©tiques ailes
+    Qui m'invite au sommeil des ondes Ã©ternelles.
+
+    Va: la chair que la mort heureuse requÃ©rait
+    S'Ã©vanouit parmi les choses, sans regret,
+    Maintenant que tu m'as affranchi de moi-mÃªme
+    Et que tu peux, maÃ®tresse enfin du double emblÃ¨me,
+    Descendre vers les serfs de la glÃ¨be et des murs
+    Et, selon le vouloir des trois monstres obscurs,
+    Tendre le rameau d'or ou fÃ©rir de l'Ã©pÃ©e.
+
+L'HOMME disparaÃ®t sous les eaux immobiles, sous les eaux Ã©paisses oÃ¹ ne
+palpite aucune lueur. L'ERRANTE contemple longuement le lac d'ombre
+monotone, puis marche, aurÃ©olÃ©e par la gloire du matin, vers les plaines
+et vers les villes orientales, tandis que sa voix dans la solitude
+chante les batailles futures.
+
+L'ERRANTE
+
+    Homme, revis en moi. Dans ma dextre crispÃ©e
+    Je serre puissamment le pommeau froid du glaive
+    Et si le monstre ancien se rebelle et se lÃ¨ve,
+    Je rougirai le sol de sa tÃªte coupÃ©e,
+
+    Moi, celle qui connaÃ®t les suprÃªmes paroles
+    Et toute la douleur avec toute la joie;
+    Je chasserai le loup et l'hyÃ¨ne de proie
+    Et je veux emporter les royales corolles
+
+    Que les dragons jaloux gardaient des mains humaines:
+    Afin que le parfum des roses inconnues,
+    Epars farouchement sous la voÃ»te des nues,
+    Suscite dans les coeurs les dÃ©sirs et les haines,
+
+    Je viens Ã  vous, frÃ¨res penchÃ©s sur les emblaves,
+    AttelÃ©s Ã  la meule au fond de l'ergastule;
+    Mon verbe lacÃ©rant l'antique crÃ©puscule
+    Souffle une Ã¢me de pourpre Ã  vos Ã¢mes d'esclaves;
+
+    Redressez-vous; sarclez les herbes parasites:
+    Lancez contre le ciel les pierres de vos geÃ´les,
+    Et que les murs vaincus par vos fortes Ã©paules
+    Vous ouvrent le jardin des terres interdites
+
+    OÃ¹, plus belles, des fleurs de rÃªve vont Ã©clore
+    En butin triomphal pour les races vengÃ©es,
+    Tandis que le sang vil des bÃªtes Ã©gorgÃ©es
+    Se mÃªle par mon glaive au sang pur de l'aurore.
+
+
+
+
+VERS L'AURORE
+
+_A A.-FERDINAND HEROLD_
+
+
+
+
+LES AUMONIÃRES
+
+_A A.-F. Plicque._
+
+
+    Sur la grÃ¨ve qu'avaient souillÃ©e
+    Les conquÃ©rants et les hÃ©ros,
+    PrÃ¨s de la mer pacifiÃ©e
+    Pleine des frissons auguraux,
+
+    Les poings perdus dans les criniÃ¨res
+    De leurs chevaux roses et blancs,
+    C'Ã©taient les bonnes aumÃ´niÃ¨res
+    Qui reviennent tous les mille ans.
+
+    Cymodoce, Aglaure, Euryanthe,
+    Au caprice d'un galop fou
+    Elles passaient; leur flamboyante
+    Chevelure brÃ»lait leur cou.
+
+    LÃ¨vres douces comme la soie,
+    Lumineuses comme les cieux,
+    Elles chantaient un chant de joie
+    Vers l'OcÃ©an mystÃ©rieux.
+
+    Tandis que vibraient des abeilles
+    Autour des Ã©talons loyaux,
+    Elles plongeaient dans des corbeilles
+    Leurs bras riches de lourds joyaux
+
+    Et brandissant leurs mains sacrÃ©es,
+    Bonnes au yeux chargÃ©s de pleurs,
+    Parmi les vagues empourprÃ©es
+    Semaient d'impÃ©riales fleurs;
+
+    Car les coroles millÃ©naires
+    Eparses en vol d'Orient
+    Calment les antiques colÃ¨res
+    Et charment le vieil OcÃ©an.
+
+
+
+
+MARE TENEBRARUM
+
+_A Emile GallÃ©._
+
+
+    Durant les jours de brume et les soirs sans Ã©toiles
+    Le vent triste a fanÃ© la pourpre de nos voiles;
+    Mais nos coeurs s'attardant aux soleils rÃ©volus
+    Oubliaient le deuil vain des flux et des reflux.
+
+    La barque tressaillait de la poupe Ã  la proue
+    Avec le ronflement d'un cheval qui s'Ã©broue;
+    Mais nos coeurs enchantÃ©s de chants Ã©vanouis
+    Oubliaient la clameur des vagues et des nuits.
+
+    Hier l'Aurore brusque a jailli de nos rÃªves;
+    Le marbre bleu des mers et l'or fauve des grÃ¨ves
+    Eblouissaient nos yeux brÃ»lÃ©s par les embruns
+    Et le dragon rostral s'enivrait de parfums.
+
+    Mais l'ombre en flocons noirs a neigÃ© sur nos Ã¢mes,
+    L'ombre que nul soleil ne fondra de ses flammes
+    Et dÃ©jÃ  le dragon, loin des havres heureux,
+    Mord les antiques flots glacÃ©s et tÃ©nÃ©breux.
+
+
+
+
+LE PÃLERINAGE HORS DE L'OMBRE
+
+_A Remy de Gourmont._
+
+
+I
+
+    Ame riche de nuit, d'Ã©toiles et de rÃªves
+    Qui puisas des trÃ©sors aux urnes d'un tombeau
+    N'abandonneras-tu jamais tes blÃªmes grÃ¨ves
+    Pour cette ville en fleurs sous le printemps nouveau?
+
+    Ame riche de nuit, mon Ã¢me, tu recÃ¨les
+    Assez d'astres perdus et de soleils Ã©teints:
+    Viens connaÃ®tre la chair et les lÃ¨vres de celles
+    Qui tendent leurs seins nus aux pourpres des matins
+
+    Et font en souriant Ã  l'aurore sereine
+    Fluer entre leurs doigts le sable et leurs cheveux,
+    Pour que, vivante enfin, ma bouche amÃ¨re apprenne
+    A goÃ»ter le miel blond des heures. Tu le veux,
+
+    Ame lasse dÃ©jÃ  des ivresses futures,
+    Toi qui n'as rien chÃ©ri que les pleurs et la mort:
+    Le vent gonfle d'amour les voiles toujours pures:
+    Loin de l'Ã®le oÃ¹ la blanche Hymnis repose et dort,
+
+    Pour moi seul, dans le vain cÃ©notaphe des roses,
+    Nous irons conquÃ©rir son corps ressuscitÃ©;
+    Sans doute elle revit par les mÃ©tempsycoses
+    Sur le sol oublieux que parait sa beautÃ©
+
+    Et parmi les parfums sauvages des galÃ¨res,
+    Les chiens, les portefaix qui geignent en marchant,
+    Elle va, lourde encor des gloires tumulaires,
+    Sans que nul ait compris la douceur de son chant.
+
+
+II
+
+    L'Ã©cume violÃ©e a neigÃ© de la proue;
+    Les mauves qui mouillaient leurs plumes aux flots noirs
+    Ont secouÃ© le sel des vagues sur ma joue.
+
+    Le sel des vagues! Tels les pleurs d'antiques soirs
+    Enrichirent jadis de gemmes dissipÃ©es
+    Ces yeux fous aujourd'hui d'aventure et d'espoirs.
+
+    Puis la forÃªt flamba de cruelles Ã©pÃ©es;
+    Mais plus d'ombre tombait des branchages pieux
+    Pour voiler le sommeil inquiet des NapÃ©es.
+
+    Ainsi les Ã¢pres bois ont dÃ©fendu mes yeux
+    Jadis et quand le jour en troublait l'eau tranquille,
+    Ils Ã©talaient dans l'air leur deuil impÃ©rieux.
+
+    Or maintenant, voici les portes de la ville;
+    Je franchirai les murs sans dÃ©sir de retour
+    Heureux si dans la solitude oÃ¹ je m'exile
+
+    L'ombre descend sur moi du temple et de la tour.
+
+
+III
+
+    Farouche de voir les aurores
+    Et les soleils Ã©panouis,
+    L'eau tressaillait dans les amphores
+    Sur la marge grise des puits
+
+    Et les tÃ©nÃ¨bres souterraines,
+    Les iris de sombre cristal
+    Se flÃ©trissaient comme des reines
+    Captives d'un soudard brutal.
+
+    Les servantes et les esclaves
+    Riaient Ã  l'entour; mais tu vins,
+    Et tu voilas de voiles graves
+    Les filles des antres divins.
+
+    Protectrice des eaux dolentes
+    Qui sais les rites d'autrefois,
+    J'ai trempÃ© mes lÃ¨vres tremblantes
+    A la coupe triste oÃ¹ tu bois:
+
+    Souviens-toi d'heures et d'annÃ©es
+    Et de soleils, Ã©tends les mains
+    Vers les clÃ©matites fanÃ©es,
+    Vers les Ã©toiles des jasmins;
+
+    Et sur la terre des merveilles
+    Que pavoisaient de nobles cieux
+    Fais refleurir les belles treilles
+    De nos jardins silencieux.
+
+
+
+
+NATIVITÃ
+
+
+    L'enfant nÃ© de la terre et libÃ©rÃ© par elle
+    Tendit, farouche et nu, son torse impÃ©rieux
+    Hors de l'antre oÃ¹ mourait la nuit surnaturelle;
+
+    Mais la brusque splendeur du soleil et des cieux,
+    LacÃ©rant l'ombre avec des griffes empourprÃ©es,
+    Ne fit pas tressaillir l'eau calme de ses yeux.
+
+    DÃ©sormais dÃ©daigneux des fontaines sacrÃ©es,
+    Il buvait puissamment la lumiÃ¨re et l'orgueil,
+    O tÃ©nÃ¨bres en pleurs, Ã´ mÃ¨res Ã©ventrÃ©es!
+
+    Et quand il eut vaincu les lianes du seuil
+    Et dÃ©ployÃ© sa chevelure dans l'aurore,
+    Les arbres lui chantaient un chant de bon accueil.
+
+    Dans l'allÃ©gresse de la force qui s'essore
+    Il marchait Ã  travers la natale forÃªt,
+    Attentif aux frissons du feuillage sonore;
+
+    Autour de lui le vol des abeilles vibrait
+    Et le miel embaumant ses lÃ¨vres fatidiques
+    RÃ©vÃ©lait Ã  son coeur l'ineffable secret
+
+    De la vie immortelle et des sÃ¨ves antiques.
+
+
+
+
+LE CHÃVRE-PIEDS
+
+
+    Sous cette roche en pleurs oÃ¹ dort la femme nue,
+    Nuage d'aube Ã©parse en la menteuse nuit,
+    Le chÃ¨vre-pieds regarde Ã  travers l'eau qui flue
+    Les lointaines maisons de labeur et de bruit.
+
+    Les tristes paysans se penchent vers la glÃ¨be
+    Pour un baiser de serfs et de jaloux amants
+    Dont la bouche haineuse Ã©voque de l'ErÃ¨be
+    L'or futur des Ã©pis et des riches froments.
+
+    Avares de moissons qui fatiguent les granges,
+    Ils mÃ©prisent l'aurore et les soleils couchants
+    Et leur oreille est close aux paroles Ã©tranges
+    Qui montent des taillis, des sources et des champs;
+
+    Et la charrue, avec les jours et les annÃ©es,
+    Impitoyable au deuil des bois mystÃ©rieux
+    Offense la beautÃ© des forÃªts profanÃ©es
+    OÃ¹ rÃ´daient librement les fauves et les dieux.
+
+    Mais le sylvain survit Ã  la sylve abattue;
+    Dans l'antre encor voilÃ© de feuillage, sa chair
+    Immortelle, Ã  travers les siÃ¨cles, perpÃ©tue
+    Le grand frisson d'amour qui fait tressaillir l'air;
+
+    Et dans les flancs d'une passante solitaire
+    Il sÃ¨me au chant des eaux et des rameaux flottants
+    Des fils aventureux affranchis de la terre
+    En qui bout la jeunesse hÃ©roÃ¯que des temps.
+
+
+
+
+FLAMMES
+
+
+    Parmi les Ã¢cres fleurs des lauriers, cette voix
+    Ãvocatrice en nous de gloire rÃ©volue
+    Ãmanait de la mer, du soir et d'autrefois:
+
+    Â«Enfants tristes, penchÃ©s vers l'ombre, l'ombre afflue
+    Et monte jusqu'Ã  vos lÃ¨vres avec les flots
+    Dont vous enivriez votre Ã¢me irrÃ©solue.
+
+    La sÃ©culaire nuit opprime vos yeux clos,
+    Enfants tristes, et vos poitrines lacÃ©rÃ©es
+    Se gonflent lÃ¢chement de stÃ©riles sanglots.
+
+    Si votre bouche a soif des aubes empourprÃ©es
+    Et du sang lumineux qui sacre le matin
+    Quel sortilÃ¨ge encor vous attrait aux vesprÃ©es?
+
+    D'un geste, dans la nuit, dÃ©cisif et hautain,
+    Reniez le poison des ondes lÃ©thÃ©ennes
+    Et marchez sans retour vers un autre destin.Â»
+
+    FrÃ©nÃ©tiques, hors des tÃ©nÃ¨bres anciennes
+    Nous avons fait jaillir dans le ciel morne et noir
+    Une farouche aurore Ã  la cime des chÃªnes,
+
+    Et dociles au cri de dÃ©sir et d'espoir,
+    Nous respirons les roses rouges de la joie,
+    Depuis que dÃ©jouant les embÃ»ches du soir
+
+    La torche avec l'Ã©pÃ©e Ã  notre poing flamboie.
+
+
+
+
+LE JARDIN DE CASSIOPÃE
+
+_A ALFRED VALLETTE_
+
+  CassiopÃ©e, s'Ã©tant dÃ©clarÃ©e, par orgueil, plus belle que les NÃ©rÃ©ides,
+  dut exposer au monstre marin sa fille AndromÃ¨de, qui fut dÃ©livrÃ©e par
+  PersÃ©e. AprÃ¨s sa mort, CassiopÃ©e fut mise au rang des Constellations.
+
+(MYTHOGRAPHES GRECS.)
+
+
+
+
+LE JARDIN DE CASSIOPÃE
+
+
+L'HOMME
+
+    Sans matins blancs et sans Ã©toiles dans la nuit,
+    A travers le brouillard oÃ¹ soufflait le vent rude,
+    J'ai cheminÃ© de solitude en solitude
+    N'ayant pour compagnon que l'immuable ennui.
+
+    DerriÃ¨re les rocs noirs qui portent le ciel triste,
+    Monotone, la mer invisible pleurait;
+    Et jusqu'Ã  l'horizon barrÃ© par la forÃªt,
+    Les maigres tamaris et l'Ã¢pre fleur du ciste.
+
+    Puis des jours mornes dans le silence des bois
+    PesÃ¨rent sur mon front en gouttes d'ombre lourde:
+    Nul bruit d'oiseau qui chante ou de source qui sourde
+    N'a dissipÃ© l'horreur d'ouÃ¯r ma seule voix;
+
+    Et ce fut Ã  nouveau la lande grise et plate,
+    La houle des genÃ©vriers et des ajoncs,
+    Que n'illustra jamais de tragiques rayons
+    Quelque couchant royal au manteau d'Ã©carlate.
+
+    Mais le riche verger m'attend. O treilles d'or,
+    Saurai-je encor saisir vos grappes immortelles,
+    Les mains lasses d'avoir cueilli des asphodÃ¨les
+    Et de sombres pavots qui conseillent la mort?
+
+CASSIOPÃE
+
+    Qui que tu sois, passant envoyÃ© par le sort,
+    Venu des tÃ©nÃ©breux chemins, franchis la haie,
+    Cueille d'un seul regard toute la roseraie,
+    Que ses vivants parfums te sauvent de la mort!
+
+    Tends les mains; le verger de force et de liesse
+    Que n'a pas envahi l'ombre du dernier dieu
+    T'offre les raisins clairs, les oranges de feu,
+    Et si ta lÃ¨vre a soif d'amour, l'aube acquiesce,
+
+    La mer chante; appelÃ© par les conques des flots,
+    AprÃ¨s les jours ou les longs mois de bonne halte,
+    Tu partiras: le vin des amphores exalte
+    L'orgueil viril et pur qui sacre les hÃ©ros
+
+    Et son baume puissant dÃ©livre l'Ã¢me esclave;
+    Tu partiras dans la splendeur d'un soir d'Ã©tÃ©
+    Tel que le soleil rouge au ciel ensanglantÃ©
+    Teigne en pourpre l'embrun de neige sous l'Ã©trave.
+
+    Tourbillonne le vol des typhons Ã©ployÃ©s!
+    Qu'importe au pÃ¨lerin dÃ©daigneux et farouche
+    Ivre Ã©ternellement d'avoir bu sur ma bouche
+    Le mÃ©pris du ciel vide et des dieux reniÃ©s!
+
+
+
+
+VOIX DERRIÃRE LA HAIE
+
+
+_VENDÃMIAIRE_
+
+LES VENDANGEURS
+
+    Les sarments rampaient entre les pierres
+    Ou montaient au tronc rugueux des ormes,
+    Tordus et nouÃ©s en noeuds difformes
+    Comme des orvets et des vipÃ¨res.
+
+    CourbÃ©s sous le fouet des rois avares,
+    Nous avons versÃ© nos pleurs, nos peines;
+    Nous avons ouvert nos pÃ¢les veines,
+    Nous avons nourri les vignes rares;
+
+    Nous avons pillÃ© les ceps d'automne;
+    Le moÃ»t bruissait au fond des cuves,
+    Pour les maÃ®tres, saouls de chauds effluves,
+    Le sang de nos coeurs emplit la tonne.
+
+
+_NIVOSE_
+
+LES COUPEURS DE ROSEAUX
+
+    L'eau langoureuse endormait les saules;
+    Vers le dÃ©clin des tiÃ¨des journÃ©es
+    Elle frÃ´lait de lÃ¨vres pÃ¢mÃ©es
+    Les seins roses, les blanches Ã©paules.
+
+    Le choeur estival des femmes nues
+    Plus doux que le chant des tourterelles
+    Propageait parmi les roseaux grÃªles
+    Le frisson de voluptÃ©s inconnues.
+
+    Roseaux, vous clorez nos pauvres huttes.
+    D'autres prendront vos fragiles Ã¢mes;
+    Ils Ã©voqueront les belles femmes
+    Avec la voix magique des flÃ»tes.
+
+
+_FLORÃAL_
+
+LES TISSERANDS
+
+    Notre peau s'use au fer des navettes,
+    Notre peau gerce Ã  tistre la soie;
+    Dehors le printemps chante et flamboie:
+    Nous ne connaissons ni fleurs ni fÃªtes.
+
+    Toujours notre front dolent s'incline
+    Vers le mÃ©tier dÃ¨s la prime aurore;
+    Toujours nos doigts fanÃ©s font Ã©clore
+    De fraÃ®ches fleurs dans l'Ã©toffe fine.
+
+    Et sur le linceul et sur les langes
+    Des empereurs porphyrogÃ©nÃ¨tes
+    Nous entrelaÃ§ons les fauves bÃªtes
+    Qui rÃ´dent dans nos songes Ã©tranges.
+
+
+_THERMIDOR_
+
+LES MARINS
+
+    Nous avons domptÃ© les mers funÃ¨bres
+    Et vaincu leurs gueules forcenÃ©es:
+    La lÃ¨pre mord nos mains dÃ©charnÃ©es
+    Ronge la moelle de nos vertÃ¨bres.
+
+    En vain le soleil d'Ã©tÃ© rayonne:
+    Car nous nous traÃ®nons dans les venelles,
+    Grelottant de fiÃ¨vres Ã©ternelles,
+    Et sur nos os la laine frissonne.
+
+    Cependant nous portions dans la cale
+    La poudre d'or et les aromates
+    Et de souples filles aux chairs mates
+    MÃ»res de lumiÃ¨re orientale.
+
+
+
+
+LA DOULEUR A CRIÃ
+
+
+L'HOMME
+
+    La douleur a criÃ© du fond des belles heures.
+
+    Les roses du jardin, le parfum que tu fleures
+    L'opulente senteur de l'Ã©tÃ© triomphant
+    S'Ã©vanouit; le meurtre souffle avec le vent:
+    La douleur a criÃ© du fond des belles heures.
+
+
+    Pantelante, AndromÃ¨de agonise Ã  jamais.
+
+    Un suprÃªme baiser aux lÃ¨vres que j'aimais,
+    Et dans le rouge soir je brandirai l'Ã©pÃ©e,
+    Puisque hors du verger calme, CassiopÃ©e,
+    Pantelante, AndromÃ¨de agonise Ã  jamais
+
+
+    Mais l'invincible orgueil vit dans les treize Ã©toiles.
+
+    Si la tempÃªte hurle et lacÃ¨re les voiles,
+    J'attends sans peur l'assaut des vagues et des cieux;
+    Les astres immortels rÃ©confortent mes yeux
+    Et l'invincible orgueil vit dans les treize Ã©toiles.
+
+
+
+
+LA GLOIRE DU VERBE
+
+
+
+
+LA GLOIRE DU VERBE
+
+_A CAMILLE BLOCH_
+
+
+
+
+LA GLOIRE DU VERBE
+
+
+I
+
+    Une nuit langoureuse et sereine enveloppe
+    D'un cercle de lapis ouvrÃ© de roses d'or
+    Les barques, essaim las de cygnes sans essor,
+    Les palmiers, les canaux, les plaines et Canope;
+
+    Et des flambeaux pareils Ã  des soleils couchants
+    Illuminent la soie et les gemmes persanes.
+    Tandis qu'au rire aigu des jeunes courtisanes
+    Les nefs, lourdes d'amour, glissent avec des chants.
+
+    Les esclaves courbÃ©s effleurent de leurs rames
+    Les papyrus gÃ©ants teints de brÃ¨ves clartÃ©s
+    Et l'eau lente roulant des flots de voluptÃ©s
+    OÃ¹ se mirent les yeux et les seins nus des femmes.
+
+    Mais non loin, sourd au bruit sacrilÃ¨ge que font
+    Les voix des matelots, les flÃ»tes et les harpes
+    Le guÃ©risseur voilÃ© de ses triples Ã©charpes
+    Ossar-Hapi sommeille en son temple profond;
+
+    Et de vagues lueurs Ã©parses sur les dalles
+    Eclairent tristement de leurs reflets confus
+    Les suppliants couchÃ©s auprÃ¨s des grÃªles fÃ»ts
+    En un fÃ©tide amas de chairs et de sandales.
+
+    Seul debout dans sa force et sa beautÃ©, parmi
+    Les pÃ¨lerins perclus de maux, rongÃ©s d'ulcÃ¨res,
+    Mais tel que le gÃ©ant dÃ©chirÃ© par les serres
+    Du vautour, un HellÃ¨ne orgueilleux et blÃªmi
+
+    Evoque sans trembler le prince du mystÃ¨re:
+    Â«O maÃ®tre, hÃ´te cachÃ© du sanctuaire, Ã´ Roi,
+    Vierge d'Ã©tonnement puÃ©ril et d'effroi,
+    J'ai connu tous les dieux du ciel et de la terre,
+
+    Atroces et clÃ©ments, magnifiques et laids
+    Et j'ai priÃ© selon l'ordonnance des rites
+    PrÃ¨s du fleuve farouche oÃ¹ chantent les lychnites
+    Dans la splendeur des clairs de lune violets
+
+    Et lÃ -bas, oÃ¹ les daims paissent la mousse rase
+    Sous les neiges de la fabuleuse ThulÃ©,
+    J'ai lu le sort Ã©crit dans l'azur constellÃ©
+    Par les nuits qu'une aurore inoubliable embrase;
+
+    Mais nul n'a dit le mot que j'ai cherchÃ© longtemps
+    Et qui me guÃ©rirait des angoisses de l'Ã¢me:
+    Parle, sinon la mort prochaine me rÃ©clame
+    Et l'horreur d'ignorer me consume: j'attends.Â»
+
+
+II
+
+    Alors des profondeurs et des tÃ©nÃ¨bres saintes
+    Comme un jeune soleil sort des gouffres marins,
+    Blanche, laissant couler des Ã©paules aux reins
+    Ses cheveux oÃ¹ nageaient de pÃ¢les hyacinthes,
+
+    Une femme surgit: son manteau radieux
+    RevÃªtait son beau corps d'une pourpre vivante;
+    Des abÃ®mes d'amour, de joie et d'Ã©pouvante
+    OÃ¹ sombrerait l'esprit des hommes et des dieux
+
+    S'ouvraient terriblement dans ses larges prunelles
+    Et les villes, les champs, les cimes, les dÃ©serts,
+    La mer prodigieuse et l'infini des airs
+    Semblaient se rÃ©flÃ©chir et disparaÃ®tre en elles;
+
+    Et lorsqu'elle parla, son ineffable voix
+    Unissait aux Ã©chos des lyres et des sistres
+    Le souffle des baisers et les rÃ¢les sinistres
+    De la haine et le bruit des vagues et des bois:
+
+    Â«Marcheur pensif, enfant prÃ©destinÃ© qui nies
+    Les songes et l'espoir de ton coeur puÃ©ril,
+    Tu vas, Ã©merveillÃ© des floraisons d'avril
+    Et des soirs frissonnant de calmes harmonies;
+
+    Tu regardes avec des tendresses d'amant
+    Les nuages lÃ©gers ouvrir leurs ailes closes
+    A l'aube, et comme un vol de flamants blancs et roses
+    S'Ã©lever dans les champs du ciel Ã©perdument;
+
+    Volontaire captif de l'Ã©ternelle Omphale
+    Tu parles bas aux Vierges chastes et tu sais
+    Faire chanter aux corps ardemment enlacÃ©s
+    Des hymnes inouÃ¯s d'impudeur triomphale;
+
+    Ton esprit altÃ©rÃ© de dÃ©sirs immortels
+    Epuiserait encor la coupe des priÃ¨res,
+    Ta parole dÃ©ment tes attitudes fiÃ¨res
+    Et tu t'es prosternÃ© devant tous les autels.
+
+    Mais toujours au milieu de tes extases vaines
+    Le mensonge des dieux et des lÃ¨vres te point
+    Et tu verses, dÃ©Ã§u d'aimer ce qui n'est point,
+    Tous les pleurs de tes yeux et le sang de tes veines.
+
+    Si tu n'Ã©treins que des chimÃ¨res, si tu bois
+    L'enivrement de vins illusoires, qu'importe?
+    Le soleil meurt, la foule imaginaire est morte
+    Mais le monde subsiste en ta seule Ã¢me: vois!
+
+    Les jours se sont fanÃ©s comme des roses brÃ¨ves,
+    Mais ton Verbe a crÃ©Ã© le mirage oÃ¹ tu vis
+    Et je nais Ã  tes yeux de tes regards ravis
+    Et je garde Ã  jamais la gloire de tes rÃªves.Â»
+
+    La forme s'effaÃ§a, la parole se tut,
+    Et dÃ©livrÃ© du poids antÃ©rieur des chaÃ®nes,
+    L'homme plana plus haut que les heures prochaines
+    Et comme tout, canaux, citÃ©, temple abattu
+
+    S'enfonÃ§ait lentement dans la brume amassÃ©e
+    Sur le fond tÃ©nÃ©breux des Ãªtres et des temps,
+    Pure clartÃ©, pistils de rayons Ã©clatants,
+    Il vit s'Ã©panouir la fleur de sa pensÃ©e.
+
+
+
+
+LES MYTHES
+
+_A MARCEL COLLIÃRE._
+
+
+
+
+L'AVENTURIER
+
+_A Charles Andler._
+
+
+    LÃ -haut, temple ou palais dressÃ© sur la colline,
+    Un amoncellement de blocs prodigieux
+    Monte: des chiens de bronze aux yeux de cornaline
+    Hurlent aux quatre vents, la gueule vers les cieux.
+
+    Les murs massifs, coupes de portes mÃ©talliques,
+    Sont Ã©caillÃ©s de cuivre et peints de vermillon;
+    Au faÃ®te, le soleil frappe de feux obliques
+    Un Ã©tendard taillÃ© dans la peau d'un lion.
+
+    Pacifiques, devant la demeure farouche,
+    Des rosiers rouges et des lys parent le bois
+    OÃ¹ passe, inoffensive aux roses qu'elle touche,
+    L'enfant belle Ã  dompter les hÃ©ros et les rois.
+
+    Le calme lumineux du jour mourant caresse
+    L'enfant grave: elle glisse entre les nobles fleurs
+    Avec des gestes lents d'idole ou de prÃªtresse
+    Qui n'a jamais connu le rire ni les pleurs.
+
+    Elle va, contemplant de ses larges prunelles
+    Les vagues de forÃªts qui ferment l'horizon
+    Et le val oÃ¹ le soir vÃªt d'ombres solennelles
+    Le maÃ®tre hÃ©rissÃ© d'une horrible toison.
+
+    C'est son pÃ¨re, tueur de boeufs, ployeur de chÃªnes;
+    EmbusquÃ© tel qu'un fauve aux aguets, il attend
+    Les voyageurs qui vont vers les citÃ©s prochaines
+    Et fait craquer leurs os en ses doigts de Titan.
+
+    Puis il revient, tranquille, aprÃ¨s chaque tuerie,
+    CourbÃ© sous le butin comme un roi triomphant,
+    Et tandis que les morts saignent dans la prairie
+    Suspend de lourds colliers au cou de son enfant.
+
+    Maintenant une nuit de lune, froide et claire,
+    DÃ©coupe le profil des monts sur les chemins;
+    Le meurtrier fatal, sans haine et sans colÃ¨re,
+    Ecoute s'approcher un bruit de pas humains.
+
+    Et voici qu'au dÃ©tour de la route moussue
+    ApparaÃ®t, radieux sous l'armure qui luit,
+    Un guerrier casquÃ© d'or qui porte une massue
+    Et dont le manteau rouge illumine la nuit.
+
+    Le Tueur, allongÃ© dans la broussaille, Ã©pie
+    Le HÃ©ros dÃ©daigneux en marche vers la mort;
+    Mais celui-ci, clamant vers la muraille impie,
+    RÃ©veille les Ã©chos de la forÃªt qui dort:
+
+    Â«Je suis venu; hors du repaire, Ã´ vainqueur d'hommes!
+    Si tu fuis devant moi je dirai que tu mens;
+    Mais tu mÃ©riteras le nom dont tu te nommes
+    Si tu peux m'Ã©touffer dans tes embrassements.Â»
+
+    --Â«Soit! ta bouche saura la saveur de la terre.Â»
+    Et l'antique lutteur se dresse avec ennui
+    Pour Ã©craser d'un coup de poing et faire taire
+    L'Ã©phÃ¨be injurieux qui parla devant lui.
+
+    Ils se prennent, poitrine unie et chair mÃªlÃ©e,
+    Groupe tumultueux de rÃ¢les et de cris:
+    L'enfant calme regarde, au fond de la vallÃ©e,
+    Le meurtre habituel du haut des monts fleuris.
+
+    Elle voit seulement se mouvoir dans la plaine
+    L'ombre du double corps et des torses jumeaux
+    Et sÃ»re du vainqueur, s'enivre avec l'haleine
+    Des parfums langoureux Ã©pars sous les rameaux.
+
+    Mais tout Ã  coup, aprÃ¨s une clameur sauvage,
+    Ses impassibles yeux se ferment de terreur:
+    Comme un boeuf abattu dans le natal herbage,
+    L'invincible est couchÃ© sous le jeune lutteur.
+
+    Et le guerrier sanglant, par les pentes ardues,
+    Monte vers le jardin: Â«Vous serez apaisÃ©s,
+    O morts, je vengerai vos Ã¢mes Ã©perdues
+    Et la victime est belle et vierge de baisers.
+
+    O morts, je vais tuer dans la Fille maudite
+    Les exÃ©crables fils qui naÃ®traient de ses flancs.Â»
+    Il dit et vient, hagard du meurtre qu'il mÃ©dite
+    Et l'Enfant parle aux fleurs et tend ses bras tremblants:
+
+    Â«L'Homme vous briserait avec ses mains brutales,
+    Roses que je laissais fleurir et dÃ©fleurir;
+    Un arome puissant monte de vos pÃ©tales,
+    Vos parfums sont trop doux pour que j'aime Ã  mourir.
+
+    Ma chair frissonne; sauvez-moi, fleurs protectrices.
+    O lys, lys glorieux que je n'ai pas cueillis,
+    Je voudrais me cacher dans vos Ã©troits calices
+    Et refermer sur nous le voile des taillis.
+
+    Au moins, versez en moi vos senteurs: que j'emporte
+    Dans le morne pays vos baumes prÃ©cieux,
+    O fleurs qui renaÃ®trez lorsque je serai morte,
+    Fleurs, Ã©ternelles fleurs, fleurs Ã©gales aux dieux!Â»
+
+    Elle murmure encor des mots et des priÃ¨res
+    Mais le vainqueur, surgi des Ã¢pres escaliers,
+    TraÃ®ne par les cheveux l'Enfant dans les clairiÃ¨res
+    Et fait boire son sang aux roses des halliers.
+
+    Â«J'ai tuÃ© le Brigand et la Magicienne,
+    L'oeuvre est bonne: luisez sur ma route, astres purs!Â»
+    Et l'EphÃ¨be drapÃ© dans la pourpre ancienne,
+    Se hÃ¢te dans la nuit vers les monstres futurs.
+
+
+
+
+LE BOIS SACRÃ
+
+_A Lucien LÃ©vy_
+
+
+I
+
+    Resplendissante, au pied du mont mystÃ©rieux,
+    La troupe formidable et blonde des guerriÃ¨res
+    Gardait, la lance au poing, les farouches clairiÃ¨res
+    Et la forÃªt terrible oÃ¹ sommeillent les dieux.
+
+    Et tous venaient vers la tÃ©nÃ©breuse vallÃ©e
+    Sous les casques de bronze et les boucliers ronds,
+    VÃªtus de fer et d'or par de bons forgerons,
+    Tous les hÃ©ros Ã©pris de gloire inviolÃ©e.
+
+    Frappant le ciel muet de sauvages clameurs,
+    Tous par les nuits, par les matins, par les vesprÃ©es,
+    Ils venaient au galop des licornes cabrÃ©es:
+    Â«Nous verrons votre face, exÃ©crables semeurs
+
+    Des dÃ©sirs, des baisers et des larmes humaines;
+    O voyageurs hagards qui hurlez dans le vent,
+    Nos bras Ã©toufferont votre souffle vivant
+    Et nous tuerons en vous nos amours et nos haines.
+
+    Si vous ne craignez pas nos glaives, approchez:
+    Votre rire cruel insulte Ã  nos misÃ¨res.
+    O vautours, nous irons vous prendre dans vos aires,
+    O loups, nous forcerons vos repaires cachÃ©s!Â»
+
+    Tous se ruaient: lÃ -haut, sous les sombres ramures,
+    Les calmes dieux semblaient immobiles et sourds.
+    Mais brandis par les mains des guerriÃ¨res, toujours
+    Les javelots stridents vibraient sur les armures.
+
+    Et les hÃ©ros, vainqueurs de monstres, les tueurs
+    Des dragons enflammÃ©s, des hydres et des stryges
+    Roulaient honteusement broyÃ©s sous les quadriges.
+    Leurs yeux mi-clos rougis de mourantes lueurs
+
+    Convoitaient les seins nus des prÃªtresses complices
+    Qui, mÃ©prisant leurs cris et leurs rÃ¢les derniers,
+    Joyeuses, bondissaient sur les rauques charniers
+    Et tendaient vers le ciel leurs mains triomphatrices.
+
+
+II
+
+    Or le tumulte des batailles, ce jour-lÃ ,
+    Se tut comme la mer pendant les accalmies.
+    Sur les corps mutilÃ©s et sur les chairs blÃªmies
+    Le flot d'une ineffable aurore s'Ã©tala.
+
+    Un grave chant portÃ© par le souffle des brises
+    Montait de l'Orient lumineux et charmait,
+    Ãpars autour des bois et du divin sommet,
+    Le coeur moins furieux des guerriÃ¨res surprises:
+
+    Et l'AÃ¨de parut couronnÃ© de cyprÃ¨s;
+    Sa lyre se voilait de tristes asphodÃ¨les
+    Et douloureusement les cordes immortelles
+    Pleuraient un chant d'amour, de deuil et de regrets.
+
+    Â«M'entends-tu dans le noir abÃ®me, Ã´ chÃ¨re morte,
+    IrrÃ©vocable fleur qu'un vent cruel emporte?
+
+    O lumiÃ¨re, comme une Ã©toile qui s'enfuit,
+    Ne briseras-tu pas les chaÃ®nes de la nuit?
+
+    O soeur des soirs taillÃ©s dans de larges opales,
+    OÃ¹ sont tes cheveux d'ombre, oÃ¹ sont tes lÃ¨vres pÃ¢les?
+
+    Vous qui l'avez ravie, Ã´ dieux, je viens Ã  vous,
+    Rendez l'Ã©pouse absente aux baisers de l'Ã©poux.
+
+    Je vous ai cÃ©lÃ©brÃ©s dans mes strophes pieuses,
+    O maÃ®tres qui siÃ©gez aux cimes merveilleuses:
+
+    Mais les rhythmes naissaient de ses rires: rouvrez
+    Les sources de l'amour et des hymnes sacrÃ©s.Â»
+
+    Les guerriÃ¨res des dieux Ã©coutaient comme en rÃªve
+    Le doux profanateur en marche vers les bois,
+    Il passa; les chevaux s'Ã©cartaient Ã  sa voix
+    Et sa chair dÃ©daignait la morsure du glaive.
+
+    Autour de lui, le vol des flÃ¨ches susurrait
+    Comme un essaim vaincu d'abeilles bienveillantes
+    Et sans ouÃ¯r les cris des vierges effrayantes
+    L'AÃ¨de pacifique entra dans la forÃªt.
+
+
+III
+
+    Ãperdument, par les silencieuses sentes,
+    Il allait; ses regards Ã©piaient les fourrÃ©s
+    Taciturnes: sous les rameaux enchevÃªtrÃ©s,
+    Nulle apparition de chairs Ã©blouissantes.
+
+    L'ombre informe, le noir silence, des parfums
+    Sauvages d'herbe fraÃ®che et de fleurs surannÃ©es
+    Et, confondue avec les sÃ¨ves dÃ©chaÃ®nÃ©es,
+    L'innombrable senteur des automnes dÃ©funts.
+
+    Il allait; nulle voix effroyable ou charmante
+    Ne rÃ©pondait, nul bruit de fÃªte ou de combats:
+    Seul, dans les antres, sous le ciel, ici, lÃ -bas,
+    Le frisson fauve de la terre qui fermente.
+
+    Semblables au monceau des feuilles sous ses pas,
+    Ses rÃªves, ses douleurs, ses pensÃ©es
+    Tombaient en tournoyant dans les bises glacÃ©es
+    Et l'AÃ¨de comprit que les dieux n'Ã©taient pas.
+
+    Il perdit, se vouant aux stupides Ã©pÃ©es,
+    L'orgueil d'Ãªtre vaincu par un maÃ®tre inclÃ©ment,
+    Comme les hÃ©ros morts frappÃ©s en blasphÃ©mant
+    Ivres d'un puissant vin de gloire et d'Ã©popÃ©es.
+
+    Et dÃ©pouillÃ© du fier rÃªve des dieux jaloux,
+    Il brisa pour jamais les cordes tutÃ©laires
+    Et descendit vers les clameurs et les colÃ¨res,
+    Ainsi qu'un chasseur las se livre aux crocs des loups.
+
+
+IV
+
+    L'homme fut dÃ©chirÃ© par les vierges sanglantes;
+    La bouche d'oÃ¹ sortaient les paroles de miel
+    Se tut. La nuit sereine enveloppa le ciel
+    Et recouvrit les morts d'ombres indiffÃ©rentes,
+
+    Tandis que dÃ©fendant le mont mystÃ©rieux
+    La troupe formidable et blonde des guerriÃ¨res
+    Gardait, la lance au poing, les farouches clairiÃ¨res
+    OÃ¹ triomphe toujours le mensonge des dieux.
+
+
+
+
+LES CAPTIFS
+
+_A Leconte de Lisle._
+
+
+I
+
+    Un sage, descendant de cimes inconnues,
+    S'en allait autrefois par le pays d'Assour,
+    Et la mystÃ©rieuse aurore d'un grand jour
+    Empourprait, Ã  sa voix, le jardin blanc des nues.
+
+    Les peuples le suivaient et ne comprenaient pas
+    Quels dieux, accompagnant la marche du prophÃ¨te,
+    Candidement semaient dans les villes en fÃªte
+    Des lys miraculeux et calmes sous ses pas.
+
+    Mais tous buvaient le miel divin de ses paroles,
+    Le miel fait de parfums et de baumes puissants,
+    Forts comme la senteur Ã©parse de l'encens,
+    Doux comme la senteur Ã©parse des corolles.
+
+    Pour s'enivrer des mots que sa bouche versait,
+    Les laboureurs quittaient le manche des charrues,
+    Et parmi la clameur des foules accourues
+    Le Voyant pacifique et sublime passait.
+
+    DÃ©sormais, dÃ©daigneux des apparences brÃ¨ves
+    Et des illusions passagÃ¨res, fermant
+    Leurs yeux purifiÃ©s Ã  la clartÃ© qui ment,
+    Les hommes ouvraient l'Ã¢me Ã  la splendeur des rÃªves.
+
+
+II
+
+    Le roi, las des lions traquÃ©s dans les filets,
+    Las des buffles saignant sous la grÃªle des flÃ¨ches,
+    Las des femmes aux chairs odorantes et fraÃ®ches
+    Fit amener vers lui cet homme en son palais:
+
+    Â«Vieillard, Ã©vocateur des merveilles du songe,
+    Â«Jongleur qui fais surgir devant les yeux humains,
+    Â«Dans la poussiÃ¨re impure et vile des chemins,
+    Â«Des visions de paix, de gloire et de mensonge,
+
+    Â«Vieillard, Ã©vocateur des merveilles du ciel,
+    Â«Toi qui rÃ¨gnes, lÃ -bas, au pays du mystÃ¨re,
+    Â«Mon coeur royal dÃ©Ã§u par l'horreur de la terre
+    Â«Aspire Ã  la beautÃ© du monde essentiel.
+
+    Â«Tel que le cri plaintif des tigres dans les fosses
+    Â«Vient Ã  nous Ã  travers les cloisons de la nuit,
+    Â«J'entends sourdre en moi-mÃªme un lamentable bruit
+    Â«MalgrÃ© le mur d'airain des apparences fausses.
+
+    Â«O vieillard, fais tomber les mauvaises cloisons,
+    Â«Montre-moi la campagne et les arbres des plaines
+    Â«Et les fleuves d'azur roulant Ã  vagues pleines
+    Â«Vers le gouffre sans fin des vierges horizons.Â»
+
+    Mais l'homme d'une voix tranquille: Â«Que t'importe,
+    Â«O roi des rois, seigneur des mondes, fils des dieux,
+    Â«Qui marches revÃªtu de pourpre et radieux,
+    Â«La rumeur entendue au delÃ  de la porte?
+
+    Â«O maÃ®tre, que veux-tu de la terre et des cieux?
+    Â«Si je t'ouvre la source antique de la vie,
+    Â«Je n'apaiserai pas ta soif inassouvie,
+    Â«Et ton esprit d'orgueil n'en croira point tes yeux!Â»
+
+    --Â«VoilÃ  beaucoup de mots inutiles, prends garde:
+    Â«Ta tÃªte pourrait choir d'un coup prÃ©maturÃ©.Â»
+    Et l'homme rÃ©pondit: Â«C'est bien. J'obÃ©irai:
+    Â«Roi qui veux voir le fond de l'abÃ®me, regarde.Â»
+
+    Hors du temps, hors du lieu, faite de pur granit,
+    Enserrant l'univers de ses noires murailles,
+    Rauque d'un monstrueux rÃ¢le de funÃ©railles,
+    Une immense prison montait dans l'infini.
+
+    Au milieu de la geÃ´le effroyable, les villes
+    S'Ã©tageaient sous le deuil des cieux; un flamboiement
+    D'astres sombres luisait Ã©pouvantablement
+    Sur les rois, sur les dieux, sur les foules serviles.
+
+    Mais une lueur d'aube emperlait l'Orient
+    De magiques rayons et d'Ã©tincelles blondes:
+    Les hommes nÃ©s depuis la naissance des mondes
+    Se ruaient vers l'espoir du soleil, en criant.
+
+    Ils allaient, Ã©perdus et fauves; les armÃ©es
+    Se heurtaient sous le vol sinistre des vautours;
+    Et les blocs de rochers pleuvaient des hautes tours,
+    Et les ailes du feu nageaient dans les fumÃ©es.
+
+    Les chefs vainqueurs, avant le rouge lendemain,
+    Offraient aux dieux d'en-haut les victimes tuÃ©es
+    Et dressaient vers la cime errante des nuÃ©es
+    Des palais effrayants tendus de cuir humain.
+
+    Sourds aux tumultes, sourds aux luttes, mains unies,
+    Regards ravis d'extase et d'Ã©blouissements,
+    Des couples enlacÃ©s de femmes et d'amants
+    Passaient, dans un concert de tendres harmonies:
+
+    Des pÃ©tales de fleurs apportÃ©s par le vent
+    Tourbillonnaient vers eux dans l'ombre des yeuses:
+    Et tous, couples d'amour et hordes furieuses,
+    Marchaient, marchaient toujours vers le soleil levant.
+
+    Mais l'aube dÃ©sirÃ©e et les futures gloires
+    De clartÃ©s dÃ©cevaient leurs risibles efforts,
+    Et mourant vainement pour renaÃ®tre, les morts
+    Poursuivaient Ã  nouveau les astres illusoires.
+
+    La mÃªme nuit baignait l'Ã©ternel horizon,
+    Et de ceux qui vaguaient dans la geÃ´le des choses
+    Et tÃ¢chaient Ã  s'enfuir de leurs cavernes closes,
+    Aucun ne s'Ã©vadait de la morne prison.
+
+    Seuls, les sages tuaient la volontÃ© de vivre.
+    Aveugles aux lueurs que nul ne peut saisir,
+    Ils gagnaient, affranchis des chaÃ®nes du dÃ©sir,
+    Le nÃ©ant ineffable et la mort qui dÃ©livre.
+
+    Bienheureux qui savaient la fatigue des pas,
+    Bienheureux qui savaient le mirage des astres,
+    Bienheureux qui savaient la vie et les dÃ©sastres:
+    Ils s'endormaient un jour et ne renaissaient pas.
+
+
+III
+
+    Â«La vision, vieillard, est morne et ridicule:
+    Â«Tu mourras.Â» Et le roi Nabou-Koudour-Oussour,
+    TrÃ¨s juste, fit clouer au faÃ®te d'une tour
+    La tÃªte qui saignait dans l'or du crÃ©puscule.
+
+
+
+
+LES YEUX D'HÃLÃNE
+
+_A Marcel Proust._
+
+    Qualis maternis Helene jam digna palestris,
+    Inter amyclaeos reptabat candida fratres.
+
+(P. STATIUS.)
+
+
+    La native blancheur du cygne paternel.
+    VÃªt de neige le corps adorable d'HÃ©lÃ¨ne,
+    Et l'eau du fleuve bleu qui glisse dans la plaine
+    Baigne ses yeux d'enfant profonds comme le ciel.
+
+    Elle va: ses regards de dÃ©esse ingÃ©nue
+    Que jamais la tristesse impure n'a troublÃ©s
+    Errent nonchalamment sur les flots blonds des blÃ©s,
+    Et les hommes pensifs tremblent Ã  sa venue.
+
+    Elle Ã©voque l'horreur future des destins
+    Et verse le frisson des luttes fatidiques
+    Aux guerriers Ã  venir assis sous les portiques,
+    Dont les yeux Ã©blouis suivent ses pas lointains.
+
+    L'effroi religieux issu de ses prunelles
+    Ardentes d'incendie et de fauves clartÃ©s
+    Saisit Ã©trangement les coeurs Ã©pouvantÃ©s
+    Et pleins de visions sombres et solennelles.
+
+    Passe, vierge terrible au col souple et nerveux:
+    L'inexpiable sang pour les siÃ¨cles macule
+    Ton front clair comme un jour d'Ã©tÃ© sans crÃ©puscule
+    Et la mort des hÃ©ros surgit de tes cheveux.
+
+    Passe, reine d'amour, semeuse de dÃ©sastres,
+    Dans ta robe de gloire et de sÃ©rÃ©nitÃ©,
+    Et vois fleurir les deuils autour de ta beautÃ©,
+    Sous tes regards pareils aux rayons froids des astres.
+
+    Tu brilles dans la nuit des Ã¢ges rÃ©volus
+    Et les derniers amants des formes triomphales
+    Contemplent au delÃ  de l'ombre et des rafales
+    Tes yeux dont la splendeur ne s'abolira plus.
+
+
+
+
+SCHAOUL
+
+_A Rodolphe Darzens._
+
+
+I
+
+    En ces jours, Elohim lui refusant son ombre,
+    Schaoul, enfant de Qisch, Ã©tait semblable au mort
+    DÃ©laissÃ©, que la dent des bÃªtes fauves mord,
+    Et les esprits du mal rongeaient son Ã¢me sombre.
+
+    Il errait Ã  travers les routes d'IsraÃ«l
+    Poursuivi sans repos par la meute tenace
+    Et d'Ã¢pres aboiements de haine et de menace
+    Hurlaient autour de lui dans l'abÃ®me du ciel.
+
+    Rien ne transfigurait ses mornes destinÃ©es.
+    Nulle trÃªve: ni les paroles des nabis
+    Ni la chair des bÃ©liers ni la chair des brebis
+    N'Ã©cartaient de son coeur les gueules forcenÃ©es.
+
+    Et mÃªme dans la fÃªte hÃ©roÃ¯que du sang,
+    Quand les vaincus, aprÃ¨s les sauvages victoires,
+    Montaient vers le TrÃ¨s-Haut en feux expiatoires,
+    Les crocs inassouvis lui dÃ©chiraient le flanc.
+
+    Alors on fit venir vers le roi taciturne
+    David de BethlÃ©em, le joueur de kinnor,
+    Dont l'incantation charmait les astres d'or
+    Tandis que ses troupeaux paissaient l'herbe nocturne,
+
+    Et comme les chacals rentrent aux creux des monts
+    Quand le veneur paraÃ®t sur les rocs granitiques,
+    MÃªlant sa voix d'enfant aux cordes prophÃ©tiques
+    David, plein d'Iahveh, chassa les noirs dÃ©mons.
+
+
+II
+
+    Homme, Schaoul des temps infinis, saigne et pleure:
+    Les carnassiers hideux suivent sur ton chemin
+    La trace de tes pas, hier, aujourd'hui, demain,
+    Toujours: le changement de la forme et de l'heure
+
+    N'Ã©cartera jamais la horde des ennuis
+    Et tu te traÃ®neras dans l'horreur sans limite
+    Sans ouÃ¯r le Kinnor et le BethlÃ©Ã©mite
+    Qui te ferait des jours pareils aux belles nuits.
+
+
+
+
+RESSOUVENIR
+
+_A Mario de la Tour de Saint-Ygest._
+
+
+    Cet homme Ã©tait venu vers le MaÃ®tre des pleurs
+    Oubliant pour le Christ les lyres et les roses,
+    Comme un vendangeur las qui de ses mains dÃ©closes
+    Laisse choir les raisins et les grappes de fleurs.
+
+    Il avait dÃ©laissÃ© pour les routes d'Ã©pines
+    Les portiques de marbre auprÃ¨s des flots marins.
+    Sous le cilice dur qui lui mordait les reins,
+    Il marchait loin du jour vers les ombres divines.
+
+    Or il vivait au fond des bois mystÃ©rieux,
+    Suivi par un troupeau de bÃªtes familiÃ¨res,
+    Et des oiseaux volaient autour de ses priÃ¨res
+    Et des rÃªves de ciel illuminaient ses yeux.
+
+    Mais toujours, tel qu'un vol blond d'abeilles essaime
+    Et retourne en vibrant aux ruches d'autrefois,
+    Par les soirs langoureux chargÃ©s des douces voix
+    Et des parfums charnels que le Mauvais y sÃ¨me,
+
+    Son Ã¢me s'envolait vers les jours rÃ©volus:
+    L'ancien verbe d'amour cachÃ© dans l'Ãvangile
+    Faisait fleurir au bois les nymphes de Virgile
+    Et des faunes lascifs montraient leurs fronts velus.
+
+
+
+
+GOETTERDAEMMERUNG
+
+_A la comtesse Jane._
+
+  Heil siegendes Licht.
+
+
+    Siegfried, astre Ã©vadÃ© des ombres transitoires,
+    Soleil Ã©panoui dans l'azur de la mort,
+    Avec ta chair, la gloire humaine de l'effort,
+    S'abÃ®mait dans le deuil des suprÃªmes victoires.
+
+    Mais tels que le granit usÃ© des promontoires,
+    Que l'assaut de la mer tempÃ©tueuse mord,
+    Les dieux irradiant dans les glaces du Nord
+    Attendaient lÃ¢chement les jours expiatoires.
+
+    Le hÃ©ros, sur les fleurs sanglantes du bÃ»cher,
+    Semblait sortir des couchants mornes et marcher
+    Dans l'aurÃ©ole d'or des flammes triomphales.
+
+    Tandis qu'en un torrent de splendeur et de bruit,
+    FlagellÃ© par le vol sinistre des rafales,
+    Le Palais merveilleux s'Ã©croulait dans la nuit.
+
+
+
+
+LA FILLE AUX MAINS COUPÃES
+
+MYSTÃRE
+
+_A Maurice Peyrol._
+
+
+_PERSONNAGES_
+
+    LA JEUNE FILLE.
+    LE POÃTE.
+    LE CHOEUR D'ANGES.
+    LE PÃRE.
+    LE SERVITEUR.
+
+_L'action se passe n'importe oÃ¹ et plutÃ´t au moyen Ã¢ge._
+
+Dans la chambre silencieuse, oÃ¹ flotte par les vitraux glauques la soie
+resplendissante de l'aurore, LA JEUNE FILLE est agenouillÃ©e et prie en
+sa blancheur adorable de lys.
+
+Le large bliaud damassÃ©, brochÃ© de calices d'argent, qui neige sur sa
+poitrine et l'Ã©toile, est Ã  peine agitÃ© par le souffle du corps pÃ¢le
+sculptÃ© dans un marbre vivant.
+
+Elle lit dans le lourd missel incrustÃ© de joailleries, mais d'une voix
+si basse qu'elle semble un frÃ´lement somptueux d'Ã©toffes que froissent
+dans l'Ã©ther des princesses lointaines.
+
+Elle laisse tomber le livre et les yeux tournÃ©s vers un Christ exsangue
+sur un ciel ensanglantÃ©, elle clÃ´t ses lÃ¨vres entr'ouvertes et se prend
+Ã  prier des rÃªves sans paroles.
+
+    O JÃ©sus, Ã©cartez les griffes du Malin.
+
+    Les anges de saphir dorment dans le vÃ©lin;
+    Les graves lettres d'or pÃ¨sent aux ailes blanches;
+    La colombe du ciel s'englue aprÃ¨s les branches,
+    Et la priÃ¨re est prise au piÃ¨ge des versets.
+
+    O livre, le parfum sacrÃ© que tu versais
+    Vaut moins, pour le Sauveur et pour ses mains percÃ©es,
+    Que l'inapprÃ©ciable encens de mes pensÃ©es.
+
+    Mon bien-aimÃ©, mÃªlÃ©s Ã  vos Ã©lus divins,
+    Mes rÃªves purs, avec le choeur des SÃ©raphins,
+    AllÃ©gÃ©s du fardeau des paroles antiques,
+    Mes rÃªves ont chantÃ© plus haut que les cantiques;
+    Et quand mon Ã¢me, un jour, s'Ã©vadera du corps,
+    Je volerai dans les Splendeurs et les Accords
+    Faits de flamme subtile et de claire harmonie,
+    Et je rayonnerai dans la gloire infinie,
+    Autour du front terrible et charmant de l'Ãpoux.
+
+    O monde, Ã´ vie, Ã´ sens, Ã©vanouissez-vous!
+    Car, lÃ -haut, par delÃ  les tÃ©nÃ¨bres premiÃ¨res,
+    Dans l'Ã©clat des concerts et la voix des lumiÃ¨res,
+    ImpÃ©rissable, dans le nimbe de l'Amant,
+    La chair immaculÃ©e arde Ã©ternellement.
+
+BaignÃ©e d'une musique surhumaine, elle entend comme en elle-mÃªme:
+
+UN CHOEUR D'ANGES
+
+    Enfant, les cieux songÃ©s, blancs de lys et de vierges
+    Plus blÃªmes que la cire odorante des cierges,
+    Et les jardins semÃ©s d'Ã©toiles, les sommets
+    D'hermine chaste et de candeurs impolluÃ©es
+    MirÃ©s aux lacs oÃ¹ vont les cygnes des nuÃ©es,
+    Enfant, les cieux songÃ©s seraient clos Ã  jamais.
+
+    ArriÃ¨re, le troupeau neigeux d'immaculÃ©es!
+    Vers l'amoncellement des glaces reculÃ©es,
+    Les rouges KÃ©roubim vous repoussent du seuil
+    Eblouissant: les crins de votre Ã¢pre cilice
+    Vous sont une moelleuse et royale pelisse:
+    Votre virginitÃ© n'est ivre que d'orgueil.
+
+    ArriÃ¨re! le blÃ© mur Ã©pars des Madeleines,
+    Epars sur les pieds nus avec les urnes pleines,
+    BrÃ»le seul dans la sainte aurÃ©ole de feu.
+    Dans le brasier de Christ, avivÃ© de colÃ¨res,
+    Vous fondriez, Ã´ froides fleurs des soirs polaires,
+    Qui ne parfumez pas les hommes avant Dieu.
+
+    Lorsque le RÃ©dempteur eut brisÃ© les statues
+    D'autrefois, parmi les colonnes abattues,
+    Il laissa reverdir, seul d'entre les Maudits,
+    ErÃ´s, et lui donna pour royaume la Terre:
+    Immortelle, la soif des lÃ¨vres vous altÃ¨re,
+    Et l'enfer des baisers vaut notre paradis.
+
+    Va! l'Olympe aboli revit dans votre race;
+    La meute des dÃ©sirs vous poursuit Ã  la trace,
+    Et vous n'Ã©vitez pas les flÃ¨ches de l'Archer.
+    Prends garde d'oublier les cieux songÃ©s, Ã´ vierge:
+    L'amour Ã  l'horizon de ta jeunesse Ã©merge;
+    J'ai vu, dans l'Orient, l'invincible marcher.
+
+LA JEUNE FILLE Ã©perdue des paroles ouies et bÃ©ante d'horreur mystique
+invoque, en balbutiant, Madame Marie qui sourit, doucement couronnÃ©e
+d'astres, au fond d'une fresque byzantine, et des cimes de l'azur tend
+les mains vers un vol d'Ã¢mes en peine: VENITE AD ME DILECTÃ MEÃ.
+
+    Je ne sais plus si c'est mon rÃªve que j'Ã©coute,
+    Ou si la source en moi s'infiltre goutte Ã  goutte
+    Qui ruisselle des luths et des psaltÃ©rions,
+    Et si j'entends le Diable ou les Anges. Prions.
+
+    Tueuse du serpent. Reine du bleu stellaire,
+    Le dÃ©robeur d'Ã©pis maraude autour de l'aire:
+    Le voleur d'Ã¢mes vient des abÃ®mes et fuit:
+    Chassez le tentateur et le rÃ´deur de nuit.
+
+Tandis que s'Ã©grÃ¨nent les litanies, un fracas assourdi d'armures
+irradiÃ©es glisse lentement, entre les tentures hÃ©roÃ¯ques oÃ¹
+s'enchevÃªtrent de furieuses mÃªlÃ©es.
+
+LA JEUNE FILLE, Ã©veillÃ©e en sursaut des priÃ¨res, se lÃ¨ve frissonnante
+vers SON PÃRE et le guerrier convulsif brÃ»le ses mains de caresses, de
+caresses incestueuses et brutales.
+
+Et l'enfant hurlante s'arrache des baisers sacrilÃ¨ges. Elle va jusqu'Ã 
+la grand salle oÃ¹ LE SERVITEUR courbÃ© fourbit les larges glaives et les
+panoplies.
+
+LA JEUNE FILLE
+
+    Vieillard, j'ai ma pensÃ©e entiÃ¨re. Prends l'Ã©pÃ©e
+    De justice, l'Ã©pÃ©e infaillible, trempÃ©e
+    Sept fois dans le Saint-ChrÃªme et le feu baptismal
+    Et que ne souille pas, comme l'homme, le Mal
+
+    Originel. Saisis la Purificatrice
+    --Si ton bras est rongÃ© d'ulcÃ¨res, qu'il pÃ©risse!
+    A dit le MaÃ®tre dont m'attendent les hymens;--
+    Et lave aux flots d'acier rougi, tranche mes mains!
+
+LE SERVITEUR
+
+    O ma fille, vos mains sont des corolles fines;
+    Vos mains sont un bouquet de jeunes aubÃ©pines;
+    L'haleine du printemps souffle de votre chair:
+    Je ne moissonne pas les fleurs avec le fer.
+    Vous dÃ©lirez.
+
+LA JEUNE FILLE
+
+            Tais-toi; l'ulcÃ¨re des caresses
+    Inexpiables, mord ma chair et fond mes graisses.
+    ObÃ©is, sans l'horreur mortelle des aveux:
+    L'effroi te briserait les oreilles.
+
+La main levÃ©e en un geste terrible:
+
+            Je veux.
+
+Et la volontaire martyre pose sans trembler ses mains jaillissant des
+manches sur une table de porphyre aux mosaÃ¯ques de chimÃ¨res.
+
+Ses yeux fixes ne clignent pas Ã  l'Ã©clat bleu du glaive brusque
+s'abattant, qui verse aux bÃªtes hÃ©raldiques des gouttes soudaines de
+pourpre.
+
+Et, brandissant dans la pÃ©nombre les deux torches jumelles des bras
+mutilÃ©s, elle fait prendre une aiguiÃ¨re de cristal enchemisÃ© d'or.
+
+Epouvantable et radieux, un double nÃ©nuphar aux tiges d'Ã©carlate flotte
+dans une Ã©cume rose de grappes d'Orient foulÃ©es.
+
+    Oh! le vase lustral oÃ¹ l'Ã¢me se lava!
+    Va-t'en porter l'aiguiÃ¨re Ã  mon bon pÃ¨re. Va.
+
+
+II
+
+Maintenant une foule confuse bruit prÃ¨s de la mer flagellÃ©e par le vent
+du Nord. Dans une frÃªle nef, sans rames ni voilure, LE PÃRE a fait
+Ã©tendre LA JEUNE FILLE surnaturelle, enveloppÃ©e dans un linceul de lin
+grossier. Elle regarde obstinÃ©ment le ciel d'orage.
+
+LE PÃRE
+
+    Ma fille, vos pÃ©chÃ©s, commis dans ma maison,
+    Ont fait s'enfuir les tourterelles du blason.
+    Endormis dans la nuit tombale, clos en elle,
+    Les morts ont tressailli de votre ardeur charnelle.
+    Donc je dois, rÃ©primant pleurs lÃ¢ches et sanglots,
+    Vous confier, vivante, Ã  la douceur des flots.
+    Nous prierons, gens des bourgs et manants de campagne,
+    Afin que la bontÃ© de Dieu vous accompagne.
+    Allez! au nom de la TrÃ¨s Sainte TrinitÃ©,
+    Et que JÃ©sus vous prenne en votre Ã©ternitÃ©.
+
+Mais la barque n'est pas engloutie par les gueules fauves de l'abÃ®me.
+Elle s'efface, poussÃ©e par les haleines pacificatrices d'invisibles
+archanges.
+
+Les gerbes fauchÃ©es des houles vertes dorment sous un soleil d'accalmie,
+et LA JEUNE FILLE, affranchie par l'extase, contemple des visions vagues
+et des formes.
+
+    Dans le lilas de leurs rosaces vespÃ©rales,
+    Je vois s'Ã©panouir, lÃ -haut, des cathÃ©drales.
+
+    Une poussiÃ¨re d'astre irise les parvis
+    Et les arceaux sortent des dalles de rubis.
+
+    Dans l'espace des nefs sans limites, lamÃ©es
+    D'azur, des encensoirs effeuillent des fumÃ©es.
+
+    Dans le frisson de leurs Ã©chos multipliÃ©s,
+    Des sons inentendus Ã©branlent les piliers.
+
+    Le voile rejetÃ© d'un fulgurant coup d'aile,
+    Le Tabernacle inaccessible se rÃ©vÃ¨le.
+
+    Et lorsque l'Ostensoir Ã©phÃ©mÃ¨re me luit,
+    La robe du soleil semble teinte de nuit.
+
+    Seigneur Dieu, l'appÃ©tit des vagues me rÃ©clame,
+    L'aumÃ´ne de mon corps est faite. Cueillez l'Ã¢me.
+
+Dans son ravissement mystique, LA JEUNE FILLE se croit morte. Serait-ce
+que la barque aborde aux rives vertigineuses du Paradis, oÃ¹ des couples
+cÃ©lestes glissent dans une aube d'opales fluides?
+
+Elle regarde Ã©merveillÃ©e, sous une Ã©toffe de la lumiÃ¨re, au lieu des
+tronÃ§ons effroyables, la fraÃ®cheur blonde de ses mains ressuscitÃ©es et
+d'oÃ¹ s'exhale une senteur de ruches prochaines et de miel.
+
+Des enfants, vÃªtus de tuniques multicolores et lÃ©gÃ¨res, lui font un
+triomphal cortÃ¨ge et, prise dans des rets de charmes surhumains, elle
+marche au milieu des hymnes Ã©tranges. Hymen! Hymenaee!
+
+Hymen! Hymen! Hymenaee! Au faÃ®te des monts d'hyacinthe un palais de
+prodige monte, marmorÃ©en, vers les nuages violets. Elle gravit les
+escaliers, gardÃ©s par des sphinges immobiles.
+
+Hymen! Hymen! Hymenaee! Au seuil glorieux des demeures, souriant
+idÃ©alement dans l'ombre dÃ©nouÃ©e de sa chevelure, LE POÃTE-ROI vient vers
+elle sous son manteau de pourpre lyrique.
+
+Et les enfants ont disparu; dans une salle de fÃ©erie, portÃ©e par des
+cariatides, sur l'or roux, des lions tuÃ©s, LA JEUNE FILLE s'abandonne Ã 
+la voluptÃ© des caresses. Hymen! O hymen!
+
+LA JEUNE FILLE
+
+    Doux initiateur de l'Ã¢me en quelle sphÃ¨re
+    Plus lointaine, JÃ©sus, l'Esprit, et Dieu le PÃ¨re,
+    Dans leur unitÃ© triple, infinis et sereins,
+    Attendent-ils le choeur des Ã©lus, pÃ¨lerins
+    Joyeux et jamais las d'un Temple que j'ignore,
+    Qui s'envolent de l'ombre ancienne vers l'Aurore.
+    EmmÃ¨ne-moi par les Edens et les Sions,
+    Toi qui sais les chemins de constellations.
+
+LE POÃTE-ROI saisit la grande Lyre et, sous le plectre, les cordes de
+brebis vibrent dans l'Ã©caille de tortue transparente.
+
+    Avant la Terre, avant les Jours et les annÃ©es,
+    L'Immuable a pÃ©tri nos chairs prÃ©destinÃ©es.
+
+    J'ai trompÃ© mon ennui par la lyre, et j'attends
+    Tes seins qui m'appelaient de l'abÃ®me des temps,
+
+    Et mes yeux, emperlÃ©s d'une angoisse inconnue,
+    Mes yeux cherchaient tes yeux nocturnes dans la nue.
+
+    Parfois, dans le brouillard chantant de la forÃªt,
+    Une fÃ©e illusoire Ã©clÃ´t et disparaÃ®t:
+
+    Dis-moi que tu n'es pas l'ombre vaine d'un rÃªve,
+    O fille de la mer et de l'Ã©cume brÃ¨ve.
+
+    Dis-moi qu'avant la tombe et nos corps rÃ©volus,
+    Le flot de tes baisers ne se tarira plus.
+
+    Je ferai vivre par delÃ  les Ã©tendues
+    Ton nom sanctifiÃ© dans les cordes tendues.
+
+    Et tu vaincras par la gloire de tes beautÃ©s
+    Les nymphes de l'Hellas et les DivinitÃ©s.
+
+    Parle, et tu chasseras, de la mÃ©moire humaine
+    La VÃ©nus Italique et l'AnadyomÃ¨ne.
+
+    Je traquerai leurs souvenirs tels que des loups,
+    Et Christ reconnaissant se penchera vers nous.
+
+LA JEUNE FILLE
+
+    O Chanteur, je ne sais quel dÃ©cevant mystÃ¨re
+    Me rappelle du ciel entrevu vers la terre.
+    Ton regard me repousse et m'attire. Va-t'en,
+    Car je me damnerais peut-Ãªtre en t'Ã©coutant.
+
+Dans son indicible douleur, LE POÃTE-ROI jette la Lyre qui se brise en
+un lamentable sanglot et le cri des fibres est si dÃ©chirant que LA JEUNE
+FILLE tremblante d'effroi et d'amour revient vers le royal DÃ©sespÃ©rÃ©,
+comme rÃ©signÃ©e aux flammes d'une imminente gÃ©henne. Pendant qu'ils sont
+enlacÃ©s, UN CHOEUR D'ANGES, entendu jadis, effleure leurs oreilles
+extasiÃ©es.
+
+    Ecarte le conseil de tes mauvaises craintes.
+    Le Seigneur t'a rendu des mains pour les Ã©treintes,
+    Fais Ã  l'amant royal le don de ton orgueil.
+    Va! laisse le troupeau neigeux d'immaculÃ©es;
+    Vers l'amoncellement des glaces reculÃ©es,
+    Les rouges KÃ©roubim les repoussent du seuil.
+
+    Aimez-vous! le blÃ© mÃ»r Ã©pars des Madeleines,
+    Epars sur les pieds nus avec les urnes pleines,
+    BrÃ»le seul dans la sainte aurÃ©ole de feu.
+    Dans le brasier de Christ, avivÃ© de colÃ¨res,
+    Vous fondriez, Ã´ froides fleurs des soirs polaires,
+    Qui ne parfumez pas les hommes avant Dieu.
+
+    Lorsque le RÃ©dempteur eut brisÃ© les statues
+    D'autrefois, parmi les colonnes abattues,
+    Il laissa reverdir, seul d'entre les Maudits,
+    ErÃ´s, et lui donna pour royaume la Terre:
+    Immortelle, la soif des lÃ¨vres vous altÃ¨re,
+    Et l'enfer des baisers vaut notre paradis.
+
+
+
+
+LA PEUR D'AIMER
+
+_A JosÃ©-Maria de Heredia._
+
+
+    La BÃªte monstrueuse et le bon Chevalier
+    Ont luttÃ© tout le jour: le dragon mort distille
+    Un suprÃªme venin sur le sable infertile,
+    Et le triomphateur entre dans le hallier.
+
+    Il va, les yeux hagards d'un songe familier:
+    LÃ -bas, le palais d'or miraculeux rutile
+    Et la princesse rÃªve, en sa grÃ¢ce inutile,
+    A l'amant inconnu qui la doit Ã©veiller.
+
+    Mais lorsque le vainqueur de l'hydre et des licornes
+    Vit, aprÃ¨s le bois sombre et les escaliers mornes,
+    La vierge aux cheveux blonds comme un soleil d'Avril
+
+    Dans la jeune splendeur de sa pubertÃ© mÃ»re,
+    L'angoisse de l'amour mordit son coeur viril
+    Et sa chair de hÃ©ros trembla, sous son armure.
+
+
+
+
+LE PRINCE D'AVALON
+
+_A Henri de RÃ©gnier._
+
+
+    Et le prince vivait dans l'Ã®le d'Avalon.
+    Des parterres de fleurs caressaient ses prunelles;
+    Les calices des lys s'ouvraient en ce vallon
+    Ãperdument, vers les Ã©toiles fraternelles;
+
+    Les paons constellÃ©s d'yeux luisaient sous les halliers
+    Or mobile, tremblant saphir, vivante flamme
+    Et les fruits mÃ»rs pendus aux vastes espaliers
+    Versaient un opulent arÃ´me de cinname,
+
+    Tandis que, dans le parc peuplÃ© par des sylvains
+    Et des faunes bordant les larges avenues,
+    Le clair de lune Ã©pars sur les marbres divins
+    Faisait Ã©tinceler la chair des nymphes nues.
+
+    Et le prince sur la terrasse du palais
+    Inclinait vers le sol ses doigts chargÃ©s de bagues
+    Et regardait, lÃ -bas, sous les cieux violets,
+    Fuir des vaisseaux fleuris par la houle des vagues.
+
+    Â«Passez, je vous envie, Ã´ frÃ¨res ignorÃ©s,
+    Que les vents furieux emportent sur le gouffre;
+    Je ne la connais plus et vous la reverrez
+    La terre dÃ©sirable oÃ¹ l'homme pleure et souffre.
+
+    Je suis venu vers les rivages interdits
+    Pour obÃ©ir aux voix des blanches fiancÃ©es
+    Et mon Ã¢me succombe au poids des paradis
+    Ainsi que les joyaux chargent mes mains lassÃ©es.
+
+    Pour Ã©veiller en moi d'immortelles douleurs
+    Dont la mÃ©moire accrÃ»t mes extases futures,
+    J'ai dÃ©chaÃ®nÃ© des sangliers parmi les fleurs;
+    Mais les fleurs renaissaient plus belles et plus pures.
+
+    J'ai voulu renverser le palais merveilleux
+    Et je l'ai revÃªtu de rouges incendies,
+    Mais des colonnes d'or surgissaient Ã  mes yeux
+    Et portaient jusqu'au ciel les voÃ»tes agrandies.
+
+    Et lorsque j'ai tuÃ© la vierge que j'aimais,
+    EspÃ©rant rompre enfin les ineffables charmes,
+    L'enfant ressuscitÃ©e a vaincu pour jamais
+    Par des baisers plus doux ma tristesse et mes larmes.
+
+    Pour moi, le flot des jours s'Ã©coule vainement;
+    Vainement le soir tombe et l'aurore rougeoie:
+    EnveloppÃ© de rÃªve et d'Ã©blouissement
+    Je suis le prisonnier de l'immuable joie.Â»
+
+    Ainsi par cette nuit d'Ã©toiles, il parlait:
+    Les fourrÃ©s frissonnants brillaient de lucioles
+    Et le souffle embaumÃ© de la brise mÃªlait
+    Les chansons de la mer Ã  la voix des violes.
+
+
+
+
+CELLE QU'ON FOULE
+
+_A Georges Duflot._
+
+
+    C'Ã©tait parmi la nuit muette, la clameur
+    De la Terre, clameur lamentable et farouche
+    De gÃ©ante en travail qui se tord sur sa couche,
+    Rejette l'embryon sanglant, rugit et meurt.
+
+    La formidable voix hurlait: cris d'Ã©pouvante,
+    GÃ©missements plaintifs des automnes, sanglots
+    Rauques de la forÃªt hivernale et des flots,
+    Rire amer et confus de la foule vivante,
+
+    FrÃ©missement de l'herbe et murmure des nids,
+    Hymne dÃ©mesurÃ© du torrent et du gouffre,
+    Tout ce qui parle, tout ce qui palpite et souffre
+    S'unissait et montait vers les cieux infinis.
+
+    Or voici l'anathÃ¨me effrÃ©nÃ© que la Terre
+    Jetait Ã  travers l'ombre aux fils des nations:
+    Â«Que le troupeau vengeur des exÃ©crations
+    Suive Ã  la trace l'homme ennemi du mystÃ¨re.
+
+    Les peuples d'autrefois inclinaient leur orgueil
+    Devant la majestÃ© fÃ©conde de l'ancÃªtre
+    D'oÃ¹ jaillit la semence et la source de l'Ãtre
+    Et qui rouvre ses flancs paisibles au cercueil.
+
+    Partout, toujours, dans les dÃ©serts hantÃ©s d'hyÃ¨nes,
+    Dans les plaines de neige oÃ¹, par soudains Ã©lans,
+    Bondissent des troupeaux de rennes et d'Ã©lans,
+    PrÃ¨s du pÃ´le et dans les cryptes Ã©gyptiennes,
+
+    Les hommes adoraient la Terre, qui porta
+    Dans son sein maternel, des millions d'annÃ©es,
+    Le germe Ã  peine Ã©clos de vos races damnÃ©es
+    Et priaient Ã  genoux KybÃ¨le, Isis, Airtha.
+
+    Alors au bruit des sistres d'or et des crotales,
+    Sereine, Ã  travers les chemins et les citÃ©s,
+    De temple en temple, au pas de mes lions domptÃ©s,
+    J'allais les seins voilÃ©s de pourpre orientale.
+
+    Les vierges de Hellas ployaient leur cou de lait
+    Au passage de la dÃ©esse vÃ©nÃ©rable
+    Et, telles qu'au printemps les grappes de l'Ã©rable,
+    Me versaient des parfums oÃ¹ le feu se mÃªlait.
+
+    Les austÃ¨res guerriers des campagnes romaines
+    Chantaient pieusement la nourrice RhÃ©a
+    Qui mit en eux la sÃ¨ve antique et les crÃ©a
+    Pour l'asservissement des nations humaines;
+
+    Et les chasseurs lointains des cerfs et des aurochs,
+    Les braves aux yeux bleus, chevelus d'or, les MÃ¢les
+    Ãrigeaient mes autels en face des cieux pÃ¢les
+    Dans les forÃªts tempÃªtueuses, sur les rocs.
+
+    Quand la procession de mes prÃªtresses blanches
+    PrÃ©cÃ©dait au printemps par les sentiers herbeux
+    Mon attelage lent et traÃ®nÃ© par des boeufs
+    Vers les villages et les toits couverts de branches,
+
+    Les hommes tatouÃ©s de fauve vermillon
+    Se courbaient et baisaient ma trace, et les Ã©pÃ©es
+    Rouges encore du sang et des tÃªtes coupÃ©es
+    Saluaient d'un Ã©clair la MÃ¨re du Sillon.
+
+    O temps ancien de la Germanie et de Rome,
+    O temple universel des plaines et des blÃ©s
+    OÃ¹ mon mystique Ã©poux des siÃ¨cles Ã©coulÃ©s,
+    Le laboureur Ã©tait un prÃªtre auguste Ã  l'homme:
+
+    Le culte vÃ©nÃ©rÃ© sombre aux flots de l'oubli:
+    Nul printemps, nul Ã©tÃ©, ne luit et ne ramÃ¨ne
+    Les incantations de la priÃ¨re humaine
+    Vers les autels de mon sanctuaire aboli:
+
+    O races chaque jour plus impures et viles,
+    Qui ne connaissez plus mes mystÃ¨res, troupeaux
+    Plus barbares que vos pÃ¨res vÃªtus de peaux,
+    Troupeaux qui pullulez dans vos enclos de villes,
+
+    Vous qui fouillez avec mÃ©pris mes flancs gercÃ©s
+    Par les maternitÃ©s innombrables; Ã´ foule
+    Immonde dont le pas sacrilÃ¨ge me foule;
+    Vous qui priez des dieux que je n'ai pas bercÃ©s
+
+    Au chant de mes forÃªts de bouleaux et de chÃªnes,
+    Dans des lits d'herbe fraÃ®che et des langes de fleurs,
+    Voici venir enfin la horde des malheurs
+    Fatidiques et des calamitÃ©s prochaines.
+
+    Dans un bref avenir une aube jaillira,
+    Ensanglantant les noirs espaces des nuÃ©es
+    Et par-dessus le bruit fÃ©roce des huÃ©es
+    Le clairon des combats ultimes sonnera;
+
+    Sous l'oeil indiffÃ©rent des sphÃ¨res fraternelles,
+    L'horrible mer de vos haines, sinistrement
+    DÃ©bordera sur vous et l'Ã©pouvantement
+    Ãlargira le vol funÃ¨bre de ses ailes;
+
+    Et les hommes saisis d'un dÃ©lire fatal,
+    DÃ©chaÃ®nÃ©s se rueront aux suprÃªmes tueries;
+    De l'Ã©quateur torride aux blanches SibÃ©ries,
+    Ma face saignera comme un immense Ã©tal.
+
+    O fureur indicible et sans rÃ©pit! batailles
+    Qui durerez de l'aube au soir, pendant dix ans,
+    Comme le cri des flots qui heurtent les brisants,
+    J'entends dÃ©jÃ  clamer les corps sous les entailles.
+
+    Un souffle meurtrier et pestilentiel
+    S'exhale de la mort et des chairs refroidies
+    Sans linceul, tandis qu'aux lueurs des incendies
+    De vastes lacs de sang pourrissent sous le ciel,
+
+    De vastes lacs de sang oÃ¹, rigides et vertes,
+    Vont des flottes de morts convulsifs par milliers,
+    OÃ¹ s'acharnent sans peur, repus et familiers,
+    Les vautours rÃ©jouis des cervelles ouvertes.
+
+    La fiÃ¨vre fait claquer les dents des survivants,
+    TÃ©moins terrifiÃ©s des heures vengeresses,
+    Qui dans l'affolement des suprÃªmes dÃ©tresses
+    Voudraient perpÃ©tuer leur race en des enfants;
+
+    Mais ces accouplements de spectres Ã©puisÃ©s
+    Ne repeupleront pas les villes et les plaines.
+    MÃªlez-vous, unissez les corps et les haleines!
+    Les siÃ¨cles ont tari la source des baisers.
+
+    Les temps sont Ã©coulÃ©s, les heures sont venues
+    Et nul glas solennel et lent ne tintera
+    Lorsque le vent indiffÃ©rent emportera
+    Le dernier rÃ¢lement de l'homme vers les nues.
+
+    Sa mort n'Ã©veillera ni gaÃ®tÃ© ni regret
+    Dans le monde impassible et dans l'Ã¢me des choses
+    Qui ne s'occupent pas en leurs mÃ©tamorphoses
+    De ce qui naÃ®t, grandit, s'efface et disparaÃ®t.
+
+    Rien ne tressaillera dans la Nature, et seule,
+    Seule de toutes les Ã©toiles, je saurai
+    Que mon lait a nourri jadis l'Ãªtre exÃ©crÃ©,
+    Le mauvais fils, l'enfant contempteur de l'aÃ¯eule!
+
+    Comme avant l'homme impie et ses rÃ©bellions,
+    Libre de sa prÃ©sence et de sa marche impure,
+    Je pourrai dÃ©nouer au vent ma chevelure
+    De profondes forÃªts oÃ¹ rÃ´dent les lions;
+
+    Et quand l'aube luira dans la fraÃ®che rosÃ©e
+    Je plongerai mon corps que ses pas ont flÃ©tri.
+    --Et ma force renaÃ®t, ma beautÃ© refleurit,
+    Et ma chair a des tons d'Ã©glantine rosÃ©e.
+
+    O gloire des cactus de pourpre et des lys blancs,
+    Hautaine majestÃ© des palmes triomphales
+    Que faisait onduler le souffle des rafales
+    Sur la virginitÃ© premiÃ¨re de mes flancs,
+
+    Surgissez et parez ma nouvelle jeunesse
+    Pour l'hymen radieux et rouge du soleil;
+    Tissez et dÃ©ployez votre manteau vermeil
+    Sur ma gorge superbe et mes seins de faunesse!
+
+    Montez dans le limpide Ã©ther, Ã´ chants d'oiseaux:
+    Voici l'amour et les caresses nuptiales;
+    J'entends hennir au loin les cavales royales
+    Et des nuages fins neigent de leurs naseaux.
+
+    Le Dieu descend du char cÃ©leste et sur ma bouche
+    Frissonnante, je sens sa bouche, et ses baisers
+    S'infiltrent lentement dans mes flancs embrasÃ©s,
+    Jusqu'Ã  l'heure oÃ¹ le jour resplendissant se couche
+
+    Et remonte vers le palais mystÃ©rieux,
+    Cependant que la main pacifique des ombres
+    Ãtale dans le ciel obscur ses voiles sombres
+    Et clÃ´t divinement mes lÃ¨vres et mes yeux.Â»
+
+
+
+
+LA VOIX IMPÃRISSABLE
+
+_A Catulle MendÃ¨s._
+
+
+    AbandonnÃ© depuis des siÃ¨cles fabuleux,
+    Un grand temple dressait sur le mont solitaire
+    Ses portiques de marbre et ses escaliers bleus.
+
+    Pourpre traÃ®nant en ombre errante sur la terre,
+    Jardins ensanglantÃ©s de glorieuses fleurs,
+    Vasques d'or oÃ¹ l'ibis sacrÃ© se dÃ©saltÃ¨re,
+
+    Et prÃ¨s des bois, gemmÃ©s par la rosÃ©e en pleurs
+    Du collier merveilleux que l'aube sainte Ã©grÃ¨ne,
+    Des oiseaux ignorant les rets des oiseleurs:
+
+    Tout un monde de rÃªve espÃ©rait une reine
+    Ou le retour tardif des hÃ©ros et des dieux
+    Disparus dans la nuit formidable et sereine.
+
+    Fils de la neige pure et du ciel radieux,
+    Des cygnes indolents glissaient dans la vallÃ©e
+    Sur un fleuve que les lotus Ã©toilaient d'yeux;
+
+    Leurs corps majestueux fendait l'eau refoulÃ©e
+    Et parfois leur plumage illustre secouait
+    Autour d'eux des flocons de lumiÃ¨re envolÃ©e,
+
+    Tandis qu'en un appel de deuil ou de souhait
+    Le cri des beaux nageurs aux ailes Ã©ployÃ©es
+    Montait Ã©perdument vers le temple muet.
+
+    Mais nul dieu revenu n'Ã©cartait les feuillÃ©es
+    Et nulle reine avec des rires enfantins,
+    Ne rÃ©veillait l'Ã©cho des verdures mouillÃ©es.
+
+    Le vieux temple Ã©rigeait ses portiques hautains
+    Ainsi qu'un fier Ã©cueil d'indestructible roche
+    Qui dÃ©fiait les flots des soirs et des matins.
+
+    Or, flux tumultueux qui roule et qui s'accroche
+    En Ã©cume de flamme aux marbres effritÃ©s,
+    La sombre mer des jours suprÃªmes Ã©tait proche
+
+    Ruine des moissons et terreur des citÃ©s.
+    Fauves ivres du sang versÃ© dans les cratÃ¨res,
+    Des hordes s'en venaient vers les bois enchantÃ©s.
+
+    Les tÃªtes des vaincus sur la peau des panthÃ¨res
+    Pendaient horriblement comme des raisins mÃ»rs
+    Et les carquois sonnaient aux dos des sagittaires.
+
+    Les frondeurs brandissaient leurs bras noueux et durs
+    Et des cavaliers nus au galop des cavales
+    EntrÃ¨rent en hurlant par les brÃ¨ches des murs.
+
+    Des torches consumaient de leurs pourpres rivales
+    Les voiles rouges et les blocs de marbre roux.
+    Et des gerbes de feu fusaient par intervalles.
+
+    L'absence de vivants attisait le courroux
+    Des barbares frustrÃ©s de la chair des prÃªtresses,
+    Et les images d'or se brisaient sous leurs coups.
+
+    Tel le Temple, parmi les clameurs vengeresses,
+    S'abÃ®mait dans les flots de bronze incandescent
+    Qui couronnaient les monts de monstrueuses tresses.
+
+    Seuls, les cygnes Ã©pars dans le val frÃ©missant
+    Regardaient la lueur rouge de l'incendie
+    Comme un morne soleil qui meurt et qui descend;
+
+    Et, vers l'astre nouveau d'oÃ¹ la flamme irradie,
+    DÃ©sespÃ©rant des dieux qui les ont oubliÃ©s,
+    Ils tournaient tristement leur prunelle agrandie,
+
+    Mais les barbares las, jetant leurs boucliers,
+    Firent pleuvoir, avec les pierres de leurs frondes,
+    Les flÃ¨ches qui sifflaient entre les peupliers.
+
+    Pointes de fer, silex aigus et balles rondes
+    Trouaient l'eau frissonnante avec un bruit strident
+    Et le sang des oiseaux tachait les claires ondes.
+
+    Alors un chant funÃ¨bre emplit le ciel ardent:
+    Un concert douloureux d'ineffable harmonie
+    Montait vers les tueurs surgis de l'occident.
+
+    La voix des chanteurs blancs pleurant leur agonie
+    Poursuivait les guerriers jusque-lÃ  sans remords
+    Dont la chair palpitait d'une angoisse infinie;
+
+    Et tandis qu'autour d'eux l'Ã¢me des cygnes morts
+    Semait un hymne amer de vengeance Ã©ternelle,
+    Les barbares, au vol de leurs chevaux sans mors,
+
+    S'enfonÃ§aient, affolÃ©s, dans l'ombre solennelle.
+
+
+
+
+MAYA
+
+_A BERNARD LAZARE_
+
+
+
+
+THAÃS
+
+_A Henri de Manneville._
+
+
+I
+
+    Alexandros, l'Ã©pique enfant de Zeus Ammon,
+    Mange et boit et s'enivre aprÃ¨s la ville prise
+    Dans le palais taillÃ© dans le marbre et le mont;
+
+    Et les hommes-lions, sculptÃ©s de pierre grise,
+    Inutiles gardiens des murs et du trÃ©sor,
+    Regardent le hÃ©ros boire aux coupes qu'il brise,
+
+    Cependant que la fauve avalanche de l'or
+    Splendidement s'abat sur la massive table
+    Comme un grand oiseau roux au fulgurant essor,
+
+    La rauque orgie et la clameur Ã©pouvantable
+    Hurlent et le troupeau des HellÃ¨nes vainqueurs
+    Mugit: tels les taureaux dans la nocturne Ã©table;
+
+    Et parmi les pÃ©ans discordants et les choeurs,
+    Et les parfums de la SabÃ©e et le cinname,
+    Et la vapeur des vins et des chaudes liqueurs,
+
+    La torche en main, ThaÃ¯s, la bacchante qui clame,
+    La courtisane blanche et droite comme un lys
+    RevÃªt de pourpre ardente et couronne de flamme
+
+    La ville antique aux toits d'argent, PersÃ©polis.
+
+
+II
+
+    O ville, amas ancien de rÃªve et de superbe,
+    DressÃ©e en moi sur tes inÃ©branlables fÃ»ts,
+    Qui te rabaissera jusqu'au niveau de l'herbe?
+
+    Monceau de souvenirs Ã©tranges et confus,
+    Peuple mystÃ©rieux de muettes images,
+    Qui donc rendra la plaine au chant des bois touffus?
+
+    Qui chassera de moi les rites et les mages
+    Et sur les noirs dÃ©bris du temple renversÃ©
+    Fera monter des cris d'oiseaux et de ramages?
+
+    Quelle torche, Ã´ mon coeur, sur ton marbre glacÃ©
+    Etendra des lueurs sanglantes et sur l'Ã¢me
+    LÃ¢chement assoupie et sur l'esprit lassÃ©
+
+    Dardera la splendeur de ses langues de flamme?
+
+
+
+
+JUDEX
+
+_A Marcel ColliÃ¨re._
+
+
+    Par le prÃ©torial silence de la nuit
+    OÃ¹ sonnent seulement des horloges funÃ¨bres
+    J'attends venir vers moi le Juge des tÃ©nÃ¨bres
+    Qui scrute les pÃ©chÃ©s des hommes et s'enfuit.
+
+    Sans toge, sans licteurs ni haches enlacÃ©es,
+    Sans chants impÃ©rieux et tristes de buccins,
+    N'Ã©coutant que la voix des remords en nos seins
+    Le Juge intÃ©rieur passe dans nos pensÃ©es.
+
+    Les spectres dont le jour avait tuÃ© les cris,
+    Les spectres dont le jour avait clos les prunelles,
+    Surgissent maintenant des tombes Ã©ternelles
+    Et redressent leurs fronts livides et flÃ©tris.
+
+    O baisers reniÃ©s, mÃ©moire des caresses,
+    RÃªves que j'avais crus emmurÃ©s pour jamais,
+    O cadavres divins que j'aime et que je hais,
+    Regards accusateurs et bouches vengeresses,
+
+    Que voulez-vous de moi? spectres, ayez pitiÃ©;
+    N'appelez pas ainsi l'incorruptible juge;
+    Vous savez qu'il n'est point d'Ã©glise de refuge
+    Pour le coupable en pleurs et le crucifiÃ©.
+
+    Mais l'Ã¢pre justicier se lÃ¨ve dans mon Ã¢me
+    Chaque soir: il prononce irrÃ©vocablement
+    La sentence de deuil, de honte et de tourment
+    Et fait couler en moi des riviÃ¨res de flamme.
+
+    Puis il remonte au ciel lointain dont il descend
+    Et d'oÃ¹ j'espÃ¨re en vain le RÃ©dempteur Ã  naÃ®tre,
+    Tandis que dans l'obscur abÃ®me de mon Ãªtre
+    Un enfer de douleur hurle en le maudissant.
+
+
+
+
+CHAMBRE D'AMOUR
+
+
+    La nuit tiÃ¨de est clÃ©mente Ã  la ville qui dort;
+    Des lys impÃ©rieux triomphent dans la chambre
+    Et cependant nos coeurs sont froids comme DÃ©cembre
+    Et nos baisers d'amours amers comme la mort.
+
+    Ta douce bouche s'ouvre Ã  des chansons miÃ¨vres
+    Et tes seins bienveillants accueillent mon front las;
+    Mais, Ã´ ma douloureuse enfant, je ne sais pas
+    Pourquoi les dieux mauvais empoisonnent nos lÃ¨vres.
+
+    Qu'importe? viens vers moi, triste soeur; aimons-nous,
+    Sans craindre la saveur glorieuse des larmes,
+    Tels des hÃ©ros blessÃ©s avec leurs propres armes
+    Et dont le glaive d'or a rompu les genoux.
+
+    Viens! nous aurons l'orgueil des Ã¢mes taciturnes
+    En cette chambre morne et veuve de flambeaux,
+    OÃ¹, semblable Ã  l'odeur des antiques tombeaux,
+    Un parfum sÃ©pulcral monte des lys nocturnes.
+
+
+
+
+PRINTEMPS D'AUTOMNE
+
+
+    La pourpre automnale ensanglante
+    Les feuilles sÃ¨ches des halliers
+    Et transforme en floraison lente
+    Les rayons d'Avrils oubliÃ©s.
+
+    D'insensibles mÃ©tamorphoses
+    Changent les clartÃ©s d'autrefois
+    En d'artificielles roses
+    Qui parent les jours gris et froids,
+
+    Et sous le ciel tendu de brume
+    Et les nuages palpitants
+    Leur odeur mourante parfume
+    Un mÃ©lancolique printemps.
+
+    TrÃ¨s ChÃ¨re, c'est aussi l'Automne
+    TÃ©nÃ©breux pour nos coeurs lassÃ©s;
+    Mais en notre chair qui s'Ã©tonne
+    Refleurissent les jours passÃ©s,
+
+    Et la ressouvenance lente
+    Nous revÃªt, comme les halliers,
+    D'un manteau de pourpre sanglante
+    Faite des baisers oubliÃ©s.
+
+
+
+
+LIEDER
+
+    Ich, ein tolles Kind, ich singe
+    Jetzo in der Dunkelheit;
+    Klingt das Lied auch nicht ergÃ¶tzlich,
+    Hat es mich doch vor Angst befreit.
+
+(HEINRICH HEINE, _Die Heimkehr_.)
+
+
+I
+
+    Des mots doux comme des hautbois
+    Et des harpes surnaturelles,
+    Des sons lÃ©gers de chanterelles
+    Et dans les bois, des voix, des voix.
+
+    Des couples blancs de tourterelles,
+    Des oiseaux bleus couleur du temps;
+    Des ailes d'or sur les Ã©tangs,
+    Dans le ciel des ailes, des ailes.
+
+    Je ne sais oÃ¹: je vois, j'entends.
+    Voici venir la trÃ¨s aimÃ©e
+    Et sa cheville parfumÃ©e
+    Foule des tapis Ã©clatants;
+
+    Sa robe candide est lamÃ©e
+    De l'or du paradis natal;
+    Des feux de myrrhe et de Ã§antal
+    L'entourent de blonde fumÃ©e.
+
+    Plus rien, plus rien! le deuil brutal,
+    Le silence et l'ombre. Serait-ce
+    Que la perfide enchanteresse
+    A forgÃ© ce mur de mÃ©tal
+
+    Et clos dans la nuit vengeresse,
+    Sans ailes d'or et sans hautbois,
+    Les mots doux comme une caresse,
+    Et les colombes, soeurs des voix?
+
+
+II
+
+    Ni tes fiertÃ©s, ni tes paresses
+    Ni l'espoir menteur des caresses,
+    Ni ta chair de vierge, j'aimais
+    La splendeur de ma propre idÃ©e,
+    O maÃ®tresse non possÃ©dÃ©e
+    Qui ne me trahiras jamais
+
+    Je garde en mon Ã¢me hautaine
+    Le rÃªve frais de la fontaine
+    Et des nÃ©nufars ingÃ©nus;
+    Je laisse aux lÃ¨vres sans extase
+    L'eau noire et, grouillant dans la vase,
+    Tous les reptiles inconnus,
+
+    Loin de l'hivernale vallÃ©e
+    L'aile des fleurs s'est envolÃ©e
+    Et le murmure des nids verts
+    Cherche, avec le vol des pÃ©tales,
+    Dans les aubes orientales
+    L'Ã©ternel printemps de mes vers.
+
+    C'est l'heure que j'ensevelisse
+    La blancheur du dernier calice
+    Avec les souvenirs dÃ©funts:
+    O nuptiale GalatÃ©e,
+    Rends-moi la corolle empruntÃ©e,
+    Rends-moi le songe des parfums,
+
+    Pour que je tisse avec mes strophes
+    Un linceul de riches Ã©toffes
+    EmbaumÃ© de myrrhe et de nard
+    Et que je jette sur mon rÃªve
+    De jeunesse et de gloire brÃ¨ve
+    La pourpre antique de Schinnar.
+
+
+III
+
+    Pour moi seul tes cheveux de saule
+    Se dÃ©roulent sur ton Ã©paule
+    Comme les feuilles dans le vent,
+    Et, tel que sur la neige vierge
+    FrÃ©mit un frisson d'or mouvant,
+    De l'aube de ta chair Ã©merge
+    Une fleur de soleil levant.
+
+    Car seul je connais les paroles,
+    Soeurs des feuilles et des corolles,
+    Qui puissent dire ta beautÃ©;
+    Je sais les phrases rituelles
+    Par qui, dans le bois enchantÃ©,
+    L'ombre des amantes cruelles
+    Revive pour l'Ã©ternitÃ©.
+
+    Rires et larmes infinies!
+    Si je chantais tes litanies
+    Et le miel de tes seins rosÃ©s
+    Je ferais voler dans les brises,
+    Au delÃ  des jours Ã©puisÃ©s,
+    L'abeille des lÃ¨vres Ã©prises
+    Vers la ruche de tes baisers.
+
+    Mais je tais avec jalousie
+    Les chers mots dont je m'extasie:
+    Les hommes passent et s'en vont;
+    Le bruit des foules abhorrÃ©es
+    Roule et le miel divin se fond
+    En perles de gouttes dorÃ©es
+    Dans l'urne de mon coeur profond.
+
+
+IV
+
+    Ta voix, ta mÃªme voix de colombe blessÃ©e
+    Sonne plaintivement dans ta gorge lassÃ©e.
+
+    J'entends encor l'Ã©cho des paroles d'antan
+    Lorsque les mots ailÃ©s s'envolent en chantant.
+
+    Mais je ne comprends plus les syllabes; j'oublie
+    Ce qui fait leur langueur et leur mÃ©lancolie.
+
+    Je crois t'ouÃ¯r parler un langage inconnu
+    Sur des airs dont mon coeur s'est en vain souvenu,
+
+    Et je perÃ§ois parmi la musique rhythmÃ©e
+    La voix d'une Ã©trangÃ¨re ou d'une morte aimÃ©e.
+
+
+V
+
+    Reine du magique palais,
+    En ce jeu cruel que tu joues,
+    Comme tes soeurs, tu te complais
+    Aux larmes roulant sur nos joues.
+
+    Quand tu presses le vin des coeurs
+    L'Ã©toile de tes yeux rutile,
+    L'Ã©toile de tes yeux vainqueurs
+    Rit de la lÃ¢chetÃ© virile.
+
+    Tandis que, dans la paix du soir,
+    Les dÃ©sirs--tels de mauvais anges--
+    Portent aux meules du pressoir
+    Les grappes des rouges vendanges.
+
+    Soit! en tes rÃªves assassins
+    Grise-toi des pourpres foulÃ©es
+    Et noue au-dessous de tes seins
+    Des peaux fauves et tavelÃ©es.
+
+    Sois la bacchante que les dieux
+    LÃ¢chent sur la terre; promÃ¨ne
+    L'orgueil de tes flancs radieux
+    Au milieu de la vigne humaine.
+
+    Va! que les hÃ©ros asservis
+    Et les poÃ¨tes que tu crÃ©es
+    Se courbent hurlants et ravis
+    Devant tes colÃ¨res sacrÃ©es:
+
+    Tes triomphes sont imparfaits,
+    Ta gloire sanglante est un leurre;
+    Tu n'as pas su que je t'aimais
+    Et tu ne sais pas que je pleure.
+
+
+VI
+
+    Les moires vertes des feuillÃ©es
+    Attendent le Prince Charmant
+    Et sous les gemmes de rosÃ©e
+    L'aubÃ©pine est une Ã©pousÃ©e
+    D'oÃ¹ s'exhale amoureusement
+    L'Ã¢cre parfum des fleurs mouillÃ©es.
+
+    Des lÃ¨vres que nul ne connaÃ®t
+    Ont bu les gemmes disparues:
+    Pourquoi le Prince viendrait-il,
+    O forÃªt? le parfum subtil
+    Meurt dans les poussiÃ¨res accrues
+    Sur l'aubÃ©pine et le genÃªt.
+
+    La plainte lente des ramures
+    Geint sinistrement et dÃ©jÃ 
+    Les nains mÃ©chants des avenues
+    Font saigner sur les branches nues
+    Que leur caprice ravagea
+    La chair automnale des mÃ»res.
+
+
+VII
+
+    Plus quam femina virgo
+
+(P. OVIDIUS NASO)
+
+(_MÃ©tamorphoses_, _Livre_ XIII.)
+
+
+    Plus claires dans le sombre azur des nuits sans lune
+    Les Ã©toiles doraient les ajoncs et la dune,
+    Mais je n'ai pas souci de leur ruissellement
+    Et dans mes yeux fleuris de visions plus belles,
+    Baignant les cieux futurs de leurs splendeurs nouvelles,
+    Les astres Ã  venir montent Ã©perdument.
+
+    Tu glissais Ã  pas lents dans les ajoncs stellaires
+    Et sourde Ã  la rumeur humaine des colÃ¨res
+    Tu regardais surgir les astres apaisÃ©s;
+    Mais dans mon coeur fleuri de voluptÃ©s plus calmes,
+    J'Ã©voque au chant lointain des sources et des palmes
+    Les vierges Ã  venir et les futurs baisers.
+
+
+VIII
+
+    La fleur Ã©norme de la mer
+    Ãclose avec l'aurore sainte
+    Renaissait dans le gouffre amer
+    De tes prunelles d'hyacinthe.
+
+    Dans tes cheveux d'or j'adorais,
+    Sous l'or caduc de leur couronne,
+    Les impÃ©riales forÃªts
+    Et leur laticlave d'automne.
+
+    Les peupliers glauques et blancs
+    Et la mollesse des prairies
+    Revivaient dans les gestes lents
+    De tes mains douces et fleuries.
+
+    Mais aujourd'hui que tu n'es plus
+    La prÃªtresse et l'Ã©vocatrice,
+    Il faut les bois et les reflux
+    Pour que ta grÃ¢ce refleurisse
+
+    Et les colchiques du matin
+    Ressuscitent dans ma pensÃ©e
+    Ta pÃ¢leur morne de satin,
+    O mensongÃ¨re FiancÃ©e.
+
+
+IX
+
+    Tout Ã  l'heure, un essaim de mauves s'envolait,
+    Majestueux, au ras des vagues aurorales:
+    Les oiseaux fendaient l'air de leurs ailes Ã©gales
+    Et nageaient dans l'azur vers l'horizon de lait.
+
+    Ils allaient: le soleil semait sur les prairies
+    Marines des fleurs d'or et de chrysobÃ©ril
+    Et l'on eÃ»t cru lÃ -bas des papillons d'avril
+    Sur un champ constellÃ© de rares pierreries.
+
+    Ils allaient: maintenant que dans le clair matin
+    La blancheur de leur vol splendide s'est fondue,
+    Je cherche obstinÃ©ment au fond de l'Ã©tendue
+    Le souvenir neigeux de leur essor lointain.
+
+    Nul des flocons perdus dans les brumes d'opale
+    N'argente plus la plaine immobile des flots
+    Et la seule clameur des antiques sanglots
+    Monte plus tristement vers le lac du ciel pÃ¢le.
+
+    O ChÃ¨re, Ã´ pÃ¢le ciel d'amour qui te mirais
+    Dans la mer somptueuse et calme de mes rÃªves
+    Quels abÃ®mes d'azur et d'OcÃ©ans sans grÃ¨ves
+    Ont englouti le vol de mes dÃ©sirs secrets?
+
+    Je ne sais: le regard a lassÃ© ma prunelle,
+    La solitude morne emplit mon coeur, j'entends
+    Dans le double infini de l'espace et du temps
+    Monter le rÃ¢le amer de l'angoisse Ã©ternelle.
+
+
+X
+
+    Je ne veux pas courber la tÃªte sous tes pas
+    Ni baisser devant toi mes yeux; je ne suis pas
+    Un mendiant d'amour et d'aumÃ´nes charnelles
+    Et la honte des pleurs souillerait mes prunelles.
+
+    Mais dans la nuit semblable Ã  mon coeur sombre et fier
+    J'irai dire mon mal aux vagues de la mer:
+    Elle me bercera la mer consolatrice
+    Avec des rhythmes lents et des chants de nourrice.
+
+    J'Ã©couterai sa voix et je m'endormirai:
+    Comme un enfant, tandis qu'en un jardin sacrÃ©
+    Surgira, bleu de rÃªve et parfumÃ© de menthe,
+    Le magique palais oÃ¹ tu seras clÃ©mente.
+
+
+
+
+POUR UNE ABSENTE
+
+
+    Je veux m'enfermer seul avec mon souvenir,
+    Immobile, oublieux des rafales d'automne
+    Qui font les frondaisons se rouiller et jaunir
+    Et de la mer roulant sa plainte monotone;
+    Je veux m'enfermer seul avec mon souvenir.
+
+    Le demi-jour filtrant des Ã©toffes tendues
+    Sera doux et propice Ã  mon coeur nonchalant,
+    Quand je l'Ã©voquerai du fond des Ã©tendues,
+    Et sa voix emplira d'un hymne grave et lent
+    Le demi-jour filtrant des Ã©toffes tendues.
+
+    J'aurai la vision chÃ¨re devant les yeux:
+    Le souffle parfumÃ© de l'ineffable Absente
+    Flottera pour moi seul dans l'air silencieux,
+    Subtil comme une odeur de fraise dans la sente;
+    J'aurai la vision chÃ¨re devant les yeux.
+
+    Et je dirai tout bas ma tendresse latente;
+    O coeur lÃ¢che, tremblant et rÃ©voltÃ©, je veux
+    Que ton intime amour se rÃ©vÃ¨le et la tente:
+    Tu te rÃ©signeras Ã  l'effroi des aveux
+    Et je dirai tout bas ma tendresse latente.
+
+
+
+
+JOUVENCE
+
+
+    Tu parles tristement des campagnes lointaines
+    D'une voix si dolente et lourde de regrets
+    Que je deviens jaloux des fleurs et des forÃªts
+    Et des saules d'argent penchÃ©s vers les fontaines.
+
+    Souvenirs! jours anciens! comme vous enserrez
+    Notre Ã¢me prisonniÃ¨re en d'invincibles chaÃ®nes:
+    Tu veux, comme autrefois, baigner les sombres chÃªnes
+    Au clair de lune blond de tes cheveux cendrÃ©s.
+
+    Soit! l'Ã©tÃ© revenu parmi les hautes herbes,
+    Nous marcherons, frÃ´lÃ©s par les ailes de l'air,
+    Au murmure divin des choses et ta chair
+    MÃªlera des parfums de Chypre aux foins en gerbes,
+
+    Et peut-Ãªtre qu'un soir entre de rudes draps
+    EmbaumÃ©s de lavande et dans un lit d'auberge
+    Tu me rendras ta chair et tes lÃ¨vres de vierge,
+    Pour quelque amour d'enfant dont tu te souviendras.
+
+
+
+
+LA MORT INUTILE
+
+_A GrÃ©goire Le Roy._
+
+    CurÃ¦ non ipsa in morte relinquunt.
+
+(PUBLIUS VERGILIUS MARO.)
+
+
+    Triste comme la mer et la chanson des syrtes,
+    Le vent lourd de sanglots pleure dans la forÃªt;
+    Un troupeau d'ombres va, paraÃ®t, et disparaÃ®t
+    Par les bois souterrains et les bosquets de myrtes.
+
+    DÃ©faillant dans l'horreur d'un ciel ensanglantÃ©,
+    Le soleil infernal baigne le pÃ¢le espace;
+    Un troupeau d'ombres vient, revient, passe et repasse
+    En sa mÃ©lancolique et tremblante clartÃ©;
+
+    Et ce sont Ã  travers les routes d'asphodÃ¨le
+    Les fantÃ´mes hagards, pleins de larmes et lents
+    Dont les glaives d'amour ont dÃ©chirÃ© les flancs:
+    La mort n'a point fermÃ© leur blessure immortelle,
+
+    Le sommeil sÃ©pulcral a leurrÃ© leurs yeux las
+    Et l'Ã¢pre souvenir survivant Ã  la tombe
+    Tel qu'un vin corrosif, goutte par goutte, tombe
+    Dans leur coeur ulcÃ©rÃ© qui ne guÃ©rira pas.
+
+
+
+
+L'AME SEULE
+
+_A A.-Ferdinand Herold._
+
+
+    La bienfaisante nuit couvre la ville immense
+    D'oÃ¹ montaient vers le ciel des sanglots et des chants
+    Et la grande citÃ© semble un lac de silence
+    FrÃ´lÃ© par la rumeur pacifique des champs.
+
+    Mer des vivants, mer furieuse qui te rues
+    Emportant dans tes plis les deuils et les baisers,
+    Tu roules tout le jour sur le pavÃ© des rues,
+    Mais le soir calme endort tes rÃ¢les apaisÃ©s;
+
+    Et les rÃªveurs amis des nÃ©cropoles saintes,
+    DÃ©livrÃ©s de la joie, affranchis du remords,
+    Errent par les soirs clairs et fleuris d'hyacinthes
+    Comme des immortels dans la maison des morts.
+
+    Hommes, laissez passer dans la nuit solitaire
+    Ceux qui foulent toujours des chemins non frayÃ©s:
+    Les exilÃ©s divins ont repeuplÃ© la terre
+    Et je me sens plus seul quand vous vous rÃ©veillez.
+
+    Quels dÃ©mons ont pÃ©tri de leur mains ironiques
+    Vos faces de mensonge et de stupiditÃ©,
+    Je ne sais, mais le mal suinte de vos tuniques
+    Et votre rire impur attente Ã  la beautÃ©.
+
+    Le matin revenu, soyez tels que vous Ãªtes.
+    Moi cuirassÃ© d'orgueil et de mÃ©pris serein
+    Entre mon coeur farouche et vos clameurs de bÃªtes
+    Je laisserai tomber une herse d'airain.
+
+    Je m'en irai lÃ -bas vers la forÃªt clÃ©mente:
+    Les arbres fraternels m'appellent doucement;
+    L'herbe bruit, l'eau des fontaines se lamente
+    Et rit comme une nymphe avec son jeune amant.
+
+    La forÃªt a gardÃ© pour mon oreille seule
+    Les chants anciens et les fleurs nobles d'autrefois
+    Parfument Ã  jamais sa mÃ©moire d'aÃ¯eule
+    Et tous les rhythmes morts revivent dans sa voix.
+
+    Les chÃªnes musculeux portent de verts portiques,
+    OÃ¹ pareils Ã  des rois mes rÃªves passeront
+    Et prÃ¨s des dieux nouveaux, fils des taillis antiques,
+    Je plierai les genoux et courberai le front.
+
+    Mais retrouveras-tu la jeunesse premiÃ¨re,
+    O parleur orgueilleux, ivre d'un vin mauvais?
+    Et si dans la splendeur de la pure lumiÃ¨re
+    Ton rÃªve Ã©tait moins beau que tu ne le rÃªvais?
+
+    Ainsi qu'un porteur las dÃ©livre ses Ã©paules
+    Tu voudrais rejeter les souvenirs humains
+    Et suivre le ruisseau qui court entre les saules
+    Et marcher tout le jour au hasard des chemins.
+
+    Va! tu n'entendrais plus les voix surnaturelles
+    Qui t'invitent la nuit, vers les magiques bois;
+    Dans les halliers saignant de mÃ»res et d'airelles
+    Tu serais poursuivi par les mauvaises voix.
+
+    Reste jusqu'Ã  la mort baignÃ© de crÃ©puscule
+    Avec l'Ã¢pre regret des astres radieux:
+    Tu n'es pas assez grand pour le manteau d'Hercule
+    Et pour te revÃªtir de la pourpre des dieux.
+
+
+
+
+PETITS PAYSAGES
+
+_A Urbain Derbanne._
+
+
+I
+
+    Une Ã©cume de fleurs, blanche et rose, s'Ã©tale
+    Sur la mer onduleuse et mouvante des prÃ©s
+    OÃ¹ ruisselle le flot des trÃ¨fles empourprÃ©s,
+    Tandis que montent vers le nue orientale
+    Le meuglement des boeufs et la rumeur des blÃ©s.
+
+
+II
+
+    Le souffle langoureux des brises musicales
+    Chante dans les sainfoins en fleurs un hymne lent
+    Et grave et sous les rais du soleil aveuglant
+    Une fuite Ã©perdue et grise de cigales
+    S'enlÃ¨ve et vibre, au ras de l'herbe, en sautelant.
+
+
+III
+
+    L'Ã©quipe de pÃªcheurs tire la grande senne
+    A basse mer, avant les vagues et le flux;
+    Et nul des rudes gars n'est manchot ni perclus,
+    Mais l'effort fait saillir et gonfler leur chair saine
+    Et les veines des bras musculeux et velus.
+
+
+IV
+
+    Le soleil tombe et des grappes de lilas sombre
+    Fleurissent la forÃªt marine oÃ¹ TÃ©thys dort
+    Sous un voile de pourpre aux filigranes d'or
+    Que trempe dans le sang de la clartÃ© qui sombre
+    L'invisible ouvrier du fabuleux dÃ©cor.
+
+
+V
+
+    Le ciel est gris comme une aile de tourterelle
+    Que teinterait un peu de rose veinÃ© d'or;
+    LÃ -bas, le cap lointain dont la mÃ¢choire mord
+    L'horizon sombre est las de sa longue querelle
+    Et la brume a brisÃ© les dents du monstre mort.
+
+
+
+
+EN MORVAN
+
+_A Jacques Derbanne._
+
+
+    L'ombre s'enroule aux flancs des collines farouches
+    Et pÃ¨se sur les bois et les versants herbeux
+    OÃ¹ dorment lourdement les immobiles boeufs;
+    Elle fait grimacer les arbres et les souches
+    Des saules noirs pareils Ã  des jeteurs de sorts,
+    Tandis que par les vaux mystÃ©rieux et morts
+    Le monotone appel des hulottes rÃ©plique
+    Au sifflement du vent dans le houx mÃ©tallique
+    Qui vibre hostilement comme une armure et luit
+    Et l'eau sauvage hurle entre les roches grises,
+    Ainsi que dÃ©faillant de hautes entreprises
+    Une guerriÃ¨re blanche en fuite dans la nuit.
+
+
+
+
+L'EAU MORTE
+
+_A Charles Bourgault Ducoudray._
+
+
+    L'Ã©tang mystÃ©rieux dort parmi les bois sombres,
+    Eau de solitude, eau de silence, eau de songe,
+    Que le flot rose et blanc des bruyÃ¨res prolonge;
+    Parfois des oiseaux noirs glissent comme des ombres
+    Entre les joncs tendus hors des sinistres ondes
+    Tels que des glaives d'or aux mains de reines blondes;
+    Et sous l'Ã¢pre soleil Ã©pars en rayons mornes
+    Les nymphÃ©as chassÃ©s des limpides fontaines
+    OÃ¹ boivent, Ã  la nuit, les cerfs aux belles cornes,
+    Attendent tristement les Ã©toiles lointaines.
+
+
+
+
+RÃVE D'ÃTALONS
+
+_A Edmond Haraucourt._
+
+
+    Une lourde vapeur rÃ´de sur les prairies;
+    La plaine calme dort au chant prochain des eaux
+    Et le vol pacifique et lent des grands oiseaux
+    TraÃ®ne des filets d'ombre aux flots d'herbes fleuries.
+
+    L'or brusque du soleil dÃ©borde dans l'azur
+    Et jaillit de la neige ardente des nuÃ©es;
+    Puis le ciel morne enclÃ´t les splendeurs refluÃ©es
+    Dans ses digues de fer Ã©blouissant et dur.
+
+    Des cris surnaturels et des glaives d'archanges
+    Bruissent dans l'Ã©ther magiquement: des voix
+    Rauques sonnent l'appel d'invisibles tournois
+    OÃ¹ se heurtent des dieux et des guerriers Ã©tranges.
+
+    Les Ã©talons vautrÃ©s dans le tiÃ¨de gazon
+    Comme au ressouvenir Ã©pique des mÃªlÃ©es,
+    Eperdument, de leurs prunelles affolÃ©es
+    Parcourent l'Ã©tendue immense et l'horizon,
+
+    Et par delÃ  le sable hÃ©roÃ¯que des grÃ¨ves
+    Regardent, les naseaux gonflÃ©s d'un souffle amer,
+    Sur la montagne bleue et verte de la mer
+    Blanchir en galop fou les cavales des rÃªves.
+
+    Convulsifs et dressÃ©s sur leurs jarrets tremblants,
+    Le col tendu vers les chimÃ©riques criniÃ¨res
+    Ils sentent comme aux jours des fiÃ¨vres printaniÃ¨res
+    Les dÃ©sirs infinis aiguillonner leurs flancs.
+
+    Mais leur chair glorieuse en proie aux frissons vagues
+    DÃ©daigne dÃ©sormais les vieilles voluptÃ©s
+    Et le vain dÃ©sespoir de leurs coeurs indomptÃ©s
+    Hennit lugubrement vers le troupeau des vagues.
+
+
+
+
+MARBRE
+
+_A Ernest Christophe._
+
+
+    Les bois religieux se taisent; les oiseaux
+    Ont quittÃ© la forÃªt oÃ¹ meurt le bruit des eaux.
+    Seule en sa nuditÃ© de vierge et de guerriÃ¨re
+    La dÃ©esse de marbre habite la clairiÃ¨re
+    Et son corps impollu fait de rÃªve et d'amour
+    Monte, lys immortel, parmi les fleurs d'un jour.
+    Ni flÃ»tes de bergers ni chansons de cigales:
+    Sauf le frissonnement des herbes amicales
+    Dont le flot souple ondule autour d'elle, nul bruit.
+    Parfois dans les fourrÃ©s un chevreuil brusque fuit
+    Farouche d'avoir vu briller la chair sans voiles
+    Et l'arc impÃ©rieux tendu vers les Ã©toiles.
+
+
+
+
+CRISTAL
+
+_A Emile GallÃ©._
+
+
+    Noire sur le cristal pÃ¢le et gris comme un ciel
+    D'hiver, la libellule Ã©nigmatique Ã©ploie
+    Les ailes dans l'air lourd et pestilentiel.
+    Ses immobiles yeux sans tristesse et sans joie
+    Cherchent sinistrement une invisible proie
+    Et planant sur l'eau verte et morte des marais,
+    Vers vos calices d'or, de pourpre et de tÃ©nÃ¨bres,
+    Elle vole vers vos calices Ã  jamais,
+    Glauques fleurs qui nagez sur des Ã©tangs funÃ¨bres
+    OÃ¹ se mire le deuil des pins et des cyprÃ¨s.
+
+
+
+
+CRÃPON
+
+_A Judith Gautier._
+
+
+    Des oiseaux merveilleux onglÃ©s de griffes d'or
+    Tracent dans le ciel calme un candide sillage
+    Et la migration d'un Ã©ternel voyage
+    Tend vers des pics lointains leur immuable essor.
+
+    Le caprice du peintre ouvrant les ailes vaines
+    Fige ironiquement loin des vierges sommets
+    Leur vol: blancs exilÃ©s, vous n'atteindrez jamais
+    Les cimes que le soir vÃªt de pÃ¢les verveines.
+
+    Mais le rÃªve des monts vous donne leur fiertÃ©,
+    L'eau des lacs inconnus frÃ©mit dans vos prunelles
+    Et l'hÃ©roÃ¯que amour des neiges fraternelles
+    Illumine vos yeux de gloire et de clartÃ©:
+
+    Telle malgrÃ© l'horreur des tÃ©nÃ¨bres accrues
+    Mon Ã¢me vole vers la pourpre des printemps
+    Et loin des monts neigeux et des lacs oÃ¹ je tends
+    RÃªve au parfum royal des roses disparues.
+
+
+
+
+L'IMPÃRATRICE
+
+_A Mlle Gabrielle Herold._
+
+
+    Les dieux d'un riche crÃ©puscule
+    Parent d'or fauve et de joyaux
+    Les cactus, les lys sans macule
+    Et les chrysanthÃ¨mes royaux;
+
+    La pourpre du jour tombe et glisse
+    Sur les terrasses du jardin;
+    Le soleil meurt, l'ImpÃ©ratrice
+    FrÃ´le les fleurs avec dÃ©dain
+
+    Et songe, loin des soirs illustres,
+    Au lac blanc sous l'aube d'avril
+    OÃ¹ les frÃªles herbes palustres
+    Semblaient des reines en exil.
+
+
+
+
+L'ASCÃTE
+
+_A Benjamin Constant._
+
+
+    AprÃ¨s le jour de flamme et le labeur amer,
+    L'ascÃ¨te hiÃ©ratique accroupi sur la grÃ¨ve
+    Entendait rÃ©sonner une harpe de rÃªve
+    Et son maigre lion dormait prÃ¨s de la mer.
+
+    Ni voix ni glissement des barques ou des ailes
+    Ne troublaient le silence effrayant et la paix
+    Du morne crÃ©puscule Ã©pars dans l'air Ã©pais,
+    Et la bÃªte songeait aux viandes des gazelles.
+
+    Mais l'homme dÃ©daignant la tristesse du soir,
+    ConsumÃ© d'une soif que rien ne dÃ©saltÃ¨re
+    Et que n'apaisent pas les coupes de la terre,
+    Regardait le soleil rougir l'horizon noir.
+
+    Et voyait, en un ciel de pourpre et d'hyacinthe,
+    Les pieds clouÃ©s, la chair tachant l'horrible croix,
+    Le Seigneur JÃ©sus-Christ, fils de Dieu, Roi des rois,
+    Sinistrement saigner sur la montagne sainte.
+
+
+
+
+MESSE DES MORTS
+
+_A Bernard Lazare._
+
+
+LES ORGUES
+
+    Requiem Ã¦ternam dona eis, Domine.
+
+
+    Seigneur, ces pÃ¨lerins des routes de la vie
+    Ont peinÃ© tout le jour vers le terme divin:
+    Au lieu des puits d'eau vive et des outres de vin,
+    Ils se dÃ©saltÃ©raient aux calices d'envie.
+
+    DessÃ©chÃ©s par le hÃ¢le et brÃ»lÃ© par le ciel
+    Torride, haletant de la soif infinie,
+    Ils ont bu, comme Christ en sa lente agonie,
+    La mauvaise liqueur de vinaigre et de fiel.
+
+    Sous les savantes mains d'atroces sagittaires,
+    Des flÃ¨ches s'envolaient vers eux d'arcs inconnus
+    Et d'invisibles fouets mordaient leurs torses nus
+    Et du mÃ©tal ardent coulait dans leurs artÃ¨res.
+
+    Ils marchaient pesamment sous le faix de leurs croix
+    Avec le seul espoir de ta bontÃ© future;
+    Mais les loups de l'enfer guettent la crÃ©ature
+    Et happent en chemin l'Ã¢me que tu mÃ©crois;
+
+    L'inextinguible feu hurle dans la gÃ©henne
+    Et les damnÃ©s jetÃ©s aux abÃ®mes grondants
+    N'apaisent point la faim terrible de ses dents
+    Et son gosier fÃ©roce est avivÃ© de haines;
+
+    N'Ã©carte pas de toi les fidÃ¨les troupeaux;
+    Le soir descend; aprÃ¨s les heures sans prairies,
+    Voici l'instant rÃªvÃ© des calmes bergeries:
+    Ouvre, Ã´ Pasteur des morts, le bercail de repos.
+
+
+LES VIOLONS
+
+    Et lux perpetua luceat eis.
+
+
+    Seigneur, ces exilÃ©s de la seule patrie
+    Criaient vers toi du fond des gouffres tÃ©nÃ©breux;
+    PitiÃ©, fais ruisseler des nuages sur eux
+    La source de splendeur promise en Samarie.
+
+    Que la mort leur devienne un baptÃªme: revÃªts
+    Leurs flancs martyrisÃ©s de robes de lumiÃ¨re
+    Et donne leur essor dans la gloire premiÃ¨re
+    Aux cygnes Ã©chappÃ©s aux piÃ¨ges du Mauvais.
+
+    Magnifiques et purs, aprÃ¨s la lutte rude,
+    Ils voleront vers les parterres triomphaux
+    OÃ¹ des lys, mÃ©prisant la morsure des faux,
+    Fleurissent dans la joie et la bÃ©atitude,
+
+    Tandis que le soleil d'un ineffable Ã©tÃ©
+    Inonde d'or brÃ»lant les roses et dilate
+    Les parfums Ã©pandus des coupes d'Ã©carlate
+    Et que l'Ã©ther subtil chante l'Ã©ternitÃ©.
+
+    Rappelle au nid fermÃ© les frissonnantes Ã¢mes
+    Et les ailes d'amour monteront vers l'Amant
+    A travers l'harmonie et l'Ã©blouissement
+    Des musiques, des voix, des splendeurs et des flammes,
+
+    Et les siÃ¨cles futurs et ceux qui ne sont plus
+    Tressailleront en toi d'une mÃªme allÃ©gresse
+    En oyant tel qu'un chant et tel qu'une caresse
+    FrÃ©mir au ciel nouveau le vol blanc des Ã©lus.
+
+
+LES VIVANTS
+
+    Agnus Dei qui tollis peccata mundi
+    dona eis requiem.
+
+
+    Seigneur, Seigneur, Seigneur, impitoyable maÃ®tre,
+    Nous sommes las des jours et des soleils maudits:
+    Epargne aux dÃ©livrÃ©s l'horreur du paradis,
+    Laisse les morts dormir en paix et ne plus Ãªtre.
+
+    Tant de clous ont percÃ© leurs membres ici-bas
+    Que nul flot baptismal rÃ©dempteur de leurs peines
+    Ne laverait les maux et les douleurs humaines
+    Et que ton repentir ne leur suffirait pas.
+
+    Ils entendraient, au lieu des sublimes cantiques
+    Flottant parmi l'encens des lys Ã©panouis,
+    Monter de l'OcÃ©an tumultueux des nuits
+    Le rÃ¢le inexpiÃ© des souffrances antiques;
+
+    Rumeur d'airain, sanglot cruel d'un tympanon
+    Dont une main haineuse a secouÃ© les cordes,
+    Le souvenir rirait de tes misÃ©ricordes,
+    La voix de tes Ã©lus blasphÃ©merait ton nom.
+
+    Roi du ciel, reste seul dans ta gloire exÃ©crÃ©e
+    Formidable, sereine et libre de remords;
+    O bourreau des vivants, ne touche pas aux morts,
+    Et quand viendra pour nous la suprÃªme vesprÃ©e,
+
+    Quand les vers rongeront les os de nos genoux,
+    Accorde Ã  notre chair en tardive clÃ©mence
+    Non les vaines clartÃ©s, mais l'ombre, le silence,
+    Le sommeil et l'oubli de toi-mÃªme et de nous.
+
+
+
+
+LA VANITÃ DU VERBE
+
+
+
+
+LA VANITÃ DU VERBE
+
+
+I
+
+    Le RunoÃ¯a, le prince altier du Verbe d'or,
+    Est las de la nature et des formes antiques
+    OÃ¹ l'Ã©bauche du monde est imparfaite encor;
+
+    Les bois noirs et leur chant de harpes prophÃ©tiques
+    Et les monts violets endormis sous le ciel,
+    Et les brumes d'argent sur les vagues baltiques,
+
+    Et les brises de fleurs et les parfums de miel,
+    Et tous les souvenirs alourdis de mystÃ¨re
+    Gonflent son coeur amer de mÃ©pris et de fiel.
+
+    En son Ãªtre, Ã©crasÃ© par l'ennui solitaire
+    CroÃ®t, avec le dÃ©goÃ»t de sa virginitÃ©,
+    Le dÃ©sir d'Ã©voquer une nouvelle terre,
+
+    Un monde jeune, un paradis illimitÃ©,
+    RevÃªtu d'aubÃ©pine immortelle et d'yeuses
+    Sous les glaces d'hiver et les soleils d'Ã©tÃ©,
+
+    OÃ¹ des crÃ©ations de femmes radieuses
+    Se mÃªleraient d'amour Ã  de mÃ¢les hÃ©ros
+    En des lits de gazon semÃ©s de scabieuses.
+
+    Le MaÃ®tre dÃ©ploya l'art magique des Mots:
+    Un subit univers naissait de ses paroles
+    Comme la perle naÃ®t du bruit rhythmÃ© des flots.
+
+    Une profusion sanglante de corolles
+    S'Ã©veillait et germait du rÃªve des Avrils
+    Et l'azur flamboyait de fauves aurÃ©oles,
+
+    Tandis que les forÃªts et les guerriers virils,
+    Les femmes pÃ¢les et les belles chevelures
+    Jaillissaient de l'abÃ®me au grÃ© des chants subtils.
+
+    Alors, imaginant les caresses futures,
+    Le sublime ouvrier du Verbe Ã©perdument
+    Songeait un songe blanc pÃ©tri de neiges pures.
+
+    Il disait son extase et son ravissement,
+    Et s'enivrait de la liqueur de la PensÃ©e
+    Et sa voix enfantait l'ineffable Tourment;
+
+    Elle faisait surgir au jour la fiancÃ©e
+    Surhumaine, et la Femme idÃ©ale venait
+    Divinement resplendissante et cadencÃ©e.
+
+    Elle marchait sur la bruyÃ¨re et le genÃªt
+    Et des astres vivaient au fond de sa prunelle;
+    Un silence d'hymen et de baisers planait.
+
+    Le RunoÃ¯a, joyeux de l'oeuvre faite, en elle
+    Se plongeait comme dans un ocÃ©an de lys
+    Et tombait Ã©bloui de la Forme Ã©ternelle
+
+    Dans le gouffre effrayant des rÃªves accomplis.
+
+
+II
+
+    La contemplation dura cent mille annÃ©es;
+    Quand le MaÃ®tre sortit des songes Ã©clatants,
+    Des gÃ©nÃ©rations hideuses Ã©taient nÃ©es.
+
+    Les Rhythmes Ã©taient morts; les rires insultants
+    GrimaÃ§aient; le soleil blÃªme sur les prairies
+    Sans fleurs pleurait les jours anciens et les printemps;
+
+    L'Ã©pouse maquillÃ©e, Ã¢pre de pierreries,
+    Se raillait du PoÃ¨te et du RÃªve divin
+    Et se prostituait aux races amoindries.
+
+    Lorsque le DÃ©miurge eut vu ce qui devint,
+    Un dÃ©sespoir immense emplit son Ã¢me sombre;
+    Il comprit que le Verbe Ã©tait stupide et vain
+
+    Et cria dans la nuit: Â«Puisque tout croule et sombre,
+    Â«AprÃ¨s l'oeuvre magique et sublime du Chant,
+    Â«O paroles, rentrez dans le gouffre de l'ombre.
+
+    Â«Va, monde! abÃ®me-toi, triste soleil couchant!
+    Â«Disparais d'un seul coup dans le nÃ©ant avide!
+    Â«Fonds-toi dans ma fureur comme un lingot d'argent!Â»
+
+    Plus rien ne fut; la nuit par le ciel morne et vide
+    Roula son voile noir sur la fausse splendeur
+    Et le MaÃ®tre, absorbÃ© dans le chaos livide
+
+    Tut--pour l'Ã©ternitÃ©--le Verbe crÃ©ateur.
+
+
+
+
+TABLE
+
+
+  _DÃDICACE_
+
+    A LA MÃMOIRE D'ÃPHRAÃM MIKHAÃL                           7
+
+DE SABLE ET D'OR
+
+  _LES FLEURS NOIRES_
+
+    LES FLEURS NOIRES                                       13
+    LE DIEU MORT                                            15
+    RUINES                                                  17
+    PAR LA NUIT D'AUTOMNE                                   19
+    SOLITUDE                                                21
+    PAROLES SUR LA TERRASSE                                 23
+    L'AUTOMNE A DÃNUDÃ LES GLÃBES                           25
+
+  _LES VAINES IMAGES_
+
+    PSYCHÃ                                                  29
+    ÃLIANE                                                  31
+    HYMNIS                                                  37
+    CHRYSARION                                              40
+
+  _L'ERRANTE_
+
+    L'ERRANTE                                               45
+
+  _VERS L'AURORE_
+
+    LES AUMÃNIÃRES                                          59
+    MARE TENEBRARUM                                         61
+    LE PÃLERINAGE HORS DE L'OMBRE                           63
+    NATIVITÃ                                                67
+    LE CHÃVRE-PIEDS                                         69
+    FLAMMES                                                 71
+
+  _LE JARDIN DE CASSIOPÃE_
+
+    LE JARDIN DE CASSIOPÃE                                  75
+    VOIX DERRIÃRE LA HAIE                                   78
+    LA DOULEUR A CRIÃ                                       82
+
+LA GLOIRE DU VERBE
+
+  _LA GLOIRE DU VERBE_
+
+    LA GLOIRE DU VERBE                                      89
+
+  _LES MYTHES_
+
+    L'AVENTURIER                                            97
+    LE BOIS SACRÃ                                          102
+    LES CAPTIFS                                            109
+    LES YEUX D'HÃLÃNE                                      115
+    SCHAOUL                                                117
+    RESSOUVENIR                                            120
+    GOETTERDAEMMERUNG                                      122
+    LA FILLE AUX MAINS COUPÃES                             124
+    LA PEUR D'AIMER                                        136
+    LE PRINCE D'AVALON                                     138
+    CELLE QU'ON FOULE                                      141
+    LA VOIX IMPÃRISSABLE                                   149
+
+  _MAYA_
+
+    THAÃS                                                  157
+    JUDEX                                                  160
+    CHAMBRE D'AMOUR                                        162
+    PRINTEMPS D'AUTOMNE                                    164
+    LIEDER                                                 166
+    POUR UNE ABSENTE                                       179
+    JOUVENCE                                               181
+    LA MORT INUTILE                                        183
+    L'AME SEULE                                            185
+    PETITS PAYSAGES                                        189
+    EN MORVAN                                              191
+    L'EAU MORTE                                            192
+    RÃVE D'ÃTALONS                                         193
+    MARBRE                                                 195
+    CRISTAL                                                196
+    CRÃPON                                                 197
+    L'IMPÃRATRICE                                          199
+    L'ASCÃTE                                               200
+    MESSE DES MORTS                                        202
+
+  _LA VANITÃ DU VERBE_
+
+    LA VANITÃ DU VERBE                                     209
+
+
+
+
+  _ACHEVÃ D'IMPRIMER_
+  le trente octobre mil huit cent quatre-vingt-dix-sept
+  PAR
+  L'IMPRIMERIE Vve ALBOUY
+  POUR LE
+  MERCVRE
+  DE
+  FRANCE
+
+
+
+
+
+
+End of Project Gutenberg's La lyre hÃ©roÃ¯que et dolente, by Pierre Quillard
+
+*** END OF THE PROJECT GUTENBERG EBOOK 44359 ***

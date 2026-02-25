@@ -1,3 +1,2965 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e66a52cda13c398825d1c4f684faab09bc4f5866620a99b76680fe834a81188
-size 74446
+The Project Gutenberg EBook of La Pupille, by Christophe-Barth�lemi Fagan
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La Pupille
+
+Author: Christophe-Barth�lemi Fagan
+
+Release Date: October 7, 2008 [EBook #26822]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA PUPILLE ***
+
+
+
+
+Produced by Daniel Fromont
+
+
+
+
+
+
+
+
+
+
+[Transcriber's note: Christophe-Barth�lemi Fagan (1702-1755),
+_La Pupille_, 1734, �dition de 1760]
+
+
+
+
+
+LA PUPILLE,
+
+
+COMEDIE,
+
+
+PAR FAGAN,
+
+
+Repr�sent�e, pour la premi�re fois, le 5 juillet
+
+1734.
+
+
+
+
+NOTICE SUR FAGAN.
+
+
+Christophe-Barth�lemi FAGAN, n� � Paris le 30 mars 1702, re�ut
+une �ducation tr�s soign�e. La perte totale de la fortune de
+son p�re avoit oblig� ce dernier � accepter une place au
+bureau des consignations, et for�a �galement le jeune homme �
+prendre un emploi dans la m�me partie.
+
+L'agr�ment de son esprit le fit accueillir dans diverses
+soci�t�s. Il y rencontra Pannard, se lia avec lui, et bient�t
+ils compos�rent ensemble plusieurs op�ras comiques qui eurent
+du succ�s. Le go�t de Fagan pour le th��tre s'en accrut de
+plus en plus, et, excit� par les besoins d'une famille
+nombreuse, il entreprit de travailler seul pour le th��tre
+Fran�ois. La premi�re pi�ce qu'il y donna fut LE RENDEZ-VOUS.
+Cette petite com�die en un acte, et en vers, repr�sent�e pour
+la premi�re fois le 27 mai 1733, eut douze repr�sentations
+tr�s suivies. L'ann�e suivante, le 11 f�vrier, il fit jouer LA
+GRONDEUSE, aussi en un acte et en prose, qu'il retira apr�s la
+cinqui�me repr�sentation. Le 5 juillet de la m�me ann�e, parut
+LA PUPILLE, que l'on regarde g�n�ralement comme le chef-d'oeuvre
+de l'auteur. Cette charmante com�die en un acte et en
+prose fut applaudie avec enthousiasme pendant vingt-trois
+repr�sentations. LUCAS ET PERRETTE OU LE RIVAL UTILE, com�die
+en un acte et en vers, mise au th��tre le 17 novembre de la
+m�me ann�e 1734, ne fut jou�e que deux fois.
+
+L'AMITIE RIVALE DE L'AMOUR, com�die en un acte, en vers, jou�e
+le 16 novembre 1735, excita beaucoup de tumulte dans le
+parterre � la premi�re repr�sentation; elle fut cependant
+jou�e dix fois, et a �t� reprise avec quelque succ�s.
+
+LES CARACTERES DE THALIE, com�die en trois actes, mise au
+th��tre le 15 juillet 1737, fut jou�e dix-huit fois avec
+succ�s. Chaque acte de cette pi�ce formoit une com�die
+enti�re. La premi�re en un acte, en vers, �toit L'INQUIET; la
+seconde en un acte, en prose, avoit pour titre L'ETOURDERIE;
+et la troisi�me, aussi en un acte en prose, que l'on joue
+encore aujourd'hui, est intitul�e LES ORIGINAUX.
+
+LE MARIE SANS LE SAVOIR, com�die en un acte, en prose,
+repr�sent�e le 8 janvier 1739, ne fut donn�e que six fois.
+
+JOCONDE, com�die en un acte, en prose, donn�e le 5 novembre
+1740, eut quatorze repr�sentations.
+
+L'HEUREUX RETOUR, com�die en un acte, en vers, compos�e �
+l'occasion de la convalescence du roi et de son retour de Metz
+� la cour, fut mise au th��tre le 6 novembre 1744, et eut
+quinze repr�sentations.
+
+On trouve encore dans les oeuvres de l'auteur LE MUSULMAN,
+com�die en un acte, en prose, LE MARQUIS AUTEUR, com�die en un
+acte en vers, et L'ASTRE FAVORABLE, com�die en un acte et en
+vers libres. Ces trois pi�ces �toient destin�es au th��tre
+Fran�ois, mais elles n'ont pas �t� repr�sent�es.
+
+Fagan mourut � Paris le 8 avril 1755, dans sa cinquante-quatri�me
+ann�e.
+
+
+PERSONNAGES.
+
+
+ARISTE.
+
+ORGON, ami d'Ariste.
+
+LE MARQUIS VALERE, neveu d'Orgon.
+
+JULIE.
+
+LISETTE, suivante de Julie.
+
+Un laquais, personnage muet.
+
+
+La sc�ne est � Paris, dans l'appartement d'Ariste.
+
+
+
+LA PUPILLE,
+
+
+COMEDIE.
+
+
+
+
+SCENE I.
+
+
+ORGON, LE MARQUIS.
+
+
+ORGON.
+
+Val�re, encore un coup, songez � ce que vous me faites faire.
+
+
+LE MARQUIS.
+
+Que je sois an�anti, mon oncle, si je voulois, pour toute
+chose au monde, vous engager dans une fausse d�marche. Faut-il
+vous le r�p�ter cent fois? Je vous dis que je suis avec elle
+sur un pied � ne pouvoir pas reculer.
+
+
+ORGON.
+
+Mais ne vous flattez-vous pas? Etes-vous bien s�r d'�tre aim�?
+
+
+LE MARQUIS.
+
+Si j'en suis s�r? Premi�rement, quand je viens ici, � peine
+ose-t-elle me regarder: preuve d'amour; et quand je lui
+parle, elle ne me r�pond pas le mot: preuve d'amour; et
+quand je parois vouloir me retirer, elle affecte un air plus
+gai, comme pour me dire: "Pourquoi me fuyez-vous, marquis?
+Craignez-vous de me sacrifier quelques moments? Restez, petit
+volage, restez; je vais vaincre le trouble o� me jette votre
+presence, et vous fixer par mon enjouement. Mon esprit va
+briller aux d�pens de mon coeur. J'aime mieux que vous me
+croyez moins tendre, et vous paro�tre plus aimable. Demeurez,
+mon adorable marquis! demeurez...." Je pourrois vous en dire
+davantage; mais vous me permettrez de me taire l�-dessus: il
+faut �tre modeste.
+
+
+ORGON.
+
+Ces preuves-l� me paroissent assez �quivoques. Au surplus,
+Ariste est trop judicieux et trop mon ami pour s'opposer � ce
+mariage, si sa pupille y consent... (Voyant paro�tre Ariste
+dans le fond.) Je le vois sortir de son appartement. Retirez-vous.
+
+
+LE MARQUIS.
+
+Y a-t-il quelque inconv�nient que je reste? Vous porterez la
+parole: il donnera son consentement; je donnerai le mien:
+on fera venir Julie; ce sera une chose faite.
+
+
+ORGON.
+
+Les affaires ne se m�nent pas si vite. Retirez-vous, vous dis-je.
+
+
+LE MARQUIS.
+
+Cependant....
+
+
+ORGON, l'interrompant.
+
+Retirez-vous.
+
+
+LE MARQUIS.
+
+Allons donc. Je reviendrai, quand il sera question d'�pouser.
+
+(Il sort.)
+
+
+
+
+SCENE II.
+
+
+ARISTE, ORGON.
+
+
+ORGON.
+
+Bon jour au seigneur Ariste.
+
+
+ARISTE.
+
+On vient de me dire que vous �tiez ici, Orgon; je suis charm�
+de vous voir.
+
+
+ORGON.
+
+Je suis charm�, moi, de voir la sant� dont vous jouissez. Sans
+flatterie, vous ne paroissez pas trente-cinq ans; et.... vous
+en avez bien dix par de-l�.
+
+
+ARISTE.
+
+La vie tranquille et r�gl�e que je m�ne depuis quelque temps,
+me vaut ce peu de sant� dont je jouis.
+
+
+ORGON.
+
+Ma foi! une femme vous si�roit fort bien.
+
+
+ARISTE.
+
+A moi? Vous plaisantez, Orgon.
+
+
+ORGON.
+
+Ah! il est vrai que vous avez toujours �t� un peu philosophe,
+et, par cons�quent, peu curieux d'engagement.
+
+
+ARISTE.
+
+Il y a eu, dans ce qu'on appelle philosophes, des gens qui ne
+se sont point mari�s, et peut-�tre ont-ils bien fait. Mais,
+selon moi, le c�libat n'est point essentiel � la philosophie;
+et je pense qu'un sage est un homme qui se r�sout � vivre
+comme les autres, avec cette seule diff�rence qu'il n'est
+esclave ni des �v�nements, ni des passions. Ce n'est donc
+point par philosophie, mais parce que j'ai pass� l'�ge de
+plaire que je vous demande gr�ce sur cet article-l�.
+
+
+ORGON.
+
+Ce que je vous en dis est par forme de conversation. Parlons-en
+donc pour un autre. Votre dessein n'est-il pas de pourvoir
+Julie?
+
+
+ARISTE.
+
+Oui. C'est dans cette vue que je l'ai retir�e du couvent.
+
+
+ORGON.
+
+Je crois m�me vous avoir entendu dire que son p�re, en vous la
+confiant, vous avoit recommand� de lui faire prendre un parti,
+d�s qu'elle seroit en �ge.
+
+
+ARISTE.
+
+Cela est encore vrai, et je m'y d�termine d'autant mieux que
+je compte faire un bon pr�sent � quiconque l'�pousera; car
+elle a des sentiments dignes de sa naissance: elle est douce,
+modeste, attentive; en un mot, je ne vois rien de plus
+aimable ni de plus sage. Il y a peut-�tre un peu de pr�vention
+de ma part.
+
+
+ORGON.
+
+Non; elle est parfaite, assur�ment: mais il se passe quelque
+chose dont vous n'�tes peut-�tre pas instruit.
+
+
+ARISTE.
+
+Comment! que se passe-t-il donc?
+
+
+
+
+SCENE III.
+
+
+LE MARQUIS, dans le fond, et sans se montrer d'abord; ARISTE,
+ORGON.
+
+
+ORGON, � Ariste.
+
+J'ai un neveu, de par le monde.
+
+
+ARISTE.
+
+Je le sais. Ne se nomme-t-il pas Val�re?
+
+
+ORGON.
+
+Tout juste.
+
+
+ARISTE.
+
+Je l'ai vu quelquefois au logis.
+
+
+LE MARQUIS, se jetant entre eux deux.
+
+Oui, monsieur. Je viens vous avouer, et vous expliquer ce que
+mon oncle ne vous dit que confus�ment. Il est vrai que
+Julie....
+
+
+ORGON, l'interrompant.
+
+Eh! que diable! laissez-moi.
+
+
+LE MARQUIS, � Ariste.
+
+Monsieur, excusez; mon oncle ne s'est jamais piqu� d'�tre
+orateur, et... Vous me voyez, je vous demande gr�ce pour Julie
+; je vous la demande pour moi-m�me. Nous sommes coupables de
+vous avoir cach�.... (Voyant qu'Orgon se met en col�re.) Mais,
+je vois que le feu s'allume dans les yeux de mon oncle; je ne
+veux point l'irriter.
+
+
+ORGON.
+
+Je vous promets que si vous paroissez avant que je vous le
+dise, je....
+
+
+LE MARQUIS, l'interrompant.
+
+Je ne crois pas que ce que je fais soit hors de sa place.
+N'importe, il faut c�der; je me retire.
+
+(Il sort.)
+
+
+
+
+SCENE IV.
+
+
+ARISTE, ORGON.
+
+
+ORGON.
+
+Il est tant soit peu �tourdi, comme vous voyez: aussi me
+suis-je long-temps tenu en garde contre ses discours; mais
+enfin il m'a parl� d'une fa�on � me persuader que la pupille
+et lui ne sont point mal ensemble.
+
+
+ARISTE.
+
+J'en re�ois la premi�re nouvelle. Si cela est, je ne con�ois
+pas pourquoi Julie m'en a fait un myst�re; car je l'ai vingt
+fois assur�e que je ne g�nerois jamais son inclination, et je
+m'opposerois encore moins � celle qu'elle pourroit avoir pour
+une personne qui vous appartient. Une si grande r�serve de sa
+part me pique, je vous l'avoue, et me surprend en m�me temps.
+
+
+ORGON.
+
+Une premi�re passion est un mal que l'on voudroit volontiers
+se cacher � soi-m�me.
+
+
+
+
+SCENE V.
+
+
+JULIE, LISETTE, se tenant d'abord dans le fond; ARISTE,
+ORGON.
+
+
+ORGON, bas, � Ariste, en apercevant Julie.
+
+La voil�, je crois, qui paroit. Elle est, ma foi, aimable.
+
+
+JULIE, bas, � Lisette.
+
+Ariste parle � quelqu'un. N'avan�ons pas, Lisette.
+
+
+LISETTE.
+
+Vous �tes la premi�re personne jeune et jolie qui craigniez de
+vous montrer.
+
+
+ARISTE, � Julie.
+
+Approchez, Julie. (En lui montrant Orgon.) Vous �tes sans
+doute instruite du sujet qui am�ne monsieur ici? Il me fait
+une proposition � laquelle je souscris volontiers, si elle
+vous touche autant que l'on me le fait entendre.
+
+
+JULIE, troubl�e.
+
+J'ignore, monsieur, de quoi il est question.
+
+
+ARISTE.
+
+Ne dissimulez pas davantage. J'aurois lieu de m'offenser du
+peu de confiance que vous auriez en moi. Rassurez-vous, Julie
+; votre penchant n'est point un crime, et je ne vous reproche
+rien, que le secret que vous m'en avez fait.
+
+
+JULIE.
+
+En v�rit�, monsieur... (A Lisette.) Lisette?...
+
+
+LISETTE, l'interrompant.
+
+Eh bien! Lisette? Je gage qu'on veut vous parler de mariage.
+Cela est-il si effrayant? Il y a cent filles qui, en pareil
+cas, seroient intr�pides.
+
+
+ARISTE, bas, � Orgon.
+
+Elle s'obstine � se taire. Il faut lui pardonner cette
+timidit�. Je fais r�flexion que je lui parlerai mieux en
+particulier. Laissons-la revenir de l'embarras que tout ceci
+lui cause, et soyez persuad� que je m'emploierai tout entier
+pour que la chose aille selon vos d�sirs.
+
+
+ORGON, bas.
+
+Je vous en suis oblig�. (Regardant Julie.) Elle a une certaine
+gr�ce, une certaine modestie qui me feroient souhaiter d'�tre
+mon neveu.
+
+(Il sort, en saluant affectueusement Julie, et Ariste va le
+reconduire.)
+
+
+
+
+SCENE VI.
+
+
+JULIE, LISETTE.
+
+
+LISETTE.
+
+Vous vous �tes ennuy�e au couvent. Vous �tes sourde aux
+propositions de mariage. Oserois-je demander, mademoiselle, ce
+que vous comptez devenir? Orgon, que vous venez de voir, est
+oncle du marquis, qui, selon les apparences, a fait faire des
+d�marches aupr�s d'Ariste.
+
+
+JULIE.
+
+Ah! ne me parle point du marquis.
+
+
+LISETTE.
+
+Pourquoi donc? Parce qu'il a la t�te un peu folle, qu'il est
+grand parleur, pr�venu de son m�rite, et m�me un peu menteur?
+Bon! bon! il est jeune et vous aime; cela ne suffit-il pas?
+Le commerce tomberoit, si l'on y regardoit de si pr�s.
+
+
+JULIE.
+
+Je connois quelqu'un � qui on ne sauroit reprocher aucun de
+ces d�fauts; qui est humble, sens�, poli, bienfaisant; qui
+sait plaire sans les dehors affect�s et les airs �tourdis qui
+font valoir tant d'autres hommes.
+
+
+LISETTE.
+
+Oui-d�? Cette peinture est na�ve. Seroit-ce l'esprit seul qui
+l'auroit faite?
+
+
+JULIE.
+
+Non, Lisette, puisqu'il faut l'avouer.
+
+
+LISETTE.
+
+Eh! que ne parlez-vous? Quelle crainte ridicule vous a fait
+garder le silence si long-temps? Vous �tes trop bien n�e pour
+avoir fait un choix indigne de vous. Vous avez un tuteur qui
+porte la complaisance au-del� de l'imagination, et qui ne vous
+contraindra pas. Quelle difficult� vous reste-t-il donc �
+vaincre?
+
+
+JULIE.
+
+La difficult� est d'en instruire celui que j'aime.
+
+
+LISETTE.
+
+La difficult� est de l'en instruire? Cette personne-l� est
+donc bien peu intelligente. J'en croirois, moi, vos yeux sur
+leur parole.
+
+
+JULIE.
+
+Quand mes yeux parleroient beaucoup, je ne sais si on les
+entendroit encore. Mais j'ai soin qu'ils n'en disent pas trop;
+car, Lisette, voici l'embarras o� je suis. Quoique je sois
+jeune et que l'on me trouve quelques charmes, quoique j'aie du
+bien et que celui que j'aime et moi soyons de m�me condition,
+je crains qu'il n'approuve pas mon amour, et s'il m'arrivoit
+d'en faire l'aveu et que j'essuyasse un refus, je mourrois de
+douleur.
+
+
+LISETTE.
+
+Je vous suis caution que jamais homme, usant et jouissant de
+sa raison, ne vous refusera. Qui pourroit le porter � agir de
+la sorte?
+
+
+JULIE.
+
+Son exc�s de m�rite.
+
+
+LISETTE.
+
+Je ne con�ois rien � cela. (Apr�s avoir r�v� un instant.)
+Mais, attendez. Que ne m'en faites-vous la confidence, � moi?
+Vous me demanderez le secret, je vous promettrai de le garder:
+je n'en ferai rien; il transpirera, fera un tour par la
+ville, viendra aux oreilles du monsieur en question, et quand
+il sera instruit, selon l'air du bureau, vous aurez la libert�
+d'avouer ou de nier.
+
+
+JULIE.
+
+Non, je ne puis te le nommer. Outre cette crainte dont je
+viens de te parler, outre une certaine pudeur qui me feroit
+souhaiter qu'on me devin�t, je crains de passer dans le monde
+pour extraordinaire, pour bizarre; car mon choix est
+singulier. Mais pourquoi m'en faire une honte? L'impression
+qu'un caract�re vertueux fait sur les coeurs est-elle donc une
+foiblesse que l'on n'ose avouer?
+
+
+LISETTE.
+
+Oh! ma foi, mademoiselle, expliquez-vous mieux, s'il vous
+pla�t. Vous craignez de passer pour extraordinaire, et
+franchement vous l'�tes. O ciel! je renoncerois plut�t �
+toutes les passions de l'univers que d'en avoir une d'une
+nature � n'en pouvoir pas parler.
+
+
+
+
+SCENE VII.
+
+
+ARISTE, JULIE, LISETTE.
+
+
+ARISTE, � Lisette.
+
+Lisette, retirez-vous.
+
+(Lisette sort.)
+
+
+
+
+SCENE VIII.
+
+
+ARISTE, JULIE.
+
+
+ARISTE, � part.
+
+Elle a quelquefois entendu parler du marquis comme d'un homme
+peu form�; elle craint sans doute que je ne la d�sapprouve.
+
+
+JULIE, � part.
+
+Quel parti prendre avec un homme trop modeste pour rien
+entendre?
+
+
+ARISTE.
+
+Je ne devrois point, Julie, paro�tre en savoir plus que vous
+ne voulez m'en dire; mais enfin, les soins que j'ai pris de
+votre enfance et l'amiti� que je vous ai toujours t�moign�e,
+me font pr�tendre � ne rien ignorer de ce qui vous touche.
+Quelques amis m'ont parl� en particulier. Ce n'est pas tout.
+Depuis un temps, je vous trouve r�veuse, inqui�te,
+embarrass�e. Il faut que vous en conveniez, Julie, quelqu'un a
+su vous toucher.
+
+
+JULIE.
+
+J'en conviendrai, monsieur. Oui, quelqu'un a su me plaire;
+mais ne tenez point compte de ce qu'on a pu vous dire, et ne
+me demandez point qui est celui pour qui je sens du penchant,
+car je ne puis me r�soudre � vous le d�clarer.
+
+
+ARISTE.
+
+Auriez-vous fait un choix.....?
+
+
+JULIE, l'interrompant.
+
+Je ne pouvois pas mieux choisir: la raison, l'honneur, tout
+s'accorde avec mon amour.
+
+
+ARISTE.
+
+Eh! quand cet amour a-t-il commenc�?
+
+
+JULIE.
+
+En sortant du couvent... Quand je commen�ai � vivre avec vous.
+
+
+ARISTE.
+
+Mes soup�ons ne peuvent tomber que sur peu de personnes...
+Encore une fois, Julie, je sais ce qui se passe; et,
+d'avance, je puis vous r�pondre que votre amour est pay� du
+plus tendre retour, que l'on d�sire de vous obtenir, avec
+l'ardeur la plus vive et la plus constante.
+
+
+JULIE.
+
+Si vous devinez juste, mon sort ne sauroit �tre plus heureux.
+
+
+ARISTE.
+
+Je ne crois pas me tromper; mais, apr�s les assurances que je
+vous donne, quelle raison auriez-vous encore de me taire son
+nom? N'est-ce pas une chose qu'il faut que je sache, t�t ou
+tard, puisque mon consentement vous est n�cessaire?
+
+
+JULIE.
+
+Ce seroit � vous � le nommer... Je vois bien que vous ne
+m'entendez pas.
+
+
+ARISTE.
+
+Je vous entends, sans doute; et je le nommerois si je n'avois
+pas m�rit� d'avoir plus de part � votre confidence.
+
+
+JULIE.
+
+Vous l'auriez cette confidence, si je n'�tois pas certaine que
+vous combattrez mes sentiments.
+
+
+ARISTE.
+
+Moi, les combattre! Suis-je donc si intraitable! Pouvez-vous
+douter de mon coeur? Croyez que je n'aurai point de volont� que
+la v�tre. J'en ferai serment, s'il le faut.
+
+
+JULIE.
+
+Puisque vous le voulez, je vais donc t�cher de m'expliquer
+mieux.
+
+
+ARISTE.
+
+Parlez.
+
+
+JULIE.
+
+Mais je pr�vois qu'apr�s je ne pourrai plus jeter les yeux sur
+vous.
+
+
+ARISTE.
+
+Cela n'arrivera pas, car je serai de votre sentiment.
+
+
+JULIE.
+
+Non, apr�s un tel aveu, permettez que je me retire.
+
+
+ARISTE.
+
+Volontiers.... Mais ne craignez rien, encore un coup. Nommez-le
+moi; vous me verrez aller, de ce pas, assurer de mon
+consentement celui que vous avez choisi.
+
+
+JULIE.
+
+Vous le trouverez ais�ment; je vais vous laisser avec lui....
+Repr�sentez-lui qu'il est peu convenable � une fille de se
+d�clarer la premi�re; d�terminez-le � m'�pargner cette
+honte.... Je vous laisse avec lui.... C'est, je crois, vous le
+faire conno�tre d'une fa�on � ne pas vous y m�prendre.
+
+(Elle veut se retirer; mais elle voit venir le marquis, ce
+qui la fait rester.)
+
+
+
+SCENE IX
+
+
+LE MARQUIS, ARISTE, JULIE.
+
+
+ARISTE, � part.
+
+Ne sommes-nous pas seuls?... Que penser de ce discours?
+
+
+LE MARQUIS, � part, au fond du th��tre.
+
+Je les trouve fort � propos ensemble.
+
+
+JULIE, � part.
+
+Que vient faire ici le marquis?.... Le f�cheux contre-temps!
+
+
+LE MARQUIS, � Julie.
+
+Je vous trouve donc, divine personne?... (A Ariste.) Eh bien!
+seigneur Ariste, mon oncle m'a rapport� que vous agissiez en
+galant homme. Tout est convenu, sans doute.
+
+
+ARISTE, � part.
+
+Je ne l'avois pas vu d'abord; mais voil� l'�nigme expliqu�e.
+
+
+LE MARQUIS.
+
+Mais quel pr�sage funeste! L'un parle tout seul et ne me
+r�pond pas; l'autre d�tourne la t�te et me fait un clin
+d'oeil. Comment interpr�ter tout ceci?
+
+
+JULIE.
+
+Un clin-d'oeil! Qui? moi, monsieur?
+
+
+LE MARQUIS.
+
+Oui, ma charmante. Qu'en dois-je augurer? Mon oncle auroit-il
+fait un faux rapport? auroit-on jur� de traverser nos feux?
+Parlez.... (A Ariste.) Ah! seigneur Ariste, dissipez une
+inqui�tude mortelle.
+
+
+JULIE, � part.
+
+Que je suis malheureuse!
+
+
+ARISTE.
+
+Vous avez lieu d'�tre, tous deux, contents; rien ne s'oppose
+� vos d�sirs, la volont� de Julie est une loi pour moi.... (Au
+marquis.) Et, � votre �gard, monsieur, l'amiti� que j'ai
+toujours eue pour votre oncle est trop intime pour que je ne
+consente pas volontiers � ce qui peut en resserrer les noeuds.
+
+
+LE MARQUIS.
+
+Vous nous rendez la vie. Vous �tes un homme charmant, divin,
+adorable. Je vous sais bon gr� de n'avoir pas d'ent�tement
+ridicule et de conno�tre que je vaux quelque chose.
+
+
+ARISTE.
+
+Vous appartenez � de trop honn�tes gens pour ne pas esp�rer
+que vous rendrez une femme heureuse.
+
+
+LE MARQUIS.
+
+Ecoutez donc, nous sommes jeunes, riches; nous nous aimerons
+: il faudroit qu'une influence bien maligne tomb�t sur nous
+pour nous rendre malheureux. Il est vrai que le diable s'en
+m�le quelquefois.
+
+
+ARISTE.
+
+Je vais trouver Orgon, et lui apprendre que tout va selon ses
+intentions..... Nous reviendrons bient�t, pour prendre les
+arrangements n�cessaires.... (A Julie, en montrant le
+marquis.) Monsieur voudra bien vous tenir compagnie, Julie,
+pendant le peu de temps que je suis oblig� de vous quitter.
+
+
+LE MARQUIS.
+
+Allez, allez, monsieur, je me charge de ce soin.
+
+
+(Ariste sort.)
+
+
+
+
+SCENE X.
+
+
+JULIE, LE MARQUIS.
+
+
+LE MARQUIS, � demi-voix.
+
+Voil� une petite personne bien contente.
+
+
+JULIE.
+
+Tout-�-fait, monsieur. Je vous prie de vouloir bien me dire ce
+que tout ceci signifie.
+
+
+LE MARQUIS.
+
+Comment! vous le dire? La chose est, je crois, assez claire.
+On comble nos voeux, on nous marie.
+
+
+JULIE.
+
+On nous marie?.. Dites-moi donc quel rapport, quelle liaison
+il y a entre vous et moi?
+
+
+LE MARQUIS.
+
+Je ne sais si je me trompe, mais je me suis flatt� qu'il y en
+avoit tant soit peu.
+
+
+JULIE.
+
+Et vous auriez os� faire parler � Ariste sur cette confiance?
+
+
+LE AMRQUIS.
+
+Assur�ment. En �tes-vous f�ch�e? Je ne le crois pas. Je sais
+que c'est � l'amant � faire des d�marches. Une fille aimeroit
+passionn�ment qu'une biens�ance mal entendue lui prescrit de
+se taire; aussi, quand on est instruit du bel usage, on lui
+�pargne la peine de se d�clarer. Vos yeux ont trop su me
+parler pour que je demeurasse dans l'inaction; et, si vous
+voulez m'ouvrir votre coeur, vous conviendrez que vous m'en
+savez quelque gr�.
+
+
+JULIE.
+
+En v�rit�, monsieur, un pareil discours me semble bien
+extraordinaire.
+
+
+LE MARQUIS.
+
+Oh ��! si vous voulez que nous soyons amis, il faut vous
+d�faire de cette retenue hors de saison. Que diable! quand on
+se convient, et que les tuteurs, les oncles et tous ces
+animaux-l� consentent, � quoi bon se contraindre?
+
+
+JULIE.
+
+Si l'on consent de votre c�t�, je puis vous assurer qu'il n'en
+est pas de m�me du mien.
+
+
+LE MARQUIS.
+
+Quoi! votre tuteur ne vient pas, dans le moment, de me
+t�moigner le plaisir que lui fait notre union?
+
+
+JULIE.
+
+Il est dans l'erreur, et je l'en aurois d�j� d�sabus� si la
+surprise o� je suis me l'avoit permis.
+
+
+LE MARQUIS.
+
+Quel est donc votre dessein? Avez-vous envie qu'il s'oppose �
+ce que vous d�sirez vous-m�me?
+
+
+JULIE.
+
+Mais, encore une fois, sur quel fondement vous �tes-vous
+imagin� ce d�sir de ma part?
+
+
+LE MARQUIS.
+
+La question est charmante! Savez-vous bien qu'� la fin je me
+f�cherai?
+
+
+JULIE.
+
+Mais vraiment, vous vous f�cherez si vous voulez. Soyez
+persuad� que je n'ai, de ma vie, pens� � vous.
+
+
+LE MARQUIS.
+
+C'est une fa�on de parler.
+
+
+JULIE.
+
+Non; vous pouvez prendre ce que je dis � la lettre.
+
+
+LE MARQUIS.
+
+Allons, allons, je sais ce que j'en dois croire.
+
+
+JULIE.
+
+Ne poussez pas, croyez-moi, plus loin l'extravagance.
+
+
+LE MARQUIS.
+
+Ne soyez pas plus long-temps cruelle � vous-m�me.
+
+
+JULIE.
+
+Finissons, de gr�ce.
+
+
+LE MARQUIS.
+
+Franchement, vous croyez donc ne me point aimer?
+
+
+JULIE.
+
+Je le crois, et rien n'est plus certain.
+
+
+LE MARQUIS.
+
+Je vous permets de me ha�r toujours de m�me.
+
+
+JULIE.
+
+Je ne puis plus soutenir un pareil entretien.
+
+
+LE MARQUIS.
+
+Un coeur qui ne sent point son mal est dangereusement atteint.
+
+
+JULIE, � part.
+
+La fatuit� est un ridicule bien insupportable.
+
+
+LE MARQUIS, � part.
+
+Cette fille prend plaisir � se donner la torture.
+
+
+
+
+SCENE XI.
+
+
+ARISTE, ORGON, JULIE, LE MARQUIS.
+
+
+ORGON, � Ariste, au fond du th��tre.
+
+Ce que vous me dites l� me faut un grand plaisir.... (Montrant
+Julie et le marquis.) Les voil�, ces pauvres enfants! Que
+l'on passe d'heureux moments � cet �ge!
+
+
+ARISTE.
+
+Je ne perds point de temps, comme vous voyez: mon
+empressement vous prouve combien je suis sensible � cet
+honneur.
+
+
+ORGON.
+
+Je suis d'avis que l'on dresse le contrat aujourd'hui. L'id�e
+d'une noce me ragaillardit; et quoique la mode des violons
+soit pass�e, il faut en avoir et suivre la mani�re
+bourgeoise... (S'apercevant du trouble o� sont Julie et le
+marquis.) Mais, il me semble que nos amants se boudent.... (Au
+marquis, en s'approchant.) Qu'as-tu donc, Val�re? te voil�
+tout r�veur.
+
+
+LE MARQUIS.
+
+Une bagatelle, mon oncle.
+
+
+ARISTE, � Julie, en s'approchant aussi.
+
+Et vous, Julie, quel est le trouble o� je vous vois?
+
+
+JULIE.
+
+Vous �tres dans l'erreur � mon �gard. Je vous y ai laiss�,
+parce que je n'ai point cru que les cons�quences en seroient
+si promptes, ni si s�rieuses: mais je me trouve forc�e de
+vous dire que vous ne m'avez point entendue.
+
+
+ARISTE.
+
+Comment?
+
+
+ORGON.
+
+Qu'est-ce que cela veut dire?
+
+
+LE MARQUIS, � Julie.
+
+Il n'est pas mal de le prendre sur ce ton! et c'est bien �
+vous � vous plaindre vraiment.... (A Ariste et Orgon.) Il est
+bon que vous sachiez que nous avons eu quelque altercation
+ensemble. Mademoiselle, sur un mot, se r�volte, et fait la
+m�chante.
+
+
+ORGON.
+
+Oh! n'est-ce que cela? Bon! bon! ce sont l� de ces orages
+qui m�nent les amants au port.
+
+
+ARISTE, � Julie.
+
+Ne vous repentez point de vous �tre d�clar�e. Il ne faut
+point, ma ch�re Julie, passer si promptement d'un sentiment �
+un autre. Votre querelle est une querelle d'amiti�.
+
+
+LE MARQUIS.
+
+Faites-lui un peu sa le�on, je vous prie, monsieur.
+
+
+ORGON, � Julie et au marquis.
+
+Allons, allons, mes enfants, raccommodez-vous.
+
+
+JULIE.
+
+Laissez-moi, de gr�ce! Vous prenez un soin inutile.
+
+
+ARISTE.
+
+Julie, je vous en conjure! faites cesser ce myst�re.
+
+
+JULIE.
+
+Non, monsieur. Contre toute raison, j'ai fait voir le foible
+de mon coeur: j'ai fait conno�tre celui pour qui je me
+d�clarois; mais ses interpr�tations fausses, la conduite
+qu'il observe avec moi m'avertissent assez que je n'en ai que
+trop dit.
+
+(Elle sort.)
+
+
+
+
+SCENE XII.
+
+
+ARISTE, ORGON, LE MARQUIS.
+
+
+ORGON, au marquis.
+
+Pourquoi donc vous attirer ces reproches? Il faut que vous lui
+ayez donn� des sujets violents de se plaindre.
+
+
+LE MARQUIS.
+
+Non; cela m'�tonne. La brouillerie est venue sue ce qu'elle
+m'a dit qu'il n'y avoit jamais eu de liaison sinc�re entre
+elle et moi, et qu'il ne falloit point compter sur les
+discours des jeunes gens aimables.
+
+
+ORGON.
+
+Entre nous, tu as un air libertin qui ne me persuaderoit
+point, si j'�tois fille.
+
+
+LE MARQUIS.
+
+Que voulez-vous, mon oncle? je ne me referai point. On a des
+fa�ons ais�es; on a du brillant: tout cela est naturel....
+Mais quant � Julie, je la demande en mariage: n'est-ce pas
+assez lui prouver que je l'aime? Il faut qu'un joli homme soit
+furieusement �pris pour former une pareille r�solution.
+
+
+ORGON.
+
+A la v�rit�, je ne con�ois pas qu'une fille puisse d�sirer
+quelque chose au-del� du mariage.... (A Ariste.) Mais, que
+dites-vous � tout cela, Ariste?
+
+
+ARISTE.
+
+Franchement, je ne sais. Il me vient diff�rentes id�es qui se
+d�truisent les unes les autres. Ce que je vois, ce que
+j'entends, semble se contredire, et.... (Au marquis.) Mais, ce
+ne peut �tre que vous qu'elle aime?
+
+
+LE MARQUIS.
+
+Eh! vraiment non. Je le sais bien.
+
+
+ARISTE.
+
+Elle craint, comme vous dites, que votre passion pour elle ne
+soit pas sinc�re, et que vous ne soyez aussi inconstant que la
+plupart des jeunes gens, qui font profession de l'�tre?
+
+
+LE MARQUIS.
+
+Tout juste.
+
+
+ARISTE.
+
+Et elle s'exhale en reproches, parce que vous n'avez pas �t�
+assez prompt � la rassurer?
+
+
+LE MARQUIS.
+
+Je lui ai pourtant r�p�t� cent fois que nous �tions faits l'un
+pour l'autre: mais il ne faut pas que cela vous surprenne;
+c'est le tourment d'un coeur bien �pris de toujours douter de
+son bonheur.
+
+
+ORGON, � Ariste.
+
+Il est vrai qu'elle ne le croit pas o� elle le voit.
+
+
+
+
+SCENE XIII.
+
+
+LISETTE, ARISTE, ORGON, LE MARQUIS.
+
+
+LISETTE, � Ariste.
+
+Que s'est-il donc pass� ici, monsieur, et qui peut avoir si
+fort chagrin� Julie? Elle est dans une tristesse que je ne
+puis vous exprimer: elle parle de retourner au couvent. Je la
+questionne; elle ne me r�pond que par des soupirs. Enfin,
+elle m'envoie vous demander si, avec la permission de ces
+messieurs, elle pourrait vous entretenir un moment?
+
+
+ARISTE.
+
+Je l'entendrai tant qu'il lui plaira.
+
+
+LE MARQUIS, chantant.
+
+"Divin Bacchus!... La, la, la!"
+
+
+ORGON.
+
+Je donnerois, je crois, mon bien, pour �tre aim� de la sorte.
+Tu ne sens pas ton bonheur, mon neveu.
+
+
+LISETTE.
+
+Il faut bien que monsieur votre neveu lui ait donn� quelque
+sujet de m�contentement; car elle s'est �cri�e plusieurs fois:
+"Ah! dans quel trouble me jette ce Val�re! Qu'il me cause
+d'embarras et de peine! Quel supplice d'aimer sans retour!"
+
+
+ORGON, � part.
+
+La pauvre enfant!
+
+
+LE MARQUIS.
+
+Je suis f�ch� qu'elle ne me croie pas sur ma parole.
+
+
+LISETTE.
+
+Allez, cela est mal � vous, monsieur. Les hommes sont bien
+ingrats et bien insensibles. H�las! elle avoit beau me dire
+qu'elle ne vous aimoit pas, j'ai toujours bien remarqu�, moi,
+ce qui en �toit, et cela n'est que trop vrai pour elle.
+
+
+LE MARQUIS.
+
+Crois-moi, mon enfant, elle n'est pas la premi�re.
+
+
+ORGON.
+
+Ecoutez, Val�re. Je suis d'avis que vous alliez trouver cette
+aimable personne, que vous lui juriez encore que vous �tes
+p�n�tr� de sa beaut� et de son m�rite; enfin, que vous ne la
+laissiez pas dans un trouble que vous pouvez dissiper.
+
+
+LE MARQUIS.
+
+Ah! que me demandez-vous? Faut-il que je redise un million de
+fois la m�me chose? Non, je ne le puis. Je suis piqu� aussi de
+mon c�t�.
+
+
+ORGON.
+
+Quoi! vous faites le cruel?
+
+
+LISETTE, � part.
+
+Est-il possible que l'impertinence soit un titre pour �tre
+aim�?
+
+
+ARISTE, au marquis.
+
+Julie �tant forc�e, par son ascendant, � se d�clarer pour
+vous, il ne vous sied pas, monsieur, d'user de rigueur. Etre
+aim� est un bien digne d'envie, et le plus bel apanage de
+l'humanit�; mais c'est en abuser que de manquer d'�gards pour
+les personnes qui nous rendent hommage, et de ne pas �pargner
+� un sexe plein de charmes jusqu'� la moindre inqui�tude.
+
+
+ORGON.
+
+C'est aussi mon sentiment.
+
+
+LE MARQUIS, � Ariste.
+
+Je sais comment on doit conduire une passion.
+
+
+ARISTE, � Lisette.
+
+Lisette, dites � Julie que je l'attends ici.
+
+
+(Lisette sort.)
+
+
+
+
+SCENE XIV.
+
+
+ARISTE, ORGON, LE MARQUIS.
+
+
+ORGON, � Ariste.
+
+Puisqu'elle veut vous parler en particulier, nous allons vous
+laisser libres. T�chez, dans cet entretien, de lui remettre
+l'esprit et de l'assurer que mon neveu est bien son petit
+serviteur.
+
+
+LE MARQUIS, � Ariste.
+
+Oui, l'on peut toujours compter sur moi: on y peut compter.
+Nous reviendrons savoir de quoi elle vous aura entretenu.
+
+(Il sort avec Orgon.)
+
+
+
+
+SCENE XV.
+
+
+ARISTE, seul.
+
+
+L'homme le plus en garde contre la pr�somption est encore bien
+foible de ce c�t�-l�. J'ai pu interpr�ter deux fois en ma
+faveur les paroles de Julie. Oui, Ariste, tu as beau en
+rougir, il t'est venu deux fois en id�e qu'on te faisoit une
+d�claration d'amour. A toi! � toi! Oh! quelle extravagance
+! quelque myst�rieuse que soit sa conduite, je n'en saurois
+douter, ce neveu d'Orgon a su lui plaire. Il y a bien quelque
+chose � dire contre lui, et parmi tant de jeunes gens aimables
+que le hasard pr�sente � Julie, j'avoue qu'elle auroit pu
+mieux choisir. Elle a assez d'esprit pour s'en apercevoir
+elle-m�me; et c'est, si je ne me trompe, un combat de raison
+et d'amour qui cause en elle tant d'ind�cision. (Voyant
+paro�tre Julie.) Mais la voil�.
+
+
+
+
+SCENE XVI.
+
+
+JULIE, ARISTE.
+
+
+JULIE.
+
+Vous me voyez revenir, monsieur, quoique je vous aie quitt�
+avec assez de vivacit�. J'ai fait r�flexion que ce pouvoit
+�tre un sage motif dans celui que je veux avoir pour �poux,
+qui le fait douter de mon penchant. Je voudrois r�pondre aux
+objections qu'il pourroit me faire, et l'assurer combien il
+est digne de mon estime.
+
+
+ARISTE.
+
+Je n'ai pas bien compris quelle esp�ce de dispute il pouvoit y
+avoir entre vous et le marquis, mais je ne puis que vous
+engager tous deux � vous r�concilier au plus t�t. La sympathie
+est une loi imp�rieuse � laquelle on veut en vain se
+soustraire, et quelque r�flexion que la raison nous inspire,
+il faut c�der au trait qui nous a frapp�s, quand le destin le
+veut.
+
+
+JULIE, � part.
+
+Il est toujours dans l'erreur, et je n'ose encore l'en tirer.
+
+
+ARISTE.
+
+Me sera-t-il permis de le dire? Je sens bien ce qui fait votre
+peine. Vous craignez que le monde ne soit pas aussi convaincu
+du m�rite du marquis que vous l'�tes; et, � mon �gard, il
+faudroit qu'il f�t plus parfait pour qu'il me par�t digne de
+vous. Mais enfin le penchant que vous avez pour lui me le fait
+respecter, et le justifie devant moi de tous ses d�fauts.
+
+
+JULIE.
+
+Vous me conseillez donc de le prendre pour �poux?
+
+
+ARISTE.
+
+Je vous conseille, comme j'ai toujours fait, de ne consulter
+que votre coeur.
+
+
+JULIE.
+
+Si vous me conseillez de ne consulter que mon coeur, je suivrai
+votre avis. Je suis, pour la derni�re fois, r�solue de
+d�couvrir mes v�ritables sentiments; mais comme il en co�te
+toujours infiniment � les d�clarer, je cherche quelque
+innocent stratag�me, et je pense qu'une lettre m'�pargneroit
+une partie de ma honte.
+
+
+ARISTE.
+
+Eh bien! �crivez. Il est permis d'�crire � un homme que l'on
+est sur le point d'�pouser. Une lettre, effectivement,
+expliquera ce que vous n'auriez peut-�tre pas la force de dire
+de bouche, et l'explication est n�cessaire apr�s le petit
+d�m�l� que vous avez eu ensemble.
+
+
+JULIE.
+
+J'exigerois encore de votre complaisance que vous
+l'�crivissiez pour moi.
+
+
+ARISTE.
+
+Volontiers.
+
+
+JULIE.
+
+Je suis pr�te � la dicter.
+
+
+ARISTE, montrant un bureau, devant lequel il va s'asseoir.
+
+Voil�, sur ce bureau, tout ce qu'il faut pour cela. (A part.)
+Le marquis, apr�s tout, est homme de condition, et s'il a
+quelques d�fauts, l'�ge l'en corrigera. (A Julie.) Allons,
+dictez, me voil� pr�t.
+
+
+JULIE, dictant.
+
+"Vous �tre trop intelligent pour ne pas savoir le secret de
+mon coeur."
+
+
+ARISTE, lisant, apr�s avoir �crit.
+
+"De mon coeur."
+
+
+JULIE, dictant.
+
+"Mais un exc�s de modestie vous emp�che d'en convenir."
+
+
+ARISTE, apr�s avoir �crit.
+
+Bon!
+
+
+JULIE, dictant.
+
+"Tout vous fait voir que c'est vous que j'aime."
+
+
+ARISTE, apr�s avoir �crit.
+
+Fort bien.
+
+
+JULIE.
+
+Oui, c'est vous que j'aime... M'entendez-vous?
+
+
+ARISTE.
+
+J'ai bien mis.
+
+
+JULIE, dictant.
+
+"Je vous suis d�j� attach�e par la reconnoissance."
+
+
+ARISTE, � part.
+
+De la reconnaissance au marquis?
+
+
+JULIE.
+
+Ecrivez donc, monsieur.
+
+
+ARISTE.
+
+Allons. (A part.) Il faut �crire ce qu'elle veut. (Lisant,
+apr�s avoir �crit.) "Par la reconnoissance."
+
+
+JULIE, dictant.
+
+"Mais j'y joins un sentiment d�sint�ress�."
+
+
+ARISTE, lisant, apr�s avoir �crit.
+
+"D�sint�ress�."
+
+
+JULIE.
+
+"Et pour vous prouver que vous devez bien plus � mon
+penchant...."
+
+
+ARISTE, apr�s avoir �crit.
+
+Apr�s?
+
+
+JULIE.
+
+"Je voudrais n'avoir point re�u de vous tant de soins
+g�n�reux dans mon enfance."
+
+
+ARISTE, sans �crire.
+
+Y pensez-vous, Julie?... (A Part.) L'ai-je entendu, ou si
+c'est une illusion?
+
+
+JULIE, � part.
+
+Pourquoi ai-je rompu le silence? Je me doutois bien qu'il
+recevroit mal un pareil aveu!
+
+
+ARISTE, se levant.
+
+Julie!
+
+
+JULIE.
+
+Ariste!
+
+
+ARISTE.
+
+A qui donc �crivez-vous cette lettre?
+
+
+JULIE.
+
+C'est au marquis, sans doute.
+
+
+ARISTE.
+
+Il ne faut donc point parler des soins de votre enfance. Ce
+seroit un contre-sens.
+
+
+JULIE.
+
+J'ai tort.... je l'avoue; et cela ne sauroit lui convenir.
+
+
+ARISTE.
+
+C'est donc par distraction que cela vous est �chapp�?
+
+
+JULIE.
+
+Assur�ment. Les bienfaits n'�tant point � lui, il n'en doit
+point recueillir le salaire.
+
+
+ARISTE.
+
+Voyez donc ce que vous voulez substituer � cela?
+
+
+JULIE.
+
+J'en ai assez dit pour me faire entendre.
+
+
+ARISTE.
+
+En ce cas, il ne s'agit donc que de finir le billet par un
+compliment ordinaire, et de l'envoyer de votre part?
+
+
+JULIE.
+
+Envoyez-le, de ma part, puisque vous croyez que je doive le
+faire.
+
+
+ARISTE, appelant.
+
+Hol�! quelqu'un....
+
+
+
+
+SCENE XVII.
+
+
+UN LAQUAIS, ARISTE, JULIE.
+
+
+ARISTE, au laquais.
+
+Portez ce billet....
+
+
+(Julie fait un geste, comme pour emp�cher qu'Ariste ne donne
+la lettre au laquais.)
+
+
+ARISTE, � Julie.
+
+N'est-ce pas au marquis?
+
+
+JULIE, d'un ton piqu�.
+
+Oui, monsieur; encore une fois, qui peut vous arr�ter?
+
+
+ARISTE, au laquais.
+
+Tenez donc.... Portez cette lettre � Val�re.
+
+
+(Le laquais sort.)
+
+
+
+
+SCENE XVIII.
+
+
+ARISTE, JULIE.
+
+
+JULIE, � part.
+
+De quel trouble suis-je agit�e?
+
+
+ARISTE, � part.
+
+Quels coups redoubl�s attaquent ma raison!
+
+
+JULIE, � part.
+
+Je ne puis prendre sur moi d'en dire davantage.
+
+
+ARISTE, � part.
+
+Toute ma prudence �choue.
+
+
+JULIE, � part.
+
+Il d�sapprouve la passion la plus pure.... Je meurs de
+confusion.
+
+
+
+
+SCENE XIX.
+
+
+LISETTE, ARISTE, JULIE.
+
+
+LISETTE, � part.
+
+La conversation me paro�t termin�e... (A Ariste.) Orgon, qui
+est l�-dedans, monsieur, est impatient de savoir le r�sultat
+de votre entretien, et demande s'il peut paro�tre � pr�sent.
+
+
+ARISTE, � part.
+
+Ce n'est qu'en me retirant que je puis cacher ma d�faite.
+
+(Il sort.)
+
+
+
+
+SCENE XX.
+
+
+JULIE, LISETTE.
+
+
+LISETTE, � part.
+
+Ah! ah! voil� qui est singulier!... (A Julie.) Pourquoi
+donc, mademoiselle, se retire-t-il ainsi sans me r�pondre?
+
+
+JULIE, � part.
+
+Son m�pris pour moi est-il assez marqu�?
+
+(Elle sort.)
+
+
+SCENE XXI.
+
+
+LISETTE, seule.
+
+Fort bien! autant de raison d'un c�t� que de l'autre. D'o�
+cela peut-il provenir? Il me vient dans l'esprit....
+N'aimeroit-elle pas Val�re? Auroit-elle fait � Ariste l'aveu
+de quelque passion bizarre, que le bon monsieur, malgr� sa
+complaisance, n'aura pas pu approuver? Quelle honte que je ne
+sois pas mieux instruite! Suivante et curieuse, autant et
+plus qu'une autre, je ne saurai pas le secret de ma ma�tresse?
+Oh! je le saurai, assur�ment! C'est un affront que je ne
+puis plus endurer.... (Voyant revenir Ariste.) Ariste revient,
+plong� dans une profonde r�verie.... Je ne laisse plus Julie
+en repos qu'elle ne m'ait avou� son foible... Elle m'en fera
+la confidence, ou me donnera mon cong�.
+
+(Elle sort.)
+
+
+
+
+SCENE XXII.
+
+
+ARISTE, seul.
+
+Non, � rappeler de sang-froid ce qui s'est pass�, son
+intention n'�toit pas d'�crire � Val�re. Mais quelle
+cons�quence en tirer?... Quoi! Julie, il seroit possible
+qu'Ariste e�t obtenu quelque empire sur vous! Ah! Julie,
+Julie, si ma raison ne m'e�t pas soutenu contre l'effet de vos
+charmes, pensez-vous que je n'eusse pas �t� le premier � me
+d�clarer pour vous? Avez-vous cru que je vous visse
+impun�ment? Non, non.... Mais plus votre m�rite m'a paru
+accompli, et plus j'ai trouv� de motifs d'�touffer dans mon
+coeur la passion que vous y faisiez na�tre.... Ciel! quelle
+est ma foiblesse? Os�-je croire qu'elle pense � moi?...
+Allons, rendons-nous justice, une bonne fois; et convenons
+que, pour quelques apparences, il y a cent raisons qui
+d�truisent une id�e aussi ridicule.
+
+
+
+
+SCENE XXIII.
+
+
+ORGON, ARISTE.
+
+
+ARISTE.
+
+Je vous attends, Orgon, pour vous dire que les choses me
+paroissent moins avanc�es que jamais.
+
+
+ORGON.
+
+Que diable est-ce que tout ceci? On n'a gu�re vu d'amants plus
+difficiles � accorder. Dites-moi donc de quoi il est question?
+Il faut que votre conversation n'ait pas �t� du go�t de Julie;
+car je l'ai vue passer tout-�-l'heure: le d�pit �toit peint
+sur son visage; mais, ma foi, elle n'en �toit que plus belle.
+
+
+ARISTE.
+
+Ce que je puis vous dire, c'est qu'apr�s bien des r�flexions,
+je ne crois pas que le marquis soit aussi bien aupr�s d'elle
+qu'il vous l'a fait entendre.
+
+
+ORGON.
+
+Oui.... Attendez donc, ceci m�rite examen.... Si les choses
+sont ainsi, je voudrois savoir � propos de quoi les d�marches
+qu'il m'a fait faire? Me prend-il pour une ben�t, un sot?
+Parbleu!....
+
+
+ARISTE, l'interrompant.
+
+Un homme tel que lui est excusable de se croire aim�.
+
+
+ORGON.
+
+Je suis votre serviteur.
+
+
+ARISTE.
+
+Il est enjou�, bien fait, et d'�ge....
+
+
+ORGON, l'interrompant.
+
+Oh! d'�ge, tant qu'il vous plaira. Son �ge est l'�ge o� l'on
+fait le plus d'impertinences; et je pr�tends, ne vous
+d�plaise....
+
+
+
+
+SCENE XXIV.
+
+
+LISETTE, ARISTE, ORGON.
+
+
+LISETTE, � part.
+
+A la fin je triomphe, et l'on ne m'en donnera plus �
+garder.... (A Ariste et � Orgon.) Messieurs, vous pouvez
+parler devant moi, je sais le secret aussi bien que vous. Je
+sais quel est le M�dor de notre Ang�lique.
+
+
+ORGON.
+
+As-tu d�brouill� le myst�re?
+
+
+LISETTE.
+
+Comment!... (A Ariste.) Est-ce qu'elle ne vous l'a pas dit, �
+vous, monsieur?
+
+
+ARISTE.
+
+Elle ne m'a rien dit de d�cisif.
+
+
+LISETTE.
+
+Tant mieux.... (A part.) Quelle f�licit� de savoir un secret,
+et de le savoir seule! On a le plaisir de l'apprendre � tout
+le monde.... (A Ariste.) Je l'ai tant press�e de m'avouer sur
+qui elle avoit jet� les yeux pour en faire son �poux qu'elle a
+c�d� � mes instances, et m'a r�pondu qu'il �toit triste pour
+elle de ne pouvoir se faire entendre, quoiqu'elle e�t parl�
+assez clairement; et que l'on devoit s'�tre aper�u qu'elle
+n'aimoit pas le marquis.
+
+
+ORGON.
+
+Eh bien?
+
+
+LISETTE.
+
+Qu'elle avoit, en g�n�ral, une antipathie mortelle pour les
+airs suffisants; qu'on ne trouvoit qu'inconsid�ration dans la
+plupart des jeunes gens, et que celui qui l'avoit fix�e �toit
+d'un �ge m�r.
+
+
+ORGON.
+
+Oui-d�!
+
+
+LISETTE.
+
+Que les amants pris dans leur automne �toient plus
+affectionn�s, plus complaisants, plus conformes � son humeur.
+
+
+ORGON.
+
+Elle a raison.
+
+
+LISETTE.
+
+Comme enfin elle s'est d�clar�e ouvertement contre le neveu,
+je me suis avis�e de parler de l'oncle....
+
+
+ORGON, l'interrompant.
+
+De moi?
+
+
+LISETTE.
+
+On ne m'en a pas d�dite. Un regard m�me m'a fait entendre ce
+qui en �toit, et un soupir m'en a rendu certaine.
+
+
+ORGON.
+
+Comment diable! Quoi! je.... Lisette, tu badines assur�ment.
+
+
+LISETTE.
+
+Non, monsieur. J'ai eu beau lui dore, sur-le-champ (car cela
+m'est �chapp�) que rien n'�toit si singulier qu'un pareil
+choix; que, personnellement, vous �tiez mal fait, cacochyme,
+goutteux. Tout cela n'a rien fait, elle a pris son parti.
+
+
+ORGON.
+
+Vous pouviez bien vous dispenser de lui dire cela.
+
+
+ARISTE.
+
+Sans doute. Je suis persuad� que l'esprit, la sagesse, la
+conduite sont les seules qualit�s qui puissent plaire � Julie
+; elle les trouve parfaitement rassembl�es chez Orgon.
+
+
+ORGON.
+
+Ecoutez donc, j'ai toujours �t� assez bien venu des femmes,
+moi.... Mais elle ne m'a pas nomm�. Je suis d'ailleurs plut�t
+dans mon hiver que dans mon automne. Par cet homme m�r
+n'entendroit-elle pas parler de vous, Ariste?
+
+
+ARISTE.
+
+De moi?
+
+
+LISETTE, � Orgon, en montrant Ariste.
+
+Bon! s'il s'agissoit de monsieur, il n'a pas d'apparence
+qu'apr�s tant d'entretiens secrets il l'ignor�t.... Qui plus
+est, je vous ai nomm�, et on ne m'a pas d�mentie. Non, vous
+dis-je, c'est vous, M. Orgon. La bizarrerie de son �toile l'a
+fait se d�clarer pour vous.
+
+
+ORGON, � part.
+
+Oh! parbleu! monsieur mon neveu, ceci va donc bien vous
+faire rire.... (Riant.) Ah! ah! ah! vous n'en t�terez, ma
+foi! que d'une dent.... (A Ariste et � Lisette.) N'�bruitons
+rien. Il faut le faire venir, et nous divertir un peu � ses
+d�pens.
+
+
+(On entend des instruments qui pr�ludent dans l'appartement
+voisin.)
+
+
+
+
+SCENE XXV.
+
+
+LE MARQUIS, ARISTE, ORGON, LISETTE.
+
+
+LE MARQUIS, vers la coulisse, aux musiciens qui sont dans
+l'appartement voisin, et que l'on ne voit pas.
+
+Oui, vous �tes bien sur ce ton-l�. Cela ira � merveille.
+Restez dans cette antichambre; je vous avertirai quand il
+sera temps.... (A Ariste.) Vous ne le trouverez, je crois, pas
+mauvais, monsieur? J'ai rencontr� quelques musiciens et
+quelques danseurs de ma connoissance, que j'ai amen�s avec
+moi, et qui doivent faire un impromptu, dont mon mariage sera
+le sujet .
+
+
+ARISTE.
+
+Il ne faut pas vous abuser plus long-temps, monsieur.
+
+
+ORGON, bas, � Lisette.
+
+Motus!
+
+
+ARISTE, au marquis.
+
+Julie n'�toit point n�e pour vous.
+
+
+LE MARQUIS.
+
+Pla�t-il, monsieur?
+
+
+ARISTE.
+
+C'est un autre que vous qu'elle est r�solue d'�pouser.
+
+
+LE MARQUIS.
+
+Un autre?
+
+
+ORGON.
+
+Oui, un autre.
+
+
+LE MARQUIS.
+
+Mon oncle appuie la chose bien s�rieusement... (Riant.) Ah!
+ah! ah!
+
+
+ORGON.
+
+Vous avez beau ricaner; c'est un autre, vous dit-on.
+
+
+LE MARQUIS.
+
+Fort bien, monsieur, fort bien!
+
+
+LISETTE.
+
+Et cet autre est quelqu'un � qui vous devez le respect.
+
+
+LE MARQUIS, ironiquement.
+
+Oh! qui que ce soit, je le respecte infiniment.
+
+
+ORGON.
+
+Vous �tes d'une bonne p�te, monsieur mon neveu, de venir me
+conter des sornettes, quand il n'est pas plus question de vous
+que de Jean-de-Vert.
+
+
+LE MARQUIS.
+
+Ah! de gr�ce, mon oncle, ne serrez pas tant la mesure. Vous
+m'alarmez.
+
+
+ORGON.
+
+Vous croyez que les femmes ne pensent qu'� vous autres
+�tourdis?
+
+
+LE MARQUIS.
+
+Elles y sont quelquefois forc�es.
+
+
+ORGON.
+
+Oh bien! il faut, pourtant, que vous en rabattiez.
+
+
+LE MARQUIS.
+
+Il faut que ce rival, quel qu'il soit, se pr�pare � �tre
+humili�; car, en tous cas, mon cher oncle, j'ai en poche de
+quoi le mortifier �trangement.
+
+
+ORGON.
+
+Eh! qu'est-ce que c'est?
+
+
+LE MARQUIS.
+
+Un billet, de la part de Julie.
+
+
+ORGON.
+
+Qui s'adresse � vous?
+
+
+LE MARQUIS.
+
+Oui; vous pouvez m'en croire. Billet, de la part de Julie,
+re�u dans le moment, rempli des sentiments les plus
+passionn�s, et qui reproche � la personne son exc�s de
+modestie.... C'est pour moi, comme vous voyez, � ne pouvoir
+s'y tromper.
+
+
+ORGON, � Ariste.
+
+Quel est donc ce billet dont il parle?
+
+
+ARISTE.
+
+Un billet que Julie a dict�, et que j'ai �crit moi-m�me.
+
+
+ORGON.
+
+Et elle �crivoit � Val�re?
+
+
+ARISTE.
+
+Il me l'a sembl�.
+
+
+ORGON.
+
+Que diantre, vous et Lisette, venez-vous donc me conter?
+
+
+LISETTE.
+
+Je n'y con�ois rien.
+
+
+ORGON.
+
+Ni moi.
+
+
+ARISTE, apr�s avoir h�sit� un moment.
+
+Ni moi.
+
+
+LE MARQUIS.
+
+On vous expliquera ais�ment tout cela dans un moment; on vous
+l'expliquera.... (A Orgon.) Eh bien! mon cher oncle, �tes-vous
+an�anti, p�trifi�?
+
+ORGON.
+
+Il faut voir jusqu'au bout.
+
+
+
+
+SCENE XXVI.
+
+
+JULIE, ARISTE, ORGON, LE MARQUIS, LISETTE.
+
+
+JULIE, � Ariste.
+
+Je ne puis m'emp�cher de vous demander, monsieur, pour quelle
+f�te on a rassembl� ici ce nombre infini de musiciens.
+
+
+LE MARQUIS.
+
+C'est moi qui les ai amen�s, mademoiselle, pour c�l�brer le
+plus beau de nos jours.... Mais on me tient ici des discours
+�tranges! Je vous prie d'�claircir hautement le fait. On dit
+qu'un autre que moi est le h�ros de la f�te.... (En riant.) Ah
+! rassurez-moi, de gr�ce.
+
+
+Orgon, � Ariste.
+
+Ecoutons.
+
+
+JULIE, au marquis.
+
+Les discours qu'on tient � pr�sent me touchent peu. Je renonce
+� tout engagement: mais il est vrai qu'un autre que vous
+avoit quelque empire sur mon coeur.
+
+
+ORGON, � part.
+
+Ah! ah!
+
+
+JULIE.
+
+C'est un empire qu'il m�prise.... Je ne prends plus le change
+sur sa conduite. La fiert� et la modestie gardent �galement le
+silence.
+
+
+ORGON, � part.
+
+J'entends bien le reproche.
+
+
+LE MARQUIS, � Julie.
+
+Quoi! d�guiseriez-vous toujours ce que vos yeux m'ont r�p�t�
+tant de fois, et ce que votre main vient de me confirmer?
+
+
+ORGON.
+
+Chanson.
+
+
+JULIE, au marquis.
+
+A l'�gard de la lettre, votre erreur est excusable. Aussi
+n'est-ce pas ma faute si elle vous a �t� envoy�e....
+Cependant, vous devez avoir vu clairement qu'elle n'�toit pas
+�crite pour vous.
+
+
+ORGON, au marquis.
+
+Cela est positif.
+
+
+LE MARQUIS.
+
+Voil� un petit caprice aussi bien conditionn�, et pouss� aussi
+loin.... Oh! qu'on me d�finisse � pr�sent les femmes!
+
+
+ORGON.
+
+Allez, allez, mademoiselle n'a point de caprices.... (A
+Julie.) Vos attraits sont brillants, adorable personne! et si
+fort au-dessus de tout ce que l'histoire et la fable nous
+vantent qu'il n'�toit pas naturel qu'un homme de soixante et
+dix ans....
+
+
+LE MARQUIS, l'interrompant.
+
+Qu'est-ce que dit donc mon oncle? Est-ce qu'il perd l'esprit?
+
+
+ORGON, � Julie.
+
+Il �toit, dis-je, peu naturel qu'un homme septuag�naire
+regard�t ces attraits comme un bien qui p�t lui devenir propre
+: mais, de m�me qu'Eson fut rajeuni par les charmes de M�d�e,
+vos charmes enchanteurs....
+
+
+LE MARQUIS, l'interrompant.
+
+Ah! mis�ricorde! Quoi! mon oncle a des pr�tentions? Il y a
+de quoi mourir de rire!
+
+
+JULIE, � Orgon.
+
+L'�ge, m�me aussi avanc� que le v�tre, n'est point un d�faut,
+selon moi, monsieur...
+
+
+ORGON, l'interrompant.
+
+Vous �tes bien obligeante.
+
+
+JULIE.
+
+Mais ce n'est pas non plus un m�rite assez recommandable pour
+qu'il me tienne lieu de l'inclination que je n'ai point pour
+vous.
+
+
+ORGON.
+
+Comment?
+
+
+LISETTE, � part.
+
+Que veut dire ceci?
+
+
+LE MARQUIS, � Orgon.
+
+Cela est positif, mon oncle, et tr�s positif.
+
+
+ORGON, � Julie.
+
+Excusez mon erreur. (A part.) Cette fille-l� a quelque chose
+d'extraordinaire.
+
+
+LE MARQUIS, riant.
+
+Ah! ah! ah!
+
+
+ARISTE, � part.
+
+Ce que je vois, et le souvenir de ce qui s'est pass�, me force
+� rompre le silence.
+
+
+LE MARQUIS.
+
+Qu'est-ce que c'est?
+
+
+ARISTE, � Julie, en se jetant � ses genoux.
+
+Ah! Julie, refusez donc aussi cet Ariste, qu'une passion
+sinc�re oblige � se jeter � vos genoux; qui, jusqu'� pr�sent,
+n'a os� se livrer � un espoir trop flatteur, ni vous d�couvrir
+ses sentiments, parce qu'il se croit cent fois indigne de
+vous, mais qui, de tous les hommes, est le plus passionn�.
+
+
+LE MARQUIS, �clatant de rire.
+
+Ah! monsieur veut aller aussi sur mes bris�es? Mais, mais
+l'aventure devient trop bouffonne.
+
+
+LISETTE, � part.
+
+Notre tuteur amoureux!
+
+
+JULIE, � Ariste.
+
+J'ai dit que je renon�ois � tout engagement...
+
+
+LE MARQUIS, l'interrompant.
+
+Oui, et dans le fond il n'en est rien.
+
+
+JULIE, � Ariste.
+
+Je viens de refuser Orgon et le marquis: l'un m'accuse de
+caprice, l'autre de singularit�. (En souriant.) Un troisi�me
+refus m'attireroit sans doute un reproche plus sensible. (Lui
+pr�sentant la main pour le relever.) J'accepte votre main,
+Ariste.
+
+
+ARISTE, se relevant.
+
+C'est in bonheur inattendu, auquel je me livre tout entier.
+
+
+ORGON, � part.
+
+Parbleu! j'en suis ravi, et pour cause. (Au marquis.) Eh bien
+! notre cher neveu, �tes-vous content du personnage que vous
+m'avez fait jouer ici?
+
+
+LE MARQUIS.
+
+Que voulez-vous, monsieur, que je vous dise? Le d�pit a fait
+faire des choses extraordinaires, et il y a, dans tout ceci,
+moins de changement qu'on ne se l'imagine.
+
+(Il va chercher les musiciens et les danseurs dans la
+coulisse.)
+
+
+
+
+SCENE XXVII.
+
+
+TROUPE DE MUSICIENS ET DE DANSEURS, ARISTE, JULIE, ORGON, LE
+MARQUIS, LISETTE.
+
+
+LE MARQUIS, aux musiciens et aux danseurs.
+
+Avancez, messieurs les musiciens et danseurs; avancez, et que
+la f�te aille son train.
+
+
+DIVERTISSEMENT.
+
+
+ARISTE, chantant.
+
+  La saine philosophie,
+  S�v�re sur nos d�sirs,
+  Nous porte � passer la vie
+  Loin des turbulents plaisirs:
+  Mais les jeux, enfants de la tendresse,
+  Peuvent �tre admis dans sa cour;
+  Et je pr�f�re la sagesse
+  Qui pare ses traits de l'Amour.
+
+
+(On danse.)
+
+
+VAUDEVILLE.
+
+
+ARISTE.
+
+  Du jeune et malheureux Atys,
+  Cyb�le envioit la conqu�te.
+  Anacr�on, aux cheveux gris,
+  De myrrhes couronnoit sa t�te.
+  En vain un tendre sentiment
+  D'H�b� semble �tre la partage;
+  Tant qu'on respire, on est amant.
+  L'amour est de tout �ge
+
+
+ORGON.
+
+  Je suis si vieux, j'ai si long-temps
+  Pr�s du beau sexe fait tapage,
+  Que je me croyois hors des rangs;
+  Mais, plus entreprenant qu'un page,
+  Dans le moment, il m'a suffi
+  D'entendre parler mariage:
+  Mon coeur acceptoit le d�fi.
+  L'amour est de tout �ge.
+
+
+LISETTE.
+
+  Je n'avois pas encor dix ans,
+  Qu'un espi�gle du voisinage,
+  En d�pit de nos surveillants,
+  Accouroit pour me rendre hommage.
+  Que se passoit-il entre nous?
+  Rien qu'un innocent badinage:
+  Mais, � grands dieux! qu'il �toit doux!
+  L'amour est de tout �ge.
+
+
+LE MARQUIS.
+
+  Si dans un cercle je parois,
+  La grande maman, la plus sage,
+  G�mit de n'avoir plus d'attraits,
+  La m�re affecte un doux langage;
+  La fille � marier rougit,
+  Et laisse tomber son ouvrage,
+  Celle � la bavette sourit.
+  L'amour est de tout �ge.
+
+
+JULIE.
+
+  Le vieillard est plein de bon sens;
+  Mais il est jaloux et sauvage.
+  Si le jeune a des agr�mens,
+  Il est fou, bizarre et volage.
+  Qu'il est difficile, en ce temps,
+  D'avoir un �poux qui soit sage!
+  S'ils peuvent l'�tre � quarante ans,
+  Le mien est du bon �ge.
+
+
+
+
+FIN DE LA PUPILLE.
+
+
+
+
+
+
+
+
+
+
+End of Project Gutenberg's La Pupille, by Christophe-Barth�lemi Fagan
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA PUPILLE ***
+
+***** This file should be named 26822-8.txt or 26822-8.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/6/8/2/26822/
+
+Produced by Daniel Fromont
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

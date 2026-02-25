@@ -1,3 +1,5165 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b5877b2756421b754f3fe7fa192d32bef26ec05b834e17398d82208f3a2f9d79
-size 161501
+ï»¿The Project Gutenberg EBook of L'autre Tartuffe, ou La mÃ¨re coupable, by 
+Pierre Augustin Caron de Beaumarchais
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: L'autre Tartuffe, ou La mÃ¨re coupable
+
+Author: Pierre Augustin Caron de Beaumarchais
+
+Release Date: January 3, 2011 [EBook #34841]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK L'AUTRE TARTUFFE ***
+
+
+
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images available at the BibliothÃ¨que nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+
+
+
+
+
+
+
+L'AUTRE TARTUFFE,
+
+OU
+
+LA MÃRE COUPABLE.
+
+
+
+
+AVIS DE L'IMPRIMEUR.
+
+
+Le Citoyen RONDONNEAU, propriÃ©taire de cette Ã©dition, la seule avouÃ©e
+par l'Auteur, prÃ©vient ses Concitoyens qu'il en a dÃ©posÃ© deux
+exemplaires Ã  la BibliothÃ¨que nationale, pour lui assurer l'exercice des
+droits que donne la loi du 19 juillet 1793, de poursuivre _tout
+contrefacteur, et tout distributeur d'Ã©dition contrefaite_.
+
+Il prÃ©vient en outre ses Concitoyens qu'il vient d'ouvrir la vente de ce
+qui reste des Åuvres de Voltaire, Ã©dition de Kell, _in-8.Âº_ et
+_in-12_: la premiÃ¨re en 70 volumes, la seconde en 92 volumes, ainsi que
+des diverses parties qui forment le complÃ©ment des exemplaires
+imparfaits.
+
+On trouvera de plus au DÃ©pÃ´t des Lois, place du Carrousel, 1.Âº des
+exemplaires de la correspondance de Voltaire, imprimÃ©e sÃ©parÃ©ment de ses
+Åuvres, en 19 volumes _in-8.Âº_ et en 23 volumes _in-12_; ces Ã©ditions
+particuliÃ¨res ont Ã©tÃ© faites pour ceux qui ont des Ã©ditions des
+Åuvres de Voltaire antÃ©rieures Ã  l'Ã©dition complette de Kell.
+
+2.Âº De la Henriade, 1 vol. _in-4.Âº_
+
+3.Âº De la Pucelle, 1 vol. _in-4.Âº_ ou 2 vol. _in-12._
+
+4.Âº Du Mariage de Figaro ou la Folle JournÃ©e, 1 vol. _in-8.Âº_
+
+La vente se fera au comptant. On trouvera au DÃ©pÃ´t le tableau des prix
+des diffÃ©rentes Ã©ditions, et les conditions du paiement, tant pour les
+Libraires que pour les Particuliers.
+
+On trouvera au mÃªme DÃ©pÃ´t la collection de toutes les estampes ou les
+portions sÃ©parÃ©es de toutes les parties incomplettes qui restent Ã 
+livrer.
+
+
+
+
+L'AUTRE TARTUFFE,
+
+ou
+
+LA MÃRE COUPABLE.
+
+DRAME EN CINQ ACTES, EN PROSE;
+
+PAR P. A. CARON-BEAUMARCHAIS.
+
+_Remis au ThÃ©Ã¢tre de la rue Feydeau, avec des changemens,
+et jouÃ© le 16 FlorÃ©al an V, (5 Mai 1797)
+par les anciens Acteurs du ThÃ©Ã¢tre FranÃ§ais._
+
+  On gagne assÃ©s dans les familles,
+  quand on en expulse un mÃ©chant.
+  _derniÃ¨re phrase de la PiÃ¨ce._
+
+ÃDITION ORIGINALE.
+
+A PARIS,
+
+CHEZ RONDONNEAU et Compagnie, au DÃ©pÃ´t des Lois, place du Carrousel.
+
+1797.
+
+
+
+
+UN MOT SUR LA MÃRE COUPABLE.
+
+
+Pendant ma longue proscription, quelques amis zÃ©lÃ©s avaient imprimÃ©
+cette PiÃ¨ce, uniquement pour prÃ©venir l'abus d'une contrefaÃ§on infidÃ¨le,
+furtive, et prise Ã  la volÃ©e pendant les reprÃ©sentations[1]. Mais ces
+amis eux-mÃªmes, pour Ã©viter d'Ãªtre froissÃ©s par les agens de la terreur,
+s'ils eussent laissÃ© leurs vrais titres aux personnages espagnols, (car
+alors tout Ã©tait pÃ©ril) se crurent obligÃ©s de les dÃ©figurer, d'altÃ©rer
+mÃªme leur langage, et de mutiler plusieurs scÃ¨nes.
+
+[1] Elle fut reprÃ©sentÃ©e, pour la premiÃ¨re fois, au ThÃ©Ã¢tre du
+Marais, le 26 Juin 1792.
+
+Honorablement rappelÃ© dans ma patrie, aprÃ¨s quatre annÃ©es d'infortunes,
+et la PiÃ¨ce Ã©tant dÃ©sirÃ©e par les anciens Acteurs du ThÃ©Ã¢tre franÃ§ais,
+dont on connaÃ®t les grands talens; je la restitue en entier dans son
+premier Ã©tat. Cette Ã©dition est celle que j'avoue.
+
+Parmi les vues de ces artistes, j'entre dans celle de prÃ©senter, en
+trois sÃ©ances consÃ©cutives, tout le roman de la famille _Almaviva_,
+dont les deux premiÃ¨res Ã©poques ne semblent pas, dans leur gaÃ®tÃ© lÃ©gÃ¨re,
+offrir de rapport bien sensible avec la profonde et touchante moralitÃ©
+de la derniÃ¨re; mais qui, dans le plan de l'auteur, ont une connexion
+intime, propre Ã  verser le plus vif intÃ©rÃªt sur les reprÃ©sentations de
+_la MÃ¨re coupable_.
+
+J'ai donc pensÃ© avec les ComÃ©diens, que nous pouvions dire au Public:
+AprÃ¨s avoir bien ri, le premier jour, _au Barbier de SÃ©ville_, de la
+turbulente jeunesse _du Comte Almaviva_, laquelle est Ã -peu-prÃ¨s celle
+de tous les hommes:
+
+AprÃ¨s avoir, le second jour, gaÃ®ment considÃ©rÃ©, _dans la Folle journÃ©e_,
+les fautes de son Ã¢ge viril, et qui sont trop souvent les nÃ´tres:
+
+Par le tableau de sa vieillesse, et voyant _la MÃ¨re coupable_, venez
+vous convaincre avec nous, que tout homme qui n'est pas nÃ© un
+Ã©pouvantable mÃ©chant, finit toujours par Ãªtre bon, quand l'Ã¢ge des
+passions s'Ã©loigne, et sur-tout quand il a goÃ»tÃ© le bonheur si doux
+d'Ãªtre pÃ¨re! c'est le but moral de la PiÃ¨ce. Elle en renferme plusieurs
+autres que ses dÃ©tails feront sortir.
+
+Et moi, l'Auteur, j'ajoute ici: Venez juger _la MÃ¨re coupable_, avec le
+bon esprit qui l'a fait composer pour vous. Si vous trouvez quelque
+plaisir Ã  mÃªler vos larmes aux douleurs, au pieux repentir de cette
+femme infortunÃ©e: si ses pleurs commandent les vÃ´tres, laissez-les
+couler doucement. Les larmes qu'on verse au thÃ©Ã¢tre, sur des maux
+simulÃ©s qui ne font pas le mal de la rÃ©alitÃ© cruelle, sont douces. On
+est meilleur quand on se sent pleurer. On se trouve si bon aprÃ¨s la
+compassion!
+
+AuprÃ¨s de ce tableau touchant, si j'ai mis sous vos yeux le machinateur,
+l'homme affreux qui tourmente aujourd'hui cette malheureuse famille; Ah!
+je vous jure que je l'ai vu agir; je n'aurais pas pu l'inventer. Le
+_Tartuffe de MoliÃ¨re_ Ã©tait celui de _la religion_: aussi de toute la
+famille d'_Orgon_, ne trompa-t-il que le chef imbÃ©cile! Celui-ci, bien
+plus dangereux, _Tartuffe de la probitÃ©_, a l'art profond de s'attirer
+la respectueuse confiance de la famille entiÃ¨re qu'il dÃ©pouille. C'est
+celui-lÃ  qu'il fallait dÃ©masquer. C'est pour vous garantir des piÃ©ges de
+ces monstres (et il en existe par-tout) que j'ai traduit sÃ©vÃ¨rement
+celui-ci sur la scÃ¨ne franÃ§aise. Pardonnez-le moi, en faveur de sa
+punition, qui fait la clÃ´ture de la PiÃ¨ce. Ce cinquiÃ¨me acte m'a coutÃ©;
+mais je me serais cru plus mÃ©chant que _BÃ©gearss_, si je l'avais laissÃ©
+jouir du moindre fruit de ses atrocitÃ©s; si je ne vous eusse calmÃ©s
+aprÃ¨s des alarmes si vives.
+
+Peut Ãªtre ai-je attendu trop tard pour achever cet ouvrage terrible qui
+me consumait la poitrine, et devait Ãªtre Ã©crit dans la force de l'Ã¢ge.
+Il m'a tourmentÃ© bien long-temps! Mes deux comÃ©dies espagnoles ne furent
+faites que pour le prÃ©parer. Depuis, en vieillissant, j'hÃ©sitais de m'en
+occuper: je craignais de manquer de force; et peut-Ãªtre n'en ai-je plus
+Ã  l'Ã©poque oÃ¹ je l'ai tentÃ©! mais enfin, je l'ai composÃ© dans une
+intention droite et pure: avec la tÃªte froide d'un homme, et le cÅur
+brÃ»lant d'une femme, comme on l'a pensÃ© de _Rousseau_. J'ai remarquÃ© que
+cet ensemble, cet _hermaphrodisme_ moral, est moins rare qu'on ne le
+croit.
+
+Au reste, sans tenir Ã  nul parti, Ã  nulle secte, _la MÃ¨re coupable_ est
+un tableau des peines intÃ©rieures qui divisent bien des familles;
+auxquelles malheureusement le divorce, trÃ¨s-bon d'ailleurs, ne remÃ©die
+point. Quoi qu'on fasse, ces plaies secrÃ¨tes, il les dÃ©chire au lieu de
+les cicatriser. Le sentiment de la paternitÃ©, la bontÃ© du cÅur,
+l'indulgence en sont les uniques remÃ¨des. VoilÃ  ce que j'ai voulu
+peindre et graver dans tous les esprits.
+
+Les hommes de lettres qui se sont vouÃ©s au thÃ©Ã¢tre, en examinant cette
+PiÃ¨ce, pourront y dÃ©mÃªler une intrigue de comÃ©die, fondue dans le
+pathÃ©tique d'un drame. Ce dernier genre, trop dÃ©daignÃ© de quelques
+juges prÃ©venus, ne leur paraissait pas de force Ã  comporter ces deux
+Ã©lÃ©mens rÃ©unis. _L'intrigue_, disaient-ils, est le propre des sujets
+gais, c'est le nerf de la comÃ©die: on adapte _le pathÃ©tique_ Ã  la marche
+simple du drame, pour en soutenir la faiblesse. Mais ces principes
+hasardÃ©s s'Ã©vanouissent Ã  l'application, comme on peut s'en convaincre
+en s'exerÃ§ant dans les deux genres. L'exÃ©cution plus ou moins bonne
+assigne Ã  chacun son mÃ©rite; et le mÃªlange heureux de ces deux moyens
+dramatiques employÃ©s avec art, peut produire un trÃ¨s-grand effet; voici
+comment je l'ai tentÃ©.
+
+Sur les antÃ©cÃ©dens connus (et c'est un fort grand avantage) j'ai fait en
+sorte qu'un drame intÃ©ressant existÃ¢t aujourd'hui entre _le Comte
+Almaviva_, la Comtesse et les deux enfans. Si j'avais reportÃ© la PiÃ¨ce Ã 
+l'Ã¢ge inconsistant oÃ¹ les fautes se sont commises, voici ce qui fÃ»t
+arrivÃ©.
+
+D'abord le drame eÃ»t dÃ» s'appeler, non _la MÃ¨re coupable_, mais
+_l'Epouse infidÃ¨le_, ou _les Epoux coupables_: ce n'Ã©tait dÃ©jÃ  plus le
+mÃªme genre d'intÃ©rÃªt; il eÃ»t fallu y faire entrer des intrigues d'amour,
+des jalousies, du dÃ©sordre, que sais-je? de tous autres Ã©vÃ¨nemens: et la
+moralitÃ© que je voulais faire sortir d'un manquement si grave aux
+devoirs de l'Ã©pouse honnÃªte; cette moralitÃ©, perdue, enveloppÃ©e dans les
+fougues de l'Ã¢ge, n'aurait pas Ã©tÃ© apperÃ§ue. Mais, c'est vingt ans aprÃ¨s
+que les fautes sont consommÃ©es; quand les passions sont usÃ©es; que leurs
+objets n'existent plus; Ã  l'instant oÃ¹ les consÃ©quences d'un dÃ©sordre
+presque oubliÃ© viennent peser sur l'Ã©tablissement, sur le sort d'enfans
+malheureux qui les ont toutes ignorÃ©es, et n'en sont pas moins les
+victimes. C'est de ces circonstances graves que la moralitÃ© tire toute
+sa force, et devient le prÃ©servatif des jeunes personnes bien nÃ©es qui,
+lisant peu dans l'avenir, sont beaucoup plus prÃ¨s du danger de se voir
+Ã©garÃ©es, que de celui d'Ãªtre vicieuses. VoilÃ  sur quoi porte mon drame.
+
+Puis, opposant au scÃ©lÃ©rat, notre pÃ©nÃ©trant _Figaro_, vieux serviteur
+trÃ¨s-attachÃ©; le seul Ãtre que le fripon n'a pu tromper dans la maison:
+l'intrigue qui se noue entr'eux, s'Ã©tablit sous cet autre aspect.
+
+Le scÃ©lÃ©rat inquiet, se dit: En vain j'ai le secret de tout le monde
+ici; envain je me vois prÃ¨s de le tourner Ã  mon profit; si je ne
+parviens pas Ã  faire chasser ce valet, il pourra m'arriver malheur!
+
+D'autre cÃ´tÃ©, j'entends _le Figaro_: Si je ne rÃ©ussis Ã  dÃ©pister ce
+monstre, Ã  lui faire tomber le masque; la fortune, l'honneur, le bonheur
+de cette maison; tout est perdu. _La Susanne_, jetÃ©e entre ces deux
+lutteurs, n'est ici qu'un souple instrument dont chacun entend se servir
+pour hÃ¢ter la chÃ»te de l'autre.
+
+Ainsi, _la ComÃ©die d'intrigue_, soutenant la curiositÃ©, marche tout au
+travers _du Drame_, dont elle renforce l'action, sans en diviser
+l'intÃ©rÃªt qui se porte entier sur _la MÃ¨re_. Les deux enfans, aux yeux
+du spectateur, ne courent aucun danger rÃ©el. On voit bien qu'ils
+s'Ã©pouseront, si le scÃ©lÃ©rat est chassÃ©; car, ce qu'il y a de mieux
+Ã©tabli dans l'ouvrage, c'est qu'ils ne sont parens Ã  nul degrÃ©; qu'ils
+sont Ã©trangers l'un Ã  l'autre: ce que savent fort bien, dans le secret
+du cÅur, le Comte, la Comtesse, le scÃ©lÃ©rat, _Susanne_ et _Figaro_,
+tous instruits des Ã©vÃ©nemens; sans compter le Public qui assiste Ã  la
+PiÃ¨ce, Ã  qui nous n'avons rien cachÃ©. Tout l'art de l'hypocrite, en
+dÃ©chirant le cÅur du PÃ¨re et de la MÃ¨re, consiste Ã  effrayer les
+jeunes gens, Ã  les arracher l'un Ã  l'autre, en leur fesant croire Ã 
+chacun qu'ils sont enfans du mÃªme pÃ¨re! c'est-lÃ  le fond de son
+intrigue. Ainsi marche le double plan que l'on peut appeler _complexe_.
+
+Une telle action dramatique peut s'appliquer Ã  tous les temps, Ã  tous
+les lieux oÃ¹ les grands traits de la nature, et tous ceux qui
+caractÃ©risent le cÅur de l'homme et ses secrÃ¨ts, ne seront pas trop
+mÃ©connus.
+
+_Diderot_ comparant les ouvrages de _Richardson_ avec tous ces romans
+que nous nommons l'_Histoire_, s'Ã©crie, dans son enthousiasme pour cet
+auteur juste et profond: _Peintre du cÅur humain! c'est toi seul qui
+ne ments jamais!_ Quel mot sublime! Et moi aussi j'essaye encor d'Ãªtre
+peintre du cÅur humain: mais ma palette est dessÃ©chÃ©e par l'Ã¢ge et
+les contradictions. _La MÃ¨re coupable_ a dÃ» s'en ressentir!
+
+Que si ma faible exÃ©cution nuit Ã  l'intÃ©rÃªt de mon plan; le principe que
+j'ai posÃ© n'en a pas moins toute sa justesse! Un tel essai peut inspirer
+le dessein d'en offrir de plus fortement concertÃ©s. Qu'un homme de feu
+l'entreprenne, y mÃªlant, d'un crayon hardi, l'_intrigue_ avec _le
+pathÃ©tique_! Qu'il broye et fonde savament les vives couleurs de chacun!
+Qu'il nous peigne Ã  grands traits l'homme vivant en sociÃ©tÃ©, son Ã©tat,
+ses passions, ses vices, ses vertus, ses fautes et ses malheurs, avec la
+vÃ©ritÃ© frappante que l'exagÃ©ration mÃªme, qui fait briller les autres
+genres, ne permet pas toujours de rendre aussi fidÃ¨lement! TouchÃ©s,
+intÃ©ressÃ©s, instruits, nous ne dirons plus que le _Drame_ est un genre
+dÃ©colorÃ©, nÃ© de l'impuissance de produire ou TragÃ©die, ou ComÃ©die.
+L'art aura pris un noble essor; il aura fait encore un pas.
+
+O mes Concitoyens, vous Ã  qui j'offre cet essai! s'il vous parait faible
+ou manquÃ©; critiquÃ©s-le, mais sans m'injurier. Lorsque je fis mes autres
+PiÃ¨ces, on m'outragea long-temps pour avoir osÃ© mettre au thÃ©Ã¢tre ce
+jeune _Figaro_, que vous avez aimÃ© depuis. J'Ã©tais jeune aussi, j'en
+riais. En vieillissant l'esprit s'attriste; le caractÃ¨re se rembrunit.
+J'ai beau faire, je ne ris plus quand un mÃ©chant ou un fripon insulte Ã 
+ma personne, Ã  l'occasion de mes ouvrages: on n'est pas maÃ®tre de cela.
+
+CritiquÃ©s la PiÃ¨ce: fort bien. Si l'Auteur est trop vieux pour en tirer
+du fruit, votre leÃ§on peut profiter Ã  d'autres. L'injure ne profite Ã 
+personne, et mÃªme elle n'est pas de bon goÃ»t. On peut offrir cette
+remarque Ã  une Nation renommÃ©e par son ancienne politesse, qui la fesait
+servir de modÃ¨le en ce point, comme elle est encore aujourd'hui celui de
+la haute vaillance.
+
+
+
+
+PERSONNAGES.
+
+
+LE COMTE ALMAVIVA, _grand seigneur espagnol, d'une fiertÃ© noble, et sans
+orgueil_.
+
+LA COMTESSE ALMAVIVA, _trÃ¨s-malheureuse, et d'une angÃ©lique piÃ©tÃ©_.
+
+LE CHEVALIER LÃON, _leur fils; jeune homme Ã©pris de la libertÃ©, comme
+toutes les Ã¢mes ardentes et neuves_.
+
+FLORESTINE, _pupille et filleule du comte Almaviva; jeune personne d'une
+grande sensibilitÃ©_.
+
+M. BÃGEARSS, _Irlandais, major d'infanterie espagnole, ancien secrÃ©taire
+des ambassades du Comte; homme trÃ¨s-profond, et grand machinateur
+d'intrigues, fomentant le trouble avec art_.
+
+FIGARO, _valet de chambre, chirurgien et homme de confiance du Comte;
+homme formÃ© par l'expÃ©rience du monde et des Ã©vÃ¨nemens_.
+
+SUSANNE, _premiÃ¨re camariste de la Comtesse; Ã©pouse de_ Figaro;
+_excellente femme, attachÃ©e Ã  sa maÃ®tresse, et revenue des illusions du
+jeune Ã¢ge_.
+
+M. FAL, _notaire du Comte; homme exact et trÃ¨s-honnÃªte_.
+
+GUILLAUME, _valet allemand de_ M. BÃ©gearss; _homme trop simple pour un
+tel maÃ®tre_.
+
+La ScÃ¨ne est Ã  Paris, dans l'hÃ´tel occupÃ© par la famille du Comte, et se
+passe Ã  la fin de 1790.
+
+
+
+
+L'AUTRE TARTUFFE, OU LA MÃRE COUPABLE
+
+
+
+
+ACTE PREMIER.
+
+_Le ThÃ©Ã¢tre reprÃ©sente un salon fort ornÃ©._
+
+
+SCÃNE PREMIÃRE.
+
+SUSANNE, _seule, tenant des fleurs obscures, dont elle fait un bouquet_.
+
+Que Madame s'Ã©veille et sonne; mon triste ouvrage est achevÃ©. (_Elle
+s'assied avec abandon._) A peine il est neuf heures, et je me sens dÃ©jÃ 
+d'une fatigue...... Son dernier ordre, en la couchant, m'a gÃ¢tÃ© ma nuit
+toute entiÃ¨re..... _Demain, Susanne, au point du jour, fais apporter
+beaucoup de fleurs, et garnis-en mes cabinets._--- Au portier:--- _Que,
+de la journÃ©e, il n'entre personne pour moi.----- Tu me formeras un
+bouquet de fleurs noires et rouge foncÃ©, un seul Åillet blanc au
+milieu_...... Le voilÃ .--Pauvre MaÃ®tresse! elle pleurait!... Pour qui ce
+mÃ©lange d'apprÃªts?.... Eeeh! si nous Ã©tions en Espagne, ce serait
+aujourd'hui la fÃªte de son fils _LÃ©on_......... (_avec mystÃ¨re._) et
+d'un autre homme qui n'est plus! (_Elle regarde les fleurs._) Les
+couleurs du sang et du deuil! (_Elle soupire._) Ce cÅur blessÃ© ne
+guÃ©rira jamais!--- Attachons-le d'un crÃªpe noir, puisque c'est-lÃ  sa
+triste fantaisie! (_Elle attache le bouquet._)
+
+
+SCÃNE II.
+
+SUSANNE, FIGARO _regardant avec mystÃ¨re_. (_Cette scÃ¨ne doit marcher
+chaudement._)
+
+SUSANNE.
+
+Entre donc, _Figaro_! Tu prends l'air d'un amant en bonne fortune chez
+ta femme!
+
+FIGARO.
+
+Peut-on vous parler librement?
+
+SUSANNE.
+
+Oui, si la porte reste ouverte.
+
+FIGARO.
+
+Et pourquoi cette prÃ©caution?
+
+SUSANNE.
+
+C'est que l'homme dont il s'agit peut entrer d'un moment Ã  l'autre.
+
+FIGARO, _appuyant_.
+
+_HonorÃ©-Tartuffe--BÃ©gearss?_
+
+SUSANNE.
+
+Et c'est un rendez-vous donnÃ©.--Ne t'accoutume donc pas Ã  charger son
+nom d'Ã©pithÃ¨tes; cela peut se redire et nuire Ã  tes projets.
+
+FIGARO.
+
+Il s'appelle _HonorÃ©_!
+
+SUSANNE.
+
+Mais non pas _Tartuffe_.
+
+FIGARO.
+
+Morbleu!
+
+SUSANNE.
+
+Tu as le ton bien soucieux!
+
+FIGARO.
+
+Furieux! (_Elle se lÃ¨ve._) Est-ce lÃ  notre convention? M'aidez-vous
+franchement, _Suzanne_, Ã  prÃ©venir un grand dÃ©sordre? Serais-tu dupe
+encore de ce trÃ¨s-mÃ©chant homme?
+
+SUSANNE.
+
+Non; mais je crois qu'il se mÃ©fie de moi; il ne me dit plus rien. J'ai
+peur, en vÃ©ritÃ©, qu'il ne nous croye raccommodÃ©s.
+
+FIGARO.
+
+Feignons toujours d'Ãªtre brouillÃ©s.
+
+SUSANNE.
+
+Mais qu'as-tu donc appris qui te donne une telle humeur?
+
+FIGARO.
+
+Recordons-nous d'abord sur les principes. Depuis que nous sommes Ã 
+Paris, et que M. _Almaviva_..... (Il faut bien lui donner son nom,
+puisqu'il ne souffre plus qu'on l'appelle _Monseigneur_.......)
+
+SUSANNE, _avec humeur_.
+
+C'est beau! et Madame sort sans livrÃ©e! nous avons l'air de tout le
+monde!
+
+FIGARO.
+
+Depuis, dis-je, qu'il a perdu, par une querelle du jeu, son libertin de
+fils aÃ®nÃ©, tu sais comment tout a changÃ© pour nous! comme l'humeur du
+Comte est devenue sombre et terrible!
+
+SUSANNE.
+
+Tu n'es pas mal bourru non plus!
+
+FIGARO.
+
+Comme son autre fils paraÃ®t lui devenir odieux!
+
+SUSANNE.
+
+Que trop!
+
+FIGARO.
+
+Comme Madame est malheureuse!
+
+SUSANNE.
+
+C'est un grand crime qu'il commet!
+
+FIGARO.
+
+Comme il redouble de tendresse pour sa pupille _Florestine_! Comme il
+fait, sur-tout, des efforts pour dÃ©naturer sa fortune!
+
+SUSANNE.
+
+Sais-tu, mon pauvre _Figaro_! que tu commences Ã  radoter? Si je sais
+tout cela, qu'est-il besoin de me le dire?
+
+FIGARO.
+
+Encor faut-il bien s'expliquer pour s'assurer que l'on s'entend!
+N'est-il pas avÃ©rÃ© pour nous que cet astucieux Irlandais, le flÃ©au de
+cette famille, aprÃ¨s avoir chiffrÃ©, comme secrÃ©taire, quelques
+ambassades auprÃ¨s du Comte, s'est emparÃ© de leurs secrets Ã  tous? que ce
+profond machinateur a su les entraÃ®ner, de l'indolente Espagne, en ce
+pays, remuÃ© de fond en comble, espÃ©rant y mieux profiter de la dÃ©sunion
+oÃ¹ ils vivent, pour sÃ©parer le mari de la femme, Ã©pouser la pupille, et
+envahir les biens d'une maison qui se dÃ©lÃ¢bre?
+
+SUSANNE.
+
+Enfin, moi! que puis-je Ã  cela?
+
+FIGARO.
+
+Ne jamais le perdre de vue; me mettre au cours de ses dÃ©marches.
+
+SUSANNE.
+
+Mais je te rends tout ce qu'il dit.
+
+FIGARO.
+
+Oh! ce qu'il dit..... n'est que ce qu'il veut dire! Mais saisir, en
+parlant, les mots qui lui Ã©chappent, le moindre geste, un mouvement;
+c'est-lÃ  qu'est le secret de l'Ã¢me! Il se trame ici quelque horreur! Il
+faut qu'il s'en croye assurÃ©; car je lui trouve un air..... plus faux,
+plus perfide et plus fat; cet air des sots de ce pays, triomphant avant
+le succÃ¨s! Ne peux-tu Ãªtre aussi perfide que lui? l'amadouer, le bercer
+d'espoir? quoiqu'il demande, ne pas le refuser?...
+
+SUSANNE.
+
+C'est beaucoup!
+
+FIGARO.
+
+Tout est bien, et tout marche au but; si j'en suis promptement instruit.
+
+SUSANNE.
+
+.... Et si j'en instruis ma maÃ®tresse?
+
+FIGARO.
+
+Il n'est pas tems encore; ils sont tous subjuguÃ©s par lui. On ne te
+croirait pas: tu nous perdrais, sans les sauver. Suis-le par-tout, comme
+son ombre.... et moi, je l'Ã©pie au-dehors....
+
+SUSANNE.
+
+Mon ami, je t'ai dit qu'il se dÃ©fie de moi; et s'il nous surprenait
+ensemble... Le voilÃ  qui descend.... Ferme!....... ayons l'air de
+quereller bien fort. (_Elle pose le bouquet sur la table._)
+
+FIGARO, _Ã©levant la voix_.
+
+Moi, je ne le veux pas. Que je t'y prenne une autre fois!....
+
+SUSANNE, _Ã©levant la voix_.
+
+Certes!..... oui, je te crains beaucoup!
+
+FIGARO, _feignant de lui donner un soufflet_.
+
+Ah! tu me crains!.... Tiens, insolente!
+
+SUSANNE, _feignant de l'avoir reÃ§u_.
+
+Des coups Ã  moi.... chez ma maÃ®tresse?
+
+
+SCÃNE III.
+
+LE MAJOR BÃGEARSS, FIGARO, SUSANNE.
+
+BÃGEARSS, _en uniforme, un crÃªpe noir au bras_.
+
+Eh! mais quel bruit! Depuis une heure j'entends disputer de chez moi....
+
+FIGARO, _Ã  part_.
+
+Depuis une heure!
+
+BÃGEARSS.
+
+Je sors, je trouve une femme Ã©plorÃ©e....
+
+SUSANNE, _feignant de pleurer_.
+
+Le malheureux lÃ¨ve la main sur moi!
+
+BÃGEARSS.
+
+Ah l'horreur! monsieur _Figaro_! Un galant homme a-t-il jamais frappÃ©
+une personne de l'autre sexe?
+
+FIGARO, _brusquement_.
+
+Eh morbleu! Monsieur, laissez-nous! Je ne suis point _un galant homme_;
+et cette femme n'est point _une personne de l'autre sexe_: elle est ma
+femme; une insolente, qui se mÃªle dans des intrigues, et qui croit
+pouvoir me braver, parce qu'elle a ici des gens qui la soutiennent. Ah!
+j'entends la morigÃ©ner....
+
+BÃGEARSS.
+
+Est-on brutal Ã  cet excÃ¨s?
+
+FIGARO.
+
+Monsieur, si je prends un arbitre de mes procÃ©dÃ©s envers elle, ce sera
+moins vous que tout autre; et vous savez trop bien pourquoi!
+
+BÃGEARSS.
+
+Vous me manquez, Monsieur; je vais m'en plaindre Ã  votre maÃ®tre.
+
+FIGARO, _raillant_.
+
+Vous manquer! moi? c'est impossible.
+
+(_Il sort._)
+
+
+SCÃNE IV.
+
+BÃGEARSS, SUSANNE.
+
+BÃGEARSS.
+
+Mon enfant, je n'en reviens point. Quel est donc le sujet de son
+emportement?
+
+SUSANNE.
+
+Il m'est venu chercher querelle; il m'a dit cent horreurs de vous. Il me
+dÃ©fendait de vous voir, de jamais oser vous parler. J'ai pris votre
+parti; la dispute s'est Ã©chauffÃ©e; elle a fini par un soufflet.... VoilÃ 
+le premier de sa vie; mais moi, je veux me sÃ©parer; vous l'avez vu.....
+
+BÃGEARSS.
+
+Laissons cela.--Quelque lÃ©ger nuage altÃ©rait ma confiance en toi; mais
+ce dÃ©bat l'a dissipÃ©.
+
+SUSANNE.
+
+Sont-ce lÃ  vos consolations?
+
+BÃGEARSS.
+
+Vas! c'est moi qui t'en vengerai! il est bien tems que je m'acquitte
+envers toi, ma pauvre _Susanne_! Pour commencer, apprends un grand
+secret..... Mais sommes-nous bien sÃ»rs que la porte est fermÃ©e?
+(_Susanne y va voir._) (_Il dit Ã  part_) Ah! si je puis avoir seulement
+trois minutes l'Ã©crin au double fonds que j'ai fait faire Ã  la Comtesse,
+oÃ¹ sont ces importantes lettres.....
+
+SUSANNE _revient_.
+
+Eh bien! ce grand secret?
+
+BÃGEARSS.
+
+Sers ton ami; ton sort devient superbe.--J'Ã©pouse _Florestine_; c'est un
+point arrÃªtÃ©; son pÃ¨re le veut absolument.
+
+SUSANNE.
+
+Qui, son pÃ¨re?
+
+BÃGEARSS, _en riant_.
+
+Et d'oÃ¹ sors-tu donc? RÃ¨gle certaine, mon enfant; lorsque telle
+orpheline arrive chez quelqu'un, comme pupille, ou bien comme filleule,
+elle est toujours la fille du mari. (_D'un ton sÃ©rieux._) Bref, je puis
+l'Ã©pouser.... si tu me la rends favorable.
+
+SUSANNE.
+
+Oh! mais _LÃ©on_ en est trÃ¨s amoureux.
+
+BÃGEARSS.
+
+Leur fils? (_froidement_) je l'en dÃ©tacherai.
+
+SUSANNE, _Ã©tonnÃ©e_.
+
+Ha!.... Elle aussi, elle est fort Ã©prise!
+
+BÃGEARSS.
+
+De lui?....
+
+SUSANNE.
+
+Oui.
+
+BÃGEARSS, _froidement_.
+
+Je l'en guÃ©rirai.
+
+SUSANNE, _plus surprise_.
+
+Ha ha!..... Madame qui le sait, donne les mains Ã  leur union!
+
+BÃGEARSS, _froidement_.
+
+Nous la ferons changer d'avis.
+
+SUSANNE, _stupÃ©faite_.
+
+Aussi?.... Mais _Figaro_, si je vois bien, est le confident du jeune
+homme!
+
+BÃGEARSS.
+
+C'est le moindre de mes soucis. Ne serais-tu pas aise d'en Ãªtre
+dÃ©livrÃ©e?
+
+SUSANNE.
+
+S'il ne lui arrive aucun mal?...
+
+BÃGEARSS.
+
+Fi donc! la seule idÃ©e flÃ©trit l'austÃ¨re probitÃ©. Mieux instruits sur
+leurs intÃ©rÃªts, ce sont eux-mÃªmes qui changeront d'avis.
+
+SUSANNE, _incrÃ©dule_.
+
+Si vous faites cela, Monsieur....
+
+BÃGEARSS, _appuyant_.
+
+Je le ferai.--Tu sens que l'amour n'est pour rien dans un pareil
+arrangement. (_L'air caressant._) Je n'ai jamais vraiment aimÃ© que toi.
+
+SUSANNE, _incrÃ©dule_.
+
+Ah! si Madame avait voulu....
+
+BÃGEARSS.
+
+Je l'aurais consolÃ©e sans doute; mais elle a dÃ©daignÃ© mes vÅux!.....
+Suivant le plan que le Comte a formÃ©, la Comtesse va au couvent.
+
+SUSANNE, _vivement_.
+
+Je ne me prÃªte Ã  rien contre elle.
+
+BÃGEARSS.
+
+Que diable! il la sert dans ses goÃ»ts! Je t'entends toujours dire: _Ah!
+c'est un ange sur la terre!_
+
+SUSANNE, _en colÃ¨re_.
+
+Eh bien! faut-il la tourmenter?
+
+BÃGEARSS, _riant_.
+
+Non; mais du moins la rapprocher de ce Ciel, la patrie des anges, dont
+elle est un moment tombÃ©e!....... Et puisque, dans ces nouvelles et
+merveilleuses lois, le divorce s'est Ã©tabli....
+
+SUSANNE, _vivement_.
+
+Le Comte veut s'en sÃ©parer?
+
+BÃGEARSS.
+
+S'il peut.
+
+SUSANNE, _en colÃ¨re_.
+
+Ah! les scÃ©lÃ©rats d'hommes! quand on les Ã©tranglerait tous!....
+
+BÃGEARSS, _riant_.
+
+J'aime Ã  croire que tu m'en exceptes?
+
+SUSANNE.
+
+Ma foi!.... pas trop.
+
+BÃGEARSS, _riant_.
+
+J'adore ta franche colÃ¨re: elle met Ã  jour ton bon cÅur! Quant Ã 
+l'amoureux chevalier; il le destine Ã  voyager.... long-temps.--Le
+_Figaro_, homme expÃ©rimentÃ©, sera son discret conducteur. (_Il lui prend
+la main._) Et voici ce qui nous concerne: Le Comte, _Florestine_ et moi,
+habiterons le mÃªme hÃ´tel: et la chÃ¨re _Susanne_ Ã  nous, chargÃ©e de toute
+la confiance, sera notre surintendant, commandera la domesticitÃ©, aura
+la grande main sur tout. Plus de mari, plus de soufflets, plus de brutal
+contradicteur; des jours filÃ©s d'or et de soie, et la vie la plus
+fortunÃ©e!...
+
+SUSANNE.
+
+A vos cajoleries, je vois que vous voulez que je vous serve auprÃ¨s de
+_Florestine_?
+
+BÃGEARSS, _caressant_.
+
+A dire vrai, j'ai comptÃ© sur tes soins. Tu fus toujours une excellente
+femme! J'ai tout le reste dans ma main; ce point seul est entre les
+tiennes. (_Vivement._) Par exemple, aujourd'hui tu peux nous rendre un
+signalÃ©....
+
+SUSANNE _l'examine_.
+
+BÃGEARSS _se reprend_.
+
+Je dis _un signalÃ©_, par l'importance qu'il y met. (_Froidement._) Car,
+ma foi! c'est bien peu de chose! Le Comte aurait la fantaisie...... de
+donner Ã  sa fille, en signant le contrat, une parure absolument
+semblable aux diamans de la Comtesse. Il ne voudrait pas qu'on le sÃ»t.
+
+SUSANNE, _surprise_.
+
+Ha ha!....
+
+BÃGEARSS.
+
+Ce n'est pas trop mal vu! De beaux diamans terminent bien des choses!
+Peut-Ãªtre il va te demander d'apporter l'Ã©crin de sa femme, pour en
+confronter les dessins avec ceux de son joaillier....
+
+SUSANNE.
+
+Pourquoi, comme ceux de Madame? C'est une idÃ©e assez bisarre!
+
+BÃGEARSS.
+
+Il prÃ©tend qu'ils soient aussi beaux.... Tu sens, pour moi, combien
+c'Ã©tait Ã©gal! Tiens, vois-tu? le voici qui vient.
+
+
+SCÃNE V.
+
+LE COMTE, SUSANNE, BÃGEARSS.
+
+LE COMTE.
+
+Monsieur _BÃ©gearss_, je vous cherchais.
+
+BÃGEARSS.
+
+Avant d'entrer chez vous, Monsieur, je venais prÃ©venir _Susanne_; que
+vous avez dessein de lui demander cet Ã©crin.....
+
+SUSANNE.
+
+Au moins, Monseigneur, vous sentez....
+
+LE COMTE.
+
+Eh! laisse-lÃ  ton _Monseigneur_! N'ai-je pas ordonnÃ©, en passant dans ce
+pays-ci?......
+
+SUSANNE.
+
+Je trouve, Monseigneur, que cela nous amoindrit.
+
+LE COMTE.
+
+C'est que tu t'entends mieux en vanitÃ© qu'en vraie fiertÃ©. Quand on veut
+vivre dans un pays, il n'en faut point heurter les prÃ©jugÃ©s.
+
+SUSANNE.
+
+Eh bien! Monsieur, du moins vous me donnez votre parole....
+
+LE COMTE, _fiÃ¨rement_.
+
+Depuis quand suis-je mÃ©connu?
+
+SUSANNE.
+
+Je vais donc vous l'aller chercher. (_A part._) Dame! _Figaro_ m'a dit
+de ne rien refuser!....
+
+
+SCÃNE VI.
+
+LE COMTE, BÃGEARSS.
+
+LE COMTE.
+
+J'ai tranchÃ© sur le point qui paraissait l'inquiÃ©ter.
+
+BÃGEARSS.
+
+Il en est un, Monsieur, qui m'inquiÃ¨te beaucoup plus; je vous trouve un
+air accablÃ©....
+
+LE COMTE.
+
+Te le dirai-je, Ami! la perte de mon fils me semblait le plus grand
+malheur. Un chagrin plus poignant fait saigner ma blessure, et rend ma
+vie insupportable.
+
+BÃGEARSS.
+
+Si vous ne m'aviez pas interdit de vous contrarier lÃ -dessus, je vous
+dirais que votre second fils....
+
+LE COMTE, _vivement_.
+
+Mon second fils! je n'en ai point!
+
+BÃGEARSS.
+
+Calmez-vous, Monsieur; raisonnons. La perte d'un enfant chÃ©ri peut vous
+rendre injuste envers l'autre; envers votre Ã©pouse, envers vous. Est-ce
+donc sur des conjectures qu'il faut juger de pareils faits?
+
+LE COMTE.
+
+Des conjectures? Ah! j'en suis trop certain! Mon grand chagrin est de
+manquer de preuves.--Tant que mon pauvre fils vÃ©cut, j'y mettais fort
+peu d'importance. HÃ©ritier de mon nom, de mes places, de ma fortune....
+que me fesait cet autre individu? Mon froid dÃ©dain, un nom de terre, une
+croix de Malthe, une pension, m'auraient vengÃ© de sa mÃ¨re et de lui!
+Mais, conÃ§ois-tu mon dÃ©sespoir, en perdant un fils adorÃ©, de voir un
+Ã©tranger succÃ©der Ã  ce rang, Ã  ces titres; et, pour irriter ma douleur,
+venir tous les jours me donner le nom odieux de _son pÃ¨re_?
+
+BÃGEARSS.
+
+Monsieur, je crains de vous aigrir, en cherchant Ã  vous appaiser; mais
+la vertu de votre Ã©pouse.....
+
+LE COMTE, _avec colÃ¨re_.
+
+Ah! ce n'est qu'un crime de plus. Couvrir d'une vie exemplaire un
+affront tel que celui-lÃ ! Commander vingt ans par ses mÅurs et la
+piÃ©tÃ© la plus sÃ©vÃ¨re, l'estime et le respect du monde; et verser sur moi
+seul, par cette conduire affectÃ©e, tous les torts qu'entraÃ®ne aprÃ¨s soi
+ma prÃ©tendue bisarrerie!... Ma haine pour eux s'en augmente.
+
+BÃGEARSS.
+
+Que vouliez-vous donc qu'elle fÃ®t; mÃªme en la supposant coupable?
+Est-il au monde quelque faute qu'un repentir de vingt annÃ©es ne doive
+effacer Ã  la fin? FÃ»tes vous sans reproche vous-mÃªme? Et cette jeune
+_Florestine_, que vous nommez votre pupille, et qui vous touche de plus
+prÃ¨s....
+
+LE COMTE.
+
+Qu'elle assure donc ma vengeance! Je dÃ©naturerai mes biens, et les lui
+ferai tous passer. DÃ©jÃ  trois millions d'or, arrivÃ©s de _la Vera Crux_,
+vont lui servir de dot; et c'est Ã  toi que je les donne. Aide-moi
+seulement Ã  jeter sur ce don un voile impÃ©nÃ©trable. En acceptant mon
+porte-feuille, et te prÃ©sentant comme Ã©poux, suppose un hÃ©ritage, un
+legs de quelque parent Ã©loignÃ©....
+
+BÃGEARSS, _montrant le crÃªpe de son bras_.
+
+Voyez que, pour vous obÃ©ir, je me suis dÃ©jÃ  mis en deuil.
+
+LE COMTE.
+
+Quand j'aurai l'agrÃ©ment du Roi pour l'Ã©change entammÃ© de toutes mes
+terres d'Espagne contre des biens dans ce pays, je trouverai moyen de
+vous en assurer la possession Ã  tous deux.
+
+BÃGEARSS, _vivement_.
+
+Et moi, je n'en veux point. Croyez-vous que, sur des soupÃ§ons...
+peut-Ãªtre encor trÃ¨s peu fondÃ©s, j'irai me rendre le complice de la
+spoliation entiÃ¨re de l'hÃ©ritier de votre nom? d'un jeune homme plein de
+mÃ©rite; car il faut avouer qu'il en a....
+
+LE COMTE, _impatientÃ©_.
+
+Plus que mon fils, voulez-vous dire? Chacun le pense comme vous; cela
+m'irrite contre lui!....
+
+BÃGEARSS.
+
+Si votre pupille m'accepte; et si, sur vos grands biens, vous prÃ©levez,
+pour la doter, ces trois millions d'or, du Mexique, je ne supporte point
+l'idÃ©e d'en devenir propriÃ©taire, et ne les recevrai qu'autant que le
+contrat en contiendra la donation que mon amour sera censÃ© lui faire.
+
+LE COMTE _le serre dans ses bras_.
+
+Loyal et franc ami! quel Ã©poux je donne Ã  ma fille!...
+
+
+SCÃNE VII.
+
+SUSANNE, LE COMTE, BÃGEARSS.
+
+SUSANNE.
+
+Monsieur, voilÃ  le coffre aux diamans; ne le gardÃ©s pas trop long-temps;
+que je puisse le remettre en place avant qu'il soit jour chez madame!
+
+LE COMTE.
+
+_Susanne_, en t'en allant, dÃ©fends qu'on entre, Ã  moins que je ne sonne.
+
+SUSANNE, _Ã  part_.
+
+Avertissons _Figaro_ de ceci. (_Elle sort._)
+
+
+SCÃNE VIII.
+
+LE COMTE, BÃGEARSS.
+
+BÃGEARSS.
+
+Quel est votre projet sur l'examen de cet Ã©crin?
+
+LE COMTE _tire de sa poche un bracelet entourÃ© de brillans_.
+
+Je ne veux plus te dÃ©guiser tous les dÃ©tails de mon affront; Ã©coute. Un
+certain _LÃ©on d'Astorga_, qui fut jadis mon page, et que l'on nommait
+_ChÃ©rubin_....
+
+BÃGEARSS.
+
+Je l'ai connu; nous servions dans le rÃ©giment dont je vous dois d'Ãªtre
+major. Mais il y a vingt ans qu'il n'est plus.
+
+LE COMTE.
+
+C'est ce qui fonde mon soupÃ§on. Il eut l'audace de l'aimer. Je la crus
+Ã©prise de lui; je l'Ã©loignai d'Andalousie, par un emploi dans ma
+lÃ©gion.--Un an aprÃ¨s la naissance du fils.... qu'un combat dÃ©testÃ©
+m'enlÃ¨ve. (_Il met la main Ã  ses yeux._) Lorsque je m'embarquai vice-roi
+du _Mexique_; au lieu de rester Ã  _Madrid_, ou dans mon palais Ã 
+_SÃ©ville_, ou d'habiter _Aguas frescas_, qui est un superbe sÃ©jour;
+quelle retraite, Ami, crois-tu que ma femme choisit? Le vilain chÃ¢teau
+d'_Astorga_, chef-lieu d'une mÃ©chante terre, que j'avais achetÃ©e des
+parens de ce page. C'est-lÃ  qu'elle a voulu passer les trois annÃ©es de
+mon absence; qu'elle y a mis au monde.... (aprÃ¨s neuf ou dix mois, que
+sais-je?) ce misÃ©rable enfant, qui porte les traits d'un perfide! Jadis,
+lorsqu'on m'avait peint pour le bracelet de la Comtesse, le peintre
+ayant trouvÃ© ce page fort joli, desira d'en faire une Ã©tude; c'est un
+des beaux tableaux de mon cabinet......
+
+BÃGEARSS.
+
+Oui.... (_Il baisse les yeux._) Ã  telles enseignes que votre Ã©pouse....
+
+LE COMTE, _vivement_.
+
+Ne veut jamais le regarder? Eh bien! sur ce portrait, j'ai fait faire
+celui-ci, dans ce bracelet, pareil en tout au sien, fait par le mÃªme
+jouaillier qui monta tous ses diamans; je vais le substituer Ã  la place
+du mien. Si elle en garde le silence; vous sentez que ma preuve est
+faite. Sous quelque forme qu'elle en parle, une explication sÃ©vÃ¨re
+Ã©claircit ma honte Ã  l'instant.
+
+BÃGEARSS.
+
+Si vous demandez mon avis, Monsieur, je blÃ¢me un tel projet.
+
+LE COMTE.
+
+Pourquoi?
+
+BÃGEARSS.
+
+L'honneur rÃ©pugne Ã  de pareils moyens. Si quelque hasard, heureux ou
+malheureux, vous eÃ»t prÃ©sentÃ© certains faits, je vous excuserais de les
+approfondir. Mais tendre un piÃ©ge! des surprises! Eh! quel homme, un peu
+dÃ©licat, voudrait prendre un tel avantage sur son plus mortel ennemi?
+
+LE COMTE.
+
+Il est trop tard pour reculer; le bracelet est fait, le portrait du page
+est dedans....
+
+BÃGEARSS _prend l'Ã©crin_.
+
+Monsieur, au nom du vÃ©ritable honneur....
+
+LE COMTE _a enlevÃ© le bracelet de l'Ã©crin_.
+
+Ah! mon cher portrait, je te tiens! J'aurai du moins la joie d'en orner
+le bras de ma fille, cent fois plus digne de le porter!.... (_Il y
+substitue l'autre._)
+
+BÃGEARSS _feint de s'y opposer. Ils tirent chacun l'Ã©crin de leur cÃ´tÃ©;
+BÃ©gearss fait ouvrir adroitement le double fond, et dit avec colÃ¨re_:
+
+Ah! voilÃ  la boÃ®te brisÃ©e!
+
+LE COMTE _regarde_.
+
+Non; ce n'est qu'un secret que le dÃ©bat a fait ouvrir. Ce double fond
+renferme des papiers!
+
+BÃGEARSS, _s'y opposant_.
+
+Je me flatte, Monsieur, que vous n'abuserez point...
+
+LE COMTE, _impatient_.
+
+Â«Si quelque heureux hasard vous eÃ»t prÃ©sentÃ© certains faits, me
+disais-tu dans le moment, je vous excuserais de les approfondirÂ»... Le
+hasard me les offre, et je vais suivre ton conseil. (_Il arrache les
+papiers._)
+
+BÃGEARSS, _avec chaleur_.
+
+Pour l'espoir de ma vie entiÃ¨re, je ne voudrais pas devenir complice
+d'un tel attentat! Remettez ces papiers, Monsieur, ou souffrez que je me
+retire. (_Il s'Ã©loigne._)
+
+LE COMTE _tient des papiers et lit_.
+
+BÃGEARSS _le regarde en dessous, et s'applaudit secrÃ¨tement_.
+
+LE COMTE, _avec fureur_.
+
+Je n'en veux pas apprendre davantage; renferme tous les autres, et moi
+je garde celui-ci.
+
+BÃGEARSS.
+
+Non; quel qu'il soit, vous avez trop d'honneur pour commettre une....
+
+LE COMTE, _fiÃ¨rement_.
+
+Une?... Achevez; tranchez le mot, je puis l'entendre.
+
+BÃGEARSS, _se courbant_.
+
+Pardon, Monsieur, mon bienfaiteur! et n'imputez qu'Ã  ma douleur
+l'indÃ©cence de mon reproche.
+
+LE COMTE.
+
+Loin de t'en savoir mauvais grÃ©, je t'en estime davantage. (_Il se jette
+sur un fauteuil._) Ah perfide _Rosine_!... Car, malgrÃ© mes lÃ©gÃ¨retÃ©s,
+elle est la seule pour qui j'aye Ã©prouvÃ©... J'ai subjuguÃ© les autres
+femmes! Ah! je sens Ã  ma rage combien cette indigne passion!... Je me
+dÃ©teste de l'aimer!
+
+BÃGEARSS.
+
+Au nom de Dieu, Monsieur, remettez ce fatal papier.
+
+
+SCÃNE IX.
+
+FIGARO, LE COMTE, BÃGEARSS.
+
+LE COMTE _se lÃ¨ve_.
+
+Homme importun! que voulez-vous?
+
+FIGARO.
+
+J'entre, parce qu'on a sonnÃ©.
+
+LE COMTE, _en colÃ¨re_.
+
+J'ai sonnÃ©? Valet curieux!....
+
+FIGARO.
+
+Interrogez le joaillier, qui l'a entendu comme moi?
+
+LE COMTE.
+
+Mon joaillier? que me veut-il?
+
+FIGARO.
+
+Il dit qu'il a un rendez-vous, pour un bracelet qu'il a fait.
+
+BÃGEARSS, _s'appercevant qu'il cherche Ã  voir l'Ã©crin qui est sur la
+table, fait ce qu'il peut pour le masquer_.
+
+LE COMTE.
+
+Ah!... qu'il revienne un autre jour.
+
+FIGARO, _avec malice_.
+
+Mais pendant que Monsieur a l'Ã©crin de Madame ouvert, il serait
+peut-Ãªtre Ã  propos...
+
+LE COMTE, _en colÃ¨re_.
+
+Monsieur l'inquisiteur! partez; et s'il vous Ã©chappe un seul mot....
+
+FIGARO.
+
+Un seul mot? J'aurais trop Ã  dire; je ne veux rien faire Ã  demi. (_Il
+examine l'Ã©crin, le papier que tient le Comte, lance un fier
+coup-d'Åil Ã  BÃ©gearss et sort._)
+
+
+SCÃNE X.
+
+LE COMTE, BÃGEARSS.
+
+LE COMTE.
+
+Refermons ce perfide Ã©crin. J'ai la preuve que je cherchais. Je la
+tiens, j'en suis dÃ©solÃ©; pourquoi l'ai-je trouvÃ©e? Ah Dieu! lisez,
+lisez, M. _BÃ©gearss_.
+
+BÃGEARSS, _repoussant le papier_.
+
+Entrer dans de pareils secrets! Dieu prÃ©serve qu'on m'en accuse!
+
+LE COMTE.
+
+Quelle est donc la sÃ¨che amitiÃ© qui repousse mes confidences? Je vois
+qu'on n'est compatissant que pour les maux qu'on Ã©prouva soi-mÃªme.
+
+BÃGEARSS.
+
+Quoi? pour refuser ce papier!.... (_Vivement._) Serrez-le donc; voici
+_Susanne_. (_Il referme vÃ®te le secret de l'Ã©crin._)
+
+_Le Comte met la lettre dans sa veste, sur sa poitrine._
+
+
+SCÃNE XI.
+
+SUSANNE, LE COMTE, BÃGEARSS.
+
+LE COMTE _est accablÃ©_.
+
+SUSANNE _accourt_.
+
+L'Ã©crin, l'Ã©crin: Madame sonne.
+
+BÃGEARSS _le lui donne_.
+
+_Susanne_, vous voyez que tout y est en bon Ã©tat.
+
+SUSANNE.
+
+Qu'a donc Monsieur? il est troublÃ©!
+
+BÃGEARSS.
+
+Ce n'est rien qu'un peu de colÃ¨re contre votre indiscret mari, qui est
+entrÃ© malgrÃ© ses ordres.
+
+SUSANNE, _finement_.
+
+Je l'avais dit pourtant, de maniÃ¨re Ã  Ãªtre entendue.
+
+(_Elle sort._)
+
+
+SCÃNE XII.
+
+LÃON, LE COMTE, BÃGEARSS.
+
+LE COMTE _veut sortir, il voit entrer LÃ©on_.
+
+Voici l'autre!
+
+LÃON, _timidement veut embrasser le Comte_.
+
+Mon pÃ¨re, agrÃ©ez mon respect; avez-vous bien passÃ© la nuit?
+
+LE COMTE, _sÃ¨chement le repousse_.
+
+OÃ¹ fÃ»tes-vous, Monsieur, hier au soir?
+
+LÃON.
+
+Mon pÃ¨re, on me mena dans une assemblÃ©e estimable...
+
+LE COMTE.
+
+OÃ¹ vous fÃ®tes une lecture?
+
+LÃON.
+
+On m'invita d'y lire un essai que j'ai fait sur l'abus des vÅux
+monastiques, et le droit de s'en relever.
+
+LE COMTE, _amÃ¨rement_.
+
+Les vÅux des chevaliers en sont?
+
+BÃGEARSS.
+
+Qui fut, dit-on trÃ¨s-applaudi?
+
+LÃON.
+
+Monsieur, on a montrÃ© quelqu'indulgence pour mon Ã¢ge.
+
+LE COMTE.
+
+Donc, au lieu de vous prÃ©parer Ã  partir pour vos caravannes; Ã  bien
+mÃ©riter de votre Ordre; vous vous faites des ennemis? Vous allez
+composant, Ã©crivant sur le ton du jour?..... BientÃ´t on ne distinguera
+plus un gentilhomme d'un savant!
+
+LÃON, _timidement_.
+
+Mon pÃ¨re, on en distinguera mieux un ignorant d'un homme instruit; et
+l'homme libre, de l'esclave.
+
+LE COMTE.
+
+Discours d'enthousiaste! On voit oÃ¹ vous en voulez venir. (_Il veut
+sortir_.)
+
+LÃON.
+
+Mon pÃ¨re!......
+
+LE COMTE, _dÃ©daigneux_.
+
+Laissez Ã  l'artisan des villes, ces locutions triviales. Les gens de
+notre Ã©tat ont un langage plus Ã©levÃ©. Qui est-ce qui dit _mon pÃ¨re_, Ã 
+la cour? Monsieur? appellez-moi _monsieur_! vous sentez l'homme du
+commun! Son pÃ¨re!.... (_Il sort; LÃ©on le suit en regardant BÃ©gearss qui
+lui fait un geste de compassion._) Allons, monsieur _BÃ©gearss_, allons!
+
+
+FIN DU PREMIER ACTE.
+
+
+
+
+ACTE II.
+
+_Le ThÃ©Ã¢tre reprÃ©sente la bibliothÃ¨que du Comte._
+
+
+SCÃNE PREMIÃRE.
+
+LE COMTE.
+
+Puisqu'enfin je suis seul, lisons cet Ã©tonnant Ã©crit, qu'un hasard
+presque inconcevable a fait tomber entre mes mains. (_Il tire de son
+sein la lettre de l'Ã©crin, et la lit en pesant sur tous les mots_).
+Â«Malheureux insensÃ©! notre sort est rempli. La surprise nocturne que
+vous avez osÃ© me faire, dans un chÃ¢teau oÃ¹ vous fÃ»tes Ã©levÃ©, dont vous
+connaissiez les dÃ©tours; la violence qui s'en est suivie; enfin votre
+crime,--le mien... (_Il s'arrÃªte_). le mien reÃ§oit sa juste punition.
+Aujourd'hui, jour de _Saint-LÃ©on_, patron de ce lieu et le vÃ´tre, je
+viens de mettre au monde un fils, mon opprobre et mon dÃ©sespoir. Grace Ã 
+de tristes prÃ©cautions, l'honneur est sauf; mais la vertu n'est
+plus.---- CondamnÃ©e dÃ©sormais Ã  des larmes intarissables, je sens
+qu'elles n'effaceront point un crime..... dont l'effet reste subsistant.
+Ne me voyez jamais: c'est l'ordre irrÃ©vocable de la misÃ©rable
+_Rosine_... qui n'ose plus signer un autre nom. (_Il porte ses mains
+avec la lettre Ã  son front, et se promÃ¨ne_)..... Qui n'ose plus signer
+un autre nom!...... Ah! _Rosine!_ oÃ¹ est le temps?... Mais tu t'es
+avilie!.... (_Il s'agite._) Ce n'est point lÃ  l'Ã©crit d'une mÃ©chante
+femme! Un misÃ©rable corrupteur..... Mais voyons la rÃ©ponse Ã©crite sur la
+mÃªme lettre (_Il lit_). Â«Puisque je ne dois plus vous voir, la vie m'est
+odieuse, et je vais la perdre avec joie dans la vive attaque d'un fort,
+oÃ¹ je ne suis point commandÃ©.
+
+Â»Je vous renvoie tous vos reproches; le portrait que j'ai fait de vous,
+et la boucle de cheveux que je vous dÃ©robai. L'ami qui vous rendra ceci
+quand je ne serai plus, est sÃ»r. Il a vu tout mon dÃ©sespoir. Si la mort
+d'un infortunÃ© vous inspirait un reste de pitiÃ©; parmi les noms qu'on va
+donner Ã  l'hÃ©ritier...... d'un autre plus heureux!....... puis-je
+espÃ©rer que le nom de _LÃ©on_ vous rappellera quelquefois le souvenir du
+malheureux..... qui expire en vous adorant, et signe pour la derniÃ¨re
+fois, CHÃRUBIN LÃON, d'_Astorga_.
+
+..... Puis, en caractÃ¨res sanglans!........ Â«BlessÃ© Ã  mort, je rouvre
+cette lettre, et vous Ã©cris avec mon sang, ce douloureux, cet Ã©ternel
+adieu. Souvenez-vous......Â»
+
+Le reste est effacÃ© par des larmes..... (_Il s'agite_)... Ce n'est point
+lÃ  non plus l'Ã©crit d'un mÃ©chant homme! Un malheureux Ã©garement.... (_Il
+s'assied et reste absorbÃ©_). Je me sens dÃ©chirÃ©!
+
+
+SCÃNE II.
+
+BÃGEARSS, LE COMTE.
+
+BÃGEARSS, _en entrant s'arrÃªte, le regarde et se mord le doigt avec
+mystÃ¨re_.
+
+LE COMTE.
+
+Ah! mon cher ami, venez donc!.... vous me voyez dans un accablement....
+
+BÃGEARSS.
+
+TrÃ¨s-effrayant, Monsieur; je n'osais avancer.
+
+LE COMTE.
+
+Je viens de lire cet Ã©crit. Non! ce n'Ã©taient point lÃ  des ingrats ni
+des monstres; mais de malheureux insensÃ©s, comme ils se le disent
+eux-mÃªmes....
+
+BÃGEARSS.
+
+Je l'ai prÃ©sumÃ© comme vous.
+
+LE COMTE _se lÃ¨ve et se promÃ¨ne_.
+
+Les misÃ©rables femmes! en se laissant sÃ©duire ne savent guÃ¨res les maux
+qu'elles apprÃªtent..... Elles vont, elles vont..... les affronts
+s'accumulent.... et le monde injuste et lÃ©ger accuse un pÃ¨re qui se
+tait, qui devore en secret ses peines!...... On le taxe de duretÃ©, pour
+les sentimens qu'il refuse au fruit d'un coupable adultÃ¨re!.... Nos
+dÃ©sordres Ã  nous, ne leur enlÃ¨vent presque rien; ne peuvent du moins
+leur ravir la certitude d'Ãªtre mÃ¨res, ce bien inestimable de la
+maternitÃ©! tandis que leur moindre caprice, un goÃ»t, une Ã©tourderie
+lÃ©gÃ¨re, dÃ©truit dans l'homme le bonheur..... le bonheur de toute sa vie,
+la sÃ©curitÃ© d'Ãªtre pÃ¨re.---- Ah! ce n'est point lÃ©gÃ¨rement qu'on a donnÃ©
+tant d'importance Ã  la fidÃ©litÃ© des femmes! Le bien, le mal de la
+sociÃ©tÃ©, sont attachÃ©s Ã  leur conduite, le paradis ou l'enfer des
+familles dÃ©pend Ã -tout-jamais de l'opinion qu'elles ont donnÃ© d'elles.
+
+BÃGEARSS.
+
+Calmez-vous; voici votre fille.
+
+
+SCÃNE III.
+
+FLORESTINE, LE COMTE, BÃGEARSS.
+
+FLORESTINE, _un bouquet au cÃ´tÃ©_.
+
+On vous disait, Monsieur, si occupÃ©, que je n'ai pas osÃ© vous fatiguer
+de mon respect.
+
+LE COMTE.
+
+OccupÃ© de toi, mon enfant! _ma fille!_ Ah! je me plais Ã  te donner ce
+nom; car j'ai pris soin de ton enfance. Le mari de ta mÃ¨re Ã©tait fort
+dÃ©rangÃ©: en mourant il ne laissa rien. Elle-mÃªme, en quittant la vie,
+t'a recommandÃ©e Ã  mes soins. Je lui engageai ma parole; je la tiendrai,
+ma fille, en te donnant un noble Ã©poux. Je te parle avec libertÃ© devant
+cet ami qui nous aime. Regarde autour de toi; choisis! ne trouves-tu
+personne ici, digne de possÃ©der ton cÅur?
+
+FLORESTINE, _lui baisant la main_.
+
+Vous l'avez tout entier, Monsieur, et si je me vois consultÃ©e, je
+rÃ©pondrai que mon bonheur est de ne point changer d'Ã©tat.--M.r votre
+fils en se mariant....... (car, sans doute, il ne restera plus dans
+l'ordre de Malthe aujourd'hui); M.r votre fils, en se mariant, peut
+se sÃ©parer de son pÃ¨re. Ah! permettez que ce soit moi qui prenne soin de
+vos vieux jours! c'est un devoir, Monsieur, que je remplirai avec joie.
+
+LE COMTE.
+
+Laisse, laisse _Monsieur_ rÃ©servÃ© pour l'indiffÃ©rence; on ne sera point
+Ã©tonnÃ© qu'une enfant si reconnaissante me donne un nom plus doux!
+appelle-moi ton pÃ¨re.
+
+BÃGEARSS.
+
+Elle est digne, en honneur, de votre confidence entiÃ¨re......
+Mademoiselle, embrassez ce bon, ce tendre protecteur. Vous lui devez
+plus que vous ne pensez. Sa tutelle n'est qu'un devoir. Il fut
+l'ami..... l'ami secret de votre mÃ¨re.... et, pour tout dire en un seul
+mot....
+
+
+SCÃNE IV.
+
+FIGARO, LA COMTESSE, LE COMTE, FLORESTINE, BÃGEARSS. (_La Comtesse est
+en robe Ã  peigner._)
+
+FIGARO, _annonÃ§ant_.
+
+Madame la Comtesse.
+
+BÃGEARSS _jette un regard furieux sur Figaro_.
+
+(_A part_). Au diable le faquin!
+
+LA COMTESSE, _au Comte_.
+
+_Figaro_ m'avait dit que vous vous trouviez mal; effrayÃ©e, j'accours, et
+je vois.....
+
+LE COMTE.
+
+.....Que cet homme officieux vous a fait encore un mensonge.
+
+FIGARO.
+
+Monsieur, quand vous Ãªtes passÃ©, vous aviez un air si dÃ©fait.......
+heureusement il n'en est rien. (_BÃ©gearss l'examine_).
+
+LA COMTESSE.
+
+Bonjour, monsieur _BÃ©gearss_.... Te voilÃ , _Florestine_; je te trouve
+radieuse..... Mais voyez donc comme elle est fraÃ®che et belle! Si le
+ciel m'eÃ»t donnÃ© une fille, je l'aurais voulue comme toi, de figure et
+de caractÃ¨re. Il faudra bien que tu m'en tiennes lieu. Le veux-tu,
+_Florestine_?
+
+FLORESTINE, _lui baisant la main_.
+
+Ah! Madame!
+
+LA COMTESSE.
+
+Qui t'a donc fleurie si matin?
+
+FLORESTINE, _avec joie_.
+
+Madame, on ne m'a point fleurie; c'est moi qui ai fait des bouquets.
+N'est-ce pas aujourd'hui _Saint-LÃ©on_?
+
+LA COMTESSE.
+
+Charmante enfant, qui n'oublie rien! (_Elle la baise au front._)
+
+LE COMTE _fait un geste terrible_. _BÃ©gearss le retient._
+
+LA COMTESSE, _Ã  Figaro_.
+
+Puisque nous voilÃ  rassemblÃ©s, avertissez mon fils que nous prendrons
+ici le chocolat.
+
+FLORESTINE.
+
+Pendant qu'ils vont le prÃ©parer, Mon parrain, faites-nous donc voir ce
+beau buste de _Washington_, que vous avez, dit-on, chez vous.
+
+LE COMTE.
+
+J'ignore qui me l'envoie; je ne l'ai demandÃ© Ã  personne; et, sans doute,
+il est pour _LÃ©on_. Il est beau; je l'ai lÃ  dans mon cabinet: venez
+tous.
+
+(_BÃ©gearss, en sortant le dernier, se retourne deux fois pour examiner
+Figaro qui le regarde de mÃªme. Ils ont l'air de se menacer sans
+parler_).
+
+
+SCÃNE V.
+
+FIGARO _seul, rangeant la table et les tÃ¢sses pour le dÃ©jeÃ»nÃ©_.
+
+Serpent, ou basilic! tu peux me mesurer, me lancer des regards affreux!
+Ce sont les miens qui te tueront!.... Mais, oÃ¹ reÃ§oit-il ses paquets? Il
+ne vient rien pour lui, de la poste Ã  l'hÃ´tel! Est il montÃ© seul de
+l'enfer?...... Quelqu'autre diable correspond!.... et moi, je ne puis
+dÃ©couvrir.....
+
+
+SCÃNE VI.
+
+FIGARO, SUSANNE.
+
+SUSANNE _accourt, regarde, et dit trÃ¨s-vivement Ã  l'oreille de Figaro_:
+
+C'est lui que la pupille Ã©pouse.---- Il a la promesse du Comte.---- Il
+guÃ©rira _LÃ©on_ de son amour.---- Il dÃ©tachera _Florestine_.---- Il fera
+consentir madame.---- Il te chasse de la maison.---- Il cloÃ®tre ma
+maÃ®tresse en attendant que l'on divorce.----Fait dÃ©shÃ©riter le jeune
+homme, et me rend maÃ®tresse de tout. VoilÃ  les nouvelles du jour.
+
+(_Elle s'enfuit_).
+
+
+SCÃNE VII.
+
+FIGARO, _seul_.
+
+Non, s'il vous plaÃ®t, Monsieur le Major! nous compterons ensemble
+auparavant. Vous apprendrez de moi, qu'il n'y a que les sots qui
+triomphent. Grace Ã  l'_Arianne-Suson_, je tiens le fil du labyrinthe, et
+le Minotaure est cernÃ©.....Je t'envelopperai dans tes piÃ©ges, et te
+dÃ©masquerai si bien!... Mais quel intÃ©rÃªt assez pressant lui fait faire
+une telle Ã©cole, dessÃ¨re les dents d'un tel homme? S'en croirait-il
+assez sÃ»r pour..... La sottise et la vanitÃ© sont compagnes insÃ©parables!
+Mon Politique babille et se confie! Il a perdu le coup. _Y a faute!_
+
+
+SCÃNE VIII.
+
+GUILLAUME, FIGARO.
+
+GUILLAUME, (_avec une lettre_).
+
+MEISSIEIR _BÃ©gearss_! ChÃ© vois qu'il est pas pour ici?
+
+FIGARO, _rangeant le dÃ©jeÃ»nÃ©_.
+
+Tu peux l'attendre, il va rentrer.
+
+GUILLAUME, _reculant_.
+
+Meingoth! ch'attendrai pas MeissieÃ¯r en gombagnie tÃ© vous! Mon maÃ®tre il
+voudrait point, jÃ© chure.
+
+FIGARO.
+
+Il te le dÃ©fend? eh bien! donne la lettre; je vais la lui remettre en
+rentrant.
+
+GUILLAUME, _reculant_.
+
+Pas plis Ã  vous tÃ© lettres! O tiable! il voudra pientÃ´t me jasser.
+
+FIGARO, _Ã  part_.
+
+Il faut pomper le sot.--Tu.... viens de la poste, je crois?
+
+GUILLAUME.
+
+Tiable! non, chÃ© viens pas.
+
+FIGARO.
+
+C'est sans doute quelque missive du Gentlemen..... du parent irlandais
+dont il vient d'hÃ©riter? Tu sais cela, toi, bon Guillaume?
+
+GUILLAUME, _riant niaisement_.
+
+Lettre d'un qu'il est mort, MeissieÃ¯r! non, chÃ© vous prie! celui-lÃ , chÃ©
+crois pas, partiÃ©! ce sera pien plitÃ´t d'un autre. Peut-Ãªtre il
+viendrait d'un qu'ils sont lÃ ... pas contens, dehors.
+
+FIGARO.
+
+D'un de nos mÃ©contens, dis-tu?
+
+GUILLAUME.
+
+Oui, mais ch'assure pas....
+
+FIGARO, _Ã  part_.
+
+Cela se peut; il est fourrÃ© dans tout. (_A Guillaume._) On pourrait voir
+au timbre, et s'assurer.......
+
+GUILLAUME.
+
+Ch'assure pas; pourquoi? les lettres il vient chez M. _O-Connor_; et
+puis, je sais pas quoi c'est _timprÃ©_, moi.
+
+FIGARO, _vivement_.
+
+_O-Connor!_ banquier irlandais?
+
+GUILLAUME.
+
+Mon foi!
+
+FIGARO _revient Ã  lui, froidement_.
+
+Ici prÃ¨s, derriÃ¨re l'hÃ´tel?
+
+GUILLAUME.
+
+Ein fort choli maison, partiÃ©! tes chens trÃ¨s.... beaucoup grÃ¢cieux, si
+j'osse dire. (_Il se retire Ã  l'Ã©cart_).
+
+FIGARO, _Ã  lui-mÃªme_.
+
+O fortune! O bonheur!
+
+GUILLAUME, _revenant_.
+
+Parle pas, fous, de s'tÃ© banquier, pour personne; entende-fous?
+ch'aurais pas du...... _TertaÃ¯fle!_ (_Il frappe du pied_).
+
+FIGARO.
+
+Vas! je n'ai garde; ne crains rien.
+
+GUILLAUME.
+
+Mon maÃ®tre, il dit, MeissieÃ¯r, vous Ã¢fre tout l'esprit, et moi pas....
+Alors c'est chuste.... Mais, peut-Ãªtre chÃ© suis mÃ©content d'avoir dit Ã 
+fous.....
+
+FIGARO.
+
+Et pourquoi?
+
+GUILLAUME.
+
+ChÃ© sais pas.---- La valet trahir, voye-fous.... L'Ãªtre un pÃ©chÃ© qu'il
+est parpare, vil, et mÃªme.... puÃ©ril.
+
+FIGARO.
+
+Il est vrai; mais tu n'as rien dit.
+
+GUILLAUME, _dÃ©solÃ©_.
+
+Mon ThiÃ©! Mon ThiÃ©! chÃ© sais pas, lÃ ... quoi tire... ou non..... (_Il se
+retire en soupirant._). Ah! (_Il regarde niaisement les livres de la
+bibliothÃ¨que_).
+
+FIGARO, _Ã  part_.
+
+Quelle dÃ©couverte! Hasard! je te salue! (_Il cherche ses tablettes_). Il
+faut pourtant que je dÃ©mÃªle comment un homme si caverneux s'arrange d'un
+tel imbÃ©cille!...... De mÃªme que les brigands redoutent les
+rÃ©verbÃ¨res.... Oui, mais un sot est un fallot; la lumiÃ¨re passe Ã 
+travers. (_Il dit en Ã©crivant sur ses tablettes_): _O-Connor, banquier
+irlandais_. C'est lÃ  qu'il faut que j'Ã©tablisse mon noir comitÃ© des
+recherches. Ce moyen lÃ  n'est pas trop constitutionnel; _ma! perdio!_
+l'utilitÃ©! Et puis, j'ai mes exemples! (_Il Ã©crit_). Quatre ou cinq
+louis d'or au valet chargÃ© du dÃ©tail de la poste, pour ouvrir dans un
+cabaret chaque lettre de l'Ã©criture d'_HonorÃ©-Tartuffe BÃ©gearss_........
+Monsieur le tartuffe honorÃ©! vous cesserez enfin de l'Ãªtre! Un dieu m'a
+mis sur votre piste. (_Il serre ses tablettes_). Hasard! Dieu mÃ©connu!
+les Anciens t'appelaient Destin! nos gens te donnent un autre nom......
+
+
+SCÃNE IX.
+
+LA COMTESSE, LE COMTE, FLORESTINE, BÃGEARSS, FIGARO, GUILLAUME.
+
+BÃGEARSS _apperÃ§oit Guillaume, et dit avec humeur en lui prenant la
+lettre_:
+
+Ne peux-tu pas me les garder chez moi?
+
+GUILLAUME.
+
+ChÃ© crois, celui-ci, c'est tout comme. (_Il sort._)
+
+LA COMTESSE, _au Comte_.
+
+Monsieur, ce buste est un trÃ¨s-beau morceau: votre fils l'a-t-il vu?
+
+BÃGEARSS, _la lettre ouverte_.
+
+Ah! Lettre de Madrid! du secrÃ©taire du Ministre! Il y a un mot qui vous
+regarde. (_Il lit_). Â«Dites au Comte _Almaviva_, que le courrier qui
+part demain, lui porte l'agrÃ©ment du Roi pour l'Ã©change de toutes ses
+terresÂ».
+
+FIGARO _Ã©coute, et se fait, sans parler, un signe d'intelligence_.
+
+LA COMTESSE.
+
+_Figaro?_ dis donc Ã  mon fils que nous dÃ©jeÃ»nons tous ici.
+
+FIGARO.
+
+Madame, je vais l'avertir. (_Il sort_).
+
+
+SCÃNE X.
+
+LA COMTESSE, LE COMTE, FLORESTINE, BÃGEARSS.
+
+LE COMTE, _Ã  BÃ©gearss_.
+
+J'en veux donner avis sur-le-champ Ã  mon acquÃ©reur. Envoyez-moi du thÃ©
+dans mon arriÃ¨re-cabinet.
+
+FLORESTINE.
+
+Bon papa, c'est moi qui vous le porterai.
+
+LE COMTE, _bas Ã  Florestine_.
+
+Pense beaucoup au peu que je t'ai dit. (_Il la baise au front et sort_).
+
+
+SCÃNE XI.
+
+LÃON, LA COMTESSE, FLORESTINE, BÃGEARSS.
+
+LÃON, _avec chagrin_.
+
+Mon pÃ¨re s'en va quand j'arrive! il m'a traitÃ© avec une rigueur.....
+
+LA COMTESSE, _sÃ©vÃ¨rement_.
+
+Mon fils, quels discours tenez-vous? dois-je me voir toujours froissÃ©e
+par l'injustice de chacun? Votre pÃ¨re a besoin d'Ã©crire Ã  la personne
+qui Ã©change ses terres.
+
+FLORESTINE, _gaiement_.
+
+Vous regrettez votre papa? nous aussi nous le regrettons. Cependant,
+comme il sait que c'est aujourd'hui votre fÃªte, il m'a chargÃ©e,
+Monsieur, de vous prÃ©senter ce bouquet. (_Elle lui fait une grande
+rÃ©vÃ©rence_).
+
+LÃON, _pendant qu'elle l'ajuste Ã  sa boutonniÃ¨re_.
+
+Il _n_'en pouvait prier quelqu'un qui me rendit ses bontÃ©s aussi
+chÃ¨res... (_Il l'embrasse_).....
+
+FLORESTINE, _se dÃ©battant_.
+
+Voyez, Madame, si jamais on peut badiner avec lui, sans qu'il abuse au
+mÃªme instant...
+
+LA COMTESSE, _souriant_.
+
+Mon enfant, le jour de sa fÃªte, on peut lui passer quelque chose.
+
+FLORESTINE, _baissant les yeux_.
+
+Pour l'en punir, Madame, faites-lui lire le discours qui fut, dit on,
+tant applaudi hier Ã  l'assemblÃ©e.
+
+LÃON.
+
+Si Maman juge que j'ai tort, j'irai chercher ma pÃ©nitence.
+
+FLORESTINE.
+
+Ah! Madame, ordonnez le lui.
+
+LA COMTESSE.
+
+Apportez-nous, Mon fils, votre discours: moi, je vais prendre quelque
+ouvrage, pour l'Ã©couter avec plus d'attention.
+
+FLORESTINE, _gaiement_.
+
+ObstinÃ©! c'est bien fait; et je l'entendrai malgrÃ© vous.
+
+LÃON, _tendrement_.
+
+MalgrÃ© moi, quand vous l'ordonnez? Ah! _Florestine_, j'en dÃ©fie!
+
+(_La Comtesse et LÃ©on sortent chacun de leur cÃ´tÃ©._)
+
+
+SCÃNE XII.
+
+FLORESTINE, BÃGEARSS.
+
+BÃGEARSS, _bas_.
+
+Eh bien! Mademoiselle, avez-vous devinÃ© l'Ã©poux qu'on vous destine?
+
+FLORESTINE, _avec joie_.
+
+Mon cher monsieur _BÃ©gearss_! vous Ãªtes Ã  tel point notre ami, que je me
+permettrai de penser tout-haut avec vous. Sur qui puis-je porter les
+yeux? Mon parrain m'a bien dit: _regarde autour de toi; choisis_. Je
+vois l'excÃ¨s de sa bontÃ©: ce ne peut Ãªtre que _LÃ©on_. Mais moi, sans
+biens, dois-je abuser.....
+
+BÃGEARSS, _d'un ton terrible_.
+
+Qui? _LÃ©on!_ son fils? votre frÃ¨re?
+
+FLORESTINE, _avec un cri douloureux_.
+
+Ah! Monsieur!.....
+
+BÃGEARSS.
+
+Ne vous a-t-il pas dit: appelle-moi ton pÃ¨re? RÃ©veillez vous, Ma chÃ¨re
+enfant! Ã©cartez un songe trompeur, qui pouvait devenir funeste.
+
+FLORESTINE.
+
+Ah! oui; funeste pour tous deux!
+
+BÃGEARSS.
+
+Vous sentez qu'un pareil secret doit rester cachÃ© dans votre Ã¢me. (_Il
+sort en la regardant._)
+
+
+SCÃNE XIII.
+
+FLORESTINE, _seule et pleurant_.
+
+O Ciel! il est mon frÃ¨re, et j'ose avoir pour lui... Quel coup d'une
+lumiÃ¨re affreuse! et dans un tel sommeil, qu'il est cruel de s'Ã©veiller!
+(_Elle tombe accablÃ©e sur un siÃ©ge._)
+
+
+SCÃNE XIV.
+
+LÃON, _un papier Ã  la main_, FLORESTINE.
+
+LÃON, _joyeux, Ã  part_.
+
+Maman n'est pas rentrÃ©e, et M. _BÃ©gearss_ est sorti: profitons d'un
+moment heureux.--_Florestine!_ vous Ãªtes ce matin, et toujours, d'une
+beautÃ© parfaite; mais vous avez un air de joie, un ton aimable de
+gaietÃ©, qui ranime mes espÃ©rances.
+
+FLORESTINE, _au dÃ©sespoir_.
+
+Ah _LÃ©on_!.... (_Elle retombe_).
+
+LÃON.
+
+Ciel! vos yeux noyÃ©s de larmes, et votre visage dÃ©fait m'annoncent
+quelque grand malheur!
+
+FLORESTINE.
+
+Des malheurs? Ah! _LÃ©on_, il n'y en a plus que pour moi.
+
+LÃON.
+
+_Floresta_, ne m'aimez-vous plus? lorsque mes sentimens pour vous....
+
+FLORESTINE, _d'un ton absolu_.
+
+Vos sentimens? ne m'en parlez jamais.
+
+LÃON.
+
+Quoi? l'amour le plus pur....
+
+FLORESTINE, _au dÃ©sespoir_.
+
+Finissez ces cruels discours, ou je vais vous fuir Ã  l'instant.
+
+LÃON.
+
+Grand Dieu! qu'est-il donc arrivÃ©? M. _BÃ©gearss_ vous a parlÃ©,
+Mademoiselle, je veux savoir ce que vous a dit ce _BÃ©gearss_?
+
+
+SCÃNE XV.
+
+LA COMTESSE, FLORESTINE, LÃON.
+
+LÃON _continue_.
+
+Maman, venez Ã  mon secours. Vous me voyez au dÃ©sespoir; _Florestine_ ne
+m'aime plus.
+
+FLORESTINE, _pleurant_.
+
+Moi, Madame, ne plus l'aimer! Mon parrain, vous et lui, c'est le cri de
+ma vie entiÃ¨re.
+
+LA COMTESSE.
+
+Mon enfant, je n'en doute pas. Ton cÅur excellent m'en rÃ©pond. Mais
+de quoi donc s'afflige-t-il?
+
+LÃON.
+
+Maman, vous approuvez l'ardent amour que j'ai pour elle?
+
+FLORESTINE, _se jetant dans les bras de la Comtesse_.
+
+Ordonnez-lui donc de se taire! (_En pleurant_). Il me fait mourir de
+douleur!
+
+LA COMTESSE.
+
+Mon enfant, je ne t'entends point. Ma surprise Ã©gale la sienne..... Elle
+frissonne entre mes bras! Qu'a-t-il donc fait qui puisse te dÃ©plaire?
+
+FLORESTINE, _se renversant sur elle_.
+
+Madame il ne me dÃ©plait point. Je l'aime et le respecte Ã  l'Ã©gal de mon
+frÃ¨re; mais qu'il n'exige rien de plus.
+
+LÃON.
+
+Vous l'entendez, Maman! Cruelle fille! expliquez-vous.
+
+FLORESTINE.
+
+Laissez-moi, laissez-moi, ou vous me causerez la mort.
+
+
+SCÃNE XVI.
+
+LA COMTESSE, FLORESTINE, LÃON, FIGARO, _arrivant avec l'Ã©quipage du
+thÃ©_; SUSANNE, _de l'autre cÃ´tÃ©, avec un mÃ©tier de tapisserie_.
+
+LA COMTESSE.
+
+Remporte tout, _Susanne_: il n'est pas plus question de dÃ©jeÃ»nÃ© que de
+lecture. Vous, _Figaro_, servez du thÃ© Ã  votre maÃ®tre; il Ã©crit dans son
+cabinet. Et toi, ma _Florestine_, viens dans le mien, rassurer ton amie.
+Mes chers enfans, je vous porte en mon cÅur!--Pourquoi
+l'affligez-vous l'un aprÃ¨s l'autre sans pitiÃ©? Il y a ici des choses
+qu'il m'est important d'Ã©claircir. (_Elles sortent_).
+
+
+SCÃNE XVII.
+
+SUSANNE, FIGARO, LÃON.
+
+SUSANNE, _Ã  Figaro_.
+
+Je ne sais pas de quoi il est question; mais je parierais bien que c'est
+lÃ  du _BÃ©gearss_ tout pur. Je veux absolument prÃ©munir ma maÃ®tresse.
+
+FIGARO.
+
+Attends que je sois plus instruit: nous nous concerterons ce soir. Oh!
+j'ai fait une dÃ©couverte.....
+
+SUSANNE.
+
+Et tu me la diras? (_Elle sort_).
+
+
+SCÃNE XVIII.
+
+FIGARO, LÃON.
+
+LÃON, _dÃ©solÃ©_.
+
+Ah! Dieux!
+
+FIGARO.
+
+De quoi s'agit-il donc, Monsieur?
+
+LÃON.
+
+HÃ©las! je l'ignore moi-mÃªme. Jamais je n'avais vu _Floresta_ de si
+belle humeur, et je savais qu'elle avait eu un entretien avec mon pÃ¨re.
+Je la laisse un instant avec M. _BÃ©gearss_; je la trouve seule, en
+rentrant, les yeux remplis de larmes, et m'ordonnant de la fuir pour
+toujours. Que peut-il donc lui avoir dit?
+
+FIGARO.
+
+Si je ne craignais pas votre vivacitÃ©, je vous instruirais sur des
+points qu'il vous importe de savoir. Mais lorsque nous avons besoin
+d'une grande prudence, il ne faudrait qu'un mot de vous, trop vif, pour
+me faire perdre le fruit de dix annÃ©es d'observations.
+
+LÃON.
+
+Ah! s'il ne faut qu'Ãªtre prudent........ Que crois-tu donc qu'il lui ait
+dit?
+
+FIGARO.
+
+Qu'elle doit accepter _HonorÃ© BÃ©gearss_ pour Ã©poux; que c'est une
+affaire arrangÃ©e entre M. votre pÃ¨re et lui.
+
+LÃON.
+
+Entre mon pÃ¨re et lui? Le traÃ®tre aura ma vie.
+
+FIGARO.
+
+Avec ces faÃ§ons lÃ , Monsieur, le traÃ®tre n'aura pas votre vie; mais il
+aura votre maÃ®tresse, et votre fortune avec elle.
+
+LÃON.
+
+Eh bien! Ami, pardon: apprends-moi ce que je dois faire?
+
+FIGARO.
+
+Deviner l'Ã©nigme du Sphinx; ou bien en Ãªtre dÃ©vorÃ©. En d'autres termes,
+il faut vous modÃ©rer, le laisser dire, et dissimuler avec lui.
+
+LÃON, _avec fureur_.
+
+Me modÃ©rer!..... Oui, je me modÃ©rerai. Mais j'ai la rage dans le
+cÅur!---- M'enlever _Florestine_! Ah! le voici qui vient: je vais
+m'expliquer..... froidement.
+
+FIGARO.
+
+Tout est perdu si vous vous Ã©chappez.
+
+
+SCÃNE XIX.
+
+BÃGEARSS, FIGARO, LÃON.
+
+LÃON, _se contenant mal_.
+
+Monsieur, monsieur, un mot. Il importe Ã  votre repos que vous rÃ©pondiez
+sans dÃ©tour.--- _Florestine_ est au dÃ©sespoir; qu'avez-vous dit Ã 
+_Florestine_?
+
+BÃGEARSS, _d'un ton glacÃ©_.
+
+Et qui vous dit que je lui ai parlÃ©? Ne peut-elle avoir des chagrins,
+sans que j'y sois pour quelque chose?
+
+LÃON, _vivement_.
+
+Point d'Ã©vÃ¢sions, Monsieur. Elle Ã©tait d'une humeur charmante: en
+sortant d'avec vous, on la voit fondre en larmes. De quelque part
+qu'elle en reÃ§oive, mon cÅur partage ses chagrins. Vous m'en direz la
+cause, ou bien vous m'en ferez raison.
+
+BÃGEARSS.
+
+Avec un ton moins absolu, on peut tout obtenir de moi; je ne sais point
+cÃ©der Ã  des menaces.
+
+LÃON, _furieux_.
+
+Eh bien! Perfide, dÃ©fends-toi. J'aurai ta vie, ou tu auras la mienne!
+(_Il met la main Ã  son Ã©pÃ©e_).
+
+FIGARO _les arrÃªte_.
+
+Monsieur _BÃ©gearss_! au fils de votre ami? dans sa maison? oÃ¹ vous
+logez?
+
+BÃGEARSS, _se contenant_.
+
+Je sais trop ce que je me dois.... Je vais m'expliquer avec lui; mais je
+n'y veux point de tÃ©moins. Sortez, et laissez-nous ensemble.
+
+LÃON.
+
+Vas, mon cher _Figaro_: tu vois qu'il ne peut m'Ã©chapper. Ne lui
+laissons aucune excuse.
+
+FIGARO, _Ã  part_.
+
+Moi, je cours avertir son pÃ¨re (_Il sort_).
+
+
+SCÃNE XX.
+
+LÃON, BÃGEARSS.
+
+LÃON, _lui barrant la porte_.
+
+Il vous convient peut-Ãªtre mieux de vous battre que de parler. Vous
+Ãªtes le maÃ®tre du choix; mais je n'admettrai rien d'Ã©tranger Ã  ces deux
+moyens.
+
+BÃGEARSS, _froidement_.
+
+_LÃ©on!_ un homme d'honneur n'Ã©gorge pas le fils de son ami. Devais-je
+m'expliquer devant un malheureux valet, insolent d'Ãªtre parvenu Ã 
+presque gouverner son maÃ®tre?
+
+LÃON, _s'asseyant_.
+
+Au fait, Monsieur, je vous attends....
+
+BÃGEARSS.
+
+Oh! que vous allez regretter une fureur dÃ©raisonnable!
+
+LÃON.
+
+C'est ce que nous verrons bientÃ´t.
+
+BÃGEARSS, _affectant une dignitÃ© froide_.
+
+_LÃ©on!_ vous aimez _Florestine_; il y a long-temps que je le vois...
+Tant que votre frÃ¨re a vÃ©cu, je n'ai pas cru devoir servir un amour
+malheureux qui ne vous conduisait Ã  rien. Mais depuis qu'un funeste
+duel, disposant de sa vie, vous a mis en sa place, j'ai eu l'orgueil de
+croire mon influence capable de disposer M. votre pÃ¨re Ã  vous unir Ã 
+celle que vous aimez. Je l'attaquais de toutes les maniÃ¨res; une
+rÃ©sistance invincible a repoussÃ© tous mes efforts. DÃ©solÃ© de le voir
+rejeter un projet qui me paraissait fait pour le bonheur de tous.....
+Pardon, mon jeune ami, je vais vous affliger; mais il le faut en ce
+moment, pour vous sauver d'un malheur Ã©ternel. Rappelez bien votre
+raison, vous allez en avoir besoin.--- J'ai forcÃ© votre pÃ¨re Ã  rompre le
+silence; Ã  me confier son secret. O mon ami! m'a dit enfin le Comte: je
+connais l'amour de mon fils; mais puis-je lui donner _Florestine_ pour
+femme? Celle que l'on croit ma pupille.... elle est ma fille; elle est
+sa sÅur.
+
+LÃON, _reculant vivement_.
+
+_Florestine?_..... ma sÅur?....
+
+BÃGEARSS.
+
+VoilÃ  le mot qu'un sÃ©vÃ¨re devoir.... Ah! je vous le dois Ã  tous deux:
+mon silence pouvait vous perdre. Eh bien! _LÃ©on_, voulez-vous vous
+battre avec moi?
+
+LÃON.
+
+Mon gÃ©nÃ©reux ami! je ne suis qu'un ingrat, un monstre! oubliez ma rage
+insensÃ©e......
+
+BÃGEARSS, _bien tartuffÃ©_.
+
+Mais c'est Ã  condition que ce fatal secret ne sortira jamais........
+DÃ©voiler la honte d'un pÃ¨re, ce serait un crime....
+
+LÃON, _se jetant dans ses bras_.
+
+Ah! jamais.
+
+
+SCÃNE XXI.
+
+LE COMTE, FIGARO, LÃON, BÃGEARSS.
+
+FIGARO, _accourant_.
+
+Les voilÃ , les voilÃ .
+
+LE COMTE.
+
+Dans les bras l'un de l'autre! Eh! vous perdez l'esprit?
+
+FIGARO, _stupÃ©fait_.
+
+Ma foi! Monsieur... on le perdrait Ã  moins.
+
+LE COMTE, _Ã  Figaro_.
+
+M'expliquerez-vous cette Ã©nigme?
+
+LÃON, _tremblant_.
+
+Ah! c'est Ã  moi, mon pÃ¨re, Ã  l'expliquer. Pardon! je dois mourir de
+honte! Sur un sujet assez frivole, je m'Ã©tais.... beaucoup oubliÃ©. Son
+caractÃ¨re gÃ©nÃ©reux, non seulement me rend Ã  la raison; mais il a la
+bontÃ© d'excuser ma folie en me la pardonnant. Je lui en rendais grace
+lorsque vous nous avez surpris.
+
+LE COMTE.
+
+Ce n'est pas la centiÃ¨me fois que vous lui devez de la reconnaissance.
+Au fait, nous lui en devons tous.
+
+FIGARO, _sans parler, se donne un coup de poing au front_.
+
+BÃGEARSS _l'examine et sourit_.
+
+LE COMTE, _Ã  son fils_.
+
+Retirez-vous, Monsieur. Votre aveu seul enchaÃ®ne ma colÃ¨re.
+
+BÃGEARSS.
+
+Ah! Monsieur, tout est oubliÃ©.
+
+LE COMTE, _Ã  LÃ©on_.
+
+Allez vous repentir d'avoir manquÃ© Ã  mon ami, au vÃ´tre; Ã  l'homme le
+plus vertueux.....
+
+LÃON, _s'en allant_.
+
+Je suis au dÃ©sespoir!
+
+FIGARO, _Ã  part, avec colÃ¨re_.
+
+C'est une lÃ©gion de diables enfermÃ©s dans un seul pourpoint.
+
+
+SCÃNE XXII.
+
+LE COMTE, BÃGEARSS, FIGARO.
+
+LE COMTE, _Ã  BÃ©gearss, Ã  part_.
+
+Mon ami, finissons ce que nous avons commencÃ©. (_A Figaro._) Vous,
+monsieur l'Ã©tourdi, avec vos belles conjectures, donnez-moi les trois
+millions d'or que vous m'avez vous-mÃªme apportÃ©s de _Cadix_, en soixante
+effets au porteur. Je vous avais chargÃ© de les numÃ©roter.
+
+FIGARO.
+
+Je l'ai fait.
+
+LE COMTE.
+
+Remettez-m'en le porte-feuille.
+
+FIGARO.
+
+De quoi? de ces trois millions d'or?
+
+LE COMTE.
+
+Sans doute. Eh bien! qui vous arrÃªte?
+
+FIGARO, _humblement_.
+
+Moi, Monsieur?.... Je ne les ai plus.
+
+BÃGEARSS.
+
+Comment, vous ne les avez plus?
+
+FIGARO, _fiÃ¨rement_.
+
+Non, Monsieur.
+
+BÃGEARSS, _vivement_.
+
+Qu'en avez-vous fait?
+
+FIGARO.
+
+Lorsque mon maÃ®tre m'interroge, je lui dois compte de mes actions; mais
+Ã  vous? je ne vous dois rien.
+
+LE COMTE, _en colÃ¨re_.
+
+Insolent! qu'en avez-vous fait?
+
+FIGARO, _froidement_.
+
+Je les ai portÃ©s en dÃ©pÃ´t chez M. _Fal_, votre notaire.
+
+BÃGEARSS.
+
+Mais de l'avis de qui?
+
+FIGARO, _fiÃ¨rement_.
+
+Du mien; et j'avoue que j'en suis toujours.
+
+BÃGEARSS.
+
+Je vais gager qu'il n'en est rien.
+
+FIGARO.
+
+Comme j'ai sa reconnaissance, vous courez risque de perdre la gageure.
+
+BÃGEARSS.
+
+Ou s'il les a reÃ§us, c'est pour agioter. Ces gens-lÃ  partagent ensemble.
+
+FIGARO.
+
+Vous pourriez un peu mieux parler d'un homme qui vous a obligÃ©.
+
+BÃGEARSS.
+
+Je ne lui dois rien.
+
+FIGARO.
+
+Je le crois; quand on a hÃ©ritÃ© de _quarante mille doublons de
+huit_......
+
+LE COMTE, _se fÃ¢chant_.
+
+Avez-vous donc quelque remarque Ã  nous faire aussi lÃ  dessus?
+
+FIGARO.
+
+Qui moi, Monsieur? J'en doute d'autant moins, que j'ai beaucoup connu le
+parent dont Monsieur hÃ©rite. Un jeune homme assez libertin; joueur,
+prodigue et querelleur; sans frein, sans mÅurs, sans caractÃ¨re; et
+n'ayant rien Ã  lui, pas mÃªme les vices qui l'ont tuÃ©; qu'un combat des
+plus malheureux.....
+
+LE COMTE _frappe du pied_.
+
+BÃGEARSS, _en colÃ¨re_.
+
+Enfin, nous direz-vous pourquoi vous avez dÃ©posÃ© cet or?
+
+FIGARO.
+
+Ma foi, Monsieur, c'est pour n'en Ãªtre plus chargÃ©: ne pouvait-on pas le
+voler? que sait-on? il s'introduit souvent de grands fripons dans les
+maisons!.....
+
+BÃGEARSS, _en colÃ¨re_.
+
+Pourtant Monsieur veut qu'on le rende.
+
+FIGARO.
+
+Monsieur peut l'envoyer chercher.
+
+BÃGEARSS.
+
+Mais ce notaire s'en dÃ©saisira-t-il, s'il ne voit son _rÃ©cÃ©pissÃ©_?
+
+FIGARO.
+
+Je vais le remettre Ã  Monsieur; et quand j'aurai fait mon devoir, s'il
+en arrive quelque mal, il ne pourra s'en prendre Ã  moi.
+
+LE COMTE.
+
+Je l'attends dans mon cabinet.
+
+FIGARO, _au Comte_.
+
+Je vous prÃ©viens que M. _Fal_ ne les rendra que sur votre reÃ§u; je le
+lui ai recommandÃ©. (_Il sort._)
+
+
+SCÃNE XXIII.
+
+LE COMTE, BÃGEARSS.
+
+BÃGEARSS, _en colÃ¨re_.
+
+Comblez cette canaille, et voyez ce qu'elle devient! En vÃ©ritÃ©,
+Monsieur, mon amitiÃ© me force Ã  vous le dire: vous devenez trop
+confiant; il a devinÃ© nos secrets. De valet, barbier, chirurgien, vous
+l'avez Ã©tabli trÃ©sorier, secrÃ©taire; une espÃ¨ce de _factotum_. Il est
+notoire que ce monsieur fait bien ses affaires avec vous.
+
+LE COMTE.
+
+Sur la fidÃ©litÃ©, je n'ai rien Ã  lui reprocher; mais il est vrai qu'il
+est d'une arrogance.....
+
+BÃGEARSS.
+
+Vous avez un moyen de vous en dÃ©livrer en le rÃ©compensant.
+
+LE COMTE.
+
+Je le voudrais souvent.
+
+BÃGEARSS, _confidentiellement_.
+
+En envoyant le Chevalier Ã  Malthe, sans doute vous voulez qu'un homme
+affidÃ© le surveille? Celui-ci, trop flattÃ© d'un aussi honorable emploi,
+ne peut manquer de l'accepter: vous en voilÃ  dÃ©fait pour bien du temps.
+
+LE COMTE.
+
+Vous avez raison, mon ami. Aussi bien, m'a-t-on dit qu'il vit trÃ¨s-mal
+avec sa femme. (_Il sort._)
+
+
+SCÃNE XXIV.
+
+BÃGEARSS, _seul_.
+
+Encore un pas de fait!...... Ah! noble espion! la fleur des drÃ´les! qui
+faites ici le bon valet, et vous voulez nous souffler la dot, en nous
+donnant des noms de comÃ©die! Grace aux soins d'_HonorÃ©-Tartuffe_, vous
+irez partager le malaise des caravannes, et finirez vos inspections sur
+nous.
+
+
+FIN DU SECOND ACTE.
+
+
+
+
+ACTE III.
+
+_Le ThÃ©Ã¢tre reprÃ©sente le cabinet de la Comtesse, ornÃ© de fleurs de
+toutes parts._
+
+
+SCÃNE PREMIÃRE.
+
+LA COMTESSE, SUSANNE.
+
+LA COMTESSE.
+
+Je n'ai pu rien tirer de cette enfant.--Ce sont des pleurs, des
+Ã©touffemens!..... Elle se croit des torts envers moi; m'a demandÃ© cent
+fois pardon; elle veut aller au couvent. Si je rapproche tout ceci de sa
+conduite envers mon fils; je prÃ©sume qu'elle se reproche d'avoir Ã©coutÃ©
+son amour; entretenu ses espÃ©rances; ne se croyant pas un parti assez
+considÃ©rable pour lui.--- Charmante dÃ©licatesse! excÃ¨s d'une aimable
+vertu! Monsieur _BÃ©gearss_, apparemment, lui en a touchÃ© quelques mots
+qui l'auront amenÃ©e Ã  s'affliger sur elle! Car c'est un homme si
+scrupuleux, et si dÃ©licat sur l'honneur, qu'il s'exagÃ¨re quelque fois,
+et se fait des fantÃ´mes oÃ¹ les autres ne voyent rien.
+
+SUSANNE.
+
+J'ignore d'oÃ¹ provient le mal; mais il se passe ici des choses bien
+Ã©tranges! Quelque dÃ©mon y souffle un feu secret. Notre maÃ®tre est sombre
+Ã  pÃ©rir; il nous Ã©loigne tous de lui. Vous Ãªtes sans cesse Ã  pleurer.
+Mademoiselle est suffoquÃ©e. Monsieur votre fils dÃ©solÃ©!.... Monsieur
+_BÃ©gearss_, lui seul, imperturbable comme un dieu! semble n'Ãªtre affectÃ©
+de rien; voit tous vos chagrins d'un Åil sec......
+
+LA COMTESSE.
+
+Mon enfant, son cÅur les partage. HÃ©las! Sans ce consolateur, qui
+verse un baume sur nos plaies; dont la sagesse nous soutient; adoucit
+toutes les aigreurs; calme mon irascible Ã©poux; nous serions bien plus
+malheureux!
+
+SUSANNE.
+
+Je souhaite, Madame, que vous ne vous abusiez pas!
+
+LA COMTESSE.
+
+Je t'ai vue autrefois lui rendre plus de justice! (_Susanne baisse les
+yeux_). Au reste il peut seul me tirer du trouble oÃ¹ cette enfant m'a
+mise. Fais le prier de descendre chez moi.
+
+SUSANNE.
+
+Le voici qui vient Ã  propos; vous vous ferez coÃ«ffer plus tard. (_Elle
+sort_).
+
+
+SCÃNE II.
+
+LA COMTESSE, BÃGEARSS.
+
+LA COMTESSE, _douloureusement_.
+
+Ah! mon pauvre Major; que se passe-t-il donc ici? Touchons nous enfin Ã 
+la crise que j'ai si long-temps redoutÃ©e; que j'ai vu de loin se former?
+L'Ã©loignement du Comte pour mon malheureux fils semble augmenter de jour
+en jour. Quelque lumiÃ¨re fatale aura pÃ©nÃ©trÃ© jusqu'Ã  lui!
+
+BÃGEARSS.
+
+Madame, je ne le crois pas.
+
+LA COMTESSE.
+
+Depuis que le ciel m'a punie par la mort de mon fils aÃ®nÃ©, je vois le
+Comte absolument changÃ©: au lieu de travailler avec l'ambassadeur Ã 
+_Rome_, pour rompre les vÅux de _LÃ©on_; je le vois s'obstiner Ã 
+l'envoyer Ã  _Malthe_.--- Je sais de plus, _Monsieur BÃ©gearss_, qu'il
+dÃ©nature sa fortune, et veut abandonner l'Espagne, pour s'Ã©tablir dans
+ce pays.--L'autre jour Ã  dÃ®ner, devant trente personnes, il raisonna sur
+le divorce d'une faÃ§on Ã  me faire frÃ©mir.
+
+BÃGEARSS.
+
+J'y Ã©tais; je m'en souviens trop?
+
+LA COMTESSE, _en larmes_.
+
+Pardon, mon digne ami; je ne puis pleurer qu'avec vous!
+
+BÃGEARSS.
+
+DÃ©posez vos douleurs dans le sein d'un homme sensible.
+
+LA COMTESSE.
+
+Enfin, est-ce lui, est-ce vous, qui avez dÃ©chirÃ© le cÅur de
+_Florestine_? Je la destinais Ã  mon fils.---- NÃ©e sans biens, il est
+vrai; mais noble, belle et vertueuse; Ã©levÃ©e au milieu de nous: mon fils
+devenu hÃ©ritier, n'en a-t-il pas assez pour deux?
+
+BÃGEARSS.
+
+Que trop, peut-Ãªtre; et c'est d'oÃ¹ vient le mal!
+
+LA COMTESSE.
+
+Mais, comme si le Ciel n'eÃ»t attendu aussi long-temps, que pour me mieux
+punir d'une imprudence tant pleurÃ©e; tout semble s'unir Ã  la fois pour
+renverser mes espÃ©rances. Mon Ã©poux dÃ©teste mon fils.... _Florestine_
+renonce Ã  lui. Aigrie par ne sais quel motif, elle veut le fuir pour
+toujours. Il en mourra le malheureux! voilÃ  ce qui est bien certain.
+(_Elle joint les mains_). Ciel vengeur! aprÃ¨s vingt annÃ©es de larmes et
+de repentir, me rÃ©servez vous Ã  l'horreur de voir ma faute dÃ©couverte?
+Ah! que je sois seule misÃ©rable! mon Dieu, je ne m'en plaindrai pas!
+mais que mon fils ne porte point la peine d'un crime qu'il n'a pas
+commis! Connaissez-vous, _Monsieur BÃ©gearss_, quelque remÃ¨de Ã  tant de
+maux?
+
+BÃGEARSS.
+
+Oui, femme respectable! et je venais exprÃ¨s dissiper vos terreurs. Quand
+on craint une chose, tous nos regards se portent vers cet objet trop
+allarmant: quoiqu'on dise ou qu'on fasse, la frayeur empoisonne tout!
+Enfin je tiens la clef de ces Ã©nigmes. Vous pouvez encore Ãªtre heureuse.
+
+LA COMTESSE.
+
+L'est-on avec une Ã¢me dÃ©chirÃ©e de remords?
+
+BÃGEARSS.
+
+Votre Ã©poux ne fuit point _LÃ©on_; il ne soupÃ§onne rien sur le secret de
+sa naissance.
+
+LA COMTESSE, _vivement_.
+
+Monsieur _BÃ©gearss_!
+
+BÃGEARSS.
+
+Et tous ces mouvemens que vous prenez pour de la haine, ne sont que
+l'effet d'un scrupule. Oh! que je vais vous soulager!
+
+LA COMTESSE, _ardemment_.
+
+Mon cher monsieur _BÃ©gearss_!
+
+BÃGEARSS.
+
+Mais enterrez dans ce cÅur allÃ©gÃ©, le grand mot que je vais vous
+dire. Votre secret Ã  vous, c'est la naissance de _LÃ©on_! Le sien est
+celle de _Florestine_; (_plus bas_), il est son tuteur.... et son pÃ¨re.
+
+LA COMTESSE _joignant les mains_.
+
+Dieu tout puissant qui me prends en pitiÃ©!
+
+BÃGEARSS.
+
+Jugez de sa frayeur en voyant ces enfans amoureux l'un de l'autre! ne
+pouvant dire son secret, ni supporter qu'un tel attachement devÃ®nt le
+fruit de son silence, il est restÃ© sombre, bisarre; et s'il veut
+Ã©loigner son fils, c'est pour Ã©teindre, s'il se peut, par cette absence
+et par ces vÅux, un malheureux amour qu'il croit ne pouvoir tolÃ©rer.
+
+LA COMTESSE, _priant avec ardeur_.
+
+Source Ã©ternelle des bienfaits! O mon Dieu! tu permets qu'en partie je
+rÃ©pare la faute involontaire qu'un insensÃ© me fit commettre; que j'aie,
+de mon cÃ´tÃ©, quelque chose Ã  remettre Ã  cet Ã©poux que j'offensai! O
+Comte _Almaviva_! mon cÅur flÃ©tri, fermÃ© par vingt annÃ©es de peines,
+va se r'ouvrir enfin pour toi! _Florestine_ est ta fille; elle me
+devient chÃ¨re comme si mon sein l'eÃ»t portÃ©e. Faisons, sans nous parler,
+l'Ã©change de notre indulgence! O Monsieur _BÃ©gearss_! achevez.
+
+BÃGEARSS.
+
+Mon amie, je n'arrÃªte point ces premiers Ã©lans d'un bon cÅur: les
+Ã©motions de la joie ne sont point dangereuses comme celles de la
+tristesse; mais, au nom de votre repos, Ã©coutez-moi jusqu'Ã  la fin.
+
+LA COMTESSE.
+
+Parlez mon gÃ©nÃ©reux ami: vous Ã  qui je dois tout, parlez.
+
+BÃGEARSS.
+
+Votre Ã©poux cherchant un moyen de garantir sa _Florestine_ de cet amour
+qu'il croit incestueux, m'a proposÃ© de l'Ã©pouser; mais, indÃ©pendamment
+du sentiment profond et malheureux que mon respect pour vos
+douleurs......
+
+LA COMTESSE, _douloureusement_.
+
+Ah! mon ami! par compassion pour moi.....
+
+BÃGEARSS.
+
+N'en parlons plus. Quelques mots d'Ã©tablissement, tournÃ©s d'une forme
+Ã©quivoque, ont fait penser Ã  _Florestine_ qu'il Ã©tait question de
+_LÃ©on_. Son jeune cÅur s'en Ã©panouissait, quand un valet vous
+annonÃ§a. Sans m'expliquer depuis sur les vues de son pÃ¨re; un mot de
+moi, la ramenant aux sÃ©vÃ¨res idÃ©es de la fraternitÃ©, a produit cet
+orage, et la religieuse horreur dont votre fils ni vous ne pÃ©nÃ©triez le
+motif.
+
+LA COMTESSE.
+
+Il en Ã©tait bien loin, le pauvre enfant!
+
+BÃGEARSS.
+
+Maintenant qu'il vous est connu, devons-nous suivre ce projet d'une
+union qui rÃ©pare tout?.....
+
+LA COMTESSE, _vivement_.
+
+Il faut s'y tenir, mon ami; mon cÅur et mon esprit sont d'accord sur
+ce point, et c'est Ã  moi de la dÃ©terminer. Par-lÃ , nos secrets sont
+couverts; nul Ã©tranger ne les pÃ©nÃ©trera. AprÃ¨s vingt annÃ©es de
+souffrances nous passerons des jours heureux, et c'est Ã  vous, mon digne
+ami, que ma famille les devra.
+
+BÃGEARSS, _Ã©levant le ton_.
+
+Pour que rien ne les trouble plus, il faut encore un sacrifice, et mon
+amie est digne de le faire.
+
+LA COMTESSE.
+
+HÃ©las! je veux les faire tous.
+
+BÃGEARSS, _l'air imposant_.
+
+Ces lettres, ces papiers d'un infortunÃ© qui n'est plus; il faudra les
+rÃ©duire en cendres.
+
+LA COMTESSE, _avec douleur_.
+
+Ah! Dieu!
+
+BÃGEARSS.
+
+Quand cet ami mourant, me chargea de vous les remettre, son dernier
+ordre fut qu'il fallait sauver votre honneur, en ne laissant aucune
+trace de ce qui pourrait l'altÃ©rer.
+
+LA COMTESSE.
+
+Dieu! Dieu!
+
+BÃGEARSS.
+
+Vingt ans se sont passÃ©s sans que j'aye pu obtenir que ce triste aliment
+de votre Ã©ternelle douleur s'Ã©loignÃ¢t de vos yeux. Mais indÃ©pendamment
+du mal que tout cela vous fait; voyez quel danger vous courez.
+
+LA COMTESSE.
+
+Eh! que peut-on avoir Ã  craindre!
+
+BÃGEARSS, _regardant si on peut l'entendre_.
+
+(_Parlant bas_). Je ne soupÃ§onne point _Susanne_; mais une femme de
+chambre instruite que vous conservez ces papiers, ne pourrait-elle pas
+un jour s'en faire un moyen de fortune? un seul remis Ã  votre Ã©poux, que
+peut-Ãªtre il paierait bien cher, vous plongerait dans des malheurs...
+
+LA COMTESSE.
+
+Non, _Susanne_ a le cÅur trop bon.....
+
+BÃGEARSS, _d'un ton plus Ã©levÃ©, trÃ¨s-ferme_.
+
+Ma respectable amie! vous avez payÃ© votre dette Ã  la tendresse, Ã  la
+douleur, Ã  vos devoirs de tous les genres; et si vous Ãªtes satisfaire de
+la conduite d'un ami, j'en veux avoir la rÃ©compense. Il faut brÃ»ler tous
+ces papiers; Ã©teindre tous ces souvenirs d'une faute autant expiÃ©e!
+mais, pour ne jamais revenir sur un sujet si douloureux, j'exige que le
+sacrifice en soit fait dans ce mÃªme instant.
+
+LA COMTESSE, _tremblante_.
+
+Je crois entendre Dieu qui parle! il m'ordonne de l'oublier; de dÃ©chirer
+le crÃªpe obscur dont sa mort a couvert ma vie. Oui, mon Dieu! je vais
+obÃ©ir Ã  cet ami que vous m'avez donnÃ©. (_Elle sonne_). Ce qu'il exige en
+votre nom, mon repentir le conseillait; mais ma faiblesse a combattu.
+
+
+SCÃNE III.
+
+SUSANNE, LA COMTESSE, BÃGEARSS.
+
+LA COMTESSE.
+
+_Susanne!_ apporte moi le coffret de mes diamans.---- Non, je vais le
+prendre moi-mÃªme, il te faudrait chercher la clef.....
+
+
+SCÃNE IV.
+
+SUSANNE, BÃGEARSS.
+
+SUSANNE, _un peu troublÃ©e_.
+
+Monsieur _BÃ©gearss_, de quoi s'agit-t-il donc? Toutes les tÃªtes sont
+renversÃ©es! Cette maison ressemble Ã  l'hÃ´pital des fous! Madame pleure;
+Mademoiselle Ã©touffe. Le Chevalier _LÃ©on_ parle de se noyer; Monsieur
+est enfermÃ© et ne veut voir personne. Pourquoi ce coffre aux diamans
+inspire-t-il en ce moment tant d'intÃ©rÃªt Ã  tout le monde?
+
+BÃGEARSS, _mettant son doigt sur sa bouche, en signe de mystÃ¨re_.
+
+Chut! Ne montre ici nulle curiositÃ©! Tu le sÃ§auras dans peu..... Tout va
+bien; tout est bien.... Cette journÃ©e vaut.... Chut....
+
+
+SCÃNE V.
+
+LA COMTESSE, BÃGEARSS, SUSANNE.
+
+LA COMTESSE, _tenant le coffret aux diamans_.
+
+_Susanne_, apporte nous du feu dans le brazÃ©ro du boudoir.
+
+SUSANNE.
+
+Si c'est pour brÃ»ler des papiers, la lampe de nuit allumÃ©e, est encor lÃ 
+dans l'athÃ©nienne. (_Elle l'avance_).
+
+LA COMTESSE.
+
+Veille Ã  la porte, et que personne n'entre.
+
+SUSANNE, _en sortant, Ã  part_.
+
+Courons avant, avertir _Figaro_.
+
+
+SCÃNE VI.
+
+LA COMTESSE, BÃGEARSS.
+
+BÃGEARSS.
+
+Combien j'ai souhaitÃ© pour vous le moment auquel nous touchons!
+
+LA COMTESSE, _Ã©touffÃ©e_.
+
+O mon ami! quel jour nous choisissons pour consommer ce sacrifice! celui
+de la naissance de mon malheureux fils! A cette Ã©poque, tous les ans,
+leur consacrant cette journÃ©e, je demandais pardon au ciel, et je
+m'abreuvais de mes larmes en relisant ces tristes lettres. Je me rendais
+au moins le tÃ©moignage qu'il y eut entre nous plus d'erreur que de
+crime. Ah! faut-il donc brÃ»ler tout ce qui me reste de lui?
+
+BÃGEARSS.
+
+Quoi, Madame? dÃ©truisez-vous ce fils qui vous le reprÃ©sente? ne lui
+devez-vous pas un sacrifice qui le prÃ©serve de mille affreux dangers?
+vous vous le devez Ã  vous-mÃªme! et la sÃ©curitÃ© de votre vie entiÃ¨re est
+attachÃ©e peut-Ãªtre Ã  cet acte imposant! (_Il ouvre le secret de l'Ã©crin
+et en tire les lettres_).
+
+LA COMTESSE, _surprise_.
+
+Monsieur _BÃ©gearss_, vous l'ouvrez mieux que moi!... que je les lise
+encore!
+
+BÃGEARSS, _sÃ©vÃ¨rement_.
+
+Non, je ne le permettrai pas.
+
+LA COMTESSE.
+
+Seulement la derniÃ¨re oÃ¹, traÃ§ant ses tristes adieux, du sang qu'il
+rÃ©pandit pour moi, il m'a donnÃ© la leÃ§on du courage dont j'ai tant
+besoin aujourd'hui.
+
+BÃGEARSS, _s'y opposant_.
+
+Si vous lisez un mot, nous ne brÃ»lerons rien. Offrez au ciel un
+sacrifice entier, courageux, volontaire, exempt des faiblesses humaines!
+ou si vous n'osez l'accomplir, c'est Ã  moi d'Ãªtre fort pour vous. Les
+voilÃ  toutes dans le feu. (_Il y jette le paquet_).
+
+LA COMTESSE, _vivement_.
+
+Monsieur _BÃ©gearss_! Cruel ami! c'est ma vie que vous consumez! qu'il
+m'en reste au moins un lambeau. _(Elle veut se prÃ©cipiter sur les
+lettres enflammÃ©es._) (_BÃ©gearss la retient Ã  bras le corps_).
+
+BÃGEARSS.
+
+J'en jetterai la cendre au vent.
+
+
+SCÃNE VII.
+
+SUSANNE, LE COMTE, FIGARO, LA COMTESSE, BÃGEARSS.
+
+SUSANNE _accourt_.
+
+C'est Monsieur, il me suit; mais amenÃ© par _Figaro_.
+
+LE COMTE, _les surprenant en cette posture_.
+
+Qu'est-ce donc que je vois, Madame! d'oÃ¹ vient tout ce dÃ©sordre? quel
+est ce feu, ce coffre, ces papiers? pourquoi ce dÃ©bat et ces pleurs?
+
+(_BÃ©gearss et la Comtesse restent confondus_).
+
+LE COMTE.
+
+Vous ne rÃ©pondez point?
+
+BÃGEARSS _se remet, et dit d'un ton pÃ©nible_.
+
+J'espÃ¨re Monsieur, que vous n'exigez pas qu'on s'explique devant vos
+gens. J'ignore quel dessein vous fait surprendre ainsi Madame! quant Ã 
+moi, je suis rÃ©solu de soutenir mon caractÃ¨re en rendant un hommage pur
+Ã  la vÃ©ritÃ©, quelle qu'elle soit.
+
+LE COMTE, _Ã  Figaro et Ã  Susanne_.
+
+Sortez tous deux.
+
+FIGARO.
+
+Mais, Monsieur, rendez-moi du moins la justice de dÃ©clarer que je vous
+ai remis le _rÃ©cÃ©pissÃ©_ du notaire, sur le grand objet de tantÃ´t!
+
+LE COMTE.
+
+Je le fais volontiers, puisque c'est rÃ©parer un tort. (_A BÃ©gearss_).
+Soyez certain Monsieur, que voilÃ  le _rÃ©cÃ©pissÃ©_. (_Il le remet dans sa
+poche._) (_Figaro et Susanne sortent chacun de leur cÃ´tÃ©._)
+
+FIGARO, _bas Ã  Susanne, en s'en allant_.
+
+S'il Ã©chappe Ã  l'explication!......
+
+SUSANNE, _bas_.
+
+Il est bien subtil!
+
+FIGARO, _bas_.
+
+Je l'ai tuÃ©!
+
+
+SCÃNE VIII.
+
+LA COMTESSE, LE COMTE, BÃGEARSS.
+
+LE COMTE, _d'un ton sÃ©rieux_.
+
+Madame, nous sommes seuls.
+
+BÃGEARSS, _encore Ã©mu_.
+
+C'est moi qui parlerai. Je subirai cet interrogatoire. M'avez-vous vu,
+Monsieur, trahir la vÃ©ritÃ© dans quelque occasion que ce fÃ»t?
+
+LE COMTE, _sÃ¨chement_.
+
+Monsieur...... Je ne dis pas cela.
+
+BÃGEARSS, _tout-Ã -fait remis_.
+
+Quoique je sois loin d'approuver cette inquisition peu dÃ©cente;
+l'honneur m'oblige Ã  rÃ©pÃ©ter ce que je disais Ã  Madame, en rÃ©pondant Ã 
+sa consultation:
+
+Â«Tout dÃ©positaire de secrets ne doit jamais conserver de papiers s'ils
+peuvent compromettre un ami qui n'est plus, et qui les mit sous notre
+garde. Quelque chagrin qu'on ait Ã  s'en dÃ©faire, et quelque intÃ©rÃªt mÃªme
+qu'on eÃ»t Ã  les garder; le saint respect des morts doit avoir le pas
+devant tout.Â» (_Il montre le Comte._) Un accident inopinÃ©, ne peut-il
+pas en rendre un adversaire possesseur?
+
+(_Le Comte le tire par la manche pour qu'il ne pousse pas l'explication
+plus loin._)
+
+BÃGEARSS.
+
+Auriez-vous dit, Monsieur, autre chose en ma position? Qui cherche des
+conseils timides, ou le soutien d'une faiblesse honteuse, ne doit point
+s'adresser Ã  moi! vous en avez des preuves l'un et l'autre, et vous
+sur-tout, Monsieur le Comte! (_le Comte lui fait un signe._) VoilÃ  sur
+la demande que m'a faite Madame, et sans chercher Ã  pÃ©nÃ©trer ce que
+contenaient ces papiers, ce qui m'a fait lui donner un conseil pour la
+sÃ©vÃ¨re exÃ©cution duquel je l'ai vu manquer de courage; je n'ai pas
+hÃ©sitÃ© d'y substituer le mien, en combattant ses dÃ©lais imprudens. VoilÃ 
+quels Ã©taient nos dÃ©bats; mais, quelque chose qu'on en pense, je ne
+regretterai point ce que j'ai dit, ce que j'ai fait. (_Il lÃ¨ve les
+bras._) Sainte amitiÃ©! tu n'es rien qu'un vain titre, si l'on ne remplit
+pas tes austÃ¨res devoirs.--Permettez que je me retire.
+
+LE COMTE _exaltÃ©_.
+
+O le meilleur des hommes! Non vous ne nous quitterez pas.--Madame, il va
+nous appartenir de plus prÃ¨s; je lui donne ma _Florestine_.
+
+LA COMTESSE, _avec vivacitÃ©_.
+
+Monsieur, vous ne pouviez pas faire un plus digne emploi du pouvoir que
+la loi vous donne sur elle. Ce choix a mon assentiment si vous le jugez
+nÃ©cessaire, et le plutÃ´t vaudra le mieux.
+
+LE COMTE _hÃ©sitant_.
+
+Eh bien!..... ce soir.... sans bruit..... votre aumÃ´nier........
+
+LA COMTESSE, _avec ardeur_.
+
+Eh bien! moi qui lui sers de mÃ¨re, je vais la prÃ©parer Ã  l'auguste
+cÃ©rÃ©monie: mais laisserez-vous votre ami, seul gÃ©nÃ©reux envers ce digne
+enfant? j'ai du plaisir Ã  penser le contraire.
+
+LE COMTE _embarassÃ©_.
+
+Ah! Madame..... croyez.....
+
+LA COMTESSE, _avec joie_.
+
+Oui, Monsieur je le crois. C'est aujourd'hui la fÃªte de mon fils; ces
+deux Ã©vÃ¨nemens rÃ©unis me rendent cette journÃ©e bien chÃ¨re! (_Elle
+sort._)
+
+
+SCÃNE IX.
+
+LE COMTE, BÃGEARSS.
+
+LE COMTE, _la regardant aller_.
+
+Je ne reviens pas de mon Ã©tonnement. Je m'attendais Ã  des dÃ©bats, Ã  des
+objections sans nombre; et je la trouve juste, bonne, gÃ©nÃ©reuse envers
+mon enfant! _moi qui lui sers de mÃ¨re_, dit-elle..... Non, ce n'est
+point une mÃ©chante femme! elle a dans ses actions une dignitÃ© qui
+m'impose;....... un ton qui brise les reproches, quand on voudrait l'en
+accabler. Mais, mon ami, je m'en dois Ã  moi-mÃªme, pour la surprise que
+j'ai montrÃ©e en voyant brÃ»ler ces papiers.
+
+BÃGEARSS.
+
+Quant Ã  moi, je n'en ai point eu, voyant avec qui vous veniez. Ce
+reptile vous a sifflÃ© que j'Ã©tais lÃ  pour trahir vos secrets? de si
+basses imputations n'atteignent point un homme de ma hauteur; je les
+vois ramper loin de moi. Mais, aprÃ¨s tout Monsieur, que vous importaient
+ces papiers? n'aviez vous pas pris malgrÃ© moi tous ceux que vous vouliez
+garder? Ah! plÃ»t au ciel qu'elle m'eÃ»t consultÃ© plutÃ´t! vous n'auriez
+pas contre elle des preuves sans replique!
+
+LE COMTE, _avec douleur_.
+
+Oui, sans replique! (_avec ardeur._) Ã´tons-les de mon sein: elles me
+brÃ»lent la poitrine. (_Il tire la lettre de son sein, et la met dans sa
+poche._)
+
+BÃGEARSS _continue avec douceur_.
+
+Je combattrais avec plus d'avantage en faveur du fils de la loi! car
+enfin il n'est pas comptable du triste sort qui l'a mis dans vos bras!
+
+LE COMTE _reprend sa fureur_.
+
+Lui, dans mes bras? jamais.
+
+BÃGEARSS.
+
+Il n'est point coupable non plus dans son amour pour _Florestine_; et
+cependant, tant qu'il reste prÃ¨s d'elle, puis-je m'unir Ã  cette enfant
+qui, peut-Ãªtre Ã©prise elle-mÃªme ne cÃ©dera qu'Ã  son respect pour vous? La
+dÃ©licatesse blessÃ©e.....
+
+LE COMTE.
+
+Mon ami, je t'entends! et ta rÃ©flexion me dÃ©cide Ã  le faire partir sur
+le champ. Oui, je serai moins malheureux, quand ce fatal objet ne
+blessera plus mes regards: mais comment entamer ce sujet avec-elle?
+voudra-t-elle s'en sÃ©parer? il faudra donc faire un Ã©clat?
+
+BÃGEARSS.
+
+Un Ã©clat!..... non..... mais le divorce accrÃ©ditÃ© chez cette nation
+hasardeuse, vous permettra d'user de ce moyen.
+
+LE COMTE.
+
+Moi, publier ma honte! quelques lÃ¢ches l'ont fait! c'est le dernier
+dÃ©grÃ© de l'avilissement du siÃ¨cle. Que l'opprobre soit le partage de qui
+donne un pareil scandale, et des fripons qui le provoquent.
+
+BÃGEARSS.
+
+J'ai fait envers elle, envers vous, ce que l'honneur me prescrivait. Je
+ne suis point pour les moyens violens, sur-tout quand il s'agit d'un
+fils......
+
+LE COMTE.
+
+Dites _d'un Ã©tranger_, dont je vais hÃ¢ter le dÃ©part.
+
+BÃGEARSS.
+
+N'oubliez pas cet insolent valet.
+
+LE COMTE.
+
+J'en suis trop las pour le garder. Toi, cours Ami, chez mon notaire;
+retire, avec mon reÃ§u que voilÃ , mes trois millions d'or dÃ©posÃ©s. Alors
+tu peux Ã  juste titre Ãªtre gÃ©nÃ©reux au contrat qu'il nous faut brusquer
+aujourd'hui... car te voilÃ  bien possesseur..... (_Il lui remet le reÃ§u;
+le prend sous le bras, et ils sortent._) et ce soir, Ã  minuit, sans
+bruit, dans la chapelle de Madame......
+
+(_On n'entend pas le reste._)
+
+
+FIN DU TROISIÃME ACTE.
+
+
+
+
+ACTE IV.
+
+_Le thÃ©Ã¢tre reprÃ©sente le mÃªme cabinet de la Comtesse._
+
+
+SCÃNE PREMIÃRE.
+
+FIGARO, _seul, agitÃ©, regardant de cÃ´tÃ© et d'autre_.
+
+Elle me dit: Â«viens Ã  six heures au cabinet; c'est le plus sÃ»r pour nous
+parler...Â» Je brusque tout dehors, et je rentre en sueur! OÃ¹ est-elle?
+(_Il se promÃ¨ne en s'essuyant._) Ah! parbleu, je ne suis pas fou! je les
+ai vu sortir d'ici, Monsieur le tenant sous le bras!... Eh bien! pour un
+Ã©chec, abandonnons-nous la partie?....... Un Orateur fuit-il lÃ¢chement
+la tribune, pour un argument tuÃ© sous lui? Mais, quel dÃ©testable
+endormeur! (_Vivement._) Parvenir Ã  brÃ»ler les lettres de Madame, pour
+qu'elle ne voye pas qu'il en manque; et se tirer d'un
+Ã©claircissement!...... C'est l'enfer concentrÃ©, tel que _Milton_ nous
+l'a dÃ©peint! (_D'un ton badin._) J'avais raison tantÃ´t, dans ma colÃ¨re:
+_HonorÃ© BÃ©gearss_ est le diable que les hÃ©breux nommaient _LÃ©gion_; et,
+si l'on y regardait bien, on verrait le lutin avoir le pied fourchu,
+seule partie, disait ma mÃ¨re, que les dÃ©mons ne peuvent dÃ©guiser. (_Il
+rit._) Ah! ah! ah! ma gaÃ®tÃ© me revient; d'abord, parce que j'ai mis l'or
+du _Mexique_ en sÃ»retÃ© chez _Fal_, ce qui nous donnera du temps; (_Il
+frappe d'un billet sur sa main._) et puis... Docteur en toute
+hypocrisie! Vrai Major d'infernal Tartuffe! grÃ¢ce au hasard qui rÃ©git
+tout, Ã  ma tactique, Ã  quelques louis semÃ©s; voici qui me promet une
+lettre de toi, oÃ¹, dit-on, tu poses le masque, Ã  ne rien laisser
+desirer! (_Il ouvre le billet et dit:_) Le coquin qui l'a lu en veut
+cinquante louis?... eh bien! il les aura, si la lettre les vaut; une
+annÃ©e de mes gages sera bien employÃ©e, si je parviens Ã  dÃ©tromper un
+maÃ®tre Ã  qui nous devons tant..... Mais oÃ¹ es-tu, Susanne, pour en rire?
+_O que piacere!_..... A demain donc! car je ne vois pas que rien
+pÃ©riclite ce soir... Et pourquoi perdre un temps? Je m'en suis toujours
+repenti.... (_TrÃ¨s-vivement._) Point de dÃ©lai; courons attacher le
+pÃ©tard; dormons dessus; la nuit porte conseil, et demain matin nous
+verrons qui des deux fera sauter l'autre.
+
+
+SCÃNE II.
+
+BÃGEARSS, FIGARO.
+
+BÃGEARSS, _raillant_.
+
+Eeeh! c'est mons _Figaro_! La place est agrÃ©able, puisqu'on y retrouve
+Monsieur.
+
+FIGARO, _du mÃªme ton_.
+
+Ne fÃ»t-ce que pour avoir la joie de l'en chasser une autre fois.
+
+BÃGEARSS.
+
+De la rancune pour si peu? vous Ãªtes bien bon d'y songer! chacun
+n'a-t-il pas sa manie?
+
+FIGARO.
+
+Et celle de Monsieur est de ne plaider qu'Ã  huis-clos?
+
+BÃGEARSS, _lui frappant sur l'Ã©paule_.
+
+Il n'est pas essentiel qu'un sage entende tout, quand il sait si bien
+deviner.
+
+FIGARO.
+
+Chacun se sert des petits talens que le ciel lui a dÃ©partis.
+
+BÃGEARSS.
+
+Et _l'Intrigant_ compte-t-il gagner beaucoup avec ceux qu'il nous montre
+ici?
+
+FIGARO.
+
+Ne mettant rien Ã  la partie, j'ai tout gagnÃ©..... si je fais perdre
+l'_autre_.
+
+BÃGEARSS, _piquÃ©_.
+
+On verra le jeu de Monsieur.
+
+FIGARO.
+
+Ce n'est pas de ces coups brillans qui Ã©blouissent la gallerie. (_Il
+prend un air niais._) Mais _chacun pour soi; Dieu pour tous_, comme a
+dit le roi Salomon.
+
+BÃGEARSS, _souriant_.
+
+Belle sentence! N'a-t-il pas dit aussi: _Le soleil luit pour tout le
+monde_?
+
+FIGARO, _fiÃ¨rement._
+
+Oui, en dardant sur le serpent prÃªt Ã  mordre la main de son imprudent
+bienfaiteur! (_Il sort._)
+
+
+SCÃNE III.
+
+BÃGEARSS, _seul, le regardant aller_.
+
+Il ne farde plus ses desseins! Notre homme est fier? bon signe, il ne
+sait rien des miens; il aurait la mine bien longue s'il Ã©tait instruit
+qu'Ã  minuit... (_Il cherche dans ses poches vivement._) Eh bien!
+qu'ai-je fait du papier? Le voici. (_Il lit._) _ReÃ§u de M. Fal, notaire,
+les trois millions d'or spÃ©cifiÃ©s dans le bordereau, ci-dessus. A Paris,
+le..... ALMAVIVA._--C'est bon; je tiens la pupille et l'argent! Mais ce
+n'est point assez; cet homme est faible, il ne finira rien pour le reste
+de sa fortune. La Comtesse lui en impose; il la craint, l'aime
+encore........... Elle n'ira point au couvent, si je ne les mets aux
+prises, et ne le force Ã  s'expliquer................. brutalement. (_Il
+se promÃ¨ne._)--Diable! ne risquons pas ce soir un dÃ©nouement aussi
+scabreux! En prÃ©cipitant trop les choses, on se prÃ©cipite avec elles! Il
+sera temps demain, quand j'aurai bien serrÃ© le doux lien sacramentel qui
+va les enchaÃ®ner Ã  moi? (_Il appuie ses deux mains sur sa poitrine._) Eh
+bien! maudite joie, qui me gonfles le cÅur! ne peux-tu donc te
+contenir?..... Elle m'Ã©touffera, la fougueuse, ou me livrera comme un
+sot, si je ne la laisse un peu s'Ã©vaporer, pendant que je suis seul
+ici. Sainte et douce crÃ©dulitÃ©! l'Ã©poux te doit la magnifique dot! PÃ¢le
+dÃ©esse de la nuit, il te devra bientÃ´t sa froide Ã©pouse. (_Il frotte ses
+mains de joie._) _BÃ©gearss!_ heureux _BÃ©gearss_!... Pourquoi
+l'appelez-vous _BÃ©gearss_? n'est-il donc pas plus d'Ã  moitiÃ© _le
+Seigneur Comte Almaviva_? (_D'un ton terrible._) Encore un pas,
+_BÃ©gearss_! et tu l'es tout-Ã -fait.--Mais il te faut auparavant..... Ce
+_Figaro_ pÃ¨se sur ma poitrine! car c'est lui qui l'a fait venir!... Le
+moindre trouble me perdait.... Ce valet lÃ  me portera malheur.... c'est
+le plus clairvoyant coquin!.... Allons, allons, qu'il parte avec son
+chevalier errant!
+
+
+SCÃNE IV.
+
+BÃGEARSS, SUSANNE.
+
+SUSANNE, _accourant, fait un cri d'Ã©tonnement, de voir un autre que
+Figaro_.
+
+Ah! (_A part._) Ce n'est pas lui!
+
+BÃGEARSS.
+
+Quelle surprise! Et qu'attendais-tu donc?
+
+SUSANNE, _se remettant_.
+
+Personne. On se croit seule ici...
+
+BÃGEARSS.
+
+Puisque je t'y rencontre; un mot avant le comitÃ©.
+
+SUSANNE.
+
+Que parlez-vous de comitÃ©? rÃ©ellement depuis deux ans on n'entend plus
+du tout la langue de ce pays!
+
+BÃGEARSS, _riant sardoniquement_.
+
+HÃ©! hÃ©!... (_Il pÃ©trit dans sa boÃ®te une prise de tabac, d'un air
+content de lui._) Ce comitÃ©, ma chÃ¨re, est une confÃ©rence entre la
+Comtesse, son fils, notre jeune pupille et moi, sur le grand objet que
+tu sais.
+
+SUSANNE.
+
+AprÃ¨s la scÃ¨ne que j'ai vue, osez-vous encor l'espÃ©rer?
+
+BÃGEARSS, _bien fat_.
+
+Oser l'espÃ©rer!... Non. Mais seulement... Je l'Ã©pouse ce soir.
+
+SUSANNE, _vivement_.
+
+MalgrÃ© son amour pour _LÃ©on_?
+
+BÃGEARSS.
+
+Bonne femme! qui me disais: _Si vous faites cela, Monsieur_....
+
+SUSANNE.
+
+Eh! qui eÃ»t pu l'imaginer?
+
+BÃGEARSS, _prenant son tabac en plusieurs fois_.
+
+Enfin, que dit-on? parle-t-on? Toi qui vis dans l'intÃ©rieur, qui a
+l'honneur des confidences; y pense-t-on du bien de moi? car c'est-lÃ  le
+point important.
+
+SUSANNE.
+
+L'important serait de savoir quel talisman vous employez pour dominer
+tous les esprits? Monsieur ne parle de vous qu'avec enthousiasme! ma
+maÃ®tresse vous porte aux nues! son fils n'a d'espoir qu'en vous seul!
+notre pupille vous rÃ©vÃ¨re!...
+
+BÃGEARSS, _d'un ton bien fat, secouant le tabac de son jabot_.
+
+Et toi, _Susanne_, qu'en dis-tu?
+
+SUSANNE.
+
+Ma foi, monsieur, je vous admire! Au milieu du dÃ©sordre affreux que vous
+entretenez ici, vous seul Ãªtes calme et tranquille; il me semble
+entendre un gÃ©nie qui fait tout mouvoir Ã  son grÃ©.
+
+BÃGEARSS, _bien fat_.
+
+Mon enfant, rien n'est plus aisÃ©. D'abord il n'est que deux pivots sur
+qui roule tout dans le monde, la morale et la politique. La morale, tant
+soit peu mesquine, consiste Ã  Ãªtre juste et vrai; elle est, dit-on, la
+clef de quelques vertus routiniÃ¨res.
+
+SUSANNE.
+
+Quant Ã  la politique?...
+
+BÃGEARSS, _avec chaleur_.
+
+Ah! c'est l'art de crÃ©er des faits, de dominer, en se jouant, les
+Ã©vÃ¨nemens et les hommes; l'intÃ©rÃªt est son but; l'intrigue son moyen:
+toujours sobre de vÃ©ritÃ©s, ses vastes et riches conceptions sont un
+prisme qui Ã©blouit. Aussi profonde que l'_Etna_, elle brÃ»le et gronde
+long-temps avant d'Ã©clater au dehors; mais alors rien ne lui rÃ©siste:
+elle exige de hauts talens: le scrupule seul peut lui nuire; (_En
+riant._) c'est le secret des nÃ©gociateurs.
+
+SUSANNE.
+
+Si la morale ne vous Ã©chauffe pas, l'autre, en revanche, excite en vous
+un assez vif enthousiasme!
+
+BÃGEARSS, _averti, revient Ã  lui_.
+
+Eh!... ce n'est pas elle; c'est toi!--Ta comparaison d'un gÃ©nie.....--Le
+chevalier vient; laisse-nous.
+
+
+SCÃNE V.
+
+LÃON, BÃGEARSS.
+
+LÃON.
+
+Monsieur _BÃ©gearss_, je suis au dÃ©sespoir!
+
+BÃGEARSS, _d'un ton protecteur_.
+
+Qu'est-il arrivÃ©, jeune ami?
+
+LÃON.
+
+Mon pÃ¨re vient de me signifier, avec une duretÃ©!..... que j'eÃ»sse Ã 
+faire, sous deux jours, tous les apprÃªts de mon dÃ©part pour _Malte_:
+point d'autre train, dit-il, que _Figaro_, qui m'accompagne, et un valet
+qui courra devant nous.
+
+BÃGEARSS.
+
+Cette conduite est en effet bisarre, pour qui ne sait pas son secret;
+mais nous qui l'avons pÃ©nÃ©trÃ©, notre devoir est de le plaindre. Ce
+voyage est le fruit d'une frayeur bien excusable! _Malte_ et vos vÅux
+ne sont que le prÃ©texte; un amour qu'il redoute, est son vÃ©ritable
+motif.
+
+LÃON, _avec douleur_.
+
+Mais, mon ami, puisque vous l'Ã©pousez?
+
+BÃGEARSS, _confidentiellement_.
+
+Si son frÃ¨re le croit utile Ã  suspendre un fÃ¢cheux dÃ©part!..... Je ne
+verrais qu'un seul moyen....
+
+LÃON.
+
+O mon ami! dites-le moi?
+
+BÃGEARSS.
+
+Ce serait que madame votre mÃ¨re vainquÃ®t cette timiditÃ© qui l'empÃªche,
+avec lui, d'avoir une opinion Ã  elle; car sa douceur vous nuit bien plus
+que ne ferait un caractÃ¨re trop ferme.--Supposons, qu'on lui ait donnÃ©
+quelque prÃ©vention injuste; qui a le droit, comme une mÃ¨re, de rappeler
+un pÃ¨re Ã  la raison? Engagez la Ã  le tenter,... non pas aujourd'hui,
+mais........ demain, et sans y mettre de faiblesse.
+
+LÃON.
+
+Mon ami vous avez raison: cette crainte est son vrai motif. Sans doute
+il n'y a que ma mÃ¨re qui puisse le faire changer. La voici qui vient
+avec celle..... que je n'ose plus adorer. (_Avec douleur._) O mon ami!
+rendez la bien heureuse.
+
+BÃGEARSS, _caressant_.
+
+En lui parlant tous les jours de son frÃ¨re.
+
+
+SCÃNE VI.
+
+LA COMTESSE, FLORESTINE, BÃGEARSS, SUSANNE, LÃON.
+
+LA COMTESSE _coÃ«ffÃ©e, parÃ©e, portant une robe rouge et noire, et son
+bouquet de mÃªme couleur_.
+
+_Susanne_, donne mes diamans?
+
+(_Susanne va les chercher._)
+
+BÃGEARSS, _affectant de la dignitÃ©_.
+
+Madame, et vous Mademoiselle, je vous laisse avec cet ami; je confirme
+d'avance tout ce qu'il va vous dire. HÃ©las! ne pensez point au bonheur
+que j'aurais de vous appartenir Ã  tous; votre repos doit seul vous
+occuper. Je n'y veux concourir que sous la forme que vous adopterez:
+mais, soit que Mademoiselle accepte ou non mes offres, recevez ma
+dÃ©claration, que toute la fortune dont je viens d'hÃ©riter lui est
+destinÃ©e de ma part, dans un contrat, ou par un testament; je vais en
+faire dresser les actes: Mademoiselle choisira. AprÃ¨s ce que je viens de
+dire, il ne conviendrait pas que ma prÃ©sence ici gÃªnÃ¢t un parti qu'elle
+doit prendre en toute libertÃ©: mais, quel qu'il soit, Ã´ mes amis, sachez
+qu'il est sacrÃ© pour moi: je l'adopte sans restriction. (_Il salue
+profondÃ©ment et sort._)
+
+
+SCÃNE VII.
+
+LA COMTESSE, LÃON, FLORESTINE.
+
+LA COMTESSE _le regarde aller_.
+
+C'est un ange envoyÃ© du ciel pour rÃ©parer tous nos malheurs.
+
+LÃON, _avec une douleur ardente_.
+
+O _Florestine_! il faut cÃ©der: ne pouvant Ãªtre l'un Ã  l'autre, nos
+premiers Ã©lans de douleur nous avaient fait jurer de n'Ãªtre jamais Ã 
+personne; j'accomplirai ce serment pour nous deux. Ce n'est pas
+tout-Ã -fait vous perdre, puisque je retrouve une sÅur oÃ¹ j'espÃ©rais
+possÃ©der une Ã©pouse. Nous pourrons encore nous aimer.
+
+
+SCÃNE VIII.
+
+LA COMTESSE, LÃON, FLORESTINE, SUSANNE.
+
+SUSANNE _apporte l'Ã©crin_.
+
+LA COMTESSE, _en parlant, met ses boucles d'oreilles, ses bagues, son
+bracelet, sans rien regarder_.
+
+_Florestine!_ Ã©pouse _BÃ©gearss_; ses procÃ©dÃ©s l'en rendent digne; et
+puisque cet hymen fait le bonheur de ton parain, il faut l'achever
+aujourd'hui.
+
+(_Susanne sort et emporte l'Ã©crin._)
+
+
+SCÃNE IX.
+
+LA COMTESSE, LÃON, FLORESTINE.
+
+LA COMTESSE _Ã  LÃ©on_.
+
+Nous, mon fils, ne sachons jamais ce que nous devons ignorer. Tu
+pleures, _Florestine_!
+
+FLORESTINE, _pleurant_.
+
+Ayez pitiÃ© de moi, Madame! Eh! comment soutenir autant d'assauts dans un
+seul jour? A peine j'apprends qui je suis, qu'il faut renoncer Ã 
+moi-mÃªme, et me livrer... Je meurs de douleur et d'effroi. DÃ©nuÃ©e
+d'objections contre M. _BÃ©gearss_, je sens mon cÅur Ã  l'agonie, en
+pensant qu'il peut devenir... Cependant il le faut; il faut me sacrifier
+au bien de ce frÃ¨re chÃ©ri; Ã  son bonheur, que je ne puis plus faire.
+Vous dites que je pleure! Ah! je fais plus pour lui que si je lui
+donnais ma vie! Maman, ayez pitiÃ© de nous! bÃ©nissez vos enfans! ils sont
+bien malheureux! (_Elle se jette Ã  genoux; LÃ©on en fait autant._)
+
+LA COMTESSE _leur imposant les mains_.
+
+Je vous bÃ©nis, mes chers enfans. Ma _Florestine_ je t'adopte. Si tu
+savais Ã  quel point tu m'es chÃ¨re! Tu seras heureuse, ma fille, et du
+bonheur de la vertu; celui-lÃ  peut dÃ©dommager des autres. (_Ils se
+relÃ¨vent._)
+
+FLORESTINE.
+
+Mais croyez-vous, Madame, que mon dÃ©vouement le ramÃ¨ne Ã  _LÃ©on_, Ã  son
+fils? car il ne faut pas se flatter: son injuste prÃ©vention va
+quelquefois jusqu'Ã  la haine.
+
+LA COMTESSE.
+
+ChÃ¨re fille, j'en ai l'espoir.
+
+LÃON.
+
+C'est l'avis de M. _BÃ©gearss_: il me l'a dit; mais il m'a dit aussi
+qu'il n'y a que maman qui puisse opÃ©rer ce miracle; Aurez-vous donc la
+force de lui parler en ma faveur?
+
+LA COMTESSE.
+
+Je l'ai tentÃ© souvent, mon fils, mais sans aucun fruit apparent.
+
+LÃON.
+
+O ma digne mÃ¨re! c'est votre douceur qui m'a nui. La crainte de le
+contrarier vous a trop empÃªchÃ© d'user de la juste influence que vous
+donnent votre vertu et le respect profond dont vous Ãªtes entourÃ©e. Si
+vous lui parliez avec force, il ne vous rÃ©sisterait pas.
+
+LA COMTESSE.
+
+Vous le croyez, mon fils? je vais l'essayer devant vous. Vos reproches
+m'affligent presqu'autant que son injustice. Mais, pour que vous ne
+gÃªniez pas le bien que je dirai de vous, mettez-vous dans mon cabinet;
+vous m'entendrez, de-lÃ , plaider une cause si juste: vous n'accuserez
+plus une mÃ¨re de manquer d'Ã©nergie, quand il faut dÃ©fendre son fils!
+(_Elle sonne._) _Florestine_, la dÃ©cence ne te permet pas de rester: vas
+t'enfermer; demande au ciel qu'il m'accorde quelque succÃ¨s, et rende
+enfin la paix Ã  ma famille dÃ©solÃ©e.
+
+(_Florestine sort._)
+
+
+SCÃNE X.
+
+SUSANNE, LA COMTESSE, LÃON.
+
+SUSANNE.
+
+Que veut Madame? elle a sonnÃ©.
+
+LA COMTESSE.
+
+Prie Monsieur, de ma part, de passer un moment ici.
+
+SUSANNE, _effrayÃ©e_.
+
+Madame! vous me faites trembler! Ciel! que va-t-il donc se passer? Quoi!
+Monsieur, qui ne vient jamais... sans...
+
+LA COMTESSE.
+
+Fais ce que je te dis, _Susanne_, et ne prends nul souci du reste.
+
+(_Susanne sort, en levant les bras au ciel, de terreur._)
+
+
+SCÃNE XI.
+
+LA COMTESSE, LÃON.
+
+LA COMTESSE.
+
+Vous allez voir, mon fils, si votre mÃ¨re est faible en dÃ©fendant vos
+intÃ©rÃªts! Mais laissez-moi me recueillir, me prÃ©parer, par la priÃ¨re, Ã 
+cet important plaidoyer.
+
+(_LÃ©on entre au cabinet de sa mÃ¨re._)
+
+
+SCÃNE XII.
+
+LA COMTESSE, _seule, un genou sur son fauteuil_.
+
+Ce moment me semble terrible, comme le jugement dernier! Mon sang est
+prÃªt Ã  s'arrÃªter... O mon Dieu! donnez-moi la force de frapper au
+cÅur d'un Ã©poux? (_Plus bas._) Vous seul connaissez les motifs qui
+m'ont toujours fermÃ© la bouche! Ah! s'il ne s'agissait du bonheur de mon
+fils; vous savez, Ã´ mon Dieu! si j'oserais dire un seul mot pour moi!
+Mais enfin, s'il est vrai qu'une faute pleurÃ©e vingt ans, ait obtenu de
+vous un pardon gÃ©nÃ©reux, comme un sage ami m'en assure: Ã´ mon Dieu!
+donnez-moi la force de frapper au cÅur d'un Ã©poux!
+
+
+SCÃNE XIII.
+
+LA COMTESSE, LE COMTE, LÃON _cachÃ©_.
+
+LE COMTE, _sÃ¨chement_.
+
+Madame, on dit que vous me demandez?
+
+LA COMTESSE, _timidement_.
+
+J'ai cru, Monsieur, que nous serions plus libres dans ce cabinet que
+chez vous.
+
+LE COMTE.
+
+M'y voilÃ , Madame; parlez.
+
+LA COMTESSE, _tremblante_.
+
+Asseyons-nous, Monsieur, je vous conjure, et prÃªtez-moi votre attention.
+
+LE COMTE, _impatient_.
+
+Non, j'entendrai debout; vous savez qu'en parlant je ne saurais tenir en
+place.
+
+LA COMTESSE _s'asseyant, avec un soupir, et parlant bas_.
+
+Il s'agit de mon fils... Monsieur.
+
+LE COMTE, _brusquement_.
+
+De votre fils, Madame?
+
+LA COMTESSE.
+
+Et quel autre intÃ©rÃªt pourrait vaincre ma rÃ©pugnance Ã  engager un
+entretien que vous ne recherchez jamais? Mais je viens de le voir dans
+un Ã©tat Ã  faire compassion: l'esprit troublÃ©, le cÅur serrÃ© de
+l'ordre que vous lui donnez de partir sur-le-champ; sur-tout du ton de
+duretÃ© qui accompagne cet exil. Eh! comment a-t-il encouru la disgrÃ¢ce
+d'un p... d'un homme si juste? Depuis qu'un exÃ©crable duel nous a ravi
+notre autre fils....
+
+LE COMTE, _les mains sur le visage, avec un air de douleur_.
+
+Ah!...
+
+LA COMTESSE.
+
+Celui-ci, qui jamais ne dÃ»t connaÃ®tre le chagrin, a redoublÃ© de soins et
+d'attentions pour adoucir l'amertume des nÃ´tres!
+
+LE COMTE, _se promenant doucement_.
+
+Ah!...
+
+LA COMTESSE.
+
+Le caractÃ¨re emportÃ© de son frÃ¨re, son dÃ©sordre, ses goÃ»ts et sa
+conduite dÃ©rÃ©glÃ©e nous en donnaient souvent de bien cruels. Le ciel
+sÃ©vÃ¨re, mais sage en ses dÃ©crets, en nous privant de cet enfant, nous en
+a peut-Ãªtre Ã©pargnÃ© de plus cuisans pour l'avenir.
+
+LE COMTE, _avec douleur_.
+
+Ah!... Ah!...
+
+LA COMTESSE.
+
+Mais, enfin, celui qui nous reste a-t-il jamais manquÃ© Ã  ses devoirs?
+Jamais le plus lÃ©ger reproche fÃ»t-il mÃ©ritÃ© de sa part? Exemple des
+hommes de son Ã¢ge, il a l'estime universelle: il est aimÃ©, recherchÃ©,
+consultÃ©. Son p...protecteur naturel, mon Ã©poux seul, paraÃ®t avoir les
+yeux fermÃ©s sur un mÃ©rite transcendant, dont l'Ã©clat frappe tout le
+monde.
+
+LE COMTE _se promÃ¨ne, plus vÃ®te sans parler_.
+
+LA COMTESSE, _prenant courage de son silence, continue d'un ton plus
+ferme, et l'Ã©lÃ¨ve par degrÃ©s_.
+
+En tout autre sujet, Monsieur, je tiendrais Ã  fort grand honneur de vous
+soumettre mon avis, de modeler mes sentimens, ma faible opinion sur la
+vÃ´tre; mais il s'agit... d'un fils...
+
+LE COMTE _s'agite en marchant_.
+
+LA COMTESSE.
+
+Quand il avait un frÃ¨re aÃ®nÃ©; l'orgueil d'un trÃ¨s-grand nom le
+condamnant au cÃ©libat, l'ordre de _Malte_ Ã©tait son sort. Le prÃ©jugÃ©
+semblait alors couvrir l'injustice de ce partage entre deux fils
+(_Timidement._) Ã©gaux en droits.
+
+LE COMTE _s'agite plus fort_. (_A part, d'un ton Ã©touffÃ©._)
+
+Egaux en droits!.....
+
+LA COMTESSE, _un peu plus fort_.
+
+Mais depuis deux annÃ©es qu'un accident affreux.... les lui a tous
+transmis; n'est-il pas Ã©tonnant que vous n'ayez rien entrepris pour le
+relever de ses vÅux? Il est de notoriÃ©tÃ© que vous n'avez quittÃ©
+l'_Espagne_ que pour dÃ©naturer vos biens, par la vente, ou par des
+Ã©changes. Si c'est pour l'en priver, Monsieur, la haine ne va pas plus
+loin! Puis, vous le chassez de chez vous, et semblez lui fermer la
+maison p.....par vous habitÃ©e! Permettez-moi de vous le dire; un
+traitement aussi Ã©trange est sans excuse aux yeux de la raison.
+Qu'a-t-il fait pour le mÃ©riter?
+
+LE COMTE, _s'arrÃªte; d'un ton terrible_.
+
+Ce qu'il a fait!
+
+LA COMTESSE, _effrayÃ©e_.
+
+Je voudrais bien, Monsieur, ne pas vous offenser!
+
+LE COMTE, _plus fort_.
+
+Ce qu'il a fait, Madame! Et c'est vous qui le demandez?
+
+LA COMTESSE, _en dÃ©sordre_.
+
+Monsieur, Monsieur! vous m'effrayez beaucoup!
+
+LE COMTE, _avec fureur_.
+
+Puisque vous avez provoquÃ© l'explosion du ressentiment qu'un respect
+humain enchaÃ®nait, vous entendrez son arrÃªt et le vÃ´tre.
+
+LA COMTESSE, _plus troublÃ©e_.
+
+Ah, Monsieur! Ah, Monsieur!....
+
+LE COMTE.
+
+Vous demandez ce qu'il a fait?
+
+LA COMTESSE, _levant les bras_.
+
+Non, Monsieur, ne me dites rien!
+
+LE COMTE, _hors de lui_.
+
+Rappelez-vous, femme perfide, ce que vous avez fait vous-mÃªme! et
+comment, recevant un adultÃ¨re dans vos bras, vous avez mis dans ma
+maison cet enfant Ã©tranger, que vous osez nommer mon fils.
+
+LA COMTESSE, _au dÃ©sespoir, veut se lever_.
+
+Laissez-moi m'enfuir, je vous prie.
+
+LE COMTE, _la clouant sur son fauteuil_.
+
+Non, vous ne fuirez pas; vous n'Ã©chapperez point Ã  la conviction qui
+vous presse. (_Lui montrant sa lettre._) Connaissez-vous cette Ã©criture?
+Elle est tracÃ©e de votre main coupable! et ces caractÃ¨res sanglans qui
+lui servirent de rÃ©ponse...
+
+LA COMTESSE, _anÃ©antie_.
+
+Je vais mourir! je vais mourir!
+
+LE COMTE, _avec force_.
+
+Non, non; vous entendrez les traits que j'en ai soulignÃ©s! (_Il lit avec
+Ã©garement._) Â«Malheureux insensÃ©! notre sort est rempli; votre crime, le
+mien reÃ§oit sa punition. Aujourd'hui, jour de _Saint-LÃ©on_, patron de ce
+lieu, et le vÃ´tre, je viens de mettre au monde un fils, mon opprobre et
+mon dÃ©sespoir...Â» (_Il parle._) Et cet enfant est nÃ© le jour de
+_Saint-LÃ©on_, plus de dix mois aprÃ¨s mon dÃ©part pour la _Vera Crux_!
+
+(_Pendant qu'il lit trÃ¨s-fort, on entend la Comtesse, Ã©garÃ©e, dire des
+mots coupÃ©s qui partent du dÃ©lire._)
+
+LA COMTESSE, _priant, les mains jointes_.
+
+Grand dieu! tu ne permets donc pas que le crime le plus cachÃ© demeure
+toujours impuni!
+
+LE COMTE.
+
+...Et de la main du corrupteur. (_Il lit._) Â«L'ami qui vous rendra ceci,
+quand je ne serai plus, est sÃ»r.Â»
+
+LA COMTESSE, _priant_.
+
+Frappes, mon Dieu! car je l'ai mÃ©ritÃ©!
+
+LE COMTE _lit_.
+
+Â»Si la mort d'un infortunÃ© vous inspirait un reste de pitiÃ©; parmi les
+noms qu'on va donner Ã  ce fils, hÃ©ritier d'un autre.....
+
+LA COMTESSE, _priant_.
+
+Accepte l'horreur que j'Ã©prouve, en expiation de ma faute!
+
+LE COMTE _lit_.
+
+Â»Puis-je espÃ©rer que le nom de _LÃ©on_... (_Il parle._) Et ce fils
+s'appelle _LÃ©on_!
+
+LA COMTESSE, _Ã©garÃ©e, les yeux fermÃ©s_.
+
+O Dieu! mon crime fut bien grand, s'il Ã©gala ma punition! Que ta volontÃ©
+s'accomplisse!
+
+LE COMTE, _plus fort_.
+
+Et, couverte de cet opprobre, vous osez me demander compte de mon
+Ã©loignement pour lui?
+
+LA COMTESSE, _priant toujours_.
+
+Qui suis-je, pour m'y opposer, lorsque ton bras s'appesantit?
+
+LE COMTE.
+
+Et, lorsque vous plaidez pour l'enfant de ce malheureux, vous avez au
+bras mon portrait!
+
+LA COMTESSE, _en le dÃ©tachant, le regarde_.
+
+Monsieur, Monsieur, je le rendrai; je sais que je n'en suis pas digne.
+(_Dans le plus grand Ã©garement._) Ciel! que m'arrive-t-il? Ah! je perds
+la raison! Ma conscience troublÃ©e fait naÃ®tre des fantÃ´mes!--RÃ©probation
+anticipÃ©e!... Je vois ce qui n'existe pas... Ce n'est plus vous; c'est
+lui qui me fait signe de le suivre, d'aller le rejoindre au tombeau!
+
+LE COMTE, _effrayÃ©_.
+
+Comment? Eh bien! Non, ce n'est pas...
+
+LA COMTESSE, _en dÃ©lire_.
+
+Ombre terrible! Ã©loigne toi!
+
+LE COMTE _crie avec douleur_.
+
+Ce n'est pas ce que vous croyez!
+
+LA COMTESSE _jette le bracelet par terre_.
+
+Attends... Oui, je t'obÃ©irai...
+
+LE COMTE, _plus troublÃ©_.
+
+Madame, Ã©coutez-moi...
+
+LA COMTESSE.
+
+J'irai... Je t'obÃ©is... Je meurs... (_Elle reste Ã©vanouie._)
+
+LE COMTE, _effrayÃ©, ramasse le bracelet_.
+
+J'ai passÃ© la mesure... Elle se trouve mal... Ah! Dieu! Courons lui
+chercher du secours! (_Il sort, il s'enfuit._)
+
+(_Les convulsions de la douleur font glisser la Comtesse Ã  terre._)
+
+
+SCÃNE XIV.
+
+LÃON _accourant_; LA COMTESSE _Ã©vanouie_.
+
+LÃON, _avec force_.
+
+O ma mÃ¨re!... ma mÃ¨re! c'est moi qui te donne la mort! (_Il l'enlÃ¨ve et
+la remet sur son fauteuil, Ã©vanouie._) Que ne suis-je parti, sans rien
+exiger de personne? j'aurais prÃ©venu ces horreurs!
+
+
+SCÃNE XV.
+
+LE COMTE, SUSANNE, LÃON, LA COMTESSE _Ã©vanouie_.
+
+LE COMTE, _en rentrant s'Ã©crie_.
+
+Et son fils!
+
+LÃON, _Ã©garÃ©_.
+
+Elle est morte! Ah! je ne lui survivrai pas! (_Il l'embrasse en
+criant._)
+
+LE COMTE, _effrayÃ©_.
+
+Des sels! des sels! _Susanne!_ un million si vous la sauvez!
+
+LÃON.
+
+O malheureuse mÃ¨re!
+
+SUSANNE.
+
+Madame, aspirez ce flacon. Soutenez-la, Monsieur; je vais tÃ¢cher de la
+dessÃ¨rer.
+
+LE COMTE, _Ã©garÃ©_.
+
+Romps tout, arrache tout! Ah! j'aurais dÃ» la mÃ©nager!
+
+LÃON, _criant avec dÃ©lire_.
+
+Elle est morte! elle est morte!
+
+
+SCÃNE XVI.
+
+LE COMTE, SUSANNE, LÃON, LA COMTESSE _Ã©vanouie_, FIGARO, _accourant_.
+
+FIGARO.
+
+Et qui, morte? Madame? Appaisez donc ces cris! c'est vous qui la ferez
+mourir! (_Il lui prend le bras._) Non, elle ne l'est pas; ce n'est
+qu'une suffocation; le sang qui monte avec violence. Sans perdre temps,
+il faut la soulager. Je vais chercher ce qu'il lui faut.
+
+LE COMTE, _hors de lui_.
+
+Des ailes, _Figaro_! ma fortune est Ã  toi.
+
+FIGARO, _vivement_.
+
+J'ai bien besoin de vos promesses lorsque Madame est en pÃ©ril! (_Il sort
+en courant._)
+
+
+SCÃNE XVII.
+
+LE COMTE, LÃON, LA COMTESSE _Ã©vanouie_, SUSANNE.
+
+LÃON, _lui tenant le flacon sous le nez_.
+
+Si l'on pouvait la faire respirer! O Dieu! rends-moi ma malheureuse
+mÃ¨re!.... La voici qui revient....
+
+SUSANNE, _pleurant_.
+
+Madame! allons, Madame!....
+
+LA COMTESSE, _revenant Ã  elle_.
+
+Ah! qu'on a de peine Ã  mourir!
+
+LÃON, _Ã©garÃ©_.
+
+Non Maman; vous ne mourrez pas!
+
+La Comtesse, _Ã©garÃ©e_.
+
+O Ciel! entre mes juges! entre mon Ã©poux et mon fils! Tout est connu...
+et criminelle envers tous deux... (_Elle se jette Ã  terre et se
+prosterne._) Vengez-vous l'un et l'autre! il n'est plus de pardon pour
+moi! (_Avec horreur._) MÃ¨re coupable! Ã©pouse indigne! un instant nous a
+tous perdus. J'ai mis l'horreur dans ma famille! J'allumai la guerre
+intestine entre le pÃ¨re et les enfans! Ciel juste! il fallait bien que
+ce crime fÃ»t dÃ©couvert! Puisse ma mort expier mon forfait!
+
+LE COMTE, _au dÃ©sespoir_.
+
+Non, revenez Ã  vous! votre douleur a dÃ©chirÃ© mon Ã¢me! Asseyons-la.
+_LÃ©on!_.... Mon Fils! (_LÃ©on fait un grand mouvement._) _Susanne_,
+asseyons-la.
+
+(_Ils la remettent sur le fauteuil._)
+
+
+SCÃNE XVIII.
+
+LES PRÃCÃDENS, FIGARO.
+
+FIGARO, _accourant_.
+
+Elle a repris sa connaissance?
+
+SUSANNE.
+
+Ah Dieu! j'Ã©touffe aussi. (_Elle se dessÃ¨re._)
+
+LE COMTE _crie_.
+
+_Figaro!_ vos secours!
+
+FIGARO, _Ã©touffÃ©_.
+
+Un moment, calmez-vous. Son Ã©tat n'est plus si pressant. Moi qui Ã©tais
+dehors, grand Dieu! je suis rentrÃ© bien Ã  propos!.... Elle m'avait fort
+effrayÃ©! Allons, Madame, du courage!
+
+LA COMTESSE, _priant, renversÃ©e_.
+
+Dieu de bontÃ©! fais que je meure!
+
+LÃON, _en l'asseyant mieux_.
+
+Non, Maman, vous ne mourrez pas, et nous rÃ©parerons nos torts. Monsieur!
+vous que je n'outragerai plus en vous donnant un autre nom, reprenez vos
+titres, vos biens; je n'y avais nul droit: hÃ©las! je l'ignorais. Mais,
+par pitiÃ©, n'Ã©crasez point d'un dÃ©shonneur public cette infortunÃ©e qui
+fut vÃ´tre.... Une erreur expiÃ©e par vingt annÃ©es de larmes, est-elle
+encore un crime, alors qu'en fait justice? Ma mÃ¨re et moi, nous nous
+bannissons de chez vous.
+
+LE COMTE, _exaltÃ©_.
+
+Jamais! vous n'en sortirez point.
+
+LÃON.
+
+Un couvent sera sa retraite; et moi, sous mon nom de _LÃ©on_, sous le
+simple habit d'un soldat, je dÃ©fendrai la libertÃ© de notre nouvelle
+Patrie. Inconnu, je mourrai pour elle, ou je la servirai en zÃªlÃ©
+citoyen.
+
+(_Susanne pleure dans un coin; Figaro est absorbÃ© dans l'autre._)
+
+LA COMTESSE, _pÃ©niblement_.
+
+_LÃ©on!_ mon cher enfant! ton courage me rend la vie! Je puis encore la
+supporter, puisque mon fils a la vertu de ne pas dÃ©tester sa mÃ¨re. Cette
+fiertÃ© dans le malheur sera ton noble patrimoine. Il m'Ã©pousa sans
+biens; n'exigeons rien de lui. Le travail de mes mains soutiendra ma
+faible existence; et toi, tu serviras l'Etat.
+
+LE COMTE, _avec dÃ©sespoir_.
+
+Non, _Rosine_! jamais. C'est moi qui suis le vrai coupable! de combien
+de vertus je privais ma triste vieillesse!....
+
+LA COMTESSE.
+
+Vous en serez enveloppÃ©.--_Florestine_ et _BÃ©gearss_ vous restent.
+_Floresta_, votre fille, l'enfant chÃ©ri de votre cÅur!.....
+
+LE COMTE, _Ã©tonnÃ©_.
+
+Comment?..... d'oÃ¹ savez-vous?.... qui vous l'a dit?.....
+
+LA COMTESSE.
+
+Monsieur donnez-lui tous vos biens, mon fils et moi n'y mettrons point
+d'obstacle; son bonheur nous consolera. Mais, avant de nous sÃ©parer, que
+j'obtienne au moins une grace! Apprenez-moi comment vous Ãªtes possesseur
+d'une terrible lettre que je croyais brÃ»lÃ©e avec les autres? Quelqu'un
+m'a-t-il trahie?
+
+FIGARO, _s'Ã©criant_.
+
+Oui! l'infÃ¢me _BÃ©gearss_: je l'ai surpris tantÃ´t qui la remettait Ã 
+Monsieur.
+
+LE COMTE, _parlant vÃ®te_.
+
+Non, je la dois au seul hasard. Ce matin, lui et moi, pour un tout autre
+objet, nous examinions votre Ã©crin, sans nous douter qu'il eÃ»t un double
+fond. Dans le dÃ©bat et sous ses doigts, le secret s'est ouvert soudain,
+Ã  son trÃ¨s-grand Ã©tonnement. Il a cru le coffre brisÃ©!
+
+FIGARO, _criant plus fort_.
+
+Son Ã©tonnement d'un secret? Monstre! C'est lui qui l'a fait faire!
+
+LE COMTE.
+
+Est-il possible?
+
+LA COMTESSE.
+
+Il est trop vrai!
+
+LE COMTE.
+
+Des papiers frappent nos regards; il en ignorait l'existence, et, quand
+j'ai voulu les lui lire, il a refusÃ© de les voir.
+
+SUSANNE, _s'Ã©criant_.
+
+Il les a lus cent fois avec Madame!
+
+LE COMTE.
+
+Est-il vrai? Les connaissait-il?
+
+LA COMTESSE.
+
+Ce fut lui qui me les remit, qui les apporta de l'armÃ©e, lorsqu'un
+infortunÃ© mourut.
+
+LE COMTE.
+
+Cet ami sÃ»r, instruit de tout?.....
+
+FIGARO, LA COMTESSE, SUSANNE, _ensemble, criant_.
+
+C'est lui!
+
+LE COMTE.
+
+O scÃ©lÃ©ratesse infernale! avec quel art il m'avait engagÃ©! A prÃ©sent je
+sais tout.
+
+FIGARO.
+
+Vous le croyez!
+
+LE COMTE.
+
+Je connais son affreux projet. Mais, pour en Ãªtre plus certain,
+dÃ©chirons le voile en entier. Par qui savez-vous donc ce qui touche ma
+_Florestine_?
+
+LA COMTESSE, _vÃ®te_.
+
+Lui seul m'en a fait confidence.
+
+LÃON, _vÃ®te_.
+
+Il me l'a dit sous le secret.
+
+SUSANNE, _vÃ®te_.
+
+Il me l'a dit aussi.
+
+LE COMTE, _avec horreur_.
+
+O monstre! Et moi j'allais la lui donner! mettre ma fortune en ses
+mains!
+
+FIGARO, _vivement_.
+
+Plus d'un tiers y serait dÃ©jÃ , si je n'avais portÃ©, sans vous le dire,
+vos trois millions d'or en dÃ©pÃ´t chez M. _Fal_: vous alliez l'en rendre
+le maÃ®tre, heureusement je m'en suis doutÃ©. Je vous ai donnÃ© son
+reÃ§u....
+
+LE COMTE, _vivement_.
+
+Le scÃ©lÃ©rat vient de me l'enlever, pour en aller toucher la somme.
+
+FIGARO, _dÃ©solÃ©_.
+
+O proscription sur moi! Si l'argent est remis, tout ce que j'ai fait est
+perdu! Je cours chez M. _Fal_. Dieu veuille qu'il ne soit pas trop
+tard!
+
+LE COMTE, _Ã  Figaro_.
+
+Le traÃ®tre n'y peut Ãªtre encore.
+
+FIGARO.
+
+S'il a perdu un temps, nous le tenons. J'y cours. (_Il veut sortir._)
+
+Le COMTE, _vivement, l'arrÃªte_.
+
+Mais, _Figaro_! que le fatal secret dont ce moment vient de t'instruire,
+reste enseveli dans ton sein?
+
+FIGARO, _avec une grande sensibilitÃ©_.
+
+Mon maÃ®tre! il a vingt ans qu'il est dans ce sein-lÃ , et dix que je
+travaille Ã  empÃªcher qu'un monstre n'en abuse! Attendez sur-tout mon
+retour, avant de prendre aucun parti.
+
+LE COMTE, _vivement_.
+
+Penserait-il se disculper?
+
+FIGARO.
+
+Il fera tout pour le tenter; (_Il tire une lettre de sa poche._) mais
+voici le prÃ©servatif. Lisez le contenu de cette Ã©pouvantable lettre; le
+secret de l'enfer est lÃ . Vous me saurez bon grÃ© d'avoir tout fait pour
+me la procurer. (_Il lui remet la lettre de BÃ©gearss._) _Susanne!_ des
+goÃ»tes Ã  ta maÃ®tresse! Tu sais comment je les prÃ©pare! (_Il lui donne un
+flacon._) Passez lÃ  sur sa chaise longue; et le plus grand calme autour
+d'elle. Monsieur, au moins, ne recommencez pas; elle s'Ã©teindrait dans
+nos mains!
+
+LE COMTE, _exaltÃ©_.
+
+Recommencer! Je me ferais horreur!
+
+FIGARO, _Ã  la Comtesse_.
+
+Vous l'entendez, Madame? le voilÃ  dans son caractÃ¨re! et c'est mon
+maÃ®tre que j'entends. Ah! je l'ai toujours dit de lui: la colÃ¨re, chez
+les bons cÅurs, n'est qu'un besoin pressant de pardonner! (_Il
+s'enfuit._)
+
+(_Le Comte et LÃ©on la prennent sous les bras; ils sortent tous._)
+
+
+FIN DU QUATRIÃME ACTE.
+
+
+
+
+ACTE V.
+
+_Le ThÃ©Ã¢tre reprÃ©sente le grand salon du premier acte._
+
+
+SCÃNE PREMIÃRE.
+
+LE COMTE, LA COMTESSE, LÃON, SUSANNE.
+
+(_La Comtesse, sans rouge, dans le plus grand dÃ©sordre de parure._)
+
+LÃON, _soutenant sa mÃ¨re_.
+
+Il fait trop chaud, maman, dans l'appartement intÃ©rieur. _Susanne_,
+avance une bergÃ¨re. (_On l'assied._)
+
+LE COMTE _attendri, arrangeant les coussins_.
+
+Ãtes-vous bien assise? Eh quoi! pleurer encore?
+
+LA COMTESSE _accablÃ©e_.
+
+Ah! laissez-moi verser des larmes de soulagement! ces rÃ©cits affreux
+m'ont brisÃ©e! cette infÃ¢me lettre, sur-tout....
+
+LE COMTE _dÃ©lirant_.
+
+MariÃ© en Irlande, il Ã©pousait ma fille! et tout mon bien placÃ© sur la
+banque de _Londres_, eÃ»t fait vivre un repaire affreux, jusqu'Ã  la mort
+du dernier de nous tous!... Et qui sait, grand Dieu! quels moyens?...
+
+LA COMTESSE.
+
+Homme infortunÃ©! calmez-vous! Mais il est temps de faire descendre
+_Florestine_; elle avait le cÅur si serrÃ© de ce qui devait lui
+arriver! Vas la chercher _Susanne_, et ne l'instruis de rien.
+
+LE COMTE, _avec dignitÃ©_.
+
+Ce que j'ai dit Ã  _Figaro_, _Susanne_, Ã©tait pour vous, comme pour lui?
+
+SUSANNE.
+
+Monsieur, celle qui vit madame pleurer, prier pendant vingt ans, a trop
+gÃ©mi de ses douleurs, pour rien faire qui les accroisse! (_Elle sort._)
+
+
+SCÃNE II.
+
+LE COMTE, LA COMTESSE, LÃON.
+
+LE COMTE, _avec un vif sentiment_.
+
+Ah! Rosine! sÃ©chez vos pleurs; et maudit soit qui vous affligera!
+
+LA COMTESSE.
+
+Mon fils! embrasse les genoux de ton gÃ©nÃ©reux protecteur; et rends-lui
+grace pour ta mÃ¨re. (_Il veut se mettre Ã  genoux._)
+
+LE COMTE _le relÃ¨ve_.
+
+Oublions le passÃ©, _LÃ©on_. Gardons-en le silence, et n'Ã©mouvons plus
+votre mÃ¨re. _Figaro_ demande un grand calme. Ah! respectons, sur-tout,
+la jeunesse de _Florentine_, en lui cachant soigneusement les causes de
+cet accident!
+
+
+SCÃNE III.
+
+FLORESTINE, SUSANNE, LES PRÃCÃDENS.
+
+FLORESTINE, _accourant_.
+
+Mon Dieu! Maman, qu'avez-vous donc?
+
+LA COMTESSE.
+
+Rien que d'agrÃ©able Ã  t'apprendre; et ton parain va t'en instruire.
+
+LE COMTE.
+
+HÃ©las! ma Florestine! je frÃ©mis du pÃ©ril oÃ¹ j'allais plonger ta
+jeunesse. Grace au Ciel, qui dÃ©voile tout, tu n'Ã©pouseras point
+_BÃ©gearss_! Non; tu ne seras point la femme du plus Ã©pouvantable
+ingrat!...
+
+FLORESTINE.
+
+Ah! Ciel! LÃ©on!...
+
+LÃON.
+
+Ma sÅur, il nous a tous jouÃ©s!
+
+FLORESTINE, _au Comte_.
+
+Sa SÅur!
+
+LE COMTE.
+
+Il nous trompait. Il trompait les uns par les autres; et tu Ã©tais le
+prix de ses horribles perfidies. Je vais le chasser de chez moi.
+
+LA COMTESSE.
+
+L'instinct de ta frayeur te servait mieux que nos lumiÃ¨res. Aimable
+enfant! rends grÃ¢ce au Ciel, qui te sauve d'un tel danger!
+
+LÃON.
+
+Ma sÅur, il nous a tous jouÃ©s!
+
+FLORESTINE, _au Comte_.
+
+Monsieur, il m'appÃ¨le sa sÅur!
+
+LA COMTESSE, _exaltÃ©e_.
+
+Oui _Floresta_, tu es Ã  nous. C'est-lÃ  notre secret chÃ©ri. VoilÃ  ton
+pÃ¨re; voilÃ  ton frÃ¨re; et moi je suis ta mÃ¨re pour la vie. Ah! garde-toi
+de l'oublier jamais! (_Elle tend la main au Comte._) Almaviva! pas-vrai
+qu'elle est _ma fille_?
+
+LE COMTE, _exaltÃ©_.
+
+Et lui, _mon fils_; voilÃ  nos deux enfans. (_Tous se serrent dans les
+bras l'un de l'autre._)
+
+
+SCÃNE IV.
+
+FIGARO, M. FAL, _Notaire_, LES PRÃCÃDENS.
+
+FIGARO, _accourant et jettant son manteau_.
+
+MalÃ©diction! Il a le porte-feuille. J'ai vu le traÃ®tre l'emporter, quand
+je suis entrÃ© chez Monsieur.
+
+LE COMTE.
+
+O Monsieur Fal! vous vous Ãªtes pressÃ©!
+
+M. FAL, _vivement_.
+
+Non, Monsieur, au contraire. Il est restÃ© plus d'une heure avec moi: m'a
+fait achever le contrat, y insÃ©rer la donation qu'il fait. Puis il m'a
+remis mon reÃ§u, au bas duquel Ã©tait le vÃ´tre; en me disant que la somme
+est Ã  lui; qu'elle est un fruit d'hÃ©rÃ©ditÃ©; qu'il vous l'a remise en
+confiance....
+
+LE COMTE.
+
+O scÃ©lÃ©rat! Il n'oublie rien!
+
+FIGARO.
+
+Que de trembler sur l'avenir!
+
+M. FAL.
+
+Avec ces Ã©claircissemens, ai-je pu refuser le porte-feuille qu'il
+exigeait? Ce sont trois millions au porteur. Si vous rompez le mariage,
+et qu'il veuille garder l'argent; c'est un mal presque sans remÃ¨de.
+
+LE COMTE, _avec vÃ©hÃ©mence_.
+
+Que tout l'or du monde pÃ©risse; et que je sois dÃ©barassÃ© de lui!
+
+FIGARO, _jettant son chapeau sur un fauteuil_.
+
+DussÃ©-je Ãªtre pendu; il n'en gardera pas une obole! (_A Susanne._)
+Veille au dehors, _Susanne_. (_Elle sort._)
+
+M. FAL.
+
+Avez-vous un moyen de lui faire avouer devant de bons tÃ©moins, qu'il
+tient ce trÃ©sor de Monsieur? Sans cela, je dÃ©fie qu'on puisse le lui
+arracher!
+
+FIGARO.
+
+S'il apprend par son allemand, ce qui se passe dans l'hÃ´tel, il n'y
+rentrera plus.
+
+LE COMTE, _vivement_.
+
+Tant mieux! c'est tout ce que je veux! Ah! qu'il garde le reste!
+
+FIGARO, _vivement_.
+
+Lui laisser par dÃ©pit l'hÃ©ritage de vos enfans? ce n'est pas vertu,
+c'est faiblesse.
+
+LÃON _fÃ¢chÃ©_.
+
+_Figaro!_
+
+FIGARO _plus fort_.
+
+Je ne m'en dÃ©dis point. (_Au Comte._) Qu'obtiendra donc de vous
+l'attachement, si vous payez ainsi la perfidie?
+
+LE COMTE _se fÃ¢chant_.
+
+Mais, l'entreprendre sans succÃ¨s; c'est lui mÃ©nager un triomphe....
+
+
+SCÃNE V.
+
+LES PRÃCÃDENS, SUSANNE.
+
+SUSANNE _Ã  la porte, et criant_.
+
+Monsieur _BÃ©gearss_ qui rentre! (_Elle sort._)
+
+
+SCÃNE VI.
+
+LES PRÃCÃDENS, _exceptÃ©_ SUSANNE,
+
+(_Ils font tous un grand mouvement._)
+
+LE COMTE, _hors de lui_.
+
+Oh! traÃ®tre!
+
+FIGARO, _trÃ¨s-vÃ®te_.
+
+On ne peut plus se concerter; mais si vous m'Ã©coutez, et me secondez
+tous, pour lui donner une sÃ©curitÃ© profonde; j'engage ma tÃªte au succÃ¨s.
+
+M. FAL.
+
+Vous allez lui parler du porte-feuille et du contrat?
+
+FIGARO, _trÃ¨s-vite_.
+
+Non pas; il en sait trop pour l'entammer si brusquement! il faut
+l'amener de plus loin Ã  faire un aveu volontaire. (_Au Comte._) Feignez
+de vouloir me chasser.
+
+LE COMTE, _troublÃ©_.
+
+Mais, mais, sur quoi?
+
+
+SCÃNE VII.
+
+LES PRÃCÃDENS, SUSANNE, BÃGEARSS.
+
+SUSANNE, _accourant_.
+
+Monsieur _BÃ©geaaaaaaarss_! (_Elle se range prÃ¨s de la Comtesse._)
+
+BÃGEARSS, _montre une grande surprise_.
+
+FIGARO, _s'Ã©crie, en le voyant_.
+
+Monsieur _BÃ©gearss_! (_humblement._) Eh bien! ce n'est qu'une
+humiliation de plus. Puisque vous attachez Ã  l'aveu de mes torts le
+pardon que je sollicite; j'espÃ¨re que Monsieur ne sera pas moins
+gÃ©nÃ©reux.
+
+BÃGEARSS, _Ã©tonnÃ©_.
+
+Qu'y a-t-il donc? Je vous trouve assemblÃ©s!
+
+LE COMTE, _brusquement_.
+
+Pour chasser un sujet indigne.
+
+BÃGEARSS, _plus surpris encore, voyant le Notaire_.
+
+Et Monsieur _Fal_?
+
+M. FAL, _lui montrant le contrat_.
+
+Voyez qu'on ne perd point de temps, tout ici concourt avec vous.
+
+BÃGEARSS, _surpris_.
+
+Ha! ha!.....
+
+LE COMTE, _impatient, Ã  Figaro_.
+
+Pressez-vous; ceci me fatigue.
+
+(_Pendant cette scÃ¨ne, BÃ©gearss les examine l'un aprÃ¨s l'autre, avec la
+plus grande attention._)
+
+FIGARO, _l'air suppliant, adressant la parole au Comte_.
+
+Puisque la feinte est inutile; achevons mes tristes aveux. Oui, pour
+nuire Ã  Monsieur _BÃ©gearss_, je rÃ©pÃ¨te avec confusion, que je me suis
+mis Ã  l'Ã©pier, le suivre, et le troubler par-tout: (_au Comte_) car
+Monsieur n'avait pas sonnÃ©, lorsque je suis entrÃ© chez lui, pour savoir
+ce qu'on y fesait du coffre aux brillans de Madame, que j'ai trouvÃ©-lÃ 
+tout ouvert.
+
+BÃGEARSS.
+
+Certes! ouvert Ã  mon grand regret!
+
+LE COMTE, _fait un mouvement inquiÃ©tant_.
+
+(_A part._) Quelle audace!
+
+FIGARO, _se courbant, le tire par l'habit pour l'avertir_.
+
+Ah! mon MaÃ®tre!
+
+M. FAL, _effrayÃ©_.
+
+Monsieur!
+
+BÃGEARSS, _au Comte_, (_Ã  part._)
+
+ModÃ©rez-vous; ou nous ne sÃ§aurons rien.
+
+LE COMTE, _frappe du pied_.
+
+BÃGEARSS, _l'examine_.
+
+FIGARO, _soupirant, dit au Comte_.
+
+C'est ainsi que sachant Madame enfermÃ©e avec lui, pour brÃ»ler de
+certains papiers dont je connaissais l'importance; je vous ai fait venir
+subitement.
+
+BÃGEARSS, _au Comte_.
+
+Vous l'ai-je dit?
+
+LE COMTE, _mord son mouchoir de fureur_.
+
+SUSANNE, _bas Ã  Figaro_, (_par derriÃ¨re._)
+
+AchÃ¨ve, achÃ¨ve!
+
+FIGARO.
+
+Enfin vous voyant tous d'accord, j'avoue que j'ai fait l'impossible pour
+provoquer entre Madame et vous la vive explication..... qui n'a pas eu
+la fin que j'espÃ©rais.....
+
+LE COMTE, _Ã  Figaro, avec colÃ¨re_.
+
+Finissez-vous ce plaidoyer?
+
+FIGARO, _bien humble_.
+
+HÃ©las! je n'ai plus rien Ã  dire; puisque c'est cette explication qui a
+fait chercher Monsieur _Fal_, pour finir ici le contrat. L'heureuse
+Ã©toile de Monsieur a triomphÃ© de tous mes artifices..... Mon maÃ®tre! en
+faveur de trente ans.....
+
+LE COMTE, _avec humeur_.
+
+Ce n'est pas Ã  moi de juger. (_Il marche vÃ®te._)
+
+FIGARO.
+
+Monsieur _BÃ©gearss_!....
+
+BÃGEARSS, _qui a repris sa sÃ©curitÃ©, dit ironiquement_.
+
+Qui! moi? cher ami, je ne comptais guÃ¨res vous avoir tant d'obligations!
+(_Elevant son ton._) Voir mon bonheur accÃ©lÃ©rÃ© par le coupable effort
+destinÃ© Ã  me le ravir! (_A LÃ©on et Florestine._) O jeunes gens! quelle
+leÃ§on! marchons avec candeur dans le sentier de la vertu. Voyez que tÃ´t
+ou tard l'intrigue est la perte de son auteur.
+
+FIGARO, _prosternÃ©_.
+
+Ah! oui!
+
+BÃGEARSS, _au Comte_.
+
+Monsieur, pour cette fois encore, et qu'il parte!
+
+LE COMTE, _Ã  BÃ©gearss, durement_.
+
+C'est-lÃ  votre arrÃªt?..... j'y souscris.
+
+FIGARO, _ardemment_.
+
+Monsieur _BÃ©gearss_! je vous le dois. Mais je vois M. _Fal_ pressÃ©
+d'achever un contrat.....
+
+LE COMTE, _brusquement_.
+
+Les articles m'en sont connus.
+
+M. FAL.
+
+Hors celui-ci. Je vais vous lire la donation que Monsieur fait...
+(_cherchant l'endroit._) M., M., M., Messire _James-HonorÃ© BÃ©gearss_....
+Ah! (_il lit_) Â«et pour donner Ã  la Demoiselle future Ã©pouse, une preuve
+non Ã©quivoque de son attachement pour elle; ledit Seigneur futur Ã©poux
+lui fait donation entiÃ¨re de tous les grands biens qu'il possÃ¨de;
+consistant aujourd'hui, (_il appuie en lisant_) (ainsi qu'il le dÃ©clare,
+et les a exhibÃ©s Ã  nous Notaires soussignÃ©s), en trois millions d'or ici
+joints, en trÃ¨s-bons effets au porteur.Â» (_Il tend la main en lisant._)
+
+BÃGEARSS.
+
+Les voilÃ  dans ce porte-feuille. (_Il donne le porte-feuille Ã  Fal._) Il
+manque deux milliers de louis, que je viens d'en Ã´ter pour fournir aux
+apprÃªts des noces.
+
+FIGARO _montrant le Comte, et vivement_.
+
+Monsieur a dÃ©cidÃ© qu'il paierait tout; j'ai l'ordre.
+
+BÃGEARSS, _tirant les effets de sa poche et les remettant au notaire_.
+
+En ce cas enregistrez-les; que la donation soit entiÃ¨re!
+
+FIGARO _retournÃ©, se tient la bouche pour ne pas rire_.
+
+M. FAL _ouvre le porte-feuille, y remet les effets_.
+
+M. FAL _montrant Figaro_.
+
+Monsieur va tout additionner, pendant que nous achÃ¨verons. (_Il donne le
+porte-feuille ouvert Ã  Figaro; qui, voyant les effets, dit:_)
+
+FIGARO, _l'air exaltÃ©_.
+
+Et moi j'Ã©prouve qu'un bon repentir est comme toute bonne action; qu'il
+porte aussi sa rÃ©compense.
+
+BÃGEARSS.
+
+En quoi?
+
+FIGARO.
+
+J'ai le bonneur de m'assurer qu'il est ici plus d'un gÃ©nÃ©reux homme. Oh!
+que le Ciel comble les vÅux de deux amis aussi parfaits! Nous n'avons
+nul besoin d'Ã©crire. (_Au Comte._) Ce sont vos effets au porteur: oui
+Monsieur, je les reconnais. Entre M. _BÃ©gearss_ et vous, c'est un combat
+de gÃ©nÃ©rositÃ©; l'un donne ses biens Ã  l'Ã©poux; l'autre les rend Ã  sa
+future! (_Aux jeunes gens._) Monsieur, Mademoiselle! Ah! quel
+bienfaisant protecteur, et que vous allez le chÃ©rir...... Mais, que
+dis-je? l'enthousiasme m'aurait-il fait commettre une indiscrÃ©tion
+offensante? (_Tout le monde garde le silence._)
+
+BÃGEARSS, _un peu surpris, se remet; prend son parti, et dit_:
+
+Elle ne peut l'Ãªtre pour personne, si mon ami ne la dÃ©savoue pas; s'il
+met mon Ã¢me Ã  l'aise, en me permettant d'avouer que je tiens de lui ces
+effets. Celui-lÃ  n'a pas un bon cÅur, que la gratitude fatigue; et
+cet aveu manquait Ã  ma satisfaction. (_montrant le Comte._) Je lui dois
+bonheur et fortune; et quand je les partage avec sa digne fille, je ne
+fais que lui rendre ce qui lui appartient de droit. Remettez-moi le
+porte-feuille; je ne veux avoir que l'honneur de le mettre Ã  ses pieds
+moi-mÃªme, en signant notre heureux contrat. (_Il veut le reprendre._)
+
+FIGARO, _sautant de joie_.
+
+Messieurs, vous l'avez entendu? vous tÃ©moignerez s'il le faut. Mon
+maÃ®tre, voilÃ  vos effets; donnez-les Ã  leur dÃ©tempteur, si vÃ´tre cÅur
+l'en juge digne. (_Il lui remet le porte-feuille._)
+
+LE COMTE, _se levant, Ã  BÃ©gearss_.
+
+Grand Dieu! les lui donner! homme cruel sortez de ma maison; l'enfer
+n'est pas aussi profond que vous! grÃ¢ce Ã  ce bon vieux serviteur, mon
+imprudence est rÃ©parÃ©e: sortez Ã  l'instant de chez moi.
+
+BÃGEARSS.
+
+O mon ami! vous Ãªtes encore trompÃ©!
+
+LE COMTE, _hors de lui, le bride de sa lettre ouverte_.
+
+LE COMTE.
+
+Et cette lettre, Monstre! m'abuse-t-elle aussi?
+
+BÃGEARSS _la voit; furieux, il arrache au Comte la lettre, et se montre
+tel qu'il est_.
+
+Ah!.... Je suis jouÃ©! mais j'en aurai raison.
+
+LÃON.
+
+Laissez en paix une famille que vous avez remplie d'horreur.
+
+BÃGEARSS _furieux_.
+
+Jeune insensÃ©! c'est toi qui vas payer pour tous; je t'appelle au
+combat.
+
+LÃON, _vÃ®te_.
+
+J'y cours.
+
+LE COMTE, _vÃ®te_.
+
+LÃ©on!
+
+LA COMTESSE, _vÃ®te_.
+
+Mon fils!
+
+FLORESTINE, _vÃ®te_.
+
+Mon frÃ¨re!
+
+LE COMTE.
+
+_LÃ©on!_ Je vous dÃ©fends..... (_Ã  BÃ©gearss_) Vous vous Ãªtes rendu indigne
+de l'honneur que vous demandez: Ce n'est point par cette voie-lÃ  qu'un
+homme comme vous doit terminer sa vie.
+
+BÃGEARSS _fait un geste affreux, sans parler_.
+
+FIGARO, _arrÃªtant LÃ©on, vivement_.
+
+Non, jeune homme! vous n'irez point; Monsieur votre pÃ¨re a raison, et
+l'opinion est rÃ©formÃ©e sur cette horrible frÃ©nÃ©sie; on ne combattra plus
+ici que les ennemis de l'Ã©tat. Laissez-le en proie Ã  sa fureur; et s'il
+ose vous attaquer, dÃ©fendez-vous comme d'un assassin; personne ne
+trouve mauvais qu'on tue une bÃªte enragÃ©e! mais il se gardera de l'oser;
+l'homme capable de tant d'horreurs doit Ãªtre aussi lÃ¢che que vil!
+
+BÃGEARSS _hors de lui_.
+
+Malheureux!
+
+LE COMTE, _frappant du pied_.
+
+Nous laissez-vous enfin? c'est un supplice de vous voir. (_La Comtesse
+est effrayÃ©e sur son siÃ©ge; Florestine et Susanne la soutiennent; LÃ©on
+se rÃ©unit Ã  elles._)
+
+BÃGEARSS, _les dents serrÃ©es_.
+
+Oui morbleu! je vous laisse; mais j'ai la preuve en main de votre infÃ¢me
+trahison! vous n'avez demandÃ© l'agrÃ©ment de Sa MajestÃ©, pour Ã©changer
+vos biens d'Espagne, que pour Ãªtre Ã  portÃ©e de troubler sans pÃ©ril
+l'autre cÃ´tÃ© des pyrÃ©nÃ©es.
+
+LE COMTE.
+
+O monstre! que dit-il?
+
+BÃGEARSS.
+
+Ce que je vais dÃ©noncer Ã  _Madrid_. N'y eÃ»t-il que le buste en grand
+d'un _Washington_, dans votre cabinet; j'y fais confisquer tous vos
+biens.
+
+FIGARO _criant_.
+
+Certainement; le tiers au dÃ©nonciateur.
+
+BÃGEARSS.
+
+Mais, pour que vous n'Ã©changiez rien, je cours chez notre ambassadeur
+arrÃªter dans ses mains l'agrÃ©ment de Sa MajestÃ©, que l'on attend par ce
+courrier.
+
+FIGARO, _tirant un paquet de sa poche, s'Ã©crie vivement_:
+
+L'agrÃ©ment du Roi? le voici; j'avais prÃ©vu le coup; je viens, de votre
+part, d'enlever le paquet au secrÃ©tariat d'ambassade; le courrier
+d'Espagne arrivait!
+
+LE COMTE, _avec vivacitÃ©, prend le paquet_.
+
+BÃGEARSS _furieux, frappe sur son front, fait deux pas pour sortir et se
+retourne_.
+
+Adieu, famille abandonnÃ©e! maison sans mÅurs et sans honneur! Vous
+aurez l'impudeur de conclure un mariage abominable, en unissant le frÃ¨re
+avec la sÅur: mais l'univers saura votre infÃ¢mie! (_Il sort._)
+
+
+SCÃNE VIIIe. ET DERNIÃRE.
+
+LES PRÃCÃDENS, _exceptÃ©_ BÃGEARSS.
+
+FIGARO _follement_.
+
+Qu'il fasse des libelles! derniÃ¨re ressource des lÃ¢ches! Il n'est plus
+dangereux; bien dÃ©masquÃ©: Ã  bout de voie, et pas vingt-cinq louis dans
+le monde! Ah Monsieur _Fal_! je me serais poignardÃ© s'il eÃ»t gardÃ© les
+deux mille louis qu'il avait soustraits du paquet! (_Il reprend un ton
+grave._) D'ailleurs, nul ne sait mieux que lui, que par la nature et la
+loi, ces jeunes gens ne se sont rien; qu'ils sont Ã©trangers l'un Ã 
+l'autre.
+
+LE COMTE _l'embrasse et crie_:
+
+_O Figaro!_.... Madame, il a raison.
+
+LÃON, _trÃ¨s-vÃ®te_.
+
+Dieux! Maman! quel espoir!
+
+FLORESTINE, _au Comte_.
+
+Eh quoi! Monsieur, n'Ãªtes-vous plus....
+
+LE COMTE, _ivre de joie_.
+
+Mes enfans, nous y reviendrons; et nous consulterons, sous des noms
+supposÃ©s, des gens de loi, discrets, Ã©clairÃ©s, pleins d'honneur. O mes
+enfans! il vient un Ã¢ge oÃ¹ les honnÃªtes gens se pardonnent leurs torts,
+leurs anciennes foiblesses! font succÃ©der un doux attachement aux
+passions orageuses qui les avaient trop dÃ©sunis. _Rosine!_ (c'est le nom
+que votre Ã©poux vous rend.) allons nous reposer des fatigues de la
+journÃ©e. _Monsieur Fal!_ restez avec nous. Venez mes deux enfans!----
+_Susanne_, embrasse ton mari! et que nos sujets de querelles soient
+ensevelis pour toujours! (_Ã  Figaro._) Les deux mille louis qu'il avait
+soustraits, je te les donne, en attendant la rÃ©compense qui t'est bien
+dÃ»e!....
+
+FIGARO, _vivement_.
+
+A moi, Monsieur? non s'il vous plait; moi, gÃ¢ter par un vil salaire, le
+bon service que j'ai fait? ma rÃ©compense est de mourir chez vous. Jeune,
+si j'ai failli souvent; que ce jour acquitte ma vie! O ma vieillesse!
+pardonne Ã  ma jeunesse, elle s'honorera de toi. Un jour a changÃ© notre
+Ã©tat! plus d'oppresseur, d'hypocrite insolent! Chacun a bien fait son
+devoir: ne plaignons point quelques momens de trouble; on gagne assez
+dans les familles quand on en expulse un mÃ©chant.
+
+
+FIN DU CINQUIÃME ET DERNIER ACTE.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of L'autre Tartuffe, ou La mÃ¨re coupable, by 
+Pierre Augustin Caron de Beaumarchais
+
+*** END OF THIS PROJECT GUTENBERG EBOOK L'AUTRE TARTUFFE ***
+
+***** This file should be named 34841-0.txt or 34841-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/4/8/4/34841/
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images available at the BibliothÃ¨que nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,3 +1,2492 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0fab8a29d55359259b6c13929c23cb2433078c7e572e1babbc127737f5346f71
-size 146202
+ï»¿The Project Gutenberg EBook of Introduction Ã  la mÃ©thode de LÃ©onard de
+Vinci, by Paul ValÃ©ry
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Introduction Ã  la mÃ©thode de LÃ©onard de Vinci
+
+Author: Paul ValÃ©ry
+
+Release Date: July 20, 2018 [EBook #57547]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA MÃTHODE DE LÃONARD DE VINCI ***
+
+
+
+
+Produced by Laura Natal Rodriguez & Marc D'Hooghe at Free
+Literature (Images generously made available by the Internet
+Archive.)
+
+
+
+
+
+INTRODUCTION Ã LA MÃTHODE DE LÃONARD DE VINCI
+
+PAUL VALÃRY
+
+DeuxiÃ¨me Ãdition
+
+Paris
+
+Ãditions de la Nouvelle Revue FranÃ§aise
+
+35 et 37, Rue Madame
+
+
+
+
+
+
+Table des matiÃ¨res
+
+Note et digressions
+Introduction Ã  la mÃ©thode de LÃ©onard de Vinci
+
+
+
+
+NOTE ET DIGRESSIONS
+
+
+_Pourquoi l'auteur, dit-on, a-t-il fait aller son personnage en Hongrie?_
+
+_Parce qu'il avait envie de faire entendre un morceau de musique
+instrumentale dont le thÃ¨me est hongrois. Il l'avoue sincÃ¨rement. Il
+l'eÃ»t menÃ© partout ailleurs, s'il eÃ»t trouvÃ© la moindre raison musicale
+de le faire._
+
+
+H. Berlioz. Avant-propos de la _Damnation de Faust._
+
+
+
+
+Il me faut excuser d'un titre si ambitieux et si vÃ©ritablement trompeur
+que celui-ci. Je n'avais pas le dessein d'en imposer quand je l'ai mis
+sur ce petit ouvrage. Mais il y a vingt-cinq ans que je l'y ai mis,
+et aprÃ¨s ce long refroidissement, je le trouve un peu fort. Le titre
+avantageux serait donc adouci. Quant au texte... Mais le texte, on ne
+songerait mÃªme pas Ã  l'Ã©crire. Impossible! dirait maintenant la raison.
+ArrivÃ© Ã  l'Ã©niÃ¨me coup de la partie d'Ã©checs que joue la connaissance
+avec l'Ãªtre, on se flatte qu'on est instruit par l'adversaire; on
+en prend le visage; on devient dur pour le jeune homme qu'il faut
+bien souffrir d'avoir comme aÃ¯eul; on lui trouve des faiblesses
+inexplicables, qui furent ses audaces; on reconstitue sa naÃ¯vetÃ©. C'est
+lÃ  se faire plus sot qu'on ne l'a jamais Ã©tÃ©. Mais sot par nÃ©cessitÃ©,
+sot par raison d'Ãtat! Il n'est pas de tentation plus cuisante, ni
+plus intime, ni de plus fÃ©conde, peut-Ãªtre, que celle du reniement de
+soi-mÃªme: chaque jour est jaloux des jours, et c'est son devoir que de
+l'Ãªtre; la pensÃ©e se dÃ©fend dÃ©sespÃ©rÃ©ment d'avoir Ã©tÃ© plus forte; la
+clartÃ© du moment ne veut pas illuminer au passÃ© de moments plus clairs
+qu'elle-mÃªme; et les premiÃ¨res paroles que le contact du soleil fait
+balbutier au cerveau qui se rÃ©veille, sonnent ainsi dans ce Memnon:
+_Nihil reputare actum..._
+
+*
+
+Relire, donc, relire aprÃ¨s l'oubli,--_se_ relire, sans ombre de
+tendresse, sans paternitÃ©; avec froideur et acuitÃ© critique, et dans
+une attente terriblement crÃ©atrice de ridicule et de mÃ©pris, l'air
+Ã©tranger, l'Åil destructeur,--c'est refaire, ou pressentir que l'on
+referait, bien diffÃ©remment, son travail.
+
+L'objet en vaudrait la peine. Mais il n'a pas cessÃ© d'Ãªtre au-dessus de
+mes forces. Aussi bien je n'ai jamais rÃªvÃ© de m'y attaquer: ce petit
+essai doit son existence Ã  Madame Juliette Adam, qui, vers la fin de
+l'an 94, sur le gracieux avis de Monsieur LÃ©on Daudet, voulut bien me
+demander de l'Ã©crire pour sa _Nouvelle Revue._
+
+*
+
+Quoique j'eusse vingt-trois ans, mon embarras fut immense. Je savais
+trop que je connaissais LÃ©onard beaucoup moins que je ne l'admirais. Je
+voyais en lui le personnage principal de cette ComÃ©die Intellectuelle
+qui n'a pas jusqu'ici rencontrÃ© son poÃ¨te, et qui serait pour mon goÃ»t
+bien plus prÃ©cieuse encore que la _ComÃ©die Humaine_, et mÃªme que la
+_Divine ComÃ©die._ Je sentais que ce maÃ®tre de ses moyens, ce possesseur
+du dessin, des images, du calcul, avait trouvÃ© l'attitude centrale Ã 
+partir de laquelle les entreprises de la connaissance et les opÃ©rations
+de l'art sont Ã©galement possibles; les Ã©changes heureux entre l'analyse
+et les actes, singuliÃ¨rement probables: pensÃ©e merveilleusement
+excitante.
+
+Mais pensÃ©e trop immÃ©diate,--pensÃ©e sans valeur,--pensÃ©e infiniment
+rÃ©pandue,--et pensÃ©e bonne pour parler, non pour Ã©crire.
+
+*
+
+Cet Apollon me ravissait au plus haut degrÃ© de moi-mÃªme. Quoi de plus
+sÃ©duisant qu'un dieu qui repousse le mystÃ¨re, qui ne fonde pas sa
+puissance sur le trouble de notre sens; qui n'adresse pas ses prestiges
+au plus obscur, au plus tendre, au plus sinistre de nous-mÃªmes; qui
+nous force de convenir et non de ployer; et de qui le miracle est
+de s'Ã©claircir; la profondeur, une perspective bien dÃ©duite? Est-il
+meilleure marque d'un pouvoir authentique et lÃ©gitime que de ne pas
+s'exercer sous un voile?--Jamais pour Dyonisos, ennemi plus dÃ©libÃ©rÃ©,
+ni si pur, ni armÃ© de tant de lumiÃ¨re, que ce hÃ©ros moins occupÃ© de
+plier et de rompre les monstres que d'en considÃ©rer les ressorts;
+dÃ©daigneux de les percer de flÃ¨ches, tant il les pÃ©nÃ©trait de ses
+questions; leur supÃ©rieur, plus que leur vainqueur, il signifie n'Ãªtre
+pas sur eux de triomphe plus achevÃ© que de les comprendre,--presque au
+point de les reproduire; et une fois saisi leur principe, il peut bien
+les abandonner, dÃ©risoirement rÃ©duits Ã  l'humble condition de cas trÃ¨s
+particuliers et de paradoxes explicables.
+
+*
+
+Si lÃ©gÃ¨rement que je l'eusse Ã©tudiÃ©, ses dessins, ses manuscrits
+m'avaient comme Ã©bloui. De ces milliers de notes et de croquis,
+je gardais l'impression extraordinaire d'un ensemble hallucinant
+d'Ã©tincelles arrachÃ©es par les coups les plus divers Ã  quelque
+fantastique fabrication. Maximes, recettes, conseils Ã  soi, essais d'un
+raisonnement qui se reprend; parfois une description achevÃ©e; parfois
+il se parle et se tutoie...
+
+Mais je n'avais nulle envie de redire qu'il fut ceci et cela: et
+peintre, et gÃ©omÃ¨tre, et...
+
+Et, d'un mot, l'artiste du monde mÃªme. Nul ne l'ignore.
+
+*
+
+Je n'Ã©tais pas assez savant pour songer Ã  dÃ©velopper le dÃ©tail de ses
+recherches,--(essayer, par exemple, de dÃ©terminer le sens prÃ©cis de cet
+_Impeto_, dont il fait si grand usage dans sa dynamique; ou disserter
+de ce _Sfumato_, qu'il a poursuivi dans sa peinture); ni je ne me
+trouvais assez Ã©rudit, (et moins encore, portÃ© Ã  l'Ãªtre), pour penser
+Ã  contribuer, de si peu que ce fÃ»t, au pur accroissement des faits
+dÃ©jÃ  connus. Je ne me sentais pas pour l'Ã©rudition toute la ferveur
+qui lui est due. L'Ã©tonnante conversation de Marcel Schwob me gagnait
+Ã  son charme propre plus qu'Ã  ses sources. Je buvais tant qu'elle
+durait. J'avais le plaisir sans la peine. Mais enfin, je me rÃ©veillais;
+ma paresse se redressait contre l'idÃ©e des lectures dÃ©sespÃ©rantes,
+des recensions infinies, des mÃ©thodes scrupuleuses qui prÃ©servent
+de la certitude. Je disais Ã  mon ami que de savants hommes courent
+bien plus de risques que les autres, puisqu'ils font des paris et que
+nous restons hors du jeu; et qu'ils ont deux maniÃ¨res de se tromper:
+la nÃ´tre, qui est aisÃ©e, et la leur, laborieuse. Que s'ils ont le
+bonheur de nous rendre quelques Ã©vÃ©nements, le nombre mÃªme des vÃ©ritÃ©s
+matÃ©rielles rÃ©tablies met en danger la rÃ©alitÃ© que nous cherchons.
+Le vrai Ã  l'Ã©tat brut est plus faux que le faux. Les documents nous
+renseignent au hasard sur la rÃ¨gle et sur l'exception. Un chroniqueur,
+mÃªme, prÃ©fÃ¨re de nous conserver les singularitÃ©s de son Ã©poque. Mais
+tout ce qui est vrai d'une Ã©poque ou d'un personnage ne sert pas
+toujours Ã  les mieux connaÃ®tre. Nul n'est identique au total exact
+de ses apparences; et qui d'entre nous n'a pas dit, ou qui n'a pas
+fait, quelque chose qui n'est pas _sienne?_ TantÃ´t l'imitation, tantÃ´t
+le lapsus,--ou l'occasion,--ou la seule lassitude accumulÃ©e d'Ãªtre
+prÃ©cisÃ©ment celui qu'on est, altÃ¨rent pour un moment celui-lÃ  mÃªme;
+on nous croque pendant un dÃ®ner; ce feuillet passe Ã  la postÃ©ritÃ©,
+tout habitÃ©e d'Ã©rudits, et nous voilÃ  jolis pour toute l'Ã©ternitÃ©
+littÃ©raire. Un visage faisant la grimace, si on le photographie dans
+cet instant, c'est un document irrÃ©cusable. Mais montrez-le aux amis du
+saisi; ils n'y reconnaissent personne.
+
+*
+
+J'avais bien d'autres sophismes Ã  la discrÃ©tion de mes dÃ©goÃ»ts, tant
+la rÃ©pugnance Ã  de longs labeurs est ingÃ©nieuse. Toutefois, j'aurais
+peut-Ãªtre affrontÃ© ces ennuis, s'ils m'avaient paru me conduire Ã 
+la fin que j'aimais. J'aimais dans mes tÃ©nÃ¨bres la loi intime de ce
+grand LÃ©onard. Je ne voulais pas de son histoire, ni seulement des
+productions de sa pensÃ©e... De ce front chargÃ© de couronnes, je rÃªvais
+seulement Ã  l'_amande..._
+
+*
+
+Que faire, parmi tant de rÃ©futations, n'Ã©tant riche que de dÃ©sirs, tout
+ivre que l'on soit de cupiditÃ© et d'orgueil intellectuels?
+
+Se monter la tÃªte?--Se donner enfin quelque fiÃ¨vre littÃ©raire? En
+cultiver le dÃ©lire?
+
+Je brÃ»lais pour un beau sujet. Que c'est peu devant le papier!
+
+Une grande soif, sans doute, s'illustre elle-mÃªme de ruisselantes
+visions; elle agit sur je ne sais quelles substances secrÃ¨tes comme
+fait la lumiÃ¨re invisible sur le verre de BohÃªme tout pÃ©nÃ©trÃ© d'urane;
+elle Ã©claire ce qu'elle attend, elle diamante des cruches, elle se
+peint l'opalescence de carafes... Mais ces breuvages qu'elle se frappe
+ne sont que spÃ©cieux; mais je trouvais indigne, et je le trouve encore,
+d'Ã©crire par le seul enthousiasme. L'enthousiasme n'est pas un Ã©tat
+d'Ã¢me d'Ã©crivain.
+
+Quelle grande que soit la puissance du feu, elle ne devient utile et
+motrice que par les machines oÃ¹ l'art l'engage; il faut que des gÃªnes
+bien placÃ©es fassent obstacle Ã  sa dissipation totale, et qu'un retard
+adroitement opposÃ© au retour invincible de l'Ã©quilibre permette de
+soustraire quelque chose Ã  la chute infructueuse de l'ardeur.
+
+S'agit-il du discours, l'auteur qui le mÃ©dite se sent Ãªtre
+tout ensemble _source, ingÃ©nieur, et contraintes_: l'un de lui
+est impulsion; l'autre prÃ©voit, compose, modÃ¨re, supprime; un
+troisiÃ¨me,--logique et mÃ©moire,--maintient les donnÃ©es, conserve les
+liaisons, assure quelque durÃ©e Ã  l'assemblage _voulu... Ãcrire_ devant
+Ãªtre, le plus solidement et le plus exactement qu'on le puisse, de
+construire cette machine de langage oÃ¹ la dÃ©tente de l'esprit excitÃ©
+se dÃ©pense Ã  vaincre des rÃ©sistances _rÃ©elles_, il exige de l'Ã©crivain
+qu'il se divise contre lui-mÃªme. C'est en quoi seulement et strictement
+l'homme tout entier est _auteur._ Tout le reste n'est pas de _lui_,
+mais d'une partie de lui, Ã©chappÃ©e. Entre l'Ã©motion ou l'intention
+initiale, et ces aboutissements que sont l'oubli, le dÃ©sordre, le
+vague,--issues fatales de la pensÃ©e,--son affaire est d'introduire les
+contrariÃ©tÃ©s qu'il a crÃ©Ã©es, afin qu'interposÃ©es, elles disputent Ã  la
+nature purement transitive des phÃ©nomÃ¨nes intÃ©rieurs, un peu d'action
+renouvelable et d'existence indÃ©pendante...
+
+*
+
+Peut-Ãªtre, je m'exagÃ©rais en ce temps-lÃ , le dÃ©faut Ã©vident de toute
+littÃ©rature, de ne satisfaire jamais l'ensemble de l'esprit. Je
+n'aimais pas qu'on laissÃ¢t des fonctions oisives pendant qu'on exerce
+les autres. Je puis dire aussi, (c'est dire la mÃªme chose), que je ne
+mettais rien au-dessus de la _conscience_; j'aurais donnÃ© bien des
+chefs-d'Åuvre que je croyais irrÃ©flÃ©chis pour une page visiblement
+gouvernÃ©e.
+
+Ces erreurs, qu'il serait aisÃ© de dÃ©fendre, et que je ne trouve pas
+encore si infÃ©condes que je n'y retourne quelquefois, empoisonnaient
+mes tentatives. Tous mes prÃ©ceptes, trop prÃ©sents et trop dÃ©finis,
+Ã©taient aussi trop universels pour me servir dans aucune circonstance.
+Il faut tant d'annÃ©es pour que les vÃ©ritÃ©s que l'on s'est faites
+deviennent notre chair mÃªme!
+
+Ainsi, au lieu de trouver en moi ces conditions, ces obstacles
+comparables Ã  des forces extÃ©rieures, qui permettent que l'on avance
+contre son premier mouvement, je m'y heurtais Ã  des chicanes mal
+disposÃ©es; et je me rendais Ã  plaisir les choses plus difficiles
+qu'il eÃ»t dÃ» sembler Ã  de si jeunes regards qu'elles le fussent. Et
+je ne voyais de l'autre cÃ´tÃ© que vellÃ©itÃ©s, possibilitÃ©s, facilitÃ©
+dÃ©goÃ»tante: toute-une richesse involontaire, vaine comme celle des
+rÃªves, remuant et mÃªlant l'infini des choses usÃ©es.
+
+Si je commenÃ§ais de jeter les dÃ©s sur un papier, je n'amenais que
+les mots tÃ©moins de l'impuissance de la pensÃ©e: _gÃ©nie, mystÃ¨re,
+profond..._, attributs qui conviennent au nÃ©ant, renseignent moins
+sur leur sujet que sur la personne qui parle. J'avais beau chercher
+Ã  me leurrer, cette politique mentale Ã©tait courte: je rÃ©pondais
+si promptement par mes sentences impitoyables Ã  mes naissantes
+propositions, que la somme de mes Ã©changes, dans chaque instant, Ã©tait
+nulle.
+
+Pour comble de malheur, j'adorais confusÃ©ment, mais passionnÃ©ment, la
+prÃ©cision; je prÃ©tendais vaguement Ã  la conduite de mes pensÃ©es.
+
+Je sentais, certes, qu'il faut bien, et de toute nÃ©cessitÃ©, que notre
+esprit compte sur ses hasards: fait pour l'imprÃ©vu, il le donne,
+il le reÃ§oit; ses attentes expresses sont sans effets directs, et
+ses opÃ©rations volontaires ou rÃ©guliÃ¨res ne sont utiles qu'_aprÃ¨s
+coup_,--comme dans une seconde vie qu'il donnerait au plus clair de
+lui-mÃªme. Mais je ne croyais pas Ã  la puissance propre du dÃ©lire, Ã  la
+nÃ©cessitÃ© de l'ignorance, aux Ã©clairs de l'absurde, Ã  l'incohÃ©rence
+crÃ©atrice. Ce que nous tenons du hasard tient toujours un peu de
+son pÃ¨re!--Nos rÃ©vÃ©lations, pensais-je, ne sont que des Ã©vÃ©nements
+d'un certain ordre, et il faut encore interprÃ©ter ces _Ã©vÃ©nements
+connaissants._ Il le faut toujours. MÃªme les plus heureuses de nos
+intuitions sont en quelque sorte des rÃ©sultats inexacts _par excÃ¨s_,
+Ã  l'Ã©gard de notre clartÃ© ordinaire; _par dÃ©faut_, au regard de la
+complexitÃ© infinie des moindres objets et des cas rÃ©els qu'elles
+prÃ©tendent nous soumettre. Notre mÃ©rite personnel,--aprÃ¨s lequel nous
+soupirons,--ne consiste pas Ã  les subir tant qu'Ã  les saisir, Ã  les
+saisir tant qu'Ã  les discuter... Et notre riposte Ã  notre Â«gÃ©nieÂ» vaut
+mieux parfois que son attaque.
+
+Nous savons trop, d'ailleurs, que la probabilitÃ© est dÃ©favorable Ã  ce
+dÃ©mon: l'esprit nous souffle sans vergogne un million de sottises pour
+une belle idÃ©e qu'il nous abandonne; et cette chance mÃªme ne vaudra
+finalement quelque chose que par le traitement qui l'accommode Ã  notre
+fin.--C'est ainsi que les minerais, inapprÃ©ciables dans leur gÃ®tes
+et dans leurs filons, prennent leur importance au soleil, et par les
+travaux de la surface.
+
+Loin donc que ce soient les Ã©lÃ©ments intuitifs qui donnent leur valeur
+aux Åuvres, Ã´tez les Åuvres, et vos lueurs ne seront plus que des
+accidents spirituels perdus dans les statistiques de la vie locale du
+cerveau. Leur vrai prix ne vient pas de l'obscuritÃ© de leur origine,
+ni de la profondeur supposÃ©e d'oÃ¹ nous aimerions naÃ¯vement qu'elles
+sortent, et ni de la surprise prÃ©cieuse qu'elles nous causent Ã 
+nous-mÃªmes; mais bien d'une rencontre avec nos besoins, et enfin de
+l'usage rÃ©flÃ©chi que nous saurons en faire,--c'est-Ã -dire,--de la
+collaboration de tout l'homme.
+
+Mais s'il est entendu que nos plus grandes lumiÃ¨res sont intimement
+mÃªlÃ©es Ã  nos plus grandes chances d'erreur, et que la moyenne de nos
+pensÃ©es est, en quelque sorte, insignifiante,--c'est celui en nous
+qui choisit, et c'est celui qui met en Åuvre, qu'il faut exercer sans
+repos. Le reste, qui ne dÃ©pend de personne, est inutile Ã  invoquer
+comme la pluie. On le baptise, on le dÃ©ifie, on le tourmente vainement:
+il n'en doit rÃ©sulter qu'un accroissement de la simulation et de la
+fraude,--choses si naturellement unies Ã  l'ambition de la pensÃ©e que
+l'on peut douter si elles en sont ou le principe, ou le produit. Le mal
+de prendre une hypallage pour une dÃ©couverte, une mÃ©taphore pour une
+dÃ©monstration, un vomissement de mots pour un torrent de connaissances
+capitales, et soi-mÃªme pour un oracle, ce mal naÃ®t avec nous.
+
+*
+
+LÃ©onard de Vinci n'a pas de rapport avec ces dÃ©sordres. Parmi tant
+d'idoles que nous avons Ã  choisir, puisqu'il en faut adorer au moins
+une, il a fixÃ© devant son regard cette Rigueur ObstinÃ©e, qui se dit
+elle-mÃªme la plus exigeante de toutes. (Mais ce doit Ãªtre la moins
+grossiÃ¨re d'entre elles, celle-ci que toutes les autres s'accordent
+pour haÃ¯r.)
+
+La rigueur instituÃ©e, une libertÃ© positive est possible, tandis que
+la libertÃ© apparente n'Ã©tant que de pouvoir obÃ©ir Ã  chaque impulsion
+de hasard, plus nous en jouissons, plus nous sommes enchaÃ®nÃ©s autour
+du mÃªme point, comme le bouchon sur la mer, que rien n'attache, que
+tout sollicite, et sur lequel se contestent et s'annulent toutes les
+puissances de l'univers.
+
+L'entiÃ¨re opÃ©ration de ce grand Vinci est uniquement dÃ©duite de son
+grand objet; comme si une personne particuliÃ¨re n'y Ã©tait pas attachÃ©e,
+sa pensÃ©e paraÃ®t plus universelle, plus minutieuse, plus suivie et plus
+isolÃ©e qu'il n'appartient Ã  une pensÃ©e individuelle. L'homme trÃ¨s Ã©levÃ©
+n'est jamais un _original._ Sa personnalitÃ© est aussi insignifiante
+qu'il le faut. Peu d'inÃ©galitÃ©s; aucune superstition de l'intellect.
+Pas de craintes vaines. Il n'a pas peur des analyses; il les mÃ¨ne,--ou
+bien ce sont elles qui le conduisent,--aux consÃ©quences Ã©loignÃ©es; il
+retourne au rÃ©el sans effort. Il imite, il innove; il ne rejette pas
+l'ancien, parce qu'il est ancien; ni le nouveau, pour Ãªtre nouveau;
+mais il consulte en lui quelque chose d'Ã©ternellement actuel.
+
+Il ne connaÃ®t pas le moins du monde cette opposition si grosse et
+si mal dÃ©finie, que devait, trois demi-siÃ¨cles aprÃ¨s lui, dÃ©noncer
+entre l'esprit de finesse et celui de gÃ©omÃ©trie, un homme entiÃ¨rement
+insensible aux arts, qui ne pouvait s'imaginer cette jonction dÃ©licate,
+mais naturelle, de dons distincts; qui pensait que la peinture est
+vanitÃ©; que la vraie Ã©loquence se moque de l'Ã©loquence; qui nous
+embarque dans un pari oÃ¹ il engloutit toute finesse et toute gÃ©omÃ©trie;
+et qui, ayant changÃ© sa neuve lampe contre une vieille, se perd Ã 
+coudre des papiers dans ses poches, quand c'Ã©tait l'heure de donner Ã 
+la France la gloire du calcul de l'infini...
+
+Pas de rÃ©vÃ©lations pour LÃ©onard. Pas d'abÃ®me ouvert Ã  sa droite. Un
+abÃ®me le ferait songer Ã  un pont. Un abÃ®me pourrait servir aux essais
+de quelque grand oiseau mÃ©canique...
+
+Et lui se devait considÃ©rer comme un modÃ¨le de bel animal pensant,
+absolument souple et dÃ©liÃ©; douÃ© de plusieurs modes de mouvement;
+sachant, sous la moindre intention du cavalier, sans dÃ©fenses et
+sans retards, passer d'une allure Ã  toute autre. Esprit de finesse,
+esprit de gÃ©omÃ©trie, on les Ã©pouse, on les abandonne, comme fait le
+cheval accompli ses rythmes successifs... Il doit suffire Ã  l'Ãªtre
+suprÃªmement coordonnÃ© de se prescrire certaines modifications cachÃ©es
+et trÃ¨s simples au regard de la volontÃ©, et immÃ©diatement il passe de
+l'ordre des transformations purement formelles et des actes symboliques
+au rÃ©gime de la connaissance imparfaite et des rÃ©alitÃ©s spontanÃ©es.
+PossÃ©der cette libertÃ© dans les changements profonds, user d'un tel
+registre d'accommodations, c'est seulement jouir de l'intÃ©gritÃ© de
+l'homme, telle que nous l'imaginons chez les anciens.
+
+*
+
+Une Ã©lÃ©gance supÃ©rieure nous dÃ©concerte. Cette absence d'embarras, de
+prophÃ©tisme et de pathÃ©tisme; ces idÃ©aux prÃ©cis; ce tempÃ©rament entre
+les curiositÃ©s et les puissances, toujours rÃ©tabli par un maÃ®tre de
+l'Ã©quilibre; ce dÃ©dain de l'illusionnisme et des artifices, et chez
+le plus ingÃ©nieux des hommes; cette ignorance du thÃ©Ã¢tre, ce sont des
+scandales pour nous. Quoi de plus dur Ã  concevoir pour des Ãªtres comme
+nous sommes, qui faisons de la Â«sensibilitÃ©Â» une sorte de profession,
+qui prÃ©tendons Ã  tout possÃ©der dans quelques effets Ã©lÃ©mentaires de
+contraste et de rÃ©sonance nerveuse, et Ã  tout saisir quand nous nous
+donnons l'illusion de nous confondre Ã  la substance chatoyante et
+mobile de notre durÃ©e?
+
+Mais LÃ©onard, de recherche en recherche, se fait trÃ¨s simplement
+toujours plus admirable Ã©cuyer de sa propre nature; il dresse
+indÃ©finiment ses pensers, exerce ses regards, dÃ©veloppe ses actes; il
+conduit l'une et l'autre main aux dessins les plus prÃ©cis; il se dÃ©noue
+et se rassemble, resserre la correspondance de ses volontÃ©s avec ses
+pouvoirs, pousse son raisonnement dans les arts, et prÃ©serve sa grÃ¢ce.
+
+*
+
+Une intelligence si dÃ©tachÃ©e arrive dans son mouvement Ã  d'Ã©tranges
+attitudes,--comme une danseuse nous Ã©tonne, de prendre et de conserver
+quelque temps des figures de pure instabilitÃ©. Son indÃ©pendance choque
+nos instincts et se joue de nos vÅux. Rien de plus libre, c'est-Ã -dire,
+rien de moins humain, que ses jugements sur l'amour, sur la mort. Il
+nous les donne Ã  deviner par quelques fragments, dans ses cahiers.
+
+Â«L'amour dans sa fureur, (dit-il, Ã  peu prÃ¨s), est chose si laide que
+la race humaine s'Ã©teindrait,--la _natura si perderebbe_,--si ceux
+qui le font se voyaient.Â» Ce mÃ©pris est accusÃ© par divers croquis,
+car le comble du mÃ©pris pour certaines choses est enfin de les
+examiner Ã  loisir. Il dessine donc Ã§Ã  et lÃ  des unions anatomiques,
+coupes effroyables Ã  mÃªme l'amour. La machine Ã©rotique l'intÃ©resse,
+la mÃ©canique animale Ã©tant son domaine le prÃ©fÃ©rÃ©; mais un combat de
+sueurs et l'essoufflement des _opranti_, un monstre de musculatures
+antagonistes, une transfiguration en bÃªtes,--cela semble n'exciter en
+lui que rÃ©pugnance et que dÃ©dain...
+
+Son jugement sur la mort, il faut le tirer d'un texte assez
+court,--mais texte d'une plÃ©nitude et d'une simplicitÃ© antiques, qui
+devait peut-Ãªtre prendre place dans le prÃ©ambule d'un TraitÃ©, jamais
+achevÃ©, du Corps Humain.
+
+Cet homme, qui a dissÃ©quÃ© dix cadavres pour suivre le trajet de
+quelques veines, songe: l'organisation de notre corps est une telle
+merveille que l'Ã¢me, quoique _chose divine_, ne se sÃ©pare qu'avec les
+plus grandes peines de ce corps qu'elle habitait.--_Et je crois bien_,
+dit LÃ©onard, _que ses larmes et sa douleur ne sont pas sans raison..._
+
+N'allons pas approfondir l'espÃ¨ce de doute chargÃ© de sens qui est dans
+ces mots. Il suffit de considÃ©rer l'ombre Ã©norme ici projetÃ©e par
+quelque idÃ©e en formation: la mort, interprÃ©tÃ©e comme un dÃ©sastre pour
+l'Ã¢me; la mort du corps, diminution de cette chose divine! La mort,
+atteignant l'Ã¢me jusqu'aux larmes, et dans son Åuvre la plus chÃ¨re, par
+la destruction d'une telle architecture qu'elle s'Ã©tait faite pour y
+habiter!
+
+Je ne tiens pas Ã  dÃ©duire de ces rÃ©ticentes paroles une mÃ©taphysique
+selon LÃ©onard; mais je me laisse aller Ã  un rapprochement assez
+facile, puisqu'il se fait de soi dans ma pensÃ©e. Pour un tel amateur
+d'organismes, le corps n'est pas une guenille toute mÃ©prisable; ce
+corps a trop de propriÃ©tÃ©s, il rÃ©sout trop de problÃ¨mes, _il possÃ¨de
+trop de fonctions et de ressources pour ne pas rÃ©pondre Ã  quelque
+exigence transcendante, assez puissante pour le construire, pas
+assez puissante pour se passer de sa complication._ Il est Åuvre
+et instrument de quelqu'un qui a besoin de lui, qui ne le rejette
+pas volontiers, qui le pleure comme on pleurerait le pouvoir... Tel
+est le sentiment du Vinci. Sa philosophie est toute _naturaliste_,
+trÃ¨s choquÃ©e par le _spiritualisme_, trÃ¨s attachÃ©e au mot-Ã -mot de
+l'explication physico-mÃ©canique; quand, sur le point de l'Ã¢me, la voici
+toute comparable Ã  la philosophie de l'Ãglise. L'Ãglise,--pour autant
+du moins, que l'Ãglise est Thomiste,--ne donne pas Ã  l'Ã¢me sÃ©parÃ©e une
+existence bien enviable. Rien de plus pauvre que cette Ã¢me qui a perdu
+son corps. Elle n'a guÃ¨re que l'Ãªtre mÃªme: c'est un minimum logique,
+une sorte de vie latente dans laquelle elle est inconcevable pour
+nous, et sans doute, pour elle-mÃªme. Elle a tout dÃ©pouillÃ©: pouvoir,
+vouloir; savoir, peut-Ãªtre? Je ne sais mÃªme pas s'il lui peut souvenir
+d'avoir Ã©tÃ©, dans le temps et quelque part, la _forme_ et l'_acte_ de
+son corps? Il lui reste l'honneur de son autonomie... Une si vaine et
+si insipide condition n'est heureusement que passagÃ¨re,--si ce mot,
+hors de la durÃ©e, retient un sens: la raison demande, et le dogme
+impose, la restitution de la chair. Sans doute, les qualitÃ©s de cette
+chair suprÃªme seront-elles bien diffÃ©rentes de celles que notre chair
+aura possÃ©dÃ©es. Il faut concevoir, je pense, tout autre chose ici
+qu'un simple renversement du principe de Carnot et qu'une rÃ©alisation
+de l'_improbable._ Mais il est inutile de s'aventurer aux extrÃªmes de
+la physique, de rÃªver d'un corps glorieux dont la masse serait avec
+l'attraction universelle dans une autre relation que la nÃ´tre, et
+cette masse variable en un tel rapport avec la vitesse de la lumiÃ¨re
+que l'_agilitÃ©_ qui lui est prÃ©dite soit rÃ©alisÃ©e... Quoi qu'il en
+soit, l'Ã¢me dÃ©pouillÃ©e doit, selon la thÃ©ologie, retrouver dans un
+certain corps, une certaine vie fonctionnelle; et par ce corps nouveau,
+une sorte de matiÃ¨re qui permette ses opÃ©rations, et remplisse de
+merveilles incorruptibles ses vides catÃ©gories intellectuelles.
+
+Un dogme qui concÃ¨de Ã  l'organisation corporelle cette importance Ã 
+peine secondaire, qui rÃ©duit remarquablement l'Ã¢me, qui nous interdit
+et nous Ã©pargne le ridicule de nous la figurer, qui va jusqu'Ã 
+l'obliger de se rÃ©incarner pour qu'elle puisse participer Ã  la pleine
+vie Ã©ternelle, ce dogme si exactement contraire au spiritualisme pur,
+sÃ©pare, de la maniÃ¨re la plus sensible, l'Ãglise, de la plupart des
+autres confessions chrÃ©tiennes.--Mais il me semble que depuis deux
+ou trois siÃ¨cles, il n'est pas d'article sur lequel la littÃ©rature
+religieuse ait passÃ© plus lÃ©gÃ¨rement. Apologistes, prÃ©dicateurs n'en
+parlent guÃ¨re... La cause de ce demi-silence m'Ã©chappe.
+
+*
+
+Je me suis Ã©garÃ© si loin dans LÃ©onard que je ne sais pas tout d'un
+coup revenir Ã  moi-mÃªme... Bah! Tout chemin m'y reconduira: c'est la
+dÃ©finition de ce moi-mÃªme. Il ne peut pas absolument se perdre, il ne
+perd que son temps.
+
+Suivons donc un peu plus avant la pente et la tentation de l'esprit;
+suivons-les malheureusement sans craintes, cela ne mÃ¨ne Ã  aucun fond
+vÃ©ritable. MÃªme notre pensÃ©e la plus Â«profondeÂ» est contenue dans les
+conditions invincibles qui font que toute pensÃ©e est Â«superficielleÂ».
+On ne pÃ©nÃ¨tre que dans une forÃªt de transpositions; ou bien c'est
+un palais fermÃ© de miroirs, que fÃ©conde une lampe solitaire qu'ils
+enfantent Ã  l'infini.
+
+Mais encore, essayons de notre seule curiositÃ© pour nous Ã©clairer le
+systÃ¨me cachÃ© de quelque individu de la premiÃ¨re grandeur; et imaginons
+Ã  peu prÃ¨s comme il doit s'apparaÃ®tre, quand il s'arrÃªte quelquefois
+dans le mouvement de ses travaux et qu'il se regarde dans l'ensemble.
+
+Il se considÃ¨re d'abord assujetti aux nÃ©cessitÃ©s et rÃ©alitÃ©s communes;
+et il se replace ensuite dans le secret de la connaissance sÃ©parÃ©e. Il
+voit comme nous et il voit comme soi. Il a un jugement de sa nature et
+un sentiment de son artifice. Il est absent et prÃ©sent. Il soutient
+cette espÃ¨ce de dualitÃ© que doit soutenir un prÃªtre. Il sent bien qu'il
+ne peut pas se dÃ©finir entiÃ¨rement devant lui-mÃªme par les donnÃ©es
+et par les mobiles ordinaires. _Vivre_, et mÃªme bien vivre, ce n'est
+qu'un moyen pour lui: quand il mange, il alimente aussi quelque autre
+merveille que sa vie, et la moitiÃ© de son pain est consacrÃ©e. _Agir_,
+ce n'est encore qu'un exercice. _Aimer_, je ne sais pas s'il lui est
+possible. Et quant Ã  la gloire, non. Briller Ã  d'autres yeux, c'est en
+recevoir un Ã©clat de fausses pierreries.
+
+*
+
+Il lui faut cependant se dÃ©couvrir je ne sais quels points de repÃ¨re
+tellement placÃ©s que sa vie particuliÃ¨re et cette _vie gÃ©nÃ©ralisÃ©e_
+qu'il s'est trouvÃ©e, se composent. La clairvoyance imperturbable qui
+lui semble, (mais sans le convaincre tout Ã  fait), le reprÃ©senter tout
+entier Ã  lui-mÃªme, voudrait se soustraire Ã  la relativitÃ© qu'elle ne
+peut pas ne pas conclure de tout le reste. Elle a beau se transformer
+en elle-mÃªme, et de jour en jour, se reproduire aussi pure que le
+soleil, cette identitÃ© apparente emporte avec elle un sentiment qu'elle
+est trompeuse. Elle sait, dans sa fixitÃ©, Ãªtre soumise Ã  un mystÃ©rieux
+entraÃ®nement et Ã  une modification sans tÃ©moin; et elle sait donc
+qu'elle enveloppe toujours, mÃªme Ã  l'Ã©tat le plus net de sa luciditÃ©,
+une possibilitÃ© cachÃ©e de faillite et de totale ruine,--comme il arrive
+au rÃªve le plus prÃ©cis de contenir un germe inexplicable de non-rÃ©alitÃ©.
+
+C'est une maniÃ¨re de lumineux supplice que de sentir que l'on voit
+tout, sans cesser de sentir que l'on est encore _visible_, et l'objet
+concevable d'une attention Ã©trangÃ¨re; et sans se trouver jamais le
+poste ni le regard qui ne laissent rien derriÃ¨re eux.
+
+--_Durus est hic sermo_, va bientÃ´t dire le lecteur. Mais en ces
+matiÃ¨res, qui n'est pas vague est difficile, qui n'est pas difficile
+est nul. Allons encore un peu.
+
+*
+
+Pour une prÃ©sence d'esprit aussi sensible Ã  elle-mÃªme, et qui se ferme
+sur elle-mÃªme par le dÃ©tour de Â«l'UniversÂ», tous les Ã©vÃ©nements de
+tous les genres, et la vie, et la mort, et les pensÃ©es, ne lui sont
+que des _figures_ subordonnÃ©es. Comme chaque _chose visible_ est Ã  la
+fois Ã©trangÃ¨re, indispensable, et infÃ©rieure Ã  la _chose qui y voit_,
+ainsi l'importance de ces figures, si grande qu'elle apparaisse Ã 
+chaque instant, pÃ¢lit Ã  la rÃ©flexion devant la seule persistance de
+l'attention elle-mÃªme. Tout le cÃ¨de Ã  cette universalitÃ© pure, Ã  cette
+gÃ©nÃ©ralitÃ© insurmontable que la conscience se sent Ãªtre.
+
+Si tels Ã©vÃ©nements ont le pouvoir de la supprimer, ils sont du mÃªme
+coup, destituÃ©s de toute signification; que s'ils la conservent, ils
+rentrent dans son systÃ¨me. L'intelligence ignore d'Ãªtre nÃ©e, comme elle
+ignore qu'elle pÃ©rira. Elle est instruite, oui, de ses fluctuations
+et de son effacement final, mais au titre d'une notion qui n'est pas
+d'une autre espÃ¨ce que les autres; elle se croirait, trÃ¨s aisÃ©ment,
+inamissible et inaltÃ©rable, si ce n'Ã©tait qu'elle a reconnu par ses
+expÃ©riences, un jour ou l'autre, diverses possibilitÃ©s funestes, et
+l'existence d'une certaine pente qui mÃ¨ne plus bas que tout. Cette
+pente fait pressentir qu'elle peut devenir irrÃ©sistible; elle prononce
+le commencement d'un Ã©loignement sans retour du soleil spirituel,
+du maximum admirable de la nettetÃ©, de la soliditÃ©, du pouvoir de
+distinguer et de choisir; on la devine qui s'abaisse, obscurcie de
+mille impuretÃ©s psychologiques, obsÃ©dÃ©e de bourdons et de vertiges,
+Ã  travers la confusion des temps et le trouble des fonctions, et
+qui se dirige dÃ©faillante au milieu d'un dÃ©sordre inexprimable des
+_dimensions_ de la connaissance, jusqu'Ã  l'Ã©tat instantanÃ© et indivis
+qui Ã©touffe ce chaos dans la nullitÃ©.
+
+*
+
+Mais, opposÃ© tout de mÃªme Ã  la mort qu'il l'est Ã  la vie, un systÃ¨me
+complet de substitutions psychologiques, plus il est conscient et se
+remplace par lui-mÃªme, plus il se dÃ©tache de toute origine, et plus se
+dÃ©pouille-t-il, en quelque sorte, de toute chance de rupture. Pareil
+Ã  l'anneau de fumÃ©e, le systÃ¨me tout d'Ã©nergies intÃ©rieures prÃ©tend
+merveilleusement Ã  une indÃ©pendance et Ã  une insÃ©cabilitÃ© parfaites.
+Dans une trÃ¨s claire conscience, la mÃ©moire et les phÃ©nomÃ¨nes se
+trouvent tellement reliÃ©s, attendus, rÃ©pondus; le passÃ© si bien
+employÃ©; le nouveau si promptement compensÃ©; l'Ã©tat de relation totale
+si nettement reconquis que rien ne semble pouvoir commencer, rien se
+terminer, au sein de cette activitÃ© presque pure. L'Ã©change perpÃ©tuel
+de _choses_ qui la constitue, l'assure en apparence d'une conservation
+indÃ©finie, car elle n'est attachÃ©e Ã  aucune; et elle ne contient pas
+quelque _Ã©lÃ©ment-limite_, quelque objet singulier de perception ou de
+pensÃ©e, tellement plus rÃ©el que tous les autres, que quelque autre
+ne puisse pas venir aprÃ¨s lui. Il n'est pas une telle idÃ©e qu'elle
+satisfasse aux conditions inconnues de la conscience au point de la
+faire Ã©vanouir. Il n'existe pas de pensÃ©e qui extermine le pouvoir
+de penser, et le conclue,--une certaine position du pÃªne qui ferme
+dÃ©finitivement la serrure. Non, point de pensÃ©e qui soit pour la pensÃ©e
+une rÃ©solution nÃ©e de son dÃ©veloppement mÃªme, et comme un accord final
+de cette dissonance permanente.
+
+*
+
+Puisque la connaissance ne se connaÃ®t pas d'extrÃ©mitÃ©, et puisque
+aucune idÃ©e n'Ã©puise la tÃ¢che de la conscience, il faut bien qu'elle
+pÃ©risse dans un Ã©vÃ©nement incomprÃ©hensible que lui prÃ©disent et que lui
+prÃ©parent ces affres et ces sensations extraordinaires dont je parlais;
+qui nous esquissent des mondes instables et incompatibles avec la
+plÃ©nitude de la vie; mondes inhumains, mondes infirmes et comparables
+Ã  ces mondes que le gÃ©omÃ¨tre Ã©bauche en jouant sur les axiomes, le
+physicien en supposant d'autres constantes que celles admises. Entre la
+nettetÃ© de la vie et la simplicitÃ© de la mort, les rÃªves, les malaises,
+les extases, tous ces Ã©tats Ã  demi impossibles, qui introduisent,
+dirait-on, des valeurs approchÃ©es, des solutions irrationnelles ou
+transcendantes dans l'Ã©quation de la connaissance, placent d'Ã©tranges
+degrÃ©s, des variÃ©tÃ©s et des phases ineffables,--car il n'est point de
+noms pour des choses parmi lesquelles on est bien seul.
+
+Comme la perfide musique compose les libertÃ©s du sommeil avec la suite
+et l'enchaÃ®nement de l'extrÃªme attention, et fait la synthÃ¨se d'Ãªtres
+intimes momentanÃ©s, ainsi les fluctuations de l'Ã©quilibre psychique
+donnent Ã  percevoir des modes aberrants de l'existence. Nous portons
+en nous des formes de la sensibilitÃ© qui ne peuvent pas rÃ©ussir,
+mais qui peuvent naÃ®tre. Ce sont des instants dÃ©robÃ©s Ã  la critique
+implacable de la durÃ©e; ils ne rÃ©sistent pas au fonctionnement complet
+de notre Ãªtre: ou nous pÃ©rissons, ou ils se dissolvent. Mais ce sont
+des monstres pleins de leÃ§ons que ces monstres de l'entendement, et
+que ces Ã©tats de passage,--espaces dans lesquels la continuitÃ©, la
+connexion, la mobilitÃ© connues sont altÃ©rÃ©es: empires oÃ¹ la lumiÃ¨re est
+associÃ©e Ã  la douleur; champs de forces oÃ¹ les craintes et les dÃ©sirs
+orientÃ©s nous assignent d'Ã©tranges circuits; matiÃ¨re qui est faite de
+temps; abÃ®mes littÃ©ralement d'horreur, ou d'amour, ou de quiÃ©tude;
+rÃ©gions bizarrement soudÃ©es Ã  elles-mÃªmes, domaines non-archimÃ©diens
+qui dÃ©fient le mouvement; sites perpÃ©tuels dans un Ã©clair; surfaces
+qui se creusent, conjuguÃ©es Ã  notre nausÃ©e, inflÃ©chies sous nos
+moindres intentions... On ne peut pas dire qu'ils sont rÃ©els; on ne
+peut pas dire qu'ils ne le sont pas. Qui ne les a pas traversÃ©s ne
+connaÃ®t pas le prix de la lumiÃ¨re naturelle et du milieu le plus
+banal; il ne connaÃ®t pas la vÃ©ritable fragilitÃ© du monde, qui ne se
+rapporte pas Ã  l'alternative de l'Ãªtre et du non-Ãªtre; ce serait trop
+simple!--L'Ã©tonnement, ce n'est pas que les choses soient; c'est
+qu'elles soient _telles_, et non telles autres. La _figure de ce monde_
+fait partie d'une famille de figures dont nous possÃ©dons sans le savoir
+tous les Ã©lÃ©ments de groupe infini. C'est le secret des inventeurs.
+
+*
+
+Au sortir de ces intervalles, et des Ã©carts personnels oÃ¹ les
+faiblesses, la prÃ©sence de poisons dans le systÃ¨me nerveux, mais
+oÃ¹ les forces et les finesses aussi de l'attention, la logique la
+plus exquise, la mystique bien cultivÃ©e, conduisent diversement
+la conscience, celle-ci vient donc Ã  soupÃ§onner toute la rÃ©alitÃ©
+accoutumÃ©e de n'Ãªtre qu'une solution, parmi bien d'autres, de problÃ¨mes
+universels. Elle s'assure que les choses pourraient Ãªtre assez
+diffÃ©rentes de ce qu'elles sont, sans qu'elle-mÃªme fÃ»t trÃ¨s diffÃ©rente
+de ce qu'elle est. Elle ose considÃ©rer son Â«corpsÂ» et son Â«mondeÂ»
+comme des restrictions presque arbitraires imposÃ©es Ã  l'Ã©tendue de sa
+fonction. Elle voit qu'elle correspond, ou qu'elle rÃ©pond, non Ã  un
+_monde_, mais Ã  quelque systÃ¨me de degrÃ© plus Ã©levÃ© dont les Ã©lÃ©ments
+soient des mondes. Elle est capable de plus de combinaisons internes
+qu'il n'en faut pour vivre; de plus de rigueur que toute occasion
+pratique n'en requiert et n'en supporte; elle se juge plus profonde
+que l'abÃ®me mÃªme de la vie et de la mort animales; et ce regard sur
+sa condition ne peut rÃ©agir sur elle-mÃªme, tant elle s'est reculÃ©e et
+placÃ©e hors du tout, et tant elle s'est appliquÃ©e _Ã  ne jamais figurer
+dans quoi que ce soit qu'elle puisse concevoir ou se rÃ©pondre._ Ce
+n'est plus qu'un corps noir qui tout absorbe et ne rend rien.
+
+Retirant de ces remarques exactes et de ces prÃ©tentions inÃ©vitables
+une hardiesse pÃ©rilleuse; forte de cette espÃ¨ce d'indÃ©pendance et
+d'invariance qu'elle est contrainte de s'accorder, elle se pose enfin
+comme fille directe et ressemblante de l'Ãªtre sans visage, sans
+origine, auquel incombe et se rapporte toute la tentative du cosmos...
+Encore un peu, et elle ne compterait plus comme existences nÃ©cessaires
+que deux entitÃ©s essentiellement inconnues: Soi et X. Toutes deux
+abstraites de tout, impliquÃ©es dans tout, impliquant tout. Ãgales et
+consubstantielles.
+
+*
+
+L'homme que l'exigence de l'infatigable esprit conduit Ã  ce contact de
+tÃ©nÃ¨bres Ã©veillÃ©es, et Ã  ce point de prÃ©sence pure, se perÃ§oit comme
+nu et dÃ©pouillÃ©, et rÃ©duit Ã  la suprÃªme pauvretÃ© de la puissance sans
+objet; victime, chef-d'Åuvre, accomplissement de la simplification
+et de l'ordre dialectique; comparable Ã  cet Ã©tat oÃ¹ parvient la plus
+riche pensÃ©e quand elle s'est assimilÃ©e Ã  elle-mÃªme, et reconnue, et
+consommÃ©e en un petit groupe de caractÃ¨res et de symboles. Le mÃªme
+travail que nous faisons sur un objet de rÃ©flexions, il l'a dÃ©pensÃ© sur
+le sujet qui rÃ©flÃ©chit.
+
+Le voici sans instincts, presque sans images; et il n'a plus de but. Il
+n'a pas de semblables. Je dis: _homme_, et je dis: _il_, par analogie
+et par manque de mots.
+
+Il ne s'agit plus de choisir, ni de crÃ©er; et pas plus de se conserver
+que de s'accroÃ®tre. Rien n'est Ã  surmonter, et il ne peut pas mÃªme Ãªtre
+question de se dÃ©truire.
+
+Tout Â«gÃ©nieÂ» est maintenant consumÃ©, ne peut plus servir de rien. Ce
+ne fut qu'un moyen pour atteindre Ã  la derniÃ¨re simplicitÃ©. Il n'y a
+pas d'acte du gÃ©nie qui ne soit _moindre_ que l'acte d'Ãªtre. Une loi
+magnifique habite et fonde l'imbÃ©cile; l'esprit le plus fort ne trouve
+pas mieux en soi-mÃªme.
+
+*
+
+Enfin, cette conscience accomplie s'Ã©tant contrainte Ã  se dÃ©finir par
+le total des choses, et comme l'_excÃ¨s_ de la connaissance sur ce
+Tout,--elle, qui pour s'affirmer doit commencer par nier une infinitÃ©
+de fois, une infinitÃ© d'Ã©lÃ©ments, et par Ã©puiser les objets de son
+pouvoir sans Ã©puiser ce pouvoir mÃªme,--elle est donc diffÃ©rente du
+nÃ©ant, d'aussi peu que l'on voudra.
+
+--Elle fait songer naÃ¯vement Ã  une assistance invisible logÃ©e dans
+l'obscuritÃ© d'un thÃ©Ã¢tre. PrÃ©sence qui ne peut pas se contempler,
+condamnÃ©e au spectacle adverse, et qui sent toutefois qu'elle compose
+toute cette nuit haletante, invinciblement orientÃ©e. Nuit complÃ¨te,
+nuit impÃ©nÃ©trable, nuit absolue; mais nuit nombreuse, nuit trÃ¨s
+avide, nuit secrÃ¨tement organisÃ©e, toute construite d'organismes qui
+se limitent et se compriment; nuit compacte aux tÃ©nÃ¨bres bourrÃ©es
+d'organes, qui battent, qui soufflent, qui s'Ã©chauffent, et qui
+dÃ©fendent, chacun selon sa nature, leur emplacement et leur fonction.
+En regard de l'intense et mystÃ©rieuse assemblÃ©e, brillent dans un cadre
+fermÃ©, et s'agitent, tout le Sensible, l'intelligible, le Possible.
+Rien ne peut naÃ®tre, pÃ©rir, Ãªtre Ã  quelque degrÃ©, avoir un moment, un
+lieu, un sens, une figure,--si ce n'est sur cette _scÃ¨ne_, dÃ©finie,
+que les destins ont circonscrite, et que l'ayant sÃ©parÃ©e de je ne sais
+quelle confusion primordiale, comme furent au premier jour les tÃ©nÃ¨bres
+sÃ©parÃ©es de la lumiÃ¨re, ils ont opposÃ©e et subordonnÃ©e Ã  la condition
+d'_Ãªtre vue..._
+
+Si je vous ai menÃ©s dans cette solitude, et jusqu'Ã  cette nettetÃ©
+dÃ©sespÃ©rÃ©e, c'est qu'il fallait bien conduire Ã  sa derniÃ¨re consÃ©quence
+l'idÃ©e que je me suis faite d'une puissance intellectuelle. Le
+caractÃ¨re de l'homme est la conscience; et celui de la conscience, une
+perpÃ©tuelle exhaustion, un dÃ©tachement sans repos et sans exception de
+tout ce qu'y paraÃ®t, quoi qui paraisse. Acte inÃ©puisable, indÃ©pendant
+de la qualitÃ© comme de la quantitÃ© des choses apparues, et par lequel
+l'_homme de l'esprit_ doit enfin se rÃ©duire sciemment Ã  un refus
+indÃ©fini d'Ãªtre quoi que ce soit.
+
+Tous les phÃ©nomÃ¨nes, par lÃ  frappÃ©s d'une sorte d'Ã©gale rÃ©pulsion,
+et comme rejetÃ©s successivement par un geste identique, apparaissent
+dans une certaine Ã©quivalence. Les sentiments et les pensÃ©es sont
+enveloppÃ©s dans cette condamnation uniforme, Ã©tendue Ã  tout ce qui est
+perceptible. Il faut bien comprendre que rien n'Ã©chappe Ã  la rigueur
+de cette exhaustion; mais qu'il suffit de notre attention pour mettre
+nos mouvements les plus intimes au rang des Ã©vÃ©nements et des objets
+extÃ©rieurs: du moment qu'ils sont observables, ils vont se joindre
+Ã  toutes choses observÃ©es.--Couleur et douleur; souvenirs, attente
+et surprises; cet arbre, et le flottement de son feuillage, et sa
+variation annuelle, et son ombre comme sa substance, ses accidents de
+figure et de position, les pensÃ©es trÃ¨s Ã©loignÃ©es qu'il rappelle Ã  ma
+distraction,--_tout cela est Ã©gal..._ Toutes choses se substituent,--ne
+serait-ce pas la dÃ©finition des _choses?_
+
+*
+
+Il est impossible que l'activitÃ© de l'esprit ne le contraigne pas
+enfin Ã  cette considÃ©ration extrÃªme et Ã©lÃ©mentaire. Ses mouvements
+multipliÃ©s, ses intimes contestations, ses perturbations, ses retours
+analytiques, que laissent-ils d'inaltÃ©rÃ©? Qu'est-ce qui rÃ©siste Ã 
+l'entrain des sens, Ã  la dissipation des idÃ©es, Ã  l'affaiblissement des
+souvenirs, Ã  la variation lente de l'organisme, Ã  l'action incessante
+et multiforme de l'univers?--Ce n'est que cette conscience seule, Ã 
+l'Ã©tat le plus abstrait.
+
+Notre _personnalitÃ©_ elle-mÃªme, que nous prenons grossiÃ¨rement pour
+notre plus intime et plus profonde _propriÃ©tÃ©_, pour notre souverain
+bien, n'est qu'une _chose_, et muable et accidentelle, auprÃ¨s de ce
+_moi_ le plus nu; puisque nous pouvons penser Ã  elle, calculer ses
+intÃ©rÃªts, et mÃªme les perdre un peu de vue, elle n'est donc qu'une
+divinitÃ© psychologique secondaire, qui habite notre miroir et qui
+obÃ©it Ã  notre nom. Elle est de l'ordre des PÃ©nates. Elle est sujette
+Ã  la douleur, friande de parfums comme les faux dieux, et comme eux,
+la tentation des vers. Elle s'Ã©panouit dans les louanges. Elle ne
+rÃ©siste pas Ã  la force des vins, Ã  la dÃ©licatesse des paroles, Ã  la
+sorcellerie de la musique. Elle se chÃ©rit, et se trouve par lÃ  docile
+et facile Ã  conduire. Elle se disperse dans le carnaval de la dÃ©mence,
+elle se plie bizarrement aux anamorphoses du sommeil. Plus encore:
+elle est contrainte, avec ennui, de se reconnaÃ®tre des Ã©gales, de
+s'avouer qu'elle est _infÃ©rieure_ Ã  telles autres; et ce lui est amer
+et inexplicable.
+
+Tout, d'ailleurs, la fait convenir qu'elle est un simple Ã©vÃ©nement;
+qu'il lui faut figurer, avec tous les accidents du monde, dans les
+statistiques et dans les tables; qu'elle a commencÃ© par une chance
+sÃ©minale, et dans un incident microscopique; qu'elle a couru des
+milliards de risques; Ã©tÃ© faÃ§onnÃ©e par une quantitÃ© de rencontres, et
+qu'elle est en somme, tout admirable, toute volontaire, tout accusÃ©e et
+Ã©tincelante qu'elle puisse Ãªtre, l'effet d'un incalculable dÃ©sordre.
+
+Chaque _personne_ Ã©tant un Â«jeu de la natureÂ», jeu de l'amour et du
+hasard, la plus belle intention, et mÃªme la plus savante pensÃ©e de
+cette crÃ©ature toujours improvisÃ©e, se sentent inÃ©vitablement de leur
+origine. Son acte est toujours relatif, ses chefs-d'Åuvre sont casuels.
+Elle pense pÃ©rissable, elle pense individuel, elle pense par raccrocs;
+et elle ramasse le meilleur de ses idÃ©es dans des occasions fortuites
+et secrÃ¨tes qu'elle se garde d'avouer.--Et d'ailleurs, elle n'est pas
+sÃ»re d'Ãªtre positivement _quelqu'un_; elle se dÃ©guise et se nie plus
+facilement qu'elle ne s'affirme. Tirant de sa propre inconsistance
+quelques ressources et beaucoup de vanitÃ©, elle met dans les fictions
+son activitÃ© favorite. Elle vit de romans, elle Ã©pouse sÃ©rieusement
+mille personnages. Son hÃ©ros n'est jamais soi-mÃªme...
+
+Enfin, les neuf dixiÃ¨mes de sa durÃ©e se passent dans ce qui n'est pas
+encore, dans ce qui n'est plus, dans ce qui ne peut pas Ãªtre; tellement
+que notre vÃ©ritable _prÃ©sent_ a neuf chances sur dix de n'Ãªtre jamais.
+
+*
+
+Mais chaque vie si particuliÃ¨re possÃ¨de toutefois, Ã  la profondeur
+d'un trÃ©sor, la permanence fondamentale d'une conscience que rien
+ne supporte; et comme l'oreille retrouve et reperd, Ã  travers les
+vicissitudes de la symphonie, un son grave et continu qui ne cesse
+jamais d'y rÃ©sider, mais qui cesse Ã  chaque instant d'Ãªtre saisi,--le
+_moi_ pur, Ã©lÃ©ment unique et monotone de l'Ãªtre mÃªme dans le monde,
+retrouvÃ©, reperdu par lui-mÃªme, habite Ã©ternellement notre sens; cette
+profonde _note_ de l'existence domine, dÃ¨s qu'on l'Ã©coute, toute la
+complication des conditions et des variÃ©tÃ©s de l'existence.
+
+L'Åuvre capitale et cachÃ©e du plus grand esprit n'est-elle pas de
+soustraire cette attention substantielle Ã  la lutte des vÃ©ritÃ©s
+ordinaires? Ne faut-il pas qu'il arrive Ã  se dÃ©finir, contre toutes
+choses, par cette pure relation immuable entre les objets les plus
+divers, ce qui lui confÃ¨re une gÃ©nÃ©ralitÃ© presque inconcevable,
+et le porte en quelque maniÃ¨re, Ã  la puissance de l'univers
+correspondant?--Ce n'est pas sa chÃ¨re _personne_ qu'il Ã©lÃ¨ve Ã  ce haut
+degrÃ©, puisqu'il la renonce en y pensant, et qu'il la substitue dans
+la place du _sujet_ par ce moi inqualifiable, qui n'a pas de nom, qui
+n'a pas d'histoire, qui n'est pas plus sensible, ni moins rÃ©el que
+le centre de masse d'une bague ou d'un systÃ¨me planÃ©taire,--mais qui
+rÃ©sulte de tout, quel que soit ce tout...
+
+Tout Ã  l'heure, le but Ã©vident de cette merveilleuse vie intellectuelle
+Ã©tait encore... de s'Ã©tonner d'elle-mÃªme. Elle s'absorbait Ã  se faire
+des enfants qu'elle admirÃ¢t; elle se bornait Ã  ce qu'il y a de plus
+beau, de plus doux, de plus clair et de plus solide; elle n'Ã©tait
+gÃªnÃ©e que de sa comparaison avec d'autres organisations concurrentes;
+elle s'embarrassait du problÃ¨me le plus Ã©trange que l'on puisse jamais
+se proposer, et que nous proposent nos semblables, et qui consiste
+simplement dans la possibilitÃ© des autres intelligences, dans la
+pluralitÃ© du singulier, dans la coexistence contradictoire de durÃ©es
+indÃ©pendantes entre elles,--_tot capita, tot tempora_,--problÃ¨me
+comparable au problÃ¨me physique de la _relativitÃ©_, mais
+incomparablement plus difficile...
+
+Et voici que son zÃ¨le pour Ãªtre unique l'emportant, et que son ardeur
+pour Ãªtre toute puissante l'Ã©clairant, elle a dÃ©passÃ© toutes crÃ©ations,
+toutes Åuvres et jusqu'Ã  ses desseins les plus grands, en mÃªme temps
+qu'elle dÃ©pose toute tendresse pour elle-mÃªme, et toute prÃ©fÃ©rence pour
+ses vÅux. Elle immole en un moment son individualitÃ©. Elle se sent
+conscience pure: il ne peut pas en exister deux. Elle est le _moi_,
+le pronom universel, appellation de _ceci_ qui n'a pas de rapport
+avec un visage. Ã quel point de transformation de l'orgueil, et comme
+il est arrivÃ© oÃ¹ il ne savait pas qu'il allait! Quelle modÃ©ration le
+rÃ©compense de ses triomphes! Il fallait bien qu'une vie si fermement
+dirigÃ©e, et qui a traitÃ© comme des obstacles ou que l'on tourne ou que
+l'on renverse, tous les objets qu'elle pouvait se proposer, ait enfin
+une conclusion inattaquable, non une conclusion de sa durÃ©e, mais une
+conclusion en elle-mÃªme... Son orgueil l'a conduite jusque lÃ , et lÃ  se
+consume. Cet orgueil conducteur l'abandonne Ã©tonnÃ©e, nue, infiniment
+simple sur le pÃ´le de ses trÃ©sors.
+
+*
+
+Ces pensÃ©es ne sont pas mystÃ©rieuses. On aurait pu Ã©crire tout
+abstraitement que le groupe le plus gÃ©nÃ©ral de nos transformations, qui
+comprend toutes sensations, toutes idÃ©es, tous jugements, tout ce qui
+se manifeste _intus et extra_, admet un _invariant._
+
+*
+
+Je me suis laissÃ© aller au delÃ  de toute patience et de toute clartÃ©,
+et j'ai succombÃ© aux idÃ©es qui me sont venues pendant que je parlais de
+ma tÃ¢che. J'achÃ¨ve en peu de mots cette peinture un peu simplifiÃ©e de
+mon Ã©tat: encore quelques instants Ã  passer en 1894.
+
+Rien de si curieux que la luciditÃ© aux prises avec l'insuffisance.
+Voici Ã  peu prÃ¨s ce qui arrive, ce qui devait arriver, ce qui m'arriva.
+
+J'Ã©tais placÃ© dans la nÃ©cessitÃ© d'inventer un personnage capable de
+bien des Åuvres. J'avais la manie de n'aimer que le fonctionnement
+des Ãªtres, et dans les Åuvres, que leur gÃ©nÃ©ration. Je savais que ces
+Åuvres sont toujours des falsifications, des arrangements, l'_auteur_
+n'Ã©tant heureusement jamais l'_homme._ La vie de celui-ci n'est pas la
+vie de celui-lÃ : accumulez tous les dÃ©tails que vous pourrez sur la
+vie de Racine, vous n'en tirerez pas l'art de faire ses vers. Toute la
+critique est dominÃ©e par ce principe surannÃ©: l'homme est _cause_ de
+l'Åuvre,--comme le criminel aux yeux de la loi est _cause_ du crime.
+Ils en sont bien plutÃ´t l'effet! Mais ce principe pragmatique allÃ¨ge
+le juge et le critique; la biographie est plus simple que l'analyse.
+Sur ce qui nous intÃ©resse le plus, elle n'apprend absolument rien...
+Davantage! La vÃ©ritable vie d'un homme, toujours mal dÃ©finie, mÃªme pour
+son voisin, mÃªme pour lui-mÃªme, ne peut pas Ãªtre utilisÃ©e dans une
+explication de ses Åuvres, si ce n'est indirectement, et moyennant une
+Ã©laboration trÃ¨s soigneuse.
+
+Donc, ni maÃ®tresses, ni crÃ©anciers, ni anecdotes, ni aventures,--on
+est conduit au systÃ¨me le plus honnÃªte: imaginer Ã  l'exclusion de tous
+ces dÃ©tails extÃ©rieurs, un Ãªtre thÃ©orique, un _modÃ¨le_ psychologique
+plus ou moins grossier, mais qui reprÃ©sente, en quelque sorte, notre
+propre capacitÃ© de reconstruire l'Åuvre que nous nous sommes proposÃ©
+de nous expliquer. Le succÃ¨s est trÃ¨s douteux, mais le travail
+n'est pas ingrat: s'il ne rÃ©sout pas les problÃ¨mes insolubles de la
+parthÃ©nogenÃ¨se intellectuelle, du moins il les pose, et dans une
+nettetÃ© incomparable.
+
+Dans la circonstance, cette conviction Ã©tait mon seul bien positif.
+
+*
+
+La nÃ©cessitÃ© oÃ¹ j'Ã©tais placÃ©, le vide que j'avais si bien fait de
+toutes les solutions antipathiques Ã  ma nature, l'Ã©rudition Ã©cartÃ©e,
+les ressources rhÃ©toriques diffÃ©rÃ©es, tout me mettait dans un Ã©tat
+dÃ©sespÃ©rÃ©... Enfin, je le confesse, je ne trouvai pas mieux que
+d'attribuer Ã  l'infortunÃ© LÃ©onard mes propres agitations, transportant
+le dÃ©sordre de mon esprit dans la complexitÃ© du sien. Je lui infligeai
+tous mes dÃ©sirs Ã  titre de choses possÃ©dÃ©es. Je lui prÃªtai bien des
+difficultÃ©s qui me hantaient dans ce temps-lÃ , comme s'il les eÃ»t
+rencontrÃ©es et surmontÃ©es. Je changeai mes embarras en sa puissance
+supposÃ©e. J'osai me considÃ©rer sous son nom, et utiliser ma personne.
+
+Cela Ã©tait faux, mais vivant. Un jeune homme, curieux de mille choses,
+ne doit-il pas, aprÃ¨s tout, ressembler assez bien Ã  un homme de la
+Renaissance? Sa naÃ¯vetÃ© mÃªme ne reprÃ©sente-t-elle pas l'espÃ¨ce de
+naÃ¯vetÃ© relative _crÃ©Ã©e_ par quatre siÃ¨cles de dÃ©couvertes au dÃ©triment
+des hommes de ce temps-lÃ ?--Et puis, pensai-je, Hercule n'avait pas
+plus de muscles que nous; ils n'Ã©taient que plus gros. Je ne puis mÃªme
+pas dÃ©placer le rocher qu'il enlÃ¨ve, mais la structure de nos machines
+n'est pas diffÃ©rente; je lui corresponds os par os, fibre par fibre,
+acte par acte, et notre similitude me permet l'imagination de ses
+travaux.
+
+Une brÃ¨ve rÃ©flexion fait connaÃ®tre qu'il n'y a pas d'autre parti que
+l'on puisse prendre. Il faut se mettre sciemment Ã  la place de l'Ãªtre
+qui nous occupe... Et quel autre que nous-mÃªmes peut rÃ©pondre, quand
+nous appelons un _esprit?_ On n'en trouve jamais qu'en soi. C'est notre
+propre fonctionnement qui, _seul_, peut nous apprendre quelque chose
+sur toute chose. Notre connaissance, Ã  mon sentiment, a pour limite la
+conscience que nous pouvons avoir de notre Ãªtre,--et peut-Ãªtre, _de
+notre corps._ Quel que soit X, la pensÃ©e que j'en ai, si je la presse,
+tend vers moi, quel que je sois. On peut l'ignorer ou le savoir, le
+subir ou le dÃ©sirer, mais il n'y a point d'Ã©chappatoire, point d'autre
+issue. L'_intention_ de toute pensÃ©e est en nous. C'est avec notre
+propre substance que nous imaginons et que nous formons une pierre, une
+plante, un mouvement, un _objet_: une image quelconque n'est peut-Ãªtre
+qu'un commencement de nous-mÃªmes...
+
+*
+
+            _lionardo mio_
+    _o lionardo che tanto penate._
+
+
+Quant au vrai LÃ©onard, il fut ce qu'il fut... Ce mythe, toutefois,
+plus Ã©trange que tous les autres, gagne indÃ©finiment Ã  Ãªtre replacÃ©
+de la fable dans l'histoire. Plus on va, plus prÃ©cisÃ©ment il
+grandit. Les expÃ©riences d'Ader et des Wright ont illuminÃ© d'une
+gloire rÃ©trospective le _Code sur le vol des oiseaux_; le germe des
+thÃ©ories de Fresnel se trouve dans certains passages des manuscrits
+de l'Institut. Au cours de ces derniÃ¨res annÃ©es, les recherches
+du regrettÃ© M. Duhem sur les _Origines de la statique_ ont permis
+d'attribuer Ã  LÃ©onard le thÃ©orÃ¨me fondamental de la composition des
+forces, et une notion trÃ¨s nette--quoique incomplÃ¨te--du principe du
+travail virtuel.
+
+
+
+
+_Ã MARCEL SCHWOB_
+
+
+
+
+INTRODUCTION Ã LA MÃTHODE DE LÃONARD DE VINCI
+
+
+1894
+
+
+Il reste d'un homme ce que donnent Ã  songer son nom, et les Åuvres
+qui font de ce nom un signe d'admiration, de haine ou d'indiffÃ©rence.
+Nous pensons qu'il a pensÃ©, et nous pouvons retrouver entre ses Åuvres
+cette pensÃ©e qui lui vient de nous: nous pouvons refaire cette pensÃ©e
+Ã  l'image de la nÃ´tre. AisÃ©ment, nous nous reprÃ©sentons un homme
+ordinaire: de simples souvenirs en ressuscitent les mobiles et les
+rÃ©actions Ã©lÃ©mentaires. Parmi les actes indiffÃ©rents qui constituent
+l'extÃ©rieur de son existence, nous trouvons la mÃªme suite qu'entre
+les nÃ´tres; nous en sommes le lien aussi bien que lui, et le cercle
+d'activitÃ© que son Ãªtre suggÃ¨re ne dÃ©borde pas de celui qui nous
+appartient. Si nous faisons que cet individu excelle en quelque point,
+nous en aurons plus de mal Ã  nous figurer les travaux et les chemins
+de son esprit. Pour ne pas nous borner Ã  l'admirer confusÃ©ment, nous
+serons contraints d'Ã©tendre dans un sens notre imagination de la
+propriÃ©tÃ© qui domine en lui, et dont nous ne possÃ©dons, sans doute, que
+le germe. Mais si toutes les facultÃ©s de l'esprit choisi sont largement
+dÃ©veloppÃ©es Ã  la fois, ou si les restes de son action paraissent
+considÃ©rables dans tous les genres, la figure en devient de plus en
+plus difficile Ã  saisir dans son unitÃ© et tend Ã  Ã©chapper Ã  notre
+effort. D'une extrÃ©mitÃ© de cette Ã©tendue mentale Ã  une autre, il y a
+de telles distances que nous n'avons jamais parcourues. La continuitÃ©
+de cet ensemble manque Ã  notre connaissance, comme s'y dÃ©robent ces
+informes haillons d'espace qui sÃ©parent des objets connus, et traÃ®nent
+au hasard des intervalles; comme se perdent Ã  chaque instant des
+myriades de faits, hors du petit nombre de ceux que le langage Ã©veille.
+Il faut pourtant s'attarder, s'y faire, surmonter la peine qu'impose Ã 
+notre imagination cette rÃ©union d'Ã©lÃ©ments hÃ©tÃ©rogÃ¨nes par rapport Ã 
+elle. Toute intelligence, ici, se confond avec l'invention d'un ordre
+unique, d'un seul moteur et dÃ©sire animer d'une sorte de semblable le
+systÃ¨me qu'elle s'impose. Elle s'applique Ã  former une image dÃ©cisive.
+Avec une violence qui dÃ©pend de son ampleur et de sa luciditÃ©, elle
+finit par reconquÃ©rir sa propre unitÃ©. Comme par l'opÃ©ration d'un
+mÃ©canisme, une hypothÃ¨se se dÃ©clare, et se montre l'individu qui a tout
+fait, la vision centrale oÃ¹ tout a dÃ» se passer, le cerveau monstrueux
+ou l'Ã©trange animal qui a tissÃ© des milliers de purs liens entre tant
+de formes, et de qui ces constructions Ã©nigmatiques et diverses furent
+les travaux, l'instinct faisant sa demeure. La production de cette
+hypothÃ¨se est un phÃ©nomÃ¨ne qui comporte des variations, mais point de
+hasard. Elle vaut ce que vaudra l'analyse logique dont elle devra Ãªtre
+l'objet. Elle est le fond de la mÃ©thode qui va nous occuper et nous
+servir.
+
+Je me propose d'imaginer un homme de qui auraient paru des actions
+tellement distinctes que si je viens Ã  leur supposer une pensÃ©e, il
+n'y en aura pas de plus Ã©tendue. Et je veux qu'il ait un sentiment de
+la diffÃ©rence des choses infiniment vif, dont les aventures pourraient
+bien se nommer analyse. Je vois que tout l'oriente: c'est Ã  l'univers
+qu'il songe toujours, et Ã  la rigueur[1]. Il est fait pour n'oublier
+rien de ce qui entre dans la confusion de ce qui est: nul arbuste.
+Il descend dans la profondeur de ce qui est Ã  tout le monde, s'y
+Ã©loigne et se regarde. Il atteint aux habitudes et aux structures
+naturelles, il les travaille de partout, et il lui arrive d'Ãªtre le
+seul qui construise, Ã©numÃ¨re, Ã©meuve. Il laisse debout des Ã©glises,
+des forteresses; il accomplit des ornements pleins de douceur et de
+grandeur, mille engins, et les figurations rigoureuses de mainte
+recherche. Il abandonne les dÃ©bris d'on ne sait quels grands jeux. Dans
+ces passe-temps, qui se mÃªlent de sa science, laquelle ne se distingue
+pas d'une passion, il a le charme de sembler toujours penser Ã  autre
+chose... Je le suivrai se mouvant dans l'unitÃ© brute et l'Ã©paisseur
+du monde, oÃ¹ il se fera la nature si familiÃ¨re qu'il l'imitera pour y
+toucher, et finira dans la difficultÃ© de concevoir un objet qu'elle ne
+contienne pas.
+
+Un nom manque Ã  cette crÃ©ature de pensÃ©e, pour contenir l'expansion
+de termes trop Ã©loignÃ©s d'ordinaire et qui se dÃ©roberaient. Aucun
+ne me paraÃ®t plus convenir que celui de _LÃ©onard de Vinci._ Celui
+qui se reprÃ©sente un arbre est forcÃ© de se reprÃ©senter un ciel ou un
+fond pour l'y voir s'y tenir. Il y a lÃ  une sorte de logique presque
+sensible et presque inconnue. Le personnage que je dÃ©signe se rÃ©duit
+Ã  une dÃ©duction de ce genre. Presque rien de ce que j'en saurai dire
+ne devra s'entendre de l'homme qui a illustrÃ© ce nom: je ne poursuis
+pas une coÃ¯ncidence que je juge impossible Ã  mal dÃ©finir. J'essaye de
+donner une vue sur le dÃ©tail d'une vie intellectuelle, une suggestion
+des mÃ©thodes que toute trouvaille implique, _une_, choisie parmi
+la multitude des choses imaginables, modÃ¨le qu'on devine grossier,
+mais de toute faÃ§on prÃ©fÃ©rable aux suites d'anecdotes douteuses, aux
+commentaires des catalogues de collections, aux dates. Une telle
+Ã©rudition ne ferait que fausser l'intention tout hypothÃ©tique de cet
+essai. Elle ne m'est pas inconnue, mais j'ai surtout Ã  ne pas en
+parler, pour ne pas donner Ã  confondre une conjecture relative Ã  des
+termes fort gÃ©nÃ©raux, avec les dÃ©bris extÃ©rieurs d'une personnalitÃ©
+si bien Ã©vanouie qu'ils nous offrent la certitude de son existence
+pensante, autant que celle de ne jamais la mieux connaÃ®tre.
+
+*
+
+Mainte erreur, gÃ¢tant les jugements qui se portent sur les Åuvres
+humaines, est due Ã  un oubli singulier de leur gÃ©nÃ©ration. On ne
+se souvient pas souvent qu'elles n'ont pas toujours Ã©tÃ©. Il en est
+provenu une sorte de coquetterie rÃ©ciproque qui fait gÃ©nÃ©ralement
+taire--jusqu'Ã  les trop bien cacher--les origines d'un ouvrage.
+Nous les craignons humbles; nous allons jusqu'Ã  redouter qu'elles
+soient naturelles. Et, bien que fort peu d'auteurs aient le courage
+de dire comment ils ont formÃ© leur Åuvre, je crois qu'il n'y en pas
+beaucoup plus qui se soient risquÃ©s Ã  le savoir. Une telle recherche
+commence par l'abandon pÃ©nible des notions de gloire et des Ã©pithÃ¨tes
+laudatives; elle ne supporte aucune idÃ©e de supÃ©rioritÃ©, aucune manie
+de grandeur. Elle conduit Ã  dÃ©couvrir la relativitÃ© sous l'apparente
+perfection. Elle est nÃ©cessaire pour ne pas croire que les esprits sont
+aussi profondÃ©ment diffÃ©rents que leurs produits les font paraÃ®tre.
+Certains travaux des sciences, par exemple, et ceux des mathÃ©matiques
+en particulier, prÃ©sentent une telle limpiditÃ© de leur armature qu'on
+les dirait l'Åuvre de personne. Ils ont quelque chose d'_inhumain._
+Cette disposition n'a pas Ã©tÃ© inefficace. Elle a fait supposer une
+distance si grande entre certaines Ã©tudes, comme les sciences et
+les arts, que les esprits originaires en ont Ã©tÃ© tout sÃ©parÃ©s dans
+l'opinion et juste autant que les rÃ©sultats de leurs travaux semblaient
+l'Ãªtre. Ceux-ci, pourtant, ne diffÃ¨rent qu'aprÃ¨s les variations d'un
+fond commun, par ce qu'ils en conservent et ce qu'ils en nÃ©gligent, en
+formant leurs langages et leurs symboles. Il faut donc avoir quelque
+dÃ©fiance Ã  l'Ã©gard des livres et des expositions trop pures. Ce qui est
+fixÃ© nous abuse, et ce qui est fait pour Ãªtre regardÃ© change d'allure,
+s'ennoblit. C'est mouvantes, irrÃ©solues, encore Ã  la merci d'un moment,
+que les opÃ©rations de l'esprit vont pouvoir nous servir, avant qu'on
+les ait appelÃ©es divertissement ou loi, thÃ©orÃ¨me ou chose d'art, et
+qu'elles se soient Ã©loignÃ©es, en s'achevant, de leur ressemblance.
+
+IntÃ©rieurement, il y a un drame. Drame, aventures, agitations, tous
+les mots de cette espÃ¨ce peuvent s'employer, pourvu qu'ils soient
+plusieurs et se corrigent l'un par l'autre. Ce drame se perd le plus
+souvent, tout comme les piÃ¨ces de MÃ©nandre. Cependant, nous gardons les
+manuscrits de LÃ©onard et les illustres notes de Pascal. Ces lambeaux
+nous forcent Ã  les interroger. Ils nous font deviner par quels sursauts
+de pensÃ©e, par quelles bizarres introductions des Ã©vÃ©nements et des
+sensations continuelles, aprÃ¨s quelles immenses minutes de langueur
+se sont montrÃ©es Ã  des hommes les ombres de leurs Åuvres futures, les
+fantÃ´mes qui prÃ©cÃ©dent. Sans recourir Ã  de si grands exemples qu'ils
+emportent le danger des erreurs de l'exception, il suffit d'observer
+quelqu'un qui se croit seul et s'abandonne; qui _recule_ devant une
+idÃ©e; qui la _saisit_; qui nie, sourit Ã  rien ou se contracte, et mime
+l'Ã©trange situation de sa propre diversitÃ©. Les fous s'y livrent devant
+tout le monde.
+
+VoilÃ  des exemples qui lient immÃ©diatement des dÃ©placements physiques,
+finis, mesurables Ã  la comÃ©die personnelle dont je parlais. Les acteurs
+d'ici sont des images mentales et il est aisÃ© de comprendre que, si
+l'on fait s'Ã©vanouir la particularitÃ© de ces images pour ne lire que
+leur succession, leur frÃ©quence, leur pÃ©riodicitÃ©, leur facilitÃ©
+diverse d'association, leur durÃ©e enfin, on est vite tentÃ© de leur
+trouver des analogies dans le monde dit matÃ©riel, d'en rapprocher les
+analyses scientifiques, de leur supposer un milieu, une continuitÃ©,
+des propriÃ©tÃ©s de dÃ©placement, des vitesses et, de suite, des masses,
+de l'Ã©nergie. On s'avise alors qu'une foule de ces systÃ¨mes sont
+possibles, que l'un d'eux en particulier ne vaut pas plus qu'un autre,
+et que leur usage, prÃ©cieux, car il Ã©claircit toujours quelque chose,
+doit Ãªtre Ã  chaque instant surveillÃ© et restituÃ© Ã  son rÃ´le purement
+verbal. Car l'analogie n'est prÃ©cisÃ©ment que la facultÃ© de varier les
+images, de les combiner, de faire coexister la partie de l'une avec la
+partie de l'autre et d'apercevoir, volontairement ou non, la liaison de
+leurs structures. Et cela rend indescriptible l'esprit, qui est leur
+lieu. Les paroles y perdent leur vertu. LÃ , elles se forment, elles
+jaillissent devant ses _yeux_: c'est lui qui nous dÃ©crit les mots.
+
+L'homme emporte ainsi des _visions_, dont la puissance fait la sienne.
+Il y rapporte son histoire. Elles en sont le lien gÃ©omÃ©trique. De lÃ 
+tombent ces dÃ©cisions qui Ã©tonnent, ces perspectives, ces divinations
+foudroyantes, ces justesses du jugement, ces illuminations, ces
+incomprÃ©hensibles inquiÃ©tudes, et des sottises. On se demande avec
+stupÃ©faction, dans certains cas extraordinaires, en invoquant des
+dieux abstraits, le gÃ©nie, l'inspiration, mille autres, d'oÃ¹ viennent
+ces accidents. Une fois de plus on croit qu'il s'est crÃ©Ã© quelque
+chose, car on adore le mystÃ¨re et le merveilleux autant qu'ignorer
+les coulisses; on traite la logique de miracle, mais l'inspirÃ© Ã©tait
+prÃªt depuis un an. Il Ã©tait mÃ»r. Il y avait pensÃ© toujours--peut-Ãªtre
+sans s'en douter--et oÃ¹ les autres Ã©taient encore Ã  ne pas voir, il
+avait regardÃ©, combinÃ© et ne faisait plus que lire dans son esprit.
+Le secret--celui de LÃ©onard comme celui de Bonaparte, comme celui
+que possÃ¨de une fois la plus haute intelligence--est et ne peut Ãªtre
+que dans les relations qu'ils trouvÃ¨rent--qu'ils furent forcÃ©s de
+trouver--_entre des choses dont nous Ã©chappe la loi de continuitÃ©._ Il
+est certain qu'au moment dÃ©cisif, ils n'avaient plus qu'Ã  effectuer des
+actes dÃ©finis. L'affaire suprÃªme, celle que le monde regarde, n'Ã©tait
+plus qu'une chose simple--comme comparer deux longueurs.
+
+Ce point de vue rend perceptible l'unitÃ© de mÃ©thode qui nous occupe.
+Dans ce milieu, elle est native, Ã©lÃ©mentaire. Elle en est la vie mÃªme
+et la dÃ©finition. Et quand des penseurs aussi puissants que celui
+auquel je songe le long de ces lignes retirent de cette propriÃ©tÃ© ses
+ressources implicites, ils ont le droit d'Ã©crire dans un moment plus
+conscient et plus clair: _Facil cosa Ã© farsi universale!_ Il est aisÃ©
+de se rendre universel! Ils peuvent, une minute, admirer le prodigieux
+instrument qu'ils sont--quittes Ã  nier instantanÃ©ment un prodige.
+
+Mais cette clartÃ© finale ne s'Ã©veille qu'aprÃ¨s de longs errements,
+d'indispensables idolÃ¢tries. La conscience des opÃ©rations de la
+pensÃ©e, qui est la logique mÃ©connue dont j'ai parlÃ©, n'existe que
+rarement, mÃªme dans les plus fortes tÃªtes. Le nombre des conceptions,
+la puissance de les prolonger, l'abondance des trouvailles sont
+autres choses et se produisent en dehors du jugement que l'on porte
+sur leur nature. Cette opinion est cependant d'une importance aisÃ©e
+Ã  reprÃ©senter. Une fleur, une proposition, un bruit peuvent Ãªtre
+imaginÃ©s presque simultanÃ©ment; on peut les faire se suivre d'aussi
+prÃ¨s qu'on le voudra; l'un quelconque de ces objets de pensÃ©e peut
+aussi se changer, Ãªtre dÃ©formÃ©, perdre successivement sa physionomie
+initiale au grÃ© de l'esprit qui le tient;--mais la connaissance de ce
+pouvoir, seule, lui confÃ¨re toute sa valeur. Seule, elle permet de
+critiquer ces _formations_, de les interprÃ©ter, de n'y trouver que ce
+qu'elles contiennent et de ne pas en Ã©tendre les Ã©tats directement Ã 
+ceux de la rÃ©alitÃ©. Avec elle commence l'analyse de toutes les phases
+intellectuelles, de tout ce qu'elle va pouvoir nommer folie, idole,
+trouvaille,--auparavant nuances, qui ne se distinguaient pas les unes
+des autres. Elles Ã©taient des variations Ã©quivalentes d'une commune
+substance; elles se comparaient, elles faisaient des flottaisons
+indÃ©finies et comme irresponsables, quelquefois pouvant se nommer,
+toutes du mÃªme systÃ¨me. La conscience des pensÃ©es que l'on a, en tant
+que ce sont des pensÃ©es, est de reconnaÃ®tre cette sorte d'Ã©galitÃ© ou
+d'homogÃ©nÃ©itÃ©; de sentir que toutes les combinaisons de la sorte sont
+lÃ©gitimes, naturelles, et que la mÃ©thode consiste Ã  les exciter, Ã  les
+voir avec prÃ©cision, Ã  chercher ce qu'elles impliquent.
+
+Ã un point de cette observation ou de cette double vie mentale, qui
+rÃ©duit la pensÃ©e ordinaire Ã  Ãªtre le rÃªve d'un dormeur Ã©veillÃ©,
+il apparaÃ®t que la sÃ©rie de ce rÃªve, la nue de combinaisons, de
+contrastes, de perceptions, qui se groupe autour d'une recherche
+ou qui file indÃ©terminÃ©e, selon le plaisir, se dÃ©veloppe avec une
+rÃ©gularitÃ© _perceptible_, une continuitÃ© Ã©vidente de machine. L'idÃ©e
+surgit alors (ou le dÃ©sir) de prÃ©cipiter le cours de cette suite,
+d'en porter les termes Ã  leur _limite_, Ã  celle de leurs expressions
+imaginables, _aprÃ¨s laquelle tout sera changÃ©._ Et si ce mode d'Ãªtre
+conscient devient habituel, on en viendra, par exemple, Ã  examiner
+d'emblÃ©e tous les rÃ©sultats possibles d'un acte envisagÃ©, tous les
+rapports d'un objet conÃ§u, pour arriver de suite Ã  s'en dÃ©faire, Ã 
+la facultÃ© de deviner toujours une chose plus intense ou plus exacte
+que la chose donnÃ©e, au pouvoir de se rÃ©veiller hors d'une pensÃ©e qui
+durait trop. Quelle qu'elle soit, une pensÃ©e qui se fixe prend les
+caractÃ¨res d'une hypnose et devient, dans le langage logique, une
+idole; dans le domaine de la construction poÃ©tique et de l'art, une
+infructueuse monotonie. Le sens dont je parle et qui mÃ¨ne l'esprit Ã 
+se prÃ©voir lui-mÃªme, Ã  imaginer l'ensemble de ce qui allait s'imaginer
+dans le dÃ©tail, et l'effet de la succession, ainsi rÃ©sumÃ©e, est la
+condition de toute gÃ©nÃ©ralitÃ©. Lui, qui dans certains individus s'est
+prÃ©sentÃ© sous la forme d'une vÃ©ritable passion et avec une Ã©nergie
+singuliÃ¨re; qui, dans les arts, permet toutes les avances et explique
+l'emploi de plus en plus frÃ©quent de termes resserrÃ©s, de raccourcis
+et de contrastes violents, existe implicitement sous sa forme
+rationnelle au fond de toutes les conceptions mathÃ©matiques. C'est une
+opÃ©ration trÃ¨s semblable Ã  lui, qui, sous le nom de raisonnement par
+rÃ©currence[2], donne Ã  ces analyses leur extension,--et qui, depuis le
+type de l'addition jusqu'Ã  la sommation infinitÃ©simale, fait plus que
+d'Ã©pargner un nombre indÃ©fini d'expÃ©riences inutiles: elle s'Ã©lÃ¨ve Ã 
+des Ãªtres plus complexes, parce que l'imitation consciente de mon acte
+est un nouvel acte qui enveloppe toutes les adaptations possibles du
+premier.
+
+*
+
+Ce tableau, drames, remous, luciditÃ©, s'oppose de lui-mÃªme Ã  d'autres
+mouvements et Ã  d'autres scÃ¨nes qui tirent de nous les noms de Â«NatureÂ»
+ou de Â«MondeÂ» et dont nous ne savons faire autre chose que nous en
+distinguer, pour aussitÃ´t nous y remettre.
+
+Les philosophes ont gÃ©nÃ©ralement abouti Ã  impliquer notre existence
+dans cette notion, et elle dans la nÃ´tre mÃªme; mais ils ne vont
+guÃ¨re au delÃ , car l'on sait qu'ils ont Ã  faire de dÃ©battre ce qu'y
+virent leurs prÃ©dÃ©cesseurs, bien plus que d'y regarder en personne.
+Les savants et les artistes en ont diversement joui, et les uns ont
+fini par mesurer, puis construire; et les autres par construire comme
+s'ils avaient mesurÃ©. Tout ce qu'ils ont fait se replace de soi-mÃªme
+dans le milieu et y prend part, le continuant par de nouvelles formes
+donnÃ©es aux matÃ©riaux qui le constituent. Mais avant d'abstraire et de
+bÃ¢tir, on observe: la personnalitÃ© des sens, leur docilitÃ© diffÃ©rente,
+distingue et trie parmi les qualitÃ©s proposÃ©es en masse celles qui
+seront retenues et dÃ©veloppÃ©es par l'individu. La constatation est
+d'abord subie, presque sans pensÃ©e, avec le sentiment de se laisser
+emplir et celui d'une circulation lente et comme heureuse: il arrive
+qu'on s'y intÃ©resse et qu'on donne aux choses qui Ã©taient fermÃ©es,
+irrÃ©ductibles, d'autres valeurs; on y ajoute, on se plaÃ®t davantage Ã 
+des points particuliers, on se les exprime et il se produit comme la
+restitution d'une Ã©nergie que les sens auraient reÃ§ue; bientÃ´t elle
+dÃ©formera le site Ã  son tour, y employant la pensÃ©e rÃ©flÃ©chie d'une
+personne.
+
+L'homme universel commence, lui aussi, par contempler simplement, et il
+revient toujours Ã  s'imprÃ©gner de spectacles. Il retourne aux ivresses
+de l'instant particulier et Ã  l'Ã©motion que donne la moindre chose
+rÃ©elle, quand on les regarde tous deux, si bien clos par toutes leurs
+qualitÃ©s et concentrant de toute maniÃ¨re tant d'effets.
+
+*
+
+La plupart des gens y voient par l'intellect bien plus souvent que
+par les yeux. Au lieu d'espaces colorÃ©s, ils prennent connaissance
+de concepts. Une forme cubique, blanchÃ¢tre, en hauteur, et trouÃ©e de
+reflets de vitres est immÃ©diatement une maison, pour eux: la Maison!
+IdÃ©e complexe, accord de qualitÃ©s abstraites. S'ils se dÃ©placent,
+le mouvement des files de fenÃªtres, la translation des surfaces qui
+dÃ©figure continÃ»ment leur sensation, leur Ã©chappe,--car le concept ne
+change pas. Ils perÃ§oivent plutÃ´t selon un lexique que d'aprÃ¨s leur
+rÃ©tine, ils approchent si mal les objets, ils connaissent si vaguement
+les plaisirs et les souffrances d'y voir, qu'ils ont inventÃ© les
+_beaux_ sites. Ils ignorent le reste. Mais lÃ , ils se rÃ©galent d'un
+concept qui fourmille de mots. (Une rÃ¨gle gÃ©nÃ©rale de cette faiblesse
+qui existe dans tous les domaines de la connaissance est prÃ©cisÃ©ment
+le choix de lieux _Ã©vidents_, le repos en des systÃ¨mes dÃ©finis, qui
+facilitent, mettent Ã  la portÃ©e... ainsi l'Åuvre d'art, qui est
+toujours plus ou moins didactique.) Ces beaux sites eux-mÃªmes leur sont
+assez fermÃ©s. Et toutes les modulations que les petits pas, la lumiÃ¨re,
+l'appesantissement du regard mÃ©nagent, ne les atteignent pas. Ils ne
+font ni ne dÃ©font rien dans leurs sensations. Sachant horizontal le
+niveau des eaux tranquilles, ils mÃ©connaissent que la mer est _debout_
+au fond de la vue; si le bout d'un nez, un Ã©clat d'Ã©paule, deux doigts
+trempent au hasard dans un coup de lumiÃ¨re qui les isole, eux ne se
+font jamais Ã  n'y voir qu'un bijou neuf, enrichissant leur vision. Ce
+bijou est un fragment d'une personne qui seule existe, leur est connue.
+Et, comme ils rejettent Ã  rien ce qui manque d'une appellation, le
+nombre de leurs impressions se trouve strictement fini d'avance![3]
+
+L'usage du don contraire conduit Ã  de vÃ©ritables analyses. On ne peut
+dire qu'il s'exerce dans la _nature._ Ce mot, qui paraÃ®t gÃ©nÃ©ral et
+contenir toute possibilitÃ© d'expÃ©rience, est tout Ã  fait particulier.
+Il Ã©voque des images personnelles, dÃ©terminant la mÃ©moire ou l'histoire
+d'un individu. Le plus souvent, il suscite la vision d une Ã©ruption
+verte, vague et continue, d'un grand travail Ã©lÃ©mentaire s'opposant Ã 
+l'humain, d'une quantitÃ© monotone qui va nous recouvrir, de quelque
+chose plus forte que nous, s'enchevÃªtrant, se dÃ©chirant, dormant,
+brodant encore, et Ã  qui, personnifiÃ©e, les poÃ¨tes accordÃ¨rent de la
+cruautÃ©, de la bontÃ© et plusieurs autres intentions. Il faut donc
+placer celui qui regarde et peut bien voir dans un coin _quelconque_ de
+ce qui est.
+
+L'observateur est pris dans une sphÃ¨re qui ne se brise jamais, oÃ¹
+il y a des diffÃ©rences qui seront les mouvements et les objets, et
+dont la surface se conserve close malgrÃ© que toutes les portions
+s'en renouvellent et s'y dÃ©placent. L'observateur n'est d'abord que
+la condition de cet espace fini: Ã  chaque instant il est cet espace
+fini. Nul souvenir, aucun pouvoir ne le trouble tant qu'il s'Ã©gale
+Ã  ce qu'il regarde. Et pour peu que je puisse le concevoir durant
+ainsi, je concevrai que ses impressions diffÃ¨rent le moins du monde
+de celles qu'il recevrait dans un rÃªve. Il arrive Ã  sentir du bien,
+du mal, du calme lui venant[4] de ces formes toutes quelconques, oÃ¹
+son propre corps se compte. Et voici lentement les unes qui commencent
+de se faire oublier, et de ne plus Ãªtre vues qu'Ã  peine, tandis que
+d'autres parviennent Ã  se faire apercevoir--lÃ  oÃ¹ elles avaient
+toujours Ã©tÃ©. Une trÃ¨s intime confusion des changements qu'entraÃ®nent
+dans la vision sa durÃ©e, et la lassitude, avec ceux dus aux mouvements
+ordinaires, doit se noter. Certains endroits sur l'Ã©tendue de cette
+vision s'exagÃ¨rent, comme un membre malade semble plus gros et encombre
+l'idÃ©e qu'on a de son corps, par l'importance que lui donne la douleur.
+Ces points forts paraÃ®tront plus faciles Ã  retenir, plus doux Ã  Ãªtre
+vus. C'est de lÃ  que le spectateur s'Ã©lÃ¨ve Ã  la rÃªverie, et dÃ©sormais
+il va pouvoir Ã©tendre Ã  des objets de plus en plus nombreux des
+caractÃ¨res particuliers provenant des premiers et des mieux connus.
+Il perfectionne l'espace donnÃ© en se souvenant d'un prÃ©cÃ©dent. Puis,
+Ã  son grÃ©, il arrange et dÃ©fait ses impressions successives. Il peut
+apprÃ©cier d'Ã©tranges combinaisons: il regarde comme un Ãªtre total et
+solide un groupe de fleurs ou d'hommes, une main, une joue qu'il isole,
+une tache de clartÃ© sur un mur, une rencontre d'animaux mÃªlÃ©s par
+hasard. Il se met Ã  vouloir se figurer des ensembles invisibles dont
+les parties lui sont donnÃ©es. Il devine les nappes qu'un oiseau dans
+son vol engendre, la courbe sur laquelle glisse une pierre lancÃ©e, les
+surfaces qui dÃ©finissent nos gestes, et les dÃ©chirures extraordinaires,
+les arabesques fluides, les chambres informes, crÃ©Ã©es dans un rÃ©seau
+pÃ©nÃ©trant tout, par la rayure grinÃ§ante du tremblement des insectes,
+le roulis des arbres, les roues, le sourire humain, la marÃ©e. Parfois,
+les traces de ce qu'il a imaginÃ© se laissent voir sur les sables, sur
+les eaux; parfois sa rÃ©tine elle-mÃªme peut comparer, dans le temps, Ã 
+quelque objet la forme de son dÃ©placement.
+
+Des formes nÃ©es du mouvement, il y a un passage vers les mouvements que
+deviennent les formes, Ã  l'aide d'une simple variation de la durÃ©e.
+Si la goutte de pluie paraÃ®t comme une ligne, mille vibrations comme
+un son continu, les accidents de ce papier comme un plan poli et que
+la durÃ©e de l'impression s'y emploie seule, une forme stable peut se
+remplacer par une rapiditÃ© convenable dans le transfert pÃ©riodique
+d'une chose (ou Ã©lÃ©ment) bien choisie. Les gÃ©omÃ¨tres pourront
+introduire le temps, la vitesse dans l'Ã©tude des formes, comme ils
+pourront les Ã©carter de celle des mouvements; et les langages feront
+qu'une jetÃ©e _s'allonge_, qu'une montagne _s'Ã©lÃ¨ve_, qu'une statue
+_se dresse._ Et le vertige de l'analogie, la logique de la continuitÃ©
+transporte ces actions Ã  la limite de leur tendance, Ã  l'impossibilitÃ©
+d'un arrÃªt. Tout se meut de degrÃ© en degrÃ©, imaginairement. Dans
+cette chambre et parce que je laisse cette pensÃ©e durer seule, les
+objets _agissent_ comme la flamme de la lampe: le fauteuil se consume
+sur place, la table se dÃ©crit si vite qu'elle en est immobile, les
+rideaux coulent sans fin, continÃ»ment. Voici une complexitÃ© infinie;
+pour se ressaisir Ã  travers la notion des corps, la circulation des
+contours, la mÃªlÃ©e des nÅuds, les routes, les chutes, les tourbillons,
+l'Ã©cheveau des vitesses, il faut recourir Ã  notre grand pouvoir,
+d'oubli ordonnÃ©--et, sans dÃ©truire la notion acquise, on installe une
+conception abstraite: celle des ordres de grandeur.
+
+Telle, dans l'agrandissement de Â«ce qui est donnÃ©Â», expire l'ivresse
+de ces choses particuliÃ¨res--desquelles il n'y a pas de science. En
+les regardant longuement, si l'on y pense, elles se changent; et si
+l'on n'y pense pas, on se prend dans une torpeur qui tient et consiste
+comme un rÃªve tranquille, oÃ¹ l'on fixe hypnotiquement l'angle d'un
+meuble, l'ombre d'une feuille, pour s'Ã©veiller dÃ¨s qu'on les voit.
+Certains hommes ressentent, avec une dÃ©licatesse spÃ©ciale, la voluptÃ©
+de l'_individualitÃ©_ des objets. Ils prÃ©fÃ¨rent avec dÃ©lices, dans une
+chose, cette qualitÃ© d'Ãªtre unique--qu'elles ont toutes. CuriositÃ© qui
+trouve son expression ultime dans la fiction et les arts du thÃ©Ã¢tre et
+qu'on a nommÃ©e, Ã  cette extrÃ©mitÃ©, la _facultÃ© d'identification._[5]
+Rien n'est plus dÃ©libÃ©rÃ©ment absurde Ã  la description que cette
+tÃ©mÃ©ritÃ© d'une personne se dÃ©clarant qu'elle est un objet dÃ©terminÃ© et
+qu'elle en ressent les impressions--cet objet fÃ»t-il matÃ©riel[6]! Rien
+n'est plus puissant dans la vie imaginative. L'objet choisi devient
+comme le centre de cette vie, un centre d'associations de plus en
+plus nombreuses, suivant que cet objet est plus ou moins complexe. Au
+fond, cette facultÃ© ne peut Ãªtre qu'un moyen d'exciter la vitalitÃ©
+imaginative, de transformer une Ã©nergie potentielle en actuelle,
+jusqu'au point oÃ¹ elle devient une caractÃ©ristique pathologique, et
+domine affreusement la stupiditÃ© croissante d'une intelligence qui s'en
+va.
+
+Depuis le regard pur sur les choses jusqu'Ã  ces Ã©tats, l'esprit n'a
+fait qu'agrandir ses fonctions, crÃ©er des Ãªtres selon les problÃ¨mes
+que toute sensation lui pose et qu'il rÃ©sout plus ou moins aisÃ©ment,
+suivant qu'il lui est demandÃ© une plus ou moins forte production de
+tels Ãªtres. On voit que nous touchons ici Ã  la _pratique_ mÃªme de la
+pensÃ©e. Penser consiste, presque tout le temps que nous y donnons,
+Ã  errer parmi des motifs dont nous savons, avant tout, que nous les
+connaissons _plus ou moins bien._ Les choses pourraient donc se
+classer d'aprÃ¨s la facilitÃ© ou la difficultÃ© qu'elles offrent Ã  notre
+comprÃ©hension, d'aprÃ¨s le degrÃ© de familiaritÃ© que nous avons avec
+elles, et selon les rÃ©sistances diverses que nous opposent leurs
+conditions ou leurs parties pour Ãªtre imaginÃ©es ensemble. Reste Ã 
+conjecturer l'histoire de cette graduation de la complexitÃ©.
+
+*
+
+Le monde est irrÃ©guliÃ¨rement semÃ© de dispositions rÃ©guliÃ¨res. Les
+cristaux en sont; les fleurs, les feuilles; maints ornements de stries,
+de taches sur les fourrures, les ailes, les coquilles des animaux; les
+traces du vent sur les sables et les eaux, etc. Parfois, ces effets
+dÃ©pendent d'une sorte de perspective et de groupements inconstants.
+L'Ã©loignement les produit ou les altÃ¨re. Le temps les montre ou les
+voile. Ainsi le nombre des dÃ©cÃ¨s, des naissances, des crimes et des
+accidents prÃ©sente une rÃ©gularitÃ© dans sa variation, qui s'accuse
+d'autant plus qu'on le recherche dans plus d'annÃ©es. Les Ã©vÃ©nements
+les plus surprenants et les plus _asymÃ©triques_ par rapport au cours
+des instants voisins, rentrent dans un semblant d'ordre par rapport
+Ã  de plus vastes pÃ©riodes. On peut ajouter Ã  ces exemples, celui
+des instincts, des habitudes et des mÅurs, et jusqu'aux apparences
+de pÃ©riodicitÃ© qui ont fait naÃ®tre tant de systÃ¨mes de philosophie
+historique.
+
+La connaissance des combinaisons rÃ©guliÃ¨res appartient aux sciences
+diverses, et, lorsqu'il n'a pas pu s'en constituer, au calcul des
+probabilitÃ©s. Notre dessein n'a besoin que de cette remarque faite dÃ¨s
+que nous avons commencÃ© d'en parler: les combinaisons rÃ©guliÃ¨res, soit
+du temps, soit de l'espace, sont irrÃ©guliÃ¨rement distribuÃ©es dans le
+champ de notre investigation. Mentalement, elles paraissent s'opposer Ã 
+une quantitÃ© de choses informes.
+
+Je pense qu'elles pourraient se qualifier les Â«premiers guides de
+l'esprit humainÂ», si une telle proposition n'Ã©tait immÃ©diatement
+convertible. De toute faÃ§on, elles reprÃ©sentent la continuitÃ©[7].
+Une pensÃ©e comporte un changement ou un transfert (d'attention, par
+exemple), entre des Ã©lÃ©ments supposÃ©s fixes par rapport Ã  elle et
+qu'elle choisit dans la mÃ©moire ou dans la perception actuelle. Si ces
+Ã©lÃ©ments sont parfaitement semblables, ou si leur diffÃ©rence se rÃ©duit
+Ã  une simple distance, au fait Ã©lÃ©mentaire de ne pas se confondre, le
+_travail_ Ã  exercer se rÃ©duit Ã  cette notion purement diffÃ©rentielle.
+Ainsi une ligne droite sera la plus facile Ã  concevoir de toutes les
+lignes, parce qu'il n'y a pas d'effort plus petit pour la pensÃ©e que
+celui Ã  exercer en passant de l'un de ses points Ã  un autre, chacun
+d'eux Ã©tant semblablement placÃ© par rapport Ã  tous les autres. En
+d'autres termes, toutes ses portions sont tellement homogÃ¨nes, si
+courtes qu'on les conÃ§oive, 'qu'elles se rÃ©duisent toutes Ã  une
+seule, toujours la mÃªme: et c'est pourquoi l'on rÃ©duit toujours les
+dimensions des figures Ã  des longueurs droites. Ã un degrÃ© plus Ã©levÃ©
+de complexitÃ©, c'est Ã  la pÃ©riodicitÃ© qu'on demande de reprÃ©senter les
+propriÃ©tÃ©s continues, car cette pÃ©riodicitÃ©, quelle ait lieu dans le
+temps ou dans l'espace, n'est autre chose que la division d'un objet
+de pensÃ©e, en fragments tels qu'ils puissent se remplacer l'un par
+l'autre, Ã  de certaines conditions dÃ©finies,--ou la multiplication de
+cet objet sous les mÃªmes conditions.
+
+Pourquoi, de tout ce qui existe, une partie seulement peut-elle se
+rÃ©duire ainsi? Il y a un instant oÃ¹ la figure devient si complexe, oÃ¹
+l'Ã©vÃ©nement paraÃ®t si neuf qu'il faut renoncer Ã  les saisir d'ensemble,
+Ã  poursuivre leur traduction en valeurs continues. Ã quel point les
+Euclides se sont-ils arrÃªtÃ©s dans l'intelligence des formes? Ã quel
+degrÃ© de l'interruption de la continuitÃ© figurÃ©e se sont-ils heurtÃ©s?
+C'est un point final d'une recherche oÃ¹ l'on ne peut s'empÃªcher d'Ãªtre
+tentÃ© par les doctrines de l'Ã©volution. On ne veut pas s'avouer que
+cette borne peut Ãªtre dÃ©finitive.
+
+Le sÃ»r est que toutes les spÃ©culations ont pour fondement et pour but
+l'extension de la continuitÃ© Ã  l'aide de mÃ©taphores, d'abstractions et
+de langages, Les arts en font un usage dont nous parlerons bientÃ´t.
+
+Nous arrivons Ã  nous reprÃ©senter le monde comme se laissant rÃ©duire, Ã§Ã 
+et lÃ , en Ã©lÃ©ments intelligibles. TantÃ´t nos sens y suffisent, d'autres
+fois les plus ingÃ©nieuses mÃ©thodes s'y emploient, mais il reste des
+vides. Les tentatives demeurent lacunaires. C'est ici le royaume de
+notre hÃ©ros. Il a un sens extraordinaire de la symÃ©trie qui lui fait
+problÃ¨me de tout. Ã toute fissure de comprÃ©hension s'introduit la
+production de son esprit. On voit de quelle commoditÃ© il peut Ãªtre.
+Il est comme une hypothÃ¨se physique. Il faudrait l'inventer, mais il
+existe; l'homme universel peut maintenant s'imaginer. Un LÃ©onard de
+Vinci peut exister dans nos esprits, sans les trop Ã©blouir, au titre
+d'une notion: une rÃªverie de son pouvoir peut ne pas se perdre trop
+vite dans la brume de mots et d'Ã©pithÃ¨tes considÃ©rables, propices Ã 
+l'inconsistance de la pensÃ©e. Croirait-on que lui-mÃªme se fÃ»t satisfait
+de tels mirages?
+
+Il garde, cet esprit _symbolique_, la plus vaste collection de formes,
+un trÃ©sor toujours clair des attitudes de la nature, une puissance
+toujours imminente et qui grandit selon l'extension de son domaine.
+Une foule d'Ãªtres, une foule de souvenirs possibles, la force de
+reconnaÃ®tre dans l'Ã©tendue du monde un nombre extraordinaire de choses
+distinctes et de les arranger de mille maniÃ¨res, le constituent. Il
+est le maÃ®tre des visages, des anatomies, des machines. Il sait de
+quoi se fait un sourire; il peut le mettre sur la face d'une maison,
+aux plis d'un jardin; il Ã©chevÃ¨le et frise les filaments des eaux,
+les langues des feux. En bouquets formidables, si sa main figure les
+pÃ©ripÃ©ties des attaques qu'il combine, se dÃ©crivent les trajectoires
+de milliers de boulets Ã©crasant les ravelins de citÃ©s et de places,
+Ã  peine construites par lui dans tous leurs dÃ©tails et fortifiÃ©es.
+Comme si les variations des choses lui paraissaient dans le calme trop
+lentes, il adore les batailles, les tempÃªtes, le dÃ©luge. Il s'est
+Ã©levÃ© Ã  les voir dans leur ensemble mÃ©canique, et Ã  les sentir dans
+l'indÃ©pendance apparente ou la vie de leurs fragments, dans une poignÃ©e
+de sable envolÃ©e Ã©perdue, dans l'idÃ©e Ã©garÃ©e de chaque combattant oÃ¹ se
+tort une passion et une douleur intime[8]. Il est dans le petit corps
+Â«timide et brusqueÂ» des enfants, il connaÃ®t les restrictions du geste
+des vieillards et des femmes, la simplicitÃ© du cadavre. Il a le secret
+de composer des Ãªtres fantastiques dont l'existence devient probable,
+oÃ¹ le raisonnement qui accorde leurs parties est si rigoureux qu'il
+suggÃ¨re la vie et le naturel de l'ensemble. Il fait un christ, un ange,
+un monstre en prenant ce qui est connu, ce qui est partout, dans un
+ordre nouveau, en profitant de l'illusion et de l'abstraction de la
+peinture, laquelle ne produit qu'une seule qualitÃ© des choses, et les
+Ã©voque toutes.
+
+Des prÃ©cipitations ou des lenteurs simulÃ©es par les chutes des terres
+et des pierres, des courbures massives aux draperies multipliÃ©es;
+des fumÃ©es poussant sur les toits aux arborescences lointaines, aux
+hÃªtres gazeux des horizons; des poissons aux oiseaux; des Ã©tincelles
+solaires de la mer aux mille minces miroirs des feuilles de bouleau;
+des Ã©cailles aux Ã©clats marchant sur les golfes; des oreilles et des
+boucles aux tourbillons figÃ©s des coquilles, il va. Il passe de la
+coquille Ã  l'enroulement de la tumeur des ondes, de la peau des minces
+Ã©tangs Ã  des veines qui la tiÃ©diraient, Ã  des mouvements Ã©lÃ©mentaires
+de reptation, aux couleuvres fluides. Il vivifie. L'eau, autour du
+nageur[9], il la colle en Ã©charpes, en langes moulant les efforts
+des muscles. L'air, il le fixe dans le sillage des alouettes en
+effilochures d'ombre, en fuites mousseuses de bulles que ces routes
+aÃ©riennes et leur fine respiration doivent dÃ©faire et laisser Ã  travers
+les feuillets bleuÃ¢tres de l'espace, l'Ã©paisseur du cristal vague de
+l'espace.
+
+Il reconstruit tous les Ã©difices; tous les modes de s'ajouter des
+matÃ©riaux les plus diffÃ©rents le tentent. Il jouit des choses
+distribuÃ©es dans les dimensions de l'espace; des voussures, des
+charpentes, des dÃ´mes tendus; des galeries et des loges alignÃ©es; des
+masses que retient en l'air leur poids dans des arcs; des ricochets
+des ponts; des profondeurs de la verdure des arbres s'Ã©loignant dans
+une atmosphÃ¨re oÃ¹ elle boit; de la structure des vols migrateurs dont
+les triangles aigus vers le sud montrent une combinaison rationnelle
+d'Ãªtres vivants.
+
+Il se joue, il s'enhardit, il traduit dans cet universel langage tous
+ses sentiments avec clartÃ©. L'abondance de ses ressources mÃ©taphoriques
+le permet. Son goÃ»t de n'en pas finir avec ce que contient le plus
+lÃ©ger fragment, le moindre Ã©clat du monde lui renouvelle sa force et
+la cohÃ©sion de son Ãªtre. Sa joie finit en dÃ©corations de fÃªtes, en
+inventions charmantes, et quand il rÃªvera de construire un _homme
+volant_, il le verra s'Ã©lever pour chercher de la neige Ã  la cime des
+monts et revenir en Ã©pandre sur les pavÃ©s de la ville tout vibrants de
+chaleur, l'Ã©tÃ©. Son Ã©motion s'Ã©lude en le dÃ©lice de visages purs que
+fripe une moue d'ombre, en le geste d'un dieu qui se tait. Sa haine
+connaÃ®t toutes les armes, toutes les ruses de l'ingÃ©nieur, toutes les
+subtilitÃ©s du stratÃ¨ge. Il Ã©tablit des engins de guerre formidables,
+qu'il protÃ¨ge par les bastions, les caponniÃ¨res, les saillants,
+les fossÃ©s garnis d'Ã©cluses pour dÃ©former subitement l'aspect d'un
+siÃ¨ge; et je me souviens, en y goÃ»tant la belle dÃ©fiance italienne du
+XVIe siÃ¨cle, qu'il a bÃ¢ti des donjons oÃ¹ quatre volÃ©es d'escalier,
+indÃ©pendantes autour du mÃªme axe, sÃ©paraient les mercenaires de leurs
+chefs, les troupes de soldats Ã  gages les unes des autres.
+
+Il adore ce corps de l'homme et de la femme qui se mesure Ã  tout. Il
+en sent la hauteur, et qu'une rose peut venir jusqu'Ã  la lÃ¨vre; et
+qu'un grand platane le surpasse vingt fois, d'un jet d'oÃ¹ le feuillage
+redescend jusqu'Ã  ses boucles; et qu'il emplit de sa forme rayonnante
+une salle possible, une concavitÃ© de voÃ»te qui s'en dÃ©duit, une place
+naturelle qui compte ses pas. Il guette la chute lÃ©gÃ¨re du pied qui
+se pose, le squelette silencieux dans les chairs, les coÃ¯ncidences de
+la marche, tout le jeu superficiel de chaleur et fraÃ®cheur frÃ´lant
+les nuditÃ©s, blancheur diffuse ou bronze, fondues sur un mÃ©canisme.
+Et la face, cette chose Ã©clairante, Ã©clairÃ©e, la plus particuliÃ¨re
+des choses visibles, la plus magnÃ©tique, la plus difficile Ã  regarder
+sans y lire, le possÃ¨de. Dans la mÃ©moire de chacun, demeurent quelques
+centaines de visages avec leurs variations, vaguement. Dans la sienne,
+ils Ã©taient ordonnÃ©s et elles se suivaient d'une physionomie Ã  l'autre;
+d'une ironie Ã  l'autre, d'une sagesse Ã  une moindre, d'une bontÃ© Ã  une
+divinitÃ©,--par symÃ©trie. Autour des yeux, points fixes dont l'Ã©clat
+se change, il fait jouer et se tirer jusqu'Ã  tout dire, le masque oÃ¹
+se confondent une architecture complexe et des moteurs distincts sous
+l'uniforme peau.
+
+Dans la multitude des esprits, celui-ci paraÃ®t comme une de ces
+_combinaisons rÃ©guliÃ¨res_ dont nous avons parlÃ©: il ne semble pas,
+comme la plupart des autres, devoir se lier, pour Ãªtre compris, Ã  une
+nation, Ã  une tradition, Ã  un groupe exerÃ§ant le mÃªme art. Le nombre et
+la communication de ses actes en font un objet symÃ©trique, une sorte de
+_systÃ¨me complet en lui-mÃªme_, ou qui se rend tel incessamment.
+
+Il est fait pour dÃ©sespÃ©rer l'homme moderne qui est dÃ©tournÃ© dÃ¨s
+l'adolescence, dans une spÃ©cialitÃ© oÃ¹ l'on croit qu'il doit devenir
+supÃ©rieur parce qu'il y est enfermÃ©: on invoque la variÃ©tÃ© des
+mÃ©thodes, la quantitÃ© des dÃ©tails, l'addition continuelle de faits
+et de thÃ©ories, pour n'aboutir qu'Ã  confondre l'observateur patient,
+le comptable mÃ©ticuleux de ce qui est, l'individu qui se rÃ©duit,
+non sans mÃ©rite--si ce mot a un sens!--aux habitudes minutieuses
+d'un instrument, avec celui pour qui ce travail est fait, le poÃ¨te
+de l'hypothÃ¨se, l'Ã©dificateur de matÃ©riaux analytiques. Au premier,
+la patience, la direction monotone, la spÃ©cialitÃ© et tout le temps.
+L'absence de pensÃ©e est sa qualitÃ©. Mais l'autre doit circuler au
+travers des sÃ©parations et des cloisonnements. Son rÃ´le est de les
+enfreindre. Je voudrais suggÃ©rer ici une analogie de la spÃ©cialitÃ© avec
+ces Ã©tats de stupÃ©faction dus Ã  une sensation prolongÃ©e, auxquels j'ai
+fait allusion. Mais, le meilleur argument est que, neuf fois sur dix,
+toute grande nouveautÃ© dans un ordre est obtenue par l'intrusion de
+moyens, et de notions qui n'y Ã©taient pas prÃ©vus; venant d'attribuer
+ces progrÃ¨s Ã  la formation d'images, puis de langages, nous ne pouvons
+Ã©luder cette consÃ©quence que la quantitÃ© de ces langages possÃ©dÃ©e par
+un homme, influe singuliÃ¨rement sur le nombre des chances qu'il peut
+avoir d'en trouver de nouveaux. Il serait facile de montrer que tous
+les esprits qui ont servi de substance Ã  des gÃ©nÃ©rations de chercheurs
+et d'ergoteurs, et dont les restes ont nourri, pendant des siÃ¨cles,
+l'opinion humaine, la manie humaine de faire Ã©cho, ont Ã©tÃ© plus ou
+moins universels. Les noms d'Aristote, Descartes, Leibniz, Kant,
+Diderot, suffisent Ã  l'Ã©tablir.
+
+Nous touchons maintenant aux joies de la _construction._ Nous tenterons
+de justifier par quelques exemples les prÃ©cÃ©dentes vues, et de montrer,
+dans son application, la possibilitÃ© et presque la nÃ©cessitÃ© d'un jeu
+gÃ©nÃ©ral de la pensÃ©e. Je voudrais que l'on vÃ®t avec quelle difficultÃ©
+les rÃ©sultats particuliers que j'effleurerai seraient obtenus, si des
+concepts en apparence Ã©trangers ne s'y employaient en nombre.
+
+*
+
+Celui que n'a jamais saisi--fÃ»t-ce en rÃªve!--le dessein d'une
+entreprise qu'il est le maÃ®tre d'abandonner, l'aventure d'une
+construction finie quand les autres voient qu'elle commence, et qui
+n'a pas connu l'enthousiasme brÃ»lant une minute de lui-mÃªme, le poison
+de la conception, le scrupule, la froideur des objections intÃ©rieures
+et cette lutte des pensÃ©es alternatives oÃ¹ la plus forte et la
+plus universelle devrait triompher mÃªme de l'habitude, mÃªme de la
+nouveautÃ©,--celui qui n'a pas regardÃ© dans la blancheur de son papier
+une image troublÃ©e par le possible, et par le regret de tous les signes
+qui ne seront pas choisis,--ni vu dans l'air limpide une bÃ¢tisse qui
+n'y est pas,--celui que n'ont pas hantÃ© le vertige de l'Ã©loignement
+d'un but, l'inquiÃ©tude des moyens, la prÃ©vision des lenteurs et des
+dÃ©sespoirs, le calcul des phases progressives, le raisonnement projetÃ©
+sur l'avenir, y dÃ©signant mÃªme ce qu'il ne faudra pas raisonner
+_alors_, celui-lÃ  ne connaÃ®t pas davantage, quel que soit d'ailleurs
+son savoir, la richesse et la ressource et l'Ã©tendue spirituelle
+qu'illumine le fait conscient de _construire._ Et les dieux ont reÃ§u
+de l'esprit humain le don de _crÃ©er_, parce que cet esprit Ã©tant
+pÃ©riodique et abstrait, peut agrandir ce qu'il conÃ§oit jusqu'Ã  ce qu'il
+ne le conÃ§oive plus.
+
+Construire existe entre un projet ou une vision dÃ©terminÃ©e, et les
+matÃ©riaux que l'on a choisis. On substitue un ordre Ã  un autre qui
+est initial, quels que soient les objets qu'on ordonne. Ce sont des
+pierres, des couleurs, des mots, des concepts, des hommes, etc., leur
+nature particuliÃ¨re ne change pas les conditions gÃ©nÃ©rales de cette
+sorte de musique oÃ¹ elle ne joue encore que le rÃ´le du timbre, si l'on
+poursuit la mÃ©taphore. L'Ã©tonnant est de ressentir parfois l'impression
+de justesse et de consistance dans les constructions humaines--faites
+de l'agglomÃ©ration d'objets apparemment irrÃ©ductibles--comme si
+celui qui les a disposÃ©es leur eÃ»t connu de secrÃ¨tes affinitÃ©s. Mais
+l'Ã©tonnement dÃ©passe tout, lorsqu'on s'aperÃ§oit que l'auteur, dans
+l'immense majoritÃ© des cas, est incapable de se rendre lui-mÃªme le
+compte des chemins suivis et qu'il est dÃ©tenteur d'un pouvoir dont il
+ignore les ressorts. Il ne peut jamais prÃ©tendre d'avance Ã  un succÃ¨s.
+Par quels calculs les parties d'un Ã©difice, les Ã©lÃ©ments d'un drame,
+les composantes d'une victoire, arrivent-ils Ã  se pouvoir comparer
+entre eux? Par quelle sÃ©rie d'analyses obscures la production d'une
+Åuvre est-elle amenÃ©e?
+
+En pareil cas, il est d'usage de se rÃ©fÃ©rer Ã  l'instinct pour
+Ã©claircir, mais ce qu'est l'instinct n'est pas trop Ã©clairci lui-mÃªme,
+et, d'ailleurs, il faudrait ici avoir recours Ã  des instincts
+rigoureusement exceptionnels et personnels, c'est-Ã -dire Ã  la notion
+contradictoire d'une Â«habitude hÃ©rÃ©ditaireÂ» qui ne serait pas plus
+habituelle qu'elle n'est hÃ©rÃ©ditaire.
+
+Construire, dÃ¨s que cet effort aboutit Ã  quelque comprÃ©hensible
+rÃ©sultat, doit faire songer Ã  une commune mesure des termes mis en
+Åuvre, un Ã©lÃ©ment ou un principe que suppose dÃ©jÃ  le fait simple
+de prendre conscience et qui peut n'avoir d'autre existence qu'une
+abstraite ou imaginaire. Nous ne pouvons nous reprÃ©senter un tout fait
+de changements, un tableau, un Ã©difice de qualitÃ©s multiples, que comme
+lieu des modalitÃ©s d'une seule _matiÃ¨re_ ou _loi_, dont la continuitÃ©
+cachÃ©e est affirmÃ©e par nous au mÃªme instant que nous reconnaissons
+pour un ensemble, pour domaine limitÃ© de notre investigation, cet
+Ã©difice. Voici encore ce postulat psychique de continuitÃ© qui ressemble
+dans notre connaissance au principe de l'inertie dans la mÃ©canique.
+Seules, les combinaisons purement abstraites, purement diffÃ©rentielles,
+telles que les numÃ©riques, peuvent se construire Ã  l'aide d'unitÃ©s
+dÃ©terminÃ©es; remarquons qu'elles sont dans le mÃªme rapport avec les
+autres constructions possibles que les portions rÃ©guliÃ¨res dans le
+monde avec celles qui ne le sont pas.
+
+*
+
+Il y a dans l'art un mot qui peut en nommer tous les modes, toutes les
+fantaisies et qui supprime d'un coup toutes les prÃ©tendues difficultÃ©s
+tenant Ã  son opposition ou Ã  son rapprochement avec cette nature,
+jamais dÃ©finie, et pour cause: c'est _ornement._ Qu'on veuille bien
+se rappeler successivement les groupes de courbes, les coÃ¯ncidences
+de divisions couvrant les plus antiques objets connus, les profils de
+vases et de temples; les carreaux, les spires, les oves, les stries des
+anciens; les cristallisations et les murs voluptueux des Arabes; les
+ossatures et les symÃ©tries gothiques; les ondes, les feux, les fleurs
+sur la laque et le bronze japonais; et dans chacune de ces Ã©poques,
+l'introduction des similitudes des plantes, des bÃªtes et des hommes,
+le perfectionnement de ces ressemblances: la peinture, la sculpture.
+Qu'on Ã©voque le langage et sa mÃ©lodie primitive, la sÃ©paration des
+paroles et de la musique, l'arborescence de chacune, l'invention des
+verbes, de l'Ã©criture, la complexitÃ© _figurÃ©e_ des phrases devenant
+possible, l'intervention si curieuse des mots abstraits; et, d'autre
+part, le systÃ¨me des sons s'assouplissant, s'Ã©tendant de la voix aux
+rÃ©sonances des matÃ©riaux, s'approfondissant par l'harmonie, se variant
+par l'usage des timbres. Enfin qu'on aperÃ§oive le parallÃ¨le progrÃ¨s des
+formations de la pensÃ©e Ã  travers les sortes d'onomatopÃ©es psychiques
+primitives, les symÃ©tries et les contrastes Ã©lÃ©mentaires, puis les
+idÃ©es de substance, les mÃ©taphores, les bÃ©gaiements de la logique, les
+formalismes et les entitÃ©s, les Ãªtres mÃ©taphysiques...
+
+Toute cette vitalitÃ© multiforme peut s'apprÃ©cier sous le rapport
+ornemental. Les manifestations Ã©numÃ©rÃ©es peuvent se considÃ©rer comme
+des portions finies d'espace ou de temps contenant diverses variations,
+qui sont parfois des objets caractÃ©risÃ©s et connus, mais dont la
+signification et l'usage ordinaire sont nÃ©gligÃ©s, pour que n'en
+subsistent que l'ordre et les rÃ©actions mutuelles. De cet ordre dÃ©pend
+l'effet. L'effet est le but ornemental, et l'Åuvre prend ainsi le
+caractÃ¨re d'un mÃ©canisme Ã  impressionner un public, Ã  faire surgir les
+Ã©motions et se rÃ©pondre les images.
+
+De ce point de vue, la conception ornementale est aux arts particuliers
+ce que la mathÃ©matique est aux autres sciences. De mÃªme que les notions
+physiques de temps, longueur, densitÃ©, masse, etc., ne sont dans les
+calculs que des quantitÃ©s homogÃ¨nes et ne retrouvent leur individualitÃ©
+que dans l'interprÃ©tation des rÃ©sultats, de mÃªme les objets choisis et
+ordonnÃ©s en vue d'un effet sont comme dÃ©tachÃ©s de la plupart de leurs
+propriÃ©tÃ©s et ne les reprennent que dans cet effet, dans l'esprit non
+prÃ©venu du spectateur. C'est donc par une abstraction que l'Åuvre d'art
+peut se construire, et cette abstraction est plus ou moins Ã©nergique,
+plus ou moins facile Ã  dÃ©finir, selon que les Ã©lÃ©ments empruntÃ©s Ã  la
+rÃ©alitÃ© en sont des portions plus ou moins complexes. Inversement,
+c'est par une sorte d'induction, par la production d'images mentales
+que toute Åuvre d'art s'apprÃ©cie; et cette production doit Ãªtre
+Ã©galement plus ou moins Ã©nergique, plus ou moins _fatigante_ selon
+qu'un simple entrelacs sur un vase ou une phrase brisÃ©e de Pascal la
+sollicite.
+
+*
+
+Le peintre dispose sur un plan des pÃ¢tes colorÃ©es dont les lignes de
+sÃ©paration, les Ã©paisseurs, les fusions et les heurts doivent lui
+servir Ã  s'exprimer. Le spectateur n'y voit qu'une image plus ou moins
+fidÃ¨le de chairs, de gestes, de paysages, comme par quelque fenÃªtre du
+mur du musÃ©e. Le tableau se juge dans le mÃªme esprit que la rÃ©alitÃ©.
+On se plaint de la laideur de la figure, d'autres en tombent amoureux;
+certains se livrent Ã  la psychologie la plus verbeuse; quelques-uns ne
+regardent que les mains qui leur paraissent toujours inachevÃ©es. Le
+fait est que, par une insensible exigence, le tableau doit reproduire
+les conditions physiques et naturelles de notre milieu. La pesanteur
+s'y exerce, la lumiÃ¨re s'y propage comme ici; et, graduellement, se
+placÃ¨rent au premier rang des connaissances picturales l'anatomie et
+la perspective: je crois cependant que la mÃ©thode la plus sÃ»re pour
+juger une peinture, c'est de n'y rien reconnaÃ®tre d'abord et de faire
+pas Ã  pas la sÃ©rie d'inductions que nÃ©cessite une prÃ©sence simultanÃ©e
+de taches colorÃ©es sur un champ limitÃ©, pour s'Ã©lever de mÃ©taphores
+en mÃ©taphores, de suppositions en suppositions Ã  l'intelligence du
+sujet--parfois Ã  la simple conscience du plaisir--qu'on n'a pas
+toujours eu d'avance.
+
+Je ne pense pas pouvoir donner un plus amusant exemple des
+dispositions gÃ©nÃ©rales h l'Ã©gard de la peinture que la cÃ©lÃ©britÃ© de
+ce Â«sourire de la JocondeÂ», auquel l'Ã©pithÃ¨te de mystÃ©rieux semble
+irrÃ©vocablement fixÃ©e. Ce pli de visage a eu la fortune de susciter
+la phrasÃ©ologie, que lÃ©gitiment, dans toutes les littÃ©ratures, les
+titres de Â«SensationsÂ» ou Â«ImpressionsÂ» d'art. Il est enseveli sous
+l'amas des vocables et disparaÃ®t parmi tant de paragraphes qui
+commencent Ã  le dÃ©clarer _troublant_ et finissent Ã  une description
+d'_Ã¢me_ gÃ©nÃ©ralement vague. Il mÃ©riterait cependant des Ã©tudes moins
+enivrantes. Ce n'est pas d'imprÃ©cises observations et de signes
+arbitraires que se servait LÃ©onard. La Joconde n'eÃ»t jamais Ã©tÃ© faite.
+Une sagacitÃ© perpÃ©tuelle le guidait.
+
+Au fond de la CÃ¨ne, il y a trois fenÃªtres. Celle du milieu, qui s'ouvre
+derriÃ¨re JÃ©sus, est distinguÃ©e des autres par une corniche en arc de
+cercle. Si l'on prolonge cette courbe, on obtient une circonfÃ©rence
+dont le centre est sur le Christ. Toutes les grandes lignes de la
+fresque aboutissent Ã  ce point; la symÃ©trie de l'ensemble est relative
+Ã  ce centre et Ã  la longue ligne de la table d'agape. Le mystÃ¨re, s'il
+y en a un, est celui de savoir comment nous jugeons mystÃ©rieuses de
+telles combinaisons; et celui-lÃ , je crains, peut Ãªtre Ã©clairci.
+
+Ce n'est pas dans la peinture, nÃ©anmoins, que nous choisirons l'exemple
+saisissant qu'il faut de la communication entre les diverses activitÃ©s
+de la pensÃ©e. La foule des suggestions Ã©manant du besoin de diversifier
+et de peupler une surface, la ressemblance des premiÃ¨res tentatives
+de cet ordre avec certaines ordinations naturelles, l'Ã©volution de la
+sensibilitÃ© rÃ©tinienne seront ici dÃ©laissÃ©es, de crainte d'entraÃ®ner le
+lecteur vers des spÃ©culations bien trop arides. Un art plus vaste et
+comme l'ancÃªtre de celui-ci, servira mieux nos intentions.
+
+*
+
+Le mot de _construction_ que j'ai employÃ© Ã  dessein--pour dÃ©signer
+plus fortement le problÃ¨me de l'intervention humaine dans les choses
+du monde, et pour donner Ã  l'esprit du lecteur une direction vers la
+logique du sujet, une suggestion matÃ©rielle--ce mot prend maintenant sa
+signification restreinte. L'architecture devient notre exemple.
+
+Le monument (qui compose la CitÃ©, laquelle est presque toute la
+civilisation) est un Ãªtre si complexe que notre connaissance y Ã©pÃ¨le
+successivement un dÃ©cor faisant partie du ciel et changeant, puis une
+richissime texture de motifs selon hauteur, largeur et profondeur,
+infiniment variÃ©s par les perspectives; puis une chose solide,
+rÃ©sistante, hardie, avec des caractÃ¨res d'animal: une subordination,
+une membrure, et, finalement, une machine dont la pesanteur est
+l'agent, qui conduit de notions gÃ©omÃ©triques Ã  des considÃ©rations
+dynamiques et jusqu'aux spÃ©culations les plus tÃ©nues de la physique
+molÃ©culaire dont il suggÃ¨re les thÃ©ories, les modÃ¨les reprÃ©sentatifs
+des structures. C'est Ã  travers le monument, ou plutÃ´t parmi ses
+Ã©chafaudages imaginaires faits pour accorder ses conditions entre
+elles--son appropriation avec sa stabilitÃ©, ses proportions avec sa
+situation, sa forme avec sa matiÃ¨re--et pour harmoniser chacune de
+ces conditions avec elle-mÃªme, ses millions d'aspects entre eux, ses
+Ã©quilibres entre eux, ses trois dimensions entre elles, que nous
+recomposons le mieux la clartÃ© une d'une intelligence lÃ©onardienne.
+Elle peut se jouer Ã  concevoir les sensations futures de l'homme qui
+fera le tour de l'Ã©difice, s'en rapprochera, paraÃ®tra Ã  une fenÃªtre,
+et ce qu'il apercevra; Ã  suivre le poids des faÃ®tes conduit le long
+des murs et des voussures jusqu'Ã  la fondation; Ã  sentir les efforts
+contrariÃ©s des charpentes, les vibrations du vent qui les obsÃ©dera; Ã 
+prÃ©voir les formes de la lumiÃ¨re libre sur les tuiles, les corniches,
+et diffuse, encagÃ©e dans les salles que le soleil touche aux planchers.
+Elle Ã©prouvera et jugera le faix du linteau sur les supports,
+l'opportunitÃ© de l'arc, les difficultÃ©s des voÃ»tes, les cascades
+d'escaliers vomis de leurs perrons, et toute l'invention qui se termine
+en une masse durable, ornÃ©e, dÃ©fendue, mouillÃ©e de vitres, faite pour
+nos vies, pour contenir nos paroles et d'oÃ¹ fuient nos fumÃ©es.
+
+CommunÃ©ment, l'architecture est mÃ©connue. L'opinion qu'on en a varie du
+dÃ©cor de thÃ©Ã¢tre Ã  la maison de rapport. Je prie qu'on se rapporte Ã 
+la notion de la CitÃ© pour en apprÃ©cier la gÃ©nÃ©ralitÃ©, et qu'on veuille
+bien, pour en connaÃ®tre le charme complexe, se rappeler l'infinitÃ© de
+ses aspects: l'immobilitÃ© d'un Ã©difice est l'exception; le plaisir est
+de se dÃ©placer jusqu'Ã  le mouvoir et Ã  jouir de toutes les combinaisons
+que donnent ses membres, qui varient: la colonne tourne, les
+profondeurs dÃ©rivent, des galeries glissent, mille visions s'Ã©vadent du
+monument, mille accords.
+
+(Maint projet d'une Ã©glise, jamais rÃ©alisÃ©e, se rencontre dans les
+manuscrits de LÃ©onard. On y devine gÃ©nÃ©ralement un Saint-Pierre de
+Rome, que fait regretter celui de Michel-Ange. LÃ©onard, Ã  la fin de la
+pÃ©riode ogivale et au milieu de l'exhumation des antiques, retrouve,
+entre ces deux types, le grand dessein des Byzantins: l'Ã©lÃ©vation
+d'une coupole sur des coupoles, les gonflements superposÃ©s de dÃ´mes
+foisonnant autour du plus haut, mais avec une hardiesse et une pure
+ornementation que les architectes de Justinien n'ont jamais connues.)
+
+L'Ãªtre de pierre existe dans l'espace: ce qu'on appelle espace est
+relatif Ã  la conception de tels Ã©difices qu'on voudra; l'Ã©difice
+architectural interprÃ¨te l'espace et conduit Ã  des hypothÃ¨ses sur
+sa nature, d'une maniÃ¨re toute particuliÃ¨re, car il est Ã  la fois
+un Ã©quilibre de matÃ©riaux par rapport Ã  la gravitation, un ensemble
+statique visible et, dans chacun de ces matÃ©riaux, un autre Ã©quilibre,
+molÃ©culaire et mal connu. Celui qui compose un monument se reprÃ©sente
+d'abord la pesanteur et pÃ©nÃ¨tre aussitÃ´t aprÃ¨s dans l'obscur royaume
+atomique. Il se heurte au problÃ¨me de la structure: savoir quelles
+combinaisons doivent s'imaginer pour satisfaire aux conditions de
+rÃ©sistance, d'Ã©lasticitÃ©, etc., s'exerÃ§ant dans un espace donnÃ©. On
+voit quel est l'Ã©largissement logique de la question, et comment, du
+domaine architectural, si gÃ©nÃ©ralement abandonnÃ© aux praticiens, l'on
+passe aux plus profondes thÃ©ories de physique gÃ©nÃ©rale et de mÃ©canique.
+
+GrÃ¢ce Ã  la docilitÃ© de l'imagination, les propriÃ©tÃ©s d'un Ã©difice et
+celles intimes d'une substance quelconque s'Ã©clairent mutuellement.
+L'espace, dÃ¨s que nous voulons nous le figurer, cesse aussitÃ´t d'Ãªtre
+vide, se remplit d'une foule de constructions arbitraires et peut,
+dans tous les cas, se remplacer par la juxtaposition de figures
+qu'on sait rendre aussi petites qu'il est nÃ©cessaire. Un Ã©difice, si
+complexe qu'on pourra le concevoir, multipliÃ© et proportionnellement
+rapetissÃ©, reprÃ©sentera l'Ã©lÃ©ment d'un milieu dont les propriÃ©tÃ©s
+dÃ©pendront de celles de cet Ã©lÃ©ment. Nous nous trouvons ainsi pris et
+nous dÃ©plaÃ§ant dans une quantitÃ© de structures. Qu'on remarque autour
+de soi de quelles faÃ§ons diffÃ©rentes l'espace est occupÃ©, c'est-Ã -dire
+formÃ©, concevable, et qu'on fasse un effort vers les conditions
+qu'impliquent, pour Ãªtre perÃ§ues, avec leurs qualitÃ©s particuliÃ¨res,
+les choses diverses, une Ã©toffe, un minÃ©ral, un liquide, une fumÃ©e,
+on ne s'en donnera une idÃ©e nette qu'en grossissant une particule
+de ces textures et en y intercalant un Ã©difice tel que sa simple
+multiplication reproduise une structure ayant les mÃªmes propriÃ©tÃ©s que
+celle considÃ©rÃ©e... A l'aide de ces conceptions, nous pouvons circuler
+sans discontinuitÃ© Ã  travers les domaines apparemment si distincts de
+l'artiste et du savant, de la construction la plus poÃ©tique et mÃªme la
+plus fantastique jusqu'Ã  celle tangible et pondÃ©rable. Les problÃ¨mes de
+la composition sont rÃ©ciproques des problÃ¨mes de l'analyse; et c'est
+une conquÃªte _psychologique_ de notre temps que l'abandon de concepts
+trop simples au sujet de la constitution de la matiÃ¨re, non moins que
+de la formation des idÃ©es. Les rÃªveries substantialistes autant que les
+explications dogmatiques disparaissent, et la science de former des
+hypothÃ¨ses, des noms, des modÃ¨les, se libÃ¨re des thÃ©ories prÃ©conÃ§ues et
+de l'idole de la simplicitÃ©.
+
+Je viens d'indiquer, avec une briÃ¨vetÃ© dont le lecteur diffÃ©rent me
+saura grÃ© ou m'excusera, une Ã©volution qui me paraÃ®t considÃ©rable. Je
+ne saurais mieux l'exemplifier qu'en prenant dans les Ã©crits de LÃ©onard
+lui-mÃªme une phrase dont on dirait que chaque terme s'est compliquÃ© et
+purifiÃ© jusqu'Ã  ce qu'elle soit devenue une notion fondamentale de la
+connaissance moderne du monde: Â«L'air, dit-il, est rempli d'infinies
+lignes droites et rayonnantes, entrecroisÃ©es et tissues sans que l'une
+emprunte jamais le parcours d'une autre, et elles reprÃ©sentent pour
+chaque objet la vraie forme de leur raison (de leur explication).Â»
+_L'aria e piena d'infinite linie rette e radiose insieme intersegate
+e intessute sanza ochupatione luna dellaltra rapresantano aqualunche
+obietto laurea forma della lor chagione_ (Man. A, fol. 2). Cette
+phrase paraÃ®t contenir le premier germe de la thÃ©orie des ondulations
+lumineuses, surtout si on la rapproche de quelques autres sur le
+mÃªme sujet[10]. Elle donne l'image du squelette d'un systÃ¨me d'ondes
+dont toutes ces lignes seraient les directions de propagation. Mais
+je ne tiens guÃ¨re Ã  ces sortes de prophÃ©ties scientifiques, toujours
+suspectes; trop de gens pensent que les anciens avaient tout inventÃ©.
+Du reste, une thÃ©orie ne vaut que par ses dÃ©veloppements logiques
+et expÃ©rimentaux. Nous ne possÃ©dons ici que quelques _affirmations_
+dont l'origine intuitive est l'observation des rayons, celles des
+ondes de l'eau et du son. L'intÃ©rÃªt de la citation est dans sa forme,
+qui nous donne une clartÃ© authentique sur une mÃ©thode, la mÃªme dont
+j'ai parlÃ© tout le long de cette Ã©tude. Ici, l'explication ne revÃªt
+pas _encore_ le caractÃ¨re d'une mesure. Elle ne consiste que dans
+l'Ã©mission d'une image, d'une relation mentale concrÃ¨te entre des
+phÃ©nomÃ¨nes,--disons, pour Ãªtre rigoureux,--entre les images des
+phÃ©nomÃ¨nes. LÃ©onard semble avoir eu la conscience de cette sorte
+d'expÃ©rimentation psychique, et il me paraÃ®t que, pendant trois siÃ¨cles
+aprÃ¨s sa mort, cette mÃ©thode n'a Ã©tÃ© reconnue par personne, tout le
+monde s'en servant,--nÃ©cessairement. Je crois Ã©galement,--peut-Ãªtre
+est-ce beaucoup s'avancer!--que la fameuse et sÃ©culaire question du
+plein et du vide peut se rattacher Ã  la conscience ou Ã  l'inconscience
+de cette logique _imaginative._ Une action Ã  distance est une chose
+inimaginable. C'est par une abstraction que nous la dÃ©terminons.
+Dans notre esprit, une abstraction seule _potest facere saltus._
+Newton lui-mÃªme, qui a donnÃ© leur forme analytique aux actions Ã 
+distance, connaissait leur insuffisance explicative. Mais il Ã©tait
+rÃ©servÃ© Ã  Faraday de retrouver dans la science physique la mÃ©thode
+de LÃ©onard. AprÃ¨s les glorieux travaux mathÃ©matiques des Lagrange,
+des d'Alembert, des Laplace, des AmpÃ¨re et de bien d'autres, il
+apporta des conceptions d'une hardiesse admirable, qui ne furent
+littÃ©ralement que le prolongement, par son imagination, des phÃ©nomÃ¨nes
+observÃ©s; et son imagination Ã©tait si remarquablement lucide Â«que
+ses idÃ©es pouvaient s'exprimer sous la forme mathÃ©matique ordinaire
+et se comparer Ã  celle des mathÃ©maticiens de profession[11]Â». Les
+_combinaisons rÃ©guliÃ¨res_ que forme la limaille autour des pÃ´les de
+l'aimant furent, dans son esprit, les modÃ¨les de la transmission des
+anciennes actions Ã  distance. Lui aussi _voyait_ des systÃ¨mes de lignes
+unissant tous les corps, remplissant tout l'espace, pour _expliquer_
+les phÃ©nomÃ¨nes Ã©lectriques et mÃªme la gravitation; ces lignes de force,
+nous les apprÃ©cions ici comme celles de la moindre rÃ©sistance de
+comprÃ©hension! Faraday n'Ã©tait pas mathÃ©maticien, mais il ne diffÃ©rait
+des mathÃ©maticiens que par l'expression de sa pensÃ©e, par l'absence des
+symboles de l'analyse. Â«Faraday voyait, par les yeux de son esprit,
+des lignes de force traversant tout l'espace oÃ¹ les mathÃ©maticiens
+voyaient des centres de force s'attirant Ã  distance; Faraday voyait un
+milieu oÃ¹ ils ne voyaient que la distance[12]Â». Une nouvelle pÃ©riode
+s'ouvrit pour la science physique Ã  la suite de Faraday; et quand
+J. Clerk Maxwell eut traduit dans le langage mathÃ©matique les idÃ©es
+de son maÃ®tre, les imaginations scientifiques s'emplirent de telles
+visions dominantes. L'Ã©tude du milieu qu'il avait formÃ©, siÃ¨ge des
+actions Ã©lectriques et lieu des relations intermolÃ©culaires, demeure
+la principale occupation de la physique moderne. La prÃ©cision de plus
+en plus grande demandÃ©e Ã  la figuration des modes de l'Ã©nergie, la
+volontÃ© de _voir_, et ce qu'on pourrait appeler la manie cinÃ©tique,
+ont fait apparaÃ®tre des constructions hypothÃ©tiques d'un intÃ©rÃªt
+logique et psychologique immense. Pour lord Kelvin, par exemple, le
+besoin d'exprimer les plus subtiles actions naturelles par une liaison
+mentale, poussÃ©e jusqu'Ã  pouvoir se rÃ©aliser matÃ©riellement, est si vif
+que toute explication lui paraÃ®t devoir aboutir Ã  un modÃ¨le mÃ©canique.
+Un tel esprit substitue Ã  l'atome inerte, ponctuel, et dÃ©modÃ© de
+Boscovitch et des physiciens du commencement de ce siÃ¨cle, un mÃ©canisme
+dÃ©jÃ  extraordinairement complexe, pris dans la trame de l'Ã©ther, qui
+devient lui-mÃªme une construction assez perfectionnÃ©e pour satisfaire
+aux trÃ¨s diverses conditions qu'elle doit remplir. Cet esprit ne fait
+aucun effort pour passer de l'architecture cristalline Ã  celle de
+pierre ou de fer; il retrouve dans nos viaducs, dans les symÃ©tries des
+trabes et des entretoises, les symÃ©tries de rÃ©sistance que les gypses
+et les quartz offrent Ã  la compression, au clivage,--ou, diffÃ©remment,
+au trajet de l'onde lumineuse.
+
+De tels hommes nous paraissent avoir eu l'intuition des mÃ©thodes que
+nous avons indiquÃ©es; nous nous permettons mÃªme d'Ã©tendre ces mÃ©thodes
+au delÃ  de la science physique; nous croyons qu'il ne serait ni
+absurde ni tout Ã  fait impossible de vouloir se crÃ©er un modÃ¨le de la
+continuitÃ© des opÃ©rations intellectuelles d'un LÃ©onard de Vinci ou de
+tout autre esprit dÃ©terminÃ© par l'analyse des conditions Ã  remplir...
+
+*
+
+Les artistes et les amoureux d'art qui auraient feuilletÃ© ceci dans
+l'espoir d'y retrouver quelques-unes des impressions obtenues au
+Louvre, Ã  Florence ou Ã  Milan, devront me pardonner la dÃ©ception
+prÃ©sente. NÃ©anmoins, je ne crois pas m'Ãªtre trop Ã©loignÃ© de leur
+occupation favorite, malgrÃ© l'apparence. Je pense, au contraire,
+avoir effleurÃ© le problÃ¨me, capital pour eux, de la composition. J'en
+Ã©tonnerai, sans doute, plusieurs en disant que de telles difficultÃ©s
+relatives Ã  l'effet sont gÃ©nÃ©ralement abordÃ©es et rÃ©solues Ã  l'aide
+de notions et de mots extraordinairements obscurs et entraÃ®nant
+mille embarras. Plus d'un passe son temps Ã  changer sa dÃ©finition du
+_beau_, de la _vie_ ou du _mystÃ¨re._ Dix minutes de simple attention Ã 
+soi-mÃªme doivent suffire pour faire justice de ces _idola specus_ et
+pour reconnaÃ®tre l'inconsistance de l'accouplement d'un nom abstrait,
+toujours vide, Ã  une vision toujours personnelle et rigoureusement
+personnelle. De mÃªme, la plupart des dÃ©sespoirs d'artistes se fondent
+sur la difficultÃ© ou l'impossibilitÃ© de _rendre_ par les moyens de
+leur art une image qui leur semble se dÃ©colorer et se faner en la
+captant dans une phrase, sur une toile ou sur une portÃ©e. Quelques
+autres minutes de _conscience_ peuvent se dÃ©penser Ã  constater qu'il
+est illusoire de vouloir produire dans l'esprit d'autrui les fantaisies
+du sien propre. Ce projet est mÃªme Ã  peu prÃ¨s inintelligible. Ce qu'on
+appelle une _rÃ©alisation_ est un vÃ©ritable problÃ¨me de rendement
+dans lequel n'entre Ã  aucun degrÃ© le sens particulier, la clef que
+chaque auteur attribue Ã  ses matÃ©riaux, mais seulement la nature
+de ces matÃ©riaux et l'esprit du public. Edgar Poe qui fut, dans ce
+siÃ¨cle littÃ©raire troublÃ©, l'Ã©clair mÃªme de la confusion et de l'orage
+poÃ©tique et de qui l'analyse s'achÃ¨ve parfois, comme celle de LÃ©onard,
+en sourires mystÃ©rieux, a Ã©tabli clairement sur la psychologie, sur la
+probabilitÃ© des effets, l'attaque de son lecteur. De ce point de vue,
+tout dÃ©placement d'Ã©lÃ©ments fait pour Ãªtre aperÃ§u et jugÃ© dÃ©pend de
+quelques lois gÃ©nÃ©rales et d'une appropriation particuliÃ¨re, dÃ©finie
+d'avance pour une catÃ©gorie prÃ©vue d'esprits auxquels il s'adressent
+spÃ©cialement; et l'Åuvre d'art devient une machine destinÃ©e Ã  exciter
+et Ã  combiner les formations individuelles de ces esprits. Je devine
+l'indignation qu'une telle suggestion, tout Ã  fait Ã©loignÃ©e du sublime
+ordinaire, peut susciter; mais l'indignation elle-mÃªme sera une bonne
+preuve de ce que j'avance--sans, d'ailleurs, que ceci soit en rien une
+Åuvre d'art.
+
+
+Je vois LÃ©onard de Vinci approfondir cette mÃ©canique, qu'il appelait le
+paradis des sciences, avec la mÃªme puissance naturelle qu'il s'adonnait
+Ã  l'invention de visages purs et fumeux. Et la mÃªme Ã©tendue lumineuse
+avec ses dociles Ãªtres possibles est le lieu de ces actions qui se
+ralentirent en Åuvres distinctes. Lui n'y trouvait pas des passions
+diffÃ©rentes: Ã  la derniÃ¨re page du mince cahier, tout mangÃ© de son
+Ã©criture secrÃ¨te et des calculs aventureux oÃ¹ tÃ¢tonne sa recherche la
+prÃ©fÃ©rÃ©e, l'aviation, il s'Ã©crie,--foudroyant son labeur imparfait,
+illuminant sa patience et les obstacles par l'apparition d'une
+suprÃªme vue spirituelle, obstinÃ©e certitude: Â«Le grand oiseau prendra
+son premier vol montÃ© sur un grand cygne; et remplissant l'univers
+de stupeur, remplissant de sa gloire toutes les Ã©critures, louange
+Ã©ternelle au nid oÃ¹ il naquit!Â»--Â«PiglierÃ  il primo volo il grande
+uccello sopra del dosso del suo magnio cecero e empiendo l'universo di
+stupore, empiendo di sue fama lutte le scritture e grogria eterna al
+nido dove nacque.Â»
+
+
+
+[1] _Hostinato rigore_; obstinÃ©e rigueur. Devise de L. de Vinci.
+
+[2] L'importance philosophique de ce raisonnement a Ã©tÃ©, pour la
+premiÃ¨re fois, mise en Ã©vidence par M. PoincarÃ© dans un article rÃ©cent.
+
+[3] Voir dans le _TraitÃ© de la peinture_, la proposition CCLXXl.
+Â«_Impossibile che una memoria possa riserbare tutti gli aspetti o
+mutationi d'alcun membro di qualunque animal si sia... E perche ogni
+quantitÃ  continua Ã¨ divisibile in infinito..._Â» il est impossible
+qu'une mÃ©moire puisse retenir tous les aspects d'aucun membre de
+n'importe quel animal. DÃ©monstration gÃ©omÃ©trique par la divisibilitÃ© Ã 
+l'infini d'une grandeur continue.
+
+Ce que j'ai dit de la vue s'Ã©tend aux autres sens. Je l'ai choisie
+parce qu elle me paraÃ®t le plus _spirituel_ de tous. Dans l'esprit,
+les images visuelles prÃ©dominent. C'est entre elles que s'exerce le
+plus souvent la facultÃ© analogique. Le terme infÃ©rieur de cette facultÃ©
+qui est la comparaison de deux objets peut mÃªme recevoir pour origine
+une erreur de jugement accompagnant une sensation peu distincte. La
+forme et la couleur d'un objet sont si Ã©videmment principales qu'elles
+entrent dans la conception d'une qualitÃ© de cet objet se rÃ©fÃ©rant Ã  un
+autre sens. Si l'on parle de la duretÃ© du fer, presque toujours l'image
+visuelle du fer sera produite et rarement une image auditive.
+
+[4] Sans toucher les questions physiologiques, je mentionne le cas d'un
+individu atteint de manie dÃ©pressive que j'ai vu dans une clinique.
+Ce malade, qui Ã©tait dans l'Ã©tat de _vie ralentie_, reconnaissait les
+objets avec une lenteur extraordinaire. Les sensations lui parvenaient
+au bout d'un temps considÃ©rable. Aucun besoin ne se faisait sentir
+en lui. Cette forme, qui prend parfois le nom de manie stupide, est
+excessivement rare.
+
+[5] Edgar Poe, _sur Shakespeare_ (Marginalia).
+
+[6] Si l'on Ã©claircit pourquoi l'identification Ã  un objet matÃ©riel
+_paraÃ®t_ plus absurde que celle Ã  un objet vivant, on aura fait un pas
+dans la question.
+
+[7] Ce mot n'est pas ici au sens des mathÃ©maticiens. Il ne s'agit pas
+d'insÃ©rer dans un _intervalle_ un infini dÃ©nombrable et un infini
+indÃ©nombrable de valeurs; il ne s'agit que de l'intuition naÃ¯ve,
+d'objets qui font penser Ã  des lois, des lois qui parlent aux yeux.
+L'existence ou la possibilitÃ© de choses semblables est le premier
+_fait_, non le moins Ã©tonnant, de cet ordre.
+
+[8] Voir la description d'une bataille, du dÃ©luge, etc., au
+_TraitÃ© de la peinture_ et dans les manuscrits de l'Institut. (Ed.
+Ravaisson-Mollien.) Aux manuscrits de Windsor se voient les dessins des
+tempÃªtes, bombardements, etc.
+
+[9] Croquis dans les manuscrits de l'Institut.
+
+[10] Voir le manuscrit A, _Siccome la pietra gittata nell'acqua..._,
+etc.; voir aussi la curieuse et vivante _Histoire des Sciences
+mathÃ©matiques_, par G. Libri, et l'_Essai sur les ouvrages
+mathÃ©matiques_ de LÃ©onard, par J.-B. Venturi. Paris, an V (1797).
+
+[11] Clerk Maxwell, prÃ©face au _TraitÃ© d'Ã©lectricitÃ© et de magnÃ©tisme_,
+trad. Seligmann-Lui.
+
+[12] Clerk Maxwell, prÃ©face au _TraitÃ© d'Ã©lectricitÃ© et de magnÃ©tisme_,
+trad. Seligmann-Lui.
+
+
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Introduction Ã  la mÃ©thode de LÃ©on
+rd de Vinci, by Paul ValÃ©ry
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA MÃTHODE DE LÃONARD DE VINCI ***
+
+***** This file should be named 57547-0.txt or 57547-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/7/5/4/57547/
+
+Produced by Laura Natal Rodriguez & Marc D'Hooghe at Free
+Literature (Images generously made available by the Internet
+Archive.)
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

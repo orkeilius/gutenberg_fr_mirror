@@ -1,3 +1,3495 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5a595f0e6a45f9fbd611f685cc77cda93417905dc6b325dcc34fa6985532bea
-size 161148
+Project Gutenberg's Le songe d'une nuit d'�t�, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Le songe d'une nuit d'�t�
+
+Author: William Shakespeare
+
+Translator: Fran�ois Pierre Guillaume Guizot
+
+Release Date: March 5, 2006 [EBook #17930]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LE SONGE D'UNE NUIT D'�T� ***
+
+
+
+
+Produced by Paul Murray, Renald Levesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+
+
+
+  Note du transcripteur.
+
+    ======================================================================
+    Ce document est tir� de:
+
+
+    OEUVRES COMPL�TES DE
+    SHAKSPEARE
+
+    TRADUCTION DE
+    M. GUIZOT
+
+    NOUVELLE �DITION ENTI�REMENT REVUE
+    AVEC UNE �TUDE SUR SHAKSPEARE
+    DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+    Volume 3
+    Timon d'Ath�nes
+    Le Jour des Rois.--Les deux gentilshommes de V�rone.
+    Rom�o et Juliette.--Le Songe d'une nuit d'�t�.
+    Tout est bien qui finit bien.
+
+    PARIS
+    A LA LIBRAIRIE ACAD�MIQUE
+    DIDIER ET Cie, LIBRAIRES-�DITEURS
+    35, QUAI DES AUGUSTINS
+    1864
+
+
+    ======================================================================
+
+                              LE SONGE
+                          D'UNE NUIT D'�T�
+
+                              COM�DIE
+
+
+
+
+                              NOTICE
+                   SUR LE SONGE D'UNE NUIT D'�T�
+
+
+Le _Songe d'une nuit d'�t�_ peut �tre regard� comme le pendant de la
+_Temp�te_. C'est encore ici une pi�ce de f�erie, o� l'imagination semble
+avoir �t� le seul guide de Shakspeare. Aussi, pour la juger, faut-il ne
+pas oublier son titre et se livrer au caprice du po�te, qui a d� sentir
+lui-m�me tout ce qu'aurait de choquant pour un esprit m�thodique et
+froid le m�lange bizarre de la mythologie ancienne et de la mythologie
+moderne, le transport rapide du spectateur d'un monde r�el dans un
+monde fantastique, et de celui-ci dans l'autre. La _Vie de Th�s�e_, dans
+Plutarque, et deux contes de Chaucer, ont peut-�tre fourni � Shakspeare
+quelques traits de son ouvrage, mais l'imitation y est tr�s-difficile �
+reconna�tre.
+
+On pr�f�re g�n�ralement la _Temp�te_ au _Songe d'une nuit d'�t�_. Le
+seul Schlegel semble pencher pour cette derni�re pi�ce; Hazzlitt n'est
+point de son avis, mais il ajoute que si la _Temp�te_ est une meilleure
+pi�ce, le _Songe_ est un po�me sup�rieur � la _Temp�te_. On trouve,
+en effet, dans le _Songe_, une foule de d�tails et de descriptions
+remarquables par le charme des vers, la richesse et la fra�cheur des
+images: �La lecture de cette pi�ce, dit Hazzlitt, ressemble � une
+promenade dans un bosquet, � la clart� de la lune.�
+
+Mais est-il rien de plus po�tique que le caract�re de Miranda et la
+puret� de ses amours avec Ferdinand? Ariel aussi l'emporte de beaucoup
+sur Puck, qui est l'Ariel du _Songe d'une nuit d'�t�_, mais qui en
+diff�re essentiellement par son caract�re, quoique ces deux personnages
+a�riens aient entre eux tant de ressemblance par leurs fonctions et les
+situations o� ils se trouvent. Ariel, dit encore le critique que nous
+avons cit� tout � l'heure, Ariel est un ministre de vengeance qui est
+touch� de piti� pour ceux qu'il punit; Puck est un esprit �tourdi, plein
+de l�g�ret� et de malice, qui rit de ceux qu'il �gare: �Que ces mortels
+sont fous!� Ariel fend l'air et ex�cute sa mission avec le z�le d'un
+messager ail�; Puck est port� par la brise comme le duvet brillant des
+plantes.
+
+Prosp�ro et tous ses esprits sont des moralistes; mais avec Ob�ron et
+ses f�es nous sommes lanc�s dans le royaume des papillons.
+
+Il est �tonnant que Shakspeare soit consid�r� non-seulement par les
+�trangers, mais par plusieurs des critiques de sa nation, comme un
+�crivain sombre et terrible qui ne peignit que des gorgones, des hydres
+et d'effrayantes chim�res. Il surpasse tous les �crivains dramatiques
+par la finesse et la subtilit� de son esprit; tellement qu'un c�l�bre
+personnage de nos jours disait qu'il le regardait plut�t comme un
+m�taphysicien que comme un po�te.
+
+Il para�t que, dans cette pi�ce, Shakspeare avait pour but de faire la
+caricature d'une troupe de com�diens rivale de la sienne, et peut-�tre
+de tous ces artistes amateurs chez qui le go�t du th��tre est une
+passion souvent ridicule.
+
+Le caract�re de Bottom est un des plus comiques de Shakspeare; Hazzlitt
+l'appelle le plus romanesque des artisans, et observe � son sujet ce
+qu'on a dit plusieurs fois, c'est que les caract�res de Shakspeare sont
+toujours fond�s sur les principes d'une physiologie profonde. Bottom,
+qui exerce un �tat s�dentaire, est repr�sent� comme suffisant, s�rieux
+et fantasque. Il est pr�t � tout entreprendre, comme si tout lui �tait
+aussi facile que le maniement de sa navette. Il jouera, si on veut, le
+tyran, l'amant, la dame, le lion, etc., etc.
+
+Snug, le menuisier, est le philosophe de la pi�ce; il proc�de en toute
+chose avec mesure et prudence. Vous croyez le voir, son �querre et son
+compas � la main: �Avez-vous par �crit le r�le du lion? si vous l'avez,
+donnez-le moi, je vous prie, car j'ai la m�moire paresseuse.--Vous
+pouvez l'improviser, dit Quince, car il ne s'agit que de rugir.�
+
+Starveling, le tailleur, est pour la paix, et ne veut pas de lion ni de
+glaive hors du fourreau: �Je crois que nous ferons bien de laisser la
+tuerie quand tout sera fini.�
+
+Starveling cependant ne propose pas ses objections lui-m�me, mais il
+appuie celles des autres, comme s'il n'avait pas le courage d'exprimer
+ses craintes sans �tre soutenu et excit� � le faire. Ce serait aller
+trop loin que de supposer que toutes ces diff�rences caract�ristiques
+sont faites avec intention, mais heureusement elles existent dans les
+cr�ations de Shakspeare comme dans la nature.
+
+Les caract�res dramatiques et les caract�res grotesques sont plac�s
+par lui dans le m�me tableau avec d'autant plus d'art que l'art
+ne s'aper�oit nullement. Oberon, Titania, Puck, et tous les �tres
+impalpables de Shakspeare, sont aussi vrais dans leur nature fantastique
+que les personnages dont la vie r�elle a fourni le mod�le au po�te.
+
+Suivant Malone, le _Songe d'une nuit d'�t�_ aurait �t� compos� en 1592:
+c'est une des pi�ces de la jeunesse de Shakspeare; aussi a-t-elle toute
+la fra�cheur et le coloris d'un tableau de cet �ge des r�ves po�tiques.
+
+
+
+                       LE SONGE D'UNE NUIT D'�T�
+
+                                COM�DIE
+
+PERSONNAGES
+
+
+  TH�SEE, duc d'Ath�nes.
+  �G�E, p�re d'Hermia.
+  LYSANDRE, }
+  DEMETRIUS,} amoureux d'Hermia.
+  PHILOSTRATE, ordonnateur des f�tes de Th�s�e.
+  QUINCE, charpentier.
+  BOTTOM, tisserand.
+  FLUTE, marchand de soufflets.
+  SNOUT, chaudronnier.
+  STARVELING, tailleur.
+  HIPPOLYTE, reine des Amazones, fianc�e � Th�s�e.
+  HERMIA, fille d'�g�e, amoureuse de Lysandre.
+  H�L�NE, amoureuse de D�m�trius.
+  OBERON, roi des f�es,   }
+  TITANIA, reine des f�es,} [1]
+  PUCK, ou ROBIN BON DIABLE, lutin.
+  FLEUR-DE-POIS (Pea's-Blossom),}
+  TOILE D'ARAIGN�E (Cobweb),    } f�es.
+  PAPILLON (Moth),              }
+  GRAIN DE MOUTARDE (Mustard-Seed),}
+  PYRAME,                          }
+  THISBE,                          }
+  LA MURAILLE,                     }
+  LE CLAIR DE LUNE,                } personnages de l'interm�de.
+  LE LION,                         }
+  F�ES DE LA SUITE DU ROI ET DE LA REINE.
+  SUITE DE TH�S�E ET D'HIPPOLYTE.
+
+La sc�ne est dans Ath�nes et dans un bois voisin.
+
+
+
+
+ACTE PREMIER
+
+
+SC�NE I
+
+La sc�ne repr�sente un appartement du palais de Th�s�e, dans Ath�nes.
+
+TH�S�E, HIPPOLYTE, PHILOSTRATE, _suite_.
+
+
+TH�S�E.--Belle Hippolyte, l'heure de notre hymen s'avance � grands pas:
+quatre jours fortun�s am�neront une lune nouvelle; mais que l'ancienne
+me semble lente � d�cro�tre! Elle retarde l'objet de mes d�sirs, comme
+une mar�tre, ou une douairi�re, qui puise longtemps dans les revenus du
+jeune h�ritier.
+
+[Note 1: Les personnages d'Oberon et de Titania �taient connus
+avant Shakspeare, mais ils sont devenus, dans la pi�ce, des personnages
+originaux. Shakspeare est pour la mythologie des f�es, en Angleterre, ce
+qu'�tait Hom�re pour celle de l'Olympe.
+
+Peut-�tre Chaucer aurait-il droit de partager cette gloire avec lui,
+mais ce po�te est oubli� m�me de ses compatriotes, � cause de la v�tust�
+de son langage.
+
+Titania �tait aussi appel�e la reine _Mab_; et _Puck_ ou _Hobgoblin_,
+connu encore de nos jours dans les trois royaumes sous le nom de _Robin
+good fellow_ �tait le serviteur sp�cialement attach� � Oberon, et charg�
+de d�couvrir les intrigues de la reine. On pr�tend que _Puck_ est un
+vieux mot gothique qui veut dire Satan. Cet esprit est regard� comme
+tr�s-malicieux et enclin � troubler les m�nages. Si l'on n'avait pas
+soin de laisser une tasse de cr�me ou de lait caill� pour Robin, le
+lendemain le potage �tait br�l�, le beurre ne pouvait pas prendre, etc.,
+etc. C'�tait sa r�compense pour la peine qu'il prenait de balayer la
+maison � minuit et de moudre la moutarde.]
+
+HIPPOLYTE.--Quatre jours seront bient�t engloutis dans la nuit, et
+quatre nuits auront bient�t fait couler le temps comme un songe; et
+alors la lune, comme un arc d'argent nouvellement tendu dans les cieux,
+�clairera la nuit de nos noces.
+
+TH�S�E.--Allez, Philostrate; excitez la jeunesse ath�nienne � se
+divertir; r�veillez les esprits vifs et l�gers de la joie; renvoyez
+aux fun�railles la m�lancolie: cette p�le compagne n'est pas faite pour
+notre f�te. (_Philostrate sort_.) Hippolyte[2], je t'ai fait la cour
+l'�p�e � la main, j'ai conquis ton coeur par les rigueurs de la guerre;
+mais je veux t'�pouser sous d'autres auspices, au milieu de la pompe,
+des triomphes et des f�tes.
+
+[Note 2: Allusion � la victoire de Th�s�e sur les Amazones.
+Hippolyte, que d'autres appellent Antiope, avait �t� emmen�e captive par
+le vainqueur.]
+
+(Entrent �g�e, Hermia, Lysandre et D�m�trius.)
+
+�G�E.--Soyez heureux, Th�s�e, notre illustre duc!
+
+TH�S�E.--Je vous rends gr�ces, bon �g�e: quelles nouvelles nous
+annoncez-vous?
+
+�G�E.--Je viens, le coeur plein d'angoisses, me plaindre de mon enfant,
+de ma fille Hermia.--Avancez, D�m�trius.--Mon noble prince, ce jeune
+homme a mon consentement pour l'�pouser.--Avancez, Lysandre. Et
+celui-ci, mon gracieux duc, a ensorcel� le coeur de mon enfant. C'est
+toi, c'est toi, Lysandre, qui lui as donn� des vers et qui as �chang�
+avec ma fille des gages d'amour. Tu as, � la clart� de la lune, chant�
+sous sa fen�tre, avec une voix trompeuse, des vers d'un amour trompeur:
+tu as surpris son imagination avec des bracelets de tes cheveux, avec
+des bagues, des bijoux, des hochets, des colifichets, des bouquets, des
+friandises, messagers d'un ascendant puissant sur la tendre jeunesse!
+Tu as d�rob� avec adresse le coeur de ma fille, et chang� l'ob�issance
+qu'elle doit � son p�re en un �pre ent�tement. Ainsi, gracieux duc, dans
+le cas o� elle oserait refuser ici devant Votre Altesse de consentir �
+�pouser D�m�trius, je r�clame l'ancien privil�ge d'Ath�nes. Comme elle
+est � moi, je puis disposer d'elle; et ce sera pour la livrer � ce jeune
+homme ou � la mort, en vertu de notre loi[3], qui a pr�vu express�ment
+ce cas.
+
+[Note 3: Par une loi de Solon, les p�res exer�aient sur leurs enfants un
+droit de vie et de mort.]
+
+TH�S�E.--Que r�pondez-vous, Hermia? Charmante fille, pensez-y bien.
+Votre p�re devrait �tre un dieu pour vous: c'est lui qui a form� vos
+attraits: vous n'�tes � son �gard qu'une image de cire, qui a re�u de
+lui son empreinte; et il est en sa puissance de laisser subsister la
+figure, ou de la briser.--D�m�trius est un digne jeune homme.
+
+HERMIA.--Lysandre aussi.
+
+TH�S�E.--Il est par lui-m�me plein de m�rite; mais, dans cette occasion,
+faute d'avoir l'agr�ment de votre p�re, c'est l'autre qui doit avoir la
+pr�f�rence.
+
+HERMIA.--Je voudrais que mon p�re p�t seulement voir avec mes yeux.
+
+TH�S�E.--C'est plut�t � vos yeux de voir avec le jugement de votre p�re.
+
+HERMIA.--Je supplie Votre Altesse de me pardonner. Je ne sais pas par
+quelle force secr�te je suis enhardie, ni � quel point ma pudeur peut
+�tre compromise, en ici mes sentiments en votre pr�sence. Mais je
+conjure Votre Altesse de me faire conna�tre ce qui peut m'arriver de
+plus funeste, dans le cas o� je refuserais d'�pouser D�m�trius.
+
+TH�S�E.--C'est, ou de subir la mort, ou de renoncer pour jamais � la
+soci�t� des hommes. Ainsi, belle Hermia, interrogez vos inclinations,
+consid�rez votre jeunesse, consultez votre coeur; voyez si, n'adoptant
+pas le choix de votre p�re, vous pourrez supporter le costume d'une
+religieuse, �tre � jamais enferm�e dans l'ombre d'un clo�tre pour y
+vivre en soeur st�rile toute votre vie, chantant des hymnes languissants
+� la froide et st�rile lune. Trois fois heureuses, celles qui peuvent
+ma�triser assez leur sang, pour supporter ce p�lerinage des vierges:
+mais plus heureuse est sur la terre la rose distill�e que celle qui,
+se fl�trissant sur son �pine virginale, cro�t, vit, et meurt dans un
+bonheur solitaire.
+
+HERMIA.--Je veux cro�tre, vivre et mourir comme elle, mon prince, plut�t
+que de c�der ma virginit� � l'empire d'un homme dont il me r�pugne de
+porter le joug, et dont mon coeur ne consent point � reconna�tre la
+souverainet�.
+
+TH�S�E.--Prenez du temps pour r�fl�chir; et � la prochaine nouvelle
+lune, jour qui scellera le noeud d'une �ternelle union entre ma
+bien-aim�e et moi, ce jour-l� m�me, pr�parez-vous � mourir, pour votre
+d�sob�issance � la volont� de votre p�re; ou bien � �pouser D�m�trius,
+comme il le d�sire; ou enfin � prononcer, sur l'autel de Diane, le voeu
+qui consacre � une vie aust�re et � la virginit�.
+
+D�M�TRIUS.--Fl�chissez, ch�re Hermia.--Et vous, Lysandre, c�dez votre
+titre imaginaire � mes droits certains.
+
+LYSANDRE.--Vous avez l'amour de son p�re, D�m�trius, �pousez-le; mais
+laissez-moi l'amour d'Hermia.
+
+�G�E.--D�daigneux Lysandre! C'est vrai, il a mon amour; et mon amour lui
+fera don de tout ce qui m'appartient: elle est mon bien, et je transmets
+tous mes droits � D�m�trius.
+
+LYSANDRE.--Mon prince, je suis aussi bien n� que lui; aussi riche que
+lui, et mon amour est plus grand que le sien: mes avantages peuvent �tre
+�gal�s sur tous les points � ceux de D�m�trius, s'ils n'ont pas m�me la
+sup�riorit�; et, ce qui est au-dessus de toutes ces vanteries, je
+suis aim� de la belle Hermia. Pourquoi donc ne poursuivrais-je pas mes
+droits? D�m�trius, je le lui soutiendrai en face, a fait l'amour � la
+fille de N�dar, � H�l�ne, et il a s�duit son coeur; elle, pauvre femme,
+adore passionn�ment, adore jusqu'� l'idol�trie cet homme inconstant et
+coupable.
+
+TH�S�E.--Je dois convenir que ce bruit est venu jusqu'� moi, et que
+j'avais l'intention d'en parler � D�m�trius; mais surcharg� de mes
+affaires personnelles, cette id�e s'�tait �chapp�e de mon esprit.--Mais
+venez, D�m�trius; et vous aussi, �g�e, vous allez me suivre. J'ai
+quelques instructions particuli�res � vous donner.--Quant � vous,
+belle Hermia, voyez � faire un effort sur vous-m�me pour soumettre vos
+penchants � la volont� de votre p�re; autrement, la loi d'Ath�nes, que
+nous ne pouvons adoucir par aucun moyen, vous oblige � choisir entre
+la mort et la cons�cration � une vie solitaire.--Venez, mon Hippolyte.
+Comment vous trouvez-vous, ma bien-aim�e?--D�m�trius, et vous, �g�e,
+suivez-nous. J'ai besoin de vous pour quelques affaires relatives �
+notre mariage; et je veux conf�rer avec vous sur un sujet qui vous
+int�resse vous-m�mes personnellement.
+
+�G�E.--Nous vous suivons, prince, avec respect et plaisir.
+
+(Th�s�e et Hippolyte sortent avec leur suite; D�m�trius et �g�e les
+accompagnent.)
+
+LYSANDRE.--Qu'avez-vous donc, ma ch�re? Pourquoi cette p�leur sur vos
+joues? quelle cause a donc si vite fl�tri les roses?
+
+HERMIA.--Apparemment le d�faut de ros�e, qu'il me serait ais� de leur
+prodiguer de mes yeux gonfl�s de larmes.
+
+LYSANDRE.--H�las! j'en juge par tout ce que j'ai lu dans l'histoire, par
+tout ce que j'ai entendu raconter, jamais le cours d'un amour sinc�re
+ne fut paisible. Mais tant�t les obstacles viennent de la diff�rence des
+conditions....
+
+HERMIA.--Oh! quel malheur, quand on est encha�n� � quelqu'un de plus bas
+que soi!
+
+LYSANDRE.--Tant�t les coeurs sont mal assortis � cause de la diff�rence
+des ann�es....
+
+HERMIA.--O douleur! quand la vieillesse est unie � la jeunesse.
+
+LYSANDRE.--Tant�t c'est le choix de nos amis qui contrarie l'amour....
+
+HERMIA.--Oh! c'est un enfer, de choisir l'objet de son amour par les
+yeux d'autrui.
+
+LYSANDRE.--Ou, s'il se trouvait de la sympathie dans le choix, la
+guerre, la mort ou la maladie, sont venues l'assaillir et le rendre
+momentan� comme un son, rapide comme une ombre, court comme un songe,
+passager comme l'�clair qui, au milieu d'une nuit sombre, d�couvre,
+dans un clin d'oeil, le ciel et la terre; et avant que l'homme ait eu le
+temps de dire: Voyez! le gouffre de t�n�bres l'a englouti. C'est ainsi
+que tout ce qui brille est prompt � dispara�tre.
+
+HERMIA.--Si les vrais amants ont toujours �t� travers�s, c'est un arr�t
+du destin; apprenons donc � le subir avec patience, puisque c'est un
+revers commun, et aussi ins�parable de l'amour que les pens�es, les
+songes, les d�sirs et les larmes, accompagnement indispensable de nos
+pauvres penchants.
+
+LYSANDRE.--Sage conseil! �coute-moi donc, Hermia: j'ai une tante qui
+est veuve, douairi�re, poss�dant une immense fortune, et qui n'a point
+d'enfants. Sa maison est �loign�e d'Ath�nes de sept lieues; elle me
+regarde comme son fils unique. L�, ch�re Hermia, je peux t'�pouser, et
+la dure loi d'Ath�nes ne peut nous y poursuivre. Ainsi, si tu m'aimes,
+d�robe-toi de la maison de ton p�re demain dans la nuit, et dans le
+bois, � une lieue hors de la ville, au m�me endroit o� je te rencontrai
+une fois avec H�l�ne, allant rendre votre culte � l'aurore de mai: l�,
+je te promets de t'attendre.
+
+HERMIA.--Mon cher Lysandre, je te jure, par l'arc le plus fort de
+l'Amour, par la plus s�re de ses fl�ches dor�es, par la douce candeur
+des colombes de V�nus, par les noeuds secrets qui encha�nent les �mes et
+font prosp�rer les amours; par les feux dont br�la la reine de Carthage,
+lorqu'elle vit le perfide Troyen mettre � la voile[4]; par tous les
+serments que les hommes ont viol�, plus nombreux que n'ont jamais �t�
+ceux des femmes, au lieu m�me que tu viens de m'assigner, demain, sans
+faute, j'irai te rejoindre.
+
+[Note 4: Shakspeare oublie que Th�s�e a fait ses exploits avant la
+guerre de Troie, et par cons�quent longtemps avant la mort de Didon.
+STEEVENS.
+
+Mais le duc Th�s�e de Shakspeare est-il bien le Th�s�e de la mythologie?
+Je crois que Shakspeare ne s'est pas trop inqui�t� du temps o� avait
+pu vivre celui-ci. Le sien est un duc d'Ath�nes qui aurait aussi bien
+figur� comme duc de Bourgogne; pourtant il y a dans cette pi�ce
+tant d'autres allusions mythologiques qu'il faut bien croire �
+l'anachronisme.]
+
+LYSANDRE.--Tiens ta promesse, ma bien-aim�e.--Regarde, voici H�l�ne qui
+vient.
+
+(H�l�ne entre.)
+
+HERMIA.--Dieu vous accompagne, belle H�l�ne! O� allez-vous ainsi?
+
+H�L�NE.--Vous m'appelez belle? Ah! r�tractez ce mot de belle. D�m�trius
+aime votre beaut�; � heureuse beaut�! vos yeux sont des �toiles
+polaires; et la douce m�lodie de votre voix est plus harmonieuse que le
+chant de l'alouette � l'oreille du berger, lorsque les bl�s sont verts,
+et que l'aub�pine commence � montrer les boutons de ses fleurs. La
+maladie est contagieuse. Oh! que n'en est-il ainsi des charmes! je
+m'emparerais des v�tres, belle Hermia, avant de vous quitter. Mon
+oreille saisirait votre voix; mes yeux vos regards, et ma langue
+ravirait le doux accent de la v�tre. Si l'univers �tait � moi, je le
+donnerais tout entier, except� D�m�trius, pour changer de formes avec
+vous. Oh! enseignez-moi la magie de vos yeux, et par quel art vous
+gouvernez les mouvements du coeur de D�m�trius.
+
+HERMIA.--Je le regarde d'un air f�ch�, et cependant il m'aime toujours.
+
+H�L�NE.--Oh! si vos regards courrouc�s pouvaient apprendre leur secret �
+mes sourires!
+
+HERMIA.--Je le maudis, et cependant il me rend en retour son amour.
+
+H�L�NE.--Oh! si mes pri�res pouvaient �veiller en lui pareille
+tendresse!
+
+HERMIA.--Plus je le hais, plus il s'obstine � me suivre.
+
+H�L�NE.--Plus je l'aime, plus il me hait.
+
+HERMIA.--Sa folle passion, ch�re H�l�ne, n'est point ma faute.
+
+H�L�NE.--Non: ce n'est que la faute de votre beaut�. Ah! pl�t au ciel
+que cette faute f�t la mienne!
+
+HERMIA.--Consolez-vous, il ne verra plus mon visage. Lysandre et moi,
+nous voulons fuir de cette ville.--Avant le jour o� je vis Lysandre,
+Ath�nes me semblait un paradis. Oh! quel charme �mane donc de mon amant,
+pour avoir ainsi chang� un ciel en enfer?
+
+LYSANDRE.--H�l�ne, nous allons vous ouvrir nos �mes. Demain dans la
+nuit, quand Ph�b� contemplera son front d'argent dans l'humide cristal,
+et parera de perles liquides le gazon touffu, heure qui cache toujours
+la fuite des amants, nous avons r�solu de franchir furtivement les
+portes d'Ath�nes.
+
+HERMIA.--Et dans les bois, o� souvent vous et moi nous avions coutume de
+reposer sur un lit de molles primev�res, �panchant dans le sein l'une de
+l'autre les doux secrets de nos coeurs: c'est l�, que nous devons nous
+trouver, mon Lysandre et moi, afin de partir, en d�tournant pour
+jamais nos yeux d'Ath�nes pour chercher de nouveaux amis et une soci�t�
+�trang�re. Adieu! ch�re compagne de mes jeux, prie pour nous, et que
+le sort favorable t'accorde enfin ton D�m�trius.--Lysandre, tiens ta
+parole; il faut priver nos yeux de l'aliment des amants, jusqu'� demain
+dans la nuit profonde. (Hermia sort.)
+
+LYSANDRE.--Oui, mon Hermia.--H�l�ne, adieu! Puisse D�m�trius vous adorer
+autant que vous l'adorez! (Lysandre sort.)
+
+H�L�NE.--Combien certains mortels sont plus heureux que d'autres! Je
+passe dans Ath�nes pour �tre aussi belle qu'elle. Mais que m'importe?
+D�m�trius n'en pense pas de m�me: il ne saura jamais ce que tout
+le monde sait, except� lui. Comme il se trompe en adorant les yeux
+d'Hermia, je me trompe moi-m�me en admirant son m�rite. L'amour peut
+transformer les objets les plus vils, le n�ant m�me, et leur donner de
+la gr�ce et du prix. L'amour ne voit pas avec les yeux, mais avec l'�me;
+et voil� pourquoi l'ail� Cupidon est peint aveugle; l'�me de l'amour
+n'a aucune id�e de jugement: des ailes, et point d'yeux, voil� l'embl�me
+d'une pr�cipitation inconsid�r�e; et c'est parce qu'il est si souvent
+tromp� dans son choix, qu'on dit que l'Amour est un enfant. Comme les
+fol�tres enfants se parjurent dans leurs jeux, l'enfant amour se parjure
+en tous lieux. Avant que D�m�trius e�t vu les yeux d'Hermia, il pleuvait
+de sa bouche une gr�le de serments, pour attester qu'il n'�tait qu'� moi
+seule; mais � peine cette gr�le a-t-elle re�u la chaleur d'Hermia que
+ses serments se sont dissous et fondus en pluie. Je vais aller lui
+annoncer la fuite de la belle: il ira demain dans la nuit la poursuivre
+au bois; et si j'obtiens quelques remerciements pour cet avis, il lui en
+co�tera beaucoup; mais je veux du moins consoler ma peine par sa vue en
+ce lieu, et m'en retourner ensuite. (Elle sort.)
+
+
+SC�NE II
+
+Une chambre dans une chaumi�re
+
+QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, et STARVELING.
+
+
+QUINCE.--Toute notre troupe est-elle ici?
+
+BOTTOM.--Vous feriez mieux de les appeler tous l'un apr�s l'autre,
+suivant la liste.
+
+QUINCE.--Voici le rouleau o� sont �crits les noms de tous les acteurs
+d'Ath�nes qui ont �t� jug�s dignes de jouer dans notre interm�de devant
+le duc et la duchesse, le soir de leurs noces.
+
+BOTTOM.--Avant tout, bon Pierre Quince, dites-nous le sujet de la
+pi�ce; ensuite, lisez les noms des acteurs, et arrivons ainsi au point
+principal.
+
+QUINCE.--Eh bien, notre pi�ce, c'est _la tr�s-lamentable com�die, et la
+tragique mort de Pyrame et Thisb�_[5].
+
+[Note 5: �Trait de ridicule contre le titre courant de la trag�die
+de _Cambyse_, par Preston, ou de la _Campaspe_ de Lilles.� STEEVENS.]
+
+BOTTOM.--Une bonne pi�ce, vraiment, je vous assure, et bien
+gaie.--Allons, cher Pierre Quince, appelez vos acteurs suivant la
+liste.--Messieurs, rangez-vous.
+
+QUINCE.--Que chacun r�ponde � son nom. _Nick Bottom, tisserand_.
+
+BOTTOM.--Pr�sent: nommez le r�le qui m'est destin�, et poursuivez.
+
+QUINCE.--Vous, Nick Bottom, vous �tes inscrit pour le r�le de Pyrame.
+
+BOTTOM.--Qu'est-ce qu'il est, ce Pyrame? un amant, ou un tyran?
+
+QUINCE.--Un amant qui se tue par amour le plus bravement du monde.
+
+BOTTOM.--Ce r�le demandera quelques larmes dans l'ex�cution. Si c'est
+moi qui le fais, que l'auditoire tienne bien ses yeux: je ferai rage,
+et je saurai g�mir comme il faut. (_Aux autres_.) Cependant mon go�t
+principal est pour les r�les de tyran: je pourrais jouer Hercule �
+ravir, et le r�le de D�chire-Chat[6], � tout rompre:
+
+  Les rocs en furie,
+  Avec un choc fr�missant,
+  Briseront les verrous
+  Des portes des cachots;
+  Et le char de Ph�bus
+  Brillera de loin,
+  Et fera et d�fera
+  Les destins insens�s[7].
+
+[Note 6: �Dans une vieille com�die, _la Fille rugissante_, il y a un
+personnage nomm� D�chire-Chat.� STEEVENS.]
+
+[Note 7: �Fragment ampoul� tir� de quelque pi�ce du temps.�
+TH�OBALD.]
+
+Cela �tait sublime!--Allons, nommez les autres acteurs.--Ceci est le ton
+d'Hercule, le ton d'un tyran; l'accent d'un amant est plus plaintif.
+
+QUINCE.--_Fran�ois Flute, raccommodeur de soufflets_.
+
+FLUTE.--Ici, Pierre Quince.
+
+QUINCE.--Il faut que vous vous chargiez du r�le de Thisb�.
+
+FLUTE.--Qu'est-ce que c'est que Thisb�? un chevalier errant?
+
+QUINCE.--C'est la beaut� que Pyrame doit aimer.
+
+FLUTE.--Non vraiment, ne me faites pas jouer le r�le d'une femme; j'ai
+de la barbe qui me vient.
+
+QUINCE.--Cela est �gal; vous le jouerez sous le masque, et vous pourrez
+faire la petite voix tant que vous voudrez[8].
+
+[Note 8: Du temps de Shakspeare, les hommes remplissaient encore les
+r�les de femme.]
+
+BOTTOM.--Si je peux cacher mon visage sous le masque, laissez-moi jouer
+aussi le r�le de Thisb�; vous verrez que je saurai extraordinairement
+bien faire la petite voix: Thisb�! Thisb�!--Ah! Pyrame, mon cher amant!
+ta ch�re Thisb�, ta ch�re bien-aim�e!
+
+QUINCE.--Non, non; il faut que vous fassiez Pyrame, et vous, Flute,
+Thisb�.
+
+BOTTOM.--Allons, continuez.
+
+QUINCE.--_Robin Starveling, le tailleur_.
+
+STARVELING.--Ici, Pierre Quince.
+
+QUINCE.--Robin Starveling, vous jouerez le r�le de la m�re de
+Thisb�.--_Thomas Snout, le chaudronnier_.
+
+SNOUT.--Me voici, Pierre Quince.
+
+QUINCE.--Vous, le r�le du p�re de Pyrame; et moi, celui du p�re de
+Thisb�.--_Snug, le menuisier_, vous ferez le lion.--Et voil�, j'esp�re,
+une pi�ce bien distribu�e.
+
+SNUG.--Avez-vous l� le r�le du lion par �crit? Si vous l'avez,
+donnez-le-moi, je vous prie, car j'ai la m�moire lente.
+
+QUINCE.--Oh! vous pourrez le faire impromptu; car il ne s'agit que de
+rugir.
+
+BOTTOM.--Oh! laissez-moi jouer le lion aussi; je rugirai si bien que ce
+sera plaisir de m'entendre; je rugirai si bien que je ferai dire au duc:
+Qu'il rugisse encore! qu'il rugisse encore!
+
+QUINCE.--Si vous alliez faire votre r�le d'une mani�re trop terrible,
+vous �pouvanteriez la duchesse et les dames, au point de les faire crier
+de frayeur; et c'en serait assez pour nous faire tous pendre.
+
+TOUS ENSEMBLE.--Cela ferait pendre tous les fils de nos m�res?
+
+BOTTOM.--Je vous accorde, mes amis, que si vous �pouvantiez les dames
+au point de leur faire perdre l'esprit, elles ne se feraient pas un
+scrupule de nous pendre. Mais je vous promets de grossir ma voix, de
+fa�on � rugir avec le doux murmure d'une jeune colombe; oui, je rugirai
+de fa�on � ce que vous croyiez entendre un rossignol.
+
+QUINCE.--Vous ne pouvez absolument faire d'autre r�le que Pyrame; car
+Pyrame est un homme d'une aimable figure, un homme bien fait comme on
+en peut voir dans un jour d'�t�, un tr�s-aimable et charmant cavalier:
+ainsi, vous voyez bien qu'il est n�cessaire que vous fassiez Pyrame.
+
+BOTTOM.--Allons! je m'en chargerai. Quelle est la barbe qui si�ra le
+mieux pour le jouer?
+
+QUINCE.--Eh! celle que vous voudrez.
+
+BOTTOM.--Je l'ex�cuterai avec votre barbe paille, ou avec la barbe
+orange, avec la rouge, ou avec votre barbe couleur de t�te fran�aise,
+celle d'un jaune parfait.
+
+QUINCE.--Il y a pas mal de vos t�tes fran�aises qui n'ont pas un cheveu;
+vous feriez donc votre r�le sans barbe[9]?--Mais, allons, messieurs,
+voil� vos r�les; et je dois vous prier, vous recommander, vous supplier
+de les bien apprendre. Demain soir, venez me trouver dans le bois voisin
+du palais, � un mille de la ville, au clair de la lune: l�, nous ferons
+notre r�p�tition; car si nous nous assemblons dans la ville, nous aurons
+� nos trousses une foule de curieux, et tout notre plan sera connu. En
+attendant, je vais dresser la liste des pr�paratifs dont notre pi�ce a
+besoin. Je vous prie, n'allez pas manquer au rendez-vous.
+
+[Note 9: �Sans barbe, comme une t�te attaqu�e du mal fran�ais reste
+sans cheveux (_corona Veneris_). C'�tait la mode de porter des barbes
+peintes.� JOHNSON.]
+
+BOTTOM.--Nous nous y rendrons; et l�, nous pourrons faire r�p�tition
+avec plus de libert�[10] et de hardiesse. Donnez-vous de la peine, soyez
+parfaits. Adieu.
+
+[Note 10: �Avec plus de libert�, _obscenely_; en plein air. _Obscenum
+est, quod intra scenam agi non oportuit_.� GRAY.]
+
+QUINCE.--Au ch�ne du duc; c'est l� notre rendez-vous.
+
+BOTTOM.--C'est assez; nous y serons, soit que les cordes de l'arc
+tiennent ou se rompent[11]. (Ils sortent.)
+
+[Note 11: �Quand on assignait un rendez-vous, les soldats de milice
+s'excusaient souvent en disant que les cordes de leurs arcs �taient
+rompues, d'o� le proverbe: �Tenez votre parole, que les cordes de votre
+arc soient rompues ou non.� WARBURTON.]
+
+FIN DU PREMIER ACTE.
+
+
+
+
+ACTE DEUXI�ME
+
+
+SC�NE I
+
+Un bois pr�s d'Ath�nes.
+
+UNE F�E _entre par une porte et_ PUCK _par une autre_.
+
+
+PUCK.--Eh bien! esprit, o� errez-vous ainsi?
+
+LA F�E.
+
+    Sur les coteaux, dans les vallons,
+    � travers buissons et ronces,
+    Au-dessus des parcs et des enceintes,
+    Au travers des feux et des eaux,
+    J'erre au hasard, en tous lieux,
+    Plus rapidement que la sph�re de la lune.
+    Je sers la reine des f�es,
+    J'arrose ses cercles magiques sur la verdure[12];
+    Les plus hautes primev�res[13] sont ses favorites:
+    Vous voyez des taches sur leurs robes d'or.
+    Ces taches sont les rubis, les bijoux des f�es,
+    C'est dans ces taches que vivent leurs sucs odorants.
+  Il faut que j'aille recueillir ici quelques gouttes de ros�e,
+  Et que je suspende l� une perle aux p�tales de chaque primev�re.
+    Adieu, esprit lourd, je te laisse.
+  Notre reine et toutes nos f�es viendront dans un moment.
+
+[Note 12: Ce sont les cercles que les f�es, disait-on, tra�aient sur
+le gazon, dont la brillante verdure provenait du soin qu'elles prenaient
+de l'arroser.]
+
+[Note 13: Fleur favorite des f�es.]
+
+PUCK.--Le roi donne ici sa f�te cette nuit: prends garde que la reine ne
+vienne s'offrir � sa vue; car Oberon est outr� de fureur de ce qu'elle
+compte dans sa suite un charmant petit gar�on d�rob� � un roi de l'Inde.
+Jamais elle n'eut un aussi joli enfant; et le jaloux Oberon voudrait
+l'avoir pour en faire son page, et parcourir avec lui les vastes for�ts;
+mais elle retient malgr� lui l'enfant ch�ri, le couronne de fleurs et
+fait de lui toute sa joie. Depuis ce moment, ils ne se rencontrent plus
+dans les bosquets, sur le gazon, pr�s de la limpide fontaine, et � la
+clart� des �toiles brillantes, qu'ils ne se querellent avec tant de
+fureur, que toutes les f�es effray�es se glissent dans les coupes des
+glands pour s'y cacher.
+
+LA F�E.--Ou je me trompe bien sur votre tournure et vos fa�ons, ou vous
+�tes un esprit fripon, malin, qu'on appelle Robin Bon-Diable. N'est-ce
+pas vous qui effrayez les jeunes filles de village, qui �cr�mez le
+lait, et quelquefois tournez le moulin � bras? N'est-ce pas vous qui
+tourmentez la m�nag�re fatigu�e de battre le beurre en vain, et qui
+emp�chez le levain de la boisson de fermenter? N'est-ce pas vous qui
+�garez les voyageurs dans la nuit, et riez de leur peine? Mais ceux
+qui vous appellent Hobgoblin, aimable Puck, vous faites � ceux-l� leur
+ouvrage, et leur portez bonne chance. Dites, n'est-ce pas vous?
+
+PUCK.--Vous devinez juste: je suis ce joyeux esprit errant de l�-haut;
+je fais rire Oberon par mes tours, lorsque, en imitant les hennissements
+d'une jeune cavale, je trompe un cheval gras et nourri de f�ves.
+Quelquefois je me tapis dans la tasse d'une comm�re, sous la forme d'une
+pomme cuite; et lorsqu'elle vient � boire, je saute contre ses l�vres,
+et r�pand sa bi�re sur son sein fl�tri; la plus v�n�rable tante, en
+contant la plus triste histoire, me prend quelquefois pour un tabouret
+� trois pieds: soudain, je me glisse sous elle; elle tombe �
+terre, elle crie: _tailleur_[14], et la voil� prise d'une toux
+convulsive; alors toute l'assembl�e se tient les c�t�s, �clate de rire,
+redouble de joie, �ternue et jure que jamais on n'a pass� l� d'heure
+plus joyeuse. Mais, place, belle f�e; voici Oberon.
+
+[Note 14: La coutume de crier _tailleur_ � la vue d'une chute sur le
+dos, vient de ce qu'un homme qui glisse en arri�re de sa chaise tombe
+comme un tailleur, les jambes crois�es sur son �tabli.]
+
+LA F�E.--Ah! voici ma ma�tresse, que n'est-il parti!
+
+
+
+SC�NE II
+
+OBERON _entre avec sa suite par une porte, et_ TITANIA _avec la sienne
+entre par l'autre._
+
+
+OBERON.--Malheureuse rencontre, de te trouver au clair de la lune, fi�re
+Titania.
+
+TITANIA.--Comment, jaloux Oberon?--F�es, sortons d'ici: j'ai renonc� �
+sa couche et � sa compagnie.
+
+OBERON.--Arr�te, t�m�raire infid�le! Ne suis-je pas ton �poux?
+
+TITANIA.--Alors je dois �tre ton �pouse. Mais je sais le jour que tu
+t'es d�rob� du pays des f�es, et que, sous la figure du berger Corin, tu
+es rest� assis tout le jour, soupirant sur des chalumeaux, et parlant en
+vers de ton amour � la tendre Phillida. Pourquoi es-tu revenu des monts
+les plus recul�s de l'Inde? Ce n'est, certainement, que parce que la
+robuste amazone, ta ma�tresse en brodequins, ton amante guerri�re, doit
+�tre mari�e � Th�s�e; tu viens pour donner le bonheur et la joie � leur
+couche nuptiale?
+
+OBERON.--Comment n'as-tu pas honte, Titania, de parler malicieusement
+de mon amiti� pour Hippolyte, sachant que je suis instruit de ton amour
+pour Th�s�e? Ne l'as-tu pas conduit dans la nuit � la lueur des �toiles,
+loin des bras de P�rigyne qu'il avait enlev�e? Et ne lui as-tu pas fait
+violer sa foi donn�e � la belle �gl�, � Ariadne, � Antiope[15]?
+
+[Note 15: On sait que Th�s�e fut un des plus braves chevaliers
+errants de la mythologie grecque, mais qu'il ne se piquait pas de
+fid�lit� envers les dames.]
+
+TITANIA.--Ce sont l� des inventions de la jalousie. Jamais, depuis le
+solstice de l'�t�, nous ne nous sommes rencontr�s sur les collines,
+dans les vall�es, dans les for�ts, dans les prairies, aupr�s des claires
+fontaines, ou des ruisseaux bord�s de joncs, ou sur les plages de la
+mer, pour danser nos rondes au sifflement des vents, que tu n'aies
+troubl� nos jeux de tes clameurs. Aussi les vents, qui nous faisaient
+entendre en vain leur murmure, comme pour se venger, ont pomp� de la mer
+des vapeurs contagieuses, qui, venant � tomber sur les campagnes, ont
+tellement enfl� d'orgueil de mis�rables rivi�res qu'elles ont surmont�
+leurs bords. Le boeuf a donc port� le joug en vain: le laboureur a perdu
+ses sueurs, et le bl� vert s'est g�t� avant que le duvet e�t rev�tu le
+jeune �pi. Les parcs sont rest�s vides au milieu de la plaine submerg�e,
+et les corbeaux s'engraissent de la mortalit� des troupeaux: les jeux de
+merelles[16] sont combl�s de fange, et les jolis labyrinthes serpentant
+sur la fol�tre verdure ne peuvent plus se distinguer parce qu'on ne les
+fr�quente plus. Les mortels de l'esp�ce humaine[17] sont sevr�s de leurs
+f�tes d'hiver; il n'y a plus de chants, plus d'hymnes, plus de no�ls qui
+�gayent les longues nuits.--Aussi la lune, cette souveraine des flots,
+p�le de courroux, inonde l'air d'humides vapeurs, qui font pleuvoir les
+maladies catarrhales[18]: et, au milieu de ce trouble des �l�ments, nous
+voyons les saisons changer; les frimas, � la blanche chevelure, tomber
+sur le tendre sein de la rose vermeille; le vieux hiver �tale, comme par
+d�rision, autour de son menton et de sa t�te glac�e, une guirlande de
+tendres boutons de fleurs. Le printemps, l'�t�, le fertile automne,
+l'hiver chagrin, �changent leur livr�e ordinaire; et le monde �tonn�
+ne peut plus les distinguer par leurs productions. Toute cette s�rie
+de maux provient de nos d�bats et de nos dissensions; c'est nous qui en
+sommes les auteurs et la source.
+
+[Note 16: Jeu de merelles, figure compos�e de plusieurs carr�s que
+les bergers ou les enfants tracent sur le gazon.]
+
+[Note 17: Il y a dans le texte _human mortals_: cette �pith�te, qui
+semble redondante, sert � marquer la diff�rence entre les hommes et les
+f�es. Celles-ci ne font pas partie de l'humanit�, quoique soumises � la
+mort comme les hommes.]
+
+[Note 18: Observation juste sur la constitution m�dicale de
+l'atmosph�re.]
+
+OBERON.--Eh bien! r�formez ces d�sordres; cela d�pend de vous. Pourquoi
+Titania contrarierait-elle son Oberon? Je ne lui demande qu'un petit
+gar�on, pour en faire mon page d'honneur[19].
+
+[Note 19: Page d'honneur, place de cour abolie par �lisabeth; le
+henchman des _highlanders_ �tait leur �chanson.]
+
+TITANIA.--Mettez votre coeur en repos. Tout le royaume des f�es
+n'ach�terait pas de moi cet enfant: sa m�re �tait initi�e � mes
+myst�res; et maintes fois la nuit, dans l'air parfum� de l'Inde, elle a
+bavard� aupr�s de moi; maintes fois, assise � mes c�t�s sur les sables
+dor�s de Neptune, elle observait les commer�ants embarqu�s sur les
+flots. Apr�s que nous avions ri de voir les voiles s'enfler, et
+s'arrondir sous les caresses du vent, elle se mettait � vouloir les
+imiter, et d'une d�marche gracieuse et balanc�e, poussant en avant son
+ventre, riche alors de mon jeune �cuyer, comme un vaisseau voguant sur
+la plaine, elle m'allait chercher des bagatelles, pour revenir ensuite
+� moi, comme d'un long voyage, charg�e d'une pr�cieuse cargaison. Mais
+l'infortun�e �tant mortelle, est morte en donnant la vie � ce jeune
+enfant, que j'�l�ve pour l'amour d'elle; c'est pour l'amour de sa m�re
+que je ne veux pas me s�parer de lui.
+
+OBERON.--Combien de temps vous proposez-vous de rester dans le bois?
+
+TITANIA.--Peut-�tre jusqu'apr�s le jour des noces de Th�s�e. Si vous
+voulez vous m�ler patiemment � nos rondes, et assister � nos �bats
+au clair de la lune, venez avec nous; sinon, �vitez-moi, et je ne
+troublerai pas vos retraites.
+
+OBERON.--Donnez-moi cet enfant, et je suis pr�t � vous suivre.
+
+TITANIA.--Pas pour votre royaume.--Allons, f�es, partons. Nous passerons
+toute la nuit � quereller, si je reste plus longtemps. (Titania sort
+avec sa suite.)
+
+OBERON.--Eh bien! va, poursuis; mais tu ne sortiras pas de ce bosquet
+que je ne t'aie tourment�e, pour me venger de cet outrage.--Mon gentil
+Puck, approche ici. Tu te souviens d'un jour o� j'�tais assis sur
+un promontoire, et que j'entendis une sir�ne, port�e sur le dos
+d'un dauphin, prof�rer des sons si doux et si harmonieux, que la
+mer courrouc�e s'apaisa aux accents de sa voix, et maintes �toiles
+transport�es s'�lanc�rent de leur sph�re pour entendre la musique de
+cette fille de l'Oc�an?
+
+PUCK.--Oui, je m'en souviens.
+
+OBERON.--Eh bien! dans le temps, je vis (mais tu ne pus le voir, toi)
+Cupidon tout arm�[20] voler entre la froide lune et la terre: il visa
+au coeur d'une charmante Vestale, assise sur un tr�ne d'Occident; il
+d�cocha de son arc un trait d'amour bien ac�r�, comme s'il e�t voulu
+percer d'un seul coup cent mille coeurs. Mais je vis la fl�che enflamm�e
+du jeune Cupidon s'�teindre dans les humides rayons de la chaste lune,
+et la pr�tresse couronn�e, le coeur libre, continua sa marche, plong�e
+dans ses pens�es virginales[21]. Je remarquai o� vint tomber le trait
+de Cupidon; il tomba sur une petite fleur d'Occident.--Auparavant elle
+�tait blanche comme le lait, depuis elle est pourpre par la blessure de
+l'amour; et les jeunes filles l'appellent _pens�e_[22]: va me chercher
+cette fleur. Je te l'ai montr�e une fois. Son suc, exprim� sur les
+paupi�res endormies d'un homme ou d'une femme, les rend amoureux fous
+de la premi�re cr�ature vivante qui s'offre � leurs regards. Apporte-moi
+cette fleur, et sois revenu ici avant que le L�viathan ait pu nager une
+lieue.
+
+[Note 20: _O Maraviglia! Amor ch'a pena � nato_
+          _Gia grande vola, gia triunfa armato_.]
+
+[Note 21: Compliment � �lisabeth; ce sont les vers que dans le roman
+de _Kenilworth_ la reine se fait r�p�ter par W. Raleigh.]
+
+[Note 22: On l'appelle aussi _Love in idleness_, l'amour oisif,
+ou l'oeil du coeur, herbe de la trinit�. C'est la _Viola tricolor_ de
+Linn�e, syng�n�sie monogame.]
+
+PUCK.--J'entourerai d'une ceinture le globe de la terre en quarante
+minutes. (Il sort.)
+
+OBERON.--Lorsqu'une fois j'aurai le suc de cette plante, j'�pierai
+l'instant o� Titania sera endormie, et j'en laisserai tomber une goutte
+sur ses yeux. Le premier objet qu'ils verront � son r�veil, f�t-ce un
+lion, un ours, un loup, un taureau, une guenon curieuse ou un singe
+affair�, elle le poursuivra avec un coeur plein d'amour; et avant que
+j'�te ce charme de sa vue, ce que je peux faire avec une autre plante,
+je l'obligerai � me c�der son page. Mais qui vient en ces lieux? Je suis
+invisible[23], et je veux entendre leur entretien.
+
+[Note 23: On remarquera peut-�tre que Puck et Oberon parlent souvent
+sur la sc�ne sans qu'on ait fait mention de leur entr�e. Invisibles ou
+visibles � leur gr�, ils semblent s'affranchir eux-m�mes des lois de la
+sc�ne.]
+
+
+
+SC�NE III
+
+OBERON _invisible_; D�M�TRIUS, et H�L�NE _qui le suit_. TITANIA _arrive
+avec sa cour_.
+
+
+D�M�TRIUS.--Je ne vous aime point; ainsi, cessez de me poursuivre. O�
+est Lysandre, et la belle Hermia? Je tuerai l'un; l'autre me tue. Vous
+m'avez dit qu'ils s'�taient sauv�s dans le bois; m'y voil�, dans le
+bois, et je suis furieux de n'y pouvoir trouver Hermia. Laissez-moi;
+�loignez-vous, et ne me suivez plus.
+
+H�L�NE.--Vous m'attirez � vous, coeur dur comme le diamant, mais ce
+n'est point un coeur de fer que vous attirez, car le mien est fid�le
+comme l'acier: perdez la force d'attirer, je n'aurai plus celle de vous
+suivre.
+
+D�M�TRIUS.--Est-ce que je vous sollicite? est-ce que je vous abuse par
+de douces paroles, ou plut�t ne vous ai-je pas dit la v�rit� nue, je ne
+vous aime point, je ne puis vous aimer?
+
+H�L�NE.--Et je ne vous en aime que davantage. Je suis votre �pagneul:
+plus vous me maltraiterez, D�m�trius, et plus je vous caresserai.
+Traitez-moi seulement comme votre �pagneul: rebutez-moi, frappez-moi,
+n�gligez-moi, �garez-moi; mais du moins, accordez-moi, quelque indigne
+que je sois, la permission de vous suivre. Quelle place plus humble dans
+votre amour puis-je implorer? Et ce serait encore pour moi une faveur
+d'un prix inestimable, que le privil�ge d'�tre trait�e comme vous
+traitez votre chien.
+
+D�M�TRIUS.--Ne provoquez pas trop la haine de mon �me; je suis malade
+quand je vous vois.
+
+H�L�NE.--Et moi, je le suis quand je ne vous vois pas.
+
+D�M�TRIUS.--Vous compromettez trop votre pudeur, en quittant ainsi la
+ville, vous livrant seule � la merci d'un homme qui ne vous aime point,
+expos� aux dangers de la nuit et aux mauvais conseils d'un lieu d�sert,
+avec le riche tr�sor de votre virginit�.
+
+H�L�NE.--Votre vertu est ma sauvegarde; il n'est plus nuit quand je vois
+votre visage; je ne crois donc plus �tre alors dans les t�n�bres: ce
+bois n'est point une solitude pour moi; avec vous, j'y trouve tout
+l'univers: comment donc pouvez-vous dire que je suis seule, quand le
+monde entier est ici pour me regarder?
+
+D�M�TRIUS.--Je vais m'enfuir loin de vous, et me cacher dans les
+foug�res, vous laissant � la merci des b�tes f�roces.
+
+H�L�NE.--La plus f�roce n'a pas un coeur aussi cruel que le v�tre. Fuyez
+o� vous voudrez; l'histoire changera seulement: c'est Apollon qui fuit,
+et c'est Daphn� qui poursuit Apollon! la colombe poursuit le milan; la
+douce biche h�te sa course pour atteindre le tigre: h�te inutile quand
+c'est la timidit� qui poursuit et le courage qui s'enfuit.
+
+D�M�TRIUS.--Je ne m'arr�terai plus � �couter vos discours. Laissez-moi
+m'en aller; ou, si vous me suivez, craignez de moi quelque outrage dans
+l'�paisseur du bois.
+
+H�L�NE.--H�las! dans le temple, dans la ville, dans les champs, partout
+vous m'outragez. Fi! D�m�trius, vos affronts jettent un opprobre sur mon
+sexe; nous ne pouvons, comme les hommes, combattre pour l'amour. Nous
+devrions �tre courtis�es, et nous n'avons pas �t� faites pour faire la
+cour. Je veux vous suivre, et faire de mon enfer un ciel, en mourant de
+la main que j'aime si tendrement. (Ils sortent.)
+
+OBERON.--Nymphe, console-toi. Avant qu'il quitte ces bosquets, tu le
+fuiras, et il recherchera ton amour.
+
+(Puck revient.)
+
+OBERON.--As-tu la fleur? Sois le bienvenu, vagabond.
+
+PUCK.--Oui, la voil�.
+
+OBERON.--Donne-la-moi, je te prie. Je connais une rive o� cro�t le
+thym sauvage, o� la violette se balance aupr�s de la primev�re, et
+qu'ombragent le suave ch�vrefeuille, de douces roses musqu�es, et le bel
+�glantier. C'est l� que, pendant quelques heures de la nuit, Titania,
+fatigu�e des plaisirs de la danse, s'endort au milieu des fleurs; c'est
+l� que le serpent se d�pouille de sa peau �maill�e, v�tement assez large
+pour envelopper une f�e. Je veux frotter l�g�rement les yeux de Titania,
+et lui remplir le cerveau d'odieuses fantaisies. Prends-en aussi un peu,
+et cherche dans ce bocage. Une belle Ath�nienne est �prise d'un jeune
+homme qui la repousse; mets-en sur les yeux de ce beau d�daigneux;
+mais aie bien soin de le faire au moment o� son amante s'offrira �
+ses regards. Tu reconna�tras l'homme aux habits ath�niens qu'il porte.
+Accomplis ce message avec quelques pr�cautions, afin qu'il puisse
+devenir plus idol�tre d'elle qu'elle ne l'est de lui; et songe � venir
+me rejoindre avant le premier chant du coq.
+
+PUCK.--N'ayez aucune inqui�tude, mon souverain: votre humble serviteur
+ex�cutera vos ordres. (Ils sortent.)
+
+
+
+SC�NE IV
+
+(Une autre partie du bois.)
+
+TITANIA _arrive avec sa cour_.
+
+
+TITANIA.--Allons, un rondeau[24], et une chanson de f�es; et ensuite,
+partez pour le tiers d'une minute, que les unes aillent tuer le
+ver cach� dans le bouton de rose; les autres faire la guerre aux
+chauves-souris, pour avoir leurs ailes de peau, afin d'en habiller mes
+petits g�nies; que d'autres �cartent le hibou qui ne cesse toute la
+nuit de faire entendre ses cris lugubres, surpris de voir nos esprits
+l�gers.--Chantez maintenant pour m'endormir; et apr�s, laissez-moi
+reposer, et allez � vos fonctions.
+
+[Note 24: _Roundel_, couplet de chanson qui commence et finit par
+la m�me sentence, _qui redit in orbem_. _Roundel_ signifie aussi une
+ronde.]
+
+CHANSON.
+
+  PREMI�RE F�E.
+
+  Vous, serpents tachet�s au double dard,
+  �pineux porcs-�pics, ne vous montrez pas.
+  L�zards, aveugles reptiles, gardez-vous d'�tre malfaisants,
+  N'approchez pas de notre reine.
+
+  CHOEUR DE F�ES.
+
+  Philom�le, avec m�lodie
+  Chante-nous une douce chanson de berceuse,
+  Lulla, Lulla, Lullaby; Lulla, Lulla, Lullaby.
+  Que nul trouble, nul charme, nul mal�fice
+  N'approche de notre aimable reine.
+  Et bonne nuit dormez bien.
+
+  II
+
+  SECONDE F�E.
+
+  Araign�es filandi�res, n'approchez pas:
+  Loin d'ici fileuses aux longues jambes, loin d'ici.
+  �loignez-vous, noirs escarbots.
+  Ver, ou lima�on, n'offensez pas notre reine.
+
+  LE CHOEUR.
+
+  Philom�le, avec m�lodie, etc.
+
+  PREMI�RE F�E.
+
+  Allons, partons: tout va bien.
+  Qu'une de nous se tienne � part comme sentinelle.
+
+(Titania s'endort; les f�es sortent.)
+
+(Oberon survient, et dit en exprimant le suc de la fleur sur les
+paupi�res de Titania:)
+
+OBERON.
+
+  Que l'objet que tu verras, en t'�veillant,
+  Devienne l'objet de ton amour:
+  Aime-le et languis pour lui:
+  Que ce soit un ours, un tigre ou un chat,
+  Un l�opard ou un sanglier � la crini�re h�riss�e.
+  Qui apparaisse � tes yeux, � ton r�veil,
+  Il sera ton amant ch�ri.
+  R�veille-toi � l'approche d'un objet hideux.
+
+(Oberon sort.)
+
+(Entrent Lysandre et Hermia.)
+
+LYSANDRE.--Ma belle amie, vous �tes fatigu�e d'errer dans ce bois; et �
+vous dire vrai, j'ai oubli� le chemin: nous nous reposerons, Hermia, si
+vous le voulez, et nous attendrons ici la lumi�re consolante du jour.
+
+HERMIA.--Je le veux bien, Lysandre. Allez, cherchez un lit pour vous:
+moi je vais reposer ma t�te sur ce gazon.
+
+LYSANDRE.--La m�me touffe de verdure nous servira d'oreiller � tous les
+deux: un seul coeur, un m�me lit, deux �mes, et une seule foi.
+
+HERMIA.--Non, cher Lysandre: pour l'amour de moi, mon ami, placez-vous
+plus loin encore; ne vous mettez pas si pr�s de moi.
+
+LYSANDRE.--� ma douce amie! prenez mes paroles dans le sens que
+leur donne mon innocence. Dans l'entretien des amants, l'amour est
+l'interpr�te; j'entends que mon coeur est uni au v�tre, en sorte que
+nous pouvons des deux coeurs n'en faire qu'un; que nos deux �mes se sont
+encha�n�es par un serment, en sorte que ce n'est qu'une foi dans deux
+�mes. Ne me refusez donc pas une place � vos c�t�s, pour me reposer; car
+en me couchant ainsi je ne ments point[25].
+
+[Note 25: �quivoque sur le verbe _to lie_, se coucher et mentir.]
+
+HERMIA.--Lysandre excelle � faire des �nigmes: malheur � mes mani�res
+et � ma fiert�, si Hermia a voulu dire que Lysandre mentait. Mais, mon
+aimable ami, au nom de la tendresse et de la courtoisie, �loigne-toi un
+peu: cette s�paration, prescrite par la d�cence humaine convient � un
+amant vertueux, et � une jeune vierge: oui, tiens-toi � cette distance;
+et bonsoir, mon bien-aim�; que ton amour ne finisse qu'avec ta pr�cieuse
+vie!
+
+LYSANDRE.--Je r�ponds � cette tendre pri�re: Ainsi soit-il, ainsi
+soit-il; et que ma vie finisse quand finira ma fid�lit�! Voici mon lit:
+que le sommeil t'accorde tout son repos!
+
+HERMIA.--Que la moiti� de ses faveurs ferme les yeux de celui qui
+m'adresse ce souhait. (Ils s'endorment tous deux.)
+
+(Entre Puck.)
+
+PUCK.
+
+  J'ai couru tout le bois;
+  Je n'ai trouv� aucun Ath�nien
+  Sur les yeux de qui je pusse essayer
+  La force de cette fleur pour inspirer l'amour.
+  Nuit et silence! Qui est ici?
+  Il porte les habits d'Ath�nes.
+  C'est l'homme que m'a d�sign� mon ma�tre,
+  Et qui d�daigne la jeune Ath�nienne.
+  Et la voici elle-m�me profond�ment endormie
+  Sur la terre humide et fangeuse.
+  Oh! la jolie enfant: elle n'a pas os� se coucher
+  Pr�s de ce cruel, de cet ennemi de la tendresse.
+  Rustre, je r�pands sur tes yeux
+  Tout le pouvoir que ce charme poss�de:
+  Qu'� ton r�veil l'amour d�fende au sommeil
+  De jamais descendre sur ta paupi�re.
+  R�veille-toi d�s que je serai parti:
+  Il faut que j'aille retrouver Oberon.
+
+(Entrent D�m�trius et H�l�ne courant.)
+
+H�L�NE.--Arr�te, cher D�m�trius, dusses-tu me donner la mort!
+
+D�M�TRIUS.--Je t'ordonne de t'en aller, ne me poursuis pas ainsi.
+
+H�L�NE.--Oh! veux-tu donc m'abandonner ici dans les t�n�bres? Ne fais
+pas cela.
+
+D�M�TRIUS.--Arr�te, sous peine de ta vie: je veux m'en aller seul.
+(D�m�trius s'enfuit.)
+
+H�L�NE, _seule_.--Oh! cette vaine poursuite m'a mise hors d'haleine.
+Plus je le prie, et moins j'obtiens. Hermia est heureuse, en quelque
+lieu qu'elle se trouve; car elle a des yeux c�lestes, et qui attirent
+vers elle. Comment ses yeux sont-ils devenus si brillants? Ce n'est
+pas � force de larmes am�res: si cela �tait, mes yeux en ont �t� plus
+souvent arros�s que les siens. Non, non; je suis laide comme un ours,
+car les b�tes de ce bois qui me rencontrent s'enfuient de peur. Il n'est
+donc pas �tonnant que D�m�trius, qui est un monstre sauvage, fuie
+aussi ma pr�sence. Que mon miroir est perfide et imposteur, de m'avoir
+persuad� de comparer mon visage aux doux yeux d'Hermia! Mais, qui est
+ici? Lysandre, �tendu sur la terre! Est-il mort, ou endormi? Je ne
+vois point de sang, nulle blessure.--Lysandre, si vous �tes vivant, bon
+Lysandre, �veillez-vous.
+
+LYSANDRE (_Il s'�veille._)... Et je traverserais les flammes pour
+l'amour de toi. Transparente H�l�ne! la nature montre son art, en me
+faisant voir ton coeur � travers ton sein. O� est D�m�trius? Oh! que ce
+nom odieux est bien celui d'un homme destin� � mourir de mon �p�e!
+
+H�L�NE.--Ne parlez ainsi, Lysandre; ne parlez pas ainsi: qu'importe
+qu'il aime votre Hermia? Lysandre, que vous importe? Hermia n'aime que
+vous; ainsi soyez content.
+
+LYSANDRE.--Content avec Hermia? Non! je me repens des instants ennuyeux
+que j'ai perdus avec elle. Ce n'est point Hermia, c'est H�l�ne que
+j'aime. Qui ne voudrait changer un corbeau contre une colombe? La
+volont� de l'homme est gouvern�e par la raison; et ma raison me dit que
+vous �tes la plus digne d'�tre aim�e. Les plantes qui croissent encore
+ne sont pas m�res avant leur saison; et moi-m�me, trop jeune jusqu'ici,
+je n'�tais point m�r pour la raison; mais maintenant que je touche au
+plus haut point de la perfection humaine, la raison devient le guide de
+ma volont� et me conduit � vos yeux, o� je vois des histoires d'amour
+�crites dans le livre le plus pr�cieux de l'amour.
+
+H�L�NE.--Pourquoi suis-je n�e pour �tre en butte � cette ironie? Quand
+ai-je m�rit� d'essuyer de votre part ces m�pris? N'est-ce donc pas
+assez, n'est-ce donc pas assez, jeune homme, que je n'aie jamais pu,
+non, et que je ne puisse jamais m�riter un doux regard des yeux de
+D�m�trius, sans qu'il faille encore que vous insultiez � ma disgr�ce? De
+bonne foi, vous me faites une injure; oui, oui, vous m'insultez, en me
+faisant la cour d'une mani�re si m�prisante! Mais adieu; je suis forc�e
+d'avouer que je vous avais cru dou� d'une g�n�rosit� plus vraie. Oh! se
+peut-il qu'une femme rebut�e d'un homme soit � cause de cela cruellement
+raill�e par un autre? (Elle sort.)
+
+LYSANDRE.--Elle ne voit point Hermia.--Hermia, continue de dormir ici,
+et puisses-tu ne jamais t'approcher de Lysandre! Car, comme l'exc�s des
+mets les plus d�licieux porte � l'estomac le d�go�t le plus invincible;
+comme les h�r�sies que les hommes abjurent sont d�test�es surtout par
+ceux qu'elles avaient tromp�; de m�me, toi, objet de ma sati�t� et de
+mon h�r�sie, sois ha�e de tous, et surtout de moi! Et vous, puissances
+de mon �me, consacrez votre amour et votre force � honorer H�l�ne, et �
+me rendre son chevalier. (Il sort.)
+
+HERMIA, _se r�veillant en sursaut_.--� mon secours, Lysandre! � mon
+secours! Oh! fais ton possible pour arracher ce serpent qui rampe sur
+mon sein: h�las! par piti�!--Quel �tait ce songe! Lysandre, vois comme
+je tremble de frayeur! il m'a sembl� qu'un serpent me d�vorait le coeur,
+et que toi, tu �tais assis, souriant � mon cruel tourment.--Lysandre!
+quoi, s'est-il �loign�! Lysandre! Seigneur! Quoi! il ne m'entend pas!
+Il est parti! Pas un son, pas une parole! H�las! o� �tes-vous?
+R�pondez-moi, si vous pouvez m'entendre: parlez-moi, au nom de tous les
+amours! Je suis pr�te � m'�vanouir de terreur!--Personne!--Ah! je vois
+enfin que tu n'es plus pr�s de moi; il faut que je trouve � l'instant,
+ou la mort, ou toi. (Elle sort).
+
+FIN DU DEUXI�ME ACTE.
+
+
+
+
+ACTE TROISI�ME
+
+
+SC�NE I
+
+La sc�ne est toujours dans le bois. La reine des f�es est endormie.
+
+_Entrent_ QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, STARVELING.
+
+
+BOTTOM.--Sommes-nous tous rassembl�s?
+
+QUINCE.--Oui, oui; et voici une place admirable pour notre r�p�tition.
+Ce gazon vert sera notre th��tre, ce buisson d'�pines nos coulisses; et
+nous allons jouer la pi�ce tout comme nous la jouerons devant le duc.
+
+BOTTOM.--Pierre Quince!
+
+QUINCE.--Que dis-tu, terrible Bottom?
+
+BOTTOM.--Il y a dans cette com�die de _Pyrame et Thisb�_ des choses qui
+ne plairont jamais. D'abord, Pyrame doit tirer son �p�e et se tuer. Les
+dames ne supporteront jamais cela. Qu'avez-vous � r�pondre?
+
+SNOUT.--Par Notre-Dame, cela leur fera une peur affreuse.
+
+STARVELING.--Je crois que nous ferons bien de laisser la tuerie de c�t�
+quand tout sera fini.
+
+BOTTOM.--Pas du tout. J'ai un exp�dient pour tout concilier. �crivez-moi
+un prologue, et que ce prologue ait l'air de dire que nous ne ferons
+aucun mal avec nos �p�es, et que Pyrame n'est pas tu� tout de bon; pour
+plus grande assurance, dites-leur que moi, qui fais Pyrame, je ne suis
+pas Pyrame, mais Bottom le tisserand: cela les rassurera tout � fait
+contre la peur.
+
+QUINCE.--Allons, nous ferons ce prologue; et il sera �crit en vers de
+huit et de six[26].
+
+[Note 26: On sait qu'un sonnet ne peut avoir que quatorze vers.]
+
+BOTTOM.--Non, ajoutez-en encore deux: qu'on le fasse en vers de huit.
+
+SNOUT.--Et les dames ne seront-elles point effray�es du lion?
+
+STARVELING.--Je le crains bien, je vous assure.
+
+BOTTOM.--Camarades, vous devriez y bien r�fl�chir. Amener sur la
+sc�ne, Dieu nous prot�ge! un lion parmi des dames, c'est une chose bien
+terrible; car il n'y a pas de plus redoutable b�te sauvage que votre
+lion, au moins; nous devons bien faire attention � cela.
+
+SNOUT.--Il faudra donc un autre prologue pour dire que le lion n'est pas
+un lion.
+
+BOTTOM.--Oh! il faut que vous nommiez celui qui joue le lion, et que
+l'on voie la moiti� de son visage au travers du cou du lion; il
+faut qu'il parle lui-m�me, et qu'il dise ceci, ou quelque chose
+d'�quivalent:--�Mesdames, ou belles dames, je vous souhaiterais, ou je
+vous demanderais, ou je vous prierais de ne pas avoir peur, de ne pas
+trembler; je r�ponds de votre vie sur la mienne. Si vous croyiez que je
+viens ici comme un lion, ce serait exposer ma vie. Non, je ne suis rien
+de pareil; je suis un homme tout comme les autres hommes.....� Et alors
+qu'il dise son nom, et qu'il leur d�clare tout net qu'il est Snug le
+menuisier.
+
+QUINCE.--Allons, cela sera ainsi. Mais il y a encore deux choses bien
+difficiles: c'est, d'abord, d'introduire le clair de lune dans une
+chambre; car vous savez que Pyrame et Thisb� se rencontrent au clair de
+la lune.
+
+SNUG.--La lune brillera-t-elle le soir que nous jouerons notre pi�ce?
+
+BOTTOM.--Un calendrier! un calendrier! voyez dans l'almanach, cherchez
+le clair de lune, cherchez le clair de lune!
+
+QUINCE.--Oui: il y aura de la lune ce soir-l�.
+
+BOTTOM.--Alors, vous pouvez laisser ouverte une fen�tre de la grande
+chambre o� nous jouerons, et la lune pourra y briller par la fen�tre.
+
+QUINCE.--Oui: ou un homme peut venir avec un fagot d'�pines et une
+lanterne, et dire qu'il vient pour repr�senter ou figurer le personnage
+du clair de lune.--Mais il y a encore une autre difficult�. Il nous
+faut une muraille dans la grande chambre; car Pyrame et Thisb�, dit
+l'histoire, se parlaient au travers de la fente d'un mur.
+
+SNUG.--Vous ne pourrez jamais amener une muraille sur la sc�ne. Qu'en
+dites-vous, Bottom?
+
+BOTTOM.--Le premier venu peut repr�senter une muraille: il n'a qu'�
+avoir quelque enduit de pl�tre, ou d'argile, ou de cr�pi sur lui, pour
+figurer la muraille; ou bien encore, qu'il tienne ses doigts ainsi
+ouverts; et, � travers ces fentes, Pyrame et Thisb� pourront se parler
+tout bas.
+
+QUINCE.--Si cela peut s'arranger, tout est en r�gle.--Allons,
+asseyez-vous tous, fils de vos m�res, et r�citez vos r�les. Vous,
+Pyrame, commencez; et quand vous aurez d�bit� vos discours, vous
+entrerez dans ce buisson, et ainsi des autres, chacun selon son r�le.
+
+(Puck survient sans �tre vu.)
+
+PUCK.--Quels sont ces rustiques personnages qui font ici les fanfarons,
+si pr�s du lit de la reine des f�es? Quoi! une pi�ce en jeu? Je veux
+�tre de l'auditoire, et peut-�tre aussi y serai-je acteur, si j'en
+trouve l'occasion.
+
+QUINCE.--Parlez, Pyrame.--Thisb�, avancez.
+
+PYRAME.--�Thisb�, les fleurs exhalent de douces _odieuses_.
+
+QUINCE.--Odeurs, odeurs.
+
+PYRAME.--... Exhalent de douces odeurs: telle est celle de votre
+haleine, ma ch�re, tr�s-ch�re Thisb�.--Mais, �coutez; une voix!--Restez
+ici un moment et dans l'instant je vais venir vous retrouver.� (Il
+sort.)
+
+PUCK, _� part_.--Voil� le plus �trange Pyrame qui ait jamais jou� ici.
+(Il sort.)
+
+THISB�.--Est-ce � mon tour de parler?
+
+QUINCE.--Oui, vraiment, c'est � vous; car vous devez concevoir qu'il ne
+vous quitte que pour voir d'o� vient un bruit qu'il a entendu, et qu'il
+va revenir sur-le-champ.
+
+THISB�.--Tr�s-radieux Pyrame, dont le teint a la blancheur des lis,
+et dont les couleurs brillent comme la rose vermeille sur un �glantier
+triomphant: s�millant jouvenceau, et m�me tr�s-aimable juif[27], aussi
+fid�le que le plus fid�le coursier que rien ne peut fatiguer.--J'irai te
+trouver, Pyrame, � la tombe de _Ninny_[28].
+
+[Note 27: _Most brisky Juvenal, and Eke most lovely Jew_. Le mot
+_Jew_ semble �tre ici une abr�viation de _Juv�nal_, et forme une
+esp�ce d'�quivoque avec la premi�re syllabe de _Juv�nal_, � cause de la
+prononciation. Au reste, tout ceci n'est que parodie.]
+
+[Note 28: _Ninny_, lourdaud, jeu de mots.]
+
+QUINCE.--� la tombe de Ninus, l'ami!--Mais vous ne devez pas dire cela
+encore; c'est une r�ponse que vous avez � faire � Pyrame. Vous d�bitez
+tout votre r�le � la fois; les _r�pliques_, et tout.--Pyrame, entrez,
+votre tour est venu. _Rien ne peut fatiguer_, sont les derniers mots de
+la tirade.
+
+(Puck rentre avec Bottom affubl� d'une t�te d'�ne.)
+
+THISB�.--Aussi fid�le que le plus fid�le coursier que rien ne peut
+fatiguer.
+
+PYRAME.--Si j'�tais beau, Thisb�, je ne serais jamais qu'� toi.
+
+QUINCE.--O prodige monstrueux! prodige �trange! ce lieu est
+hant�.--Vite, camarades, fuyons! Camarades, au secours! (Toute la troupe
+s'enfuit.)
+
+PUCK.--Je vais vous suivre; je vais vous faire tourner � travers les
+mar�cages, les buissons, les ronces et les �pines. Tant�t je serai
+cheval, et tant�t chien, pourceau, ours sans t�te, et tant�t une flamme;
+hennissant, aboyant, grondant, rugissant, br�lant; cheval, chien,
+pourceau, ours, et feu tour � tour. (Il sort.)
+
+BOTTOM.--Pourquoi donc s'enfuient-ils ainsi? C'est un tour qu'ils me
+jouent pour me faire peur.
+
+(Snout rentre.)
+
+SNOUT.--� Bottom, comme te voil� chang�! Que vois-je donc l� sur tes
+�paules?
+
+BOTTOM.--Qu'est-ce que tu vois? Tu vois une t�te d'�ne, qui est la
+tienne; n'est-ce pas? (Snout sort.)
+
+(Quince rentre.)
+
+QUINCE.--Dieu te b�nisse, Bottom! Dieu te b�nisse! Te voil�
+m�tamorphos�. (Il sort.)
+
+BOTTOM, _seul_.--Je vois leur malice: ils veulent faire un �ne de moi,
+pour m'effrayer, s'ils le peuvent. Mais, moi, je ne veux pas bouger de
+cette place, quoi qu'ils puissent faire. Je vais me promener ici en long
+et en large, et je vais chanter, afin qu'ils comprennent que je n'ai pas
+la moindre peur. (Il chante.)
+
+  Le merle au noir plumage,
+  Au bec jaune comme l'orange,
+  La grive avec son chant si gai,
+  Le roitelet avec sa petite plume.
+
+TITANIA, _s'�veillant._--Quel ange me r�veille sur mon lit de fleurs?
+
+BOTTOM _chantant_.
+
+  Le pinson, le moineau et l'alouette,
+  Le gris coucou avec son plain-chant,
+  Dont maint homme remarque la note,
+  Sans oser lui r�pondre _non_.
+
+Car en effet, qui voudrait compromettre son esprit avec un si fol
+oiseau? Qui voudrait donner un d�menti � un oiseau, quand il crierait,
+_coucou_, � perte d'haleine?
+
+TITANIA.--Ah! je te prie, aimable mortel, chante encore. Mon oreille est
+amoureuse de tes chants, mes yeux sont �pris de ta personne; et la
+force de ton brillant m�rite me contraint, malgr� moi, de d�clarer, � la
+premi�re vue, de jurer que je t'aime.
+
+BOTTOM.--Il me semble, madame, que vous n'auriez gu�re de raison pour
+m'aimer; et cependant, � dire la v�rit�, la raison et l'amour ne vont
+gu�re aujourd'hui de compagnie: c'est grand dommage que quelques braves
+voisins ne veuillent pas les r�concilier. Oui, je pourrais ruser comme
+un autre, dans l'occasion.
+
+TITANIA.--Tu es aussi sens� que tu es beau.
+
+BOTTOM.--Oh! ni l'un ni l'autre. Mais si j'avais seulement assez
+d'esprit pour sortir de ce bois, j'en aurais assez pour l'usage que j'en
+veux faire.
+
+TITANIA.--Ah! ne d�sire pas de sortir de ce bois. Tu resteras ici, que
+tu le veuilles ou non. Je suis un esprit d'un rang �lev�; l'�t� r�gne
+toujours sur mon empire; et moi, je t'adore. Viens donc avec moi, je te
+donnerai des f�es pour te servir; elles iront te chercher mille joyaux
+dans l'ab�me; elles chanteront tandis que tu dormiras sur un lit de
+fleurs; et je saurai si bien �purer les �l�ments grossiers de ton
+corps mortel, que tu voleras comme un esprit a�rien. Fleur-des-Pois,
+Toile-d'Araign�e, Papillon, Graine-de-Moutarde!
+
+(Quatre f�es se pr�sentent.)
+
+PREMI�RE F�E.--Me voil� � vos ordres.
+
+SECONDE F�E.--Et moi aussi.
+
+TROISI�ME F�E.--Et moi aussi.
+
+QUATRI�ME F�E.--O� faut-il aller?
+
+TITANIA.--Soyez pr�venantes et polies pour ce seigneur: dansez dans
+ses promenades, gambadez � ses yeux; nourrissez-le d'abricots et de
+framboises, de raisins vermeils, de figues vertes et de m�res; d�robez
+aux bourdons leurs charges de miel, et ravissez la cire de leurs
+cuisses pour en faire des flambeaux de nuit que vous allumerez aux yeux
+brillants du ver luisant[29], pour �clairer le coucher et le lever de mon
+bien-aim�; arrachez les ailes bigarr�es des papillons, pour �carter les
+rayons de la lune de ses yeux endormis. Inclinez-vous devant lui, et
+faites-lui la r�v�rence.
+
+[Note 29: �C'est la queue du ver luisant (_lampyris_), qui est
+phosphorique, et non ses yeux.� JOHNSON.]
+
+PREMI�RE F�E.--Salut, mortel!
+
+SECONDE F�E.--Salut!
+
+TROISI�ME F�E.--Salut!
+
+QUATRI�ME F�E.--Salut!
+
+BOTTOM.--Je rends mille gr�ces � Vos Seigneuries, de tout mon coeur.--Je
+vous prie, quel est le nom de Votre Seigneurie?
+
+UNE F�E.--Toile-d'Araign�e.
+
+BOTTOM.--Je serai charm� de lier avec vous une plus �troite
+connaissance. Cher monsieur Toile-d'Araign�e, si je me coupe le doigt,
+j'aurai recours � vous.--(_� une autre f�e_.) Votre nom, mon bon
+monsieur?
+
+SECONDE F�E.--Fleur-des-Pois.
+
+BOTTOM.--Je vous prie, recommandez-moi � madame Cosse, votre m�re, et
+� M. Cosse, votre p�re. Cher monsieur Fleur-des-Pois, je veux que nous
+fassions plus ample connaissance.--(_� une autre f�e_.) Votre nom, je
+vous en conjure, monsieur?
+
+TROISI�ME F�E.--Graine-de-Moutarde.
+
+BOTTOM.--Bon monsieur Graine-de-Moutarde, je connais � merveille votre
+rare patience, ce l�che g�ant _Roastbeef_ a d�vor� plusieurs membres
+de votre maison. Je vous promets que vos parents m'ont fait venir les
+larmes aux yeux plus d'une fois; nous nous lierons ensemble, mon cher
+Graine-de-Moutarde.
+
+TITANIA.--Allons, accompagnez-le: conduisez-le sous mon berceau. La
+lune para�t nous regarder d'un oeil humide; et lorsqu'elle pleure, les
+petites fleurs pleurent aussi et regrettent quelque virginit� viol�e...
+Encha�nez la langue de mon bien-aim�: conduisez-le en silence. (Ils
+sortent.)
+
+
+SC�NE II
+
+Une autre partie du bois.
+
+OBERON _entre_.
+
+
+OBERON.--Je voudrais bien savoir si Titania s'est r�veill�e; et puis,
+quel a �t� le premier objet qui s'est pr�sent� � sa vue, et dont il
+faut qu'elle se passionne jusqu'� la fureur. (_Entre Puck_.) Voici
+mon courrier.--Eh bien! fol�tre esprit, quelle f�te nocturne a lieu
+maintenant dans ce bois enchant�?
+
+PUCK.--Ma ma�tresse est �prise d'un monstre. Pr�s de la retraite de son
+berceau sacr�, � l'heure o� elle �tait plong�e dans le sommeil le plus
+profond, une bande de rustres, artisans grossiers, qui gagnent leur pain
+dans les �choppes d'Ath�nes, se sont rassembl�s pour r�p�ter une com�die
+destin�e � �tre jou�e le jour des noces du grand Th�s�e. Le plus stupide
+malotru de cette troupe d'ignorants, qui repr�sentait Pyrame, dans leur
+pi�ce, a abandonn� le lieu de la sc�ne, et est entr� dans un hallier:
+l�, je l'ai surpris et je lui ai plant� une t�te d'�ne sur la sienne.
+Cependant, son tour est venu de r�pondre � sa Thisb�: alors, mon acteur
+revient sur la sc�ne. Aussit�t que ses camarades l'aper�oivent, comme
+une troupe d'oies sauvages, qui ont aper�u l'oiseleur s'approcher en
+rampant, ou comme une compagnie de corneilles � t�te brune, qui se
+l�vent et croassent au bruit d'un fusil, se s�parent, et traversent en
+d�sordre les airs, de m�me, � sa vue, tous se mettent � fuir. Alors, au
+bruit de nos pieds, par-ci, par-l�, l'un d'eux tombe � terre, crie au
+meurtre et appelle des secours d'Ath�nes. Leur faible raison, �gar�e
+par une grande frayeur, voit s'armer contre eux les objets inanim�s.
+Les ronces et les �pines d�chirent leurs habits, emportent � l'un
+ses manches, � l'autre son chapeau: toutes choses ravissent quelque
+d�pouille � ceux qui c�dent tout. Je les ai conduits ainsi dans le
+d�lire de la peur, et j'ai laiss� ici le beau Pyrame m�tamorphos�; le
+hasard a voulu que, dans ce moment m�me, Titania se soit r�veill�e, elle
+a pris aussit�t de l'amour pour un �ne.
+
+OBERON.--L'�v�nement surpasse mes esp�rances.--Mais as-tu oint les yeux
+de l'Ath�nien avec ce philtre d'amour, comme je te l'avais ordonn�?
+
+PUCK.--Je l'ai surpris dormant.--C'est une chose faite aussi; et la
+jeune Ath�nienne est aupr�s de lui; de fa�on qu'il faut n�cessairement
+qu'� son r�veil, ses yeux l'aper�oivent.
+
+(Entrent D�m�trius et Hermia.)
+
+OBERON.--Reste � mon c�t�: voici justement l'Ath�nien.
+
+PUCK.--C'est bien la femme: mais ce n'est pas l'homme.
+
+D�M�TRIUS.--Ah! pourquoi rebutez-vous celui qui vous aime tant? Gardez
+ces rigueurs pour votre plus cruel ennemi.
+
+HERMIA.--Tu n'essuies de moi que des reproches; mais je voudrais pouvoir
+te maltraiter davantage; car tu m'as donn�, j'en ai peur, sujet de te
+maudire. Si tu as assassin� Lysandre pendant son sommeil, d�j� enfonc�
+� moiti� dans le sang ach�ve de t'y plonger, et tue-moi aussi. Le soleil
+n'est pas aussi fid�le au jour que Lysandre l'�tait pour moi.--Aurait-il
+jamais abandonn� son Hermia endormie? Je croirai plut�t qu'on peut
+percer d'outre en outre le globe entier de la terre, et que la lune peut
+descendre � travers son centre, et aller � midi aux antipodes d�ranger
+son fr�re. Il faut que tu l'aies assassin�: tu as le regard d'un
+meurtrier, un visage cadav�reux, farouche.
+
+D�M�TRIUS.--Plut�t l'air d'un homme assassin�, le coeur perc� par votre
+cruelle s�v�rit�; et cependant, vous qui me tuez, restez aussi radieuse
+et aussi pure que V�nus dans sa sph�re �tincelante.
+
+HERMIA.--Qu'importe � mon cher Lysandre?--O� est-il? Ah! bon D�m�trius!
+veux-tu me le rendre?
+
+D�M�TRIUS.--J'aimerais mieux donner son cadavre � mes l�vriers.
+
+HERMIA.--Loin de moi, loin de moi, chien! Tu me fais passer les bornes
+de la patience d'une jeune fille. Tu l'as donc tu�?--Sois pour jamais
+ray� du nombre des humains! Oh! dis-moi, dis-moi une fois, une seule
+fois la v�rit�, par piti� pour moi. Aurais-tu os� le regarder �veill�,
+et l'as-tu tu� pendant qu'il dormait? � le brave exploit! Un reptile,
+une vip�re en pouvait faire autant; oui, c'est une vip�re qu'on peut
+accuser, car jamais, serpent que tu es, une vip�re n'a bless� avec un
+dard plus perfide que ta langue.
+
+D�M�TRIUS.--Vous �puisez les emportements de votre col�re sur une
+m�prise. Je ne suis point coupable du sang de Lysandre; et, autant que
+je puisse savoir, il n'est point mort.
+
+HERMIA.--Je vous en conjure, dites-moi alors qu'il se porte bien.
+
+D�M�TRIUS.--Si je pouvais vous l'assurer, que gagnerais-je � vous le
+dire?
+
+HERMIA.--Le privil�ge de ne plus me revoir jamais.--Et je fuis �
+l'instant ta pr�sence abhorr�e: ne me recherche plus qu'il soit mort, ou
+vivant. (Elle s'en va.)
+
+D�M�TRIUS.--Il est inutile de vouloir la suivre dans cet acc�s de
+courroux. Je vais donc me reposer ici quelques moments. Ainsi, le poids
+du chagrin devient plus accablant encore, lorsque le sommeil insolvable
+refuse de lui payer sa dette; peut-�tre en ce moment s'acquittera-t-il
+quelque peu envers moi, si je fais ici quelque s�jour pour attendre sa
+complaisance. (Il se couche.)
+
+OBERON.--Qu'as-tu fait? Tu t'es compl�tement m�pris, et tu as plac�
+le philtre d'amour sur les yeux d'un amant fid�le. Ainsi, l'effet
+n�cessaire de ta m�prise est de changer un amour sinc�re en amour
+perfide, et non pas un amour perfide en un amour sinc�re.
+
+PUCK.--C'est le destin qui gouverne les �v�nements, et qui fait que,
+pour un amant qui garde sa foi, un million d'autres la violent, et
+entassent parjures sur parjures.
+
+OBERON.--Va, parcours le bois plus vite que le vent, et vois � d�couvrir
+H�l�ne d'Ath�nes: elle est toute malade d'amour, et p�le, �puis�e de
+soupirs br�lants, qui ont nui � la fra�cheur de son sang. T�che de
+l'amener ici par quelque enchantement; je charmerai les yeux du jeune
+homme qu'elle aime, avant qu'elle reparaisse � sa vue.
+
+PUCK.--J'y vais, j'y vais: vois, comme je vole, plus rapidement que la
+fl�che d�coch�e de l'arc d'un Tartare. (Il sort.)
+
+OBERON.
+
+(Il verse un suc de fleur sur les yeux de D�m�trius.)
+
+  Fleur de couleur de pourpre,
+  Bless�e par l'arc de Cupidon,
+  P�n�tre dans la prunelle de son oeil!
+  Quand il cherchera son amante,
+  Qu'elle brille � ses regards du m�me �clat
+  Dont V�nus brille dans les cieux.--
+  Si, � ton r�veil, elle est aupr�s de
+  Implore d'elle ton rem�de.
+
+(Puck revient.)
+
+PUCK.--Chef de notre bande f�erique, H�l�ne est ici � deux pas; et le
+jeune homme, victime de ma m�prise, demande le salaire de son amour.
+Verrons-nous cette tendre sc�ne? Seigneur, que ces mortels sont fous!
+
+OBERON.--Range-toi: le bruit qu'ils font va r�veiller D�m�trius.
+
+PUCK.--Eh bien! ils seront deux alors � courtiser une femme. Cela doit
+faire un spectacle amusant; et rien ne me pla�t tant que ces accidents
+bizarres et impr�vus.
+
+(Entrent Lysandre et H�l�ne.)
+
+LYSANDRE.--Pourquoi croiriez-vous que je vous recherche par d�rision?
+jamais le d�dain et le m�pris ne se manifestent par des larmes: voyez,
+quand je vous jure mon amour, je pleure: des serments n�s dans les
+pleurs annoncent la sinc�rit�; et comment pouvez-vous voir des signes de
+m�pris dans ce qui porte le gage �vident de la bonne foi?
+
+H�L�NE.--Vous redoublez de plus en plus votre perfidie. Quand la
+v�rit� tue la v�rit�, quel combat infernal et c�leste! Ces voeux sont
+pour Hermia: voulez-vous donc l'abandonner? Pesez serments contre
+serments, et vous p�serez le n�ant. Vos serments, pour elle et pour moi,
+mis dans une balance, seront d'un poids �gal; et tout aussi l�gers que
+de vaines paroles.
+
+LYSANDRE.--Je n'avais pas de discernement, lorsque je lui ai jur� ma
+foi.
+
+H�L�NE.--Et vous n'en avez pas plus, � mon avis, maintenant que vous la
+d�laissez.
+
+LYSANDRE--D�m�trius l'aime, et ne vous aime point.
+
+D�M�TRIUS, _se r�veillant_.--� H�l�ne! d�esse, nymphe accomplie et
+divine! � quoi, ma bien-aim�e, pourrais-je comparer tes yeux? Le cristal
+m�me est trouble. � quel charme sur tes l�vres vermeilles comme deux
+cerises m�res! Comme elles appellent les baisers! Quand tu l�ves la
+main, la neige pure et glac�e des sommets de Taurus, caress�e par le
+vent d'orient, para�t noire comme le corbeau. Oh! permets que je baise
+cette merveille de blancheur �blouissante, ce sceau de la f�licit�.
+
+H�L�NE.--� malice infernale! Je vois bien que vous �tes tous ligu�s
+contre moi, pour vous amuser. Si vous �tiez honn�tes, et connaissant la
+courtoisie, vous ne m'accableriez pas de vos outrages. Ne vous suffit-il
+pas de me ha�r, comme je sais que vous me ha�ssez, sans vous unir
+�troitement pour vous moquer de moi? Si vous �tiez des hommes, comme
+vous en avez la figure, vous ne traiteriez pas ainsi une femme bien n�e.
+Venir me jurer de l'amour, et exag�rer ma beaut�, lorsque je suis s�re
+que vous me ha�ssez de tout votre coeur! Vous �tes tous deux rivaux,
+vous aimez Hermia; et tous deux, en ce moment, vous rivalisez � qui
+insultera le plus H�l�ne. Voil� un grand exploit, une m�le entreprise,
+de faire couler les larmes d'une fille infortun�e, par votre d�rision!
+Jamais des hommes de noble naissance n'auraient ainsi offens� une
+jeune fille; jamais ils n'auraient pouss� � bout la patience d'une �me
+d�sol�e, comme vous faites, uniquement pour vous en faire un jeu!
+
+LYSANDRE.--Vous �tes dur, D�m�trius; n'en agissez pas ainsi. Car vous
+aimez Hermia; vous savez que je ne l'ignore pas; et ici m�me, bien
+volontiers et de tout mon coeur, je vous c�de ma part de l'amour
+d'Hermia: l�guez-moi en retour la v�tre dans l'amour d'H�l�ne, que
+j'adore et que j'aimerai jusqu'au tr�pas.
+
+H�L�NE.--Jamais des moqueurs ne prodigu�rent plus de vaines paroles.
+
+D�M�TRIUS.--Lysandre, garde ton Hermia; je n'en veux point: si je
+l'aimai jamais, cet amour est tout � fait an�anti. Mon coeur n'a
+fait que s�journer avec elle en passant, comme un h�te �tranger; et
+maintenant il est retourn� � H�l�ne, comme sous son toit natal, pour s'y
+fixer � jamais.
+
+LYSANDRE.--H�l�ne, cela n'est point!
+
+D�M�TRIUS.--Ne calomnie pas la foi que tu ne connais pas, de crainte
+qu'� tes risques et p�rils tu ne le payes cher.--Vois venir de ce c�t�
+l'objet de ton amour; voil� celle qui t'est ch�re.
+
+(Survient Hermia.)
+
+HERMIA.--La nuit sombre, qui suspend l'usage des yeux, rend l'oreille
+plus sensible aux sons; ce qu'elle ravit au sens de la vue, elle en
+d�dommage en doublant le sens de l'ou�e.--Ce ne sont pas mes yeux,
+Lysandre, qui t'ont d�couvert; c'est mon oreille, et je lui en rends
+gr�ces, qui m'a guid� vers toi au son de ta voix. Mais pourquoi m'as-tu
+si cruellement abandonn�e?
+
+LYSANDRE.--Pourquoi resterait-il, celui que l'amour presse de
+s'�loigner?
+
+HERMIA.--Et quel amour pouvait attirer Lysandre loin de moi?
+
+LYSANDRE.--L'amour de Lysandre, qui ne lui permettait pas de rester,
+la belle H�l�ne; H�l�ne, qui rend la nuit plus brillante que tous ces
+cercles de feu et tous ces yeux de lumi�re. Pourquoi me cherches-tu?
+Cette d�marche ne pouvait-elle pas te faire comprendre que c'�tait la
+haine que je te portais qui m'obligeait � te quitter ainsi?
+
+HERMIA.--Vous ne pensez pas ce que vous dites; cela est impossible.
+
+H�L�NE.--Voyez, elle aussi est du complot! Je le vois bien � pr�sent,
+qu'ils se sont concert�s tous les trois, pour arranger cette sc�ne de
+d�rision � mes d�pens. Injurieuse Hermia! fille ingrate! as-tu donc
+conspir�, as-tu complot� avec ces cruels de me faire subir ces odieuses
+railleries? Toute cette confiance mutuelle, ces serments de soeurs, ces
+heures pass�es ensemble, quand nous reprochions au temps de trop h�ter
+sa marche et de nous s�parer; oh! tout cela est-il oubli�, et toute
+notre amiti� de l'�cole, et l'innocence de notre enfance? Hermia, nous
+avons, avec l'adresse des dieux, cr�� toutes les deux avec nos aiguilles
+une m�me fleur sur un seul mod�le, assises sur un seul coussin, et
+chantant une m�me chanson sur un m�me air, comme si nos mains, nos
+personnes, nos voix et nos �mes n'eussent appartenu qu'� un seul et m�me
+corps: c'est ainsi que nous avons grandi ensemble, comme deux cerises
+jumelles, en apparence s�par�es, mais unies dans leur s�paration, comme
+deux jolis fruits attach�s sur la m�me tige: on voyait deux corps, mais
+qui n'avaient qu'un coeur, tels que deux c�t�s d'armoiries de la m�me
+maison qui n'appartiennent qu'� un seul �cu, et sont surmont�s d'un
+seul cimier. Et tu veux rompre violemment le noeud de notre ancienne
+tendresse, et te joindre � des hommes pour bafouer ta pauvre amie? Oh!
+ce n'est pas la conduite d'une amie, d'une jeune fille: tout notre sexe
+a droit, aussi bien que moi, de te reprocher ce traitement, quoique je
+sois la seule qui en ressente l'outrage.
+
+HERMIA.--Je suis confondue de vos amers reproches: je ne vous insulte
+point; il me semble plut�t que c'est vous qui m'insultez.
+
+H�L�NE.--N'avez-vous pas excit� Lysandre � me suivre, comme par ironie,
+et � vanter mes yeux et mon visage? Et n'avez-vous pas engag� votre
+autre amant, D�m�trius (qui tout � l'heure me repoussait du pied), �
+m'appeler d�esse, nymphe, divine et rare merveille, beaut� c�leste
+et sans prix? Pourquoi adresse-t-il ce langage � celle qu'il hait? Et
+pourquoi Lysandre rejette-t-il votre amour, si puissant dans son coeur,
+pour me l'offrir � moi, si ce n'est sur votre instigation et de votre
+consentement? Si je ne suis pas autant en faveur que vous, aussi
+entour�e d'amour, aussi heureuse, mais si je suis assez malheureuse pour
+aimer sans �tre aim�e, vous devriez me plaindre au lieu de me m�priser!
+
+HERMIA.--Je ne puis comprendre ce que vous voulez dire.
+
+H�L�NE.--Oui, oui; continuez; affectez un air triste, faites la moue
+en me regardant quand je tourne le dos; faites-vous des signes
+d'intelligence, soutenez cette agr�able plaisanterie; il en sera parl�
+dans le monde, de ce jeu si bien jou�.--Si vous aviez quelque piti�,
+quelque g�n�rosit�, quelque id�e des bons proc�d�s, vous ne me prendriez
+pas pour le sujet de vos railleries. Mais, adieu, je vous laisse: c'est
+en partie ma faute; et la mort, ou l'absence y porteront bient�t rem�de.
+
+LYSANDRE.--Arr�tez, aimable H�l�ne: �coutez mon excuse, ma bien-aim�e,
+ma vie, mon �me, belle H�l�ne!
+
+H�L�NE.--Oh! admirable!
+
+HERMIA, _� Lysandre_.--Cher amant, ne l'insulte pas ainsi.
+
+D�M�TRIUS.--Si elle ne l'obtient pas de bon gr�, je puis l'y forcer,
+moi.
+
+LYSANDRE.--Tu ne peux pas plus m'y forcer, qu'Hermia ne peut l'obtenir
+par ses instances. Tes menaces n'ont pas plus de force que ses
+impuissantes pri�res.--H�l�ne, je t'aime; sur ma vie, je t'aime; je jure
+sur ma vie, que je veux perdre pour toi, de convaincre de mensonge celui
+qui osera dire que je ne t'aime pas.
+
+D�M�TRIUS, _� H�l�ne_.--Je te proteste que je t'aime plus qu'il ne peut
+t'aimer.
+
+LYSANDRE.--Si tu parles ainsi, retirons-nous, et prouve-le-moi.
+
+D�M�TRIUS.--Allons, sur-le-champ, viens.
+
+HERMIA.--Lysandre, o� peut tendre tout ceci?
+
+LYSANDRE.--Loin de moi, noire �thiopienne.
+
+D�M�TRIUS.--Non: ne craignez pas; il fait semblant de vouloir s'arracher
+de vos mains.--Allons, faites comme si vous vouliez me suivre: mais
+cependant, ne venez pas.--Vous �tes un homme bien doux, allez!
+
+LYSANDRE.--L�che-moi, chat, glouteron, vile cr�ature, laisse-moi libre,
+ou je vais te secouer loin de moi comme un serpent.
+
+HERMIA.--Pourquoi donc �tes-vous devenu si dur pour moi? Que veut dire
+ce changement, mon cher amant?
+
+LYSANDRE.--Ton amant? Loin de moi, noire Tartare; loin de moi: loin,
+m�decine naus�abonde, potion odieuse, loin de moi!
+
+HERMIA.--Ne plaisantes-tu pas?
+
+H�L�NE.--Oh! s�rement, il plaisante, et vous aussi.
+
+LYSANDRE.--D�m�trius, je te tiendrai ma parole.
+
+D�M�TRIUS.--Je voudrais en avoir votre obligation bien en forme; car
+je m'aper�ois qu'un faible lien vous retient: je ne me fie pas � votre
+parole.
+
+LYSANDRE.--Quoi! voulez-vous que je la blesse, que je la frappe, que je
+la tue? Quoique je la ha�sse, je ne veux pas la maltraiter.
+
+HERMIA.--Et quel mal plus grand peux-tu me faire, que de me ha�r?...
+Me ha�r! et pourquoi? � malheureuse! Quel changement �trange, mon
+bien-aim�! Ne suis-je pas Hermia? N'es-tu pas Lysandre? Je suis
+aussi belle maintenant que par le pass�: cette nuit, tu m'aimais; et
+cependant, c'est cette nuit que tu m'as quitt�e. Quoi! tu m'as donc
+quitt�e? Que les dieux m'en gardent! Bien s�rieusement, est-il possible?
+
+LYSANDRE.--Oui, sur ma vie; et je n'ai jamais d�sir� de te revoir:
+ainsi, laisse de c�t� les esp�rances, les questions et les doutes.
+Sois-en bien assur�e; rien n'est plus vrai: ce n'est point un jeu; je te
+hais, et j'aime H�l�ne.
+
+HERMIA.--Ah! malheureuse que je suis!--(_� H�l�ne_.) Toi, fourbe, poison
+de ma vie, voleuse d'amour; quoi! tu es venue la nuit, et tu m'as vol�
+le coeur de mon amant?
+
+H�L�NE.--Charmant, ma foi! N'avez-vous aucune modestie, aucune pudeur de
+jeune fille, aucune nuance de d�cence? Quoi! voulez-vous arracher �
+ma langue patiente des r�ponses de col�re? Fi donc! fi! actrice,
+marionnette!
+
+HERMIA.--Une marionnette? Pourquoi?--Oui! voil� le secret: je reconnais
+maintenant qu'elle a fait des comparaisons entre nos tailles, qu'elle a
+vant� la hauteur de la sienne; et qu'avec l'avantage de sa tournure,
+de sa belle tournure, oh! s�rement, elle l'a emport� pr�s de lui. Et
+�tes-vous donc mont�e si haut dans son estime, parce que je suis petite
+comme une naine?--Suis-je donc si petite, grand m�t de cocagne? Parle;
+suis-je donc si petite? Je ne suis pas encore si petite, que mes ongles
+ne puissent atteindre � tes yeux.
+
+H�L�NE.--Je vous prie, messieurs, contentez-vous de me faire votre
+jouet; emp�chez du moins qu'elle ne me blesse: jamais je ne fus une
+femme m�chante, jamais je n'eus de talent pour les rixes; je suis bien
+de mon sexe par ma timidit�: emp�chez-la de me frapper. Vous pourriez
+croire peut-�tre, parce qu'elle est un peu plus petite que moi, que je
+suis en �tat de lui tenir t�te.
+
+HERMIA.--Plus petite! Vous voyez, elle le r�p�te encore.
+
+H�L�NE.--Bonne Hermia, ne sois pas si am�re pour moi; je t'ai toujours
+aim�e, Hermia; j'ai toujours gard� fid�lement tes secrets; jamais je ne
+t'ai fait le moindre tort, except�, lorsque par amour pour D�m�trius je
+lui ai dit que tu t'�tais sauv�e dans ce bois: il t'a suivie, je
+l'ai suivi par amour; mais lui m'a chass�e, et il m'a menac�e de me
+maltraiter, de me fouler aux pieds, et m�me de me tuer; et maintenant,
+si vous voulez me laisser aller en paix, je vais reporter ma folle
+passion dans Ath�nes, et je ne vous suivrai plus. Laissez-moi m'en
+aller; vous voyez combien je suis simple, et combien je suis folle.
+
+HERMIA.--Eh bien! partez: qui vous retient?
+
+H�L�NE.--Un coeur insens�, que je laisse ici derri�re moi!
+
+HERMIA.--Avec qui? avec Lysandre?
+
+H�L�NE--Avec D�m�trius.
+
+LYSANDRE.--Ne crains rien, ch�re H�l�ne; elle ne te fera pas de mal.
+
+D�M�TRIUS.--Non, certes; elle ne lui en fera aucun, quand vous prendriez
+son parti.
+
+H�L�NE.--Oh! quand elle est en col�re, elle est m�chante et rus�e;
+c'�tait un petit renard quand elle allait � l'�cole; et quoiqu'elle soit
+petite, elle est violente.
+
+HERMIA.--Petite encore? Toujours petite? naine? Quoi! souffrirez-vous
+qu'elle m'insulte ainsi? Laissez-moi approcher d'elle.
+
+LYSANDRE.--Va-t'en naine, diminutif de femme, cr�ature nou�e par l'herbe
+sanguinaire[30], grain de verre, gland de ch�ne.
+
+[Note 30: La sanguinaire est une papav�rac�e (polyandrie monogyne) �
+laquelle on attribuait autrefois la vertu de _nouer_ les enfants et les
+animaux, d'emp�cher leur croissance.]
+
+D�M�TRIUS.--Vous �tes trop officieux � obliger celle qui d�daigne vos
+services. Laissez-la � elle-m�me, ne parlez point d'H�l�ne: ne prenez
+point son parti; car si jamais vous pr�tendez lui donner le moindre
+signe d'amour, vous le payerez cher.
+
+LYSANDRE.--Eh bien, � pr�sent, elle ne me retient plus: voyons,
+suivez-moi, si vous l'osez, et allons d�cider qui de nous deux a le plus
+de droit au coeur d'H�l�ne.
+
+D�M�TRIUS.--Te suivre? Je vais marcher � c�t� de toi. (Lysandre et
+D�m�trius sortent.)
+
+HERMIA.--C'est vous, madame, qui �tes la cause de cette querelle! Non,
+ne vous en allez pas.
+
+H�L�NE.--Je ne me fie point � vous, et je ne resterai pas plus longtemps
+dans votre compagnie maudite; vos mains sont plus promptes aux coups que
+les miennes, mais mes jambes sont plus longues pour les �viter. (Elle
+sort.)
+
+HERMIA.--Je suis confondue et ne sais que dire. (Hermia poursuit
+H�l�ne.)
+
+OBERON.--Voil� l'ouvrage de ta n�gligence; tu fais toujours des b�vues,
+ou c'est � dessein que tu joues de ces tours.
+
+PUCK.--Croyez-moi, roi des fant�mes, c'est une m�prise. Ne m'aviez-vous
+pas dit que je reconna�trais l'homme � son costume ath�nien? Et je
+suis innocent de l'erreur que j'ai commise, puisque c'est en effet un
+Ath�nien dont j'ai oint les yeux; mais je suis loin d'�tre f�ch� de
+ce qui est arriv�, puisque je regarde cette querelle comme un
+divertissement.
+
+OBERON.--Tu vois que ces amants cherchent un lieu pour se battre:
+h�te-toi donc, Robin, pars; redouble l'obscurit� de la nuit, couvre
+� l'instant la vo�te �toil�e d'un �pais brouillard, aussi noir que
+l'Ach�ron; et puis, �gare si bien ces rivaux acharn�s, que l'un ne
+puisse jamais se rencontrer dans le chemin de l'autre: tant�t forme ta
+langue � parler comme la voix de Lysandre, et alors provoque D�m�trius
+par des d�fis amers; tant�t raille Lysandre comme si tu �tais D�m�trius,
+et �loigne-les sans cesse l'un de l'autre, jusqu'� ce que le sommeil,
+image de la mort, se glisse sur leurs paupi�res avec ses jambes de plomb
+et ses ailes de chauve-souris; alors exprime sur l'oeil de Lysandre
+cette herbe dont la liqueur a la salutaire vertu d'en enlever toute
+illusion, et de rendre aux prunelles leur vue accoutum�e: lorsqu'ils
+viendront � se r�veiller, toute cette sc�ne de d�rision leur para�tra
+un r�ve, une vision imaginaire, et ces amants reprendront le chemin
+d'Ath�nes, unis par une amiti� qui ne finira qu'avec leur vie. Tandis
+que je te charge de cette affaire, moi, je vais rejoindre ma reine, et
+lui demander son petit Indien; apr�s cela, je d�senchanterai ses yeux de
+leur admiration pour le monstre, et la paix sera r�tablie partout.
+
+PUCK.--Souverain des f�es, il faut nous h�ter d'ex�cuter cette
+t�che; car les dragons de la nuit fendent � plein vol les nuages, et
+l'avant-coureur de l'aurore brille d�j� l�-bas! � son approche, vous le
+savez, les spectres qui erraient �� et l� s'enfuient par troupes vers
+les cimeti�res; toutes ces ombres damn�es qui ont leur s�pulture dans
+les carrefours et les flots[31] sont d�j� retourn�es � leur couche
+peupl�e de vers; de peur que le jour ne contemple leur honte, elles
+s'exilent volontairement de la lumi�re, et se r�signent � �tre � jamais
+les compagnes de la nuit au front noir.
+
+[Note 31: �Les fant�mes suicid�s enterr�s dans les carrefours, et
+ceux des noy�s, �taient condamn�s � errer l'espace de cent ans, parce
+que les rites de la s�pulture n'avaient pas �t� accomplis.� STEEVENS.]
+
+OBERON.--Mais nous, nous sommes des esprits d'une autre nature. Moi,
+j'ai souvent jou� avec la lumi�re du matin; et je puis, comme un garde
+des for�ts, fouler le tapis des bois, m�me jusqu'� l'instant o� la porte
+de l'orient, toute rouge de feux, venant � s'ouvrir, verse sur Neptune
+de c�lestes rayons, et change en or ses ondes vertes et sal�es. Mais
+cependant h�te-toi; ne perds pas un instant: nous pouvons encore achever
+cette affaire avant le jour. (Oberon sort.)
+
+PUCK.
+
+  Par monts et par vaux, par monts et par vaux,
+  Je vais les mener par monts et par vaux;
+  Je suis craint dans les campagnes et les villes.
+  Esprit, m�ne-les par monts et par vaux.
+
+En voici un.
+
+(Entre Lysandre.)
+
+LYSANDRE.--O� es-tu donc, orgueilleux D�m�trius? R�ponds-moi.
+
+PUCK.--Me voici, l�che, tout pr�t et en garde. O� es-tu?
+
+LYSANDRE.--Je vais te joindre tout � l'heure.
+
+PUCK.--Suis-moi donc sur un terrain plus uni. (Lysandre sort et suit la
+voix.)
+
+(Entre D�m�trius.)
+
+D�M�TRIUS--Lysandre!--R�ponds-moi encore: l�che fuyard, o� t'es-tu donc
+sauv�? Parle. Es-tu dans un buisson? O� caches-tu donc ta t�te?
+
+PUCK.--Et toi, poltron, te vantes-tu donc aux �toiles? Tu dis aux
+buissons que tu veux te battre, et tu n'oses pas approcher? Viens donc,
+perfide; viens, timide enfant, je vais te ch�tier avec une verge: c'est
+se d�shonorer que de tirer l'�p�e contre toi.
+
+D�M�TRIUS.--Ha! es-tu l�?
+
+PUCK.--Suis ma voix: ce n'est pas ici une place propre � essayer notre
+courage. (Ils sortent tous deux.)
+
+LYSANDRE _repara�t seul_.--Il fuit toujours devant moi, et toujours
+en me d�fiant: lorsque j'arrive au lieu d'o� il me provoque, il est
+toujours parti. Le l�che a le pied bien plus l�ger que moi; je l'ai
+suivi de toute ma vitesse; mais il fuyait plus vite encore, et je me
+suis � la fin engag� dans un sentier sombre et raboteux: je veux me
+reposer ici.--H�te-toi, jour bienfaisant. (_Il se couche sur la terre_.)
+Pour peu que tu me montres ta lumi�re naissante, je trouverai D�m�trius,
+et je satisferai ma vengeance. (Il dort.)
+
+(D�m�trius repara�t et Puck aussi.)
+
+PUCK.--Oh! oh! oh, oh! poltron; pourquoi n'avances-tu pas?
+
+D�M�TRIUS.--Attends-moi, si tu l'oses; car je sais bien que tu cours
+devant moi, que tu changes toujours de place, et que tu n'oses ni
+m'attendre de pied ferme, ni me regarder en face. O� es-tu?
+
+PUCK.--Viens ici: me voil�.
+
+D�M�TRIUS, _courant du c�t� de la voix_.--Tu te moques de moi; mais,
+va, tu me le payeras cher, si j'aper�ois jamais ton visage � la lueur du
+jour: maintenant va ton chemin.--La faiblesse me contraint de m'�tendre
+ici de ma longueur sur ce lit froid.--� l'approche du jour, attends-toi
+� me revoir. (Il se couche sur la bruy�re et dort.)
+
+(H�l�ne entre.)
+
+H�L�NE.--� p�nible nuit! � longue et ennuyeuse nuit! abr�ge tes heures.
+Brille � l'orient, consolante lumi�re, que je puisse au lever du jour
+retourner � Ath�nes, et m'�loigner de ceux qui d�testent ma pr�sence
+importune.--Et toi, sommeil, qui daignes quelquefois fermer les yeux du
+chagrin, d�robe-moi pour quelques instants � moi-m�me. (Elle se couche
+et s'endort.)
+
+PUCK.--Rien que trois encore d'endormis? Qu'il en vienne encore
+une, deux couples font quatre.--La voici qui arrive courrouc�e et
+triste.--Cupidon est un fripon d'enfant, de rendre ainsi folles les
+pauvres femmes.
+
+(Entre Hermia.)
+
+HERMIA.--Jamais je ne fus si lasse, jamais je ne fus si d�sesp�r�e:
+tremp�e de ros�e, d�chir�e par les ronces, je ne peux ni aller, ni me
+tra�ner plus loin: mes jambes ne peuvent suivre le pas de mes d�sirs:
+il faut que je me repose ici jusqu'au point du jour. Que le ciel couvre
+Lysandre d'un bouclier, si leur intention est de se battre! (Elle se
+couche.)
+
+PUCK.
+
+  Sur la terre
+  Dormez profond�ment;
+  Sur votre oeil
+  J'appliquerai
+  Mon rem�de. Tendre amoureux
+
+(Il exprime le jus de son herbe sur l'oeil de Lysandre.)
+
+  � ton r�veil
+  Tu prendras
+  Un vrai plaisir
+  En revoyant
+  Les yeux de ta premi�re amante,
+  Et le proverbe rustique bien connu,
+
+  Qu'il faut que chacun prenne ce qui lui appartient,
+  S'accomplira � votre r�veil:
+  Jacquot aura Gilette,
+  Rien n'ira mal.
+  L'homme recouvrera sa jument, et tout ira bien.
+
+
+FIN DU TROISI�ME ACTE.
+
+
+
+ACTE QUATRI�ME
+
+
+SC�NE I
+
+Toujours dans le bois.
+
+TITANIA, BOTTOM, LES F�ES _qui sont � sa suite_; OBERON _qui les suit
+sans en �tre aper�u_.
+
+
+TITANIA, _� Bottom_.--Viens, assieds-toi sur ce lit de fleurs; pendant
+que je caresse tes charmantes joues; je veux attacher des roses musqu�es
+sur ta t�te douce et lisse, et baiser tes belles et longues oreilles,
+toi la joie de mon coeur.
+
+BOTTOM.--O� est Fleur-des-Pois?
+
+FLEUR-DES-POIS.--Me voici.
+
+BOTTOM.--Grattez-moi la t�te, Fleur-des-Pois.--O� est monsieur
+Toile-d'Araign�e?
+
+TOILE-D'ARAIGN�E.--Me voici.
+
+BOTTOM.--Monsieur Toile-d'Araign�e, mon cher monsieur, prenez vos armes,
+et tuez-moi ce bourdon aux cuisses rouges, qui est sur la fleur de ce
+chardon; puis, mon cher monsieur, apportez-moi son sac de miel. Ne vous
+�chauffez pas trop dans l'op�ration, monsieur, et ayez soin, mon bon
+monsieur, de ne pas crever le sac au miel: je n'aimerais pas � vous voir
+tout inond� de miel, seigneur.--O� est M. Grain-de-Moutarde?
+
+GRAIN-DE-MOUTARDE.--Me voici.
+
+BOTTOM.--Donnez-moi votre poing, monsieur Grain-de-Moutarde!--Je vous
+prie, cessez vos compliments, monsieur Grain-de-Moutarde!
+
+GRAIN-DE-MOUTARDE.--Que d�sirez-vous?
+
+BOTTOM.--Rien, monsieur, rien de plus que d'aider au cavalier
+Fleur-des-Pois � me gratter la t�te: il faudra que j'aille trouver le
+barbier, monsieur; car il me semble que j'ai furieusement de poil �
+la figure; et je suis un �ne si d�licat que, pour peu que mon poil me
+d�mange, il faut que je me gratte.
+
+TITANIA.--Mon doux ami, voulez-vous entendre un peu de musique?
+
+BOTTOM.--J'ai une assez bonne oreille en musique. Allons, faites venir
+les pincettes et la clef.
+
+TITANIA.--Ou dites, cher amour, ce qui vous ferait plaisir � manger.
+
+BOTTOM.--� dire vrai, un picotin d'avoine: je pourrais m�cher votre
+bonne avoine s�che; il me semble que j'aurais grande envie d'une botte
+de foin; du bon foin, du foin parfum�, il n'y a rien d'�gal � cela.
+
+TITANIA.--J'ai une f�e d�termin�e qui ira fouiller dans le magasin de
+l'�cureuil, et qui vous apportera des noix nouvelles.
+
+BOTTOM.--Je pr�f�rerais une poign�e ou deux de pois secs; mais, je
+vous prie, que personne de vos gens ne me d�range; je sens une certaine
+_exposition_ au sommeil qui me vient.
+
+TITANIA.--Dors, et je vais t'enlacer dans mes bras.--F�es, partez,
+et dispersez-vous dans toutes les directions. Ainsi le ch�vre-feuille
+parfum� s'entrelace amoureusement: ainsi le lierre femelle entoure de
+ses anneaux les bras d'�corce de l'ormeau[32]. Oh! comme je t'aime! oh!
+comme je t'adore! (Ils dorment.)
+
+[Note 32: _Ulmo conjuncta marito_.]
+
+(Oberon s'avance. Puck revient.)
+
+OBERON.--Sois le bienvenu, bon Robin, vois-tu ce charmant spectacle? Je
+commence � avoir piti� de sa folie. Tout � l'heure, l'ayant rencontr�e
+derri�re le bois, cherchant de douces fleurs pour cet odieux imb�cile,
+je lui en ai fait des reproches et me suis querell� avec elle. Elle
+avait ceint ses tempes velues d'une couronne de fleurs odorantes et
+fra�ches; et cette ros�e qui s'enflait nagu�re en gouttes sur les
+boutons, telle que de rondes perles d'orient, semblait au coeur de ces
+jolies petites fleurs autant de larmes qui pleuraient leur disgr�ce.
+Quand je l'eus grond�e � mon gr�, et qu'elle eut implor� mon pardon en
+termes soumis, je lui demandai alors son petit nain: elle me le donna
+aussit�t, et envoya ses f�es le porter dans mon royaume; maintenant que
+je tiens l'enfant, je veux dissiper l'odieuse erreur de ses yeux. Ainsi,
+aimable Puck, �te ce cr�ne enchant� de la t�te de cet artisan ath�nien,
+afin qu'en se r�veillant avec les autres il puisse regagner Ath�nes,
+et ne plus songer aux accidents de cette nuit que comme aux tourments
+chim�riques d'un r�ve. Mais je veux commencer par d�livrer la reine des
+f�es.
+
+(Il s'approche d'elle, et dit en lui touchant les yeux avec une herbe.)
+
+  Sois comme tu avais coutume d'�tre.
+  Vois comme tu avais coutume de voir:
+  C'est le bouton de Diane sur la fleur de Cupidon[33]
+  Qui est dou� de cette vertu c�leste.
+
+Allons, ma ch�re Titania; �veillez-vous, ma douce reine.
+
+[Note 33: Le bouton de Diane, c'est le bouton de l'_agnus castus_, et
+la fleur de Cupidon, la _viola tricolor_.]
+
+TITANIA.--Mon Oberon! quelles visions j'ai eues! Il m'a sembl� que
+j'�tais amoureuse d'un �ne.
+
+OBERON, _montrant Bottom_.--Voil� votre amant.
+
+TITANIA.--Comment ces choses sont-elles arriv�es? Oh! comme mes yeux
+abhorrent maintenant son visage!
+
+OBERON.--Silence, un instant.--Robin, enl�ve cette t�te.--Titania,
+appelez votre musique, et accablez les sens de ces cinq personnages d'un
+sommeil plus profond qu'� l'ordinaire.
+
+TITANIA.--De la musique! hol�! de la musique! celle qui procure le
+sommeil.
+
+PUCK.--Maintenant quand tu te r�veilleras, vois avec tes propres yeux,
+ceux d'un sot.
+
+OBERON.--Musique, commencez. (_On entend une musique assoupissante_.)
+Venez, ma reine; donnez-moi la main, �branlons la terre o� sont couch�s
+ces dormeurs. Maintenant nous sommes amis de nouveau, vous et moi; et
+demain, � minuit, nous danserons des danses solennelles et triomphantes
+dans la maison du duc Th�s�e, et nous la b�nirons pour toute sa belle
+post�rit�. L� aussi seront unis joyeusement, en m�me temps que Th�s�e,
+tous ces couples d'amants fid�les.
+
+PUCK.
+
+  Roi des f�es, �coute, fais attention,
+  J'entends l'alouette matinale.
+
+OBERON.
+
+  Allons, ma reine, dans un grave silence,
+  Suivons en dansant l'ombre de la nuit.
+  Nous pouvons faire le tour du globe
+  D'un pas plus rapide que la lune errante.
+
+TITANIA.
+
+  Venez, mon �poux; et, dans notre vol
+  Dites-moi comment il s'est fait cette nuit
+  Que vous m'avez trouv�e dormant ici
+  Par terre avec ces mortels.
+
+(Ils sortent.)
+
+(Paraissent Th�s�e, �g�e, Hippolyte et leur suite.)
+
+TH�S�E.--Allez, l'un de vous, et trouvez-moi le garde forestier,
+car notre c�r�monie est finie; et puisque voici le point du jour, ma
+bien-aim�e entendra le concert de mes chiens.--D�couplez-les dans
+le vallon de l'ouest: allez.--D�p�chez, vous dis-je, et trouvez le
+garde.--Nous allons, ma belle reine, gravir le sommet de la montagne,
+pour �couter la confusion harmonieuse des voix des chiens et de l'�cho
+r�unis.
+
+HIPPOLYTE.--J'�tais un jour avec Hercule et Cadmus, lorsqu'ils
+chassaient l'ours dans une for�t de Cr�te avec des chiens de Sparte:
+jamais je n'entendis plus vigoureuse battue. Les bois, les cieux, les
+fontaines, les environs entiers semblaient retentir d'un seul cri.
+Jamais je n'ai entendu de dissonance aussi harmonieuse, et un vacarme
+aussi agr�able.
+
+TH�S�E.--Mes chiens sont de race lac�d�monienne, � large gueule,
+tachet�s de roux, leurs t�tes sont orn�es de longues oreilles pendantes
+qui balayent la ros�e du matin; les jambes sont arqu�es comme celle des
+taureaux de Thessalie; ils sont lents � la poursuite, mais assortis en
+voix comme des cloches accord�es � l'octave. Jamais cri plus harmonieux
+ne fit retentir les tayauts, et ne fut �gay� par les cors, dans la
+Cr�te, � Sparte ou dans la Thessalie. Vous allez les entendre et en
+juger.--Mais, chut! quelles sont ces nymphes?
+
+�G�E.--Mon prince, c'est ma fille qui est endormie ici: celui-ci, c'est
+Lysandre; voil� D�m�trius; et voici H�l�ne, la fille du vieux N�dar. Je
+suis bien �tonn� de les trouver ici tous ensemble.
+
+TH�S�E.--Sans doute ils se seront lev�s de grand matin pour c�l�brer la
+f�te de mai; et, instruits de nos intentions, ils sont venus ici orner
+la pompe de notre hymen. Mais, parlez, �g�e; n'est-ce pas aujourd'hui le
+jour o� Hermia doit donner sa r�ponse sur son choix?
+
+�G�E.--Oui, mon prince.
+
+TH�S�E.--Allez, ordonnez aux chasseurs de les r�veiller au bruit du cor.
+
+(On entend des cors et des cris de joie.)
+
+(D�m�trius, Lysandre, Hermia et H�l�ne se r�veillent en sursaut et se
+rel�vent.)
+
+TH�S�E.--Bonjour, mes amis: la Saint-Valentin[34] est pass�e.--Ces
+oiseaux des bois ne commencent-ils � s'accoupler qu'� pr�sent?
+
+(Tous se prosternent devant Th�s�e.)
+
+[Note 34: Allusion au proverbe que les oiseaux commencent �
+s'accoupler � la Saint-Valentin.]
+
+LYSANDRE.--Pardon, mon prince.
+
+TH�S�E.--Je vous prie, levez-vous tous: je sais que vous �tes deux
+rivaux ennemis. Comment s'est op�r�e cette paisible r�union entre vous?
+Comment votre haine est-elle devenue si peu jalouse, que je vous trouve
+dormant pr�s de la haine, sans craindre l'un de l'autre aucune inimiti�?
+
+LYSANDRE.--Mon prince, je vous r�pondrai avec �tonnement, � demi
+endormi, � demi �veill�: mais en v�rit�, il m'est encore impossible de
+dire comment je suis venu en ce lieu. Je pr�sume, car je voudrais vous
+dire la v�rit�... et en ce moment, je me rappelle... oui, je me le
+rappelle, je suis venu ici avec Hermia; notre dessein �tait de sortir
+d'Ath�nes, afin d'�chapper aux dangers de la loi ath�nienne.
+
+�G�E.--C'est assez, c'est assez, mon prince; vous en avez assez entendu:
+je r�clame la loi contre lui.--Ils voulaient s'�vader; et par cette
+fuite, D�m�trius, ils voulaient nous frustrer, vous de votre �pouse, moi
+de mon consentement � ce qu'elle dev�nt votre femme.
+
+D�M�TRIUS.--Noble duc, c'est la belle H�l�ne qui m'a inform� de leur
+�vasion dans ce bois, et du dessein qui les y conduisait; et moi, dans
+ma fureur, je les ai suivis jusqu'ici; et la belle H�l�ne, pouss�e par
+sa tendresse, m'a suivie. Mais, mon bon prince, je ne sais par quelle
+puissance (sans doute par quelque puissance sup�rieure) mon amour pour
+Hermia, fondu comme la neige, me semble en ce moment le souvenir confus
+des vains hochets dont je raffolais dans mon enfance; et maintenant
+l'unique objet de ma foi, de toutes les affections de mon coeur, l'objet
+et le plaisir de mes yeux, c'est H�l�ne seule; j'�tais fianc� avec elle,
+mon prince, avant que j'eusse vu Hermia: comme un malade, je me d�go�tai
+de cette beaut�; mais aujourd'hui bien portant, je reviens � mon go�t
+naturel; maintenant, je la veux, je l'aime, je la d�sire, et je lui
+serai � jamais fid�le[35].
+
+[Note 35: Ces m�prises d'amour ont sans doute donn� l'id�e du
+dix-septi�me chant de la _Pucelle_.]
+
+TH�S�E.--Beaux amants, la rencontre est heureuse. Nous entendrons plus
+tard les d�tails de cette aventure.--�g�e, je triompherai de votre
+volont�, tout � l'heure, dans le m�me temple, avec nous, ces deux
+couples seront �ternellement unis; et nous laisserons l� notre projet de
+chasse, car la matin�e est d�j� un peu avanc�e.--Allons, retournons tous
+� Ath�nes; nous allons c�l�brer � nous six une f�te solennelle.--Venez,
+Hippolyte.
+
+(Th�s�e et Hippolyte sortent avec leur suite.)
+
+D�M�TRIUS.--Toutes ces aventures paraissent comme des objets
+imperceptibles, comme des montagnes �loign�es et confondues avec les
+nuages.
+
+HERMIA.--Il me semble que je vois ces objets d'un oeil troubl�; tout me
+para�t double.
+
+H�L�NE.--C'est la m�me chose pour moi; et j'ai trouv� D�m�trius comme un
+joyau qui est � moi, et qui n'est pas � moi.
+
+D�M�TRIUS.--Il me semble � moi, que nous dormons, que nous r�vons
+encore.--Ne croyez-vous pas que le duc �tait tout � l'heure ici, et
+qu'il nous a dit de le suivre?
+
+HERMIA.--Oui, et mon p�re y �tait aussi.
+
+H�L�NE.--Et Hippolyte.
+
+LYSANDRE.--Et il nous a invit�s � le suivre au temple.
+
+D�M�TRIUS.--Alors, nous sommes �veill�s.--Suivons ses pas; et en chemin,
+racontons-nous nos songes.
+
+(Ils sortent; au moment o� ils s'en vont, Bottom se r�veille.)
+
+BOTTOM.--Quand mon tour viendra, appelez-moi, et je r�pondrai.--Ma
+premi�re r�plique est: _Tr�s-beau Pyrame_.--H�, hol�!--Pierre
+Quince; Flute, le raccommodeur de soufflets; Snout, le chaudronnier;
+Starveling... Mort de ma vie! ils se sont �vad�s d'ici et m'ont laiss�
+endormi.--J'ai eu une bien �trange vision! j'ai fait un songe... il est
+au-dessus des facult�s de l'homme de dire ce qu'�tait ce songe. L'homme
+n'est qu'un �ne, s'il veut se m�ler d'expliquer ce r�ve. Il me semblait
+que j'�tais....--Il n'y a pas d'homme qui puisse dire ce que j'�tais.
+Il me semblait que j'�tais... et il me semblait que j'avais...--Mais
+l'homme n'est qu'un fou en habit d'arlequin, s'il entreprend de dire
+ce qu'il me semblait que j'�tais. L'oeil de l'homme n'a jamais ou�,
+l'oreille de l'homme n'a jamais vu; la main de l'homme ne peut go�ter,
+ni sa langue concevoir ni son coeur exprimer en paroles ce qu'�tait mon
+r�ve. Je veux aller trouver Pierre Quince pour qu'il compose une ballade
+sur mon songe: on l'appellera _le r�ve de Bottom_[36], parce que c'est un
+r�ve sans fond; et je le chanterai � la fin de la pi�ce, devant le duc:
+et peut-�tre m�me, pour rendre la pi�ce plus agr�able, le chanterai-je �
+la mort de Thisb�. (Il sort.)
+
+[Note 36: _Bottom_ signifie le _fond_.]
+
+
+SC�NE II
+
+La sc�ne est � Ath�nes, dans la maison de Quince.
+
+QUINCE, FLUTE, SNOUT ET STARVELING.
+
+
+QUINCE.--Avez-vous envoy� chez Bottom? Est-il rentr� chez lui?
+
+STARVELING.--On ne peut avoir de ses nouvelles: sans doute, les esprits
+l'ont transport� loin d'ici.
+
+FLUTE.--S'il ne vient pas, la pi�ce est perdue. Elle ne peut plus aller,
+n'est-ce pas?
+
+QUINCE.--Ce n'est pas possible: vous n'avez pas dans tout Ath�nes,
+d'autre homme que lui en �tat de jouer _Pyrame_.
+
+FLUTE.--Non; il a tout simplement le plus grand talent de tous les
+artisans d'Ath�nes.
+
+QUINCE.--Oui, et la plus belle tournure aussi, un beau galant, avec une
+douce voix.
+
+FLUTE.--Vous devriez dire une merveille incomparable. Un galant est,
+Dieu nous b�nisse, une chose qui n'est bonne � rien!
+
+(Entre Snug.)
+
+SNUG.--Messieurs, le duc revient du temple; et il y a deux ou trois
+seigneurs et dames de plus, qui se sont mari�s en m�me temps que lui. Si
+notre divertissement e�t �t� en train, notre fortune � tous �tait faite.
+
+FLUTE.--Oh! mon brave Bottom! voil� comme il a perdu six sous par jour
+de revenu sa vie durant: il ne pouvait manquer d'avoir six sous par
+jour. Si le duc ne lui avait pas fait six sous par jour pour jouer
+Pyrame, je veux �tre pendu! Et il les aurait bien m�rit�s; oui, six
+sous[37] par jour, ou rien pour le r�le de Pyrame.
+
+[Note 37: �Trait de satire contre Preston, auteur de la pi�ce de
+_Cambyse_. Il joua un r�le dans la _Didon_ de Nash, devant Elisabeth,
+qui le gratifia d'une pension de vingt livres sterling par an (ce qui ne
+fait gu�re qu'un shilling par jour).� STEEVENS.]
+
+(Survient Bottom.)
+
+BOTTOM.--O� sont ces camarades? o� sont ces braves coeurs?
+
+QUINCE.--Bottom!--� le superbe jour! � l'heure fortun�e!
+
+BOTTOM.--Messieurs, je vais vous raconter des merveilles.... Mais ne me
+demandez pas ce que c'est; car si je vous le dis, je ne suis pas un
+vrai Ath�nien: je vous dirai tout, exactement comme les choses se sont
+pass�es.
+
+QUINCE.--Voyons, cher Bottom.
+
+BOTTOM.--Vous n'aurez pas un mot de moi. Tout ce que je vous dirai,
+c'est que le duc a d�n�. Rev�tez-vous de vos habits; de bonnes attaches
+� vos barbes, des rubans neufs � vos escarpins: rendez-vous tous au
+palais; que chacun jette un coup d'oeil sur son r�le; car la fin de
+l'histoire est que notre pi�ce est le divertissement pr�f�r�. � tout
+�v�nement que Thisb� ait soin d'avoir du linge propre; et que celui qui
+joue le lion n'aille pas rogner ses ongles, car ils passeront pour les
+griffes du lion; et, mes tr�s-chers acteurs, ne mangez point d'ognons,
+ni d'ail, car il faut que nous ayons une haleine douce; et, moyennant
+tout cela, je ne doute pas que nous ne les entendions dire: _Voil� une
+charmante com�die!_ Plus de paroles; allons, partons. (Ils sortent.)
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+ACTE CINQUI�ME
+
+
+SC�NE I
+
+Ath�nes.--Appartement dans le palais de Th�s�e
+
+TH�S�E, HIPPOLYTE, PHILOSTRATE, SEIGNEURS, _Suite_.
+
+
+HIPPOLYTE.--Cela est �trange, mon cher Th�s�e, ce que racontent ces
+amants!
+
+TH�S�E.--Plus �trange que vrai. Jamais je ne pourrai ajouter foi � ces
+vieilles fables, ni � ces jeux de f�erie. Les amants et les fous ont des
+cerveaux bouillants, une imagination f�conde en fant�mes, et qui con�oit
+au del� de ce que la froide raison peut jamais comprendre. Le fou,
+l'amoureux et le po�te sont tout imagination. L'un voit plus de d�mons
+que l'enfer ne peut en contenir; c'est le fou; l'amoureux, non moins
+extravagant, voit la beaut� d'H�l�ne sur un front �gyptien. L'oeil du
+po�te, roulant dans un beau d�lire, lance son regard du ciel � la terre,
+et de la terre aux cieux; et comme l'imagination donne un corps aux
+objets inconnus, la plume du po�te leur imprime de m�me des formes, et
+assigne � un fant�me a�rien une demeure et un nom particulier; tels sont
+les jeux d'une imagination puissante; si elle con�oit un sentiment de
+joie, elle cr�e aussit�t un �tre, messager de cette joie: ou si, dans
+la nuit, elle se forge quelque terreur, avec quelle facilit� un buisson
+devient un ours!
+
+HIPPOLYTE.--Mais toute l'histoire qu'ils ont racont�e de ce qui s'est
+pass� cette nuit, leurs id�es ainsi transform�es, tout cela annonce plus
+que les illusions de l'imagination, et pr�sente quelque chose de r�el,
+mais de toute fa�on, d'admirable et d'�trange.
+
+(Entrent Lysandre, D�m�trius, Hermia et H�l�ne.)
+
+TH�S�E.--Voici nos amants qui viennent pleins de joie et
+d'all�gresse.--Que le bonheur et de longs jours d'amour accompagnent vos
+coeurs, aimables amis!
+
+LYSANDRE.--Que des jours plus beaux encore suivent les pas de Votre
+Altesse, et �clairent votre table et votre couche!
+
+TH�S�E.--Allons, quelles mascarades, quelles danses aurons-nous pour
+consumer sans ennui ce si�cle de trois heures, qui doit s'�couler entre
+le souper et l'heure du lit? O� est l'ordonnateur habituel de nos f�tes?
+Quels divertissements sont pr�par�s? N'y a-t-il point de com�die, pour
+soulager les angoisses de cette heure �ternelle? Appelez Philostrate.
+
+PHILOSTRATE.--Me voici, puissant Th�s�e.
+
+TH�S�E.--Dites; quel passe-temps avez-vous pour cette soir�e? Quelle
+mascarade? Quelle musique? Comment tromperons-nous l'ennui du temps
+paresseux, si nous n'avons pas quelque plaisir pour nous distraire?
+
+PHILOSTRATE.--Voil� la liste des divertissements qui sont pr�par�s.
+Choisissez celui que Votre Altesse pr�f�re voir le premier. (Il lui
+remet un �crit.)
+
+TH�S�E _lit_.--_Le combat des centaures pour �tre chant� par un eunuque
+ath�nien, sur la harpe_.--Nous ne voulons pas de cela; j'en ai fait tout
+le r�cit � ma bien-aim�e, � la gloire de mon parent Hercule.--_La fureur
+des bacchantes enivr�es, d�chirant le chantre de la Thrace dans leur
+rage_.--C'est un vieux sujet; et je l'ai vu jouer la derni�re fois que
+je revins vainqueur de Th�bes.--_Les neuf muses pleurant la mort de
+la Science, r�cemment d�c�d�e dans l'indigence[38]_.--C'est quelque
+critique, quelque satire mordante, et cela ne va pas � une f�te
+de noces.--_Une ennuyeuse et courte sc�ne du jeune Pyrame, avec sa
+ma�tresse Thisb�; farce vraiment tragique_.--Tragique et comique � la
+fois! courte et ennuyeuse! C'est comme qui dirait de la glace chaude, et
+de la neige d'une esp�ce aussi rare. Comment accorder ces contraires?
+
+[Note 38: Allusion � un po�me de Spencer. Ce po�te mourut de mis�re
+en 1598.]
+
+PHILOSTRATE.--C'est, mon prince, une pi�ce longue de quelque dizaine de
+mots, ce qui est aussi court qu'aucune pi�ce de ma connaissance; mais
+avec ces dix mots, mon prince, elle est encore trop longue, ce qui
+la rend ennuyeuse; car, dans toute la pi�ce, il n'y a pas un mot � sa
+place, ni un seul acteur propre � son r�le; et c'est une pi�ce tragique,
+mon prince; car Pyrame se tue lui-m�me � la fin: ce qui, je vous
+l'avoue, quand je l'ai vu r�p�ter, a rendu mes yeux humides; mais de
+larmes plus gaies, que n'en ont jamais fait jaillir les plus bruyants
+�clats de rires.
+
+TH�S�E.--Quels sont les acteurs?
+
+PHILOSTRATE.--Des artisans, aux mains calleuses, qui travaillent ici
+dans Ath�nes, mais qui n'ont jamais travaill� d'esprit jusqu'� ce
+moment; ils se sont avis�s aujourd'hui de charger de cette pi�ce leur
+m�moire inexerc�e, pour la c�r�monie de vos noces.
+
+TH�S�E.--Nous voulons la voir jouer.
+
+PHILOSTRATE.--Non, mon noble duc; elle n'est pas digne de vous: je l'ai
+entendue d'un bout � l'autre, et cela ne vaut rien, rien au monde; �
+moins que vous ne trouviez quelque amusement dans leur intention, en les
+voyant se tourmenter, et r�citer avec tant de peine, pour plaire � Votre
+Altesse.
+
+TH�S�E.--Je veux entendre cette pi�ce: tout ce qui est offert par la
+simplicit� et le z�le est toujours bien. Allez, faites-les venir.--Et
+vous, mesdames, prenez vos places. (Philostrate sort.)
+
+HIPPOLYTE.--Je n'ai pas de plaisir � voir des malheureux �chouer, et le
+z�le succomber dans ses efforts pour plaire.
+
+TH�S�E.--H�! ma ch�re, vous ne verrez pas cela non plus.
+
+HIPPOLYTE.--Il dit qu'ils ne peuvent rien faire de supportable en ce
+genre.
+
+TH�S�E.--Nous n'en para�trons que plus g�n�reux, en les remerciant, sans
+qu'ils nous aient rien donn�. Notre plaisir sera de comprendre ce qui
+fait le sujet de leurs erreurs. L� o� la bonne volont� �choue, un
+noble coeur consid�re l'intention, non le m�rite de l'action. Dans mes
+voyages, souvent de grands clercs formaient le projet de me complimenter
+par des harangues longtemps �tudi�es; et, lorsque je les voyais
+frissonner et p�lir, rester court au milieu de leurs p�riodes, �touffer
+dans leur peur leur voix exerc�e, et pour conclusion rester muets et
+sans harangue, croyez-moi, ma ch�re, je cueillais un compliment dans le
+silence, et j'en lisais autant dans la modestie de leur z�le timide,
+que dans la bruyante voix d'une �loquence audacieuse et arrogante;
+l'affection et la simplicit� muette m'en disent donc beaucoup plus que
+tout ce que je pourrais entendre.
+
+(Philostrate revient.)
+
+PHILOSTRATE.--S'il pla�t � Votre Altesse, le Prologue est
+tout pr�t.
+
+TH�S�E.--Qu'il s'avance.
+
+(On joue une fanfare.)[39].
+
+[Note 39: Il para�t que le prologue �tait anciennement introduit au
+son des trompettes.]
+
+(Le Prologue entre.)
+
+LE PROLOGUE.--�Si nous d�plaisons, c'est avec notre bonne volont�; il
+faut que vous pensiez que nous ne venons pas pour offenser, mais par
+notre bonne volont�, vous montrer notre simple savoir-faire, voil� le
+v�ritable commencement de notre fin. Consid�rez donc que nous ne venons
+qu'avec d�pit. Nous ne venons point comme pour vous contenter; mais
+c'est notre v�ritable intention. Nous ne sommes pas ici pour votre
+plaisir; que si vous avez regret, les acteurs sont tout pr�ts et par
+leur jeu vous saurez tout ce qu'il y a apparence que vous sachiez.�
+
+TH�S�E.--Ce gar�on ne s'arr�te pas sur les points.
+
+LYSANDRE.--Il a galop� son prologue, comme un jeune cheval; il ne
+conna�t point d'arr�t. Voil� une bonne le�on, mon prince: il ne suffit
+pas de parler; il faut parler sens�ment.
+
+HIPPOLYTE.--En v�rit�, il a jou� sur son prologue comme un enfant sur
+une fl�te: des sons, mais sans mesure.
+
+TH�S�E.--Son discours ressemblait � une cha�ne embrouill�e; il n'y avait
+aucun anneau de moins, mais tous �taient en d�sordre. Qui vient apr�s
+lui?
+
+(Entrent Pyrame, Thisb�, la Muraille, le Clair-de-Lune et le Lion, comme
+dans une pantomime.)
+
+LE PROLOGUE.--�Seigneurs, peut-�tre �tes-vous �tonn�s de ce spectacle;
+mais �tonnez-vous jusqu'� ce que la v�rit� vienne tout �claircir. Ce
+personnage, c'est Pyrame, si vous voulez le savoir. Cette belle dame,
+c'est bien certainement Thisb�. Cet homme, enduit de chaux et de cr�pi,
+repr�sente une muraille, cette odieuse muraille qui s�parait ces deux
+amants; et les pauvres enfants, il faut qu'ils se contentent de murmurer
+tout bas au travers d'une fente de la muraille, que personne ne s'en
+�tonne. Cet autre, avec sa lanterne, un chien et un buisson d'�pines,
+repr�sente le clair de lune; car, si vous voulez le savoir, ces deux
+amants ne se firent pas scrupule de se donner rendez-vous au clair de
+lune, � la tombe de Ninus, pour s'y faire la cour. Cette terrible b�te,
+qui, de son nom, s'appelle un lion, fit reculer, ou plut�t �pouvanta la
+fid�le Thisb� venant dans l'ombre de la nuit; et en fuyant, elle laissa
+tomber son manteau, que l'inf�me lion teignit de sa gueule ensanglant�e.
+Aussit�t arrive Pyrame, ce beau et grand jeune homme, et il trouve le
+manteau sanglant de sa fid�le Thisb�. � cette vue, avec son �p�e, sa
+coupable et sanguinaire �p�e, il perce bravement son sein bouillant;
+et Thisb�, qui s'�tait arr�t�e sous l'ombrage d'un m�rier, retira son
+poignard, et mourut. Quant au reste, que le Lion, le Clair-de-Lune, la
+Muraille et les deux amants l'expliquent dans leurs grands discours tant
+qu'ils seront en sc�ne.�
+
+(Sortent le Prologue, Thisb�, le Lion et le Clair-de-Lune.)
+
+TH�S�E.--Je me demande si le lion doit parler.
+
+D�M�TRIUS.--Il n'y a rien d'�tonnant � cela, mon prince: un lion peut
+parler, si tant d'�nes le peuvent[40].
+
+[Note 40: Allusion � une fable de l'Estrange: _les �nes juges de
+paix_.]
+
+LA MURAILLE.--�Dans le m�me interm�de, il se trouve que moi, qui de mon
+nom m'appelle _Snout_, je repr�sente une muraille, et une muraille qui,
+veuillez m'en croire, a un trou ou une crevasse, par laquelle les deux
+amants, Pyrame et Thisb�, murmuraient souvent en secret. Cette chaux,
+ce cr�pi et cette pierre vous montrent que je suis pr�cis�ment cette
+muraille: voil� la v�rit�. Et voici � droite et � gauche l'ouverture, la
+l�zarde par laquelle ces timides amants doivent se parler tout bas.�
+
+TH�S�E.--Peut-on demander � la chaux et � la bourre de mieux parler?
+
+D�M�TRIUS.--C'est, mon prince, le mur le plus spirituel que j'aie jamais
+entendu.
+
+TH�S�E.--Voil� Pyrame qui s'approche de la muraille: silence.
+
+PYRAME.--�� nuit au lugubre visage, � sombre nuit! � nuit, qui es
+toujours, quand le jour n'est plus! � nuit! � nuit! h�las! h�las! je
+crains bien que ma Thisb� n'ait oubli� sa promesse!--Et toi, � muraille!
+� douce et aimable muraille! qui est �lev�e entre le terrain de son p�re
+et le mien! toi, muraille! � muraille! � muraille! � aimable et douce
+muraille, montre-moi ta l�zarde, que je puisse regarder au travers
+avec mes yeux! (_La muraille �carte ses doigts_.) Je te rends gr�ces,
+courtoise muraille; que Jupiter te prot�ge en r�compense! Mais, que
+vois-je? Je ne vois point de Thisb�! � maudite muraille, au travers de
+laquelle je ne vois point mon bonheur; maudites soient tes pierres, pour
+me tromper ainsi!�
+
+TH�S�E.--La muraille, �tant sensible, devrait, ce me semble, le maudire
+� son tour.
+
+PYRAME.--�Non, monsieur; en v�rit�, elle ne le doit pas.--_Me tromper
+ainsi_, est la r�clame du r�le de Thisb�: c'est � elle � para�tre
+maintenant, et je vais la chercher des yeux � travers la muraille. Vous
+verrez que tout cela va arriver juste comme je vous l'ai dit. Tenez, la
+voil� qui vient.�
+
+THISB�.--�� muraille! tu as souvent entendu mes plaintes de ce que tu
+s�parais mon beau Pyrame et moi: mes l�vres vermeilles ont souvent bais�
+tes pierres ciment�es avec de la chaux et de la bourre!�
+
+PYRAME.--�Je vois une voix; je veux m'approcher de la fente, pour voir
+si je peux entendre le visage de ma Thisb�.--Thisb�!�
+
+THISB�.--�Mon amant! Tu es mon amant, je crois.�
+
+PYRAME.--�Crois ce que tu voudras; je suis ton cher amant, et je suis
+toujours fid�le comme Liandre[41].�
+
+[Note 41: Il y a, dans ce texte, Limandre. Liandre est le mot
+consacr� dans nos parades; le beau Liandre pour L�andre.]
+
+THISB�.--�Et moi, comme H�l�ne, jusqu'� ce que les destins me tuent.�
+
+PYRAME.--�Jamais Saphale[42] ne fut si fid�le � Procrus.�
+
+[Note 42: Saphale pour C�phale, Procrus pour Procris.]
+
+THISB�.--�Comme Saphale fut fid�le � Procrus, je le suis pour toi.�
+
+PYRAME.--�Oh! donne-moi un baiser par le trou de cette odieuse
+muraille.�
+
+THISB�.--�Je baise le trou de la muraille, et point tes l�vres.�
+
+PYRAME.--�Veux-tu venir tout � l'heure me rejoindre � la tombe de
+Ninny?�
+
+THISB�.--�� la vie ou � la mort, j'y vais sans d�lai.�
+
+LA MURAILLE.--�Moi, muraille, me voil� � la fin de mon r�le; et, mon
+r�le �tant fini, c'est ainsi que la muraille s'en va.� (La Muraille,
+Pyrame, Thisb�, sortent.)
+
+TH�S�E.--Maintenant la voil� donc � bas la muraille qui s�parait les
+deux voisins.
+
+D�M�TRIUS.--Il n'y a pas de rem�de, mon prince, quand les murailles sont
+si prestes � entendre sans en pr�venir.
+
+HIPPOLYTE.--Ceci est la plus sotte absurdit� que j'aie jamais entendue.
+
+TH�S�E.--La meilleure de ces repr�sentations n'est qu'une illusion, et
+la pire de toutes ne sera pas pire, si l'imagination veut l'embellir.
+
+HIPPOLYTE.--Il faut que ce soit votre imagination qui s'en charge alors
+et non pas la leur.
+
+TH�S�E.--Si nous ne pensons pas plus d'eux qu'ils n'en pensent
+eux-m�mes, ils peuvent passer pour d'excellents acteurs.--Voici deux
+fameuses b�tes qui s'avancent, une lune et un lion.
+
+(Entrent le Lion et le Clair-de-Lune.)
+
+LE LION.--�Belles dames, vous dont le coeur timide fr�mit � la vue de
+la plus petite souris qui court sur le plancher, vous pourriez ici
+frissonner et trembler d'effroi lorsqu'un lion f�roce vient � rugir dans
+sa rage. Sachez donc que moi, Snug le menuisier, je ne suis ni un lion
+f�roce ni la femelle d'un lion; car si j'�tais venu comme un lion irrit�
+dans ce lieu, ma vie courrait de grands dangers.�
+
+TH�S�E.--Une fort bonne b�te, et d'une honn�te conscience.
+
+D�M�TRIUS.--La meilleure b�te, pour une b�te b�te, que j'ai jamais vue,
+mon prince.
+
+LYSANDRE.--Ce lion est un vrai renard par la valeur.
+
+TH�S�E.--Cela est vrai; et un v�ritable oison par la prudence.
+
+D�M�TRIUS.--Non pas, mon prince, car sa valeur ne peut emporter sa
+prudence, et le renard emporte l'oison.
+
+TH�S�E.--Sa prudence, j'en suis s�r, ne peut emporter sa valeur; car
+l'oison n'emporte pas le renard. C'est � merveille; laissez-le � sa
+prudence, et �coutons la Lune.
+
+LE CLAIR-DE-LUNE.--�Cette lanterne vous repr�sente la lune et ses
+cornes.�
+
+D�M�TRIUS.--Il aurait d� porter les cornes sur sa t�te.
+
+TH�S�E.--Ce n'est pas un croissant; et ses cornes sont invisibles dans
+la circonf�rence.
+
+LE CLAIR-DE-LUNE.--�Cette lanterne repr�sente la lune et ses cornes; et
+moi j'ai l'air d'�tre l'homme dans la lune[43].�
+
+[Note 43: Ce personnage n'�tait pas nouveau. Shakspeare le tourne ici
+en ridicule.]
+
+TH�S�E.--Cette erreur est la plus grande de toutes: l'homme devrait �tre
+mis dans la lanterne; autrement, comment serait-il l'homme dans la lune?
+
+D�M�TRIUS.--Il n'ose pas se fourrer l�, � cause de la chandelle; car
+vous voyez qu'elle flambe d�j�.
+
+HIPPOLYTE.--Je suis lasse de cette lune: je voudrais que la sc�ne
+change�t.
+
+TH�S�E.--Il para�t, � sa petite lueur de prudence, qu'il est dans le
+d�cours. Mais cependant, par politesse et par raison, il faut attendre
+le temps voulu.
+
+LYSANDRE.--Poursuis, lune.
+
+LE CLAIR-DE-LUNE.--�Tout ce qui me reste � vous dire, c'est de vous
+d�clarer que la lanterne est la lune; moi l'homme dans la lune; ce
+buisson d'�pines, mon buisson d'�pines; et ce chien, mon chien.�
+
+D�M�TRIUS.--Eh! mais, tout cela devrait �tre dans la lanterne; car ils
+sont dans la lune. Mais, silence; voici Thisb�.
+
+THISB�.--�Voici la tombe du vieux Ninny. O� est mon amant?�
+
+LE LION.--�Hoh!� (Le Lion rugit, Thisb� s'enfuit.)
+
+D�M�TRIUS.--Bien rugi, lion!
+
+TH�S�E.--Bien couru, Thisb�!
+
+HIPPOLYTE.--Bien brill�, lune!--Vraiment, la lune luit de fort bonne
+gr�ce.
+
+(Le Lion d�chire le manteau de Thisb�, et sort.)
+
+TH�S�E.--Bien m�ch�, lion!
+
+D�M�TRIUS.--Et voil� Pyrame qui vient.
+
+LYSANDRE.--Et la lune qui dispara�t.
+
+PYRAME.--�Douce lune, je te remercie de tes rayons solaires! Je te rends
+gr�ces, lune, de ta clart� si brillante; car � la lumi�re de tes rayons
+gracieux, dor�s et brillants, je me promets de go�ter la vue de la
+tr�s-fid�le Thisb�!�
+
+    Mais, arr�tons, � horreur!
+    Mais, voyons: pauvre chevalier,
+    Quel affreux objet s'offre ici?
+    Mes yeux, voyez-vous?
+    Comment cela peut-il �tre?
+    � ma petite poule, � ma ch�re!
+    Ton beau manteau,
+    Quoi donc, est-il teint de sang?
+    Approchez, cruelles furies;
+    � destin: venez, venez,
+    Coupez fil et filasse:
+  �crasez, d�truisez, �gorgez, et finissez tout!
+
+TH�S�E.--Cette fureur et la mort d'un tendre amant seraient capables de
+rendre un homme triste.
+
+HIPPOLYTE.--J'en veux � mon coeur; mais j'ai piti� de lui.
+
+PYRAME.--�� nature! pourquoi formas-tu des lions? Puisque cet inf�me
+lion a d�flor� ici ma ch�re ma�tresse, qui est... non, non, qui �tait la
+plus belle personne qui ait v�cu, qui ait aim�, qui ait caress�, qui ait
+regard� de ses beaux yeux.�
+
+  Venez, larmes, confondez-vous,--
+  � moi, mon �p�e, et blesse
+  Le sein de Pyrame:
+  Oui, le sein gauche
+  O� palpite le coeur.
+  Ainsi je meurs, je meurs, je meurs,
+  Maintenant je suis mort,
+  Maintenant je suis parti de ce monde;
+  Mon �me est dans les cieux.
+  Langue, perds ta lumi�re;
+  Lune, prends la fuite;
+  Et maintenant, meurs, meurs, meurs.
+  Meurs, meurs.
+
+(Il meurt. Le Clair-de-Lune sort.)
+
+D�M�TRIUS.--Plus de d� pour lui si ce n'est l'as, car il n'est plus
+qu'_un_[44].
+
+[Note 44: �_Die_, mourir, et _die_, �quivoque.� FARMER.]
+
+LYSANDRE.--Il est moins qu'un as, ami, car il est mort; il n'est rien.
+
+TH�S�E.--Avec le secours d'un chirurgien, il pourrait en revenir encore
+et se trouver un �ne.
+
+HIPPOLYTE.--Par quel hasard le Clair-de-Lune s'en est-il all�, avant que
+Thisb� revienne et trouve son amant?
+
+TH�S�E.--Elle le trouvera � la clart� des �toiles.--La voici qui
+s'avance, et sa douleur va finir la pi�ce.
+
+(Thisb� para�t.)
+
+HIPPOLYTE.--Il me semble qu'elle ne doit pas �tre fort longue, pour un
+pareil Pyrame; j'esp�re qu'elle sera courte.
+
+D�M�TRIUS.--Lequel de Pyrame ou de Thisb� vaut le mieux? Un atome ferait
+pencher la balance.
+
+LYSANDRE.--Elle l'a d�j� aper�u avec ses beaux yeux.
+
+D�M�TRIUS.--Et la voil� qui va g�mir: vous allez entendre.
+
+THISB�.
+
+  Dors-tu, mon amant?
+  Quoi! serais-tu mort, mon beau tourtereau?
+  � Pyrame! l�ve-toi:
+  Parle, parle-moi: tout � fait muet?
+  Donc, mort, mort? Une tombe
+  Doit donc couvrir tes yeux.
+  Ce front de lis,
+  Ce nez vermeil,
+  Ces joues jaunes comme la primev�re,
+  Sont �vanouis, sont �vanouis.
+  Amants, g�missez;
+  Ses yeux �taient verts comme porreau.
+  � vous, trio de soeurs,
+  Venez, venez � moi.
+  Avec vos mains p�les comme le lait,
+  Teignez-les dans le sang,
+  Puisque vous avez coup�
+  De vos ciseaux son fil de soie.
+  Langue, n'ajoute pas un mot;
+  Viens, fid�le �p�e,
+  Viens, lame tranchante, plonge-toi dans mon sein,
+  Et adieu, mes amis.
+  Ainsi finit Thisb�.
+  Adieu, adieu, adieu.
+
+(Elle meurt.)
+
+TH�S�E.--Le clair de lune et le lion sont rest�s pour enterrer les
+morts.
+
+D�M�TRIUS.--Oui, et la muraille aussi.
+
+BOTTOM.--Non, je puis vous l'assurer. La muraille qui s�parait leurs
+p�res est � bas.--Vous pla�t-il de voir l'�pilogue, ou d'entendre une
+danse bergamasque[45], entre deux acteurs de notre troupe?
+
+[Note 45: On sait que les danses bergamasques ont eu longtemps de la
+r�putation.]
+
+TH�S�E.--Point d'�pilogue, je vous prie; car votre pi�ce n'a pas besoin
+d'apologie: ne vous excusez-pas; car lorsque tous les acteurs sont
+morts, il n'est pas besoin d'en bl�mer aucun. Vraiment, si celui qui a
+compos� cette pi�ce avait jou� le r�le de Pyrame, et qu'il se f�t pendu
+avec la jarreti�re de Thisb�, cela aurait fait une bien belle trag�die;
+et c'en est une en v�rit�, et jou�e avec distinction. Mais, voyons
+notre bergamasque: laissez l� votre �pilogue. (_Une danse de paysans
+bouffons._) La langue de fer de minuit a prononc� douze: amants, au lit;
+c'est presque l'heure des f�es. Je crains bien que nous ne dormions trop
+tard le matin, comme nous avons veill� trop longtemps cette nuit.
+Cette farce grossi�re nous a bien tromp�s sur la marche pesante de la
+nuit.--Chers amis, allons � notre lit: en l'honneur de cette solennit�,
+nous passerons quinze jours entiers dans les f�tes nocturnes et des
+divertissements nouveaux, et chaque jour am�nera de nouveaux plaisirs,
+pour c�l�brer cette f�te. (Tous sortent.)
+
+
+SC�NE II
+
+_Entre_ PUCK.
+
+
+  Voici l'heure o� le lion affam� rugit,
+  O� le loup hurle � la lune,
+  Tandis que le lourd laboureur ronfle
+  �puis� de sa p�nible t�che.
+  Maintenant les tisons consum�s brillent dans le foyer;
+  La chouette, poussant son cri sinistre,
+  Rappelle aux malheureux, couch�s dans les douleurs,
+  Le souvenir d'un drap fun�bre.
+  Voici le temps de la nuit,
+  O� les tombeaux, tous entr'ouverts,
+  Laissent �chapper chacun son spectre,
+  Qui va errer dans les sentiers des cimeti�res.
+  Et nous, f�es, qui voltigeons
+  Pr�s du char de la triple H�cate,
+  Fuyant la pr�sence du soleil,
+  Et suivant l'ombre comme un songe,
+  Nous gambadons maintenant. Pas une souris
+  Ne troublera cette maison sacr�e.
+  Je suis envoy� devant, avec un balai,
+  Pour balayer la poussi�re derri�re la porte[46].
+
+[Note 46: La propret� est n�cessaire pour attirer chez soi des f�es
+propices.]
+
+(Entrent Oberon et Titania avec leur cour.)
+
+OBERON.
+
+    Qu'une faible lumi�re �claire cette maison
+    Par le moyen de ce feu mourant;
+    Que tous les esprits et toutes les f�es
+  Sautent d'un pied l�ger, comme l'oiseau sur la branche.
+    R�p�tez apr�s moi ce couplet:
+    Chantez et dansez rapidement � sa mesure.
+
+TITANIA.
+
+  D'abord, r�p�tez ce couplet par coeur;
+  Et � chaque mot une cadence;
+  Les mains enlac�es, avec la gr�ce des f�es,
+  Nous chanterons et nous b�nirons cette demeure.
+
+(Chant et danse[47].)
+
+[Note 47: On pr�tend qu'il y a ici deux couplets perdus.]
+
+OBERON.
+
+  � pr�sent, jusqu'� la pointe du jour,
+  Que chaque f�e erre dans ce palais.
+  Nous irons au beau lit nuptial,
+  Et il sera b�ni parmi nous;
+  Et la lign�e qui y sera engendr�e
+  Sera toujours heureuse.
+  Ces trois couples d'amants
+  Seront toujours sinc�res et fid�les,
+  Et les taches de la main de la nature
+  Ne se verront point sur leurs enfants.
+
+  Jamais signe, bec de li�vre, cicatrice,
+  Ou marque de sinistre augure, qui sont
+  Si p�nibles � voir au jour de la nativit�,
+  N'existeront pour leurs enfants.
+  F�es, dispersez-vous;
+  Qu'avec la ros�e des champs
+  Chacune voue chaque appartement
+  De ce palais � la douce paix,
+  Il subsistera toujours en s�ret�,
+  Et le ma�tre en sera toujours b�ni.
+    Allons, vite,
+    Ne tardons plus
+  Venez me rejoindre au point du jour.
+
+(Oberon et Titania sortent avec leur cour.)
+
+PUCK.
+
+  Si nous, l�gers fant�mes, nous avons d�plu,
+  Figurez-vous seulement (et tout sera r�par�),
+  Que vous avez fait ici un court sommeil,
+  Tandis que ces visions erraient autour de vous.
+  Seigneurs, ne bl�mez point
+  Ce faible et vain sujet,
+  Et ne le prenez que pour un songe:
+  Si vous faites gr�ce, nous corrigerons.
+  Et comme je suis un honn�te Puck,
+  Si nous avons le bonheur imm�rit�
+  D'�chapper cette fois � la langue du serpent[48],
+  Nous ferons mieux avant peu,
+  Ou tenez Puck pour un menteur.
+  Ainsi; bonne nuit � tous.
+  Pr�tez-moi le secours de vos mains si nous sommes amis
+  Et Robin vous d�dommagera quelque jour.
+
+(Il sort.)
+
+[Note 48: Les sifflets.]
+
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+
+End of Project Gutenberg's Le songe d'une nuit d'�t�, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LE SONGE D'UNE NUIT D'�T� ***
+
+***** This file should be named 17930-8.txt or 17930-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/7/9/3/17930/
+
+Produced by Paul Murray, Renald Levesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

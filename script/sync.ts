@@ -10,7 +10,7 @@ const FILES_DIR = path.join(__dirname, '..', 'files');
 const METADATA_FILE = path.join(__dirname, '..', 'metadata.json');
 const CONCURRENT_DOWNLOADS = 10;
 
-function fetchUrl(urlString: string): Promise<Buffer> {
+function fetchUrl(urlString: string): Promise<Buffer | null> {
     return new Promise((resolve, reject) => {
         try {
             urlString = urlString.trim();
@@ -21,7 +21,7 @@ function fetchUrl(urlString: string): Promise<Buffer> {
                 port: parsedUrl.port,
                 path: parsedUrl.pathname + parsedUrl.search,
                 method: 'GET',
-                timeout: 30000,
+                timeout: 60000,
             };
 
             const req = https.request(options, handleResponse)
@@ -34,6 +34,9 @@ function fetchUrl(urlString: string): Promise<Buffer> {
 
             function handleResponse(res: any) {
 
+                if (res.statusCode == 404) {
+                    resolve(null)
+                }
                 if (res.statusCode !== 200) {
                     reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
                     return;
@@ -61,6 +64,7 @@ function buildMirrorUrl(bookId: number): BookUrl[] {
 
     return [
         {url: `${basePath}${bookId}-8.txt`, encoding: encoding.UTF8},
+        {url: `${basePath}${bookId}-8.txt`, encoding: encoding.LATIN1}, // some files are encoding in latin1 but with -8 suffix
         {url: `${basePath}${bookId}-0.txt`, encoding: encoding.LATIN1},
         {url: `${basePath}${bookId}.txt`, encoding: encoding.ASCII},
     ];
@@ -134,6 +138,9 @@ async function getAllBooks(): Promise<Book[]> {
 
     try {
         const response = await fetchUrl(GUTINDEX_URL);
+        if (response === null) {
+            throw new Error('GUTINDEX.ALL not found (404)');
+        }
         console.log('Parsing...');
         return parseGutindex(response.toString());
     } catch (error) {
@@ -179,6 +186,7 @@ async function downloadBook(book: Book): Promise<DownloadResult> {
     const bookDir = path.join(FILES_DIR, dirPath, bookId.toString());
     const filepath = path.join(bookDir, `${bookId}.txt`);
 
+
     try {
         await fs.access(filepath);
         return {success: true, skipped: true};
@@ -201,16 +209,20 @@ async function downloadBook(book: Book): Promise<DownloadResult> {
     for (let url of urls) {
         try {
             let contentBuffer = await fetchUrl(url.url);
+            if (contentBuffer === null) {
+                continue
+            }
             const content = (contentBuffer.toString(url.encoding.valueOf() as BufferEncoding));
 
             if (content.includes("\uFFFD")) {
                 console.warn(`[${bookId}] Bugged encoding in ${url.encoding.valueOf()}`)
-                continue
+
             }
 
             await fs.writeFile(filepath, content, 'utf8');
             return {success: true, skipped: false};
-        } catch {
+        } catch (e) {
+            console.error(`[${bookId}] Error downloading from ${url.url}: ${(e as Error).message}`);
         }
     }
     console.error(`[${bookId}] Failed to download from all URLs (${urls.map(u => u.url).join(', ')})`);
@@ -300,7 +312,10 @@ if (require.main === module) {
     syncBooks().catch(error => {
         console.error('error:', error);
         process.exit(1);
-    });
+    }).finally(() => {
+            process.exit(0)
+        }
+    );
 }
 
 export {syncBooks};

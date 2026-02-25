@@ -1,3 +1,2325 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:847360c003e451005b899efa7177c2e6da0c13ebda215aa47404751a0b6a77bf
-size 65052
+ï»¿The Project Gutenberg EBook of Odes d'AnacrÃ©on, by Anacreon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Odes d'AnacrÃ©on
+       Traduction littÃ©rale et rythmique
+
+Author: Anacreon
+
+Translator: Alexandre Machard
+
+Release Date: August 20, 2008 [EBook #26376]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ODES D'ANACRÃON ***
+
+
+
+
+Produced by Michael Roe and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+
+
+
+
+
+  Odes d'AnacrÃ©on
+
+  _ÃDITION D'AMATEUR
+  sur papier de Hollande
+  Ã  deux cents exemplaires numÃ©rotÃ©s[1]._
+
+  No. 6
+
+[Note 1: _Les exemplaires de passe sont numÃ©rotÃ©s 200 a, 200 b,
+200 c, etc._
+
+_Cet ouvrage, vu son caractÃ¨re classique, pourra Ãªtre rÃ©imprimÃ©
+ultÃ©rieurement sur papier ordinaire._]
+
+
+
+
+  Odes
+  d'AnacrÃ©on
+
+  _Traduction littÃ©rale et rythmique_
+
+  PAR
+
+  ALEXANDRE MACHARD
+
+
+[Illustration]
+
+  PARIS
+
+  ISIDORE LISEUX, ÃDITEUR
+
+  Rue Bonaparte, no. 25
+
+  1884
+
+
+
+
+AVERTISSEMENT
+
+
+Dussions-nous scandaliser les admirateurs de M. Patin (il en a,
+paraÃ®t-il), nous proclamerons trÃ¨s haut cette vÃ©ritÃ© stupÃ©fiante,
+paradoxe d'aujourd'hui, qui triomphera demain:
+
+Â«_Les PoÃ¨tes anciens n'ont pas encore Ã©tÃ© traduits._Â»
+
+De leurs poÃ¨mes on nous a tout rendu; tout, exceptÃ© ce quelque chose
+de fugitif et d'ailÃ©, de difficilement saisissable: le rythme,
+c'est-Ã -dire l'Ã¢me mÃªme des vers.
+
+C'est que les traducteurs n'ont pas voulu s'obliger, comme nous, Ã 
+rendre _un vers par_ _une ligne_. Ils n'ont pas craint de noyer dans
+un flot de prose continue et monotone les vers les plus opposÃ©s par
+le sens, les plus nettement distinguÃ©s par l'intention du poÃ¨te. DÃ¨s
+lors, que deviennent, dans ce furieux dÃ©bordement de prose, les
+repos, les suspensions? Que deviennent les enjambements si familiers
+aux Grecs, et que les Romantiques n'ont pas inventÃ©s; tout ce qui
+donne enfin au vers son coloris, son mouvement et comme une vie
+personnelle? Il n'y paraÃ®t plus, et la prose de nos traducteurs n'est
+qu'un HÃ©brus glacÃ© qui roule les membres Ã©pars des OrphÃ©es dÃ©chirÃ©s.
+
+Ainsi M. Patin, le Perrot d'Ablancourt de ce siÃ¨cle, s'est Ã©vertuÃ©
+sur Horace: sa traduction n'est qu'une belle infidÃ©litÃ© de plus, si
+jamais une infidÃ©litÃ© put Ãªtre belle.
+
+Eh bien! nous proscrivons impitoyablement ce systÃ¨me. Nous lui
+opposons hardiment notre mÃ©thode: _rendre un vers par une ligne_,
+aussi concise, aussi serrÃ©e que lui, fidÃ¨le comme un miroir, exacte
+comme un dÃ©calque.
+
+Et cette reproduction quasi photographique, nous ne l'obtenons pas
+sans peine, croyez-le bien. Il y faut apporter la plus scrupuleuse
+attention, et comme une religieuse dÃ©votion Ã  son modÃ¨le. Pour
+triompher du texte, il faut docilement s'assujettir Ã  lui, en suivre
+les inflexions et les mÃ©andres, observer les virgules, respecter les
+lignes du vers, les enjamber avec un mot placÃ© en rejet: servitude
+heureuse, qui assure la victoire du traducteur. Notre mÃ©thode est
+surtout faite de conscience.
+
+DÃ©jÃ  nous l'avons Ã©prouvÃ©e sur les _Juvenilia_ de ThÃ©odore de BÃ¨ze:
+nous n'avons pas eu lieu de nous en repentir. Notre Ã©diteur, tout
+dÃ©vouÃ© Ã  la cause de la traduction littÃ©rale et rythmique des poÃ¨tes,
+a donnÃ©, dans ce systÃ¨me, plusieurs chants du _Roland furieux_. Son
+ambition et la nÃ´tre serait de traduire ainsi HomÃ¨re, Pindare,
+Aristophane, LucrÃ¨ce, Virgile, Horace et tous les grands dieux de
+l'Olympe Grec et Latin.
+
+Nous n'emporterons pas certainement l'approbation, encore moins les
+prix de l'AcadÃ©mie; mais il nous reste le plaisir d'Ãªtre des
+initiateurs et d'ouvrir une voie nouvelle. Et si quelqu'un goÃ»te
+notre mÃ©thode, qu'il la suive et qu'il en use, pour verser en
+FranÃ§ais un de ces vastes et grands poÃ¨mes antiques qui restent
+encore Ã  traduire, aprÃ¨s tant de traducteurs!
+
+Pour cette fois et pour Ã©prouver Ã  nouveau la sÃ»retÃ©, la certitude de
+notre mÃ©thode, nous avons choisi cette parure Ã©tincelante de soixante
+perles fines qui s'appellent les _Odes d'AnacrÃ©on_.
+
+Nous avons voulu donner une juste idÃ©e de ce style taillÃ© Ã  facettes
+par un bijoutier curieux et subtil, et surtout laisser au lecteur
+l'impression, _la sensation_ qu'il lit des vers.
+
+Aussi avons-nous poussÃ© l'exactitude photographique jusqu'Ã  conserver
+aux mots l'ordre qu'ils ont dans l'original. Nous avons dÃ©fendu au
+vers d'empiÃ©ter sur le suivant, et les inversions primitives ont Ã©tÃ©
+reproduites, Ã  l'exemple des poÃ¨tes de la PlÃ©iade.
+
+Nous n'avons pas voulu traduire en vers; mais ce n'est pas notre
+faute, si la ligne de prose FranÃ§aise, strictement nÃ©cessaire Ã 
+rendre le minuscule vers Grec, nous a donnÃ© souvent un vers FranÃ§ais
+de six ou sept pieds.
+
+D'ailleurs notre prose est rythmÃ©e; elle a sa cadence intime comme
+les vers, et cela devait Ãªtre. Car l'ode d'AnacrÃ©on est une chanson
+de BÃ©ranger, au rythme agile, qui court et danse, comme les jeunes
+filles du festin Grec, Â«sur des pieds rapides et dÃ©licats.Â»
+
+  A. M.
+
+
+
+
+Odes d'AnacrÃ©on
+
+
+
+
+I
+
+LA CITHARE
+
+
+  Je veux chanter les Atrides,
+  Je veux chanter Cadmus:
+  Mais ma lyre dans ses cordes
+  N'a qu'un chant: celui de l'Amour.
+  NaguÃ¨re j'ai changÃ© de cordes,
+  ChangÃ© toute ma lyre:
+  Et moi aussi, je chantais les travaux
+  D'Hercule; mais, ma lyre
+  RÃ©pondait par des chants d'amour.
+  Adieu donc dÃ©sormais,
+  HÃ©ros, puisque ma lyre
+  Ne chante que les ÃrÃ´s.
+
+
+
+
+II
+
+LES FEMMES
+
+
+  Nature donna des cornes aux taureaux,
+  Des sabots aux chevaux,
+  Des pieds agiles aux liÃ¨vres,
+  Aux lions une gueule Ã©norme,
+  Aux poissons des nageoires,
+  Aux oiseaux des ailes,
+  Aux hommes du cÅur;
+  Elle n'avait plus rien pour les femmes.
+  Aussi que leur donna-t-elle?--La BeautÃ©,
+  Plus forte que tous les boucliers,
+  Plus forte que toutes les lances;
+  Elle triomphe et du fer
+  Et du feu, la femme belle.
+
+
+
+
+III
+
+L'AMOUR MOUILLÃ
+
+
+  NaguÃ¨re, au milieu de la nuit,
+  Quand l'Ourse dÃ©jÃ  tourne
+  PrÃ¨s de la main du Bouvier,
+  Et que les races mortelles
+  Dorment, domptÃ©es par le travail;
+  ÃrÃ´s, survenant soudain,
+  Frappait aux verrous de ma porte.
+  Â«Qui heurte Ã  ma porte?Â» criai-je;
+  Â«Vous mettez en fuite mes songes.Â»
+  Mais ÃrÃ´s:--Â«OuvreÂ», dit-il,
+  Â«Je suis un enfant: ne crains pas.
+  Je suis mouillÃ©, et dans la nuit
+  Sans lune je suis Ã©garÃ©.Â»
+
+  A ces mots, j'eus pitiÃ©.
+  Ma lampe aussitÃ´t rallumÃ©e,
+  J'ouvris et je vis en effet
+  Un enfant qui portait un arc,
+  Des ailes, avec un carquois.
+  PrÃ¨s du feu je l'assieds,
+  Dans mes mains je rÃ©chauffe
+  Les siennes, et de sa chevelure
+  J'exprime l'humiditÃ©.
+  Mais, Ã  peine rÃ©chauffÃ©:
+  Â«ÃÃ ,Â» dit-il; Â«essayons
+  Cet arc, et voyons Ã  quel point
+  Est endommagÃ©e sa corde mouillÃ©e.Â»
+
+  Il le bande, et me frappe
+  En plein cÅur, comme un taon.
+  Puis, avec une gambade et des Ã©clats de rire:
+  Â«Mon hÃ´te,Â» dit-il, Â«adieu;
+  Mon arc n'a pas souffert:
+  C'est ton cÅur qui souffrira.Â»
+
+
+
+
+IV
+
+SUR LUI-MÃME
+
+
+  Sur un lit de myrtes tendres,
+  D'herbes fleuries de lotos
+  RÃ©pandu, je veux boire.
+  Qu'ÃrÃ´s, avec un lien de papyrus
+  Relevant Ã  son cou la tunique,
+  M'apporte du vin pur.
+  Car, comme la roue du char,
+  Notre vie court emportÃ©e:
+  Nous reposerons, lÃ©gÃ¨re
+  Cendre, et fantÃ´me sans os.
+  A quoi bon parfumer la tombe
+  Et verser Ã  la terre de vaines libations?
+  Mais plutÃ´t, pendant que je vis,
+  Parfume-moi; couvre ma tÃªte
+  De roses; appelle l'hÃ©taÃ¯re.
+  Amour, avant de m'en aller
+  Danser dans les Enfers,
+  Je prÃ©tends dissiper mes soucis.
+
+
+
+
+V
+
+LA ROSE
+
+
+  Amis, mÃªlons au vin
+  La rose des Amours:
+  Attachant Ã  nos tempes
+  La rose aux belles feuilles,
+  Buvons, avec le sourire de la voluptÃ©.
+  Rose, Ã´ reine des fleurs,
+  Rose, amour du Printemps,
+  Et charme des Dieux mÃªmes;
+  Rose, dont le fils de CythÃ©rÃ©e
+  Fait une couronne Ã  ses beaux cheveux,
+  Pour danser avec les GrÃ¢ces;
+  Ceins ma tÃªte et, lyre en main,
+  AuprÃ¨s de tes autels, Bacchus,
+  Avec une fille au sein opulent,
+  De couronnes de roses
+  EnguirlandÃ©, j'irai danser.
+
+
+
+
+VI
+
+LE CHANT DU KOMOS
+
+
+  Mariant Ã  nos fronts
+  Des couronnes de roses,
+  Nous buvons avec le sourire de la voluptÃ©.
+  Aux sons de la lyre une jeune fille,
+  Portant des thyrses qui frÃ©missent
+  Dans leurs tresses de lierre,
+  Agite ses pieds dÃ©licats.
+  Ce pendant un garÃ§on aux cheveux ondoyants,
+  Par les trous qui doucement soupirent,
+  Sur les flÃ»tes s'amuse
+  A verser des sons harmonieux.
+  ÃrÃ´s aux cheveux d'or,
+  Avec le beau Bacchus,
+  La belle CythÃ©rÃ©e,
+  Tout joyeux poursuit le festin
+  ChÃ©ri des vieillards.
+
+
+
+
+VII
+
+L'AMOUR COUREUR
+
+
+  Avec une branche d'hyacinthe
+  ÃrÃ´s me frappant durement au visage,
+  M'ordonna de courir avec lui.
+  Et par les torrents rapides,
+  Par les taillis, par les ravins,
+  Je courus: la chaleur m'accablait,
+  Mon Ã¢me Ã  mes lÃ¨vres montait;
+  Un peu plus, et j'Ã©tais mort,
+  Quand ÃrÃ´s, ventilant mon front
+  De ses douces ailes, me dit:
+  Â«Tu ne sais pas aimer.Â»
+
+
+
+
+VIII
+
+LE RÃVE
+
+
+  Dans la nuit reposant
+  Sur des tapis de pourpre,
+  ÃgayÃ© par Bacchus,
+  Je me voyais sur la pointe des pieds
+  Courant agilement
+  Et folÃ¢trant avec des jeunes filles;
+  Puis, raillÃ© par de jeunes hommes
+  Plus vermeils que Bacchus,
+  Qui me lanÃ§aient des paroles mordantes
+  A propos de ces belles.
+  Je voulus les baiser:
+  Tous alors me quittÃ¨rent;
+  Et, restÃ© seul, infortunÃ©,
+  Je ne songeai qu'Ã  me rendormir.
+
+
+
+
+IX
+
+LA COLOMBE
+
+
+  Â«Aimable Colombe,
+  D'oÃ¹ viens-tu en volant?
+  OÃ¹ pris-tu ces parfums
+  Que, dans les airs oÃ¹ tu cours,
+  Tu exhales et tu rÃ©pands?
+  Qui es-tu? quel soin t'occupe?Â»
+
+  --Â«AnacrÃ©on m'envoie
+  Vers son amant Bathylle,
+  De tous les cÅurs aujourd'hui
+  Le souverain et le prince.
+  CythÃ©rÃ©e m'a vendue
+  Pour une odelette;
+  C'est moi qu'AnacrÃ©on emploie
+  Pour ses grands messages,
+  Et tu vois quelles lettres
+  Je porte pour lui.
+  Il dit qu'aussitÃ´t revenue,
+  Il me rendra la libertÃ©:
+  Â«Et moi, mÃªme affranchie,
+  Je veux rester prÃ¨s de lui, son esclave.
+  Qui m'oblige Ã  voltiger
+  Par les monts et par les champs
+  Et, sur les arbres perchÃ©e,
+  Manger quelques graines rustiques?
+  A prÃ©sent je mange du pain:
+  Je n'ai qu'Ã  le prendre des mains
+  D'AnacrÃ©on lui-mÃªme;
+  Il me donne Ã  boire
+  Du vin qu'il s'est versÃ©.
+  Quand j'ai bu, je sautille
+  Et de mes ailes j'ombrage
+  Mon maÃ®tre;
+  Jusque sur sa lyre
+  PosÃ©e je m'endors.
+
+  Â«Tu sais tout: adieu.
+  Tu m'as rendue plus bavarde,
+  Ãtranger, qu'une corneille.Â»
+
+
+
+
+X
+
+L'AMOUR DE CIRE
+
+
+  Un adolescent vendait
+  Un Amour de cire.
+  Je vais Ã  lui:
+  Â«Combien veux-tu,Â» lui dis-je,
+  Â«Que je te donne de ta figurine?Â»
+  Il me rÃ©pond dans son patois Dorique:
+  --Â«Prends-le pour ce que tu veux.
+  Mais pour t'apprendre Ã  le connaÃ®tre,
+  Je ne suis pas faiseur de figures de cire;
+  Mais je ne veux plus vivre avec
+  Un Amour capable de tout faire.
+  --Eh bien! donne, donne-moi donc
+  Pour une drachme ce charmant coucheur.Â»
+
+  Et toi, Amour, sur-le-champ
+  Enflamme-moi; sinon,
+  Je t'enverrai te fondre dans les flammes.
+
+
+
+
+XI
+
+LE GAI VIEILLARD
+
+
+  Les Femmes me disent:
+  Â«AnacrÃ©on, tu vieillis.
+  Prends ce miroir, et regarde:
+  Tu n'as plus de cheveux,
+  Ton front est dÃ©garni.Â»
+  Pour moi, si j'ai des cheveux
+  Encore, ou si n'en ai plus,
+  Je ne sais: mais je sais bien
+  Qu'un vieillard doit d'autant plus
+  Se donner de l'agrÃ©ment,
+  Qu'il est plus voisin de la Parque.
+
+
+
+
+XII
+
+A UN MERLE
+
+
+  Que veux-tu que je fasse,
+  Dis, merle bavard?
+  Tes lÃ©gÃ¨res ailes, veux-tu
+  Que je les prenne et je les coupe?
+  Aimes-tu mieux que de ton bec,
+  Comme fit le fameux TÃ©rÃ©e,
+  Je moissonne la langue?
+  Pourquoi de mes rÃªves charmants
+  Par ton chant matinal
+  Avoir fait fuir Bathylle?
+
+
+
+
+XIII
+
+FUREUR DE L'AMANT
+
+
+  On dit qu'Ã©pris de la belle CybÃ¨le
+  Athys, ce mÃ¢le mutilÃ©,
+  Fut saisi d'un furieux dÃ©lire
+  Qui lui faisait pousser des cris sur les montagnes.
+  Et ceux qui, sur les collines de Claros,
+  De PhÃ©bus porte-lauriers
+  Boivent l'onde inspiratrice,
+  Hurlent, prophÃ¨tes furieux.
+  Mais moi, c'est rassasiÃ© de vin
+  Et de parfums
+  Et de l'amour de ma maÃ®tresse,
+  Que je veux, oui, je veux dÃ©lirer.
+
+
+
+
+XIV
+
+L'AMOUR DOMPTEUR
+
+
+  Je veux, je veux aimer.
+  Amour me conseillait d'aimer:
+  Mais moi, esprit inconsidÃ©rÃ©,
+  Je n'Ã©tais pas persuadÃ©.
+  Soudain, prenant son arc
+  Et son carquois d'or,
+  Il me provoque au combat.
+  Alors, j'endosse
+  La cuirasse, comme Achille;
+  Je prends des javelots avec un bouclier,
+  Et vais lutter avec l'Amour.
+  Il lance ses traits: je fuis,
+  Et, dÃ¨s qu'il n'a plus de flÃ¨ches,
+  Il trÃ©pigne, et c'est lui-mÃªme
+  Qui se lance au lieu de trait.
+  Alors mon cÅur se fondit,
+  Les forces m'abandonnÃ¨rent.
+  En vain je porte un bouclier:
+  Que sert de combattre au dehors,
+  Quand l'ennemi est dans la place?
+
+
+
+
+XV
+
+VIVRE SANS ENVIE
+
+
+  Je n'ai cure de GygÃ¨s,
+  Le prince de Sardes;
+  L'ambition n'est pas mon fait,
+  Et je n'envie pas les rois.
+  Mon souci, c'est d'arroser
+  Ma barbe de parfums;
+  Mon souci, c'est d'enguirlander
+  Ma tÃªte de roses.
+  Aujourd'hui fait mon souci:
+  Qui connaÃ®t le lendemain?
+  Aussi, par ce temps serein,
+  Bois et joue
+  Et fÃªte LyÃ¦us,
+  Avant qu'un mal ne vienne
+  Te dire: Â«Il ne faut plus boire.Â»
+
+
+
+
+XVI
+
+LE POÃTE VAINCU
+
+
+  Tu chantes la guerre de ThÃ¨bes,
+  Les cris des combattants Troyens:
+  Moi, je chante mes dÃ©faites.
+  Qui m'a perdu?--Ce n'est pas le cavalier,
+  Ni le fantassin, ni le matelot:
+  C'est un Ã©trange soldat,
+  Qui fait feu par les yeux.
+
+
+
+
+XVII
+
+LA COUPE D'ARGENT
+
+
+  Travaille l'argent au ciseau,
+  O Vulcain, pour me faire,
+  Non pas une armure
+  (Je n'aime pas les combats),
+  Mais une coupe creuse,
+  Aussi profonde que possible.
+  Ne va pas graver dessus
+  Les Astres ni le Chariot,
+  Ni le sombre Orion:
+  Qu'ai-je Ã  faire des PlÃ©iades
+  Ou de l'Ã©toile du Bouvier?
+  Mais fais-moi verdir les vignes sur ses flancs,
+  Et les raisins briller
+  Et les MÃ©nades vendanger.
+  N'oublie pas d'y dresser un pressoir,
+  OÃ¹ fouleront les grappes,
+  Avec le beau Bacchus dans l'or incrustÃ©s,
+  ÃrÃ´s et Bathylle.
+
+
+
+
+XVIII
+
+MÃME SUJET
+
+
+  Habile artiste, cisÃ¨le
+  Une belle coupe oÃ¹ le printemps brille.
+  Qu'elle offre d'abord Ã  mes yeux
+  La saison des charmantes roses.
+  Puis, Ã©tends l'argent sous le marteau,
+  Pour que j'aime Ã  y boire.
+  Ne va pas y graver quelque Ã©trange
+  CÃ©rÃ©monie des Initiations;
+  Pas d'odieuse histoire:
+  Mais plutÃ´t le fils de Zeus,
+  Bacchus Evius,
+  Et l'initiatrice des Amours, Cypris,
+  Applaudissant aux hymÃ©nÃ©es.
+  Grave aussi les Amours sans armes
+  Et le sourire des GrÃ¢ces.
+  A l'ombre d'une vigne au feuillage Ã©pais,
+  Aux raisins superbes, aux pampres touffus,
+  Place un groupe de beaux garÃ§ons;
+  Et que PhÃ©bus y joue aussi.
+
+
+
+
+XIX
+
+IL FAUT BOIRE
+
+
+  La terre brune boit,
+  Et les arbres la boivent,
+  Et la mer boit les airs,
+  Et le soleil la mer,
+  Et la lune le soleil lui-mÃªme:
+  Pourquoi donc, compagnons,
+  Me dÃ©fendre de boire?
+
+
+
+
+XX
+
+A UNE JEUNE FILLE
+
+
+  Jadis la fille de Tantale
+  Se durcit en rocher sur les monts de Phrygie;
+  Jadis la fille de Pandion, changÃ©e en hirondelle,
+  Eut des ailes d'oiseau.
+  Pour moi, que ne suis-je ton miroir!
+  Tes yeux me fixeraient sans cesse;
+  Ta tunique!
+  Tu me porterais toujours;
+  L'eau de ton bain!
+  Je laverais ta blanche peau;
+  Une essence!
+  Je te parfumerais, Ã´ femme;
+  Et la ceinture de tes seins,
+  Et la perle qui brille Ã  ton cou,
+  Et la sandale qui te chausse!
+  Au moins tu me presserais de tes pieds!
+
+
+
+
+XXI
+
+LA SOIF
+
+
+  Donnez-moi, donnez, Ã´ femmes,
+  Du vin Ã  boire d'un seul trait.
+  La soif me brÃ»le, et vous me dÃ©laissez:
+  J'ai lieu de gÃ©mir.
+  Et puis encore, donnez-moi de ces fleurs:
+  Mon front brÃ»le Ã  la surface
+  Les couronnes, dont je l'ai couvert.
+  Mais, de la chaleur des Amours,
+  O mon Ã¢me, qui te garantira?
+
+
+
+
+XXII
+
+BATHYLLE
+
+
+  A l'ombre de Bathylle
+  J'irai m'asseoir: ah! le bel arbre!
+  Il balance un feuillage superbe
+  Sur une tige mince;
+  A ses cÃ´tÃ©s coule, doux stimulant,
+  La source vive de la Persuasion.
+  A cette vue, qui voudrait nÃ©gliger
+  Un pareil endroit de dÃ©duit?
+
+
+
+
+XXIII
+
+L'AMOUR DE L'OR
+
+
+  Si l'abondance de l'or
+  Donnait de la vie aux mortels,
+  Je me rÃ©signerais Ã  Ã©pargner,
+  Afin que la Mort survenant
+  A prix d'or voulÃ»t s'Ã©loigner.
+  Mais puisqu'il n'est pas permis aux mortels
+  D'acheter de la vie,
+  Pourquoi gÃ©mir en vain?
+  Pourquoi me lamenter?
+  Puisque ma mort est dÃ©crÃ©tÃ©e,
+  A quoi l'or me sert-il?
+  Ah! que j'aie le bonheur de boire!
+  Et, tout en buvant du vin dÃ©licieux
+  En compagnie de mes amis,
+  PuissÃ©-je en un lit dÃ©licat
+  Accomplir l'Åuvre de VÃ©nus!
+
+
+
+
+XXIV
+
+RÃSOLUTION
+
+
+  Puisque je suis nÃ© mortel
+  Pour parcourir la route de la vie,
+  Je sais le temps que j'ai passÃ©,
+  Sans connaÃ®tre le temps qu'il me reste Ã  courir.
+  Laissez-moi, soucis:
+  Je n'ai pas affaire Ã  vous.
+  Avant qu'arrive ma fin,
+  Je veux jouer, rire et danser
+  Avec le beau Bacchus.
+
+
+
+
+XXV
+
+SON AMOUR POUR LE VIN
+
+
+  DÃ¨s que je bois du vin,
+  Mes soucis s'assoupissent.
+  A quoi bon soupirs,
+  Peines et chagrins?
+  Je devrai mourir, mÃªme Ã  contre-cÅur:
+  Pourquoi mÃ©connaÃ®tre la vÃ©ritable vie?
+  Buvons donc le bon vin,
+  Le vin du beau Bacchus.
+  Dans le temps mÃªme oÃ¹ nous buvons,
+  Nos soucis s'assoupissent.
+
+
+
+
+XXVI
+
+MÃME SUJET
+
+
+  Quand Bacchus s'est emparÃ© de moi,
+  Tous mes soucis s'endorment.
+  Croyant possÃ©der tout l'or de CrÃ©sus,
+  Je veux chanter superbement.
+  CouronnÃ© de lierre je repose,
+  Et mon mÃ©pris foule aux pieds l'univers.
+  Armez-vous: moi je bois.
+  Une coupe, enfant!
+  Ãtre Ã©tendu sur un lit, ivre,
+  Vaut mieux qu'Ãªtre Ã©tendu mort.
+
+
+
+
+XXVII
+
+DIONYSOS
+
+
+  C'est le fils de Zeus, Bacchus,
+  Qui bannit les chagrins et qui dÃ©lie les langues.
+  Quand se rÃ©pand dans mes esprits
+  Ce dieu qui verse le vin,
+  Il m'apprend Ã  danser.
+  Pourtant, j'ai d'autres plaisirs,
+  Moi, poÃ¨te, Ã©pris des ivresses:
+  Avec les instruments bruyants, avec les chants
+  Me plaÃ®t aussi VÃ©nus;
+  Et je veux danser encore.
+
+
+
+
+XXVIII
+
+PORTRAIT DE SA MAITRESSE
+
+
+  Allons, excellent peintre,
+  O le meilleur des peintres,
+  Roi de l'art qui fleurit Ã  Rhodes,
+  Fais-moi, d'aprÃ¨s mes dires,
+  Le portrait de ma maÃ®tresse absente.
+  Donne-lui d'abord des cheveux
+  Ondoyants et noirs;
+  Et, si la cire le permet,
+  Qu'ils exhalent des parfums.
+  Peins de face entiÃ¨rement
+  Sous une chevelure Ã©clatante
+  Son front d'ivoire.
+  Quant Ã  ses sourcils, ne va pas
+  Les sÃ©parer, ni les confondre:
+  Qu'ils se rejoignent, comme chez ma maÃ®tresse,
+  Imperceptiblement,
+  Et que les cils, autour des paupiÃ¨res, soient noirs.
+  Pour Ãªtre vrai, mets du feu
+  Dans ses yeux; qu'ils soient Ã  la fois
+  Brillants comme ceux d'AthÃ¨nÃ¨,
+  Humides comme ceux de CythÃ©rÃ©e.
+  Fais le nez et les joues
+  De roses et de lait.
+  Que sa lÃ¨vre, la lÃ¨vre de la Persuasion,
+  Appelle le baiser.
+  Sur son menton dÃ©licat,
+  Autour d'un cou de marbre blanc,
+  Fais voltiger toutes les grÃ¢ces.
+  Enfin, habille-la
+  D'une robe purpurine;
+  Et qu'il paraisse un peu
+  De sa chair, pour faire juger du corps.
+  Finis: je la vois. C'est bien elle!
+  O portrait vÃ©ridique, tu vas parler.
+
+
+
+
+XXIX
+
+PORTRAIT DE BATHYLLE
+
+
+  Peins-moi mon amant Bathylle,
+  D'aprÃ¨s mes renseignements.
+  Fais-lui des cheveux luisants,
+  Noirs en masse
+  Et blonds aux extrÃ©mitÃ©s.
+  De ces cheveux indisciplinÃ©s
+  Rassemblant les boucles en dÃ©sordre,
+  Laisse-les tomber Ã  leur grÃ©.
+  Que son front vermeil, frais comme rosÃ©e,
+  Se couronne d'un sourcil
+  Plus foncÃ© que la peau des serpents.
+  Que ses yeux noirs soient terribles,
+  Mais tempÃ©rÃ©s par la douceur,
+  Ayant quelque chose d'ArÃ¨s
+  Et de la belle CythÃ©rÃ©e,
+  En sorte que l'on craigne Ã  la fois
+  Et qu'on se rattrape encore Ã  quelque espoir.
+  Sur sa joue de rose
+  Mets le duvet du fruit mÃ»r.
+  Si tu peux y jeter la rougeur
+  De la pudeur, n'y manque pas.
+  Et sa bouche? Je ne sais
+  Comment tu t'y prendras pour la peindre
+  Vermeille et siÃ¨ge de la Persuasion?
+  Pour tout dire en un mot,
+  Que son silence parle.
+  AprÃ¨s son visage,
+  Que son cou d'ivoire
+  Surpasse celui d'Adonis.
+  Fais-lui la poitrine
+  Et les mains d'HermÃ¨s,
+  Les cuisses de Pollux,
+  Le ventre de Dionysos.
+  Au-dessus de ses cuisses brillantes,
+  De ses cuisses brÃ»lantes,
+  Place sans voiles un organe
+  Qui dÃ©jÃ  dÃ©sire VÃ©nus.
+  L'art jaloux que tu exerces
+  Te dÃ©fend de montrer
+  Son dos: c'est ce qu'il a de mieux.
+  T'apprendrai-je les contours de ses pieds?
+  Demande le prix que tu voudras.
+  Prends cet Apollon
+  Et fais-en Bathylle;
+  Et, si jamais tu vas Ã  Samos,
+  De Bathylle tu feras Apollon.
+
+
+
+
+XXX
+
+L'AMOUR ENCHAINÃ PAR LES MUSES
+
+
+  Les Muses ont liÃ©
+  L'Amour avec des guirlandes,
+  Et l'ont donnÃ© en garde Ã  la BeautÃ©.
+  Et maintenant la CythÃ©rÃ©e
+  Le cherche, portant la ranÃ§on,
+  Pour dÃ©livrer Amour.
+  Quand mÃªme on le dÃ©livrerait,
+  Loin de s'en aller, il voudra rester:
+  Il chÃ©rit trop son esclavage.
+
+
+
+
+XXXI
+
+FUREUR BACHIQUE
+
+
+  Laissez-moi boire Ã  la santÃ© des Dieux,
+  Boire sans fermer la bouche.
+  Je veux, je veux dÃ©lirer.
+  Ils devinrent furieux, AlcmÃ©on
+  Et OrestÃ¨s aux pieds blancs,
+  AprÃ¨s avoir tuÃ© leur mÃ¨re;
+  Mais moi, qui n'ai tuÃ© personne,
+  C'est en buvant le vin de pourpre
+  Que je veux, je veux dÃ©lirer.
+  Jadis Hercule en fureur
+  Agitait le carquois terrible
+  Et l'arc d'Iphitos.
+  Jadis Ajax en sa fureur
+  Brandissait avec son bouclier
+  L'Ã©pÃ©e d'Hector.
+  Et moi, c'est la coupe en main.
+  La couronne sur la tÃªte,
+  Que je veux, oui, je veux dÃ©lirer.
+
+
+
+
+XXXII
+
+SES AMOURS
+
+
+  Si tu peux dÃ©nombrer
+  Toutes les feuilles des arbres,
+  Si tu sais compter
+  Tous les flots de la mer,
+  Du calcul de mes amours
+  C'est toi seul que je charge.
+  Pose d'abord
+  Vingt amours d'AthÃ¨nes,
+  Puis quinze autres encore.
+  Ensuite, de Corinthe,
+  Mets-en des lÃ©gions:
+  Cette ville de l'AchaÃ¯e
+  A les plus belles femmes.
+  Puis, de Lesbos,
+  D'Ionie mÃªme,
+  De Carie et de Rhodes,
+  Pose deux mille amours.
+  --Que dis-tu?--Ãcris toujours.
+  Je n'ai rien dit encore des amours
+  De la Syrie, ni de Canope,
+  Ni de la contrÃ©e souveraine,
+  La CrÃ¨te, avec ses villes
+  OÃ¹ l'Amour cÃ©lÃ¨bre ses mystÃ¨res.
+  Voudrais-tu que je te dÃ©nombre,
+  Au delÃ  de GadÃ¨s,
+  De la Bactriane et des Indes,
+  Tous les amours de mon cÅur?
+
+
+
+
+XXXIII
+
+A UNE HIRONDELLE
+
+
+  Hirondelle chÃ©rie,
+  Qui reviens tous les ans,
+  En Ã©tÃ© tu construis ton nid,
+  Et l'hiver tu disparais
+  Volant vers le Nil ou Memphis.
+  En tout temps l'Amour construit
+  Son nid dans mon cÅur.
+  Ce dÃ©sir a des ailes,
+  Cet autre est encore dans la coque,
+  Ce troisiÃ¨me est Ã©clos Ã  moitiÃ©.
+  Et toujours se fait entendre
+  Le cri des petits perÃ§ant la coquille.
+  Les plus jeunes enfants d'ÃrÃ´s
+  Sont nourris par les aÃ®nÃ©s
+  Et bientÃ´t, devenus grands,
+  En font d'autres Ã  leur tour.
+  A ce mal, quel remÃ¨de?
+  Car, je n'ai pas la force de bannir
+  Tant d'Amours de mon cÅur!
+
+
+
+
+XXXIV
+
+A UNE JEUNE FILLE
+
+
+  Ne me fuis pas, pour avoir vu
+  Ma chevelure blanche;
+  Et, parce que tu possÃ¨des
+  La pleine fleur de la jeunesse,
+  Ne va pas repousser mes caresses:
+  Mais vois, dans une couronne,
+  Comme fait bien la blancheur
+  Des lys entrelacÃ©s aux roses.
+
+
+
+
+XXXV
+
+ZEUS TAUREAU
+
+
+  Ce taureau, mon enfant,
+  Doit Ãªtre Zeus lui-mÃªme.
+  Il porte sur son dos
+  Une jeune Sidonienne:
+  Il traverse la vaste mer,
+  Coupant le flot de ses sabots.
+  Jamais autre taureau
+  N'est sorti du troupeau,
+  Pour nager sur la mer:
+  Jamais autre, si ce n'est lui.
+
+
+
+
+XXXVI
+
+LA VIE LIBRE
+
+
+  Pourquoi m'enseigner les rÃ¨gles
+  Et les arguments des rhÃ©teurs?
+  A quoi bon ces raisonnements,
+  Qui ne servent de rien?
+  Enseigne-moi plutÃ´t Ã  boire
+  De Bacchus la boisson vermeille;
+  Enseigne-moi plutÃ´t Ã  folÃ¢trer
+  Avec la blonde VÃ©nus.
+  Des cheveux blancs couronnent ma tÃªte.
+  Donne de l'eau, verse du vin:
+  Enfant, endors ma raison.
+  Dans peu je ne serai plus: tu m'enseveliras.
+  Les morts n'ont plus de dÃ©sirs.
+
+
+
+
+XXXVII
+
+LE PRINTEMPS
+
+
+  Voyez: quand le printemps paraÃ®t,
+  Les GrÃ¢ces font croÃ®tre les roses.
+  Voyez: le flot de la mer
+  Vient mourir avec calme.
+  Voyez comme le canard plonge,
+  Voyez comme voyage la grue.
+  Le soleil brille sans voiles,
+  Les ombres des nuages sont mises en fuite,
+  Les ouvrages des hommes resplendissent.
+  La terre s'incline sous le poids de ses fruits,
+  Le fruit de l'olivier saillit en dehors,
+  La vigne de pampres se couronne.
+  Sous la feuillÃ©e, Ã  travers les branches,
+  Le bouton montre sa fleur.
+
+
+
+
+XXXVIII
+
+RÃPONSE AUX REPROCHES QU'ON LUI FAISAIT DE SA VIEILLESSE
+
+
+  Tout vieux que je suis,
+  Je bois plus que les jeunes,
+  Et, s'il me faut danser,
+  Pour sceptre j'ai mon outre:
+  La fÃ©rule ne sert Ã  rien.
+  Qui veut lutter avec moi,
+  Approche et lutte.
+  Enfant, apporte une coupe,
+  OÃ¹ tu mÃªleras les flots
+  D'un vin doux comme miel.
+  Oui, je suis vieux, je l'avoue:
+  Mais, au milieu de vous,
+  J'imiterai SilÃ¨ne en dansant.
+
+
+
+
+XXXIX
+
+LE CHANT DU FESTIN
+
+
+I
+
+  Quand je bois du vin,
+  Alors mon cÅur fleuri de joie
+  Commence Ã  chanter les Muses.
+
+
+II
+
+  Quand je bois du vin,
+  Les inquiÃ©tudes, les projets soucieux
+  S'envolent, dissipÃ©s, aux souffles
+  Des vents retentissant du bruit des vagues.
+
+
+III
+
+  Quand je bois du vin,
+  Bacchus alors, qui badine avec la lyre,
+  Me balance sur l'aile des zÃ©phyrs fleuris,
+  AprÃ¨s m'avoir rÃ©joui d'ivresse.
+
+
+IV
+
+  Quand je bois du vin,
+  Tressant des couronnes de fleurs
+  Pour les poser sur ma tÃªte,
+  Je chante la sÃ©rÃ©nitÃ© de la vie.
+
+
+V
+
+  Quand je bois du vin,
+  Oignant mon corps d'un parfum qui sent bon,
+  Serrant dans mes bras ma maÃ®tresse,
+  Je cÃ©lÃ¨bre Cypris.
+
+
+VI
+
+  Quand je bois du vin,
+  Dans des coupes rondes
+  RÃ©pandant Ã  flots le vin qui m'est cher,
+  J'aime un chÅur de jeunes gens.
+
+
+VII
+
+  Quand je bois du vin,
+  C'est un gain pour moi seul
+  Et je l'emporterai:
+  Mais la mort est le lot de tous.
+
+
+
+
+XL
+
+ÃROS
+
+
+  ÃrÃ´s un jour dans les roses
+  Une abeille cachÃ©e
+  Ne vit pas, et fut piquÃ©.
+  BlessÃ© au doigt
+  De la main, il gÃ©mit;
+  Et courant et volant
+  A la belle CythÃ©rÃ©e:
+  Â«Je suis perdu, mÃ¨reÂ», dit-il,
+  Â«Je suis perdu, et je me meurs!
+  Un petit serpent m'a frappÃ©;
+  Il a des ailes: c'est _abeille_
+  Que le nomment les laboureurs.Â»
+
+  Elle rÃ©pondit: Â«Si le dard
+  De l'abeille fait tant de peine,
+  Combien devront souffrir, crois-tu?
+  ÃrÃ´s, ceux que tu frappes?Â»
+
+
+
+
+XLI
+
+LE FESTIN
+
+
+  Buvons le vin joyeux
+  Et cÃ©lÃ©brons Bacchus,
+  L'inventeur de la danse,
+  L'ami de toute chanson,
+  Le compagnon d'Amour,
+  Le bien-aimÃ© de CythÃ©rÃ©e.
+  Par lui l'Ivresse est enfantÃ©e,
+  Par lui les GrÃ¢ces sont nÃ©es,
+  Par lui sont calmÃ©s les Chagrins,
+  Par lui endormie la Tristesse.
+  DÃ¨s que la boisson versÃ©e
+  De beaux enfants m'apportent,
+  Ma peine s'en va se mÃªler
+  A la tempÃªte qui tourne au grÃ© du vent.
+  Donc, prenant une coupe,
+  Bannissons les soucis.
+  Car, que gagnez-vous Ã 
+  Souffrir d'inquiÃ©tude?
+  Comment lire dans l'avenir?
+  La vie est obscure aux mortels.
+  En buvant, je veux danser
+  Et, parfumÃ©, folÃ¢trer
+  Avec de belles femmes.
+  Absorbez-vous, si vous voulez,
+  Dans tous les soucis possibles:
+  Nous, joyeux, buvons du vin
+  Et cÃ©lÃ©brons Bacchus.
+
+
+
+
+XLII
+
+CE QUE J'AIME LE PLUS
+
+
+  Je recherche les danses
+  Du jovial Bacchus:
+  J'aime Ã  jouer de la lyre
+  A table avec un bel Ã©phÃ¨be.
+  Des couronnes d'hyacinthe
+  A mes tempes ajustÃ©es,
+  FolÃ¢trer avec de jeunes vierges:
+  VoilÃ  ce que j'aime surtout.
+  Mon cÅur ne connaÃ®t pas la haine,
+  Ignore l'envie dÃ©vorante;
+  De la langue mÃ©disante
+  Je fuis les traits subtils.
+  Je hais les querelles d'ivrognes
+  Et de gourmands dans les repas.
+  Avec de jeunes filles,
+  Aux sons de la lyre dansant,
+  GoÃ»tons le bonheur de la vie tranquille.
+
+
+
+
+XLIII
+
+LA CIGALE
+
+
+  Nous disons: Â«Heureuse Cigale!Â»
+  DÃ¨s que, sur la cime des arbres,
+  Tu as bu quelques gouttes de rosÃ©e,
+  Ainsi qu'une reine, tu chantes.
+  Car, c'est bien Ã  toi, tout
+  Ce que tu vois dans les champs
+  Et que produisent les forÃªts.
+  Tu es l'amie des laboureurs,
+  Ne leur causant aucun dommage;
+  Tu es vÃ©nÃ©rÃ©e des mortels,
+  Douce prophÃ©tesse de l'ÃtÃ©.
+  Les Muses te chÃ©rissent,
+  Il te chÃ©rit aussi, PhÃ©bus,
+  Qui t'a dotÃ©e d'une voix harmonieuse.
+  La vieillesse ne t'accable pas.
+  Sage, fille de la Terre, amoureuse des chants,
+  Impassible, sans chair ni sang,
+  Tu es, ou peu s'en faut, Ã©gale aux Dieux.
+
+
+
+
+XLIV
+
+UN RÃVE
+
+
+  Il me semblait courir en rÃªve,
+  Portant des ailes aux Ã©paules:
+  Mais ÃrÃ´s, avec une chaÃ®ne de plomb
+  Autour de ses petons charmants,
+  Me poursuivait, et m'atteignit.
+  Que veut dire ce songe?
+  Ceci, je crois: c'est, qu'engagÃ©
+  Dans de nombreux amours,
+  J'ai pu me dÃ©gager des autres,
+  Mais celui-ci me retient enchaÃ®nÃ©.
+
+
+
+
+XLV
+
+LES FLÃCHES DE L'AMOUR
+
+
+  Le mari de la CythÃ©rÃ©e
+  Aux forges de Lemnos,
+  Les flÃ¨ches des Amours
+  Forgeait avec de l'acier.
+  Cypris en trempait les pointes
+  Dans le miel le plus doux:
+  ÃrÃ´s y mÃªlait du fiel.
+  ArÃ¨s un jour, de retour de la guerre,
+  Brandissant sa forte lance,
+  Ravalait les traits de l'Amour.
+  Â«TiensÂ», dit ÃrÃ´s: Â«celui-ci
+  Est-il perÃ§ant? Ãprouve-le, pour en juger?Â»
+  Mars prit le trait,
+  Cypris sourit;
+  Mais ArÃ¨s, en gÃ©missant:
+  Â«Oh! oui, bien perÃ§ant!Â» Reprends-le.
+  Â«--Garde-leÂ», rÃ©pond ÃrÃ´s.
+
+
+
+
+XLVI
+
+IMPRÃCATIONS CONTRE L'ARGENT
+
+
+  Il est dur de ne pas aimer
+  Et dur aussi d'aimer:
+  Mais le plus dur de tout, c'est
+  D'Ãªtre dÃ©daignÃ©, quand on aime.
+  La naissance ne fait rien Ã  l'Amour
+  Il foule aux pieds le savoir, la vertu:
+  Il n'a d'yeux que pour l'argent.
+  Ah! meure le premier
+  Qui fit de l'or son amant!
+  Avec lui plus de frÃ¨re,
+  Avec lui plus de pÃ¨re,
+  Mais la guerre et le meurtre.
+  Le pis, c'est qu'il nous tue,
+  Nous autres, malheureux amants!
+
+
+
+
+XLVII
+
+LE VIEILLARD DE BELLE HUMEUR
+
+
+  J'aime un vieillard enjouÃ©,
+  J'aime un jeune danseur.
+  Mais, Ã  peine un vieillard a dansÃ©,
+  Que, tout Ã©tant vieillard par les cheveux,
+  Il est jeune par l'Ã¢ge.
+
+
+
+
+XLVIII
+
+A DIONYSOS
+
+
+  Le dieu qui rend la jeunesse infatigable
+  Au travail, aux amours intrÃ©pide,
+  Et qui dans les festins un beau danseur achÃ¨ve,
+  Ce dieu parmi nous est venu,
+  Nous apporter une liqueur vermeille,
+  Une boisson ennemie des chagrins,
+  Fille de la vigne: le vin,
+  EmprisonnÃ© dans ses raisins
+  Et pendant aux ceps. Laissons-l'y;
+  Mais, le jour venu de couper les grappes,
+  Alors plus de malades:
+  Les corps seront beaux
+  Et les Ã¢mes Ã©panouies,
+  Jusqu'Ã  la prochaine vendange.
+
+
+
+
+XLIX
+
+LE TRIOMPHE DE VÃNUS ANADYOMÃNE
+
+
+  Quel burin a gravÃ© la mer?
+  Quel artiste inspirÃ©
+  A versÃ© les flots dans un disque
+  Sur le dos de la mer?
+  Quel gÃ©nie dessina sur les flots,
+  Ãblouissante de candeur, Cypris?
+  Quel gÃ©nie, s'Ã©levant jusqu'aux Dieux,
+  Osa des Immortels reprÃ©senter la mÃ¨re?
+  Il ne craignit pas de la montrer nue,
+  Et ce que les yeux ne doivent pas voir
+  N'a que les flots pour vÃªtement.
+  A leur surface balancÃ©e,
+  Comme l'algue blanchissante flotte
+  Sur la mer calme et doucement polie,
+  La dÃ©esse, mettant son corps Ã  la nage,
+  Pousse les vagues devant elle.
+  De ses seins de rose,
+  De son cou d'albÃ¢tre qui reste sous l'eau,
+  Elle fend les vagues Ã©normes.
+  Au milieu du sillon, Cypris,
+  Comme un lys Ã  des violettes entrelacÃ©,
+  Brille sur la sÃ©rÃ©nitÃ© de la mer.
+  Sur les Ã©cailles argentÃ©es
+  Des dauphins qui tressautent,
+  Sont portÃ©s ces dieux qui raillent
+  L'esprit fallacieux des hommes: ÃrÃ´s et ImÃ©ros.
+  Le chÅur des poissons recourbÃ©s
+  Fait des plongeons dans l'eau,
+  En lutinant le corps de la dÃ©esse,
+  Afin qu'elle triomphe avec un sourire.
+
+
+
+
+L
+
+LES VENDANGES
+
+
+  Le raisin noir de peau
+  Dans des corbeilles portent sur leurs Ã©paules
+  Des jeunes hommes avec des jeunes filles.
+  Ils le jettent au pressoir,
+  Et les hommes seuls foulent aux pieds
+  La grappe, pour dÃ©livrer le vin captif.
+  En l'honneur du dieu de la vigne ils font retentir
+  Les chansons bruyantes des vendanges,
+  Tout joyeux de voir bouillonner dans la tonne
+  Le vin nouveau tant dÃ©sirÃ©.
+  Un vieillard en boit-il?
+  Il danse en dÃ©pit de ses pieds tremblants,
+  Agitant sa chevelure blanche.
+  Cependant qu'Ã©piant une vierge,
+  Qui rÃ©pand son corps dÃ©licat
+  Sur des feuilles pleines d'ombre,
+  AccablÃ©e de sommeil,
+  Un aimable jeune homme enivrÃ©
+  La caresse et l'invite Ã  des amours prÃ©coces,
+  Qui la rendraient traÃ®tresse au mariage.
+  Voyant qu'il ne persuade pas,
+  Il la presse malgrÃ© elle.
+  C'est qu'avec la jeunesse, Bacchus,
+  Dieu de l'ivresse, s'Ã©gaie en libertÃ©.
+
+
+
+
+LI
+
+LA ROSE
+
+
+  Avec le printemps porteur de couronnes,
+  Je pense Ã  chanter trÃ¨s haut la rose,
+  Tendre fleur, ma compagne.
+  C'est l'haleine des Dieux mÃªmes
+  Et le charme des mortels,
+  L'ornement des GrÃ¢ces dans la saison
+  Des Amours en fleur,
+  L'attribut folÃ¢tre de VÃ©nus.
+  C'est le thÃ¨me des poÃ©sies,
+  La plante aimÃ©e des Muses;
+  Douce mÃªme Ã  qui fait l'Ã©preuve de ses dards
+  Dans les sentiers Ã©pineux;
+  Douce Ã  la main qui la cueille et qui caresse
+  De ses doigts fins et dÃ©licats
+  Cette fleur de l'Amour.
+  Comme au sage elle plaÃ®t encore
+  Dans les danses, sur les tables,
+  Aux fÃªtes Dyonisiaques.
+  Que ferions-nous sans la rose?
+  Â«L'Aurore a des doigts de roses,
+  Les Nymphes des bras de roses,
+  Aphrodite un teint de roses,Â»
+  Dans le langage des poÃ¨tes.
+  La rose, secourable aux malades,
+  ProtÃ¨ge aussi les morts
+  Et triomphe du temps.
+  Des roses la vieillesse, encore agrÃ©able,
+  Garde un parfum de jeunesse.
+
+  Chantons donc son origine.
+  Quand, de la mer azurÃ©e,
+  CythÃ©rÃ©e brillante de rosÃ©e
+  L'OcÃ©an fit naÃ®tre de son Ã©cume;
+  Quand AthÃ¨nÃ¨, la guerriÃ¨re
+  DÃ©esse Ã  l'Olympe redoutable,
+  Jupiter fit sortir de son cerveau;
+  Alors des roses admirables
+  La Terre fit fleurir les jeunes pousses,
+  Chef-d'Åuvre d'art de la Nature.
+  La troupe des Dieux bienheureux,
+  Pour que naquÃ®t la rose, rÃ©pandirent
+  Le nectar, et firent s'Ã©lever,
+  Superbe, du sein des Ã©pines,
+  L'immortelle fleur de Bacchus.
+
+
+
+
+LII
+
+LE POÃTE SE PLAIT AVEC LA JEUNESSE
+
+
+  Lorsque parmi les jeunes hommes
+  Je te vois, revient la Jeunesse,
+  C'est alors que pour la danse,
+  Moi, le vieillard, j'ai des ailes.
+  Attends-moi, CybÃ©lÃ¨s;
+  Donne des roses: je veux me couronner.
+  Loin la vieillesse chenue!
+  J'irai danser jeune parmi les jeunes.
+  Puis, qu'on m'apporte une riviÃ¨re nÃ©e
+  De la moisson de Bacchus en automne.
+  On verra la vigueur du vieillard,
+  Enseignant Ã  jaser,
+  Enseignant Ã  boire
+  Et dÃ©lirer non sans grÃ¢ce.
+
+
+
+
+LIII
+
+LES AMANTS
+
+
+  Les chevaux ont aux cuisses
+  Une marque de feu,
+  Et les Parthes
+  Se reconnaissent Ã  leur tiare.
+  A voir les amants, moi,
+  Je les devine aussitÃ´t:
+  C'est qu'ils ont une imperceptible
+  Blessure au cÅur.
+
+
+
+
+LIV
+
+LA VIEILLESSE
+
+
+  DÃ©jÃ  mes tempes sont
+  Blanchies, ma tÃªte argentÃ©e.
+  La jeunesse et ses grÃ¢ces
+  Ne sont plus; ma bouche a vieilli,
+  Et de la vie heureuse Ã  peine
+  Quelques instants me restent.
+  A cette pensÃ©e je gÃ©mis
+  Sur moi, redoutant le Tartare.
+  D'AdÃ¨s effroyable est
+  Le gouffre: il est terrible
+  D'y descendre; impossible
+  A qui descend de remonter.
+
+
+
+
+LV
+
+DOUCES IVRESSES
+
+
+  Allons, enfant, apporte-moi
+  La coupe; qu'Ã  plein verre
+  Je boive; mÃªle dix cyathes d'eau
+  A cinq de vin,
+  Et que sans affront
+  Et sans crainte je cÃ©lÃ¨bre Bacchus.
+  . . . . . . . . . . . . . . . . . .
+  Allons! Ã§Ã ! et n'allons plus ainsi
+  Par du tapage et des cris de joie
+  Nous exercer Ã  boire comme les Scythes;
+  Mais buvons peu en chantant bien.
+
+
+
+
+LVI
+
+L'AMOUR
+
+
+  ÃrÃ´s, le doux ÃrÃ´s,
+  Je pense Ã  le chanter
+  CouronnÃ© de mitres de fleurs:
+  Car, il est le maÃ®tre des Dieux
+  Et le dompteur des hommes.
+
+
+
+
+LVII
+
+PRIÃRE A ARTÃMIS
+
+EN FAVEUR DES MAGNÃSIENS
+
+
+  Je t'en supplie, chasseresse de cerfs,
+  Blonde fille de Jupiter, des bÃªtes fÃ©roces
+  Souveraine, ArtÃ©mis:
+  Descends en ce jour sur les flots tournoyants
+  Du LÃ©thÃ©; cette citÃ©,
+  Ses braves habitants, regarde-les
+  D'un Åil propice: ils sont loin d'Ãªtre barbares,
+  Les peuples sur qui tu rÃ¨gnes.
+
+
+
+
+LVIII
+
+A UNE JEUNE FILLE
+
+
+I
+
+  Pouliche de Thrace, pourquoi donc,
+  Me regardant de travers,
+  Fuir impitoyablement? Est-ce que tu me crois
+  Sans adresse aucune?
+
+
+II
+
+  Sache que je pourrais fort bien
+  Te mettre le mors,
+  Et, rÃªnes en main, te faire tourner autour
+  Des bornes du champ de course.
+
+
+III
+
+  A prÃ©sent, tu pais les prairies
+  Et bondissant, lÃ©gÃ¨re, tu folÃ¢tres:
+  C'est que tu n'as pas d'Ã©cuyer
+  Habile Ã  te dompter.
+
+
+
+
+LIX
+
+LE PRINTEMPS
+
+
+  Il est doux de marcher
+  OÃ¹ les pelouses Ã©tendent leurs tapis,
+  OÃ¹ le ZÃ©phyr exhale
+  Une brise odorante;
+  Doux de voir le cep cher Ã  Bacchus,
+  De s'enfoncer sous le feuillage,
+  En serrant une tendre enfant
+  Qui respire VÃ©nus tout entiÃ¨re.
+
+
+
+
+LX
+
+APOLLON
+
+
+  Je vais agiter les cordes de ma lyre.
+  Ce n'est pas qu'un prix me soit proposÃ©:
+  Mais, c'est l'occupation de tout homme
+  Qui a cueilli la fleur de la sagesse.
+  Avec un plectre d'ivoire
+  Sonnant des vers harmonieux,
+  Sur le rythme Phrygien, je chanterai,
+  Comme un cygne du Caystre
+  Chante au bruit de ses ailes blanches:
+  Sa voix est Ã  l'unisson du vent.
+
+  Et toi, Muse, danse avec moi;
+  Car ils sont consacrÃ©s Ã  PhÃ©bus,
+  Cette lyre, ce laurier, ce trÃ©pied.
+
+  Je chante l'amour de PhÃ©bus,
+  Son ardeur qui passa comme un souffle;
+  C'est qu'elle Ã©tait sage, la jeune fille:
+  Elle a fui l'aiguillon du dieu
+  Et changÃ© sa forme naturelle:
+  Elle agite maintenant ses feuilles verdoyantes.
+  Cependant PhÃ©bus allait, PhÃ©bus
+  EspÃ©rait dompter la vierge;
+  MÃªme, en cueillant un rameau vert,
+  Il croyait satisfaire son dÃ©sir.
+
+  Eh! mon cÅur, d'oÃ¹ ce dÃ©lire?
+  D'oÃ¹ ce bel emportement?
+  Prends des forces, lance le trait,
+  Touche le but, et puis va-t'en.
+  Laisse l'arc d'Aphrodite,
+  Cet arc vainqueur des Dieux.
+  Imite AnacrÃ©on,
+  Le chantre mÃ©lodieux.
+  PrÃ©sente Ã  mes amants la coupe,
+  La coupe des discours aimables.
+  Que cette boisson, ce nectar
+  Les console de la fuite
+  De cet astre Ã©tincelant, l'Or.
+
+
+
+
+LXI
+
+L'OR
+
+
+  Toi qui de la fraude et des haines
+  As mis l'amour au cÅur des hommes;
+  Qui leur ravis ces plaisirs: la lyre, les hymens,
+  Et les baisers honnÃªtes;
+  Toi qui versas la coupe des passions:
+  Quand tu voudras, tu peux partir.
+  Mais la chanson de ma lyre,
+  Je ne la nÃ©gligerai pas un instant.
+  Va plaire, rival des Muses,
+  Aux Ã©trangers perfides, sans foi.
+  Mais moi, le joueur de lyre,
+  J'aurai dans mon Ã¢me les Muses, pauvres
+  Proscrites: tu ne feras qu'exciter leur ardeur,
+  Et ma gloire resplendira.
+
+
+
+
+LXII
+
+MÃME SUJET
+
+
+  Quand ce fugitif, l'Or,
+  Me fuit de ses pieds
+  Rapides comme les vents
+  (Et toujours, toujours il me fuit),
+  Je ne cours pas aprÃ¨s lui: car,
+  Qui recherche son ennemi?
+  AussitÃ´t sÃ©parÃ©
+  De ce fugitif, l'Or,
+  Je laisse les vents emporter
+  Tous les soucis de mon esprit;
+  Je prends la lyre et je chante
+  Des chants d'amour.
+  Mais, Ã  mon tour quand la raison
+  M'apprend Ã  le mÃ©priser,
+  Soudain le fugitif revient me saluer,
+  Ramenant l'ivresse des soucis,
+  Me pressant de le prendre avec moi,
+  En dÃ©laissant ma lyre pour longtemps.
+  DÃ©loyal, Or dÃ©loyal,
+  Inutile de me charmer par tes amorces:
+  Ma lyre m'est plus que l'Or,
+  Elle qui sait chanter les belles passions.
+
+
+
+
+LXIII
+
+ÃPITHALÃME
+
+
+  Reine des dÃ©esses, Cypris;
+  DÃ©sir, souverain des mortels;
+  HymÃ©nÃ©e, conservateur de la vie,
+  C'est vous que je chante en prose,
+  C'est vous que j'exalte en vers,
+  DÃ©sir, HymÃ©nÃ©e, DÃ©esse de Paphos.
+
+  Regarde ta jeune Ã©pouse, regarde-la, jeune homme,
+  RÃ©veille-toi, si tu ne veux manquer la chasse de la perdrix.
+
+  StratoclÃ¨s, favori de CythÃ©rÃ©e,
+  StratoclÃ¨s, mari de Myrilla,
+  Vois ton Ã©pouse chÃ©rie:
+  Elle est superbe dans sa fleur, dans tout son Ã©clat.
+  La rose des fleurs est la reine:
+  Myrilla est une rose parmi les jeunes filles.
+
+  Qu'HÃ©lios Ã©claire ta couche!
+  Qu'un cyprÃ¨s naisse dans ton jardin!
+
+
+
+
+TABLE
+
+
+                                           Pages.
+
+  AVERTISSEMENT                              1
+
+  I.--La Cithare                             7
+
+  II.--Les Femmes                            8
+
+  III.--L'Amour mouillÃ©                      9
+
+  IV.--Sur lui-mÃªme                         11
+
+  V.--La Rose                               12
+
+  VI.--Le Chant du KÃ´mos                    13
+
+  VII.--L'Amour coureur                     14
+
+  VIII.--Le RÃªve                            15
+
+  IX.--La Colombe                           16
+
+  X.--L'Amour de cire                       18
+
+  XI.--Le gai Vieillard                     19
+
+  XII.--A un Merle                          20
+
+  XIII.--Fureur de l'Amant                  21
+
+  XIV.--L'Amour dompteur                    22
+
+  XV.--Vivre sans envie                     23
+
+  XVI.--Le PoÃ¨te vaincu                     24
+
+  XVII.--La Coupe d'argent                  25
+
+  XVIII.--MÃªme sujet                        26
+
+  XIX.--Il faut boire                       27
+
+  XX.--A une jeune Fille                    28
+
+  XXI.--La Soif                             29
+
+  XXII.--Bathylle                           30
+
+  XXIII.--L'Amour de l'Or                   31
+
+  XXIV.--RÃ©solution                         32
+
+  XXV.--Son amour pour le Vin               33
+
+  XXVI.--MÃªme sujet                         34
+
+  XXVII.--Dionysos                          35
+
+  XXVIII.--Portrait de sa MaÃ®tresse         36
+
+  XXIX.--Portrait de Bathylle               38
+
+  XXX.--L'Amour enchaÃ®nÃ© par les Muses      41
+
+  XXXI.--Fureur bachique                    42
+
+  XXXII.--Ses Amours                        43
+
+  XXXIII.--A une Hirondelle                 45
+
+  XXXIV.--A une jeune Fille                 46
+
+  XXXV.--Zeus taureau                       47
+
+  XXXVI.--La Vie libre                      48
+
+  XXXVII.--Le Printemps                     49
+
+  XXXVIII.--RÃ©ponse Ã  des reproches         50
+
+  XXXIX.--Le Chant du Festin                51
+
+  XL.--ÃrÃ´s                                 53
+
+  XLI.--Le Festin                           54
+
+  XLII.--Ce que j'aime le plus              56
+
+  XLIII.--La Cigale                         57
+
+  XLIV.--Un RÃªve                            58
+
+  XLV.--Les FlÃ¨ches de l'Amour              59
+
+  XLVI.--ImprÃ©cations contre l'Argent       60
+
+  XLVII.--Le Vieillard de belle humeur      61
+
+  XLVIII.--A Dionysos                       62
+
+  XLIX.--Le Triomphe de VÃ©nus AnadyomÃ¨ne    63
+
+  L.--Les Vendanges                         65
+
+  LI.--La Rose                              67
+
+  LII.--Le PoÃ¨te se plaÃ®t avec la Jeunesse  69
+
+  LIII.--Les Amants                         70
+
+  LIV.--La Vieillesse                       71
+
+  LV.--Douces Ivresses                      72
+
+  LVI.--L'Amour                             73
+
+  LVII.--PriÃ¨re Ã  ArtÃ©mis                   74
+
+  LVIII.--A une jeune Fille                 75
+
+  LIX.--Le Printemps                        76
+
+  LX.--Apollon                              77
+
+  LXI.--L'Or                                79
+
+  LXII.--MÃªme sujet                         80
+
+  LXIII.--Ãpithalame                        82
+
+
+Paris.--Charles UNSINGER, imprimeur, 83, rue du Bac.
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Odes d'AnacrÃ©on, by Anacreon
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ODES D'ANACRÃON ***
+
+***** This file should be named 26376-0.txt or 26376-0.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/6/3/7/26376/
+
+Produced by Michael Roe and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

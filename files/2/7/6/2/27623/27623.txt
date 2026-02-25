@@ -1,3 +1,2639 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c61112cb9636c02c0fb3f189f870d956ddec26adf6f90669d4caef20a3689665
-size 63288
+Project Gutenberg's C'est la loi!, by Max du Veuzit and George Lomelar
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: C'est la loi!
+
+Author: Max du Veuzit
+        George Lomelar
+
+Release Date: December 25, 2008 [EBook #27623]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK C'EST LA LOI! ***
+
+
+
+
+Produced by Daniel Fromont
+
+
+
+
+
+
+
+
+
+[Transcriber's note: Max du Veuzit (pseudonyme d'Alphonsine
+Vavasseur-Acher Mme Fran�ois Simonet) (1876-1952), _C'est la loi!_
+(1912)]
+
+
+
+
+
+
+Max du VEUZIT & George LOMELAR
+
+
+
+C'EST LA LOI!
+
+
+
+
+DRAME EN UN ACTE
+
+
+
+Repr�sent� pour la premi�re fois au "Th��tre du Montparnasse"
+
+
+
+
+PARIS
+
+C. JOUBERT, Editeur, 25 rue d'Hauteville
+
+
+
+R�pertoire de la Soci�t� Dramatique
+
+Tous droits de traduction et de repr�sentation r�serv�s
+
+Copyright By. Joubert 1912.
+
+
+
+
+
+Extraits de presse:
+
+
+
+"...Si les auteurs de C'est la loi! parviennent � convaincre nos
+l�gislateurs que cette loi est sinon mauvaise, du moins incompl�te, et
+que, dans beaucoup de cas, ce qu'on appelle les "faux-m�nages"
+constituent des situations de fait devant impliquer un s�rieux
+r�glement d'int�r�t, ils auront � leur actif une bonne oeuvre en m�me
+temps qu'une pi�ce applaudie par les invit�s du th��tre ultra-libre..."
+(Camille LE SENNE, Petit M�ridional).
+
+
+
+"...la th�se est tr�s soutenable. Il est incontestable, en effet, que
+notre l�gislation contient de grandes lacunes, au point de vue
+strictement humain, qu'il est n�cessaire que l'auteur dramatique ou le
+sociologue attire fr�quemment l'attention des pouvoirs publics sur
+toutes les lacunes navrantes qui s'y trouvent..." (Robert OUDOT,
+Comoedia).
+
+
+
+"Max du Veuzit commence par �crire des nouvelles tir�es de choses vues
+ou entendues (La Jeannette), mais aussi bient�t des pi�ces de th��tre,
+� la th�se sociale prononc�e: une femme de mineur non mari�e qui ne
+peut pr�tendre, pour elle et ses enfants, � l'indemnit� pr�vue en cas
+de grisou mortel, et qui finit par se suicider--�crit d'ailleurs apr�s
+la catastrophe de Couri�res (C'est la loi! 1908); la jeune fille d'un
+divorc�, qui doit choisir entre son p�re adoptif qui l'a �lev�e, et son
+p�re biologique qui r�appara�t quand elle a seize ans (Paternit� 1908;
+L'aum�ne 1909); la tr�s jeune fille d'un ivrogne, que le froid et la
+mis�re rejettent � son tour dans l'alcoolisme (Le No�l des petits gueux
+1909, non repr�sent�e); le contrat d'union libre (Le sentier 1908)."
+(Daniel FROMONT, Max du Veuzit--biographie; bibliographie;
+bibliographie critique, 2002)
+
+
+
+
+
+C'est la Loi!
+
+
+
+Drame social en un acte
+
+
+
+
+
+PERSONNAGES:
+
+
+
+DUPONT, 45 ans... M. SAVRY.
+
+MORIN... M. DENISON.
+
+LOUIS CHARBONNIER... M. DULOT.
+
+HELENE, 28 ans... Mme DEMONS.
+
+MADAME PREVOST... Mme MARIE LE GRAND.
+
+LA CONCIERGE... Mme MARCHAND.
+
+LE PETIT CHARLES, 6 ans.
+
+(Ce dernier personnage n'est qu'un accessoire pouvant �tre remplac� par
+un mannequin).
+
+
+
+Appartement d'ouvriers modestes. Un buffet, une commode, une armoire,
+une table, des chaises. Au mur, glace et batterie de cuisine. Dans la
+chemin�e, un r�chaud � charbon de bois, pincettes, soufflet. Sur la
+commode, bibelots et photographies. Dans le fond, une alc�ve avec un
+lit; des rideaux de cretonne sont tir�s et cachent le lit.
+
+Madame Pr�vost est assise pr�s de la table et coud. Dupont est debout
+pr�s de la chemin�e. H�l�ne va et vient en rangeant; son r�le est un
+r�le de douceur: elle doit apitoyer par sa faiblesse autant que par sa
+navrante situation.
+
+
+
+SCENE PREMIERE
+
+
+
+DUPONT, HELENE, MADAME PREVOST
+
+
+
+DUPONT, consultant sa montre
+
+Trois heures d�j�!
+
+
+
+MADAME PREVOST
+
+Ca marche! Il faudra que j'aille tout � l'heure faire quelques
+commissions.
+
+
+
+DUPONT
+
+Attendez que monsieur Morin soit arriv�.
+
+
+
+HELENE � Dupont
+
+Il vous a bien dit qu'il viendrait cet apr�s-midi?
+
+
+
+DUPONT
+
+Oui, oui! C'est entendu.
+
+
+
+MADAME PREVOST
+
+Mais s'il n'a pas pu voir les patrons?
+
+
+
+DUPONT
+
+Il les verra s�rement... C'est mardi, aujourd'hui, �a tombe bien! Le
+mardi, il para�t que les patrons ne quittent pas l'usine.
+
+
+
+MADAME PREVOST
+
+Ah bon!
+
+
+
+HELENE, � Dupont
+
+Cela vous ennuie peut-�tre, Dupont, de rester �, � attendre?
+
+
+
+DUPONT
+
+Mais non!... Je vais fumer une pipe, tenez... � moins que �a vous
+d�range, madame Charbonnier?...
+
+
+
+HELENE, protestant
+
+Oh!
+
+
+
+DUPONT
+
+Parce que, moi, vous savez, c'est l'habitude: il faut que je fume quand
+je ne travaille pas.
+
+
+
+HELENE
+
+C'est vrai! vous perdez encore votre apr�s-midi pour moi.
+
+
+
+DUPONT, bourrant tranquillement sa pipe
+
+Ne vous inqui�tez pas, madame Charbonnier, c'est la morte-saison en ce
+moment. A l'atelier, il n'y a pas d'ouvrage pour tous les jours de la
+semaine; alors, ch�mer aujourd'hui ou bien ch�mer demain... quand
+viendra samedi, �a fera le m�me compte.
+
+
+
+MADAME PREVOST, avec un soupir
+
+Ah! la morte-saison! Pr�vost en sait quelque chose, aussi: il n'a gagn�
+que dix-huit francs la semaine derni�re.
+
+
+
+DUPONT
+
+Ce n'est pas lourd!
+
+
+
+HELENE, pensivement
+
+Avec Charbonnier, j'�tais bien tranquille: � l'usine, il avait du
+travail toute l'ann�e.
+
+
+
+DUPONT
+
+Oui, il gagnait un peu moins, mais c'�tait r�gulier.
+
+
+
+MADAME PREVOST
+
+Et c'�tait s�r!
+
+
+
+HELENE
+
+Ah, certes!... Je n'avais pas d'inqui�tude, il ne fr�quentait pas le
+cabaret... Tous les quinze jours, il m'apportait sa paye sans un sou de
+moins... (La voix mouill�e). Il �tait si content de rentrer chez
+nous... et moi, de le voir revenir.
+
+
+
+Elle pleure. Mme Pr�vost et Dupont �changent un signe apitoy�[.]
+
+
+
+MADAME PREVOST, allant � H�l�ne
+
+Voyons, voyons... soyez raisonnable...
+
+
+
+HELENE, � travers ses larmes
+
+Oh, mon pauvre homme!
+
+
+
+MADAME PREVOST
+
+Allons, pleurez pas comme �a... C'est point des pleurs qui le feront
+revenir, le malheureux!
+
+
+
+HELENE, m�me jeu
+
+Nous �tions si heureux ensemble.
+
+
+
+DUPONT, gauchement
+
+Faut vous faire une raison... Songez � votre petit Charles, ce pauvre
+gosse qui n'a plus que vous... Quand vous vous feriez du mal...
+
+
+
+HELENE
+
+C'est plus fort que moi... Quand je pense qu'on l'enterrait hier et
+qu'il �tait encore ici, en bonne sant�, samedi matin... Tenez, il
+s'�tait assis l�, au bout de la table pour manger sa soupe avant de
+partir. Il �tait gai en me quittant: il chantait dans l'escalier...
+(Avec un sanglot). Et � onze heures, on venait m'apprendre qu'il �tait
+mort... tu� dans un accident de machine... Ah! ah! quel coup!
+
+
+
+Elle continue de pleurer.
+
+
+
+DUPONT
+
+Oui, c'est dur; �a cause une rude �motion!... (un temps) Ah! ces
+sacr�es machines qui suppriment un homme en moins de temps qu'il n'en
+faut pour souffler une chandelle!... C'est la fatalit�, justement
+lui!... (Un temps. A Mme Pr�vost). C'est Morin qu'on avait envoy� pour
+la pr�venir?
+
+
+
+MADAME PREVOST
+
+Le contrema�tre, oui... avec deux camarades � Charbonnier. Je les ai
+rencontr�s en bas, � la porte, quand ils sortaient... Lorsqu'ils m'ont
+eu racont� l'accident, ah! bon sang! j'en �tais toute boulevers�e. Ce
+n'�tait qu'un voisin, mais �a fait quelque chose tout de m�me!
+
+
+
+DUPONT
+
+Je crois bien.
+
+
+
+MADAME PREVOST
+
+J'ai l�ch� les commissions et je suis mont�e tout de suite aupr�s
+d'elle... Ah Dieu! Elle �tait dans un �tat.
+
+
+
+DUPONT
+
+Pauvre femme!
+
+
+
+MADAME PREVOST
+
+De quoi en devenir folle.
+
+
+
+DUPONT
+
+La malheureuse!
+
+
+
+MADAME PREVOST
+
+Elle ne savait plus ce qu'elle faisait... Pas moyen de lui faire rien
+entendre. Elle parlait de se tuer pour aller le rejoindre... Quand j'ai
+vu �a, j'ai envoy� ma gamine vous chercher.
+
+
+
+H�l�ne s'essuie les yeux et les �coute.
+
+
+
+DUPONT
+
+Vous avez bien fait... D'abord ce n'�tait pas � elle de s'occuper de
+tout le tremblement... Il y avait un tas de formalit�s � remplir! Des
+courses � faire!
+
+
+
+HELENE
+
+Et c'est vous, Dupont, qui vous �tes charg� de tout... le commissaire,
+le m�decin, la mairie, l'enterrement... vous avez �t� partout. Comment
+vous remercier de tout ce mal?
+
+
+
+DUPONT
+
+Parlons pas de �a... Vous �tiez toute seule, toute d�sempar�e! C'est
+pas une femme qui pouvait... surtout apr�s un coup pareil... C'�tait
+pas comme une mort apr�s une maladie...
+
+
+
+HELENE
+
+Aussi, je vous en suis bien reconnaissante.
+
+
+
+DUPONT
+
+Mais non! pourquoi? C'�tait naturel, voyons! Charbonnier �tait un
+ami... on avait travaill� ensemble, autrefois, avant qu'il entre �
+l'usine et depuis, on avait toujours �t� camarades. En cette
+circonstance, le moins que je pouvais faire c'�tait de me rendre utile
+� vous et � votre petit gar�on.
+
+
+
+HELENE
+
+Vous avez agi avec nous comme un v�ritable parent.
+
+
+
+DUPONT
+
+Bah! il me semble que c'est un peu �a. Je vous connais tant!... Je vous
+ai vue vous mettre en m�nage avec Charbonnier, il y a sept ans. Votre
+petit Charles, c'est ma femme qui l'a re�u � sa naissance (A Mme
+Pr�vost). Et tenez, c'est moi qui suis all� le d�clarer � la mairie.
+
+
+
+MADAME PREVOST, �tonn�e
+
+Vous?
+
+
+
+DUPONT
+
+Oui! parce que... il faut que je vous explique: Charbonnier n'�tait pas
+l�. Il faisait ses vingt-huit jours.
+
+
+
+MADAME PREVOST
+
+Ah bon!
+
+
+
+DUPONT
+
+Alors, c'est moi � sa place, n'est-ce pas?... (A H�l�ne). M�me que
+Charbonnier a �t� un peu n�gligent; il devait toujours aller le
+reconna�tre, son petit gar�on, et il oubliait...
+
+
+
+MADAME PREVOST
+
+Comment! Charles n'a pas �t� reconnu?
+
+
+
+DUPONT
+
+Non, puisque le p�re �tait absent et que la m�re n'�tait pas mari�e!
+Seulement, � son retour, Charbonnier aurait d� s'en occuper.
+
+
+
+HELENE
+
+Il n'y a plus pens�! D'abord, il n'a pas pu tout de suite. A peine si
+ses vingt-huit jours �taient finis que ses patrons l'ont envoy� dans le
+Midi pour une usine qu'ils montaient l�-bas. (A Dupont) Vous vous
+rappelez.
+
+
+
+DUPONT, approuvant de la t�te
+
+Il y est rest� plus d'un mois.
+
+
+
+HELENE
+
+Alors ensuite, il voulait bien, mais... quand il se disposait � aller �
+la mairie, il y avait toujours un emp�chement... il remettait au
+lendemain... les jours ont pass�... On n'y pensait plus � la fin. (Avec
+force) Seulement, �a ne l'emp�chait pas de l'aimer son petit gar�on.
+
+
+
+MADAME PREVOST
+
+Ah s�r! il l'aimait! Le gamin �tait toujours fourr� dans ses jambes.
+
+
+
+HELENE
+
+Et il l'�levait bien. (Les larmes aux yeux) Le petit n'a jamais manqu�
+de rien.
+
+
+
+DUPONT
+
+Oh, non!
+
+
+
+MADAME PREVOST
+
+Ce que je ne comprends pas, c'est que vous ne vous soyez jamais mari�s,
+Charbonnier et vous... vous aimant surtout comme vous vous aimiez tous
+les deux.
+
+
+
+HELENE
+
+Voil�, justement, c'est �a... on s'aimait, on �tait tranquille, on
+vivait heureux... nous ne demandions pas autre chose.
+
+
+
+DUPONT
+
+Qu'est-ce que �a leur aurait donn� de plus d'aller dire "oui" devant un
+beau monsieur qui aurait eu une �charpe rouge sur le ventre et des
+boniments sur les l�vres.
+
+
+
+HELENE
+
+C'est ce que me disait Charbonnier, au commencement... Puis il s'�tait
+ravis�...
+
+
+
+DUPONT
+
+Moi, je me suis mari� parce que la bourgeoise y tenait... �a m'�tait
+indiff�rent et �a y faisait plaisir! mais c'est pas le passage � la
+mairie qui m'aurait emp�ch� de la plaquer si je n'avais pas �t� heureux
+avec elle...
+
+
+
+MADAME PREVOST
+
+Oh!
+
+
+
+DUPONT
+
+Mais parfaitement!... Au fond, le mariage, c'est une invention pour
+d�penser de l'argent: on se marie avec l'id�e de la noce, de la petite
+f�te du premier jour; tous les parents et tous les amis vous y
+poussent; chacun voit l� une journ�e de rigolade!... Puis, il y a le
+sacr� pr�jug�... Mais le reste... (il crache dans la chemin�e) eh bien,
+le reste, tout le monde s'en fiche!
+
+
+
+HELENE, pensive
+
+C'est �gal, nous avions senti tous les deux que �a valait mieux d'�tre
+mari�s. Certes, on ne pouvait s'aimer davantage... mais pour Charlot,
+pour son avenir, c'e�t �t� plus sage.
+
+
+
+DUPONT
+
+Oui, � cause du gosse.
+
+
+
+MADAME PREVOST
+
+A cause aussi de l'accident.
+
+
+
+HELENE
+
+De l'accident?
+
+
+
+MADAME PREVOST
+
+Oui... de l'indemnit� qu'on vous doit.
+
+
+
+DUPONT
+
+Comment cela?
+
+
+
+MADAME PREVOST, � Dupont
+
+Dame!... il me semble... si elle avait �t� mari�e, elle aurait
+peut-�tre touch� davantage... tandis que...
+
+
+
+DUPONT, se levant brusquement
+
+En voil� une id�e! En quoi le fait de ne pas �tre mari�e diminue-t-elle
+le pr�judice que lui cause la mort de son homme? Elle est atteinte
+moralement et mat�riellement cette femme-l� autant que le serait une
+�pouse l�gitime. Voyons, c'est-y pas vrai?
+
+
+
+MADAME PREVOST, mal convaincue
+
+Oui, certainement.
+
+
+
+DUPONT
+
+Alors, o� il y a pr�judice, il y a aussi r�paration et
+dommages-int�r�ts... C'est l'habitude! Tout le monde sait �a... Quand
+on cause, m�me indirectement, la perte de l'outil qui fait vivre une
+famille, on doit bien une compensation!
+
+
+
+MADAME PREVOST
+
+En effet!
+
+
+
+DUPONT
+
+Il en est des gens comme des choses, je pense!... Ce pauvre Charbonnier
+s'est trouv� tu� � l'usine: les patrons doivent payer chaque fois qu'un
+accident comme celui-l� est arriv� chez eux. Charbonnier en valait un
+autre, quoi. N'�tait-il pas le gagne-pain de cette famille?
+
+
+
+MADAME PREVOST
+
+C'est juste! Vous avez raison.
+
+
+
+DUPONT
+
+Je le disais encore ce midi, � Morin, avant qu'il aille trouver les
+patrons pour...
+
+
+
+HELENE, interrompant
+
+Chut!... Ecoutez... On monte l'escalier.
+
+
+
+DUPONT
+
+C'est peut-�tre lui qui en revient, justement.
+
+
+
+On frappe.
+
+
+
+MADAME PREVOST
+
+Oui, on frappe.
+
+
+
+Elle va ouvrir. Morin entre.
+
+
+
+
+
+SCENE II
+
+
+
+LES MEMES, MORIN
+
+
+
+MORIN, entrant
+
+Bonjour. (A H�l�ne qui vient vers lui) Bonjour, madame.
+
+
+
+HELENE
+
+Bonjour, monsieur Morin. (Un peu embarrass�e) Je vous remercie d'avoir
+bien voulu vous charger de cette d�marche aupr�s des patrons de mon
+pauvre mari. J'�tais capable de rien. Je suis encore si boulevers�e...
+
+
+
+MORIN
+
+Je comprends...
+
+
+
+HELENE
+
+Mais vous avez bien dit � ces Messieurs que je ne comptais pas tirer
+profit de l'accident arriv� � mon homme. Si je demande quelque chose,
+ce n'est pas pour vivre de ce malheur mais parce que je suis sans
+ressource... J'ai notre petit � �lever et je n'ai pas d'ouvrage: il
+faut que j'en trouve... jusqu'alors je ne travaillais pas au dehors...
+le p�re vivait!... Vous leur avez bien expliqu� tout �a, n'est-ce pas?
+Et ils ont compris?... Ils savent bien, eux qui ont de l'instruction!
+
+
+
+MORIN, g�n�
+
+Oui, je leur ai dit tout �a.
+
+
+
+HELENE
+
+Qu'est-ce qu'ils ont r�pondu?... (Morin se tait, embarrass�. Sans s'en
+apercevoir, tr�s simplement:) Vous ont-ils charg� de me remettre une
+petite somme provisoire pour que je puisse me tirer d'affaire en
+attendant que tout soit en r�gle et que j'aie trouv� du travail.
+
+
+
+MORIN
+
+Non... Je n'ai rien � vous remettre.
+
+
+
+DUPONT
+
+Quelle mis�re! Encore des formalit�s par l�! Ils n'attendent pas pour
+manger, eux!
+
+
+
+MORIN, � Dupont
+
+Ce n'est pas �a... Tout aurait �t� r�gl� de suite si les circonstances
+l'avaient permis... mais voil�... (� H�l�ne) J'ai parl� pour vous, ma
+pauvre femme, j'ai bien expliqu� quelle �tait votre situation: malgr�
+toute ma bonne volont�, je n'ai pu rien obtenir...
+
+
+
+HELENE, surprise
+
+Parce que?
+
+
+
+MORIN
+
+Parce que vous n'�tiez pas mari�e avec Charbonnier.
+
+
+
+HELENE, tr�s bas
+
+Oh!
+
+
+
+DUPONT
+
+Qu'est-ce que �a fait? Elle �tait sa femme tout de m�me.
+
+
+
+MORIN
+
+Il para�t que �a a une grande importance.
+
+
+
+HELENE
+
+Parce que je ne suis pas mari�e?
+
+
+
+MORIN
+
+Oui... l�galement, vous ne comptez pas et les patrons n'ont pas � vous
+conna�tre. Ils disent que dans ce malheureux accident, vous n'�tes
+rien, vous!
+
+
+
+DUPONT
+
+Ah, les bandits!
+
+
+
+HELENE, suffoqu�e
+
+Rien! Je ne suis rien, moi!... On ne se conna�t pas!... Ah!
+
+
+
+MADAME PREVOST
+
+Eh bien, en voil� du nouveau!
+
+
+
+HELENE, outr�e puis s'�chauffant
+
+On ne me conna�t pas! Mais depuis sept ans, qu'est-ce qui le soignait
+mon homme? Qu'est-ce qui lui tenait sa maison, lui pr�parait ses repas,
+lui raccommodait ses effets, veillait � tout pour qu'il n'e�t aucun
+souci quand il �tait � son ouvrage?... Ses patrons disent qu'ils n'ont
+pas � me conna�tre! Mais s'il partait vaillant au travail, n'est-ce
+donc pas parce qu'il �tait tranquille et heureux avec moi?... Sa force
+et sa bonne volont� leur servaient � ces gens-l� et c'est moi qui les
+lui donnais par mes soins et mes encouragements... (En se frappant la
+poitrine). Devant la t�che souvent accablante du travail journalier,
+c'est nous, les femmes d'ouvriers, qui sommes leur joie, leur vigueur
+et leur soutien! Autant que nos hommes, nous travaillons pour les
+patrons.
+
+
+
+MADAME PREVOST
+
+Ca, c'est vrai! Elle a raison!
+
+
+
+HELENE
+
+Hier, encore, au cimeti�re, dans leurs discours, ils vantaient sa bonne
+conduite et sa r�gularit� au travail, mais n'�tait-ce pas moi qui
+l'emp�chais de fr�quenter les cabarets en sachant l'attirer et le
+retenir � la maison?... Mari�e l�galement ou non, j'ai rempli mes
+devoirs envers lui, envers son travail, et pendant sept ans, il a v�cu
+heureux entre son fils et moi! (S'attendrissant) Oh, mon petit Charlot,
+comme on �tait content de faire de toi un bon ouvrier comme ton p�re!
+Les patrons auraient �t� heureux de te trouver plus tard, d'utiliser
+les qualit�s que je t'aurais donn�es tout petit, et ils viennent dire
+que je ne suis rien!... Ah! malheur!! (Elle tombe assise, pr�s de la
+table et s'accoude la t�te dans ses mains).
+
+
+
+DUPONT
+
+Si c'est point une honte!
+
+
+
+MADAME PREVOST, � part, � Dupont
+
+Je m'absente, mais je vais revenir dans un moment.
+
+
+
+DUPONT
+
+Bon!
+
+
+
+Elle sort.
+
+
+
+HELENE, les yeux fixes
+
+Ils disent que je ne suis rien! que je ne compte pas!... Ah, les
+sans-coeur!!
+
+
+
+MORIN, s'avan�ant vers elle, tr�s doux
+
+Ma pauvre femme!... je suis vraiment d�sol�... mais �coutez-moi. Votre
+douleur vous �gare! Il ne faut pas en vouloir aux patrons et les
+accuser de mauvaise volont�. Ils ont bien compris que vous �tiez
+quasiment la femme � ce pauvre Charbonnier... ils en ont parl�
+longtemps ensemble et votre sort les apitoyait bien... m�me ils ont
+d�cid� de payer de leur poche, votre compte chez le boulanger et chez
+la fruiti�re...
+
+
+
+DUPONT
+
+La belle affaire! On ne leur demande pas l'aum�ne mais son d�.
+
+
+
+MORIN, � Dupont
+
+Ils ne peuvent pas faire plus! Tous les autres ont donn� leur livret de
+mariage... leurs femmes ou leurs ayants droit sont assur�s contre les
+suites d'un accident possible et en cas de malheur, ils toucheraient
+sans difficult�s. (Il montre H�l�ne) C'est pas la m�me chose, c'est
+malheureux! mais elle n'a pas droit, elle!
+
+
+
+DUPONT, �levant la voix
+
+Eh bien, et le petit?... le petit Charlot?
+
+
+
+MORIN
+
+H�las!
+
+
+
+DUPONT, croisant les bras
+
+Il n'est rien non plus, lui, alors?
+
+
+
+MORIN a un geste d'impuissance. Apr�s un silence
+
+Ce pauvre Charbonnier n'y a pas pens� pour apr�s lui... excusez-moi...
+pour personne c'est son fils. La loi ne le veut pas. Sans cela les
+patrons... mais ils ne savent pas, eux! Ils ne peuvent pas savoir que
+c'est � lui, ce pauvre gosse. Qu'est-ce qui le prouve?
+
+
+
+DUPONT, violemment
+
+Ils ne veulent pas savoir mais ils savent bien! Ca les emb�te de sortir
+l'argent de leur poche! Pourtant ils gagnent assez pour soutenir la
+veuve et l'orphelin de l'ouvrier.
+
+
+
+MORIN
+
+La veuve et l'orphelin! mais tout est l�! L�galement, Charbonnier n'a
+laiss� ni veuve, ni orphelin... C'est la Loi, vous le savez bien!
+
+
+
+DUPONT
+
+Il n'y a pas de loi dans la mis�re! il n'y a que des malheureux et
+quand la loi est incompl�te, quand elle augmente la mis�re, les hommes
+doivent abolir la loi ou la compl�ter!... Est-ce qu'� c�t� du droit
+l�gal � une indemnit� ne devrait pas s'ajouter le droit moral?... Voici
+sept ans qu'ils sont ensemble: c'est pas un mariage �a?... Quand des
+gens mari�s se sont quitt�s pendant trois ans, la loi les divorce de
+plein droit et quand deux braves gens ont v�cu heureux l'un par
+l'autre, pendant sept ans, la loi ne pourrait pas en principe les
+marier?--l�galiser leur union?
+
+
+
+MORIN
+
+Mais pourquoi aussi Charbonnier n'a-t-il pas r�gularis� sa situation et
+reconnu son enfant?
+
+
+
+DUPONT
+
+Bah! il �tait heureux, puis il y a pens� trop tard: c'est bien
+excusable. Si la loi �tait faite pour tout le monde avec humanit�, elle
+devrait pr�voir ces n�gligences-l� et garantir les malheureux qui ont
+pu se tromper. Le devoir de la soci�t� est de prot�ger tous ses membres
+sans en excepter aucun. Elle doit compter avec les ignorants et les
+n�gligents de fa�on � les emp�cher de devenir leur propre victime.
+Est-ce qu'il devrait �tre possible que des gens s'abritent derri�re la
+loi pour escamoter leurs responsabilit�s!
+
+
+
+MORIN
+
+H�las!... Dans bien des circonstances, la loi est peu juste et ne
+prot�ge pas l'individu. L'organisation actuelle de la soci�t� n'offre
+pas � chacun la m�me s�curit� et tr�s souvent, ce sont les plus
+malheureux qui sont sacrifi�s aux principes sur lesquels elle s'appuie.
+
+
+
+DUPONT
+
+Mais la soci�t� est coupable qui permet �a. Si les lois sont mal
+faites, qu'on les refasse! Qu'elles deviennent justes et �quitables!
+qu'elles prot�gent au moins les petits contre la voracit� des grands!
+Au lieu de la permettre, qu'elles emp�chent l'injustice qui se commet
+aujourd'hui!... Je ne suis qu'un pauvre ouvrier sans instruction, mais
+il me semble qu'avec du bon sens, du raisonnement et du coeur, tous ces
+beaux messieurs qui nous dirigent pourraient faire de meilleures lois!
+
+
+
+(Tremblant d'indignation, il donne un grand coup de poing sur la table,
+H�l�ne se dresse en sursaut. Elle parle d'une voix triste dont la
+douceur doit contraster avec la violence des r�pliques pr�c�dentes).
+
+
+
+HELENE
+
+Calmez-vous, Dupont, je vous en prie. Tout ce que vous pourrez dire ne
+servira de rien...
+
+
+
+DUPONT, plus calme
+
+Malheureusement!
+
+
+
+(Madame Pr�vost rentre quelques provisions dans les bras, notamment un
+grand paquet de charbon de bois. En silence elle allume le r�chaud et
+pr�pare du caf�).
+
+
+
+HELENE
+
+Je comprends, maintenant, quoique �a me r�volte encore... La loi est la
+loi!... Parce que pour aimer un homme, pour le rendre heureux, pour
+avoir voulu �carter de lui tous les soucis, j'ai n�glig� de passer par
+la mairie, cette loi se dresse, aujourd'hui, implacable et sans piti�
+devant moi... Elle ne pardonne m�me pas � mon petit gosse, la
+n�gligence de son pauvre p�re. Tous les deux, elle nous condamne sans
+indulgence et d'autant plus durement qu'on n'a aucun recours contre
+elle. (Un temps) Mais �a ne m'emp�chera pas de faire mon devoir de
+m�re... Je travaillerai. Je chercherai du travail: le monde sera
+peut-�tre moins m�chant que la loi et moins injuste que les patrons...
+(� Dupont) Vous m'aiderez, n'est-ce pas, mon brave Dupont, � trouver de
+l'ouvrage.
+
+
+
+DUPONT, �mu
+
+Oui s�rement, madame Charbonnier, vous pouvez compter sur moi... On
+n'est pas riches nous autres, mais on a du coeur.
+
+
+
+HELENE, allant � Morin
+
+Et vous, monsieur Morin, je vous remercie encore du mal que vous vous
+�tes donn�... Je vous demande pardon de ma col�re de tout � l'heure:
+dans mon indignation, j'ai peut-�tre bien dit des choses que je
+n'aurais pas d� dire.
+
+
+
+MORIN, �galement �mu
+
+Ne vous excusez pas, madame. Votre surprise �tait toute naturelle... Au
+fond, je pense comme vous. Vous aviez, tout autant qu'une femme
+l�gitime, des droits � une indemnit� (Il a un geste d'impuissance).
+Enfin... (apr�s un temps) Je vais vous quitter maintenant.
+
+
+
+DUPONT
+
+Vous retournez � l'usine, Morin?
+
+
+
+MORIN
+
+Oui, je n'ai pas termin� ma journ�e.
+
+
+
+DUPONT
+
+Je vais vous accompagner un petit bout de chemin, alors.
+
+
+
+MORIN
+
+Volontiers!
+
+
+
+DUPONT, � H�l�ne
+
+Je reviens tout de suite Madame Charbonnier.
+
+
+
+HELENE
+
+Au revoir, monsieur Morin.
+
+
+
+MORIN
+
+Au revoir, (saluant Mme Pr�vost) Madame Pr�vost...
+
+
+
+Ils sortent. Pendant quelques instant, H�l�ne garde une attitude
+accabl�e. Mme Pr�vost, en travaillant, la regarde avec piti�.
+
+
+
+
+
+SCENE III
+
+
+
+HELENE, MADAME PREVOST
+
+
+
+HELENE (� mi-voix)
+
+Rien!... Je ne suis rien!... Le pass� ne me donne aucun droit! Mon
+d�vouement, mon amour, ma fid�lit�, mon orgueil de m�nag�re, n'auront
+servi � rien... Tout s'effondre pour une formalit�... (plus haut) Hier,
+j'�tais encore une femme aim�e dans ma maison, une femme respect�e par
+tous, au dehors; aujourd'hui, la soci�t� me met au m�me rang que les
+filles... Au lieu de me prot�ger, elle me laisse aux prises avec la
+mis�re, au risque que, comme tant d'autres, h�las, j'aille chercher mon
+pain, le pain de mon enfant dans... Quelle perspective!
+
+
+
+MADAME PREVOST
+
+Pourquoi, aussi, n'avez-vous pas pris vos pr�cautions? Une femme doit
+toujours penser au mariage.
+
+
+
+HELENE
+
+Certes! J'aurais bien d� y penser puisque j'�tais la premi�re
+int�ress�e, mais je ne voulais pas ennuyer L�on de toutes ces
+d�marches... puis nous �tions retenus, aussi, par la crainte de faire
+conna�tre l'irr�gularit� de notre union...
+
+
+
+MADAME PREVOST
+
+Vous avez eu tort, ma pauvre madame Charbonnier, vous auriez d� penser
+un peu � vous et � votre enfant.
+
+
+
+HELENE
+
+Mon pauvre petit Charles!
+
+
+
+MADAME PREVOST
+
+Supposez que tout le monde fasse comme vous? Ce serait bien si le monde
+n'�tait que de braves gens comme vous et votre pauvre d�funt! Mais il y
+a tant d'hommes sans scrupules qui abuseraient davantage des femmes et
+tant de femmes de rien qui profiteraient de ce d�sordre!
+
+
+
+HELENE
+
+C'est vrai!
+
+
+
+MADAME PREVOST
+
+On blague le mariage, mais pour la femme c'est encore la meilleure des
+garanties.
+
+
+
+HELENE
+
+C'est justement l� qu'il est injuste et ridicule le mariage: c'est
+qu'il garantit indistinctement, les femmes honn�tes comme les autres...
+La v�ritable justice serait de garantir toutes les femmes honn�tes
+qu'elles soient mari�es ou qu'elles ne le soient pas.
+
+
+
+MADAME PREVOST
+
+Mais comment distinguer les honn�tes femmes des autres? Pour faire la
+diff�rence, la loi a dit aux premi�res: Mariez-vous et vous trouverez
+ainsi toutes les garanties auxquelles vous avez droit.
+
+
+
+HELENE, railleusement
+
+Oui et c'est pour �a qu'on voit tant de femmes mari�es se conduire mal
+et tromper leurs maris... Elles sont cependant consid�r�es comme
+d'honn�tes femmes, celles-l�. Elles sont mari�es! �a permet tout, ce
+mot-l�! Tandis que moi, qui pendant sept ans, suis rest�e fid�lement
+attach�e � mon homme, je ne suis qu'une concubine--comme ils
+disent--Parce que je n'ai pas pass� par la mairie, je suis une fille...
+une femme � tout le monde! (Elle a un rire nerveux qui finit dans un
+sanglot) Ah! ah! ah!
+
+
+
+MADAME PREVOST
+
+Allons, ne vous faites point de mal, ma pauvre madame Charbonnier. Dans
+le quartier, on sait bien que vous �tes une brave femme et une bonne
+m�re de famille.
+
+
+
+HELENE
+
+Heureusement! Si les patrons avaient fait une enqu�te, ils auraient
+bien vu...
+
+
+
+Mme Pr�vost a achev� son caf� et mis deux tasses sur la table.
+
+
+
+MADAME PREVOST
+
+Tenez. Je vous ai fait une tasse de caf� pour vous remonter un peu le
+moral (Elle remplit les tasses). Buvez; �a va vous faire du bien.
+
+
+HELENE
+
+Merci, comme vous �tes gentille. (Elle remue son caf� pensivement).
+
+
+
+MADAME PREVOST, cherchant � la distraire
+
+En descendant vous chercher du charbon de bois, j'ai vu votre petite
+Charles. Il jouait avec ma gamine.
+
+
+
+HELENE
+
+Est-ce qu'il �tait bien gai?
+
+
+
+MADAME PREVOST
+
+Ah! il riait comme un petit d�mon.
+
+
+
+HELENE
+
+Le ch�ri!
+
+
+
+MADAME PREVOST
+
+Les enfants ne se font point de bile, vous savez bien.
+
+
+
+HELENE
+
+Tant mieux!
+
+
+
+MADAME PREVOST
+
+En ce moment il est parti avec mon a�n�e chercher de la confection.
+
+
+
+HELENE
+
+Ca va le promener, vous avez bien fait.
+
+
+
+MADAME PREVOST
+
+Ah! voici Dupont.
+
+
+
+Dupont rentre.
+
+
+
+
+
+SCENE IV
+
+
+
+LES MEMES, DUPONT.
+
+
+
+DUPONT
+
+J'ai reconduit Morin, histoire d'y causer... de voir un peu. Je cherche
+� manigancer quelque chose pour vous, madame Charbonnier. Ca me r�volte
+tellement le refus de ces crapules-l�!
+
+Il r�prime un mouvement de col�re puis s'assoit pr�s de la table.
+
+
+
+HELENE
+
+Il n'y a rien � faire, allez! Ils ont refus�, c'est bien fini.
+
+
+
+DUPONT
+
+Aussi c'est pas sur eux que je compte. Non! C'est sur les camarades...
+
+
+
+MADAME PREVOST, � Dupont
+
+Vous prendrez bien une tasse de caf� pour vous r�chauffer, hein?
+
+
+DUPONT
+
+Je veux bien (Mme Pr�vost lui en verse).
+
+
+
+HELENE
+
+Comme la nuit vient vite, on n'y voit d�j� plus (Elle allume la lampe).
+
+
+
+DUPONT
+
+Six heures.
+
+
+
+MADAME PREVOST
+
+Je vais vous quitter. Il est temps que j'aille tremper la soupe pour
+mon homme, c'est qu'il crie quand le d�ner n'est pas sur la table.
+
+
+
+HELENE
+
+Alors, faites vite pour qu'il soit content.
+
+
+
+MADAME PREVOST
+
+C'est �a! (Elle va vers la porte. A H�l�ne) Ah, dites donc, votre petit
+Charles va souper avec nous. Comme �a vous n'aurez pas � vous en
+occuper.
+
+
+
+HELENE
+
+Mais voici quatre jours que vous le gardez � manger.
+
+
+
+MADAME PREVOST
+
+Bah! vous n'aviez pas la t�te � faire beaucoup de cuisine... Je me
+sauve! Bonsoir Dupont!
+
+
+
+DUPONT
+
+Au revoir!
+
+
+
+Mme Pr�vost ouvre la porte et voit la concierge.
+
+
+
+MADAME PREVOST
+
+Ah! la concierge! (A H�l�ne) Voil� de la visite pour vous, madame
+Charbonnier.
+
+
+
+La concierge entre. Mme Pr�vost sort. Louis Charbonnier reste sur le
+seuil.
+
+
+
+SCENE V
+
+
+
+HELENE, DUPONT, LOUIS CHARBONNIER, LA CONCIERGE
+
+
+
+HELENE, � la concierge, sans voir Louis
+
+Qu'est-ce que c'est?
+
+
+
+LA CONCIERGE
+
+C'est un jeune homme qui... Je sais pas trop ce qu'il me raconte! Il
+pr�tend qu'il est le neveu de monsieur Charbonnier.
+
+
+
+HELENE
+
+Le neveu de L�on? (Elle va vers la porte).
+
+
+
+LOUIS, se montrant
+
+Bonsoir la compagnie!
+
+
+
+HELENE, le reconnaissant
+
+Ah! c'est vous!
+
+
+
+LOUIS
+
+C'est moi! (� la concierge) Vous voyez bien, la petite m�re, que je ne
+blaguais pas: on me conna�t ici.
+
+
+
+LA CONCIERGE
+
+Je ne savais pas, moi! Vous me dites un tas d'histoires.
+
+
+
+LOUIS
+
+C'est bon! vous frappez pas!
+
+
+
+La concierge sort.
+
+
+
+HELENE, � Louis
+
+Qu'est-ce que vous voulez?
+
+
+
+LOUIS
+
+Ce que je veux?... Vous vous en doutez bien!
+
+
+
+HELENE
+
+Du tout.
+
+
+
+LOUIS, ricanant
+
+Vraiment! Alors, il para�t que vous ne m'attendiez pas... Vous ne
+pensiez plus � moi... C'est pour �a, sans doute, que vous ne m'avez pas
+pr�venu de la mort de mon oncle?
+
+
+
+HELENE
+
+En effet! Je vous avais compl�tement oubli�... au milieu de ce malheur,
+n'est-ce pas. Et puis, je ne vous ai vu qu'une fois seulement, il y a
+trois ans. Vous savez bien que mon pauvre d�funt ne voulait pas vous
+voir.
+
+
+
+LOUIS, railleur
+
+Oui, il n'avait pas le sentiment de la famille tr�s d�velopp�.
+
+
+
+HELENE
+
+C'est-�-dire que votre conduite...
+
+
+
+LOUIS
+
+Ma conduite! Il aurait fallu pour lui faire plaisir que je serve
+d'exemple aux fils � papa! C'�tait pas dans mon temp�rament. Chacun sa
+vocation, pas vrai!
+
+
+
+DUPONT, haussant les �paules
+
+La v�tre �tait de ne rien faire, je crois!
+
+
+
+LOUIS, s'en s'�mouvoir
+
+Ah! Monsieur me conna�t?
+
+
+
+DUPONT
+
+Et pas brillamment encore!
+
+
+
+LOUIS
+
+Tout le monde ne peut pas gagner le prix Montyon.
+
+
+
+HELENE
+
+Enfin, tout �a ne me dit pas qu'est-ce que vous venez faire chez moi?
+
+
+
+LOUIS
+
+Pardon, chez mon oncle.
+
+
+
+HELENE
+
+Vous dites?
+
+
+
+LOUIS, appuyant
+
+Je dis chez mon oncle!
+
+
+
+DUPONT, bourru
+
+Ici, vous �tes chez Madame Charbonnier.
+
+
+
+LOUIS
+
+A savoir, mon petit!... Le propri�taire m'a encore affirm� tant�t que
+le loyer �tait au nom de mon oncle. (A H�l�ne) C'est-y vrai?
+
+
+
+HELENE
+
+Eh bien, oui il est � son nom! Mais qu'est-ce que �a peut vous faire.
+
+
+
+LOUIS
+
+Qu'est-ce que �a peut me faire? (riant) Ah! Ah! elle est bien bonne,
+celle-l�?
+
+
+
+HELENE
+
+Enfin je ne comprends pas...
+
+
+
+LOUIS
+
+On va vous expliquer �a en douceur, ma petite dame... Dites-moi
+seulement, me reconnaissez-vous bien pour �tre le neveu de L�on
+Charbonnier qui a �t� tu� samedi � l'usine?
+
+
+
+HELENE
+
+Mais...
+
+
+
+LOUIS
+
+R�pondez? Oui ou non, c'est-y bien moi?
+
+
+
+HELENE
+
+Oui, sans doute!
+
+
+
+LOUIS, triomphant
+
+Alorss...
+
+
+
+HELENE
+
+Alors?
+
+
+
+LOUIS
+
+Mon oncle est mort et � moi seul, je repr�sente toute sa famille...
+c'est clair, hein?
+
+
+
+DUPONT, qui commence � comprendre
+
+Ah �a!
+
+
+
+HELENE, s'inqui�tant, mais pr�te � la d�fensive
+
+O� voulez-vous en venir?
+
+
+
+LOUIS
+
+A ceci tout simplement: je suis le plus proche parent de L�on
+Charbonnier et en cette qualit� j'h�rite de lui. Tout ce qui est ici
+m'appartient.
+
+
+
+HELENE, haussant la voix
+
+Comment �a vous appartient?
+
+
+
+DUPONT
+
+Par exemple!
+
+
+
+LOUIS
+
+Oui: m'appartient! Je suis chez moi, ici.
+
+
+
+HELENE
+
+Eh bien, et moi?
+
+
+
+LOUIS
+
+Vous? J'ai pas besoin de vous conna�tre.
+
+
+
+HELENE
+
+Et mon petit Charles, alors?
+
+
+
+LOUIS
+
+Connais pas non plus, le m�me!
+
+
+
+DUPONT
+
+Mais vous �tes fou, mon pauvre gar�on.
+
+
+
+LOUIS
+
+Pas tant que �a! Je connais mes droits.
+
+
+
+HELENE
+
+Vos droits!
+
+
+
+LOUIS
+
+Oui, mes droits! Ca vous chiffonne un peu de voir que j'h�rite. Je
+comprends �a! C'est toujours emb�tant de restituer ce qu'on a pris
+l'habitude de consid�rer comme �tant � soi.
+
+
+HELENE
+
+Tout est � moi et � mon fils ici!
+
+
+
+LOUIS
+
+Allez dire �a aux hommes de justice ou au commissaire de police, ils se
+ficheront de vous... Tenez, j'en viens de chez le commissaire de police
+et savez-vous ce qu'il m'a dit?
+
+
+
+DUPONT
+
+Je sus bien s�r qu'il ne vous a pas donn� raison.
+
+
+
+LOIUS
+
+Que si donc! Il m'a m�me dit que si Madame refusait de laisser la place
+libre, je pouvais appeler les agents.
+
+
+
+HELENE
+
+C'est impossible!
+
+
+
+DUPONT
+
+Ce serait une infamie!
+
+
+
+LOUIS
+
+Mais non! il n'y a pas d'infamie, c'est la loi tout bonnement.
+
+
+
+DUPONT
+
+La loi! C'en est trop! La loi ne peut pas autoriser une pareille
+injustice? Ce n'est donc pas suffisant que la soci�t� permette aux
+patrons de ne donner aucun secours aux compagnes des ouvriers qui
+meurent � leur travail, il faudrait encore qu'elle autorise un parent
+�loign�, presqu'un inconnu, � venir voler les pauvres meubles, tout
+l'avoir d'une femme restant sans ressources et sans d�fense.
+
+
+
+HELENE
+
+Non! Non! La loi ne peut pas dire que quelque chose, ici, appartient �
+cet homme.
+
+
+
+LOUIS
+
+Mais si, elle le dit, parce qu'elle dit que vous n'�tes pas m�me
+consid�r�e comme une servante � qui on doit des gages et une indemnit�.
+Je connais mon affaire!
+
+
+
+HELENE, avec un sanglot
+
+C'est injuste! C'est monstrueux!
+
+
+
+DUPONT
+
+Oui, c'est monstrueux! Ceux qui font les lois et ceux qui les
+interpr�tent sont donc b�tes et m�chants! On ne trouvera donc jamais
+des hommes d'assez grand coeur pour distinguer dans la loi, ce qu'il y
+a de bon ou de mauvais suivant les cas! Pour juger un assassin et le
+condamner, on exige un jury, et pour reconna�tre les droits d'une m�re
+malheureuse et d'un enfant irresponsable, avant de les jeter dans la
+mis�re, dans le ruisseau, on ne fera pas m�me une enqu�te, on ne
+demandera l'avis de personne! Derri�re ce mot "la Loi" qu'on lui jette
+� la figure, sans explication, on se cache sans scrupule pour commettre
+le plus l�che des abandons et le plus coupable des vols.
+
+
+
+HELENE, lamentablement, touchant ou indiquant chaque meuble
+
+Mais, enfin, cette commode... cette horloge, on les a achet�s �
+l'anniversaire de la naissance du petit... Cette table... cette table,
+Charbonnier me l'a offerte pour ma f�te... le buffet, nous avons
+�conomis� pendant un an pour pouvoir le payer... le linge qui est dans
+l'armoire c'est moi-m�me qui l'ai cousu de mes mains... Et on vient
+dire aujourd'hui que tout �a n'est pas � moi.
+
+
+
+Elle pleure la t�te dans ses mains.
+
+
+
+DUPONT
+
+Au nom de la loi, voler une femme sans soutien et un enfant sans
+d�fense, quelle honte pour la soci�t�!
+
+
+
+LOUIS
+
+Eh bien, vous en faites rien du chichi!
+
+
+
+DUPONT
+
+Taisez-vous, malheureux, vous devriez rougir. Un homme de votre �ge, en
+pleine force, qui vient d�pouiller une malheureuse et son enfant!
+
+
+
+LOUIS, s'�chauffant
+
+Ah, �a! � la fin, vous m'emb�tez, vous! Je ne r�clame que ce qui
+m'appartient. Si vous trouvez que la loi est mal faite, allez vous en
+plaindre � ceux qui la font.
+
+
+
+DUPONT
+
+Oh, si la souffrance des faibles pouvait �tre entendue, comme on la
+changerait bien vite, cette loi!
+
+
+
+LOUIS
+
+En attendant ne vous en prenez pas � moi... Je ne la connais pas, moi,
+cette femme-l�. Je ne cherche pas plus � la d�pouiller qu'� lui faire
+un cadeau. Je ne demande que mon d�!... Je n'ai pas un si mauvais coeur
+que �a! Elle peut bien emporter ce qui est � elle.
+
+
+
+DUPONT
+
+Tout, est � elle, ici! Venir le lui prendre, c'est voler.
+
+
+
+LOUIS
+
+Oh, �a!
+
+
+
+DUPONT
+
+Oui! tout est � elle et vous n'aurez rien. Moi, Dupont, je vous d�fends
+de toucher � quoi que ce soit! Cette femme et son enfant resteront ici
+tant qu'ils pourront payer le loyer.
+
+
+
+LOUIS
+
+Elle n'a pas le droit de rester malgr� moi. La loi...
+
+
+
+DUPONT, l'interrompant
+
+La loi, �a m'est �gal! Je ne connais que la justice.
+
+
+
+LOUIS
+
+Nous verrons bien si...
+
+
+
+DUPONT, s'avan�ant vers lui mena�ant
+
+Et vous, je vous engage � partir si vous ne voulez pas avoir affaire �
+moi.
+
+
+
+LOUIS, reculant
+
+Mais...
+
+
+
+DUPONT
+
+Allez-vous-en, mis�rable, j'y vois plus!
+
+
+
+LOUIS
+
+Je pars mais...
+
+
+
+DUPONT
+
+Vas-tu fiche le camp!
+
+
+
+LOUIS
+
+... je reviendrai demain matin.
+
+
+
+DUPONT
+
+Mais fous le camp, donc!
+
+
+
+LOUIS, mena�ant
+
+Ah, nous verrons bien! (sur le seuil) A demain!!
+
+
+
+Il sort.
+
+
+
+SCENE VI
+
+
+
+HELENE, DUPONT, PUIS MADAME PREVOST
+
+
+
+DUPONT
+
+La col�re m'aveuglait! S'il �tait rest� une minute de plus, je lui
+aurais rentr� les mots dans la gorge. Bandit! vaurien!! Canaille,
+va!!!... (Un temps, il regarde H�l�ne) La pauvre femme, la
+malheureuse!... reni�e, vol�e, chass�e!... Non, mais quelle honte.
+C'est � ne pas croire ces choses-l�!... (Un temps, il s'approche
+d'H�l�ne qui pleure doucement) Madame Charbonnier, ne pleurez pas comme
+�a... vous me faites de la peine.
+
+
+
+HELENE
+
+Mon brave Dupont!
+
+
+
+DUPONT
+
+Oui, je suis l�. Je vous d�fendrai, moi!
+
+
+
+HELENE
+
+Mais vous ne pouvez rien faire... Il va revenir demain matin... pour me
+chasser avec mon pauvre petit!
+
+
+
+DUPONT
+
+Ah �a! Jamais! Il me passerait plut�t sur le corps!
+
+
+
+HELENE
+
+Si c'est son droit, il faudra bien que je parte.
+
+
+
+DUPONT
+
+Bons sens de bon sens! Et je serai l� impuissant! Je ne pourrai pas les
+en emp�cher... Ah, �a ne peut pas �tre, il faut que je cherche... que
+je trouve quelque chose...
+
+
+
+HELENE
+
+Vous ne trouverez rien, h�las!
+
+
+
+DUPONT
+
+Je vais essayer...
+
+
+
+Mme Pr�vost entre, le petit gar�on endormi dans les bras. Toutes les
+r�pliques suivantes se disent � voix basse.
+
+
+
+MADAME PREVOST
+
+Chut! Le petit dort.
+
+
+
+DUPONT, soudain calm�
+
+Pauvre gosse...
+
+
+
+HELENE
+
+Mettez-le, sur le lit, tenez...
+
+
+
+MADAME PREVOST
+
+C'est �a!... (Elles couchent l'enfant d�licatement) L�!...
+
+
+
+HELENE
+
+Je le d�shabillerai tout � l'heure.
+
+
+
+MADAME PREVOST
+
+Il s'est endormi justement comme nous finissions de manger...
+maintenant il en a pour jusqu'� de main matin.
+
+
+
+DUPONT
+
+Moi, je vais m'en aller... (� H�l�ne) Je vais vous quitter, madame
+Charbonnier.
+
+
+
+HELENE
+
+Oui, voici la nuit qui avance.
+
+
+
+DUPONT, tendant la main
+
+Au revoir.
+
+
+
+HELENE
+
+Au revoir, Dupont.
+
+
+
+DUPONT
+
+Je serai l� demain � la premi�re heure.
+
+
+
+HELENE, soudain angoiss�e
+
+Oh, oui! ne me laissez pas seule demain?
+
+
+
+DUPONT
+
+Comptez sur moi.
+
+
+
+MADAME PREVOST
+
+Bonsoir!
+
+
+
+HELENE
+
+Bonsoir! (vivement) Merci bien, madame Pr�vost.
+
+
+
+MADAME PREVOST
+
+Oh, il n'y a pas de quoi...
+
+
+
+Ils sortent.
+
+
+
+HELENE, apr�s un temps d'immobilit�
+
+Demain!... (elle range machinalement, puis elle s'arr�te et �clate en
+sanglots) Oh, c'est affreux!... (Elle pleure, puis va vers le lit et
+regarde l'enfant) Mon pauvre petit! demain, on sera dans la rue, tous
+les deux!... (elle continue de pleurer. Son d�sespoir doit aller
+croissant de minutes en minutes. Elle va, vient, s'assoit, se l�ve,
+prononce des mots inintelligibles au milieu de ses larmes. Elle prend
+sur la commode, la photographie du d�funt) Oh, mon pauvre vieux! on
+�tait si heureux!... et maintenant c'est fini... J'ai pu rien!...
+J'suis toute seule!... (Elle pose la photographie et reprend sa marche.
+Elle fait tomber les pincettes, les ramasse, puis fixe �trangement le
+r�chaud de charbon de bois). Oh!... (Elle ne pleure plus, mais son
+visage exprime une secr�te terreur) Non! non!... (Elle recule vers
+l'autre extr�mit� de la pi�ce sans quitter des yeux le fourneau) Non!
+j'peux pas!... pour mon p'tit, j'peux pas. (Il y a lutte en elle. Elle
+examine autour d'elle, les yeux agrandis de terreur. Soudain, elle se
+d�cide). Si, si, il le faut! (Ses gestes sont d'un automate. Elle
+remplit de charbon le r�chaud et le porte au milieu de la pi�ce. Elle
+prend des draps dans l'armoire, les pend devant la porte et la fen�tre,
+puis, apr�s un dernier recul, elle s'allonge en sanglotant, pr�s de
+l'enfant, sur le lit) Oh, mon p'tit! mon p'tit! mon p'tit! (Ces
+derniers mots doivent �tre une sorte de clameur farouche o� l'instinct
+lutte encore contre l'horreur et la d�sesp�rance. C'est le hurlement
+d'agonie de la b�te humaine).
+
+
+
+RIDEAU
+
+
+
+
+
+Grande Imp du Centre -- Herbin, Montlu�on.
+
+
+
+
+
+
+
+End of Project Gutenberg's C'est la loi!, by Max du Veuzit and George Lomelar
+
+*** END OF THIS PROJECT GUTENBERG EBOOK C'EST LA LOI! ***
+
+***** This file should be named 27623-8.txt or 27623-8.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/7/6/2/27623/
+
+Produced by Daniel Fromont
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,3 +1,2599 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bed8009efb1e551d72bdf64db1fdb4c32f009daaff9fcf85922e6835929cd78e
-size 150566
+The Project Gutenberg EBook of Booknologie: Le livre num�rique (1971-2010), by 
+Marie Lebert
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Booknologie: Le livre num�rique (1971-2010)
+
+Author: Marie Lebert
+
+Release Date: December 5, 2010 [EBook #33462]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BOOKNOLOGIE (1971-2010_) ***
+
+
+
+
+Produced by Al Haines
+
+
+
+
+
+
+
+
+
+
+BOOKNOLOGIE: LE LIVRE NUM�RIQUE (1971-2010)
+
+
+
+MARIE LEBERT
+
+
+Version actualis�e en novembre 2010
+
+
+Copyright � 2010 Marie Lebert. Tous droits r�serv�s.
+
+
+--- Marie Lebert, chercheuse et journaliste, s'int�resse aux
+technologies pour le livre et les langues. Elle est l'auteure de �Le
+livre, de l'imprim� au num�rique� (NEF, Universit� de Toronto, 2010),
+�L'internet et les langues� (NEF, 2009) et �Le Livre 010101� (NEF,
+2003). Ses livres sont librement disponibles dans le Projet Gutenberg
+<www.gutenberg.org> et dans ManyBooks.net <http://manybooks.net>, dans
+divers formats permettant leur lecture sur tout appareil �lectronique
+(ordinateur, PDA, t�l�phone mobile, smartphone ou tablette de lecture).
+---
+
+
+De 1971 � 2010 > Booknologie, une chronologie du livre num�rique
+
+Le livre num�rique a bient�t 40 ans. Le premier livre num�rique est
+l'eText #1 du Projet Gutenberg, un projet visionnaire cr�� en 1971 par
+Michael Hart pour distribuer gratuitement les oeuvres litt�raires par
+voie �lectronique. 40 ans apr�s, les livres num�riques font partie de
+notre vie. Nous les lisons sur nos ordinateurs, PDA, t�l�phones
+mobiles, smartphones ou tablettes.
+
+Juillet 1971 > Le Projet Gutenberg, un projet visionnaire
+
+Le Projet Gutenberg est un projet visionnaire lanc� par Michael Hart en
+juillet 1971 pour cr�er des versions �lectroniques d'oeuvres
+litt�raires et les diffuser dans le monde entier. Au 16e si�cle,
+Gutenberg avait permis � chacun d'avoir des livres imprim�s pour un
+prix relativement modique. Au 21e si�cle, le Projet Gutenberg
+permettrait � chacun d'avoir une biblioth�que num�rique gratuite.
+D'abord consid�r� comme compl�tement irr�aliste, ce projet trouve un
+second souffle et un rayonnement international avec l'apparition du web
+en 1990 puis la cr�ation de Distributed Proofreaders en 2000, pour
+partager la relecture des livres entre des milliers de volontaires. En
+2010, le Projet Gutenberg propose 33.000 ebooks t�l�charg�s par
+dizaines de milliers chaque jour et des sites web aux �tats-Unis, en
+Australie, en Europe et au Canada, ainsi que 40 sites miroirs r�partis
+sur toute la plan�te.
+
+1974 > Les d�buts de l'internet
+
+L'internet, embryonnaire en 1971, na�t en 1974. Vinton Cerf est souvent
+appel� le p�re de l'internet parce qu'il est l'auteur en 1974 (avec
+Robert Kahn) des protocoles n�cessaires au bon fonctionnement du
+r�seau. Sur le site de l'Internet Society (ISOC), qu'il fonde en 1992
+pour promouvoir le d�veloppement de l'internet, il explique: �Le r�seau
+fait deux choses (...): comme les livres, il permet d'accumuler de la
+connaissance. Mais, surtout, il la pr�sente sous une forme qui la met
+en relation avec d'autres informations. Alors que, dans un livre,
+l'information est maintenue isol�e.�
+
+1977 > Les extensions de l'ASCII, premier syst�me d'encodage
+
+Publi� par l'American National Standards Institute (ANSI) en 1968, avec
+actualisation en 1977 et 1986, l'ASCII (American Standard Code for
+Information Interchange) est le premier syst�me d'encodage. Il s'agit
+d'un code standard de 128 caract�res traduits en langage binaire sur
+sept bits (A est traduit par �1000001�, B est traduit par �1000010�,
+etc.). L'ASCII permet uniquement la lecture de l'anglais et du latin.
+Des variantes de l'ASCII (norme ISO-8859 ou ISO-Latin) sur huit bits
+prennent ensuite en compte les caract�res accentu�s de quelques langues
+europ�ennes. La variante pour le fran�ais est d�finie par la norme ISO
+8859-1 (Latin-1).
+
+1977 > L'UNIMARC, un format bibliographique commun
+
+Cr�� en 1977 par l'IFLA (International Federation of Library
+Associations), le format UNIMARC est un format universel permettant le
+stockage et l'�change de notices bibliographiques au moyen d'une
+codification des diff�rentes parties de la notice (auteur, titre,
+�diteur, etc.) pour traitement informatique. Ce format favorise les
+�changes de donn�es entre la vingtaine de formats MARC existants, qui
+correspondent chacun � une pratique nationale de catalogage (INTERMARC
+en France, UKMARC au Royaume-Uni, USMARC aux �tats-Unis, CAN/MARC au
+Canada, etc.). Les notices dans le format MARC d'origine sont d'abord
+converties au format UNIMARC avant d'�tre converties � nouveau dans le
+format MARC de destination. UNIMARC peut aussi �tre utilis� comme
+standard pour le d�veloppement de nouveaux formats MARC.
+
+1984 > Le copyleft adapte le copyright � l'internet
+
+Des cr�ateurs souhaitent respecter la vocation premi�re de l'internet,
+r�seau de diffusion � l'�chelon mondial. L'id�e du copyleft est lanc�e
+d�s 1984 par Richard Stallman, ing�nieur en informatique et d�fenseur
+inlassable du mouvement Open Source au sein de la Free Software
+Foundation (FSF). Con�u � l'origine pour les logiciels, le copyleft est
+formalis� par la GPL (General Public License) et �tendu par la suite �
+toute oeuvre de cr�ation. Il contient la d�claration normale du
+copyright affirmant le droit d'auteur. Son originalit� est de donner au
+lecteur le droit de librement redistribuer le document et de le
+modifier. Le lecteur s'engage toutefois � ne revendiquer ni le travail
+original, ni les changements apport�s par d'autres. De plus, tous les
+travaux d�riv�s de l'oeuvre originale sont eux-m�mes soumis au
+copyleft.
+
+1984 > Le Psion Organiser, v�t�ran des agendas �lectroniques
+
+Lanc� d�s 1984 par la soci�t� britannique Psion, le Psion Organiser est
+le premier mod�le d'agenda �lectronique. Au fil des ans, la gamme des
+appareils s'�tend avec les Psion S�rie 3 et S�rie 5, et la soci�t� se
+d�veloppe � l'international. En 2000, les divers mod�les (S�rie 7,
+S�rie 5mx, Revo, Revo Plus) sont concurrenc�s par le Palm Pilot et le
+Pocket PC. Les ventes baissent et la soci�t� d�cide de diversifier ses
+activit�s. Suite au rachat de Teklogix par Psion, Psion Teklogix est
+cr�� en septembre 2000 pour d�velopper des solutions mobiles sans fil �
+destination des entreprises. Psion Software est cr�� en 2001 pour
+d�velopper les logiciels de la nouvelle g�n�ration d'appareils mobiles
+utilisant la plateforme Symbian OS, par exemple ceux du smartphone
+Nokia 9210, mod�le pr�curseur commercialis� la m�me ann�e.
+
+1986 > Les dictionnaires de Franklin sur machine de poche
+
+Bas�e dans le New Jersey (�tats-Unis), la soci�t� Franklin
+commercialise d�s 1986 le premier dictionnaire consultable sur une
+machine de poche. Quinze ans plus tard, Franklin distribue 200 ouvrages
+de r�f�rence sur des machines de poche: dictionnaires unilingues et
+bilingues, encyclop�dies, Bibles, manuels d'enseignement, ouvrages
+m�dicaux et livres de loisirs.
+
+1990 > Le World Wide Web
+
+Le World Wide Web est con�u en 1989-90 par Tim Berners-Lee, alors
+chercheur au CERN (Centre europ�en pour la recherche nucl�aire, devenu
+ensuite l'Organisation europ�enne pour la recherche nucl�aire) �
+Gen�ve, en Suisse. En 1989, Tim Berners-Lee met en r�seau des documents
+utilisant l'hypertexte. En 1990, il met au point le premier serveur
+HTTP (HyperText Transfer Protocol) et le premier navigateur web. En
+1991, le web est op�rationnel et change radicalement l'utilisation de
+l'internet. Des liens hypertextes permettent d�sormais de passer d'un
+document textuel ou visuel � un autre au moyen d'un simple clic de
+souris. Devenue interactive, l'information devient soudain beaucoup
+plus attractive. Plus tard, cette interactivit� est encore accrue avec
+la possibilit� de liens hyperm�dias permettant de lier des textes et
+des images avec des graphiques, vid�os ou bandes sonores. Le World Wide
+Web Consortium (W3C) est fond� en octobre 1994 pour d�velopper les
+protocoles communs du web.
+
+Janvier 1991 > L'Unicode, un syst�me d'encodage pour toutes les langues
+
+Publi� pour la premi�re fois en janvier 1991, l'Unicode est  un syst�me
+d'encodage �universel� sur 16 bits sp�cifiant un nombre unique pour
+chaque caract�re. Ce nombre est lisible quels que soient la plateforme,
+le logiciel et la langue utilis�s. L'Unicode peut traiter 65.000
+caract�res uniques et prendre en compte tous les syst�mes d'�criture de
+la plan�te. L'Unicode est maintenu par l'Unicode Consortium, tout comme
+ses variantes UTF-8 (UTF: Unicode Transformation Format), UTF-16 et
+UTF-32, et devient une composante des sp�cifications du W3C (World Wide
+Web Consortium), l'organisme international charg� du d�veloppement du
+web. Son utilisation se g�n�ralise � partir de 1998, par exemple pour
+les fichiers texte sous plateforme Windows (Windows NT, Windows 2000,
+Windows XP et versions suivantes), qui �taient jusque-l� en ASCII
+(American Standard Code for Information Interchange), un syst�me
+d'encodage datant de 1968.
+
+Janvier 1993 > L'Online Books Page, un r�pertoire de livres en acc�s
+libre
+
+L'Online Books Page est cr��e en janvier 1993 par John Mark Ockerbloom
+pour r�pertorier les oeuvres de langue anglaise en acc�s libre sur le
+web. A cette date, John Mark Ockerbloom est doctorant � l'Universit�
+Carnegie Mellon (Pittsburgh, Pennsylvanie, �tats-Unis). En 1999, il
+rejoint l'Universit� de Pennsylvanie pour travailler � la R&D
+(recherche et d�veloppement) de la biblioth�que num�rique de
+l'universit�. A la m�me �poque, il y transf�re l'Online Books Page,
+tout en gardant la m�me pr�sentation, tr�s sobre, et il poursuit son
+travail d'inventaire dans le m�me esprit. Ce r�pertoire recense 12.000
+livres en 1999, 20.000 livres en 2003 (dont 4.000 publi�s par des
+femmes), 25.000 livres en 2006, 30.000 livres en 2007 (dont 7.000
+livres du Projet Gutenberg) et 35.000 livres en 2010.
+
+Avril 1993 > ABU: la biblioth�que universelle, premi�re biblioth�que
+num�rique fran�aise
+
+Cr��e en avril 1993, ABU: la biblioth�que universelle (ABU signifiant:
+Association des bibliophiles universels) est la premi�re biblioth�que
+num�rique fran�aise � voir le jour, � l'initiative de l'association du
+m�me nom, bas�e � Paris. Ses membres  b�n�voles scannent ou
+dactylographient eux-m�mes des oeuvres francophones du domaine public.
+En janvier 2002, les collections comprennent 288 textes de 101 auteurs.
+Il ne semble pas que d'autres textes aient �t� ajout�s depuis.
+
+Juin 1993 > Le format PDF et l'Acrobat Reader, lanc�s par Adobe
+
+Lanc� en juin 1993 par la soci�t� Adobe, le premier logiciel de lecture
+(gratuit) est l'Acrobat Reader, qui permet de lire des documents au
+format PDF (Portable Document Format). Le format PDF permet de figer
+les documents num�riques dans une pr�sentation donn�e, pour conserver
+les polices, les couleurs et les images du document source, quelle que
+soit la plateforme utilis�e pour le cr�er et pour le lire. Le logiciel
+Adobe Acrobat (payant) permet de convertir n'importe quel document au
+format PDF. Au fil des ans, le format PDF devient une norme
+internationale de diffusion des documents �lectroniques, et l'Acrobat
+Reader est disponible dans plusieurs langues et pour diverses
+plateformes (Windows, Mac, Linux). Il s'enrichit aussi d'une version
+PDA pour le Palm Pilot (en mai 2001) puis pour le Pocket PC (en
+d�cembre 2001). En 2003, 10% des documents disponibles sur l'internet
+seraient au format PDF.
+
+Juillet 1993 > L'E-zine-list, une liste de zines �lectroniques
+
+Abr�g� de fanzine ou magazine, un zine est g�n�ralement l'oeuvre d'une
+personne ou d'un petit groupe. Quant au e-zine, abr�g� de zine
+�lectronique, il est uniquement diffus� par courriel ou sur un site
+web. Le plus souvent, il ne contient pas de publicit�, ne vise pas un
+profit commercial et n'est pas dirig� vers une audience de masse. Les
+e-zines sont r�pertori�s dans l'E-zine-list, une liste cr��e en �t�
+1993 par John Labovitz. En cinq ans, de 1993 � 1998, les quelques
+dizaines d'e-zines deviennent plusieurs centaines - avec 3.045 e-zines
+recens�s en novembre 1998 - et la signification m�me d'e-zine s'�largit
+pour recouvrir tout type de publication publi�e par voie �lectronique,
+m�me s'�il subsiste toujours un groupe original et ind�pendant
+d�sormais minoritaire qui continue de publier suivant son coeur ou de
+repousser les fronti�res de ce que nous appelons un e-zine� (John
+Labovitz).
+
+Novembre 1993 > Mosaic est le premier logiciel de navigation
+
+D�velopp� par le NSCA (National Center for Supercomputing Applications)
+� l'Universit� de l'Illinois (�tats-Unis) et distribu� gratuitement �
+partir de novembre 1993, Mosaic est le premier navigateur destin� au
+grand public et contribue largement au d�veloppement rapide du web.
+D�but 1994, une partie de l'�quipe de Mosaic �migre dans la Netscape
+Communications Corporation pour d�velopper un nouveau logiciel sous le
+nom de Netscape Navigator. En 1995, pour concurrencer le Netscape
+Navigator, Microsoft cr�e l'Internet Explorer. Viennent ensuite
+d'autres navigateurs, comme Opera ou Safari, le navigateur d'Apple.
+
+Janvier 1994 > L'annuaire de l'UREC, un annuaire de sites francophones
+
+L'UREC (Unit� r�seaux du Centre national de la recherche scientifique)
+lance d�but 1994 le premier annuaire de sites web francophones, en
+recensant d'abord les sites acad�miques avant de devenir un annuaire
+plus g�n�raliste. L'annuaire de l'UREC a pour but de se familiariser
+avec le web sans se noyer dans la masse d'informations mondiale, et de
+faire conna�tre les sites qui fleurissent en langue fran�aise sur la
+toile. D'autres annuaires voient ensuite le jour, dont certains d�but�s
+avec l'aide de l'UREC. Le nombre de sites web, y compris commerciaux,
+augmente de mani�re exponentielle, si bien que la gestion d'un annuaire
+g�n�raliste devient difficile. En juillet 1997, consid�rant sa mission
+comme accomplie, l'UREC arr�te la mise � jour de cet annuaire
+g�n�raliste, et le remplace par un annuaire sp�cialis� consacr� �
+l'enseignement sup�rieur et � la recherche.
+
+F�vrier 1994 > Le premier site web lanc� par une biblioth�que
+
+La premi�re biblioth�que pr�sente sur le web est la Biblioth�que
+municipale d'Helsinki (Finlande), qui inaugure son site en f�vrier
+1994. Par ailleurs, des biblioth�ques mettent sur pied des
+�cyberespaces� � destination de leurs lecteurs. D'autres biblioth�ques
+font conna�tre les joyaux de leurs collections par le biais du web, en
+cr�ant des biblioth�ques num�riques. Des biblioth�ques nationales
+unissent leurs efforts pour cr�er un portail commun. Et enfin les
+catalogues migrent en ligne et deviennent collectifs � l'�chelle d'une
+r�gion, d'un pays ou de la plan�te.
+
+Mai 1994 > La Human-Languages Page, un catalogue de ressources
+linguistiques
+
+Cr��e par Tyler Chambers en mai 1994, la Human-Languages Page est un
+catalogue d�taill� de 1.800 ressources linguistiques dans une centaine
+de langues (en septembre 1998), avec plusieurs grandes rubriques:
+langues et litt�rature, �coles et institutions, ressources
+linguistiques, produits et services, organismes, emplois et stages,
+dictionnaires et cours de langues. Au printemps 2001, la Human-
+Languages Page fusionne avec le Languages Catalog, une section de la
+WWW Virtual Library, pour devenir iLoveLanguages. iLoveLanguages offre
+2.000 ressources linguistiques dans une centaine de langues en
+septembre 2003, et 2.400 ressources linguistiques en septembre 2007.
+
+1994 > Athena, une biblioth�que num�rique multilingue
+
+Fond�e en 1994 par Pierre Perroud, professeur au coll�ge Voltaire �
+Gen�ve (Suisse), Athena est une biblioth�que num�rique multilingue
+h�berg�e sur le site de l'Universit� de Gen�ve. Elle propose � la fois
+des s�ries de liens vers des oeuvres en acc�s libre sur le web et des
+oeuvres num�ris�es par les soins d'Athena. En 1997, le site bilingue
+fran�ais-anglais donne acc�s � 3.500 textes �lectroniques dans des
+domaines aussi vari�s que la philosophie, les sciences, la p�riode
+classique, la litt�rature, l'histoire, l'�conomie, etc. En d�cembre
+1998, les collections comprennent 8.000 textes. Un des objectifs
+d'Athena est de mettre en ligne des textes de langue fran�aise. Une
+section sp�cifique (Swiss Authors and Texts) regroupe les auteurs et
+textes suisses. On y trouve aussi un r�pertoire mondial des ressources
+litt�raires en ligne (Athena Literature Resources). Par ailleurs,
+Athena propose une table de min�ralogie qui est l'oeuvre de Pierre
+Perroud et qui est consult�e dans le monde entier.
+
+1994 > La NAP: des livres num�riques en acc�s libre pour favoriser la
+vente des m�mes livres imprim�s
+
+�diteur universitaire, la National Academy Press (qui deviendra plus
+tard la National Academies Press) publie environ 200 livres par an,
+surtout des ouvrages scientifiques et techniques et des ouvrages
+m�dicaux. En 1994, l'�diteur choisit de mettre en acc�s libre sur le
+web le texte int�gral de plusieurs centaines de livres, avec l'accord
+de leurs auteurs, afin que les lecteurs puissent les �feuilleter� �
+l'�cran, comme ils l'auraient fait dans une librairie. Pour l'�diteur,
+le web est un nouvel outil de marketing face aux 50.000 ouvrages
+publi�s chaque ann�e aux �tats-Unis. Une r�duction de 20% est accord�e
+pour toute commande faite en ligne. La pr�sence de ces livres sur le
+web entra�ne aussi une augmentation des ventes par t�l�phone.
+L'exp�rience est un succ�s. En 1998, le site de la NAP propose le texte
+int�gral d'un millier de titres.
+
+1995 > La MIT Press tente la m�me exp�rience
+
+La solution choisie par la NAP est adopt�e d�s 1995 par la MIT Press
+(MIT: Massachusetts Institute of Technology), qui voit rapidement ses
+ventes doubler pour les livres disponibles en version int�grale sur le
+web. Ces initiatives sont salu�es par d'autres maisons d'�dition, qui
+h�sitent cependant � se lancer dans l'aventure, et ce pour trois
+raisons: le co�t excessif qu'entra�ne la mise en ligne de milliers de
+pages, les probl�mes li�s au droit d'auteur, et enfin  la peur d'une
+�concurrence� entre la version num�rique gratuite et la version
+imprim�e payante, qu'ils estiment nuisible aux ventes.
+
+1995 > L'Internet Dictionary Project, pour des dictionnaires
+coop�ratifs en ligne
+
+Parall�lement � la Human-Languages Page, qu'il a cr��e en mai 1994,
+Tyler Chambers m�ne un deuxi�me projet relatif aux langues, l'Internet
+Dictionary Project, un projet coop�ratif ouvert � tous lanc� en 1995
+pour la constitution de dictionnaires en acc�s libre sur le web, de
+l'anglais vers d'autres langues (allemand, espagnol, fran�ais, italien,
+latin et portugais). Faute de temps, Tyler cesse d'actualiser ce projet
+en janvier 2007, tout en laissant les dictionnaires existants tels
+quels sur le web pour consultation ou t�l�chargement.
+
+1995 > NetGlos, un glossaire collaboratif en ligne de l'internet
+
+NetGlos - abr�g� de �The Multilingual Glossary of Internet Terminology�
+-- est lanc� en 1995 � l'initiative du WorldWide Language Institute, un
+institut enseignant les langues via l'internet. NetGlos est un projet
+collaboratif en treize langues (allemand, anglais, chinois, croate,
+espagnol, fran�ais, grec, h�breu, hollandais/flamand, italien, maori,
+norv�gien et portugais), avec la participation de nombreux traducteurs
+volontaires et autres professionnels des langues dans le monde entier.
+Il se poursuit pendant plusieurs ann�es avant de dispara�tre.
+
+F�vrier 1995 > Le site web du Monde diplomatique
+
+En f�vrier 1995 est mis en ligne le site web du mensuel Le Monde
+diplomatique, premier site d'un p�riodique imprim� fran�ais. Mont� dans
+le cadre d'un projet exp�rimental avec l'Institut national de
+l'audiovisuel (INA), ce site est inaugur� lors du forum des images
+Imagina. Il donne acc�s � l'ensemble des articles depuis janvier 1994,
+par date, par sujet et par pays. L'int�gralit� du mensuel en cours est
+consultable gratuitement pendant deux semaines suivant sa parution. Un
+forum de discussion permet au journal de discuter avec ses lecteurs.
+Quelques mois apr�s, plusieurs quotidiens imprim�s mettent en ligne un
+site web: Lib�ration � la fin de 1995, Le Monde et L'Humanit� en 1996,
+etc., tout comme la presse r�gionale, par exemple Ouest-France ou Les
+Nouvelles d'Alsace.
+
+F�vrier 1995 > La presse anglophone en ligne
+
+Au Royaume-Uni, le Times et le Sunday Times font web commun sur un site
+d�nomm� Times Online, avec possibilit� de cr�er une �dition
+personnalis�e. Aux �tats-Unis, la version en ligne du Wall Street
+Journal est payante, avec 100.000 abonn�s en 1998. Celle du New York
+Times est disponible sur abonnement gratuit. Le Washington Post propose
+l'actualit� quotidienne en ligne et de nombreux articles archiv�s, le
+tout avec images, sons et vid�os. Pathfinder (rebaptis� ensuite Time)
+est le site web du groupe Time-Warner, �diteur de Time Magazine, Sports
+Illustrated, Fortune, People, Southern Living, Money, Sunset, etc. On
+peut y lire les articles �maison� et les rechercher par date ou par
+sujet. Lanc� en 1992 en Californie, Wired, premier magazine imprim�
+enti�rement consacr� � la culture cyber, est bien �videmment pr�sent
+sur le web.
+
+Avril 1995 > �ditel, pionnier de l'�dition litt�raire francophone
+
+En avril 1995, Pierre Fran�ois Gagnon, po�te et essayiste qu�b�cois,
+cr�e �ditel, site pionnier de l'�dition litt�raire francophone. Apr�s
+avoir �t� le premier site web d'auto-�dition collective de langue
+fran�aise, �ditel devient un site de cyber�dition non commerciale, en
+partenariat avec quelques auteurs maison, ainsi qu'un webzine
+litt�raire. Un blog succ�dera � ces projets quelques ann�es plus tard.
+
+Juillet 1995 > Amazon.com, pionnier du cyber-commerce
+
+Amazon.com est lanc� en juillet 1995 par Jeff Bezos � Seattle, sur la
+c�te ouest des �tats-Unis. La librairie en ligne d�bute avec dix
+salari�s et trois millions d'articles, et devient vite un g�ant du
+commerce �lectronique. Cinq ans plus tard, en novembre 2000, la soci�t�
+compte 7.500 salari�s, 28 millions d'articles, 23 millions de clients
+et quatre filiales au Royaume-Uni (filiale ouverte en octobre 1998), en
+Allemagne (filiale ouverte � la m�me date), en France (filiale ouverte
+en ao�t 2000) et au Japon (filiale ouverte en novembre 2000). Une
+cinqui�me filiale est ouverte au Canada (en juin 2002), suivie d'une
+sixi�me filiale, Joyo, en Chine (en septembre 2004). Pr�sent dans sept
+pays et devenu une r�f�rence mondiale du commerce en ligne (avec eBay),
+Amazon f�te ses dix ans d'existence en juillet 2005, avec 9.000
+salari�s et 41 millions de clients.
+
+D�cembre 1995 > La Kotoba Home Page, ou les langues sur l'�cran de son
+ordinateur
+
+En d�cembre 1995, Yoshi Mikami est informaticien chez Asia Info Network
+� Fujisawa (Japon). Il lance le site bilingue anglais-japonais �The
+Languages of the World by Computers and the Internet�, plus connu sous
+le nom de Kotoba Home Page ou Logos Home Page (� ne pas confondre avec
+le site de la soci�t� de traduction Logos, lanc� deux ans plus tard).
+La Kotoba Home Page donne un bref historique de chaque langue, ses
+caract�ristiques, son syst�me d'�criture, son jeu de caract�res et
+enfin la configuration du clavier dans la langue donn�e. Yoshi Mikami
+est �galement co-auteur (avec Kenji Sekine et Nobutoshi Kohara) de Pour
+un web multilingue, publi� en ao�t 1997 en japonais par les �ditions
+O'Reilly avant d'�tre traduit en anglais, en allemand et en fran�ais,
+avec une version fran�aise parue en septembre 1998. La Kotoba Home Page
+est actualis�e jusqu'en septembre 2001.
+
+F�vrier 1996 > LMB Actu, une lettre d'information sur l'actualit� de
+l'internet
+
+En f�vrier 1996, Fran�ois Vadrot, directeur des syst�mes d'information
+du CNRS (Centre national de la recherche scientifique, France), cr�e
+LMB Actu (Le Micro Bulletin Actu), une lettre d'information
+hebdomadaire consacr�e � l'actualit� de l'internet et des nouvelles
+technologies. En ao�t 1999, il fonde la soci�t� de cyberpresse FTPress
+(French Touch Press), bas�e � Paris. En septembre 1999, il lance
+Internet Actu, qui remplace LMB Actu. D'autres publications suivent,
+ainsi que des r�alisations multim�dias et des �missions de t�l�vision,
+dont certaines suivent de pr�s l'actualit� du livre. En avril 2002,
+Internet Actu est rachet� par INIST Diffusion (INIST: Institut de
+l'information scientifique et technique). FTPress cesse ses activit�s
+en mai 2003. Internet Actu devient ensuite une publication de la FING
+(Fondation internet nouvelle g�n�ration).
+
+Mars 1996 > Le Palm Pilot est le premier assistant personnel (PDA)
+
+Bas�e en Californie, la soci�t� Palm lance le Palm Pilot, premier PDA
+du march�, en mars 1996 et vend 23 millions de machines entre 1996 et
+2002. Son syst�me d'exploitation est le Palm OS et son logiciel de
+lecture le Palm Reader. En mars 2001, les usagers peuvent lire aussi
+des livres sur le Mobipocket Reader. A la m�me date, Palm rach�te
+Peanutpress.com, son Peanut Reader, et ses 2.000 titres pour PDA qui
+sont transf�r�s dans Palm Digital Media, la librairie num�rique de
+Palm. Si certains professionnels du livre s'inqui�tent de la petitesse
+de l'�cran, les adeptes de la lecture sur PDA assurent que la taille de
+l'�cran n'est pas un probl�me.
+
+Avril 1996 > L'Internet Archive, fond�e pour archiver le web tous les
+deux mois
+
+Fond�e en avril 1996 par Brewster Kahle � San Francisco (Californie),
+l'Internet Archive a pour but de constituer, stocker, pr�server et
+g�rer une biblioth�que de l'internet, en archivant la totalit� du web
+tous les deux mois. L'objectif est d'offrir un outil de travail aux
+universitaires, chercheurs et historiens, et de pr�server un historique
+de l'internet pour les g�n�rations futures. En octobre 2001, l'Internet
+Archive met ses archives en acc�s libre sur le web gr�ce � la Wayback
+Machine. Les archives du web repr�sentent 30 millions de pages web en
+1996, 65 milliards de pages web (provenant de 50 millions de sites web)
+en d�cembre 2006, 85 milliards de pages web en mai 2007 et 150
+milliards de pages web en mars 2010.
+
+Avril 1996 > OneLook Dictionaries, un point d'acc�s unique pour les
+dictionnaires en ligne
+
+Robert Ware lance en avril 1996 le site OneLook Dictionaries pour
+permettre une recherche rapide dans des centaines de dictionnaires
+couvrant divers domaines: affaires, informatique et internet, m�decine,
+religion, sciences et techniques, sports, g�n�ralit�s et argot. OneLook
+Dictionaries compte 2 millions de termes provenant de 425 dictionnaires
+en 1998, 2,5 millions de termes provenant de 530 dictionnaires en 2000,
+5 millions de termes provenant de 910 dictionnaires en 2003, et 19
+millions de termes provenant de 1.060 dictionnaires en 2010.
+
+Mai 1996 > DAISY, un standard de livre audionum�rique
+
+Fond� en mai 1996, le DAISY Consortium (DAISY: Digital Audio
+Information System, puis Digital Accessible Information System) est un
+consortium international charg� d'assurer la transition entre le livre
+audio analogique (sur bande magn�tique ou sur cassette) et le livre
+audionum�rique. Sa t�che est de d�finir une norme internationale,
+d�terminer les conditions de production, d'�change et d'utilisation du
+livre audionum�rique, et organiser la num�risation du mat�riel audio �
+l'�chelle mondiale. La norme DAISY se base sur le format DTB (Digital
+Talking Book), qui permet l'indexation du livre audio et l'ajout de
+signets pour une navigation facile au niveau du paragraphe, de la page
+et du chapitre.
+
+Juin 1996 > Zazieweb, un site ind�pendant sur l'actualit� du livre
+
+Fond� en juin 1996 par Isabelle Aveline, Zazieweb est un site
+ind�pendant con�u pour tous les amoureux du livre, professionnels et
+amateurs. Le succ�s est imm�diat. Suivant de pr�s l'actualit� du livre
+sur le r�seau, le site devient peu � peu un portail avec un espace de
+documentation, d'orientation et de ressources internet. L'annuaire de
+Zazieweb recense plus de 5.000 sites litt�raires. Zazieweb offre aussi
+�des espaces d'�changes et de rencontres pour lecteurs communicants et
+actifs�. Y participe une communaut� active de plus de 10.000 membres ou
+e-lecteurs. �Qu'est-ce qu'un e-lecteur? Un e-lecteur est un lecteur
+actif et communicant qui souhaite �changer, discuter, pol�miquer avec
+d'autres lecteurs.� Zazieweb cesse malheureusement ses activit�s en
+2009.
+
+Juin 1996 > La Biblioth�que �lectronique de Lisieux
+
+La Biblioth�que �lectronique de Lisieux est l'une des premi�res
+biblioth�ques francophones du r�seau. Elle est cr��e en juin 1996 par
+Olivier Bogros, directeur de la m�diath�que municipale de Lisieux
+(Normandie), qui l'h�berge pendant deux ans sur les pages de son compte
+personnel CompuServe avant d'enregistrer un nom de domaine en juin
+1998. En juillet 1999, la biblioth�que �lectronique comprend 370 textes
+courts, num�ris�s en mode texte � partir des collections de la
+m�diath�que. On y trouve des oeuvres litt�raires, des brochures et des
+opuscules documentaires, ainsi que des manuscrits, livres et brochures
+sur la Normandie. En d�cembre 2006, les collections comprennent 930
+oeuvres et 20 galeries d'images. Situ� sur le site de l'Universit� de
+Toronto, LexoTor -- lanc� en ao�t 2000 - est une base de donn�es
+fonctionnant avec le logiciel TACTweb (TACT: Text Analysis Computing
+Tools) et permettant l'interrogation en ligne des oeuvres de la
+biblioth�que, ainsi que des analyses et comparaisons textuelles.
+
+Ao�t 1996 > CyLibris, premier �diteur �lectronique francophone
+
+Fond� en ao�t 1996 � Paris par Olivier Gainon, CyLibris (de Cy, cyber
+et Libris, livre) est la premi�re maison d'�dition � utiliser
+l'internet et le num�rique pour publier de nouveaux auteurs
+litt�raires. Vendus uniquement sur le web, les livres sont imprim�s �
+la commande et envoy�s directement au client, ce qui permet d'�viter le
+stock et les interm�diaires. Fin 1999, CyLibris compte 15.000 visites
+mensuelles sur son site et 3.500 livres vendus tous exemplaires
+confondus, avec une ann�e financi�rement �quilibr�e. Au printemps 2000,
+CyLibris devient membre du Syndicat national de l'�dition (SNE). En
+2001, certains titres sont �galement vendus en version imprim�e par un
+r�seau de librairies partenaires, notamment la Fnac, et en version
+num�rique par Mobipocket et Numilog. En 2003, le catalogue de CyLibris
+comprend une cinquantaine de titres. CyLibris (� ne pas confondre avec
+CyberLibris, une autre soci�t�) cesse ses activit�s en 2007.
+
+1996 > Le Dictionnaire universel francophone en ligne
+
+Le premier dictionnaire de langue fran�aise en acc�s libre est le
+Dictionnaire universel francophone en ligne, qui r�pertorie 45.000 mots
+et 116.000 d�finitions tout en pr�sentant �sur un pied d'�galit�, le
+fran�ais dit "standard" et les mots et expressions en fran�ais tel
+qu'on le parle sur les cinq continents�. Issu de la collaboration entre
+Hachette et l'AUPELF-UREF (devenu depuis l'AUF: Agence universitaire de
+la Francophonie), il correspond � la partie �noms communs� du
+dictionnaire imprim� disponible chez Hachette. L'�quivalent pour la
+langue anglaise est le site Merriam-Webster OnLine, qui donne librement
+acc�s au Collegiate Dictionary et au Collegiate Thesaurus.
+
+1996 > Une version web pour l'Ethnologue, catalogue encyclop�dique des
+langues vivantes
+
+Publi� par SIL International (SIL: Summer Institute of Linguistics),
+�The Ethnologue: Languages of the World� lance en 1996 une version web
+gratuite en plus de ses versions imprim�e et CD-ROM, toutes deux
+payantes. (La version CD-ROM sera plus tard abandonn�e.) Ce catalogue
+exhaustif des langues parl�es dans le monde fournit des informations
+g�ographiques, statistiques, socio-linguistiques et d�mographiques,
+ainsi que des index et des cartes g�ographiques. En plus de l'�quipe de
+base travaillant � Dallas (Texas, �tats-Unis), des milliers de
+linguistes y participent en glanant et v�rifiant des informations dans
+le monde entier, avec une nouvelle version publi�e tous les quatre ans
+environ. En 2009, la 16e �dition de cette encyclop�die r�pertorie 6.909
+langues selon plusieurs crit�res (pays, nom de la langue, code de la
+langue attribu� par le SIL, famille de langues, etc.).
+
+Octobre 1996 > Gen�se du projet @folio, baladeur de textes �ouvert�
+
+Con�u d�s octobre 1996 par Pierre Schweitzer, architecte designer �
+Strasbourg, le projet @folio se d�finit comme un baladeur de textes ou
+encore comme un support de lecture nomade permettant de lire des textes
+glan�s sur l'internet. De petite taille, il cherche � mimer, sous forme
+�lectronique, le dispositif technique du livre, afin d'offrir une
+m�moire de fac-simil�s reli�s en hypertexte pour faciliter le
+feuilletage. Pierre est aussi l'auteur du logiciel Mot@mot, un logiciel
+permettant de d�couper les pages scann�es du livre mot � mot, pour
+obtenir une cha�ne d'images-mots liquide qu'on peut remettre en page
+aussi facilement qu'une cha�ne de caract�res pour l'adapter � un �cran
+de petite taille. Pour d�velopper @folio et Mot@mot, Pierre fait
+valider un brevet international en avril 2001 puis cr�e la start-up
+fran�aise iCodex en juillet 2002.
+
+Novembre 1996 > Les �ditions du Choucas sur le web
+
+Fond� en 1992 par Nicolas et Suzanne Pewny, alors libraires en Haute-
+Savoie, le Choucas est une petite maison d'�dition sp�cialis�e dans les
+romans policiers, la litt�rature, la photographie et les livres d'art.
+Nicolas Pewny cr�e lui-m�me le site du Choucas fin novembre 1996, au
+prix d'un grand nombre de nuits sans sommeil. Les manuscrits affluent
+par courriel, et les livres se r�alisent d�sormais par ce moyen:
+corrections, illustrations, envoi des documents � l'imprimeur. Le
+Choucas cesse malheureusement ses activit�s en mars 2001, une
+disparition de plus � d�plorer chez les petits �diteurs ind�pendants.
+Nicolas Pewny devient consultant en �dition �lectronique et met ses
+comp�tences au service d'autres organismes.
+
+1996 > Les m�thodes de travail changent dans l'�dition
+
+La num�risation permet de cr�er, enregistrer, combiner, stocker,
+rechercher et transmettre des textes, des sons et des images par des
+moyens simples et rapides. Des proc�d�s similaires permettent le
+traitement de l'�criture, de la musique et du cin�ma alors que, par le
+pass�, ce traitement �tait assur� par des proc�d�s diff�rents sur des
+supports diff�rents (papier pour l'�criture, bande magn�tique pour la
+musique, cellulo�d pour le cin�ma). De plus, des secteurs distincts
+comme l'�dition (qui produit des livres) et l'industrie musicale (qui
+produit des disques) travaillent de concert pour produire des CD-ROM.
+La num�risation acc�l�re consid�rablement le processus mat�riel de
+production. Dans l'�dition, le r�dacteur, le concepteur artistique et
+l'infographiste travaillent souvent simultan�ment sur le m�me ouvrage.
+Dans la presse, les journalistes envoient d�sormais directement leurs
+textes pour une mise en page, sans passer par un personnel de
+production dactylographiant leurs textes.
+
+Janvier 1997 > La convergence multim�dia, convergence des secteurs li�s
+� l'information
+
+La convergence multim�dia est la convergence de tous les secteurs li�s
+� l'information: imprimerie, �dition, presse, conception graphique,
+enregistrements sonores, films, radiodiffusion, etc. La convergence
+multim�dia a de nombreux revers, � savoir des contrats occasionnels et
+pr�caires pour les salari�s, l'absence de syndicats pour les
+t�l�travailleurs, le droit d'auteur souvent mis � mal pour les auteurs,
+etc. La convergence multim�dia am�ne-t-elle des emplois nouveaux, comme
+l'assurent les employeurs, ou bien est-elle source de ch�mage, comme
+l'affirment les syndicats? Ce sujet est d�battu d�s janvier 1997 lors
+du Colloque sur la convergence multim�dia organis� par l'Organisation
+internationale du travail (BIT) � Gen�ve, avec des d�bats qui se
+poursuivent dans les ann�es qui suivent.
+
+Avril 1997 > E Ink, une technologie d'encre �lectronique
+
+En avril 1997, des chercheurs du Media Lab du MIT (Massachusetts
+Institute of Technology) cr�ent la soci�t� E Ink pour d�velopper une
+technologie d'encre �lectronique. Tr�s sch�matiquement, la technologie
+est la suivante: prises entre deux feuilles de plastique souple, des
+millions de micro-capsules contiennent chacune des particules noires et
+blanches en suspension dans un fluide clair. Un champ �lectrique
+positif ou n�gatif permet de faire appara�tre le groupe de particules
+souhait� � la surface du support, pour afficher, modifier ou effacer
+les donn�es. En juillet 2002, E Ink pr�sente le prototype du premier
+�cran utilisant cette technologie, qui sera commercialis� en 2004.
+Suivent d'autres �crans pour diverses tablettes de lecture, puis les
+premiers �crans souples en noir et blanc, qui annoncent le futur papier
+�lectronique.
+
+Mai 1997 > La cha�ne de librairies Barnes & Noble lance son site web
+
+Contrairement � Amazon, librairie uniquement �virtuelle�, Barnes &
+Noble.com s'appuie sur sa cha�ne de librairies traditionnelles Barnes &
+Noble (B&N) qui, en 1997, comprend 480 librairies �en dur� r�parties
+dans tout le pays. Barnes & Noble lance sa librairie en ligne en mai
+1997, en partenariat avec le g�ant des m�dias allemand Bertelsmann. D�s
+les d�buts du site, Barnes & Noble se livre � une guerre des prix avec
+Amazon, � la grande joie des clients qui profitent de cette course aux
+rabais pour faire une �conomie de 20 � 40% sur certains titres. Barnes
+& Noble.com ouvre son eBookStore en ao�t 2000. Barnes & Noble rach�te
+la part d�tenue par Bertelsmann (36,8%) en juillet 2003 pour 164
+millions de dollars US.
+
+Juin 1997 > L'internet est encore anglophone � plus de 80%
+
+� ses d�buts, l'internet est anglophone � pratiquement 100%, puisqu'il
+se d�veloppe d'abord aux �tats-Unis gr�ce aux investissements
+consid�rables du gouvernement, avant de conqu�rir le Canada puis le
+monde entier. En 1997, Babel, initiative conjointe d'Alis Technologies
+et de l'Internet Society, m�ne la premi�re �tude relative � la
+r�partition des langues sur l'internet. Dat�e de juin 1997, le Palmar�s
+des langues de la toile (Web Languages Hit Parade) donne les
+pourcentages de 82,3% pour l'anglais, 4% pour l'allemand, 1,6% pour le
+japonais, 1,5% pour le fran�ais, 1,1% pour l'espagnol, 1,1% pour le
+su�dois et 1% pour l'italien.
+
+1997 > La num�risation des livres imprim�s, un vaste chantier
+
+En 1997, qui dit livre num�rique dit num�risation, la presque totalit�
+des livres existant seulement en version imprim�e. Pour pouvoir �tre
+consult� � l'�cran, un livre peut �tre num�ris� soit en mode texte soit
+en mode image, les deux modes de num�risation �tant compl�mentaires.
+(1) La num�risation en mode texte consiste � scanner le livre en mode
+image, puis � le convertir en texte gr�ce � un logiciel OCR (Optical
+Character Recognition), avec relecture �ventuelle � l'�cran pour
+corriger le texte obtenu puisqu'un bon logiciel OCR serait fiable �
+99%. La version informatique du livre ne conserve pas la pr�sentation
+originale du livre ou de la page. (2) La num�risation en mode image
+correspond � la photographie du livre page apr�s page, la version
+informatique  �tant le fac-simil� num�rique de la version imprim�e. La
+pr�sentation originale �tant conserv�e, on peut feuilleter le texte
+page apr�s page � l'�cran. Si cette m�thode est beaucoup plus
+�conomique, et convient par exemple aux beaux livres avec
+illustrations, elle a l'inconv�nient de ne pas permettre la recherche
+textuelle.
+
+Octobre 1997 > Gallica, biblioth�que num�rique de la Biblioth�que
+nationale de France
+
+En octobre 1997, la Biblioth�que nationale de France (BnF) met en ligne
+sa biblioth�que num�rique Gallica. En acc�s libre, elle devient
+rapidement l'une des plus importantes biblioth�ques num�riques du
+r�seau. On y trouve les documents libres de droits du fonds num�ris� de
+la BnF, qui vont du Moyen-�ge au d�but du 20e si�cle. Pour des raisons
+de co�t, les documents sont essentiellement num�ris�s en mode image. En
+d�cembre 2006, les collections de Gallica comprennent 90.000 ouvrages
+(fascicules de presse compris), 80.000 images et des dizaines d'heures
+de ressources sonores. Gallica d�bute la conversion en mode texte des
+livres num�ris�s en mode image pour favoriser l'acc�s � leur contenu.
+En mars 2010, Gallica franchit la barre du million de documents, dont
+la plupart sont accessibles gratuitement. Gallica inaugure ensuite un
+nouveau site avec une interface en quatre langues (fran�ais, anglais,
+espagnol, portugais).
+
+1997 > Le premier blog sur la toile
+
+Un blog (ou blogue) est un journal en ligne tenu par une personne ou un
+groupe. Ce journal est le plus souvent pr�sent� par ordre chronologique
+invers� (du plus r�cent au plus ancien) et il est actualis� au gr� du
+r�dacteur, d'heure en heure ou bien une fois par mois. Le premier blog
+appara�t en 1997. En 2004, Le Monde.fr, site du quotidien Le Monde,
+lance ses propres blogs, �un formidable format d'expression
+journalistique qui permet un dialogue quasi-instantan� avec son
+lecteur�, selon Yann Chapellon, directeur du Monde interactif. En
+juillet 2005, il y aurait plus de 14 millions de blogs dans le monde,
+avec 80.000 nouveaux blogs par jour. En d�cembre 2006, Technorati,
+moteur de recherche pour blogs puis site sp�cialis�, recense 65
+millions de blogs, avec 175.000 nouveaux blogs par jour. Certains blogs
+sont consacr�s aux photos (photoblogs ou blogs photo), � la musique
+(audioblogs, blogs audio ou podcasts) ou aux vid�os (vlogs ou blogs
+vid�o).
+
+1997 > Eurodicautom, une base terminologique europ�enne en 12 langues
+
+G�r� par le service de traduction de la Commission europ�enne et
+disponible sur le web depuis 1997, Eurodicautom est une base
+terminologique multilingue de termes �conomiques, scientifiques,
+techniques et juridiques permettant de combiner entre elles les onze
+langues officielles de l'Union europ�enne (allemand, anglais, danois,
+espagnol, finnois, fran�ais, grec, hollandais, italien, portugais,
+su�dois), ainsi que le latin, avec une moyenne de 120.000 consultations
+par jour en 2003. Fin 2003, Eurodicautom annonce son int�gration dans
+une base terminologique plus vaste regroupant les bases de plusieurs
+institutions de l'Union europ�enne. Cette nouvelle base traiterait non
+plus douze langues, mais une vingtaine du fait de l'�largissement de
+l'Union europ�enne pr�vu l'ann�e suivante vers l'Europe de l'Est. La
+base IATE (InterActive Terminology for Europe) est lanc�e en interne au
+printemps 2004 puis pour tous sur la toile en juin 2007.
+
+1997 > L'interface de Yahoo! disponible en sept langues
+
+En 1997, Yahoo! propose un classement en 63 grandes cat�gories
+th�matiques, tout comme une interface en sept langues: anglais,
+allemand, cor�en, fran�ais, japonais, norv�gien et su�dois. Yahoo! est
+lanc� en janvier 1994 par Jerry Lang et David Filo, deux �tudiants de
+l'Universit� de Stanford (Californie), pour recenser les sites web et
+les classer par th�mes. Leur annuaire rencontre un succ�s imm�diat,
+avec un classement plus pointu que celui de moteurs de recherche comme
+AltaVista, o� ces t�ches sont enti�rement automatis�es. Toutefois,
+quand une recherche ne donne pas de r�sultat dans Yahoo!, elle est
+automatiquement aiguill�e vers AltaVista, et r�ciproquement.
+
+D�cembre 1997 > Babel Fish, premier logiciel de traduction en acc�s
+libre
+
+En d�cembre 1997, AltaVista est le premier moteur de recherche � lancer
+un service gratuit de traduction automatis�e de l'anglais vers cinq
+autres langues (allemand, espagnol, fran�ais, italien et portugais) et
+vice versa, la page originale et la traduction apparaissant en vis-�-
+vis � l'�cran. Babel Fish -- appel� aussi AltaVista Translation - est
+l'oeuvre de SYSTRAN, une soci�t� franco-am�ricaine pionni�re dans le
+traitement automatique des langues. Babel Fish est aliment� par des
+dictionnaires multilingues comprenant 2,5 millions de termes. Bien
+qu'ayant ses limites, avec une traduction de trois pages maximum et un
+texte traduit tr�s approximatif, ce service est imm�diatement tr�s
+appr�ci� des douze millions d'usagers que compte le cyberespace mondial
+de l'�poque, dont un nombre croissant d'usagers non anglophones, et
+contribue grandement au plurilinguisme du web.
+
+D�cembre 1997 > Les outils de la soci�t� de traduction Logos
+disponibles sur la toile
+
+En d�cembre 1997, la soci�t� de traduction Logos -- bas�e � Mod�ne, en
+Italie, avec des services en 35 langues - d�cide de mettre tous ses
+outils professionnels en acc�s libre sur le web. Le Logos Dictionary
+est un dictionnaire multilingue de 7,5 millions d'entr�es. La
+Wordtheque est une base de donn�es multilingue de 328 millions de
+termes, constitu�e � partir de milliers de traductions, notamment des
+romans et des documents techniques. La recherche dans la Wordtheque est
+possible par langue, mot, auteur ou titre. Linguistic Resources offre
+un point d'acc�s unique � 553 glossaires. L'Universal Conjugator
+propose des tableaux de conjugaison dans 17 langues. En 2007, la
+Wordtheque - devenue la Logos Library - comprend 710 millions de
+termes, Linguistic Resources offre un point d'acc�s unique � 1.215
+glossaires,  et Conjugation of Verbs - devenu l'Universal Conjugator -
+propose des tableaux de conjugaison dans 36 langues.
+
+1998 > La base de donn�es en ligne du premier volume (1751) de
+l'Encylop�die de Diderot
+
+Projet commun du Centre national de la recherche scientifique (CNRS,
+France) et de l'Universit� de Chicago (Illinois, �tats-Unis), le projet
+ARTFL (American and French Research on the Treasury of the French
+Language) donne acc�s en ligne en 1998 � la base de donn�es
+correspondant au premier volume de l'Encyclop�die (1751), � titre
+exp�rimental. Cette mise en ligne est une premi�re �tape vers  une base
+de donn�es exhaustive de la premi�re �dition (1751-1772) de
+l'Encyclop�die ou Dictionnaire raisonn� des sciences, des m�tiers et
+des arts de Diderot et d'Alembert, avec ses 72.000 articles r�dig�s par
+plus de 140 collaborateurs (dont Voltaire, Rousseau, Marmontel,
+d'Holbach, Turgot, etc.), ses 17 volumes de texte (qui repr�sentent
+18.000 pages et 20.736.912 mots) et ses 11 volumes de planches.
+Destin�e � rassembler puis divulguer les connaissances de l'�poque,
+l'Encyclop�die porte la marque des courants intellectuels et sociaux du
+Si�cle des Lumi�res, et c'est gr�ce � elle que se propagent les id�es
+nouvelles qui inspireront la R�volution fran�aise de 1789.
+
+Avril 1998 > Le r�ve derri�re le web, selon Tim Berners-Lee, son
+inventeur
+
+Le web est une formidable aventure. Selon les termes m�mes de Tim
+Berners-Lee, son inventeur en 1990, dans un texte qu'il r�dige en avril
+1998, �le r�ve derri�re le web est un espace d'information commun dans
+lequel nous communiquons en partageant l'information. Son universalit�
+est essentielle, � savoir le fait qu'un lien hypertexte puisse pointer
+sur quoi que ce soit, quelque chose de personnel, de local ou de
+global, aussi bien une �bauche qu'une r�alisation tr�s sophistiqu�e.
+Deuxi�me partie de ce r�ve, le web deviendrait d'une utilisation
+tellement courante qu'il serait un miroir r�aliste (sinon la principale
+incarnation) de la mani�re dont nous travaillons, jouons et nouons des
+relations sociales. Une fois que ces interactions seraient en ligne,
+nous pourrions utiliser nos ordinateurs pour nous aider � les analyser,
+donner un sens � ce que nous faisons, et voir comment chacun trouve sa
+place et comment nous pouvons mieux travailler ensemble.� (The World
+Wide Web: a very short personal history, disponible sur la page de Tim
+Berners-Lee sur le site du World Wide Web Consortium)
+
+Mai 1998 > Les �ditions 00h00, pionni�res de l'�dition en ligne
+
+Les �ditions 00h00 (qui se prononce �z�ro heure�) sont fond�es en mai
+1998 par Jean-Pierre Arbon et Bruno de Sa Moreira, en tant que premier
+�diteur �en ligne�, � savoir un �diteur fabriquant et vendant des
+livres num�riques via l'internet. En 2000, le catalogue comprend 600
+titres, avec 85% des ventes pour les versions num�riques (au format
+PDF), les 15% restants �tant des versions imprim�es � la demande du
+client. Pas de stock, pas de contrainte physique de distribution, mais
+un lien direct avec le lecteur et entre les lecteurs. Sur le site au
+tr�s beau design, les internautes/lecteurs peuvent cr�er leur espace
+personnel pour y r�diger leurs commentaires, participer � des forums,
+s'abonner � la lettre d'information de 00h00 ou regarder les clips
+litt�raires produits par l'�diteur pour pr�senter les nouveaut�s
+publi�es. En septembre 2000, 00h00 est rachet� par la soci�t�
+am�ricaine Gemstar. Gemstar met fin � ses activit�s eBook en juin 2003.
+
+Ao�t 1998 > Citation de Michael Hart, fondateur du Projet Gutenberg
+
+Fondateur du Projet Gutenberg en 1971 et inventeur de l'ebook, Michael
+Hart d�die toute sa vie � mettre le plus grand nombre possible
+d'oeuvres litt�raires � la disposition de tous, par voie �lectronique.
+�Nous consid�rons le texte �lectronique comme un nouveau m�dium, sans
+v�ritable relation avec le papier, explique-t-il en ao�t 1998. Le seul
+point commun est que nous diffusons les m�mes oeuvres, mais je ne vois
+pas comment le papier peut concurrencer le texte �lectronique une fois
+que les gens y sont habitu�s, particuli�rement dans les �tablissements
+d'enseignement.� (Entretien du NEF)
+
+Septembre 1998 > Citation de John Mark Ockerbloom, cr�ateur de l'Online
+Books Page
+
+John Mark Ockerbloom fonde en 1993 l'Online Books Page pour proposer un
+r�pertoire de livres anglophones librement disponibles en ligne. Il
+�crit en septembre 1998: �Je me suis passionn� pour l'�norme potentiel
+qu'a l'internet de rendre la litt�rature accessible au plus grand
+nombre. Maintenant il y a tant de livres mis en ligne que j'ai du mal �
+rester � jour. Je pense pourtant poursuivre cette activit� d'une
+mani�re ou d'une autre. Je suis tr�s int�ress� par le d�veloppement de
+l'internet en tant que m�dium de communication de masse dans les
+prochaines ann�es. J'aimerais aussi rester impliqu� dans la mise �
+disposition gratuite de livres sur l'internet, que ceci fasse partie
+int�grante de mon activit� professionnelle, ou que ceci soit une
+activit� b�n�vole men�e sur mon temps libre.� (Entretien du NEF)
+
+Septembre 1998 > Citation de Robert Beard, cr�ateur du site A Web of
+Online Dictionaries
+
+Robert Beard, professeur de langues, fonde A Web of Online Dictionaries
+en 1995 pour proposer un r�pertoire de dictionnaires en ligne. Il �crit
+en septembre 1998: �Le web sera une encyclop�die du monde faite par le
+monde pour le monde. Il n'y aura plus d'informations ni de
+connaissances utiles qui ne soient pas disponibles, si bien que
+l'obstacle principal � la compr�hension internationale et
+interpersonnelle et au d�veloppement personnel et institutionnel sera
+lev�. Il faudrait une imagination plus d�bordante que la mienne pour
+pr�dire l'effet de ce d�veloppement sur l'humanit�.� (Entretien du NEF)
+En f�vrier 2000, Robert Beard co-fonde yourDictionary, qui se veut un
+portail de r�f�rence pour toutes les langues.
+
+Octobre 1998 > Un nouveau durcissement du copyright aux �tats-Unis
+
+Aux �tats-Unis, un nouvel amendement de la loi sur le copyright r�duit
+encore un peu plus le domaine public, au grand dam de tous ceux qui
+sont en train de constituer des biblioth�ques num�riques. Cet
+amendement au copyright est ent�rin� par le Congr�s le 27 octobre 1998
+pour contrer le formidable v�hicule de diffusion qu'est l'internet.
+Contradiction flagrante, les instances politiques n'ont de cesse de
+parler d'�ge de l'Information tout en durcissant la r�glementation
+relative � la mise � disposition du patrimoine. Le copyright est pass�
+d'une dur�e de 30 ans en moyenne en 1909 � une dur�e de 95 ans en
+moyenne en 1998. En 90 ans, de 1909 � 1998, le copyright a subi une
+extension de 65 ans qui affecte les trois quarts de la production du
+20e si�cle. Seul un livre publi� avant 1923 peut d�sormais �tre
+consid�r� avec certitude comme appartenant au domaine public.
+
+1999 > Le Rocket eBook, premi�re tablette de lecture
+
+Premi�re tablette de lecture du march�, le Rocket eBook est con�u en
+1998 et lanc� en 1999 par NuvoMedia, soci�t� californienne financ�e par
+la cha�ne de librairies Barnes & Noble et le g�ant des m�dias
+Bertelsmann. Cette tablette de lecture dispose d'un �cran � cristaux
+liquides (ou �cran LCD: Liquid Cristal Display) r�tro-�clair� ou non,
+noir et blanc ou en couleur. Elle fonctionne sur batterie et dispose
+d'un modem int�gr� et d'un port USB, pour connexion � l'internet et
+t�l�chargement des livres � partir d'une librairie num�rique pr�sente
+sur le site de NuvoMedia.
+
+1999 > D'autres mod�les de tablettes de lecture suivent
+
+Lanc� lui aussi en 1999, le SoftBook Reader est d�velopp� par la
+soci�t� SoftBook Press, financ�e par deux grandes maisons d'�dition,
+Random House et Simon & Schuster. Plusieurs autres mod�les ont une
+dur�e de vie assez courte, par exemple l'EveryBook, appareil � double
+�cran cr�� par la soci�t� du m�me nom, ou encore le Millennium eBook,
+cr�� par la soci�t� Librius.com. Toutes ces tablettes de lecture p�sent
+entre 700 grammes et 2 kilos et peuvent stocker une dizaine de livres.
+
+1999 > La librairie Ulysse sur le web, un relais pour les livres de
+voyage
+
+Grande voyageuse elle-m�me, Catherine Domain se lance en 1999 dans un
+voyage virtuel pour cr�er elle-m�me le site de la librairie Ulysse,
+qu'elle a fond�e en 1971 au coeur de Paris, dans l'�le Saint-Louis. La
+librairie Ulysse est la plus ancienne librairie de voyage au monde,
+avec plus de 20.000 livres, cartes et revues, neufs et anciens. �Mon
+site est embryonnaire et en construction, raconte Catherine en d�cembre
+1999. Il se veut � l'image de ma librairie, un lieu de rencontre avant
+d'�tre un lieu commercial. Il sera toujours en perp�tuel devenir!
+Internet me prend la t�te, me bouffe mon temps et ne me rapporte
+presque rien mais cela ne m'ennuie pas... Internet tue les librairies
+sp�cialis�es. En attendant d'�tre d�vor�e, je l'utilise comme un moyen
+d'attirer les clients chez moi, et aussi de trouver des livres pour que
+ceux qui n'ont pas encore internet chez eux! Mais j'ai peu d'espoir...�
+
+1999 > WordReference.com, un site de dictionnaires bilingues gratuits
+
+WordReference.com est cr�� en 1999 par Michael Kellogg pour offrir des
+dictionnaires bilingues gratuits en ligne. Michael raconte beaucoup
+plus tard sur son site: �J'ai d�but� ce site en 1999 pour procurer des
+dictionnaires bilingues gratuits en ligne et d'autres outils pour tous
+sur l'internet. Depuis, le site s'est progressivement d�velopp� pour
+devenir l'un des sites de dictionnaires en ligne les plus utilis�s, et
+le principal dictionnaire en ligne pour les paires de langues anglais-
+espagnol, anglais-fran�ais, anglais-italien, espagnol-fran�ais et
+espagnol-portugais. Ce site est toujours class� sans interruption parmi
+les 500 sites les plus visit�s du web.� WordReference.com offre
+�galement des forums linguistiques tr�s actifs, tout comme des versions
+all�g�es de ses dictionnaires pour t�l�phone portable et smartphone.
+
+1999 > Wordfast, logiciel de traduction
+
+Lanc� en 1999 � Paris par Yves Champollion, Wordfast est un logiciel de
+traduction avec gestion de la terminologie en temps r�el et contr�le
+typographique. Il est compatible avec d'autres logiciels tr�s utilis�s
+comme le WebSphere Translation Server d'IBM et les logiciels de Trados.
+Pendant quelques ann�es, une version simplifi�e de Wordfast est m�me
+t�l�chargeable gratuitement, avec un manuel d'utilisation disponible en
+seize langues. En 2010, Wordfast est le num�ro un mondial des logiciels
+de traduction utilisables aussi bien sur plateforme Windows (Microsoft)
+que sur plateforme Mac OS (Apple), et le num�ro deux mondial en nombre
+de ventes (apr�s SDL Trados), avec 20.000 clients dans le monde, dont
+les Nations Unies, Nomura Securities, la NASA (National Aeronautics and
+Space Administration) et McGraw-Hill.
+
+Septembre 1999 > Le format Open eBook (OeB), un standard pour le livre
+num�rique
+
+Disponible en septembre 1999 dans sa version 1.0, l'OeB (Open eBook)
+est un format de livre num�rique bas� sur le langage XML (eXtensible
+Markup Language) et destin� � normaliser le contenu, la structure et la
+pr�sentation des livres num�riques dans un march� �mergent proposant
+d�j� trop de formats propri�taires incompatibles entre eux. Le format
+OeB est d�fini par l'OeBPS (Open eBook Publication Structure), avec une
+version ouverte et gratuite appartenant au domaine public et une
+version originale destin�e aux professionnels de la publication. Fond�
+en janvier 2000 pour prendre la suite de l'Open eBook Initiative,
+groupe de travail ayant lanc� l'OeB, l'OeBF (Open eBook Forum) est un
+consortium industriel international regroupant constructeurs,
+concepteurs de logiciels, �diteurs, libraires et sp�cialistes du
+num�rique (avec 85 participants en 2002). Le format OeB devient
+rapidement un standard du livre num�rique et sert lui-m�me de base � de
+nombreux formats, par exemple le format LIT (pour le Microsoft Reader)
+ou le format PRC (pour le Mobipocket Reader).
+
+D�cembre 1999 > WebEncyclo, premi�re grande encyclop�die francophone en
+ligne
+
+WebEncyclo (aujourd'hui disparu), publi� par les �ditions Atlas, est la
+premi�re grande encyclop�die francophone en acc�s libre, avec mise en
+ligne en d�cembre 1999. La recherche est possible par mots-cl�s,
+th�mes, m�dias (� savoir les cartes, liens internet, photos et
+illustrations) et id�es. Un appel � contribution incite les
+sp�cialistes d'un sujet donn� � envoyer des articles, qui sont
+regroup�s dans la section �WebEncyclo contributif�. Apr�s avoir �t�
+libre, l'acc�s est ensuite soumis � une inscription pr�alable gratuite.
+
+D�cembre 1999 > L'Encylopedia Universalis sur le web
+
+La version web de l'Encyclopaedia Universalis est mise en ligne en
+d�cembre 1999, soit un ensemble de 28.000 articles sign�s de 4.000
+auteurs. Si la consultation est payante sur la base d'un abonnement
+annuel, de nombreux articles sont �galement en acc�s libre.
+
+D�cembre 1999 > Britannica.com, premi�re grande encyclop�die anglophone
+en ligne
+
+Le site Britannica.com est mis en ligne en d�cembre 1999. Le site
+propose l'�quivalent num�rique des 32 volumes de la 15e �dition de
+l'Encyclopaedia Britannica, en acc�s libre et gratuit, en compl�ment de
+la version imprim�e et de la version CD-ROM, toutes deux payantes. Le
+site web offre aussi une s�lection d'articles issus de 70 magazines, un
+guide des meilleurs sites, un choix de livres, etc., le tout �tant
+accessible � partir d'un moteur de recherche unique. En septembre 2000,
+le site fait partie des cent sites les plus visit�s sur la toile. En
+juillet 2001, la consultation devient payante sur la base d'un
+abonnement annuel ou mensuel. En 2009, Britannica.com ouvre son site �
+des contributeurs ext�rieurs, avec inscription obligatoire pour �crire
+et modifier des articles.
+
+Janvier 2000 > Le Million Book Project, pour num�riser un million de
+livres
+
+Lanc� en janvier 2000 par la Carnegie Mellon University (Pennsylvanie,
+�tats-Unis), le Million Book Project - appel� aussi Universal Library
+ou Universal Digital Library (UDL) - a pour but de num�riser un million
+de livres dans un grand nombre de langues, y compris en Inde et en
+Chine. Le projet est termin� en 2007, avec un million de livres
+disponibles sur le site de l'universit�, sous forme de fichiers image
+dans les formats DjVu et TIFF, et trois sites miroirs en Chine du nord,
+en Chine du sud et en Inde. Il est possible que ce projet ait inspir�
+l'Open Content Alliance (OCA), un projet de biblioth�que num�rique
+publique mondiale lanc� par l'Internet Archive en octobre 2005.
+
+F�vrier 2000 > yourDictionary.com, un portail de dictionnaires dans
+toutes les langues
+
+Robert Beard, professeur � l'Universit� Bucknell (�tats-Unis), cr�e
+d'abord en 1995 la site A Web of Online Dictionaries, qui est un
+r�pertoire de dictionnaires en ligne (avec 800 liens en automne 1998)
+auquel s'ajoutent d'autres ressources linguistiques comme des th�sauri,
+vocabulaires, glossaires, grammaires, m�thodes de langues, etc. Robert
+Beard co-fonde ensuite le portail yourDictionary.com en y int�grant son
+site pr�c�dent, avec mise en ligne en f�vrier 2000. Devenu un portail
+de r�f�rence, yourDictionary.com r�pertorie 1.800 dictionnaires dans
+250 langues en septembre 2003, et 2.500 dictionnaires dans 300 langues
+en avril 2007. Soucieux de servir toutes les langues sans exception, le
+portail propose aussi l'Endangered Language Repository, une section
+sp�cifique consacr�e aux langues menac�es.
+
+Mars 2000 > L'Oxford English Dictionary en ligne
+
+En mars 2000, les 20 volumes de l'Oxford English Dictionary (OED) sont
+mis en ligne par l'Oxford University Press (OUP). La consultation du
+site est payante. Le dictionnaire b�n�ficie d'une mise � jour
+trimestrielle d'environ 1.000 entr�es nouvelles ou r�vis�es. En mars
+2002, deux ans apr�s cette premi�re exp�rience, l'Oxford University
+Press met en ligne l'Oxford Reference Online (ORO), une vaste
+encyclop�die con�ue directement pour le web et consultable elle aussi
+sur abonnement payant. Avec 60.000 pages et un million d'entr�es, elle
+repr�sente l'�quivalent d'une centaine d'ouvrages de r�f�rence.
+
+Mars 2000 > Mobipocket, sp�cialiste de la lecture sur PDA
+
+Fond� � Paris en mars 2000 par Thierry Brethes et Nathalie Ting,
+Mobipocket se sp�cialise d'embl�e dans la distribution s�curis�e de
+livres pour PDA (assistant personnel). La soci�t� est financ�e en
+partie par Viventures, branche de la multinationale fran�aise Vivendi.
+Mobipocket con�oit d'abord le Mobipocket Reader, logiciel de lecture
+permettant la lecture de fichiers au format PRC. Gratuit et disponible
+en plusieurs langues (fran�ais, anglais, allemand, espagnol et
+italien), ce logiciel est �universel�, c'est-�-dire utilisable sur tout
+PDA (Palm Pilot, Pocket PC, eBookMan, Psion, etc.). En avril 2002, la
+soci�t� lance un Mobipocket Reader pour ordinateur. Au printemps 2003,
+le Mobipocket Reader �quipe les premiers smartphones de Nokia et Sony
+Ericsson. � la m�me date, 6.000 titres dans plusieurs langues
+(fran�ais, anglais, allemand, espagnol) sont distribu�s soit sur le
+site de Mobipocket soit dans les librairies partenaires. En avril 2005,
+Mobipocket est rachet� par la librairie en ligne Amazon.com.
+
+Avril 2000 > Le Pocket PC, le PDA de Microsoft, avec le Microsoft
+Reader
+
+Microsoft lance en avril 2000 son premier PDA, le Pocket PC, tout comme
+le Microsoft Reader, logiciel permettant la lecture de livres
+num�riques au format LIT (abr�g� du terme anglais �literature�), lui-
+m�me bas� sur le format OeB. Ses caract�ristiques sont un affichage
+utilisant la technologie ClearType, le choix de la taille des
+caract�res, la m�morisation des mots-cl�s pour des recherches
+ult�rieures, et l'acc�s d'un clic au Merriam-Webster Dictionary. Ce
+logiciel �tant t�l�chargeable gratuitement, Microsoft facture les
+�diteurs et distributeurs pour l'utilisation de sa technologie de
+gestion des droits num�riques (ou DRM: Digital Rights Management), et
+touche une commission sur la vente de chaque titre. Quatre mois plus
+tard, en ao�t 2000, le Microsoft Reader est utilisable sur toute
+plateforme Windows, et donc aussi bien sur ordinateur que sur PDA. En
+octobre 2001, Windows CE - le syst�me d'exploitation du Pocket PC - est
+remplac� par Pocket PC 2002, qui permet entre autres de lire des livres
+num�riques sous droits. En 2002, la gamme Pocket PC propose plusieurs
+mod�les et permet la lecture sur trois logiciels: le Microsoft Reader
+bien s�r, le Mobipocket Reader et le Palm Reader.
+
+Juin 2000 > Citation de Jean-Paul, auteur hyperm�dia et webmestre de
+cotres.net
+
+Explorateur d'hypertexte sur le site cotres.net, Jean-Paul s'interroge
+en juin 2000 sur l'apport de l'internet dans son �criture: �La
+navigation par hyperliens se fait en rayon (j'ai un centre d'int�r�t et
+je clique m�thodiquement sur tous les liens qui s'y rapportent) ou en
+louvoiements (de clic en clic, � mesure qu'ils apparaissent, au risque
+de perdre de vue mon sujet). Bien s�r, les deux sont possibles avec
+l'imprim�. Mais la diff�rence saute aux yeux: feuilleter n'est pas
+cliquer. L'internet n'a donc pas chang� ma vie, mais mon rapport �
+l'�criture. On n'�crit pas de la m�me mani�re pour un site que pour un
+sc�nario, une pi�ce de th��tre, etc. (...) Depuis, j'�cris (compose,
+mets en page, en sc�ne) directement � l'�cran. L'�tat "imprim�" de mon
+travail n'est pas le stade final, le but; mais une forme parmi
+d'autres, qui privil�gie la lin�arit� et l'image, et qui exclut le son
+et les images anim�es. (...) C'est finalement dans la publication en
+ligne (l'entoilage?) que j'ai trouv� la mobilit�, la fluidit� que je
+cherchais.� (Entretien du NEF)
+
+Juillet 2000 > 50% d'usagers non anglophones sur la toile
+
+En �t� 1999, 50% des usagers de l'internet vivent hors des �tats-Unis.
+Un an plus tard, en �t� 2000, 50% des usagers de l'internet sont non
+anglophones. Selon Global Reach, une soci�t� qui promeut la
+localisation des sites web, ce pourcentage est de 52,5% en �t� 2001,
+57% en d�cembre 2001, 59,8% en avril 2002, 64,4% en septembre 2003
+(dont 34,9% d'Europ�ens non anglophones et 29,4% d'Asiatiques) et 64,2%
+en mars 2004 (dont 37,9% d'Europ�ens non anglophones et 33%
+d'Asiatiques). Le cap des 50% d�sormais franchi, il reste � diversifier
+les langues sur une toile dont les pages sont encore en anglais � pr�s
+de 80%.
+
+Juillet 2000 > Stephen King, auteur de best-sellers et pionnier
+num�rique
+
+En juillet 2000 d�bute l'auto-publication �lectronique de The Plant,
+roman �pistolaire de Stephen King, premier auteur de best-sellers � se
+lancer dans un tel pari. Cette exp�rience est pr�c�d�e quelques mois
+plus t�t par la distribution en mars 2000 de sa nouvelle Riding The
+Bullet uniquement en version num�rique. 400.000 exemplaires sont
+t�l�charg�s en 24 heures. Suite � ce succ�s � la fois m�diatique et
+financier, Stephen King cr�e donc un site web sp�cifique pour auto-
+publier The Plant en �pisodes. Les chapitres paraissent � intervalles
+r�guliers et sont t�l�chargeables dans plusieurs formats (PDF, OeB,
+HTML, TXT). En d�cembre 2000, apr�s la parution du sixi�me chapitre,
+l'auteur d�cide d'interrompre cette exp�rience, le nombre de
+t�l�chargements et de paiements ayant r�guli�rement baiss� au fil des
+chapitres. Stephen King poursuit toutefois ses exp�riences num�riques
+dans les ann�es qui suivent, mais cette fois en partenariat avec son
+�diteur.
+
+Ao�t 2000 > Barnes & Noble.com ouvre son eBookStore
+
+Barnes & Noble.com, le site de la grande cha�ne de librairies Barnes &
+Noble, ouvre son secteur eBooks en ao�t 2000, suite � un partenariat
+avec Microsoft en janvier 2000 pour la vente de livres num�riques
+lisibles sur le Microsoft Reader. Barnes & Noble passe aussi un
+partenariat avec Adobe en ao�t 2000 afin de proposer des titres
+lisibles sur l'Acrobat Reader et le Glassbook Reader, Adobe ayant
+rachet� la soci�t� Glassbook � la m�me date.
+
+Septembre 2000 > Le Grand dictionnaire terminologique, bilingue
+fran�ais-anglais
+
+Initiative de l'Office qu�b�cois de la langue fran�aise (OQLF), le
+Grand dictionnaire terminologique (GDT) est un dictionnaire bilingue
+fran�ais-anglais de 3 millions de termes appartenant au vocabulaire
+industriel, scientifique et commercial. Sa mise en ligne en septembre
+2000 est le r�sultat d'un partenariat entre l'OQLF, auteur du
+dictionnaire, et Semantix, soci�t� sp�cialis�e dans les solutions
+logicielles linguistiques. Cette mise en ligne est � la fois un d�fi
+technologique et un succ�s. D�s le premier mois, le GDT est consult�
+par 1,3 million de personnes, avec des pointes de 60.000 requ�tes
+quotidiennes. La gestion de la base est ensuite assur�e par Convera
+Canada. En f�vrier 2003, les requ�tes sont au nombre de 3,5 millions
+par mois. Une nouvelle version du GDT est mise en ligne en mars 2003,
+sa gestion �tant d�sormais assur�e par l'OQLF lui-m�me, et non plus par
+une soci�t� prestataire,  avec l'ajout du latin comme troisi�me langue.
+
+Septembre 2000 > La librairie Numilog se consacre aux livres num�riques
+
+Lanc�e en septembre 2000, la librairie Numilog vend exclusivement des
+livres num�riques, par t�l�chargement et dans plusieurs formats. Fond�e
+� Paris en avril 2000 par Denis Zwirn, la soci�t� Numilog est � la fois
+une librairie en ligne, un studio de fabrication et un diffuseur de
+livres num�riques. En 2003, le catalogue comprend 3.500 titres (livres
+et p�riodiques) en fran�ais et en anglais, lisibles sur l'Adobe Reader,
+le Microsoft Reader ou le Mobipocket Reader, gr�ce � un partenariat
+avec une quarantaine d'�diteurs. En d�cembre 2006, le catalogue de
+Numilog comprend 35.000 livres num�riques gr�ce � un partenariat avec
+60 �diteurs. Au fil des ans, Numilog devient la principale librairie
+francophone de livres num�riques. En janvier 2009, Numilog, devenu
+filiale du groupe Hachette Livre (en mai 2008), est d�sormais un
+distributeur-diffuseur num�rique repr�sentant 100 �diteurs francophones
+et anglophones,  avec un catalogue de 50.000 livres num�riques et des
+services sp�cifiques pour les biblioth�ques et les librairies.
+
+Octobre 2000 > Distributed Proofreaders, ou la relecture partag�e des
+livres num�ris�s
+
+Con�u en octobre 2000 par Charles Franks pour aider � la num�risation
+des livres du Projet Gutenberg, Distributed Proofreaders (DP) en
+devient rapidement la principale source. Le concept est de permettre la
+correction partag�e de livres du domaine public scann�s � partir d'une
+version imprim�e puis convertis au format texte par un logiciel OCR
+(fiable � 99% dans le meilleur des cas, avec donc quelques erreurs par
+page), en fragmentant ces livres en pages pouvant �tre relues par des
+correcteurs diff�rents. Les volontaires n'ont aucun quota � respecter.
+A titre indicatif, il est sugg�r� de relire une page par jour.
+Distributed Proofreaders est officiellement affili� au Projet Gutenberg
+en 2002, puis devient une entit� s�par�e en mai 2006 tout en conservant
+des liens �troits avec le Projet Gutenberg. Distributed Proofreaders
+compte 10.000 livres num�ris�s et relus par ses soins en d�cembre 2006
+et 18.000 livres en juin 2010. Distributed Proofreaders Europe (DP
+Europe) voit le jour en janvier 2004, et Distributed Proofreaders
+Canada (DP Canada) en juillet 2007.
+
+Octobre 2000 > La Public Library of Science, ou la science pour tous
+
+Fond�e en octobre 2000 par un groupe de chercheurs des universit�s de
+Stanford et de Berkeley (Californie) pour contrer les pratiques des
+�diteurs sp�cialis�s de revues scientifiques et m�dicales vendues � un
+co�t exhorbitant, la Public Library of Science (PLoS) propose de
+regrouper tous ces articles au sein d'archives en ligne en acc�s libre,
+avec point d'acc�s unique, moteur de recherche multicrit�res et syst�me
+d'hyperliens entre les articles. La r�ponse de la communaut�
+scientifique internationale est remarquable. Au cours des deux ann�es
+suivantes, la lettre ouverte de PLoS est sign�e par 34.000 chercheurs
+dans 180 pays. Le r�ponse des �diteurs est beaucoup moins enthousiaste,
+si bien que ce projet ne voit finalement pas le jour. Mais PLoS
+poursuit ses activit�s en d�cidant de devenir lui-m�me �diteur de
+p�riodiques scientifiques et m�dicaux en ligne et gratuits, et d�bute
+ses activit�s �ditoriales en janvier 2003.
+
+Octobre 2000 > L'eBookMan est l'assistant personnel multim�dia de
+Franklin
+
+En octobre 2000, Franklin lance l'eBookMan, un assistant personnel
+multim�dia qui - entre autres fonctionnalit�s (agenda, dictaphone,
+etc.) - permet la lecture de livres num�riques sur le Franklin Reader.
+Trois mod�les (EBM-900, EBM-901 et EBM-911) sont disponibles d�but
+2001, avec des prix de 130, 180 ou 230 dollars US selon la taille de la
+m�moire vive (8 ou 16 Mo) et un �cran � cristaux liquides (ou �cran
+LCD: Liquid Cristal Display) r�tro-�clair� ou non. Nettement plus grand
+que celui de ses concurrents, l'�cran n'existe toutefois qu'en noir et
+blanc, contrairement � la gamme Pocket PC ou � certains mod�les Palm
+avec �cran couleur. L'eBookMan permet aussi l'�coute de livres
+audionum�riques et de fichiers musicaux au format MP3. En octobre 2001,
+Franklin int�gre le Mobipocket Reader � l'eBookMan, et le Franklin
+Reader int�gre les gammes d'appareils mobiles Psion, Palm, Pocket PC et
+Nokia.
+
+Novembre 2000 > Le Gemstar eBook, une tablette de lecture en deux
+versions
+
+Pr�sent� en octobre 2000 � New York et commercialis� en novembre 2000
+aux �tats-Unis, le Gemstar eBook se d�cline en deux mod�les, qui sont
+les successeurs du Rocket eBook (con�u par NuvoMedia) et du SoftBook
+Reader (con�u par SoftBook Press), suite au rachat de NuvoMedia et de
+SoftBook Press en janvier 2000 par Gemstar-TV Guide International, une
+grande soci�t� sp�cialis�e dans les produits et services num�riques
+pour les m�dias. Ces deux mod�les - le REB 1100 (�cran noir et blanc,
+successeur du Rocket eBook) et le REB 1200 (�cran couleur, successeur
+du SoftBook Reader) - sont construits et vendus sous le label RCA,
+appartenant � Thomson Multimedia. Le syst�me d'exploitation, le
+navigateur et le logiciel de lecture sont sp�cifiques au produit, tout
+comme le format de lecture, bas� sur le format OeB (Open eBook).  �
+l'automne 2002, ses successeurs, le GEB 1150 et le GEB 2150, sont
+produits sous la marque Gemstar et vendus avec un abonnement ou non �
+la librairie num�rique de Gemstar. Gemstar met fin � ses activit�s
+eBook en juin 2003.
+
+Novembre 2000 > La Bible de Gutenberg originale num�ris�e et disponible
+en ligne
+
+En novembre 2000, la British Library met en ligne la version num�rique
+du premier livre � avoir jamais �t� imprim�. Datant de 1454 ou 1455,
+cette Bible aurait �t� imprim�e par Gutenberg en 180 exemplaires dans
+son atelier de Mayence, en Allemagne. 48 exemplaires, dont certains
+incomplets, existeraient toujours. La British Library en poss�de deux
+versions compl�tes, et une partielle. En mars 2000, dix chercheurs et
+experts techniques de l'Universit� Keio de Tokyo et de NTT (Nippon
+Telegraph and Telephone Communications) viennent travailler sur place
+pendant deux semaines pour num�riser les deux versions compl�tes,
+l�g�rement diff�rentes, avec mise en ligne d'une belle version
+num�ris�e quelques mois plus tard.
+
+Novembre 2000 > Frederick Forsyth, romancier anglais, tente l'aventure
+num�rique
+
+� la suite de l'auteur de best-sellers Stephen King, Frederick Forsyth,
+le ma�tre britannique du thriller, d�cide lui aussi de tenter
+l'aventure num�rique, avec l'appui d'Online Originals, un �diteur
+�lectronique londonien. En novembre 2000, Online Originals publie The
+Veteran, histoire d'un crime violent commis � Londres et premier volet
+de Quintet, une s�rie de cinq nouvelles �lectroniques (annonc�es dans
+l'ordre suivant: The Veteran, The Miracle, The Citizen, The Art of the
+Matter, Draco). Disponible en trois formats (PDF, Microsoft Reader et
+Glassbook Reader), la nouvelle est vendue au prix de 3,99 pounds (6,60
+euros) sur le site de l'�diteur et dans plusieurs librairies en ligne
+au Royaume-Uni (Alphabetstreet, BOL.com, WHSmith)  et aux �tats-Unis
+(Barnes & Noble, Contentville, Glassbook).
+
+Novembre 2000 > Citation de Frederick Forsyth, ma�tre britannique du
+thriller
+
+�La publication en ligne sera essentielle � l'avenir, d�clare Frederick
+Forsyth en novembre 2000 sur le site de son �diteur �lectronique. Elle
+cr�e un lien simple et surtout rapide et direct entre le producteur
+original (l'auteur) et le consommateur final (le lecteur), avec tr�s
+peu d'interm�diaires. Il est passionnant de participer � cette
+exp�rience. Je ne suis absolument pas un sp�cialiste des nouvelles
+technologies. Je n'ai jamais vu de livre �lectronique. Mais je n'ai
+jamais vu non plus de moteur de Formule 1, ce qui ne m'emp�che pas de
+constater combien ces voitures de course sont rapides.�
+
+Novembre 2000 > Arturo P�rez-Reverte, romancier espagnol, tente
+l'aventure num�rique
+
+La s�rie best-seller d'Arturo P�rez-Reverte, romancier espagnol, relate
+les aventures du Capitan Alatriste au 17e si�cle. Le nouveau titre �
+para�tre fin 2000 s'intitule El Oro del Rey (L'Or du Roi). En novembre
+2000, en collaboration avec son �diteur Alfaguara, l'auteur d�cide de
+diffuser El Oro del Rey en version num�rique sur un site sp�cifique du
+portail Inicia, en exclusivit� pendant un mois, avant la sortie du
+livre imprim� en librairie. Le roman est disponible au format PDF pour
+2,90 euros, un prix tr�s inf�rieur aux 15,10 euros annonc�s pour le
+livre imprim�. R�sultat de l'exp�rience, le nombre de t�l�chargements
+est tr�s satisfaisant, mais pas celui des paiements. Un mois apr�s la
+mise en ligne du roman, on compte 332.000 t�l�chargements, avec
+paiement par 12.000 lecteurs seulement.
+
+Novembre 2000 > Amazon.com ouvre son eBookStore
+
+Amazon.com ouvre son secteur eBooks en novembre 2000, suite � un
+partenariat pass� avec Microsoft en ao�t 2000 pour vendre des livres
+lisibles sur le Microsoft Reader, aussi bien pour le Pocket PC que pour
+toute plateforme Windows. Amazon.com passe aussi un partenariat avec
+Adobe en ao�t 2000 afin de proposer des titres lisibles sur l'Acrobat
+Reader et le Glassbook Reader, Adobe ayant rachet� la soci�t� Glassbook
+� la m�me date. En avril 2001, Adobe conclut un partenariat avec
+Amazon, qui met en vente 2.000 livres num�riques lisibles sur l'Acrobat
+eBook Reader: titres de grands �diteurs, guides de voyages, livres pour
+enfants, etc.
+
+D�cembre 2000 > Gyricon Media, une technologie d'encre �lectronique
+
+En d�cembre 2000, des chercheurs de PARC (Palo Alto Research Center),
+le centre Xerox de la Silicon Valley, cr�ent la soci�t� Gyricon Media
+dans le but de d�velopper et commercialiser le SmartPaper, un mod�le de
+papier �lectronique bas� sur une technologie d'affichage d�nomm�e
+gyricon (elle-m�me d�velopp�e depuis 1997). Tr�s sch�matiquement, la
+technologie est la suivante: prises entre deux feuilles de plastique
+souple, des millions de micro-alv�oles contiennent des micro-billes
+bicolores en suspension dans un liquide clair. Chaque bille est pourvue
+d'une charge �lectrique. Une impulsion �lectrique ext�rieure permet la
+rotation des billes, et donc le changement de couleur, afin d'afficher,
+de modifier ou d'effacer des donn�es. En 2004, le march� pressenti est
+d'abord celui de l'affichage commercial, avec vente d'affichettes
+fonctionnant sur piles. La soci�t� dispara�t en 2005, les activit�s de
+recherche et d�veloppement se poursuivant au sein de Xerox.
+
+2000 > Le wiki, un site web collaboratif
+
+Issu du terme hawa�en �wiki� (qui signifie: vite, rapide), un wiki est
+un site web permettant � plusieurs utilisateurs de collaborer en ligne
+sur un m�me projet. Le concept du wiki devient tr�s populaire en 2000.
+A tout moment, ces utilisateurs peuvent contribuer � la r�daction du
+contenu, modifier ce contenu et l'enrichir en permanence. Le wiki est
+utilis� par exemple pour cr�er et g�rer des dictionnaires, des
+encyclop�dies ou encore des sites d'information sur un sujet donn�. Le
+programme pr�sent derri�re l'interface d'un wiki est plus ou moins
+�labor�. Un programme simple g�re du texte et des hyperliens. Un
+programme �labor� permet d'inclure des images, des graphiques, des
+tableaux, etc. L'encyclop�die wiki la plus connue est Wikip�dia.
+
+Janvier 2001 > Wikip�dia, grande encyclop�die collaborative gratuite en
+ligne
+
+Fond�e en janvier 2001 � l'initiative de Jimmy Wales et de Larry Sanger
+(Larry quitte ensuite l'�quipe), Wikip�dia est une encyclop�die
+gratuite �crite collectivement et dont le contenu est librement
+r�utilisable. Sans publicit� et financ�e par des dons, elle est r�dig�e
+par des milliers de volontaires, avec possibilit� pour tout un chacun
+de corriger ou compl�ter les articles. Les articles restent la
+propri�t� de leurs auteurs. La libre utilisation des articles est r�gie
+par la licence GFDL (GNU Free Documentation licence) et la licence
+Creative Commons. En mai 2007, Wikip�dia compte 7 millions d'articles
+dans 192 langues, dont 1,8 million en anglais, 589.000 en allemand,
+500.000 en fran�ais, 260.000 en portugais et 236.000 en espagnol. En
+2008, Wikip�dia est l'un des cinq sites les plus visit�s du web. En
+septembre 2010, Wikip�dia compte 14 millions d'articles dans 272
+langues, dont 3,4 millions en anglais, 1,1 million en allemand et 1
+million en fran�ais, qui est donc la troisi�me langue de
+l'encyclop�die.
+
+Janvier 2001 > L'UNL (Universal Networking Language), un projet de
+m�talangage num�rique
+
+La Fondation UNDL (Universal Networking Digital Language) est fond�e en
+janvier 2001 � Gen�ve (Suisse) pour d�velopper et promouvoir le projet
+UNL (Universal Networking Language). Lanc� en 1996 � Tokyo sous l'�gide
+de l'Institute of Advanced Studies (IAS) de l'Universit� des Nations
+Unies (UNU), le projet UNL est un projet de m�talangage num�rique -- ou
+interlangue - formant une passerelle entre une langue source et une
+langue cible et offrant ainsi une solution aux probl�mes de
+communication pos�s par la barri�re des langues. Comme expliqu� sur le
+wiki du projet en langue fran�aise, �l'UNL est une langue artificielle
+cr��e pour prendre en compte les informations et connaissances
+v�hicul�es par les langues humaines. Elle est dot�e de composantes
+lexicales, grammaticales et s�mantiques, comme les langues naturelles.
+Coupl�e � l'intelligence artificielle, l'UNL facilite la communication
+entre l'homme et la machine, et par le biais de la machine, entre tous
+les peuples dans la langue maternelle de chacun.�
+
+Janvier 2001 > Le Cybook est la premi�re tablette de lecture europ�enne
+
+Le Cybook premier mod�le (21 x 16 cm, 1 kilo) est lanc� en janvier 2001
+par la soci�t� fran�aise Cytale sous la houlette d'Olivier Pujol, en
+tant que premi�re tablette de lecture europ�enne. Sa m�moire - 32 Mo de
+m�moire SDRAM et 16 Mo de m�moire flash - permet de stocker 15.000
+pages de texte, soit 30 livres de 500 pages. Mais les ventes sont tr�s
+inf�rieures aux pronostics, le march� n'�tant pas encore m�r pour ce
+genre d'appareil, et forcent la soci�t� � se d�clarer en cessation de
+paiement. Cytale est mis en liquidation judiciaire en juillet 2002 et
+cesse ses activit�s � la m�me date. La commercialisation du Cybook est
+reprise quelques mois plus tard par la soci�t� Bookeen, cr��e en 2003 �
+l'initiative de Michael Dahan et Laurent Picard, deux ing�nieurs de
+Cytale. Le Cybook deuxi�me g�n�ration est disponible en juin 2004, avec
+divers mod�les. En juillet 2007, Bookeen lance le Cybook Gen3, avec un
+�cran utilisant pour la premi�re fois la technologie E Ink.
+
+Janvier 2001 > Adobe lance l'Acrobat eBook Reader
+
+En janvier 2001, Adobe lance deux nouveaux produits en compl�ment de
+l'Acrobat Reader (logiciel gratuit permettant de lire les fichiers PDF)
+et de l'Adobe Acrobat (logiciel payant permettant de les cr�er).
+L'Acrobat eBook Reader (gratuit) est un logiciel de lecture pour les
+livres num�riques sous droits, avec gestion des droits par l'Adobe
+Content Server. L'Adobe Content Server (payant) est un syst�me de DRM
+(Digital Rights Management) destin� aux �diteurs et distributeurs pour
+la gestion des droits num�riques, � savoir le conditionnement, la
+protection, la distribution et la vente s�curis�e des livres num�riques
+au format PDF. En mai 2003, l'Acrobat eBook Reader (2e version)
+fusionne avec l'Acrobat Reader (5e version) pour devenir l'Adobe Reader
+(qui d�bute � la 6e version).
+
+F�vrier 2001 > Citation de Russon Wooldridge, fondateur du Net des
+�tudes fran�aises
+
+Russon Wooldridge, professeur au d�partement des �tudes fran�aises de
+l'Universit� de Toronto (Canada), fonde le Net des �tudes fran�aises
+(NEF) en mai 2000 en tant que r�seau international francophone ax� sur
+la diffusion libre du savoir. Il explique en f�vrier 2001: �Mes
+activit�s de recherche, autrefois men�es dans une tour d'ivoire, se
+font maintenant presque uniquement par des collaborations locales ou �
+distance. (...) Tout mon enseignement exploite au maximum les
+ressources d'internet (le web et le courriel): les deux lieux communs
+d'un cours sont la salle de classe et le site du cours, sur lequel je
+mets tous les mat�riaux des cours. Je mets toutes les donn�es de mes
+recherches des vingt derni�res ann�es sur le web (r��dition de livres,
+articles, textes int�graux de dictionnaires anciens en bases de donn�es
+interactives, de trait�s du 16e si�cle, etc.). Je publie des actes de
+colloques, j'�dite un journal, je collabore avec des coll�gues
+fran�ais, mettant en ligne � Toronto ce qu'ils ne peuvent pas publier
+en ligne chez eux.� (Entretien du NEF)
+
+Mars 2001 > IBM lance le WebSphere Translation Server
+
+En mars 2001, IBM se lance dans un march� de la traduction en pleine
+expansion avec un produit professionnel haut de gamme, le WebSphere
+Translation Server. Ce logiciel traduit instantan�ment en plusieurs
+langues (allemand, anglais, chinois, cor�en, espagnol, fran�ais,
+italien, japonais) les pages web, courriels et chats. Il interpr�te 500
+mots � seconde et permet l'ajout de vocabulaires sp�cifiques.
+
+Mars 2001 > Palm lance le Palm Reader, son logiciel de lecture
+
+En mars 2001, la soci�t� Palm fait l'acquisition de Peanutpress.com,
+�diteur et distributeur de livres num�riques pour assistant personnel
+(PDA), qui appartenait jusque-l� � la soci�t� netLibrary. Le Peanut
+Reader devient le Palm Reader, utilisable aussi bien sur le Palm Pilot
+que sur le Pocket PC, et les 2.000 titres de Peanutpress.com sont
+transf�r�s dans la librairie num�rique Palm Digital Media. En juillet
+2002, le Palm Reader est utilisable sur ordinateur. A la m�me date,
+Palm Digital Media distribue 5.500 titres dans plusieurs langues. En
+2003, le catalogue approche les 10.000 titres.
+
+Avril 2001 > PDA et tablettes de lecture: quelques chiffres
+
+En avril 2001, on compte 17 millions de PDA dans le monde pour
+seulement 100.000 tablettes de lecture, d'apr�s un Seybold Report en
+ligne. 13,2 millions de PDA sont vendus en 2001. En 2002, la gamme Palm
+Pilot est toujours le leader du march� (36,8% des machines vendues),
+suivi de la gamme Pocket PC de Microsoft et des mod�les de Hewlett-
+Packard, Sony, Handspring, Toshiba et Casio. Les syst�mes
+d'exploitation utilis�s sont essentiellement le Palm OS (pour 55% des
+machines) et le Pocket PC (pour 25,7% des machines). En 2004, les trois
+principaux fabricants de PDA sont Palm, Sony et Hewlett-Packard.
+Suivent Handspring, Toshiba, Casio et d'autres. Mais le PDA est de plus
+en plus concurrenc� par le smartphone, qui est un t�l�phone portable
+doubl� d'un PDA, et les ventes commencent � baisser. En f�vrier 2005,
+Sony d�cide de se retirer compl�tement du march� des PDA.
+
+Avril 2001 > Le premier mail-roman francophone, lanc� par Jean-Pierre
+Balpe
+
+Jean-Pierre Balpe est chercheur, �crivain et directeur du d�partement
+hyperm�dia de l'Universit� Paris 8. Pendant tr�s exactement cent jours,
+entre le 11 avril et le 19 juillet 2001, il diffuse quotidiennement par
+courriel un chapitre de son mail-roman �Rien n'est sans dire� aupr�s de
+cinq cents personnes - sa famille, ses amis, ses coll�gues, etc. - en y
+int�grant les r�ponses et r�actions des lecteurs. Racont�e par un
+narrateur, l'histoire est celle de Stanislas et Zita, qui vivent une
+passion tragique d�chir�e par une sombre histoire politique. Cette id�e
+d'un mail-roman est venue � l'auteur de deux sources diff�rentes:
+�d'une part en se demandant ce qu'internet peut apporter sur le plan de
+la forme � la litt�rature, d'autre part en lisant la litt�rature
+�pistolaire du 18e si�cle, ces fameux romans par lettres�. Cette
+exp�rience renforce la conviction de Jean-Pierre Balpe que �les
+technologies num�riques sont une chance extraordinaire du
+renouvellement du litt�raire�.
+
+Octobre 2001 > La Wayback Machine, pour consulter l'historique d'un
+site web
+
+En octobre 2001, l'Internet Archive met ses archives en acc�s libre
+gr�ce � la Wayback Machine, qui permet � tout un chacun de voir
+l'historique d'un site web - � savoir la pr�sentation et le contenu
+d'un site web donn� - th�oriquement tous les deux mois � partir de
+1996, date de la cr�ation de l'Internet Archive. Fond�e en avril 1996
+par Brewster Kahle � San Francisco (Californie), l'Internet Archive a
+pour but de constituer, stocker, pr�server et g�rer une biblioth�que de
+l'internet, en archivant r�guli�rement la totalit� du web. En 2004, les
+archives du web repr�sentent plus de 300 To (t�raoctets) de donn�es,
+avec une croissance de 12 To par mois. Le nombre de pages web visibles
+avec la Wayback Machine est de 65 milliards (provenant de 50 millions
+de sites web) en d�cembre 2006, 85 milliards de pages web en mai 2007
+et 150 milliards de pages web en mars 2010.
+
+2001 > La licence Creative Commons adapte le droit d'auteur au web
+
+Lanc�e en 2001 � l'initiative de Lawrence �Larry� Lessig, professeur de
+droit � la Stanford Law School, en Californie, la licence Creative
+Commons veut favoriser la diffusion d'oeuvres num�riques tout en
+prot�geant le droit d'auteur. L'organisme du m�me nom propose des
+licences-type, qui sont des contrats flexibles de droit d'auteur
+compatibles avec une diffusion sur l'internet. L'auteur peut par
+exemple choisir d'autoriser ou non la reproduction et la rediffusion de
+ses oeuvres. Ces contrats peuvent �tre utilis�s pour tout type de
+cr�ation: texte, film, photo, musique, site web, etc. Finalis�e en
+f�vrier 2007, la version 3.0 de la Creative Commons instaure une
+licence internationale et la compatibilit� avec d'autres licences
+similaires, dont le copyleft et la GPL (General Public License). Une
+licence Creative Commons est utilis�e pour un million d'oeuvres en
+2003, 4,7 millions d'oeuvres en 2004, 20 millions d'oeuvres en 2005, 50
+millions d'oeuvres en 2006, 90 millions d'oeuvres en 2007, 130 millions
+d'oeuvres en 2008 et 350 millions d'oeuvres en avril 2010.
+
+2001 > Le Nokia 9210 est le premier smartphone
+
+Le Nokia 9210 est le premier smartphone du march�, lanc� d�s 2001 par
+la soci�t� finlandaise Nokia, grand fabricant mondial de t�l�phones
+portables. Apparaissent ensuite le Nokia Series 60, le Sony Ericsson
+P800, puis les mod�les de Motorola et de Siemens. Ces diff�rents
+mod�les permettent de lire des livres num�riques sur le Mobipocket
+Reader, le logiciel de lecture de Mobipocket. Appel� aussi t�l�phone
+multim�dia, t�l�phone multifonctions ou encore t�l�phone intelligent,
+le smartphone dispose d'un �cran couleur, du son polyphonique et de la
+fonction appareil photo, qui viennent s'ajouter aux fonctions
+habituelles du PDA  (assistant personnel): agenda, dictaphone, lecteur
+de livres num�riques, lecteur de musique, etc. Les smartphones
+repr�sentent 3,7% des ventes de t�l�phones mobiles en 2004 et 9% de ces
+ventes en 2006, � savoir 90 millions de smartphones pour un milliard de
+t�l�phones portables.
+
+Janvier 2003 > La Public Library of Science, �diteur de revues en ligne
+gratuites de haut niveau
+
+En janvier 2003, la Public Library of Science (PLoS) -- fond�e en
+octobre 2000 - devient un �diteur non commercial de p�riodiques
+scientifiques et m�dicaux en ligne gratuits. Une �quipe �ditoriale de
+haut niveau est constitu�e pour lancer des p�riodiques de qualit� -
+PLoS Biology en octobre 2003 puis PLoS Medicine en 2004 - selon un
+nouveau mod�le d'�dition en ligne bas� sur la diffusion libre du
+savoir. Trois nouveaux titres voient le jour en 2005: PLoS Genetics,
+PLoS Computational Biology et PLoS Pathogens. PLoS Clinical Trials est
+lanc� en mai 2006. PLoS Neglected Tropical Diseases est lanc� en
+automne 2007 en tant que premi�re publication scientifique consacr�e
+aux maladies tropicales n�glig�es. Librement accessibles en ligne, tous
+les articles peuvent �tre diffus�s et r�utilis�s ailleurs, y compris
+pour des traductions, selon les termes de la licence Creative Commons,
+la seule contrainte �tant la mention des auteurs et de la source.
+
+F�vrier 2003 > Citation de Nicolas Pewny, consultant en �dition
+�lectronique
+
+Libraire en Haute-Savoie (France), �diteur -- il fonde les �ditions du
+Choucas en 1992 - puis consultant en �dition �lectronique, Nicolas
+Pewny �crit en f�vrier 2003: �Je vois le livre num�rique du futur comme
+un "ouvrage total" r�unissant textes, sons, images, vid�o,
+interactivit�: une nouvelle mani�re de concevoir et d'�crire et de
+lire, peut-�tre sur un livre unique, sans cesse renouvelable, qui
+contiendrait tout ce que l'on a lu, unique et multiple compagnon.
+Utopique? Invraisemblable? Peut-�tre pas tant que cela!� (Entretien du
+NEF)
+
+F�vrier 2003 > Le portail de Handicapz�ro, ou l'internet pour tous
+
+L'association Handicapz�ro a pour but d'am�liorer l'autonomie des
+personnes ayant un probl�me visuel, � savoir 10% de la population
+francophone. Elle lance en f�vrier 2003 un portail g�n�raliste offrant
+en acc�s libre l'information nationale et internationale, l'actualit�
+sportive, les programmes de t�l�vision, la m�t�o, ainsi que toute une
+gamme de services dans les domaines de la sant�, de l'emploi, de la
+consommation, des loisirs, des sports et de la t�l�phonie. Ce portail
+est pr�c�d� d'un premier site web mis en ligne en septembre 2000 et qui
+devient rapidement le site adapt� le plus visit�, avec 10.000 requ�tes
+mensuelles. En octobre 2006, le portail mis en ligne en f�vrier 2003
+adopte une nouvelle pr�sentation en enrichissant encore ses services
+pour les personnes aveugles et mal voyantes et pour les personnes
+souhaitant communiquer avec eux (par exemple, transcription gratuite de
+messages en braille et vice versa). Plus de 2 millions de visiteurs
+utilisent les services du portail au cours de l'ann�e 2006.
+
+Mars 2003 > Paulo Coelho diffuse des romans gratuitement au format PDF
+
+Le romancier br�silien Paulo Coelho est devenu mondialement c�l�bre
+apr�s la parution de L'Alchimiste. D�but 2003, ses livres, traduits en
+56 langues, ont �t� vendus en 53 millions d'exemplaires dans 155 pays,
+dont 6,5 millions d'exemplaires dans les pays francophones. En mars
+2003, Paulo Coelho d�cide de distribuer plusieurs romans gratuitement
+en version PDF, en diverses langues, avec l'accord de ses �diteurs
+respectifs, dont Anne Carri�re, son �ditrice en France. Trois romans
+sont disponibles en fran�ais: Manuel du guerrier de la lumi�re, La
+cinqui�me montagne et Veronika d�cide de mourir. Pourquoi une telle
+d�cision? �Comme le fran�ais est pr�sent, � plus ou moins grande
+�chelle, dans le monde entier, je recevais sans cesse des courriers
+�lectroniques d'universit�s et de personnes habitant loin de la France,
+qui ne trouvaient pas mes oeuvres�, d�clare le romancier � la m�me date
+par le biais de son �ditrice. � la question classique relative au
+pr�judice �ventuel sur les ventes futures, il r�pond: �Seule une
+minorit� de gens a acc�s � l'internet, et le livre au format ebook ne
+remplacera jamais le livre papier.� Une remarque tr�s juste en 2003,
+mais qui n'est peut-�tre plus de mise en 2010.
+
+Mai 2003 > L'Adobe Reader remplace l'Acrobat Reader
+
+En mai 2003, dix ans apr�s ses d�buts en juin 1993, l'Acrobat Reader
+(5e version) fusionne avec l'Acrobat eBook Reader (2e version) pour
+devenir l'Adobe Reader (d�butant � la version 6), qui permet de lire
+aussi bien les fichiers PDF standard que les fichiers PDF s�curis�s des
+livres num�riques sous droits. Fin 2003, Adobe ouvre sa librairie en
+ligne, d�nomm�e Digital Media Store, avec les titres au format PDF de
+grands �diteurs (HarperCollins Publishers, Random House, Simon &
+Schuster, etc.) ainsi que les versions �lectroniques de journaux et
+magazines comme le New York Times, Popular Science, etc. Adobe lance
+aussi Adobe eBooks Central, un service permettant de lire, publier,
+vendre et pr�ter des livres num�riques, et l'Adobe eBook Library, qui
+se veut un prototype de biblioth�que de livres num�riques. Les versions
+r�centes d'Adobe Acrobat - logiciel payant lanc� en 1993 pour cr�er des
+fichiers PDF - permettent de cr�er des PDF compatibles avec le format
+OeB, ce format �tant devenu entre temps un autre standard du livre
+num�rique.
+
+Septembre 2003 > Le contenu des cours du MIT disponible gratuitement en
+ligne
+
+En septembre 2003, le MIT (Massachusetts Institute of Technology) lance
+officiellement le MIT OpenCourseWare pour offrir le mat�riel
+d'enseignement de  ses cours en ligne, avec acc�s libre et gratuit. Ce
+mat�riel d'enseignement comprend des textes de conf�rences, des travaux
+pratiques, des exercices et corrig�s, des bibliographies, des documents
+audio et vid�o, etc. Mise en ligne un an plus t�t, la version pilote du
+MIT OpenCourseWare a d'abord offert le mat�riel d'enseignement de 32
+cours repr�sentatifs des cinq facult�s du MIT. Le mat�riel
+d'enseignement d'une centaine de cours est disponible en septembre 2003
+lors du lancement officiel du site, avec 500 cours dans 33 disciplines
+en mars 2004 et 1.400 cours dans 34 disciplines en mai 2006. La
+totalit� des 1.800 cours dispens�s par le MIT est en ligne en novembre
+2007, avec actualisation r�guli�re. En novembre 2005 est lanc� en
+parall�le l'OpenCourseWare Consortium (OCW Consortium), qui propose les
+cours en acc�s libre de nombreuses universit�s selon le m�me sch�ma.
+
+F�vrier 2004 > Facebook, r�seau social
+
+Facebook est un r�seau social fond� en f�vrier 2004 par Mark Zuckerberg
+et ses coll�gues �tudiants. Destin� � l'origine aux �tudiants de
+l'Universit� de Harvard (�tats-Unis), puis aux �tudiants de toutes les
+universit�s am�ricaines, le r�seau social est ouvert � tous depuis
+septembre 2006 pour se connecter aussi bien � ses proches (famille,
+amis, coll�gues) qu'� des personnes inconnues partageant les m�mes
+centres d'int�r�t ou non. Facebook est depuis devenu le deuxi�me site
+mondial en nombre de visites, apr�s Google, avec 500 millions d'usagers
+en juin 2010, tout en suscitant des d�bats sur le respect de la vie
+priv�e.
+
+Avril 2004 > Le Libri�, premi�re tablette de lecture de Sony
+
+En avril 2004, Sony lance au Japon son premier Reader, le Libri� 1000-
+EP, produit en partenariat avec les soci�t�s Philips et E Ink. Cette
+tablette est d'ailleurs la premi�re � utiliser la technologie
+d'affichage d�velopp�e par E Ink et d�nomm�e encre �lectronique.
+L'appareil p�se 300 grammes (avec piles et protection d'�cran) pour une
+taille de 12,6 x 19 x 1,3 centim�tres. Sa m�moire est de 10 Mo - avec
+possibilit� d'extension - et sa capacit� de stockage de 500 livres. Son
+�cran de 6 pouces a une d�finition de 170 DPI et une r�solution de 800
+x 600 pixels. Un port USB permet le t�l�chargement des livres � partir
+de l'ordinateur. L'appareil comprend aussi un clavier, une fonction
+enregistrement et une synth�se vocale. Il fonctionne avec quatre piles
+alcalines, qui permettraient la consultation de 10.000 pages. Son prix
+est de 375 dollars US. Le Libri� est l'anc�tre du Sony Reader, lanc�
+aux �tats-Unis en octobre 2006.
+
+2004 > Le web 2.0, bas� sur les notions de communaut� et de partage
+
+Apparu en 2004, le web 2.0 est caract�ris� par les notions de
+communaut� et de partage, avec une flop�e de sites dont le contenu est
+aliment� par les utilisateurs, par exemple les blogs, les wikis, les
+sites sociaux ou les encyclop�dies collaboratives. Wikip�dia, Facebook
+et Twitter, bien s�r, mais aussi des dizaines de milliers d'autres.
+L'expression �web 2.0� �mane d'un �diteur puisqu'elle est utilis�e pour
+la premi�re fois en 2004 par Tim O'Reilly, fondateur des �ditions
+O'Reilly Media, en tant que titre pour une s�rie de conf�rences qu'il
+organise. Le web 2.0 commence peut-�tre � r�pondre au r�ve formul� par
+Tim Berners-Lee, inventeur du web en 1990, dans un essai qu'il r�dige
+en 1998: �Le web deviendrait d'une utilisation tellement courante qu'il
+serait un miroir r�aliste (sinon la principale incarnation) de la
+mani�re dont nous travaillons, jouons et nouons des relations
+sociales.� (The World Wide Web: A very short personal history)
+
+2005 > Smartphones ou tablettes d�di�es?
+
+En 2005, on se demande si les tablettes �lectroniques d�di�es � la
+lecture pourront vraiment r�ussir � s'imposer face aux smartphones
+multifonctions.  On se demande aussi s'il existe une client�le
+sp�cifique pour les deux machines, la lecture sur t�l�phone portable et
+smartphone �tant destin�e au grand public, et la lecture sur tablette
+�tant r�serv�e aux gros consommateurs de documents que sont les
+lyc�ens, les �tudiants, les professeurs, les chercheurs ou les
+juristes. Le d�bat n'est pas pr�t d'�tre clos en 2010, bien qu'on ne
+parle plus de publics diff�rents pour l'une et l'autre machine. Une
+chose est certaine: la comp�tition risque d'�tre rude sur un march�
+tr�s prometteur.
+
+Avril 2005 > Le format ePub, un standard du livre num�rique
+
+En avril 2005, l'Open eBook Forum devient l'International Digital
+Publishing Forum (IDPF), et le format OeB laisse la place au format
+ePub, acronyme de �electronic publication�. Ce format est un standard
+ouvert pour les livres num�riques, largement utilis� par les �diteurs
+pour la distribution de leurs livres. Il est destin� � faciliter la
+mise en page du contenu sur tout appareil de lecture (ordinateur,
+t�l�phone mobile, smartphone, tablette de lecture). Les fichiers PDF
+cr��s avec des versions r�centes du logiciel Adobe Acrobat sont
+compatibles avec le format ePub.
+
+Mai 2005 > Google Print, anc�tre de Google Books
+
+Avant de lancer le fameux Google Books, Google lance Google Print en
+mai 2005. Ce lancement est pr�c�d� de deux �tapes. En octobre 2004,
+Google lance la premi�re partie de son programme, �tabli en partenariat
+avec les �diteurs pour pouvoir consulter � l'�cran des extraits de
+livres, puis commander les livres aupr�s d'une librairie en ligne. En
+d�cembre 2004, Google lance la deuxi�me partie de son programme, cette
+fois � destination des biblioth�ques, avec un projet de biblioth�que
+num�rique de 15 millions de livres consistant � num�riser plusieurs
+grandes biblioth�ques partenaires (celles des Universit�s du Michigan,
+de Harvard, de Stanford et d'Oxford, et de la ville de New York).
+Google pr�voit de num�riser 10 millions de livres sur six ans, avec un
+chantier d'une dur�e totale de dix ans. En ao�t 2005, trois mois apr�s
+son lancement, Google Print est suspendu pour une dur�e ind�termin�e
+suite au conflit qui oppose Google aux associations am�ricaines
+d'auteurs et d'�diteurs de livres sous droits, celles-ci reprochant �
+Google de num�riser les livres sans l'accord pr�alable des ayants
+droit.
+
+Ao�t 2006 > Google Books, le service livres de Google
+
+Le programme reprend en ao�t 2006 sous le nom de Google Books (Google
+Livres). La num�risation des fonds de grandes biblioth�ques se
+poursuit, tout comme le d�veloppement de partenariats avec les �diteurs
+qui le souhaitent. Les livres libres de droit sont consultables �
+l'�cran en texte int�gral, leur contenu est copiable et l'impression
+est possible page � page. Ils sont aussi t�l�chargeables sous forme de
+fichiers PDF et imprimables dans leur entier. Le conflit avec les
+associations d'auteurs et d'�diteurs se poursuit lui aussi, puisque
+Google continue de num�riser des livres sous droits sans l'autorisation
+pr�alable des ayants droit, en invoquant le droit de citation pour
+pr�senter des extraits sur le web. L'Authors Guild et l'Association of
+American Publishers (AAP) invoquent pour leur part le non respect de la
+l�gislation relative au copyright pour attaquer Google en justice. Un
+accord entre les deux parties sera propos� en novembre 2008.
+
+Ao�t 2006 > L'Open Content Alliance, une biblioth�que num�rique
+plan�taire et publique
+
+Un vaste projet ind�pendant de biblioth�que num�rique plan�taire et
+publique est lanc� en ao�t 2006 sous le nom d'Open Content Alliance
+(OCA) � l'instigation de l'Internet Archive, qui con�oit le projet d�s
+octobre 2005 avec Yahoo!  L'OCA comptabilise ses 100.000 premiers
+livres num�riques en d�cembre 2006, avec 12.000 nouveaux livres par
+mois. Le but de l'OCA est de f�d�rer un grand nombre de partenaires
+(biblioth�ques, universit�s, organismes gouvernementaux, associations,
+organismes culturels, soci�t�s informatiques) pour cr�er une
+biblioth�que num�rique respectueuse du copyright et sur un mod�le
+ouvert, avec consultation des collections sur tout moteur de recherche,
+contrairement � Google Books uniquement disponible sur Google. De m�me,
+l'OCA ne num�rise les livres sous droits que si les �diteurs (ou
+auteurs) de ces livres ont donn� leur accord. Les premiers organismes
+participants sont les biblioth�ques des Universit�s de Californie et de
+Toronto, les Archives europ�ennes, les Archives nationales du Royaume-
+Uni, O'Reilly Media et les Prelinger Archives. Un million de livres
+num�ris�s sont disponibles dans la partie Text Archive de l'Internet
+Archive en d�cembre 2008, et deux millions de livres en mars 2010.
+
+Ao�t 2006 > Le catalogue collectif mondial WorldCat lance une version
+web gratuite
+
+En ao�t 2006, le catalogue collectif mondial WorldCat -- g�r� depuis
+nombre d'ann�es par l'association OCLC (Online Computer Library Center)
+-- lance sa version web b�ta en acc�s libre. WorldCat est par ailleurs
+disponible sur abonnement, avec 73 millions de notices (permettant de
+localiser un milliard de documents) �manant de 10.000 biblioth�ques
+dans 112 pays en 2006. � la notice bibliographique du document
+s'ajoutent les informations suivantes: table des mati�res, r�sum�,
+couverture, illustrations et courte biographie de l'auteur. La
+migration de WorldCat sur le web est progressive. La consultation des
+notices est d'abord possible par le biais de plusieurs moteurs de
+recherche (Yahoo!, Google et d'autres) avant le lancement d'une version
+web gratuite. Les biblioth�ques membres y proposent non seulement leur
+catalogue mais aussi un acc�s direct (gratuit ou payant) � leurs
+documents �lectroniques: livres du domaine public, articles, photos,
+vid�os, musique et livres audio. En avril 2010, WorldCat permet de
+localiser 1,5 milliard de documents.
+
+2006 > Twitter, ou l'information en 140 caract�res
+
+Fond� en 2006 en Californie par Jack Dorsey, Evan Williams et Biz
+Stone, Twitter est un outil de r�seau social et de micro-blogging qui
+permet � l'utilisateur d'envoyer gratuitement des messages brefs
+gratuits (tweets) de 140 caract�res maximum, par internet, par
+messagerie instantan�e ou par SMS. Parfois d�crit comme le SMS de
+l'internet, Twitter a depuis gagn� une popularit� mondiale, avec 106
+millions d'utilisateurs en avril 2010 et 300.000 nouveaux usagers par
+jour. Quant aux tweets, on en compte 5.000 par jour en 2007, 300.000 en
+2008, 2,5 millions en 2009, 50 millions en janvier 2010 et 55 millions
+en avril 2010, avec un archivage syst�matique des tweets par la
+Biblioth�que du Congr�s en tant que reflet des tendances de notre
+�poque, et l'ajout des tweets par Google dans les r�sultats de son
+moteur de recherche.
+
+Octobre 2006 > Le Sony Reader, nouvelle tablette de lecture de Sony
+
+Le Sony Reader est une tablette de lecture lanc�e en octobre 2006 aux
+�tats-Unis au prix de 350 dollars. L'�cran du Sony Reader, qui utilise
+la technologie E Ink (comme le Libri�, le mod�le de Sony sorti au Japon
+en avril 2004), est  �un �cran qui donne une excellente exp�rience de
+lecture, tr�s proche de celle du vrai papier, et qui ne fatigue pas les
+yeux� (Mike Cook, auteur du site ePubBooks.com). Un autre avantage de
+cette tablette sur ses concurrentes est la dur�e de vie de la batterie,
+avec plus de 7.000 pages consultables, ou deux semaines sans n�cessit�
+de la recharger. Cette tablette est aussi la premi�re � utiliser Adobe
+Digital Editions. Le Sony Reader est progressivement disponible au
+Canada, au Royaume-Uni, en Allemagne et en France, avec de nouveaux
+mod�les meilleur march�.
+
+D�cembre 2006 > Live Search Books, la biblioth�que num�rique de
+Microsoft
+
+En d�cembre 2006, Microsoft met en ligne aux �tats-Unis la version b�ta
+de Live Search Books, sa biblioth�que num�rique, qui permet une
+recherche par mots-cl�s dans sa collection de livres du domaine public.
+Ces livres sont num�ris�s par Microsoft suite � des accords pass�s avec
+de grandes biblioth�ques, les premi�res �tant la British Library et les
+biblioth�ques des Universit�s de Californie et de Toronto, suivies en
+janvier 2007 par la New York Public Library et la biblioth�que de
+l'Universit� Cornell. Microsoft compte aussi ajouter des livres sous
+droits, mais uniquement avec l'accord pr�alable des �diteurs. En mai
+2007, Microsoft annonce des accords avec plusieurs grands �diteurs,
+dont Cambridge University Press et McGraw Hill. Microsoft met
+finalement un terme � ce projet en mai 2008, pour concentrer ses
+efforts sur d'autres activit�s. Les 750.000 livres d�j� num�ris�s sont
+vers�s dans les collections de l'Open Content Alliance (OCA) sur le
+site de l'Internet Archive.
+
+D�cembre 2006 > Citation de Marc Autret, journaliste et infographiste
+
+Marc Autret, journaliste et infographiste, �crit en d�cembre 2006:
+�J'imagine  l'e-book de demain comme une sorte de wiki cristallis�,
+empaquet� dans un format. Quelle sera alors sa valeur propre? Celle
+d'un livre: l'unit� et la qualit� du travail �ditorial!� (Entretien du
+NEF)
+
+D�cembre 2006 > Citation de Pierre Schweitzer, inventeur du projet
+@folio, tablette de lecture nomade
+
+Pierre Schweitzer est l'inventeur du projet @folio, une tablette de
+lecture nomade qu'il con�oit d�s 1996. Il �crit en d�cembre 2006: �La
+chance qu'on a tous est de vivre l�, ici et maintenant cette
+transformation fantastique. Quand je suis n� en 1963, les ordinateurs
+avaient comme m�moire quelques pages de caract�res � peine.
+Aujourd'hui, mon baladeur de musique pourrait contenir des milliards de
+pages, une vraie biblioth�que de quartier. Demain, par l'effet conjugu�
+de la loi de Moore et de l'omnipr�sence des r�seaux, l'acc�s instantan�
+aux oeuvres et aux savoirs sera de mise. Le support de stockage lui-
+m�me n'aura plus beaucoup d'int�r�t. Seules importeront les commodit�s
+fonctionnelles d'usage et la po�tique de ces objets.� (Entretien du
+NEF)
+
+Mars 2007 > Citizendium, une encyclop�die collaborative exp�rimentale
+en ligne
+
+Citizendium - acronyme de �The Citizens' Compendium� - est une grande
+encyclop�die collaborative en ligne con�ue en novembre 2006 et lanc�e
+en mars 2007 (en version b�ta) par Larry Sanger, auparavant co-
+fondateur de Wikip�dia avec Jimmy Wales. Citizendium est une
+encyclop�die coop�rative et gratuite, tout comme Wikip�dia, mais sans
+ses travers, � savoir le vandalisme, le manque de rigueur et
+l'utilisation d'un pseudonyme pour y contribuer. Les auteurs signent
+leurs articles de leur vrai nom, et ces articles sont relus et corrig�s
+par des experts (�editors�) �g�s d'au moins 25 ans et titulaires d'une
+licence universitaire. De plus, des �constables� sont charg�s de la
+bonne marche du projet et du respect du r�glement. Le jour de son
+lancement le 25 mars 2007, Citizendium comprend 1.100 articles, 820
+auteurs et 180 experts. 11.800 articles sont disponibles en juillet
+2009 et 15.000 articles en septembre 2010.
+
+Mars 2007 > Le r�ve derri�re Citizendium, d'apr�s Larry Sanger, son
+fondateur
+
+Dans �Why Make Room for Experts in Web 2.0?� (Pourquoi accorder une
+place aux experts dans le web 2.0?), une communication dat�e d'octobre
+2006 et actualis�e en mars 2007 sur le site de Citizendium, Larry
+Sanger voit dans Citizendium l'�mergence d'un nouveau mod�le de
+collaboration massive de dizaines de milliers d'intellectuels et
+scientifiques, non seulement pour les encyclop�dies, mais aussi pour
+les manuels d'enseignement, les ouvrages de r�f�rence, le multim�dia et
+les applications en 3D. Cette collaboration serait bas�e sur le partage
+des connaissances, dans la lign�e du web 2.0, un concept lanc� en 2004
+pour caract�riser les notions de communaut� et de partage et qui se
+manifeste d'abord par une floraison de wikis, blogs et sites sociaux.
+D'apr�s Larry Sanger, le web 2.0 peut �galement permettre de cr�er des
+structures pour des collaborations scientifiques, et Citizendium peut
+servir de prototype dans ce domaine.
+
+Mai 2007 > L'Encyclopedia of Life, pour recenser toutes les esp�ces
+animales et v�g�tales
+
+Lanc�e en mai 2007, l'Encyclopedia of Life est une vaste encyclop�die
+collaborative en ligne dont l'objectif est de recenser de mani�re
+exhaustive toutes les esp�ces animales et v�g�tales connues (1,8
+million), y compris les esp�ces en voie d'extinction, avec l'ajout de
+nouvelles esp�ces au fur et � mesure de leur identification, ce qui
+repr�senterait entre 8 et 10 millions d'esp�ces en tout. Le directeur
+honoraire du projet est Edward Wilson, professeur �m�rite �
+l'Universit� de Harvard, qui, dans un essai dat� de 2002, fut le
+premier � �mettre le voeu d'une telle encyclop�die. Cinq ans plus tard,
+en 2007, c'est d�sormais chose possible gr�ce aux avanc�es
+technologiques en mati�re de gestion de contenu � vaste �chelle.
+L'encyclop�die se donne dix ans pour �tre compl�te, c'est-�-dire �
+jour. Des versions en plusieurs langues seront g�r�es par des
+organismes partenaires.
+
+Juin 2007 > InterActive Terminology for Europe (IATE), une base
+terminologique  en 24 langues
+
+La base IATE (InterActive Terminology for Europe) est lanc�e sur le web
+en janvier 2007 avec 1,4 million d'entr�es dans les 23 langues
+officielles de l'Union europ�enne, plus le latin, apr�s un usage
+interne sur l'intranet des institutions de l'Union europ�enne depuis le
+printemps 2004. L'Union europ�enne est en effet pass�e de 15 � 25 pays
+membres en mai 2004, pour atteindre 27 pays membres en janvier 2007,
+d'o� la n�cessit� de 23 langues officielles au lieu des 11 langues
+officielles d'Eurodicautom, la base terminologique pr�c�dente (qui a
+fusionn� avec d'autres bases pour devenir IATE). La base IATE est
+administr�e par le Centre de traduction des organes de l'Union
+europ�enne � Luxembourg. IATE comprend 8,4 millions de termes en 2009,
+dont 540.000 abr�viations et 130.000 expressions.
+
+Juin 2007 > L'iPhone, un smartphone lanc� par Apple
+
+Pr�sent� en janvier 2007 par Apple avant d'�tre lanc� aux �tats-Unis en
+juin 2007, l'iPhone est un smartphone, � savoir un t�l�phone mobile
+multifonctions qui int�gre le baladeur de musique iPod (lanc� lui-m�me
+en octobre 2001), un appareil photo et un navigateur internet, avec les
+caract�ristiques suivantes: grand �cran tactile (3,5 pouces),
+synchronisation automatique avec la plateforme iTunes pour t�l�charger
+musique et vid�os, appareil photo de 2 m�gapixels, navigateur Safari
+d'Apple, syst�me d'exploitation Mac OS X, t�l�phonie par les r�seaux
+GSM (Global System for Mobile Telecommunications) et EDGE (Enhanced
+Data for GSM Evolution), connexion internet via la WiFi (Wireless
+Fidelity) et enfin connexion Bluetooth. L'iPhone est lanc� en juin 2007
+au prix de 499 dollars US pour le mod�le de 4 Go (giga-octets) et 599
+dollars pour le mod�le de 8 Go. Son lancement en Europe a lieu fin 2007
+et  son lancement en Asie en 2008. D'autres mod�les suivent. Le dernier
+en date est l'iPhone 4, disponible en juin 2010.
+
+Ao�t 2007 > Citation de Denis Zwirn, pr�sident de la librairie
+num�rique Numilog
+
+Pr�sident de la librairie num�rique Numilog, qu'il fonde en mars 2000,
+Denis Zwirn �crit en ao�t 2007: �Le livre num�rique n'est plus une
+question de colloque, de d�finition conceptuelle ou de divination par
+certains "experts": c'est un produit commercial et un outil au service
+de la lecture. Il n'est pas besoin d'attendre je ne sais quel nouveau
+mode de lecture hypermoderne et hypertextuel enrichi de multim�dia
+orchestrant savamment sa sp�cificit� par rapport au papier, il suffit
+de proposer des textes lisibles facilement sur les supports de lecture
+�lectronique vari�s qu'utilisent les gens, l'encre �lectronique pouvant
+progressivement envahir tous ces supports. Et de les proposer de
+mani�re industrielle. Ce n'est pas et ne sera jamais un produit de
+niche (les dictionnaires, les guides de voyage, les livres pour non
+voyants...): c'est en train de devenir un produit de masse, riche de
+formes multiples comme l'est le livre traditionnel.� (Entretien du NEF)
+
+Novembre 2007 > Le Kindle, la tablette de lecture d'Amazon
+
+Amazon lance en novembre 2007 sa propre tablette de lecture, le Kindle,
+avec un format livresque (19 x 13 x 1,8 cm), un poids de 289 grammes,
+un �cran noir et blanc de 6 pouces avec une r�solution de 800 x 600
+pixels, un clavier, une m�moire de 256 Mo (extensible par carte SD), un
+port USB et la possibilit� de se connecter � l'internet via la WiFi.
+Vendu 400 dollars US (soit 273 euros), le Kindle peut contenir jusqu'�
+200 livres parmi les 80.000 disponibles dans le catalogue d'Amazon,
+dont le catalogue de Mobipocket, soci�t� rachet�e par Amazon en avril
+2005. 538.000 tablettes sont vendues en 2008. Deux autres mod�les, le
+Kindle 2 et le Kindle DX (avec un �cran plus grand), sont lanc�s
+respectivement en f�vrier et mai 2009. Le catalogue d'Amazon
+comptabiliserait 450.000 ebooks en mars 2010, y compris le catalogue
+d'Audible.com (livres, journaux et magazines audio) rachet� en janvier
+2009.
+
+F�vrier 2008 > ActuaLitt�, un magazine litt�raire en ligne
+
+Fond� en f�vrier 2008 par Nicolas Gary et ses amis, ActuaLitt� est un
+magazine litt�raire en ligne �qui chaque jour ausculte les univers du
+livre pour pr�senter les informations les plus compl�tes sur
+l'�volution de l'industrie du livre. Ce magazine litt�raire consacre
+une grande part de ses investigations aux nouveaux secteurs du livre,
+comme les lecteurs ebooks, la num�risation ou l'�volution num�rique de
+l'�dition.� Au fil des mois, ce magazine devient incontournable pour la
+profession.
+
+Octobre 2008 > Google Books et les associations d'auteurs et d'�diteurs
+
+En octobre 2008, suite � trois ans de conflit avec les associations
+am�ricaines d'auteurs et d'�diteurs, Google annonce un accord qui
+serait bas� sur un partage des revenus g�n�r�s par Google Books --
+lanc� en mai 2005 sous le nom de Google Print - ainsi qu'un large acc�s
+aux ouvrages �puis�s, tout comme le paiement de 125 millions de dollars
+US � l'Authors Guild et l'Association of American Publishers (AAP) pour
+cl�turer d�finitivement ce conflit. Suite � cet accord, Google pourrait
+proposer de plus larges extraits des livres - jusqu'� 20% d'un m�me
+ouvrage -, avec un lien commercial pour acheter une copie - num�rique
+ou non - de l'oeuvre. Les ayants droit auront la possibilit� de
+participer ou non au projet Google Books, et donc de retirer leurs
+livres des collections. Par ailleurs, les biblioth�ques universitaires
+et publiques des �tats-Unis pourront acc�der � un portail gratuit g�r�
+par Google et donnant acc�s aux textes de millions de livres �puis�s,
+et un abonnement permettra aux universit�s et aux �coles de consulter
+les collections des biblioth�ques les plus renomm�es.
+
+Novembre 2008 > Europeana, biblioth�que num�rique europ�enne
+
+Europeana, biblioth�que num�rique europ�enne, voit le jour sur la toile
+en novembre 2008. Bien avant Europeana, la Biblioth�que europ�enne est
+tout d'abord un portail commun aux 43 biblioth�ques nationales lanc� en
+janvier 2004 par la CENL (Conference of European National Librarians)
+et h�berg� sur le site de la Biblioth�que nationale des Pays-Bas. En
+septembre 2005, la Commission europ�enne lance une vaste consultation
+sur un projet de biblioth�que num�rique europ�enne, avec r�ponse
+requise en janvier 2006 et lancement officiel du projet en mars 2006.
+Deux millions de documents sont disponibles en ligne en novembre 2008,
+6 millions en mars 2010, 10 millions  en septembre 2010 avec une
+nouvelle interface, et 14 millions en novembre 2010, dont 34% de livres
+num�ris�s, 64% de documents iconographiques (photographies, cartes,
+tableaux, images, pi�ces de mus�es num�ris�es) et 2% d'oeuvres
+audiovisuelles.
+
+Novembre 2009 > Le Nook, premi�re tablette de lecture de Barnes & Noble
+
+En novembre 2009, la grande cha�ne de librairies Barnes & Noble lance
+le Nook, sa propre tablette de lecture, pour 259 dollars US, apr�s
+l'avoir annonc�e le mois pr�c�dent. La tablette dispose de la
+plateforme Android et d'un �cran E Ink de 6 pouces,, avec une connexion
+WiFi et 3G. En Juin 2010, le prix du premier mod�le passe � 199
+dollars, et un nouveau mod�le disposant de la seule connexion WiFi est
+lanc� au prix de 159 dollars. Le Nook Color est annonc� en octobre 2010
+pour pouvoir appr�cier les illustrations en couleur des magazines et
+livres d'images. En novembre 2010, la catalogue de Barnes & Noble
+propose 2 millions de livres num�riques pour le Nook.
+
+Avril 2010 > L'iPad, la tablette multifonctions d'Apple
+
+L'iPad est lanc� par Apple le 3 avril 2010 aux �tats-Unis, en tant que
+tablette num�rique multifonctions. Son prix initial est de 499 dollars
+US, avec un iBookstore de 60.000 livres num�riques qui devrait
+s'�toffer rapidement. Un lancement mondial suit en juin 2010. Apr�s
+l'iPod (lanc� en octobre 2001) puis l'iPhone (lanc� en juin 2007), deux
+objets cultes aupr�s de toute une g�n�ration, Apple devient lui aussi
+un acteur de poids pour le livre num�rique.
+
+Avril 2010 > Citation de Catherine Domain, libraire et �ditrice de
+livres de voyage
+
+Catherine Domain, fondatrice en 1971 de la librairie Ulysse, la plus
+ancienne librairie de voyage au monde, lance sa propre maison d'�dition
+en avril 2010 pour publier des livres de voyage. Elle �crit � la m�me
+date: �Internet a pris de plus en plus de place dans ma vie! Il me
+permet depuis le 1er avril d'�tre �diteur gr�ce � de laborieuses
+formations Photoshop, InDesign et autres. C'est une grande joie de
+constater que la volont� politique de garder le p�kin devant son ordi
+afin qu'il ne fasse pas la r�volution peut �tre mise en �chec par des
+ap�ros g�ants et spontan�s de milliers de personnes qui veulent se voir
+et se parler en vrai. D�cid�ment il y aura toujours des rebondissements
+inattendus aux inventions, entre autres. Quand j'ai commenc� � utiliser
+l'internet [en 1999, pour cr�er le site web de la librairie], je ne
+m'attendais vraiment pas � devenir �diteur.�
+
+Novembre 2010 > Fin de la Booknologie
+
+Tous mes remerciements vont � Marc Autret pour le terme �Booknologie�
+utilis� lors d'un pr�c�dent projet commun, et � toutes les personnes
+cit�es dans cette Booknologie.
+
+
+Copyright � 2010 Marie Lebert. Tous droits r�serv�s.
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Booknologie: Le livre num�rique
+(1971-2010), by Marie Lebert
+
+*** END OF THIS PROJECT GUTENBERG EBOOK BOOKNOLOGIE (1971-2010_) ***
+
+***** This file should be named 33462-8.txt or 33462-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/4/6/33462/
+
+Produced by Al Haines
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

@@ -1,3 +1,4787 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5b55e0a1e48182f6881ac82f0f367001642e59989fc7e186c66402475917d64
-size 202924
+The Project Gutenberg EBook of Peines d'amour perdues, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Peines d'amour perdues
+       Com�die
+
+Author: William Shakespeare
+
+Translator: Fran�ois Pierre Guillaume Guizot
+
+Release Date: September 9, 2006 [EBook #19227]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PEINES D'AMOUR PERDUES ***
+
+
+
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica))
+
+
+
+
+
+  Note du transcripteur.
+
+    ===========================================================
+    Ce document est tir� de:
+
+
+    OEUVRES COMPL�TES DE
+    SHAKSPEARE
+
+    TRADUCTION DE
+    M. GUIZOT
+
+    NOUVELLE �DITION ENTI�REMENT REVUE
+    AVEC UNE �TUDE SUR SHAKSPEARE
+    DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+    Volume 5
+    Le roi Lear--Cymbeline.
+    La m�chante femme mise � la raison.
+    Peines d'amour perdues--P�ricl�s
+
+    PARIS
+    A LA LIBRAIRIE ACAD�MIQUE
+    DIDIER ET Cie, LIBRAIRES-�DITEURS
+    35, QUAI DES AUGUSTINS
+    1862
+
+
+    ==========================================================
+
+
+
+
+                          PEINES D'AMOUR
+                              PERDUES
+
+
+                              COM�DIE
+
+
+
+
+NOTICE
+SUR
+PEINES D'AMOUR PERDUES.
+
+De toutes les pi�ces contest�es � Shakspeare, voici celle que ses
+admirateurs auraient le plus facilement abandonn�e; cependant cette
+pi�ce, imparfaite dans son ensemble et souvent faible dans ses d�tails,
+nous para�t un miroir o� se r�fl�chit le v�ritable langage de la cour
+d'�lisabeth, cet esprit p�dantesque du si�cle, ce go�t de controverse et
+de logique pointilleuse qui influait sur le ton de la soci�t� des
+savants comme du beau monde de l'�poque.
+
+Malgr� ses d�fauts, la com�die de _Peines d'amour perdues_ porte aussi
+l'empreinte du g�nie de Shakspeare dans plusieurs sc�nes et dans la
+conception de presque tous les personnages. Biron et Rosaline sont
+l'�bauche des caract�res inimitables de B�n�dick et de B�atrice dans
+_Beaucoup de bruit pour rien_. Don Adriano Armado est un fanfaron
+amusant; son petit page est bien r�ellement une _poign�e d'esprit_;
+Nathaniel le cur�, Holoferne le magister, donnent aussi lieu � plus
+d'une sc�ne comique et originale. Il n'est pas jusqu'� Dull le
+constable, et Costard le paysan, qui ne contribuent � faire trouver
+gr�ce � cette pi�ce, qui appartient, selon toute apparence, � la
+jeunesse de Shakspeare.
+
+Douce suppose que Shakspeare a emprunt� le sujet de cette pi�ce � un
+roman fran�ais, et qu'il l'a plac�e en 1425 environ. Il est difficile
+d'�tablir d'une fa�on positive l'ann�e de la composition de cette
+com�die, mais il est certain qu'elle a �t� �crite de 1587 � 1591.
+
+
+
+
+
+PERSONNAGES
+
+FERDINAND, roi de Navarre.
+BIRON,         )
+LONGUEVILLE,   ) seigneurs attach�s
+DUMAINE,       ) au roi.
+BOYET,      ) seigneurs � la suite de la
+MERCADE,    ) princesse de France.
+DON ADRIEN D'ARMADO, original espagnol.
+NATHANIEL, cur�.
+HOLOFERNE, ma�tre d'�cole.
+DULL, constable.
+COSTARD, paysan bouffon.
+MOTH, page de don Adrien d'Armado.
+UN GARDE DE LA FOR�T.
+LA PRINCESSE DE FRANCE.
+ROSALINE,   )
+MARIE,      ) dames � la suite de la
+CATHERINE,  ) princesse de France.
+JACQUINETTE, jeune paysanne.
+OFFICIERS ET SUITE DU ROI ET DE LA PRINCESSE.
+
+
+         La sc�ne se passe dans le palais du roi de Navarre
+                      et dans les environs.
+
+
+
+
+                               ACTE PREMIER
+
+
+SC�NE I
+
+Navarre.--Un parc avec un palais.
+
+LE ROI FERDINAND, BIRON, LONGUEVILLE ET DUMAINE.
+
+
+LE ROI.--Que la Renomm�e, objet de la poursuite de tous les hommes
+pendant leur vie, reste grav�e sur nos tombeaux d'airain et nous honore
+dans la disgr�ce de la mort! En d�pit du temps, ce cormoran qui d�vore
+tout, un effort, pendant l'instant o� nous respirons, peut nous
+conqu�rir un honneur qui �moussera le tranchant de sa faux, et fera de
+nous les h�ritiers de toute l'�ternit�. Courage donc, braves vainqueurs,
+car vous l'�tes, vous qui faites la guerre � vos propres passions, et
+qui combattez l'immense arm�e des d�sirs du monde.--Notre dernier �dit
+subsistera dans toute sa force, la Navarre deviendra la merveille du
+monde; notre cour sera une petite acad�mie, adonn�e au repos et � la
+contemplation. Vous trois, Biron, Longueville et Dumaine, vous avez fait
+serment de vivre avec moi pendant trois ans, compagnons de mes �tudes,
+et d'observer les statuts qui sont r�dig�s dans cette c�dule: vos
+serments sont prononc�s; maintenant signez, et que celui qui violera le
+plus petit article de ce r�glement voie son d�shonneur �crit de sa
+propre main. Si vous �tes arm�s de courage pour ex�cuter ce que vous
+avez jur�, signez votre grave serment, et observez-le.
+
+LONGUEVILLE.--Je suis d�cid�: ce n'est qu'un je�ne de trois ans; si le
+corps souffre, l'�me jouira. Les panses trop bien remplies ont de
+pauvres cervelles, et les mets succulents, en engraissant les c�tes,
+ruinent enti�rement l'esprit.
+
+DUMAINE.--Mon aimable souverain, Dumaine se mortifiera; il abandonne aux
+vils esclaves d'un monde grossier ses plaisirs plus grossiers encore: je
+renonce et je meurs � l'amour, � la richesse et aux grandeurs, pour
+vivre en philosophe avec eux et vous.
+
+BIRON.--Je ne puis que r�p�ter � mon tour la m�me protestation. J'ai
+d�j� fait les m�mes voeux, mon cher souverain: j'ai jur� de vivre,
+d'�tudier ici trois ann�es. Mais il y a d'autres pratiques rigides,
+comme de ne pas voir une seule femme jusqu'� ce terme, article qui,
+j'esp�re, n'est pas enregistr� dans l'acte; de ne go�ter d'aucune
+nourriture durant un jour entier de la semaine, et, les autres jours, de
+ne manger que d'un seul mets, autre point qui, j'esp�re, ne s'y trouve
+pas non plus; et encore de ne dormir que trois heures par nuit, sans
+jamais �tre surpris les yeux assoupis dans le jour (tandis que moi, ma
+coutume est de ne jamais songer � mal toute la nuit, et m�me de changer
+en nuit la moiti� du jour), troisi�me clause qui, j'esp�re, n'est pas
+non plus mentionn�e dans l'�crit. Oh! ce sont l� des t�ches bien arides,
+trop p�nibles � remplir: ne pas voir les dames, �tudier, je�ner et ne
+pas dormir!
+
+LE ROI.--Votre serment de vous abstenir de ces trois points est
+prononc�.
+
+BIRON.--Permettez-moi de r�pondre non, mon souverain. J'ai simplement
+jur� d'�tudier avec Votre Altesse, et de passer ici � votre cour
+l'espace de trois ans.
+
+LE ROI.--Biron, avec cet article, vous avez jur� les autres aussi.
+
+BIRON.--Par oui et par non, mon prince; alors mon serment n'�tait pas
+s�rieux.--Quel est le but de l'�tude? Apprenez-le-moi.
+
+LE ROI.--Quoi! c'est de savoir ce que nous ne saurions pas sans elle.
+
+BIRON.--Voulez-vous parler des connaissances cach�es et interdites �
+l'intelligence ordinaire?
+
+LE ROI.--Oui; telle est la divine r�compense de l'�tude!
+
+BIRON.--Allons, je veux bien jurer d'�tudier, pour conna�tre la chose
+qu'il m'est interdit de savoir.--Par exemple, je veux bien �tudier pour
+savoir o� je pourrai d�ner, lorsque les festins me seront express�ment
+d�fendus. Et encore, pour savoir o� trouver une belle ma�tresse, quand
+les belles seront cach�es � mes yeux. Ou bien, m'�tant li� par un
+serment trop difficile � garder, je veux bien �tudier l'art de
+l'enfreindre sans manquer � ma foi. Si tels sont les fruits de l'�tude,
+et qu'il soit vrai qu'elle apprenne � conna�tre ce qu'on ne savait pas
+avant, je suis pr�t � faire le serment, et jamais je ne me r�tracterai.
+
+LE ROI.--Vous venez justement de citer les obstacles qui d�tournent
+l'homme de l'�tude, et qui donnent � nos �mes le go�t des vains
+plaisirs.
+
+BIRON.--Sans doute, tous les plaisirs sont vains: mais les plus vains de
+tous sont ceux qui, acquis avec peine, ne produisent pour fruit que la
+peine; comme de m�diter p�niblement sur un livre, pour chercher la
+lumi�re de la v�rit�, tandis que son �clat perfide ne sert qu'� aveugler
+la vue �blouie. La lumi�re, en cherchant la lumi�re, enl�ve la lumi�re �
+la lumi�re. Ainsi, les yeux perdent la vue avant de trouver une faible
+lueur dans les t�n�bres. �tudiez-moi plut�t comment on peut charmer ses
+yeux, en les fixant sur des yeux plus beaux, qui, s'ils les �blouissent,
+servent du moins d'�toiles � l'homme qu'ils ont aveugl�. L'�tude
+ressemble au radieux soleil des cieux, qui ne veut pas �tre approfondi
+par d'insolents regards: ces infatigables travailleurs n'ont jamais rien
+gagn� qu'un vil renom fond� sur les livres d'autrui. Ces parrains
+terrestres des astres du ciel, qui donnent un nom � chaque �toile fixe,
+ne retirent pas plus de fruit de leurs brillantes nuits, que ceux qui se
+prom�nent � leur clart� sans les conna�tre: trop savoir, c'est ne
+conna�tre que la gloire, et tout parrain peut donner un nom.
+
+LE ROI.--Comme il est savant en arguments contre la science!
+
+DUMAINE.--Il est fort instruit dans l'art d'emp�cher les autres de
+s'instruire.
+
+LONGUEVILLE.--Il sarcle le bon grain et laisse cro�tre l'ivraie.
+
+BIRON.--Le printemps est proche, quand les oisons couvent.
+
+DUMAINE.--Et la cons�quence, quelle est-elle?
+
+BIRON.--Qu'il faut que chaque chose se fasse en son temps et en son
+lieu.
+
+DUMAINE.--Rien pour la raison.
+
+BIRON.--Quelque chose donc pour la rime.
+
+LONGUEVILLE.--Biron ressemble � une gel�e jalouse, qui attaque les
+premiers-n�s des enfants du printemps.
+
+BIRON.--Eh bien! oui; et pourquoi l'�t� se vanterait-il avant d'entendre
+le chant des oiseaux? Pourquoi me glorifierais-je de productions
+pr�matur�es? A No�l, je ne d�sire pas plus les roses, que je ne d�sire
+la neige dans les jours o� Mai se montre �maill� de fleurs nouvelles;
+mais j'aime chaque fruit dans sa saison. Quant � vous, il est trop tard
+maintenant pour �tudier: ce serait monter sur le toit de la maison pour
+en ouvrir la porte.
+
+LE ROI.--Eh bien! quittez-nous, retournez chez vous: adieu.
+
+BIRON.--Non, mon gracieux souverain. J'ai fait serment de rester avec
+vous, et quoique j'aie d�fendu l'ignorance et la barbarie, par des
+arguments plus forts que vous ne pouvez en all�guer en faveur de votre
+c�leste science, je n'en garderai pas moins constamment la parole que
+j'ai jur�e, et je supporterai chaque jour toutes les privations des
+trois ann�es fixes. Donnez-moi l'�crit, que j'en prenne lecture, et je
+souscrirai mon nom � ses plus rigoureux d�crets.
+
+LE ROI.--C'est vous rendre � propos, pour vous racheter de la honte qui
+allait vous couvrir!
+
+BIRON, _lisant_.--Item. �Que nulle femme ne s'approchera de ma cour, �
+distance d'un mille.�--Cet article a-t-il �t� proclam�?
+
+LONGUEVILLE.--Il y a quatre jours.
+
+BIRON.--Voyons sous quelle peine.--(_Lisant_.) �Sous peine de perdre la
+langue.� Qui a d�cern� cette peine?
+
+LONGUEVILLE.--H�! c'est moi.
+
+BIRON.--Eh pour quelle raison, cher seigneur?
+
+LONGUEVILLE.--Pour les �loigner de cette cour, par la terreur de cette
+punition.
+
+BIRON.--Voil� une dangereuse loi contre l'urbanit�. (_Lisant_.) Item.
+�Si un homme est surpris parlant � une femme dans l'espace de ces trois
+ann�es, il subira l'ignominie publique que toute la cour jugera � propos
+d'infliger.� Pour cet article, vous le violerez vous-m�me, mon
+souverain; car, vous savez bien qu'ici vient en ambassade la fille du
+roi de France, pour vous parler � vous-m�me.--Une jeune princesse pleine
+de gr�ce et de majest�! Elle vient traiter avec vous de la cession de
+l'Aquitaine � son p�re, vieillard d�cr�pit, infirme, et d�tenu dans son
+lit. Ainsi, c'est un article fait en vain, ou c'est en vain que cette
+illustre princesse vient � votre cour.
+
+LE ROI.--Qu'en dites-vous, seigneurs? Cela a �t� tout � fait oubli�.
+
+BIRON.--C'est ainsi que l'�tude est toujours en d�faut; tandis qu'elle
+s'occupe de ce qu'elle voudrait acqu�rir, elle oublie de faire ce qui
+est n�cessaire; et lorsqu'elle atteint l'objet qu'elle poursuit avec le
+plus d'ardeur, c'est une conqu�te qui ressemble � celle d'une ville
+incendi�e: aussit�t gagn�e, aussit�t perdue.
+
+LE ROI.--Nous sommes contraints de violer ce d�cret; mais c'est la
+n�cessit� qui nous force � souffrir ici le s�jour de la princesse.
+
+BIRON.--La n�cessit� nous rendra tous mille fois parjures dans l'espace
+de ces trois ann�es, car chaque homme na�t avec ses penchants, qui ne
+sont jamais dompt�s par la violence, mais toujours par une gr�ce
+sp�ciale.--Si je viole ma foi, mon apologie sera cette excuse: je ne me
+suis parjur� que par la force de la n�cessit�; aussi je souscris mon nom
+sans r�serve � ces lois, et je consens que celui qui les enfreindra dans
+la moindre partie en soit puni par une honte �ternelle: les tentations
+sont pour les autres comme pour moi; mais je crois, malgr� la r�pugnance
+que je montre, que je serai encore le dernier � violer mon
+serment.--Mais n'y a-t-il aucune r�cr�ation qui soit permise?
+
+LE ROI.--Oui, il y en a: notre cour, vous le savez, est fr�quent�e par
+un illustre voyageur d'Espagne. Cet homme poss�de toutes les belles
+mani�res du monde: sa t�te est une mine de phrases. Un homme dont
+l'oreille est flatt�e du son de ses vaines paroles, comme de l'harmonie
+la plus ravissante; homme, au surplus, d'une politesse accomplie, et que
+le juste et l'injuste semblent avoir choisi pour �tre l'arbitre de leurs
+disputes. Cet enfant de l'imagination, ce sublime Armado, dans les
+intervalles de nos �tudes, nous racontera, en termes pompeux, les
+prouesses de maints chevaliers de l'Espagne basan�e, qui ont p�ri dans
+les querelles du si�cle.--A quel point il vous amuse, messieurs, c'est
+ce que j'ignore; mais pour moi, je proteste que j'aime beaucoup �
+l'entendre mentir, et je le ferai entrer dans la troupe de mes
+m�n�triers.
+
+BIRON.--Armado! c'est un des plus illustres mortels: un homme � mots
+nouvellement raffin�s, le vrai chevalier de la mode!
+
+LONGUEVILLE.--Ce bouffon de Costard et lui feront notre divertissement.
+Ainsi donc, � l'�tude, trois ans sont vite pass�s.
+
+(Entrent Dull et Costard tenant une lettre.)
+
+DULL[1].--Quelle est la personne du duc?
+
+[Note 1: _Dull_; ce mot veut dire _insipide, ennuy�_.]
+
+BIRON.--Le voici, l'ami; que veux-tu?
+
+DULL.--Je repr�sente moi-m�me sa personne, car je suis un officier de
+police; mais je voudrais voir sa personne propre en chair et en os.
+
+BIRON.--Voil� le duc.
+
+DULL.--Le seigneur Arme... Arme... vous salue: il y a de vilaines choses
+sur le tapis; cette lettre vous en dira davantage.
+
+COSTARD.--Monsieur, le contenu[2] de cette lettre me touche aussi, moi.
+
+[Note 2: Jeu de mots intraduisible sur _contents_, contenu, et
+_contempt_, m�pris.]
+
+LE ROI, _prenant la lettre_.--Une lettre du magnifique Armado!
+
+BIRON.--Quelque mince qu'en soit le sujet, j'esp�re, par la gr�ce de
+Dieu, de sublimes paroles.
+
+LONGUEVILLE.--Beaucoup d'esp�rances pour peu de choses! Dieu veuille
+nous donner la patience.
+
+BIRON.--D'�couter ou de nous abstenir d'�couter.
+
+LONGUEVILLE.--D'�couter patiemment, monsieur; et de rire mod�r�ment; ou
+de nous abstenir de l'un et de l'autre.
+
+BIRON.--Allons, monsieur, ce sera comme le style de la lettre nous
+montera l'humeur � la gaiet�.
+
+COSTARD.--La mati�re, monsieur, me regarde, comme concernant
+Jacquelinette. La forme en est que j'ai �t� pris sur le fait.
+
+BIRON.--Sur quel fait?
+
+COSTARD.--Dans le fait et dans la forme[3] qui suivent, monsieur, trois
+choses � la fois: j'ai �t� vu avec elle dans la maison de la ferme,
+assis avec elle, et surpris � la suivre dans le parc; lesquelles choses,
+mises ensemble, sont dans le fait et la mani�re suivantes.--A pr�sent,
+monsieur, quant � la mani�re... c'est la mani�re dont un homme parle �
+une femme, pour la forme... en quelque forme.
+
+[Note 3: _Manner_ et _form_. Jeux de mots qui n'existent que dans
+l'anglais.]
+
+BIRON.--Et la suite, l'ami?
+
+COSTARD.--La suite sera comme sera la correction qu'on me donnera, et
+Dieu veuille prot�ger la bonne cause!
+
+LE ROI.--Voulez-vous �couter la lettre avec attention?
+
+BIRON.--Comme nous �couterions un oracle.
+
+COSTARD.--Telle est la simplicit� de l'homme, d'�couter les penchants de
+la chair.
+
+LE ROI, _lit_.--�Grand lieutenant, illustre vice-roi du firmament, et
+seul dominateur de la Navarre, Dieu terrestre de mon �me, et patron
+nourricier de mon corps.
+
+COSTARD.--Il n'y a pas encore l� un mot de Costard.
+
+LE ROI, _lisant_.--�Il est de fait...
+
+COSTARD.--Cela peut �tre ainsi; mais s'il dit que cela est ainsi, il
+n'est, lui, � dire vrai, qu'ainsi[4]...
+
+LE ROI.--Paix[5]!
+
+[Note 4: Le genre d'esprit de Costard est principalement de tirer des
+propositions pr�c�dentes des cons�quences contradictoires et absurdes.]
+
+[Note 5: Paix, absence de bruit, ou absence de guerre. Costard s'attache
+au dernier sens.]
+
+COSTARD.--Soit � moi et � tout homme qui n'ose pas se battre!
+
+LE ROI.--Pas le mot.
+
+COSTARD.--Pas le mot des secrets des autres, je vous en prie.
+
+LE ROI, _continuant de lire_.--�Il est de fait qu'afflig� d'une
+m�lancolie de couleur noire, j'ai recommand� la sombre et accablante
+humeur qui m'enveloppait � la m�decine salutaire de votre air qui donne
+la sant�; et comme je suis un gentilhomme, je me suis mis � me promener.
+L'heure, laquelle? Vers la sixi�me heure, lorsque les animaux paissent
+du meilleur app�tit, que les oiseaux becquettent le mieux le grain, et
+que les hommes sont assis pour prendre ce repas que l'on nomme le
+souper: voil� pour le temps. Maintenant le sol, je veux dire le sol sur
+lequel je me promenais, il est enclos de murs: c'�tait votre parc. A
+pr�sent, venons � l'endroit; je veux dire l'endroit o� j'ai rencontr�
+cet �v�nement obsc�ne et des plus monstrueux, qui tire aujourd'hui de ma
+plume, blanche comme la neige, l'encre de couleur d'�b�ne, que vos yeux
+voient, contemplent, parcourent ou regardent ici. C'est l� au
+nord-nord-ouest et au coin ouest de votre jardin aux curieux d�tours que
+j'ai vu ce berger � l'�me basse; ce mis�rable ver qui sert � votre
+divertissement.
+
+COSTARD.--C'est moi.
+
+LE ROI, _continuant_.--�Cette �me illettr�e et born�e.
+
+COSTARD.--C'est moi.
+
+LE ROI, _continuant_.--�Cet insipide vassal.
+
+COSTARD.--C'est encore moi.
+
+LE ROI, _continuant_.--�Qui, autant que je m'en souviens, se nomme
+Costard.
+
+COSTARD.--Oh! c'est bien moi.
+
+LE ROI, _continuant_.--�En compagnie et en t�te-�-t�te, contre le statut
+formel de votre �dit et de votre loi promulgu�e, avec... avec... Oh!
+avec... mais je souffre de dire avec qui.
+
+COSTARD.--Avec une fille.
+
+LE ROI, _continuant_.--�Avec un enfant de notre grand-m�re �ve, une
+femelle, ou pour me faire comprendre de votre �me d�licate, une femme.
+M� par l'aiguillon de mon devoir toujours respect�, je vous l'ai envoy�,
+pour recevoir le lot de sa punition, sous la garde d'un officier de
+votre noble Altesse, Antoine Dull, homme de bonne renomm�e, de bonne
+conduite, de bonne r�putation, et fort consid�r�.
+
+DULL.--C'est moi, sous le bon plaisir de Votre Altesse; je suis Antoine
+Dull.
+
+LE ROI, _continuant_.--�Quant � Jacquinette (c'est ainsi qu'on appelle
+le vase le plus faible, que j'ai surpris avec le berger susdit), je la
+garde comme un vase d�vou� � la fureur de votre loi; et, au moindre
+signal de votre illustre volont�, je la m�nerai subir son proc�s. Je
+suis � vous, dans toutes les formalit�s de l'ardeur br�lante d'un z�le
+d�vou�,
+
+    �Don Adrien d'ARMADO.�
+
+BIRON.--Cette lettre n'est pas en aussi bon style que je l'attendais,
+mais c'est le plus menteur que j'aie jamais entendu.
+
+LE ROI.--Oui, le meilleur pour le pire.--Mais, toi, coquin, que
+r�ponds-tu � cela?
+
+COSTARD.--Seigneur, je confesse la fille.
+
+LE ROI.--As-tu entendu la proclamation de mon �dit?
+
+COSTARD.--Je confesse que je l'ai beaucoup entendue, mais aussi que j'y
+ai fait fort peu d'attention.
+
+LE ROI.--On a publi� la peine d'un an de prison pour quiconque serait
+surpris avec une fille.
+
+COSTARD.--Je n'ai pas �t� pris avec une fille, seigneur, j'ai �t� pris
+avec une damoiselle.
+
+LE ROI.--Eh bien! l'�dit porte aussi une damoiselle.
+
+COSTARD.--Ce n'�tait pas une damoiselle non plus, seigneur: c'�tait une
+vierge.
+
+LE ROI.--Cela a �t� d�fendu aussi. L'�dit porte aussi une vierge.
+
+COSTARD.--Si cela est, je nie sa virginit�: j'ai �t� pris avec une
+pucelle.
+
+LE ROI.--Cette pucelle ne te servira pas, l'ami.
+
+COSTARD.--Cette pucelle me servira, sire.
+
+LE ROI.--Allons, je vais prononcer la sentence: tu je�neras une semaine
+enti�re au pain bis et � l'eau.
+
+COSTARD.--J'aimerais mieux prier un mois avec du mouton et du poireau.
+
+LE ROI.--Et don Armado sera ton gardien.--Biron, ayez soin qu'il lui
+soit livr�.--Et nous, chers seigneurs, allons mettre en pratique ce que
+nous avons r�ciproquement jur� d'observer par un serment si solennel.
+
+(Le roi sort avec Longueville et Dumaine.)
+
+BIRON.--Je gagerais ma t�te contre le chapeau du premier honn�te homme,
+que ces serments et ces lois deviendront un objet de m�pris.--(_A
+Costard_.) Allons, dr�le, marchons.
+
+COSTARD.--Je souffre pour la v�rit�, monsieur, car il est tr�s-vrai que
+j'ai �t� pris avec Jacquinette, et que Jacquinette est une vraie fille;
+et ainsi donc, que la coupe am�re de la prosp�rit�[6] soit la bienvenue!
+L'affliction pourra un jour me sourire encore, et jusqu'� ce moment
+reste avec moi, douleur.
+
+(Ils sortent tous deux.)
+
+[Note 6: B�vues mises expr�s dans la bouche de Costard.]
+
+
+SC�NE II
+
+La maison d'Armado.
+
+ARMADO _avec_ MOTH _son page_.
+
+
+ARMADO.--Page, quel signe est-ce, quand une grande �me devient
+m�lancolique?
+
+MOTH.--C'est un grand signe, monsieur, qu'elle deviendra triste.
+
+ARMADO.--Quoi! la tristesse et la m�lancolie sont la m�me chose, mon
+cher lutin?
+
+MOTH.--Non, non, monsieur; oh! non.
+
+ARMADO.--Comment peux-tu s�parer la tristesse de la m�lancolie, mon
+tendre jouvenceau?
+
+MOTH.--Par une d�monstration famili�re de leurs effets, mon rude
+seigneur.
+
+ARMADO.--Pourquoi dis-tu rude seigneur? rude seigneur?
+
+MOTH.--Et pourquoi dites-vous tendre jouvenceau? tendre jouvenceau?
+
+ARMADO.--J'ai dit tendre jouvenceau, comme une �pith�te qui convient �
+tes jeunes ann�es, que l'on peut d�nommer tendres.
+
+MOTH.--Et moi, j'ai dit rude seigneur, comme un titre qui appartient �
+votre vieillesse, que l'on peut nommer rude.
+
+ARMADO.--Joli et convenable.
+
+MOTH.--Comment l'entendez-vous, monsieur? Est-ce moi qui suis joli, et
+mon propos convenable; ou mon propos qui est joli, et moi convenable?
+
+ARMADO.--Tu es joli parce que tu es petit.
+
+MOTH.--Petitement joli, parce que je suis petit; et pourquoi
+_convenable_?
+
+ARMADO.--Convenable, parce que tu es vif.
+
+MOTH.--Dites-vous ceci � ma louange, mon ma�tre?
+
+ARMADO.--A ton digne �loge, vraiment.
+
+MOTH.--Je vanterai une anguille avec le m�me �loge.
+
+ARMADO.--Quoi! est-ce qu'une anguille est ing�nieuse?
+
+MOTH.--Une anguille est vive.
+
+ARMADO.--Je dis que tu es vif dans tes r�ponses.--Tu m'�chauffes le
+sang.
+
+MOTH.--Me voil� pay� d'une r�ponse, monsieur.
+
+ARMADO.--Je n'aime pas � �tre contrari�.
+
+MOTH.--Celui qui parle par contradictions, les croix[7] ne l'aiment pas.
+
+[Note 7: _Cross_, croix, pi�ce de monnaie.]
+
+ARMADO.--J'ai promis d'�tudier trois ans avec le duc.
+
+MOTH.--Vous pourriez le faire en une heure, monsieur.
+
+ARMADO.--Impossible.
+
+MOTH.--Combien fait _un_ r�p�t� trois fois?
+
+ARMADO.--Je sais mal compter: c'est le talent d'un gar�on de cabaret.
+
+MOTH.--Vous �tes un gentilhomme, monsieur, et un joueur.
+
+ARMADO.--J'avoue tous les deux; tous deux sont le vernis qui rend un
+homme accompli.
+
+MOTH.--En ce cas, je suis s�r que vous savez tr�s-bien � quelle somme
+montent deux as.
+
+ARMADO.--Elle monte � un de plus que deux.
+
+MOTH.--Ce que le pauvre vulgaire appelle _trois_.
+
+ARMADO.--Cela est vrai.
+
+MOTH.--Eh bien! monsieur, n'est-ce que cela � �tudier? En voil� d�j�
+trois d'�tudi�s avant que vous puissiez cligner l'oeil trois fois; et
+combien il est ais� d'ajouter les ann�es au mot _trois_, et d'�tudier
+trois ans en deux mots, le cheval sautant[8] vous le dira.
+
+[Note 8: Allusion au cheval de _Banks_, fameux par ses tours.]
+
+ARMADO.--Une fort belle figure!
+
+MOTH, _� part_.--Pour prouver que vous n'�tes qu'un z�ro.
+
+ARMADO.--Je t'avouerai l�-dessus, que je suis amoureux et de m�me qu'il
+est bas � un guerrier d'aimer, de m�me je suis amoureux d'une fille de
+bas �tage. Si de tirer l'�p�e contre l'humeur de mon penchant me
+d�livrait de la pens�e r�prouv�e qu'il m'inspire, je prendrais le d�sir
+prisonnier, je le ran�onnerais et je l'enverrais � quelque courtisan de
+France pour y nouer quelque nouvelle galanterie. Je regarde comme un
+opprobre de soupirer: je voudrais abjurer Cupidon. Console-moi, mon
+enfant; quels sont les grands hommes qui ont �t� amoureux?
+
+MOTH.--Hercule, mon ma�tre.
+
+ARMADO.--O doux Hercule!--D'autres autorit�s, mon cher, d'autres encore;
+et qu'ils soient surtout, mon enfant, des hommes de bonne renomm�e et de
+bonne fa�on.
+
+MOTH.--Samson, mon ma�tre. C'�tait un homme d'un port avantageux, d'un
+port tr�s-robuste, car il porta les portes de la ville sur son dos,
+comme un portefaix. Et il �tait amoureux.
+
+ARMADO.--O robuste Samson! � nerveux Samson! je te surpasse autant dans
+le maniement de mon �p�e, que tu me surpasses dans la force d'emporter
+les portes. Je suis amoureux aussi.--Quelle �tait l'amante de Samson,
+mon enfant?
+
+MOTH.--Une femme, mon ma�tre.
+
+ARMADO.--De quelle couleur de peau?
+
+MOTH.--Des quatre � la fois; ou de trois, ou de deux, ou de l'une des
+quatre.
+
+ARMADO.--Dis-moi au juste de laquelle.
+
+MOTH.--D'un vert d'eau, monsieur.
+
+ARMADO.--Est-ce l� une des quatre?
+
+MOTH.--Oui, monsieur, suivant ce que j'ai lu. Et la meilleure des
+quatre.
+
+ARMADO.--Le vert[9], en effet, est la couleur des amants; mais avoir une
+amante de cette couleur... Je trouve que Samson n'avait gu�re de raison
+de le faire. S�rement il l'affectionnait pour son esprit.
+
+[Note 9: Le vert du saule.]
+
+MOTH.--C'�tait justement pour cela, monsieur; car elle avait une
+intelligence verte[10].
+
+[Note 10: _Intelligence verte_, c'est-�-dire vive et gaie.]
+
+ARMADO.--Ma ma�tresse est du blanc et du rouge le plus pur.
+
+MOTH.--Ces couleurs, mon ma�tre, masquent les pens�es les plus impures.
+
+ARMADO.--D�finis, d�finis, enfant bien �lev�.
+
+MOTH.--Esprit de mon p�re, langue de ma m�re, assistez-moi!
+
+ARMADO.--Tendre invocation d'un enfant; tr�s-jolie et tr�s-path�tique!
+
+                      MOTH.
+
+    Si une femme est compos�e de blanc et de rouge
+    Jamais ses fautes ne seront connues.
+    Car les fautes engendrent les joues pourpres.
+    Et la blanche p�leur d�c�le la crainte.
+    Ainsi, que votre ma�tresse ait des craintes, ou qu'elle m�rite le
+      bl�me,
+    Vous ne le conna�trez pas � la couleur;
+    Car toujours ses joues conserveront la couleur
+    Qu'elles doivent � la Nature.
+
+Voil� de terribles rimes, mon ma�tre, contre le rouge et le blanc!
+
+ARMADO.--N'y a-t-il pas, enfant, une ballade du roi et de la
+mendiante[11]?
+
+[Note 11: _Le roi Coph�tua et la mendiante_. Ballade � laquelle
+Shakspeare fait de fr�quentes allusions.]
+
+MOTH.--Il y a trois si�cles environ que le monde �tait infect� de cette
+ballade; mais je crois qu'� pr�sent on ne la trouverait gu�re, ou, si on
+la trouvait, elle ne servirait gu�re ici ni pour les paroles, ni pour la
+musique.
+
+ARMADO.--Je veux composer quelque chose de neuf sur ce sujet, afin de
+justifier mon �cart par quelque autorit� imposante. Page, j'aime cette
+jeune paysanne que j'ai surprise dans le parc avec cette brute
+raisonnante de Costard: elle le m�rite bien.
+
+MOTH.--D'�tre fustig�e. (_A part_.)--Et pourtant elle m�rite un plus
+digne amant que mon ma�tre.
+
+ARMADO.--Chante, mon enfant, mon �me languit accabl�e par l'amour.
+
+MOTH.--Et cela est bien �trange, lorsque vous aimez une fille si
+l�g�re[12].
+
+[Note 12: Jeu de mots fr�quent sur _light_, lumi�re, et _light_, l�ger,
+agile.]
+
+ARMADO.--Chante donc.
+
+MOTH.--Attendez que la compagnie soit pass�e.
+
+(Entrent Dull, Costard et Jacquinette.)
+
+DULL.--Monsieur, les intentions du duc sont que vous veilliez sur la
+personne de Costard, et que vous ne lui laissiez prendre aucun plaisir
+pour prix de sa conduite; mais qu'il je�ne trois jours de la semaine.
+Quant � cette damoiselle, je dois la garder dans le parc; elle aidera la
+laiti�re. Adieu.
+
+ARMADO.--Ma rougeur me trahit.--Jeune fille?
+
+JACQUINETTE.--Homme?
+
+ARMADO.--J'irai te rendre visite � la loge.
+
+JACQUINETTE.--Cela se peut.
+
+ARMADO.--Je sais o� elle est situ�e.
+
+JACQUINETTE.--O Dieu, que vous �tes savant!
+
+ARMADO.--Je te conterai des choses merveilleuses.
+
+JACQUINETTE.--Avec cette face?
+
+ARMADO.--Je t'aime.
+
+JACQUINETTE.--Je vous l'ai ou� dire ainsi.
+
+ARMADO.--Et l�-dessus, adieu.
+
+JACQUINETTE.--Que les beaux jours vous suivent!
+
+DULL.--Allons, venez, Jacquinette.
+
+(Dull et Jacquinette sortent.)
+
+ARMADO.--Coquin, tu je�neras pour tes p�ch�s, avant que tu obtiennes ton
+pardon.
+
+COSTARD.--Allons, monsieur, quand je je�nerai, j'esp�re je�ner l'estomac
+plein.
+
+ARMADO.--Tu seras gri�vement puni.
+
+COSTARD.--Je vous ai plus d'obligations que ne vous en ont vos gens, car
+ils sont fort l�g�rement r�compens�s.
+
+ARMADO.--Emmenez ce coquin, enfermez-le.
+
+MOTH.--Allons, viens, esclave transgresseur, vite.
+
+COSTARD.--Ne me faites pas enfermer, monsieur, je je�nerai fort bien en
+libert�.
+
+MOTH.--Non, ce serait �tre li� et d�li�[13], l'ami, tu iras en prison.
+
+[Note 13: Jeu de mots sur _fast_, je�ne, et _fast_, attach�, li�.]
+
+COSTARD.--Eh bien! si jamais je revois les heureux jours de d�solation
+que j'ai vus, il y aura quelqu'un qui verra...
+
+MOTH.--Que verra-t-on?
+
+COSTARD.--Rien, monsieur Moth, que ce que l'on regardera. Il ne convient
+pas aux prisonniers de trop garder le silence dans leurs paroles; ainsi
+je ne dirai rien. Je remercie Dieu de ce que j'ai aussi peu de patience
+qu'un autre homme; ainsi, je peux rester tranquille.
+
+(Moth sort emmenant Costard.)
+
+ARMADO, _seul_.--J'aime jusqu'� la terre qui est basse, o� a march� sa
+chaussure, plus basse encore, conduite par son pied, qui est le plus bas
+des trois. Si j'aime, je serai parjure, ce qui est une grande preuve de
+fausset�. Et comment peut-il �tre sinc�re, l'amour qui est fond� sur une
+fausset�? L'amour est un esprit familier, l'amour est un d�mon: s'il y a
+un mauvais ange, c'est l'amour. Et cependant Samson fut tent� de m�me,
+et Samson avait une force extraordinaire; Salomon fut aussi s�duit de
+m�me, et Salomon avait une grande dose de sagesse. Le trait de Cupidon
+est trop dur pour la massue d'Hercule, et par cons�quent trop fort aussi
+pour l'�p�e d'un Espagnol. La premi�re et la seconde cause ne me
+serviront de rien[14]. Il ne fait pas de cas de l'escrime. Il ne
+s'embarrasse point du duel: sa honte est d'�tre appel� un enfant; mais
+sa gloire est de vaincre les hommes. Adieu, valeur! rouille-toi dans le
+repos, mon �p�e! taisez-vous, tambours! votre ma�tre est amoureux. Oui,
+il aime. Que quelque dieu des vers impromptus veuille m'assister, car je
+suis s�r que je deviendrai po�te � sonnets. Esprit, invente; plume,
+�cris; car je suis pr�t � faire des volumes in-folio.
+
+(Il sort.)
+
+[Note 14: Voyez la note de la com�die _Comme vous voudrez_, sur le
+r�glement des duels.]
+
+FIN DU PREMIER ACTE.
+
+
+
+
+                             ACTE DEUXI�ME
+
+
+SC�NE I
+
+Toujours en Navarre.--On voit un pavillon et des tentes � quelque
+distance.
+
+LA PRINCESSE DE FRANCE, ROSALINE, MARIE, CATHERINE, BOYET, SEIGNEURS et
+_suite_.
+
+
+BOYET.--Maintenant, madame, appelez � votre aide vos plus pr�cieuses
+facult�s. Consid�rez qui le roi, votre auguste p�re, envoie, vers qui il
+envoie, et quel est l'objet de son ambassade; vous, noble princesse, qui
+tenez un si haut rang dans l'estime du monde, vous venez conf�rer avec
+l'unique h�ritier de toutes les grandes qualit�s qu'un mortel puisse
+poss�der, avec l'incomparable roi de Navarre; et le sujet de votre
+n�gociation n'est rien moins que la riche Aquitaine, douaire digne d'une
+reine. Prodiguez donc aujourd'hui toutes vos gr�ces, de m�me que la
+nature vous a prodigu� tous ses dons; car elle a �t� avare envers tout
+le monde, pour n'�tre lib�rale qu'envers vous.
+
+LA PRINCESSE.--Cher seigneur Boyet, ma beaut�, quoique m�diocre, n'a pas
+besoin du fard de vos louanges: la beaut� s'estime par le jugement des
+yeux, et non sur l'humiliant �loge de la langue int�ress�e � la vanter.
+Je suis moins fi�re de vous entendre exalter mon m�rite que vous n'�tes
+ambitieux de passer pour �loquent, en faisant ainsi d�pense d'esprit
+pour mon pan�gyrique; mais venons � la t�che dont j'ai � vous
+charger.--Digne Boyet, vous n'ignorez pas que la renomm�e, qui publie
+tout, a r�pandu dans le monde le bruit que le prince de Navarre a fait
+voeu de ne laisser approcher de sa cour silencieuse aucune femme pendant
+trois ann�es qu'il d�voue � de p�nibles �tudes; il nous para�t donc que
+c'est un pr�liminaire convenable, avant de franchir les portes
+interdites de son domaine, de savoir ses intentions. Et c'est vous que
+nous chargeons seul de ce message, vous � qui votre m�rite inspire
+l'audace, vous qui �tes l'orateur le plus fait pour persuader. Dites-lui
+que la fille du roi de France, d�sirant une prompte exp�dition pour une
+affaire importante, sollicite avec instance une conf�rence particuli�re
+avec Son Altesse. H�tez-vous, annoncez-lui ma demande; nous attendons
+ici, comme d'humbles suppliants, sa volont� souveraine.
+
+BOYET.--Fier de cet emploi, je pars plein de bonne volont�.
+
+LA PRINCESSE.--Tout orgueil est plein de bonne volont�, et le v�tre est
+tel. (_Il sort_.) Quels sont les ministres d�vou�s, mes chers seigneurs,
+qui partagent le voeu de ce prince vertueux?
+
+UN SEIGNEUR.--Longueville en est un, madame.
+
+LA PRINCESSE.--Le connaissez-vous?
+
+MARIE.--Je l'ai connu, madame. J'ai vu ce Longueville en Normandie, � la
+f�te du mariage c�l�br� entre le comte de P�rigord et la belle h�riti�re
+de Jacques Faulconbridge. C'est un homme qui passe pour �tre dou� de
+sublimes qualit�s; instruit dans les arts et renomm� dans les armes,
+tout ce qu'il entreprend il l'ex�cute avec gr�ce. La seule ombre qui
+ternisse l'�clat de ses vertus, si l'�clat de la vertu peut souffrir
+quelque ombre qui la ternisse, c'est un esprit caustique joint � une
+volont� trop obstin�e; son esprit tranchant a le pouvoir de blesser, et
+son caract�re le porte � n'�pargner personne de ceux qui tombent sous sa
+main.
+
+LA PRINCESSE.--Il para�t que c'est quelque courtisan railleur, n'est-ce
+pas?
+
+MARIE.--C'est ce que r�p�tent ceux qui connaissent le mieux son humeur.
+
+LA PRINCESSE.--Ces esprits-l� ont la vie courte, ils se fl�trissent en
+grandissant. Quels sont les autres?
+
+CATHERINE.--Le jeune Dumaine, jeune homme accompli, ch�ri pour sa vertu
+de tous ceux qui aiment la vertu. Avec le pouvoir de faire le mal, il ne
+sait jamais en faire: il a assez d'esprit pour rendre aimable un
+cavalier mal fait et il est assez bien fait pour plaire sans esprit. Je
+l'ai vu une fois chez le duc d'Alen�on: et, d'apr�s tout le bien que
+j'ai remarqu� en lui, l'�loge que j'en fais est fort au-dessous de son
+m�rite.
+
+ROSALINE.--Un autre des seigneurs qui se consacrent avec le duc �
+l'�tude y �tait aussi avec lui, comme on me l'a assur�: on le nomme
+Biron. Je puis dire que je n'ai jamais eu une heure de conversation avec
+un homme plus jovial, sans qu'il ait jamais pass� les bornes d'une
+gaiet� d�cente. Son oeil sait faire na�tre � chaque instant l'occasion
+de ses saillies; car chaque objet que son oeil saisit, son esprit sait
+en tirer une plaisanterie ing�nieuse et gaie; et sa langue, interpr�te
+de sa pens�e, sait la rendre en termes si choisis et si gracieux, que
+les vieilles oreilles font l'�cole buissonni�re pour l'�couter, et que
+les oreilles plus jeunes sont dans l'enchantement, tant son �locution
+est agr�able et rapide.
+
+LA PRINCESSE.--Que Dieu b�nisse mes femmes! Sont-elles donc toutes
+amoureuses, que chacune d'elles prodigue � l'objet de son inclination de
+si grands �loges?
+
+MARIE.--Voici Boyet.
+
+(Boyet rentre.)
+
+LA PRINCESSE.--Eh bien! seigneur, quel accueil recevons-nous?
+
+BOYET.--Le roi de Navarre �tait d�j� inform� de votre illustre
+ambassade, et, avant que je parusse, lui et les courtisans qui partagent
+son voeu �taient d�j� tout pr�ts � vous accueillir, noble princesse;
+mais j'ai appris qu'il aime mieux vous loger dans les champs, comme un
+ennemi qui viendrait assi�ger sa cour, que de songer � se dispenser de
+son serment, pour vous introduire dans son palais solitaire. Voici le
+roi de Navarre.
+
+(Toutes les dames mettent leurs masques.)
+
+(Entrent le roi de Navarre, Longueville, Dumaine, Biron, Suite.)
+
+LE ROI.--Belle princesse, soyez la bienvenue � la cour de Navarre.
+
+LA PRINCESSE.--Belle, je vous renvoie ce compliment, bienvenue, je ne le
+suis point encore: cette vo�te est trop �lev�e pour �tre celle de votre
+palais, et ces champs sont une demeure trop indigne de moi, pour pouvoir
+me dire la bienvenue.
+
+LE ROI.--Vous serez, madame, bien accueillie � ma cour.
+
+LA PRINCESSE.--Bienvenue � votre cour; alors je serai la bienvenue;
+daignez donc m'y conduire.
+
+LE ROI.--Daignez m'entendre, ch�re princesse; je me suis li� par un
+serment.
+
+LA PRINCESSE.--Si le ciel n'assiste pas mon prince, il va se parjurer?
+
+LE ROI.--Non, belle princesse, il ne le ferait pas pour le monde entier,
+du moins de sa libre volont�.
+
+LA PRINCESSE.--Eh bien! sa volont� le violera; sa volont� seule, et
+nulle autre force.
+
+LE ROI.--Vous ignorez, princesse, quel en est l'objet.
+
+LA PRINCESSE.--Vous seriez plus sage de l'ignorer comme moi, mon prince,
+au lieu qu'aujourd'hui toute votre science n'est qu'ignorance.
+J'apprends que Votre Altesse a jur� de se retirer dans son palais. C'est
+un crime de garder ce serment, mon prince, et c'en est un aussi de le
+violer. Mais daignez me pardonner. Je d�bute par trop de hardiesse: il
+me sied mal de vouloir donner des le�ons � mon ma�tre. Faites-moi la
+gr�ce de lire l'objet de mon ambassade, et de donner sur-le-champ une
+r�ponse d�cisive � ma demande.
+
+LE ROI.--Madame!... (_Elle lui remet un papier_.)--Sur-le-champ, s'il
+m'est possible de le faire sur-le-champ.
+
+LA PRINCESSE.--Vous le voudrez d'autant plus que je pourrai m'�loigner
+plus t�t; car si vous prolongez mon s�jour ici, vous deviendrez parjure.
+
+(Le roi lit les d�p�ches remises par la princesse; pendant cette
+lecture, Biron lie conversation avec Rosaline.)
+
+BIRON, _� Rosaline_.--N'ai-je pas dans� un jour avec vous dans le
+Brabant?
+
+ROSALINE.--N'ai-je pas dans� un jour avec vous dans le Brabant?
+
+BIRON.--Je le sais tr�s-bien.
+
+ROSALINE.--Vous voyez donc combien il �tait inutile de me faire cette
+question?
+
+BIRON.--Vous �tes trop vive.
+
+ROSALINE.--C'est votre faute de me provoquer par de semblables
+questions.
+
+BIRON.--Votre esprit est trop ardent, il va trop vite, il se fatiguera.
+
+ROSALINE.--Il aura le temps de renverser son cavalier dans le foss�.
+
+BIRON.--Quelle heure est-il?
+
+ROSALINE.--Il est l'heure o� les fous font des questions.
+
+BIRON.--Allons, bonne fortune � votre masque.
+
+ROSALINE.--Oui, au visage qu'il couvre.
+
+BIRON.--Et qu'il vous envoie beaucoup d'amants.
+
+ROSALINE.--Soit; pourvu que vous ne soyez pas du nombre.
+
+BIRON.--Non. Eh bien! adieu.
+
+LE ROI.--Madame, votre p�re offre ici le payement de cent mille �cus, et
+ce n'est que la moiti� de la somme que mon p�re a d�bours�e dans ses
+guerres. Mais supposez que lui ou moi nous ayons re�u cette somme
+enti�re, que ni l'un ni l'autre nous n'avons re�ue, il restera encore d�
+cent mille autres �cus, et c'est en nantissement de cette somme qu'une
+partie de l'Aquitaine nous est engag�e, quoique sa valeur soit
+au-dessous de cette somme. Si donc, le roi votre p�re veut seulement
+nous restituer la moiti� de ce qui reste � payer, nous c�derons nos
+droits sur l'Aquitaine, et nous entretiendrons une amiti� sinc�re avec
+Sa Majest�; mais il para�t que ce n'est gu�re l� ce qu'il se propose de
+faire, car il demande ici qu'on lui rembourse cent mille �cus; il ne
+parle point du payement des cent mille �cus qui restent dus, pour faire
+revivre son titre sur l'Aquitaine; et nous aurions bien mieux aim� la
+rendre en recevant l'argent qu'a pr�t� notre p�re, que de la garder
+d�membr�e comme elle l'est. Ch�re princesse, si sa demande n'�tait pas
+aussi �loign�e de toute proposition raisonnable, malgr� quelques raisons
+secr�tes, Votre Altesse aurait r�ussi � me faire c�der et s'en
+retournerait satisfaite en France.
+
+LA PRINCESSE.--Vous faites une trop grande injure au roi mon p�re, et
+vous faites vous-m�me tort � la r�putation de votre nom, en dissimulant
+ainsi le remboursement d'une somme qui a �t� si fid�lement acquitt�e.
+
+LE ROI.--Je vous proteste que je n'ai jamais rien su de ce
+remboursement; et si vous pouvez le prouver, je consens � vous rendre la
+somme ou � vous c�der l'Aquitaine.
+
+LA PRINCESSE.--Je vous somme de tenir votre parole.--Boyet, vous pouvez
+produire les quittances donn�es par les officiers particuliers de
+Charles, son p�re.
+
+LE ROI.--Voyons, donnez-moi ces preuves.
+
+BOYET.--Sous le bon plaisir de Votre Altesse, le paquet o� se trouvent
+ces quittances et autres papiers relatifs � cette affaire n'est pas
+encore arriv�. Demain on les produira sous vos yeux.
+
+LE ROI.--Elles suffiront pour me convaincre, et � leur vue je souscris
+sans difficult� � tout ce qui sera juste et raisonnable. En attendant,
+recevez de moi tout l'accueil que l'honneur peut, sans blesser
+l'honneur, offrir � votre m�rite reconnu. Vous ne pouvez, belle
+princesse, �tre admise dans mon palais, mais ici, dans cette enceinte,
+vous serez re�ue et trait�e de mani�re � vous faire juger que si
+l'entr�e de mon palais vous est interdite, vous occupez une place dans
+mon coeur. Que vos bont�s m'excusent; je prends cong� de vous; demain
+nous reviendrons vous faire notre visite.
+
+LA PRINCESSE.--Que l'aimable sant� et les heureux d�sirs accompagnent
+Votre Altesse!
+
+LE ROI.--Je vous souhaite l'accomplissement des v�tres, partout o� vous
+serez.
+
+(Le roi sort avec sa suite.)
+
+BIRON, _� Rosaline_.--Madame, je ferai vos compliments � mon coeur.
+
+ROSALINE.--Je vous en prie, dites-lui bien des choses de ma part: je
+serais bien aise de le voir.
+
+BIRON.--Je voudrais que vous l'entendissiez g�mir.
+
+ROSALINE.--Le fou est-il malade?
+
+BIRON.--Malade au coeur.
+
+ROSALINE.--Eh bien! faites-le saigner.
+
+BIRON.--Cela lui ferait-il du bien?
+
+ROSALINE.--Ma m�decine dit oui.
+
+BIRON.--Voulez-vous le saigner d'un coup d'oeil?
+
+ROSALINE.--_Non point_[15], mais avec mon couteau.
+
+[Note 15: _No point_, pas de pointe; et aussi _non point_, expression
+fran�aise.]
+
+BIRON.--Dieu vous conserve la vie!
+
+ROSALINE.--Et qu'il abr�ge la v�tre!
+
+BIRON.--Je n'ai pas de remerciements � vous faire.
+
+DUMAINE, _� Boyet, montrant Rosaline_.--Monsieur, un mot, je vous prie:
+quelle est cette dame?
+
+BOYET.--L'h�riti�re d'Alen�on: son nom est Rosaline.
+
+DUMAINE.--Une fort jolie dame! Adieu, monsieur.
+
+(Il sort.)
+
+LONGUEVILLE, _� Boyet_.--Je vous conjure, un mot: qu'est-ce que c'est
+que cette dame v�tue en blanc?
+
+BOYET.--Une femme parfaite, et vous l'avez vue � la lumi�re.
+
+LONGUEVILLE.--Peut-�tre l�g�re[16] � la lumi�re; c'est son nom que je
+demande.
+
+[Note 16: Encore une �quivoque sur _light_.]
+
+BOYET.--Elle n'en a qu'un pour elle; ce serait honteux de le demander.
+
+LONGUEVILLE.--Je vous prie, de qui est-elle fille?
+
+BOYET.--De sa m�re, ai-je entendu dire.
+
+LONGUEVILLE.--Dieu b�nisse votre barbe!
+
+BOYET.--Monsieur, ne vous f�chez pas: elle est l'h�riti�re de
+Faulconbridge.
+
+LONGUEVILLE.--C'est une tr�s-aimable dame.
+
+BOYET.--Oui, monsieur, cela pourrait �tre.
+
+(Longueville sort.)
+
+BIRON, _� Boyet_.--Quel est le nom de cette dame en chaperon?
+
+BOYET.--Catherine, par hasard.
+
+BIRON.--Est-elle mari�e, ou non?
+
+BOYET.--A sa volont�, monsieur, ou � peu pr�s.
+
+BIRON.--Je vous donne le bonjour, monsieur, et adieu.
+
+BOYET.--Adieu pour moi, et bonjour pour vous.
+
+(Biron sort, et les dames se d�masquent.)
+
+MARIE.--Ce dernier, c'est Biron, ce seigneur jovial et fol�tre; chacun
+de ses mots est une saillie.
+
+BOYET.--Et chacune de ces saillies rien qu'un mot.
+
+LA PRINCESSE.--Vous avez bien fait de le prendre au mot.
+
+BOYET.--J'�tais aussi dispos� � l'accrocher que lui � m'aborder[17].
+
+[Note 17: _To grapple_ et _to board_, termes de marine.]
+
+MARIE.--Peste! deux vaillants moutons!
+
+BOYET.--Et pourquoi pas deux vaisseaux? Ma douce brebis, nous ne serons
+moutons que si vous nous laissez brouter sur vos l�vres.
+
+MARIE.--Vous mouton, et moi p�turage; est-ce l� toute votre pointe?
+
+BOYET.--Oui, si vous m'accordez le p�turage.
+
+(Il veut l'embrasser.)
+
+MARIE.--Pas du tout, aimable b�te; mes l�vres ne sont pas propri�t�
+publique, bien qu'elles soient s�par�es[18].
+
+[Note 18: Jeu de mots sur _several_, s�par�, _distincteer_, terre
+commune.]
+
+BOYET.--A qui appartiennent-elles?
+
+MARIE.--A mon destin et � moi.
+
+LA PRINCESSE.--Les beaux esprits se querellent, les esprits bien faits
+s'entendent: la guerre civile des beaux esprits serait bien plus �
+propos d�clar�e au roi de Navarre et � ses studieux courtisans; ici elle
+est un abus.
+
+BOYET, _� la princesse_.--Si mon observation, qui rarement est en d�faut
+et qui suit l'�loquence muette du coeur, exprim�e par les yeux, ne me
+trompe pas, le roi de Navarre est atteint.
+
+LA PRINCESSE.--De quoi?
+
+BOYET.--De ce que les amants appellent inclination.
+
+LA PRINCESSE.--Votre raison?
+
+BOYET.--La voici: toute son �me s'�tait retir�e dans ses yeux, o�
+per�aient ses secrets d�sirs. Son coeur, tel qu'une agate, empreint de
+votre image, et fier de cette empreinte, exprimait son orgueil dans ses
+yeux. Sa langue, impatiente de parler sans voir, tr�buchait en voulant
+courir � la h�te dans ses yeux. Tous ses sens se sont rendus dans
+celui-l�, pour ne plus faire que regarder la plus belle des belles. Il
+m'a sembl� que tous ses sens �taient contenus dans son oeil, comme des
+joyaux qu'on offre � un prince dans un cristal pour les lui faire
+acheter. En vous pr�sentant leur m�rite dans le globe o� ils �taient
+ench�ss�s, ils vous faisaient signe de les acheter sur votre passage.
+L'admiration �tait si ardente dans tous les traits de son visage, que
+tous les yeux voyaient ses yeux enchant�s de l'objet de ses regards...
+Je vous donne l'Aquitaine et tout ce qui appartient � Navarre, si vous
+lui accordez en ma consid�ration seulement un tendre baiser.
+
+LA PRINCESSE.--Allons, regagnons notre tente: Boyet est en train...
+
+BOYET.--Oui, d'exprimer en paroles tout ce qu'ont r�v�l� ses yeux. Je
+n'ai fait que leur pr�ter une voix qui, je le sais, ne mentira pas.
+
+ROSALINE.--Vous �tes un ancien trafiquant en amour, et vous en parlez
+savamment.
+
+MARIE.--Il est le grand-p�re de Cupidon, et il en sait des nouvelles.
+
+ROSALINE.--V�nus ressemblait donc � sa m�re, car son p�re est fort laid.
+
+BOYET.--Entendez-vous, aimables folles?
+
+MARIE.--Non.
+
+BOYET.--Eh bien! voyez-vous?
+
+ROSALINE.--Oui, le chemin par o� il nous faut nous en aller.
+
+BOYET.--Vous en savez trop pour moi.
+
+(Ils sortent.)
+
+FIN DU SECOND ACTE.
+
+
+
+
+                          ACTE TROISI�ME
+
+SC�NE I
+
+Une autre partie du parc.
+
+_Entrent_ ARMADO et MOTH.
+
+
+ARMADO.--Chante, mon enfant, ravis mon sens de l'ou�e.
+
+MOTH.--Concolinet[19].
+
+[Note 19: Selon toute apparence, il devrait venir l� une chanson.]
+
+ARMADO.--Oh! l'air charmant! Va, tendre jeunesse, prends cette clef,
+�largis le berger de sa prison, et am�ne-le promptement ici: j'ai besoin
+de l'employer � porter une lettre � mon amante.
+
+MOTH.--Mon ma�tre, voulez-vous gagner le coeur de votre ma�tresse par un
+rigodon fran�ais?
+
+ARMADO.--Comment l'entends-tu? quereller[20] � la fran�aise?
+
+[Note 20: _Brawl_, querelles, et danse. _Canary_, autre danse.]
+
+MOTH.--Non, ma�tre accompli, mais fredonnez un air de gigue sur le bout
+de votre langue; accompagnez-le de vos pas en dansant une canarie;
+animez-le en roulant vos prunelles, soupirez une note, chantez-en une
+autre, quelquefois une roulade du gosier, comme si vous vouliez avaler
+l'amour en le chantant, quelquefois du nez, comme si vous preniez une
+prise d'amour en flairant l'amour; avec votre chapeau en forme d'auvent
+sur la boutique de vos yeux; vos bras en croix sur votre veste l�g�re,
+comme un lapin � la broche; ou vos mains dans votre poche, comme un
+personnage de l'ancienne peinture, en prenant garde de rester trop
+longtemps sur un m�me ton, d'abord un fragment et puis un autre.--Voil�
+les qualit�s, voil� les gentillesses qui s�duisent les jolies filles,
+lesquelles seraient encore s�duites sans tout cela, et qui rendent gens
+de consid�ration (voyez-vous, gens de consid�ration) ceux qui s'y sont
+adonn�s.
+
+ARMADO.--Comment as-tu acquis cette exp�rience?
+
+MOTH.--Par mon sou d'observation[21].
+
+ARMADO.--Mais h�las! mais h�las!
+
+MOTH.--Le pauvre cheval de bois[22] est en oubli.
+
+[Note 21: Allusion � une ancienne pi�ce qui avait pour titre: _Un denier
+d'esprit_.]
+
+[Note 22: Dans la c�l�bration des f�tes de mai, on habillait des jeunes
+gar�ons en filles ou en moines, et ils montaient sur des chevaux de
+bois, avec des sonnettes et des drapeaux de toutes couleurs. Apr�s la
+r�formation, on abolit ces f�tes, et ceux qui les regrettaient
+compos�rent une �pitaphe en l'honneur du cheval de bois.]
+
+ARMADO.--Appelles-tu ma ma�tresse, le cheval de bois?
+
+MOTH.--Non, mon ma�tre; le cheval de bois n'est qu'un poulain: votre
+belle est peut-�tre une haquen�e; mais avez-vous oubli� votre ma�tresse?
+
+ARMADO.--Oui, je l'avais presque oubli�e.
+
+MOTH.--N�gligent �colier! apprenez-la par coeur.
+
+ARMADO.--Par coeur et dans le coeur, mon page.
+
+MOTH.--Et hors du coeur, mon ma�tre, je prouverai les trois choses.
+
+ARMADO.--Que prouveras-tu?
+
+MOTH.--Je prouverai[23] que je suis un homme, si je vis.--Et cela _par_,
+_dans_ et _hors_, dans l'instant. Vous l'aimez _par_ coeur, parce que
+votre coeur ne peut l'approcher. Vous l'aimez _dans_ le coeur, parce que
+votre coeur est en amour pour elle. Et vous l'aimez _hors_ de coeur,
+puisque le coeur vous manque de ne pouvoir la poss�der.
+
+[Note 23: _To prove_, prouver et devenir.]
+
+ARMADO.--En effet, je suis dans ces trois cas.
+
+MOTH.--Et trois fois autant, et rien du tout.
+
+ARMADO.--Am�ne ici le berger, qu'il me porte une lettre.
+
+MOTH.--Voil� un message bien assorti: un cheval pour �tre ambassadeur
+d'un �ne.
+
+ARMADO.--Ha, ha! que dis-tu?
+
+MOTH--Allons, monsieur, il vaudrait mieux envoyer l'�ne sur le cheval,
+car il a l'allure fort lente.--Mais j'y vais.
+
+ARMADO.--Le chemin est tr�s-court; allons, pars.
+
+MOTH.--Aussi vite que le plomb, monsieur.
+
+ARMADO.--Ton id�e, ing�nieux jouvenceau? Le plomb n'est-il pas un m�tal
+pesant et lent?
+
+MOTH.--_Minim�_, mon honorable ma�tre, ou plut�t, non, mon ma�tre.
+
+ARMADO.--Je dis, moi, que le plomb est lent.
+
+MOTH.--Vous y allez trop vite, monsieur, en disant cela; est-il lent, le
+plomb qui est lanc� par le canon?
+
+ARMADO.--Belle vapeur de rh�torique! Il me prend pour un canon; et le
+boulet, ce sera lui.--Allons, je t'ai tir� sur ce berger.
+
+MOTH.--Allons, faites donc feu, et je vole.
+
+(Moth sort.)
+
+ARMADO.--Jouvenceau des plus subtils, plein de volubilit� et de
+gr�ce!--Par ta bont�, doux ciel, pardonne, il faut que je soupire devant
+toi; dure et farouche m�lancolie, la valeur te c�de le terrain.--Voici
+mon h�raut qui revient.
+
+(Moth rentre avec Costard.)
+
+MOTH.--Un prodige, mon ma�tre!--Voici une grosse t�te[24] avec le tibia
+bris�.
+
+ARMADO.--Quelque �nigme, quelque noeud. Allons, ton envoi[25]; commence.
+
+[Note 24: _Costard_ veut dire grosse t�te.]
+
+[Note 25: Mot emprunt� du fran�ais; on sait ce qu'est _l'envoi_ d'une
+Pi�ce de po�sie.]
+
+COSTARD.--Point d'�nigme, point de noeud, point d'envoi. Point de
+drogues dans le sac, monsieur.--Ah! monsieur, du plantain, du simple
+plantain. Point d'envoi, ni de drogues, monsieur; mais du plantain.
+
+ARMADO.--Par la vertu, tu forces le rire, et ton impertinente id�e
+double ma bile.--Le soul�vement de flancs m'excite � des �clats de rire
+ridicules: � mes �toiles, pardonnez-moi. Le fou prend-il le _salve_ pour
+l'envoi, et l'envoi pour le _salve_[26]?
+
+[Note 26: _Salve_, salut, onguent.]
+
+MOTH.--Le sage les prend-il pour deux choses diff�rentes? L'envoi
+n'est-il pas un _salve_? un salut.
+
+ARMADO.--Non, page, c'est un �pilogue ou discours, pour �claircir
+quelque chose qui pr�c�de et qui a �t� dit auparavant. Je veux t'en
+donner un exemple:
+
+    Le renard, le singe et l'humble abeille
+    Formaient un nombre impair, n'�tant que trois.
+
+Voil� la moralit�, venons � l'envoi.
+
+MOTH.--J'ajouterai l'envoi; r�p�tez la moralit�.
+
+(Armado r�p�te ce qu'il vient de dire.)
+
+                       MOTH.
+
+    Jusqu'� ce que l'oison sort�t de la porte,
+    Et f�t cesser l'impair en faisant quatre.
+
+A pr�sent, je vais commencer votre moralit�; et suivez, vous, avec mon
+envoi.
+
+    Le singe, le renard et l'humble abeille
+    Formaient un nombre impair n'�tant que trois.
+
+                  ARMADO.
+
+    Jusqu'� ce que l'oison sort�t de la porte,
+    Et f�t cesser l'impair en faisant quatre.
+
+MOTH.--Fort bon envoi, qui termine par un oison: en voulez-vous
+davantage?
+
+COSTARD.--Le page lui a vendu un oison qui est plat.--Bien vendu au
+march�; c'est �tre aussi fin qu'un trompeur. Voyons le gros envoi; oui,
+c'est une oie grasse.
+
+ARMADO.--Viens ��; allons, comment as-tu commenc� ce raisonnement?
+
+MOTH.--En disant qu'une grosse t�te avait le tibia bris�, et alors vous
+avez demand� l'envoi.
+
+COSTARD.--Cela est vrai, cela est vrai, et moi, du plantain. Voil� la
+suite de votre raisonnement.
+
+Donc le page est le gras envoi, l'oison que vous avez achet�, et il a
+compl�t� le march�[27].
+
+[Note 27: �Allusion au proverbe: trois femmes et une oie forment un
+march�. _Tre donne ed un' occa fan un mercato_.� (STEEVENS.)]
+
+ARMADO.--Mais dis-moi comment il y avait un Costard avec le tibia bris�?
+
+MOTH.--Je vais vous l'expliquer d'une mani�re sensible.
+
+COSTARD.--Vous n'avez aucune sensibilit� de cela, Moth, je vais dire
+l'envoi. Moi, Costard, en courant dehors, moi qui �tais en s�ret�
+dedans, je suis tomb� sur le seuil et me suis bris� le tibia.
+
+ARMADO.--Nous ne traiterons plus de cette mati�re.
+
+COSTARD.--Non, jusqu'� ce qu'il y ait plus de mati�re dans mon tibia.
+
+ARMADO.--Ami Costard, je veux t'affranchir.
+
+COSTARD.--Oh! mariez-moi � une Fran�aise; je sens quelque envoi, quelque
+oie en ceci.
+
+ARMADO.--�coute, Costard, par ma ch�re �me, je suis dans l'intention de
+te mettre en libert�, en affranchissant ta personne; tu �tais
+claquemur�, garrott�, captiv�, resserr�.
+
+COSTARD.--Cela est vrai, cela est vrai; et maintenant vous voulez �tre
+ma purgation et me rel�cher[28].
+
+[Note 28: _Bound_ et _loot_.]
+
+ARMADO.--Je te donne ta libert�; je t'�largis de prison, et pour ce
+bienfait je ne t'impose que cette condition: porte cette missive � la
+jeune paysanne Jacquinette. Voil� la r�mun�ration. (_Il lui donne
+quelque argent_.) Car le plus beau fleuron de mon rang honorable est de
+r�compenser ceux qui me servent.--Moth, suis-moi.
+
+MOTH.--En fa�on de suite, moi tout seul.--Seigneur Costard, adieu.
+
+(Il sort.)
+
+COSTARD.--Ma douce livre de chair humaine! ma ch�re petite.--Maintenant
+je veux regarder � sa r�mun�ration. R�mun�ration! oh! c'est le mot latin
+qui signifie trois liards.--Trois liards.--La r�mun�ration. Quel est le
+prix de ce ruban de fil? un sol.--Non, je vous donnerai la r�mun�ration.
+Eh bien! elle l'emporte.--La r�mun�ration! comment, c'est un plus beau
+nom qu'une couronne de France[29]! je ne veux jamais ni vendre, ni
+acheter sans ce mot.
+
+[Note 29: _Crown_, �cu, couronne, et _corona Veneris_.]
+
+(Entre Biron.)
+
+BIRON.--O mon cher ami Costard, que je suis ravi de te trouver ici!
+
+COSTARD.--Je vous prie, monsieur, dites-moi combien de rubans de couleur
+de chair un homme peut-il acheter pour une r�mun�ration?
+
+BIRON.--Qu'est-ce que c'est qu'une r�mun�ration?
+
+COSTARD.--H� mais, monsieur, c'est un demi-sol et un liard.
+
+BIRON.--Oh bien! c'est trois liards de soie.
+
+COSTARD.--Je remercie bien Votre Seigneurie. Dieu soit avec vous.
+
+BIRON.--Oh! reste ici, maraud, j'ai besoin de t'employer.--Si tu veux
+gagner mes bonnes gr�ces, mon cher Costard, fais, pour m'obliger, une
+chose que je te vais recommander.
+
+COSTARD.--Quand voulez-vous qu'elle soit faite, monsieur?
+
+BIRON.--Oh! cette apr�s-midi.
+
+COSTARD.--Allons, monsieur, je la ferai; adieu.
+
+BIRON.--H� mais, tu ne sais pas encore ce que c'est.
+
+COSTARD.--Je le saurai bien, monsieur, quand je l'aurai faite.
+
+BIRON.--Coquin, il faut que tu saches auparavant ce que c'est.
+
+COSTARD.--Je viendrai trouver Votre Seigneurie demain au matin.
+
+BIRON.--Il faut que cela se fasse cette apr�s-midi. �coute, maraud, ce
+n'est pas autre chose que ceci.--La princesse vient chasser ici dans le
+parc, et elle a une aimable dame � sa suite. Quand les langues
+adoucissent leur voix, elles prononcent son nom, et rappellent Rosaline;
+demande-la, et songe � remettre dans sa belle main ce secret
+cachet�.--Voil� ton salaire, va.
+
+(Il lui donne de l'argent.)
+
+COSTARD.--Salaire.--O doux salaire! il vaut mieux que la r�mun�ration!
+Onze sols et un liard valent bien mieux. O le tr�s-doux salaire!--Je le
+ferai, monsieur, ponctuellement.--Salaire! r�mun�ration!
+
+(Il sort.)
+
+BIRON.--Oh! je suis vraiment amoureux! moi, qui ai �t� le fl�au de
+l'amour, le pr�v�t qui ch�tiait un soupir amoureux; un censeur, un
+constable de gardes nocturnes, un p�dant imp�rieux pour cet enfant, le
+souverain des mortels, cet enfant, voil�, pleureur, aveugle et mutin; ce
+g�ant-nain, jeune et vieux! don Cupidon, r�gent des rimes d'amour,
+seigneur des bras entrelac�s, le monarque l�gitime des soupirs et des
+g�missements, le suzerain des paresseux et des m�contents, prince
+redoutable des jupes, roi des hauts-de-chausses, seul empereur et grand
+g�n�ral des appariteurs[30].--O mon petit coeur! et moi je suis destin�
+� �tre caporal dans son arm�e et � porter sa livr�e et ses couleurs,
+comme le cerceau d'un escamoteur. Quoi! moi, aimer! moi, prier! moi,
+chercher une �pouse! une femme qui ressemble � une montre d'Allemagne,
+o� il y a toujours � refaire, toujours d�rang�e, et qui ne va jamais
+bien[31], � moins qu'on ne veille � la faire toujours aller bien. Et
+pourquoi? pour devenir parjure, ce qui est le pis de tout, et pour �tre
+celui des trois qui aime la pire de toutes; une blanche et folle
+cr�ature, avec deux boules de poix attach�es � sa face en fa�on d'yeux.
+Oui, et par le ciel, une femme qui saura tout faire, quand Argus m�me
+serait son eunuque et son gardien, moi, soupirer pour elle! moi, prier
+pour l'obtenir! veiller pour elle!--Allons, c'est un fl�au dont Cupidon
+veut m'affliger, pour me punir d'avoir montr� trop peu de respect pour
+son terrible et tout-puissant petit pouvoir. Allons, j'aimerai,
+j'�crirai, je soupirerai, je prierai, je solliciterai et je g�mirai; il
+faut bien que les uns aiment madame et les autres Jeanneton.
+
+[Note 30: Appariteur, nom de l'officier de l'�v�que qui porte les
+assignations.]
+
+[Note 31: _Watch_, guet et montre.]
+
+FIN DU TROISI�ME ACTE.
+
+
+
+
+                           ACTE QUATRI�ME
+
+
+SC�NE I
+
+Une autre partie du parc.
+
+LA PRINCESSE, ROSALINE, MARIE, CATHERINE, SEIGNEURS, _suite_, et UN
+GARDE-FOR�T.
+
+
+LA PRINCESSE.--�tait-ce le roi qui piquait si vivement son cheval et lui
+faisait gravir cette colline escarp�e?
+
+BOYET.--Je ne sais pas bien; mais je ne crois pas que ce f�t lui.
+
+LA PRINCESSE.--Quel qu'il f�t, il annon�ait une �me qui aspire � monter.
+Allons, nobles seigneurs, nous aurons aujourd'hui notre cong�, et samedi
+nous repartirons pour la France. Garde, mon ami, o� est le bois, afin
+que nous puissions nous y poster et y jouer le r�le de meurtriers?
+
+LE GARDE.--Ici pr�s, sur le bord de ce taillis qui est l�-bas: c'est le
+poste o� vous pouvez faire la plus belle chasse.
+
+LA PRINCESSE.--Je rends gr�ces � ma beaut�: je suis une belle qui dois
+tirer, et voil� pourquoi tu dis la plus belle chasse?
+
+LE GARDE.--Pardonnez-moi, madame: ce n'est pas l� ce que j'entendais.
+
+LA PRINCESSE.--Comment? comment? me louer d'abord et ensuite se
+r�tracter! O courte jouissance de mon orgueil! Je ne suis donc pas
+belle? h�las! je suis bien malheureuse!
+
+LE GARDE.--Oui, madame, vous �tes belle.
+
+LA PRINCESSE.--Non, ne te charge plus de faire mon portrait. Un visage
+sans beaut� ne peut jamais �tre embelli par le pinceau de la louange.
+Allons, mon fid�le miroir[32], tiens, voil� pour avoir dit la v�rit�.
+(_Elle lui donne de l'argent_.) De bel argent pour de laides paroles,
+c'est payer g�n�reusement.
+
+[Note 32: La princesse s'adresse au garde; mais Johnson veut voir ici
+une allusion � la coutume des dames de porter des miroirs � leurs
+ceintures.]
+
+LE GARDE.--Tout ce que vous poss�dez est beau.
+
+LA PRINCESSE.--Voyez, voyez, ma beaut� se sauvera par le m�rite de mes
+dons. O h�r�sie dans le jugement du beau, bien digne de ces temps! Une
+main qui donne, f�t-elle laide, est s�re d'�tre lou�e. Mais allons,
+donnez-moi l'arc.--Maintenant la bont� va tuer; et bien tirer est un
+mal.--Ainsi, je sauverai la gloire de mon habilet� � tirer; car, si je
+ne blesse pas, ce sera la piti� qui n'aura pas voulu me laisser faire;
+et si je blesse, c'est que j'aurai voulu montrer mon habilet�, qui aura
+consenti � tuer une fois, plut�t pour s'attirer des �loges que par
+l'envie de tuer; et, sans contredit, c'est ce qui arrive quelquefois. La
+gloire se rend coupable de crimes d�testables, lorsque, pour obtenir la
+renomm�e, pour gagner la louange, biens ext�rieurs, nous dirigeons vers
+ce but tous les mouvements du coeur, comme je fais aujourd'hui, moi qui,
+dans la seule vue d'�tre lou�e, cherche � r�pandre le sang d'un pauvre
+daim, � qui mon coeur ne veut aucun mal.
+
+BOYET.--N'est-ce pas uniquement par amour de la gloire, que les maudites
+femmes aspirent � la souverainet� exclusive, lorsqu'elles bataillent
+pour �tre les ma�tresses de leurs ma�tres?
+
+LA PRINCESSE.--Oui, c'est uniquement par amour de la gloire; et nous
+devons le tribut de nos louanges � toute dame qui subjugue son ma�tre.
+(_Entre Costard_.) Voil� un membre de la r�publique[33].
+
+[Note 33: _Commonwealth_.]
+
+COSTARD.--Bien le bonsoir � tous. Je vous prie, laquelle est la
+princesse qui est la t�te de toute la troupe?
+
+LA PRINCESSE.--Tu la reconna�tras, ami, par les autres qui n'ont point
+de t�te.
+
+COSTARD.--Quelle est ici la plus grande, la plus haute dame?
+
+LA PRINCESSE.--La plus grosse, et la plus grande?
+
+COSTARD.--La plus grosse et la plus grande! Oui! cela m�me: la v�rit�
+est la v�rit�. Si votre taille, madame �tait aussi mince que mon esprit,
+une des ceintures de ces demoiselles serait bonne pour votre ceinture.
+N'�tes-vous pas la principale femme? Vous �tes la plus grosse d'ici.
+
+LA PRINCESSE.--Que voulez-vous, l'ami? que voulez-vous?
+
+COSTARD.--J'ai une lettre de la part de M. Biron pour une dame Rosaline.
+
+LA PRINCESSE.--Oh! donne ta lettre, donne ta lettre: c'est un de mes
+bons amis. Tiens-toi � l'�cart, mon cher porteur.--(_A Boyet_.) Boyet,
+vous pouvez ouvrir; brisez-moi ce chapon[34].
+
+BOYET.--Je suis d�vou� � vos ordres.--Cette lettre est mal adress�e:
+elle n'est pour aucune des dames qui sont ici. Elle est �crite �
+Jacquinette.
+
+LA PRINCESSE.--Nous la lirons, je le jure.--Brisez le cou de la
+cire[35], et que chacun pr�te l'oreille.
+
+BOYET, _lit_.--�Par le ciel, que vous soyez belle, c'est une chose
+infaillible; c'est une v�rit� que vous �tes belle; et la v�rit� m�me que
+vous �tes aimable. Toi, plus belle que la beaut�, plus gracieuse que la
+gr�ce, plus vraie que la v�rit� m�me, prends piti� de ton h�ro�que
+vassal. Le magnanime et tr�s-illustre roi Coph�tua fixa ses yeux sur la
+pernicieuse et indubitable mendiante[36] Z�n�lophon; et ce fut lui qui
+put dire � juste titre, _veni, vidi, vici_; ce qui, pour le r�duire en
+langage vulgaire (� vil et obscur vulgaire!) signifie: il vint, vit et
+vainquit; il vint, un; il vit, deux; il vainquit, trois. Qui vint? Le
+roi. Pourquoi vint-il? pour voir. Pourquoi vit-il? pour vaincre. Vers
+qui vint-il? vers la mendiante. Que vit-il? la mendiante. Qui
+vainquit-il? la mendiante. La conclusion est la victoire. Du c�t� de
+qui? du c�t� du roi. La captive est enrichie. Du c�t� de qui? du c�t� de
+la mendiante. La catastrophe est une noce. Du c�t� de qui? du roi. Non;
+du c�t� de tous les deux en un, ou d'un en deux. Je suis le roi; car
+ainsi se comporte la comparaison. Toi, tu es la mendiante, car ton
+humble situation l'atteste ainsi. Te commanderai-je l'amour? je le
+pourrais. Forcerai-je ton amour? je le pourrais. Emploierai-je la pri�re
+pour obtenir ton amour? c'est ce que je veux faire. Qu'�changeras-tu
+contre des haillons? des robes. Contre des brimborions[37]? des titres.
+Contre toi? moi. Ainsi, en attendant ta r�ponse, je profane mes l�vres
+sur tes pieds, mes yeux sur ton portrait, et mon coeur sur toutes les
+parties de toi-m�me. Tout � toi, dans le plus tendre empressement de te
+servir.
+
+[Note 34: Nous disons un poulet: les Italiens une _pollicetta amorosa_.]
+
+[Note 35: Jeu de mots sur le poulet.]
+
+[Note 36: Le vrai nom �tait P�n�lophon.]
+
+[Note 37: _Tittles_ et _titles_.]
+
+    Don Adriano d'Armado � Jacquinette.�
+
+C'est ainsi que tu entends le lion de N�m�e rugir contre toi, pauvre
+agneau, destin� � �tre sa proie. Tombe avec soumission aux pieds du
+monarque, et, au retour du carnage, il pourra �tre d'humeur de se jouer
+avec toi; mais si tu r�sistes, pauvre infortun�, que deviens-tu alors?
+La proie de sa rage et la provision de sa caverne.
+
+LA PRINCESSE.--De quel plumage est celui qui a dict� cette lettre?
+Quelle girouette! quel coq de clocher! Avez-vous jamais rien entendu de
+mieux?
+
+BOYET.--Je suis bien tromp� si je ne reconnais pas le style.
+
+LA PRINCESSE.--Je le crois sans peine; autrement votre m�moire serait
+bien mauvaise, vous venez de le lire il n'y a qu'un moment.
+
+BOYET.--Cet Armado est un Espagnol qui hante ici la cour. Un r�ve-creux,
+un monarcho[38]. Un homme qui sert de divertissement au prince et � ses
+compagnons d'�tude.
+
+[Note 38: Caract�re fantasque du temps, monarque italien, rodomont et
+insolent.]
+
+LA PRINCESSE, _� Costard_.--Toi, l'ami, un mot. Qui t'a donn� cette
+lettre?
+
+COSTARD.--Je vous l'ai dit: monseigneur.
+
+LA PRINCESSE.--A qui devais-tu la remettre?
+
+COSTARD.--De la part de monseigneur, � madame.
+
+LA PRINCESSE.--De quel seigneur et � quelle dame?
+
+COSTARD.--De monseigneur Biron, mon bon ma�tre, � une dame de France
+qu'il appelle Rosaline.
+
+LA PRINCESSE.--Tu t'es m�pris sur l'adresse de cette lettre. Allons,
+mesdames, partons.--(_A Costard_.) Mon ami, c�de cette lettre, on te la
+rendra une autre fois.
+
+(La princesse sort avec sa suite.)
+
+BOYET.--Quel est le galant[39]?
+
+ROSALINE.--Vous apprendrez � le conna�tre.
+
+BOYET.--Oui, mon continent de beaut�[40].
+
+[Note 39: _Suitor_ et _shooter_. La prononciation fait l'�quivoque
+_amant_ et _tireur_.]
+
+[Note 40: Toi qui contiens, qui poss�des toute la beaut� de la terre.]
+
+ROSALINE.--Eh bien! celle qui tient l'arc.--Bien r�pliqu�, n'est-ce pas?
+
+BOYET.--La princesse va tuer des cornes; mais si vous vous mariez,
+pendez-moi par le cou, si les cornes manquent cette ann�e; bien ripost�.
+
+ROSALINE.--Eh bien! je suis le tireur.
+
+BOYET.--Et quel est votre daim?
+
+ROSALINE.--Si on le choisit aux cornes, c'est vous-m�me... Ne
+m'approchez pas; ripost�.
+
+MARIE.--Vous disputez toujours avec elle, Boyet; et elle frappe au
+front.
+
+BOYET.--Mais elle-m�me est frapp�e plus bas, l'ai-je bien vis�e de ce
+coup?
+
+ROSALINE.--Voulez-vous que je vous attaque avec un vieux proverbe qui
+dit: �Il �tait un homme, lorsque le roi P�pin de France n'�tait encore
+qu'un petit gar�on,� qui visa le but?
+
+BOYET.--Je pourrais vous r�pliquer par un autre, qui dit: �Il �tait une
+femme, lorsque la reine Geni�vre de Bretagne n'�tait qu'une petite
+fille,� qui visa le but?
+
+ROSALINE, _chantant_.
+
+    Tu ne peux le toucher, le toucher, le toucher,
+    Tu ne peux le toucher, bonhomme.
+
+BOYET, _chantant_.
+
+    Si je ne le peux, si je ne le peux,
+    Si je ne le peux, un autre le pourra.
+
+(Rosaline et Catherine sortent.)
+
+COSTARD.--Sur ma foi, cela est bien plaisant! comme tous deux l'ont
+ajust�!
+
+MARIE.--Un but merveilleusement vis�! car tous deux l'ont touch�.
+
+BOYET.--Un but! Oh! remarquez bien le but; un but, dit cette dame.
+Mettez une marque � ce but, pour le reconna�tre, si cela se peut.
+
+MARIE.--La main est � c�t� de l'arc: en v�rit�, la main est hors de la
+ligne.
+
+COSTARD.--Oui vraiment, il faut viser plus pr�s, ou jamais il ne
+touchera le blanc[41].
+
+[Note 41: _Cloud_, le blanc que visent les archers, et _pin_, la
+cheville qui le soutient en l'air.]
+
+BOYET.--Si ma main est � c�t� de la ligne, il y a apparence que la v�tre
+est dans la ligne.
+
+COSTARD.--Alors elle aura gagn� le prix, en fendant la cheville du
+blanc.
+
+MARIE.--Allons, allons, vos propos sont trop grossiers. Vos l�vres se
+salissent.
+
+COSTARD, _� Boyet_.--Elle est trop forte pour vous � la pointe,
+monsieur. D�fiez-la aux boules.
+
+BOYET.--Je crains de trouver trop d'in�galit�s dans le terrain: bonne
+nuit, ma ch�re chouette.
+
+(Boyet et Marie sortent.)
+
+COSTARD, _seul_.--Par mon �me, un simple berger, un pauvre paysan! �
+seigneur, seigneur! Comme les dames et moi nous l'avons battu! Oh! sur
+ma vie, excellentes plaisanteries! Un esprit sale et vulgaire quand il
+coule si uniment, si obsc�nement, comme qui dirait, si � propos. Armado
+d'un c�t�. Oh! c'est un �l�gant des plus raffin�s! Il faut le voir
+marcher devant une dame et porter son �ventail! Il faut le voir envoyer
+des baisers; et avec quelle gr�ce il lui fait des serments! et son page
+de l'autre c�t�: cette poign�e d'esprit! Ah! ciel! c'est la lente la
+plus path�tique! �Sol, la, sol, la.�
+
+(On entend des cris � l'int�rieur.--Costard sort en courant.)
+
+
+SC�NE II
+
+DULL, HOLOFERNE et NATHANIEL.
+
+
+NATHANIEL.--En v�rit�, une fort honorable chasse! et ex�cut�e d'apr�s le
+t�moignage d'une bonne conscience!
+
+HOLOFERNE.--La b�te �tait, comme vous le savez, _in sanguis,_ en sang:
+m�re comme une �pomme d'eau[42]�; qui pend comme un joyau � l'oreille du
+_coelum_, c'est-�-dire le ciel, le firmament, l'empyr�e; et tout � coup
+tombe comme un fruit sauvage sur la face de la _terra_, le sol, le
+continent, la terre.
+
+[Note 42: Esp�ce de pomme jadis tr�s-estim�e.]
+
+NATHANIEL.--En v�rit�, ma�tre Holoferne, vous variez agr�ablement vos
+�pith�tes, comme le ferait un savant pour le moins; mais je puis vous
+assurer que c'�tait un chevreuil de deux ans.
+
+HOLOFERNE.--Monsieur Nathaniel, _haud credo_.
+
+DULL.--Ce n'�tait pas un _haud credo_, c'�tait un petit chevreuil.
+
+HOLOFERNE.--Voil� une remarque des plus barbares: et cependant une
+esp�ce d'insinuation, comme par forme, _in vi�_, en mani�re
+d'explication pour _facere_ comme qui dirait une r�plique; ou plut�t,
+_ostentare_, pour montrer, comme qui dirait son inclination; d'apr�s sa
+mani�re mal instruite, mal polie, mal �lev�e, mal cultiv�e, mal
+disciplin�e, ou plut�t illettr�e; ou plut�t encore, mal assur�e, d'aller
+ins�rer l� pour un chevreuil, mon _haud credo!_
+
+DULL.--J'ai dit que le chevreuil n'�tait point un _haud credo_, mais un
+petit chevreuil de trois ans.
+
+HOLOFERNE.--Double b�tise renforc�e; _bis coctus_; � monstrueuse
+ignorance, comme tu es difforme!
+
+NATHANIEL.--Monsieur, il ne s'est jamais nourri de ces d�licates
+friandises qu'on amasse dans les livres: il n'a point, comme qui dirait,
+mang� de papier, ni bu d'encre: son intellect n'est point garni de
+provisions: ce n'est qu'un animal, qui n'est sensible que dans ses
+parties grossi�res. Et lorsque nous voyons sous nos yeux ces plantes
+st�riles, cela doit nous inspirer de la reconnaissance (� nous, qui
+avons du go�t et du sens) pour les talents qui fructifient en nous,
+plut�t qu'en lui; car il me si�rait aussi mal d'�tre vain, indiscret et
+insens�, qu'un manant serait d�plac� dans une �cole et au milieu de la
+science: mais _omne ben�_, c'est le sentiment d'un vieux p�re, que bien
+des gens supportent la temp�te, qui n'aiment pas le vent.
+
+DULL.--Vous �tes deux hommes de livres et de science: pouvez-vous, avec
+tout votre esprit, deviner qui est-ce qui �tait �g� d'un mois � la
+naissance de Ca�n, et qui aujourd'hui n'a pas encore cinq semaines?
+
+HOLOFERNE.--C'est Dictynna, mon cher Dull: Dictynna, mon cher Dull.
+
+DULL.--Qu'est-ce que c'est que Dictynna?
+
+NATHANIEL.--C'est un titre de Ph�b�, de _luna_, de la lune.
+
+HOLOFERNE.--La lune avait un mois lorsqu'Adam n'avait pas davantage, et
+elle n'avait pas atteint cinq semaines, quand Adam avait ses cent ans:
+l'allusion a �t� la m�me malgr� le changement des noms.
+
+DULL.--Cela est ma foi vrai. La collusion tient les noms chang�s.
+
+HOLOFERNE.--Dieu veuille corroborer ta capacit�! je dis que l'allusion
+reste malgr� les noms chang�s.
+
+DULL.--Et moi je dis que la _pollusion_ est dans le changement de noms,
+car la lune n'est jamais �g�e de plus d'un mois; et je dis en outre que
+c'�tait un petit chevreuil de deux ans que la princesse a tu�.
+
+HOLOFERNE.--Monsieur Nathaniel, voulez-vous entendre une �pitaphe
+impromptu sur la mort du chevreuil? Et pour plaire aux ignorants, j'ai
+appel� le chevreuil que la princesse a tu� un _pricket_.
+
+NATHANIEL.--_Perge_, mon digne monsieur Holoferne, _perge_; comme cela
+vous abrogerez toute bouffonnerie.
+
+HOLOFERNE.--Je m'attacherai un peu � l'allit�ration, car cela d�note de
+la facilit�.
+
+    La digne princesse a perc� et abattu un joli daguet[43].
+
+    Il en est qui disent que c'est un chevreuil de trois ans,
+    mais ce n'est pas un chevreuil de trois ans tant qu'il n'est
+    pas bless�.
+
+    Les chiens aboy�rent: ajoutez une L, un chevreuil sortira
+    du bois.
+
+    Daguet, bless� ou chevreuil, le peuple se met � crier: si
+    chevreuil est bless�, alors une L de plus fait cinquante blessures,
+    � L bless�!
+
+    D'un I bless� faites-en cent en ajoutant seulement une L!
+
+[Note 43: Ce sonnet, rempli d'�quivoques, n'a aucun sens en fran�ais:
+cependant nous n'avons pas cru pouvoir nous dispenser de le traduire.]
+
+NATHANIEL.--Rare talent!
+
+DULL.--Si le talent est une griffe, voyez comme il le d�chire avec un
+talent.
+
+HOLOFERNE.--C'est un don que je poss�de; fort simple, ah! fort simple;
+un esprit fou, extravagant, plein de formes, de figures, d'images,
+d'objets, d'id�es, d'appr�hensions, de mouvements, de r�volutions; et
+tout cela est engendr� dans le ventricule de la m�moire, nourri dans le
+sein de la _pia mater_[44], et mis au jour � la maturit� de l'occasion;
+mais ce talent est bon pour ceux dans lesquels il est aigu, et je
+remercie le ciel de me l'avoir donn�.
+
+[Note 44: _Pie-m�re,_ membrane du cerveau.]
+
+NATHANIEL.--Monsieur, j'en loue Dieu pour vous; et mes paroissiens
+pourraient en faire autant; car leurs gar�ons sont fort bien �lev�s par
+vous, et leurs filles profitent consid�rablement sous vous. Vous �tes un
+bon membre de la r�publique.
+
+HOLOFERNE.--_Mehercl�_, si leurs gar�ons ont des dispositions, ils ne
+manqueront pas d'instruction: et si leurs filles ont de la capacit�, je
+saurai leur insinuer la science; mais, _vir sapit qui pauca loquitur_,
+voil� une �me f�minine qui nous salue?
+
+(Entre Jacquinette avec Costard.)
+
+JACQUINETTE.--Dieu vous donne le bonjour, monsieur Personne[45]!
+
+[Note 45: Ce dialogue est une s�rie d'�quivoques comme le sonnet. Elles
+roulent principalement sur _pierson_ et _pierce_.]
+
+HOLOFERNE.--Monsieur Personne, _quasi_ perce-un. Qui est cet un qu'on
+veut percer?
+
+COSTARD.--Ma foi, monsieur le ma�tre d'�cole, c'est celui qui ressemble
+le plus � un tonneau.
+
+HOLOFERNE.--Percer un tonneau! belle invention pour une motte de terre,
+assez de feu pour un caillou, assez de perles pour un pourceau; c'est
+joli, c'est bien.
+
+JACQUINETTE.--Mon bon monsieur le cur�, faites-moi la gr�ce de me lire
+cette lettre; elle m'a �t� donn�e par Costard, et elle m'est envoy�e de
+la part de don Armado. Je vous en prie, lisez-la.
+
+HOLOFERNE.--_Fauste, precor, gelid� quando pecus omne sub umbr�
+ruminat_, et la suite.--Ah! digne et sublime Mantouan, je puis dire de
+toi ce que le voyageur dit de Venise:
+
+    _Vinegia! Vinegia!
+    Chi non te vide, ei non te pregia_.
+
+Vieux Mantouan! vieux Mantouan[46]! qui ne t'entend pas, ne t'aime
+pas.--_Ut, re, sol, la, mi, fa_.--Avec votre permission, monsieur, quel
+est le contenu de la lettre? Ou plut�t, comme dit Horace, dans son...
+Quels sont les vers, mon coeur?
+
+[Note 46: Baptista Spagnolus, surnomm� Mantuanus, de Mantoue, sa ville
+natale, �tait un po�te de la fin du XVe si�cle, et si c�l�bre alors que
+les p�dants pr�f�raient ses �glogues � l'_�n�ide_.]
+
+NATHANIEL.--Oui, des vers, monsieur, et de fort savants.
+
+HOLOFERNE.--Ah! que j'en entende une strophe, une stance, un vers!
+_Lege, domine_.
+
+NATHANIEL _lit les vers_.
+
+    Si l'amour m'a rendu parjure, comment pourrai-je faire serment d'aimer?
+    Ah! il n'est de serments constants que ceux qui sont faits � la beaut�,
+    Quoique parjure � moi-m�me, je n'en serai pas moins fid�le � toi.
+    Ces pens�es, qui �taient pour moi comme des ch�nes, s'inclinent devant
+      toi comme des roseaux.
+    L'�tude abandonne ses livres pour ne lire que dans tes yeux
+    O� brillent tous les plaisirs que l'art peut comprendre.
+    Si la science est le but de l'�tude, te conna�tre suffit pour
+        l'atteindre.
+    Savante est la langue qui peut te bien louer.
+    Ignorante est l'�me qui te voit sans surprise
+    (Et c'est un �loge pour moi de savoir admirer ton m�rite).
+    Ton oeil lance l'�clair de Jupiter, et ta voix son redoutable tonnerre.
+    Mais, quand tu n'es point en courroux, ta voix est une douce musique,
+    Et ton regard communique une douce chaleur.
+    Tu es c�leste, � mon amour! pardonne si je te fais injure
+    En chantant avec une voix mortelle les louanges d'un objet c�leste.
+
+HOLOFERNE.--Vous ne sentez pas les apostrophes, et vous ne mettez pas
+l'accent: laissez-moi parcourir cette chanson; il n'y a ici que le
+nombre et la mesure d'observ�s; mais pour l'�l�gance, la facilit� et la
+cadence dor�e de la po�sie, _caret_. Ovide Nason, c'�tait l� un homme!
+Et pourquoi s'appelle-t-il Nason? si ce n'est parce qu'il savait sentir
+les fleurs odorantes de l'imagination, les �lans de l'invention.
+_Imitari_ n'est rien; le chien imite son ma�tre, le singe son gardien,
+et le cheval enrubann�[47] son cavalier. Mais _damosella_ vierge, est-ce
+� vous que cette �p�tre est adress�e?
+
+JACQUINETTE.--Oui, monsieur; de la part d'un M. Biron, un des seigneurs
+de la princesse �trang�re[48].
+
+[Note 47: Nouvelle allusion au cheval de Banks.]
+
+[Note 48: Ceci est une inadvertance de Shakspeare. Jacquinette ne
+conna�t pas Biron, et vient de dire que la lettre lui a �t� remise par
+Costard, de la part d'Armado.]
+
+HOLOFERNE.--Je veux lancer un coup d'oeil sur l'adresse: �A la belle
+main blanche de la tr�s-belle dame Rosaline.� Je veux jeter encore les
+yeux sur le contenu de la lettre, pour voir la d�nomination de la partie
+qui �crit � la personne suscrite.--�Le serviteur d�vou� aux ordres de
+votre seigneurie, Biron.�--Monsieur Nathaniel, ce Biron est un des
+seigneurs qui ont fait voeu de retraite avec le roi. Et il a b�ti ici
+une lettre adress�e � une dame de la suite de la reine �trang�re,
+laquelle lettre, par accident et dans le progr�s de sa route, s'est
+�gar�e.--Allons, trottez, courez, ma ch�re; remettez cet �crit dans les
+royales mains du roi; cela peut �tre tr�s-important: ne vous arr�tez pas
+� faire votre compliment; je vous dispense de votre devoir.--Adieu.
+
+JACQUINETTE.--Bon Costard, viens avec moi.--Dieu conserve vos jours!
+
+COSTARD.--Je te suis, ma fille.
+
+(Costard et Jacquinette sortent.)
+
+NATHANIEL.--Monsieur, vous avez agi l� dans la crainte de Dieu, fort
+religieusement, et, comme dit un certain p�re...
+
+HOLOFERNE, _l'interrompant_.--Monsieur, ne me parlez point de p�res, je
+crains les sp�cieuses apparences.--Mais pour revenir � ces vers, vous
+ont-ils plu, monsieur Nathaniel?
+
+NATHANIEL.--Merveilleusement bien, quant � la plume.
+
+HOLOFERNE.--Je dois d�ner aujourd'hui chez le p�re d'une �l�ve � moi,
+o�, s'il vous pla�t, avant le repas, de gratifier la table d'un
+_benedicite_, je me chargerai, en vertu du privil�ge que j'ai aupr�s des
+parents de la susdite enfant ou pupille, de vous faire bien accueillir;
+et l� je prouverai que ces vers sont tr�s-peu savants, et n'ont aucune
+teinture de po�sie, d'esprit, ni d'invention; je vous demande votre
+soci�t�.
+
+NATHANIEL.--Et je vous remercie aussi de la v�tre; car la soci�t�, dit
+l'�criture, est le bonheur de la vie.
+
+HOLOFERNE.--Et, certes, l'Ecriture dit l� une chose tr�s-vraie et
+tr�s-juste. (_A Dull_.) Monsieur, je vous invite aussi; vous ne me direz
+pas non. _Pauca verba_. Partons; les nobles sont � leur plaisir, et nous
+aussi, nous allons nous r�cr�er.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+Une autre partie du parc.
+
+BIRON, _tenant un papier_.
+
+
+Le roi chasse � la b�te, et moi je cours apr�s moi-m�me. Ils ont tendu
+les toiles, et moi je m'embarrasse dans la poix[49], dans une poix qui
+salit. Salir! ce mot n'est pas beau. Allons, apaise-toi, chagrin; car on
+dit que le fou l'a dit; et je le dis aussi moi, et je suis le fou. Bien
+raisonn�, esprit!--Par le ciel, cet amour est aussi forcen� qu'Ajax; il
+tue les moutons; il me tue; et je suis un mouton. Bien raisonn� encore
+en ma faveur!--Je ne veux pas aimer: si j'aime, qu'on me pende; en
+conscience, je ne le veux pas. Oh! mais son bel oeil... Par cette
+lumi�re, s'il n'y avait que son oeil, je ne l'aimerais pas: bon pour ses
+deux yeux. Allons, je ne fais rien au monde que mentir, et me mentir �
+moi-m�me. Par le ciel, je suis amoureux, et cela m'a appris � rimer, et
+� �tre m�lancolique; et voici un �chantillon de mes rimes et de ma
+m�lancolie. Fort bien: la belle a d�j� un de mes sonnets; le bouffon le
+lui a port�, et le fou le lui a envoy�, et la dame le tient en sa
+possession. Cher bouffon, cher fou, dame plus ch�re encore.--Par
+l'univers, je m'en moquerais comme d'une �pingle, si les trois autres
+partageaient ma folie.--En voici un avec un papier � la main! Dieu
+veuille lui faire la gr�ce de g�mir!
+
+[Note 49: Allusion au teint brun de Rosaline.]
+
+(Il monte et se cache dans un arbre.)
+
+(Entre le roi.)
+
+LE ROI, _soupirant_.--H�las!
+
+BIRON, _� part_.--Il est atteint, par le ciel! Poursuis, cher Cupidon.
+Tu l'as frapp� de ta petite fl�che sous la mamelle gauche. Par ma foi,
+des secrets!
+
+LE ROI, _lisant des vers_.
+
+    Le soleil dor� ne donne point un aussi doux baiser
+    Aux fra�ches gouttes de la ros�e du matin sur la rose
+    Que le premier rayon de tes yeux
+    Tombant sur la ros�e de pleurs que la nuit a fait couler sur mes joues.
+    La lune argent�e brille avec moins d'�clat
+    Au travers du sein transparent de l'onde
+    Que l'�clat de ta beaut� au travers de mes larmes.
+    Tu brilles dans chaque larme que je verse.
+    Il n'en est aucune qui ne te porte comme un char
+    Dans lequel tu passes triomphant de mes peines.
+    Daigne seulement regarder ces larmes qui se gonflent dans mes yeux,
+    Et tu y verras ta gloire �clater dans mes douleurs.
+    Garde-toi d'aimer, car alors mes larmes ne cesseront de couler,
+    Et elles serviront de miroir pour r�fl�chir ta beaut�.
+    O reine des reines! que tu es incomparable!
+    La pens�e de l'homme ne peut le concevoir, ni sa langue l'exprimer.
+
+Comment lui ferai-je conna�tre mes peines? Je vais laisser tomber ce
+papier; douces feuilles, abritez ma folie.--Mais qui vient en ce lieu?
+_(Le roi se met � l'�cart. Entre Longueville qui se croit seul_.) Quoi!
+c'est Longueville! et lisant! �coute bien, mon oreille.
+
+BIRON, _� part_.--Allons, voici un autre fou qui para�t sur la sc�ne et
+qui te ressemble!
+
+LONGUEVILLE.--Malheureux que je suis! je suis parjure.
+
+BIRON, _� part_.--Bon, il s'avance comme un parjure portant son �criteau
+devant lui[50].
+
+[Note 50: La punition du parjure �tait de porter un �criteau qui
+annon�ait son crime.]
+
+LE ROI, _� part_.--Il est amoureux, j'esp�re. Heureuse soci�t� de honte!
+
+BIRON, _� part_.--Un ivrogne aime un ivrogne comme lui.
+
+LONGUEVILLE, _� part_.--Suis-je le premier qui me suis ainsi parjur�?
+
+BIRON, _� part_.--Je pourrais, moi, servir � te consoler; sans compter
+les deux parjures que je connais, tu compl�tes le triumvirat: tu es la
+corne du chapeau de la soci�t�, la figure de la potence d'amour �
+laquelle est pendue l'innocence.
+
+LONGUEVILLE.--Je crains bien que ces vers impuissants ne manquent de
+force pour t'�mouvoir, � aimable Marie, souveraine de mes tendres voeux!
+Je veux d�chirer ces rimes et lui �crire en prose.
+
+BIRON, _� part_.--Oh! les rimes sont les sentinelles qui gardent le
+haut-de-chausses du fol�tre Cupidon; ne d�figure pas son costume[51].
+
+[Note 51: Allusion au costume habituel de Cupidon sur le th��tre.]
+
+LONGUEVILLE.--Allons, ces vers peuvent passer.
+
+(Il lit un sonnet.)
+
+    N'est-ce pas la c�leste �loquence de tes yeux,
+    Contre laquelle l'univers n'a point de r�plique,
+    Qui a conduit mon coeur � ce parjure?
+    Un voeu, rompu pour toi, ne m�rite pas d'�tre puni.
+
+    Mon voeu regardait une femme: mais je prouverai
+    Que, toi �tant une d�esse, je n'ai pas commis un parjure.
+    Mon voeu ne comprenait que les beaut�s mortelles, et tu es une
+        beaut� c�leste.
+    La conqu�te de tes gr�ces effacera en moi toute disgr�ce.
+
+    Les serments ne sont qu'un souffle, et le souffle n'est qu'une vapeur.
+    C'est donc toi, beau soleil, qui brilles sur une terre,
+    Et qui attires � toi ce serment de vapeur: elle monte vers toi.
+
+    Si mon serment est rompu, ce n'est donc pas ma faute.
+    Et si c'est moi qui l'ai viol�, quel fou ne serait pas assez sage
+    Pour perdre un serment afin de gagner un paradis!
+
+BIRON, _� part_.--Voil� des vers qui ont coul� d'une veine du foie[52];
+cela vous fait d'une chair mortelle une divinit�, une d�esse d'une jeune
+oie. Pure, pure idol�trie! Dieu nous amende, Dieu nous amende! nous
+sommes bien loin du droit chemin.
+
+[Note 52: Le foie �tait regard� comme le si�ge de l'amour.]
+
+(Dumaine arrive avec un papier.)
+
+LONGUEVILLE.--Par qui enverrai-je ce sonnet? Voil�
+quelqu'un.--Doucement!
+
+(Il s'�loigne � l'�cart.)
+
+BIRON, _� part_.--Tous cach�s, tous cach�s! ancien jeu d'enfant.--Je
+suis ici comme un demi-dieu dans l'Olympe, d'o� mon oeil attentif plonge
+sur les malheureux insens�s et p�n�tre leurs secrets. Encore des sacs au
+moulin. O ciel! mes voeux sont remplis; Dumaine a subi aussi la
+m�tamorphose; quatre b�casses dans un seul plat.
+
+DUMAINE.--O divine Catherine!
+
+BIRON, _� part_.--O profane mis�rable!
+
+DUMAINE.--Par le ciel, une merveille faite pour �tonner des yeux
+mortels!
+
+BIRON, _� part_.--Jure encore par la terre, qu'elle n'est pas un corps
+mortel, et je te donne l� un d�menti net.
+
+DUMAINE.--Sa chevelure d'ambre surpasse la noirceur de l'ambre m�me.
+
+BIRON, _� part_.--Fort bien remarqu�, un corbeau couleur d'ambre.
+
+DUMAINE.--Aussi droite qu'un c�dre.
+
+BIRON, _� part_.--Arr�te, te dis-je, son �paule est dans un �tat de
+grossesse.
+
+DUMAINE.--Aussi belle que le jour.
+
+BIRON, _� part_.--Oui, que certains jours o� le soleil ne brille pas.
+
+DUMAINE.--Oh! que mes voeux fussent remplis!
+
+LONGUEVILLE, _� part_.--Et les miens aussi!
+
+LE ROI, _� part_.--Et moi, les miens, par le ciel!
+
+BIRON, _� part_.--Et que le ciel exauce les miens! N'est-ce pas l� un
+bon mot?
+
+DUMAINE.--Je voudrais l'oublier; mais elle est une fi�vre qui r�gne dans
+mon sang et qui me force � me souvenir d'elle.
+
+BIRON, _� part_.--Comme une fi�vre dans votre sang! Eh bien, alors une
+incision la ferait[53] couler dans la palette.--O charmante m�prise!
+
+[Note 53: C'�tait la mode, parmi les amoureux du temps, de se piquer au
+bras ou ailleurs, pour boire son sang � la sant� de sa belle, ou
+d'�crire le nom de sa ma�tresse avec son propre sang en signe d'amour.]
+
+DUMAINE.--Je veux relire encore l'ode que j'ai compos�e.
+
+BIRON, _� part_.--Je vais voir encore comment l'amour diversifie les
+productions de l'esprit.
+
+DUMAINE _lit sa pi�ce de vers_.
+
+    Un jour de mai. Malheureux jour!
+    L'amour, qui choisit toujours mai pour son mois,
+    Vit une fleur des plus belles
+    Se jouant dans le vague de l'air;
+    Il vit le z�phyr fol�tre
+    S'ouvrir un passage
+    A travers ses feuilles velout�es;
+    L'amant, malade � en mourir, envia le souffle a�rien.
+    Z�phyr, dit-il, tu peux enfler tes joues;
+    Que ne puis-je triompher avec toi!
+    Mais, h�las! rose, ma main a jur�
+    De ne jamais te cueillir de ton �pine:
+    Serment, h�las! peu propre � la jeunesse:
+    La jeunesse se pla�t � cueillir ce qui est doux.
+    Ah! ne me reproche pas mon crime:
+    Si pour toi je suis devenu parjure.
+    Jupiter m�me, en te voyant, jurerait
+    Que Juno est une noire �thiopienne;
+    Il nierait �tre Jupiter,
+    Et se ferait mortel pour l'amour de toi!
+
+Je lui enverrai ces vers et quelques autres lignes encore plus simples
+qui lui exprimeront les peines et les privations de mon sinc�re amour.
+Oh! que je voudrais que le roi, et Biron, et Longueville fussent amants
+aussi! Le mal, servant d'exemple au mal, laverait mon front de la honte
+du parjure; la folie devient innocente quand tous sont en d�lire.
+
+LONGUEVILLE, _se montrant tout � coup_.--Dumaine, ton amour n'est pas
+charitable, de souhaiter des compagnons d'infortune en amour.--Vous
+pouvez changer de couleur et p�lir: pour moi, je rougirais qu'on m'e�t
+entendu tenir pareil langage, et surpris dans ce sommeil.
+
+LE ROI, _sortant � son tour et abordant brusquement
+Longueville_.--Allons, l'ami, vous rougissez: vous �tes dans le m�me cas
+que lui: vous le reprenez, et vous �tes deux fois plus coupable: vous
+n'aimez pas Marie, non? Longueville n'a jamais compos� de sonnet pour
+elle? jamais il n'a serr� ses bras en croix contre son sein amoureux,
+pour contenir les �lans de son coeur? J'�tais envelopp� des ombres de ce
+buisson et je vous observais tous deux, et j'ai rougi pour tous deux.
+J'ai entendu vos coupables rimes, observ� votre contenance, vu les
+br�lants soupirs qu'exhalait votre sein; j'ai bien remarqu� tous les
+sympt�mes de votre passion. �H�las!� s'�criait l'un; �� Jupiter!� criait
+l'autre: �sa chevelure est brillante comme l'or;� l'autre: �ses yeux
+brillants comme le cristal.� (_A Longueville_.) Vous, vous voulez violer
+votre foi et vos serments pour la conqu�te de ce paradis. (_A Dumaine_.)
+Et vous: disiez-vous, �Jupiter, violerait ses serments pour l'amour de
+ma belle.�--Que dira Biron, lorsqu'il viendra � apprendre que vous avez
+viol� une parole, jur�e avec tant de z�le et d'ardeur? Oh! comme il vous
+m�prisera! comme son esprit s'�gayera � vos d�pens! comme il triomphera!
+comme il sautera de joie! comme il rira aux �clats! Pour tous les
+tr�sors que j'ai jamais vus, je ne voudrais pas qu'il p�t m'en reprocher
+autant.
+
+BIRON.--Je m'avance pour ch�tier l'hypocrisie. (_Il descend de
+l'arbre_.) Ah! mon cher souverain, je vous prie, daignez me pardonner...
+Coeur g�n�reux, vous sied-il bien de reprocher � ces malheureux reptiles
+d'aimer, vous qui �tes le plus amoureux? Vos yeux ne portent-ils pas
+l'image d'une belle? N'est-il pas certaine princesse qui se peint dans
+vos larmes? Vous ne voudriez pas vous parjurer: c'est une chose odieuse;
+allons, il n'y a que des m�nestrels qui fassent des sonnets. Mais ne
+rougissez-vous pas? Oui, tous trois, n'avez-vous pas honte de vous voir
+ainsi surpris et convaincus? Vous, Longueville, vous avez vu une paille
+dans l'oeil de Dumaine; le roi en a vu une dans vos yeux � tous deux;
+mais moi, je d�couvre une poutre dans l'oeil de tous trois. Oh! � quelle
+sc�ne d'extravagance j'ai assist�! de combien de soupirs, de
+g�missements, de douleur, de d�sespoir j'ai �t� le t�moin! Avec quelle
+patience je me suis tenu assis et coi, pour voir un roi m�tamorphos� en
+moucheron! pour voir le robuste Hercule danser une gavotte, et le sage
+Salomon fredonner une gigue, et Nestor jouer au jeu d'�pingle avec les
+enfants, et le cynique Timon rire de vains hochets!--O� g�t ta douleur?
+dis-le-moi, mon cher Dumaine; et toi, mon cher Longueville, o� est la
+peine? Et o� est le mal de mon souverain? Tous au coeur, n'est-ce pas?
+Hol�! qu'on apporte un cordial, vite!
+
+LE ROI.--Biron, tes railleries ont trop d'amertume: sommes-nous donc
+ainsi trahis et expos�s � tes regards!
+
+BIRON.--Ce n'est pas vous qui �tes trahis par moi; c'est moi qui le suis
+par vous; moi qui reste honn�te � moi, qui regarde comme un crime de
+violer le voeu dont je suis li�: je suis trahi, puisque je suis dans la
+soci�t� d'hommes changeant comme la lune, et d'une rare inconstance!
+Quand me verrez-vous rien �crire en rimes ou pousser des soupirs pour
+une femme? ou d�penser une seule minute de mon temps � polir mes plumes?
+Quand entendrez-vous dire que je loue une main, un pied, un visage, un
+oeil, une d�marche, une contenance, un sourcil, une gorge, une ceinture,
+une jambe?...
+
+(Biron va sortir.)
+
+LE ROI.--Arr�tez.--O� courez-vous si vite? Est-ce un honn�te homme, ou
+un voleur, qui s'enfuit avec cette pr�cipitation?
+
+BIRON.--Je fuis l'amour: bel amoureux, laissez-moi partir.
+
+(Entre Jacquinette et Costard.)
+
+JACQUINETTE.--Dieu conserve le roi!
+
+LE ROI.--Quel pr�sent as-tu l�?
+
+COSTARD.--Une certaine trahison.
+
+LE ROI.--Que fait la trahison ici?
+
+COSTARD.--Elle n'y fait rien, seigneur.
+
+LE ROI.--Si elle n'y fait rien non plus, la trahison et toi, allez tous
+deux en paix ensemble.
+
+JACQUINETTE.--Je conjure Votre Altesse de lire cette lettre, notre cur�
+a des soup�ons sur elle, il a dit que c'�tait une trahison.
+
+LE ROI, _la donnant � Biron_.--Biron, lisez-la.--(_A Jacquinette_.) D'o�
+tiens-tu cette lettre?
+
+JACQUINETTE.--De Costard.
+
+LE ROI, _� Costard_.--O� l'as-tu prise?
+
+COSTARD.--De dun Adramadio, dun Adramadio.
+
+LE ROI.--Eh bien! que se passe-t-il donc en vous? Pourquoi la
+d�chirez-vous?
+
+BIRON.--Une bagatelle, mon souverain, une bagatelle: n'en concevez
+aucune inqui�tude.
+
+LONGUEVILLE.--Elle lui a caus� du trouble: il faut la voir.
+
+DUMAINE, _la consid�rant_.--Eh! c'est l'�criture de Biron, et voil� son
+nom au bas.
+
+(Il ramasse les morceaux.)
+
+BIRON, _� Costard_.--Ah! inf�me b�tard, tu es n� pour me d�shonorer.--Je
+suis coupable, mon souverain, coupable; je le confesse, je l'avoue.
+
+LE ROI.--Et de quoi?
+
+BIRON.--Vous �tes trois fous, qui vous moquez d'un quatri�me fou, comme
+moi, pour compl�ter le plat. Lui, et lui, et vous, mon souverain, et
+moi, sommes des filous en amour, et nous m�ritons la mort. (_Montrant
+Costard et Jacquinette_.) Cong�diez, je vous prie, ce vil auditoire, et
+je vous en dirai davantage.
+
+DUMAINE.--A pr�sent nous sommes en nombre pair.
+
+BIRON.--Oh! oui, oui, nous sommes quatre.--Ces tourtereaux s'en
+iront-ils?
+
+LE ROI.--Allons, mes amis, retirez-vous.--Partez.
+
+COSTARD.--Oui, que tous les honn�tes gens s'en aillent, et que les
+tra�tres restent.
+
+(Costard et Jacquinette s'en vont.)
+
+BIRON.--Mes chers seigneurs, mes chers amoureux, embrassons-nous: nous
+sommes aussi fid�les � nos serments que le peuvent �tre la chair et le
+sang. La mer aura toujours son flux et reflux; le ciel montrera toujours
+sa face �toil�e; le sang jeune et fougueux n'ob�ira jamais � un conseil
+surann�. Nous ne pouvons nous �carter du but pour lequel nous sommes
+n�s. Ainsi, nous sommes contraints de toutes mani�res d'�tre parjures.
+
+LE ROI.--Quoi, les lambeaux de cette lettre d�chir�e contiennent-ils
+quelques rimes de ta composition?
+
+BIRON.--Si elles en contiennent, dites-vous? H�! qui peut voir la
+c�leste Rosaline, sans incliner devant elle sa t�te vassale, comme le
+grossier et sauvage Indien se prosterne � la premi�re ouverture des
+portes brillantes de l'orient? Qui peut, �bloui de son �clat, ne pas
+humilier son front jusqu'� baiser la poussi�re? Quel oeil audacieux,
+f�t-il per�ant comme celui de l'aigle, ose fixer son c�leste front sans
+�tre aveugl� de sa majest�?
+
+LE ROI.--Quelle passion, quelle fureur s'est tout � coup empar�e de toi?
+Ma bien-aim�e, la ma�tresse de la tienne, est une lune gracieuse; ta
+Rosaline n'est qu'une �toile de sa suite, dont l'�clat s'aper�oit �
+peine.
+
+BIRON.--Mes yeux ne sont donc pas des yeux, et je ne suis pas Biron. Que
+le ciel voul�t, pour mon amour, changer le jour en nuit! Les plus belles
+couleurs de tous les teints s'assemblent dans ses belles joues, et de
+cent attraits divers font une gr�ce unique, o� rien ne manque de tout ce
+que peut chercher le d�sir. Pr�tez-moi la trompette � mille voix. Non,
+loin de moi, rh�torique fard�e! Elle n'en a pas besoin. Ce sont les
+denr�es communes qui ont besoin de l'�loge du vendeur: elle, elle
+surpasse la louange; et un �loge imparfait la ternit. Un ermite fl�tri,
+us� par cent hivers, pourrait, en se mirant dans son bel oeil, en
+secouer cinquante. La vue de sa beaut� rend � la vieillesse un coloris
+qui la rajeunit, et ram�ne la b�quille vers le berceau de l'enfance. Oh!
+c'est le soleil qui fait briller tous les objets!
+
+LE ROI.--Par le ciel! ta ma�tresse est noire comme l'�b�ne.
+
+BIRON.--L'�b�ne lui ressemble-t-il? O bois divin! Une femme faite de ce
+bois serait le bonheur supr�me. Qui peut ici me faire pr�ter serment: o�
+y a-t-il un livre, afin que je jure que la beaut� est imparfaite, si
+elle n'emprunte pas son regard de ses beaux yeux? Il n'est point de beau
+visage, s'il n'est noir comme le sien.
+
+LE ROI.--O paradoxe! La couleur noire est le symbole de l'enfer, la
+couleur des prisons et du front de la nuit; la beaut� supr�me est seule
+digne du ciel.
+
+BIRON.--Les d�mons, pour nous tenter plus s�rement, prennent la forme
+des anges de lumi�re. Si les sourcils de ma belle sont tendus du noir,
+c'est de douleur de ce qu'un fard mensonger, une chevelure usurp�e
+s�duisent les amants par une fausse apparence. Rosaline est n�e pour
+�riger le noir en beaut�; car les couleurs naturelles sont maintenant
+prises pour un fard artificiel: aussi le rouge, pour �viter l'affront de
+cette m�prise, se peint en noir, afin d'imiter le sourcil de Rosaline.
+
+DUMAINE.--C'est aussi pour lui ressembler que les ramoneurs sont noirs.
+
+LONGUEVILLE.--Et c'est depuis elle que les charbonniers passent pour
+beaux.
+
+LE ROI.--Et que les �thiopiens se vantent d'un aimable teint.
+
+LONGUEVILLE.--Aujourd'hui l'obscurit� n'a plus besoin de flambeaux, car
+les t�n�bres sont lumi�re.
+
+BIRON.--Vos ma�tresses n'osent jamais s'exposer � la pluie, de crainte
+de voir leurs couleurs lav�es s'effacer de leurs joues.
+
+LE ROI.--Il ne serait pas mal que la v�tre lav�t les siennes; car, �
+vous parler franchement, je trouverai un plus beau visage que le sien
+qui n'a pas �t� lav� d'aujourd'hui.
+
+BIRON.--Je prouverai sa beaut� ou je parlerai jusqu'au jour du jugement.
+
+LE ROI.--Aucun d�mon ne te fera autant de peur qu'elle ce jour-l�.
+
+DUMAINE.--Je n'ai jamais vu d'homme faire tant de cas d'une drogue aussi
+vile.
+
+LONGUEVILLE, _montrant son pied_.--Tiens, voil� ta belle; vois mon
+soulier et son visage.
+
+BIRON.--Oh! si les rues �taient pav�es avec des yeux comme les siens,
+ses pieds seraient encore trop d�licats pour fouler un tel pav�.
+
+DUMAINE.--Fi donc! alors, sur son passage, la rue verrait bien des
+mensonges � la face du ciel.
+
+LE ROI.--A quoi bon tous ces propos? Ne sommes-nous pas tous amoureux?
+
+BIRON.--Rien n'est plus certain; et par l� tous parjures.
+
+LE ROI.--Eh bien! finissez donc ce vain dialogue; et toi, cher Biron,
+prouve-nous � pr�sent que notre amour est l�gitime, et que notre foi
+n'est pas viol�e.
+
+DUMAINE.--Oui, vraiment, rends-nous ce service. Excuse et flatte un peu
+notre faiblesse.
+
+LONGUEVILLE.--Oui, quelque argument qui nous autorise � poursuivre;
+quelques ruses, quelques chicanes pour duper le diable.
+
+DUMAINE.--Quelque apologie pour notre parjure.
+
+BIRON.--Oh! il y a plus de raisons qu'il n'en faut. Allons, aux armes,
+soldats de l'amour! Consid�rez ce que vous avez jur� d'abord: de je�ner,
+d'�tudier et de ne voir aucune femme; trahison notoire contre l'empire
+de la jeunesse. Dites, pouvez-vous je�ner? Vos estomacs sont trop
+jeunes, et l'abstinence engendre des maladies. Et lorsque vous avez fait
+voeu d'�tudier, chers seigneurs, chacun de vous a fait un parjure � son
+propre livre; pouvez-vous toujours r�ver, r�fl�chir et m�diter? Et quand
+est-ce que vous, seigneur, ou vous, ou vous, avez trouv� le fondement de
+l'excellence de l'�tude, sans la beaut� du visage d'une femme? C'est des
+yeux des femmes que je tire cette doctrine. Elles sont le fond, le
+texte, le livre, l'acad�mie d'o� jaillit la vraie flamme de Prom�th�e.
+Tous les efforts de l'�tude encha�nent les esprits de la vie dans les
+art�res[54], comme le mouvement et une action longtemps continu�s
+fatiguent les nerfs et la vigueur du voyageur. En jurant de ne point
+regarder le visage d'une femme, vous avez en cela fait un parjure �
+l'usage de vos yeux, et � l'�tude m�me, qui est le principe de votre
+voeu; car, o� est, dans le monde, l'auteur qui enseigne une beaut�
+comparable � l'oeil d'une femme? La science n'est qu'un accessoire �
+notre individu, et partout o� nous sommes, notre science y est aussi;
+or, quand nous nous contemplons nous-m�mes dans les yeux d'une femme,
+n'y voyons-nous pas aussi notre science? Nous avons fait voeu d'�tudier,
+chers seigneurs; et, par ce voeu, nous avons manqu� de foi � nos livres.
+Car, quand est-ce que vous, mon souverain, ou vous, ou vous, avez, dans
+une pesante contemplation, d�couvert jamais autant de feu po�tique, que
+vous en ont communiqu� les yeux brillants d'une belle ma�tresse? Les
+autres arts indolents restent emprisonn�s et oisifs dans le cerveau, et
+ne produisent que des savants st�riles en pratique, qui montrent
+rarement quelque moisson de leurs p�nibles travaux; mais l'amour, �tudi�
+d'abord dans les yeux d'une belle, ne vit pas emprisonn� dans l'enceinte
+du cerveau: port� par le mouvement de tous les �l�ments, il court aussi
+vite que la pens�e dans toutes les puissances de l'homme, et donne �
+chaque facult� une double force, qui l'�l�ve au-dessus de leurs
+fonctions et de leurs offices; il ajoute une vue pr�cieuse � l'organe de
+l'oeil: les yeux d'un amant peuvent �blouir l'oeil d'un aigle; l'oreille
+d'un amant saisit jusqu'au plus faible son, l� o� l'oreille soup�onneuse
+du voleur n'entend rien. Le sens de l'amour est plus sensible que ne le
+sont les cornes d�licates du lima�on dans sa coquille. Le dieu Bacchus
+lui-m�me n'a qu'un palais grossier au prix du go�t d�licat de l'Amour.
+L'Amour n'est-il pas un Hercule en valeur, qui grimpe toujours sur les
+arbres des Hesp�rides; subtil comme le Sphinx, aussi doux, aussi musical
+que la lyre brillante d'Apollon, tendue de ses cheveux d'or? Et lorsque
+l'Amour parle, tous les dieux de l'Olympe s'assoupissent aux doux
+accents de sa voix. Jamais po�te n'osa toucher une plume pour �crire,
+qu'il ne l'e�t tremp�e dans les pleurs de l'Amour; mais alors ses vers
+charmaient les oreilles les plus sauvages, et faisaient entrer la
+douceur dans le coeur des tyrans. Voil� la science que je puise dans les
+yeux des femmes. Elles �tincellent comme le feu de Prom�th�e, elles sont
+les livres, les arts et les acad�mies qui expliquent, contiennent et
+nourrissent tout l'univers; sans elles, nul homme n'excellera en rien.
+Ainsi, vous �tiez des insens�s d'avoir viol� la foi que vous deviez aux
+femmes, ou vous serez des insens�s en tenant votre serment. Au nom de la
+Sagesse, mot qu'aiment tous les hommes, ou au nom de l'Amour, mot qui
+les aime tous, ou au nom des hommes, les auteurs des femmes, ou au nom
+des femmes, par lesquelles nous sommes hommes, perdons une bonne fois
+nos serments pour nous retrouver nous-m�mes, ou bien nous nous perdons
+nous-m�mes pour conserver nos serments. C'est religion de se parjurer
+ainsi; car la charit� elle-m�me accomplit la loi; et qui peut s�parer
+l'Amour de la charit�?
+
+[Note 54: Dans l'ancienne m�decine, on attribuait aux art�res les
+fonctions donn�es aujourd'hui aux nerfs.]
+
+LE ROI.--Allons, crions donc tous: saint Cupidon! et en plaine, soldats!
+
+BIRON.--Avancez vos �tendards et fondons sur elles; allons, chaude
+m�l�e, renversons-les; mais prenez garde avant tout, dans ce choc, de
+rencontrer un soleil, gr�ce � elles[55].
+
+[Note 55: _A sun, a son_, �quivoque sur ces deux mots: soleil et fils.]
+
+LONGUEVILLE.--Allons, parlons clairement; laissons de c�t� les gloses.
+Prendrons-nous le parti de faire notre cour � ces filles de France?
+
+LE ROI.--Oui, et d'en faire la conqu�te aussi; ainsi, m�ditons quelque
+divertissement pour les amuser dans leurs tentes.
+
+BIRON.--D'abord, conduisons-les hors du parc jusqu'ici, et qu'ensuite,
+sous les lambris du palais, chaque homme saisisse la main de sa belle
+ma�tresse; dans l'apr�s-d�n�e, nous les �gayerons par quelque
+passe-temps nouveau, tel que la bri�vet� du temps pourra permettre de
+le former; car les bals, les danses, les mascarades, les plaisirs
+pr�c�dent les pas du bel Amour et jonchent son chemin de fleurs.
+
+LE ROI.--Partons, partons; nous ne perdrons point de temps, ni aucune
+des occasions que nous pourrons employer � propos.
+
+BIRON.--Allons, allons! quand on s�me de l'ivraie, on ne recueille pas
+de bl�, et toujours la justice tient sa balance �gale. Des filles
+volages pourraient devenir le fl�au d'hommes parjures; si cela arrive,
+notre cuivre n'ach�tera pas de m�tal plus pr�cieux.
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+                             ACTE CINQUI�ME
+
+SC�NE I
+
+Autre partie du parc.
+
+HOLOFERNE, NATHANIEL, DULL.
+
+
+HOLOFERNE.--_Satis quod sufficit_.
+
+NATHANIEL.--Je b�nis Dieu pour vous, monsieur. Vos arguments � d�ner ont
+�t� piquants et sentencieux, plaisants sans bouffonnerie, ing�nieux sans
+affectation, anim�s sans impudence, savants sans ent�tement et neufs
+sans h�r�sie. J'ai convers� un _quondam_ jour avec un homme de la suite
+du roi, qui est intitul�, nomm�, ou appel� don Adriano d'Armado.
+
+HOLOFERNE.--_Novi hominem tanquam te_. Son humeur est hautaine, sa
+conversation est tranchante, sa langue est impure, son oeil ambitieux,
+sa d�marche superbe, et tout son maintien est vain, ridicule et plein
+d'emphase thrasonicale[56]. Il est trop tir� � quatre �pingles, trop
+�l�gant, trop affect�, trop singulier, pour ainsi parler, trop
+p�r�grinal, pourrais-je dire encore.
+
+[Note 56: Comme le Thrason de T�rence.]
+
+NATHANIEL, _tirant ses tablettes pour �crire_.--�pith�te singuli�re et
+choisie!
+
+HOLOFERNE.--Le fil de sa verbosit� est plus beau et plus brillant que la
+cha�ne de ses raisonnements. J'abhorre ces gens fantasques et
+fanatiques, ces puristes insociables et pleins d'affectation, qui
+mettent l'orthographe � la torture, qui prononcent _doute_, lorsqu'il
+faut dire doubte; _dette_, lorsqu'on doit prononcer debte, _d, e, b, t,
+e_, et non pas _d, e, t_: ils vous appellent un cerf, _cer_, un boeuf,
+_beu_. Froid, _vocatur fret_[57], paon, en abr�ge, est _pan_. Cela est
+_abhominable_ (il dirait, lui, _abominable_), cela m'insinue la folie.
+_Ne intelligis, domine_, il y a de quoi rendre fr�n�tique, lunatique.
+
+[Note 57: Il a fallu en beaucoup d'endroits de cette sc�ne chercher des
+�quivalents.]
+
+NATHANIEL.--_Laus Deo, bon�; intelligo_.
+
+HOLOFERNE.--_Bone_?--_bone_ pour _ben�_, c'est donner un soufflet �
+Priscus; mais, fort bien.
+
+(Entrent Armado, Moth et Costard.)
+
+NATHANIEL.--_Videsne, quis venit_?
+
+HOLOFERNE.--_Video et gaudeo_.
+
+ARMADO, _grasseyant_.--_Dole_.
+
+HOLOFERNE.--_Quare dole_, et non pas dr�le?
+
+ARMADO.--Gens de paix, soyez les bien-assaillis.
+
+HOLOFERNE.--Voil� un salut des plus militaires, monsieur!
+
+MOTH, _� part, � Costard_.--Ils se sont trouv�s � un grand festin de
+langues et ils en ont vol� des bribes.
+
+COSTARD, _� part_.--Oh! ils ont longtemps v�cu de rebuts de mots! Je
+m'�tonne que ton ma�tre ne t'ait pas pris et aval� pour un mot. Car tu
+n'es pas aussi long que _honorificabilitudinitatibus_[58], tu es plus
+facile � avaler qu'une m�che dans un verre de vin.
+
+[Note 58: Ce mot est cit� comme le plus long connu.]
+
+MOTH.--Paix! le tonnerre gronde.
+
+ARMADO, _� Holoferne_.--Monsieur, n'�tes-vous pas lettr�?
+
+MOTH.--Oui, oui; il enseigne aux enfants l'_Abc_; et ce que c'est qu'un
+_a, b_, qu'on appelle � rebours avec une corne sur la t�te.
+
+HOLOFERNE.--_Ba, pueritia_, avec l'addition d'une corne.
+
+MOTH.--_Ba_, impertinent b�lier, avec une corne.--Vous entendez sa
+science?
+
+HOLOFERNE.--_Quis, quis_, toi, consonne.
+
+MOTH.--La troisi�me des cinq voyelles, si c'est vous qui les r�p�tez; et
+la cinqui�me, si c'est moi.
+
+HOLOFERNE.--Je vais les r�p�ter: _a, e, i_.
+
+MOTH.--Le b�lier; les deux autres terminent la chose: _o, u, y_.
+
+ARMADO.--Par les flots sal�s de la M�diterran�e, un joli �chantillon:
+une vive botte d'esprit! une, deux, vite comme le vent, et port�e au
+corps. Cela r�jouit mon intellect. Du v�ritable esprit!
+
+MOTH.--Servi par un enfant � un vieux barbon qui est vieux d'esprit.
+
+HOLOFERNE.--Quelle est la figure? quelle est la figure?
+
+MOTH.--Des cornes.
+
+HOLOFERNE.--Tu raisonnes comme un enfant; va fouetter ton sabot.
+
+MOTH.--Pr�tez-moi votre corne pour en faire un; et je fouetterai votre
+ignominie tout alentour, _circum circa_. Une toupie de corne de cocu!
+
+ARMADO.--Je n'aurais qu'un sou au monde, que je te le donnerais pour
+t'acheter du pain d'�pice; tiens, voil� la r�mun�ration m�me que j'ai
+re�ue de ton ma�tre, bourse d'esprit d'un demi-sou, oeuf de pigeon de
+sagacit�. Oh! si le ciel voulait que tu fusses seulement mon b�tard, que
+tu ferais de moi un p�re joyeux! Va, tu as de l'esprit jusqu'�
+_dunghill_[59], jusqu'au bout des doigts, comme on dit.
+
+[Note 59: _Dunghill_, fumier, au lieu de _usque ad unguem_.]
+
+HOLOFERNE.--Oh! je sens l� du faux latin; _dunghill_, pour _unguem_.
+
+ARMADO.--Homme lettr�, _pr�ambula_: nous nous s�parerons des barbares.
+N'�levez-vous pas la jeunesse � l'�cole privil�gi�e qui est sur le
+sommet de la montagne?
+
+HOLOFERNE.--Ou du mont de la colline.
+
+ARMADO.--A votre choix; pour la montagne.
+
+HOLOFERNE.--Oui, sans question.
+
+ARMADO.--Monsieur, c'est le tr�s-gracieux plaisir et penchant du roi de
+congratuler la princesse dans sa tente vers la partie post�rieure du
+jour, que le grossier vulgaire appelle l'apr�s-midi.
+
+HOLOFERNE.--La partie post�rieure du jour, mon tr�s-illustre monsieur,
+est une �pith�te tr�s-propre et tr�s-analogue � l'apr�s-d�n�e. Ce mot
+est bien rencontr�, bien choisi, gracieux et juste, je vous l'assure,
+monsieur, je vous l'assure.
+
+ARMADO.--Monsieur, le roi est un brave gentilhomme, et mon intime, je
+puis vous l'assurer, mon bon ami.--Quant � ce qu'il y a entre nous,
+passons l�-dessus. Je vous en prie, rappelez-vous votre science d'homme
+de cour.--Je vous en prie, meublez votre t�te.--Et parmi bien d'autres
+discours importuns et tr�s-s�rieux...--Et d'une grande importance aussi,
+vraiment.--Mais laissons cela.--Car il faut vous dire que ce sera le bon
+plaisir de Son Altesse (j'en jure par l'univers!) de s'appuyer
+quelquefois sur mon humble �paule; et, de son doigt royal, comme cela,
+de caresser l'excr�ment de ma valeur[60], mes moustaches; mais, mon cher
+coeur, laissons cela. Par l'univers! je ne vous d�bite pas des fables;
+il pla�t � Sa Grandeur de conf�rer certains honneurs particuliers �
+Armado, un guerrier, un voyageur qui a vu le monde; mais passons
+l�-dessus.--Le r�sultat en est que... mais, mon cher coeur, j'implore le
+secret;--que le roi veut me pr�senter � la princesse, mon cher poulet,
+avec quelque agr�able ostentation, ou spectacle, ou sc�ne divertissante;
+une farce gaie, ou un feu d'artifice. En cons�quence, apprenant que le
+cur�, et vous-m�me, mon cher, �tes excellents pour les �ruptions, et ces
+soudains �clats de gaiet�, pour ainsi parler, je vous en ai donn�
+connaissance dans la vue de solliciter votre assistance.
+
+[Note 60: Dans le _marchand de Venise_, Shakspeare appelle la barbe
+l'excr�ment de la valeur.]
+
+HOLOFERNE.--Monsieur, il vous faut repr�senter devant elle les neuf
+h�ros.--Monsieur Nathaniel, c'est par rapport � quelque divertissement
+ou passe-temps, quelque spectacle dans la partie post�rieure de ce jour,
+pour �tre ex�cut� par notre assistance... � l'ordre du roi, et de ce
+tr�s-galant, tr�s-illustre et tr�s-savant gentilhomme... devant la
+princesse: je dis que rien ne convient tant que de repr�senter les neuf
+h�ros.
+
+NATHANIEL.--O� trouverez-vous assez de grands hommes pour les
+repr�senter?
+
+HOLOFERNE.--Josu�, vous-m�me; moi-m�me, ou ce galant gentilhomme, Judas
+Machab�e; ce berger, en ce qui concerne ses larges membres et ses forts
+muscles, surpassera Pomp�e le Grand; le page fera Hercule.
+
+MOTH.--Pardon, monsieur, il y a une erreur: l'individu mesquin de ce
+page n'a pas assez de quantit� pour repr�senter seulement le pouce de ce
+h�ros: il n'est pas aussi gros que le bout de sa massue.
+
+HOLOFERNE.--Aurai-je audience? Il repr�sentera Hercule dans sa minorit�:
+son entr�e et sa sortie seront l'�tranglement d'un serpent; et j'aurai
+une apologie pour cela.
+
+MOTH.--Un excellent plan! Ainsi, si quelqu'un de l'auditoire siffle,
+vous pourrez crier: �A merveille, Hercule! en ce moment tu �crases le
+serpent;� c'est l� le moyen de tirer parti d'un outrage, quoique peu de
+gens aient le don de le faire.
+
+ARMADO.--Et les autres h�ros?
+
+HOLOFERNE.--J'en repr�senterai trois � moi seul.
+
+MOTH.--Trois fois h�ro�que personnage!
+
+ARMADO.--Vous dirai-je une chose?
+
+HOLOFERNE.--Nous �coutons.
+
+ARMADO.--Nous aurons, si cela ne r�ussit pas, une pantomime. Je vous
+conjure, suivez.
+
+HOLOFERNE.--_Via _[61]: bonhomme Dull, tu n'as pas dit un mot pendant
+tout ce temps.
+
+[Note 61: _Via!_ courage.]
+
+DULL.--Ni n'en ai compris un, monsieur.
+
+HOLOFERNE.--Allons, nous t'emploierons.
+
+DULL.--J'en repr�senterai un dans une danse, ou � peu pr�s. Ou je
+battrai sur le tambourin pour ces dignes personnages et leur ferai
+danser une ronde.
+
+HOLOFERNE.--Tu es bien nomm�[62], honn�te Dull; � notre pi�ce; partons.
+
+(Ils sortent.)
+
+[Note 62: _Most dull_. Il joue sur le nom de Dull.]
+
+
+
+SC�NE II
+
+Devant la tente de la princesse.
+
+LA PRINCESSE, CATHERINE, ROSALINE et MARIE.
+
+
+LA PRINCESSE.--Mes ch�res amies, nous serons riches avant notre d�part
+de ces lieux, si les cadeaux pleuvent ainsi sur nous. Une dame toute
+incrust�e en diamants! Voyez ce que j'ai re�u du roi amoureux.
+
+ROSALINE.--Madame, n'y avait-il pas autre chose encore?
+
+LA PRINCESSE.--Autre chose? Oui vraiment: autant d'amour en rimes qu'on
+en peut entasser dans une feuille de papier, �crite des deux c�t�s et
+sur la marge, et partout, qu'il lui a plu de sceller avec le nom de
+Cupidon sur le cachet.
+
+ROSALINE.--C'�tait le vrai moyen de faire grandir[63] sa divinit�; car
+il y a cinq mille ans qu'il est enfant.
+
+[Note 63: �quivoque sur _wax_, cire et grandir.]
+
+CATHERINE.--Oui, et un sc�l�rat aussi, un filou.
+
+ROSALINE.--Vous ne serez jamais amis: il a tu� votre soeur.
+
+CATHERINE.--Il l'a rendue m�lancolique, triste et sombre; et elle en est
+morte: si elle e�t �t� l�g�re comme vous, d'une humeur si joviale, si
+alerte et si remuante, elle aurait pu se voir grand'm�re avant de
+mourir; et vous pourrez le devenir, vous, car un coeur l�ger vit
+longtemps.
+
+ROSALINE.--Quel sens obscur attribuez-vous � ce mot l�ger, souris?
+
+CATHERINE.--Un coeur l�ger dans une sombre beaut�.
+
+ROSALINE.--Nous avons besoin de plus de lumi�re pour vous deviner.
+
+CATHERINE.--Vous �teignez la lumi�re, si vous la prenez avec col�re[64].
+Je laisserai donc mon motif dans l'obscurit�.
+
+[Note 64: �quivoque sur _snuff_, mouchure de chandelle et acc�s de
+col�re.]
+
+ROSALINE.--Songez bien � toujours faire ce que vous faites dans les
+t�n�bres.
+
+CATHERINE.--N'en faites rien, vous; car vous �tes une fille l�g�re.
+
+ROSALINE.--En effet, je ne p�se pas autant que vous, et voil� en quoi je
+suis l�g�re.
+
+CATHERINE.--Vous ne me pesez pas[65]; c'est-�-dire que vous ne vous
+souciez pas de moi.
+
+[Note 65: _To weigh_, peser et faire cas de.]
+
+ROSALINE.--Avec grande raison; car, � mal incurable, il n'y a plus de
+soin � avoir.
+
+LA PRINCESSE.--Bien dit et bien r�pondu. Voil� de l'esprit bien employ�,
+Rosaline. Vous avez aussi re�u un pr�sent: qui vous l'a envoy�? et
+qu'est-ce que c'est?
+
+ROSALINE.--Je voudrais que vous le connussiez. Si mon visage �tait aussi
+beau que le v�tre, j'aurais les m�mes faveurs. En voici la preuve. Oui,
+j'ai des vers aussi, gr�ce � Biron. La quantit� des syllabes en est
+juste; et si le contenu l'�tait aussi, je serais la plus belle d�esse de
+la terre: je suis compar�e � vingt mille beaut�s. Oh! il a trac� mon
+portrait dans sa lettre.
+
+LA PRINCESSE.--Y a-t-il quelque ressemblance?
+
+ROSALINE.--Beaucoup dans les lettres, mais rien dans l'�loge. Belle
+comme l'encre! bonne conclusion.
+
+CATHERINE.--Belle comme un B majuscule dans un manuscrit.
+
+ROSALINE.--Gare les pinceaux! Comment! Que je ne meure pas votre
+d�bitrice, ma majuscule rouge, ma lettre d'or! Pl�t � Dieu que votre
+visage ne f�t pas si rempli d'os[66]!
+
+[Note 66: De boutons.]
+
+CATHERINE.--Que la petite v�role vous r�compense de cette saillie! et au
+diable toutes les m�chantes femmes!
+
+LA PRINCESSE, _� Catherine_.--Et vous, quel est le cadeau que vous a
+envoy� Dumaine?
+
+CATHERINE.--Ce gant, madame.
+
+LA PRINCESSE.--Est-ce qu'il ne vous en a pas envoy� deux?
+
+CATHERINE,--Oui, madame; et, par-dessus le march�, quelques milliers de
+vers d'un fid�le amant; une monstrueuse traduction d'hypocrisie, une
+vile compilation, une niaiserie profonde.
+
+MARIE.--Cette lettre et ces perles m'ont �t� envoy�es � moi par
+Longueville. La lettre est trop longue au moins d'un demi-mille.
+
+LA PRINCESSE.--Je le crois comme vous. Ne souhaiteriez-vous pas, dans le
+fond de votre coeur, que le collier f�t plus long et la lettre plus
+courte?
+
+MARIE.--Oui, ou que ses mains jointes ne pussent jamais se s�parer.
+
+LA PRINCESSE.--Nous sommes des filles bien sages, de nous moquer ainsi
+de nos amoureux!
+
+ROSALINE.--Ils sont vraiment bien plus fous d'acheter ainsi nos
+moqueries! Oh! je veux mettre ce Biron � la torture avant que je quitte
+cette cour. Que je voudrais l'avoir � mes gages seulement une semaine!
+Comme je le ferais ramper, supplier, solliciter, attendre l'occasion
+favorable et �pier les temps, d�penser son prodigue esprit en rimes sans
+r�compense; employer ses services � mon gr�, et m�me �tre fier d'�tre le
+jouet de mes railleries!... Je voudrais gouverner aussi despotiquement
+toute son existence, que s'il �tait mon fou, et moi sa destin�e.
+
+LA PRINCESSE.--Il n'est point d'hommes aussi bien attrap�s, quand une
+fois ils le sont, que ces beaux esprits chang�s en fous: la folie,
+�close dans le sein de la sagesse, s'arme de toute son autorit� et du
+secours de la science; et tous les talents de l'esprit servent � d�corer
+ses �carts.
+
+ROSALINE.--Le sang de la jeunesse ne s'enflamme jamais autant que celui
+de la gravit� r�volt�e en faveur de l'amour.
+
+MARIE.--La folie n'a point dans les fous la m�me �nergie qu'elle a dans
+les sages; lorsque l'esprit radote, toute leur intelligence ne leur sert
+qu'� para�tre encore plus simples.
+
+(Entre Boyet.)
+
+LA PRINCESSE.--Voici Boyet, la gaiet� sur le visage.
+
+BOYET.--Oh! le rire m'assassine. O� est Son Altesse?
+
+LA PRINCESSE.--Eh bien! qu'y a-t-il de nouveau, Boyet?
+
+BOYET.--Pr�parez-vous, madame, pr�parez-vous. _(A ses femmes_.) Et vous,
+belles, aux armes, aux armes! Des batteries sont dress�es contre votre
+paix. L'Amour s'avance masqu� et arm� d'arguments: vous allez �tre
+surprises: passez en revue toutes les forces de vos esprits:
+disposez-vous � faire une belle d�fense; ou, si le coeur vous manque,
+cachez vos t�tes comme des l�ches, et fuyez vite.
+
+LA PRINCESSE.--Allons, opposons saint Denis � saint Cupidon. Qui sont
+donc ces ennemis qui viennent faire assaut de propos contre nous?
+Parlez, espion, parlez.
+
+BOYET.--Sous l'ombrage frais d'un sycomore, je voulais fermer mes yeux
+une demi-heure, lorsque tout � coup, pour troubler le repos que je
+voulais prendre, je vois s'avancer vers cet ombrage, le roi et ses
+compagnons; je me glisse prudemment dans le buisson voisin, d'o� j'ai
+entendu tout ce que vous allez entendre: dans un moment, ils seront ici
+d�guis�s: leur h�raut est un joli petit fripon de page, qui a bien
+appris par coeur son ambassade: ils lui ont fait sa le�on sur ses
+gestes, sur son accent: �Voil� ce que tu dois dire, et voil� quel doit
+�tre ton maintien;� et toujours ils craignaient fort, lui disaient-ils,
+que la majest� de la princesse ne le d�concert�t; car, lui disait le
+roi: �C'est un ange que tu vas voir: cependant ne t'alarme pas, mais
+parle avec hardiesse.� Le page a r�pondu: �Un ange n'est pas m�chant,
+j'aurais peur d'elle si c'�tait un d�mon.� A cette repartie, tous ont
+�clat� de rire, et lui ont frapp� sur l'�paule, inspirant, par leurs
+�loges, plus de hardiesse au petit audacieux. L'un se frottait le coude,
+comme �a, souriait d'un air moqueur, et jurait que jamais on n'avait
+fait meilleure r�ponse; un autre, levant l'index et le pouce, criait:
+�Courage, nous en viendrons � bout, �arrive que pourra.� Un troisi�me
+cabriolait et criait: �Tout va au mieux.� Un quatri�me pirouettait sur
+son talon, et il est tomb�: aussit�t les voil� qui tombent tous l'un
+apr�s l'autre sur la terre, avec des �clats de rire si immod�r�s, que
+dans cet acc�s de rire, les larmes s�rieuses sont venues r�primer leur
+folie.
+
+LA PRINCESSE.--Mais, quoi? quoi? Est-ce qu'ils viennent nous rendre
+visite?
+
+BOYET.--Oui, madame, ils y viennent: et ils sont accoutr�s comme des
+Moscovites, ou des Russes[67]: suivant ma conjecture, leur projet est de
+vous adresser des compliments, de vous faire la cour, et de danser avec
+vous; et chacun d'eux fera son offrande d'amour � sa ma�tresse, qu'il
+reconna�tra � la couleur des cadeaux diff�rents qu'ils vous ont envoy�s.
+
+[Note 67: Les Russes �taient alors peu connus en Europe, et cette
+mascarade �tait piquante comme le serait aujourd'hui celle qui nous
+mettrait sous les yeux un peuple lointain et nouvellement d�couvert.]
+
+LA PRINCESSE.--Ah! c'est l� leur projet? Les galants auront leur paquet.
+Il faut, mesdames, nous masquer toutes; et pas un d'eux n'aura la
+faveur, en d�pit de ses pri�res, de voir un seul de nos visages.--Tenez,
+Rosaline, vous porterez ce cadeau: et alors le roi, tromp�, vous fera la
+cour, croyant la faire � sa dame. Prenez celui-ci, ma ch�re, et
+donnez-moi le v�tre; et Biron me prendra pour Rosaline.--Changez toutes
+vos rubans et vos bijoux: gr�ce � ce moyen, vos galants tromp�s par ces
+�changes, feront leur cour de travers, et prendront l'une pour l'autre.
+
+ROSALINE, _� Catherine_.--Allons, changeons: portez vos cadeaux de
+mani�re � les faire voir.
+
+CATHERINE, _� la princesse_.--Mais quel est votre but dans cet �change?
+
+LA PRINCESSE.--Mon projet est de traverser le leur. Ce qu'ils en font
+n'est qu'un badinage pour s'amuser, tromper le trompeur est tout mon
+but. Ils r�v�leront leurs secrets � celles que, dans leur m�prise, ils
+croiront leurs ma�tresses, et ensuite, � la premi�re occasion que nous
+aurons de les revoir � visage d�couvert, pour leur parler et les
+complimenter, ils seront l'objet de nos railleries.
+
+ROSALINE.--Mais danserons-nous s'ils nous y invitent?
+
+LA PRINCESSE.--Non; pour rien au monde, nous ne remuerons le pied, et ne
+rendrons aucun compliment;--pas un mot de remerciement � leurs discours
+�tudi�s: et d�tournons le visage, tandis qu'ils nous parleront.
+
+BOYET.--Oh! le d�dain tuera le courage de l'orateur, et lui fera oublier
+tout son r�le.
+
+LA PRINCESSE.--C'est bien l� ce que je veux: et je suis s�re que le
+reste du compliment ne pourra jamais para�tre au jour, si l'orateur est
+une fois hors de contenance. Il n'est rien de plus divertissant que de
+d�router un badinage par un autre: faisons-nous un amusement de leur
+projet de s'amuser de nous sans qu'ils puissent prendre leur revanche.
+Ainsi le rire sera pour nous seules, et nous nous divertirons du tour
+qu'ils voulaient nous jouer; et eux, en se voyant bien raill�s, ils s'en
+retourneront avec leur honte.
+
+(On entend des trompettes.)
+
+BOYET.--La trompette sonne: masquez-vous: voil� les masques qui
+viennent.
+
+(La princesse et ses femmes se masquent.)
+
+(Le roi, Biron, Longueville et Dumaine paraissent, d�guis�s et v�tus �
+la moscovite, Moth les pr�c�de accompagn� de musiciens, etc.)
+
+MOTH.--�Hommage et salut, beaut�s les plus belles de la terre.�
+
+BOYET.--Belles, comme peut l'�tre un masque de taffetas.
+
+MOTH.--�C�leste �lite des plus belles dames...� (les dames lui tournent
+le dos) �qui aient jamais tourn� leur dos aux regards des mortels.�
+
+BIRON, _le reprenant_.--Leurs yeux, petit mis�rable, leurs yeux.
+
+MOTH.--�Qui aient jamais tourn� leurs yeux vers les regards des
+mortels.--Par, par....
+
+BOYET.--Oh! te voil� d�concert�.
+
+MOTH.--�Par votre faveur, accordez-nous, c�lestes esprits, de ne pas
+nous regarder.
+
+BIRON.--�De nous regarder une fois, �tourdi.
+
+MOTH.--�De nous regarder une seule fois avec vos yeux brillants comme le
+soleil.... Avec vos yeux brillants comme le soleil.�
+
+BOYET.--Elles ne r�pondront pas � cette �pith�te: tu ferais mieux de
+dire: �des yeux brillants comme des yeux de filles.�
+
+MOTH, _troubl�_.--Elles ne m'�coutent pas, et cela me trouble.
+
+BIRON.--Est-ce l� tout ton savoir-faire? Retire-toi, petit malheureux.
+
+ROSALINE.--Que nous veulent ces �trangers? Boyet, sachez leurs
+intentions. S'ils parlent notre langue, nous d�sirons que quelque homme
+sens� nous instruise de leurs vues. Voyez ce qu'ils veulent.
+
+BOYET.--Que demandez-vous de la princesse?
+
+BIRON.--Rien que la paix et une galante visite.
+
+ROSALINE.--Eh bien! que demandent-ils?
+
+BOYET.--Rien que la paix et l'honneur de vous visiter.
+
+ROSALINE.--Tout cela leur est accord�, ainsi dites-leur de se retirer.
+
+BOYET, _� Biron_.--Elle dit que vous avez tout cela, et que vous pouvez
+vous retirer.
+
+LE ROI.--Dites-lui que nous avons mesur� bien des milles, pour danser un
+menuet avec elle sur ce gazon.
+
+BOYET.--Ils disent qu'ils ont mesur� bien des milles pour danser un
+menuet avec vous sur ce gazon.
+
+ROSALINE.--Ce n'est pas cela.--Demandez-leur combien il y a de pouces
+dans un mille; s'il est vrai qu'ils aient mesur� bien des milles, ils
+nous diront ais�ment la mesure d'un mille.
+
+BOYET.--Si pour venir ici vous avez mesur� des milles, et plusieurs, la
+princesse vous charge de lui dire combien il faut de pouces pour
+compl�ter un mille.
+
+BIRON.--Dites-lui que nous les mesurons par des pas ennuy�s.
+
+BOYET.--Elle a entendu elle-m�me votre r�ponse.
+
+ROSALINE.--H�! combien de pas ennuy�s, dans le nombre des milles
+ennuyeux que vous avez parcourus, compte-t-on dans l'espace d'un mille?
+
+BIRON.--Nous ne comptons rien de ce que nous faisons pour vous.--Notre
+z�le est si grand, si in�puisable, que nous pouvons toujours prendre
+cette peine sans les compter. Daignez nous montrer le soleil de vos
+traits, afin que, comme les sauvages, nous puissions l'adorer.
+
+ROSALINE.--Mon visage n'est qu'une lune et voil�e de nuages.
+
+LE ROI.--Heureux les nuages qui seraient comme ceux qui vous cachent.
+Daignez, brillante lune, et vous, belles �toiles de sa cour, �carter ces
+nuages et laisser tomber vos rayons sur nos yeux humides.
+
+ROSALINE.--O frivole demande! demandez quelque chose de plus
+int�ressant; ce que vous venez de demander n'est qu'un clair de lune
+dans l'eau.
+
+LE ROI.--Eh bien! pour changer, accordez-nous un tour de danse; vous
+m'ordonnez de vous faire une demande, celle-l� n'a rien d'�trange.
+
+ROSALINE.--Allons, musiciens, jouez; allons, il faut faire ce tour
+promptement.--Non, pas encore. Point de danse.--Je change comme la lune.
+
+LE ROI.--Ne voulez-vous pas danser? Comment avez-vous chang� sit�t?
+
+ROSALINE.--Vous avez pris la lune dans son plein; mais � pr�sent sa
+phase est chang�e.
+
+LE ROI.--Et cependant elle est toujours la lune, et moi je suis l'homme
+de la lune. La musique joue, accordez-nous quelques mouvements pour la
+suivre.
+
+ROSALINE.--Nos oreilles la suivent.
+
+LE ROI.--Mais il faudrait que vos pas la suivissent en m�me temps.
+
+ROSALINE.--Puisque vous �tes des �trangers, et qu'un hasard vous a
+conduits ici, nous ne serons pas si d�daigneuses; prenez nos
+mains.--Nous ne voulons pas danser.
+
+LE ROI.--Pourquoi donc prenez-vous nos mains?
+
+ROSALINE.--Uniquement pour nous quitter en amis.--Voil� ma r�v�rence,
+mes beaux galants; et l� finit le menuet.
+
+LE ROI.--De gr�ce, un peu plus de cette mesure encore; ne soyez pas si
+r�serv�es.
+
+ROSALINE.--Nous ne pouvons pas vous en donner davantage pour le prix.
+
+LE ROI.--Daignez donc vous priser vous-m�mes; � quel prix peut-on
+acheter votre compagnie?
+
+ROSALINE.--Par votre absence, et point d'autre.
+
+LE ROI.--Cela ne peut pas �tre.
+
+ROSALINE.--En ce cas, il est impossible de nous acheter; ainsi, adieu.
+Un double adieu � votre masque, et une moiti� d'adieu pour vous.
+
+LE ROI.--Si vous refusez de danser, accordez-nous du moins la gr�ce d'un
+plus long entretien.
+
+ROSALINE.--En secret donc?
+
+LE ROI.--Je n'en serai que plus enchant�.
+
+(Ils se parlent � part.)
+
+BIRON, _� la princesse_.--Belle ma�tresse � la main d'alb�tre, un mot de
+douceur avec vous.
+
+LA PRINCESSE.--Miel, lait et sucre, voil� trois mots.
+
+BIRON.--Et deux fois trois, si vous devenez si friande; hydromel, mo�t
+de bi�re et malvoisie; d� bien jet�! voil� une demi-douzaine de
+douceurs.
+
+LA PRINCESSE.--Septi�me douceur, adieu. Puisque vous avez le secret de
+piper les d�s, je ne veux plus jouer avec vous.
+
+BIRON.--Un mot en secret.
+
+LA PRINCESSE.--Oh! je vous prie, que ce mot ne soit pas une douceur!
+
+BIRON.--Vous aigrissez ma bile.
+
+LA PRINCESSE.--La bile? ce mot est amer.
+
+BIRON.--En ce cas il est � propos.
+
+(Ils causent tous bas.)
+
+DUMAINE, _� Marie_.--Voulez-vous me faire la gr�ce d'�changer un mot
+avec moi.
+
+MARIE.--Nommez-le.
+
+DUMAINE.--Belle dame.
+
+MARIE.--Parlez-vous ainsi? beau seigneur.--Voil� pour votre belle dame.
+
+DUMAINE.--Si c'est votre bon plaisir, encore un mot en secret. C'est
+pour vous dire adieu.
+
+(Ils s'entretiennent en secret.)
+
+CATHERINE, � _Longueville_.--Quoi donc? votre masque est-il sans langue?
+
+LONGUEVILLE.--Je sais pourquoi, belle dame, vous me faites cette
+question.
+
+CATHERINE.--Oh! voyons votre raison. Vite, monsieur, je br�le de la
+savoir.
+
+LONGUEVILLE.--Vous avez une double langue dans votre masque, et vous
+devriez en c�der une moiti� � mon masque muet.
+
+CATHERINE.--_Veal_, dit le Hollandais! _veal_ ne veut-il pas dire veau?
+
+LONGUEVILLE.--Un veau, belle dame.
+
+CATHERINE.--Non, un beau seigneur, veau.
+
+LONGUEVILLE.--Partageons le mot.
+
+CATHERINE.--Non, je ne veux pas �tre votre moiti�, gardez tout; cela
+pourra devenir un boeuf.
+
+LONGUEVILLE.--Hol�! comme vous vous buttez dans ces pointes de
+raillerie. Voudriez-vous donner des cornes, chaste dame? n'en faites
+rien.
+
+CATHERINE.--Mourez donc, veau, avant que les cornes vous poussent.
+
+LONGUEVILLE.--Un mot � part avec vous, avant de mourir.
+
+CATHERINE.--Parlez donc bas, de peur que le boucher n'entende. (Ils
+causent � part.)
+
+BOYET.--La langue des filles caustiques est aussi tranchante que le fil
+invisible du rasoir; elle peut couper un cheveu imperceptible, si fin,
+qu'il �chappe � la vue. La finesse de leurs traits est au-dessus de
+toute imagination: leurs saillies ont des ailes plus rapides que les
+boulets, que le vent, que la pens�e, et tout ce qu'il y a de plus
+rapide.
+
+ROSALINE.--Pas un mot de plus, mes filles. Rompons, rompons l'entretien.
+
+BIRON.--Par le ciel, il faut nous retirer bafou�s, et le gosier sec.
+
+LE ROI.--Adieu, folles; vous avez un bien pauvre esprit.
+
+(Le roi, les seigneurs, Moth, les musiciens et la suite s'en vont.)
+
+LA PRINCESSE.--Vingt fois adieu, mes Moscovites gel�s. Est-ce l� cette
+g�n�ration d'esprits si admir�s?
+
+BOYET.--Des lumi�res qu'un l�ger souffle de votre bouche a �teintes.
+
+ROSALINE.--Ces esprits charg�s d'embonpoint; grossiers, grossiers,
+�pais, �pais.
+
+LA PRINCESSE.--Le pauvre esprit pour l'esprit d'un roi! Les d�plorables
+railleries! croyez-vous qu'ils ne se pendront pas de d�sespoir cette
+nuit? ou qu'ils oseront montrer de nouveau leurs visages, autrement que
+sous le masque? Ce Biron qu'on dit si ing�nieux �tait tout d�contenanc�.
+
+ROSALINE.--Oh! ils �taient l� dans la plus d�plorable situation: encore
+un bon mot, et le roi se mettait � pleurer.
+
+LA PRINCESSE.--Biron a jur�, tout d�contenanc�.
+
+MARIE.--Dumaine et son �p�e �taient � mon service; non point, lui ai-je
+dit: et aussit�t mon beau serviteur est rest� muet.
+
+CATHERINE.--Le seigneur Longueville m'a dit que j'avais dompt� son
+coeur; et savez-vous comment il m'a appel�e?
+
+LA PRINCESSE.--Mal de coeur peut-�tre?
+
+CATHERINE.--Oui, d'honneur.
+
+LA PRINCESSE.--Va-t'en, mal de coeur toi-m�me.
+
+ROSALINE.--Allons, on trouverait ais�ment de meilleurs esprits parmi les
+docteurs en bonnet selon les statuts[68].--Mais, savez-vous une chose?
+Le roi a jur� qu'il �tait amoureux de moi.
+
+[Note 68: Le bonnet de statut. Un acte du parlement enjoignit aux
+personnes au-dessus de six ans de porter, les dimanches et jours de
+f�te, un bonnet de laine fabriqu� en Angleterre: il n'y avait
+d'exception que pour la noblesse.]
+
+LA PRINCESSE.--Et le subtil Biron m'a engag� sa foi.
+
+CATHERINE.--Et Longueville �tait n� pour me servir.
+
+MARIE.--Dumaine est � moi, aussi ins�parable que l'�corce l'est de
+l'arbre.
+
+BOYET.--Madame, et vous, mes jolies nymphes, pr�tez-moi l'oreille, ils
+vont revenir tout � l'heure ici sous leur forme naturelle: car il n'est
+pas possible qu'ils dig�rent jamais ce cruel affront.
+
+LA PRINCESSE.--Ils vont revenir, dites-vous?
+
+BOYET.--Ils reviendront, ils reviendront, Dieu le sait; et vous les
+verrez danser de joie, quoique vous les ayez renvoy�s estropi�s � force
+de coups. Ainsi, changez de couleurs, et, lorsqu'ils repara�tront en ce
+lieu, �panouissez-vous comme de belles roses au souffle de l'�t�.
+
+LA PRINCESSE.--Qu'entendez-vous par �panouir? Qu'entendez-vous par l�?
+Parlez de fa�on qu'on vous entende.
+
+BOYET.--De belles dames masqu�es sont des roses dans le bouton.
+D�masqu�es, et montrant leur incarnat et leurs douces nuances, ce sont
+des anges sortis des nuages, ou des roses �panouies.
+
+LA PRINCESSE.--Laissez l� vos ambigu�t�s. Que ferons-nous, s'ils
+reviennent nous faire la cour en face?
+
+ROSALINE.--Ma ch�re princesse, si vous voulez vous laisser conduire par
+mes avis, raillons-les encore en face, comme nous les avons raill�s
+masqu�s. Plaignons-nous � eux de ce qu'il est venu ici des fous d�guis�s
+en Moscovites, dans un accoutrement bizarre, et demandons avec
+�tonnement ce que pouvaient �tre ces aventuriers, quel �tait le but de
+leur plate com�die, de leur prologue grossier, de tout leur proc�d� si
+ridicule, et de leur arriv�e dans notre tente.
+
+BOYET.--Mesdames, retirez-vous: nos galants sont � deux pas.
+
+LA PRINCESSE.--Courons � nos tentes, comme des chevreuils fuyant dans la
+plaine.
+
+(La princesse sort avec ses femmes.)
+
+(Entrent le roi, Biron, Longueville et Dumaine dans leur costume
+habituel.)
+
+LE ROI, _� Boyet_.--Salut, beau chevalier; o� est la princesse?
+
+BOYET.--Elle s'est retir�e dans sa tente: Votre Majest� a-t-elle � me
+charger de quelques ordres pour elle?
+
+LE ROI.--Dites-lui que je la prie de m'accorder une minute d'audience.
+
+BOYET.--Je vais la lui demander, sire; et je sais qu'elle vous
+l'accordera.
+
+(Boyet sort.)
+
+BIRON.--Cet homme se gorge d'esprit comme les pigeons de pois[69], et il
+se d�gorge quand il pla�t � Dieu. Colporteur de bons mots, il revend sa
+denr�e aux vigiles des f�tes, aux assembl�es, aux march�s, aux foires;
+et nous qui le vendons en gros, Dieu le sait, nous n'avons pas
+l'avantage de l'�taler, comme lui, en vue des chalands. Ce galant sait
+accrocher les jeunes filles � sa manche, comme une �pingle. S'il e�t �t�
+Adam il aurait tent� �ve: il sait d�couper les viandes et grasseyer.
+Quoi! c'est lui qui baisait sa main en signe de politesse; c'est le
+singe des belles mani�res, c'est monsieur le pr�cieux; quand il joue au
+trictrac, il fait gronder les d�s en termes choisis, il chante le t�nor
+avec gr�ce, et dans l'art de ma�tre des c�r�monies, le surpasse qui
+pourra. Les dames l'appellent mon cher coeur; chaque degr� que son pied
+foule en montant, le baise et le caresse: c'est une fleur qui
+s'�panouit, qui sourit � chacun pour montrer ses dents blanches comme
+des os de baleine.--Et toutes les consciences qui ne veulent pas mourir
+endett�es lui donnent le titre m�rit� de Boyet � la langue mielleuse.
+
+[Note 69: Proverbe populaire.]
+
+LE ROI.--Que les aphthes saisissent sa langue emmiell�e, je le lui
+souhaite de tout mon coeur, pour le punir d'avoir d�concert� le page
+d'Armado dans son r�le!
+
+(Entrent la princesse, Rosaline, Marie, Catherine, Boyet, et suite.)
+
+BIRON.--Regardez, voil� qu'on vient!--Savoir-vivre! qu'�tais-tu avant
+que cet homme t'enseign�t, et qu'es-tu maintenant?
+
+LE ROI.--Salut, aimable princesse, et bonjour.
+
+LA PRINCESSE.--Bonjour dans un salut[70], ce n'est pas tr�s-bien, je
+crois.
+
+[Note 70: _Hail_, salut et gr�le.]
+
+LE ROI.--Interpr�tez mieux mes paroles.
+
+LA PRINCESSE.--Faites-moi de meilleurs souhaits, je vous le permets.
+
+LE ROI.--Nous sommes venus vous rendre visite, et nous nous proposons
+aujourd'hui de vous conduire � notre cour: accordez-nous cette faveur.
+
+LA PRINCESSE.--Je ne sortirai point de ce parc; et songez � observer
+votre voeu. Ni Dieu ni moi n'aimons les hommes parjures.
+
+LE ROI.--Ne me faites pas un crime d'une faute dont vous �tes la cause.
+C'est la vertu de vos yeux qui me force � rompre mon serment.
+
+LA PRINCESSE.--Vous appelez vertu ce qui n'en est pas une; vous auriez
+d� dire vice, car jamais la vertu n'a l'effet de faire violer les
+serments des hommes. Par mon honneur virginal, aussi pur que le lis
+encore intact, je proteste que, quand on me ferait souffrir les plus
+horribles tourments, je ne consentirais jamais � accepter un asile dans
+votre palais, tant j'abhorre d'�tre cause qu'on viole des serments faits
+au ciel avec sinc�rit�.
+
+LE ROI.--Oh! vous avez men� ici une vie solitaire et triste, sans voir
+le monde, sans recevoir la moindre visite; et c'est une honte pour nous.
+
+LA PRINCESSE.--Non pas, seigneur; il n'en est pas ainsi, je vous le
+jure. Nous avons eu ici des divertissements et des amusements fort
+agr�ables. Il n'y a pas encore longtemps qu'une troupe de Russes vient
+de nous quitter.
+
+LE ROI.--Comment, madame, des Russes?
+
+LA PRINCESSE.--Oui, d'honneur, seigneur; de braves galants, pleins de
+politesse, tout brillants de magnificence.
+
+ROSALINE.--Madame, dites la v�rit�.--Ce portrait ne leur ressemble pas,
+seigneur. C'est par politesse, et pour se conformer au ton de nos jours,
+que la princesse leur donne un �loge qu'ils ne m�ritent pas. Il est bien
+vrai que nous quatre nous avons �t� abord�es par quatre galants en
+habits russes; ils sont rest�s ici une heure, et ont beaucoup parl�;
+mais pendant toute cette heure, seigneur, nous n'avons pas eu le bonheur
+de leur entendre dire un mot heureux. Je n'ose pas les appeler des fous,
+mais ce que je crois, c'est que quand ils ont soif, il y a des fous qui
+auraient bien envie de boire.
+
+BIRON.--Cette plaisanterie me s�che le gosier � moi.--Ma belle, ma
+charmante, votre esprit tourne la sagesse en folie: lorsque nos yeux
+veulent saluer l'oeil enflamm� des cieux, � force de lumi�re nous
+perdons la lumi�re; votre talent est �blouissant comme lui; aupr�s de
+votre sagesse, la sagesse d'autrui ne para�t que folie; et ce qu'il y a
+de plus riche nous para�t pauvret�.
+
+ROSALINE.--Ce que vous dites annonce que vous �tes riche et sage; car �
+mes yeux...
+
+BIRON.--Je suis un fou, d�nu� de tout, n'est-ce pas?
+
+ROSALINE.--Si ce n'est que vous prenez ce qui vous appartient, il serait
+mal � vous de m'arracher les paroles de la bouche.
+
+BIRON.--Oh! je suis tout � vous, avec tout ce que je poss�de.
+
+ROSALINE.--Un fou tout entier � moi?
+
+BIRON.--Je ne puis vous donner moins.
+
+ROSALINE.--Quel �tait, dans les masques, celui que vous portiez?
+
+BIRON.--O� cela? Quand? Quel masque? Pourquoi me demandez-vous cela?
+
+ROSALINE.--H�! l� m�me, dans ce temps-l� m�me, ce masque, oui, cet �tui
+superflu, qui montrait le plus beau visage et cachait le plus laid.
+
+LE ROI, _� ceux de sa suite_.--Nous sommes d�couverts: elles vont nous
+accabler de leurs railleries.
+
+DUMAINE.--Avouons tout, et tournons la chose en plaisanterie.
+
+LA PRINCESSE, _au roi_.--Quoi! vous restez confondu, seigneur? Pourquoi
+Votre Altesse a-t-elle l'air si s�rieux?
+
+ROSALINE.--Au secours! tenez-lui le front; pourquoi p�lissez-vous? Le
+mal de mer, je crois: ils viennent de Moscovie.
+
+BIRON.--Ainsi, les �toiles versent les calamit�s pour punir le parjure:
+quel front d'airain pourrait y r�sister?--Me voici en butte � vos
+traits, belle dame; lancez sur moi toutes les bord�es de votre science;
+�crasez-moi de vos affronts; accablez-moi de vos moqueries; hachez-moi
+du tranchant de vos �pigrammes. Ah! je ne viendrai plus vous prier de
+danser; je ne viendrai plus vous faire ma cour en habit russe.--Oh! je
+ne me fierai plus aux harangues �tudi�es, ni aux mouvements de la langue
+d'un page; je ne viendrai plus visiter mon amie en masque, ni faire ma
+cour en rimes semblables aux chansons d'un aveugle jouant de la harpe;
+adieu phrases de taffetas, compliments soyeux, hyperboles � triple
+�tage, affectation recherch�e et figures p�dantesques! ces insectes
+bourdonnants m'ont souffl� comme un ballon; je les abjure, et je
+proteste ici, par ce gant si blanc (combien la main l'est encore
+davantage, Dieu le sait!), que d�sormais, en faisant ma cour,
+l'expression de mes sentiments sera �nonc�e par des oui et des non, de
+l'�toffe la plus unie et la plus simple; et, pour commencer ma r�forme,
+ma belle, que Dieu m'assiste, oui, comme mon amour pour vous est ferme
+et constant, de la trempe la plus pure, sans paille ni alliage!
+
+ROSALINE.--Sans _sans_[71], je vous prie.
+
+[Note 71: C'est-�-dire _sans_ mot fran�ais. Biron avait r�p�t� le mot
+_sans_.]
+
+BIRON.--Il me reste encore un brin de mon ancienne rage.--Daignez me
+supporter: je suis un malade; je me d�ferai de cela par degr�s.
+Attendez: voyons.--�crivez sur ces trois personnes: �Que le Seigneur ait
+piti� de nous[72]!� Ils sont infect�s; le mal est dans leurs coeurs: ils
+ont la peste; ils l'ont gagn�e de vos yeux. Ces braves seigneurs sont
+visit�s par la col�re du ciel; et vous n'en �tes pas exemptes, mesdames;
+je vois sur vous les signes de la main de Dieu.
+
+[Note 72: Inscription plac�e sur l'hospice des pestif�r�s.]
+
+LA PRINCESSE.--Ceux qui nous ont donn� ces signes en doivent �tre
+d�livr�s.
+
+BIRON.--Nos �tats sont confisqu�s; ne cherchez pas � achever de nous
+d�truire.
+
+ROSALINE.--Pas du tout! Comment se pourrait-il que vous fussiez
+confisqu�s? c'est vous qui faites le proc�s[73].
+
+[Note 73: �quivoque sur _sue_, proc�s et offre, hommage, demande,
+supplique.]
+
+BIRON.--Ah! paix! Je ne veux plus avoir d'affaire avec vous.
+
+ROSALINE.--Vous n'aurez pas non plus affaire � moi, si ma volont�
+s'accomplit.
+
+BIRON.--Parlez pour vous-m�me: mon esprit est � bout.
+
+LE ROI, � _la princesse_.--Enseignez-nous, belle princesse, quelque
+belle excuse pour notre grave offense.
+
+LA PRINCESSE.--La plus belle excuse, c'est l'aveu. N'�tiez-vous pas ici,
+il n'y a qu'un moment, tous d�guis�s?
+
+LE ROI.--J'y �tais, madame.
+
+LA PRINCESSE.--Et avez-vous re�u une bonne le�on?
+
+LE ROI.--Oui, certes, madame.
+
+LA PRINCESSE.--Et lorsque vous �tiez ici, qu'avez-vous murmur� �
+l'oreille de votre dame?
+
+LE ROI.--Que je la prisais plus que tous les tr�sors du monde entier.
+
+LA PRINCESSE.--Et lorsqu'elle vous sommera de tenir votre promesse, vous
+la repousserez.
+
+LE ROI.--Non, sur mon honneur.
+
+LA PRINCESSE.--Allons, allons, mod�rez-vous: apr�s un premier serment
+viol�, vous ne vous faites aucun scrupule de vous parjurer encore.
+
+LE ROI.--M�prisez-moi si jamais je viole ce serment que j'ai fait.
+
+LA PRINCESSE.--Je vous m�priserai donc; et un peu de
+mod�ration.--Rosaline, que vous a murmur� ce Russe tout bas dans
+l'oreille?
+
+ROSALINE.--Madame, il a jur� que je lui �tais ch�re et pr�cieuse comme
+la prunelle de l'oeil, et il m'a �lev�e au-dessus du prix de cet
+univers, ajoutant, de plus, qu'il m'�pouserait, ou qu'il mourrait mon
+amant.
+
+LA PRINCESSE.--Dieu te donne joie de lui! Le noble prince tient bien
+honorablement sa promesse!
+
+LE ROI.--Que voulez-vous dire, madame? Sur ma vie, sur ma foi, je n'ai
+jamais fait pareil serment � cette dame.
+
+ROSALINE.--Par le ciel, vous l'avez fait; et, pour le confirmer, vous
+m'avez fait ce pr�sent; mais reprenez-le, monsieur, le voil�.
+
+LE ROI.--Ce pr�sent, c'est � la princesse que je l'ai donn� avec ma foi.
+Je l'ai bien distingu�e � ce joyau qu'elle portait sur sa manche.
+
+LA PRINCESSE.--Pardonnez-moi, seigneur; c'�tait elle qui portait ce
+joyau; quant � moi, c'est le seigneur Biron, je lui en rends gr�ces, qui
+est mon amant.--Eh bien! Biron, voulez-vous de moi, ou voulez-vous que
+je vous rende votre perle?
+
+BIRON.--Ni l'un ni l'autre; je vous les abandonne tous deux.--Je devine
+le fin mot.--Il y a eu ici un complot (parce qu'elles ont �t� instruites
+d'avance de notre divertissement); elles ont tout dispos� pour le battre
+en ruine comme une com�die de No�l. Quelque rediseur, quelque patelin,
+quelque mauvais bouffon, quelque flagorneur, quelque �cuyer tranchant,
+quelque plaisant � qui l'exc�s du rire a rid� les joues, et qui sait
+comment il faut s'y prendre pour faire rire la princesse, lorsqu'elle
+est de belle humeur, a d�voil� d'avance tout notre projet; et sur cette
+d�couverte, les dames ont chang� de pr�sents; et nous, d��us par les
+couleurs auxquelles nous pensions les reconna�tre, nous n'avons fait la
+cour qu'au signe trompeur qui nous a �gar�s. A pr�sent, pour aggraver
+notre parjure, nous sommes parjures encore une fois, la premi�re par
+notre bonne volont�, et la seconde par notre m�prise. (_A Boyet_.) Et ne
+serait-ce pas vous-m�me qui auriez �vent� notre secret et notre plan de
+divertissement pour nous rendre ainsi parjures? N'avez-vous pas trouv�
+la mesure du pied de la princesse[74]? Ne savez-vous pas toujours
+sourire � ses yeux, et vous tenir debout entre son dos et le feu,
+portant une assiette et faisant le bouffon? Vous avez d�concert� notre
+page dans son discours: allez, tout vous est permis; mourez quand vous
+voudrez, une jupe vous servira de linceul. Vous me lorgnez d'un oeil
+malin, n'est-il pas vrai? Vous avez un oeil qui blesse comme une �p�e de
+plomb.
+
+[Note 74: Phrase proverbiale; flatter quelqu'un, et s'insinuer dans ses
+bonnes gr�ces.]
+
+BOYET.--Cette brave lice a �t� vigoureusement courue jusqu'au bout.
+
+BIRON.--Voyez, il joute encore: en voil� assez; moi, j'ai fini. (_Entre
+Costard_.) Te voil� venu fort � propos, �tout esprit;� tu viens terminer
+une belle dispute.
+
+COSTARD.--�O mon Dieu, monsieur,� ils voudraient savoir si les trois
+h�ros[75] viendront ou non.
+
+[Note 75: Shakspeare veut tourner en ridicule _l'histoire des neuf
+preux_.]
+
+BIRON.--Comment, est-ce qu'ils ne sont que trois?
+
+COSTARD.--Non, monsieur; mais cela est fort beau, car chacun en
+repr�sente trois.
+
+BIRON.--Et trois fois trois font neuf.
+
+COSTARD.--Non pas, monsieur; sous votre bon plaisir, monsieur, j'esp�re
+qu'il n'en est pas ainsi: vous ne pouvez pas demander notre
+interdictions[76], monsieur; je vous le proteste, monsieur, nous savons
+ce que nous savons.--J'esp�re que trois fois trois, monsieur?
+
+[Note 76: Nous ne sommes pas fous.]
+
+BIRON.--Ne font pas neuf?
+
+COSTARD.--Sous votre bon plaisir, monsieur, nous savons � combien cela
+se monte.
+
+BIRON.--Par Jupiter, j'ai toujours pris trois fois trois pour neuf.
+
+COSTARD.--�O mon Dieu, monsieur,� vous seriez bien malheureux, si vous
+�tiez oblig� de gagner votre vie � compter, monsieur.
+
+BIRON.--Combien donc cela fait-il?
+
+COSTARD.--�O mon Dieu, monsieur,� les parties elles-m�mes, les acteurs,
+monsieur, vous l'apprendront, combien cela fait. Quant � moi, je ne
+suis, comme on dit, que pour faire un homme dans un pauvre homme,
+_Pompion le Grand_, monsieur.
+
+BIRON.--Es-tu un des neuf h�ros?
+
+COSTARD.--Il leur a plu de me croire digne d'�tre Pompion le Grand:
+quant � moi, je ne connais pas le rang ni le caract�re de ce champion;
+mais je dois le repr�senter.
+
+BIRON.--Va, dis-leur de se pr�parer.
+
+COSTARD.--Nous donnerons � cela une jolie tournure, monsieur; nous y
+donnerons quelque attention.
+
+LE ROI.--Biron, ils nous feront affront; qu'ils n'approchent pas.
+
+(Costard sort.)
+
+BIRON.--Nous sommes � l'�preuve de la honte, mon prince; et il y a une
+certaine politique � avoir un spectacle plus mauvais que celui qu'ont
+donn� le roi et ses courtisans.
+
+LE ROI.--Qu'ils s'abstiennent de venir.
+
+LA PRINCESSE.--Allons, mon noble prince, laissez-vous gouverner par moi
+� pr�sent. Souvent le spectacle pla�t d'autant plus que les acteurs
+savent moins les moyens de plaire. Lorsque le z�le s'�vertue pour
+contenter les spectateurs, et que la pi�ce expire au milieu des efforts
+de ceux qui la repr�sentent, alors la ridicule confusion des caract�res
+donne plus de gaiet�, c'est ainsi qu'on voit de grands projets, conduits
+avec beaucoup de peine, avorter d�s leur naissance.
+
+BIRON.--Une juste description de notre mascarade, seigneur!
+
+(Entre Armado.)
+
+ARMADO.--Oint du Seigneur, j'implore de votre auguste souffle autant de
+temps qu'il m'en faut pour prof�rer une couple de mots.
+
+(Il converse en particulier avec le roi et lui remet un papier.)
+
+LA PRINCESSE.--Cet homme sert-il Dieu?
+
+BIRON.--Pourquoi me faites-vous cette question, madame?
+
+LA PRINCESSE.--C'est qu'il ne parle pas comme les hommes que Dieu a
+cr��s.
+
+ARMADO, _haut_.--Cela est �gal, mon beau, mon gracieux, mon doux
+monarque; car je proteste que le ma�tre d'�cole est excessivement
+original, trop, trop vain; trop, trop vain; mais nous risquerons la
+chose, comme on dit: _alla fortuna della guerra_. Je vous souhaite la
+paix de l'�me, mon royal couple.
+
+(Il sort.)
+
+LE ROI.--Il y a � parier que nous aurons une belle repr�sentation de
+h�ros. Lui, il repr�sente Hector de Troie; le paysan, Pomp�e le Grand;
+le cur� de la paroisse, Alexandre; le page d'Armado, Hercule; le p�dant,
+Judas Machab�e; et si ces quatre h�ros r�ussissent d'abord dans leur
+premier r�le, les quatre changeront de costume et repr�senteront les
+cinq autres.
+
+BIRON.--Il y en a cinq dans la premi�re pi�ce.
+
+LE ROI.--Non, vous vous trompez.
+
+BIRON.--Le p�dant, le fanfaron, le pr�tre de campagne, le fou et le
+page... Une vraie partie de neuf[77], et le monde entier n'en fournirait
+pas cinq pareils, � les prendre chacun dans leur caract�re.
+
+[Note 77: _Ad novum_ pour _novem_, ancien jeu de d�s.]
+
+LE ROI.--Le vaisseau est � la voile, et le voil� qui cingle en pleine
+mer.
+
+(On apporte des si�ges.)
+
+(Entre Costard repr�sentant Pomp�e.)
+
+COSTARD.--Moi, je suis Pomp�e.
+
+BOYET.--Vous mentez, vous n'�tes pas Pomp�e.
+
+COSTARD.--Je suis Pomp�e....
+
+BOYET.--Avec la t�te d'un l�opard sur le genou.
+
+BIRON.--Bien dit, vieux railleur; il faut que je me r�concilie avec toi.
+
+COSTARD.--Je suis Pomp�e, Pomp�e surnomm� _le gros_.
+
+DUMAINE, _le reprenant_.--Le grand.
+
+COSTARD.--Oui, c'est le grand, monsieur: Pomp�e surnomm� _le grand_,
+qui, souvent dans le champ de bataille, avec mon bouclier et mon �p�e,
+ai fait suer mon ennemi. Voyageant le long de cette c�te, je suis venu
+ici par hasard, et je d�pose mes armes aux pieds de cette belle
+damoiselle de France. _(A la princesse_.) Si Votre Altesse voulait dire:
+Pomp�e, je vous rends gr�ces, j'aurais fini.
+
+LA PRINCESSE.--Grand merci, grand Pomp�e.
+
+COSTARD.--Je n'en m�ritais pas tant, mais je me flatte que j'ai �t�
+parfait; je n'ai fait qu'une petite faute dans le mot _grand_.
+
+BIRON.--Mon chapeau contre un sou que Pomp�e est le meilleur des neuf
+h�ros.
+
+(Entre Nathaniel repr�sentant Alexandre.)
+
+NATHANIEL.--Lorsque je vivais dans le monde, j'�tais le monarque du
+monde; j'�tendis ma puissance et mes conqu�tes � l'orient, � l'occident,
+au nord et au midi; mon �cusson annonce clairement que je suis
+Alisandre.
+
+BOYET.--Votre nez dit que non, que vous ne l'�tes pas; car il est trop
+droit.
+
+BIRON, _� Boyet_.--Votre nez sent � merveille que non, mon chevalier au
+flair d�licat.
+
+LA PRINCESSE.--Le conqu�rant est tout en d�sarroi; continuez, bon
+Alexandre.
+
+NATHANIEL.--Lorsque je vivais dans le monde, j'�tais le ma�tre du monde.
+
+BOYET.--Rien de plus vrai; cela est juste, vous l'�tiez, Alisandre.
+
+BIRON.--Pomp�e le Grand!
+
+COSTARD.--Votre serviteur, et Costard.
+
+BIRON.--Enl�ve le conqu�rant, enl�ve Alisandre!
+
+COSTARD.--Oh! monsieur, vous avez mis en d�route Alisandre le
+conqu�rant. (_A Nathaniel_.) Tu seras pour cela d�pouill� de ton habit
+de repr�sentation; et ton lion, qui tient sa hache d'armes, assis sur
+une chaise de garde-robe, sera donn� � un Ajax, et ce sera lui qui sera
+le neuvi�me h�ros. Un conqu�rant qui tremble de parler! Fuis de honte,
+Alisandre. (_Nathaniel sort_.) S'il vous pla�t, c'est un bon homme
+imb�cile, un honn�te homme, voyez-vous, et bient�t mis en d�route! C'est
+un excellent voisin, en v�rit�, et un fort bon joueur de boule.... Mais,
+pour Alisandre, h�las! vous voyez ce que c'est, il s'est un peu tromp�
+dans son r�le. Mais voil� des h�ros qui expliqueront leur pens�e un peu
+mieux.
+
+BIRON.--Rangez-vous de ce c�t�, bon Pomp�e.
+
+(Entrent Holoferne repr�sentant Judas Machab�e, et Moth repr�sentant
+Hercule.)
+
+HOLOFERNE, _montrant le page Moth_.
+
+Le grand Hercule est repr�sent� par ce marmot,
+Lui dont la massue a tu� Cerb�re, ce _Canus_[78] � triple t�te;
+Et lorsqu'il n'�tait encore qu'un nain, qu'un petit enfant au berceau,
+Il vous �tranglait ainsi les serpents dans ses _manus
+Quoniam_, il semble �tre ici dans la minorit�.
+_Ergo_, je viens avec cette apologie.--
+
+
+(A Moth.)
+
+    Conserve quelque majest� dans ton _exit_, et disparais.
+
+[Note 78: Pour _canis_, chien.]
+
+(Moth sort.)
+
+HOLOFERNE _continuant_.--Je suis Judas....
+
+DUMAINE.--Un Judas!
+
+HOLOFERNE.--Non pas l'Iscariote, monsieur.--Je suis Judas, nomm�
+_Macchab�us_.
+
+DUMAINE.--Un Judas Machab�e tondu[79] est un vrai Judas nu.
+
+[Note 79: _Y cleped_ nomm�, et _clipt_, tondu.]
+
+BIRON.--Un tra�tre qui donne des baisers! Comment es-tu devenu Judas?
+
+HOLOFERNE.--Je suis Judas.
+
+DUMAINE.--A ta plus grande honte, Judas.
+
+HOLOFERNE.--Que pr�tendez-vous, monsieur?
+
+DUMAINE.--Faire que Judas se pende lui-m�me.
+
+HOLOFERNE.--Commencez, monsieur; vous �tes mon a�n�.
+
+BIRON.--Bien r�pondu: Judas fut pendu � un sureau.
+
+HOLOFERNE.--Je ne me laisserai pas d�concerter.
+
+BIRON.--Parce que tu es d�visag�[80].
+
+[Note 80: _To out face one_, d�visager quelqu'un.]
+
+HOLOFERNE.--Qu'est-ce que c'est que cela?
+
+BOYET.--Une t�te de cistre.
+
+DUMAINE.--La t�te d'une �pingle � cheveux.
+
+BIRON.--Une t�te de mort dans une bague.
+
+LONGUEVILLE.--La face d'une vieille m�daille romaine, � demi effac�e.
+
+BOYET.--Le pommeau du sabre de C�sar.
+
+DUMAINE.--La t�te sculpt�e en os d'une cartouche de soldat.
+
+BIRON.--Une demi-joue de saint George dans une boucle.
+
+DUMAINE.--Oui, dans une boucle de plomb.
+
+BIRON.--Oui, et que porte � son chapeau un arracheur de dents. Et �
+pr�sent, poursuis; car nous t'avons mis en bonne contenance.
+
+HOLOFERNE.--Vous m'avez mis hors de contenance.
+
+BIRON.--Tu mens; nous t'avons donn� des physionomies.
+
+HOLOFERNE.--Mais vous les avez toutes d�visag�es.
+
+BIRON.--C'est ce que nous te ferions si tu �tais un lion.
+
+BOYET.--Mais comme c'est un �ne, qu'il s'en aille: et l�-dessus, adieu,
+cher Jude; pourquoi restes-tu?
+
+DUMAINE.--Pour la fin de son nom.
+
+BIRON.--Pour l'�ne ajout� au Jude: donnez-la-lui.--Jud-as[81], va-t'en.
+
+[Note 81: _Jude ass_, pour Jude �ne.]
+
+HOLOFERNE.--Cela n'est pas g�n�reux, ni poli, ni honn�te.
+
+BOYET.--Une lumi�re pour monsieur Judas, il fait nuit; il pourrait se
+jeter par terre.
+
+LA PRINCESSE.--H�las! le pauvre Machab�e, comme il a mordu � l'hame�on!
+
+(Entre Armado, repr�sentant Hector.)
+
+BIRON.--Cache ta t�te, Achille; voici Hector qui s'avance en armes.
+
+DUMAINE.--Quand mes railleries devraient retomber sur moi, je veux
+m'�gayer en ce moment.
+
+LE ROI.--Hector n'�tait qu'un Troyen[82] en comparaison de celui-ci.
+
+[Note 82: _Trojan_, Troyen. Du temps de Shakspeare, sobriquet de
+voleur.]
+
+BOYET.--Mais est-ce bien Hector?
+
+DUMAINE.--Je pense qu'Hector n'�tait pas si bien fait.
+
+LONGUEVILLE.--Sa jambe est trop grosse pour Hector.
+
+DUMAINE.--S�rement, il est plus gras.
+
+BOYET.--Non, il est habill� au mieux en petit.
+
+BIRON.--Ce ne peut �tre l� Hector.
+
+DUMAINE.--C'est un dieu ou un peintre, car il fait des mines.
+
+ARMADO.--L'armipotent Mars, le tout-puissant des lances, a fait � Hector
+un don....
+
+DUMAINE.--Une muscade dor�e.
+
+BIRON.--Un citron.
+
+LONGUEVILLE.--Garni de clous de girofle[83].
+
+[Note 83: �trennes � la mode pour la No�l.]
+
+DUMAINE.--Non, fendu.
+
+ARMADO.--Paix!--Mars l'armipotent, le tout-puissant des lances, a fait
+un don � Hector, l'h�ritier d'Ilion: un homme d'une si infatigable
+halcine, que, s�rement, il combattrait, oui, depuis le matin jusqu'au
+soir, hors de sa tente. Je suis cette fleur....
+
+DUMAINE.--Cette menthe.
+
+LONGUEVILLE.--Cette violette.
+
+ARMADO.--Cher seigneur Longueville, tenez votre langue.
+
+LONGUEVILLE.--Je dois plut�t lui l�cher la bride: car elle court sur la
+trace d'Hector.
+
+DUMAINE.--Et Hector est un l�vrier.
+
+ARMADO.--Le cher guerrier est mort et en poussi�re: mes chers coeurs, ne
+battez pas les cendres des morts. Quand il respirait, c'�tait un
+homme!--Mais je vais poursuivre mon r�le. _(A la princesse_.) Douce
+royaut�, accordez-moi le sens de votre ou�e.
+
+LA PRINCESSE.--Parlez, brave Hector; vous nous faites beaucoup de
+plaisir.
+
+ARMADO.--J'adore la pantoufle de votre aimable gr�ce.
+
+BOYET.--Il l'aime au pied.
+
+DUMAINE.--Il ne pourrait pas l'aimer � l'aune.
+
+ARMADO.--Cet Hector a surpass� de bien loin Annibal.
+
+COSTARD.--Votre partie adverse, camarade Hector, est une fille perdue.
+Elle est � deux mois de sa carri�re.
+
+ARMADO.--Que veux-tu dire?
+
+COSTARD.--En bonne foi, si vous ne jouez pas le r�le de l'honn�te
+Troyen, la pauvre fille est � plaindre; elle le sent remuer: l'enfant
+fait d�j� le fanfaron dans son ventre; il est � vous.
+
+ARMADO.--Veux-tu me _diffamoniser_ parmi les potentats? Tu mourras.
+
+COSTARD.--Hector sera donc fouett� pour Jacquinette, dont il a troubl�
+la vie; et pendu pour Pomp�e, � qui il veut donner la mort.
+
+DUMAINE.--O rare Pomp�e!
+
+BOYET.--O fameux Pomp�e!
+
+BIRON.--Pomp�e plus grand que le grand, grand, grand Pomp�e. Pomp�e le
+g�ant!
+
+DUMAINE.--Hector, tremble.
+
+BIRON.--Pomp�e est �mu. Attisez, attisez la fureur[84]. Excitez-les,
+excitez-les.
+
+[Note 84: _Atis,_ At�, la d�esse des fureurs.]
+
+DUMAINE.--Hector lui fera un d�fi.
+
+BIRON.--Oui, pour peu qu'il y ait dans son ventre autant de sang humain
+qu'il en faut pour le d�ner d'une mouche.
+
+ARMADO, _� Costard_.--Par le p�le nord, je te fais un d�fi.
+
+COSTARD.--Je ne veux point combattre avec un pieu[85], comme un homme du
+nord. Je veux me battre d'estoc et de taille: je veux me servir de
+l'�p�e.--Je vous prie, laissez-moi reprendre mes armes d'Hector.
+
+[Note 85: _Pole_, p�le, et _pole_, pieu.]
+
+DUMAINE.--Place aux h�ros irrit�s.
+
+COSTARD.--Je veux me battre dans ma chemise.
+
+DUMAINE.--Voil� un Pomp�e des plus r�solus!
+
+MOTH, _� Armado_.--Mon ma�tre, baissez le ton d'une note: ne voyez-vous
+pas que Pomp�e se d�shabille pour le combat? Que pr�tendez-vous? Vous
+allez perdre votre r�putation.
+
+ARMADO.--Nobles gentilshommes, nobles guerriers, pardonnez: mais je ne
+combattrai point en chemise.
+
+DUMAINE.--Vous ne pouvez pas le refuser: c'est Pomp�e qui a fait le
+d�fi.
+
+ARMADO.--Aimables gentilshommes, je le peux, et je le veux.
+
+BIRON.--Quelle est votre raison?
+
+ARMADO.--La v�rit� nue de la chose, c'est que je n'ai point de chemise;
+je vais en laine par p�nitence.
+
+BOYET.--Cela est vrai; et � Rome on lui a enjoint de s'abstenir de la
+toile; depuis ce temps, je le jurerais, il n'en a port� aucune, si ce
+n'est un vieux lange de Jacquinette; et cela il le porte pr�s de son
+coeur comme un gage de sa ma�tresse.
+
+(Entre Mercade.)
+
+MERCADE.--Dieu conserve vos jours, madame!
+
+LA PRINCESSE.--Soyez le bienvenu, Mercade; vous nous faites tort
+pourtant, en interrompant notre divertissement.
+
+MERCADE.--J'en suis bien f�ch�, madame; car la nouvelle que j'apporte
+p�se cruellement sur ma langue. Le roi votre p�re....
+
+LA PRINCESSE.--Est mort, sur ma vie?
+
+MERCADE.--Oui, madame: mon message est fini.
+
+BIRON, _aux acteurs_.--Messieurs les h�ros, retirez-vous. La sc�ne
+commence � se rembrunir.
+
+ARMADO.--Quant � moi, je respire librement: j'ai jusqu'ici vu les
+affronts qu'on m'a faits, par le petit trou de la prudence, et je me
+ferai justice comme un vrai guerrier.
+
+(Les h�ros sortent.)
+
+LE ROI, _� la princesse_.--Dans quelles dispositions se trouve Votre
+Altesse?
+
+LA PRINCESSE, _� Boyet_.--Boyet, pr�parez tout: je veux partir ce soir.
+
+LE ROI.--Non pas si vite, madame: je vous en conjure, attendez encore.
+
+LA PRINCESSE, _� Boyet_.--Pr�parez-vous, vous dis-je.--(_Au roi et � ses
+seigneurs_.) Je vous remercie, mes gracieux seigneurs, de tous vos
+galants efforts pour nous plaire: et je vous prie, du fond de mon �me
+qui vient d'�tre afflig�e, de daigner, dans votre rare sagesse, excuser
+et oublier l'excessive libert� de nos proc�d�s et de nos contradictions.
+Si nous nous sommes comport�es avec un exc�s de hardiesse dans nos
+mutuelles entrevues, et dans notre conversation ensemble, c'est la faute
+de votre politesse. (_Au roi_.) Adieu, noble prince. Un coeur oppress�
+de tristesse abr�ge les compliments. Excusez-moi si je ne donne qu'un
+mot de remerciement � l'importante requ�te que vous m'avez si facilement
+accord�e.
+
+LE ROI.--Il n'est rien que la fuite rapide du temps ne pr�cipite et ne
+modifie; et souvent, au moment o� il force les hommes � se s�parer, il
+d�cide ce qui n'aurait pu se terminer que par de longues discussions.
+Quoique la douleur peinte sur le front d'une fille d�fende le sourire
+galant de l'amour et la pri�re sacr�e de la tendresse, qui voudrait
+triompher de vos regrets: cependant, puisque l'amour a �t� le premier
+objet de nos d�marches, que les nuages de la tristesse ne le d�tournent
+pas du but o� il se proposait d'arriver. Pleurer des amis perdus n'est
+pas, il s'en faut bien, aussi salutaire, aussi avantageux que de se
+r�jouir d'avoir gagn� de nouveaux amis.
+
+LA PRINCESSE.--Je ne vous comprends point, et cela double mon chagrin.
+
+BIRON.--Des paroles franches p�n�trent mieux l'oreille et la douleur:
+comprenez donc mieux la pens�e du roi; c'est pour votre beaut� que nous
+avons d�pens� notre temps, et que nous nous sommes si mal acquitt�s de
+nos serments. Votre beaut�, belles dames, a consid�rablement d�figur�
+nos caract�res, en fa�onnant nos humeurs dans un sens tout oppos� � nos
+intentions, et c'est l� la cause de tout ce qui vous a paru ridicule en
+nous. L'amour est plein d'�carts qui offensent les biens�ances, il est
+tout fol�tre comme un enfant, toujours sautillant et toujours frivole;
+comme il se forme par les yeux, il est comme l'oeil, rempli d'habitudes
+�tranges, de formes bizarres; il varie sans cesse les objets, comme
+l'oeil qui, en roulant, re�oit les images successives de tous les objets
+qui se pr�sentent � ses regards;--si ces bigarrures changeantes du
+volage amour, qui ont masqu� nos caract�res, ont paru, � vos beaux yeux,
+se mal associer avec nos serments et la gravit� des personnages, ce sont
+ces yeux c�lestes, t�moins de nos fautes, qui nous ont excit�s � les
+commettre. Ainsi, belles dames, puisque notre amour est v�tre, l'erreur
+qu'a produite l'amour est v�tre �galement. Si nous devenons parjures �
+nous-m�mes, c'est par un parjure qui nous rend � jamais fid�les � celles
+qui nous font violer et garder notre foi, � vous, belles dames; et cette
+fausset� qui, par elle-m�me, est un crime, s'�pure par son objet, et
+devient vertu.
+
+LA PRINCESSE.--Nous avons re�u vos lettres pleines d'amour, vos
+pr�sents, messagers d'amour; et, dans notre conseil de femmes, nous les
+avons �valu�s � une simple galanterie, � une agr�able plaisanterie, �
+une pure politesse; comme des paroles insignifiantes, destin�es � faire
+passer le temps; nous n'y avons pas attach� plus d'importance que cela;
+et, dans cette opinion, nous avons re�u vos propositions d'amour pour ce
+qu'elles valaient � nos yeux, comme un simple passe-temps.
+
+DUMAINE.--Nos lettres, madame, montraient quelque chose de plus qu'un
+simple badinage.
+
+LONGUEVILLE.--Et nos regards aussi.
+
+ROSALINE.--Nous n'en avons pas jug� ainsi.
+
+LE ROI.--A pr�sent, � la derni�re minute de l'heure qui nous s�pare,
+accordez-nous votre amour.
+
+LA PRINCESSE.--Une minute est, je pense, un temps trop court pour
+terminer un march� �ternel; non, non, seigneur, Votre Altesse a commis
+un parjure, c'est un crime de la tendresse; et en cons�quence, voici ma
+proposition.--Si, par amour pour moi (amour encore bien gratuit de votre
+part), vous voulez faire quelque sacrifice, vous ferez celui-ci � ma
+consid�ration. Je ne veux point me fier � votre serment; mais allez
+promptement vous renfermer dans quelque ermitage solitaire et d�sert,
+�loign� de tous les plaisirs du monde; restez-y jusqu'� ce que les douze
+signes c�lestes aient compl�tement rendu leur compte annuel. Si cette
+vie aust�re et priv�e de toute soci�t� ne change rien � votre offre
+faite dans l'ardeur du sang; si les gel�es, les je�nes, la tristesse de
+l'habitation, et de grossiers habillements ne fanent pas cette fragile
+fleur d'amour, mais qu'elle r�siste � cette longue �preuve, et que vos
+sentiments pers�v�rent; alors, � l'expiration de l'ann�e, venez me
+r�clamer au nom du m�rite de ce noviciat; et, je le jure par cette main
+virginale qui s'unit maintenant � la v�tre, je serai � vous. Jusqu'� ce
+terme, je vais enfermer ma triste existence dans une maison de deuil,
+versant les pleurs de la douleur sur le souvenir de mon p�re. Si vous
+vous refusez � cette convention, que nos mains se d�sunissent, sans
+pr�tendre � aucun droit sur le coeur l'un de l'autre.
+
+LE ROI.--Si je refusais cette �preuve, ou toute autre plus p�nible
+encore; si je refusais de laisser dormir dans le repos toutes mes
+facult�s, que la main soudaine de la mort vienne fermer � l'instant mes
+yeux; de ce moment mon coeur vole dans votre sein.
+
+BIRON.--Et moi, ch�re amante, et moi, quelle sera ma p�nitence?
+
+ROSALINE.--Il faut aussi vous purifier; vos p�ch�s sont en grand nombre,
+vous �tes coupable de parjure; si donc vous pr�tendez � mes faveurs,
+vous passerez un mois � visiter les lits des malades.
+
+DUMAINE.--Et moi, ma belle, et moi, quelle sera la mienne?
+
+CATHERINE.--Une femme!--Plus de barbe, une belle sant� et l'honn�tet�;
+voil� les trois souhaits que forme pour vous mon amour.
+
+DUMAINE.--Puis-je r�pondre: �Je vous rends gr�ces, aimable �pouse?�
+
+CATHERINE.--Non pas, seigneur.--Pendant un an et un jour, je n'�couterai
+pas un mot des doux propos que les galants d�bitent d'un visage
+flatteur. Lorsque le roi viendra retrouver notre princesse, alors, si
+j'ai beaucoup d'amour, je vous en donnerai un peu.
+
+DUMAINE.--Je vous servirai jusqu'� ce terme avec loyaut� et fid�lit�.
+
+CATHERINE.--Mais ne le jurez pas, de crainte d'un second parjure.
+
+LONGUEVILLE.--Et que dit Marie?
+
+MARIE.--A la fin des douze mois r�volus, j'�changerai ma robe de deuil
+contre un fid�le ami.
+
+LONGUEVILLE.--J'attendrai avec patience; mais le terme est bien long.
+
+MARIE.--Il vous en ressemble mieux; il est peu de jeunes cavaliers plus
+longs, plus grands que vous.
+
+BIRON.--Ma belle Rosaline m�dite-t-elle? Ma ma�tresse, regardez-moi,
+consid�rez la fen�tre de mon coeur, ce sont mes yeux; voyez l'humble
+respect peint dans mes regards qui attendent votre r�ponse. Imposez-moi
+quelque service pour vous prouver mon amour.
+
+ROSALINE.--- J'avais souvent ou� parler de vous, seigneur Biron, avant
+que j'eusse eu l'avantage de vous voir, et la vaste langue de l'univers
+vous peignait comme un homme f�cond en railleries, en comparaisons
+plaisantes, en sarcasmes mordants que vous lancez sur toutes les
+conditions qui se trouvent expos�es � la merci des traits de votre
+esprit. Pour d�raciner cette herbe am�re de votre cerveau trop fertile
+et m�riter mes bonnes gr�ces, si vous �tes jaloux de les acqu�rir (et
+sans cela je ne serai jamais � vous), il faut que, pendant ces douze
+mois, vous visitiez tous les jours les malades muets, et que vous
+conversiez � toute heure avec les malheureux g�missants dans leurs maux;
+et votre t�che sera de r�unir tous les efforts et toutes les ressources
+de votre esprit pour forcer au rire le malade tourment� de faiblesse et
+de douleurs.
+
+BIRON.--Exciter le sourire dans la bouche de la mort! cela ne se peut
+pas, cela est impossible; la joie ne peut entrer dans une �me �
+l'agonie.
+
+ROSALINE.--Eh bien! c'est l� le vrai moyen de r�primer un esprit
+railleur, dont les �carts sont le fruit d'applaudissements indiscrets,
+que des auditeurs, � t�te vide et rieurs, donnent � ses folies. Le
+succ�s d'un bon mot d�pend de l'oreille qui l'entend, et jamais de la
+langue qui le dit. Ainsi donc, si les oreilles des malades, assourdies
+par les clameurs de leurs propres g�missements, veulent se pr�ter �
+entendre vos vaines railleries, alors continuez sur ce ton, et je
+consens � vous accepter avec ce d�faut; mais si elles ne veulent pas les
+entendre, alors d�faites-vous de ce genre d'esprit, et je vous
+retrouverai corrig� de ce d�faut et tout joyeux de votre r�forme.
+
+BIRON.--Douze mois entiers? Allons, arrive ce qui voudra: je consens �
+aller plaisanter pendant douze mois dans un h�pital.
+
+LA PRINCESSE, _qui s'entretenait � part avec le roi_.--Oui, noble
+prince; et je prends cong� de vous.
+
+LE ROI.--Non, madame; nous voulons vous accompagner et vous mettre dans
+votre route.
+
+BIRON.--Notre amour ne finit pas comme nos anciennes pi�ces: Jeannot n'a
+pas sa Jeannette. Si ces dames avaient voulu, elles auraient pu donner �
+notre sc�ne le d�no�ment d'une com�die.
+
+LE ROI.--Allons, seigneurs, il n'y a plus que douze mois et un jour �
+passer, et le d�no�ment viendra.
+
+BIRON.--Cela est trop long pour une pi�ce.
+
+(Entre Armado.)
+
+ARMADO.--Gracieuse Majest�, daignez m'accorder....
+
+LA PRINCESSE.--N'est-ce pas l� notre Hector?
+
+DUMAINE.--Oui, le preux chevalier de Troie.
+
+ARMADO.--Que je baise votre doigt royal, et que je prenne cong� de vous.
+Je suis li� par un voeu; j'ai promis � Jacquinette de tenir pour l'amour
+d'elle la charrue pendant trois ans: mais, tr�s-renomm�e Altesse, vous
+pla�t-il d'entendre le dialogue que deux savants ont compil� � la
+louange de la chouette et du coucou? Il aurait d� suivre imm�diatement
+la fin de notre spectacle.
+
+LE ROI.--Nous le voulons bien: faites-les para�tre promptement.
+
+ARMADO, _aux acteurs_.--Hol�! avancez. (_Entrent Holoferne, Nathaniel,
+Moth, Costard, et autres_.) De ce c�t� est _Hyems_, l'Hiver.--De
+celui-ci est _Ver_, le Printemps: l'un est ami de la _chouette_, et
+l'autre du _coucou_.--Printemps, commence.
+
+LE PRINTEMPS, _chante les deux couplets suivants_.
+
+    Quand la marguerite �toil�e et la violette azur�e,
+    Quand la primev�re argent�e
+    Et les marguerites d'or
+    �maillent les pr�s de riantes couleurs,
+    Le coucou alors, de feuillage en feuillage,
+    Se moque des maris en chantant
+          _Coucou_,
+    Coucou, coucou.--O mot redoutable!
+    Fatal � l'oreille d'un �poux.
+
+    Quand les bergers enflent leur chalumeau d'avoine;
+    Quand l'alouette joyeuse sonne le r�veil du laboureur;
+    Quand les tourterelles se caressent, et roucoulent et murmurent,
+    Et que la jeune berg�re blanchit son linge,
+    Alors, etc.
+
+L'HIVER, _chante � son tour_.
+
+    Quand les gla�ons brillent aux toits;
+    Quand le berger Guillot souffle dans ses doigts;
+    Quand Pierrot entasse des souches dans le foyer;
+    Quand le lait g�le et durcit dans le vase,
+    Que le sang se glace et que les chemins se salissent,
+    Alors la chouette effrayante chante dans la nuit
+          _Toou o�e_,
+    Tou o�e, to o�e. Note faite pour plaire!
+
+    Quand la grosse Jeanne �cume son pot;
+    Quand tous les vents sifflent d�cha�n�s;
+    Que la toux emporte le pr�ne du pasteur,
+    Que les oiseaux sont blottis dans la neige;
+    Quand le froid rougit le nez de Marianne;
+    Quand les pommes r�ties sifflent sur le feu,
+    Alors la chouette effrayante, etc.
+
+ARMADO.--Apr�s les chants d'Apollon, Mercure offense l'oreille.--Vous,
+sortez de ce c�t�; et vous, de celui-ci[86].
+
+(Tous sortent.)
+
+[Note 86: Holoferne repr�sente un p�dant ou ma�tre de langues,
+contemporain du po�te, nomm� _Jean Florio_, ma�tre d'italien � Londres.
+Sa profession est cause qu'il d�bite tant de sentences italiennes dans
+sa conversation. Dans un de ses ouvrages il d�signe clairement
+Shakspeare, furieux de ce qu'il l'avait jou� sur le
+th��tre.--�Qu'Aristophane, dit-il, et ses com�diens fassent des pi�ces,
+et injurient Socrate; tout ce qu'ils font pour le diffamer ne sert qu'�
+rehausser l'�clat de sa vertu.� Il parle aussi d'un sonnet d'un de ses
+amis (cet ami, c'�tait sans doute lui-m�me), qu'on avait parodi� selon
+toute apparence dans le sonnet de cette pi�ce: _The praiseful princess_,
+etc. On voit aussi que le m�me Florio aimait l'allit�ration, cette
+ridicule affectation de plusieurs mots commen�ant par la m�me
+lettre.--Il signait, le r�solu Jean Florio. C'est la f�rocit� du
+caract�re de cet Italien qui lui fait donner par Shakspeare le nom que
+Rabelais donne � son p�dant Thubal, _Holoferne_. Warburton cite ce
+personnage comme un des rares exemples de satire personnelle que
+Shakspeare se soit permis.]
+
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+
+End of Project Gutenberg's Peines d'amour perdues, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PEINES D'AMOUR PERDUES ***
+
+***** This file should be named 19227-8.txt or 19227-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/2/2/19227/
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica))
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

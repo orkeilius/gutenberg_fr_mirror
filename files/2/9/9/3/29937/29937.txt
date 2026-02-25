@@ -1,3 +1,3435 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c2fafe3e1091d536e94112d7708566597652223ded0251dcc866459ee5ebc56
-size 192023
+The Project Gutenberg EBook of Les Femmes qui tuent et les Femmes qui
+votent, by Alexandre Dumas, Fils
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Les Femmes qui tuent et les Femmes qui votent
+
+Author: Alexandre Dumas, Fils
+
+Release Date: September 8, 2009 [EBook #29937]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LES FEMMES QUI TUENT ***
+
+
+
+
+Produced by H�l�ne de Mink and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by the
+Biblioth�que nationale de France (BnF/Gallica)
+
+
+
+
+
+
+Note sur la transcription: Les erreurs clairement introduites par le
+typographe ont �t� corrig�es. L'orthographe d'origine a �t� conserv�e
+et n'a pas �t� harmonis�e.
+
+
+
+
+
+            Les
+
+     FEMMES QUI TUENT
+
+           et les
+
+     FEMMES QUI VOTENT
+
+
+
+
+_Il a �t� tir� de cet ouvrage_:
+
+
+     20 exemplaires sur papier de Hollande.
+     10        --   --         de Chine.
+     12        --   --         Whatman.
+
+
+TOUS NUM�ROT�S
+
+
+
+
+     ALEXANDRE DUMAS FILS
+     de l'Acad�mie Fran�aise
+
+     LES
+
+     FEMMES QUI TUENT
+
+     ET LES
+
+     FEMMES QUI VOTENT
+
+     DOUZI�ME �DITION
+
+     PARIS
+     CALMANN L�VY, �DITEUR
+     RUE AUBER, 3, ET BOULEVARD DES ITALIENS, 15
+     1880
+     Droits de reproduction et de traduction r�serv�s.
+
+
+
+
+     LES FEMMES QUI TUENT
+
+     ET
+
+     LES FEMMES QUI VOTENT
+
+
+     A JULES CLARETIE
+
+     20 ao�t 1880.
+
+     Mon cher Claretie,
+
+Vous avez publi� le 24 ao�t un long article dans _le Temps_, sur les
+derniers proc�s de mademoiselle Dumaire et de madame de Tilly. Cet
+article contenait � la fin les lignes suivantes:
+
+   _Je m'attendais � ce que M. Dumas pr�t la parole dans
+   ce vif et poignant d�bat. Il est le grand avocat consultant de
+   ces causes saignantes, et je ne sais pas de pr�sident qui puisse
+   r�sumer comme lui les faits de semblables proc�s et en d�duire
+   toutes les cons�quences. Il doit s'applaudir d'avoir si hardiment
+   et tant de fois soulev� de pareilles questions, lorsqu'il voit
+   que la vie, s�v�re comme un probl�me de math�matique, en rend la
+   solution de plus en plus n�cessaire chaque jour. Sans doute la
+   com�die est �crite,_ la Princesse Georges _a tout dit; mais
+   j'aurais voulu savoir ce que pensait de la comtesse de
+   Tilly--cette princesse Georges au vitriol--le philosophe du
+   th��tre contemporain._
+
+Chose curieuse, quand cet article m'est arriv� de votre part, j'avais,
+depuis trois ou quatre jours, commenc� le travail que vous attendiez de
+moi, et j'en �tais juste � une phrase, que vous retrouverez dans cette
+lettre, o� je parlais de l'auteur de _la Princesse Georges_. Il y avait
+l� une sympathie manifeste, des atomes crochus visibles; aussi, je vous
+demande la permission de vous adresser et de vous d�dier ce travail; ce
+me sera, de plus, une occasion de vous t�moigner publiquement toute
+l'affection et toute l'estime que j'ai pour votre personne, votre
+caract�re et votre talent.
+
+Et puis, nous sommes tout � fait � l'aise pour causer ainsi de ce
+sujet, �tant du m�me avis, car vous dites encore dans le m�me article:
+
+   _Il y a eu, comme toujours d�bordement de sympathie pour les_
+   ex�cutrices; _et les victimes, selon l'usage, ont sembl� fort peu
+   int�ressantes. Il y a � cela une raison morale; car cet
+   enthousiasme pour la brutalit� serait ironique s'il n'�tait que
+   le produit d'une admiration malsaine pour les �tres qui, se
+   pla�ant au-dessus de la loi, ont l'audace de se faire justice
+   eux-m�mes. La raison de toutes ces acclamations saluant une
+   meurtri�re, c'est que la femme, d�cid�ment, n'est pas
+   suffisamment prot�g�e par la loi, qui est essentiellement et
+   uniquement une_ loi m�le, _si je puis dire. L'auteur de_ la
+   Princesse Georges _l'a fort bien montr�, dramatiquement et
+   philosophiquement � la fois, lorsqu'il nous pr�sente l'�pouse
+   tromp�e s'adressant tour � tour � sa m�re, c'est-�-dire � la
+   famille, puis � la loi, c'est-�-dire � la soci�t�, pour leur
+   r�clamer une consolation ou un secours. De consolation, il n'y en
+   a point; de secours, il n'en faut attendre de personne. Faut-il
+   donc souffrir, �ternellement souffrir dans son amour et dans son
+   amour-propre, dans sa dignit� de femme, dans la s�curit� m�me de
+   sa vie, car la ruine mat�rielle est possible apr�s cette terrible
+   ruine morale? Que faut-il faire, enfin?_
+
+Mais tout le monde ne pense pas comme nous, mon cher ami, et, pour
+tout dire, j'avais d'abord pris la plume pour r�pondre � un
+article d'un de vos confr�res, M. Racot, lequel, dans _le Figaro_,
+exprimait des id�es, sinon toutes contraires, du moins tr�s oppos�es
+aux n�tres. Je fais donc, comme on dit, d'une pierre deux coups; c'est
+� vous que je m'adresse, et c'est � M. Racot et � ceux qui pensent
+comme lui que je r�ponds.
+
+Votre confr�re ne se contentait pas, lui, de parler de mademoiselle
+Virginie Dumaire et de madame de Tilly: il parlait aussi de madame
+Hubertine Auclert, et il paraissait m�me conclure, philosophiquement,
+contre cette derni�re en faveur de madame de Tilly. C'�tait vif; mais
+il r�sumait quelques-unes des id�es que j'ai �mises dans la pr�face de
+_Monsieur Alphonse_, et l'encha�nement de son id�e concordait
+parfaitement avec l'encha�nement des miennes. Selon moi, les femmes
+qui tuent m�nent aux femmes qui votent. De l� ce titre dont on a d�j�
+fait dans la presse des jeux de mots que j'avais pr�vus; car, en
+annon�ant la brochure � mon �diteur, je lui disais: �Recommandez bien
+� l'imprimeur de ne pas se tromper, et de ne pas mettre les femmes
+qui, etc.�
+
+J'ai donc d�j� eu, � ce propos, l'esprit de tout le monde, et je l'ai
+eu plus t�t; c'est d'un excellent augure. Un ami � moi m'a �crit pour
+me conseiller de supprimer au moins la seconde partie du titre; je n'en
+fais rien. Le titre pr�te � rire, tant mieux! cela le popularisera; et
+puis le rire est bon. D'ailleurs, nous trouverons encore, de temps en
+temps, l'occasion de rire, en route, je vous le promets. Si notre
+esprit ne nous suffit pas, la b�tise des autres nous viendra en aide.
+
+Maintenant qu'on a bien ri du titre, entrons dans le sujet.
+
+M. Racot, tout en s'�tonnant et en s'alarmant de ces nouveaux
+sympt�mes d'abaissement dans l'ordre moral, ne conclut pas comme nous
+l'avons d�j� fait, vous et moi, dans le pass�; il reste toujours
+l'adversaire du divorce, et il demande, par exemple, ce qu'au point de
+vue de l'�quit�, de la justice et de la r�paration, madame de Tilly
+aurait gagn� � ce que le divorce exist�t. Il ajoute: �Supposons le
+divorce �tabli avant la sc�ne du vitriol, _le mari avait le droit de
+divorcer et �tait libre d'�pouser la femme qui faisait le d�sespoir
+de la premi�re_.�
+
+On peut avoir de tr�s bonnes raisons personnelles, dans sa conscience,
+son id�al et ses traditions, pour �tre l'adversaire du divorce; mais il
+ne faut pourtant pas le combattre avec des propositions aussi
+facilement r�futables que celle-l�, et nous ne pouvons, n'est-ce pas,
+laisser circuler cette premi�re assertion, sans lui barrer le chemin.
+
+Dans aucun des pays o� le divorce existe, m�me en Am�rique o� il jouit
+de facilit�s exceptionnelles, la loi n'e�t autoris� M. de Tilly �
+divorcer d'avec sa femme, et � �pouser ensuite mademoiselle Mar�chal.
+Si la loi sur le divorce m�me aussi �tendue que M. Naquet l'a propos�e,
+existait en France, aucun des articles de cette loi, si habilement
+interpr�t� ou contourn� qu'il f�t par l'avocat le plus subtil ou
+l'avou� le plus retors, ne pourrait servir � un homme comme M. de Tilly
+pour r�pudier une femme telle qu'�tait madame de Tilly avant l'attentat
+qu'elle a commis, attentat que certaines raisons psychologiques peuvent
+expliquer, mais, disons-le tout de suite, qu'aucune bonne raison morale
+n'excuse, malgr� cette sympathie un peu trop aveugle dont b�n�ficie la
+coupable et qui rentre dans ce que Lamartine appelait les surprises du
+coeur.
+
+J'ajouterai: la loi sur le divorce existant,--pas plus apr�s cet
+attentat acquitt� par le jury, qu'auparavant,--M. de Tilly ne pourrait
+encore user du divorce, et, dans l'�tat actuel de la l�gislation, il
+n'aurait m�me pas pu obtenir la s�paration l�gale, puisqu'il n'avait
+rien � reprocher ni � la conduite ni au caract�re de madame de Tilly
+comme m�re et comme �pouse, et qu'aujourd'hui m�me o� elle est
+d�clar�e, sinon innocente, du moins non coupable, il n'aurait pas
+encore le droit ni de divorcer ni de se s�parer. A la demande de M.
+Racot, voil� la r�ponse � faire, et le premier venu aurait pu la faire
+comme moi; elle est claire, simple, irr�futable.
+
+L'erreur de M. Racot et de beaucoup d'autres de nos adversaires, vient
+de ce que, comme tous les partisans de l'indissolubilit� du mariage,
+il aime � se contenter, un peu trop facilement, des arguments � l'aide
+desquels l'�glise veut mettre les femmes de son c�t�. Elle leur dit,
+en effet, sur tous les tons, comme on peut le voir dans le livre de
+M. l'abb� Vidieu auquel j'ai r�pondu: �Le jour o� le divorce
+sera r�tabli, le mari pourra r�pudier sa femme quand bon lui semblera
+et contracter imm�diatement d'autres liens.�
+
+Non seulement il n'y a rien de vrai, mais il n'y a rien de possible
+dans une pareille assertion, et il faut toute la candeur et toute la
+confiance de la foi f�minine pour la croire et la propager. Si le
+divorce avait exist�, non seulement M. de Tilly n'aurait pas pu s'en
+servir contre sa femme, mais c'est madame de Tilly qui aurait pu s'en
+servir contre lui, au lieu d'en arriver, comme moyen supr�me de
+garantie, � l'action l�che et d�gradante qu'elle a commise. Elle
+aurait demand� une protection � la loi, au lieu de demander une
+vengeance � l'acide sulfurique, et le Code l'e�t lib�r�e d'un mariage
+qu'elle ne m�ritait pas, au lieu de la lib�rer de la prison
+qu'elle avait bien m�rit�e. Je m'arr�te l�. Je n'ai nulle envie de
+recommencer une croisade pour le divorce. Il sera toujours temps, si
+cela est n�cessaire, de reprendre la parole quand le projet sera
+discut� � la Chambre. Mais, si les crimes, les catastrophes de toute
+sorte, n�s de l'indissolubilit� du mariage, continuent dans la
+progression signal�e par les derni�res statistiques, la question aura
+fait toute seule de tels progr�s, qu'il n'y aura plus besoin de rien
+dire et que la n�cessit� de la loi sera p�remptoirement d�montr�e par
+les faits.
+
+Mais nous sommes en vacances, les questions politiques sont
+momentan�ment ajourn�es, la controverse centrale n'existe pas, le
+gouvernement se prom�ne et se repose; s�nateurs et d�put�s sont
+�parpill�s sur les routes; gens du monde et bourgeois sont � la
+campagne, aux bains de mer, aux eaux; nul ne se soucie, en apparence,
+des questions d'ensemble, et chacun se contente, en lisant son journal,
+au grand air, des nouvelles du jour, des accidents de chemin de fer,
+des assassinats et des �boulements. Pour moi, tout au contraire, ce
+moment me semble toujours opportun pour soulever certaines discussions
+et t�cher de faire p�n�trer quelques id�es soi-disant subversives ou
+tout au moins paradoxales dans des esprits et des consciences non
+influenc�s par leur milieu habituel et dispos�s � la conciliation par
+une digestion lente et r�paratrice. Pour parler s�rieusement, la
+solidarit� des int�r�ts, des passions, des habitudes, des traditions,
+des compromis, des ignorances est rompue; le grand seigneur, le
+millionnaire, l'homme du monde, le bourgeois, le fonctionnaire,
+l'employ�, le rentier, le n�gociant redeviennent, par quarante degr�s
+de chaleur, des hommes � peu pr�s semblables les uns aux autres,
+d�gag�s de l'influence des groupes sociaux auxquels ils appartiennent,
+et, en se reposant en face de la nature, dont l'impassible �ternit� les
+domine, ils sont, individuellement et � leur insu, accessibles � ces
+m�mes id�es dont ils se seraient indign�s quelques semaines auparavant.
+Il y a certainement alors une d�tente, un laisser aller, une
+complaisance r�ciproque tenant � plus de bien-�tre, � plus d'espace, �
+plus d'horizon, � plus de sant�. Les journaux eux-m�mes trahissent
+plus d'�clectisme; ils se montrent plus accommodants; les adversaires,
+du mois de f�vrier ou de mars, semblent tout pr�s de s'accorder. �Apr�s
+tout, entend-on dire �� et l� dans les deux camps, apr�s tout, ce
+r�publicain a du bon, ce libre penseur n'est pas si m�chant qu'on le
+croit, dit l'un.--Ce cur� de campagne a une bonne figure; cette petite
+�glise, ce petit cimeti�re sont bien po�tiques et bien touchants, dit
+l'autre; est-ce qu'il n'y aurait pas moyen de concilier tout cela, les
+traditions du pass� et les besoins de l'avenir, les souvenirs de
+l'enfance et la raison de l'�ge m�r? Ce serait possible, certainement,
+s'il n'y avait pas cette question des j�suites! Je vous le demande un
+peu, qu'est-ce qu'ils ont contre les j�suites? Ce sont de tr�s braves
+gens. Certainement il y a eu bien des abus, mais enfin tout pourrait
+s'arranger, avec quelques concessions mutuelles. C'est un peu la faute
+de M. Thiers. S'il avait voulu, � un certain moment, en 1872, on ne
+demandait que �a en France; mais aussi les d'Orl�ans ne bougent pas; et
+l'autre avec son drapeau blanc! Ah! sans �a, les choses se seraient
+arrang�es! �a aurait peut-�tre mieux valu. Nous verrons aux �lections
+prochaines.--Moi, je crois que �a marchera bien. Ah! il fait bon! La
+belle journ�e!�
+
+Eh bien, mon cher ami, ce moment de repos, de paresse, de fa�ons de
+voir � la Pangloss, de justice inconsciente et d'ind�pendance d'esprit
+pour ainsi dire involontaire est tout � fait propice si l'on veut
+avoir quelque chance d'inculquer � tant de gens, ordinairement
+distraits, hostiles, ignorants, les id�es que l'on croit vraies et
+utiles. La nature elle-m�me n'a pas d'autre proc�d� � l'�gard du corps
+humain; elle lui communique, pendant cette m�me p�riode, les �l�ments
+vitaux dont il a besoin pour se reconstituer et durer un peu plus
+longtemps. Or il en est du monde moral comme du monde physique: les
+lois de l'un sont encha�n�es et implacables comme les lois de l'autre.
+A cette heure o� je vous �cris, le vent de la mer fouette les vitres de
+ma chambre, il soul�ve en m�me temps les flots et enfle les voiles de
+ceux qui savent se servir de cette col�re apparente; il pousse sur le
+continent les vapeurs qui retomberont en ros�e ou en pluie, il
+transporte et r�pand dans les champs des milliards de germes
+invisibles, f�condants ou destructeurs, selon la disposition
+particuli�re des sols o� ils vont tomber; il fortifie les uns, et tue
+les autres; rien ne l'arr�te ni ne le d�tourne; il fait ce qu'il a �
+faire, pr�cipitant la mort de ce qui doit p�rir, cr�ant, acc�l�rant,
+prolongeant la vie de ce qui doit vivre. Il en est de m�me des id�es.
+Elles partent d'un point de l'horizon et elles vont droit devant elles,
+f�condes pour les soci�t�s pr�tes � les recueillir, mortelles pour
+celles qui les repoussent ou les d�naturent. Comment naissent-elles?
+D'o� viennent-elles? Comment se fait le vent? D'o� vient-il? Des
+attractions et des dilatations morales, du mouvement, de la pression,
+du va-et-vient incessant des esprits, cr�ant ainsi des courants
+irr�sistibles. Tout ce mouvement est une des conditions, une des lois
+de l'humanit�, laquelle ne saurait rester immobile dans cet univers o�
+tout se meut, �volue, se transforme et se combine autour d'elle.
+Temp�tes dans la nature, r�volutions dans les soci�t�s, telles sont les
+cons�quences imm�diates et in�vitables de la r�sistance inerte, inutile
+et finalement vaincue, � ces courants naturels traversant dans tous les
+sens le monde physique et le monde moral.
+
+Une similitude entre les deux mondes me frappe encore, c'est celle-ci:
+Ces germes invisibles, transport�s par le vent, prennent, un beau
+jour, une forme; la v�g�tation se produit l� o� ils sont tomb�s;
+l'herbe pousse; l'arbre s'�l�ve; la for�t s'�tend. M�me m�canisme
+pour les soci�t�s. Au bout d'un certain temps que des id�es,
+nouvelles � premi�re vue, (tandis qu'elles ne sont jamais que des
+ph�nom�nes cons�cutifs d'autres id�es ant�rieures et du m�me ordre),
+au bout d'un certain temps que des id�es nouvelles sont r�pandues dans
+l'air, discut�es, ni�es, repouss�es par les moeurs et les lois des
+peuples routiniers, elles se condensent tout � coup en une r�alit�
+palpable et visible, pensante et agissante, elles prennent une forme
+humaine, elles deviennent _une personne_ avec laquelle il faut
+compter parce qu'elle produit subitement son action mat�rielle et
+contradictoire � un �tat social incompatible. Bref, quand une id�e
+doit vivre, elle se fait homme. C'est tout bonnement le myst�re de
+l'incarnation.
+
+Ceux qui haussaient les �paules ou qui pouffaient de rire quand cette
+id�e �tait purement th�orique, s'arr�tent �tonn�s et entrent bient�t en
+fureur, quand ils la voient en chair et en os, marchant � un but
+d�termin�. On honnit d'abord ce pr�curseur, cet ap�tre, ce proph�te; on
+le tue souvent; mais il a fait imm�diatement des disciples, il a
+suscit� des croyants, des auxiliaires, des vengeurs, et la lutte
+commence. L'id�e triomphe toujours, et, quand elle est enfin accept�e
+et consacr�e depuis longtemps, quand elle est devenue officielle et
+banale, elle cherche � s'�tendre encore, en raison de besoins nouveaux.
+On croit � une innovation quand ce n'est qu'une d�duction logique et
+une cons�quence fatale de l'id�e premi�re. Nouvelle r�sistance des
+masses stationnaires, nouvelle incarnation, nouvelle lutte: nouveau
+progr�s. Si une id�e ne produit pas _son homme_ elle est creuse; si une
+id�e ne produit plus son homme elle est morte. Les religions, les
+philosophies, les politiques, les sciences, les libert�s ne se sont pas
+d�velopp�es autrement. Regardez bien, o� l'incarnation fait d�faut:
+signe de d�p�rissement et de mort prochaine.
+
+Sans nous aventurer ici dans les grands exemples historiques, pr�sents
+d'ailleurs � l'esprit de tous nos lecteurs, et pour nous en tenir aux
+personnages, hier inconnus, mis en lumi�re par de r�cents proc�s,
+mademoiselle Marie Bi�re, mademoiselle Virginie Dumaire, madame de
+Tilly, que repr�sentent ces personnages? Sont-ce des �tres isol�s,
+s�par�s de la vie commune par leur temp�rament, leurs moeurs, leurs
+crimes particuliers et purement individuels? Non. Ce sont des
+incarnations vivantes effectives et inconscientes, en m�me temps, de
+certaines id�es �mises par des penseurs, des moralistes, des
+politiques, des �crivains, des philosophes, id�es justes, logiques,
+tut�laires, auxquelles, de l'aveu de ces hommes de r�flexion, le temps
+est venu de faire droit.
+
+Que r�pond la soci�t� fran�aise � ces id�es pr�sent�es seulement sous
+toutes les formes th�oriques et immat�rielles? Que ceux qui les
+pr�sentent sont des fous, des r�veurs, des r�volutionnaires, des
+utopistes, des gens dangereux. Ces hommes signalent cependant des
+dangers visibles, ils proposent d'indispensables r�formes; ils disent
+aux l�gislateurs: �Vous devriez faire des lois prot�geant l'innocence
+de la jeune fille, la dignit� de la femme, la vie de l'enfant, les
+droits de l'�poux, et punissant quelquefois les coupables au lieu de
+punir toujours les innocents.� Les l�gislateurs ne r�pondent m�me pas.
+Alors, au milieu des observations des uns, de l'indiff�rence des
+autres, un fait brutal se produit, un crime se commet, une victime
+tombe, un assassin se montre, et, sans transition apparente, on assiste
+au d�placement complet de tous les plans sociaux, au renversement de
+toutes les lois juridiques et morales; la victime devient odieuse,
+l'assassin devient int�ressant, la conscience des jur�s s'embarrasse,
+la magistrature se trouble, la loi h�site, la justice officielle
+d�sarme devant la foule qui s'impose comme dans une assembl�e
+populaire ou dans un th��tre.
+
+C'est l'incarnation de l'id�e qui se dresse tout � coup en face des
+vieilles traditions obstin�es et insuffisantes, et elle vient, par le
+feu et le sang, poser sa revendication personnelle et n�cessaire
+contre des lois jadis excellentes, mais qui, les moeurs s'�tant
+modifi�es, apparaissent subitement comme des injustices et des
+barbaries.
+
+Le meurtrier a-t-il discut� ces questions comme nous le faisons ici?
+A-t-il lu ce qu'on �crivait sur ces mati�res avant qu'il comm�t son
+crime? Ob�it-il � un raisonnement? Non. Il ob�it aveugl�ment � sa
+passion, ce n'est pas douteux. Mais sa passion satisfaite vient, en
+plein tribunal, faire appel � un droit naturel, humain, incontestable,
+dont la soci�t� aurait d� tenir compte et dont elle ne s'est pas
+souci�e.
+
+L'acquittement des coupables, prononc� par le tribunal, impos� par
+l'opinion, est-il juste? Non. Mais ce qui fait l'acquittement de ces
+coupables arr�t�s, c'est que la loi ne peut pas s�vir contre les
+v�ritables coupables qu'elle couvre depuis trop longtemps, et que, ne
+pouvant pas appliquer la justice absolue, elle est condamn�e elle, la
+loi, � n'appliquer que la justice relative, ce qui est bien pr�s de
+l'injustice.
+
+       *       *       *       *       *
+
+Vous vous rappelez sans doute l'affaire Morambat, il y a trois ou
+quatre ans? J'�crivais � ce propos, dans _l'Opinion nationale_, une
+lettre comme celle-ci. J'y annon�ais l'acquittement in�vitable du
+meurtrier, et je demandais � la loi de prot�ger la virginit�
+des filles, virginit� que j'appelais leur capital. Le mot fit beaucoup
+rire. Toujours! En France, nous rions beaucoup des choses s�rieuses;
+c'est m�me de celles-l�, je crois pouvoir l'affirmer, qu'on rit le
+plus. Moi, c'est un go�t particulier, j'aime mieux rire des choses qui
+ne sont pas s�rieuses, et qui n'en ont pas moins la pr�tention de
+l'�tre; ma conscience se trouve ainsi en repos, je suis s�r d'avoir
+plus longtemps des sujets de gaiet� et d'avoir finalement raison. Vive
+le rire, mon cher ami, quand il ne se trompe pas.
+
+Si j'�voque aujourd'hui cette affaire Morambat, c'est pour m'aider
+� montrer les incarnations successives, vari�es, de plus en
+plus rapproch�es les unes des autres, de plus en plus mena�antes et
+triomphantes de l'id�e propos�e de certaines r�formes dans de
+certaines lois. Cette affaire se r�sumait en ceci, (soyez tranquille,
+je serai bref): Une jeune fille, ouvri�re laborieuse et d'une conduite
+irr�prochable jusque-l�, s'�tait laiss�, faut-il dire s�duire, disons
+plut�t entra�ner par un jeune homme, commis dans le magasin o� elle
+�tait en apprentissage: elle �tait devenue enceinte, ce que voyant, le
+jeune homme l'avait abandonn�e. Voil� le commencement et le milieu de
+l'histoire. C'est vieux, c'est banal, c'est connu; le soleil aussi est
+vieux, banal, connu, et il repara�t toujours et on ne s'en d�shabitue
+pas. Mais il passe tout � coup, par l'esprit, par le coeur,
+par la conscience du p�re de la jeune fille de modifier le d�nouement
+traditionnel, aussi vieux, aussi banal, aussi connu que le soleil et
+les d�buts de l'histoire et qui consistait, pour la jeune fille, � se
+d�soler, � cacher sa honte dans un coin, � �lever son enfant avec ses
+seules ressources ou � lui tordre le cou, � se tuer elle-m�me ou � se
+prostituer, tout cela parce que le Code avait oubli� de faire une loi
+qui prot�ge�t le capital moral des femmes comme le capital mat�riel et
+qui condamn�t un homme qui leur aurait pris leur honneur comme elle
+condamnerait le voleur qui leur aurait pris leur montre ou leur
+parapluie.
+
+Il advint donc, cette fois, une chose nouvelle. Le p�re de
+mademoiselle Morambat se trouvait �tre un tr�s honn�te ouvrier; il
+adorait sa fille, et il ne permit pas aux choses de finir selon la
+coutume. Il cacha un couteau sous son v�tement, s'en alla trouver le
+commis, lui demanda s'il voulait �pouser sa fille, et, sur les refus
+r�it�r�s de celui-ci, il le frappa en pleine poitrine. La vie du jeune
+homme fut en danger; on arr�ta l'assassin; grande �motion dans Paris;
+instruction; proc�s.
+
+Si vous voulez bien donner un peu d'attention � ce cas particulier,
+mon cher ami, vous y remarquerez facilement un fait curieux. Dans ce
+proc�s, pr�venu, plaignant, victime, tout le monde �tait coupable, et,
+nantie de toutes les lois imaginables pour punir tous les attentats
+possibles, la justice a d� s'avouer publiquement impuissante et
+inutile.
+
+Voyons comment.
+
+Nous voici dans la salle de la cour d'assises. Rien n'y manque pour
+que le droit soit respect�, pour que l'�quit� rayonne, pour que la
+solennit� soit imposante, pour que la le�on soit profitable. Foule
+�norme, avec sergents de ville, pour la contenir et au besoin la
+disperser si elle manque de respect au tribunal, si elle proteste ou
+si elle applaudit; gendarmes aux deux c�t�s de l'accus�, pour qu'il ne
+puisse ni s'enfuir, ni sauter sur les juges, ni se suicider; avocats
+r�unis autour de la cause, pour s'�clairer dans leurs consciences et
+leur art, comme des carabins autour d'un cadavre dans un amphith��tre
+d'anatomie; conseillers en robe rouge, avocat g�n�ral charg� de
+soutenir l'accusation et de venger la morale et la soci�t�
+compromises; avocat c�l�bre � la barre de la d�fense, ayant mission de
+d�fendre et de sauver le pr�venu; jury choisi au sort parmi les
+citoyens les plus recommandables de leurs quartiers, peintures
+all�goriques repr�sentant le crime terrass�, l'innocence prot�g�e,
+Th�mis en p�plum bleu et blanc tenant en �quilibre les deux plateaux
+de sa balance; enfin, au fond de la salle, en face du public, des
+t�moins, du jury et des accus�s, au-dessus des juges et de tout, le
+Christ mourant pour la justice et la v�rit�, et sur lequel t�moins et
+jur�s vont faire le serment, les uns de ne dire que la v�rit�, rien
+que la v�rit�, les autres de n'avoir en vue que la justice, rien que
+la justice.
+
+Ceci pos�, donnons en quelques mots le r�sum� philosophique
+et les conclusions morales du proc�s.
+
+   LA LOI, repr�sent�e par le Pr�sident, s'adressant � la jeune
+   fille:
+
+   Mademoiselle, vous �tiez une personne honn�te et laborieuse, tout
+   le monde l'atteste.
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous avez �t� s�duite par ce jeune homme?
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Il vous avait promis le mariage?
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Il vous a abandonn�e?
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Quand il a su que vous �tiez enceinte?
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   C'est bien de lui que vous �tiez enceinte?
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous le jurez?
+
+   LA JEUNE FILLE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous avez caus� le d�sespoir et le crime de votre p�re. Vous
+   allez mettre au monde un enfant sans p�re, sans �tat civil,
+   probablement sans morale et sans instruction, puisque
+   vous �tes sans ressources, enfant qui va �tre un danger ou une
+   charge pour la soci�t�, tout cela parce que vous n'avez pas su
+   r�sister � votre passion. C'est abominable, ce que vous avez fait
+   l�; mais nous n'y pouvons rien, rasseyez-vous.--Qu'on am�ne le
+   jeune homme.
+
+   LA LOI, au jeune homme.
+
+   Vous avez �t� l'amant de cette jeune fille?
+
+   LE JEUNE HOMME
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous �tiez le premier?
+
+   LE JEUNE HOMME, apr�s h�sitation.
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Elle est enceinte de vous?
+
+   LE JEUNE HOMME, toujours apr�s h�sitation.
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous refusez de l'�pouser?
+
+   LE JEUNE HOMME, sans h�sitation.
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous refusez de reconna�tre votre enfant?
+
+   LE JEUNE HOMME
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous avez d�shonor� une jeune fille, vous l'abandonnez, ainsi que
+   votre enfant; c'est abominable, ce que vous faites l�! nous n'y
+   pouvons rien. Rasseyez-vous.--Faites lever le p�re.
+
+   LA LOI, au p�re.
+
+   Vous reconnaissez que vous avez voulu tuer ce jeune homme?
+
+   LE P�RE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Parce qu'il avait s�duit votre fille?
+
+   LE P�RE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Alors vous avez pris un couteau?
+
+   LE P�RE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Avec l'intention de tuer cet homme, s'il vous refusait d'�pouser
+   votre fille?
+
+   LE P�RE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Avec pr�m�ditation alors?
+
+   LE P�RE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Et vous l'avez frapp� avec la ferme intention de lui donner la
+   mort?
+
+   LE P�RE
+
+   Oui, monsieur.
+
+   LA LOI
+
+   Vous avez voulu vous faire justice vous-m�me, ce qui est d�fendu
+   par toutes les lois; vous avez voulu tuer, ce qui est d�fendu par
+   toutes les morales, humaine et divine; vous avez frapp� d'un
+   couteau, vous avez accompli volontairement, sans h�sitation, sans
+   remords, un homicide, un crime, ce qui doit �tre puni de
+   l'�chafaud ou des gal�res. C'est abominable, ce que vous avez
+   fait l�! mais nous n'y pouvons rien. Ne vous rasseyez pas; vous
+   pouvez tous rentrer chez vous.�
+
+       *       *       *       *       *
+
+Alors, magistrats, jury, gendarmes huissiers, Code civil, justice,
+all�gories mythologiques, mena�antes et rassurantes, Christ en
+croix, qu'est-ce que vous faites l�? Pourquoi tout cet appareil
+inutile, toute cette solennit� vide, toute cette d�pense, tout ce
+d�rangement? Ces trois individus coupables, tous les trois, de d�lits
+et de crimes qui compromettent non seulement leur propre honneur, leur
+propre morale, mais la morale universelle et la s�curit� des citoyens
+�lecteurs, pourquoi les renvoyez-vous finalement chez eux, sans
+condamnation, sans fl�trissure, sans amende m�me?
+
+Parce que, me r�pondrez-vous, c'est l� un cas exceptionnel. Cette jeune
+fille �tait vraiment sympathique par sa bonne conduite ant�rieure, le
+p�re par l'honn�tet� de toute sa vie: il n'a pas pu r�sister � sa
+douleur et � sa col�re, devant la froide ingratitude et la cynique
+cruaut� de ce jeune homme, nous l'avons compris et nous l'avons
+acquitt�.
+
+Non; ces raisons-l�, vous les donnez parce que vous ne pouvez pas, vous
+ne voulez pas donner les vraies raisons. Les vraies raisons, les voici:
+ne pouvant pas punir les vrais coupables, vous �tes fatalement amen�s �
+absoudre ceux dont le crime n'est que la cons�quence directe de cette
+culpabilit� non seulement impunie, mais dont, dans certains cas, il ne
+vous est pas permis de conna�tre, dont il vous est interdit de faire
+mention, que vous devez respecter en un mot, qui vous est sacr�e pour
+ainsi dire, comme la r�putation la plus intacte, comme le dogme le plus
+r�v�r�. Il est tel cas o� vous n'avez m�me pas le droit de prononcer
+le nom du v�ritable coupable, et o� vous ne pouvez punir que l'innocent
+et m�me la victime.
+
+J'ai assist�, il y a deux ou trois ans, � un proc�s criminel o� la
+coupable, du moins la personne amen�e � la barre, �tait une jeune
+femme. Elle s'�tait mari�e, enceinte, avec un jeune homme, lequel
+ignorait absolument ce d�tail. Elle accoucha, � terme, sans que son
+mari se f�t dout� de cette grossesse et en l'absence de ce mari. Elle
+se d�livra elle-m�me; puis elle perdit la t�te et tua son enfant, dont
+elle cacha le corps dans une armoire. Le crime fut d�couvert et la
+jeune femme arr�t�e et traduite devant les assises.
+
+L'homme qui l'avait rendue m�re �tait mari�, c'est-�-dire doublement
+coupable; il l'avait eue sous sa protection, ce qui le rendait
+triplement coupable; il l'avait garantie comme la plus honn�te fille du
+monde au jeune homme, lorsque celui-ci �tait venu lui demander des
+renseignements, ce qui le constituait quadruplement coupable; ni
+l'accus�e, ni l'accusation, ni la d�fense n'avaient le droit de
+prononcer le nom de cet homme, le premier, le seul coupable, parce que
+la recherche de la paternit� est interdite par nos lois. Cet homme
+�tait n�gociant. S'il n'avait pas pay� un de ses billets, vous lui
+auriez saisi ses meubles, et tout ce qu'il poss�dait; vous l'auriez
+d�clar� en faillite, en faillite frauduleuse, si ses livres n'avaient
+pas �t� bien en r�gle, et vous l'auriez condamn� � la prison. Il avait
+trahi le mariage, trahi la tutelle, trahi la confiance d'un honn�te
+homme, donn� le jour � un enfant ill�gitime; il �tait la cause d'un
+meurtre, du meurtre de son propre enfant; l'action qu'il avait commise
+amenait la femme qu'il avait dit aimer sur les bancs de la cour
+d'assises, la faisait condamner aux gal�res, car elle fut condamn�e;
+condamnait le mari de cette femme � la honte, au d�sespoir, au
+ridicule, au c�libat, � la st�rilit�, � n'avoir plus d'�pouse l�gale, �
+n'avoir plus d'enfant l�gitime, et vous ne pouviez rien contre le vrai
+coupable, � peine le r�primander, dans le vide, et encore anonyme. S'il
+plaisait � ce coupable de se reconna�tre dans ce que j'�cris en ce
+moment, il pourrait m'attaquer en diffamation; je ne pourrais pas faire
+la preuve, et vous me condamneriez comme diffamateur, probablement �
+un franc d'amende, ce qui ne serait pas cher, mais ce qui serait encore
+une condamnation sup�rieure � celle que vous pouviez lui infliger.
+
+Qui avez-vous donc v�ritablement puni du double crime commis par cet
+homme et par cette fille? Celui qui n'en avait commis aucun, le mari,
+l'honn�te homme, l'innocent. L'amant n'a m�me pas �t� inqui�t�;
+l'infanticide, son temps fait, redeviendra libre, et tr�s probablement
+elle n'aura fait que la moiti� de son temps, si elle s'est ce qu'on
+appelle bien conduite, depuis son emprisonnement; quant au mari, � qui
+vous n'avez rien � reprocher que d'avoir eu confiance, que d'avoir
+voulu aimer selon les lois, d'avoir voulu constituer la famille, le
+foyer, l'exemple, ce qui est recommand� par toutes les religions et
+toutes les morales, dont vous vous d�clarez les d�fenseurs, il reste
+et demeure �ternellement la victime de cet homme adult�re et de cette
+femme infanticide; et si, demain, il avait un enfant d'une autre femme
+que celle-l�, vous condamneriez cet enfant � n'avoir jamais ni famille
+r�guli�re, ni nom l�gal, � moins que sa m�re n'e�t l'id�e comme
+l'autre de le tuer, auquel cas, le mari, devenu � son tour adult�re et
+p�re ill�gal et d�natur�, n'encourrait, comme coupable, aucune des
+peines qui lui ont �t� inflig�es comme innocent!
+
+Vous me r�pondrez encore: �Ce sont l� des exceptions tr�s rares dont la
+loi n'a pas � tenir compte.� O� avez-vous vu cela? Le caract�re
+fondamental, la propri�t� sp�cifique d'une loi font que m�me une seule
+injustice ne puisse pas �tre commise en son nom, et, tant que cette
+injustice peut �tre commise, cette loi est incompl�te, par cons�quent
+insuffisante, de l� pr�judiciable, et le premier venu, comme moi, peut
+l'attaquer et en demander la revision.
+
+Et, comme cette revision demand�e ne se fait pas, les faits, depuis
+quelques ann�es que ces questions ont �t� de plus en plus d�battues
+par l'opinion publique, les faits concluant en faveur de cette
+revision se succ�dent et se pr�cipitent les uns sur les autres; les
+_incarnations_ se multiplient avec une rapidit�, une �loquence, un
+retentissement, une plus value de scandale effrayants, et la
+Providence para�t �tre absolument d�cid�e � vous forcer la main.
+
+Du reste, pour les vrais observateurs, ce qu'on appelle la Providence a
+des proc�d�s qui devraient commencer � �tre connus. Quand une soci�t�
+ne voit pas ou ne veut pas voir ce qu'elle doit faire, cette Providence
+le lui indique d'abord par de petits accidents symptomatiques et
+facilement rem�diables; puis l'indiff�rence ou l'aveuglement
+persistant, elle renouvelle ses indications par des ph�nom�nes
+p�riodiques, se rapprochant de plus en plus les uns des autres,
+s'accentuant de plus en plus, jusqu'� quelque catastrophe d'une
+d�monstration tellement claire, qu'elle ne laisse aucun doute sur les
+volont�s de ladite Providence. C'est alors que la soci�t� impr�voyante
+s'�tonne, s'�pouvante, crie � la fatalit�, � l'injustice des choses et
+se d�cide � comprendre. Ce qui est encore � constater au milieu de tout
+cela, c'est l'obstination que mettent non seulement la masse des gens,
+mais les hommes charg�s de veiller � la moralit� et au salut des
+soci�t�s, � donner pour cause aux drames et aux crimes n�s de
+l'insuffisance des lois, les examens et les propositions philosophiques
+que, tout au contraire, cette insuffisance inspire � certains esprits.
+Pour tous les routiniers, les auteurs de la d�moralisation sociale sont
+ceux qui la d�couvrent ou la d�noncent � l'avance. Quand on a dit � une
+soci�t�: �Prends garde! si tu continues tels ou tels errements, tu
+provoqueras telle ou telle catastrophe;� on est pour cette soci�t�, qui
+ne veut pas reconna�tre ses torts, la cause m�me de cette catastrophe,
+le jour o� elle se produit. L'�glise catholique en est encore � nous
+dire que ce sont les abominables passions et les d�testables conseils
+de Luther qui ont fait tant de mal au catholicisme; elle oublie de se
+rappeler ou de rechercher les causes qui ont produit Luther et
+n�cessit� la R�forme. Les d�fenseurs de la monarchie de droit divin
+et des traditions f�odales nous disent que c'est l'esprit diabolique
+de Voltaire et des encyclop�distes qui a produit la R�volution et
+les exc�s du XVIIIe si�cle; ils se gardent bien de reconna�tre
+et d'avouer les faits qui ont suscit� les attaques de Voltaire
+et de l'Encyclop�die. M�me observation en litt�rature. Ce sont
+les �crivains qui �crivent contre les moeurs immorales de leur
+temps qui d�moralisent leur temps. On commence par pr�tendre que
+le mal dont ils parlent n'existe pas; puis, quand il est notoire,
+que ce sont leurs �crits qui l'ont fait na�tre, puis, quand il gagne
+de plus en plus, qu'il vaut mieux n'en rien dire.
+
+Ainsi, celui qui �crit ces lignes (formule ing�nieuse trouv�e par un
+grand orgueilleux qui n'osait pas dire _moi_ aussi souvent qu'il
+l'aurait voulu), ainsi celui qui �crit ces lignes a, de cette fa�on,
+beaucoup contribu� � la d�moralisation de son �poque; seulement ceux
+qui emploient le mot d�moralisation, � propos de moi ou de tout autre,
+l'emploient � tort et le confondent souvent, tromp�s qu'ils sont par
+un ph�nom�ne purement ext�rieur, avec un autre mot qui, du reste,
+n'existe pas et que l'on ferait peut-�tre bien de cr�er.
+
+Une soci�t� dont on dit qu'elle se d�moralise, ce que l'on a dit
+d'ailleurs de toutes les soci�t�s depuis que le monde existe, une
+soci�t� qui se d�moralise n'est pas toujours une soci�t� qui modifie sa
+morale, mais une soci�t� qui modifie ses moeurs, ce qui n'est pas la
+m�me chose, et ce qui est m�me � l'avantage de la morale �ternelle,
+dont on ne peut pas plus supprimer un des principes fondamentaux qu'on
+ne peut supprimer un des �l�ments qui composent l'air respirable.
+
+Aucun r�volutionnaire, aucun novateur, aucun radical n'aura jamais
+l'id�e de proclamer que l'on doit, que l'on peut tuer, voler, manquer �
+sa parole, � l'honneur, s�duire les jeunes filles, abandonner sa
+femme, d�laisser ses enfants, renier, trahir et vendre sa patrie. Celui
+qui soutiendrait une pareille th�se passerait pour fou, et tout le
+monde lui tournerait le dos. La morale ne s'alt�re donc pas, mais elle
+s'�largit, elle se d�veloppe, elle se r�pand, et, pour cela, elle brise
+ces formules �troites et partiales dans lesquelles elle �tait
+in�galement contenue et dos�e et qu'on appelle les moeurs et les lois.
+
+Les esprits soi-disant r�volutionnaires ou subversifs sont ceux qui
+aident la morale �ternelle, inali�nable � briser ces formules
+particuli�res, locales, � se frayer un chemin � travers les plaines
+st�riles qu'elle doit fertiliser. Quand nous demandons, par exemple,
+la recherche de la paternit�, ou le divorce, ou le r�tablissement des
+tours, c'est-�-dire que les innocents ne souffrent plus pour
+les coupables, quand alors il s'�l�ve des clameurs contre nous, ce
+n'est pas la morale qui s'indigne, car ce que nous demandons est de la
+morale la plus �l�mentaire, ce sont les moeurs et les lois qui
+s'effrayent. Nous avons contre nous les Lovelaces de toute classe,
+pour qui ces moeurs et ces lois sont un privil�ge dont leur �go�sme
+et leurs passions peuvent user sans repr�sailles, les Prud'hommes de
+tous rangs pour lesquels le monde finit � leurs habitudes, � leurs
+traditions, � leurs id�es, � leur famille, et qui ne se sentant pas
+atteints, et convaincus qu'ils ne pourront jamais l'�tre, par les
+calamit�s que ces moeurs produisent, ne voient pas qu'il y ait lieu
+de changer quoi que ce soit aux lois qui les prot�gent; nous
+avons encore contre nous les ignorants qui ne veulent rien apprendre,
+les hypocrites qui ne veulent rien avouer, les gens de foi et m�me de
+bonne foi qui croient leur Dieu compromis d�s qu'on leur parle d'un
+progr�s en contradiction avec leurs dogmes religieux, les timides qui
+ont peur d'un changement, les contribuables qui redoutent une d�pense;
+autrement dit, nous avons contre nous les quatre-vingt-dix-neuf
+centi�mes de nos compatriotes; mais c'est sans aucune importance,
+puisque le centi�me auquel nous appartenons depuis le commencement du
+monde a fait faire aux quatre-vingt-dix-neuf autres toutes les
+r�formes dont ils se trouvent, d'ailleurs, tr�s bien aujourd'hui, tout
+en protestant contre celles qui restent � faire. C'est par suite de
+tout ce malentendu sur la signification et la valeur r�elle
+des institutions, des faits et des mots qu'apr�s l'acquittement de
+mademoiselle Marie Bi�re, un conseiller � la Cour, qui avait assist�
+aux d�bats � c�t� de _celui qui �crit ces lignes_, disait � ce
+dernier, d'une voix v�ritablement �mue, avec l'accent amical mais
+convaincu du reproche et de l'inqui�tude: �Voil� pourtant ce dont vous
+�tes cause avec votre _Tue-la_!�
+
+Ainsi, c'est moi qui, en �crivant la lettre qui se terminait par ce
+mot, et en l'�crivant apr�s l'assassinat de madame Dubourg par son
+mari; c'est moi qui suis cause que M. Dubourg a tu� sa femme! Ainsi,
+voil� un magistrat des plus honorables, des plus intelligents et,
+comme homme priv�, des plus spirituels et des plus fins, qui
+aime mieux croire � la pernicieuse influence d'un �crivain isol� qu'�
+une insuffisance de la loi ancienne et � une r�clamation des moeurs
+nouvelles! O� sont les soci�t�s qui suivent le conseil d'un homme, si
+ce conseil ne r�pond pas, d'une mani�re quelconque, � ses besoins.
+
+Mais si on a reproch� � l'auteur de _l'Homme-Femme_ d'avoir dit:
+_Tue-la_! on n'a pas moins reproch� � l'auteur de _la Princesse
+Georges_ de n'avoir pas �t�, dans son d�nouement, jusqu'au meurtre du
+mari par la femme, et le public aurait volontiers cri� � l'h�ro�ne:
+_Tue-le!_ La presse l'a cri� le lendemain pour le public, et l'auteur
+a �t� forc�, dans une pr�face, d'expliquer pourquoi il n'y avait pas
+eu mort d'homme. Il a donn� ses raisons, bonnes ou mauvaises,
+l� n'est pas la question. Ce qui est certain, c'est qu'il a d�
+s'expliquer, s'excuser m�me de n'avoir pas fait tuer par une honn�te
+femme, indignement sacrifi�e, un mari qui la trompait pour une
+dr�lesse. Croyez-vous que madame de Tilly avait vu ou lu _la Princesse
+Georges_, et qu'elle se soit dit: �Eh bien, moi, je vais aller plus
+loin que l'h�ro�ne de M. Dumas, et je vais br�ler la figure � madame
+de Terremonde�?
+
+Non, n'est-ce pas? N'admettons donc pas, comme le conseiller � la Cour
+et tous ceux qui s'en prennent aux effets au lieu de s'en prendre aux
+causes, n'admettons donc pas que la litt�rature ait la moindre
+influence sur les moeurs. Tandis que la corruption du XVIIIe si�cle se
+peint dans _Manon Lescaut_, le besoin d'id�al qui domine toutes les
+soci�t�s, quel que soit le num�ro du si�cle, se traduit dans _Paul et
+Virginie_. On pleure sur Manon, on pleure sur Virginie; on ne devient
+ni meilleur ni pire; on a deux points de comparaison et deux
+chefs-d'oeuvre de plus, voil� la v�rit�, et voil� le b�n�fice pour
+l'humanit� pensante.
+
+Cependant, si la litt�rature, par le drame ou le roman est incapable de
+produire un mouvement des id�es et de les faire na�tre, elle est
+capable, par le plus ou moins d'�motion qu'elle produit, en traitant
+certains sujets, de faire voir et de constater o� les id�es en sont de
+leur mouvement naturel, et le chemin parcouru depuis une certaine
+�poque, et l'imminence de certains dangers, et la n�cessit� de
+certaines pr�occupations, de certaines �tudes, de certains efforts.
+Ainsi � ne prendre _l'Homme-Femme_ et _la Princesse Georges_ que pour
+ce qu'ils valent au point de vue de la moralisation ou de la
+d�moralisation de la soci�t�, � ne les prendre que comme thermom�tres
+particuliers charg�s de mesurer la temp�rature morale de notre soci�t�
+actuelle, il r�sulterait de l'exp�rience, surtout si l'on y ajoute le
+mauvais accueil fait � la _Femme de Claude_, que, il y a d�j� huit ans,
+le public ne voulait pas qu'on tu�t la femme coupable, en mati�re
+d'amour, mais que, pour l'homme coupable en cette m�me mati�re, il
+voulait qu'on le tu�t.
+
+Il faut tenir compte aussi, je le sais bien, dans ce jugement du
+public, des in�gales influences atmosph�riques du th��tre et du livre,
+du spectateur collectif et du lecteur individuel, ce qui peut supposer
+un �cart de quinze degr�s sur vingt, la chaleur c�r�brale d�velopp�e
+par la discussion imprim�e, par la d�duction philosophique d'un cas ne
+pouvant jamais atteindre � celle que d�veloppe le m�me cas, mis en
+forme et en action par des personnages des deux sexes devant des
+spectateurs m�les et femelles. Il faut faire aussi la part des raisons
+secr�tes et sp�cieuses que les gens d'esprit, m�l�s � une foule, dans
+une proportion tr�s modeste, il est vrai, mais cependant toujours
+appr�ciable, peuvent avoir de confirmer l'opinion de la foule
+instinctive et de premi�re impression. Ces raisons, on peut les
+traduire ainsi:
+
+�Le p�ch� d'amour adult�re dont si peu d'hommes sont ou se savent les
+victimes, et dont tant d'autres hommes sont ou peuvent �tre les
+b�n�ficiaires, m�rite-t-il qu'on inflige � la femme un ch�timent aussi
+disproportionn� que la mort et qui peut priver tant de gens d'un
+bonheur �ph�m�re mais recherch� que cette femme aurait pu donner
+encore; car �videmment elle devait �tre jeune, jolie, et destin�e, dans
+un avenir prochain, � trahir son amant comme elle avait trahi son mari,
+soit qu'elle e�t � se venger d'un abandon toujours facile � pr�voir,
+soit qu'elle se f�t lass�e d'une distraction dont la continuit� devient
+une servitude? Le meurtre, dans ce cas, serait donc cause d'une
+non-valeur qu'on ne doit jamais autoriser.
+
+�D'un autre c�t�, il n'y aurait pas justice �gale entre les deux
+parties, puisque, tandis que l'on conseillerait le meurtre de la femme,
+si facile � surveiller, � suivre et � surprendre, on ne saurait
+conseiller � la femme, �tre faible et timide, ne sachant se servir
+d'aucune arme � feu, de tuer son mari adult�re, celui-ci ayant,
+d'ailleurs, tous les moyens de se soustraire � ses recherches, et
+allant o� bon lui semble sans avoir jamais � lui en demander la
+permission ni � lui en rendre compte.
+
+�Pour ces motifs, il ne nous co�te pas du tout, � propos de la pi�ce de
+M. Dumas, dans laquelle mademoiselle Descl�e est si remarquable, de
+donner une petite satisfaction aux femmes, en d�clarant que l'auteur de
+_l'Homme-Femme_ a eu tort de dire: _Tue-la!_ et que l'auteur de _la
+Princesse Georges_ a eu tort de ne pas dire: _Tue-le!_�
+
+Eh bien, nous le r�p�tons, en m�lant comme des cartes de toutes
+couleurs les raisons de toute nature, �videmment un grand mouvement
+s'�tait op�r� dans l'opinion; on commen�ait � reprocher le trop
+d'indulgence pour les passions de l'homme et le _pas assez_ de piti�
+pour les souffrances et m�me pour les faiblesses de la femme.
+
+C'est alors qu'apr�s les incarnations litt�raires, sympt�mes
+sympathiques et pr�curseurs, appartenant au monde fictif, se sont
+produites des incarnations vivantes, appartenant au monde r�el,
+incarnations dont les derni�res ont �t�, en quelques mois et coup sur
+coup, mademoiselle Marie Bi�re, mademoiselle Virginie Dumaire,
+madame de Tilly. Il n'est pas besoin d'�tre proph�te pour en pr�dire
+d'autres, dans de tr�s brefs d�lais, et encore plus effrayantes,
+encore plus significatives que celles dont nous nous occupons en ce
+moment.
+
+       *       *       *       *       *
+
+Soyons donc s�rieux en face des faits r�els.
+
+Ici, nous ne sommes plus au th��tre, nous sommes en pleine vie; il ne
+s'agit plus d'esth�tique et de th�ses, il s'agit de crimes et de sang;
+ce ne sont plus des com�diens d�bitant leurs r�les que nous allons
+applaudir ou siffler, ce sont des victimes et des bourreaux que nous
+allons condamner ou absoudre; il s'agit de la libert�, de l'honneur et
+de la vie; le bagne et l'�chafaud sont l�.
+
+Regardons bien attentivement, nous allons voir les m�mes causes, les
+m�mes effets, les m�mes cons�quences se produire. Ces trois criminelles
+vont formuler la m�me plainte, proclamer la m�me injustice, en appeler
+� la m�me revendication, et cependant elles appartiennent toutes les
+trois � des milieux tout � fait diff�rents, tout � fait oppos�s m�me.
+La premi�re est une femme de th��tre, la seconde une servante, une
+prostitu�e, dit-on, la troisi�me une femme du monde; l'une �tait
+vierge, l'autre avait d�j� eu un enfant d'un autre homme, la derni�re
+�tait une femme mari�e qui avait des enfants l�gitimes, qui les aimait
+et qui avait toujours �t� digne de tous les respects comme fille,
+comme �pouse, comme m�re.
+
+Si ces trois crimes n'avaient pas �t� commis, si les choses avaient
+suivi leur cours naturel, si la fille de mademoiselle Bi�re avait
+v�cu, et que, plus tard, le fils de mademoiselle Virginie Dumaire la
+prostitu�e e�t voulu l'�pouser, mademoiselle Marie Bi�re ne l'aurait
+pas voulu.
+
+Si l'un des enfants de madame de Tilly avait voulu s'allier avec
+l'enfant de Marie Bi�re ou de Virginie Dumaire, madame de Tilly s'y
+serait oppos�e. Avant leurs crimes respectifs, la premi�re se croyait
+hi�rarchiquement en droit de m�priser la seconde, la derni�re de
+m�priser les deux autres.
+
+Les voici cependant sur les m�mes bancs, entre les m�mes gendarmes,
+ayant � r�pondre � la m�me accusation, inspirant la m�me sympathie.
+Pourquoi? parce que, arriv�es l�, elles ne sont plus la com�dienne, la
+servante, la femme du monde, elles ne sont plus telles ou telles
+femmes, elles sont la Femme, qui vient violemment et publiquement
+demander justice contre l'homme et � qui l'opinion, mise en demeure de
+se prononcer, accorde cette justice, avec des manifestations telles que
+la loi en est r�duite � s'incliner.
+
+Or quel est cet homme, contre lequel ces trois femmes viennent
+demander justice? On l'appelle ici M. G..., l� M. P..., plus loin M.
+T. Sont-ce trois hommes diff�rents? Non. C'est un seul homme, toujours
+le m�me, sous des noms divers, c'est l'Homme, non pas tel que le
+veulent la nature et la morale, mais tel que nos lois l'autorisent �
+�tre.
+
+En effet, la nature dit � l'homme: �Je t'ai donn� des curiosit�s, des
+besoins, des d�sirs, des passions, des sentiments que peut seul
+satisfaire cet �tre nomm� femme � qui j'ai donn� un coeur, une
+imagination et quelquefois des sens qui la disposent � se laisser
+convaincre et entra�ner par toi; prends cette femme; une fois tes
+curiosit�s, tes besoins, tes d�sirs, tes passions satisfaits, si tu
+sais te servir de l'intelligence, de la conscience, des sentiments
+dont je t'ai dou�, tu aimeras cette femme, tu feras d'elle la compagne
+de toute ta vie, la m�re de tes enfants. S'il y a une chance de
+bonheur pour toi, sur cette terre, elle est l�.�
+
+La morale dit ensuite � cet homme: �Ce n'est pas assez. Cette femme,
+tu l'as choisie, tu l'aimes, tu veux la poss�der et la rendre m�re?
+N'attends pas la possession et la maternit� pour te l'attacher � tout
+jamais. Tu ne dois pas seulement avoir de l'amour pour elle, mais aussi
+du respect; il n'y a pas d'amour durable sans cela, et pourquoi ton
+amour ne serait-il pas durable, puisque tu le d�clares irr�sistible?
+Prouve donc l'un et l'autre � cette personne, en lui donnant d'avance
+ce que d'autres ne lui donnent qu'apr�s, en te bornant � elle, en
+l'honorant de ton nom, en travaillant pour elle et les enfants qui
+na�tront de vous deux.�
+
+Les moeurs et les lois disent ensuite au m�me homme: �M�fie toi; il y a
+l� une amorce d�cevante, une solidarit� douteuse, un bonheur
+incertain. Prends le plaisir, laisse le mariage, c'est une cha�ne;
+laisse l'enfant, c'est une charge; et recommence avec d'autres femmes
+tant que tu pourras. Tu auras ainsi le plaisir, et tu garderas la
+libert�. Personne n'aura le droit de te rien dire, mais si, par hasard,
+on te demande des comptes, sois sans honte et sans crainte, nous sommes
+l�, lois et moeurs, nous r�pondrons pour toi et de toi.�
+
+Et nombre d'hommes, surtout parmi les plus civilis�s, laissent de c�t�
+ce que les principes de la morale ont d'assujettissant, et joignant
+directement ce que les invitations de la nature ont d'agr�able � ce que
+les insuffisances de la loi ont de commode, ces hommes, depuis des
+si�cles, se sont mis et ont continu� et continuent � prendre des
+filles sans fortune, sans famille, sans d�fense sociale, � les poss�der
+tant qu'elles leur plaisent et � les abandonner quand elles ne leur
+plaisent plus. La chose �tait accept�e ainsi, la prostitution et le
+suicide faisant le reste. Par le suicide, la soci�t� est d�barrass�e
+d'un souci et d'un reproche; par la prostitution, d'autres hommes, plus
+_moraux_, plus m�thodiques, plus garantis encore, _moralement_, se
+procurent un plaisir de seconde main, moins raffin�, mais souvent plus
+agr�able que le premier, dont le commerce des carrossiers et des
+couturi�res se trouve d'ailleurs tr�s bien, ce qui fait que l'�conomie
+sociale gagne d'un c�t� ce que la morale et la dignit� humaine perdent
+de l'autre. Les grandes civilisations ont besoin, para�t-il, de ces
+�changes �et apr�s tout, dirait M. Prud'homme, qui appara�t toujours
+quand il s'agit de r�soudre les probl�mes momentan�ment insolubles, ces
+demoiselles n'�taient pas si int�ressantes; pourquoi ne se sont-elles
+pas mieux d�fendues? Elles devaient bien pr�voir le r�sultat; elles
+savaient bien qu'elles faisaient le mal, puisqu'elles le faisaient en
+cachette; il est tout naturel que le mal soit puni. Elles ont eu les
+agr�ments de l'amour sans en accepter les devoirs, elles en ont les
+chagrins sans en avoir les droits, elles ont ce qu'elles m�ritent.�
+
+Il y a du vrai; il y en a toujours dans ce que dit M. Prud'homme, sans
+quoi il ne serait pas si universel et si triomphant. Les choses
+continuaient donc leur marche ascendante et il n'y avait ni � esp�rer
+ni � craindre un changement de route, quand, tout � coup, un troisi�me
+personnage est intervenu dans la question, personnage toujours muet,
+quelquefois mort, et cependant d'une �loquence terrifiante. Voyons
+comment il proc�de, celui-l�, depuis quelque temps. Voyons ce qui
+ressort, en substance, des d�bats r�cents o� il intervient avec
+obstination.
+
+   LA JUSTICE, � mademoiselle Bi�re.
+
+   Pourquoi avez-vous frapp� cet homme?
+
+   L'ACCUS�E
+
+   Parce que l'enfant que j'avais eu de lui est mort par lui, et
+   que, mon enfant �tant mort, et son p�re m'ayant abandonn�e, je
+   voulais que cet homme mour�t.
+
+   LA JUSTICE
+
+   Pourquoi, �tant dans ces id�es, avez-vous renou� des relations
+   avec cet homme?
+
+   L'ACCUS�E
+
+   Parce que j'aurais voulu avoir un autre enfant.
+
+   LA JUSTICE
+
+   Expliquez-nous cela.
+
+   L'ACCUS�E
+
+   Je ne peux pas; mais toutes les m�res me comprendront...
+
+Depuis le mot de Marie-Antoinette devant le tribunal r�volutionnaire,
+jamais l'�me de la femme traqu�e par la f�rocit� de l'homme n'avait
+trouv� un mot plus profond, plus troublant, plus vrai.
+
+       *       *       *       *       *
+
+Passons � mademoiselle Virginie Dumaire.
+
+   LA JUSTICE, � l'accus�e.
+
+   Vous avez tu� votre amant?
+
+   L'ACCUS�E
+
+   Oui.
+
+   LA JUSTICE
+
+   Vous regrettez d'avoir donn� la mort � cet homme?
+
+   L'ACCUS�E
+
+   Non; ce serait � recommencer que je recommencerais.
+
+   LA JUSTICE
+
+   Pourquoi l'avez-vous tu�?
+
+   L'ACCUS�E
+
+   Parce que j'avais un enfant de lui et que je voulais qu'il
+   reconn�t cet enfant et que je ne voulais pas qu'il l'abandonn�t.
+
+   LA JUSTICE
+
+   Mais vous avez d�j� eu un enfant d'un autre homme?
+
+   L'ACCUS�E
+
+   C'est vrai, mais il �tait mort.
+
+   LA JUSTICE
+
+   Ainsi, vous aviez appartenu d�j� � d'autres hommes?
+
+   L'ACCUS�E
+
+   Oui, mais j'avais un enfant vivant de celui-l�.
+
+Passons � madame de Tilly.
+
+   LA JUSTICE, � l'accus�e.
+
+   Vous avez jet� du vitriol au visage de mademoiselle Mar�chal.
+
+   L'ACCUS�E
+
+   Oui.
+
+   LA JUSTICE
+
+   Parce qu'elle �tait la ma�tresse de votre mari?
+
+   L'ACCUS�E
+
+   Non. S'il n'y avait que cette raison, j'aurais pardonn�.
+
+   LA JUSTICE
+
+   Pourquoi alors?
+
+   L'ACCUS�E
+
+   Parce que j'ai des enfants et que mon mari, leur p�re, n'attendait
+   que ma mort pour faire de cette femme la m�re de mes enfants; il
+   me l'avait dit: et je ne voulais pas que mes enfants eussent
+   d'autre m�re que moi, m�me moi morte.
+
+       *       *       *       *       *
+
+Voil� donc les enfants, ou plut�t l'enfant qui entre dans le d�bat, et
+qui, par la voix de la femme, de la m�re, de celle qui, com�dienne,
+servante, grande dame, dans la honte ou la glorification, dans le
+secret ou en pleine lumi�re, a mis cet enfant au monde, au risque de sa
+propre vie, au milieu des angoisses, des terreurs, des tortures et des
+cris, voil� l'enfant qui entre dans le d�bat, et qui, l�gitime ou non,
+vivant ou mort, du sein de sa m�re, du fond de son berceau ou du fond
+de sa tombe, prend la d�fense de sa m�re, que vous voulez condamner,
+contre son p�re, qui vous �chappe; et le voil� d�fiant la loi qui
+recule.
+
+Est-ce clair?
+
+C'est que vous aurez beau faire et surtout beau dire, les lois de la
+nature resteront toujours ant�rieures aux lois du code et m�me de la
+morale; c'est qu'elles seront, en d�finitive, les plus fortes et que
+vous n'aurez de repos et de s�curit� v�ritables que quand vous aurez
+mis d'accord ces trois termes: la nature, la morale et la loi. Il y en
+a deux qui s'entendent, la loi et la morale; mais la nature n'est pas
+admise dans leur convention et il faut qu'elle le soit.
+
+C'est peut-�tre tr�s moral et surtout tr�s simple de dire: �Les
+enfants naturels n'auront pas le droit de rechercher leur p�re; nous ne
+reconna�trons comme ayant des droits quelconques que les enfants n�s
+d'un mariage ou reconnus par acte authentique et encore ceux-ci
+n'auront que des droits restreints � la notori�t�, � l'estime, �
+l'h�ritage; il n'y a de femme respectable et pouvant invoquer notre
+protection que la femme mari�e; � partir de quinze ans et trois mois,
+la jeune fille qui aura c�d� � un homme, sans que celui-ci ait employ�
+le rapt ou la violence, n'aura rien � nous demander si cet homme la
+rend m�re et l'abandonne; le meurtre volontaire est puni de la prison
+ou des gal�res: s'il est accompagn� de pr�m�ditation, il est puni de
+mort, etc.�
+
+Tout cela est tr�s moral, tr�s simple, tr�s clair, tr�s joli, si vous
+voulez, mais cela n'a aucun rapport avec les instincts, les besoins,
+les exigences de la cr�ation universelle; ce sont des vues
+particuli�res, des menaces inutiles dont elle ne tient, dont elle ne
+peut tenir aucun compte dans son �volution providentielle et
+progressive; et, lorsque cette grande lutte du masculin et du f�minin,
+lutte dans laquelle, comme m�les, nous nous sommes donn�s tous les
+droits, vient finalement aboutir au champ clos du tribunal, la femme,
+sacrifi�e depuis des si�cles � vos combinaisons sociales comme fille,
+comme �pouse, comme m�re, se r�volte et vous dit en face, car telle est
+la conclusion que l'on doit tirer de la r�p�tition de certains faits
+d�clar�s jadis inf�mes par vos lois et aujourd'hui indemnes par vos
+jugements, et la femme criminelle, r�volt�e, entre deux gendarmes, sans
+repentir, mena�ante, pr�te � recommencer, vous dit en face:
+
+�Eh bien, oui, j'ai aim�; oui, j'ai ce que vous appelez failli,
+c'est-�-dire c�d� � la nature; oui, je me suis donn�e � un homme, �
+plusieurs m�me; oui, j'ai ensuite pr�m�dit� un crime, je me suis
+exerc�e � manier les armes des m�les; oui, j'ai attendu cet homme et je
+l'ai frapp� par surprise, l�chement, dans le dos et en pleine rue; oui,
+j'ai demand� � celui-ci un dernier baiser, et, tandis qu'il me serrait
+dans ses bras et qu'il ne pouvait m'�chapper, je lui ai br�l� la
+cervelle; oui, j'ai marqu� mon mari infid�le et ingrat sur le visage
+de sa complice, de cette jeune fille qui ne m'avait rien fait
+personnellement, qui ne me devait rien, qui ne se d�fiait pas de moi,
+qui ne pouvait pas me croire capable, moi femme du monde et respect�e,
+d'une l�chet� et d'une ignominie; tout cela est vrai; mais je suis la
+m�re, l'�tre sacr� s'il n'a jamais failli, l'�tre rachet� s'il aime
+l'enfant n� de sa faute.
+
+�Eh bien, ce que j'ai fait, je l'ai fait au nom de mon enfant qui est
+innocent, quelle que soit sa m�re, que vous auriez d� prot�ger et que
+vous ne prot�gez pas. Vous avez permis � l'homme de me prendre vierge,
+de me rendre m�re, de me rejeter ensuite d�shonor�e et sans ressources,
+et de me laisser � la fois la honte et la charge de son enfant; vous
+lui avez permis aussi, quand il m'avait �pous�e, de me trahir, d'avoir
+d'autres femmes, contre lesquelles vous ne pouvez pas ou ne voulez pas
+me d�fendre, de me prendre ma fortune, celle de mes enfants pour la
+porter � l'autre, et vous m'avez condamn�e � �tre �ternellement la
+femme de cet homme, tant qu'il vivrait, si mis�rable qu'il f�t. Vous me
+ridiculisez si je reste fille, vous me d�shonorez et me conspuez si, en
+restant fille, je deviens m�re; vous m'emprisonnez et m'annihilez si je
+me constitue �pouse pour devenir m�re; soit, j'en ai assez, et je tue.
+Vous avez permis que mon enfant, ill�gitime ou l�gitime, puisse ne pas
+avoir de p�re; emprisonnez-lui ou tuez-lui maintenant sa m�re: il ne
+nous manque plus que �a; allez!�
+
+Qu'est-ce que vous pouvez r�pondre? qu'on n'a pas le droit de se faire
+justice soi-m�me? que l'homicide volontaire est pr�vu par tel article
+du Code p�nal et doit �tre puni de telle et telle peine par tel autre?
+Essayez.
+
+Les criminelles sont-elles donc v�ritablement dans leur droit? Non;
+mais elles montrent l'homme dans son tort, la loi dans son tort, et
+alors c'est la foule, c'est-�-dire l'instinct naturel qui devient
+l'arbitre et qui vous force � rendre votre verdict au nom de l'innocent
+qui est l'enfant. Et ce sentiment naturel et cette �motion sont mont�s
+� un tel degr�, que, si celui que vous appelez le minist�re public, le
+d�fenseur de vos lois, le protecteur de la morale, l'organe de la
+justice (un incident nouveau se produisant qui peut donner aux d�bats
+un cours moins favorable � l'accus�e), si ce magistrat inquiet,
+responsable, demande un surcro�t d'enqu�te pour mieux conna�tre de la
+v�rit�, le public pr�sent proteste comme dans une salle de spectacle,
+l'opinion s'irrite, la presse s'indigne. On ne rend pas assez t�t � la
+libert� cette femme qui a tu�, cette meurtri�re qui ne nie pas son
+crime, qui ne le regrette pas, qui le recommencerait si elle l'avait
+manqu�. Et c'est le magistrat, c'est l'accusateur qui devient pour
+ainsi dire l'accus�.
+
+       *       *       *       *       *
+
+Qu'est-ce que cela signifie vraiment? o� en est la majest� de la
+justice? que devient le respect d� � la loi? Celui-ci a re�u deux
+balles dans les reins; il peut en mourir d'un moment � l'autre, on
+vous l'a dit. Celui-l� est mort assassin�; c'est encore plus net et
+plus s�r; ces hommes aussi avaient une m�re, une famille, le dernier
+avait une profession, il servait � quelque chose; il n'avait ni vol� ni
+tu�, il n'avait commis aucun des d�lits que les l�gislateurs, dans
+leurs longues et minutieuses m�ditations, ont pr�vus, num�rot�s,
+fl�tris, frapp�s d'une peine infamante ou tax�s d'une r�paration
+mat�rielle. Cette autre est d�figur�e, estropi�e, condamn�e � la honte,
+au c�libat, � la mis�re et � la maladie. Ces trois personnes n'ont
+cependant agi comme elles l'ont fait qu'avec l'autorisation et la
+garantie de vos lois; elles n'ont commis ni un des crimes, ni un des
+d�lits, ni une des contraventions que vous avez incrimin�s ou m�me
+signal�s comme immoraux et justiciables d'une forte ou d'une petite
+peine; elles seraient en droit de vous dire: �Vous ne nous avez pas
+renseign�s; vous ne nous avez pas indiqu� nos devoirs; vous nous avez
+m�me d�volu des droits; nous ne pensions pas mal agir, puisque votre
+Code, si clair et si d�taill� � la fois, n'indique nulle part que notre
+conduite soit r�pr�hensible. La religion � laquelle nous avons �t�
+vou�s par nos parents en venant au monde et la morale qu'on nous a
+inculqu�e depuis nous apprenaient bien que notre conduite n'�tait pas
+tr�s r�guli�re, puisque nous pratiquions l'amour autrement que dans le
+mariage; mais les habitudes et les moeurs autorisent de tous c�t�s
+autour de nous ce que vos lois ne punissent ni ne d�fendent, et,
+d'ailleurs la religion et la morale d�fendent tout aussi bien la
+s�duction, l'abandon des enfants, les vengeances et les meurtres dont
+nous sommes victimes. Puis cette religion et cette morale n'ont aucun
+moyen coercitif � leur disposition, et, n'ayant plus � discuter qu'avec
+notre conscience, nous �tions toujours s�rs, tant que nos forces
+physiques resteraient � la disposition de nos fantaisies, de trouver
+cette conscience aussi �lastique et accommodante que la soci�t� au
+milieu de laquelle nous vivons; en outre, cette religion et cette
+morale tenant le repentir � notre service sans lui fixer d'�poque, nous
+avions cru devoir remettre cette formalit� aux derniers moments de
+cette vie terrestre et r�jouir ainsi le ciel plus que ne le feraient
+les justes qui n'ont jamais p�ch�.�
+
+Voil� ce que ces trois personnes seraient en droit de vous dire si vous
+les �coutiez; mais vous en �tes r�duits � ne plus les �couter, et,
+apr�s leur avoir donn� tant de droits de faire le mal, � ne pouvoir les
+d�fendre contre celui qu'on leur fait. La loi de Lynch tout bonnement.
+Les repr�sailles personnelles, la justice par soi-m�me, oeil pour oeil,
+dent pour dent, voil� o� vous en �tes, avec votre Code, objet
+d'admiration pour tous les peuples!
+
+Et tous ces d�sordres, tous ces crimes, tous ces scandales, toutes
+ces ill�galit�s parce que vous n'avez pas le courage, car ce n'est
+pas le temps qui vous manque, de faire des lois qui assurent �
+l'honneur des filles les m�mes garanties qu'� la plus grossi�re
+marchandise, qui rendent la m�me justice � tous les enfants de la m�me
+esp�ce, de la m�me patrie, de la m�me destin�e, et qui autorisent
+celui des deux �poux que l'autre d�shonore, abandonne, ruine ou trahit,
+� reprendre sa dignit�, sa libert�, son utilit�, sans avoir recours �
+l'adult�re, � la st�rilit�, au suicide ou au meurtre. Alors, faute
+d'�quit� pr�voyante et de justice pr�ventive, maris qui �gorgent leurs
+femmes, filles qui tuent leurs amants, �pouses qui mutilent leurs
+rivales, applaudissements de la foule, pr�dominance des sentiments,
+d�faite de la loi--et triomphe de l'id�e.
+
+Car tout se tient. Cette incarnation nouvelle de l'id�e dans les
+_femmes qui tuent_ n'est pas la seule � laquelle vous allez avoir �
+r�pondre, et nous en voyons d�j� une autre, soeur de la premi�re,
+poindre dans les brumes de l'horizon, du c�t� o� le soleil se l�ve.
+
+       *       *       *       *       *
+
+Dieu sait si, dans notre beau pays de France, raisonnable, pr�voyant,
+logique comme nous venons essayer de le d�montrer une fois de plus,
+Dieu sait s'il y a des gens qui se tordent de rire chaque fois qu'on
+avance cette proposition: que les femmes, ces �ternelles mineures des
+religions et des codes, ces �tres tellement faibles, tellement
+incapables de se diriger, ayant tellement besoin d'�tre guid�s,
+prot�g�s et d�fendus que la loi a mieux aim� y renoncer, voyant qu'elle
+aurait trop � faire, Dieu sait, disons-nous, s'il y a des gens qui se
+tordent de rire � cette seule proposition que les femmes pourraient
+bien, un jour, revendiquer les m�mes droits politiques que les hommes
+et pr�tendre � exercer le vote tout comme eux. Jusqu'� pr�sent, cette
+proposition n'avait �t� �nonc�e et soutenue que dans des journaux
+r�dig�s par des femmes et le seul retentissement qu'elle avait en �tait
+dans le rire presque universel dont elle avait �t� accueillie; ceux qui
+ne riaient pas, les personnages s�rieux haussaient les �paules;
+quelques-uns, dont je suis, se demandaient tout bas si les r�clamantes
+n'avaient pas raison. A vrai dire, la r�clamation �tait faite le plus
+souvent dans des termes tellement exalt�s, proclamant si haut la
+sup�riorit� intellectuelle, morale, civile de la femme sur l'homme,
+qu'en effet elle disposait au rire. Mais, de ce qu'un droit est
+maladroitement revendiqu�, il ne s'ensuit pas qu'il ne soit point un
+droit. Tous les jours, un cr�ancier sans instruction, dans une lettre
+dont l'orthographe aussi fait pouffer de rire, r�clame ce qui lui est
+d� pour son travail, et, si comique que soit la forme de la
+r�clamation, il n'en faut pas moins y faire droit et payer la cr�ance.
+
+       *       *       *       *       *
+
+En janvier 1879, je trouvais et relevais, dans un journal, une
+proclamation des femmes, et, comme en ce moment-l� m�me, avec cette
+manie de pr�voir qu'on a pu facilement constater dans mes habitudes,
+je touchais � la question dans la pr�face de _Monsieur Alphonse_,
+j'imprimai en note cette proclamation que je vais reproduire ici pour
+en arriver o� je veux.
+
+   APPEL AUX FEMMES
+
+   �_Apr�s ce dernier appel au triomphe de la R�publique, voici
+   venir l'heure de conqu�rir notre libert�. La question politique
+   tranch�e, on va s'occuper de la question sociale. Si nous ne
+   sortons pas de notre indiff�rence, si nous ne r�clamons pas
+   contre notre situation de mortes civiles, la libert�, l'�galit�
+   viendront pour l'homme; pour nous femmes, ce sera toujours de
+   vains mots._
+
+   �_Les minist�res se succ�deront, la R�publique de nom deviendra
+   R�publique de fait; si la femme se contente d'�tre r�sign�e, elle
+   continuera sa vie d'esclave sans pouvoir se rendre ind�pendante
+   de l'homme, dont le droit seul est reconnu, le travail seul
+   r�tribu�._
+
+     �_Femmes de France_,
+
+   �_Trois projets de loi qui nous concernent sont en ce moment
+   soumis aux Chambres. Eh bien, pas une de nous ne pourra les
+   soutenir ou les amender. Une assembl�e d'hommes va faire des
+   lois pour les femmes comme on fait des r�glements pour les fous.
+   Les femmes sont-elles donc des folles auxquelles on puisse
+   appliquer un r�glement?_
+
+   �_L'homme fait les lois � son avantage, et nous sommes forc�es de
+   courber le front. Parias de la soci�t�, debout! Ne souffrons plus
+   que l'homme commette ce crime de l�se-cr�ature de donner � la
+   m�re moins de droits qu'� son fils. Entendons-nous pour
+   revendiquer la libert� et la facult� de nous instruire, la
+   possibilit� de vivre ind�pendantes en travaillant, la libre
+   accession � toutes les carri�res pour lesquelles elles
+   justifieront des capacit�s n�cessaires;_
+
+   �_L'association, et non la subordination dans le mariage;_
+
+   �_L'admission des femmes aux fonctions de juges consulaires, de
+   juges civils, de jur�s;_
+
+   �_Le droit d'�tre �lecteurs et �ligibles dans la commune et dans
+   l'�tat._
+
+   �_Femmes de Paris, il ne tient qu'� nous de changer notre sort.
+   Affirmons nos droits, r�clamons-les avec pers�v�rance et
+   insistance. Nos soeurs de la province nous suivront, et les
+   r�publicains sinc�res nous donneront leur concours � la tribune
+   et au scrutin, parce que tous savent qu'�manciper la femme, c'est
+   affranchir la g�n�ration naissante, c'est r�publicaniser le
+   foyer._�
+
+Tel est cet appel, rest� et devant rester sans �cho. En le transcrivant
+dans ma pr�face, je le faisais suivre de cette seule r�flexion:
+
+Le r�dacteur du journal qui a cit� cette proclamation trouve cela
+dr�le. S'il est encore de ce monde dans vingt ans, il reconna�tra que
+cela n'�tait pas aussi dr�le qu'il le croyait le 23 janvier 1879.
+
+       *       *       *       *       *
+
+Reprenons aujourd'hui cette proclamation, tenons-la pour une
+expression sinc�re, et jugeons-la avec l'impartialit� � laquelle tout
+ce qui est sinc�re a droit, quelle que soit la forme; t�chons d'�tablir
+le vrai, le faux, les contradictions, les r�sultats d'un pareil
+manifeste et mettons toute la m�thode, toute la justice, toute la
+clart�, toute la logique possibles dans cette discussion. Ce n'est pas
+tr�s facile quand on discute de la femme telle qu'elle doit �tre avec
+la femme telle qu'elle est, telle que nous l'avons faite, avouons-le,
+nous les hommes; car nous l'autorisons tant�t par notre despotisme,
+tant�t par notre admiration, tant�t par notre m�pris, � dire que tout
+ce qu'elle a de bon vient d'elle et que tout ce qu'elle a de mauvais
+vient de nous. Prenons le fond m�me des choses et traitons-les avec le
+m�me s�rieux que l'auteur du manifeste.
+
+La question n'est pas nouvelle. Cette revendication politique des
+femmes, ce d�sir de vouloir �tre associ�es � l'homme et m�me
+substitu�es � lui dans le gouvernement de l'�tat, date de loin; il y a
+deux mille trois cents ans, Aristophane �crivait sur ce sujet une de
+ses meilleures com�dies et la tentative f�minine a maintes et maintes
+fois �t� r�p�t�e depuis lors. Prenons la derni�re, elle est rest�e et
+restera longtemps peut-�tre sans acquiescement, du moins parmi les
+femmes. Les raisons de l'insucc�s sont bien simples et bien faciles �
+donner.
+
+D'abord, nombre de femmes n'ont pas lu ce manifeste; mais toutes les
+femmes de l'univers l'eussent-elles lu, le r�sultat obtenu e�t �t�
+absolument le m�me. Dans quel groupe f�minin e�t-il pu trouver de
+l'approbation et de l'appui. Voyons comment se r�partit l'esp�ce
+f�minine dans notre pays et dans tous les pays civilis�s.
+
+Il y a d'abord (� tout bonheur tout honneur), il y a d'abord les femmes
+heureuses dans l'�tat actuel des choses. Celles-l� non seulement ne
+demandent pas la moindre r�forme, mais elles la redoutent et elles
+traitent de folles ou de d�class�es celles qui en demandent une. Il est
+vrai de dire que le bonheur personnel n'est pas un argument dans une
+discussion g�n�rale, ce n'est qu'un privil�ge et il devient ais�ment de
+l'�go�sme. Nombre d'hommes aussi avaient trouv� le bonheur dans l'�tat
+social au milieu duquel ils vivaient; cela n'a pas emp�ch� d'autres
+hommes, ayant � souffrir de cet �tat social, de faire des r�volutions
+n�cessaires, et ce n'est pas fini, quels que soient la satisfaction et
+le profit que des hommes nouveaux tirent des r�formes nouvelles. Il n'y
+a donc pas � compter sur l'adh�sion des femmes heureuses du moins tant
+qu'elles seront heureuses, et, en attendant, si elles se comptent,
+elles verront qu'elles seront loin d'�tre la majorit�.
+
+Il y a les femmes habiles, intelligentes, si vous aimez mieux, qui,
+munies de certaines qualit�s physiques et morales, ont tourn�
+l'obstacle, comme on dit, et faisant ce qu'elles veulent du milieu
+qu'elles occupent, tiennent les hommes pour des �tres inf�rieurs et
+d�clarent que celles qui ne se tirent pas d'affaire, comme elles, sont
+des niaises et des maladroites. Il n'y a pas non plus � compter sur
+celles-l�, encore moins que sur les premi�res. Non seulement elles ne
+se plaindront jamais de l'�tat des choses, mais elles le trouvent
+parfait et comptent bien qu'il n'y sera rien chang�. En tout cas, si le
+changement arrivait, elles seraient toutes pr�tes � en tirer parti
+comme de ce qui est. Mais, dans cette discussion, la ruse n'est pas
+plus un argument irr�futable que le bonheur.
+
+Il y a, et c'est la masse, les femmes du peuple et de la campagne,
+suant du matin au soir pour gagner le pain quotidien, faisant ainsi ce
+que faisaient leurs m�res, et mettant au monde, sans savoir pourquoi ni
+comment, des filles qui, � leur tour, feront comme elles, � moins que,
+plus jolies, et par cons�quent plus insoumises, elles ne sortent du
+groupe par le chemin tentant et facile de la prostitution, mais o� le
+labeur est encore plus rude. Le dos courb� sous le travail du jour,
+regardant la terre quand elles marchent, dompt�es par la mis�re,
+vaincues par l'habitude, asservies aux besoins des autres, ces
+cr�atures � forme de femme ne supposent pas que leur condition puisse
+�tre modifi�e jamais. Elles n'ont pas le temps, elles n'ont jamais eu
+la facult� de penser et de r�fl�chir; � peine un souhait vague et
+bient�t refoul� de quelque chose de mieux! Quand la charge est trop
+lourde elles tombent, elles geignent comme des animaux terrass�s, elles
+versent de grosses larmes � l'id�e de laisser leurs petits sans
+ressources, ou elles remercient instinctivement la mort, c'est-�-dire
+le repos dont elles ont tant besoin. Il n'y a donc pas � compter sur
+l'adh�sion de ces malheureuses. Si le journal o� se trouve l'_Appel aux
+femmes_ leur tombe entre les mains, elles en enveloppent le morceau de
+hareng sal� ou de fromage mang� � la h�te sur un morceau de pain dur,
+et elles ne le liront pas m�me apr�s, par la meilleure de toutes les
+raisons: elles ne savent pas lire. Vienne l'�meute, quelques-unes, dans
+les grandes villes, assassineront, incendieront et se feront fusiller
+dans le vin, le p�trole et le sang; voil� tout; mais l'ignorance, la
+mis�re et la servitude ne sont pas plus que le bonheur et la ruse des
+arguments en faveur du maintien des choses.
+
+Il y a les femmes honn�tes, esclaves du devoir, pieuses. Leur religion
+leur a enseign� le sacrifice. Non seulement elles ne se plaignent pas
+des �preuves � traverser, mais elles les appellent pour m�riter encore
+plus la r�compense promise, et elles les b�nissent quand elles
+viennent. Tout arrive, pour elles, par la volont� de Dieu, et tout est
+comme il doit �tre dans cette vall�e de larmes, chemin de l'�ternit�
+bienheureuse. Non seulement celles-l� ne r�clameraient, dans aucun cas,
+ce que l'_Appel aux femmes_ demande, mais elles ne l'accepteraient pas
+si on le leur offrait. D'ailleurs, elles ne lisent ni les journaux, ni
+les livres o� il est question de ces choses-l�; cette lecture leur est
+interdite. Si, par hasard, elles avaient connaissance de pareilles
+id�es, sugg�r�es certainement par l'esprit du mal, elles en
+rougiraient, elles en souffriraient pour leur sexe, et elles prieraient
+pour celles qui se laissent aller � propager de si dangereuses erreurs
+et � donner de si d�plorables exemples. Il ne faut donc pas non plus
+compter sur celles-l�, quoi qu'elles aient � souffrir de notre �tat
+social, puisque la soumission est leur r�gle, le sacrifice leur joie et
+le martyre leur esp�rance. Mais, pas plus que le bonheur, la ruse,
+l'ignorance, la mis�re et la servitude,--la foi aveugle, l'extase et
+l'immobilit� volontaire de l'esprit ne sont des arguments sans
+r�plique.
+
+Il y a celles qui ne sont ni heureuses, ni adroites, ni abruties, ni
+pieuses, qui ont assez de dignit� pour vouloir rester dans le bien,
+assez d'intelligence pour pouvoir �tre associ�es � n'importe quel
+homme, ou pour entrer seules dans n'importe quelle carri�re, o� il
+n'est besoin que de volont�, de patience, d'�nergie, de probit�; assez
+d'id�al, de tendresse, et de d�vouement pour �tre �pouses et m�res;
+assez de r�serve et de respect d'elles-m�mes pour ne jamais r�criminer,
+et qui, parce qu'elles sont femmes, et femmes ou moins belles, ou moins
+hardies ou moins riches surtout que d'autres, se voient refuser, non
+seulement les sentiments et les joies, mais les positions, les moyens
+d'existence auxquels elles pourraient pr�tendre. Trop affin�es par
+l'�ducation pour le travail des manoeuvres, trop fi�res pour la
+domesticit� ou la galanterie, trop timides pour la r�volte ou
+l'aventure, trop _femmes_ pour les voeux monastiques, sous la pression
+r�guli�rement pesante, circulaire et infranchissable de l'�go�sme
+collectif, celles-l� voient, de jour en jour, en sondant l'horizon
+toujours le m�me, s'effeuiller dans l'isolement, dans l'inaction, dans
+l'impuissance, les facult�s divines qui leur avaient d'abord fait faire
+de si beaux r�ves et dont il leur semble que l'expansion e�t pu �tre
+mat�riellement et moralement si profitable aux autres et � elles-m�mes.
+Elles sentent qu'elles auraient pu donner au moins autant de bonheur
+qu'elles en auraient re�u, et elles meurent sans avoir �t� ni amantes,
+ni �pouses, ni m�res. De temps en temps, elles font une tentative
+individuelle, isol�e, avec leurs seules ressources et leurs seules
+forces dans quelqu'une de ces carri�res ou de ces entreprises des
+m�les, o� l'appui si n�cessaire de l'homme et de l'argent leur manque
+presque toujours et qui avorte, ajoutant des soucis pour l'avenir aux
+tristesses du pr�sent et du pass�; quelquefois une esp�rance secr�te
+de revanche par le coeur, par l'amour, am�ne un �cart myst�rieux, une
+faute d�sint�ress�e et touchante cruellement et silencieusement expi�e
+sans recours � l'assassinat. S'il est un groupe de femmes auquel
+l'_Appel aux femmes_ devrait s'adresser, o� il devrait trouver des
+alli�es, c'est celui-l�. Mais il ne faut pas compter non plus sur ces
+femmes. Leur intelligence, leur instruction, leurs chagrins, leurs
+d�ceptions sans cesse renouvel�es, tout leur dit qu'il y aurait autre
+chose � faire d'elles et pour elles que ce qu'on fait; mais, leur
+modestie, l'habitude de l'effort inutile, la peur du bruit et du
+scandale ne leur permettent que des adh�sions secr�tes et des
+complicit�s tout int�rieures. Elles souffrent, elles doutent, elles se
+taisent, et, pass� un certain �ge, elles n'esp�rent m�me plus.
+
+Enfin, il y a les femmes intelligentes, dont l'intelligence, gr�ce � la
+fortune ou � l'ind�pendance mat�rielle, n'a pas besoin d'aller jusqu'�
+l'habilet�; ces femmes, ne se consid�rent pas seulement comme des �tres
+de sentiment, de fonction et de plaisir: elles s'int�ressent aux
+grandes questions humaines et sociales; elles lisent, s'�clairent,
+vivent, sans le p�dantisme fustig� par Moli�re, dans le commerce des
+esprits sup�rieurs, et, se faisant accessibles aux id�es de progr�s et
+de civilisation en dehors des formules traditionnelles et consacr�es,
+dites �bonnes pour les femmes�, elles se tiennent pour aussi capables
+que les hommes de comprendre, de r�fl�chir, de savoir et de juger. Ces
+femmes-l� ne doutent pas que la femme, en qualit� de personne humaine,
+dou�e d'un coeur et d'un cerveau, tout comme l'autre personne humaine,
+ne doive avoir un jour les m�mes droits, noms, raisons et actions que
+celle-ci. Seulement, elles savent que ce progr�s, elles ne sauraient le
+conqu�rir de prime abord par elles seules, que c'est l�, au
+commencement, oeuvre d'homme, et que ce progr�s ne peut �tre que
+retard� � �tre violemment et publiquement revendiqu� par elles. Dans le
+groupe des hommes o� ces questions de l'avenir s'agitent et qui sont
+appel�s � les traiter un jour dans la politique, groupe qu'elles
+traversent constamment, elles sont par leur �ducation, par leurs
+aptitudes, par leur droiture, par leur morale �lev�e, large,
+conciliante, par leurs qualit�s intellectuelles et morales, par leurs
+perceptions fines et leur interpr�tation ing�nieuse des choses, elles
+sont le meilleur exemple et le plus puissant t�moignage en faveur de
+l'�galit� sociale, morale, l�gale de l'homme et de la femme. Mais ces
+femmes ne sont pas nombreuses, et l'appel public qui leur est fait ne
+doit pas compter sur leur adh�sion publique. La question, pour elles,
+est � la fois trop s�rieuse, trop complexe et trop d�licate pour �tre
+livr�e aux hasards des discussions en plein air, et compromise par les
+utopies des impatientes et des excessives, sur lesquelles seulement un
+tel manifeste pouvait compter, de sorte que les auxiliaires qu'il
+recrute et qui adh�rent � lui publiquement sont justement celles qui le
+compromettent et qui �loignent les autres.
+
+D'o� viennent l'impatience, l'exag�ration, l'agitation ext�rieure de
+ces adh�rentes dangereuses? De convictions sinc�res, nous n'en doutons
+pas, mais plus souvent n�es de souffrances, de d�ceptions, d'erreurs
+individuelles que d'observations d�sint�ress�es. �Ce sont ceux qui
+souffrent qui crient!� diront ces femmes; ce n'est pas douteux; et, si
+ceux qui souffrent ne criaient pas, on ne saurait pas qu'ils souffrent
+et personne ne songerait � soulager les maux ou � r�parer les
+injustices dont ils ont � se plaindre, c'est tout aussi �vident. Mais
+la souffrance par elle seule n'est pas plus un argument irr�futable que
+le bonheur. Toute souffrance a droit � la piti� et � l'assistance; mais
+elle est quelquefois la cons�quence logique et le ch�timent fatal
+d'une imagination exalt�e, d'une insoumission irr�fl�chie, d'un r�ve
+d��u, d'un orgueil trop grand, d'un manque d'�nergie et de volont�.
+
+On n'arrive, tr�s souvent, homme ou femme, � craindre et � tenter de
+d�truire un �tat social, qu'apr�s l'avoir longtemps exploit� tel qu'il
+�tait. On n'a donc � lui reprocher que de ne s'�tre pas pr�t� �
+certaines combinaisons peut-�tre trop exigeantes. Ce n'est pas l� une
+raison suffisante pour ceux que l'on veut troubler dans leur repos et
+leurs habitudes. De l� cette r�sistance instinctive et naturelle � des
+r�formes radicales dont la cause peut �tre attribu�e aux int�r�ts
+purement personnels et m�me mal d�finis de ceux qui les r�clament. �Il
+faut voir�, disent les gens sans parti pris; mais, pour bien voir, il
+faut du temps, et les impatients d�clarent qu'ils ont vu et bien vu
+pour tout le monde. Cela n'est pas toujours convaincant.
+
+La personne humaine, homme ou femme, est continuellement � la recherche
+du bonheur; mais le bonheur est relatif et d�pend des temp�raments, des
+caract�res, des milieux. Chacun se r�ve un bonheur particulier, et
+celui-l� serait le fou des fous qui croirait qu'en donnant � chacun le
+bonheur particulier qu'il d�sire, on constituerait le bonheur
+universel. D'un autre c�t�, disons-le, au risque de passer une fois de
+plus pour un esprit paradoxal, si nous ne pouvons pas toujours nous
+procurer le bonheur que nous souhaitons, nous pouvons toujours nous
+soustraire aux malheurs qui nous frappent, lesquels ne sont jamais,
+passez-moi le mot, que des bonheurs qui n'ont pas voulu _se laisser
+faire_.
+
+Il n'y a pour l'homme que deux malheurs involontaires, qu'il puisse
+qualifier d'imm�rit�s, dont il ait vraiment le droit de se plaindre et
+auxquels la soci�t� doive vraiment assistance et piti�; ce sont ceux
+qu'il peut trouver � sa naissance: la mis�re et la maladie. En dehors
+de ces fatalit�s cong�nitales, ce qu'il appelle son malheur est
+toujours son oeuvre. La vie ne r�alise pas toutes ses esp�rances, et
+alors il se d�clare malheureux. Il veut le plaisir, il veut la fortune,
+il veut l'amour, il veut la gloire, il veut la famille! Un jour, le
+plaisir se d�robe, la fortune �chappe, l'amour trompe, la gloire
+trahit, la famille se dissout par l'ingratitude ou la mort; alors
+l'homme maudit la destin�e, il crie � l'injustice.
+
+En r�alit� le malheur de l'homme se r�duit � ceci: � ce qu'il n'a pas
+�t� aussi heureux qu'il comptait l'�tre, qu'il s'attribuait le droit de
+l'�tre. Si cet homme qui se plaint tant, avait su pour lui-m�me ce
+qu'il savait si bien pour les autres, et ce qu'il leur disait si bien,
+quand il les entendait g�mir en lui demandant de les consoler: que le
+plaisir est �ph�m�re, que la fortune est changeante, que l'amour est
+volage, que la gloire est trompeuse, que l'enfant est mortel et souvent
+ingrat, il n'aurait pas connu les malheurs qu'au lieu et place du
+bonheur esp�r�, lui ont caus�s la famille, la gloire, l'amour, la
+fortune et le plaisir. Il a jou�, avec l'espoir de gagner, il a perdu,
+il paye. Qu'y faire? Il n'avait qu'� ne pas jouer.
+
+Un homme qui ne se marie pas est s�r de ne pas avoir les ennuis, les
+dangers, les chagrins du mariage; un homme qui n'a pas d'enfants est
+s�r de ne pas en perdre et de ne pas les voir ingrats; un homme qui a
+de quoi vivre, qui s'en contente et qui ne cherche pas � devenir
+millionnaire est s�r de ne pas perdre ce qu'il poss�de; un homme qui
+n'a pas de ma�tresse est s�r de ne pas �tre trahi par elle; un homme
+qui n'a pas l'ambition des hautes destin�es est s�r de ne pas �tre
+pr�cipit� des sommets, et il se soucie fort peu que la roche tarp�ienne
+soit pr�s du Capitole. Ce n'est pour lui que de la g�ographie et de
+l'architecture. Ce qui fait le malheur de l'�tre humain, toujours en
+dehors de la mis�re et de la maladie natives, c'est qu'il met son
+bonheur dans les choses p�rissables, lesquelles, en se d�sagr�geant
+par la loi des �puisements et des m�tamorphoses, laissent dans le vide,
+dans la stupeur et dans le d�sespoir ceux qui se sont fi�s � elles.
+Tout �tre qui ne s'attachera qu'aux choses �ternelles ne conna�tra pas
+ces malheurs-l�. De l� cette s�r�nit� des grands religieux et des
+grands philosophes; de l� leur m�pris bienveillant, charitable et doux
+pour les infortunes humaines dont ils ont trouv� la cause dans les
+erreurs et les faiblesses du petit d�sir humain. Pas de d�ceptions, pas
+de fatalit�s, pas de r�criminations pour ceux qui se vouent � l'amour
+exclusif, sans calculs et sans ambitions terrestres, de la nature, de
+Dieu, de l'art, de la science, de l'humanit�.
+
+Alors plus d'action, plus de mouvement, plus d'id�al, plus
+d'esp�rances; plus de but, plus de liens, plus de familles, plus de
+soci�t�s par cons�quent! La vie, non pas m�me des animaux, lesquels
+ob�issent encore � des instincts, � des besoins, � des �motions, � des
+sentiments, mais des automates et des machines, ou alors un monde de
+raisonneurs, de saints, de contemplatifs, s'extasiant devant la
+cr�ation sans rien demander, sans rien comprendre � la cr�ature, et, en
+d�finitive, la st�rilit� et la mort pour �viter l'illusion, la faute et
+la douleur. Voil� ce que vous nous demandez?
+
+Moi, je ne vous demande rien. J'�tablis tout bonnement ce qu'on appelle
+un �tat de situation. Je me trouve en face de personnes qui se
+plaignent et qui accusent la soci�t� de tous les maux dont elles
+souffrent. Je cherche si, en effet, collectivement, les hommes sont
+aussi coupables que certaines personnes le disent de leurs malheurs
+particuliers. Je trouve et je prouve que l'initiative personnelle y
+entre pour beaucoup, je d�montre math�matiquement qu'il n'y a vraiment
+que deux malheurs involontaires et imm�rit�s, et, ce point �tabli que
+nous ne saurions poursuivre la r�alisation du bonheur humain � travers
+tous les _alea_ de ce monde, sans avoir la chance de nous �garer et de
+nous perdre, j'indique le moyen certain, bien connu, qui est et restera
+peu usit� de n'avoir rien � redouter des douleurs communes, et, apr�s
+ce pr�liminaire indispensable � mes conclusions, j'en reviens �
+l'_Appel aux femmes_, et je m'occupe de discerner en toute conscience,
+avec ceux qui ne se croient pas le droit de tout railler � premi�re
+vue, ce qu'il faut prendre, ce qu'il faut laisser des revendications
+f�minines qui, par des actes violents ou des manifestes libell�s, se
+proposent et vont bient�t s'imposer � la discussion politique.
+
+       *       *       *       *       *
+
+�tablissons avant tout ceci:
+
+Quand la femme demande � ne pas �tre esclave de l'homme, et quand, en
+m�me temps, elle croit pouvoir �tre ind�pendante de l'homme, elle a
+tort.
+
+D'abord la femme n'est esclave de l'homme que quand elle le veut bien,
+quand elle l'�pouse, et rien, l�galement, ne la force de l'�pouser.
+Ensuite elle ne peut pas avoir une vie � part, ind�pendante de
+l'homme, puisque l'homme remplit certaines fonctions mat�rielles
+qu'elle ne peut remplir, et sans lesquelles sa vie � elle, sa
+vie � part, sa vie ind�pendante comme elle la voudrait, n'aurait
+aucune s�curit�, aucune possibilit� d'�tre; ainsi l'homme est soldat
+et la femme ne l'est pas. Elle d�pend donc de l'homme, m�me si elle
+reste c�libataire, pour la d�fense de son foyer. Quant � son
+esclavage, il est, nous le r�p�tons, volontaire; elle est l�galement
+libre, aussi libre, plus libre que l'homme, � partir de vingt et un
+ans, et pas un pouvoir au monde ne saurait lui prendre la moindre
+parcelle de cette libert� l�gale, si elle veut la garder, libert� bien
+autrement �tendue, bien autrement avantageuse, toujours l�galement,
+que la n�tre.
+
+En effet, � vingt et un ans, la femme peut se marier sans le
+consentement de ses parents ou plut�t en passant outre; � vingt-cinq
+ans seulement, l'homme peut se marier dans les m�mes conditions;
+autrement dit, il est, pendant quatre ans de plus qu'elle, esclave de
+la loi, et, sur ce point, dans l'�tat social, inf�rieur � la femme. Ce
+n'est pas tout. L'homme est astreint, non de son plein gr�, mais par un
+de ces r�glements que la femme l'accuse d'avoir dirig�s contre elle
+seule, l'homme est astreint au service militaire et, s'il d�serte, s'il
+se r�volte, les gal�res ou la mort. De cet esclavage qui p�se sur
+l'homme et dont elle est dispens�e, la femme ne parle pas. Cette
+dispense, vaut cependant bien quelque chose. La femme est donc mal
+venue � demander son admission aux fonctions de juge civil et de jur�;
+il n'y a pas plus lieu de lui accorder le droit de diriger l'�tat qu'il
+n'y a eu lieu de lui imposer le devoir de le d�fendre. Qu'elle soit
+soldat d'abord, elle sera juge, consul ou jur� ensuite.
+
+Voil� donc de grands avantages sur les hommes conc�d�s par les lois �
+la femme. En les lui attribuant, les lois se sont conform�es aux
+indications de la nature. La femme leur a paru �tre organiquement plus
+pr�coce, musculairement plus faible que l'homme; elle a tenu compte de
+sa pr�cocit�, quant au mariage; de sa faiblesse, quant aux fonctions.
+La femme lui paraissant plus faible que l'homme, la loi, dans le
+mariage, a voulu la mettre non pas sous le pouvoir, mais sous la
+protection de l'homme. L� encore, elle a suivi les indications de la
+nature. L'enfantement, l'allaitement, les soins assidus � donner �
+l'enfant pendant son enfance, c'est-�-dire pendant dix ou douze ans,
+tout cela, joint � la faiblesse naturelle de la femme, exigeait la
+tutelle du mari. Cette tutelle devient facilement de la surveillance,
+de la tyrannie, parce que la loi a d� compenser pour l'homme les trop
+grands privil�ges que, dans l'union conjugale, la nature accordait � la
+femme et qui �taient un danger incessant pour le mari. En effet, avec
+un peu d'habilet�, qui n'est pas rare, la femme peut introduire dans le
+foyer commun, donner le nom et appeler � des biens patrimoniaux ou
+acquis, � la succession de son �poux, l'enfant d'un autre homme, tandis
+que l'homme ne peut jamais, quoi qu'il fasse, imposer � sa femme
+l'enfant d'une autre femme. L'homme s'est donc attribu� certains
+droits ou plut�t certaines garanties qui ne le garantissent pas
+toujours, bien qu'il en abuse souvent � l'�gard de ces femmes
+irr�prochables et sacrifi�es, en faveur desquelles nous demandons le
+divorce. La femme peut donc avoir � se plaindre de l'homme dans le
+mariage; mais alors elle rentre dans les _alea_ de la recherche du
+bonheur commune aux deux sexes. Elle a esp�r� �tre heureuse par le
+mariage, elle ne l'est pas; elle s'est tromp�e, et elle paye son
+erreur. L'homme est soumis comme elle � la m�me d�ception, s'il a
+commis la m�me faute; ce n'est pas l� une loi sp�ciale prise en d�faut,
+c'est une loi g�n�rale, pour les uns et les autres. La femme pouvait
+�viter les chagrins du mariage. Elle n'avait qu'� ne pas se marier.
+Rien ne l'y for�ait. Elle a c�d� � l'esp�rance d'�tre plus heureuse
+par le mariage que par le c�libat, soit; la loi humaine, jusque-l�, n'a
+rien � se reprocher.
+
+Savez-vous ce qui fait le malentendu dans cette interminable discussion
+de la revendication des droits des femmes? C'est que les femmes se
+trompent de mot, involontairement bien entendu, dans l'expos� de cette
+revendication et qu'elles s'en prennent aux lois de ce qui est, encore
+une fois, l'oeuvre des moeurs. Voil� la v�rit�. Les droits accord�s par
+les lois sont identiques pour elles comme pour l'homme, et, m�me, nous
+l'avons dit, s'il y a un avantage, il est pour la femme. La loi lui
+laisse faire tout ce qu'elle permet � l'homme. Elle lui donne toute la
+libert� compatible avec la s�curit� publique, et l'homme n'en a pas
+plus qu'elle. C'est seulement quand la femme a fait une chose, non pas
+command�e, mais recommand�e par les moeurs, lesquelles n'ont pas de
+r�glement fixe, ni de moyens mat�riels de contrainte, c'est seulement
+enfin lorsque la femme a c�d� aux conseils et � l'influence des moeurs,
+toujours avec l'esp�rance de les utiliser � son profit, c'est alors
+seulement qu'il lui vient l'id�e d'accuser les lois de son insucc�s ou
+de son erreur. La loi n'impose � la femme aucun mode particulier
+d'existence; elle se borne � les pr�voir tous, autant que possible,
+pour le cas o�, une difficult� survenant par suite de la mauvaise
+ex�cution d'un contrat particulier volontaire, sign� par les deux
+parties, on vient r�clamer son intervention et son arbitrage. La femme
+n'a donc pas � r�clamer les m�mes droits l�gaux que les hommes; elle
+les a. La femme majeure, comme l'homme majeur, est compl�tement libre:
+elle peut quitter sa famille, aller, venir, voyager, s'expatrier,
+acheter, vendre, n�gocier, entrer dans toutes les carri�res en accord
+avec son intelligence, son instruction, ses aptitudes, ses forces, son
+sexe. Elle peut vivre � sa fantaisie et avoir autant d'enfants qu'il
+lui pla�t, si la nature s'y pr�te, avec qui bon lui semble.
+
+�Mais cette femme qui vit selon sa fantaisie, qui a des enfants avec
+qui bon lui semble, elle est compromise, d�shonor�e, honnie.�
+
+Par qui? pas par les lois, par les moeurs.
+
+�Mais il est dans la destin�e de la femme de se marier, d'avoir un
+�poux l�gal, des enfants l�gitimes.�
+
+O� avez-vous vu cela? Dans les moeurs. Il n'en est pas question dans
+les lois.
+
+Les lois r�glementent le mariage, mais elles ne l'ordonnent pas, elles
+ne le conseillent m�me pas.
+
+Je comprendrais les r�clamations des femmes, si ces r�clamations se
+produisaient contre les moeurs. Je comprendrais les femmes disant:
+�Nous avons un id�al: l'amour; nous avons une mission: la maternit�.
+Nous demandons � r�aliser notre id�al, � accomplir notre mission.
+
+�C'est non seulement notre id�al, c'est non seulement notre mission,
+c'est encore, au nom de la nature qui prime toutes les institutions
+humaines et morales, toutes les lois et toutes les moeurs, c'est
+notre droit et c'est notre devoir. Nous demandons les moyens
+d'exercer notre droit et de faire notre devoir.�
+
+A quoi la soci�t� r�pondrait:
+
+�Le mariage a �t� justement institu� pour la satisfaction de cet
+id�al, de cette mission, de ce droit et de ce devoir.
+
+--Mais les hommes veulent seulement �pouser celles qui leur apportent
+une dot, et un tr�s grand nombre parmi nous, n'ayant pas cette dot, ne
+peuvent pas se marier. Pouvez-vous forcer les hommes � nous �pouser?
+
+--Non.
+
+--Soit; nous comprenons l'homme ne voulant pas perdre d�finitivement
+et irr�parablement sa libert�; il a une action � faire comme nous
+avons une mission � accomplir; il ne recule pas devant l'amour, il
+recule devant un contrat par lequel il se trouve trop engag�. Il y a
+un moyen de tout concilier, c'est l'union libre, nous demandons le
+droit de la contracter, au risque d'�tre abandonn�es par l'homme
+demeur� libre.
+
+--Vous avez ce droit, personne ne s'y oppose; mais la morale le
+r�prouve.
+
+--Qui a �dict� cette morale?
+
+--Des l�gislateurs religieux et politiques.
+
+--Des hommes alors?
+
+--Oui.
+
+--Ont-ils appel� des femmes dans leurs conseils avant de prendre ces
+arr�t�s?
+
+--Non.
+
+--Cependant les femmes composent la moiti� du genre humain, et elles
+�taient fort int�ress�es dans la question.
+
+--Ils ont pris cette d�cision tout seuls.
+
+--Et qu'ont-ils �tabli pour les filles que les hommes
+n'�pousaient pas?
+
+--Qu'elles se r�signeraient au c�libat et � la st�rilit�; elles
+peuvent aussi se faire religieuses et servir le Dieu au nom duquel
+cette morale a �t� proclam�e.
+
+--Et si elles ne se r�signent pas?
+
+--Elles seront ce qu'on appelle des femmes de mauvaise vie, elles
+seront m�pris�es et exclues de la soci�t� des honn�tes gens.
+
+--Alors les hommes qui ne se marient pas et qui se donnent avec ces
+femmes les plaisirs de l'amour sans en assumer les charges, qu'ils leur
+laissent, sont encore plus m�pris�s qu'elles et plus ignominieusement
+chass�s de la soci�t� des honn�tes gens?
+
+--Non.
+
+--Pourquoi?
+
+--Parce que ce sont les hommes qui ont �tabli ces lois morales et
+qu'ils les ont �tablies naturellement � leur avantage.
+
+--Alors, moi qui enfante dans la douleur et dans les cris, les
+entrailles ouvertes, en face de la mort, je suis, m�me si j'ai succomb�
+par ignorance, sans savoir ce que je faisais, je suis plus coupable et
+plus m�pris�e que l'homme qui de la g�n�ration ne conna�t que le
+plaisir?
+
+--Oui.
+
+--C'est souverainement injuste!
+
+--�a dure ainsi depuis tr�s longtemps; maintenant, c'est consacr�.
+
+--Tr�s bien; mais, dans cette soci�t� des honn�tes gens, dont nous
+serions exclues en cas d'unions libres publiquement contract�es, nous
+voyons beaucoup d'unions libres malgr� les mariages l�gaux contract�s
+ant�rieurement. Nous voyons des hommes mari�s qui ont d'autres femmes
+que les leurs, des femmes mari�es qui ont d'autres hommes que leurs
+maris; tout le monde le sait, personne ne leur dit rien; comment cela
+se fait-il?
+
+--Ces gens-l� ont eu la bonne chance et la pr�caution de se mettre en
+r�gle avec la soci�t� par leur mariage.
+
+--Mais la morale?
+
+--Elle n'a rien � voir l� dedans; c'est affaire de moeurs.
+
+--Nous demandons des lois qui changent ces moeurs.
+
+--Impossible. Les moeurs modifient quelquefois les lois; les lois ne
+modifient pas les moeurs.
+
+--Soit; je cours la chance de la honte pour avoir l'enfant; car, mon
+enfant, je pourrai au moins le garder?
+
+--Peut-�tre!
+
+--Comment, peut-�tre? qui me le prendrait?
+
+--Son p�re.
+
+--Mais puisqu'il ne sera pas mon mari.
+
+--Il pourra le reconna�tre, et, si tu as approuv� la reconnaissance et
+que ce soit un gar�on, c'est-�-dire ton soutien et ton d�fenseur dans
+l'avenir, son p�re pourra te le prendre quand il aura sept ans, en
+prouvant qu'il a, lui, le p�re, plus de moyens d'existence que toi, ce
+qui arrive presque toujours; mais ne crains rien: le p�re tient bien
+rarement � �lever son enfant, � moins que ce ne soit pour se venger de
+la m�re.
+
+--Se venger, et de quoi?
+
+--Nous ne savons pas; cela rentre dans la conscience.
+
+--Mais je puis nier, m'a-t-on dit, que cet homme soit le p�re de mon
+enfant.
+
+--Parfaitement.
+
+--Alors on me laissera mon fils.
+
+--Oui.
+
+--Et je pourrai lui donner mon nom?
+
+--Si tu le veux.
+
+--Et, si j'acquiers du bien en travaillant pour lui, je pourrai lui
+laisser mon bien pour qu'il ait au moins l'ind�pendance?
+
+--Non. Si tu lui donnes ton nom, et que tu aies un p�re, une m�re, des
+fr�res, des soeurs, tu ne pourras lui donner qu'une partie de ton bien.
+
+--M�me si mon p�re, ma m�re, mes fr�res et mes soeurs m'ont chass�e
+pour l'avoir mis au monde.
+
+--Oui; mais tu n'as qu'� ne pas lui donner ton nom, qu'� ne pas
+l'appeler ton fils, qu'� le traiter comme un �tranger, tu pourras lui
+donner tout ton bien.
+
+--Qui a d�cid� cela?
+
+--Les lois.
+
+--Qui a fait les lois?
+
+--Les hommes.
+
+--Ceux qui avaient d�j� fait la morale et les moeurs?
+
+--Les m�mes.
+
+--Merci.�
+
+       *       *       *       *       *
+
+L� �videmment et non dans l'occupation des carri�res et des fonctions
+publiques, est le vrai, l'unique, l'�ternel sujet, l'�ternel droit des
+revendications de la femme. Sur ce terrain, elle a pour elle la nature,
+la justice, la v�rit� et tous ceux qui ont un coeur et une conscience.
+Voil� pourquoi, quand, pouss�e � bout par la l�chet� de l'homme et la
+sauvagerie de la loi, et se faisant l�che comme l'un et sauvage comme
+l'autre, elle tue et mutile, voil� pourquoi la justice en est r�duite �
+l'absoudre et l'opinion � l'acclamer.
+
+Mais toutes les femmes abandonn�es par leur amant, trahies par leur
+mari, victimes de l'ingratitude ou de l'�go�sme de l'homme ne peuvent
+pas jouer du revolver ou du vitriol et elles n'en souffrent pas moins,
+pour avoir une douleur moins retentissante et moins meurtri�re; c'est
+alors que certaines femmes, � qui ces moyens r�pugnent, posent dans
+des manifestes exag�r�s, maladroits, ridicules, des conclusions
+irr�alisables. Elles veulent d�clarer � l'homme, dans les lois, la
+guerre que l'homme leur fait dans les moeurs; elles veulent lui prouver
+qu'elles peuvent �tre moralement et intellectuellement leurs �gales;
+qu'elles peuvent m�me leur �tre sup�rieures. Lasses de voir l'homme
+leur prendre impun�ment l'honneur, la libert�, l'amour, elles veulent
+lui prendre ses travaux et ses places, et elles s'�tonnent du silence
+ou du rire qui leur r�pondent. C'est que, tout le monde le sait, et
+elles le savent tout aussi bien, les femmes ne tiennent en aucune fa�on
+� faire le m�tier des hommes, leur m�tier de femmes leur suffit bien.
+Seulement, celui-l�, elles veulent le faire et le faire compl�tement,
+en quoi elles ont raison. Alors, elles disent aux hommes: �Ou
+donnez-nous ce que la nature vous a dit de nous donner, l'amour, le
+respect, la protection, la famille r�guli�re, ou donnez-nous ce que
+vous avez gard� pour vous seuls, la libert�.� Ce dilemme a du bon.
+Voyons comment cette libert� r�clam�e par la femme lui arrivera, en
+dehors des lois qu'elle sollicite.
+
+       *       *       *       *       *
+
+�videmment, au train que suivent les choses, l'homme va de moins en
+moins donner l'amour, le respect, la protection, la famille r�guli�re �
+la femme. Entra�n� par la libert� qu'il s'adjuge de plus en plus, il va
+tendre � supprimer de plus en plus toutes les entraves et toutes les
+attaches; il va vouloir de plus en plus �tre ma�tre de lui. Je ne l'en
+bl�me pas. Croire, esp�rer qu'au milieu de l'�branlement, de la
+d�composition et de l'�parpillement de toutes les choses du pass�,
+l'homme va faire un retour sur lui-m�me � l'endroit de la femme, et se
+mettre � reconstituer la famille sur les bases de l'id�al, de l'amour
+et de l'unit�, c'est une erreur nouvelle � joindre � toutes les erreurs
+connues. La femme va donc �tre de plus en plus dans son droit de se
+plaindre et de r�clamer. Les revendications personnelles deviendront
+plus nombreuses et plus inqui�tantes; la justice l�gale ayant d�j�
+d�sarm� plusieurs fois, les justices individuelles et arbitraires se
+feront jour et place de plus en plus; l'opinion sera constamment
+appel�e en t�moignage, l'�motion sera sollicit�e par des avocats
+habiles, d�sireux de s'illustrer et de s'enrichir; la question pos�e
+dans les faits et souvent, toujours r�solue en faveur des accus�es,
+commencera � s'imposer aux lois. Les scandales seront si grands, si
+contagieux, si applaudis, qu'il faudra se d�cider � prendre un parti.
+Quand, en dehors du mariage, les femmes auront �gorg� un plus grand
+nombre d'hommes et tordu le cou � un plus grand nombre d'enfants;
+quand, dans le m�nage, les hommes et les femmes qui auront �t� assez
+b�tes pour contracter des unions indissolubles, auront enrichi les
+armuriers et les �piciers � force de se tirer des coups de fusil ou de
+revolver et de se jeter du vitriol au visage, il faudra bien
+s'apercevoir qu'il y a un vice fondamental de construction dans ce
+beau monument du Code civil, y faire quelques r�parations, y changer
+quelques pierres de place et a�rer davantage les articles trop �troits
+et devenus inhabitables. De temps en temps, la justice officielle
+essayera de ressaisir son autorit� et de rendre quelques jugements
+destin�s � inspirer une salutaire terreur et � arr�ter le mouvement;
+elle verra alors ce qui se passera: les jur�s et les magistrats seront
+siffl�s, hu�s, maltrait�s peut-�tre. Notre magistrature, _que
+l'�tranger nous envie_, sera compromise; notre belle institution du
+jury, soit qu'elle reste dans la sentimentalit�, soit qu'elle tourne �
+la r�sistance, sera trait�e d'institution caduque et grotesque;
+personne ne voudra plus �tre jur�, pas m�me l'auteur du manifeste qui
+nous occupe, et la r�forme depuis longtemps n�cessaire, obstin�ment
+refus�e, se fera, comme, h�las! se font chez nous toutes les r�formes,
+par la violence et les exc�s.
+
+Dans le mariage, le divorce sera r�tabli, fatalement, in�vitablement.
+
+Le divorce �tant r�tabli, la femme �tant par cons�quent moins opprim�e,
+elle n'aura plus d'excuses de recourir � l'adult�re et elle aura moins
+besoin d'�tre consol�e. L'amant se trouvera �limin�, le pr�tre sera
+remis � son plan respectif, et la femme, ayant conquis plus de droits,
+aura ainsi acquis plus de valeur.
+
+Voil� pour le mariage, qui, ainsi �quilibr� par des devoirs et des
+droits �quipollents, comme e�t dit Montaigne, deviendra pour les
+contractants � la fois plus attrayant, plus moral et plus s�r.
+
+Quant aux amours libres, ils ne vont faire que cro�tre et embellir,
+pour une foule de raisons que j'ai d�velopp�es autre part[1] et qu'il
+n'y a pas lieu de rappeler ici. La prostitution de la femme va perdre
+peu � peu son caract�re d'autrefois. Sauve qui peut, apr�s tout, dans
+une soci�t� o� personne ne s'occupe de son voisin que pour l'entraver,
+le m�priser ou le d�truire! Ce qui fut jadis une honte pour
+quelques-unes, un danger pour quelques autres, va devenir une carri�re,
+un fait, un monde, avec lesquels la civilisation devra compter, et qui
+am�neront d'abord des modifications impr�vues dans les moeurs, encore
+plus impr�vues dans les lois. Cette carri�re, toujours disponible pour
+les filles pauvres dou�es de jeunesse, de beaut�, d'esprit; ce monde
+de la sensation et du plaisir toujours ouvert aux hommes jeunes ou
+vieux, dot�s d'app�tits et d'argent; ce monde �trange, sans droits et
+sans devoirs, � mesure qu'il se d�veloppera, se prendra au s�rieux
+comme tous les autres mondes co�ncidant avec un �tat nouveau des
+soci�t�s, comme l'aristocratie, comme la bourgeoisie, comme la
+d�mocratie actuelle, dont il a �merg�. Semblable � ces �les jaillissant
+tout � coup d'une mer tourment�e par quelques mouvements g�ologiques et
+devenant un jour des for�ts, puis des cit�s, ce monde aura bient�t son
+autonomie, ses institutions, ses int�r�ts communs, ses sentiments de
+progr�s et de solidarit�, son id�al, sa morale m�me. C'est certain. Ce
+sera une colonie comme beaucoup d'autres, fond�es par des exil�s, des
+criminels et des parias. Au bout d'un certain temps elles ont oubli�
+leur origine dans la fortune acquise, et elles r�clament et elles
+obtiennent le droit de s'appeler �tat ou Nation. Il vient m�me un
+moment o� elles traitent avec les grandes puissances. Il en sera de
+m�me de la prostitution f�minine, dont le luxe, la notori�t�,
+l'accroissement d�j� consid�rables, depuis un quart de si�cle,
+permettent de pr�voir ce que j'annonce aujourd'hui.
+
+  [1] Pr�face de _Monsieur Alphonse_.
+
+Des hommes du monde, des millionnaires, des princes, ont d�j� �pous�
+quelques-unes des indig�nes; et nombre des filles de ces derni�res,
+sans rougir encore de la profession maternelle, n'ont plus besoin de
+l'exercer et viennent, par des unions r�guli�res d�s le commencement,
+f�conder de leurs dots l'industrie, le commerce, les affaires et
+quelquefois redorer et m�me nettoyer des blasons historiques. Ce n'est
+pas tout; et la nature humaine a des encha�nements inconscients,
+myst�rieux, bien int�ressants � �tudier. Ces femmes n'ont pas de
+remords, elles n'ont m�me pas de regrets; elles sont maintenant trop
+nombreuses, trop group�es, trop riches, trop c�l�bres pour cela. Le
+monde qui les exclut et qui souvent les envie, ne leur manque pas
+du tout. Non seulement elles y exercent des repr�sailles sur les
+hommes, mais quelquefois elles font de bonnes recrues parmi les
+femmes; tout irait donc pour le mieux, si elles ne vieillissaient pas.
+Malheureusement, dans ce monde, on vieillit encore plus vite que dans
+l'autre. Il s'agit donc d'occuper les ann�es du cr�puscule et du soir.
+Arrive alors le d�sir d'imiter les femmes comme il faut, le besoin de
+faire parler de soi autrement que par le pass� et de franchir les
+limites de leur activit� connue, une sorte de pr�occupation du myst�re
+de la mort, peut-�tre un vague et secret espoir d'un rachat par la
+charit�, espoir d�pos� � temps et utilement entretenu dans leur �me par
+un bon pr�tre subitement intervenu, indulgent et attentif.
+
+    Dieu lui-m�me ordonne qu'on aime,
+       Sauvez-vous par la charit�.
+
+L'�vangile finit par demander le concours de B�ranger!
+
+Tout cela joint � la sensibilit� naturelle � leur sexe, d�velopp�e par
+le bien-�tre, tout cela fait que ces femmes appliquent, � l'�tonnement
+de tous, une part de leur fortune � des oeuvres pies. Voil� tout � coup
+ces filles du mal qui se passionnent pour le bien, plein d'attraits
+souvent pour les consciences attard�es. Cela les amuse, d'�tre utiles,
+et la nouveaut� de cet amusement leur tient lieu de traditions et
+d'habitude. Elles donnent aux �glises de leurs villages, elles
+couronnent des rosi�res dans leurs communes natales ou dans le village
+voisin de leurs domaines, et elles finissent par fonder des
+�tablissements de secours, de refuge, d'�ducation pour _les leurs_ et
+les enfants _des leurs_ qui ont eu moins de chance ou de pr�voyance
+qu'elles.
+
+Les voil� donc d�j� en rapport avec l'administration, non pour en subir
+comme autrefois les r�glements particuliers, mais pour lui communiquer
+ceux qu'elles font. Voil� cette administration garante, auxiliaire,
+respectueuse. Voil� ces femmes patronnesses, qu�teuses, utiles, m�l�es
+� la civilisation, � la religion ou du moins � l'�glise, � la morale
+publique, sans rien changer � leur genre de vie. Elles n'ont impos�
+� leurs vieillards ou � leurs enfants recueillis aucune formule
+religieuse particuli�re. Enfants et vieillards catholiques,
+protestants, isra�lites, musulmans, libres penseurs, ath�es, tous bien
+venus, surtout s'ils viennent on ne sait d'o�. Elles gardent pour elles
+leur foi particuli�re, elles ne l'exigent pas de leurs oblig�s. Qui
+fait la charit� sans pr�f�rence et sans exclusion, a toutes les �glises
+et toutes les philosophies pour soi. Ne sommes-nous pas dans l'�re de
+l'indulgence et de la conciliation?
+
+Leurs pauvres augmentent de plus en plus; elles ne peuvent plus ou
+elles ne veulent plus suffire, elles seules, aux besoins croissants des
+oeuvres. Parmi les orphelins, les abandonn�s dont on s'occupe l�,
+beaucoup d'enfants naturels, adult�rins de gens de th��tre, de petits
+artistes mis�rables ou morts. Cela donne le droit d'invoquer
+l'assistance et de demander le patronage de quelques grandes et
+honorables c�l�brit�s f�minines. On organise des concerts, des
+repr�sentations, des f�tes, des tombolas. Le secours de la presse est
+sollicit� et obtenu. Quelques articles bien faits, les larmes coulent;
+le public est convoqu�, au nom du plaisir et de la charit� r�unis. Les
+amants...,--pardon! ne parlons plus des amants, ce serait de mauvais
+go�t en un pareil sujet!--les amis de ces dames, enchant�s d'avoir une
+nouvelle occasion de parler d'elles et de les vanter, apr�s avoir pris
+part � leur premi�re organisation, apr�s les avoir aid�es de leur
+bourse, et apr�s avoir bien ri ensemble de les voir dans ce r�le
+nouveau et tout � fait impr�vu, leurs amis leur apportent l'offrande,
+les encouragements, les conseils de leurs autres amies du monde, de
+leurs parents, de leurs soeurs, de leurs m�res, de leurs femmes, en
+attendant que ces dames, charitables aussi, et curieuses, autorisent,
+provoquent des rencontres, dont elles reviennent en disant: �Il y a
+vraiment, parmi ces cr�atures, des femmes tr�s intelligentes, tr�s
+bonnes, tr�s distingu�es.� Voyez-vous les contacts, les infiltrations,
+les enchev�trements, les concessions, les indulgences, les sympathies,
+les int�r�ts, les m�langes, l'�galit�.
+
+       *       *       *       *       *
+
+Mais ce n'est pas l�, heureusement, pour le f�minin opprim� par les
+moeurs et les coutumes, le seul d�bouch� ouvert � son �volution
+instinctive et providentielle. Il prend maintenant d'autres routes,
+plus dures, dans le commencement, que celle-l�, plus solitaires, plus
+tristes, mais s�res pour toute �nergie et toute pers�v�rance, et o�
+l'homme qui la rencontre devient un auxiliaire et non un ennemi.
+
+Je ne parle m�me pas du th��tre, o� la femme tr�ne et passionne � ce
+point, qu'il faut r�voquer des diplomates qui abandonnent le char de
+l'�tat pour s'atteler au sien, o� elle s'enrichit si vite et par le
+th��tre seul, qu'elle peut donner un million pour racheter sa libert�
+conjugale, acheter des r�sidences royales, fonder des h�pitaux et des
+�coles dans les pays qu'elle traverse. Je ne parle pas non plus des
+autres arts, comme la peinture et la sculpture, o� elle forme un groupe
+qu'on pourrait appeler l'�cole des femmes et dont Rosa Bonheur est le
+chef illustre et respect�. Elle est d�j� dans le th��tre, dans
+l'atelier; la voil� com�dienne, peintre, statuaire. Nous allons la voir
+bachelier, �tudiant en droit, �l�ve en m�decine, clerc et carabin. En
+effet, elle tente aujourd'hui l'�tude des sciences r�serv�es jadis �
+l'autre sexe. J'en suis d�sol� pour Moli�re, mais Chrysale a tort: la
+femme trouve d�cid�ment que son esprit a mieux � faire que de se
+hausser � conna�tre un pourpoint d'avec un haut de chausses; elle ne
+borne plus son �tude et sa philosophie � faire aller son m�nage, �
+avoir l'oeil sur ses gens, � former aux bonnes moeurs l'esprit de ses
+enfants, � savoir comment va le pot dont son mari a besoin par la
+raison bien simple qu'elle perdait sa jeunesse � attendre le m�nage qui
+ne venait pas, et qu'elle ne pouvait ni surveiller les gens qu'elle
+n'avait pas le moyen d'avoir, ni former aux bonnes moeurs l'esprit des
+enfants qu'aucun mari ne songeait � lui donner. Entre Chrysale, qui ne
+voulait pas d'elle, et don Juan, dont elle ne voulait pas, elle a pris
+le parti d'essayer de se suffire � elle-m�me et d'escalader toute seule
+les hautes r�gions de la science et de la philosophie. Voyant son �me
+mal comprise et son corps mal convoit�, elle a immol� son sexe et elle
+en a appel� � son esprit; elle prend ses inscriptions; elle subit des
+examens dans les sciences et dans les lettres, dans la m�decine et dans
+le droit; elle troque la robe de la faiseuse en renom contre la robe
+noire de Pancrace et de Marphurius.
+
+Le bourgeois dont riait Moli�re a beaucoup ri en voyant cela, comme il
+fait toujours quand il voit quelque chose de nouveau; mais, lorsque ce
+n'est pas Moli�re qui rit des choses, les choses ne courent aucun
+danger. S'il vivait de nos jours, il n'en rirait pas. Moli�re avait le
+grand bonheur de vivre dans une �poque o� l'on pouvait rire de la
+sottise humaine sans �tre forc� d'y chercher rem�de. Le po�te riait,
+le roi riait, la cour riait, la chose dont on riait �tait tenue pour
+risible. Aujourd'hui, il n'en va plus tout � fait de m�me. Non
+seulement le roi ne rit plus, mais il a disparu, la cour a disparu, et
+Moli�re a fait comme eux, malheureusement, car cet esprit profond et
+sagace verrait certainement, le mieux du monde, ce qu'alors il ne
+pouvait m�me pas pr�voir.
+
+Voil� donc la femme ou plut�t une des formes de la femme se d�robant �
+la domination de l'homme par le travail jusqu'alors attribu� � l'homme
+et dont l'homme seul passait pour �tre capable; la voil� non pas lui
+d�clarant la guerre, mais r�clamant et venant prendre sa place dans le
+domaine o� il croyait pouvoir � tout jamais rester seul occupant.
+A-t-elle, pour cela, demand� l'intervention des lois ou une loi
+nouvelle? Non. Elle a tout simplement us� de son droit et de ses
+facult�s intellectuelles qui se sont trouv�es �tre � la hauteur de son
+ambition, sans qu'elle s'en f�t dout�e auparavant, prise qu'elle �tait
+dans les classements arbitraires des dominations politiques et
+religieuses. Cette femme nouvelle va faire souche, et son schisme va
+avoir ses cons�quences non seulement dans l'ordre social, mais m�me
+dans l'ordre psychologique.
+
+Dans toutes les classes de la soci�t�, la jeune fille, riche ou pauvre,
+belle ou laide �tait �lev�e ou dress�e en vue non pas du mari,
+entendons-nous bien, mais d'un mari. Sans ce mari, r�v�, esp�r�,
+cherch� �� et l�, elle ne pouvait rien �tre. Si le mari ne se
+pr�sentait pas, m�lancolie ridicule, st�rilit� physique et
+intellectuelle pour la pauvre cr�ature.
+
+Elle voyait toutes ses contemporaines partir en riant pour les r�gions
+soi-disant enchant�es du mariage et de la libert�, et elle restait
+seule sur le rivage d�sert o� Th�s�e non seulement ne revenait pas la
+prendre, mais ne venait m�me pas l'abandonner. Elle n'avait d'Ariane
+que le d�sespoir; elle n'avait pas ses souvenirs.
+
+Aujourd'hui, la femme commence, et, si quelqu'un l'approuve, c'est bien
+moi, � ne plus faire du mariage son seul but et de l'amour son seul
+id�al. Elle peut se passer de l'homme pour conqu�rir la libert�; elle
+commence � l'entrevoir, sans pour cela faire abandon de sa pudeur et de
+sa dignit�: tout au contraire, en d�veloppant son intelligence, en
+�largissant son domaine; et la libert� qui lui viendra par le travail
+sera bien autrement r�elle et compl�te que la libert� purement nominale
+qui lui venait par le mariage. Quant � l'amour, il perd ainsi � ses
+yeux beaucoup de ses tentations premi�res, dont les n�cessit�s sociales
+o� elle �tait parqu�e lui exag�raient �norm�ment l'importance. R�duite
+� sa seule valeur de sentiment, il faut bien le dire, l'amour fait
+souvent assez pi�tre figure. Il est volage, dominateur, �ph�m�re,
+ingrat, aveugle; il est d'amorce s�duisante, mais voil� tout. La
+nature s'en sert tr�s habilement pour la cr�ation universelle
+et indispensable; les soci�t�s s'en servent religieusement et
+politiquement, s'effor�ant d'en tirer le mariage, c'est-�-dire le
+groupement des �tres, rendus plus soumis et plus producteurs par le
+stationnement et les solidarit�s locales de la famille. Si on
+l'examine de pr�s, on voit qu'il produit, somme toute, plus
+d'inqui�tudes, de d�ceptions, de douleurs que de joies. Aussi a-t-il
+besoin d'une forte doublure pour �tre un peu durable et r�sister aux
+intemp�ries de l'�me humaine.
+
+Il a fallu, pour arriver � le rendre d'apparence �ternelle, le
+flanquer, quant � l'homme, d'une compensation mat�rielle, d'une dot,
+et, quant � la femme, d'une garantie l�gale, en dehors de l'esp�rance
+non avou�e d'une libert� plus grande. Les religions et les philosophies
+le tiennent pour si m�prisable, qu'elles ont pour premier principe
+d'essayer d'en d�gager compl�tement l'homme. En dehors des religieux et
+des philosophes, tous les grands esprits ayant vraiment quelque chose
+� faire dans ce monde ou le tiennent pour dangereux ou monotone, ou en
+font un culte secret, s'alliant avec leur g�nie et leur libert�, avec
+le myst�re et l'id�al, avec le r�ve et la forme, avec l'imagination et
+l'infini. H�lo�se, B�atrix, Laure, L�onore, la Fornarine, Victoria
+Colonna, sont les incarnations sup�rieures de cette combinaison
+particuli�re, inaccessible � la masse des hommes.
+
+Les femmes qui vont aux arts, aux sciences, aux professions lib�rales
+sont des femmes auxquelles le mariage ne vient pas, parce qu'elles
+manquent de la dot compensatrice pour l'homme, ou parce qu'elles ne se
+sentent aucun go�t pour cette association. Du moment qu'elles font le
+travail, qu'elles entrent dans les carri�res et qu'elles aspirent au
+talent des hommes, c'est pour conqu�rir comme eux la fortune ou la
+libert�, ou l'une et l'autre. Une fois la fortune et la libert�
+acquises, que leur repr�sentera le mariage, sinon une d�possession, le
+mari �tant le chef de la communaut�, et un esclavage, la femme devant
+ob�issance au mari? Tout cela �tait bon quand il n'y avait pas d'autre
+moyen pour la femme d'accomplir sa destin�e sexuelle et sociale; mais,
+maintenant, elle perdrait trop � rentrer volontairement dans les
+compartiments du pass�. �L'amour l'y ram�nera?� Le croyez-vous? Ce doit
+�tre l'orgueil d'un homme qui me fait cette objection. �tes-vous s�r
+que les femmes aiment _tant que �a_ les hommes?
+
+Il y avait dans l'�glise catholique un grand pr�lat qui me faisait
+quelquefois l'honneur de philosopher avec moi en dehors du dogme, et
+tout en maudissant mes h�r�sies. Un matin du mois d'ao�t, sous les
+grands arbres de son jardin �piscopal, nous devisions, et je me
+permettais de soutenir cette proposition, � savoir: �qu'il n'y a pour
+la femme, au milieu de toutes ses transformations naturelles et
+sociales, que deux �tats, bien diff�rents l'un de l'autre, auxquels
+elle aspire v�ritablement, qu'elle comprenne bien, et dont elle jouisse
+pleinement: c'est l'�tat de maternit� ou l'�tat de libert�. La
+virginit�, l'amour et le mariage sont pour elle des �tats passagers,
+interm�diaires, sans donn�es pr�cises, n'ayant qu'une valeur d'attente
+et de pr�paration�.
+
+�Il y a du vrai dans ce que vous me dites, me r�pondait mon illustre
+interlocuteur. J'ai pu constater que, sur cent jeunes filles dont
+j'avais fait l'�ducation religieuse et qui se mariaient, il y en avait
+au moins quatre-vingts qui, en revenant me voir, apr�s un mois de
+mariage, me disaient qu'elles regrettaient de s'�tre mari�es.--Cela
+tient, monseigneur, � ce que le mariage surtout, au bout d'un mois, n'a
+pas encore initi� la femme ou � la maternit� qu'elle souhaite ou � la
+libert� qu'elle r�ve.�
+
+Sautons de l� chez les Mormons, c'est-�-dire aux antipodes. Ce peuple
+m'int�resse beaucoup; je l'ai beaucoup �tudi�, sans me contenter d'en
+rire tout de suite, parce que toute soci�t� qui se forme contient
+toujours pour l'observateur des bases int�ressantes d'exp�rimentations
+physiologiques, les instincts naturels s'y mouvant � leur aise. Chez
+les Mormons, o� la polygamie existe, l'homme ne peut �pouser une
+seconde femme qu'avec le consentement de la premi�re; une troisi�me,
+qu'avec le consentement des deux autres, et ainsi de suite. Jamais ce
+consentement n'a �t� refus�, bien que la femme ne puisse, elle, avoir
+plusieurs maris, et il y a eu, en vingt ans, deux cas seulement
+d'adult�re f�minin et de prostitution. Pas un seul adult�re d'homme.
+Mais les femmes mormonnes aiment et soignent les enfants les unes
+des autres. Ce n'est pas tout; non seulement elles donnent leur
+consentement � leurs maris, quand ils le leur demandent pour un nouveau
+mariage, mais elles sont quelquefois les premi�res � leur proposer
+une nouvelle femme qui a, disent-elles, des qualit�s n�cessaires �
+la communaut�, en r�alit� pour augmenter un peu la possession
+d'elles-m�mes, c'est-�-dire leur libert�. Je ne serais pas �tonn� que
+les missionnaires mormons qui viennent chercher des femmes en Europe
+pour les hommes du lac Sal� finissent par emmener beaucoup de nos
+filles fran�aises, lasses d'attendre le mari fran�ais. Cela vaudrait
+beaucoup mieux que la st�rilit� des unes et la prostitution des autres.
+Les missionnaires mormons ne font pas plus de pros�lytes femmes chez
+nous, parce qu'ils s'y prennent mal. Nous avons en France, gr�ce � nos
+lois et � nos moeurs, un f�minin consid�rable � leur disposition.
+
+En attendant il semble d�montr�, par cette nouvelle exp�rience de la
+polygamie, que la femme se contente tr�s bien d'une portion d'homme et
+n'est m�me pas f�ch�e de voir d'autres femmes lui prendre une part de
+ce qu'elle appelle ses sentiments et ses droits, surtout dans les pays
+o� les devoirs lui paraissent trop lourds. En somme, chez nous,
+coutume, curiosit�, n�cessit� sociale et morale, voil� ce qui d�cide
+les jeunes filles au mariage; mais d'amour dans le v�ritable sens du
+mot, point. Une femme mari�e peut dire qu'elle aime son mari ou un
+autre homme, elle sait bien ce que veut dire le mot amour, elle sait ce
+qu'elle fait et o� elle va; une jeune fille, je parle des plus droites,
+des plus innocentes et en m�me temps des plus enthousiastes, une jeune
+fille ne peut jamais dire avec certitude qu'elle aime son fianc�. Une
+jeune fille qui fait ce qu'on appelle un mariage d'amour n'aime pas
+l'homme qu'elle �pouse, elle le pr�f�re, ce n'est pas la m�me chose. De
+l� ce mot beaucoup plus juste: mariage d'inclination. Comment
+saurait-elle, la pauvre enfant, � n'en pouvoir douter, � quoi
+reconna�trait-elle s�rement qu'elle aime? L'amour n'est pas fait que de
+r�ve, d'id�al, d'esp�rance, de sympathie: il est fait de r�alit�s
+physiologiques qui ne se r�v�lent qu'apr�s le mariage, qui peuvent
+fortifier et compl�ter l'amour dans le coeur de la jeune fille, mais
+qui peuvent aussi ramener au confessionnal, avec des regrets au taux de
+quatre-vingts pour cent, certaines natures d�licates qui ne les avaient
+pas pr�vues. L'homme sait toujours comment, pourquoi, avec quoi il
+aime; la femme l'ignore. De l� le conflit si fr�quent et quelquefois
+si rapide dans les mariages d'amour.
+
+L'amour ne ram�nera donc pas au mariage les femmes lib�r�es par le
+travail, la connaissance et la libert� des m�les. Qui sait m�me si
+l'amour subsistera en elles? Parmi les grandes artistes vivantes dont
+nous parlions tout � l'heure, nous en pourrions nommer une arriv�e
+aujourd'hui � soixante ans, qui ne sait pas plus qu'il y a des hommes
+que Newton arriv� au m�me �ge ne savait qu'il y avait des femmes. Si,
+au contraire, l'amour subsiste, s'il est un vrai besoin de la nature de
+ces femmes �mancip�es par les professions lib�rales, elles aimeront
+selon la loi, dans le cas o� la loi aura �t� modifi�e de fa�on � rendre
+le mariage supportable pour les contractants: sinon, elles aimeront
+selon la nature et s'en tiendront aux unions libres, dont la dur�e
+reposera purement et simplement sur la volont� et la loyaut� de chacun.
+L'�tude et le travail diminuent consid�rablement les proportions des
+l�galit�s r�put�es n�cessaires aux sentiments comme ils diminuent, il
+faut bien le reconna�tre, l'importance de ces m�mes sentiments. Quand
+on ne regarde plus qu'avec son cerveau, on voit de plus haut et plus
+loin. Quiconque s'est donn� la peine d'�tudier un peu attentivement la
+nature de l'homme dans le fonctionnement social, sait que, l� o� le
+sentiment vrai existe, aucune l�galit� ne l'arr�te, et que, l� o� il
+est mort, aucune l�galit� ne le r�veille. Une l�galit� peut contraindre
+un �tre vivant � tra�ner �ternellement un cadavre avec lui, mais ce
+sera tout. Est-ce absolument n�cessaire? �Oui, pour les int�r�ts
+sociaux et moraux de ceux qui sont n�s du rapprochement de cet �tre
+vivant et de ce cadavre, vivant aussi jadis.� Mais, si une nouvelle
+l�galit� a pourvu � ces int�r�ts, la premi�re n'aura plus sa raison
+d'�tre et cette nouvelle l�galit� va bien �tre forc�e de se produire
+par suite des mouvements nouveaux que nous constatons. Le Code fera
+comme le Dictionnaire, il subira et il sanctionnera l'usage.
+
+Enfin la science, et, principalement, la recherche des causes et des
+fins de l'homme, des moyens et du but de la nature, la science va
+faire, sous l'impulsion et sous la garantie de la libert�, des progr�s
+rapides, effrayants pour tout ce qui est de r�v�lation purement
+sentimentale et surnaturelle. La science est la religion de l'avenir,
+Auguste Comte et Littr� sont ses proph�tes, le positivisme est son
+dogme fondamental; vous aurez beau faire, vous n'y �chapperez pas; cela
+est �vident pour tout esprit de bonne foi, n'ayant pas d'int�r�t � voir
+autre chose que ce qui est. Cette religion, comme toutes les autres, va
+avoir ses fanatiques, ses ap�tres, ses martyrs. Le docteur Tanner, s'il
+n'est pas une invention am�ricaine, est d�j� l� pour le prouver. S'il
+est une invention, un autre le prouvera bient�t et les sectaires
+suivront. Ces sectaires, on ne les comptera pas seulement parmi les
+hommes, mais aussi parmi les femmes, les curieuses par excellence,
+d�robeuses de pommes comme �ve, ouvreuses de bo�tes comme Pandore, et
+toujours pr�tes pour le nouveau, pour l'impr�vu, pour tout ce qui les
+fait sortir de la pure fonction sexuelle, de l'�tat _terrien_. Une fois
+entra�n�es par certains exemples, une fois leur cadre conventionnel
+bris�, les femmes vont donc se jeter dans la science comme elles se
+jettent dans tout ce qui les passionne, la t�te en avant, � corps
+perdu, c'est le vrai mot. Prenant leur revanche de l'immobilit�
+s�culaire � laquelle on les a condamn�es, elles vont courir, par
+n'importe quels chemins � c�t� de l'homme, devant lui si elles peuvent,
+contre lui s'il le faut, � la conqu�te d'un nouveau monde. En mati�re
+de sensation, la femme est l'extr�me, l'exc�s de l'homme. Quand on sait
+avec quel m�pris de toute raison et de toute souffrance, la femme va �
+l'hallucination et au martyre, d�s qu'elle est vraiment dans la foi;
+avec quel oubli de toute dignit� et de toute pudeur elle va � la
+soumission et � la d�bauche d�s qu'elle est vraiment dans l'amour, on
+peut pr�voir l'audace et la fr�n�sie avec lesquelles elle tentera la
+d�couverte et affrontera le fait lorsqu'elle sera vraiment dans la
+science. Elle se soumettra comme l'homme aux plus rudes travaux, aux
+exp�riences les plus douloureuses, aux �preuves les plus �tranges pour
+trouver le mot de l'�nigme. Elle se laissera arracher les seins comme
+sainte Agathe, si cela peut r�v�ler le myst�re de la lactation; elle
+passera son enfant � sa voisine, comme sainte F�licit�, pour aller se
+livrer aux b�tes, non pour prouver que J�sus a dit la v�rit�, mais pour
+savoir si Darwin a raison.
+
+Jeune homme de quinze ans, qui lisez ces pages en cachette, vous
+vivrez peut-�tre encore soixante ans; je vous le souhaite, car il va
+�tre � la fois de plus en plus difficile et de plus en plus int�ressant
+de vivre jusqu'� soixante-quinze ans. Vous entendrez probablement,
+avant votre mort, un de mes futurs confr�res r�clamer comme nous le
+faisons si inutilement d'ailleurs aujourd'hui pour les enfants n�s de
+l'homme et de la femme, r�clamer la cr�ation d'�tablissements destin�s
+� recueillir les enfants n�s des hommes et des guenons, des femmes et
+des singes. La premi�re fois que vous entendrez cette r�clamation,
+venez sur ma tombe, frappez-la trois fois du fer de votre canne et
+dites tout haut: �C'est fait.� Quelque passant vous demandera peut-�tre
+de quoi il s'agit, vous le lui expliquerez, si toutefois � cette
+�poque il passe encore quelqu'un dans les cimeti�res et s'il y a encore
+des tombes!
+
+       *       *       *       *       *
+
+Jusque-l�, tenons-nous-en aux ph�nom�nes pr�sents, de constatation
+�vidente.
+
+Donc, d�veloppement du meurtre, de la prostitution, du travail
+intellectuel, c'est-�-dire repr�sailles sur l'homme, exploitation de
+l'homme, concurrence � l'homme. Telle est la triple indication nouvelle
+et symptomatique que nous donne la femme moderne.
+
+       *       *       *       *       *
+
+Mais tout s'encha�ne, nous le r�p�tons, tout est de logique et de
+d�duction, dans le monde moral comme dans le monde physique, et
+nous avons vu la revendication politique de la femme se produire
+parall�lement � ces diverses revendications morales. Nous allons voir
+maintenant ces id�es politiques �parses, informes, commencer �
+s'incarner dans une personne humaine, corps et verbe, comme doit �tre
+toute incarnation et venir publiquement et r�solument mettre opposition
+et faire r�sistance � la loi. En un mot, une femme, mademoiselle
+Hubertine Auclert, a refus� tout � coup de payer l'imp�t, pr�tendant,
+puisque les femmes n'�taient pas admises � le voter, qu'il n'y avait
+pas de raisons pour qu'elles le payassent; que, du moment qu'on leur
+imposait les m�mes charges qu'aux hommes, on devait leur reconna�tre
+les m�mes droits qu'� eux, et qu'elle demandait finalement que les
+femmes eussent le droit de voter, comme les hommes, puisqu'elles
+payent comme eux. On a beaucoup ri, et la loi a pass� outre: l'officier
+public est venu saisir les meubles et objets appartenant � mademoiselle
+Hubertine Auclert, pour qu'elle e�t � payer ce qu'elle doit � l'�tat.
+Elle a pay�, mais en protestant et en prenant acte de cet abus de
+pouvoir. On a encore beaucoup ri.
+
+La loi a pass� outre, parce que le terrain n'�tait pas suffisamment
+pr�par� pour cette lutte l�gale. La loi n'est pas toujours si fi�re,
+m�me dans les pays o� elle a le plus d'autorit�. Quand elle rencontre
+un adversaire bien r�solu et bien arm� sur un terrain bien choisi, elle
+bat en retraite imm�diatement, cet adversaire f�t-il aussi seul que
+l'�tait mademoiselle Hubertine Auclert.
+
+Il y a toujours eu, de par le monde, mais en ce moment plus que
+jamais, une foule de gens qui ne croient pas � la Bible comme livre
+divin. Ces gens ont raison. La Bible est, par endroits, un beau livre
+de conception religieuse, d'autorit� sacerdotale, de th�ocratie
+politique, mais que Dieu n'a pas plus dict� qu'il n'a dict� les livres
+sacr�s indous, les V�das, dont la Bible est sortie, ainsi que toute la
+mythologie grecque. Cependant l'Angleterre ayant fait retour, avec
+Henri VIII, apr�s Luther, � la religion pure, a tenu et d�clare tenir
+encore ce livre pour la parole m�me de Dieu. On le donne � toutes les
+jeunes filles, et les nobles membres du Parlement, quand ils entrent
+pour la premi�re fois � la Chambre, font voeu de fid�lit� et de respect
+� la reine et aux lois sur un exemplaire, probablement tr�s ancien, de
+ce livre. Derni�rement, M. Bradlaugh, nomm� membre du Parlement, eut �
+pr�ter le serment traditionnel. Il refusa, non parce qu'il ne voulait
+pas �tre fid�le � la reine et soumis aux lois, mais parce que, ne
+croyant pas � la Bible, comme livre divin, il refusait justement de
+pr�ter un serment dans lequel il voulait qu'on e�t de la confiance sur
+un livre dans lequel il n'en avait pas. M. Bradlaugh �tait pr�t � faire
+le serment exig�, mais tout simplement sur son honneur, dont il �tait
+plus s�r que du Dieu d'Abraham et de Jacob. Grand �moi. Un Anglais
+envoy� par ses �lecteurs au Parlement, charg� par cons�quent de faire
+respecter les lois anciennes, tout en en faisant de nouvelles, d�s son
+entr�e dans la Chambre, refusait de se soumettre � la loi qui en
+gardait la porte! Un Anglais de la grande Angleterre protestante
+rejetait et niait l'autorit� de la Bible consacr�e. Et le livre divin
+attendait! Parmi tous les miracles qu'il relate, il ne s'en trouvait
+pas un pour forcer la langue de M. Bradlaugh. Ni l'ange avec son �p�e
+de feu, ni Mo�se avec sa verge de fer, ni Samson avec sa m�choire d'�ne
+ne pouvaient venir � bout de ce m�cr�ant. Il fallut recourir aux moyens
+humains, � la menace d'exclusion. Exclure le d�l�gu� d'un groupe
+nombreux d'�lecteurs qui ne le d�l�guaient que parce qu'ils pensaient
+probablement comme lui, c'�tait grave; mais renier la Bible, c'est
+s�rieux aussi, en Angleterre surtout. On vote: M. Bradlaugh est exclu.
+Il proteste. On lui ordonne de sortir. Il refuse. �Je suis ici par la
+volont� du peuple, je ne sortirai que par la force.� Toujours Mirabeau.
+Seulement ce n'est pas, cette fois, un des trois ordres qui parle
+ainsi; c'est un homme seul, tout seul, mais fort de sa conviction et de
+son bon sens, en face d'une coutume d'un autre �ge, d'une loi surann�e,
+en contradiction absolue avec l'esprit des temps modernes. On met la
+main sur l'�paule du parlementaire et on le fait sortir de la salle des
+s�ances: voil� qui est fait. Le livre triomphe. Trois jours apr�s, M.
+Bradlaugh est r�int�gr� sur son si�ge et donne � son serment la forme
+qu'il pr�f�rait. Comme c'est simple! on avait reconnu qu'il �tait dans
+son droit, que cela n'emp�chait pas la Bible d'�tre un livre divin,
+surtout pour ceux qui le croient, mais qu'� l'avenir elle ne serait
+plus associ�e au serment politique, probablement pour qu'elle ne soit
+plus expos�e aux m�mes d�sagr�ments. Le livre divin rentra dans la
+biblioth�que, M. Bradlaugh rentra dans le Parlement, et tout fut dit.
+
+Voil� donc la loi du serment sur la Bible abrog�e en Angleterre apr�s
+des si�cles d'existence. La libre pens�e, incarn�e politiquement en M.
+Bradlaugh, a eu raison, en trois jours, d'une tradition s�culaire.
+David, avec sa petite fronde, a de nouveau tu� Goliath. Pourquoi? Parce
+que ce que M. Bradlaugh venait dire tout haut, tout le monde qui pense,
+le pensait depuis longtemps et le disait tout haut ou tout bas. A son
+interpellation subite et r�solue, la l�gende, la coutume, la routine,
+ont fait leur r�sistance accoutum�e en pareil cas; puis elles se sont
+�vanouies et ont disparu dans les brumes o� elles �taient n�es.
+
+Eh bien, mademoiselle Hubertine Auclert fait aujourd'hui chez nous
+contre l'imp�t ce que M. Bradlaugh vient de faire contre le serment
+biblique. Seulement mademoiselle Hubertine Auclert n'a ni le sexe
+reconnu, ni le lieu consacr�, ni l'arri�re-garde indispensable pour ces
+sortes de d�clarations de guerre; elle est femme, elle proteste en
+plein air, en son nom seul, sans groupe d'�lecteurs, ayant fait une
+premi�re �lection avec une intention formelle qu'ils sont pr�ts �
+confirmer par une ou plusieurs �lections semblables. Mademoiselle
+Hubertine Auclert est donc battue.
+
+Est-ce parce que le payement de l'imp�t est plus admir� et surtout plus
+aim� en France, que le serment biblique en Angleterre? Non,
+certainement. _Celui qui �crit ces lignes_ ne paye jamais ses
+contributions qu'� la derni�re extr�mit�, sur invitation verte, sur
+contrainte avec frais, et il n'est pas le seul parmi ceux qui
+pourraient s'ex�cuter tout de suite. Qu'est-ce que ce doit �tre pour
+ceux qui ont � peine de quoi vivre! L'imp�t est tout ce qu'il y a de
+plus impopulaire chez nous; seulement il a pour lui un argument hors de
+toute discussion: aucune soci�t� ne peut fonctionner sans lui. Il faut
+donc le payer quand m�me.
+
+Aussi mademoiselle Hubertine Auclert ne refuse-t-elle pas de le payer;
+seulement elle demande � savoir pourquoi on le lui fait payer; elle
+demande � prendre part aux droits des citoyens dont on lui impose les
+charges. En un mot, elle demande � �tre assimil�e aux hommes, qui
+payent aussi l'imp�t, mais qui le votent, directement ou par
+d�l�gation. Elle consent � donner son argent, mais elle voudrait donner
+son avis. Bref, elle r�clame ses droits politiques, qu'elle borne pour
+le moment au droit de voter. Elle ne demande pas, comme l'auteur de la
+proclamation, � �tre juge consulaire, juge civil, jur�, �ligible, elle
+demande � �tre �lecteur.
+
+Eh bien, pourquoi ne serait-elle pas �lecteur, elle et toutes les
+autres femmes de France aussi? Quel emp�chement y voyez-vous? Quelles
+raisons p�remptoires peut-on opposer � cette revendication?
+
+Mademoiselle Hubertine Auclert dit: �Je ne dois pas payer l'imp�t
+puisque je ne le vote pas, ni par moi-m�me, ni par des d�l�gu�s nomm�s
+par moi.� C'est une raison, mais ce n'est pas la meilleure. Les
+orphelins mineurs et propri�taires payent aussi l'imp�t sans le voter
+ni par eux-m�mes, ni par leurs d�l�gu�s. Mademoiselle Hubertine Auclert
+aurait pu ajouter: �Je ne dois pas payer l'imp�t comme les hommes,
+parce que la soci�t�, qui me r�clame cet imp�t, me fournit moins qu'aux
+hommes le moyen de le gagner, et que les moyens personnels que j'ai de
+le gagner sont inf�rieurs � ceux des hommes.� C'est une meilleure
+raison que la sienne, mais ce ne serait toujours pas la meilleure.
+
+La meilleure de toutes les raisons est qu'il n'y a aucune raison pour
+que les femmes ne votent pas comme les hommes.
+
+En 1847, des hommes politiques, peu exigeants en v�rit�, demandaient au
+gouvernement l'abaissement du cens �lectoral et l'adjonction des
+capacit�s. Le gouvernement refusait. De bonnes raisons, il n'en donnait
+pas non plus. Je ne sais m�me pas s'il en donnait de mauvaises. Cette
+r�sistance fut la cause de la r�volution de 1848, qui ne se contenta
+naturellement pas du projet, c'�tait son droit de r�volution, et qui
+nous dota du suffrage universel, c'est-�-dire du cens nul et de
+l'adjonction non seulement de toutes les capacit�s masculines, mais de
+toutes les incapacit�s possibles du m�me sexe. Aujourd'hui, bien ou
+mal, le suffrage universel fonctionne pour les hommes et rien ne le
+supprimera plus. Les femmes arrivent � leur tour et disent: �Et nous?
+Nous demandons l'adjonction de nos capacit�s.� Quoi de plus cons�quent?
+quoi de plus raisonnable? quoi de plus juste?
+
+Quelle diff�rence constatez-vous entre l'homme et la femme, pour
+refuser � celle-ci le droit de voter, quand vous l'avez donn� �
+celui-l�? Aucune diff�rence.
+
+Et le sexe?
+
+--Quel sexe?
+
+--Le sexe de la femme.
+
+--Qu'est-ce qu'il a � faire l� dedans, le sexe de la femme? Rien; pas
+plus que le n�tre. La femme n'a pas la barbe de l'homme, mais l'homme
+n'a pas les cheveux de la femme. Quant aux autres dissemblances, elles
+sont tellement � l'avantage de la femme, que nous ferons mieux de ne
+pas en parler.
+
+--Soyons s�rieux.
+
+--Je le veux bien.
+
+--Il ne s'agit pas de son sexe physique, il s'agit de son sexe moral.
+
+--Je ne comprends pas.
+
+--C'est pourtant bien clair. Par son sexe, la femme est plus faible que
+l'homme, et la preuve, c'est que l'homme est continuellement forc� de
+la d�fendre.
+
+--Nous la d�fendons si peu que, comme vous venez de le voir plus haut,
+elle est forc�e de se d�fendre toute seule � coups de revolver, et nous
+avions pris si peu de pr�cautions en sa faveur, que nous sommes ensuite
+forc�s de l'acquitter.
+
+--_Ce sont des cas exceptionnels_; mais il est notoire que, comme
+intelligence, la femme est inf�rieure � l'homme. Vous l'avez �crit
+vous-m�me.
+
+--Si je l'ai �crit, j'ai �crit une b�tise, et je change d'opinion
+aujourd'hui. Je ne serai pas le premier qui aura �crit une b�tise, ni
+le premier qui aura chang� d'opinion, voil� tout. Mais, cette b�tise,
+je ne l'ai jamais dite; on me l'aura fait dire, ce qui n'est pas
+�quivalent, mais ce qui est tr�s commode dans la discussion.
+
+--Si vous n'avez pas �crit, non pas cette b�tise, mais cette v�rit�,
+vous avez eu tort; car elle est �crite et d�montr�e dans tous les
+livres de religion, de philosophie, de m�decine.
+
+�Nos livres de religion nous disent que la femme a fait perdre le
+paradis � l'homme, ce qui n'est peut-�tre pas bien s�r et ce qui, en
+tout cas, prouverait qu'� l'origine du monde, si l'on en croit cette
+Bible � laquelle M. Bradlaugh ne veut pas croire, la femme non
+seulement n'�tait pas inf�rieure, mais �tait sup�rieure � l'homme
+puisqu'elle lui faisait faire ce qu'elle voulait. C'est peut-�tre pour
+cela que vous ne voulez pas la laisser voter, dans la crainte qu'elle
+ne vous fasse encore perdre le paradis que nous avons reconquis et que
+nous habitons, comme chacun peut voir. Mais les livres de religion
+indous, ant�rieurs aux livres de notre religion de sept ou huit mille
+ans, disent, au contraire, qu'Adam a perdu le paradis malgr� les
+conseils de sa femme �ve, qui ne voulait pas lui laisser franchir les
+limites que Dieu avait fix�es � ce paradis. Je trouve aussi dans nos
+livres de religion, quand j'y reviens, que la femme �crasera la t�te
+du serpent, tout en �tant mordue au talon. Prenez donc garde; les
+livres de religion ne s'entendent pas tr�s bien; en tout cas, l'homme y
+para�t bien au-dessous d'elle. Quant aux livres de philosophie, ils
+nous conseillent d'�viter le plus possible le commerce des femmes,
+parce que ces �tres s�duisants sont capables d'�carter l'homme de ses
+grandes destin�es et de le dissoudre dans le sentiment. Les philosophes
+constatent ainsi, non pas l'inf�riorit� certaine de la femme, mais la
+faiblesse possible de l'homme. Pour les livres de m�decine, ils
+�tablissent tout bonnement que l'homme et la femme sont deux �tres de
+fonctions diff�rentes, apportant chacun dans la fonction qu'il
+accomplit les forces n�cessaires � cette fonction. Ils vous
+d�montreront ensuite que, si la force musculaire de l'homme est plus
+grande que celle de la femme, la force nerveuse de la femme est plus
+grande que celle de l'homme; que, si l'intelligence tient, comme on
+l'affirme aujourd'hui, au d�veloppement et au poids de la mati�re
+c�r�brale, l'intelligence de la femme pourrait �tre d�clar�e sup�rieure
+� celle de l'homme, le plus grand cerveau et le plus lourd comme poids,
+�tant un cerveau de femme, lequel pesait 2,200 grammes, c'est-�-dire
+400 grammes de plus que celui de Cuvier. On ne dit pas, il est vrai,
+que cette femme ait �crit l'�quivalent du livre de Cuvier sur les
+fossiles.
+
+�Mais, comme, pour d�poser un vote dans une urne, il n'est pas plus
+n�cessaire d'avoir invent� la poudre, comme le prouvent suffisamment
+les sept millions d'�lecteurs que nous avons en France, que de porter
+500 kilos sur ses �paules, je ne vois pas en quoi l'inf�riorit�
+musculaire de la femme, d�falcation faite, cependant, des femmes de la
+halle, des porteuses de galets et des acrobates femelles, je ne vois
+pas en quoi l'inf�riorit� musculaire de la femme lui interdirait de
+voter. En revanche, je vois beaucoup de raisons pour le contraire. Si
+madame de S�vign� vivait de nos jours, elle n'am�nerait certainement
+pas d'un coup de poing le 500 sur la t�te du Turc, � la f�te des Loges;
+est-ce pour cela qu'elle ne voterait pas; car madame de S�vign� ne
+voterait pas, et ma�tre Paul, son jardinier, voterait. Pourquoi? Quel
+inconv�nient verriez-vous � ce que madame de S�vign� vot�t tout comme
+son jardinier?
+
+--Mais, madame de S�vign� est _une exception_, et on ne modifie pas les
+coutumes, les id�es et les lois de tout un pays pour une exception.
+
+--Et, sa grand'm�re, madame de Chantal? Et madame de la Fayette? Et
+madame de Maintenon? Et madame Dacier? Et madame Guyon? Et madame de
+Longueville? Et madame du Ch�telet? Et madame du Deffand? Et madame de
+Sta�l? Et madame Rolland? Et madame Sand?
+
+--_Toujours des exceptions._
+
+--Un sexe qui fournit de pareilles exceptions a bien conquis le droit
+de donner son avis sur la nomination des maires, des conseillers
+municipaux et m�me des d�put�s. Mais les exceptions ne s'arr�tent pas
+l�. Et Clotilde, qui a fait convertir les Francs, et nous, par
+cons�quent, au catholicisme, croyez-vous qu'elle ait eu quelque
+influence sur Clovis, et les destin�es de notre pays? Et Anne de
+Beaujeu et la bonne reine Anne, et Blanche de Castille, et �lisabeth de
+Hongrie, et �lisabeth d'Angleterre, et Catherine la Grande, et
+Marie-Th�r�se.
+
+--C'�taient des reines.
+
+--Cela ne change pas leur sexe, et, si elles ont r�gn� comme elles
+l'ont fait, elles ont prouv� qu'elles pouvaient r�gner par
+l'intelligence et l'�nergie aussi bien que les hommes. Jamais on ne me
+fera croire que des femmes qui peuvent �tre reines comme celles-l�,
+malgr� leur sexe, ne puissent pas �tre �lecteurs � cause de leur sexe.
+
+--Mais enfin il n'y a pas que ces femmes-l�; il y a la masse des
+femmes, n'ayant aucune id�e et aucun sens de la politique et du
+gouvernement.
+
+--Sens peu difficile � acqu�rir, si j'en juge par les hommes qui
+pr�tendent l'avoir. En effet, il y a la masse des femmes, c'est-�-dire
+toutes celles, dont tous les hommes distingu�s disent: �Ma m�re �tait
+la plus intelligente et la plus honn�te des femmes; sans elle, je ne
+serais pas ce que je suis.� Je ne sais pas pourquoi tant de femmes
+obscures, mais honn�tes et intelligentes, ne voteraient pas aussi
+justement que tous les gredins et imb�ciles d'un autre sexe.
+
+--Mais, enfin, vous le disiez tout � l'heure, ici m�me, deux cents
+lignes plus haut, les devoirs doivent �tre �gaux aux droits, et les
+femmes ne font pas et ne peuvent pas faire la guerre comme les hommes.
+
+--Et Jeanne de France, et Jeanne de Flandres, et Jeanne de Blois et
+Jeanne Hachette? � propos de laquelle Louis XI donna le pas aux femmes
+sur les hommes dans les processions de la f�te de Beauvais, qu'elle
+avait si bien d�fendu, � la t�te des autres femmes de la ville, contre
+Charles le T�m�raire? Et Jeanne d'Arc, enfin? Alors aucune de ces
+femmes, ayant fait de nos jours ce qu'elles ont fait de leur temps, ne
+serait admise � �lire des repr�sentants dans le pays qu'elles auraient
+sauv�? C'est bien comique.
+
+--Ces femmes ont �t� tr�s extraordinaires certainement, et elles font
+grand honneur � leur sexe; mais _ce sont des exceptions_, et plus elles
+ont �t� extraordinaires, plus elles ont prouv� que ce qu'elles
+faisaient �tait en dehors de leur sexe. Quelques femmes ont �t� braves
+et h�ro�ques, comme des hommes de guerre, mais toutes les femmes ne
+peuvent pas �tre soldats, tandis que tous les hommes le sont.
+
+--O� avez-vous vu cela? Et ceux qui n'ont pas un m�tre cinquante-quatre
+centim�tres de taille, ce qui est, je crois, la taille r�glementaire
+pour �tre enr�l�? Et les bossus? Et les bancals? Et les myopes? Et les
+phtisiques? Et tous les souffreteux? Et les soutiens de famille? Et les
+fils des septuag�naires. Et les prix de Rome? Et ceux qui tirent un bon
+num�ro, c'est-�-dire trois cent cinquante sur cinq cents et qui ne sont
+plus astreints qu'� un service que toutes les femmes pourraient faire?
+Et les cent cinquante mille pr�tres de France? Est-ce que tous ces
+hommes-l� portent le fusil? et cependant ils votent. La femme ne doit
+pas �tre soldat parce qu'elle a mieux � faire que de l'�tre: elle a �
+l'enfanter, et, quand il passe un conqu�rant comme Napol�on qui lui tue
+dix-huit cent mille enfants, si elle n'a pas eu, comme femme, le droit
+de voter contre cette forme de gouvernement, elle a bien gagn� comme
+m�re, par sa f�condit�, ses angoisses et ses douleurs, le droit de
+voter contre lui s'il voulait revenir. Non; toutes les objections que
+l'on fait contre le droit que r�clame mademoiselle Hubertine Auclert et
+que bien d'autres r�clameront prochainement, toutes ces objections sont
+de pure fantaisie.
+
+�Quand la loi fran�aise d�clare la femme inf�rieure � l'homme, ce n'est
+jamais pour lib�rer la femme d'un devoir vis-�-vis de l'homme ou de la
+soci�t�, c'est pour armer l'homme ou la soci�t� d'un droit de plus
+contre elle. Il n'est jamais venu � l'id�e de la loi de tenir compte de
+la faiblesse de la femme dans les diff�rents d�lits qu'elle peut
+commettre; au contraire, la loi en abuse. C'est ainsi qu'elle permet �
+l'enfant naturel de rechercher sa m�re, mais non son p�re; c'est ainsi
+qu'elle permet au mari d'aller o� bon lui semble, de s'expatrier sans
+la permission de sa femme, et, en cas d'adult�re, de sa part � elle,
+bien entendu, de lui retirer sa dot et m�me de la tuer. Quant � la
+femme veuve ou non mari�e, elle est absolument assimil�e � l'homme dans
+toutes les responsabilit�s impos�es � celui-ci. Ce serait bien le moins
+cependant que, comme l'h�ro�ne de Domr�mi, ayant �t� au danger, elle
+f�t � l'honneur. Quand une femme libre exerce une industrie quelconque,
+elle a besoin d'une patente, elle doit tenir des livres en r�gle; si
+elle ne paye pas ses effets de commerce, on la poursuit, on la met en
+faillite. Si, comme mademoiselle Hubertine Auclert, elle refuse de
+payer l'imp�t, on lui fait des sommations avec frais, tout comme � moi;
+on lui vend ses meubles et jusqu'� ses derni�res nippes, et elle est
+forc�e de payer, comme je paye. Si elle vole, si elle fait des faux, on
+l'arr�te, on l'emprisonne, on la condamne. Il ne vient jamais � l'id�e
+de la loi de dire: �Cette pauvre petite femme! elle peut ne pas payer
+son loyer, ses billets ou ses impositions; elle peut voler dans les
+magasins et faire des faux en �criture priv�e ou publique, laissez-la
+faire, c'est un �tre irresponsable, faible et inf�rieur � l'homme.�
+
+�Il commence � lui �tre permis de tirer des coups de revolver sur les
+hommes ou de jeter du vitriol � la figure de ses semblables; mais nous
+avons vu que c'est encore par la faute de la loi; et c'est justement
+pour que la loi et la morale soient plus respect�es qu'elles ne sont
+que nous demandons que les femmes soient admises, par leur concours au
+vote et par cons�quent aux lois, � la connaissance et par cons�quent au
+respect des lois qu'elles auraient contribu� � faire. De deux choses
+l'une, ou, malgr� leur admission au scrutin, la loi ne sera pas
+modifi�e, en ce qui les regarde, et ce serait bien extraordinaire,
+car elles auront soin de nommer des hommes d�cid�s � obtenir les
+modifications n�cessaires, urgentes que nous r�clamons, ou la loi sera
+modifi�e. Dans le premier cas, la femme saura bien que l'homme a le
+droit de la prendre � partir d'un certain �ge, de la rendre m�re, de
+l'abandonner avec son enfant, sans qu'elle ait le droit de rien lui
+dire et encore moins de le tuer ou d'estropier les femmes qui passent
+dans la rue; et alors vous pourrez condamner ces femmes comme de
+vulgaires meurtri�res qui, apr�s s'�tre mari�es ou donn�es en sachant
+bien � quoi elles s'exposaient, tuent ou se vengent en sachant bien �
+quoi elles s'exposent; dans le second cas, justice sera faite d'avance,
+et, les droits de l'homme et de la femme �tant �gaux, leurs
+responsabilit�s seront les m�mes.
+
+--Alors, c'est s�rieux; vous demandez que les femmes votent?
+
+--Tout bonnement.
+
+--Mais vous voulez donc leur faire perdre toutes leurs gr�ces, tous
+leurs charmes. La femme...
+
+--Nous voil� dans les platitudes! Soyez tranquille, elles voteront
+avec gr�ce. On rira encore beaucoup dans le commencement, puisque, chez
+nous, il faut toujours commencer par rire. Eh bien, on rira. Les femmes
+se feront faire des chapeaux � l'urne, des corsages au suffrage
+universel et des jupes au scrutin secret. Apr�s? Ce sera d'abord un
+�tonnement, puis une mode, puis une habitude, puis une exp�rience, puis
+un devoir, puis un bien. En tout cas, c'est d�j� un droit. Quelques
+belles dames dans les villes, quelques grandes propri�taires dans les
+provinces, quelques grosses fermi�res dans les campagnes, donneront
+l'exemple et les autres suivront. Elles auront des r�unions, des
+assembl�es, des clubs comme nous; elles diront des b�tises comme nous,
+elles en feront comme nous, elles les payeront comme nous, et elles
+apprendront peu � peu � les r�parer, comme nous. Un peu plus m�l�es �
+la politique de l'�tat, elles feront moins de propagande � celle de
+l'�glise, ce ne sera pas un mal.�
+
+Nous entendons tous les jours des gens se plaindre, et quelquefois avec
+raison, du suffrage universel, o� nombre d'�lecteurs ne savent m�me pas
+lire le nom qu'ils d�posent dans l'urne et pour lesquels il faut le
+faire imprimer, incapables qu'ils seraient de voter, s'il leur fallait
+l'�crire. Les gens qui se plaignent r�clament le suffrage � deux
+degr�s; eh bien, voil� une excellente occasion de faire l'exp�rience de
+ce suffrage, en l'appliquant aux femmes pour commencer. Enfin la preuve
+que la chose est possible c'est qu'elle existe d�j�.
+
+       *       *       *       *       *
+
+Je lis dans un journal:
+
+   _�Une loi r�cente de New-York a donn� aux femmes le droit de
+   participer � l'�lection des directeurs et des administrateurs des
+   �coles publiques. Les partisans des droits de la femme font une
+   propagande tr�s active en vue d'obtenir que, le 12 octobre
+   prochain, les nouveaux �lecteurs prennent part au scrutin dans
+   les 11,000 districts scolaires de l'�tat de New-York. Un premier
+   essai fait ces jours derniers dans quatre localit�s, et notamment
+   � Staten-Island, dans la banlieue de New-York, a donn� des
+   r�sultats assez satisfaisants. On pense g�n�ralement, dit
+   le Herald, que les femmes, quand elles votent, suivent les
+   indications de leurs maris, � moins toutefois qu'il ne s'agisse
+   pour elles d'une manifestation faite en masse contre leur ennemi
+   commun: l'homme. Cette supposition se trouve contredite par le
+   r�sultat du scrutin qui a eu lieu � Staten-Island. Sauf les cas
+   o� le vote du meeting a �t� unanime, les voix f�minines ont �t�
+   g�n�ralement partag�es; il y a m�me eu, � un moment donn�, un
+   mouvement d'hilarit� g�n�rale, quand, une femme ayant vot� non
+   imm�diatement apr�s que son mari venait de voter oui, celui-ci a
+   f�licit� sa moiti� d'avoir eu le courage de son opinion.�_
+
+C'est concluant.
+
+       *       *       *       *       *
+
+Donc, la femme, c'est-�-dire la m�re, l'�pouse, la fille, cette moiti�
+de nous-m�mes � tous les �ges de la vie, ayant, ainsi que nous, devant
+la loi, toute la responsabilit� de ses devoirs, comme personne
+publique; ayant, plus que nous, comme personne priv�e, devant
+l'opinion, la responsabilit� de ses sentiments; cet �tre vivant,
+pensant, aimant, souffrant, ayant un cerveau, un coeur, une �me tout
+comme nous, si d�cid�ment nous en avons une, a aussi des besoins, des
+aspirations, des int�r�ts particuliers, des progr�s � accomplir, et,
+par cons�quent, des droits � faire valoir, qui veulent, qui doivent
+�tre repr�sent�s directement dans la discussion des choses publiques,
+par des d�l�gu�s nomm�s par elle. �tablissez cette loi nouvelle du vote
+des femmes, comme vous l'entendrez, au commencement, avec toutes les
+pr�cautions et toutes les r�serves possibles dans ce pays � qui la
+routine est si ch�re; mettez les �lections � un, � deux, � trois
+degr�s, si bon vous semble, mais �tablissez cette loi. Il doit y avoir
+� la Chambre des d�put�s des femmes de France. La France doit au monde
+civilis� l'exemple de cette grande initiative. Qu'elle se h�te.
+L'Am�rique est l� qui va le donner.
+
+Ces premiers d�put�s des femmes ne seront pas, ne doivent pas �tre
+nombreux tout d'abord � l'Assembl�e nationale, je l'accorde, mais ils
+auront un grand avantage sur leurs coll�gues, ils sauront bien ce
+qu'ils viennent y faire. Les d�put�s de la R�publique n'�taient pas
+nombreux non plus en 1854, ils �taient cinq. Ils sont la majorit�
+aujourd'hui. Les majorit�s, il est vrai, ne prouvent rien, quand les
+minorit�s sont bien convaincues et bien unies. Les majorit�s ne sont
+que la preuve de ce qui est; les minorit�s sont souvent le germe de ce
+qui doit �tre et de ce qui sera. Avant dix ans, les femmes seront
+�lecteurs comme les hommes. Quant � �tre �ligibles, nous verrons apr�s;
+si elles sont bien sages.
+
+�Mais alors, me demandera � son tour quelque dame pieuse et disciplin�e
+qui croit sinc�rement que l'humanit� doit se tirer �ternellement
+d'affaire avec les Codes et les �vangiles, avec le droit romain et la
+foi romaine; mais alors o� allons-nous, monsieur, avec toutes ces
+id�es-l�?�
+
+Eh! madame, nous allons o� nous avons toujours �t�, � ce qui doit �tre.
+Nous y allons tout doucement parce que nous avons encore des millions
+d'ann�es devant nous et qu'il faut bien laisser quelque chose � faire
+� ceux qui viendront plus tard. Pour le moment, nous sommes en train de
+d�livrer la femme; quand ce sera fait, nous t�cherons de d�livrer Dieu;
+et, comme alors il y aura entente parfaite entre les trois corps d'�tat
+�ternels, Dieu, l'homme et la femme, nous verrons plus clair et nous
+marcherons plus vite.
+
+
+
+
+     A. DUMAS FILS
+
+     9 septembre 1880.
+
+
+
+
+     IMPRIMERIE CENTRALE DES CHEMINS DE FER.--A. CHAIX et Cie,
+     RUE BERG�RE, 20, A PARIS.--18656-0.
+
+
+
+
+
+End of the Project Gutenberg EBook of Les Femmes qui tuent et les Femmes qui
+votent, by Alexandre Dumas, Fils
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LES FEMMES QUI TUENT ***
+
+***** This file should be named 29937-8.txt or 29937-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/9/3/29937/
+
+Produced by H�l�ne de Mink and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by the
+Biblioth�que nationale de France (BnF/Gallica)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

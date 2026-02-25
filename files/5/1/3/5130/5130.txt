@@ -1,3 +1,4751 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:033658871d1bca0428cd456f2e61906325ed48f14705230d6df729b7896e2e12
-size 140476
+The Project Gutenberg EBook of Don Juan, ou le Festin de pierre, by Moliere
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Don Juan, ou le Festin de pierre
+
+Author: Moliere
+
+Posting Date: April 17, 2013 [EBook #5130]
+Release Date: May, 2004
+First Posted: May 5, 2002
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DON JUAN, OU LE FESTIN DE PIERRE ***
+
+
+
+
+Produced by Laurent Le Guillou
+
+
+
+
+
+
+
+
+
+Don Juan, ou le Festin de pierre
+
+
+
+
+
+Source:
+
+Jean-Baptiste Poquelin (1620-1673), alias Moli�re,
+"Oeuvres de Moli�re, avec des notes de tous les commentateurs",
+Tome Premier,
+Paris, Librarie de Firmin-Didot et Cie,
+Imprimeurs de l'Institut, rue Jacob, 56,
+1890.
+
+Pages 449-512.
+
+[Spelling of the 1890 edition. Footnotes have been retained because
+they provide the meanings of old French words or expressions.
+Footnote are indicated by numbers in brackets, and are grouped
+at the end of the Etext.
+Downcase accents have been kept, but not upcase accents (not
+well supported by all software). Text encoding is iso-8859-1.]
+
+
+
+
+
+DON JUAN
+
+ou
+
+LE FESTIN DE PIERRE
+
+
+
+
+Com�die (1663)
+
+
+
+PERSONNAGES                             ACTEURS
+
+Don Juan, fils de don Louis.            La Grange.
+Sganarelle.                             Moli�re.
+Elvire, ma�tresse de don Juan.          Mlle Du Parc.
+Gusman, �cuyer d'Elvire.
+Don Carlos,
+Don Alonse, fr�res d'Elvire.
+Don Louis, p�re de don Juan.            B�jart.
+Francisque, pauvre.
+Charlotte,                              Mlle Moli�re.
+Mathurine, paysannes.                   Mlle de Brie.
+Pierrot, paysan.                        Hubert.
+La Statue du Commandeur.
+La Violette,
+Ragotin, valets de don Juan.
+M. Dimanche, marchand.                  Du Croisy.
+La Ram�e, spadassin.                    De Brie.
+Suite de don Juan.
+Suite de don Carlos et don Alonse, fr�res.
+Un spectre.
+
+
+
+La sc�ne est en Sicile.
+
+
+ACTE PREMIER.
+-------------
+
+Le th��tre repr�sente un palais.
+
+
+Sc�ne premi�re. - Sganarelle, Gusman.
+
+
+- Sganarelle -
+
+          (tenant une tabati�re.)
+
+Quoi que puisse dire Aristote, et toute la philosophie, il n'est rien
+d'�gal au tabac ; c'est la passion des honn�tes gens ; et qui vit sans
+tabac n'est pas digne de vivre. Non seulement il r�jouit et purge les
+cerveaux humains, mais encore il instruit les �mes � la vertu, et l'on
+apprend avec lui � devenir honn�te homme. Ne voyez-vous pas bien, d�s
+qu'on en prend, de quelle mani�re obligeante on en use avec tout le
+monde, et comme on est ravi d'en donner � droite et � gauche, partout
+o� l'on se trouve ? On n'attend pas m�me qu'on en demande, et l'on
+court au-devant du souhait des gens ; tant il est vrai que le tabac
+inspire des sentiments d'honneur et de vertu � tous ceux qui en
+prennent. Mais c'est assez de cette mati�re, reprenons un peu notre
+discours. Si bien donc, cher Gusman, que done Elvire, ta ma�tresse,
+surprise de notre d�part, s'est mise en campagne apr�s nous ; et son
+coeur, que mon Ma�tre a su toucher trop fortement, n'a pu vivre,
+dis-tu, sans le venir chercher ici. Veux-tu qu'entre-nous je te dise
+ma pens�e ? J'ai peur qu'elle ne soit mal pay�e de son amour, que son
+voyage en cette ville produise peu de fruit, et que vous eussiez
+autant gagn� � ne bouger de l�.
+
+- Gusman -
+
+Et la raison encore ? Dis-moi, je te prie, Sganarelle, qui peut
+t'inspirer une peur d'un si mauvais augure ? Ton ma�tre t'a-t-il
+ouvert son coeur l�-dessus, et t'a-t-il dit qu'il e�t pour nous
+quelque froideur qui l'ait oblig� � partir ?
+
+- Sganarelle -
+
+Non pas ; mais, � vue de pays, je connais � peu pr�s le train des
+choses ; et sans qu'il m'ait encore rien dit, je gagerais presque que
+l'affaire va l�. Je pourrais peut-�tre me tromper ; mais enfin, sur de
+tels sujets, l'exp�rience m'a pu donner quelques lumi�res.
+
+- Gusman -
+
+Quoi ! ce d�part si peu pr�vu serait une infid�lit� de don Juan ? il
+pourrait faire cette injure aux chastes feux de done Elvire ?
+
+- Sganarelle -
+
+Non, c'est qu'il est jeune encore, et qu'il n'a pas le courage...
+
+- Gusman -
+
+Un homme de sa qualit� ferait une action si l�che !
+
+- Sganarelle -
+
+H� ! oui, sa qualit� ! La raison en est belle ; et c'est par l� qu'il
+s'emp�cherait des choses !
+
+- Gusman -
+
+Mais les saints noeuds du mariage le tiennent engag�.
+
+- Sganarelle -
+
+H� ! mon pauvre Gusman, mon ami, tu ne sais pas encore, crois-moi,
+quel homme est don Juan.
+
+- Gusman -
+
+Je ne sais pas, de vrai, quel homme il peut �tre, s'il faut qu'il nous
+ait fait cette perfidie ; et je ne comprends point comme, apr�s tant
+d'amour et tant d'impatience t�moign�e, tant d'hommages pressants, de
+voeux, de soupirs et de larmes, tant de lettres passionn�es, de
+protestations ardentes et de serments r�it�r�s, tant de transports
+enfin, et tant d'emportements qu'il a fait para�tre, jusqu'� forcer,
+dans sa passion, l'obstacle sacr� d'un couvent, pour mettre done
+Elvire en sa puissance ; je ne comprends pas, dis-je, comme apr�s tout
+cela, il aurait le coeur de pouvoir manquer � sa parole.
+
+- Sganarelle -
+
+Je n'ai pas grande peine � le comprendre, moi ; et si tu connaissais
+le p�lerin, tu trouverais la chose assez facile pour lui. Je ne dis
+pas qu'il ait chang� de sentiments pour done Elvire, je n'en ai point
+de certitude encore. Tu sais que, par son ordre, je partis avant lui ;
+et depuis son arriv�e, il ne m'a point entretenu ; mais par
+pr�caution, je t'apprends, "inter nos", que tu vois, en don Juan mon
+ma�tre, le plus grand sc�l�rat que la terre ait jamais port�, un
+enrag�, un chien, un diable, un Turc, un h�r�tique, qui ne croit ni
+ciel, ni saint, ni Dieu, ni loup-garou, qui passe cette vie en
+v�ritable b�te brute ; un pourceau d'Epicure, un vrai Sardanapale, qui
+ferme l'oreille � toutes les remontrances chr�tiennes qu'on lui
+peut faire, et traite de billeves�es tout ce que nous croyons. Tu me
+dis qu'il a �pous� ta ma�tresse ; crois qu'il aurait plus fait pour sa
+passion, et qu'avec elle il aurait encore �pous�, toi, son chien, et
+son chat. Un mariage ne lui co�te rien � contracter ; il ne se sert
+point d'autres pi�ges pour attraper les belles ; et c'est un �pouseur �
+toutes mains. Dame, demoiselle, bourgeoise, paysanne, il ne trouve rien
+de trop chaud ni de trop froid pour lui ; et si je te disais le nom
+de toutes celles qu'il a �pous�es en divers lieux, ce serait un
+chapitre � durer jusqu'au soir. Tu demeures surpris et changes de
+couleur � ce discours ; ce n'est l� qu'une �bauche du personnage, et,
+pour en achever le portrait, il faudrait bien d'autres coups de
+pinceau. Suffit qu'il faut que le courroux du ciel l'accable quelque
+jour ; qu'il me vaudrait bien mieux d'�tre au diable que d'�tre �
+lui, et qu'il me fait voir tant d'horreurs, que je souhaiterais qu'il
+f�t d�j� je ne sais o�. Mais un grand seigneur m�chant homme est une
+terrible chose : il faut que je lui sois fid�le, en d�pit que j'en aie ;
+la crainte en moi fait l'office du z�le, brise mes sentiments, et me
+r�duit d'applaudir bien souvent � ce que mon �me d�teste. Le voil� qui
+vient se promener dans ce palais, s�parons-nous. Ecoute au moins ; je
+t'ai fait cette confidence avec franchise, et cela m'est sorti un peu
+bien vite de la bouche ; mais s'il fallait qu'il en v�nt quelque
+chose � ses oreilles, je dirais hautement que tu aurais menti.
+
+
+
+-----------
+
+
+Sc�ne II. - Don Juan, Sganarelle.
+
+
+- Don Juan -
+
+Quel homme te parlait l� ? Il a bien l'air, ce me semble,
+du bon Gusman de done Elvire ?
+
+- Sganarelle -
+
+C'est quelque chose aussi � peu pr�s comme cela.
+
+- Don Juan -
+
+Quoi ! c'est lui ?
+
+- Sganarelle -
+
+Lui-m�me.
+
+- Don Juan -
+
+Et depuis quand est-il en cette ville ?
+
+- Sganarelle -
+
+D'hier au soir.
+
+- Don Juan -
+
+Et quel sujet l'am�ne ?
+
+- Sganarelle -
+
+Je crois que vous jugez assez ce qui le peut inqui�ter.
+
+- Don Juan -
+
+Notre d�part, sans doute ?
+
+- Sganarelle -
+
+Le bonhomme en est tout mortifi�, et m'en demandait le sujet.
+
+- Don Juan -
+
+Et quelle r�ponse as-tu faite ?
+
+- Sganarelle -
+
+Que vous ne m'en aviez rien dit.
+
+- Don Juan -
+
+Mais encore, quelle est ta pens�e l�-dessus, que t'imagines-tu de
+cette affaire ?
+
+- Sganarelle -
+
+Moi ! Je crois, sans vous faire tort, que vous avez quelque nouvel
+amour en t�te.
+
+- Don Juan -
+
+Tu le crois ?
+
+- Sganarelle -
+
+Oui.
+
+- Don Juan -
+
+Ma foi, tu ne te trompes pas, et je dois t'avouer qu'un autre objet a
+chass� Elvire de ma pens�e.
+
+- Sganarelle -
+
+H� ! mon Dieu ! je sais mon don Juan sur le bout du doigt, et connais
+votre coeur pour le plus grand coureur du monde ; il se pla�t � se
+promener de liens en liens, et n'aime gu�re � demeurer en place.
+
+- Don Juan -
+
+Et ne trouves-tu pas, dis-moi, que j'ai raison d'en user de la sorte ?
+
+- Sganarelle -
+
+H� ! Monsieur...
+
+- Don Juan -
+
+Quoi ? Parle.
+
+- Sganarelle -
+
+Assur�ment que vous avez raison, si vous le voulez ; on ne peut pas
+aller l� contre. Mais si vous ne vouliez pas, ce serait peut-�tre une
+autre affaire.
+
+- Don Juan -
+
+Et bien, je te donne la libert� de parler, et de me dire tes
+sentiments.
+
+- Sganarelle -
+
+En ce cas, Monsieur, je vous dirai franchement que je n'approuve point
+votre m�thode, et que je trouve fort vilain d'aimer de tous c�t�s
+comme vous faites.
+
+- Don Juan -
+
+Quoi ! tu veux qu'on se lie � demeurer au premier objet qui nous
+prend, qu'on renonce au monde pour lui, et qu'on n'ait plus d'yeux
+pour personne ? La belle chose de vouloir se piquer d'un faux honneur
+d'�tre fid�le, de s'ensevelir pour toujours dans une passion, et
+d'�tre mort d�s sa jeunesse � toutes les autres beaut�s qui nous
+peuvent frapper les yeux ! Non, non, la constance n'est bonne que pour
+des ridicules ; toutes les belles ont droit de nous charmer, et
+l'avantage d'�tre rencontr�e la premi�re ne doit point d�rober aux
+autres les justes pr�tentions qu'elles ont toutes sur nos coeurs. Pour
+moi, la beaut� me ravit partout o� je la trouve ; et je c�de
+facilement � cette douce violence dont elle nous entra�ne. J'ai beau
+�tre engag�, l'amour que j'ai pour une belle n'engage point mon �me �
+faire injustice aux autres ; je conserve des yeux pour voir le m�rite
+de toutes, et rends � chacune les hommages et les tributs o� la nature
+nous oblige. Quoi qu'il en soit, je ne puis refuser mon coeur � tout
+ce que je vois d'aimable ; et d�s qu'un beau visage me le demande, si
+j'en avais dix mille, je les donnerais tous. Les inclinations
+naissantes, apr�s tout, ont des charmes inexplicables, et tout le
+plaisir de l'amour est dans le changement. On go�te une douceur
+extr�me � r�duire, par cent hommages, le coeur d'une jeune beaut�, �
+voir de jour en jour les petits progr�s qu'on y fait, � combatre, par
+des transports, par des larmes et des soupirs, l'innocente pudeur
+d'une �me qui a peine � rendre les armes ; � forcer pied � pied toutes
+les petites r�sistances qu'elle nous oppose, � vaincre les scrupules
+dont elle se fait un honneur, et la mener doucement o� nous avons
+envie de la faire venir. Mais lorsqu'on en est ma�tre une fois, il
+n'y a plus rien � dire, ni rien � souhaiter ; tout le beau de la
+passion est fini, et nous nous endormons dans la tranquillit� d'un tel
+amour, si quelque objet nouveau ne vient r�veiller nos d�sirs, et
+pr�senter � notre coeur les charmes attrayants d'une conqu�te �
+faire. Enfin, il n'est rien de si doux que de triompher de la
+r�sistance d'une belle personne ; et j'ai, sur ce sujet, l'ambition
+des conqu�rants, qui volent perp�tuellement de victoire en victoire,
+et ne peuvent se r�soudre � borner leurs souhaits. Il n'est rien qui
+puisse arr�ter l'imp�tuosit� de mes d�sirs ; je me sens un coeur �
+aimer toute la terre ; et, comme Alexandre, je souhaiterais qu'il y
+e�t d'autres mondes, pour y pouvoir �tendre mes conqu�tes amoureuses.
+
+- Sganarelle -
+
+Vertu de ma vie ! comme vous d�bitez ! Il semble que vous ayez appris
+cela par coeur, et vous parlez tout comme un livre.
+
+- Don Juan -
+
+Qu'as-tu � dire l�-dessus ?
+
+- Sganarelle -
+
+Ma foi, j'ai � dire... Je ne sais que dire ; car vous tournez les
+choses d'une mani�re, qu'il semble que vous avez raison ; et cependant
+il est vrai que vous ne l'avez pas. J'avais les plus belles pens�es du
+monde, et vos discours m'ont brouill� tout cela. Laissez faire ; une
+autre fois, je mettrai mes raisonnements par �crit, pour disputer avec
+vous.
+
+- Don Juan -
+
+Tu feras bien.
+
+- Sganarelle -
+
+Mais, Monsieur, cela serait-il de la permission que vous m'avez
+donn�e, si je vous disais que je suis tant soit peu scandalis� de la
+vie que vous menez ?
+
+- Don Juan -
+
+Comment, quelle vie est-ce que je m�ne ?
+
+- Sganarelle -
+
+Fort bonne. Mais par exemple, de vous voir tous les mois vous marier
+comme vous faites !
+
+- Don Juan -
+
+Y a-t-il rien de plus agr�able ?
+
+- Sganarelle -
+
+Il est vrai. Je con�ois que cela est fort agr�able et fort
+divertissant, et je m'en accommoderais assez, moi, s'il n'y avait
+point de mal ; mais, Monsieur, se jouer ainsi d'un myst�re sacr�,
+et...
+
+- Don Juan -
+
+Va, va, c'est une affaire entre le ciel et moi, et nous la d�m�lerons
+bien ensemble sans que tu t'en mettes en peine.
+
+- Sganarelle -
+
+Ma foi, Monsieur, j'ai toujours ou� dire que c'est une m�chante
+raillerie que de se railler du ciel, et que les libertins ne font
+jamais une bonne fin.
+
+- Don Juan -
+
+Hol� ! ma�tre sot. Vous savez que je vous ai dit que je n'aime pas les
+faiseurs de remontrances.
+
+- Sganarelle -
+
+Je ne parle pas aussi � vous, Dieu m'en garde ! Vous savez ce que vous
+faites, vous, et si vous ne croyez rien, vous avez vos raisons : mais
+il y a certains petits impertinents dans le monde qui sont libertins
+sans savoir pourquoi, qui font les esprits forts, parce qu'ils croient
+que cela leur sied bien ; et si j'avais un ma�tre comme cela, je lui
+dirais fort nettement, le regardant en face : Osez-vous bien ainsi
+vous jouer du ciel, et ne tremblez-vous point de vous moquer comme
+vous faites des choses les plus saintes ? C'est bien � vous, petit ver
+de terre, petit myrmidon que vous �tes, (je parle au ma�tre que j'ai
+dit), c'est bien � vous � vouloir vous m�ler de tourner en raillerie
+ce que tous les hommes rev�rent ? Pensez-vous que, pour �tre de
+qualit�, pour avoir une perruque blonde et bien fris�e, des plumes �
+votre chapeau, un habit bien dor�, et des rubans couleur de feu, (ce
+n'est pas � vous que je parle, c'est � l'autre), pensez-vous, dis-je,
+que vous en soyez plus habile homme, que tout vous soit permis, et
+qu'on n'ose vous dire vos v�rit�s ? Apprenez de moi, qui suis votre
+valet, que le ciel punit t�t ou tard les impies, qu'une m�chante vie
+am�ne une m�chante mort, et que...
+
+- Don Juan -
+
+Paix !
+
+- Sganarelle -
+
+De quoi est-il question ?
+
+- Don Juan -
+
+Il est question de te dire qu'une beaut� me tient au coeur, et
+qu'entra�n� par ses appas, je l'ai suivie jusqu'en cette ville.
+
+- Sganarelle -
+
+Et n'y craignez-vous rien, Monsieur, de la mort de ce commandeur que
+vous tu�tes il y a six mois ?
+
+- Don Juan -
+
+Et pourquoi craindre ? ne l'ai-je pas bien tu� ?
+
+- Sganarelle -
+
+Fort bien, le mieux du monde ; et il aurait tort de se plaindre.
+
+- Don Juan -
+
+J'ai eu ma gr�ce de cette affaire.
+
+- Sganarelle -
+
+Oui, mais cette gr�ce n'�teint pas peut-�tre le ressentiment des
+parents et des amis, et...
+
+- Don Juan -
+
+Ah ! n'allons point songer au mal qui nous peut arriver, et songeons
+seulement � ce qui nous peut donner du plaisir. La personne dont je
+te parle est une jeune fianc�e, la plus agr�able du monde, qui a �t�
+conduite ici par celui m�me qu'elle y vient �pouser ; et le hasard me
+fit voir ce couple d'amants trois ou quatre jours avant leur voyage.
+Jamais je n'ai vu deux personnes �tre si contentes l'une de l'autre,
+et faire �clater plus d'amour. La tendresse visible de leurs mutuelles
+ardeurs me donna de l'�motion ; j'en fus frapp� au coeur, et mon amour
+commen�a par la jalousie. Oui, je ne pus souffrir d'abord de les voir
+si bien ensemble ; le d�pit alluma mes d�sirs, et je me figurai un
+plaisir extr�me � pouvoir troubler leur intelligence, et rompre cet
+attachement, dont la d�licatesse de mon coeur se tenait offens�e ;
+mais jusques ici tous mes efforts ont �t� inutiles, et j'ai recours au
+dernier rem�de. Cet �poux pr�tendu doit aujourd'hui r�galer sa
+ma�tresse d'une promenade sur mer. Sans t'en avoir rien dit, toutes
+choses sont pr�par�es pour satisfaire mon amour, et j'ai une petite
+barque et des gens, avec quoi fort facilement je pr�tends enlever la
+belle.
+
+- Sganarelle -
+
+Ah ! Monsieur...
+
+- Don Juan -
+
+Hein ?
+
+- Sganarelle -
+
+C'est fort bien fait � vous, et vous le prenez comme il faut. Il n'est
+rien tel en ce monde que de se contenter.
+
+- Don Juan -
+
+Pr�pare-toi donc � venir avec moi, et prend soin toi-m�me d'apporter
+toutes mes armes, afin que...
+
+        (apercevant done Elvire.)
+
+Ah ! rencontre f�cheuse. Tra�tre, tu ne m'avais pas dit qu'elle �tait
+ici elle-m�me.
+
+- Sganarelle -
+
+Monsieur, vous ne me l'avez pas demand�.
+
+- Don Juan -
+
+Est-elle folle, de n'avoir pas chang� d'habit, et de venir en ce
+lieu-ci, avec son �quipage de campagne ?
+
+
+
+-----------
+
+
+Sc�ne III. - Done Elvire, Don Juan, Sganarelle.
+
+
+- Done Elvire -
+
+Me ferez-vous la gr�ce, don Juan, de vouloir bien me reconna�tre ? Et
+puis-je au moins esp�rer que vous daigniez tourner le visage de ce
+c�t� ?
+
+- Don Juan -
+
+Madame, je vous avoue que je suis surpris, et que je ne vous attendais
+pas ici.
+
+- Done Elvire -
+
+Oui, je vois bien que vous ne m'y attendiez pas ; et vous �tes
+surpris, � la v�rit�, mais tout autrement que je ne l'esp�rais ; et la
+mani�re dont vous le paraissez, me persuade pleinement ce que je
+refusais de croire. J'admire ma simplicit�, et la faiblesse de mon
+coeur, � douter d'une trahison que tant d'apparences me confirmaient.
+J'ai �t� assez bonne, je le confesse, ou plut�t assez sotte, pour
+vouloir me tromper moi-m�me, et travailler � d�mentir mes yeux et mon
+jugement. J'ai cherch� des raisons, pour excuser � ma tendresse le
+rel�chement d'amiti� qu'elle voyait en vous ; et je me suis forg�
+expr�s cent sujets l�gitimes d'un d�part si pr�cipit�, pour vous
+justifier du crime dont ma raison vous accusait. Mes justes soup�ons
+chaque jour avaient beau me parler, j'en rejetais la voix qui vous
+rendait criminel � mes yeux, et j'�coutais avec plaisir mille chim�res
+ridicules, qui vous peignaient innocent � mon coeur ; mais enfin cet
+abord ne me permet plus de douter, et le coup d'oeil qui m'a re�ue
+m'apprend bien plus de choses que je ne voudrais en savoir. Je serais
+bien aise pourtant d'ou�r de votre bouche les raisons de votre
+d�part. Parlez, don Juan, je vous prie, et voyons de quel air vous
+saurez vous justifier.
+
+- Don Juan -
+
+Madame, voil� Sganarelle, qui sait pourquoi je suis parti.
+
+- Sganarelle -
+
+        (bas, � don Juan.)
+
+Moi, Monsieur ? je n'en sais rien, s'il vous pla�t.
+
+- Done Elvire -
+
+Eh bien ! Sganarelle, parlez. Il n'importe de quelle bouche j'entende
+ses raisons.
+
+- Don Juan -
+
+        (faisant signe � Sganarelle d'approcher.)
+
+Allons, parle donc � Madame.
+
+- Sganarelle -
+
+        (bas, � don Juan.)
+
+Que voulez-vous que je dise ?
+
+- Done Elvire -
+
+Approchez, puis qu'on le veut ainsi, et me dites un peu les causes
+d'un d�part si prompt.
+
+- Don Juan -
+
+Tu ne r�pondras pas ?
+
+- Sganarelle -
+
+        (bas, � don Juan.)
+
+Je n'ai rien � r�pondre. Vous vous moquez de votre serviteur.
+
+- Don Juan -
+
+Veux-tu r�pondre, te dis-je ?
+
+- Sganarelle -
+
+Madame...
+
+- Done Elvire -
+
+Quoi ?
+
+- Sganarelle -
+
+        (se tournant vers son ma�tre.)
+
+Monsieur...
+
+- Don Juan -
+
+        (en le mena�ant.)
+
+Si...
+
+- Sganarelle -
+
+Madame, les conqu�rants, Alexandre, et les autres mondes sont cause de
+notre d�part. Voil�, Monsieur, tout ce que je puis dire.
+
+- Done Elvire -
+
+Vous pla�t-il, don Juan, de nous �claircir ces beaux myst�res ?
+
+- Don Juan -
+
+Madame, � vous dire la v�rit�...
+
+- Done Elvire -
+
+Ah, que vous savez mal vous d�fendre pour un homme de cour, et qui
+doit �tre accoutum� � ces sortes de choses ! J'ai piti� de vous voir
+la confusion que vous avez. Que ne vous armez-vous le front d'une
+noble effronterie ? que ne me jurez-vous que vous �tes toujours dans
+les m�mes sentiments pour moi, que vous m'aimez toujours avec une
+ardeur sans �gale, et que rien n'est capable de vous d�tacher de moi
+que la mort ? que ne me dites-vous que des affaires de la derni�re
+cons�quence vous ont oblig� � partir sans m'en donner avis ; qu'il
+faut que, malgr� vous, vous demeuriez ici quelque temps, et que je
+n'ai qu'� m'en retourner d'o� je viens, assur�e que vous suivrez mes
+pas le plus t�t qu'il vous sera possible ; qu'il est certain que vous
+br�lez de me rejoindre, et qu'�loign� de moi vous souffrez ce que
+souffre un corps qui est s�par� de son �me ? Voil� comme il faut vous
+d�fendre, et non pas �tre interdit comme vous �tes.
+
+- Don Juan -
+
+Je vous avoue, Madame, que je n'ai point le talent de dissimuler, et
+que je porte un coeur sinc�re. Je ne vous dirai point que je suis
+toujours dans les m�mes sentiments pour vous, et que je br�le de vous
+rejoindre, puisqu'enfin il est assur� que je ne suis parti que pour
+vous fuir ; non point pour les raisons que vous pouvez vous figurer,
+mais par un pur motif de conscience, et pour ne croire pas qu'avec
+vous davantage je puisse vivre sans p�ch�. Il m'est venu des
+scrupules, Madame, et j'ai ouvert les yeux de l'�me sur ce que je
+faisais. J'ai fait r�flexion que, pour vous �pouser, je vous ai
+d�rob�e � la cl�ture d'un couvent, que vous avez rompu des voeux qui
+vous engageaient autre part, et que le ciel est fort jaloux de ces
+sortes de choses. Le repentir m'a pris, et j'ai craint le courroux
+c�leste. J'ai cru que notre mariage n'�tait qu'un adult�re d�guis�,
+qu'il nous attirerait quelque disgr�ce d'en haut, et qu'enfin je
+devais t�cher de vous oublier, et vous donner moyen de retourner � vos
+premi�res cha�nes. Voudriez-vous, Madame, vous opposer � une si sainte
+pens�e, et que j'allasse, en vous retenant, me mettre le ciel sur les
+bras ; que pour...
+
+- Done Elvire -
+
+Ah ! sc�l�rat, c'est maintenant que je te connais tout entier ; et,
+pour mon malheur, je te connais lorsqu'il n'en est plus temps, et
+qu'une telle connaissance ne peut plus me servir qu'� me d�sesp�rer.
+Mais sache que ton crime ne demeurera pas impuni, et que le m�me ciel
+dont tu te joues me saura venger de ta perfidie.
+
+- Don Juan -
+
+Sganarelle, le ciel !
+
+- Sganarelle -
+
+Vraiment oui, nous nous moquons bien de cela, nous autres.
+
+- Don Juan -
+
+Madame...
+
+- Done Elvire -
+
+Il suffit. je n'en veux pas ou�r davantage, et je m'accuse m�me d'en
+avoir trop entendu. C'est une l�chet� que de se faire expliquer trop
+sa honte ; et sur de tels sujets, un noble coeur, au premier mot, doit
+prendre son parti. N'attends pas que j'�clate ici en reproches et en
+injures ; non, non, je n'ai point un courroux � exhaler en paroles
+vaines, et toute sa chaleur se r�serve pour sa vengeance. Je te le dis
+encore, le ciel te punira, perfide, de l'outrage que tu me fais, et si
+le ciel n'a rien que tu puisses appr�hender, appr�hende du moins la
+col�re d'une femme offens�e.
+
+
+
+-----------
+
+
+Sc�ne IV. - Don Juan, Sganarelle.
+
+
+- Sganarelle -
+
+        (� part.)
+
+Si le remords le pouvait prendre !
+
+- Don Juan -
+
+        (apr�s un moment de r�flexion.)
+
+Allons songer � l'ex�cution de notre entreprise amoureuse.
+
+- Sganarelle -
+
+        (seul.)
+
+Ah ! quel abominable ma�tre me vois-je oblig� de servir !
+
+
+
+ACTE SECOND.
+------------
+
+Le th��tre repr�sente une campagne au bord de la mer.
+
+
+Sc�ne premi�re. - Charlotte, Pierrot.
+
+
+- Charlotte -
+
+Notre dinse, Piarrot, tu t'es trouv� l� bien � point !
+
+- Pierrot -
+
+Parguienne, il ne s'en est pas fallu l'�poisseur d'une �plingue,
+qu'ils ne se sayant nay�s tous deux.
+
+- Charlotte -
+
+C'est donc le coup de vent d'� matin qui les avait renvars�s dans la
+mar ?
+
+- Pierrot -
+
+Aga (1), quien, Charlotte, je m'en vas te conter tout fin drait comme
+cela est venu : car, comme dit l'autre, je les ai le premier avis�s,
+avis�s le premier je les ai. Enfin donc j'�tions sur le bord de la
+mar, moi et le gros Lucas, et je nous amusions � batifoler avec des
+mottes de tarre que je nous jesquions � la t�te ; car, comme tu sais
+bian, le gros Lucas aime � batifoler, et moi, par fouas, je batifole
+itou. En batifolant donc, pisque batifoler y a, j'ai apar�u de tout
+loin queuque chose qui grouillait dans gliau, et qui venait comme
+envars nous par secousse. Je voyais cela fixiblement, et pis tout d'un
+coup je voyais que je ne voyais plus rien. Eh ! Lucas, c'ai-je fait,
+je pense que vl� des hommes qui nageant l�-bas. Voire, ce m'a-t-il
+fait, t'as �t� au tr�passement d'un chat, t'as la vue trouble
+(2). Palsanguienne, c'ai-je fait, je n'ai point la vue trouble, ce
+sont des hommes. Point du tout, ce m'a-t-il fait, t'as la barlue.
+Veux-tu gager, c'ai-je fait, que je n'ai point la barlue, c'ai-je
+fait, et que ce sont deux hommes, c'ai-je fait, qui nageant droit ici,
+c'ai-je fait ? Morguienne, ce m'a-t-il fait, je gage que non. Oh ! �a,
+c'ai-je fait, veux-tu gager dix sous que si ? Je le veux bian, ce
+m'a-t-il fait, et, pour te montrer, vl� argent su jeu, ce m'a-t-il
+fait. Moi, je n'ai point �t� ni fou, ni estourdi ; j'ai bravement
+bout� � tarre quatre pi�ces tap�es, et cinq sous en doubles,
+jerniguienne, aussi hardiment que si j'avais aval� un varre de vin,
+car je sis hasardeux, moi, et je vas � la d�bandade. Je savais bian ce
+que je faisais pourtant. Queuque gniais ! Enfin donc, je n'avons pas
+put�t eu gag�, que j'avons vu les deux hommes tout � plain, qui nous
+faisiant signe de les aller querir ; et moi de tirer auparavant les
+enjeux. Allons, Lucas, c'ai-je dit, tu vois bian qu'ils nous appelont ;
+allons vite � leu secours. Non, ce m'a-t-il dit, ils m'ont fait
+pardre. Oh ! donc, tanquia qu'� la parfin, pour le faire court, je
+l'ai tant sarmonn�, que je nous sommes bout�s dans une barque, et pis
+j'avons tant fait cahin caha, que je les avons tir�s de gliau, et pis
+je les avons men�s cheux nous aupr�s du feu, et pis ils se sant
+d�pouill�s tous nus pour se s�cher, et pis il y en est venu encore
+deux de la m�me bande, qui s'�quiant sauv�s tout seuls ; et pis
+Mathurine est arriv�e l�, � qui l'en a fait les doux yeux. Vl�
+justement, Charlotte, comme tout �a s'est fait.
+
+- Charlotte -
+
+Ne m'as-tu pas dit, Piarrot, qu'il y en a un qu'est bien pu mieux fait
+que les autres ?
+
+- Pierrot -
+
+Oui, c'est le ma�tre. Il faut que ce soit queuque gros, gros monsieur,
+car il a du dor � son habit tout depis le haut jusqu'en bas ; et ceux
+qui le servont sont des monsieux eux-m�mes ; et stapandant, tout gros
+monsieu qu'il est, il serait par ma fiqu� nay� si je n'aviomme �t� l�.
+
+- Charlotte -
+
+Ardez (3) un peu.
+
+- Pierrot -
+
+Oh ! parguienne, sans nous il en avait pour sa maine de f�ves (4).
+
+- Charlotte -
+
+Est-il encore cheux toi tout nu, Piarrot ?
+
+- Pierrot -
+
+Nannain, ils l'avont r'habill� tout devant nous. Mon Guieu, je n'en
+avais jamais vu s'habiller. Que d'histoires et d'engingorniaux (5)
+boutont ces messieux-l� les courtisans !  je me pardrais l� dedans
+pour moi ; et j'�tais tout �bobi de voir �a. Quien, Charlotte, ils
+avont des cheveux qui ne tenont point � leu t�te ; et ils boutont �a
+apr�s tout, comme un gros bonnet de filasse. Ils ant des chemises qui
+ant des manches o� j'entrerions tout brandis, toi et moi. En glieu
+d'haut-de-chausse, ils portont un garde-robe (6) aussi large que d'ici
+� P�ques ; en glieu de pourpoint, de petites brassi�res qui ne leu
+venont pas jusqu'au brichet (7) ; et, en glieu de rabat, un grand
+mouchoir de cou � r�ziau aveuc quatre grosses houpes de linge qui leu
+pendont sur l'estomaque. Ils avont itou d'autres petits rabats au
+bout des bras, et de grands en tonnois de passement aux jambes, et,
+parmi tout �a, tant de rubans, tant de rubans, que c'est une vraie
+piqui�. Ignia pas jusqu'aux souliers qui n'en soyont farcis tout
+depis un bout jusqu'� l'autre ; et ils sont faits d'une fa�on que je
+me romprais le cou aveuc.
+
+- Charlotte -
+
+Par ma fi, Piarrot, il faut que j'aille voir un peu �a.
+
+- Pierrot -
+
+Oh ! acoute un peu auparavant, Charlotte. J'ai queuque autre chose �
+te dire, moi.
+
+- Charlotte -
+
+Et bian ! dis, qu'est-ce que c'est ?
+
+- Pierrot -
+
+Vois-tu, Charlotte ? il faut, comme dit l'autre, que je d�bonde mon
+coeur. Je t'aime, tu le sais bian, et je sommes pour �tre mari�s
+ensemble ; mais marguienne, je ne suis point satisfait de toi.
+
+- Charlotte -
+
+Quement ? qu'est-ce que c'est donc qu'iglia ?
+
+- Pierrot -
+
+Iglia que tu me chagraines l'esprit franchement.
+
+- Charlotte -
+
+Et quement donc ?
+
+- Pierrot -
+
+T�tiguienne, tu ne m'aimes point.
+
+- Charlotte -
+
+Ah ! ah ! n'est-ce que �a ?
+
+- Pierrot -
+
+Oui, ce n'est que �a, et c'est bian assez.
+
+- Charlotte -
+
+Mon Guieu, Piarrot, tu me viens toujou dire la m�me
+chose.
+
+- Pierrot -
+
+Je te dis toujou la m�me chose, parce que c'est toujou la m�me chose ;
+et si ce n'�tait pas toujou la m�me chose, je ne te dirais pas toujou
+la m�me chose.
+
+- Charlotte -
+
+Mais, qu'est-ce qu'il te faut ? que veux-tu ?
+
+- Pierrot -
+
+Jerniguienne ! je veux que tu m'aimes.
+
+- Charlotte -
+
+Est-ce que je ne t'aime pas ?
+
+- Pierrot -
+
+Non, tu ne m'aimes pas ; et si, je fais tout ce que je pis pour �a. Je
+t'ach�te, sans reproche, des rubans � tous les marciers qui passont ;
+je me romps le cou � t'aller d�nicher des marles ; je fais jouer pour
+toi les vielleux quand ce vient ta f�te ; et tout �a comme si je me
+frappois la t�te contre un mur. Vois-tu, �a n'est ni biau ni honn�te
+de n'aimer pas les gens qui nous aimont.
+
+- Charlotte -
+
+Mais, mon Guieu, je t'aime aussi.
+
+- Pierrot -
+
+Oui, tu m'aimes d'une belle d�guaine !
+
+- Charlotte -
+
+Quement veux-tu donc qu'on fasse ?
+
+- Pierrot -
+
+Je veux que l'en fasse comme l'en fait, quand l'en aime comme il faut.
+
+- Charlotte -
+
+Ne t'aim�-je pas aussi comme il faut ?
+
+- Pierrot -
+
+Non. Quand �a est, �a se voit, et l'en fait mille petites singeries
+aux personnes quand on les aime du bon du coeur. Regarde la grosse
+Thomasse comme elle est assot�e du jeune Robain ; alle est toujou
+autour de li � l'agacer, et ne le laisse jamais en repos. Toujou al li
+fait queuque niche, ou li baille queuque taloche en passant ; et
+l'autre jour qu'il �tait assis sur un escabiau, al fut le tirer de
+dessous li, et le fit choir tout de son long par tarre. Jarni, v'l� o�
+l'en voit les gens qui aimont ; mais toi, tu ne me dis jamais mot,
+t'es toujou l� comme eune vraie souche de bois ; et je passerais vingt
+fois devant toi, que tu ne te grouillerais pas pour me bailler le
+moindre coup, ou me dire la moindre chose. Ventreguienne ! �a n'est
+pas bian, apr�s tout : et t'es trop froide pour les gens.
+
+- Charlotte -
+
+Que veux-tu que j'y fasse ? C'est mon himeur, et je ne me pis
+refondre.
+
+- Pierrot -
+
+Igna himeur qui quienne. Quand en a de l'amiqui� pour les parsonnes,
+l'on en baille toujou queuque petite signifiance.
+
+- Charlotte -
+
+Enfin, je t'aime tout autant que je pis ; et si tu n'es pas content de
+�a, tu n'as qu'� en aimer queuque autre.
+
+- Pierrot -
+
+Eh bian ! vl� pas mon compte ? T�tigu�, si tu m'aimais, me dirais-tu
+�a ?
+
+- Charlotte -
+
+Pourquoi me viens-tu aussi tarabuster l'esprit ?
+
+- Pierrot -
+
+Morgu� ! queu mal te fais-je ? Je ne te demande qu'un peu d'amiqui�.
+
+- Charlotte -
+
+Et bien ! laisse faire aussi, et ne me presse point tant. Peut-�tre
+que �a viendra tout d'un coup sans y songer.
+
+- Pierrot -
+
+Touche donc l�, Charlotte.
+
+- Charlotte -
+
+          (donnant sa main.)
+
+Eh bien ! quien.
+
+- Pierrot -
+
+Promets-moi donc que tu t�cheras de m'aimer davantage.
+
+- Charlotte -
+
+J'y ferai tout ce que je pourrai, mais il faut que �a vienne de
+lui-m�me. Piarrot, est-ce l� ce monsieu ?
+
+- Pierrot -
+
+Oui, le vl�.
+
+- Charlotte -
+
+Ah ! mon Guieu, qu'il est genti, et que �'aurait �t� dommage qu'il e�t
+�t� nay� !
+
+- Pierrot -
+
+Je revians tout � l'heure ; je m'en vas boire chopine, pour me
+rebouter tant soit peu de la fatigue que j'ais eue.
+
+
+
+-----------
+
+
+Sc�ne II. - Don Juan, Sganarelle, Charlotte, dans le fond du th��tre.
+
+
+- Don Juan -
+
+Nous avons manqu� notre coup, Sganarelle, et cette bourrasque impr�vue
+a renvers� avec notre barque le projet que nous avions fait ; mais, �
+te dire vrai, la paysanne que je viens de quitter r�pare ce malheur,
+et je lui ai trouv� des charmes qui effacent de mon esprit tout le
+chagrin que me donnait le mauvais succ�s de notre entreprise. Il ne
+faut pas que ce coeur m'�chappe, et j'y ai d�j� jet� des dispositions
+� ne pas me souffrir longtemps de pousser des soupirs.
+
+- Sganarelle -
+
+Monsieur, j'avoue que vous m'�tonnez. A peine sommes-nous �chapp�s
+d'un p�ril de mort, qu'au lieu de rendre gr�ce au ciel de la piti�
+qu'il a daign� prendre de nous, vous travaillez tout de nouveau �
+attirer sa col�re par vos fantaisies acco�tum�es, et vos amours
+cr...
+
+          (Don Juan prend un ton mena�ant.)
+
+Paix, coquin que vous �tes, vous ne savez ce que vous dites, et
+monsieur sait ce qu'il fait. Allons.
+
+- Don Juan -
+
+          (apercevant Charlotte.)
+
+Ah ! ah ! d'o� sort cette autre paysanne, Sganarelle ? As-tu rien vu
+de plus joli ? et ne trouves-tu pas, dis-moi, que celle-ci vaut bien
+l'autre ?
+
+- Sganarelle -
+
+Assur�ment.
+
+          (� part.)
+
+Autre pi�ce nouvelle.
+
+- Don Juan -
+
+          (� Charlotte.)
+
+D'o� me vient, la belle, une rencontre si agr�able ?  Quoi ! dans ces
+lieux champ�tres, parmi ces arbres et ces rochers, on trouve des
+personnes faites comme vous �tes.
+
+- Charlotte -
+
+Vous voyez, Monsieu.
+
+- Don Juan -
+
+Etes-vous de ce village ?
+
+- Charlotte -
+
+Oui, Monsieu.
+
+- Don Juan -
+
+Et vous y demeurez ?...
+
+- Charlotte -
+
+Oui, Monsieu.
+
+- Don Juan -
+
+Vous vous appelez ?
+
+- Charlotte -
+
+Charlotte, pour vous servir.
+
+- Don Juan -
+
+Ah ! la belle personne, et que ses yeux sont p�n�trants !
+
+- Charlotte -
+
+Monsieu, vous me rendez toute honteuse.
+
+- Don Juan -
+
+Ah, n'ayez point de honte d'entendre dire vos v�rit�s. Sganarelle,
+qu'en dis-tu ? Peut-on rien voir de plus agr�able ? Tournez-vous un
+peu, s'il vous pla�t. Ah ! que cette taille est jolie ! Haussez un peu
+la t�te, de gr�ce. Ah !  que ce visage est mignon ! Ouvrez vos yeux
+enti�rement. Ah ! qu'ils sont beaux ! Que je voie un peu vos dents,
+je vous prie. Ah ! qu'elles sont amoureuses, et ces l�vres
+app�tissantes !  Pour moi, je suis ravi, et je n'ai jamais vu une si
+charmante personne.
+
+- Charlotte -
+
+Monsieur, cela vous pla�t � dire, et je ne sais pas si c'est pour vous
+railler de moi.
+
+- Don Juan -
+
+Moi, me railler de vous ? Dieu m'en garde ! je vous aime trop pour
+cela, et c'est du fond du coeur que je vous parle.
+
+- Charlotte -
+
+Je vous suis bien oblig�e, si �a est.
+
+- Don Juan -
+
+Point du tout, vous ne m'�tes point oblig�e de tout ce que je dis ; et
+ce n'est qu'� votre beaut� que vous en �tes redevable.
+
+- Charlotte -
+
+Monsieu, tout �a est trop bien dit pour moi, et je n'ai pas d'esprit
+pour vous r�pondre.
+
+- Don Juan -
+
+Sganarelle, regarde un peu ses mains.
+
+- Charlotte -
+
+Fi ! Monsieu, elles sont noires comme je ne sais quoi.
+
+- Don Juan -
+
+Ah ! que dites-vous ? Elles sont les plus belles du monde ; souffrez
+que je les baise, je vous prie.
+
+- Charlotte -
+
+Monsieur, c'est trop d'honneur que vous me faites ; et si j'avais su
+�a tant�t, je n'aurais pas manqu� de les laver avec du son.
+
+- Don Juan -
+
+Eh ! dites-moi un peu, belle Charlotte, vous n'�tes pas mari�e, sans
+doute ?
+
+- Charlotte -
+
+Non, Monsieu ; mais je dois bient�t l'�tre avec Piarrot, le fils de la
+voisine Simonette.
+
+- Don Juan -
+
+Quoi ! une personne comme vous serait la femme d'un simple paysan ?
+Non, non, c'est profaner tant de beaut�, et vous n'�tes pas n�e pour
+demeurer dans un village. Vous m�ritez, sans doute, une meilleure
+fortune ; et le ciel qui le conna�t bien, m'a conduit ici tout expr�s
+pour emp�cher ce mariage, et rendre justice � vos charmes ; car enfin,
+belle Charlotte, je vous aime de tout mon coeur, et il ne tiendra qu'�
+vous que je vous arrache de ce mis�rable lieu, et ne vous mette dans
+l'�tat o� vous m�ritez d'�tre. Cet amour est bien prompt, sans doute ;
+mais quoi ! c'est un effet, Charlotte, de votre grande beaut�, et
+l'on vous aime autant en un quart d'heure qu'on ferait une autre en
+six mois.
+
+- Charlotte -
+
+Aussi vrai, Monsieu, je ne sais comment faire quand vous parlez. Ce
+que vous dites me fait aise, et j'aurais toutes les envies du monde de
+vous croire ; mais on m'a toujou dit qu'il ne faut jamais croire les
+monsieux, et que vous autres courtisans �tes des enjoleux, qui ne
+songez qu'� abuser les filles.
+
+- Don Juan -
+
+Je ne suis pas de ces gens-l�.
+
+- Sganarelle -
+
+Il n'a garde.
+
+- Charlotte -
+
+Voyez-vous, Monsieu ? il n'y a pas plaisir � se laisser abuser. Je
+suis une pauvre paysanne ; mais j'ai l'honneur en recommandation, et
+j'aimerais mieux me voir morte que de me voir d�shonor�e.
+
+- Don Juan -
+
+Moi, j'aurais l'�me assez m�chante pour abuser une personne comme vous ?
+je serais assez l�che pour vous d�shonorer ? Non, non, j'ai trop de
+conscience pour cela. Je vous aime, Charlotte, en tout bien et en
+tout honneur ; et, pour vous montrer que je vous dis vrai, sachez que
+je n'ai point d'autre dessein que de vous �pouser. En voulez-vous un
+plus grand t�moignage ? M'y voil� pr�t quand vous voudrez : et je
+prends � t�moin l'homme que voil�, de la parole que je vous donne.
+
+- Sganarelle -
+
+Non, non, ne craignez point. Il se mariera avec vous tant que vous
+voudrez.
+
+- Don Juan -
+
+Ah ! Charlotte, je vois bien que vous ne me connaissez pas encore.
+Vous me faites grand tort de juger de moi par les autres ; et s'il y a
+des fourbes dans le monde, des gens qui ne cherchent qu'� abuser les
+filles, vous devez me tirer du nombre, et ne pas mettre en doute la
+sinc�rit� de ma foi : et puis votre beaut� vous assure de tout. Quand
+on est faite comme vous, on doit �tre � couvert de toutes ces sortes
+de craintes : vous n'avez point l'air, croyez-moi, d'une personne
+qu'on abuse ; et pour moi, je vous l'avoue, je me percerais le coeur
+de mille coups, si j'avais eu la moindre pens�e de vous trahir.
+
+- Charlotte -
+
+Mon Dieu ! je ne sais si vous dites vrai ou non ; mais vous faites que
+l'on vous croit.
+
+- Don Juan -
+
+Lorsque vous me croirez, vous me rendrez justice assur�ment, et je
+vous r�it�re encore la promesse que je vous ai faite. Ne
+l'acceptez-vous pas ? et ne voulez-vous pas consentir � �tre ma femme ?
+
+- Charlotte -
+
+Oui, pourvu que ma tante le veuille.
+
+- Don Juan -
+
+Touchez donc l�, Charlotte, puisque vous le voulez bien de votre part.
+
+- Charlotte -
+
+Mais au moins, Monsieu, ne m'allez pas tromper, je vous prie ; il y
+aurait de la conscience � vous, et vous voyez comme j'y vais � la
+bonne foi.
+
+- Don Juan -
+
+Comment ! il semble que vous doutiez encore de ma sinc�rit� ?
+voulez-vous que je fasse des serments �pouvantables ? Que le ciel...
+
+- Charlotte -
+
+Mon Dieu, ne jurez point ! je vous crois.
+
+- Don Juan -
+
+Donnez-moi donc un petit baiser pour gage de votre parole.
+
+- Charlotte -
+
+Oh ! monsieu, attendez que je soyons mari�s, je vous
+prie. Apr�s �a, je vous baiserai tant que vous voudrez.
+
+- Don Juan -
+
+Eh bien, belle Charlotte, je veux tout ce que vous voulez,
+abandonnez-moi seulement votre main, et souffrez que, par mille
+baisers, je lui exprime le ravissement o� je suis...
+
+
+
+-----------
+
+
+Sc�ne III. - Don Juan, Sganarelle, Pierrot, Charlotte.
+
+
+- Pierrot -
+
+          (poussant Don Juan qui baise la main de Charlotte.)
+
+Tout doucement, Monsieu ; tenez-vous, s'il vous pla�t. Vous vous
+�chauffez trop, et vous pourriez gagner la pur�sie.
+
+- Don Juan -
+
+          (repoussant rudement Pierrot.)
+
+Qui m'am�ne cet impertinent ?
+
+- Pierrot -
+
+          (se mettant entre Don Juan et Charlotte.)
+
+Je vous dis qu'ous vous tegniez, et qu'ous ne caressiais point nos
+accord�es.
+
+- Don Juan -
+
+          (repoussant encore Pierrot.)
+
+Ah ! que de bruit !
+
+- Pierrot -
+
+Jerniguienne ! ce n'est pas comme �a qu'il faut pousser les gens.
+
+- Charlotte -
+
+          (prenant Pierrot par le bras.)
+
+Et laisse-le faire aussi, Piarrot.
+
+- Pierrot -
+
+Quement ! que je le laisse faire ! Je ne veux pas, moi.
+
+- Don Juan -
+
+Ah !
+
+- Pierrot -
+
+T�tiguienne ! par ce qu'ous �tes monsieu, vous viendrez caresser nos
+femmes � notre barbe ? Allez-v's-en caresser les v�tres.
+
+- Don Juan -
+
+Heu ?
+
+- Pierrot -
+
+Heu.
+
+          (Don Juan lui donne un soufflet.)
+
+T�tigu� ! ne me frappez pas.
+
+          (autre soufflet.)
+
+Oh ! jernigui� !
+
+          (autre soufflet.)
+
+Ventregu� !
+
+          (autre soufflet.)
+
+Palsangu� ! morguienne ! �a n'est pas bian de battre les gens, et
+ce n'est l� la r�compense de v's avoir sauv� d'�tre nay�.
+
+- Charlotte -
+
+Piarrot ! ne te f�che point.
+
+- Pierrot -
+
+Je me veux f�cher ; et t'es une vilaine, toi, d'endurer qu'on te
+cajole.
+
+- Charlotte -
+
+Oh ! Piarrot, ce n'est pas ce que tu penses. Ce monsieu veut
+m'�pouser, et tu ne dois pas te bouter en col�re.
+
+- Pierrot -
+
+Quement ? Jerni ! tu m'es promise.
+
+- Charlotte -
+
+�a n'y fait rien, Piarrot. Si tu m'aimes, ne dois-tu pas �tre bien
+aise que je devienne madame ?
+
+- Pierrot -
+
+Jernigu� ! non. J'aime mieux te voir crev�e que de te voir � un autre.
+
+- Charlotte -
+
+Va va, Piarrot, ne te mets point en peine. Si je sis madame, je te
+ferai gagner queuque chose, et tu apporteras du beurre et du fromage
+cheux nous.
+
+- Pierrot -
+
+Ventreguienne ! je gni en porterai jamais, quand tu m'en payerais deux
+fois autant. Est-ce donc comme �a que t'�coutes ce qu'il te dit ?
+Morguienne ! si j'avais su �a tant�t, je me serais bian gard� de le
+tirer de gliau, et je gli aurais baill� un bon coup d'aviron sur la
+t�te.
+
+- Don Juan -
+
+          (s'approchant de Pierrot pour le frapper.)
+
+Qu'est-ce que vous dites ?
+
+- Pierrot -
+
+          (se mettant derri�re Charlotte.)
+
+Jerniguienne ! je ne crains parsonne.
+
+- Don Juan -
+
+          (passant du c�t� o� est Pierrot.)
+
+Attendez-moi un peu.
+
+- Pierrot -
+
+          (repassant de l'autre c�t�.)
+
+Je me moque de tout, moi.
+
+- Don Juan -
+
+          (courant apr�s Pierrot.)
+
+Voyons cela.
+
+- Pierrot -
+
+          (se sauvant encore derri�re Charlotte.)
+
+J'en avons bian veu d'autres.
+
+- Don Juan -
+
+Ouais !
+
+- Sganarelle -
+
+Eh ! Monsieur, laissez l� ce pauvre mis�rable. C'est conscience de le
+battre.
+
+          (� Pierrot, en se mettant entre lui et Don Juan.)
+
+Ecoute, mon pauvre gar�on, retire-toi, et ne lui dis rien.
+
+- Pierrot -
+
+          (passant devant Sganarelle, et regardant fi�rement Don Juan.)
+
+Je veux lui dire, moi !
+
+- Don Juan -
+
+          (levant la main pour donner un soufflet � Pierrot.)
+
+Ah ! je vous apprendrai...
+
+          (Pierrot baisse la t�te, et Sganarelle re�oit le soufflet.)
+
+- Sganarelle -
+
+          (regardant Pierrot.)
+
+Peste soit du maroufle !
+
+- Don Juan -
+
+          (� Sganarelle.)
+
+Te voil� pay� de ta charit�.
+
+- Pierrot -
+
+Jarni ! je vas dire � sa tante tout ce m�nage-ci.
+
+
+
+-----------
+
+
+Sc�ne IV. - Don Juan, Charlotte, Sganarelle.
+
+
+- Don Juan -
+
+          (� Charlotte.)
+
+Enfin, je m'en vais �tre le plus heureux de tous les hommes, et je ne
+changerais pas mon bonheur contre toutes les choses du monde. Que de
+plaisirs quand vous serez ma femme, et que...
+
+
+
+-----------
+
+
+Sc�ne V. - Don Juan, Mathurine, Charlotte, Sganarelle.
+
+
+- Sganarelle -
+
+          (apercevant Mathurine.)
+
+Ah ! ah !
+
+- Mathurine -
+
+          (� Don Juan.)
+
+Monsieu, que faites-vous donc l� avec Charlotte ? Est-ce que vous lui
+parlez d'amour aussi ?
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Non. Au contraire, c'est elle qui me t�moignait une envie d'�tre ma
+femme, et je lui r�pondais que j'�tais engag� avec vous.
+
+- Charlotte -
+
+          (� Don Juan.)
+
+Qu'est-ce que c'est donc que vous veut Mathurine ?
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+Elle est jalouse de me voir vous parler, et voudrait bien que je
+l'�pousasse ; mais je lui dis que c'est vous que je veux.
+
+- Mathurine -
+
+Quoi ! Charlotte...
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Tout ce que vous lui direz sera inutile ; elle s'est mis cela dans la
+t�te.
+
+- Charlotte -
+
+Quement donc ! Mathurine...
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+C'est en vain que vous lui parlerez : vous ne lui �terez point cette
+fantaisie.
+
+- Mathurine -
+
+Est-ce que...
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Il n'y a pas moyen de lui faire entendre raison.
+
+- Charlotte -
+
+Je voudrais...
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+Elle est obstin�e comme tous les diables.
+
+- Mathurine -
+
+Vraiment...
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Ne lui dites rien, c'est une folle.
+
+- Charlotte -
+
+Je pense...
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+Laissez-la l�, c'est une extravagante.
+
+- Mathurine -
+
+Non, non, il faut que je lui parle.
+
+- Charlotte -
+
+Je veux voir un peu ses raisons.
+
+- Mathurine -
+
+Quoi !...
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Je gage qu'elle va vous dire que je lui ai promis de l'�pouser.
+
+- Charlotte -
+
+Je...
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+Gageons qu'elle vous soutiendra que je lui ai donn� parole de la
+prendre pour femme.
+
+- Mathurine -
+
+Hol� ! Charlotte, �a n'est pas bian de courir su le march� des autres.
+
+- Charlotte -
+
+�a n'est pas honn�te, Mathurine, d'�tre jalouse que monsieu me parle.
+
+- Mathurine -
+
+C'est moi que monsieu a vue la premi�re.
+
+- Charlotte -
+
+S'il vous a vue la premi�re, il m'a vue la seconde, et m'a promis de
+m'�pouser.
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Et bien ! que vous ai-je dit ?
+
+- Mathurine -
+
+Je vous baise les mains ; c'est moi, et non pas vous qu'il
+a promis d'�pouser.
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+N'ai-je pas devin� ?
+
+- Charlotte -
+
+A d'autres, je vous prie ; c'est moi, vous dis-je.
+
+- Mathurine -
+
+Vous vous moquez des gens ; c'est moi, encore un coup.
+
+- Charlotte -
+
+Le v'l� qui est pour le dire, si je n'ai pas raison.
+
+- Mathurine -
+
+Le v'l� qui est pour me d�mentir, si je ne dis pas vrai.
+
+- Charlotte -
+
+Est-ce, Monsieu, que vous lui avez promis de l'�pouser ?
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+Vous vous raillez de moi.
+
+- Mathurine -
+
+Est-il vrai, Monsieu, que vous lui avez donn� parole d'�tre son mari ?
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Pouvez-vous avoir cette pens�e ?
+
+- Charlotte -
+
+Vous voyez qu'al le soutient.
+
+- Don Juan -
+
+          (bas, � Charlotte.)
+
+Laissez-la faire.
+
+- Mathurine -
+
+Vous �tes t�moin comme al l'assure.
+
+
+- Don Juan -
+
+          (bas, � Mathurine.)
+
+Laissez-la dire.
+
+- Charlotte -
+
+Non, non, il faut savoir la v�rit�.
+
+- Mathurine -
+
+Il est question de juger �a.
+
+- Charlotte -
+
+Oui, Mathurine, je veux que monsieu vous montre votre bec jaune (8).
+
+- Mathurine -
+
+Oui, Charlotte, je veux que monsieu vous rende un peu camuse (9).
+
+- Charlotte -
+
+Monsieur, videz la querelle, s'il vous pla�t.
+
+- Mathurine -
+
+Mettez-nous d'accord, Monsieu.
+
+- Charlotte -
+
+          (� Mathurine.)
+
+Vous allez voir.
+
+- Mathurine -
+
+          (� Charlotte.)
+
+Vous allez voir vous m�me.
+
+- Charlotte -
+
+          (� Don Juan.)
+
+Dites.
+
+- Mathurine -
+
+          (� Don Juan.)
+
+Parlez.
+
+- Don Juan -
+
+Que voulez-vous que je dise ? vous soutenez �galement
+toutes deux que je vous ai promis de vous prendre pour
+femmes. Est-ce que chacune de vous ne sait pas ce qui
+en est, sans qu'il soit n�cessaire que je m'explique davantage ?
+Pourquoi m'obliger l�-dessus � des redites ? Celle �
+qui j'ai promis effectivement n'a-t-elle pas, en elle-m�me
+de quoi se moquer des discours de l'autre, et doit-elle se
+mettre en peine, pourvu que j'accomplisse ma promesse ?
+Tous les discours n'avancent point les choses. Il faut faire,
+et non pas dire ; et les effets d�cident mieux que les paroles.
+Aussi n'est-ce rien que par l� que je vous veux mettre
+d'accord ; et l'on verra, quand je me marierai, laquelle des
+deux a mon coeur.
+
+          (bas, � Mathurine.)
+
+Laissez-lui croire ce qu'elle voudra.
+
+          (bas, � Charlotte.)
+
+Laissez-la se flatter dans son imagination.
+
+          (bas, � Mathurine.)
+
+Je vous adore.
+
+          (bas, � Charlotte.)
+
+Je suis tout � vous.
+
+          (bas, � Mathurine.)
+
+Tous les visages sont laids aupr�s du v�tre.
+
+          (bas, � Charlotte.)
+
+On ne peut plus souffrir les autres quand on vous a vue.
+
+          (haut.)
+
+J'ai un petit ordre � donner, je viens vous retrouver dans un quart
+d'heure.
+
+
+
+-----------
+
+
+Sc�ne VI. - Charlotte, Mathurine, Sganarelle.
+
+
+- Charlotte -
+
+          (� Mathurine.)
+
+Je suis celle qu'il aime, au moins.
+
+- Mathurine -
+
+          (� Charlotte.)
+
+C'est moi qu'il �pousera.
+
+- Sganarelle -
+
+          (arr�tant Charlotte et Mathurine.)
+
+Ah ! pauvres filles que vous �tes, j'ai piti� de votre innocence, et
+je ne puis souffrir de vous voir courir � votre malheur. Croyez-moi
+l'une et l'autre : ne vous amusez point � tous les contes qu'on vous
+fait, et demeurez dans votre village.
+
+
+
+-----------
+
+
+Sc�ne VII. - Don Juan, Charlotte, Mathurine, Sganarelle.
+
+
+- Don Juan -
+
+          (dans le fond du th��tre, � part.)
+
+Je voudrais bien savoir pourquoi Sganarelle ne me suit pas.
+
+- Sganarelle -
+
+          (� ces filles.)
+
+Mon ma�tre est un fourbe ; il n'a dessein que de vous abuser, et en a
+bien abus� d'autres : c'est l'�pouseur du genre humain, et...
+
+          (apercevant Don Juan.)
+
+cela est faux ; et quiconque vous dira cela, vous lui devez dire qu'il en a
+menti. Mon ma�tre n'est point l'�pouseur du genre humain, il n'est point
+fourbe, il n'a pas dessein de vous tromper, et n'en a point abus� d'autres.
+Ah ! tenez, le voil�, demandez-le plut�t � lui-m�me.
+
+- Don Juan -
+
+          (regardant Sganarelle, et le soup�onnant d'avoir parl�.)
+
+Oui !
+
+- Sganarelle -
+
+Monsieur, comme le monde est plein de m�disants, je vais au devant
+des choses ; et je leur disais que, si quelqu'un leur venait dire du
+mal de vous, elles se gardassent bien de le croire, et ne manquassent
+pas de lui dire qu'il en aurait menti.
+
+- Don Juan -
+
+Sganarelle !
+
+- Sganarelle -
+
+          (� Charlotte et � Mathurine.)
+
+Oui, monsieur est homme d'honneur ; je le garantis tel.
+
+- Don Juan -
+
+Hon !
+
+- Sganarelle -
+
+Ce sont des impertinents.
+
+
+
+-----------
+
+
+Sc�ne VIII. - Don Juan, La Ram�e, Charlotte, Mathurine, Sganarelle.
+
+
+- La Ram�e -
+
+          (bas, � Don Juan.)
+
+Monsieur, je viens vous avertir qu'il ne fait pas bon ici pour vous.
+
+- Don Juan -
+
+Comment ?
+
+- La Ram�e -
+
+Douze hommes � cheval vous cherchent, qui doivent arriver ici dans un
+moment ; je ne sais pas par quel moyen ils peuvent vous avoir suivi ;
+mais j'ai appris cette nouvelle d'un paysan qu'ils ont interrog�, et
+auquel ils vous ont d�peint. L'affaire presse, et le plus t�t que vous
+pourrez sortir d'ici sera le meilleur.
+
+
+
+-----------
+
+
+Sc�ne IX. - Don Juan, Charlotte, Mathurine, Sganarelle.
+
+
+- Don Juan -
+
+          (� Charlotte et � Mathurine.)
+
+Une affaire pressante m'oblige de partir d'ici ; mais je
+vous prie de vous ressouvenir de la parole que je vous ai
+donn�e, et de croire que vous aurez de mes nouvelles avant
+qu'il soit demain au soir.
+
+
+
+-----------
+
+
+Sc�ne X. - Don Juan, Sganarelle.
+
+
+- Don Juan -
+
+Comme la partie n'est pas �gale, il faut user de stratag�me, et �luder
+adroitement le malheur qui me cherche. Je veux que Sganarelle se
+rev�te de mes habits ; et moi...
+
+- Sganarelle -
+
+Monsieur, vous vous moquez. M'exposer � �tre tu� sous vos habits, et...
+
+- Don Juan -
+
+Allons vite, c'est trop d'honneur que je vous fais ; et bien heureux
+est le valet qui peut avoir la gloire de mourir pour son ma�tre.
+
+- Sganarelle -
+
+Je vous remercie d'un tel honneur.
+
+          (seul.)
+
+O ciel ! puisqu'il s'agit de mort, fais-moi la gr�ce de n'�tre point
+pris pour un autre !
+
+
+
+ACTE TROISIEME.
+---------------
+
+Le th��tre repr�sente une for�t.
+
+
+Sc�ne premi�re (10). - Don Juan, en habit de campagne; Sganarelle, en m�decin.
+
+
+- Sganarelle -
+
+Ma foi, Monsieur, avouez que j'ai eu raison, et que nous voil� l'un et
+l'autre d�guis�s � merveille. Votre premier dessein n'�tait point du
+tout � propos, et ceci nous cache bien mieux que tout ce que vous
+vouliez faire.
+
+- Don Juan -
+
+Il est vrai que te voil� bien, et je ne sais o� tu as �t� d�terrer cet
+attirail ridicule.
+
+- Sganarelle -
+
+Oui ? c'est l'habit d'un vieux m�decin, qui a �t� laiss� en gage au
+lieu o� je l'ai pris, et il m'en a co�t� de l'argent pour
+l'avoir. Mais savez-vous, Monsieur, que cet habit me met d�j� en
+consid�ration, que je suis salu� des gens que je rencontre, et que
+l'on me vient consulter ainsi qu'un habile homme ?
+
+- Don Juan -
+
+Comment donc ?
+
+- Sganarelle -
+
+Cinq ou six paysans et paysannes, en me voyant passer, me sont venus
+demander mon avis sur diff�rentes maladies.
+
+- Don Juan -
+
+Tu leur as r�pondu que tu n'y entendais rien ?
+
+- Sganarelle -
+
+Moi ? point du tout. J'ai voulu soutenir l'honneur de mon habit : j'ai
+raisonn� sur le mal, et leur ai fait des ordonnances � chacun.
+
+- Don Juan -
+
+Et quels rem�des encore leur as-tu ordonn�s ?
+
+- Sganarelle -
+
+Ma foi, Monsieur, j'en ai pris par o� j'en ai pu attraper ; j'ai fait
+mes ordonnances � l'aventure, et ce serait une chose plaisante si les
+malades gu�rissaient, et qu'on m'en v�nt remercier.
+
+- Don Juan -
+
+Et pourquoi non ? Par quelle raison n'aurais-tu pas les m�mes
+privil�ges qu'ont tous les autres m�decins ? Ils n'ont pas plus de
+part que toi aux gu�risons des malades, et tout leur art est pure
+grimace. Ils ne font rien que recevoir la gloire des heureux succ�s ;
+et tu peux profiter, comme eux, du bonheur du malade, et voir
+attribuer � tes rem�des tout ce qui peut venir des faveurs du hasard
+et des forces de la nature.
+
+- Sganarelle -
+
+Comment, Monsieur, vous �tes aussi impie en m�decine ?
+
+- Don Juan -
+
+C'est une des grandes erreurs qui soient parmi les hommes.
+
+- Sganarelle -
+
+Quoi ! vous ne croyez pas au s�n�, ni � la casse, ni au
+vin �m�tique ?
+
+- Don Juan -
+
+Et pourquoi veux-tu que j'y croie ?
+
+- Sganarelle -
+
+Vous avez l'�me bien m�cr�ante. Cependant vous voyez depuis un temps
+que le vin �m�tique fait bruire ses fuseaux. Ses miracles ont converti
+les plus incr�dules esprits : et il n'y a pas trois semaines que j'en
+ai vu, moi qui vous parle, un effet merveilleux.
+
+- Don Juan -
+
+Et quel ?
+
+- Sganarelle -
+
+Il y avait un homme qui, depuis six jours, �tait � l'agonie ; on ne
+savait plus que lui ordonner, et tous les rem�des ne faisaient rien ;
+on s'avisa � la fin de lui donner de l'�m�tique.
+
+- Don Juan -
+
+Il r�chappa, n'est-ce pas ?
+
+- Sganarelle -
+
+Non, il mourut.
+
+- Don Juan -
+
+L'effet est admirable.
+
+- Sganarelle -
+
+Comment ! il y avait six jours entiers qu'il ne pouvait mourir, et
+cela le fit mourir tout d'un coup. Voulez-vous rien de plus efficace ?
+
+- Don Juan -
+
+Tu as raison.
+
+- Sganarelle -
+
+Mais laissons la m�decine o� vous ne croyez point, et parlons des
+autres choses ; car cet habit me donne de l'esprit, et je me sens en
+humeur de disputer contre vous. Vous savez bien que vous me permettez
+les disputes, et que vous ne me d�fendez que les remontrances.
+
+- Don Juan -
+
+Eh bien ?
+
+- Sganarelle -
+
+Je veux savoir un peu vos pens�es � fond. Est-il possible que vous ne
+croyez point du tout au ciel ?
+
+- Don Juan -
+
+Laissons cela.
+
+- Sganarelle -
+
+C'est-�-dire que non. Et � l'enfer ?
+
+- Don Juan -
+
+Eh !
+
+- Sganarelle -
+
+Tout de m�me. Et au diable s'il vous pla�t ?
+
+- Don Juan -
+
+Oui, oui.
+
+- Sganarelle -
+
+Aussi peu. Ne croyez-vous point � l'autre vie ?
+
+- Don Juan -
+
+Ah ! ah ! ah !
+
+- Sganarelle -
+
+Voil� un homme que j'aurai bien de la peine � convertir. Et dites-moi
+un peu, [le moine bourru, qu'en croyez-vous ? eh !
+
+- Don Juan -
+
+La peste soit du fat !
+
+- Sganarelle -
+
+Et voil� ce que je ne puis souffrir : car il n'y a rien de plus vrai
+que le moine bourru, et je me ferais pendre pour celui-l� (11). Mais]
+encore faut-il croire quelque chose [dans le monde], qu'est-ce [donc]
+que vous croyez ?
+
+- Don Juan -
+
+Ce que je crois ?
+
+- Sganarelle -
+
+Oui.
+
+- Don Juan -
+
+Je crois que deux et deux sont quatre, Sganarelle, et
+que quatre et quatre sont huit.
+
+- Sganarelle -
+
+La belle croyance [et les beaux articles de foi] que voil� ! Votre
+religion, � ce que je vois, est donc l'arithm�tique ? Il faut avouer
+qu'il se met d'�tranges folies dans la t�te des hommes, et que, pour
+avoir bien �tudi�, on est bien moins sage le plus souvent. Pour
+moi, Monsieur, je n'ai point �tudi� comme vous, Dieu merci, et
+personne ne saurait se vanter de m'avoir jamais rien appris ; mais
+avec mon petit sens, mon petit jugement, je vois les choses mieux que
+tous les livres, et je comprends fort bien que ce monde que nous
+voyons n'est pas un champignon qui soit venu tout seul en une nuit. Je
+voudrais bien vous demander qui a fait ces arbres-l�, ces rochers,
+cette terre, et ce ciel que voil� l�-haut ; et si tout cela s'est b�ti
+de lui-m�me. Vous voil�, vous, par exemple, vous �tes l� : est-ce que
+vous vous �tes fait tout seul, et n'a-t-il pas fallu que votre p�re
+ait engross� votre m�re pour vous faire ? Pouvez-vous voir toutes les
+inventions dont la machine de l'homme est compos�e, sans admirer de
+quelle fa�on cela est agenc� l'un dans l'autre ? ces nerfs, ces os,
+ces veines, ces art�res, ces... ce poumon, ce coeur, ce foie, et tous
+ces autres ingr�dients qui sont l�, et qui... Oh ! dame,
+interrompez-moi donc, si vous voulez. Je ne saurais disputer si l'on
+ne m'interrompt. Vous vous taisez expr�s, et me laissez parler par
+belle malice.
+
+- Don Juan -
+
+J'attends que ton raisonnement soit fini.
+
+- Sganarelle -
+
+Mon raisonnement est qu'il y a quelque chose d'admirable dans l'homme,
+quoi que vous puissiez dire, que tous les savants ne sauraient
+expliquer. Cela n'est-il pas merveilleux que me voil� ici, et que
+j'aie quelque chose dans la t�te qui pense cent choses diff�rentes en
+un moment, et fait de mon corps tout ce qu'elle veut ? Je veux frapper
+des mains, hausser le bras, lever les yeux au ciel, baisser la t�te,
+remuer les pieds, aller � droite, � gauche, en avant, en arri�re,
+tourner...
+
+          (Il se laisse tomber en tournant.)
+
+- Don Juan -
+
+Bon ! Voil� ton raisonnement qui a le nez cass�.
+
+- Sganarelle -
+
+Morbleu ! je suis bien sot de m'amuser � raisonner avec vous ; croyez
+ce que vous voudrez, il m'importe bien que vous soyez damn� !
+
+- Don Juan -
+
+Mais tout en raisonnant, je crois que nous nous sommes �gar�s.
+Appelle un peu cet homme que voil� l�-bas, pour lui demander le
+chemin.
+
+
+
+-----------
+
+
+Sc�ne II. - Don Juan, Sganarelle, un pauvre.
+
+
+- Sganarelle -
+
+Hol� ! ho ! l'homme ! ho ! mon comp�re ! ho ! l'ami ! un petit mot,
+s'il vous pla�t. Enseignez-nous un peu le chemin qui m�ne � la
+ville.
+
+- Le pauvre -
+
+Vous n'avez qu'� suivre cette route, Messieurs, et d�tourner � main
+droite quand vous serez au bout de la for�t ; mais je vous donne avis
+que vous devez vous tenir sur vos gardes, et que, depuis quelque
+temps, il y a des voleurs ici autour.
+
+- Don Juan -
+
+Je te suis oblig�, mon ami, et je te rends gr�ce de tout mon coeur.
+
+- Le pauvre -
+
+Si vous vouliez me secourir, Monsieur, de quelque aum�ne ?
+
+- Don Juan -
+
+Ah ! ah ! ton avis est int�ress�, � ce que je vois.
+
+- Le pauvre -
+
+Je suis un pauvre homme, Monsieur, retir� tout seul dans le bois
+depuis dix ans, et je ne manquerai pas de prier le ciel qu'il vous
+donne toute sorte de biens.
+
+- Don Juan -
+
+Eh ! prie le qu'il te donne un habit, sans te mettre en peine des
+affaires des autres.
+
+- Sganarelle -
+
+Vous ne connaissez pas monsieur, bonhomme ; il ne croit qu'en deux et
+deux sont quatre, et en quatre et quatre sont huit.
+
+- Don Juan -
+
+Quelle est ton occupation parmi ces arbres ?
+
+- Le pauvre -
+
+De prier le ciel tout le jour pour la prosp�rit� des gens de bien qui
+me donnent quelque chose.
+
+- Don Juan -
+
+Il ne se peut donc pas que tu ne sois bien � ton aise ?
+
+- Le pauvre -
+
+H�las ! Monsieur, je suis dans la plus grande n�cessit� du monde.
+
+- Don Juan -
+
+Tu te moques : un homme qui prie le ciel tout le jour ne peut pas
+manquer d'�tre bien dans ses affaires.
+
+- Le pauvre -
+
+Je vous assure, Monsieur, que le plus souvent je n'ai pas un morceau
+de pain � mettre sous les dents.
+
+- Don Juan -
+
+Voil� qui est �trange, et tu es bien mal reconnu de tes soins. Ah ! ah
+! je m'en vais te donner un louis d'or tout � l'heure, pourvu que tu
+veuilles jurer.
+
+- Le pauvre -
+
+Ah ! Monsieur, voudriez-vous que je commisse un tel p�ch� ?
+
+- Don Juan -
+
+Tu n'as qu'� voir si tu veux gagner un louis d'or, ou non ; en voici
+un que je te donne, si tu jures. Tiens : il faut jurer.
+
+- Le pauvre -
+
+Monsieur...
+
+- Don Juan -
+
+A moins de cela, tu ne l'auras pas.
+
+- Sganarelle -
+
+Va, va, jure un peu : il n'y a pas de mal.
+
+- Don Juan -
+
+Prends, le voil�, prends, te dis-je ; mais jure donc.
+
+- Le pauvre -
+
+Non, Monsieur, j'aime mieux mourir de faim.
+
+- Don Juan -
+
+Va va, je te le donne pour l'amour de l'humanit�.
+
+          (Regardant dans la for�t.)
+
+Mais que vois-je l� ? un homme attaqu� par trois autres ! La partie
+est trop in�gale, et je ne dois pas souffrir cette l�chet�.
+
+          (Il met l'�p�e � la main, et court au lieu du combat.)
+
+
+
+-----------
+
+
+Sc�ne III. - Sganarelle.
+
+
+- Sganarelle -
+
+Mon ma�tre est un vrai enrag�, d'aller se pr�senter � un p�ril qui ne
+le cherche pas. Mais, ma foi, le secours a servi, et les deux ont fait
+fuir les trois.
+
+
+
+-----------
+
+
+Sc�ne IV. - Don Juan, Don Carlos, Sganarelle, au fond de th��tre.
+
+
+- Don Carlos -
+
+          (remettant son �p�e.)
+
+On voit, par la fuite de ces voleurs, de quel secours est votre
+bras. Souffrez, Monsieur, que je vous rende gr�ces d'une action si
+g�n�reuse, et que...
+
+- Don Juan -
+
+Je n'ai rien fait, Monsieur, que vous n'eussiez fait en ma place.
+Notre propre honneur est int�ress� dans de pareilles aventures ; et
+l'action de ces coquins �tait si l�che, que c'e�t �t� y prendre part
+que de ne s'y pas opposer. Mais par quelle rencontre vous �tes-vous
+trouv� entre leurs mains ?
+
+- Don Carlos -
+
+Je m'�tais, par hasard, �gar� d'un fr�re et de tous ceux de notre
+suite ; et comme je cherchais � les rejoindre, j'ai fait rencontre de
+ces voleurs, qui d'abord ont tu� mon cheval, et qui sans votre valeur
+en auraient fait autant de moi.
+
+- Don Juan -
+
+Votre dessein est-il d'aller du c�t� de la ville ?
+
+- Don Carlos -
+
+Oui, mais sans y vouloir entrer ; et nous nous voyons oblig�s, mon
+fr�re et moi, � tenir la campagne pour une de ces f�cheuses affaires
+qui r�duisent les gentilshommes � se sacrifier, eux et leur famille, �
+la s�v�rit� de leur honneur, puisqu'enfin le plus doux succ�s en est
+toujours funeste, et que, si l'on ne quitte pas la vie, on est
+contraint de quiter le royaume ; et c'est en quoi je trouve la
+condition d'un gentilhomme malheureuse, de ne pouvoir point s'assurer
+sur toute la prudence et toute l'honn�tet� de sa conduite, d'�tre
+asservi par les lois de l'honneur au d�r�glement de la conduite
+d'autrui, et de voir sa vie, son repos et ses biens d�pendre de la
+fantaisie du premier t�m�raire qui s'avisera de lui faire une de ces
+injures pour qui un honn�te homme doit p�rir.
+
+- Don Juan -
+
+On a cet avantage, qu'on fait courir le m�me risque et passer mal
+aussi le temps � ceux qui prennent fantaisie de nous venir faire une
+offense de gaiet� de coeur. Mais ne serait-ce point une indiscr�tion
+que de vous demander quelle peut �tre votre affaire ?
+
+- Don Carlos -
+
+La chose en est aux termes de n'en plus faire de secret ; et lorsque
+l'injure a une fois �clat�, notre honneur ne va point � vouloir cacher
+notre honte, mais � faire �clater notre vengeance, et � publier m�me
+le dessein que nous en avons. Ainsi, Monsieur, je ne feindrai point de
+vous dire que l'offense que nous cherchons � venger est une soeur
+s�duite et enlev�e d'un couvent, et que l'auteur de cette offense est
+un Don Juan Tenorio, fils de Don Louis Tenorio. Nous le cherchons depuis
+quelques jours, et nous l'avons suivi ce matin sur le rapport d'un
+valet, qui nous a dit qu'il sortait � cheval, accompagn� de quatre ou
+cinq, et qu'il avait pris le long de cette c�te ; mais tous nos soins
+ont �t� inutiles, et nous n'avons pu d�couvrir ce qu'il est devenu.
+
+- Don Juan -
+
+Le connaissez-vous, Monsieur, ce Don Juan dont vous parlez ?
+
+- Don Carlos -
+
+Non, quant � moi ; je ne l'ai jamais vu, et je l'ai seulement ou�
+d�peindre � mon fr�re, mais la renomm�e n'en dit pas force bien, et
+c'est un homme dont la vie...
+
+- Don Juan -
+
+Arr�tez, Monsieur, s'il vous pla�t. Il est un peu de mes amis, et ce
+serait � moi une esp�ce de l�chet� que d'en ou�r dire du mal.
+
+- Don Carlos -
+
+Pour l'amour de vous, Monsieur, je n'en dirai rien du tout, et c'est
+bien la moindre chose que je vous doive, apr�s m'avoir sauv� la vie,
+que de me taire devant vous d'une personne que vous connaissez,
+lorsque je ne puis en parler sans en dire du mal ; mais quelque ami
+que vous lui soyez, j'ose esp�rer que vous n'approuverez pas son
+action, et ne trouverez pas �trange que nous cherchions d'en prendre
+la vengeance.
+
+- Don Juan -
+
+Au contraire, je vous y veux servir, et vous �pargner des soins
+inutiles. Je suis ami de don Juan, je ne puis pas m'en emp�cher ; mais
+il n'est pas raisonnable qu'il offense impun�ment des gentilshommes,
+et je m'engage � vous faire faire raison par lui.
+
+- Don Carlos -
+
+Et quelle raison peut-on faire � ces sortes d'injures ?
+
+- Don Juan -
+
+Toute celle que votre honneur peut souhaiter ; et sans vous donner la
+peine de chercher Don Juan davantage, je m'oblige � le faire trouver
+au lieu que vous voudrez, et quand il vous plaira.
+
+- Don Carlos -
+
+Cet espoir est bien doux, Monsieur, � des coeurs offens�s ; mais,
+apr�s ce que je vous dois, ce me serait une trop sensible douleur que
+vous fussiez de la partie.
+
+- Don Juan -
+
+Je suis si attach� � don Juan, qu'il ne saurait se battre que je ne me
+batte aussi : mais enfin j'en r�ponds comme de moi-m�me, et vous
+n'avez qu'� dire quand vous voulez qu'il paraisse, et vous donne
+satisfaction.
+
+- Don Carlos -
+
+Que ma destin�e est cruelle ! faut-il que je vous doive la vie, et que
+D. Juan soit de vos amis !
+
+
+
+-----------
+
+
+Sc�ne V. - Don Alonse, Don Carlos, Don Juan, Sganarelle.
+
+
+- Don Alonse -
+
+          (parlant � ceux de sa suite, sans voir Don Carlos ni Don Juan.)
+
+Faites boire l� mes chevaux, et qu'on les am�ne apr�s
+nous : je veux un peu marcher � pied.
+
+          (les apercevant tous les deux.)
+
+O ciel, que vois-je ici ? Quoi ! mon fr�re, vous voila avec notre
+ennemi mortel !
+
+- Don Carlos -
+
+Notre ennemi mortel ?
+
+- Don Juan -
+
+          (mettant la main sur la garde de son �p�e.)
+
+Oui, je suis Don Juan moi-m�me ; et l'avantage du nombre ne m'obligera
+pas � vouloir d�guiser mon nom.
+
+- Don Alonse -
+
+          (mettant l'�p�e � la main.)
+
+Ah, tra�tre, il faut que tu p�risses, et...
+
+          (Sganarelle court se cacher.)
+
+- Don Carlos -
+
+Ah ! mon fr�re, arr�tez. Je lui suis redevable de la vie ; et, sans le
+secours de son bras, j'aurais �t� tu� par des voleurs que j'ai trouv�s.
+
+- Don Alonse -
+
+Et voulez-vous que cette consid�ration emp�che notre vengeance ? Tous
+les services que nous rend une main ennemie, ne sont d'aucun m�rite
+pour engager notre �me ; et s'il faut mesurer l'obligation � l'injure,
+votre reconnaissance, mon fr�re, est ici ridicule ; et comme l'honneur
+est infiniment plus pr�cieux que la vie, c'est ne devoir rien
+proprement que d'�tre redevable de la vie � qui nous a �t� l'honneur.
+
+- Don Carlos -
+
+Je sais la diff�rence, mon fr�re, qu'un gentilhomme doit toujours
+mettre entre l'un et l'autre ; et la reconnaissance de l'obligation
+n'efface point en moi le ressentiment de l'injure ; mais souffrez que
+je lui rende ici ce qu'il m'a pr�t�, que je m'acquitte sur-le-champ de
+la vie que je lui dois, par un delai de notre vengeance, et lui laisse
+la libert� de jouir, durant quelques jours, du fruit de son bienfait.
+
+- Don Alonse -
+
+Non, non, c'est hasarder notre vengeance que de la reculer, et
+l'occasion de la prendre peut ne plus revenir. Le ciel nous l'offre
+ici, c'est � nous d'en profiter. Lorsque l'honneur est bless�
+mortellement, on ne doit point songer � garder aucunes mesures ; et si
+vous r�pugnez � pr�ter votre bras � cette action, vous n'avez qu'�
+vous retirer, et laisser � ma main la gloire d'un tel sacrifice.
+
+- Don Carlos -
+
+De gr�ce, mon fr�re...
+
+- Don Alonse -
+
+Tous ces discours sont superflus : il faut qu'il meure.
+
+- Don Carlos -
+
+Arr�tez, vous dis-je, mon fr�re. Je ne souffrirai point du tout qu'on
+attaque ses jours ; et je jure le ciel que je le d�fendrai ici contre
+qui que ce soit, et je saurai lui faire un rempart de cette m�me vie
+qu'il a sauv�e ; et, pour adresser vos coups, il faudra que vous me
+perciez.
+
+- Don Alonse -
+
+Quoi ! vous prenez le parti de notre ennemi contre moi, et, loin
+d'�tre saisi � son aspect des m�mes transports que je sens, vous
+faites voir pour lui des sentiments pleins de douceur !
+
+- Don Carlos -
+
+Mon fr�re, montrons de la mod�ration dans une action l�gitime ; et ne
+vengeons point notre honneur avec cet emportement que vous t�moignez.
+Ayons du coeur dont nous soyons les ma�tres, une valeur qui n'ait rien
+de farouche, et qui se porte aux choses par une pure d�lib�ration de
+notre raison, et non point par le mouvement d'une aveugle col�re. Je
+ne veux point, mon fr�re, demeurer redevable � mon ennemi, je lui ai
+une obligation dont il faut que je m'acquitte avant toute chose.
+Notre vengeance, pour �tre diff�r�e, n'en sera pas moins �clatante ;
+au contraire, elle en tirera de l'avantage, et cette occasion de
+l'avoir pu prendre la fera para�tre plus juste aux yeux de tout le
+monde.
+
+- Don Alonse -
+
+O l'�trange faiblesse, et l'aveuglement effroyable, de hasarder ainsi
+les int�r�ts de son honneur pour la ridicule pens�e d'une obligation
+chim�rique !
+
+- Don Carlos -
+
+Non, mon fr�re, ne vous mettez pas en peine. Si je fais une faute, je
+saurai bien la r�parer, et je me charge de tout le soin de notre
+honneur ; je sais � quoi il nous oblige, et cette suspension d'un
+jour, que ma reconnaissance lui demande, ne fera qu'augmenter l'ardeur
+que j'ai de le satisfaire. Don Juan, vous voyez que j'ai soin de vous
+rendre le bien que j'ai re�u de vous, et vous devez par l� juger du
+reste, croire que je m'acquitte avec la m�me chaleur de ce que je
+dois, et que je ne serai pas moins exact � vous payer l'injure que le
+bienfait. Je ne veux point vous obliger ici � expliquer vos
+sentiments, et je vous donne la libert� de penser � loisir aux
+r�solutions que vous avez � prendre. Vous connaissez assez la grandeur
+de l'offense que vous nous avez faite, et je vous fais juge vous m�me
+des r�parations qu'elle demande. Il est des moyens doux pour nous
+satisfaire ; il en est de violents et de sanglants : mais enfin,
+quelque choix que vous fassiez, vous m'avez donn� parole de me faire
+faire raison par Don Juan. Songez � me la faire, je vous prie, et vous
+ressouvenez que, hors d'ici, je ne dois plus qu'� mon honneur.
+
+- Don Juan -
+
+Je n'ai rien exig� de vous, et vous tiendrai ce que j'ai promis.
+
+- Don Carlos -
+
+Allons, mon fr�re ; un moment de douceur ne fait aucune injure � la
+s�v�rit� de notre devoir.
+
+
+
+-----------
+
+
+Sc�ne VI. - Don Juan, Sganarelle.
+
+
+- Don Juan -
+
+Hol� ! h� ! Sganarelle !
+
+- Sganarelle -
+
+          (sortant de l'endroit o� il �tait cach�.)
+
+Pla�t-il ?
+
+- Don Juan -
+
+Comment ! coquin, tu fuis quand on m'attaque ?
+
+- Sganarelle -
+
+Pardonnez-moi, Monsieur, je viens seulement d'ici pr�s. Je crois que
+cet habit est purgatif, et que c'est prendre m�decine que de le
+porter.
+
+- Don Juan -
+
+Peste soit l'insolent ! Couvre au moins ta poltronnerie d'un voile
+plus honn�te. Sais-tu bien qui est celui � qui j'ai sauv� la vie ?
+
+- Sganarelle -
+
+Moy ? non.
+
+- Don Juan -
+
+C'est un fr�re d'Elvire.
+
+- Sganarelle -
+
+Un...
+
+- Don Juan -
+
+Il est assez honn�te homme, il en a bien us�, et j'ai regret d'avoir
+d�m�l� avec lui.
+
+- Sganarelle -
+
+Il vous serait ais� de pacifier toutes choses.
+
+- Don Juan -
+
+Oui ; mais ma passion est us�e pour Done Elvire, et l'engagement ne
+compatit point avec mon humeur. J'aime la libert� en amour, tu le
+sais, et je ne saurais me r�soudre � renfermer mon coeur entre quatre
+murailles. Je te l'ai dit vingt fois, j'ai une pente naturelle � me
+laisser aller � tout ce qui m'attire. Mon coeur est � toutes les
+belles, et c'est � elles � le prendre tour � tour, et � le garder tant
+qu'elles le pourront. Mais quel est le superbe �difice que je vois
+entre ces arbres ?
+
+- Sganarelle -
+
+Vous ne le savez pas ?
+
+- Don Juan -
+
+Non vraiment.
+
+- Sganarelle -
+
+Bon ! c'est le tombeau que le commandeur faisait faire lors que vous
+le tu�tes.
+
+- Don Juan -
+
+Ah ! tu as raison. Je ne savais pas que c'�tait de ce c�t�-ci qu'il
+�tait. Tout le monde m'a dit des merveilles de cet ouvrage, aussi
+bien que de la statue du commandeur, et j'ai envie de l'aller voir.
+
+- Sganarelle -
+
+Monsieur, n'allez point l�.
+
+- Don Juan -
+
+Pourquoi ?
+
+- Sganarelle -
+
+Cela n'est pas civil, d'aller voir un homme que vous avez tu�.
+
+- Don Juan -
+
+Au contraire, c'est une visite dont je lui veux faire civilit�, et
+qu'il doit recevoir de bonne gr�ce, s'il est galant homme. Allons,
+entrons dedans.
+
+          (Le tombeau s'ouvre, o� l'on voit la statue du commandeur.)
+
+- Sganarelle -
+
+Ah ! que cela est beau ! les belles statues ! le beau marbre ! les
+beaux piliers ! ah ! que cela est beau ! qu'en dites-vous, Monsieur ?
+
+- Don Juan -
+
+Qu'on ne peut voir aller plus loin l'ambition d'un homme mort ; et ce
+que je trouve admirable, c'est qu'un homme qui s'est pass� durant sa
+vie d'une assez simple demeure, en veuille avoir une si magnifique
+pour quand il n'en a plus que faire.
+
+- Sganarelle -
+
+Voici la statue du commandeur.
+
+- Don Juan -
+
+Parbleu ! le voil� bon, avec son habit d'empereur romain !
+
+- Sganarelle -
+
+Ma foi, Monsieur, voil� qui est bien fait. Il semble qu'il est en vie,
+et qu'il s'en va parler. Il jette des regards sur nous qui me feraient
+peur si j'�tais tout seul, et je pense qu'il ne prend pas plaisir de
+nous voir.
+
+- Don Juan -
+
+Il aurait tort ; et ce serait mal recevoir l'honneur que je lui
+fais. Demande-lui s'il veut venir souper avec moi.
+
+- Sganarelle -
+
+C'est une chose dont il n'a pas besoin, je crois.
+
+- Don Juan -
+
+Demande-lui, te dis-je.
+
+- Sganarelle -
+
+Vous moquez-vous ? Ce serait �tre fou, que d'aller parler � une statue.
+
+- Don Juan -
+
+Fais ce que je te dis.
+
+- Sganarelle -
+
+Quelle bizarrerie ! Seigneur commandeur...
+
+          (� part.)
+
+je ris de ma sottise, mais c'est mon ma�tre qui me la fait faire.
+
+          (haut.)
+
+Seigneur commandeur, mon ma�tre Don Juan vous demande si vous voulez
+lui faire l'honneur de venir souper avec lui.
+
+          (La statue baisse la t�te.)
+
+Ah !
+
+- Don Juan -
+
+Qu'est-ce ? qu'as-tu ? Dis donc, veux-tu parler ?
+
+- Sganarelle -
+
+          (baissant la t�te comme la statue.)
+
+La statue...
+
+- Don Juan -
+
+Et bien, que veux-tu dire, tra�tre ?
+
+- Sganarelle -
+
+Je vous dis que la statue...
+
+- Don Juan -
+
+Et bien ! la statue ? je t'assomme, si tu ne parles.
+
+- Sganarelle -
+
+La statue m'a fait signe.
+
+- Don Juan -
+
+La peste le coquin !
+
+- Sganarelle -
+
+Elle m'a fait signe, vous dis-je, il n'est rien de plus vrai.
+Allez-vous-en lui parler vous-m�me pour voir. Peut-�tre...
+
+- Don Juan -
+
+Viens, maraud, viens. Je te veux bien faire toucher au
+doigt ta poltronnerie. Prends garde. Le seigneur commandeur
+voudrait-il venir souper avec moi ?
+
+          (La statue baisse encore la t�te.)
+
+- Sganarelle -
+
+Je ne voudrais pas en tenir dix pistoles. Eh bien ! Monsieur ?
+
+- Don Juan -
+
+Allons, sortons d'ici.
+
+- Sganarelle -
+
+          (seul.)
+
+Voil� de mes esprits forts, qui ne veulent rien croire !
+
+
+
+ACTE QUATRIEME.
+---------------
+
+Le th��tre repr�sente l'appartement de Don Juan.
+
+
+Sc�ne premi�re. - Don Juan, Sganarelle, Ragotin.
+
+
+- Don Juan -
+
+          (� Sganarelle.)
+
+Quoi qu'il en soit, laissons cela ; c'est une bagatelle, et nous
+pouvons avoir �t� tromp�s par un faux jour, ou surpris de quelque
+vapeur qui nous ait troubl� la vue.
+
+- Sganarelle -
+
+Eh ! Monsieur, ne cherchez point � d�mentir ce que nous avons vu des
+yeux que voil�. Il n'est rien de plus v�ritable que ce signe de t�te,
+et je ne doute point que le ciel, scandalis� de votre vie, n'ait
+produit ce miracle pour vous convaincre, et pour vous retirer de...
+
+- Don Juan -
+
+Ecoute. Si tu m'importunes davantage de tes sottes moralit�s, si tu me
+dis encore le moindre mot l�-dessus, je vais appeler quelqu'un,
+demander un nerf de boeuf, te faire tenir par trois ou quatre, et te
+rouer de mille coups. M'entends-tu bien ?
+
+- Sganarelle -
+
+Fort bien, Monsieur, le mieux du monde. Vous vous expliquez clairement ;
+c'est ce qu'il y a de bon en vous, que vous n'allez point chercher
+de d�tours : vous dites les choses avec une nettet� admirable.
+
+- Don Juan -
+
+Allons, qu'on me fasse souper le plus t�t que l'on pourra. Une
+chaise, petit gar�on.
+
+
+
+-----------
+
+
+Sc�ne II. - Don Juan, Sganarelle, La Violette, Ragotin.
+
+
+- La Violette -
+
+Monsieur, voil� votre marchand, monsieur Dimanche qui demande � vous
+parler.
+
+- Sganarelle -
+
+Bon ! voil� ce qu'il nous faut, qu'un compliment de cr�ancier. De quoi
+s'avise-t-il de nous venir demander de l'argent ; et que ne lui
+disais-tu que monsieur n'y est pas ?
+
+- La Violette -
+
+Il y a trois quarts d'heure que je lui dis ; mais il ne veut pas le
+croire, et s'est assis l�-dedans pour attendre.
+
+- Sganarelle -
+
+Qu'il attende tant qu'il voudra.
+
+- Don Juan -
+
+Non, au contraire, faites-le entrer. C'est une fort mauvaise politique
+que de se faire celer aux cr�anciers. Il est bon de les payer de
+quelque chose ; et j'ai le secret de les renvoyer satisfaits, sans
+leur donner un double.
+
+
+
+-----------
+
+
+Sc�ne III. - Don Juan, Monsieur Dimanche, Sganarelle, La Violette, Ragotin.
+
+
+- Don Juan -
+
+Ah ! monsieur Dimanche, approchez. Que je suis ravi de vous voir, et
+que je veux de mal � mes gens de ne vous pas faire entrer d'abord !
+J'avais donn� ordre qu'on ne me f�t parler � personne, mais cet ordre
+n'est pas pour vous, et vous �tes en droit de ne trouver jamais de
+porte ferm�e chez moi.
+
+- Monsieur Dimanche -
+
+Monsieur, je vous suis fort oblig�.
+
+- Don Juan -
+
+          (parlant � la Violette et � Ragotin.)
+
+Parbleu ! coquins, je vous apprendrai � laisser monsieur Dimanche
+dans une antichambre, et je vous ferai conna�tre les gens.
+
+- Monsieur Dimanche -
+
+Monsieur, cela n'est rien.
+
+- Don Juan -
+
+          (� monsieur Dimanche.)
+
+Comment ! vous dire que je n'y suis pas ! � monsieur Dimanche, au
+meilleur de mes amis !
+
+- Monsieur Dimanche -
+
+Monsieur, je suis votre serviteur. J'�tais venu...
+
+- Don Juan -
+
+Allons vite, un si�ge pour monsieur Dimanche.
+
+- Monsieur Dimanche -
+
+Monsieur, je suis bien comme cela.
+
+- Don Juan -
+
+Point, point, je veux que vous soyez assis contre moi.
+
+- Monsieur Dimanche -
+
+Cela n'est point n�cessaire.
+
+- Don Juan -
+
+Otez ce pliant, et apportez un fauteuil.
+
+- Monsieur Dimanche -
+
+Monsieur, vous vous moquez, et...
+
+- Don Juan -
+
+Non, non, je sais ce que je vous dois ; et je ne veux point qu'on
+mette de diff�rence entre nous deux.
+
+- Monsieur Dimanche -
+
+Monsieur...
+
+- Don Juan -
+
+Allons, asseyez-vous.
+
+- Monsieur Dimanche -
+
+Il n'est pas besoin, Monsieur, et je n'ai qu'un mot � vous
+dire. J'�tais...
+
+- Don Juan -
+
+Mettez-vous l�, vous dis-je.
+
+- Monsieur Dimanche -
+
+Non, Monsieur, je suis bien, je viens pour...
+
+- Don Juan -
+
+Non, je ne vous �coute point si vous n'�tes assis.
+
+- Monsieur Dimanche -
+
+Monsieur, je fais ce que vous voulez. Je...
+
+- Don Juan -
+
+Parbleu, monsieur Dimanche, vous vous portez bien.
+
+- Monsieur Dimanche -
+
+Oui, Monsieur, pour vous rendre service. Je suis venu...
+
+- Don Juan -
+
+Vous avez un fonds de sant� admirable, des l�vres fra�ches, un teint
+vermeil, et des yeux vifs.
+
+- Monsieur Dimanche -
+
+Je voudrais bien...
+
+- Don Juan -
+
+Comment se porte madame Dimanche, votre �pouse ?
+
+- Monsieur Dimanche -
+
+Fort bien, Monsieur, Dieu merci.
+
+- Don Juan -
+
+C'est une brave femme.
+
+- Monsieur Dimanche -
+
+Elle est votre servante, Monsieur. Je venais...
+
+- Don Juan -
+
+Et votre petite fille Claudine, comment se porte-t-elle.
+
+- Monsieur Dimanche -
+
+Le mieux du monde.
+
+- Don Juan -
+
+La jolie petite fille que c'est ! je l'aime de tout mon coeur.
+
+- Monsieur Dimanche -
+
+C'est trop d'honneur que vous lui faites, Monsieur. Je vous...
+
+- Don Juan -
+
+Et le petit Colin, fait-il toujours bien du bruit avec son tambour ?
+
+- Monsieur Dimanche -
+
+Toujours de m�me, Monsieur. Je...
+
+- Don Juan -
+
+Et votre petit chien Brusquet, gronde-t-il toujours aussi fort, et
+mord-il toujours bien aux jambes les gens qui vont chez vous ?
+
+- Monsieur Dimanche -
+
+Plus que jamais, Monsieur ; et nous ne saurions en chevir (12).
+
+- Don Juan -
+
+Ne vous �tonnez pas si je m'informe des nouvelles de toute la famille ;
+car j'y prends beaucoup d'int�r�t.
+
+- Monsieur Dimanche -
+
+Nous vous sommes, Monsieur, infiniment oblig�s. Je...
+
+- Don Juan -
+
+          (lui tendant la main.)
+
+Touchez donc l�, monsieur Dimanche. Etes-vous bien de mes amis ?
+
+- Monsieur Dimanche -
+
+Monsieur, je suis votre serviteur.
+
+- Don Juan -
+
+Parbleu ! je suis � vous de tout mon coeur.
+
+- Monsieur Dimanche -
+
+Vous m'honorez trop. Je...
+
+- Don Juan -
+
+Il n'y a rien que je ne fisse pour vous.
+
+- Monsieur Dimanche -
+
+Monsieur, vous avez trop de bont� pour moi.
+
+- Don Juan -
+
+Et cela sans int�r�t, je vous prie de le croire.
+
+- Monsieur Dimanche -
+
+Je n'ai point m�rit� cette gr�ce assur�ment. Mais, Monsieur...
+
+- Don Juan -
+
+Oh ��, monsieur Dimanche, sans fa�on, voulez-vous souper avec moi ?
+
+- Monsieur Dimanche -
+
+Non, Monsieur, il faut que je m'en retourne tout � l'heure. Je...
+
+- Don Juan -
+
+          (se levant.)
+
+Allons, vite un flambeau pour conduire monsieur Dimanche, et que
+quatre ou cinq de mes gens prennent des mousquetons pour l'escorter.
+
+- Mr Dimanche -
+
+          (se levant aussi.)
+
+Monsieur, il n'est pas n�cessaire, et je m'en irai bien tout
+seul. Mais...
+
+          (Sganarelle �te les si�ges promptement.)
+
+- Don Juan -
+
+Comment ? je veux qu'on vous escorte, et je m'int�resse trop � votre
+personne. Je suis votre serviteur, et de plus votre d�biteur.
+
+- Monsieur Dimanche -
+
+Ah ! Monsieur...
+
+- Don Juan -
+
+C'est une chose que je ne cache pas, et je le dis � tout le monde.
+
+- Monsieur Dimanche -
+
+Si...
+
+- Don Juan -
+
+Voulez-vous que je vous reconduise ?
+
+- Monsieur Dimanche -
+
+Ah, Monsieur, vous vous moquez ! Monsieur...
+
+- Don Juan -
+
+Embrassez-moi donc, s'il vous pla�t, je vous prie encore
+une fois d'�tre persuad� que je suis tout � vous, et qu'il
+n'y a rien au monde que je ne fisse pour votre service.
+
+          (Il sort.)
+
+
+
+-----------
+
+
+Sc�ne IV. - Monsieur Dimanche, Sganarelle.
+
+
+- Sganarelle -
+
+Il faut avouer que vous avez en monsieur un homme qui vous aime bien.
+
+- Monsieur Dimanche -
+
+Il est vrai ; il me fait tant de civilit�s et tant de compliments,
+que je ne saurais jamais lui demander de l'argent.
+
+- Sganarelle -
+
+Je vous assure que toute sa maison p�rirait pour vous ; et je voudrais
+qu'il vous arriv�t quelque chose, que quelqu'un s'avis�t de vous
+donner des coups de b�ton, vous verriez de quelle mani�re...
+
+- Monsieur Dimanche -
+
+Je le crois ; mais, Sganarelle, je vous prie de lui dire un petit mot
+de mon argent.
+
+- Sganarelle -
+
+Oh ! ne vous mettez pas en peine. il vous payera le mieux du monde.
+
+- Monsieur Dimanche -
+
+Mais vous, Sganarelle, vous me devez quelque chose en votre
+particulier.
+
+- Sganarelle -
+
+Fi ! ne parlez pas de cela...
+
+- Monsieur Dimanche -
+
+Comment ? Je...
+
+- Sganarelle -
+
+Ne sais-je pas bien que je vous dois ?
+
+- Monsieur Dimanche -
+
+Oui, Mais...
+
+- Sganarelle -
+
+Allons, monsieur Dimanche, je vais vous �clairer.
+
+- Monsieur Dimanche -
+
+Mais mon argent...
+
+- Sganarelle -
+
+          (prenant Monsieur Dimanche par le bras.)
+
+Vous moquez-vous ?
+
+- Monsieur Dimanche -
+
+Je veux...
+
+- Sganarelle -
+
+          (le tirant.)
+
+H� !
+
+- Monsieur Dimanche -
+
+J'entends...
+
+- Sganarelle -
+
+          (le poussant vers la porte.)
+
+Bagatelles.
+
+- Monsieur Dimanche -
+
+Mais...
+
+- Sganarelle -
+
+          (le poussant encore.)
+
+Fi !
+
+- Monsieur Dimanche -
+
+Je...
+
+- Sganarelle -
+
+          (Sganarelle le poussant tout � fait hors du th��tre.)
+
+Fi ! vous dis-je.
+
+
+
+-----------
+
+
+Sc�ne V. - Don Juan, Sganarelle, La Violette.
+
+
+- La Violette -
+
+          (� Don Juan.)
+
+Monsieur, voil� monsieur votre p�re.
+
+- Don Juan -
+
+Ah ! me voici bien ! il me fallait cette visite pour me faire enrager.
+
+
+
+-----------
+
+
+Sc�ne VI. - Don Louis, Don Juan, Sganarelle.
+
+
+- Don Louis -
+
+Je vois bien que je vous embarasse, et que vous vous passeriez fort
+ais�ment de ma venue. A dire vrai, nous nous incommodons �trangement
+l'un et l'autre, et si vous �tes las de me voir, je suis bien las
+aussi de vos d�portements. H�las ! que nous savons peu ce que nous
+faisons, quand nous ne laissons pas au ciel le soin des choses qu'il
+nous faut, quand nous voulons �tre plus avis�s que lui, et que nous
+venons � l'importuner par nos souhaits aveugles et nos demandes
+inconsid�r�es. J'ai souhait� un fils avec des ardeurs non pareilles ;
+je l'ai demand� sans rel�che avec des transports incroyables ; et ce
+fils, que j'obtiens en fatiguant le ciel de voeux, est le chagrin et
+le supplice de cette vie m�me dont je croyais qu'il devait �tre la
+joie et la consolation. De quel oeil, � votre avis, pensez-vous que je
+puisse voir cet amas d'actions indignes, dont on a peine, aux yeux du
+monde, d'adoucir le mauvais visage ; cette suite continuelle de
+m�chantes affaires, qui nous r�duisent � toutes heures � lasser les
+bont�s du souverain, et qui ont �puis� aupr�s de lui le m�rite de mes
+services et le cr�dit de mes amis ? Ah ! quelle bassesse est la v�tre !
+Ne rougissez-vous point de m�riter si peu votre naissance ?
+Etes-vous en droit, dites-moi, d'en tirer quelque vanit� ? et
+qu'avez-vous fait dans le monde pour �tre gentilhomme ? Croyez-vous
+qu'il suffise d'en porter le nom et les armes, et que ce nous soit une
+gloire d'�tre sortis d'un sang noble, lorsque nous vivons en inf�mes ?
+Non, non, la naissance n'est rien o� la vertu n'est pas. Aussi,
+nous n'avons part � la gloire de nos anc�tres qu'autant que nous
+nous effor�ons de leur ressembler ; et cet �clat de leurs actions
+qu'ils r�pandent sur nous nous impose un engagement de leur faire le
+m�me honneur, de suivre les pas qu'ils nous tracent, et de ne point
+d�g�n�rer de leur vertu, si nous voulons �tre estim�s leurs
+v�ritables descendants. Ainsi, vous descendez en vain des a�eux dont
+vous �tes n� ; ils vous d�savouent pour leur sang, et tout ce qu'ils
+ont fait d'illustre ne vous donne aucun avantage ; au contraire,
+l'�clat n'en rejaillit sur vous qu'� votre d�shonneur, et leur gloire
+est un flambeau qui �claire aux yeux d'un chacun la honte de vos
+actions. Apprenez enfin qu'un gentilhomme qui vit mal est un monstre
+dans la nature ; que la vertu est le premier titre de noblesse ; que je
+regarde bien moins au nom qu'on signe qu'aux actions qu'on fait, et
+que je ferais plus d'�tat du fils d'un crocheteur qui serait
+honn�te homme, que du fils d'un monarque qui vivrait comme vous.
+
+- Don Juan -
+
+Monsieur, si vous �tiez assis, vous en seriez mieux pour parler.
+
+- Don Louis -
+
+Non, insolent, je ne veux point m'asseoir, ni parler davantage, et je
+vois bien que toutes mes paroles ne font rien sur ton �me ; mais
+sache, fils indigne, que la tendresse paternelle est pouss�e � bout
+par tes actions ; que je saurai, plus t�t que tu ne penses, mettre une
+borne � tes d�r�glements, pr�venir sur toi le courroux du ciel, et
+laver, par ta punition, la honte de t'avoir fait na�tre.
+
+
+
+-----------
+
+
+Sc�ne VII. - Don Juan, Sganarelle.
+
+
+- Don Juan -
+
+          (adressant encore la parole � son p�re, quoiqu'il soit sorti.)
+
+H� !, mourez le plus t�t que vous pourrez, c'est le mieux que vous
+puissiez faire. Il faut que chacun ait son tour, et j'enrage de voir
+des p�res qui vivent autant que leurs fils.
+
+          (Il se met dans son fauteuil.)
+
+- Sganarelle -
+
+Ah ! Monsieur, vous avez tort.
+
+- Don Juan -
+
+          (se levant.)
+
+J'ai tort !
+
+- Sganarelle -
+
+          (tremblant.)
+
+Monsieur...
+
+- Don Juan -
+
+J'ai tort !
+
+- Sganarelle -
+
+Oui, Monsieur, vous avez tort d'avoir souffert ce qu'il vous a dit, et
+vous le deviez mettre dehors par les �paules. A-t-on jamais rien vu de
+plus impertinent ? un p�re venir faire des remontrances � son fils, et
+lui dire de corriger ses actions, de se ressouvenir de sa naissance,
+de mener une vie d'honn�te homme, et cent autres sottises de pareille
+nature ! cela se peut-il souffrir � un homme comme vous, qui savez
+comme il faut vivre ? J'admire votre patience ; et si j'avais �t� en
+votre place, je l'aurais envoy� promener.
+
+          (bas, � part.)
+
+O complaisance maudite, � quoi me r�duis-tu !
+
+- Don Juan -
+
+Me fera-t-on souper bient�t ?
+
+
+
+-----------
+
+
+Sc�ne VIII. - Don Juan, Sganarelle, Ragotin.
+
+
+- Ragotin -
+
+Monsieur, voici une dame voil�e qui vient vous parler.
+
+- Don Juan -
+
+Que pourrait-ce �tre ?
+
+- Sganarelle -
+
+Il faut voir.
+
+
+
+-----------
+
+
+Sc�ne IX. - Done Elvire, voil�e ; Don Juan, Sganarelle.
+
+
+- Done Elvire -
+
+Ne soyez point surpris, don Juan, de me voir � cette heure et dans cet
+�quipage. C'est un motif pressant qui m'oblige � cette visite, et ce
+que j'ai � vous dire ne veut point du tout de retardement. Je ne viens
+point ici pleine de ce courroux que j'ai tant�t fait �clater, et vous
+me voyez bien chang�e de ce que j'�tais ce matin. Ce n'est point cette
+done Elvire qui faisait des voeux contre vous, et dont l'�me irrit�e ne
+jetait que menaces et ne respirait que vengeance. Le ciel a banni de
+mon �me toutes ces indignes ardeurs que je sentais pour vous, tous ces
+transports tumultueux d'un attachement criminel, tous ces honteux
+emportements d'un amour terrestre et grossier ; et il n'a laiss� dans
+mon coeur pour vous qu'une flamme �pur�e de tout le commerce des sens,
+une tendresse toute sainte, un amour d�tach� de tout, qui n'agit point
+pour soi, et ne se met en peine que de votre int�r�t.
+
+- Don Juan -
+
+          (bas, � Sganarelle.)
+
+Tu pleures, je pense ?
+
+- Sganarelle -
+
+Pardonnez-moi.
+
+- Done Elvire -
+
+C'est ce parfait et pur amour qui me conduit ici pour votre bien, pour
+vous faire part d'un avis du ciel, et t�cher de vous retirer du
+pr�cipice o� vous courez. Oui, don Juan, je sais tous les d�r�glements
+de votre vie ; et ce m�me ciel, qui m'a touch� le coeur et fait jeter
+les yeux sur les �garements de ma conduite, m'a inspir� de vous venir
+trouver, et de vous dire de sa part que vos offenses ont �puis� sa
+mis�ricorde, que sa col�re redoutable est pr�s de tomber sur vous,
+qu'il est en vous de l'�viter par un prompt repentir, et que peut-�tre
+vous n'avez pas encore un jour � vous pouvoir soustraire au plus grand
+de tous les malheurs. Pour moi, je ne tiens plus � vous par aucun
+attachement du monde. Je suis revenue, gr�ces au ciel, de toutes mes
+folles pens�es ; ma retraite est r�solue, et je ne demande qu'assez de
+vie pour pouvoir expier la faute que j'ai faite, et m�riter, par une
+aust�re p�nitence, le pardon de l'aveuglement o� m'ont plong�e les
+transports d'une passion condamnable. Mais, dans cette retraite,
+j'aurais une douleur extr�me qu'une personne que j'ai ch�rie
+tendrement dev�nt un exemple funeste de la justice du ciel ; et ce me
+sera une joye incroyable, si je puis vous porter � d�tourner de dessus
+votre t�te l'�pouvantable coup qui vous menace. De gr�ce, don Juan,
+accordez-moi pour derni�re faveur cette douce consolation ; ne me
+refusez point votre salut, que je vous demande avec larmes ; et si
+vous n'�tes point touch� de votre int�r�t, soyez-le au moins de mes
+pri�res, et m'�pargnez le cruel d�plaisir de vous voir condamner � des
+supplices �ternels.
+
+- Sganarelle -
+
+          (� part.)
+
+Pauvre femme !
+
+- Done Elvire -
+
+Je vous ai aim� avec une tendresse extr�me, rien au monde ne m'a �t�
+si cher que vous ; j'ai oubli� mon devoir pour vous, j'ai fait toutes
+choses pour vous ; et toute la r�compense que je vous en demande,
+c'est de corriger votre vie et de pr�venir votre perte. Sauvez-vous,
+je vous prie, ou pour l'amour de vous, ou pour l'amour de moi. Encore
+une fois, don Juan, je vous le demande avec larmes ; et si ce n'est
+assez des larmes d'une personne que vous avez aim�e, je vous en
+conjure par tout ce qui est le plus capable de vous toucher.
+
+- Sganarelle -
+
+          (� part, regardant Don Juan.)
+
+Coeur de tigre !
+
+- Done Elvire -
+
+Je m'en vais apr�s ce discours ; et voil� tout ce que j'avais � vous
+dire.
+
+- Don Juan -
+
+Madame, il est tard, demeurez ici. On vous y logera le mieux qu'on
+pourra.
+
+- Done Elvire -
+
+Non, don Juan, ne me retenez pas davantage.
+
+- Don Juan -
+
+Madame, vous me ferez plaisir de demeurer, je vous assure.
+
+- Done Elvire -
+
+Non, vous dis-je ; ne perdons point de temps en discours superflus.
+Laissez-moi viste aller, ne faites aucune instance pour me conduire,
+et songez seulement � profiter de mon avis.
+
+
+
+-----------
+
+
+Sc�ne X. - Don Juan, Sganarelle.
+
+
+- Don Juan -
+
+Sais-tu bien que j'ai encore senti quelque peu d'�motion pour elle,
+que j'ai trouv� de l'agr�ment dans cette nouveaut� bizarre, et que son
+habit n�glig�, son air languissant et ses larmes ont r�veill� en moi
+quelques petits restes d'un feu �teint ?
+
+- Sganarelle -
+
+C'est � dire que ses paroles n'ont fait aucun effet sur vous.
+
+- Don Juan -
+
+Vite � souper.
+
+- Sganarelle -
+
+Fort bien.
+
+
+
+-----------
+
+
+Sc�ne XI. - Don Juan, Sganarelle, La Violette, Ragotin.
+
+
+- Don Juan -
+
+          (se mettant � table.)
+
+Sganarelle, il faut songer � s'amender pourtant.
+
+- Sganarelle -
+
+Oui-da.
+
+- Don Juan -
+
+Oui, ma foi, il faut s'amender. Encore vingt ou trente ans de cette
+vie-ci, et puis nous songerons � nous.
+
+- Sganarelle -
+
+Ah !
+
+- Don Juan -
+
+Qu'en dis-tu ?
+
+- Sganarelle -
+
+Rien, voil� le souper.
+
+          (Il prend un morceau d'un des plats qu'on apporte,
+           et le met dans sa bouche.)
+
+- Don Juan -
+
+Il me semble que tu as la joue enfl�e : qu'est-ce que c'est ? Parle
+donc. Qu'as-tu l� ?
+
+- Sganarelle -
+
+Rien.
+
+- Don Juan -
+
+Montre un peu. Parbleu ! c'est une fluxion qui lui est tomb�e sur la
+joue. Vite une lancette pour percer cela ! Le pauvre gar�on n'en peut
+plus, et cet abc�s le pourrait �touffer. Attends, voyez comme il
+�tait m�r ! Ah ! coquin que vous �tes !
+
+- Sganarelle -
+
+Ma foi, Monsieur, je voulais voir si votre cuisinier n'avait point mis
+trop de sel ni trop de poivre.
+
+- Don Juan -
+
+Allons, mets-toi l�, et mange. J'ai affaire de toi quand j'aurai
+soup�. Tu as faim � ce que je vois.
+
+- Sganarelle -
+
+          (se mettant � table.)
+
+Je le crois bien, Monsieur, je n'ai point mang� depuis ce
+matin. T�tez de cela, voil� qui est le meilleur du monde.
+
+          (A Ragotin, qui, � mesure que Sganarelle met quelque chose
+	   sur son assiette, la lui �te d�s que Sganarelle tourne la
+	   t�te.)
+
+Mon assiette, mon assiette ! Tout doux, s'il vous pla�t. Vertubleu !
+petit comp�re, que vous �tes habile � donner des assiettes nettes ! Et
+vous, petit la Violette, que vous savez pr�senter � boire � propos !
+
+          (Pendant que la Violette donne � boire � Sganarelle,
+           Ragotin �te encore son assiette.)
+
+- Don Juan -
+
+Qui peut fraper de cette sorte ?
+
+- Sganarelle -
+
+Qui diable nous vient troubler dans notre repas ?
+
+- Don Juan -
+
+Je veux souper en repos, au moins ; et qu'on ne laisse entrer personne.
+
+- Sganarelle -
+
+Laissez-moi faire, je m'y en vais moi-m�me.
+
+- Don Juan -
+
+          (voyant venir Sganarelle effray�.)
+
+Qu'est-ce donc ? qu'y a-t-il ?
+
+- Sganarelle -
+
+          (baissant la t�te comme a la statue.)
+
+Le... qui est l�.
+
+- Don Juan -
+
+Allons voir, et montrons que rien ne me saurait �branler.
+
+- Sganarelle -
+
+Ah, pauvre Sganarelle, o� te cacheras-tu ?
+
+
+
+-----------
+
+
+Sc�ne XII. - Don Juan, La Statue du Commandeur, Sganarelle,
+             La Violette, Ragotin.
+
+
+- Don Juan -
+
+          (� ses gens.)
+
+Une chaise et un couvert. Vite donc.
+
+          (Don Juan et la statue se mettent � table.)
+          (A Sganarelle.)
+
+Allons, mets-toi � table.
+
+- Sganarelle -
+
+Monsieur, je n'ai plus de faim.
+
+- Don Juan -
+
+Mets-toi l�, te dis-je. A boire. A la sant� du commandeur !
+je te la porte, Sganarelle. Qu'on lui donne du vin.
+
+- Sganarelle -
+
+Monsieur, je n'ai pas soif.
+
+- Don Juan -
+
+Bois, et chante ta chanson, pour r�galer le commandeur.
+
+- Sganarelle -
+
+Je suis enrhum�, Monsieur.
+
+- Don Juan -
+
+Il n'importe, Allons.
+
+          (� ses gens.)
+
+Vous autres, venez, accompagnez sa voix.
+
+- La Statue -
+
+Don Juan, c'est assez, je vous invite � venir demain souper avec moi.
+En aurez-vous le courage ?
+
+- Don Juan -
+
+Oui, j'irai, accompagn� du seul Sganarelle.
+
+- Sganarelle -
+
+Je vous rends gr�ce, il est demain je�ne pour moi.
+
+- Don Juan -
+
+          (� Sganarelle.)
+
+Prends ce flambeau.
+
+- La Statue -
+
+On n'a pas besoin de lumi�re quand on est conduit par le ciel.
+
+
+
+ACTE CINQUIEME.
+---------------
+
+Le th��tre repr�sente une campagne.
+
+
+Sc�ne premi�re. - Don Louis, Don Juan, Sganarelle.
+
+
+- Don Louis -
+
+Quoi ! mon fils, serait-il possible que la bont� du ciel e�t exauc�
+mes voeux ? Ce que vous me dites est-il bien vrai ? ne m'abusez-vous
+point d'un faux espoir, et puis-je prendre quelque assurance sur la
+nouveaut� surprenante d'une telle conversion ?
+
+- Don Juan -
+
+Oui, vous me voyez revenu de toutes mes erreurs ; je ne suis plus le
+m�me d'hier au soir, et le ciel tout d'un coup, a fait en moi un
+changement qui va surprendre tout le monde. Il a touch� mon �me et
+dessill� mes yeux ; et je regarde avec horreur le long aveuglement o�
+j'ai �t�, et les d�sordres criminels de la vie que j'ai men�e. J'en
+repasse dans mon esprit toutes les abominations, et m'�tonne comme le
+ciel les a pu souffrir si longtemps, et n'a pas vingt fois sur ma t�te
+laiss� tomber les coups de sa justice redoutable. Je vois les gr�ces
+que sa bont� m'a faites en ne me punissant point de mes crimes, et je
+pr�tends en profiter comme je dois, faire �clater aux yeux du monde un
+soudain changement de vie, r�parer par l� le scandale de mes actions
+pass�es, et m'efforcer d'en obtenir du ciel une pleine r�mission.
+C'est � quoi je vais travailler ; et je vous prie, Monsieur, de
+vouloir bien contribuer � ce dessein, et de m'aider vous m�me � faire
+choix d'une personne qui me serve de guide, et sous la conduite de qui
+je puisse marcher s�rement dans le chemin o� je m'en vais entrer.
+
+- Don Louis -
+
+Ah ! mon fils, que la tendresse d'un p�re est ais�ment rappel�e, et
+que les offenses d'un fils s'�vanouissent vite au moindre mot de
+repentir ! Je ne me souviens plus d�j� de tous les d�plaisirs que vous
+m'avez donn�s, et tout est effac� par les paroles que vous venez de me
+faire entendre. Je ne me sens pas, je l'avoue ; je jette des larmes
+de joie ; tous mes voeux sont satisfaits, et je n'ai plus rien
+d�sormais � demander au ciel. Embrassez-moi, mon fils, et persistez,
+je vous conjure, dans cette louable pens�e. Pour moi, j'en vais, tout
+de ce pas, porter l'heureuse nouvelle � votre m�re, partager avec elle
+les doux transports du ravissement o� je suis, et rendre gr�ces au
+ciel des saintes r�solutions qu'il a daign� vous inspirer.
+
+
+
+-----------
+
+
+Sc�ne II. - Don Juan, Sganarelle.
+
+
+- Sganarelle -
+
+Ah ! Monsieur, que j'ai de joie de vous voir converti !
+il y a longtemps que j'attendais cela ; et voil�, gr�ces au
+ciel, tous mes souhaits accomplis.
+
+- Don Juan -
+
+La peste le ben�t !
+
+- Sganarelle -
+
+Comment, le ben�t ?
+
+- Don Juan -
+
+Quoi ! tu prends pour de bon argent ce que je viens de dire, et tu
+crois que ma bouche �tait d'accord avec mon coeur ?
+
+- Sganarelle -
+
+Quoi ! ce n'est pas... Vous ne... Votre...
+
+	(� part.)
+
+Oh ! quel homme ! quel homme ! quel homme !
+
+- Don Juan -
+
+Non, non, je ne suis point chang�, et mes sentiments sont toujours les
+m�mes.
+
+- Sganarelle -
+
+Vous ne vous rendez pas � la surprenante merveille de cette statue
+mouvante et parlante ?
+
+- Don Juan -
+
+Il y a bien quelque chose l� dedans que je ne comprends pas, mais quoi
+que ce puisse �tre, cela n'est pas capable, ni de convaincre mon
+esprit, ni d'�branler mon �me ; et si j'ai dit que je voulais corriger
+ma conduite, et me jeter dans un train de vie exemplaire, c'est un
+dessein que j'ai form� par pure politique, un stratag�me utile, une
+grimace n�cessaire o� je veux me contraindre, pour m�nager un p�re
+dont j'ai besoin, et me mettre � couvert, du c�t� des hommes, de cent
+f�cheuses aventures qui pourraient m'arriver. Je veux bien,
+Sganarelle, t'en faire confidence, et je suis bien aise d'avoir un
+t�moin du fond de mon �me, et des v�ritables motifs qui m'obligent �
+faire les choses.
+
+- Sganarelle -
+
+Quoi ! vous ne croyez rien du tout, et vous voulez cependant vous
+�riger en homme de bien ?
+
+- Don Juan -
+
+Et pourquoi non ? il y en a tant d'autres comme moi qui se m�lent de
+ce m�tier, et qui se servent du m�me masque pour abuser le monde.
+
+- Sganarelle -
+
+        (� part.)
+
+Ah ! quel homme ! quel homme !
+
+- Don Juan -
+
+Il n'y a plus de honte maintenant � cela : l'hypocrisie est un vice �
+la mode, et tous les vices � la mode passent pour vertus. Le
+personnage d'homme de bien est le meilleur de tous les personnages
+qu'on puisse jouer. Aujourd'hui, la profession d'hypocrite a de
+merveilleux avantages. C'est un art de qui l'imposture est toujours
+respect�e ; et quoiqu'on la d�couvre, on n'ose rien dire contre
+elle. Tous les autres vices des hommes sont expos�s � la censure, et
+chacun a la libert� de les attaquer hautement ; mais l'hypocrisie est
+un vice privil�gi� qui, de sa main, ferme la bouche � tout le monde,
+et jouit en repos d'une impunit� souveraine. On lie, � force de
+grimaces, une soci�t� �troite avec tous les gens du parti. Qui en
+choque un, se les attire tous sur les bras ; et ceux que l'on sait
+m�me agir de bonne foi l�-dessus, et que chacun conna�t pour �tre
+v�ritablement touch�s, ceux-l�, dis-je, sont toujours les dupes des
+autres ; ils donnent bonnement dans le panneau des grimaciers, et
+appuient aveugl�ment les singes de leurs actions. Combien crois-tu que
+j'en connaisse qui, par ce stratag�me, ont rhabill� adroitement les
+d�sordres de leur jeunesse, qui se sont fait un bouclier du manteau de
+la religion, et sous cet habit respect�, ont la permission d'�tre les
+plus m�chants hommes du monde ? On a beau savoir leurs intrigues, et
+les conna�tre pour ce qu'ils sont, ils ne laissent pas pour cela
+d'�tre en cr�dit parmi les gens ; et quelque baissement de t�te, un
+soupir mortifi� et deux roulements d'yeux rajustent dans le monde tout
+ce qu'ils peuvent faire. C'est sous cet abri favorable que je veux me
+sauver, et mettre en s�ret� mes affaires. Je ne quitterai point mes
+douces habitudes ; mais j'aurai soin de me cacher, et me divertirai �
+petit bruit. Que si je viens � �tre d�couvert, je verrai, sans me
+remuer, prendre mes int�r�ts � toute la cabale, et je serai d�fendu
+par elle envers et contre tous. Enfin, c'est l� le vrai moyen de faire
+impun�ment tout ce que je voudrai. Je m'�rigerai en censeur des
+actions d'autrui, jugerai mal de tout le monde, et n'aurai bonne
+opinion que de moi. D�s qu'une fois on m'aura choqu� tant soit peu, je
+ne pardonnerai jamais, et garderai tout doucement une haine
+irr�conciliable. Je serai le vengeur des int�r�ts du ciel ; et, sous
+ce pr�texte commode, je pousserai mes ennemis, je les accuserai
+d'impi�t�, et saurai d�cha�ner contre eux des zel�s indiscrets, qui,
+sans connaissance de cause, crieront en public contre eux, qui les
+accableront d'injures, et les damneront hautement, de leur autorit�
+priv�e. C'est ainsi qu'il faut profiter des faiblesses des hommes, et
+qu'un sage esprit s'accommode aux vices de son si�cle.
+
+- Sganarelle -
+
+O ciel ! qu'entends-je ici ! il ne vous manquait plus que
+d'�tre hypocrite, pour vous achever de tout point ; et voil�
+le comble des abominations. Monsieur, cette derni�re-ci
+m'emporte, et je ne puis m'emp�cher de parler. Faites-moi
+tout ce qu'il vous plaira : battez-moi, assommez-moi
+de coups, tuez-moi, si vous voulez ; il faut que je d�charge
+mon coeur, et qu'en valet fid�le je vous dise ce que je dois.
+Sachez, Monsieur, que tant va la cruche � l'eau, qu'enfin
+elle se brise ; et comme dit fort bien cet auteur que je ne
+connais pas, l'homme est, en ce monde, ainsi que l'oiseau
+sur la branche ; la branche est attach�e � l'arbre ; qui s'attache
+� l'arbre suit de bons pr�ceptes ; les bons pr�ceptes
+valent mieux que les belles paroles ; les belles paroles se
+trouvent � la cour ; � la cour sont les courtisans ; les
+courtisans suivent la mode ; la mode vient de la fantaisie ;
+la fantaisie est une facult� de l'�me ; l'�me est ce qui nous
+donne la vie ; la vie finit par la mort ; la mort nous fait
+penser au ciel ; le ciel est au-dessus de la terre ; la terre
+n'est point la mer ; la mer est sujette aux orages ; les orages
+tourmentent les vaisseaux ; les vaisseaux ont besoin d'un
+bon pilote ; un bon pilote a de la prudence ; la prudence
+n'est pas dans les jeunes gens ; les jeunes gens doivent
+ob�issance aux vieux ; les vieux aiment les richesses ; les
+richesses font les riches ; les riches ne sont pas pauvres ;
+les pauvres ont de la n�cessit� ; n�cessit� n'a point de loi ;
+qui n'a pas de loi vit en b�te brute, et par cons�quent
+vous serez damn� � tous les diables.
+
+- Don Juan -
+
+O le beau raisonnement !
+
+- Sganarelle -
+
+Apr�s cela, si vous ne vous rendez, tant pis pour vous.
+
+
+
+-----------
+
+
+Sc�ne III. - Don Carlos, Don Juan, Sganarelle.
+
+
+- Don Carlos -
+
+Don Juan, je vous trouve � propos, et suis bien aise de vous parler
+ici plut�t que chez vous, pour vous demander vos r�solutions. Vous
+savez que ce soin me regarde, et que je me suis, en votre pr�sence,
+charg� de cette affaire. Pour moi, je ne le c�le point, je souhaite
+fort que les choses aillent dans la douceur ; et il n'y a rien que je
+ne fasse pour porter votre esprit � vouloir prendre cette voie, et
+pour vous voir publiquement confirmer � ma soeur le nom de votre
+femme.
+
+- Don Juan -
+
+        (d'un ton hypocrite.)
+
+H�las ! je voudrais bien de tout mon coeur vous donner la satisfaction
+que vous souhaitez ; mais le ciel s'y oppose directement ; il a
+inspir� � mon �me le dessein de changer de vie, et je n'ai point
+d'autres pens�es maintenant que de quitter enti�rement tous les
+attachements du monde, de me d�pouiller au plus t�t de toutes sortes
+de vanit�s, et de corriger d�sormais, par une aust�re conduite, tous
+les d�r�glements criminels o� m'a port� le feu d'une aveugle jeunesse.
+
+- Don Carlos -
+
+Ce dessein, don Juan, ne choque point ce que je dis ; et la compagnie
+d'une femme l�gitime peut bien s'accommoder avec les louables pens�es
+que le ciel vous inspire.
+
+- Don Juan -
+
+H�las ! point du tout. C'est un dessein que votre soeur elle-m�me a
+pris ; elle a r�solu sa retraite, et nous avons �t� touch�s tous deux
+en m�me temps.
+
+- Don Carlos -
+
+Sa retraite ne peut nous satisfaire, pouvant �tre imput�e au m�pris
+que vous feriez d'elle et de notre famille ; et notre honneur demande
+qu'elle vive avec vous.
+
+- Don Juan -
+
+Je vous assure que cela ne se peut. J'en avais, pour moi, toutes les
+envies du monde ; et je me suis, m�me encore aujourd'hui, conseill� au
+ciel pour cela ; mais lorsque je l'ai consult�, j'ai entendu une voix
+qui m'a dit que je ne devais point songer � votre soeur, et qu'avec
+elle, assur�ment, je ne ferais point mon salut.
+
+- Don Carlos -
+
+Croyez-vous, don Juan, nous �blouir par ces belles excuses ?
+
+- Don Juan -
+
+J'ob�is � la voix du ciel.
+
+- Don Carlos -
+
+Quoi ! vous voulez que je me paye d'un semblable discours ?
+
+- Don Juan -
+
+C'est le ciel qui le veut ainsi.
+
+- Don Carlos -
+
+Vous aurez fait sortir ma soeur d'un couvent, pour la laisser
+ensuite ?
+
+- Don Juan -
+
+Le ciel l'ordonne de la sorte.
+
+- Don Carlos -
+
+Nous souffrirons cette tache en notre famille ?
+
+- Don Juan -
+
+Prenez-vous-en au ciel.
+
+- Don Carlos -
+
+H� quoi ! toujours le ciel !
+
+- Don Juan -
+
+Le ciel le souhaite comme cela.
+
+- Don Carlos -
+
+Il suffit, don Juan, je vous entends. Ce n'est pas ici que je veux
+vous prendre, et le lieu ne le souffre pas ; mais, avant qu'il soit
+peu, je saurai vous trouver.
+
+- Don Juan -
+
+Vous ferez ce que vous voudrez. Vous savez que je ne manque point de
+coeur, et que je sais me servir de mon �p�e quand il le faut. Je m'en
+vais passer tout � l'heure dans cette petite rue �cart�e qui m�ne au
+grand couvent ; mais je vous d�clare, pour moi, que ce n'est point moi
+qui veux me battre : le ciel m'en d�fend la pens�e ; et si vous
+m'attaquez, nous verrons ce qui en arrivera.
+
+- Don Carlos -
+
+Nous verrons, de vrai, nous verrons.
+
+
+
+-----------
+
+
+Sc�ne IV. - Don Juan, Sganarelle.
+
+
+- Sganarelle -
+
+Monsieur, quel diable de style prenez-vous l� ? Ceci est bien pis que
+le reste, et je vous aimerais bien mieux encore comme vous �tiez
+auparavant. J'esp�rais toujours de votre salut ; mais c'est maintenant
+que j'en d�sesp�re : et je crois que le ciel, qui vous a souffert
+jusques ici, ne pourra souffrir du tout cette derni�re horreur.
+
+- Don Juan -
+
+Va, va, le ciel n'est pas si exact que tu penses ; et si toutes les
+fois que les hommes...
+
+
+
+-----------
+
+
+Sc�ne V. - Don Juan, Sganarelle ; un spectre, en femme voil�e.
+
+
+- Sganarelle -
+
+        (apercevant le spectre.)
+
+Ah ! Monsieur, c'est le ciel qui vous parle, et c'est un avis qu'il
+vous donne.
+
+- Don Juan -
+
+Si le ciel me donne un avis, il faut qu'il parle un peu plus
+clairement, s'il veut que je l'entende.
+
+- Le spectre -
+
+Don Juan n'a plus qu'un moment � pouvoir profiter de la mis�ricorde du
+ciel ; et s'il ne se repent ici, sa perte est r�solue.
+
+- Sganarelle -
+
+Entendez-vous, Monsieur ?
+
+- Don Juan -
+
+Qui ose tenir ces paroles ? je crois conna�tre cette voix.
+
+- Sganarelle -
+
+Ah ! Monsieur, c'est un spectre, je le reconnais au marcher.
+
+- Don Juan -
+
+Spectre, fant�me, ou diable, je veux voir ce que c'est.
+
+        (Le spectre change de figure, et repr�sente le Temps,
+         avec sa faux � la main.)
+
+- Sganarelle -
+
+O ciel ! Voyez-vous, Monsieur, ce changement de figure ?
+
+- Don Juan -
+
+Non, non, rien n'est capable de m'imprimer de la terreur ; et je veux
+�prouver avec mon �p�e si c'est un corps ou un esprit.
+
+        (Le spectre s'envole dans le temps que don Juan veut
+         le frapper.)
+
+- Sganarelle -
+
+Ah ! Monsieur, rendez-vous � tant de preuves, et jetez-vous vite dans
+le repentir.
+
+- Don Juan -
+
+Non, non, il ne sera pas dit, quoi qu'il arrive, que je sois capable
+de me repentir. Allons, suis-moi.
+
+
+
+-----------
+
+
+Sc�ne VI. - La Statue du Commandeur, Don Juan, Sganarelle.
+
+
+- La Statue -
+
+Arr�tez, don Juan. Vous m'avez hier donn� parole de venir manger
+avec moi.
+
+- Don Juan -
+
+Oui. O� faut-il aller ?
+
+- La Statue -
+
+Donnez-moi la main.
+
+- Don Juan -
+
+La voil�.
+
+- La Statue -
+
+Don Juan, l'endurcissement au p�ch� tra�ne une mort funeste ; et les
+gr�ces du ciel que l'on renvoye ouvrent un chemin � sa foudre.
+
+- Don Juan -
+
+O Ciel, que sens-je ? un feu invisible me br�le, je n'en puis plus, et
+tout mon corps devient un brasier ardent ! Ah !
+
+
+        (Le tonnerre tombe avec un grand bruit et de grands �clairs
+         sur don Juan. La terre s'ouvre et l'ab�me ; et il sort de
+         grands feux de l'endroit o� il est tomb�.)
+
+
+
+-----------
+
+
+Sc�ne VII. - Sganarelle.
+
+
+- Sganarelle -
+
+Ah mes gages ! mes gages ! Voil�, par sa mort, un chacun
+satisfait. Ciel offens�, lois viol�es, filles s�duites, familles
+d�shonor�es, parents outrag�s, femmes mises � mal, maris
+pouss�s � bout, tout le monde est content ; il n'y a que
+moi seul de malheureux. Mes gages, mes gages, mes gages !
+
+
+FIN DU FESTIN DE PIERRE.
+
+-------------------------------------------------------------------------
+
+Notes [from 1890 edition]
+
+
+-----------
+
+(1) "Aga" est une interjection d'admiration encore usit�e dans quelques
+pays de France. Elle n'est point tir�e du grec, comme plusieurs hell�nistes
+l'ont pens�. La nature l'a fournie � nos anc�tres comme les autres
+interjections "ah !" "oh !" "eh !" (M�n.)
+
+-----------
+
+(2) Ce proverbe, fond� sur quelque superstition populaire, se trouve
+dans la "Com�die des Proverbes", d'Adrien de Montluc : "Tu as la berlue ;
+je crois que tu as �t� au tr�passement d'un chat, tu vois trouble." (A.)
+
+-----------
+
+(3) "Ardez", abr�viation de "regardez".
+
+-----------
+
+(4) On dit figur�ment, il en a pour "sa mine de f�ves", pour, il a �t�
+attrap�, il en a eu pour son compte. La "mine" est une mesure qui contient
+la moiti� d'un setier.
+
+-----------
+
+(5) "Engingorniaux", parure, ornement de cou. Ce mot patois est probablement
+compos� de l'ancienne expression "engin", invention, et de "gorg�re",
+"gorgias", gorge, invention pour le cou. Ce qui a frapp� Pierrot, c'est
+ce "grand mouchoir de cou � r�seau avec quatre grosses houpes de linge
+qui qui leur pendaient sur l'estomac".
+
+-----------
+
+(6) Les villageoises portaient alors sur leur jupon une esp�ce de tablier
+appel� "garde-robe". Ce mot a perdu cette signification.
+
+-----------
+
+(7) Le creux qui est en haut de l'estomac. Ce mot d�rive de l'allemand
+"brechen", rompre, couper. (M�n.)
+
+-----------
+
+(8) Mot qui exprime la niaiserie et l'inexp�rience, par allusion aux jeunes
+oiseaux, qui naissent presque tous avec le bec jaune, et qui, en termes de
+fauconnerie, se nomment des "niais". Montrer � quelqu'un son "bec jaune",
+c'est lui montrer qu'il est un sot.
+
+-----------
+
+(9) Autre locution proverbiale qui exprime la honte de n'avoir pas r�ussi
+dans une entreprise. "Voil� des harangueurs bien connus", dit Montaigne.
+
+-----------
+
+(10) Tous les mots plac�s entre deux crochets ne se trouvent que dans
+la premi�re �dition.
+
+-----------
+
+(11) Fant�me cr�� par l'imagination du peuple, et qu'on repr�sentait
+courant la nuit dans les rues pour maltraiter les passants.
+
+-----------
+
+(12) "Chevir", c'est-�-dire, venir � "chef" et � bout de quelque
+chose, car il vient de "chef", ainsi qu'achever. Selon ce, on dit
+"chevir" d'un homme rev�che, d'un cheval farouche : c'est en venir �
+bout, et le mettre � la raison (Nic.)
+
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+End of Project Gutenberg's Don Juan, ou le Festin de pierre, by Moliere
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DON JUAN, OU LE FESTIN DE PIERRE ***
+
+***** This file should be named 5130-8.txt or 5130-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/3/5130/
+
+Produced by Laurent Le Guillou
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

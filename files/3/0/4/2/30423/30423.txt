@@ -1,3 +1,3118 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee03199ca7746fd8e6d9509145d11f7fa1e30c7e9bb1bb02b6c6f844677bf3e4
-size 183344
+*** START OF THE PROJECT GUTENBERG EBOOK 30423 ***
+
+L'INTERNET ET LES LANGUES
+
+[autour de l'an 2000]
+
+MARIE LEBERT
+
+NEF, UniversitÃ© de Toronto, 2009
+
+Copyright Â© 2009 Marie Lebert. Tous droits rÃ©servÃ©s.
+
+
+
+TABLE
+
+
+  Introduction
+  Des "communautÃ©s de langues" en ligne
+  Vers un web multilingue
+  L'anglais reste prÃ©dominant
+  Le franÃ§ais sur l'internet
+  Encodage: de l'ASCII a l'Unicode
+  Premiers projets multilingues
+  Dictionnaires de langues en ligne
+  Apprendre les langues en ligne
+  Les langues minoritaires
+  EncyclopÃ©dies multilingues
+  Localisation et internationalisation
+  Traduction assistÃ©e par ordinateur
+  Traduction automatique
+  Chronologie
+  Sites web
+
+
+
+INTRODUCTION
+
+
+On dit souvent que l'internet abolit le temps, les distances et les
+frontiÃ¨res, mais qu'en est-il des langues? En 2000, le web est
+multilingue, mais la barriÃ¨re de la langue est loin d'avoir disparu. Si
+toutes les langues sont dÃ©sormais reprÃ©sentÃ©es sur le web, on oublie
+trop souvent que de nombreux usagers sont unilingues, et que mÃªme les
+polyglottes ne peuvent connaÃ®tre toutes les langues. Il importe aussi
+d'avoir Ã  l'esprit l'ensemble des langues, et pas seulement les langues
+dominantes. Il reste Ã  crÃ©er des passerelles entre les communautÃ©s
+linguistiques pour favoriser la circulation des Ã©crits dans d'autres
+langues, notamment en amÃ©liorant la qualitÃ© des logiciels de
+traduction.
+
+# Des "nations de langues"
+
+"Comme lâinternet nâa pas de frontiÃ¨res nationales, les internautes
+sâorganisent selon dâautres critÃ¨res propres au mÃ©dium. En termes de
+multilinguisme, vous avez des communautÃ©s virtuelles, par exemple ce
+que jâappelle les 'nations des langues', tous ces internautes quâon
+peut regrouper selon leur langue maternelle quel que soit leur lieu
+gÃ©ographique. Ainsi la nation de la langue espagnole inclut non
+seulement les internautes dâEspagne et dâAmÃ©rique latine, mais aussi
+tous les hispanophones vivant aux Etats-Unis, ou encore ceux qui
+parlent espagnol au Maroc." (Randy Hobler, consultant en marketing
+internet de produits et services de traduction, septembre 1998)
+
+# La "dÃ©mocratie linguistique"
+
+"Dans un rapport de l'UNESCO du dÃ©but des annÃ©es 1950, l'enseignement
+dispensÃ© dans sa langue maternelle Ã©tait considÃ©rÃ© comme un droit
+fondamental de l'enfant. La possibilitÃ© de naviguer sur l'internet dans
+sa langue maternelle pourrait bien Ãªtre son Ã©quivalent Ã  l'Ãge de
+l'Information. Si l'internet doit vraiment devenir le rÃ©seau mondial
+qu'on nous promet, tous les usagers devraient y avoir accÃ¨s sans
+problÃ¨me de langue. ConsidÃ©rer l'internet comme la chasse gardÃ©e de
+ceux qui, par accident historique, nÃ©cessitÃ© pratique ou privilÃ¨ge
+politique, connaissent l'anglais, est injuste Ã  l'Ã©gard de ceux qui ne
+connaissent pas cette langue." (Brian King, directeur du WorldWide
+Language Institute, septembre 1998)
+
+# Un mÃ©dium pour le monde
+
+"Il est trÃ¨s important de pouvoir communiquer en diffÃ©rentes langues.
+Je dirais mÃªme que câest obligatoire, car lâinformation donnÃ©e sur
+l'internet est Ã  destination du monde entier, alors pourquoi ne
+lâaurions-nous pas dans notre propre langue ou dans la langue que nous
+souhaitons lire? Information mondiale, mais pas de vaste choix dans les
+langues, ce serait contradictoire, pas vrai?" (Maria Victoria
+Marinetti, professeure dâespagnol en entreprise et traductrice, aoÃ»t
+1999)
+
+# De bons logiciels
+
+"Quand la qualitÃ© des logiciels sera suffisante pour que les gens
+puissent converser par Ã©crit et par oral sur le web en temps rÃ©el dans
+diffÃ©rentes langues, nous verrons tout un monde s'ouvrir Ã  nous. Les
+scientifiques, les hommes politiques, les hommes d'affaires et bien
+d'autres groupes seront Ã  mÃªme de communiquer immÃ©diatement entre eux
+sans l'intermÃ©diaire de mÃ©diateurs ou traducteurs." (Tim McKenna,
+Ã©crivain et philosophe, octobre 2000)
+
+# Dans toutes les langues
+
+"Les recherches sur la traduction automatique devraient permettre une
+traduction automatique dans les langues souhaitÃ©es, mais avec des
+applications pour toutes les langues et non les seules dominantes (ex.:
+diffusion de documents en japonais, si lâÃ©metteur est de langue
+japonaise, et lecture en breton, si le rÃ©cepteur est de langue
+bretonne). Il y a donc beaucoup de travaux Ã  faire dans le domaine de
+la traduction automatique et Ã©crite de toutes les langues." (Pierre-
+NoÃ«l Favennec, expert Ã  la direction scientifique de France TÃ©lÃ©com
+R&D, fÃ©vrier 2001)
+
+***
+
+Sauf indication contraire, les citations prÃ©sentes dans ce livre sont
+des extraits des Entretiens du NEF <http://www.etudes-
+francaises.net/entretiens/>. Merci Ã  toutes les personnes ayant acceptÃ©
+de rÃ©pondre Ã  des questions sur le multilinguisme, parfois pendant
+plusieurs annÃ©es. Ce livre est disponible aussi en anglais, avec un
+texte diffÃ©rent. Les deux versions sont disponibles en ligne
+<http://www.etudes-francaises.net/entretiens/multi.htm>.
+
+Marie Lebert, chercheuse et journaliste, s'intÃ©resse aux technologies
+dans le monde du livre, des autres mÃ©dias et des langues. Ses livres et
+dossiers sont publiÃ©s par le NEF (Net des Ã©tudes franÃ§aises),
+UniversitÃ© de Toronto, et sont librement disponibles sur le site du NEF
+<http://www.etudes-francaises.net>.
+
+
+
+DES "COMMUNAUTES DE LANGUES" EN LIGNE
+
+
+= [Citation]
+
+Consultant en marketing internet de produits et services de traduction,
+Randy Hobler Ã©crit en septembre 1998: "Comme lâinternet nâa pas de
+frontiÃ¨res nationales, les internautes sâorganisent selon dâautres
+critÃ¨res propres au mÃ©dium. En termes de multilinguisme, vous avez des
+communautÃ©s virtuelles, par exemple ce que jâappelle les 'nations des
+langues', tous ces internautes quâon peut regrouper selon leur langue
+maternelle quel que soit leur lieu gÃ©ographique. Ainsi la nation de la
+langue espagnole inclut non seulement les internautes dâEspagne et
+dâAmÃ©rique latine, mais aussi tous les hispanophones vivant aux Etats-
+Unis, ou encore ceux qui parlent espagnol au Maroc."
+
+
+= [Texte]
+
+Si Randy donne l'exemple d'une communautÃ© internet hispanophone
+rÃ©partie sur trois continents, la mÃªme remarque vaut pour la
+francophonie, une communautÃ© de langue franÃ§aise prÃ©sente sur cinq
+continents. La mÃªme remarque concerne tout autant le crÃ©ole, parlÃ© non
+seulement dans les CaraÃ¯bes mais aussi Ã  Paris, MontrÃ©al et New York.
+
+Ã ses dÃ©buts, l'internet est anglophone Ã  pratiquement 100%, ce qui
+s'explique par le fait qu'il dÃ©bute aux Ãtats-Unis en tant que rÃ©seau
+mis en place dÃ¨s 1969 par le Pentagone avant de se dÃ©velopper dans les
+agences gouvernementales et les universitÃ©s suite Ã  la crÃ©ation du
+protocole TCP/IP (transmission control protocol/internet protocol) en
+1974 par Vinton Cerf et Bob Kahn. AprÃ¨s la crÃ©ation du World Wide Web
+en 1989-90 par Tim Berners-Lee au Centre europÃ©en pour la recherche
+nuclÃ©aire (CERN) Ã  GenÃ¨ve (Suisse) et le lancement en novembre 1993 du
+premier navigateur Mosaic, ancÃªtre de Netscape, l'internet se dÃ©veloppe
+rapidement, d'abord aux Ãtats-Unis grÃ¢ce aux investissements
+considÃ©rables du gouvernement, puis au Canada, puis dans le monde
+entier.
+
+AprÃ¨s avoir Ã©tÃ© anglophone Ã  pratiquement 100%, lâinternet est encore
+anglophone Ã  plus de 80% en 1998, un pourcentage qui sâexplique par
+trois facteurs: (a) lâusage de l'anglais en tant que principale langue
+dâÃ©change internationale; (b) la crÃ©ation dâun grand nombre de sites
+web Ã©manant des Ãtats-Unis, du Canada et du Royaume-Uni; (c) une
+proportion d'usagers particuliÃ¨rement forte en AmÃ©rique du Nord par
+rapport au reste du monde, les ordinateurs Ã©tant bien meilleur marchÃ©
+qu'ailleurs, tout comme la connexion Ã  l'internet sous forme de forfait
+mensuel Ã  prix modique.
+
+Dans plusieurs pays d'Europe, par exemple, cette connexion est d'abord
+tarifÃ©e Ã  la durÃ©e, avec un tarif de jour et un tarif de nuit moins
+Ã©levÃ©. Les usagers passent donc beaucoup moins de temps sur l'internet
+qu'ils ne le souhaiteraient, et choisissent souvent de surfer la nuit
+pour Ã©viter les factures trop Ã©levÃ©es. Fin 1998 et dÃ©but 1999, des
+mouvements de grÃ¨ve sont lancÃ©s en France, en Italie et en Allemagne
+pour faire pression sur les sociÃ©tÃ©s prestataires afin qu'elles
+baissent leurs prix et qu'elles proposent des forfaits internet, avec
+gain de cause dans les mois qui suivent.
+
+En 1997, Babel, initative conjointe d'Alis Technologies et de
+l'Internet Society, mÃ¨ne la premiÃ¨re Ã©tude sur la rÃ©partition des
+langues sur l'internet. DatÃ©e de juin 1997, le "PalmarÃ¨s des langues de
+la toile" donne les pourcentages de 82,3% pour l'anglais, 4% pour
+l'allemand, 1,6% pour le japonais, 1,5% pour le franÃ§ais, 1,1% pour
+l'espagnol, 1,1% pour le suÃ©dois et 1% pour l'italien.
+
+Dans un article publiÃ© le 21 juillet 1998 par ZDNN (ZDNetwork News),
+Martha Stone, journaliste, prÃ©cise: "Cette annÃ©e, le nombre de nouveaux
+sites non anglophones va probablement dÃ©passer celui de nouveaux sites
+anglophones, et le monde cyber est en train de vÃ©ritablement devenir
+une toile Ã  l'Ã©chelle mondiale. (...) Selon Global Reach [sociÃ©tÃ©
+promouvant la localisation des sites web], les groupes linguistiques se
+dÃ©veloppant le plus vite sont les groupes non anglophones: on note une
+progression de 22,4% pour les sites web espagnols, 12,3% pour les sites
+japonais, 14% pour les sites allemands et 10% pour les sites
+francophones. On estime Ã  55,7 millions le nombre de personnes non
+anglophones ayant accÃ¨s au web. (...) Alors que 6% seulement de la
+population mondiale est de langue maternelle anglaise (et 16% de langue
+maternelle espagnole), 80% des pages web sont en anglais." Toujours
+selon Global Reach, 15% seulement des 500 millions d'habitants que
+compte l'Europe sont de langue maternelle anglaise, 28% maÃ®trisent bien
+l'anglais, et 32% consultent le web anglophone.
+
+Brian King, directeur du WorldWide Language Institute (WWLI), dÃ©veloppe
+le principe de "dÃ©mocratie linguistique" dans un entretien datÃ© de
+septembre 1998: "Dans un rapport de l'UNESCO du dÃ©but des annÃ©es 1950,
+l'enseignement dispensÃ© dans sa langue maternelle Ã©tait considÃ©rÃ© comme
+un droit fondamental de l'enfant. La possibilitÃ© de naviguer sur
+l'internet dans sa langue maternelle pourrait bien Ãªtre son Ã©quivalent
+Ã  l'Ãge de l'Information. Si l'internet doit vraiment devenir le rÃ©seau
+mondial qu'on nous promet, tous les usagers devraient y avoir accÃ¨s
+sans problÃ¨me de langue. ConsidÃ©rer l'internet comme la chasse gardÃ©e
+de ceux qui, par accident historique, nÃ©cessitÃ© pratique ou privilÃ¨ge
+politique, connaissent l'anglais, est injuste Ã  l'Ã©gard de ceux qui ne
+connaissent pas cette langue."
+
+Jean-Pierre Cloutier est l'auteur des Chroniques de CybÃ©rie, une lettre
+d'information Ã©lectronique sur l'actualitÃ© de l'internet. Il Ã©crit en
+aoÃ»t 1999: "Cet Ã©tÃ©, le cap a Ã©tÃ© franchi. Plus de 50% des utilisateurs
+et utilisatrices du rÃ©seau sont hors des Ãtats-Unis. L'an prochain,
+plus de 50% des utilisateurs seront non anglophones. Il y a seulement
+cinq ans, c'Ã©tait 5%. Formidable, non?"
+
+Les usagers non anglophones atteignent en effet la barre des 50% au
+cours de l'Ã©tÃ© 2000. Selon Global Reach, ce pourcentage est de 52,5% en
+Ã©tÃ© 2001, 57% en dÃ©cembre 2001, 59,8% en avril 2002, 64,4% en septembre
+2003 (dont 34,9% dâEuropÃ©ens non anglophones et 29,4% dâAsiatiques) et
+64,2% en mars 2004 (dont 37,9% dâEuropÃ©ens non anglophones et 33%
+dâAsiatiques).
+
+Nombre de communautÃ©s pratiquent le bilinguisme au quotidien, par
+exemple Ã  GenÃ¨ve pour le franÃ§ais et lâallemand, Toronto pour l'anglais
+et le franÃ§ais, ou San Francisco pour lâanglais et lâespagnol, pour ne
+citer que trois exemples. Le cas extrÃªme Ã©tant la CommunautÃ© europÃ©enne
+avec ses 11 langues officielles en 2003, puis ses 24 langues
+officielles en 2007 aprÃ¨s son Ã©largissement progressif vers l'Europe de
+l'Est.
+
+
+
+VERS UN WEB MULTILINGUE
+
+
+= [Citation]
+
+Professeure dâespagnol en entreprise et traductrice, Maria Victoria
+Marinetti Ã©crit en aoÃ»t 1999: "Il est trÃ¨s important de pouvoir
+communiquer en diffÃ©rentes langues. Je dirais mÃªme que câest
+obligatoire, car lâinformation donnÃ©e sur l'internet est Ã  destination
+du monde entier, alors pourquoi ne lâaurions-nous pas dans notre propre
+langue ou dans la langue que nous souhaitons lire? Information
+mondiale, mais pas de vaste choix dans les langues, ce serait
+contradictoire, pas vrai?"
+
+
+= [Texte]
+
+En Californie, deux Ã©tudiants de l'UniversitÃ© de Stanford, Jerry Lang
+et David Filo, lancent en janvier 1994 l'annuaire Yahoo! pour recenser
+les sites web et les classer par thÃ¨mes. L'annuaire est un succÃ¨s, avec
+un classement plus pointu que celui de moteurs de recherche comme
+AltaVista, oÃ¹ ces tÃ¢ches sont entiÃ¨rement automatisÃ©es. Trois ans plus
+tard, Yahoo! propose un classement en 63 grandes catÃ©gories
+thÃ©matiques, tout comme une interface en plusieurs langues: anglais,
+allemand, corÃ©en, franÃ§ais, japonais, norvÃ©gien et suÃ©dois. De plus,
+quand une recherche ne donne pas de rÃ©sultat dans Yahoo!, elle est
+automatiquement aiguillÃ©e vers AltaVista, et rÃ©ciproquement.
+
+En dÃ©cembre 1997, AltaVista est le premier moteur de recherche Ã  lancer
+un service gratuit de traduction automatisÃ©e de l'anglais vers cinq
+autres langues (allemand, espagnol, franÃ§ais, italien et portugais) et
+vice versa, la page originale et la traduction apparaissant en vis-Ã -
+vis Ã  lâÃ©cran. AltaVista Translation, surnommÃ© aussi Babel Fish, est
+l'oeuvre de SYSTRAN, une sociÃ©tÃ© franco-amÃ©ricaine pionniÃ¨re dans le
+domaine de la traduction automatique. Babel Fish est alimentÃ© par des
+dictionnaires multilingues comprenant 2,5 millions de termes. Bien
+qu'ayant ses limites, avec une traduction de trois pages maximum et un
+texte traduit approximatif, ce service est immÃ©diatement trÃ¨s apprÃ©ciÃ©
+des douze millions d'usagers, dont un nombre croissant d'usagers non
+anglophones. Il ouvre aussi la voie Ã  d'autres services du mÃªme genre -
+dÃ©veloppÃ©s entre autres par Alis Technologies, Lernout & Hauspie,
+Globalink ou Softissimo - et contribue grandement au plurilinguisme du
+web.
+
+Autre initiative, Robert Ware, enseignant, lance en avril 1996 le site
+OneLook Dictionaries pour permettre une recherche rapide dans des
+centaines de dictionnaires couvrant divers domaines: affaires,
+informatique et internet, mÃ©decine, religion, sciences et techniques,
+sports, gÃ©nÃ©ralitÃ©s et argot. Il explique en septembre 1998: "A titre
+personnel, je suis presque uniquement en contact avec des gens qui ne
+pratiquent qu'une langue et qui n'ont pas beaucoup de motivation pour
+dÃ©velopper leurs aptitudes linguistiques. Ãtre en contact avec le monde
+entier change cette approche des choses. Et la change en mieux! (...)
+J'ai Ã©tÃ© long Ã  inclure des dictionnaires non anglophones (en partie
+parce que je suis monolingue). Mais vous en trouverez maintenant
+quelques-uns." OneLook Dictionaries compte 2 millions de termes
+provenant de 425 dictionnaires en 1998, 2,5 millions de termes
+provenant de 530 dictionnaires en 2000, et 5 millions de termes
+provenant de 910 dictionnaires en 2003.
+
+Robert Ware raconte aussi dans le mÃªme entretien par courriel: "Un fait
+intÃ©ressant s'est produit par le passÃ© qui a Ã©tÃ© trÃ¨s instructif pour
+moi. En 1994, je travaillais pour un Ã©tablissement scolaire et
+j'essayais d'installer un logiciel sur un modÃ¨le d'ordinateur
+particulier. J'ai trouvÃ© une personne qui Ã©tait en train de travailler
+sur le mÃªme problÃ¨me, et nous avons commencÃ© Ã  Ã©changer des courriers
+Ã©lectroniques. Soudain, cela m'a frappÃ©... Le logiciel avait Ã©tÃ© Ã©crit
+Ã  40 kilomÃ¨tres de lÃ , mais c'Ã©tait une personne situÃ©e Ã  l'autre bout
+du monde qui m'aidait. Les distances et l'Ã©loignement gÃ©ographique
+n'importaient plus! Et bien, ceci est formidable, mais Ã  quoi cela nous
+mÃ¨ne-t-il? Je ne puis communiquer qu'en anglais mais, heureusement, mon
+correspondant pouvait utiliser aussi bien l'anglais que l'allemand qui
+Ã©tait sa langue maternelle. L'internet a supprimÃ© une barriÃ¨re, celle
+de la distance, mais il subsiste la barriÃ¨re de la langue, bien rÃ©elle.
+
+Il semble que l'internet propulse simultanÃ©ment les gens dans deux
+directions diffÃ©rentes. L'internet, anglophone Ã  l'origine, relie les
+gens dans le monde entier. Par lÃ  mÃªme, il favorise une langue commune
+pour communiquer. Mais il suscite aussi des contacts entre des
+personnes de langue diffÃ©rente et permet ainsi de dÃ©velopper un intÃ©rÃªt
+plus grand pour le multilinguisme. Si une langue commune est
+apprÃ©ciable, elle ne remplace en aucun cas la  nÃ©cessitÃ© de plusieurs
+langues. L'internet favorise ainsi Ã  la fois une langue commune et le
+multilinguisme, et ceci est un facteur qui aide Ã  trouver des
+solutions. L'intÃ©rÃªt croissant pour les langues et le besoin qu'on en a
+stimulent de par le monde la crÃ©ation de cours de langues et
+d'instruments d'aide linguistique, et l'internet fournit la possibilitÃ©
+de les rendre disponibles rapidement et Ã  bon marchÃ©."
+
+MÃªme si l'anglais est encore prÃ©dominant Ã  la fin des annÃ©es 1990, les
+sites bilingues ou plurilingues sont de plus en plus nombreux, ce pour
+des raisons aussi bien commerciales que culturelles, qui prennent en
+compte le fait que tout le monde ne comprend pas l'anglais. Brian King,
+directeur du WorldWide Language Institute (WWLI), Ã©crit en septembre
+1998: "De mÃªme que l'utilisateur non anglophone peut maintenant avoir
+accÃ¨s aux technologies dans sa propre langue, l'impact du commerce
+Ã©lectronique peut constituer une force majeure qui fasse du
+multilinguisme la voie la plus naturelle vers le cyberespace. Les
+vendeurs de produits et services dans le marchÃ© virtuel mondial que
+devient l'internet doivent Ãªtre prÃ©parÃ©s Ã  desservir un monde virtuel
+qui soit aussi multilingue que le monde physique. S'ils veulent
+rÃ©ussir, ils doivent s'assurer qu'ils parlent bien la langue de leurs
+clients!"
+
+Le rÃ©seau ELSNET (European Network in Language and Speech - RÃ©seau
+europÃ©en pour le langage et la parole) regroupe une centaine de
+partenaires acadÃ©miques et commerciaux, l'objectif Ã©tant de mettre sur
+pied des systÃ¨mes multilingues pour la langue parlÃ©e et la langue
+Ã©crite. Steven Krauwer, coordinateur d'ELSNET, explique en septembre
+1998: "En tant que citoyen europÃ©en, je pense que le multilinguisme sur
+le web est absolument essentiel. A mon avis, ce n'est pas une situation
+saine Ã  long terme que seuls ceux qui ont une bonne maÃ®trise de
+l'anglais puissent pleinement exploiter les bÃ©nÃ©fices du web. En tant
+que chercheur (spÃ©cialisÃ© dans la traduction automatique), je vois le
+multilinguisme comme un dÃ©fi majeur: pouvoir garantir que l'information
+sur le web soit accessible Ã  tous, indÃ©pendamment des diffÃ©rences de
+langue. (...) Je compte passer le reste de ma vie professionnelle Ã 
+utiliser les technologies de l'information pour supprimer ou au moins
+rÃ©duire la barriÃ¨re des langues."
+
+Il ajoute en aoÃ»t 1999: "Je suis de plus en plus convaincu que nous
+devons veiller Ã  ne pas aborder le problÃ¨me du multilinguisme en
+l'isolant du reste. Je reviens de France, oÃ¹ j'ai passÃ© de trÃ¨s bonnes
+vacances d'Ã©tÃ©. MÃªme si ma connaissance du franÃ§ais est sommaire (c'est
+le moins que l'on puisse dire), il est surprenant de voir que je peux
+malgrÃ© tout communiquer sans problÃ¨me en combinant ce franÃ§ais sommaire
+avec des gestes, des expressions du visage, des indices visuels, des
+schÃ©mas, etc. Je pense que le web (contrairement au systÃ¨me vieillot du
+courrier Ã©lectronique textuel) peut permettre de combiner avec succÃ¨s
+la transmission des informations par diffÃ©rents canaux (ou diffÃ©rents
+moyens), mÃªme si ce processus n'est que partiellement satisfaisant pour
+chacun des canaux pris isolÃ©ment."
+
+Pour un vÃ©ritable multilinguisme sur le web, Steven Krauwer suggÃ¨re
+plusieurs solutions pratiques: "(a) en ce qui concerne les auteurs: une
+meilleure formation des auteurs de sites web pour exploiter les
+combinaisons possibles permettant d'amÃ©liorer la communication en
+surmontant la barriÃ¨re de la langue (et pas seulement par un vernis
+superficiel); (b) en ce qui concerne les usagers: des logiciels de
+traduction de type AltaVista Translation, dont la qualitÃ© n'est pas
+frappante, mais qui a le mÃ©rite d'exister; (c) en ce qui concerne les
+logiciels de navigation: des logiciels de traduction intÃ©grÃ©e,
+particuliÃ¨rement pour les langues non dominantes, et des dictionnaires
+intÃ©grÃ©s plus rapides Ã  consulter."
+
+Le multilinguisme est l'affaire de tous, tÃ©moin cet Appel du ComitÃ©
+europÃ©en pour le respect des cultures et des langues en Europe (CERCLE)
+qui, diffusÃ© en 1998 dans les onze langues officielles de l'Union
+europÃ©enne (allemand, anglais, danois, espagnol, finlandais, franÃ§ais,
+grec, hollandais, italien, portugais et suÃ©dois), dÃ©fend "une Europe
+humaniste, plurilingue et riche de sa diversitÃ© culturelle". Le CERCLE
+propose aux rÃ©viseurs du TraitÃ© de l'Union europÃ©enne douze amendements
+prenant en compte le respect des cultures et des langues. On lit dans
+cet Appel que "la diversitÃ© et le pluralisme linguistiques ne sont pas
+un obstacle Ã  la circulation des hommes, des idÃ©es et des marchandises
+ou services, comme veulent le faire croire certains, alliÃ©s objectifs,
+conscients ou non, de la culture et de la langue dominantes. C'est
+l'uniformisation et l'hÃ©gÃ©monie qui sont un obstacle au libre
+Ã©panouissement des individus, des sociÃ©tÃ©s et de l'Ã©conomie de
+l'immatÃ©riel, source principale des emplois de demain. Le respect des
+langues, Ã  l'inverse, est la derniÃ¨re chance pour l'Europe de se
+rapprocher des citoyens, objectif toujours affichÃ©, presque jamais mis
+en pratique. L'Union doit donc renoncer Ã  privilÃ©gier la langue d'un
+seul groupe."
+
+Bruno Didier, webmestre de la bibliothÃ¨que de lâInstitut Pasteur, Ã©crit
+en aoÃ»t 1999: "L'internet nâest une propriÃ©tÃ© ni nationale, ni
+linguistique. Câest un vecteur de culture, et le premier support de la
+culture, câest la langue. Plus il y a de langues reprÃ©sentÃ©es dans leur
+diversitÃ©, plus il y aura de cultures sur l'internet. Je ne pense pas
+quâil faille justement cÃ©der Ã  la tentation systÃ©matique de traduire
+ses pages dans une langue plus ou moins universelle. Les Ã©changes
+culturels passent par la volontÃ© de se mettre Ã  la portÃ©e de celui vers
+qui on souhaite aller. Et cet effort passe par lâapprÃ©hension de sa
+langue. Bien entendu câest trÃ¨s utopique comme propos. ConcrÃ¨tement,
+lorsque je fais de la veille, je peste dÃ¨s que je rencontre des sites
+norvÃ©giens ou brÃ©siliens sans un minimum dâanglais."
+
+
+
+L'ANGLAIS RESTE PREDOMINANT
+
+
+= [Citation]
+
+Lâanglais reste prÃ©pondÃ©rant et ceci nâest pas prÃ¨s de disparaÃ®tre.
+Comme indiquÃ© en janvier 1999 par Marcel Grangier, responsable de la
+section franÃ§aise des services linguistiques centraux de
+lâAdministration fÃ©dÃ©rale suisse, "cette suprÃ©matie nâest pas un mal en
+soi, dans la mesure oÃ¹ elle rÃ©sulte de rÃ©alitÃ©s essentiellement
+statistiques (plus de PC par habitant, plus de locuteurs de cette
+langue, etc.). La riposte nâest pas de 'lutter contre lâanglais' et
+encore moins de sâen tenir Ã  des jÃ©rÃ©miades, mais de multiplier les
+sites en dâautres langues. Notons quâen qualitÃ© de service de
+traduction, nous prÃ©conisons Ã©galement le multilinguisme des sites eux-
+mÃªmes. La multiplication des langues prÃ©sentes sur l'internet est
+inÃ©vitable, et ne peut que bÃ©nÃ©ficier aux Ã©changes multiculturels."
+
+
+= [Texte]
+
+Professeur en technologies de la communication Ã  la Webster University
+de GenÃ¨ve (Suisse), Henk Slettenhaar insiste tout autant sur la
+nÃ©cessitÃ© de sites bilingues, dans la langue originale et en anglais.
+"Les communautÃ©s locales prÃ©sentes sur le web devraient en tout premier
+lieu utiliser leur langue pour diffuser des informations, Ã©crit-il en
+dÃ©cembre 1998. Si elles veulent prÃ©senter ces informations Ã  la
+communautÃ© mondiale, celles-ci doivent Ãªtre Ã©galement disponibles en
+anglais. Je pense quâil existe un rÃ©el besoin de sites bilingues. (...)
+Mais je suis enchantÃ© quâil existe maintenant tant de documents
+disponibles dans leur langue originale. Je prÃ©fÃ¨re de beaucoup lire
+lâoriginal avec difficultÃ© plutÃ´t quâune traduction mÃ©diocre."
+
+Henk ajoute en aoÃ»t 1999: "A mon avis, il existe deux types de
+recherches sur le web. La premiÃ¨re est la recherche globale dans le
+domaine des affaires et de lâinformation. Pour cela, la langue est
+dâabord lâanglais, avec des versions locales si nÃ©cessaire. La seconde,
+ce sont les informations locales de tous ordres dans les endroits les
+plus reculÃ©s. Si lâinformation est Ã  destination dâune ethnie ou dâun
+groupe linguistique, elle doit dâabord Ãªtre disponible dans la langue
+de lâethnie ou du groupe, avec peut-Ãªtre un rÃ©sumÃ© en anglais."
+
+Alain Bron, consultant en systÃ¨mes d'information et Ã©crivain, explique
+pour sa part en novembre 1999: "Il y aura encore pendant longtemps
+l'usage de langues diffÃ©rentes et tant mieux pour le droit Ã  la
+diffÃ©rence. Le risque est bien entendu l'envahissement d'une langue au
+dÃ©triment des autres, donc l'aplanissement culturel. Je pense que des
+services en ligne vont petit Ã  petit se crÃ©er pour pallier cette
+difficultÃ©. Tout d'abord, des traducteurs pourront traduire et
+commenter des textes Ã  la demande, et surtout les sites de grande
+frÃ©quentation vont investir dans des versions en langues diffÃ©rentes,
+comme le fait l'industrie audiovisuelle."
+
+Selon Geoffrey Kingscott, directeur gÃ©nÃ©ral de Praetorius, sociÃ©tÃ©
+britannique spÃ©cialisÃ©e en linguistique appliquÃ©e, interviewÃ© en
+septembre 1998, "les caractÃ©ristiques propres au web sont la
+multiplicitÃ© de gÃ©nÃ©rateurs de sites et le bas prix de l'Ã©mission de
+messages. Ceci favorisera donc le multilinguisme au fur et Ã  mesure du
+dÃ©veloppement du web. Comme celui-ci a vu le jour aux Ãtats-Unis, il
+est encore principalement en anglais, mais ce n'est qu'un phÃ©nomÃ¨ne
+temporaire. Pour expliquer ceci plus en dÃ©tail, je dirais que quand
+nous comptions sur l'imprimÃ© ou l'audiovisuel (film, tÃ©lÃ©vision, radio,
+vidÃ©o, cassettes), l'information ou le divertissement que nous
+attendions dÃ©pendait d'agents (Ã©diteurs, stations de tÃ©lÃ©vision ou de
+radio, producteurs de cassettes ou de vidÃ©os) qui devaient subsister
+commercialement et, dans le cas de la radiotÃ©lÃ©diffusion du service
+public, avec de sÃ©vÃ¨res contraintes budgÃ©taires. Ceci signifie que la
+quantitÃ© de clients est primordiale, et dÃ©termine la nÃ©cessitÃ© de
+langues autres que l'omniprÃ©sent anglais. Ces contraintes disparaissent
+avec le web. Pour ne donner qu'un exemple mineur tirÃ© de notre
+expÃ©rience, nous publions la version imprimÃ©e de notre magazine
+Language Today uniquement en anglais, qui est le dÃ©nominateur commun de
+nos lecteurs. Quand nous utilisons un article qui Ã©tait originellement
+dans une langue autre que l'anglais, ou que nous relatons un entretien
+menÃ© dans une langue autre que l'anglais, nous le traduisons en anglais
+et nous ne publions que la version anglaise, pour la raison suivante:
+le nombre de pages que nous pouvons imprimer est limitÃ©, et dÃ©terminÃ©
+en fonction de notre clientÃ¨le (annonceurs et abonnÃ©s). Par contre,
+dans notre version web, nous proposons aussi la version originale."
+
+Luc dall'Armellina, co-auteur et webmestre dâoVosite, espace dâÃ©criture
+hypermÃ©dia, Ã©crit en juin 2000: "L'anglais s'impose sans doute parce
+qu'il est devenu la langue commerciale d'Ã©change gÃ©nÃ©ralisÃ©e; il semble
+important que toutes les langues puissent continuer Ã  Ãªtre reprÃ©sentÃ©es
+parce que chacune d'elle est porteuse d'une vision 'singuliÃ¨re' du
+monde. La traduction simultanÃ©e (proposÃ©e par AltaVista par exemple) ou
+les versions multilingues d'un mÃªme contenu me semblent aujourd'hui les
+meilleures rÃ©ponses au danger de pensÃ©e unique que reprÃ©senterait une
+seule langue d'Ã©change. Peut-Ãªtre appartient-il aux Ã©diteurs des
+systÃ¨mes d'exploitation (ou de navigateurs?) de proposer des solutions
+de traduction partielle, avec toutes les limites connues des systÃ¨mes
+automatiques de traduction..."
+
+Pierre Francois Gagnon, fondateur d'Editel et pionnier de l'Ã©dition
+littÃ©raire francophone en ligne, Ã©crit en juillet 2000: "Je pense que,
+si les diverses langues de la planÃ¨te vont occuper chacune l'internet
+en proportion de leur poids dÃ©mographique respectif, la nÃ©cessitÃ© d'une
+langue vÃ©hiculaire unique se fera sentir comme jamais auparavant, ce
+qui ne fera qu'assurer davantage encore la suprÃ©matie planÃ©taire de
+l'anglais, ne serait-ce que du fait qu'il a Ã©tÃ© adoptÃ© dÃ©finitivement
+par l'Inde et la Chine. Or la marche de l'histoire n'est pas plus
+comprimable dans le dÃ© Ã  coudre d'une quelconque Ã©quation mathÃ©matique
+que le marchÃ© des options en bourse!"
+
+Philippe LoubiÃ¨re, traducteur littÃ©raire et dramatique, dÃ©nonce pour sa
+part la main-mise anglophone sur le rÃ©seau. "Tout ce qui peut
+contribuer Ã  la diversitÃ© linguistique, sur internet comme ailleurs,
+est indispensable Ã  la survie de la libertÃ© de penser, explique-t-il en
+mars 2001. Je nâexagÃ¨re absolument pas: lâhomme moderne joue lÃ  sa
+survie. Cela dit, je suis trÃ¨s pessimiste devant cette Ã©volution. Les
+anglo-saxons vous Ã©crivent en anglais sans vergogne. Lâimmense majoritÃ©
+des FranÃ§ais constate avec une indiffÃ©rence totale le remplacement
+progressif de leur langue par le mauvais anglais des marchands et des
+publicitaires, et le reste du monde a parfaitement admis lâhÃ©gÃ©monie
+linguistique des anglo-saxons parce quâils nâont pas dâautres horizons
+que de servir ces riches et puissants maÃ®tres. La seule solution
+consisterait Ã  recourir Ã  des lÃ©gislations internationales assez
+contraignantes pour obliger les gouvernements nationaux Ã  respecter et
+Ã  faire respecter la langue nationale dans leur propre pays (le
+franÃ§ais en France, le roumain en Roumanie, etc.), cela dans tous les
+domaines et pas seulement sur internet. Mais ne rÃªvons pas..."
+
+C'est aussi le sentiment de Blaise Rosnay, webmestre du site du Club
+des poÃ¨tes, qui Ã©crit en janvier 2000: "Dans la mesure oÃ¹ la culture
+franÃ§aise, y compris contemporaine, pourra Ãªtre diffusÃ©e sans
+obstacles, la langue franÃ§aise aura la possibilitÃ© de rester vivante
+sur le rÃ©seau. Ses oeuvres, liÃ©es au gÃ©nie de notre langue, susciteront
+nÃ©cessairement de l'intÃ©rÃªt puisqu'elles sont en prise avec l'Ã©volution
+actuelle de l'esprit humain. Dans la mesure oÃ¹ il y aura une volontÃ©
+d'utiliser l'internet comme moyen de partage de la connaissance, de la
+beautÃ©, de la culture, toutes les langues, chacune avec leur gÃ©nie
+propre, y auront leur place. Mais si l'internet, comme cela semble Ãªtre
+le cas, abandonne ces promesses pour devenir un lieu unique de
+transactions commerciales, la seule langue qui y sera finalement parlÃ©e
+sera une sorte de jargon dÃ©naturant la belle langue anglaise, je veux
+dire un anglais amoindri Ã  l'usage des relations uniquement
+commerciales."
+
+Richard Chotin, professeur Ã  lâÃcole supÃ©rieure des affaires (ESA) de
+Lille, rappelle Ã  juste titre que la suprÃ©matie de lâanglais a succÃ©dÃ©
+Ã  celle du franÃ§ais. "Le problÃ¨me est politique et idÃ©ologique,
+explique-t-il en septembre 2000. Câest celui de lâ'impÃ©rialisme' de la
+langue anglaise dÃ©coulant de lâimpÃ©rialisme amÃ©ricain. Il suffit
+dâailleurs de se souvenir de lâ'impÃ©rialisme' du franÃ§ais aux 18e et
+19e siÃ¨cles pour comprendre la dÃ©ficience en langues des Ã©tudiants
+franÃ§ais: quand on nâa pas besoin de faire des efforts pour se faire
+comprendre, on nâen fait pas, ce sont les autres qui les font."
+
+Bakayoko Bourahima, bibliothÃ©caire de l'Ãcole nationale supÃ©rieure de
+statistique et dâÃ©conomie appliquÃ©e (ENSEA) d'Abidjan (CÃ´te d'Ivoire),
+Ã©crit en juillet 2000: "Pour nous les Africains francophones, le diktat
+de lâanglais sur la toile reprÃ©sente pour la masse un double handicap
+dâaccÃ¨s aux ressources du rÃ©seau. Il y a dâabord le problÃ¨me de
+lâalphabÃ©tisation qui est loin dâÃªtre rÃ©solu et que lâinternet va poser
+avec beaucoup plus dâacuitÃ©, ensuite se pose le problÃ¨me de la maÃ®trise
+dâune seconde langue Ã©trangÃ¨re et son adÃ©quation Ã  lâenvironnement
+culturel. En somme, Ã  dÃ©faut de multilinguisme, lâinternet va nous
+imposer une seconde colonisation linguistique avec toutes les
+contraintes que cela suppose. Ce qui nâest pas rien quand on sait que
+nos systÃ¨mes Ã©ducatifs ont dÃ©jÃ  beaucoup de mal Ã  optimiser leurs
+performances, en raison, selon certains spÃ©cialistes, des contraintes
+de lâutilisation du franÃ§ais comme langue de formation de base. Il est
+donc de plus en plus question de recourir aux langues vernaculaires
+pour les formations de base, pour 'dÃ©senclaver' lâÃ©cole en Afrique et
+lâimpliquer au mieux dans la valorisation des ressources humaines.
+Comment faire? Je pense quâil nây a pas de chance pour nous de faire
+prÃ©valoir une quelconque exception culturelle sur la toile, ce qui
+serait de nature tout Ã  fait grÃ©gaire. Il faut donc que les diffÃ©rents
+blocs linguistiques sâinvestissent beaucoup plus dans la promotion de
+leur accÃ¨s Ã  la toile, sans oublier leurs diffÃ©rentes spÃ©cificitÃ©s
+internes."
+
+Guy Antoine, crÃ©ateur de Windows on Haiti, site de rÃ©fÃ©rence sur la
+culture haÃ¯tienne, croit en la nÃ©cessitÃ© de l'anglais en tant que
+langue commune. "Pour des raisons pratiques, l'anglais continuera Ã 
+dominer le web, relate-t-il en novembre 1999. Je ne pense pas que ce
+soit une mauvaise chose, en dÃ©pit des sentiments rÃ©gionalistes qui s'y
+opposent, parce que nous avons besoin d'une langue commune permettant
+de favoriser les communications Ã  l'Ã©chelon international. Ceci dit, je
+ne partage pas l'idÃ©e pessimiste selon laquelle les autres langues
+n'ont plus qu'Ã  se soumettre Ã  la langue dominante. Au contraire. Tout
+d'abord l'internet peut hÃ©berger des informations utiles sur les
+langues minoritaires, qui seraient autrement amenÃ©es Ã  disparaÃ®tre sans
+laisser de traces. De plus, Ã  mon avis, l'internet incite les gens Ã 
+apprendre les langues associÃ©es aux cultures qui les intÃ©ressent. Ces
+personnes rÃ©alisent rapidement que la langue d'un peuple est un Ã©lÃ©ment
+fondamental de sa culture. De ce fait, je n'ai pas grande confiance
+dans les outils de traduction automatique qui, s'ils traduisent les
+mots et les expressions, ne peuvent guÃ¨re traduire l'Ã¢me d'un peuple.
+Que sont les HaÃ¯tiens, par exemple, sans le kreyÃ²l (crÃ©ole pour les non
+initiÃ©s), une langue qui s'est dÃ©veloppÃ©e et qui a permis de souder
+entre elles diverses tribus africaines transplantÃ©es Ã  HaÃ¯ti pendant la
+pÃ©riode de l'esclavage? Cette langue reprÃ©sente de maniÃ¨re la plus
+palpable l'unitÃ© de notre peuple. Elle est toutefois principalement une
+langue parlÃ©e et non Ã©crite. A mon avis, le web va changer cet Ã©tat de
+fait plus qu'aucun autre moyen traditionnel de diffusion d'une langue.
+Dans Windows on Haiti, la langue principale est l'anglais, mais on y
+trouve tout aussi bien un forum de discussion animÃ© conduit en kreyÃ²l.
+Il existe aussi des documents sur HaÃ¯ti en franÃ§ais et dans l'ancien
+crÃ©ole colonial, et je suis prÃªt Ã  publier d'autres documents en
+espagnol et dans diverses langues. Je ne propose pas de traductions,
+mais le multilinguisme est effectif sur ce site, et je pense qu'il
+deviendra de plus en plus la norme sur le web."
+
+Michel BenoÃ®t, romancier vivant Ã  MontrÃ©al (QuÃ©bec), Ã©crit en juin
+2000: "Lorsqu'un problÃ¨me affecte une structure, quelle qu'elle soit,
+j'ai toujours tendance Ã  imaginer que c'est techniquement que le
+problÃ¨me trouve sa solution. Vous connaissez cette thÃ©orie? Si les
+Romains avaient trouvÃ© le moyen d'enlever le plomb de leur couvert
+d'Ã©tain, NÃ©ron ne serait jamais devenu fou et n'aurait jamais incendiÃ©
+Rome. Escusi, farfelu? Peut-Ãªtre que oui, peut-Ãªtre que non. E que
+save? L'internet multilingue? Demain, ou aprÃ¨s-demain au plus. Voyons,
+pensez au premier ordinateur, il y a de cela un peu plus que cinquante
+ans. Un Ã©tage au complet pour faire Ã  peine plus que les quatre
+opÃ©rations de base. Dans ce temps-lÃ , un bug, c'Ã©tait vÃ©ritablement une
+mouche - ou autre insecte - qui s'insÃ©rait entre les lecteurs optiques.
+De nos jours [en 2000], un carte de 3 cm x 5 cm fait la mÃªme chose. La
+traduction instantanÃ©e: demain, aprÃ¨s-demain au plus."
+
+GÃ©rard Fourestier, crÃ©ateur de Rubriques Ã  Bac, un site destinÃ© aux
+Ã©tudiants du premier cycle universitaire, Ã©crit en octobre 2000: "Je
+suis de langue franÃ§aise. J'ai appris l'allemand, l'anglais, l'arabe,
+mais je suis encore loin du compte quand je surfe dans tous les coins
+de la planÃ¨te. Il serait dommage que les plus nombreux ou les plus
+puissants soient les seuls qui 's'affichent' et, pour ce qui est des
+logiciels de traduction, il y a encore largement Ã  faire. (...) Pour
+l'instant, [il importe] de connaÃ®tre suffisament d'anglais et de crÃ©er
+beaucoup plus encore en franÃ§ais."
+
+TÃ´t ou tard, le pourcentage des langues sur le rÃ©seau correspondra-t-il
+Ã  leur rÃ©partition sur la planÃ¨te? Rien nâest moins sÃ»r Ã  lâheure de la
+fracture numÃ©rique entre riches et pauvres, entre zones rurales et
+zones urbaines, entre rÃ©gions favorisÃ©es et rÃ©gions dÃ©favorisÃ©es, entre
+lâhÃ©misphÃ¨re nord et lâhÃ©misphÃ¨re sud, entre pays dÃ©veloppÃ©s et pays en
+dÃ©veloppement.
+
+Selon Zina Tucsnak, ingÃ©nieur dâÃ©tudes au laboratoire ATILF (Analyse et
+traitement informatique de la langue franÃ§aise), interviewÃ©e en octobre
+2000, "le meilleur moyen serait lâapplication dâune loi par laquelle on
+va attribuer un 'quota' Ã  chaque langue. Mais nâest-ce pas une utopie
+de demander lâapplication dâune telle loi dans une sociÃ©tÃ© de
+consommation comme la nÃ´tre?"
+
+A la mÃªme date, Emmanuel Barthe, documentaliste juridique, exprime un
+avis contraire: "Des signes rÃ©cents laissent penser quâil suffit de
+laisser les langues telles quâelles sont actuellement sur le web. En
+effet, les langues autres que lâanglais se dÃ©veloppent avec
+lâaccroissement du nombre de sites web nationaux sâadressant
+spÃ©cifiquement aux publics nationaux, afin de les attirer vers
+internet. Il suffit de regarder lâaccroissement du nombre de langues
+disponibles dans les interfaces des moteurs de recherche gÃ©nÃ©ralistes.
+Il serait nÃ©anmoins utile (et bÃ©nÃ©fique pour un meilleur Ã©quilibre des
+langues) de disposer de logiciels de traduction automatique de
+meilleure qualitÃ© et Ã  trÃ¨s bas prix sur internet. La rÃ©cente mise sur
+le web du GDT (Grand dictionnaire terminologique, rÃ©digÃ© par l'Office
+de la langue franÃ§aise du QuÃ©bec) va dans ce sens."
+
+Pierre Magnenat, responsable de la cellule "gestion et prospective" du
+centre informatique de l'UniversitÃ© de Lausanne, Ã©crit en octobre 2000:
+"La seule solution que je vois serait qu'un effort majeur et global
+soit entrepris pour dÃ©velopper des traducteurs automatiques. Je ne
+pense pas qu'une quelconque incitation ou autre quota pourrait empÃªcher
+la domination totale de l'anglais. Cet effort pourrait - et devrait -
+Ãªtre initiÃ© au niveau des Ã©tats, et disposer des moyens suffisants pour
+aboutir."
+
+Pierre-NoÃ«l Favennec, expert Ã  la direction scientifique de France
+TÃ©lÃ©com R&D, souligne en fÃ©vrier 2001: "Les recherches sur la
+traduction automatique devraient permettre une traduction automatique
+dans les langues souhaitÃ©es, mais avec des applications pour toutes les
+langues et non les seules dominantes (ex.: diffusion de documents en
+japonais, si lâÃ©metteur est de langue japonaise, et lecture en breton,
+si le rÃ©cepteur est de langue bretonne...). Il y a donc beaucoup de
+travaux Ã  faire dans le domaine de la traduction automatique et Ã©crite
+de toutes les langues."
+
+Lucie de Boutiny, romanciÃ¨re, Ã©crit en septembre 2000: "Les chiffres de
+septembre 2000 montrent que 51% des utilisateurs sont anglo-saxons, et
+78% des sites aussi. Les chiffres de cette prÃ©pondÃ©rance baissent Ã 
+mesure qu'augmentent le nombre des internautes de par le monde...
+L'anglais va devenir la deuxiÃ¨me langue mondiale aprÃ¨s la langue
+natale, mais il y en aura d'autres. Un exemple: personnellement, Ã 
+l'Ã¢ge de 4 ans, je parlais trois langues alors que je ne savais ni lire
+ni Ã©crire. Pour parler une langue, il peut suffire d'avoir la chance de
+l'Ã©couter. On peut espÃ©rer que le cosmopolitisme traverse toutes les
+classes sociales en raison, par exemple, de l'Union europÃ©enne, du
+nomadisme des travailleurs, de la facilitÃ© de dÃ©placement Ã  l'Ã©tranger
+des Ã©tudiants, de la prÃ©sence des chaÃ®nes TV et sites Ã©trangers, etc."
+
+
+
+LE FRANCAIS SUR L'INTERNET
+
+
+= [Citation]
+
+En dÃ©cembre 1997, Tim Berners-Lee, inventeur du web, dÃ©clare Ã  Pierre
+Ruetschi, journaliste Ã  la Tribune de GenÃ¨ve, un quotidien suisse:
+"Pourquoi les francophones ne mettent-ils pas davantage dâinformations
+sur le web? Est-ce quâils pensent que personne ne veut la lire, que la
+culture franÃ§aise nâa rien Ã  offrir? Câest de la folie, lâoffre est
+Ã©videmment Ã©norme." Câest chose faite dans les annÃ©es qui suivent.
+
+
+= [Texte]
+
+"En voulant trop en faire une affaire nationale, qui exprimerait aussi
+par ailleurs l'antipathie qu'ils ont envers les Anglais, les FranÃ§ais
+ont tendance Ã  freiner la propagation de leur culture. Cela est trÃ¨s
+regrettable", lit-on le 7 novembre 1996 dans Yomiyuri Shimbun, le plus
+grand quotidien japonais. Ce clichÃ© a-t-il jamais Ã©tÃ© vrai?
+
+DÃ©but 1998, les QuÃ©bÃ©cois, pionniers de l'internet francophone,
+attendent de pied ferme l'arrivÃ©e en masse de sites web franÃ§ais, y
+compris commerciaux. Lors d'un entretien publiÃ© par le magazine en
+ligne MultimÃ©dium, Louise Beaudouin, ministre de la Culture et des
+Communications au QuÃ©bec, dÃ©clare en fÃ©vrier 1998: "J'attendais depuis
+deux ans que la France se rÃ©veille. Aujourd'hui, je ne m'en plaindrai
+pas." A cette date, le QuÃ©bec (6 millions d'habitants) propose plus de
+sites web que la France (60 millions d'habitants). La ministre attribue
+le retard de la France Ã  deux facteurs: d'une part les tarifs Ã©levÃ©s du
+tÃ©lÃ©phone (et donc de l'internet, puisque la connexion s'effectue par
+le biais de la ligne tÃ©lÃ©phonique), d'autre part les transactions
+commerciales possibles sur le minitel (le videotex franÃ§ais) depuis
+plusieurs annÃ©es, ce qui ralentit l'expansion du commerce Ã©lectronique
+sur l'internet.
+
+C'est l'UREC (UnitÃ© rÃ©seaux du Centre national de la recherche
+scientifique) qui, en France, lance le premier annuaire de sites web
+francophones. L'annuaire de l'UREC a pour but de se familiariser avec
+le web sans se noyer dans la masse d'informations mondiale, et de
+connaÃ®tre les sites qui petit Ã  petit fleurissent en langue franÃ§aise.
+CrÃ©Ã© dÃ©but 1994, il recense d'abord les sites acadÃ©miques avant de
+devenir plus gÃ©nÃ©raliste. D'autres annuaires voient ensuite le jour,
+dont certains dÃ©butÃ©s avec l'aide de l'UREC. Le nombre de sites web, y
+compris commerciaux, augmente de maniÃ¨re exponentielle, si bien que la
+gestion d'un annuaire gÃ©nÃ©raliste devient difficile. En juillet 1997,
+considÃ©rant sa mission comme accomplie, l'UREC arrÃªte la mise Ã  jour de
+cet annuaire gÃ©nÃ©raliste, et le remplace par un annuaire spÃ©cialisÃ©
+consacrÃ© Ã  l'enseignement supÃ©rieur et Ã  la recherche.
+
+Le franÃ§ais n'est pas seulement la langue du QuÃ©bec, de la France et
+d'une partie de la Belgique et de la Suisse. Il est parlÃ© dans de
+nombreux pays - dont un certain nombre de pays africains - ce qui
+reprÃ©sente 500 millions de personnes. CrÃ©Ã©e en 1970 pour regrouper 21
+Ãtats francophones, l'Agence de la Francophonie en compte 47 en 1997.
+Cette agence se veut un "instrument de coopÃ©ration multilatÃ©rale nÃ©e
+d'un idÃ©al, celui de crÃ©er une communautÃ© qui fasse entendre sa voix
+dans le concert des nations."
+
+Une ConfÃ©rence des ministres francophones chargÃ©s des inforoutes a lieu
+Ã  MontrÃ©al (QuÃ©bec) en mai 1997. DatÃ©e du 21 mai 1997, la DÃ©claration
+de MontrÃ©al propose de "dÃ©velopper une aire francophone d'Ã©ducation, de
+formation et de recherche; soutenir la crÃ©ation et la circulation de
+contenus francophones et contribuer Ã  la sauvegarde et Ã  la
+valorisation des patrimoines; encourager la promotion de l'aire
+francophone de dÃ©veloppement Ã©conomique; mettre en place une vigie
+francophone (veille active); sensibiliser prioritairement la jeunesse
+ainsi que les utilisateurs, les producteurs et les dÃ©cideurs; assurer
+la prÃ©sence et la concertation des francophones dans les instances
+spÃ©cialisÃ©es."
+
+Par ailleurs, lâAgence universitaire de la Francophonie (AUF) crÃ©e le
+rÃ©seau internet REFER pour desservir la communautÃ© scientifique et
+technique en Afrique, en Asie et en Europe orientale, avec 24 pays
+participants en 2002.
+
+S'il est la langue des pays francophones, le franÃ§ais est aussi la
+deuxiÃ¨me langue utilisÃ©e dans les organisations internationales. MalgrÃ©
+la pression anglophone - rÃ©elle ou supposÃ©e selon les cas -, des
+francophones veillent Ã  ce que leur langue ait une place significative
+en Europe et dans le monde, au mÃªme titre que les autres grandes
+langues de communication que sont l'anglais, l'arabe, le chinois et
+l'espagnol. LÃ  aussi, l'optique est aussi bien la dÃ©fense d'une langue
+que le respect du multilinguisme et de la diversitÃ© des peuples.
+
+
+
+ENCODAGE: DE L'ASCII A L'UNICODE
+
+
+= [Citation]
+
+Olivier Gainon, fondateur de CyLibris et pionnier de lâÃ©dition
+littÃ©raire en ligne, Ã©crit en dÃ©cembre 2000: "Il faut que le rÃ©seau
+respecte les lettres accentuÃ©es, les lettres spÃ©cifiques, etc. Je crois
+trÃ¨s important que les futurs protocoles permettent une transmission
+parfaite de ces aspects - ce qui nâest pas forcÃ©ment simple (dans les
+futures Ã©volutions de lâHTML ou des protocoles IP, etc.). Donc il faut
+que chacun puisse se sentir Ã  lâaise avec lâinternet et que ce ne soit
+pas simplement rÃ©servÃ© Ã  des (plus ou moins) anglophones. Il est
+anormal aujourdâhui que la transmission dâaccents puisse poser problÃ¨me
+dans les courriers Ã©lectroniques. La premiÃ¨re dÃ©marche me semble donc
+une dÃ©marche technique. Si on arrive Ã  faire cela, le reste en dÃ©coule:
+la reprÃ©sentation des langues se fera en fonction du nombre de
+connectÃ©s, et il faudra envisager Ã  terme des moteurs de recherche
+multilingues."
+
+
+= ASCII
+
+Communiquer dans plusieurs langues implique dâavoir des systÃ¨mes
+d'encodage adaptÃ©s Ã  nos alphabets ou idÃ©ogrammes respectifs.
+
+Le premier systÃ¨me d'encodage informatique est lâASCII (American
+standard code for information interchange). PubliÃ© en 1968 aux Ãtats-
+Unis par lâAmerican National Standards Institute (ANSI), avec
+actualisation en 1977 et 1986, l'ASCII est un code standard de
+128 caractÃ¨res traduits en langage binaire sur sept bits (A est traduit
+par "1000001", B est traduit par "1000010", etc.). Les 128 caractÃ¨res
+comprennent 33 caractÃ¨res de contrÃ´le (qui ne reprÃ©sentent donc pas de
+symbole Ã©crit) et 95 caractÃ¨res imprimables: les 26 lettres sans accent
+en majuscules (A-Z) et minuscules (a-z), les chiffres, les signes de
+ponctuation et quelques caractÃ¨res spÃ©ciaux, le tout correspondant aux
+touches du clavier anglais ou amÃ©ricain.
+
+L'ASCII permet uniquement la lecture de lâanglais et du latin. Il ne
+permet pas de prendre en compte les lettres accentuÃ©es prÃ©sentes dans
+bon nombre de langues europÃ©ennes, et Ã  plus forte raison les langues
+non alphabÃ©tiques (chinois, japonais, corÃ©en, etc.). Ceci ne pose pas
+de problÃ¨me majeur les premiÃ¨res annÃ©es, tant que lâÃ©change de fichiers
+Ã©lectroniques se limite essentiellement Ã  lâAmÃ©rique du Nord. Mais le
+multilinguisme devient bientÃ´t une nÃ©cessitÃ© vitale. Des variantes de
+lâASCII (norme ISO-8859 ou ISO-Latin) prennent en compte les caractÃ¨res
+accentuÃ©s de quelques langues europÃ©ennes. La variante pour le
+franÃ§ais, par exemple, est dÃ©finie par la norme ISO-8859-1 (ISO-Latin-
+1).
+
+CrÃ©Ã© en dÃ©cembre 1995 par Yoshi Mikami, informaticien Ã  Tokyo (Japon)
+dans la sociÃ©tÃ© Asia Info Network, le site bilingue anglais-japonais
+"The Languages of the World by Computers and the Internet" (Les langues
+du monde sur ordinateur et internet) est connu aussi sous le nom de
+Logos Home Page ou Kotoba Home Page. Le site donne un bref historique
+de chaque langue, ses caractÃ©ristiques, son systÃ¨me d'Ã©criture, son jeu
+de caractÃ¨res et enfin la configuration du clavier dans la langue
+donnÃ©e. Yoshi Mikami est Ã©galement co-auteur (avec Kenji Sekine et
+Nobutoshi Kohara) de "Pour un web multilingue", publiÃ© en aoÃ»t 1997 en
+japonais par les Ã©ditions O'Reilly avant d'Ãªtre traduit en anglais, en
+allemand et en franÃ§ais (version franÃ§aise parue en septembre 1998).
+
+Yoshi Ã©crit en dÃ©cembre 1998: "Ma langue maternelle est le japonais.
+Comme j'ai suivi mes Ã©tudes de troisiÃ¨me cycle aux Ãtats-Unis et que
+j'ai travaillÃ© dans l'informatique, je suis devenu bilingue
+japonais/anglais amÃ©ricain. J'ai toujours Ã©tÃ© intÃ©ressÃ© par diffÃ©rentes
+langues et cultures, aussi j'ai appris le russe, le franÃ§ais et le
+chinois dans la foulÃ©e. A la fin de 1995, j'ai crÃ©Ã© sur le web 'The
+Languages of the World by Computers and the Internet' et j'ai tentÃ© de
+donner - en anglais et en japonais - un bref historique de toutes ces
+langues, ainsi que les caractÃ©ristiques propres Ã  chaque langue et Ã  sa
+phonÃ©tique. Suite Ã  l'expÃ©rience acquise, j'ai invitÃ© mes deux associÃ©s
+Ã  Ã©crire un livre sur la conception, la crÃ©ation et la prÃ©sentation de
+pages web multilingues, livre qui fut publiÃ© en aoÃ»t 1997 dans son
+Ã©dition japonaise, le premier livre au monde sur un tel sujet."
+
+Comment voit-il l'Ã©volution vers un web multilingue? "Il y a des
+milliers d'annÃ©es de cela, en Ãgypte, en Chine et ailleurs, les gens
+Ã©taient plus sensibles au fait de communiquer leurs lois et leurs
+rÃ©flexions non seulement dans une langue mais dans plusieurs. Dans
+notre monde moderne, chaque Ãtat a le plus souvent adoptÃ© une seule
+langue de communication. A mon avis, l'internet verra l'utilisation
+plus grande de langues diffÃ©rentes et de pages multilingues - et pas
+seulement une gravitation autour de l'anglais amÃ©ricain - et un usage
+plus crÃ©atif de la traduction informatique multilingue. 99% des sites
+web crÃ©Ã©s au Japon sont en japonais!"
+
+
+= Unicode
+
+Avec le dÃ©veloppement du web, lâÃ©change des donnÃ©es sâinternationalise
+de plus en plus. On ne peut plus se limiter Ã  lâutilisation de
+lâanglais et de quelques langues europÃ©ennes, traduites par un systÃ¨me
+dâencodage datant de 1968. De plus, le passage de lâASCII original Ã 
+ses diffÃ©rentes extensions devient vite un vÃ©ritable casse-tÃªte, y
+compris au sein de lâUnion europÃ©enne, les problÃ¨mes Ã©tant entre autres
+la multiplication des variantes, la corruption des donnÃ©es dans les
+Ã©changes informatiques ou encore lâincompatibilitÃ© des systÃ¨mes, les
+pages ne pouvant Ãªtre affichÃ©es que dans une seule langue Ã  la fois.
+
+PubliÃ© pour la premiÃ¨re fois en janvier 1991, lâUnicode est un systÃ¨me
+d'encodage "universel" sur 16 bits spÃ©cifiant un nombre unique pour
+chaque caractÃ¨re. Ce nombre est lisible quels que soient la plateforme,
+le logiciel et la langue utilisÃ©s. LâUnicode peut traiter 65.000
+caractÃ¨res uniques et prendre en compte tous les systÃ¨mes dâÃ©criture de
+la planÃ¨te. A la grande satisfaction des linguistes, il remplace
+progressivement lâASCII. LâUnicode dispose de plusieurs variantes en
+fonction des besoins, par exemple UTF-8, UTF-16 et UTF-32 (UTF: Unicode
+transformation format). Il devient une composante des spÃ©cifications du
+World Wide Web Consortium (W3C), l'organisme international chargÃ© du
+dÃ©veloppement du web.
+
+Lâutilisation de lâUnicode se gÃ©nÃ©ralise en 1998, par exemple pour les
+fichiers texte sous plateforme Windows (Windows NT, Windows 2000,
+Windows XP et versions suivantes), qui Ã©taient jusque-lÃ  en ASCII.
+
+Mais lâUnicode ne peut rÃ©soudre tous les problÃ¨mes, comme le souligne
+en juin 2000 Luc DallâArmellina, co-auteur et webmestre dâoVosite, un
+espace dâÃ©criture hypermÃ©dia: "Les systÃ¨mes dâexploitation se dotent
+peu Ã  peu des kits de langues et bientÃ´t peut-Ãªtre de polices de
+caractÃ¨res Unicode Ã  mÃªme de reprÃ©senter toutes les langues du monde;
+reste que chaque application, du traitement de texte au navigateur web,
+emboÃ®te ce pas. Les difficultÃ©s sont immenses: notre clavier avec ses Â±
+250 touches avoue ses manques dÃ¨s lors quâil faille saisir des Katakana
+ou Hiragana japonais, pire encore avec la langue chinoise. La grande
+variÃ©tÃ© des systÃ¨mes dâÃ©criture de par le monde et le nombre de leurs
+signes font barrage. Mais les Ã©cueils culturels ne sont pas moins
+importants, liÃ©s aux codes et modalitÃ©s de reprÃ©sentation propres Ã 
+chaque culture ou ethnie."
+
+Patrick Rebollar, professeur de littÃ©rature franÃ§aise au Japon et
+modÃ©rateur de la liste de diffusion LITOR (littÃ©rature et ordinateur),
+donne son sentiment en janvier 2000: "Il s'agit d'abord d'un problÃ¨me
+logiciel. Comme on le voit avec Netscape ou Internet Explorer, la
+possibilitÃ© d'affichage multilingue existe. La compatibilitÃ© entre ces
+logiciels et les autres (de la suite Office de Microsoft, par exemple)
+n'est cependant pas acquise. L'adoption de la table Unicode devrait
+rÃ©soudre une grande partie des problÃ¨mes, mais il faut pour cela
+rÃ©Ã©crire la plupart des logiciels, ce Ã  quoi les producteurs de
+logiciels rechignent du fait de la dÃ©pense, pour une rentabilitÃ© qui
+n'est pas Ã©vidente car ces logiciels entiÃ¨rement multilingues
+intÃ©ressent moins de clients que les logiciels de navigation."
+
+
+= ASCII et/ou Unicode
+
+Le Projet Gutenberg est fondÃ© dÃ¨s 1971 par Michael Hart pour numÃ©riser
+les oeuvres littÃ©raires et les mettre gratuitement Ã  la disposition de
+tous. Quâelles aient Ã©tÃ© numÃ©risÃ©es il y a des annÃ©es ou quâelles
+soient numÃ©risÃ©es maintenant, toutes les oeuvres sont numÃ©risÃ©es en
+mode texte, en utilisant lâASCII original sur sept bits ou, pour les
+langues avec accents, l'ASCII sur huit bits prenant en compte les
+caractÃ¨res accentuÃ©s. Mais, mÃªme dans ce cas, le Projet Gutenberg
+propose aussi systÃ©matiquement en complÃ©ment une version ASCII sur sept
+bits sans accents. Sauf, bien entendu, dans le cas de langues non
+encodables en ASCII, comme le chinois, qui est encodÃ© au format Big-5.
+
+SurnommÃ© Ã  juste raison "le plus petit dÃ©nominateur commun", l'ASCII
+sur sept bits est le seul format compatible avec 99% des machines et
+des logiciels, et pouvant Ãªtre converti dans de nombreux autres
+formats. Il sera toujours utilisÃ© quand dâautres formats auront
+disparu, Ã  commencer par les formats Ã©phÃ©mÃ¨res liÃ©s Ã  quelques
+appareils de lecture lancÃ©s entre 1999 et 2003 et dÃ©jÃ  disparus du
+marchÃ©. Il est lâassurance que les collections ne deviendront jamais
+obsolÃ¨tes, et survivront aux changements technologiques des prochaines
+dÃ©cennies ou mÃªme des prochains siÃ¨cles. Il n'existe pas d'autre
+standard aussi largement utilisÃ©, y compris l'Unicode, systÃ¨me
+d'encodage "universel" crÃ©Ã© en 1991. Ce jusqu'en 2008, date Ã  laquelle
+les deux systÃ¨mes d'encodage sont Ã©galement reprÃ©sentÃ©s sur le web.
+
+Le Projet Gutenberg propose certains livres dans dâautres formats que
+l'ASCII, notamment dans les trois formats rÃ©pandus que sont les formats
+HTML, XML et RTF. Des fichiers Unicode sont Ã©galement prÃ©sents. De
+plus, tout format proposÃ© par tel ou tel volontaire est gÃ©nÃ©ralement
+acceptÃ© (PDF, LIT, TeX et beaucoup d'autres), dans la mesure oÃ¹ un
+fichier ASCII est Ã©galement prÃ©sent.
+
+En ce qui concerne les langues, le Projet Gutenberg est essentiellement
+anglophone, puisquâil est basÃ© aux Ãtats-Unis et qu'il sert en prioritÃ©
+la communautÃ© anglophone nationale et internationale. En octobre 1997,
+Michael Hart annonce son intention d'intensifier la production de
+livres dans des langues autres que l'anglais. DÃ©but 1998, le catalogue
+comprend quelques oeuvres en allemand, en espagnol, en franÃ§ais (dix
+titres), en italien et en latin. En juillet 1999, Michael Ã©crit:
+"J'introduis une nouvelle langue par mois maintenant, et je vais
+poursuivre cette politique aussi longtemps que possible."
+
+Le multilinguisme devient ensuite l'une des prioritÃ©s du Projet
+Gutenberg, tout comme l'internationalisation, avec le Project Gutenberg
+Australia (crÃ©Ã© en aoÃ»t 2001), le Projet Gutenberg Europe (crÃ©Ã© en
+janvier 2004), le Project Gutenberg Canada (crÃ©Ã© en juillet 2007), et
+d'autres Projet Gutenberg Ã  venir dans divers pays. Dans le Projet
+Gutenberg original, 25 langues sont reprÃ©sentÃ©es en janvier 2004 et 42
+langues en juillet 2005. DÃ¨s ses dÃ©buts en janvier 2004, Distributed
+Proofreaders Europe (DP Europe) est un site multilingue, qui prend en
+compte les principales langues nationales. Ce site est calquÃ© sur le
+site original de Distributed Proofreaders, pour gÃ©rer la relecture
+partagÃ©e entre les volontaires. En avril 2004, grÃ¢ce Ã  des traducteurs
+volontaires, le site de DP Europe est disponible en douze langues.
+L'objectif Ã  moyen terme est un site en soixante langues, et donc
+soixante Ã©quipes linguistiques, avec prise en compte de toutes les
+langues europÃ©ennes. DP Europe utilise l'Unicode et non l'ASCII, pour
+pouvoir traiter des livres dans un grand nombre de langues.
+
+
+
+PREMIERS PROJETS MULTILINGUES
+
+
+= [Citation]
+
+Tyler Chambers, crÃ©ateur de deux projets sur le web - Human-Languages
+Page (Page des langues humaines) et Internet Dictionary Project (Projet
+de dictionnaires internet) - relate en septembre 1998: "Mon activitÃ© en
+ligne a Ã©tÃ© de rendre des donnÃ©es linguistiques accessibles Ã  davantage
+de gens par le biais de deux de mes projets sur le web. Bien que je ne
+sois pas multilingue, ni mÃªme bilingue moi-mÃªme, je suis conscient du
+fait que trÃ¨s peu de domaines ont une importance comparable Ã  celle des
+langues et du multilinguisme. (...) Dans l'ensemble, je pense que le
+web est important pour la sensibilisation aux langues et pour les
+questions culturelles. Dans quel autre endroit peut-on chercher au
+hasard pendant vingt minutes et trouver des informations susceptibles
+de vous intÃ©resser dans trois langues diffÃ©rentes sinon plus?"
+
+
+= Travlang
+
+Travlang, site dÃ©diÃ© Ã  la fois aux voyages et aux langues, est crÃ©Ã© par
+Michael C. Martin en 1994 sur le site de son universitÃ© alors qu'il
+Ã©tait Ã©tudiant en physique. Devenu chercheur au Lawrence Berkeley
+National Laboratory (Californie), Michael Martin poursuit la gestion de
+ce site devenu trÃ¨s populaire. La section Foreign Languages for
+Travelers (Langues Ã©trangÃ¨res pour les voyageurs) donne la possibilitÃ©
+d'apprendre les rudiments de soixante langues sur le web. La section
+Translating Dictionaries (Dictionnaires de langues) donne accÃ¨s Ã  des
+dictionnaires gratuits dans diverses langues (afrikaans, allemand,
+danois, espagnol, espÃ©ranto, finnois, franÃ§ais, frison, hollandais,
+hongrois, italien, latin, norvÃ©gien, portugais et tchÃ¨que). Ces
+dictionnaires sont le plus souvent sommaires et de qualitÃ© inÃ©gale. Le
+site offre aussi de nombreux liens vers des services de traduction, des
+Ã©coles de langue, des librairies multilingues, etc.
+
+Michael Martin Ã©crit en aoÃ»t 1998: "Je pense que le web est un endroit
+idÃ©al pour rapprocher les cultures et les personnes, et ceci inclut
+d'Ãªtre multilingue. Notre site Travlang est trÃ¨s populaire pour cette
+raison, et les gens aiment le contact avec d'autres parties du monde.
+(...) L'internet est vraiment un outil important pour communiquer avec
+des gens avec lesquels on n'aurait pas l'occasion de dialoguer
+autrement. J'apprÃ©cie vraiment la collaboration gÃ©nÃ©rale qui a rendu
+possibles les pages de Foreign Languages for Travelers. (...) Je pense
+que les traductions intÃ©grales informatisÃ©es vont devenir monnaie
+courante, et qu'elles permettront de communiquer Ã  la base avec
+davantage de gens. Ceci aidera aussi Ã  amener davantage l'internet au
+monde non anglophone."
+
+
+= Human-Languages Page
+
+CrÃ©Ã©e par Tyler Chambers en mai 1994, The Human-Languages Page (La page
+des langues humaines) est un catalogue dÃ©taillÃ© de 1.800 ressources
+linguistiques dans une centaine de langues. Les grandes rubriques sont:
+langues et littÃ©rature, Ã©coles et institutions, ressources
+linguistiques, produits et services, organismes, emplois et stages,
+dictionnaires et cours de langues.
+
+Tyler Chambers mÃ¨ne aussi un autre projet relatif aux langues,
+l'Internet Dictionary Project
+(Projet de dictionnaires internet), un projet coopÃ©ratif ouvert Ã  tous
+pour la constitution de dictionnaires en accÃ¨s libre sur le web, de
+l'anglais vers d'autres langues (allemand, espagnol, franÃ§ais, italien,
+latin et portugais).
+
+Comme expliquÃ© sur le site web, "le but de l'Internet Dictionary
+Project est de crÃ©er des dictionnaires de traduction grÃ¢ce Ã  l'aide des
+internautes. Ce site permet aux individus du monde entier de consulter
+et de participer Ã  la traduction de termes anglais dans d'autres
+langues. Les listes de termes anglais et leurs correspondants dans
+d'autres langues sont ensuite mis Ã  la disposition de tous sur ce site,
+sans restriction d'aucune sorte. (...) The Internet Dictionary Project
+a dÃ©butÃ© en 1995 pour combler une lacune et procurer des dictionnaires
+de traduction gratuits Ã  la communautÃ© des internautes et Ã  tous ceux
+qui s'intÃ©ressent Ã  l'informatique. Non seulement il est trÃ¨s utile
+d'avoir immÃ©diatement accÃ¨s Ã  des dictionnaires par le World Wide Web,
+mais ceci permet aussi le dÃ©veloppement de logiciels pouvant tirer
+parti de tels dictionnaires, que ce soit des programmes de traduction
+ou des vÃ©rificateurs d'orthographe ou encore des guides d'apprentissage
+des langues. En facilitant la crÃ©ation de ces dictionnaires en ligne
+par des milliers de volontaires, et en les mettant gratuitement Ã  la
+disposition de tous, l'Internet Dictionary Project espÃ¨re imprimer sa
+marque sur l'internet et susciter d'autres projets qui seront plus
+bÃ©nÃ©fiques que de gÃ©nÃ©rer des revenus purement financiers."
+
+Tyler Chambers Ã©crit en septembre 1998 lors d'un entretien par
+courriel: "Le multilinguisme sur le web Ã©tait inÃ©vitable bien avant que
+ce mÃ©dium ne se dÃ©veloppe vraiment. Mon premier vrai contact avec
+l'internet date de 1994, un peu aprÃ¨s ses dÃ©buts mais bien avant son
+expansion. 1994 a Ã©tÃ© aussi l'annÃ©e oÃ¹ j'ai dÃ©butÃ© mon premier projet
+web multilingue, et il existait dÃ©jÃ  un nombre significatif de
+ressources linguistiques en ligne. Ceci Ã©tait antÃ©rieur Ã  la crÃ©ation
+de Netscape. Mosaic Ã©tait le seul navigateur sur le web, et les pages
+web Ã©taient essentiellement des documents textuels reliÃ©s par des
+hyperliens. Avec l'amÃ©lioration des navigateurs et l'expÃ©rience acquise
+par les usagers, je ne pense pas qu'il existe une langue vivante qui ne
+soit pas maintenant reprÃ©sentÃ©e sur le web, que ce soit la langue des
+Indiens d'AmÃ©rique ou les dialectes moyen-orientaux. De mÃªme une
+plÃ©thore de langues mortes peut maintenant trouver une audience
+nouvelle avec des Ã©rudits et autres spÃ©cialistes en ligne. A ma
+connaissance, trÃ¨s peu de jeux de caractÃ¨res ne sont pas disponibles en
+ligne: les navigateurs ont maintenant la possibilitÃ© de visualiser les
+caractÃ¨res romains, asiatiques, cyrilliques, grecs, turcs, etc. Accent
+Software a un produit appelÃ© 'Internet avec accents' qui serait capable
+de visualiser plus de 30 encodages diffÃ©rents. S'il existe encore des
+obstacles Ã  la diffusion d'une langue spÃ©cifique sur le web, ceci ne
+devrait pas durer."
+
+En ce qui concerne les projets en ligne de Tyler: "Mon activitÃ© en
+ligne a Ã©tÃ© de rendre l'information linguistique accessible Ã  davantage
+de gens par le biais de deux de mes projets sur le web. Bien que je ne
+sois pas multilingue, ni mÃªme bilingue moi-mÃªme, je suis conscient du
+fait que trÃ¨s peu de domaines ont une importance comparable Ã  celle des
+langues et du multilinguisme. L'internet m'a permis de toucher des
+millions de personnes et de les aider Ã  trouver ce qu'elles
+cherchaient, chose que je suis heureux de faire. Je suis devenu aussi
+une sorte de cÃ©lÃ©britÃ©, ou au moins quelqu'un de familier dans certains
+cercles. Je viens de dÃ©couvrir qu'un de mes projets est briÃ¨vement
+mentionnÃ© dans les Ã©ditions asiatique et internationale de Time
+Magazine. Dans l'ensemble, je pense que le web est important pour la
+sensibilisation aux langues et pour les questions culturelles. Dans
+quel autre endroit peut-on chercher au hasard pendant vingt minutes et
+trouver des informations susceptibles de vous intÃ©resser dans trois
+langues diffÃ©rentes sinon plus? Les mÃ©dias de communication rendent le
+monde plus petit en rapprochant les gens; je pense que le web est le
+premier mÃ©dium - bien plus que le courrier, le tÃ©lÃ©graphe, le
+tÃ©lÃ©phone, la radio ou la tÃ©lÃ©vision - Ã  rÃ©ellement permettre Ã 
+l'usager moyen de franchir les frontiÃ¨res nationales et culturelles.
+IsraÃ«l n'est plus Ã  des milliers de kilomÃ¨tres, mais seulement Ã 
+quelques clics de souris. Notre monde est dÃ©sormais suffisamment petit
+pour tenir sur un Ã©cran d'ordinateur."
+
+Comment Tyler voit-il l'avenir? "Je pense que l'avenir de l'internet
+rÃ©side dans davantage de multilinguisme, d'exploration et de
+comprÃ©hension multiculturelles que nous n'en avons jamais vu. Toutefois
+l'internet sera seulement le mÃ©dium au travers duquel l'information
+circule. Comme le papier qui sert de support au livre, l'internet en
+lui-mÃªme augmente trÃ¨s peu le contenu de l'information. Par contre il
+augmente Ã©normÃ©ment la valeur de celle-ci dans la capacitÃ© qu'il a de
+communiquer cette information. Dire que l'internet aiguillonne le
+multilinguisme est Ã  mon sens une opinion fausse. C'est la
+communication qui aiguillonne le multilinguisme et l'Ã©change
+multiculturel. L'internet est seulement le mode de communication le
+plus rÃ©cent qui soit accessible aux gens plus ou moins ordinaires.
+L'internet a un long chemin Ã  parcourir avant d'Ãªtre omniprÃ©sent dans
+le monde entier, mais il est vraissemblable que lui-mÃªme ou un mÃ©dium
+de la mÃªme lignÃ©e atteigne ce but. Les langues deviendront encore plus
+importantes qu'elles ne le sont quand tout le monde pourra communiquer
+Ã  l'Ã©chelle de la planÃ¨te (Ã  travers le web, les discussions, les jeux,
+le courrier Ã©lectronique, ou toute application appartenant encore au
+domaine de l'avenir), mais je ne sais pas si ceci mÃ¨nera Ã  un
+renforcement des attaches linguistiques ou Ã  une fusion des langues
+jusqu'Ã  ce qu'il n'en subsite plus que quelques-unes ou mÃªme une seule.
+Une chose qui m'apparaÃ®t certaine est que l'internet sera toujours la
+marque de notre diversitÃ©, y compris la diversitÃ© des langues, mÃªme si
+cette diversitÃ© diminue. Et c'est une des choses que j'aime au sujet de
+l'internet, c'est un exemple Ã  l'Ã©chelle mondiale du dicton: 'Cela n'a
+pas vraiment disparu tant que quelqu'un s'en souvient.' Et les gens se
+souviennent."
+
+Au printemps 2001, The Human-Languages Page fusionne avec le Languages
+Catalog (Catalogue des langues), section de la WWW Virtual Library,
+pour devenir iLoveLanguages. En septembre 2003, iLoveLanguages offre
+2.000 ressources linguistiques dans une centaine de langues. Quant Ã 
+l'Internet Dictionary Project, faute de temps, Tyler met fin Ã  ce
+projet en janvier 2007, tout en laissant les dictionnaires existants
+tels quels sur le web pour consultation ou tÃ©lÃ©chargement.
+
+
+= NetGlos
+
+NetGlos - abrÃ©gÃ© de "The Multilingual Glossary of Internet Terminology"
+(Le glossaire multilingue de la terminologie de l'internet) - est lancÃ©
+en 1995 Ã  l'initiative du WorldWide Language Institute (Institut des
+langues du monde entier). Il s'agit d'un projet coopÃ©ratif en treize
+langues (allemand, anglais, chinois, croate, espagnol, franÃ§ais, grec,
+hÃ©breu, hollandais/flamand, italien, maori, norvÃ©gien et portugais),
+avec la participation de nombre de traducteurs et autres professionnels
+des langues.
+
+Brian King, directeur du WorldWide Language Institute (WWLI), explique
+en septembre 1998: "Bien que l'anglais soit la langue la plus
+importante du web et de l'internet en gÃ©nÃ©ral, je pense que le
+multilinguisme fait inÃ©vitablement partie des futures orientations du
+cyberespace. Voici quelques Ã©lÃ©ments qui, Ã  mon sens, permettront que
+le web multilingue devienne une rÃ©alitÃ©:
+
+1. <La popularisation des technologies de l'information>. La
+technologie des ordinateurs a longtemps Ã©tÃ© le seul domaine d'une Ã©lite
+'technicienne', Ã  l'aise Ã  la fois dans des langages de programmation
+complexes et en anglais, la langue universelle des sciences et
+techniques. Au dÃ©part, les ordinateurs n'ont jamais Ã©tÃ© conÃ§us pour
+manier des systÃ¨mes d'Ã©criture ne pouvant Ãªtre traduits en ASCII. Il
+n'y avait pas de place pour autre chose que les 26 lettres de
+l'alphabet anglais dans un systÃ¨me d'encodage qui, Ã  l'origine, ne
+pouvait mÃªme pas reconnaÃ®tre les accents aigus et les trÃ©mas, sans
+parler de systÃ¨mes non alphabÃ©tiques comme le chinois. Mais la
+tradition a Ã©tÃ© bouleversÃ©e, et la technologie popularisÃ©e. Des
+interfaces graphiques tels que Windows et Macintosh ont accÃ©lÃ©rÃ© le
+processus. La stratÃ©gie de marketing de Microsoft a consistÃ© Ã 
+prÃ©senter son systÃ¨me d'exploitation comme facile Ã  utiliser par le
+client moyen. A l'heure actuelle, cette facilitÃ© d'utilisation s'est
+Ã©tendue au-delÃ  du PC vers le rÃ©seau internet, si bien que mÃªme ceux
+qui ne sont pas programmeurs peuvent maintenant insÃ©rer des applets
+Java dans leurs pages web sans comprendre une seule ligne de
+programmation.
+
+2. <La compÃ©tition entre les grandes sociÃ©tÃ©s pour une part de 'marchÃ©
+global'>. L'extension de cette popularisation Ã  l'Ã©chelon local est
+l'exportation des technologies de l'information dans le monde entier.
+La popularisation est maintenant effective Ã  l'Ã©chelon mondial, et
+l'anglais n'est plus nÃ©cessairement la langue obligÃ©e de l'utilisateur.
+Il n'y a plus vraiment de langue indispensable, il y a les langues
+propres aux utilisateurs. Une chose est certaine: il n'est plus
+nÃ©cessaire de comprendre l'anglais pour utiliser un ordinateur, de mÃªme
+qu'il n'est plus nÃ©cessaire d'avoir un diplÃ´me d'informatique. La
+demande des utilisateurs non anglophones  - et l'effort entrepris par
+les sociÃ©tÃ©s de haute technologie se faisant concurrence pour obtenir
+les marchÃ©s mondiaux - ont fait de la localisation un secteur en
+expansion rapide dans le dÃ©veloppement des logiciels et du matÃ©riel
+informatique. Le premier pas a Ã©tÃ© le passage de l'ASCII Ã  l'ASCII
+Ã©tendu. Ceci signifie que les ordinateurs commenÃ§aient Ã  reconnaÃ®tre
+les accents et les symboles utilisÃ©s dans les variantes de l'alphabet
+anglais, symboles qui appartenaient le plus souvent aux langues
+europÃ©ennes. Cependant une page ne pouvait Ãªtre affichÃ©e qu'en une
+seule langue Ã  la fois.
+
+3. <L'innovation technologique>. L'innovation la plus rÃ©cente est
+l'Unicode. Bien qu'il soit encore en train d'Ã©voluer et qu'il ait tout
+juste Ã©tÃ© incorporÃ© dans les derniers logiciels, ce nouveau systÃ¨me
+d'encodage traduit chaque caractÃ¨re en 16 octets. Alors que l'ASCII
+Ã©tendu Ã  8 octets pouvait prendre en compte un maximum de 256
+caractÃ¨res, l'Unicode peut prendre en compte plus de 65.000 caractÃ¨res
+uniques et il a donc la possibilitÃ© de traiter informatiquement tous
+les systÃ¨mes d'Ã©criture du monde. Les instruments sont maintenant plus
+ou moins en place. Ils ne sont pas encore parfaits, mais on peut
+dÃ©sormais surfer sur le web en utilisant le chinois, le japonais, le
+corÃ©en, et nombre d'autres langues n'utilisant pas l'alphabet
+occidental. Comme l'internet s'Ã©tend Ã  des parties du monde oÃ¹
+l'anglais est trÃ¨s peu utilisÃ©, par exemple la Chine, il est naturel
+que ce soit le chinois et non l'anglais qui soit utilisÃ©. La majoritÃ©
+des usagers en Chine n'a pas d'autre choix que sa langue maternelle.
+
+Une pÃ©riode intermÃ©diaire prÃ©cÃ¨de bien sÃ»r ce changement. Une grande
+partie de la terminologie technique disponible sur le web n'est pas
+encore traduite dans d'autres langues. Et, comme nous nous en sommes
+rendus compte dans NetGlos, notre glossaire multilingue de la
+terminologie de l'internet, la traduction de ces termes n'est pas
+toujours facile. Avant qu'un nouveau terme ne soit acceptÃ© comme le
+terme correct, il y a une pÃ©riode d'instabilitÃ© avec plusieurs
+candidats en compÃ©tition. Souvent un terme empruntÃ© Ã  l'anglais est le
+point de dÃ©part et, dans de nombreux cas, il est aussi le point
+d'arrivÃ©e. Finalement Ã©merge un vainqueur qui est ensuite utilisÃ© aussi
+bien dans les dictionnaires techniques que dans le vocabulaire
+quotidien de l'usager non spÃ©cialiste. La derniÃ¨re version de NetGlos
+est la version russe, et elle devrait Ãªtre disponible dans deux
+semaines environ [fin septembre 1998]. Elle sera sans nul doute un
+excellent exemple du processus dynamique en cours pour la russification
+de la terminologie du web.
+
+4. <La dÃ©mocratie linguistique>. Dans un rapport de l'UNESCO du dÃ©but
+des annÃ©es 1950, l'enseignement dispensÃ© dans sa langue maternelle
+Ã©tait considÃ©rÃ© comme un droit fondamental de l'enfant. La possibilitÃ©
+de naviguer sur l'internet dans sa langue maternelle pourrait bien Ãªtre
+son Ã©quivalent Ã  l'Ã¢ge de l'information. Si l'internet doit vraiment
+devenir le rÃ©seau mondial qu'on nous promet, tous les usagers devraient
+y avoir accÃ¨s sans problÃ¨me de langue. Le considÃ©rer comme la chasse
+gardÃ©e de ceux qui, par accident historique, nÃ©cessitÃ© pratique ou
+privilÃ¨ge politique, connaissent l'anglais, est injuste Ã  l'Ã©gard de
+ceux qui ne connaissent pas cette langue.
+
+5. <Le commerce Ã©lectronique>. Bien qu'un web multilingue soit
+souhaitable sur le plan moral et Ã©thique, un tel idÃ©al ne suffit pas
+pour en faire une rÃ©alitÃ© Ã  vaste Ã©chelle. De mÃªme que l'utilisateur
+non anglophone peut maintenant avoir accÃ¨s aux technologies dans sa
+propre langue, l'impact du commerce Ã©lectronique peut constituer une
+force majeure qui fasse du multilinguisme la voie la plus naturelle
+vers le cyberespace. Les vendeurs de produits et services dans le
+marchÃ© virtuel mondial que devient l'internet doivent Ãªtre prÃ©parÃ©s Ã 
+traiter avec un monde virtuel qui soit aussi multilingue que le monde
+physique. S'ils veulent rÃ©ussir, ils doivent s'assurer qu'ils parlent
+bien la langue de leurs clients!"
+
+En ce qui concerne le WorldWide Language Institute, quelles sont les
+perspectives? "Comme l'existence de notre organisme est liÃ©e Ã 
+l'importance attachÃ©e aux langues, je pense que son avenir sera
+excitant et stimulant. Mais il est impossible de pratiquer
+l'autosuffisance Ã  l'Ã©gard de nos rÃ©ussites et de nos rÃ©alisations. La
+technologie change Ã  une allure frÃ©nÃ©tique. L'apprentissage durant
+toute la vie est une stratÃ©gie que nous devons tous adopter si nous
+voulons rester en tÃªte et Ãªtre compÃ©titifs. C'est une tÃ¢che qui est
+dÃ©jÃ  assez difficile dans un environnement anglophone. Si nous ajoutons
+Ã  cela la complexitÃ© apportÃ©e par la communication dans un cyberespace
+multilingue et multiculturel, la tÃ¢che devient encore plus
+astreignante. Probablement davantage encore que par le passÃ©, la
+coopÃ©ration est aussi indispensable que la concurrence. Les germes
+d'une coopÃ©ration par le biais de l'internet existent dÃ©jÃ . Notre
+projet NetGlos dÃ©pend du bon vouloir de traducteurs volontaires de
+nombreux pays: Canada, Ãtats-Unis, Autriche, NorvÃ¨ge, Belgique, IsraÃ«l,
+Portugal, Russie, GrÃ¨ce, BrÃ©sil, Nouvelle-ZÃ©lande, etc. Je pense que
+les centaines de visiteurs qui consultent quotidiennement les pages de
+NetGlos constituent un excellent tÃ©moignage du succÃ¨s de ce type de
+relations de travail. Les relations de coopÃ©ration s'accroÃ®tront encore
+Ã  l'avenir, mais pas nÃ©cessairement sur la base du volontariat."
+
+
+= Logos
+
+FondÃ© en 1979 Ã  ModÃ¨ne (Italie) par Rodrigo Vergara, Logos est une
+sociÃ©tÃ© de traduction offrant des services dans 35 langues en 1997,
+avec 300 traducteurs travaillant sur place et un rÃ©seau mondial de
+2.500 traducteurs travaillant en free-lance. La moyenne de production
+est de 200 textes par jour. Fin 1997, Logos dÃ©cide de mettre tous ses
+outils professionnels en accÃ¨s libre sur le web. Le Logos Dictionary
+est un dictionnaire multilingue de 7,5 millions d'entrÃ©es. La
+Wordtheque est une base de donnÃ©es multilingue de 328 millions de mots,
+constituÃ©e Ã  partir de milliers de traductions, notamment des romans et
+des documents techniques. La recherche dans la Wordtheque est possible
+par langue, mot, auteur ou titre. Linguistic Resources (Ressources
+linguistiques) offre un point d'accÃ¨s unique Ã  553 glossaires.
+L'Universal Conjugator (Conjugaison universelle) propose des tableaux
+de conjugaison dans 17 langues.
+
+Dans un entretien avec Annie Kahn, journaliste au quotidien Le Monde,
+publiÃ© le 7 dÃ©cembre 1997 au sein d'un article, "Les mots pour le
+dire", Robert Vergara relate: "Nous voulions que nos traducteurs aient
+tous accÃ¨s aux mÃªmes outils de traduction. Nous les avons donc mis Ã 
+leur disposition sur internet, et tant quâÃ  faire nous avons ouvert le
+site au public. Cela nous a rendus trÃ¨s populaires, nous a fait
+beaucoup de publicitÃ©. LâopÃ©ration a drainÃ© vers nous de nombreux
+clients, mais aussi nous a permis dâÃ©toffer notre rÃ©seau de traducteurs
+grÃ¢ce aux contacts Ã©tablis Ã  la suite de cette initiative."
+
+Annie Kahn explique dans le mÃªme article: "Le site de Logos est
+beaucoup plus qu'un dictionnaire ou qu'un rÃ©pertoire de liens vers
+d'autres dictionnaires en ligne. L'un des piliers du systÃ¨me est un
+logiciel de recherche documentaire fonctionnant sur un corpus de textes
+littÃ©raires disponibles gratuitement sur internet. Lorsque l'on
+recherche la dÃ©finition ou la traduction d'un mot, 'didactique' par
+exemple, on trouve non seulement le rÃ©sultat recherchÃ©, mais aussi une
+phrase d'une oeuvre littÃ©raire utilisant ce mot (en l'occurence, un
+essai de Voltaire). Un simple clic permet d'accÃ©der au texte intÃ©gral
+de l'oeuvre ou de commander le livre grÃ¢ce Ã  un partenariat avec
+Amazon.com, le libraire en ligne bien connu. Il en est de mÃªme avec les
+traductions Ã©trangÃ¨res. Si aucun texte utilisant ce mot n'a Ã©tÃ© trouvÃ©,
+le systÃ¨me fonctionne alors comme un moteur de recherche et renvoie aux
+sites web concernant ce mot. Pour certains termes, il est proposÃ© d'en
+entendre la prononciation. Si une traduction manque, le systÃ¨me fait un
+appel au peuple. A chacun d'enrichir la base, les traducteurs de
+l'entreprise valident ensuite les traductions proposÃ©es."
+
+En 2007, la Wordtheque, devenue la Logos Library, comprend 710 millions
+de termes. Conjugation of Verbs, devenu lâUniversal Conjugator, propose
+des tableaux de conjugaison dans 36 langues. Et Linguistic Resources
+offre un point dâaccÃ¨s unique Ã  1.215 glossaires.
+
+
+
+DICTIONNAIRES DE LANGUES EN LIGNE
+
+
+= [Citation]
+
+Robert Beard, professeur de langues et crÃ©ateur du site "A Web of
+Online Dictionaries" (Un web de dictionnaires en ligne, intÃ©grÃ© plus
+tard au portail yourDictionary.com), Ã©crit en septembre 1998: "On a
+d'abord craint que le web reprÃ©sente un danger pour le multilinguisme,
+Ã©tant donnÃ© que le HTML et d'autres langages de programmation sont
+basÃ©s sur l'anglais et qu'on trouve tout simplement plus de sites web
+en anglais que dans toute autre langue. Cependant, les sites web que je
+gÃ¨re montrent que le multilinguisme est trÃ¨s prÃ©sent et que le web peut
+en fait permettre de prÃ©server des langues menacÃ©es de disparition. Je
+propose maintenant des liens vers des dictionnaires dans 150 langues
+diffÃ©rentes et des grammaires dans 65 langues diffÃ©rentes."
+
+
+= Dictionnaires imprimÃ©s en ligne
+
+Le premier dictionnaire de langue franÃ§aise en accÃ¨s libre est le
+"Dictionnaire universel francophone" en ligne, qui rÃ©pertorie 45.000
+mots et 116.000 dÃ©finitions tout en prÃ©sentant "sur un pied dâÃ©galitÃ©,
+le franÃ§ais dit 'standard' et les mots et expressions en franÃ§ais tel
+quâon le parle sur les cinq continents". Issu de la collaboration entre
+Hachette et lâAUPELF-UREF (devenu depuis lâAUF: Agence universitaire de
+la francophonie), il correspond Ã  la partie "noms communs" du
+dictionnaire imprimÃ© disponible chez Hachette. LâÃ©quivalent pour la
+langue anglaise est le site Merriam-Webster OnLine, qui donne librement
+accÃ¨s au Collegiate Dictionary et au Collegiate Thesaurus.
+
+En mars 2000, les 20 volumes de lâOxford English Dictionary (OED) sont
+mis en ligne par lâOxford University Press (OUP). La consultation du
+site est payante. Le dictionnaire bÃ©nÃ©ficie dâune mise Ã  jour
+trimestrielle dâenviron 1.000 entrÃ©es nouvelles ou rÃ©visÃ©es. Deux ans
+aprÃ¨s cette premiÃ¨re expÃ©rience, en mars 2002, lâOxford University
+Press met en ligne lâOxford Reference Online (ORO), une vaste
+encyclopÃ©die conÃ§ue directement pour le web et consultable elle aussi
+sur abonnement payant. Avec 60.000 pages et un million dâentrÃ©es, elle
+reprÃ©sente lâÃ©quivalent dâune centaine dâouvrages de rÃ©fÃ©rence.
+
+
+= RÃ©pertoires de dictionnaires
+
+"Dictionnaires Ã©lectroniques" est un excellent rÃ©pertoire Ã©tabli par la
+section franÃ§aise des Services linguistiques centraux (SLC-f) de
+l'Administration fÃ©dÃ©rale suisse. Cette liste trÃ¨s complÃ¨te de
+dictionnaires monolingues (allemand, anglais, espagnol, franÃ§ais,
+italien), bilingues et multilingues est complÃ©tÃ©e par des rÃ©pertoires
+d'abrÃ©viations et acronymes et des rÃ©pertoires gÃ©ographiques,
+essentiellement des atlas.
+
+Marcel Grangier, responsable de la section franÃ§aise des Services
+linguistiques centraux, Ã©crit en janvier 1999: "Le multilinguisme sur
+internet peut Ãªtre considÃ©rÃ© comme une fatalitÃ© heureuse et surtout
+irrÃ©versible. C'est dans cette optique qu'il convient de creuser la
+tombe des rabat-joie dont le seul discours est de se plaindre d'une
+suprÃ©matie de l'anglais. Cette suprÃ©matie n'est pas un mal en soi, dans
+la mesure oÃ¹ elle rÃ©sulte de rÃ©alitÃ©s essentiellement statistiques
+(plus de PC par habitant, plus de locuteurs de cette langue, etc.). La
+riposte n'est pas de 'lutter contre l'anglais' et encore moins de s'en
+tenir Ã  des jÃ©rÃ©miades, mais de multiplier les sites en d'autres
+langues. Notons qu'en qualitÃ© de service de traduction, nous
+prÃ©conisons Ã©galement le multilinguisme des sites eux-mÃªmes. (...)
+
+Travailler sans internet est devenu tout simplement impossible: au-delÃ 
+de tous les outils et commoditÃ©s utilisÃ©s (messagerie Ã©lectronique,
+consultation de la presse Ã©lectronique, activitÃ©s de services au profit
+de la profession des traducteurs), internet reste pour nous une source
+indispensable et inÃ©puisable d'informations dans ce que j'appellerais
+le 'secteur non structurÃ©' de la toile. Pour illustrer le propos,
+lorsqu'aucun site comportant de l'information organisÃ©e ne fournit de
+rÃ©ponse Ã  un problÃ¨me de traduction, les moteurs de recherche
+permettent dans la plus grande partie des cas de retrouver le chaÃ®non
+manquant quelque part sur le rÃ©seau."
+
+Comment voit-il l'avenir? "La multiplication des langues prÃ©sentes sur
+internet est inÃ©vitable, et ne peut que bÃ©nÃ©ficier aux Ã©changes
+multiculturels. Pour que ces Ã©changes prennent place dans un
+environnement optimal, il convient encore de dÃ©velopper les outils qui
+amÃ©lioreront la compatibilitÃ©. La gestion complÃ¨te des diacritiques ne
+constitue qu'un exemple de ce qui peut encore Ãªtre entrepris."
+
+Quelques annÃ©es plus tard, le rÃ©pertoire "Dictionnaires Ã©lectroniques"
+rejoint le site de la ConfÃ©rence des Services de traduction des Ãtats
+europÃ©ens (CST).
+
+
+= yourDictionary.com
+
+Robert Beard, professeur de langues Ã  la Bucknell University (Ãtats-
+Unis), crÃ©e d'abord en 1995 A Web of Online Dictionaries (Un web de
+dictionnaires en ligne), qui est un rÃ©pertoire de dictionnaires en
+ligne (800 liens en automne 1998) dans de nombreuses langues, auquel
+s'ajoutent d'autres sections: dictionnaires multilingues, dictionnaires
+anglophones spÃ©cialisÃ©s, thÃ©sauri et vocabulaires, grammaires en ligne,
+et enfin outils linguistiques pour non spÃ©cialistes.
+
+Robert Beard Ã©crit en septembre 1998: "On a d'abord craint que le web
+reprÃ©sente un danger pour le multilinguisme, Ã©tant donnÃ© que l'HTML et
+d'autres langages de programmation sont basÃ©s sur l'anglais et qu'on
+trouve tout simplement plus de sites web en anglais que dans toute
+autre langue. Cependant, les sites web que je gÃ¨re montrent que le
+multilinguisme est trÃ¨s prÃ©sent et que le web peut en fait permettre de
+prÃ©server des langues menacÃ©es de disparition. Je propose maintenant
+des liens vers des dictionnaires dans 150 langues diffÃ©rentes et des
+grammaires dans 65 langues diffÃ©rentes. De plus, ceux qui dÃ©veloppent
+les logiciels de navigation manifestent une attention nouvelle pour la
+diversitÃ© des langues dans le monde, ce qui favorisera la prÃ©sence d'un
+nombre encore plus grand de sites web dans diffÃ©rentes langues. (...)
+
+En tant que professeur de langues, je pense que le web prÃ©sente une
+plÃ©thore de nouvelles ressources disponibles dans la langue Ã©tudiÃ©e, de
+nouveaux instruments d'apprentissage (exercices interactifs Java et
+Shockwave) et de test, qui sont Ã  la disposition des Ã©tudiants quand
+ceux-ci en ont le temps ou l'envie, 24 heures par jour et 7 jours par
+semaine. Aussi bien pour mes collÃ¨gues que pour moi, et bien sÃ»r pour
+notre Ã©tablissement, l'internet nous permet aussi de publier
+pratiquement sans limitation."
+
+Comment voit-il l'avenir? "L'internet nous offrira tout le matÃ©riel
+pÃ©dagogique dont nous pouvons rÃªver, y compris des notes de lecture,
+exercices, tests, Ã©valuations et exercices interactifs plus efficaces
+que par le passÃ©, parce que reposant davantage sur la notion de
+communication. Le web sera une encyclopÃ©die du monde faite par le monde
+pour le monde. Il n'y aura plus d'informations ni de connaissances
+utiles qui ne soient pas diponibles, si bien que l'obstacle principal Ã 
+la comprÃ©hension internationale et interpersonnelle et au dÃ©veloppement
+personnel et institutionnel sera levÃ©. Il faudrait une imagination plus
+dÃ©bordante que la mienne pour prÃ©dire l'effet de ce dÃ©veloppement sur
+l'humanitÃ©."
+
+Robert Beard co-fonde ensuite le portail yourDictionary.com, qui
+intÃ¨gre son site prÃ©cÃ©dent, avec mise en ligne de la nouvelle mouture
+en fÃ©vrier 2000. Il Ã©crit en janvier 2000: "Nos nouvelles idÃ©es sont
+nombreuses. Nous projetons de travailler avec le 'Endangered Language
+Fund' [Fonds pour les langues menacÃ©es] aux Ãtats-Unis et en Grande-
+Bretagne pour rassembler des fonds pour cette fondation et nous
+publierons les rÃ©sultats sur notre site. Nous aurons des groupes de
+discussion et des bulletins d'information sur les langues. Il y aura
+des jeux de langue destinÃ©s Ã  se distraire et Ã  apprendre les bases de
+la linguistique. La page 'Linguistic Fun' [qui propose des Ã©lÃ©ments de
+linguistique pour les non initiÃ©s] deviendra un journal en ligne avec
+des extraits courts, intÃ©ressants et mÃªme amusants dans diffÃ©rentes
+langues, choisis par des experts du monde entier. (...) Si l'anglais
+domine encore le web, on voit s'accentuer le dÃ©veloppement de sites
+monolingues et non anglophones du fait des solutions variÃ©es apportÃ©es
+aux problÃ¨mes de caractÃ¨res."
+
+En septembre 2003, yourDictionary.com, devenu un portail de rÃ©fÃ©rence,
+rÃ©pertorie plus de 1.800 dictionnaires dans 250 langues, ainsi que de
+nombreux outils linguistiques: vocabulaires, grammaires, glossaires,
+mÃ©thodes de langues, etc. En avril 2007, le rÃ©pertoire comprend 2.500
+dictionnaires et grammaires dans 300 langues.
+
+Soucieux de servir toutes les langues sans exception, le portail
+propose l'Endangered Language Repository, une section spÃ©cifique
+consacrÃ©e aux langues menacÃ©es. "Les langues menacÃ©es sont
+essentiellement des langues non Ã©crites, Ã©crit Robert Beard en janvier
+2000. Un tiers seulement des quelque 6.000 langues existant dans le
+monde sont Ã  la fois Ã©crites et parlÃ©es. Je ne pense pourtant pas que
+le web va contribuer Ã  la perte de lâidentitÃ© des langues et jâai mÃªme
+le sentiment que, Ã  long terme, il va renforcer cette identitÃ©. Par
+exemple, de plus en plus dâIndiens dâAmÃ©rique contactent des linguistes
+pour leur demander dâÃ©crire la grammaire de leur langue et de les aider
+Ã  Ã©laborer des dictionnaires. Pour eux, le web est un instrument Ã  la
+fois accessible et trÃ¨s prÃ©cieux dâexpression culturelle."
+
+
+= Grand dictionnaire terminologique
+
+Le Grand dictionnaire terminologique (GDT) est une initiative majeure
+de l'Office quÃ©bÃ©cois de la langue franÃ§aise (OQLF). C'est en effet la
+premiÃ¨re fois qu'un organisme propose une base terminologique aussi
+importante en accÃ¨s libre sur le web, en septembre 2000. Le GDT est
+prÃ©cÃ©dÃ© par Le Signet, une base terminologique relative aux
+technologies de l'information, dont les 10.000 fiches bilingues
+franÃ§ais-anglais sont ensuite intÃ©grÃ©es au GDT.
+
+Le GDT est un dictionnaire bilingue franÃ§ais-anglais de 3 millions de
+termes appartenant au vocabulaire industriel, scientifique et
+commercial. Sa mise en ligne est le rÃ©sultat d'un partenariat entre
+l'OQLF, auteur du dictionnaire, et Semantix, sociÃ©tÃ© spÃ©cialisÃ©e dans
+les solutions logicielles linguistiques. EvÃ©nement cÃ©lÃ©brÃ© par de trÃ¨s
+nombreux linguistes, cette mise en ligne est un succÃ¨s. DÃ¨s le premier
+mois, le GDT est consultÃ© par 1,3 million de personnes, avec des
+pointes de 60.000 requÃªtes quotidiennes. La gestion de la base est
+ensuite assurÃ©e par Convera Canada. En fÃ©vrier 2003, les requÃªtes sont
+au nombre de 3,5 millions par mois. Une nouvelle version du GDT est
+mise en ligne en mars 2003. Sa gestion est dÃ©sormais assurÃ©e par l'OQLF
+lui-mÃªme, et non plus par une sociÃ©tÃ© prestataire.
+
+
+= Bases terminologiques
+
+Des bases terminologiques spÃ©cialisÃ©es sont mises en ligne par des
+organisations internationales, entre autres.
+
+ILOTERM est une base terminologique quadrilingue (allemand, anglais,
+espagnol, franÃ§ais) gÃ©rÃ©e par l'UnitÃ© de terminologie et de rÃ©fÃ©rence
+du Service des documents officiels (OFFDOC) de l'Organisation
+internationale du Travail (OIT). Comme indiquÃ© sur le site web en 1998,
+"sa principale finalitÃ© est d'apporter des solutions, conformes Ã 
+l'usage courant, Ã  des problÃ¨mes terminologiques dans le domaine du
+travail et des questions sociales. Les termes figurent en anglais avec
+leurs Ã©quivalents en franÃ§ais, espagnol et/ou allemand. La base de
+donnÃ©es contient Ã©galement (dans une Ã  quatre langues) des articles
+concernant la structure et les programmes de l'OIT, les noms officiels
+d'institutions internationales, d'organismes nationaux et
+d'organisations nationales d'employeurs et de travailleurs, ainsi que
+les titres de rÃ©unions et d'instruments internationaux."
+
+La base TERMITE (ITU Telecommunication Terminology Database) est gÃ©rÃ©e
+par la Section de traduction de l'Union internationale des
+tÃ©lÃ©communications (UIT). Il s'agit d'une base terminologique
+quadrilingue (environ 60.000 entrÃ©es en anglais, espagnol, franÃ§ais et
+russe). Comme indiquÃ© sur le site web en 1998, "TERMITE contient tous
+les termes qui apparaissent dans tous les glossaires de l'UIT imprimÃ©s
+depuis 1980, ainsi que des termes plus rÃ©cents en rapport avec les
+diffÃ©rentes activitÃ©s de l'Union (en tout quelque 59.000 entrÃ©es).
+Normalement les collaborateurs qui s'occupent de l'amÃ©lioration et de
+la mise Ã  jour de cette base de donnÃ©es sont des traducteurs ou des
+Ã©diteurs techniques. TERMITE est surtout visitÃ© par les traducteurs
+internes mais aussi par des utilisateurs externes, travaillant dans le
+domaine des tÃ©lÃ©communications."
+
+La base WHOTERM (WHO Terminology Information System) est gÃ©rÃ©e par
+l'Organisation mondiale de la santÃ© (OMS). Cette base terminologique
+trilingue (anglais, espagnol, franÃ§ais) a Ã©tÃ© constituÃ©e Ã  partir des
+documents de l'OMS (vocabulaire, expressions, concepts) afin
+d'"amÃ©liorer la rigueur et la cohÃ©rence des textes rÃ©digÃ©s, prÃ©parÃ©s ou
+traduits. Elle permet Ã©galement Ã  tous ceux qui collaborent Ã  des
+programmes techniques de l'OMS d'enrichir les terminologies nouvelles,
+de promouvoir leur normalisation et de garantir leur diffusion".
+
+Eurodicautom est gÃ©rÃ© par le service de traduction de la Commission
+europÃ©enne. Cette base terminologique multilingue de termes
+Ã©conomiques, scientifiques, techniques et juridiques permet de combiner
+entre elles les onze langues officielles de lâUnion europÃ©enne
+(allemand, anglais, danois, espagnol, finnois, franÃ§ais, grec,
+hollandais, italien, portugais, suÃ©dois), ainsi que le latin, avec une
+moyenne de 120.000 consultations par jour.
+
+Fin 2003, Eurodicautom annonce son intÃ©gration dans une base
+terminologique plus vaste regroupant les bases de plusieurs
+institutions de lâUnion europÃ©enne. Cette nouvelle base traite non plus
+douze langues, mais une vingtaine, puisque lâUnion europÃ©enne sâÃ©largit
+Ã  lâEst et passe de 15 Ã  25 membres en mai 2004, pour atteindre
+27 membres en janvier 2007. La nouvelle base terminologique voit le
+jour en mars 2007, sous le nom de IATE (Inter-Active Terminology for
+Europe), avec 1,4 million dâentrÃ©es dans 24 langues.
+
+
+= Dictionnaires anciens
+
+Les dictionnaires anciens trouvent une nouvelle vie sur le web, par
+exemple sur le site de l'Institut national de la langue franÃ§aise
+(INaLF), qui offre des ressources terminologiques sur le discours
+littÃ©raire des 14e au 20e siÃ¨cles (contenu, sÃ©mantique, thÃ©matique), la
+langue courante (langue Ã©crite, langue parlÃ©e, argot), et le discours
+scientifique et technique.
+
+Christiane Jadelot, ingÃ©nieur d'Ã©tudes Ã  l'INaLF-Nancy, explique en
+juin 1998: "Les premiÃ¨res pages sur l'INaLF ont Ã©tÃ© mises sur
+l'internet au milieu de l'annÃ©e 1996, Ã  la demande de Robert Martin,
+directeur de l'INaLF. J'ai participÃ© Ã  la mise sous internet de ces
+pages (...). La direction a senti la nÃ©cessitÃ© urgente de nous faire
+connaÃ®tre par l'internet, que beaucoup d'autres entreprises utilisaient
+dÃ©jÃ  pour promouvoir leurs produits. Nous sommes en effet 'UnitÃ© de
+recherche et de service' et nous avons donc Ã  trouver des clients pour
+nos produits informatisÃ©s, le plus connu d'entre eux Ã©tant la base
+textuelle FRANTEXT [sur l'internet depuis dÃ©but 1995], ainsi qu'une
+maquette du tome 14 du TLF [TrÃ©sor de la langue franÃ§aise]. Il Ã©tait
+donc nÃ©cessaire de faire connaÃ®tre l'ensemble de l'INaLF par ce moyen.
+Cela correspondait Ã  une demande gÃ©nÃ©rale."
+
+La base FRANTEXT comprend, en mode interactif, 180 millions de mots-
+occurrences provenant d'une collection reprÃ©sentative de 3.500 unitÃ©s
+textuelles en arts, sciences et techniques des 16e-20e siÃ¨cles. DÃ©but
+1998, 82 centres de recherche et bibliothÃ¨ques universitaires sont
+abonnÃ©s, en Europe, en Australie, au Japon et au Canada, ce qui
+reprÃ©sente 1.250 postes de travail ayant accÃ¨s Ã  la base, avec une
+cinquantaine de sessions d'interrogations par jour.
+
+L'ARTFL Project (ARTFL: American and French Research on the Treasury of
+the French Language - Recherche franco-amÃ©ricaine sur les trÃ©sors de la
+langue franÃ§aise) est un projet commun du Centre national de la
+recherche scientifique (CNRS, France) et de l'UniversitÃ© de Chicago
+(Illinois, Ãtats-Unis). Ce projet a pour but de constituer une base de
+donnÃ©es de 2.000 textes des 13e-20e siÃ¨cles ayant trait Ã  la
+littÃ©rature, la philosophie, les arts ou les sciences.
+
+En 1998, l'ARTFL travaille Ã  la version en ligne exhaustive de la
+premiÃ¨re Ã©dition (1751-1772) de l'"EncyclopÃ©die ou Dictionnaire
+raisonnÃ© des sciences, des mÃ©tiers et des arts" de Diderot et
+d'Alembert. 72.000 articles rÃ©digÃ©s par plus de 140 collaborateurs -
+dont Voltaire, Rousseau, d'Alembert, Marmontel, d'Holbach, Turgot, etc.
+- ont fait de cette encyclopÃ©die un monumental ouvrage de rÃ©fÃ©rence
+pour les arts et les sciences. DestinÃ©e Ã  rassembler puis divulguer les
+connaissances de l'Ã©poque, elle porte la marque des courants
+intellectuels et sociaux du 18e siÃ¨cle, et c'est grÃ¢ce Ã  elle qu'ont
+Ã©tÃ© propagÃ©es les idÃ©es du SiÃ¨cle des LumiÃ¨res. L'EncyclopÃ©die comprend
+17 volumes de texte - qui reprÃ©sentent 18.000 pages et 20.736.912 mots
+- et 11 volumes de planches.
+
+La base de donnÃ©es correspondant au premier volume est accessible en
+ligne Ã  titre expÃ©rimental. La recherche peut Ãªtre effectuÃ©e par mot,
+portion de texte, auteur ou catÃ©gorie, ou par la combinaison de ces
+critÃ¨res entre eux. On dispose de renvois d'un article Ã  l'autre, au
+moyen de liens permettant d'aller d'une planche au texte ou du texte au
+fac-similÃ© des pages originales. L'automatisation complÃ¨te des
+procÃ©dures de saisie entraÃ®ne des erreurs typographiques et des erreurs
+d'identification qui sont corrigÃ©es au fil des mois. La recherche
+d'images par mot, portion de texte ou catÃ©gorie est Ã©galement possible
+dans un deuxiÃ¨me temps.
+
+L'ARTFL travaille aussi Ã  un projet de base de donnÃ©es pour le
+"Dictionnaire de l'AcadÃ©mie franÃ§aise", dont les diffÃ©rentes Ã©ditions
+se sont Ã©chelonnÃ©es entre 1694 et 1935. Ce projet inclut la saisie et
+l'Ã©dition du texte, ainsi que la crÃ©ation d'un moteur de recherche
+spÃ©cifique. La premiÃ¨re Ã©dition (1694) et la cinquiÃ¨me Ã©dition (1798)
+du dictionnaire sont les premiÃ¨res Ã  Ãªtre disponibles pour une
+recherche par mot, puis pour une recherche en texte intÃ©gral. Les
+diffÃ©rentes Ã©ditions sont ensuite combinÃ©es dans une base de donnÃ©es
+unique qui permet de juger de l'Ã©volution d'un terme en consultant
+aussi bien une Ã©dition particuliÃ¨re que l'ensemble des Ã©ditions.
+
+Les autres projets de l'ARTFL sont la version image de l'Ã©dition de
+1740 du "Dictionnaire historique et critique" de Philippe Bayle, le
+"Roget's Thesaurus" de 1911, le "Webster's Revised Unabridged
+Dictionary" de 1913, le "Thresor de la langue franÃ§aise" de Jean Nicot
+(1606), un projet multilingue sur La Bible comprenant entre autres "La
+Bible franÃ§aise" de Louis Segond (1910), etc.
+
+
+
+APPRENDRE LES LANGUES EN LIGNE
+
+
+= [Citation]
+
+Robert Beard, professeur de langues et crÃ©ateur du portail
+yourDictionary.com, Ã©crit en septembre 1998: "En tant que professeur de
+langues, je pense que le web prÃ©sente une plÃ©thore de nouvelles
+ressources disponibles dans la langue Ã©tudiÃ©e, de nouveaux instruments
+d'apprentissage (exercices interactifs Java et Shockwave) et de test,
+qui sont Ã  la disposition des Ã©tudiants quand ceux-ci en ont le temps
+ou l'envie, 24 heures par jour et 7 jours par semaine. [Plus tard]
+l'internet nous offrira tout le matÃ©riel pÃ©dagogique dont nous pouvons
+rÃªver, y compris des notes de lecture, exercices, tests, Ã©valuations et
+exercices interactifs plus efficaces que par le passÃ© parce que
+reposant davantage sur la notion de communication."
+
+
+= Une expÃ©rience
+
+Maria Victoria Marinetti, de nationalitÃ© mexicaine, est titulaire d'un
+doctorat en ingÃ©niÃ©rie. Depuis son installation en France, elle est
+professeur d'espagnol dans plusieurs entreprises du bassin annÃ©cien, en
+Haute-Savoie, et Ã©galement traductrice. Elle raconte en aoÃ»t 1999:
+"J'ai accÃ¨s Ã  un nombre important d'informations au niveau mondial, ce
+qui est trÃ¨s intÃ©ressant pour moi. J'ai Ã©galement la possibilitÃ© de
+transmettre ou de recevoir des fichiers, dans un va-et-vient
+d'information constant. L'internet me permet de recevoir ou d'envoyer
+des traductions gÃ©nÃ©rales ou techniques du franÃ§ais vers l'espagnol et
+vice versa, ainsi que des textes espagnols corrigÃ©s. Dans le domaine
+technique ou chimique, je propose une aide technique, ainsi que des
+informations sur l'exportation d'Ã©quipes de haute technologie vers le
+Mexique ou d'autres pays d'AmÃ©rique latine."
+
+Elle ajoute en aoÃ»t 2001: "Depuis notre premier entretien, j'utilise
+beaucoup l'internet pour des Ã©changes avec ma famille au Mexique et
+avec mes amis un peu partout dans le monde. C'est un outil de
+communication rapide, agrÃ©able et fantastique pour moi. Par contre,
+pour l'utilisation d'internet comme outil de tÃ©lÃ©travail, trÃ¨s peu
+d'entreprises ont le matÃ©riel et l'expÃ©rience nÃ©cessaires pour Ã©changer
+des donnÃ©es dans le travail quotidien, notamment par la voix et l'image
+(par exemple pour la formation ou les confÃ©rences par l'internet). Pour
+ma part, je rencontre ce problÃ¨me car je souhaite proposer une
+tÃ©lÃ©formation en langue espagnole, en utilisant la voix et l'image.
+Mais mes entreprises clientes ne sont pas habituÃ©es Ã  utiliser ces
+moyens de communication malgrÃ© leur caractÃ¨re pratique (pas de
+dÃ©placements Ã  faire) et malgrÃ© la fiabilitÃ© accrue de ces nouveaux
+moyens de communication par l'internet. En conclusion, les sociÃ©tÃ©s de
+conseil informatique ont encore beaucoup Ã  faire pour familiariser les
+entreprises Ã  l'utilisation des nouvelles technologies liÃ©es aux
+transferts de donnÃ©es par l'internet."
+
+
+= CTI Centre
+
+Depuis ses dÃ©buts en 1989, le Computer in Teaching Initiative (CTI)
+Centre for Modern Languages (Centre pour l'utilisation des ordinateurs
+dans l'enseignement des langues modernes) est un centre inclus dans
+l'Institut des langues de l'UniversitÃ© d'Hull (Royaume-Uni) et vise Ã 
+promouvoir l'utilisation des ordinateurs dans l'apprentissage et
+l'enseignement des langues. Connu sour le nom de CTI Centre, il procure
+des informations sur la maniÃ¨re dont l'apprentissage des langues
+assistÃ© par ordinateur peut Ãªtre effectivement intÃ©grÃ© Ã  des cours
+existants, et il offre un soutien aux professeurs qui utilisent - ou
+souhaitent utiliser - l'informatique dans l'enseignement qu'ils
+dispensent.
+
+June Thompson, responsable du CTI Centre, Ã©crit en dÃ©cembre 1998: "Avec
+l'internet, on a la possibilitÃ© de favoriser l'utilisation des langues
+Ã©trangÃ¨res, et notre organisation ne soutient absolument pas la
+suprÃ©matie de l'anglais en tant que langue de l'internet. L'utilisation
+de l'internet a apportÃ© une nouvelle dimension Ã  notre tÃ¢che qui
+consiste Ã  soutenir les professeurs de langue dans l'utilisation de la
+technologie correspondante. Je pense que, dans un avenir proche,
+l'utilisation de supports linguistiques sur l'internet va continuer Ã 
+se dÃ©velopper en mÃªme temps que d'autres activitÃ©s liÃ©es aux
+technologies, par exemple l'utilisation de CD-ROM - certains
+Ã©tablissements n'ont pas suffisamment de matÃ©riel informatique en
+rÃ©seau. A l'avenir, il me semble que l'utilisation de l'internet jouera
+un rÃ´le plus grand, mais seulement si ces activitÃ©s sont Ã  caractÃ¨re
+pÃ©dagogique. Notre organisme travaille Ã©troitement avec le WELL, qui se
+consacre Ã  ces problÃ¨mes."
+
+Le WELL (Web Enhanced Language Learning - Apprentissage des langues
+favorisÃ© par le web) est un projet britannique menÃ© Ã  bien entre 1997
+et 2000 pour donner accÃ¨s Ã  des ressources web de qualitÃ© dans douze
+langues diffÃ©rentes. SÃ©lectionnÃ©es et dÃ©crites par des experts, ces
+ressources sont complÃ©tÃ©es par des informations et des exemples sur la
+maniÃ¨re de les utiliser pour l'enseignement ou l'apprentissage d'une
+langue.
+
+Ce projet est l'oeuvre de l'association EUROCALL (European Association
+for Computer-Assisted Language Learning - Association europÃ©enne pour
+l'apprentissage des langues assistÃ© par ordinateur), qui regroupe des
+professionnels de l'enseignement des langues exerÃ§ant en Europe et dans
+le monde entier. Ses objectifs sont de favoriser l'utilisation des
+langues Ã©trangÃ¨res en Europe, encourager une vision europÃ©enne de
+l'utilisation des technologies pour l'apprentissage des langues, et
+enfin promouvoir la crÃ©ation et la diffusion d'un matÃ©riel de qualitÃ©.
+Un autre projet d'EUROCALL est CAPITAL (Computer-Assisted Pronunciation
+Investigation Teaching and Learning - Recherche, enseignement et
+apprentissage de la prononciation, assistÃ©s par ordinateur), qui
+regroupe des chercheurs et praticiens souhaitant utiliser
+l'informatique dans ce domaine.
+
+
+= LINGUIST List
+
+GÃ©rÃ©e par l'Eastern Michigan University et la Wayne State University,
+deux universitÃ©s des Ãtats-Unis, la LINGUIST List classe les messages
+reÃ§us par la liste de diffusion dans diverses rubriques: profession
+(confÃ©rences, associations linguistiques, programmes, etc.), recherche
+et soutien Ã  la recherche (articles, rÃ©sumÃ©s de mÃ©moires, projets,
+bibliographies, dossiers, textes), publications, pÃ©dagogie, ressources
+linguistiques (langues, familles linguistiques, dictionnaires,
+informations rÃ©gionales) et soutien informatique (polices de caractÃ¨res
+et logiciels). La LINGUIST List propose aussi un centre de
+documentation virtuel (Virtual Library).
+
+Helen Dry, modÃ©ratrice de la LINGUIST List, explique en aoÃ»t 1998: "La
+LINGUIST List, que je modÃ¨re, a pour politique d'accepter les
+informations dans toutes les langues, puisque c'est une liste pour
+linguistes. Nous ne souhaitons cependant pas que le message soit publiÃ©
+dans plusieurs langues, tout simplement Ã  cause de la charge de travail
+que cela reprÃ©senterait pour notre personnel de rÃ©daction (nous ne
+sommes pas une liste fourre-tout, mais une liste modÃ©rÃ©e: avant d'Ãªtre
+publiÃ©, chaque message est classÃ© par nos Ã©tudiants-rÃ©dacteurs dans une
+section comprenant des messages du mÃªme type). Notre expÃ©rience nous
+montre que pratiquement tout le monde choisit de publier en anglais.
+Mais nous relions ces informations Ã  un systÃ¨me de traduction qui
+prÃ©sente nos pages dans cinq langues diffÃ©rentes. Ainsi un abonnÃ© ne
+lit LINGUIST en anglais que s'il le souhaite. Nous essayons aussi
+d'avoir au moins un Ã©tudiant-Ã©diteur qui soit rÃ©ellement multilingue,
+afin que les lecteurs puissent correspondre avec nous dans d'autres
+langues que l'anglais."
+
+
+= Language Today
+
+LancÃ© en 1998, Language Today (La langue aujourd'hui) est un magazine
+destinÃ© aux traducteurs, interprÃ¨tes, terminologues, lexicographes et
+rÃ©dacteurs techniques. Ce magazine est une rÃ©alisation commune de
+Logos, qui procure le site web, et Praetorius, sociÃ©tÃ© de conseil
+britannique dans le domaine des langues appliquÃ©es. Le site du magazine
+procure aussi des liens vers des associations de traducteurs, des
+Ã©coles de langues et des dictionnaires.
+
+Geoffrey Kingscott, directeur gÃ©nÃ©ral de Praetorius, Ã©crit en septembre
+1998: "Nous publions la version imprimÃ©e de Language Today uniquement
+en anglais, dÃ©nominateur commun de nos lecteurs. Quand nous utilisons
+un article qui Ã©tait originellement dans une autre langue que
+l'anglais, ou que nous relatons un entretien menÃ© dans une autre langue
+que l'anglais, nous le traduisons en anglais et nous ne publions que la
+version anglaise, pour la raison suivante: le nombre de pages que nous
+pouvons imprimer est limitÃ©, et dÃ©terminÃ© en fonction de notre
+clientÃ¨le (annonceurs et abonnÃ©s). Par contre, dans notre version web,
+nous proposons aussi la version originale."
+
+En ce qui concerne l'avenir, "nous continuerons d'avoir un site web
+pour notre sociÃ©tÃ©, et de publier une version de notre revue sur le
+web, mais ceci ne sera qu'un secteur de notre travail. Nous utilisons
+l'internet comme une source d'information que nous distillons ensuite Ã 
+nos lecteurs, qui autrement seraient confrontÃ©s au problÃ¨me majeur du
+web: faire face Ã  un flux incontrÃ´lÃ© d'informations."
+
+
+
+LES LANGUES MINORITAIRES
+
+
+= [Citation]
+
+CaoimhÃ­n Ã DonnaÃ­le est professeur dâinformatique Ã  lâInstitut Sabhal
+MÃ³r Ostaig, sur lâÃ®le de Skye, en Ãcosse. Il dispense ses cours en
+gaÃ©lique Ã©cossais et maintient un site qui est la principale source
+d'information mondiale dans cette langue. Il Ã©crit en mai 2001: "En ce
+qui concerne lâavenir des langues menacÃ©es, lâinternet accÃ©lÃ¨re les
+choses dans les deux sens. Si les gens ne se soucient pas de prÃ©server
+les langues, lâinternet et la mondialisation qui lâaccompagne
+accÃ©lÃ©reront considÃ©rablement la disparition de ces langues. Si les
+gens se soucient vraiment de les prÃ©server, lâinternet constituera une
+aide irremplaÃ§able."
+
+
+= L'Ethnologue
+
+Contrairement aux clichÃ©s vÃ©hiculÃ©s dans les mÃ©dias, lâinternet ne
+favorise pas forcÃ©ment l'hÃ©gÃ©monie de l'anglais et n'entraÃ®ne pas la
+disparition des langues minoritaires. L'internet peut au contraire
+contribuer Ã  protÃ©ger ces langues, s'il existe une volontÃ© politique et
+culturelle dans ce sens. Un outil fondamental - avec une version web
+gratuite - est "The Ethnologue: Languages of the World" (L'Ethnologue:
+les langues du monde), qui est d'abord un catalogue de langues
+minoritaires avant de prendre de l'ampleur et de recenser toutes les
+langues de notre planÃ¨te.
+
+PubliÃ© par SIL International (SIL: Summer Institute of Linguistics), un
+organisme basÃ© Ã  Dallas (Texas), cet ouvrage de rÃ©fÃ©rence est
+disponible aussi sur CD-ROM (payant) et en version imprimÃ©e (payante).
+Il rÃ©pertorie 6.800 langues selon plusieurs critÃ¨res (nom de la langue,
+famille linguistique, pays dans lesquels la langue est parlÃ©e, code
+officiel de trois lettres, etc.), avec moteur de recherche unique.
+
+Barbara Grimes, sa directrice de publication entre 1971 et 2000 (8e-14e
+Ã©ditions), relate en janvier 2000: "Il sâagit dâun catalogue des
+langues dans le monde, avec des informations sur les endroits oÃ¹ elles
+sont parlÃ©es, une estimation du nombre de personnes qui les parlent, la
+famille linguistique Ã  laquelle elles appartiennent, les autres termes
+utilisÃ©s pour ces langues, les noms de dialectes, dâautres informations
+socio-linguistiques et dÃ©mographiques, les dates des Bibles publiÃ©es,
+un index des noms de langues, un index des familles linguistiques et
+des cartes gÃ©ographiques relatives aux langues."
+
+Les deux principaux outils de recherche sont l'Ethnologue Name Index
+(Index des noms de l'Ethnologue), qui donne la liste des noms de
+langues et dialectes et de leurs synonymes, et l'Ethnologue Language
+Family Index (Index des familles linguistiques de l'Ethnologue), qui
+organise les langues selon leurs familles linguistiques.
+
+Dans un entretien par courriel plus ancien, en aoÃ»t 1998, Barbara
+Grimes explique que, si la version web est utile, la version imprimÃ©e
+l'est encore plus, en langue anglaise pour toucher un large public.
+"Nous avons eu des demandes nous demandant l'accÃ¨s Ã  l'Ethnologue dans
+plusieurs autres langues, mais nous n'avons pas le personnel ni les
+fonds pour la traduction ou la rÃ©actualisation, indispensable puisque
+notre site est constamment mis Ã  jour. L'internet nous est utile, c'est
+un outil pratique qui apporte un complÃ©ment Ã  notre travail. Nous
+l'utilisons principalement pour le courrier Ã©lectronique. C'est aussi
+un moyen commode pour mettre notre documentation Ã  la disposition d'une
+audience plus large que celle de l'Ethnologue imprimÃ©. D'un autre cÃ´tÃ©,
+l'Ethnologue sur l'internet n'atteint en fait qu'une audience limitÃ©e
+disposant d'ordinateurs. Or, dans les personnes que nous souhaitons
+atteindre, nombreuses sont celles qui ne disposent pas d'ordinateurs.
+Je pense particuliÃ¨rement aux habitants du dit 'Tiers-monde'."
+
+
+= European Minority Languages
+
+Autre expÃ©rience, celle de CaoimhÃ­n Ã DonnaÃ­le, professeur
+dâinformatique Ã  lâInstitut Sabhal MÃ³r Ostaig, situÃ© sur lâÃ®le de Skye,
+en Ãcosse. CaoimhÃ­n dispense ses cours en gaÃ©lique Ã©cossais. Il est
+aussi le webmestre du site de lâinstitut, qui est bilingue anglais-
+gaÃ©lique et se trouve Ãªtre la principale source dâinformation mondiale
+sur le gaÃ©lique Ã©cossais. Sur ce site, il tient Ã  jour la page European
+Minority Languages (Langues minoritaires en Europe), une liste elle
+aussi bilingue, avec classement par ordre alphabÃ©tique de langues et
+par famille linguistique.
+
+InterviewÃ© en aoÃ»t 1998, CaoimhÃ­n raconte: "L'internet a contribuÃ© et
+contribuera au dÃ©veloppement fulgurant de l'anglais comme langue
+mondiale. L'internet peut aussi grandement aider les langues
+minoritaires. Ceci ne se fera pas tout seul, mais seulement si les gens
+choisissent de dÃ©fendre une langue. Le web est trÃ¨s utile pour
+dispenser des cours de langues, et la demande est grande."
+
+PrÃ¨s de trois ans plus tard, en mai 2001, il ajoute: "Nos Ã©tudiants
+utilisent un correcteur dâorthographe en gaÃ©lique et une base
+terminologique en ligne en gaÃ©lique. (...) Il est maintenant possible
+dâÃ©couter la radio en gaÃ©lique (Ã©cossais et irlandais) en continu sur
+lâinternet partout dans le monde. Une rÃ©alisation particuliÃ¨rement
+importante a Ã©tÃ© la traduction en gaÃ©lique du navigateur Opera. Câest
+la premiÃ¨re fois quâun logiciel de cette taille est disponible en
+gaÃ©lique."
+
+
+= Windows on Haiti
+
+Guy Antoine, crÃ©ateur de Windows on Haiti, site de rÃ©fÃ©rence sur la
+langue haÃ¯tienne, relate en novembre 1999: "Jâai fait de la promotion
+du kreyÃ²l (crÃ©ole haÃ¯tien) une cause personnelle, puisque cette langue
+est le principal lien unissant tous les HaÃ¯tiens, malgrÃ© lâattitude
+dÃ©daigneuse dâune petite Ã©lite haÃ¯tienne - Ã  lâinfluence
+disproportionnÃ©e - vis-Ã -vis de lâadoption de normes pour lâÃ©criture du
+kreyÃ²l et le soutien de la publication de livres et dâinformations
+officielles dans cette langue. A titre dâexemple, il y avait rÃ©cemment
+dans la capitale dâHaÃ¯ti un Salon du livre de deux semaines, Ã  qui on
+avait donnÃ© le nom de 'Livres en folie'. Sur les 500 ouvrages dâauteurs
+haÃ¯tiens prÃ©sentÃ©s lors du salon, il y en avait une vingtaine en
+kreyÃ²l, ceci dans le cadre de la campagne insistante que mÃ¨ne la France
+pour cÃ©lÃ©brer la francophonie dans ses anciennes colonies. A HaÃ¯ti cela
+se passe relativement bien, mais au dÃ©triment direct de la
+crÃ©olophonie.
+
+En rÃ©ponse Ã  lâattitude de cette minoritÃ© haÃ¯tienne, jâai crÃ©Ã© sur mon
+site Windows on Haiti deux forums de discussion exclusivement en
+kreyÃ²l. Le premier forum regroupe des discussions gÃ©nÃ©rales sur toutes
+sortes de sujets, mais en fait ces discussions concernent
+principalement les problÃ¨mes socio-politiques qui agitent HaÃ¯ti. Le
+deuxiÃ¨me forum est uniquement rÃ©servÃ© aux dÃ©bats sur les normes
+dâÃ©criture du kreyÃ²l. Ces dÃ©bats sont assez animÃ©s, et un certain
+nombre dâexperts linguistiques y participent. Le caractÃ¨re exceptionnel
+de ces forums est quâils ne sont pas acadÃ©miques. Je nâai trouvÃ© nulle
+part ailleurs sur lâinternet un Ã©change aussi spontanÃ© et aussi libre
+entre des experts et le grand public pour dÃ©battre dans une langue
+donnÃ©e des attributs et des normes de la mÃªme langue."
+
+En juin 2001, Guy Antoine rejoint lâÃ©quipe dirigeante de Mason
+Integrated Technologies, une sociÃ©tÃ© dont lâobjectif est de crÃ©er des
+outils permettant lâaccessibilitÃ© des documents publiÃ©s dans des
+langues dites minoritaires. "Etant donnÃ© lâexpÃ©rience de lâÃ©quipe en la
+matiÃ¨re, nous travaillons dâabord sur le crÃ©ole haÃ¯tien (kreyÃ²l), qui
+est la seule langue nationale dâHaÃ¯ti, et lâune des deux langues
+officielles (lâautre Ã©tant le franÃ§ais). Cette langue ne peut guÃ¨re
+Ãªtre considÃ©rÃ©e comme une langue minoritaire dans les CaraÃ¯bes
+puisquâelle est parlÃ©e par huit Ã  dix millions de personnes."
+
+
+
+ENCYCLOPEDIES MULTILINGUES
+
+
+= [Citation]
+
+Robert Beard, professeur de langues et co-fondateur du portail
+yourDictionary.com, Ã©crit en septembre 1998: "Le web sera une
+encyclopÃ©die du monde faite par le monde pour le monde. Il n'y aura
+plus d'informations ni de connaissances utiles qui ne soient pas
+disponibles, si bien que l'obstacle principal Ã  la comprÃ©hension
+internationale et interpersonnelle et au dÃ©veloppement personnel et
+institutionnel sera levÃ©. Il faudrait une imagination plus dÃ©bordante
+que la mienne pour prÃ©dire l'effet de ce dÃ©veloppement sur l'humanitÃ©."
+
+
+= PrÃ©curseurs
+
+Les premiÃ¨res grandes encyclopÃ©dies en ligne apparaissent en dÃ©cembre
+1999 avec WebEncyclo et lâEncyclopaedia Universalis en langue franÃ§aise
+et Britannica.com en langue anglaise.
+
+WebEncyclo, publiÃ© par les Ã©ditions Atlas, est la premiÃ¨re grande
+encyclopÃ©die francophone en accÃ¨s libre. La recherche est possible par
+mots-clÃ©s, thÃ¨mes, mÃ©dias (Ã  savoir les cartes, liens internet, photos
+ou illustrations) et idÃ©es. Un appel Ã  contribution incite les
+spÃ©cialistes dâun sujet donnÃ© Ã  envoyer des articles, qui sont
+regroupÃ©s dans la section WebEncyclo contributif. AprÃ¨s avoir Ã©tÃ©
+libre, lâaccÃ¨s est ensuite soumis Ã  une inscription prÃ©alable gratuite.
+
+La version web de lâEncyclopaedia Universalis est mise en ligne Ã  la
+mÃªme date, soit un ensemble de 28.000 articles signÃ©s par 4.000
+auteurs. Si la consultation est payante sur la base dâun abonnement
+annuel, de nombreux articles sont en accÃ¨s libre.
+
+Le site Britannica.com est la premiÃ¨re grande encyclopÃ©die anglophone
+en accÃ¨s libre. Le site propose lâÃ©quivalent numÃ©rique des 32 volumes
+de la 15e Ã©dition de lâEncyclopaedia Britannica, parallÃ¨lement Ã  la
+version imprimÃ©e et Ã  la version CD-ROM, toutes deux payantes. Le site
+web offre une sÃ©lection dâarticles issus de 70 magazines, un guide des
+meilleurs sites, un choix de livres, etc., le tout Ã©tant accessible Ã 
+partir dâun moteur de recherche unique. En septembre 2000, le site fait
+partie des cent sites les plus visitÃ©s au monde. En juillet 2001, la
+consultation devient payante sur la base dâun abonnement annuel ou
+mensuel. Fin 2008, Britannica.com annnonce l'ouverture prochaine de son
+site Ã  des contributeurs extÃ©rieurs, avec inscription obligatoire pour
+Ã©crire et modifier des articles.
+
+
+= WikipÃ©dia
+
+Issu du terme hawaÃ¯en "wiki" (qui signifie: vite, rapide), un wiki est
+un site web permettant Ã  plusieurs utilisateurs de collaborer en ligne
+sur un mÃªme projet. A tout moment, ces utilisateurs peuvent contribuer
+Ã  la rÃ©daction du contenu, modifier ce contenu et l'enrichir en
+permanence. Le wiki est utilisÃ© par exemple pour crÃ©er et gÃ©rer des
+dictionnaires, des encyclopÃ©dies ou encore des sites d'information sur
+un sujet donnÃ©. Le programme prÃ©sent derriÃ¨re l'interface d'un wiki est
+plus ou moins Ã©laborÃ©. Un programme simple gÃ¨re du texte et des
+hyperliens. Un programme Ã©laborÃ© permet d'inclure des images, des
+graphiques, des tableaux, etc. LâencyclopÃ©die wiki la plus connue est
+WikipÃ©dia.
+
+CrÃ©Ã©e en janvier 2001 Ã  lâinitiative de Jimmy Wales et de Larry Sanger,
+WikipÃ©dia est une encyclopÃ©die gratuite Ã©crite collectivement et dont
+le contenu est librement rÃ©utilisable. Elle est immÃ©diatement trÃ¨s
+populaire. Sans publicitÃ© et financÃ©e par des dons, cette encyclopÃ©die
+coopÃ©rative est rÃ©digÃ©e par des milliers de volontaires - appelÃ©s
+WikipÃ©diens, et qui s'inscrivent sous un pseudonyme - avec possibilitÃ©
+de corriger et complÃ©ter les articles, aussi bien les leurs que ceux
+d'autres contributeurs. Les articles restent la propriÃ©tÃ© de leurs
+auteurs, et leur libre utilisation est rÃ©gie par la licence GFDL (GNU
+free documentation license).
+
+En dÃ©cembre 2004, WikipÃ©dia compte 1,3 million d'articles rÃ©digÃ©s dans
+100 langues par 13.000 contributeurs. En dÃ©cembre 2006, elle compte 6
+millions d'articles dans 250 langues, et elle est un de dix sites les
+plus visitÃ©s du web. En mai 2007, la version francophone fÃªte ses
+500.000 articles. A la mÃªme date, WikipÃ©dia compte 7 millions
+d'articles dans 192 langues, dont 1,8 million en anglais, 589.000 en
+allemand, 260.000 en portugais et 236.000 en espagnol. En 2009,
+WikipÃ©dia fait partie des cinq sites les plus visitÃ©s du web.
+
+FondÃ©e en juin 2003, la Wikimedia Foundation gÃ¨re non seulement
+WikipÃ©dia mais aussi Wiktionary, un dictionnaire et thÃ©saurus
+multilingue lancÃ© en dÃ©cembre 2002, puis Wikibooks (livres et manuels
+en cours de rÃ©daction) lancÃ© en juin 2003, auxquels s'ajoutent ensuite
+Wikiquote (rÃ©pertoire de citations), Wikisource (textes appartenant au
+domaine public), Wikimedia Commons (sources multimÃ©dia), Wikispecies
+(rÃ©pertoire d'espÃ¨ces animales et vÃ©gÃ©tales), Wikinews (site
+d'actualitÃ©s) et enfin Wikiversity (matÃ©riel d'enseignement), lancÃ© en
+aoÃ»t 2006.
+
+
+
+LOCALISATION ET INTERNATIONALISATION
+
+
+= [Citation]
+
+Peter Raggett, sous-directeur (puis directeur) du Centre de
+documentation et d'information (CDI) de l'OCDE (Organisation de
+coopÃ©ration et de dÃ©veloppement Ã©conomiques), Ã©crit en aoÃ»t 1999: "Je
+pense qu'il appartient aux organisations et sociÃ©tÃ©s europÃ©ennes
+d'offrir des sites web si possible en trois ou quatre langues. Ã
+l'heure de la mondialisation et du commerce Ã©lectronique, les sociÃ©tÃ©s
+ont un marchÃ© potentiel sur plusieurs pays Ã  la fois. Permettre aux
+usagers francophones, germanophones ou japonais de consulter un site
+web aussi facilement que les usagers anglophones donnera une plus
+grande compÃ©titivitÃ© Ã  une firme donnÃ©e."
+
+
+= [Texte]
+
+"Vers la communication sur internet dans toutes les langues..." Tel est
+le sous-titre de la page d'accueil de Babel, un projet conjoint d'Alis
+Technologies et de l'Internet Society, lancÃ© dans l'optique d'une
+internationalisation de l'internet. En 1997, le site multilingue de
+Babel (allemand, anglais, espagnol, franÃ§ais, italien, portugais et
+suÃ©dois) propose deux grands secteurs: (a) un secteur langues, avec
+trois sections: langues du monde, glossaire typographique et
+linguistique, francophonie, (b) un secteur internet et multilinguisme,
+avec deux sections: dÃ©velopper votre site web multilingue, et codage
+des Ã©critures du monde. Babel propose aussi la page "PalmarÃ¨s des
+langues de la toile", qui est la premiÃ¨re Ã  donner la rÃ©partition
+rÃ©elle des langues sur le rÃ©seau.
+
+Bill Dunlap est le fondateur de Euro-Marketing Associates, une sociÃ©tÃ©
+de conseil en marketing qu'il lance en 1985 Ã  Paris et San Francisco.
+En 1995, il restructure cette sociÃ©tÃ© en service de conseil en ligne
+dÃ©nommÃ© Global Reach, qui regroupe des consultants internationaux de
+premier plan, le but Ã©tant de promouvoir les sites web des entreprises
+dans d'autres pays, afin d'attirer plus de visiteurs, et donc
+d'augmenter les ventes. Cette mÃ©thode comprend la traduction du site
+web dans plusieurs langues, la promotion active du site, et enfin
+l'accroissement de la frÃ©quentation locale au moyen de bandeaux
+publicitaires ciblÃ©s.
+
+Bill Dunlap explique en dÃ©cembre 1998: "Il y a trÃ¨s peu de gens aux
+Ãtats-Unis qui sont intÃ©ressÃ©s de communiquer dans plusieurs langues.
+Pour la plupart, ils pensent encore que le monde entier parle anglais.
+Par contre, ici en Europe (j'Ã©cris de France), les pays sont petits, si
+bien que, depuis des siÃ¨cles, une perspective internationale est
+nÃ©cessaire. Depuis 1981, dÃ©but de mon activitÃ© professionnelle, j'ai
+Ã©tÃ© impliquÃ© dans la venue de sociÃ©tÃ©s amÃ©ricaines en Europe. Ceci est
+pour beaucoup un problÃ¨me de langue, puisque leurs informations
+commerciales doivent Ãªtre disponibles dans les langues europÃ©ennes pour
+Ãªtre prises en compte ici, en Europe. Comme le web est devenu populaire
+en 1995, j'ai donnÃ© Ã  ces activitÃ©s une dimension 'en ligne', et j'en
+suis venu Ã  promouvoir le cybercommerce europÃ©en auprÃ¨s de mes
+compatriotes amÃ©ricains. RÃ©cemment, lors de la confÃ©rence Internet
+World Ã  New York, j'ai parlÃ© du cybercommerce europÃ©en et de la maniÃ¨re
+d'utiliser un site web pour toucher les diffÃ©rents marchÃ©s d'Europe.
+(...)
+
+Promouvoir un site est aussi important que de le crÃ©er, sinon plus. On
+doit Ãªtre prÃ©parÃ© Ã  utiliser au moins autant de temps et d'argent Ã 
+promouvoir son site qu'on en a passÃ© Ã  l'origine Ã  le crÃ©er. Le
+programme Global Reach permet de promouvoir un site dans des pays non
+anglophones, afin d'atteindre une clientÃ¨le plus large... et davantage
+de ventes. Une sociÃ©tÃ© a de nombreuses bonnes raisons de considÃ©rer
+sÃ©rieusement le marchÃ© international. Global Reach est pour elle le
+moyen d'Ã©tendre son site web Ã  de nombreux pays, de le prÃ©senter Ã  des
+visiteurs en ligne dans leur propre langue, et de pÃ©nÃ©trer le rÃ©seau de
+commerce en ligne prÃ©sent dans ces pays."
+
+Il ajoute en juillet 1999: "Une fois que la page d'accueil d'un site
+est disponible en plusieurs langues, l'Ã©tape suivante est le
+dÃ©veloppement du contenu dans chaque langue. Un webmestre notera
+quelles langues attirent plus de visiteurs (et donc plus de ventes) que
+d'autres. Ce seront donc dans ces langues que dÃ©butera une campagne de
+promotion multilingue sur le web. ParallÃ¨lement, il est toujours bon de
+continuer Ã  augmenter le nombre de langues dans lesquelles un site web
+est disponible. Au dÃ©but, seule la page d'accueil traduite en plusieurs
+langues suffit, mais ensuite il est souhaitable de dÃ©velopper un
+vÃ©ritable secteur pour chaque langue."
+
+Le World Wide Web Consortium (W3C) est un consortium industriel
+international fondÃ© en 1994 pour dÃ©velopper les protocoles communs du
+web. Le site du W3C propose notamment une section
+Internationalization/Localization, qui donne une dÃ©finition des
+protocoles utilisÃ©s: HTML (hypertext markup language), jeux (de base)
+de caractÃ¨res, nouveaux attributs, HTTP (hypertext transfer protocol),
+nÃ©gociation de la langue, URL (uniform resource locator) et autres
+identificateurs incluant des caractÃ¨res non ASCII (American standard
+code for information interchange). Le site propose aussi des conseils
+pour crÃ©er un site multilingue.
+
+L'association LISA (Localisation Industry Standards Association -
+Association de normalisation de l'industrie de la localisation)
+regroupe 130 membres (fin 1998) qui comprennent des Ã©diteurs de
+logiciels, des fabricants de matÃ©riel, des vendeurs de services de
+localisation, et un nombre croissant de sociÃ©tÃ©s appartenant aux
+secteurs voisins des technologies de l'information. La mission de LISA
+est de promouvoir l'industrie de la localisation et de
+l'internationalisation, et de procurer des services permettant aux
+sociÃ©tÃ©s d'Ã©changer et de partager les informations dans ce domaine:
+dÃ©veloppement du processus, outils, technologies et modÃ¨les. Le site de
+LISA est hÃ©bergÃ© par l'UniversitÃ© de GenÃ¨ve (Suisse).
+
+
+
+TRADUCTION ASSISTEE PAR ORDINATEUR
+
+
+= [Citation]
+
+L'internet Ã©tant une source d'information Ã  vocation mondiale, il
+semble indispensable d'augmenter fortement les activitÃ©s de traduction.
+Auteur des Chroniques de CybÃ©rie, une chronique hebdomadaire en ligne
+des actualitÃ©s du rÃ©seau, Jean-Pierre Cloutier dÃ©plore en aoÃ»t 1999
+"quâil se fasse trÃ¨s peu de traductions des textes et essais importants
+qui sont publiÃ©s sur le web, tant de lâanglais vers dâautres langues
+que lâinverse. (...) La nouveautÃ© dâinternet dans les rÃ©gions oÃ¹ il se
+dÃ©ploie prÃ©sentement y suscite des rÃ©flexions quâil nous serait utile
+de lire. Ã quand la traduction des penseurs hispanophones et autres de
+la communication?"
+
+
+= [Texte]
+
+CrÃ©Ã© Ã  Amsterdam (Pays-Bas) par la firme Vorontsoff, Wesseling &
+Partners, Aquarius est le premier rÃ©pertoire non commercial de
+traducteurs et interprÃ¨tes. Il comprend 6.100 traducteurs, 800 sociÃ©tÃ©s
+de traduction, 91 domaines d'expertise et 369 combinaisons de langues
+en novembre 1998. Le site permet de localiser particuliers et sociÃ©tÃ©s
+et de les contacter directement, sans intermÃ©diaire. La recherche est
+possible par lieu, par combinaison de langues et par spÃ©cialitÃ©.
+
+De plus, depuis dÃ©cembre 1997, des logiciels de traduction automatique
+sont en accÃ¨s libre sur le web - par exemple ceux de SYSTRAN,
+Softissimo ou Google - et permettent de traduire en quelques secondes
+une page web ou un texte court, avec plusieurs combinaisons de langues
+possibles. Il va sans dire que la traduction automatique nâoffre pas la
+qualitÃ© de travail des professionnels de la traduction, et quâil est
+prÃ©fÃ©rable de faire appel Ã  ces derniers lorsqu'on a le temps et
+lâargent nÃ©cessaires. Ces logiciels sont toutefois trÃ¨s pratiques pour
+obtenir une traduction approximative en quelques secondes.
+
+De plus en plus utilisÃ©e, la traduction assistÃ©e par ordinateur permet
+de coupler traduction automatique et travail du traducteur
+professionnel. Elle est une branche de l'ingÃ©nierie du langage, tout
+comme le traitement de la langue naturelle et la traduction automatique
+(traitÃ©s dans le chapitre suivant).
+
+Le site HLTCentral (HLT: Human Languages Technologies - Technologies
+des langues humaines), lancÃ© en janvier 1999 par la Commission
+europÃ©enne, propose une courte dÃ©finition de l'ingÃ©nierie du langage:
+"L'ingÃ©nierie du langage permet de vivre en toute convivialitÃ© avec la
+technologie. Nous pouvons utiliser notre connaissance du langage pour
+dÃ©velopper des systÃ¨mes capables de reconnaÃ®tre Ã  la fois la parole et
+l'Ã©crit, de comprendre un texte suffisamment en profondeur pour Ãªtre
+capable de sÃ©lectionner des informations, de le traduire dans
+diffÃ©rentes langues et de gÃ©nÃ©rer aussi bien un discours oral qu'un
+texte imprimÃ©. L'application de ces technologies nous permet de
+repousser les limites actuelles de notre utilisation du langage. Les
+systÃ¨mes Ã  commande vocale sont appelÃ©s Ã  jouer un rÃ´le prÃ©pondÃ©rant et
+Ã  faire partie intÃ©grante de notre vie quotidienne."
+
+Contrairement Ã  la traduction automatique (TA) qui analyse le texte
+dans la langue-source et gÃ©nÃ¨re automatiquement le texte correspondant
+dans la langue-cible, sans intervention humaine pendant ce processus,
+la traduction assistÃ©e par ordinateur (TAO) est basÃ©e sur l'interaction
+entre l'homme et la machine pendant le processus de traduction.
+
+La TAO est par exemple adoptÃ©e dÃ¨s le milieu des annÃ©es 1990 par le
+Bureau des services linguistiques de l'Organisation mondiale de la
+santÃ© (OMS) Ã  GenÃ¨ve (Suisse). Ce bureau travaille dans les six langues
+officielles de l'organisation: anglais, arabe, chinois, espagnol,
+franÃ§ais et russe. Des expÃ©riences de traduction automatique sont
+Ã©galement tentÃ©es, Ã  plusieurs reprises, mais les traductions obtenues
+demandent un travail de rÃ©vision trop important, si bien que, au stade
+actuel de son dÃ©veloppement et compte-tenu du type de documents Ã 
+traduire, cette technologie n'est pas jugÃ©e suffisamment rentable.
+
+Au sein de l'OMS, l'UnitÃ© de traduction assistÃ©e par ordinateur et de
+terminologie (CTT) explore les possibilitÃ©s techniques offertes par les
+systÃ¨mes les plus rÃ©cents de TAO, qui reposent sur la notion de
+"mÃ©moire de traduction". Comme expliquÃ© sur le site web, "ces systÃ¨mes
+permettent au traducteur d'avoir immÃ©diatement accÃ¨s au patrimoine du
+'dÃ©jÃ  traduit' dans lequel il peut puiser, quitte Ã  rejeter ou modifier
+les solutions retenues par ses prÃ©dÃ©cesseurs, son choix dÃ©finitif
+venant ensuite enrichir la mÃ©moire. Ainsi, en archivant la production
+quotidienne, le traducteur aurait vite Ã  sa disposition une 'mÃ©moire'
+colossale de solutions toutes faites Ã  un nombre important de problÃ¨mes
+de traduction."
+
+En complÃ©ment, le CTT utilise aussi plusieurs applications pour
+l'archivage Ã©lectronique et la recherche en texte intÃ©gral,
+l'alignement de textes bilingues et multilingues, la gestion de
+mÃ©moires de traduction et de bases de donnÃ©es terminologiques, et la
+reconnaissance vocale.
+
+BasÃ© Ã  Washington, D.C. au sein de l'Organisation panamÃ©ricaine de la
+santÃ© (OPS), le Bureau rÃ©gional de l'OMS pour les AmÃ©riques utilise un
+systÃ¨me de traduction automatique dÃ©veloppÃ© par les linguistes
+computationnels, traducteurs et programmeurs de l'OPS. Le service de
+traduction utilise SPANAM (de l'espagnol vers l'anglais) depuis 1980 et
+ENGSPAN (de l'anglais vers l'espagnol) depuis 1985, ce qui lui a permis
+de traiter plus de 25 millions de mots entre 1980 et 1998 dans les deux
+langues officielles de l'OPS. Le personnel et les traducteurs
+extÃ©rieurs post-Ã©ditent ensuite l'information brute avec un gain de
+productivitÃ© de 30 Ã  50%. Le systÃ¨me est installÃ© sur le rÃ©seau local
+du siÃ¨ge de l'organisation et dans plusieurs bureaux rÃ©gionaux pour
+pouvoir Ãªtre utilisÃ© par le personnel des services techniques et
+administratifs. Il est Ã©galement diffusÃ© auprÃ¨s d'organismes publics et
+d'organismes Ã  but non lucratif aux Ãtats-Unis, en AmÃ©rique latine et
+en Espagne. Le systÃ¨me est plus tard renommÃ© PAHOMTS, avec
+l'introduction de nouvelles paires de langues pour le portugais.
+
+Autre expÃ©rience, celle de Wordfast. En juin 2001, les sociÃ©tÃ©s Logos
+et Y.A. Champollion sâassocient pour crÃ©er Champollion Wordfast, une
+sociÃ©tÃ© de services dâingÃ©nierie en traduction et localisation et en
+gestion de contenu multilingue. Wordfast est un logiciel de traduction
+avec terminologie disponible en temps rÃ©el et contrÃ´le typographique.
+Il est compatible avec d'autres logiciels trÃ¨s utilisÃ©s comme le
+WebSphere Translation Server dâIBM et les logiciels de TMX ou de
+Trados. Une version simplifiÃ©e de Wordfast est tÃ©lÃ©chargeable
+gratuitement, avec un manuel dâutilisation disponible en seize langues.
+Wordfast devient au fil des ans le pemier logiciel mondial utilisable
+sous toute plateforme, et le deuxiÃ¨me logiciel mondial en nombre de
+ventes (aprÃ¨s SDL Trados), avec 20.000 clients dans le monde, dont les
+Nations Unies, Nomura Securities, la NASA (National Aeronautics and
+Space Administration) et McGraw-Hill.
+
+
+
+TRADUCTION AUTOMATIQUE
+
+
+= [Citation]
+
+Tim McKenna, Ã©crivain, s'interroge sur la notion complexe de "vÃ©ritÃ©"
+dans un monde en mutation constante. Il Ã©crit en octobre 2000: "Quand
+la qualitÃ© des logiciels sera suffisante pour que les gens puissent
+converser sur le web par Ã©crit ou par oral en temps rÃ©el dans
+diffÃ©rentes langues, nous verrons tout un monde s'ouvrir Ã  nous. Les
+scientifiques, les hommes politiques, les hommes d'affaires et bien
+d'autres groupes seront Ã  mÃªme de communiquer immÃ©diatement entre eux
+sans l'intermÃ©diaire de mÃ©diateurs ou traducteurs."
+
+
+= DÃ©finition
+
+Un logiciel de traduction automatique (TA) analyse le texte dans la
+langue Ã  traduire (langue source) et gÃ©nÃ¨re automatiquement le texte
+dans la langue dÃ©sirÃ©e (langue cible), en utilisant des rÃ¨gles prÃ©cises
+pour le transfert de la structure grammaticale. L'Ãªtre humain
+n'intervient pas au cours du processus, contrairement Ã  la traduction
+assistÃ©e par ordinateur, qui implique une interaction entre l'homme et
+la machine.
+
+Si la traduction automatique reste trÃ¨s approximative, les logiciels de
+traduction sont trÃ¨s pratiques pour fournir un rÃ©sultat immÃ©diat et Ã 
+moindres frais, sinon gratuit. Ils n'ont cessÃ© de s'amÃ©liorer au fil
+des ans, sans toutefois avoir la prÃ©tention d'Ã©galer le travail du
+cerveau humain. De plus, depuis dÃ©cembre 1997, des logiciels en accÃ¨s
+libre sur le web permettent de traduire en quelques secondes une page
+web ou un texte court, avec plusieurs combinaisons de langues
+possibles.
+
+SYSTRAN, sociÃ©tÃ© franco-amÃ©ricaine pionniÃ¨re dans le traitement
+automatique des langues, explique sur son site web: "Un logiciel de
+traduction automatique traduit une langue naturelle dans une autre
+langue naturelle. La traduction automatique prend en compte la
+structure grammaticale de chaque langue et elle utilise des rÃ¨gles pour
+transfÃ©rer la structure grammaticale de la langue-source (texte Ã 
+traduire) vers la langue-cible (texte traduit). La traduction
+automatique ne remplace pas et n'est pas destinÃ©e Ã  remplacer le
+traducteur humain."
+
+L'EAMT (European Association for Machine Translation - Association
+europÃ©enne pour la traduction automatique) donne la dÃ©finition
+suivante: "La traduction automatique (TA) est l'utilisation de
+l'ordinateur pour la traduction de textes d'une langue naturelle Ã  une
+autre. Elle fut un des premiers domaines de recherche en informatique.
+Il s'est avÃ©rÃ© que cet objectif Ã©tait difficile Ã  atteindre. Cependant
+il existe aujourd'hui un certain nombre de systÃ¨mes produisant un
+rÃ©sultat qui, s'il n'est pas parfait, est de qualitÃ© suffisante pour
+Ãªtre utile dans certaines applications spÃ©cifiques, en gÃ©nÃ©ral dans le
+domaine de la documentation technique. De plus, les logiciels de
+traduction, qui sont essentiellement destinÃ©s Ã  aider le traducteur
+humain Ã  produire des traductions, jouissent d'une popularitÃ©
+croissante auprÃ¨s d'organisations de traduction professionnelles."
+
+L'intÃ©ressant historique donnÃ© sur le site de Globalink, une sociÃ©tÃ©
+spÃ©cialisÃ©e dans les logiciels et services de traduction (disparue
+depuis), est rÃ©sumÃ© dans les deux paragraphes suivants.
+
+DÃ¨s leurs dÃ©buts, la traduction automatique et le traitement de la
+langue naturelle progressent de pair avec l'Ã©volution de l'informatique
+quantitative. Le dÃ©veloppement des premiers ordinateurs programmables
+pendant la Seconde guerre mondiale est accÃ©lÃ©rÃ© par les premiers
+efforts cryptographiques pour tenter de fissurer les codes secrets
+allemands et autres codes de guerre. Suite Ã  la guerre, la traduction
+et l'analyse du texte en langue naturelle procurent une base de travail
+au secteur Ã©mergent de la thÃ©orie de l'information. Pendant les annÃ©es
+1950, la recherche sur la traduction automatique prend forme au sens de
+traduction littÃ©rale (mot Ã  mot) sans utiliser de rÃ¨gles linguistiques.
+Le projet russe dÃ©butÃ© Ã  l'UniversitÃ© de Georgetown au dÃ©but des annÃ©es
+1950 reprÃ©sente la premiÃ¨re tentative systÃ©matique pour crÃ©er un
+systÃ¨me de traduction automatique utilisable. Jusqu'au milieu des
+annÃ©es 1960, un certain nombre de recherches universitaires et
+recherches financÃ©es par les gouvernements sont menÃ©es aux Ãtats-Unis
+et en Europe. Au mÃªme moment, les progrÃ¨s rapides dans le domaine de la
+linguistique thÃ©orique culminent en 1965 avec la publication du livre
+"Aspects de la thÃ©orie syntaxique" de Noam Chomsky, et transforment
+radicalement la structure permettant de comprendre la phonologie, la
+morphologie, la syntaxe et la sÃ©mantique du langage humain.
+
+En 1966, le rapport ALPAC (Automatic Language Processing Advisory
+Committee - ComitÃ© consultatif sur le traitement automatique du
+langage) du gouvernement des Ãtats-Unis fait une estimation
+prÃ©maturÃ©ment nÃ©gative de la valeur des systÃ¨mes de traduction
+automatique et des perspectives sur leurs applications pratiques,
+mettant ainsi fin au financement et Ã  l'expÃ©rimentation dans ce domaine
+pour la dÃ©cennie suivante. Il faut attendre la fin des annÃ©es 1970 pour
+que des expÃ©riences sÃ©rieuses soient Ã  nouveau entreprises,
+parallÃ¨lement aux progrÃ¨s de lâinformatique et des technologies des
+langues. Cette pÃ©riode voit le dÃ©veloppement de systÃ¨mes de transfert
+dâune langue Ã  lâautre et le lancement des premiÃ¨res tentatives
+commerciales. Des sociÃ©tÃ©s comme SYSTRAN et METAL sont persuadÃ©es de la
+viabilitÃ© et de lâutilitÃ© dâun tel marchÃ©. Elles mettent sur pied des
+produits et services de traduction automatique reliÃ©s Ã  un serveur
+central. Mais les problÃ¨mes restent nombreux, par exemple des coÃ»ts
+Ã©levÃ©s de dÃ©veloppement, un Ã©norme travail lexicographique, la
+difficultÃ© de proposer de nouvelles combinaisons de langues,
+lâinaccessibilitÃ© de tels systÃ¨mes pour lâutilisateur moyen, et enfin
+la difficultÃ© de passer Ã  de nouveaux stades de dÃ©veloppement.
+
+
+= Commentaires
+
+# Article de ZDNN
+
+Dans "Web embraces language translation" (Le web adopte la traduction
+des langues), un article de ZDNN (ZDNetwork News) paru le 21 juillet
+1998, Martha Stone explique: "Parmi les nouveaux produits d'un secteur
+de traduction reprÃ©sentant 10 milliards de dollars US, on trouve les
+traducteurs instantanÃ©s de sites web, groupes de discussion, courriels
+et intranets d'entreprise. Les principales sociÃ©tÃ©s de traduction se
+mobilisent pour saisir les opportunitÃ©s du marchÃ©. Voici quelques
+exemples. SYSTRAN s'est associÃ© avec AltaVista pour produire
+babelfish.altavista.digital.com, avec 500 Ã  600 mille visiteurs
+quotidiens et environ un million de traductions par jour, traductions
+qui vont des recettes de cuisine Ã  des pages web complÃ¨tes. 15.000
+sites environ ont un lien vers babelfish, qui peut traduire [de
+l'anglais] vers le franÃ§ais, l'italien, l'allemand, l'espagnol et le
+portugais, et vice versa. Le japonais est prÃ©vu pour bientÃ´t.
+
+'Cette popularitÃ© est simple. Avec l'internet, on peut maintenant
+utiliser l'information provenant des Ãtats-Unis. Tout ceci contribue Ã 
+une demande en hausse', dÃ©clare de chez lui Ã  Paris Dimitros
+Sabatakakis, directeur gÃ©nÃ©ral de SYSTRAN. Alis a mis au point le
+systÃ¨me de traduction du Los Angeles Times qui doit bientÃ´t Ãªtre lancÃ©
+sur le site et qui proposera des traductions [de l'anglais] vers
+l'espagnol et le franÃ§ais, et plus tard le japonais. D'un clic de
+souris, une page web complÃ¨te peut Ãªtre traduite dans la langue
+dÃ©sirÃ©e. Globalink propose des logiciels, des systÃ¨mes de traduction de
+pages web, un service de messagerie Ã©lectronique gratuit et des
+logiciels permettant de traduire le texte de groupes de discussion.
+
+Cependant, alors que ces systÃ¨mes de traduction automatique deviennent
+populaires dans le monde entier, les directeurs des sociÃ©tÃ©s qui les
+dÃ©veloppent admettent qu'ils ne peuvent rÃ©pondre Ã  toutes les
+situations. Les porte-parole de Globalink, Alis et SYSTRAN utilisent
+des expressions comme 'pas parfait' et 'approximatif' quand ils
+dÃ©crivent la qualitÃ© des traductions, et prÃ©cisent bien que les phrases
+soumises Ã  la traduction doivent Ãªtre simples, grammaticalement
+correctes et sans tournures idiomatiques. 'Les progrÃ¨s rÃ©alisÃ©s en
+traduction automatique rÃ©pondent Ã  la loi de Moore: la qualitÃ© double
+tous les dix-huit mois', dÃ©clare Vin Crosbie, un analyste de
+l'industrie du web basÃ© Ã  Greenwich, dans le Connecticut (Ãtats-Unis).
+'Ce n'est pas parfait, mais certains de mes correspondants ne se
+rendent mÃªme pas compte que j'utilise un logiciel de traduction.' Ces
+traductions font souffrir la syntaxe et n'utilisent pas toujours les
+mots Ã  bon escient, parce que les bases de donnÃ©es-dictionnaires ne
+peuvent dÃ©chiffrer la diffÃ©rence entre les homonymes. (...) Sabatakis,
+directeur de SYSTRAN, explique que la traduction humaine coÃ»terait
+entre 50 et 60 dollars par page web, ou environ 20 cents par mot. Alors
+que cette derniÃ¨re solution peut convenir pour les pages 'statiques'
+d'information sur l'entreprise, la traduction automatique, elle, est
+gratuite sur le web, et le logiciel coÃ»te souvent moins de 100 dollars,
+selon le nombre de langues disponibles pour la traduction et les
+caractÃ©ristiques propres au logiciel."
+
+# Ãquipe du laboratoire RALI
+
+Contrairement aux prÃ©visions optimistes des annÃ©es 1950 annonÃ§ant
+l'apparition imminente de la machine Ã  traduire universelle, les
+systÃ¨mes de traduction automatique ne produisent pas encore de
+traductions de bonne qualitÃ©. Pourquoi? Pierre Isabelle et Patrick
+Andries, du laboratoire RALI (Laboratoire de recherche appliquÃ©e en
+linguistique informatique) Ã  MontrÃ©al (QuÃ©bec), expliquent ce Ã©chec
+dans "La traduction automatique, 50 ans aprÃ¨s", un article publiÃ© dans
+les dossiers du magazine en ligne MultimÃ©dium: "L'objectif ultime de
+construire une machine capable de rivaliser avec le traducteur humain
+n'a cessÃ© de fuir par devant les lentes avancÃ©es de la recherche. Les
+approches traditionnelles Ã  base de rÃ¨gles ont conduit Ã  des systÃ¨mes
+qui tendent Ã  s'effondrer sous leur propre poids bien avant de s'Ã©lever
+au-dessus des nuages de l'ambiguÃ¯tÃ© sÃ©mantique. Les approches rÃ©centes
+Ã  base de gros ensembles de textes, appelÃ©s corpus - qu'elles soient
+fondÃ©es sur les mÃ©thodes statistiques ou les mÃ©thodes analogiques -
+promettent bien de rÃ©duire la quantitÃ© de travail manuel requise pour
+construire un systÃ¨me de TA [traduction automatique], mais il est moins
+sÃ»r qu'elles promettent des amÃ©liorations substantielles de la qualitÃ©
+des traductions machine."
+
+Reprenant les idÃ©es de Yehochua Bar-Hillel exprimÃ©es dans "The State of
+Machine Translation" (L'Ã©tat de la traduction automatique), article
+publiÃ© en 1951, Pierre Isabelle et Patrick Andries dÃ©finissent trois
+stratÃ©gies d'application de la traduction automatique: (a) une aide
+pour "balayer" la production Ã©crite et fournir des traductions
+approximatives; (b) des situations de "sous-langues naturelles
+simples", comme l'implantation rÃ©ussie en 1977 du systÃ¨me METEO qui
+traduit les prÃ©visions mÃ©tÃ©orologiques du ministÃ¨re de l'Environnement
+canadien; (c) pour de bonnes traductions de textes complexes, le
+couplage de l'humain et de la machine avant, pendant et aprÃ¨s le
+processus de traduction automatique, couplage qui n'est pas forcÃ©ment
+Ã©conomique comparÃ© Ã  la traduction traditionnelle.
+
+Les auteurs penchent plus pour "un poste de travail pour le traducteur
+humain" que pour un "traducteur robot". Ils expliquent: "Les recherches
+rÃ©centes sur les mÃ©thodes probabilistes ont permis de dÃ©montrer qu'il
+Ã©tait possible de modÃ©liser d'une maniÃ¨re extrÃªmement efficace certains
+aspects simples du rapport traductionnel entre deux textes. Par
+exemple, on a mis au point des mÃ©thodes qui permettent de calculer le
+bon 'appariement' entre les phrases d'un texte et de sa traduction,
+c'est-Ã -dire d'identifier Ã  quelle(s) phrase(s) du texte d'origine
+correspond chaque phrase de la traduction. AppliquÃ©es Ã  grande Ã©chelle,
+ces techniques permettent de constituer, Ã  partir des archives d'un
+service de traduction, un mÃ©moire de traduction qui permettra souvent
+de recycler des fragments de traductions antÃ©rieures. Des systÃ¨mes de
+ce genre ont dÃ©jÃ  commencÃ© Ã  apparaÃ®tre sur le marchÃ© (Translation
+Manager II de IBM, Translator's Workbench de Trados, TransSearch du
+RALI, etc.). Les recherches les plus rÃ©centes se concentrent sur des
+modÃ¨les capables d'Ã©tablir automatiquement les correspondances Ã  un
+niveau plus fin que celui de la phrase: syntagmes et mots. Les
+rÃ©sultats obtenus laissent entrevoir toute une famille de nouveaux
+outils pour le traducteur humain, dont les aides au dÃ©pouillement
+terminologique, les aides Ã  la dictÃ©e et Ã  la frappe des traductions
+ainsi que les dÃ©tecteurs de fautes de traduction."
+
+# Le futur vu par Randy Hobler
+
+En septembre 1998, Randy Hobler est consultant en marketing internet
+auprÃ¨s de Globalink, une sociÃ©tÃ© de produits et services de traduction.
+Il explique lors d'un entretien par courriel: "Nous arriverons
+rapidement au point oÃ¹ une traduction trÃ¨s fidÃ¨le du texte et de la
+parole sera si commune qu'elle pourra faire partie des plateformes ou
+mÃªme des puces. A ce stade, lorsque le dÃ©veloppement de l'internet aura
+atteint sa vitesse de croisiÃ¨re, lorsque la fidÃ©litÃ© de la traduction
+atteindra plus de 98% et lorsque les diffÃ©rentes combinaisons de
+langues possibles auront couvert la grande majoritÃ© du marchÃ©, la
+transparence de la langue - Ã  savoir toute communication d'une langue Ã 
+une autre - sera une vision trop restrictive pour ceux qui vendent
+cette technologie. Le dÃ©veloppement suivant sera la 'transparence
+transculturelle et transnationale' dans laquelle les autres aspects de
+la communication humaine, du commerce et des transactions au-delÃ  du
+seul langage entreront en scÃ¨ne. Par exemple, les gestes ont un sens,
+les mouvements faciaux ont un sens, et ceci varie en fonction des
+normes sociales d'un pays Ã  l'autre. La lettre O rÃ©alisÃ©e avec le pouce
+et l'index signifie "OK" aux Ãtats-Unis alors qu'en Argentine c'est un
+geste obscÃ¨ne.
+
+Quand se produira l'inÃ©vitable dÃ©veloppement de la vidÃ©oconfÃ©rence
+multilingue multimÃ©dia, il sera nÃ©cessaire de corriger visuellement les
+gestes. Le Media Lab du MIT (Massachussets Institute of Technology),
+Microsoft et bien d'autres travaillent Ã  la reconnaissance informatique
+des expressions faciales, l'identification des caractÃ©ristiques
+biomÃ©triques par le biais du visage, etc. Il ne servira Ã  rien Ã  un
+homme d'affaires amÃ©ricain de faire une excellente prÃ©sentation Ã  un
+Argentin lors d'une vidÃ©oconfÃ©rence multilingue sur le web, avec son
+discours traduit dans un espagnol argentin parfait, s'il fait en mÃªme
+temps le geste O avec le pouce et l'index. Les ordinateurs pourront
+intercepter ces gestes et les corriger visuellement. Les cultures
+diffÃ¨rent de milliers de faÃ§ons, et la plupart d'entre elles peuvent
+Ãªtre modifiÃ©es par voie informatique lorsqu'on passe de l'une Ã 
+l'autre. Ceci inclut les lois, les coutumes, les habitudes de travail,
+l'Ã©thique, le change monÃ©taire, les diffÃ©rences de taille dans les
+vÃªtements, les diffÃ©rences entre le systÃ¨me mÃ©trique et le systÃ¨me de
+mesures anglophone, etc. Les firmes dynamiques rÃ©pertorieront et
+programmeront ces diffÃ©rences, et elles vendront des produits et
+services afin d'aider les habitants de la planÃ¨te Ã  mieux communiquer
+entre eux. Une fois que ces produits et services seront largement
+rÃ©pandus, ils contribueront rÃ©ellement Ã  une meilleure comprÃ©hension Ã 
+l'Ã©chelle internationale."
+
+
+= ExpÃ©riences
+
+FranÃ§ois Vadrot, directeur de FTPress (French Touch Press), sociÃ©tÃ© de
+presse en ligne, Ã©crit en mai 2000: "Peut-on rÃ©ellement penser que
+toute la population du monde va communiquer dans tous les sens? Peut-
+Ãªtre? Via des systÃ¨mes de traduction instantanÃ©e, par Ã©crit ou par
+oral? J'ai du mal Ã  imaginer qu'on verra de sitÃ´t des outils capables
+de translater les subtilitÃ©s des modes de pensÃ©e propres Ã  un pays: il
+faudrait pour lors traduire, non plus du langage, mais Ã©tablir des
+passerelles de sensibilitÃ©. A moins que la mondialisation n'uniformise
+tout cela?"
+
+Alex Andrachmes, producteur audiovisuel, Ã©crivain et explorateur
+d'hypertexte, est tout aussi dubitatif. Il Ã©crit en dÃ©cembre 2000:
+"J'attends les fameuses traductions simultanÃ©es en direct-live... On
+nous les annonce avec les nouveaux processeurs ultra-puissants, mais on
+nous les annonÃ§ait dÃ©jÃ  pour cette gÃ©nÃ©ration-ci de processeurs. Alors,
+le genre: vous/rÃ©servÃ©/avion/de le/november 17-2000... Non merci. Plus
+tard peut-Ãªtre."
+
+En 2000, la gÃ©nÃ©ralisation de lâinternet et du commerce Ã©lectronique
+entraÃ®ne toutefois le dÃ©veloppement dâun vÃ©ritable marchÃ© avec les
+produits et services des sociÃ©tÃ©s SYSTRAN, Alis Technologies, Lernout &
+Hauspie, Globalink et Softissimo, entre autres, Ã  destination du grand
+public, des professionnels et des industriels.
+
+SYSTRAN (acronyme de "System Translation"), pionnier dans le traitement
+automatique des langues, est lâauteur du premier logiciel de traduction
+gratuit du web, lancÃ© en dÃ©cembre 1997. AltaVista Translation, appelÃ©
+aussi Babel Fish, est un service de traduction automatique de pages web
+de l'anglais vers les langues suivantes : allemand, franÃ§ais, espagnol,
+italien et portugais, et vice versa. Ce service est proposÃ© Ã  la
+demande d'AltaVista, moteur de recherche utilisÃ© par douze millions
+d'internautes, suite au problÃ¨me des langues devenu sensible sur
+l'internet. Le siÃ¨ge de SYSTRAN est situÃ© Ã  Soisy-sous-Montmorency
+(France). Sa succursale, situÃ©e Ã  La Jolla (Californie), assure les
+ventes et le marketing, ainsi qu'une partie de la R&D (recherche et
+dÃ©veloppement).
+
+BasÃ©e Ã  MontrÃ©al (QuÃ©bec), Alis Technologies dÃ©veloppe et commercialise
+des solutions et services de traitement linguistique au moyen de
+logiciels de traduction qui transforment des systÃ¨mes informatiques
+unilingues en outils multilingues.
+
+BasÃ© Ã  Ypres (Belgique) et Burlington (Massachusetts, Ãtats-Unis),
+Lernout & Hauspie (rachetÃ© ensuite par ScanSoft) propose des produits
+et services en dictÃ©e, traduction, compression vocale, synthÃ¨se vocale
+et documentation industrielle. Les technologies couvertes incluent la
+reconnaissance automatique de la langue, la compression numÃ©rique de la
+parole, le passage du texte Ã  la parole, et la traduction. Les produits
+Ã©manant des trois premiÃ¨res technologies sont vendus aux grandes
+sociÃ©tÃ©s des industries suivantes: tÃ©lÃ©communications, informatique,
+multimÃ©dia, Ã©lectronique grand public et Ã©lectronique automotrice. Les
+services de traduction (passage du texte au texte) sont Ã  destination
+des sociÃ©tÃ©s en technologies de l'information, des marchÃ©s verticaux et
+des marchÃ©s d'automatisation. De plus, le Machine Translation Group
+(Groupe de traduction automatique) formÃ© par Lernout & Hauspie comprend
+des entreprises qui dÃ©veloppent, produisent et vendent des systÃ¨mes de
+traduction: L&H Language Technology, AppTek, AILogic, NeocorTech et
+Globalink.
+
+FondÃ© en 1990, Globalink est une sociÃ©tÃ© spÃ©cialisÃ©e dans les logiciels
+et services de traduction. Elle offre des solutions sur mesure Ã  partir
+d'une gamme de logiciels, options en ligne et services de traduction
+professionnelle. La sociÃ©tÃ© diffuse ses logiciels de traduction en
+allemand, anglais, espagnol, franÃ§ais, italien et portugais, et propose
+des solutions aux problÃ¨mes de traduction des particuliers, petites
+sociÃ©tÃ©s, multinationales et gouvernements, que ce soit pour un produit
+individuel donnant une traduction prÃ©liminaire rapide ou un systÃ¨me
+complet permettant de gÃ©rer des traductions de documents
+professionnels.
+
+Le site web donne les informations suivantes en 1998: "Avec les
+logiciels d'application de Globalink, l'ordinateur utilise trois
+ensembles de donnÃ©es: le texte Ã  traiter, le programme de traduction et
+un dictionnaire de mots et d'expressions dans la langue-source, ainsi
+que des informations sur les concepts Ã©voquÃ©s par le dictionnaire et
+les rÃ¨gles applicables Ã  la phrase: rÃ¨gles de syntaxe et de grammaire,
+y compris des algorithmes gouvernant la conjugaison des verbes,
+l'adaptation de la syntaxe, les accords de genre et de nombre et la
+mise en ordre des mots. Une fois que l'utilisateur a sÃ©lectionnÃ© le
+texte et lancÃ© le processus de traduction, le programme commence Ã 
+comparer les mots du texte Ã  traiter avec ceux qui sont stockÃ©s dans le
+dictionnaire. Une fois l'adÃ©quation trouvÃ©e, l'application prÃ©pare une
+notice complÃ¨te qui inclut des informations sur les significations
+possibles du mot et, d'aprÃ¨s le contexte, ses relations avec les autres
+mots dans la mÃªme phrase. Le temps requis pour la traduction dÃ©pend de
+la longueur du texte. Un document de trois pages et 750 mots demande un
+traitement de trois minutes environ pour une premiÃ¨re traduction."
+
+Softissimo commercialise la sÃ©rie de logiciels de traduction Reverso, Ã 
+cÃ´tÃ© de produits dâÃ©criture multilingue, de dictionnaires Ã©lectroniques
+et de mÃ©thodes de langues. Reverso est utilisÃ© par exemple par VoilÃ ,
+le moteur de recherche de France TÃ©lÃ©com. Softissimo diffuse aussi des
+logiciels d'apprentissage des langues, ainsi que des dictionnaires,
+notamment l'"Eurodico", le "Grand Collins bilingue" et le "Collins
+English Dictionary".
+
+En mars 2001, IBM se lance dans un marchÃ© en pleine expansion avec un
+produit professionnel haut de gamme, le WebSphere Translation Server.
+Ce logiciel traduit instantanÃ©ment en plusieurs langues (allemand,
+anglais, chinois, corÃ©en, espagnol, franÃ§ais, italien, japonais) les
+pages web, courriels et chats (dialogues en direct). Il interprÃ¨te 500
+mots Ã  la seconde et permet lâajout de vocabulaires spÃ©cifiques.
+
+
+= R&D en traduction automatique
+
+Voici une prÃ©sentation rapide des travaux de quatre organismes, parmi
+tant d'autres, au QuÃ©bec (Laboratoire RALI), en Californie (Natural
+Language Group), en Suisse (ISCCO) et au Japon (UNDL Foundation).
+
+# Laboratoire RALI
+
+BasÃ© Ã  MontrÃ©al (QuÃ©bec), le laboratoire RALI (Laboratoire de recherche
+appliquÃ©e en linguistique informatique) a les domaines de compÃ©tence
+suivants: outils d'aide Ã  la traduction, appariement automatique de
+textes, gÃ©nÃ©ration automatique de texte, rÃ©accentuation automatique,
+recherche d'information aidÃ©e par des outils linguistiques, extraction
+d'information, identification de la langue et du codage, transducteurs
+Ã  Ã©tats finis, et corpus de texte enrichis. Dans le cadre du Projet
+TransX, le laboratoire RALI Ã©labore une nouvelle gÃ©nÃ©ration d'outils
+d'aide aux traducteurs (TransType, TransTalk, TransCheck et
+TransSearch). Ces outils sont tous fondÃ©s sur des modÃ¨les de traduction
+probabilistes qui calculent automatiquement les correspondances entre
+le texte produit par le traducteur et le texte en langue de dÃ©part.
+
+Comme expliquÃ© sur le site web en 1998, "(a) TransType accÃ©lÃ¨re la
+saisie de la traduction en anticipant les choix du traducteur et, au
+besoin, en les critiquant. L'outil propose ses choix en tenant compte Ã 
+la fois du texte en langue de dÃ©part et de la traduction partielle dÃ©jÃ 
+produite par le traducteur. (b) TransTalk effectue la transcription
+automatique d'une traduction dictÃ©e. Cet outil se sert d'un modÃ¨le de
+traduction probabiliste pour amÃ©liorer la performance du module de
+reconnaissance vocale. (c) TransCheck dÃ©tecte automatiquement certaines
+erreurs de traduction en vÃ©rifiant que les correspondances entre les
+segments d'une Ã©bauche de traduction et les segments du texte en langue
+de dÃ©part respectent les propriÃ©tÃ©s souhaitÃ©es d'une bonne traduction.
+(d) TransSearch permet au traducteur d'effectuer des recherches dans
+des bases de donnÃ©es de traductions prÃ©-existantes pour y retrouver des
+solutions toutes faites Ã  ses problÃ¨mes de traduction. Les bases de
+donnÃ©es requises nÃ©cessitent un appariement entre la traduction et le
+texte en langue de dÃ©part."
+
+# Natural Language Group de l'USC/ISI
+
+RattachÃ© Ã  l'USC/ISI (University of Southern California/Information
+Sciences Institute - UniversitÃ© de Californie du Sud/Institut des
+sciences de l'information), le Natural Language Group (Groupe de la
+langue naturelle) traite de plusieurs aspects du traitement de la
+langue naturelle: traduction automatique, rÃ©sumÃ© automatique de texte,
+gestion multilingue des verbes, dÃ©veloppement de taxinomies de concepts
+(ontologies), discours et gÃ©nÃ©ration de texte, Ã©laboration de gros
+lexiques multilingues et communication multimÃ©dia.
+
+Eduard Hovy, directeur du Natural Language Group, explique en aoÃ»t
+1998: "Les gens Ã©crivent dans leur propre langue pour diverses raisons:
+commoditÃ©, discrÃ©tion, communication locale, mais ceci ne signifie pas
+que d'autres personnes ne soient pas intÃ©ressÃ©es de lire ce qu'ils ont
+Ã  dire! Ceci est particuliÃ¨rement vrai pour les sociÃ©tÃ©s impliquÃ©es
+dans la veille technologique (disons, une sociÃ©tÃ© informatique qui
+souhaite connaÃ®tre tous les articles de journaux et pÃ©riodiques
+japonais relatifs Ã  son activitÃ©) et des services de renseignements
+gouvernementaux (ceux qui procurent l'information la plus rÃ©cente qui
+sera ensuite utilisÃ©e par les fonctionnaires pour dÃ©cider de la
+politique, etc.). Un des principaux problÃ¨mes auxquels ces services
+doivent faire face est la trÃ¨s grande quantitÃ© d'informations. Ils
+recrutent donc du personnel bilingue 'passif' qui peut scanner
+rapidement les textes afin de supprimer ce qui est sans intÃ©rÃªt avant
+de donner les documents significatifs Ã  des traducteurs professionnels.
+Manifestement, une combinaison de rÃ©sumÃ© automatique de texte et de
+traduction automatique sera trÃ¨s utile dans ce cas; comme la traduction
+automatique est longue, on peut d'abord rÃ©sumer le texte dans la langue
+Ã©trangÃ¨re, puis faire une traduction automatique rapide Ã  partir du
+rÃ©sultat obtenu, laissant Ã  un Ãªtre humain ou un classificateur de
+texte (type recherche documentaire) le soin de dÃ©cider si on doit
+garder l'article ou le rejeter.
+
+Pour ces raisons, durant ces cinq derniÃ¨res annÃ©es, le gouvernement des
+Ãtats-Unis a financÃ© des recherches en traduction automatique, en
+rÃ©sumÃ© automatique de texte et en recherche documentaire, et il
+s'intÃ©resse au lancement d'un nouveau programme de recherche en
+informatique documentaire multilingue. On sera ainsi capable d'ouvrir
+un navigateur tel que Netscape ou Explorer, entrer une demande en
+anglais, et obtenir la liste des textes dans toutes les langues. Ces
+textes seront regroupÃ©s par sous-catÃ©gorie avec un rÃ©sumÃ© pour chacun
+et une traduction pour les rÃ©sumÃ©s Ã©trangers, toutes choses qui
+seraient trÃ¨s utiles."
+
+Il ajoute en aoÃ»t 1999: "Durant les douze derniers mois, j'ai Ã©tÃ©
+contactÃ© par un nombre surprenant de nouvelles sociÃ©tÃ©s et start-up en
+technologies de l'information. La plupart d'entre elles ont l'intention
+d'offrir des services liÃ©s au commerce Ã©lectronique (vente en ligne,
+Ã©change, collecte d'information, etc.). Ãtant donnÃ© les faibles
+rÃ©sultats des technologies actuelles du traitement de la langue
+naturelle - ailleurs que dans les centres de recherche - c'est assez
+surprenant. Quand avez-vous pour la derniÃ¨re fois trouvÃ© rapidement une
+rÃ©ponse correcte Ã  une question posÃ©e sur le web, sans avoir eu Ã 
+passer en revue pendant un certain temps des informations n'ayant rien
+Ã  voir avec votre question? Cependant, Ã  mon avis, tout le monde sent
+que les nouveaux dÃ©veloppements en rÃ©sumÃ© automatique de texte, analyse
+des questions, etc., vont, je l'espÃ¨re, permettre des progrÃ¨s
+significatifs. Mais nous ne sommes pas encore arrivÃ©s Ã  ce stade.
+
+Il me semble qu'il ne s'agira pas d'un changement considÃ©rable, mais
+que nous arriverons Ã  des rÃ©sultats acceptables, et que l'amÃ©lioration
+se fera ensuite lentement et sÃ»rement. Ceci s'explique par le fait
+qu'il est trÃ¨s difficile de faire en sorte que votre ordinateur
+'comprenne' rÃ©ellement ce que vous voulez dire - ce qui nÃ©cessite de
+notre part la construction informatique d'un rÃ©seau de 'concepts' et
+des relations de ces concepts entre eux - rÃ©seau qui, jusqu'Ã  un
+certain stade au moins, reflÃ¨terait celui de l'esprit humain, au moins
+dans les domaines d'intÃ©rÃªt pouvant Ãªtre regroupÃ©s par sujets. Le mot
+pris Ã  la 'surface' n'est pas suffisant - par exemple quand vous tapez:
+'capitale de la Suisse', les systÃ¨mes actuels n'ont aucun moyen de
+savoir si vous songez Ã  'capitale administrative' ou 'capitale
+financiÃ¨re'. Dans leur grande majoritÃ©, les gens prÃ©fÃ©reraient pourtant
+un type de recherche basÃ© sur une expression donnÃ©e, ou sur une
+question donnÃ©e formulÃ©e en langage courant.
+
+Plusieurs programmes de recherche sont en train d'Ã©laborer de vastes
+rÃ©seaux de 'concepts', ou d'en proposer l'Ã©laboration. Ceci ne peut se
+faire en deux ans, et ne peut amener rapidement un rÃ©sultat
+satisfaisant. Nous devons dÃ©velopper Ã  la fois le rÃ©seau et les
+techniques pour construire ces rÃ©seaux de maniÃ¨re semi-automatique,
+avec un systÃ¨me d'auto-adaptation. Nous sommes face Ã  un dÃ©fi majeur."
+
+Il complÃ¨te en septembre 2000: "Je vois de plus en plus de petites
+sociÃ©tÃ©s utiliser d'une maniÃ¨re ou d'une autre les technologies liÃ©es
+aux langues, pour des recherches, traductions, rapports ou autres
+services permettant de communiquer. Le nombre de crÃ©neaux dans lesquels
+ces technologies peuvent Ãªtre utilisÃ©es continue de me surprendre, et
+cela va des rapports financiers et leurs mises Ã  jour aux
+communications d'une sociÃ©tÃ© vers d'autres sociÃ©tÃ©s, en passant par le
+marketing.
+
+En ce qui concerne la recherche, la principale avancÃ©e que je vois est
+due Ã  Kevin Knight, un collÃ¨gue de l'ISI, ce dont je suis trÃ¨s honorÃ©.
+L'Ã©tÃ© dernier, une Ã©quipe de chercheurs et d'Ã©tudiants de l'UniversitÃ©
+Johns Hopkins, dans le Maryland, a dÃ©veloppÃ© une version Ã  la fois
+meilleure et plus rapide d'une mÃ©thode dÃ©veloppÃ©e Ã  l'origine par IBM
+(et dont IBM reste propriÃ©taire) il y a douze ans environ. Cette
+mÃ©thode permet de crÃ©er automatiquement un systÃ¨me de traduction
+automatique, dans la mesure oÃ¹ on lui fournit un volume suffisant de
+texte bilingue. Tout d'abord la mÃ©thode trouve toutes les
+correspondances entre les mots et la position des mots d'une langue Ã 
+l'autre, et ensuite elle construit des tableaux trÃ¨s complets de rÃ¨gles
+entre le texte et sa traduction, et les expressions correspondantes.
+
+Bien que la qualitÃ© du rÃ©sultat soit encore loin d'Ãªtre satisfaisante -
+personne ne pourrait considÃ©rer qu'il s'agit d'un produit fini, et
+personne ne pourrait utiliser le rÃ©sultat tel quel - l'Ã©quipe a crÃ©Ã© en
+vingt-quatre heures un systÃ¨me (Ã©lÃ©mentaire) de traduction automatique
+du chinois vers l'anglais. Ceci constitue un exploit phÃ©nomÃ©nal, qui
+n'avait jamais Ã©tÃ© rÃ©alisÃ© auparavant. Les dÃ©tracteurs du projet
+peuvent bien sÃ»r dire qu'on a besoin dans ce cas de trois millions de
+phrases disponibles dans chaque langue, et qu'on ne peut se procurer
+une quantitÃ© pareille que dans les parlements du Canada, de Hong-Kong
+ou d'autres pays bilingues. Ils peuvent bien sÃ»r arguer Ã©galement la
+faible qualitÃ© du rÃ©sultat. Mais le fait est que, tous les jours, on
+met en ligne des textes bilingues au contenu Ã  peu prÃ¨s Ã©quivalent, et
+que la qualitÃ© de cette mÃ©thode va continuer de s'amÃ©liorer pour
+atteindre au moins celle des logiciels de traduction automatique
+actuels, qui sont conÃ§us manuellement. J'en suis absolument certain.
+
+D'autres dÃ©veloppements sont moins spectaculaires. On observe une
+amÃ©lioration constante des rÃ©sultats dans les systÃ¨mes pouvant dÃ©cider
+de la traduction opportune d'un terme (homonyme) qui a des
+significations diffÃ©rentes [par exemple pÃ¨re, pair et pÃ¨re en franÃ§ais,
+ndlr]. On travaille beaucoup aussi sur la recherche d'informations par
+recoupement de langues (qui vous permettront bientÃ´t de trouver sur le
+web des documents en chinois ou en franÃ§ais mÃªme si vous tapez vos
+questions en anglais). On voit Ã©galement un dÃ©veloppement rapide des
+systÃ¨mes qui rÃ©pondent automatiquement Ã  des questions simples (un peu
+comme le populaire AskJeeves utilisÃ© sur le web, mais avec une gestion
+par ordinateur et non par des Ãªtres humains). Ces systÃ¨mes renvoient Ã 
+un grand volume de texte permettant de trouver des 'factiodes' (et non
+des opinions ou des motifs ou des chaÃ®nes d'Ã©vÃ©nements) en rÃ©ponse Ã 
+des questions telles que: 'Quelle est la capitale de l'Ouganda?', ou
+bien: 'Quel Ã¢ge a le prÃ©sident Clinton?', ou bien: 'Qui a inventÃ© le
+procÃ©dÃ© Xerox?', et leurs rÃ©sultats obtenus sont plutÃ´t meilleurs que
+ce Ã  quoi je m'attendais."
+
+# ISSCO
+
+RattachÃ© Ã  l'UniversitÃ© de GenÃ¨ve (Suisse), l'Institut Dalle Molle pour
+les Ã©tudes sÃ©mantiques et cognitives (ISSCO) mÃ¨ne des recherches
+thÃ©oriques et appliquÃ©es en linguistique computationnelle et en
+intelligence artificielle. CrÃ©Ã© en 1972 par la Fondation Dalle Molle
+pour mener des recherches en cognition et en sÃ©mantique, l'institut en
+est venu Ã  se spÃ©cialiser dans le traitement de la langue naturelle et,
+en particulier, dans le traitement multilingue des langues pour la
+traduction automatique, l'environnement linguistique, la gÃ©nÃ©ration
+multilingue, le traitement du discours, la collection de donnÃ©es, etc.
+Si l'universitÃ© de GenÃ¨ve procure un soutien administratif et une
+infrastructure Ã  l'ISSCO, la recherche est financÃ©e par des subventions
+et des contrats avec des organismes publics et privÃ©s. L'institut est
+multidisciplinaire et multinational, avec un petit groupe de permanents
+complÃ©tÃ© par un certain nombre de personnes sous contrat (spÃ©cialistes
+en informatique, linguistique, mathÃ©matiques, psychologie ou
+philosophie) restant de six mois Ã  deux ans, ce qui permet une grande
+flexibilitÃ© et un Ã©change continuel d'idÃ©es.
+
+# UNDL Foundation
+
+DÃ©veloppÃ© sous l'Ã©gide de l'UNU/IAS (United Nations
+University/Institute of Advanced Studies - UniversitÃ© des Nations
+Unies/ Institut des Ã©tudes avancÃ©es) Ã  Tokyo (Japon), l'UNL (universal
+networking language - langage d'interconnexion universel) est un projet
+de mÃ©talangage numÃ©rique pour l'encodage, le stockage, la recherche et
+la communication d'informations multilingues indÃ©pendamment d'une
+langue-source donnÃ©e, et donc d'un systÃ¨me de pensÃ©e donnÃ©. Ce
+mÃ©talangage est dÃ©veloppÃ© Ã  partir de janvier 1997 au sein de l'UNL
+Program, un programme international impliquant de nombreux partenaires
+dans toutes les communautÃ©s linguistiques. En 1998, 120 chercheurs de
+par le monde travaillent sur un projet multilingue comportant 17
+langues (allemand, anglais, arabe, brÃ©silien, chinois, espagnol,
+franÃ§ais, hindou, indonÃ©sien, italien, japonais, letton, mongolien,
+russe, swahili et thaÃ¯). Ce programme se poursuit ensuite sous l'Ã©gide
+de l'UNDL Foundation (UNDL: Universal Networking Digital Language -
+Langage numÃ©rique d'interconnexion universel), fondÃ©e en janvier 2001.
+
+Christian Boitet, directeur du Groupe d'Ã©tude pour la traduction
+automatique (GETA) Ã  Grenoble, un des nombreux participants de l'UNL
+Program, explique en septembre 1998 en quoi consiste le projet: "Il
+s'agit non de TAO [traduction assistÃ©e par ordinateur] habituelle, mais
+de communication et recherche d'information multilingue. 14 groupes ont
+commencÃ© le travail sur 12 langues (plus 2 annexes) depuis dÃ©but 1997.
+L'idÃ©e est de dÃ©velopper un standard, dit UNL [universal networking
+language], qui serait le HTML du contenu linguistique, et pour chaque
+langue, de dÃ©velopper un gÃ©nÃ©rateur (dit 'dÃ©convertisseur') accessible
+sur un ou plusieurs serveurs, et un 'enconvertisseur'. L'UNU
+[UniversitÃ© des Nations Unies] finance 50% du coÃ»t. D'aprÃ¨s notre
+Ã©valuation sur la premiÃ¨re annÃ©e, c'est plutÃ´t 30 Ã  35%, car le travail
+(linguistique et informatique) est Ã©norme, et le projet passionnant:
+les permanents des laboratoires s'y investissent plus que prÃ©vu. (...)
+
+La dÃ©conversion tourne pour le japonais, le chinois, l'anglais, le
+portugais, l'indonÃ©sien, et commence Ã  tourner pour le franÃ§ais,
+l'allemand, le russe, l'italien, l'espagnol, l'hindi, l'arabe et le
+mongol. Chaque langue a une base lexicale de 30.000 Ã  120.000 liens UW
+[universal word]--lexÃ¨me. L'enconversion n'est pas (si on veut de la
+qualitÃ© pour du tout venant) une analyse classique. C'est une mÃ©thode
+de fabrication de graphes UNL [universal networking language] qui
+suppose une bonne part d'interaction, avec plusieurs possibilitÃ©s: (a)
+analyse classique multiple suivie d'une dÃ©sambiguÃ¯sation interactive en
+langue source, (b) entrÃ©e sous langage contrÃ´lÃ©, (c) encore plus
+sÃ©duisant (et encore pas clair, au niveau recherche pour l'instant),
+entrÃ©e directe via une interface graphique reliÃ©e Ã  la base lexicale et
+Ã  la base de connaissances. Les applications possibles sont le courriel
+multilingue, les informations multilingues, les dictionnaires actifs
+pour la lecture de langues Ã©trangÃ¨res sur le web, et bien sÃ»r la TA
+[traduction automatique] de mauvaise qualitÃ© (ce qu'on trouve
+actuellement, mais pour tous les couples Ã  cause de l'architecture Ã 
+pivot) pour le surf web et la veille. On travaille actuellement sur les
+informations sportives sur le web, surtout sur le foot. On construit
+une base de documents, oÃ¹ chaque fichier est structurÃ© (Ã  la HTML) et
+contient, pour chaque Ã©noncÃ©, l'Ã©noncÃ© original, sa structure UNL, et
+autant de traductions qu'on en a obtenu. Un tel document peut Ãªtre
+recherchÃ© dans une base en traduisant la question en UNL, puis affichÃ©
+(le UNL viewer existe depuis un an) dans autant de fenÃªtres d'un
+brauser web que de langues sÃ©lectionnÃ©es."
+
+En ce qui concerne les perspectives, "le projet a un problÃ¨me de
+volume: grande surface, pas assez d'Ã©paisseur. Il faudrait trois Ã  cinq
+fois plus de monde partout pour que Ã§a avance assez vite (pour que
+Microsoft et d'autres ne finissent pas par tout reprendre et revendre,
+alors qu'on vise une utilisation ouverte, du type de ce qu'on fait avec
+les serveurs et clients web). Les subventions des sociÃ©tÃ©s japonaises Ã 
+l'UNU pour ce projet (et d'autres) se tarissent Ã  cause de la crise
+japonaise. Le groupe central est beaucoup trop petit (quatre personnes
+qui font le logiciel, le japonais, l'anglais, l'administration, c'est
+peu mÃªme avec de la sous-traitance). De plus, le plan gÃ©nÃ©ral est
+d'ouvrir aux autres langues de l'ONU en 2000. Il faudrait arriver Ã  un
+Ã©tat satisfaisant pour les treize autres avant. Du point de vue
+politique et culturel, ce projet est trÃ¨s important, en ce qu'il montre
+pour la premiÃ¨re fois une voie possible pour construire divers outils
+soutenant l'usage de toutes les langues sur internet, qu'elles soient
+majoritaires ou minoritaires. En particulier, ce devrait Ãªtre un projet
+majeur pour la francophonie. Dans l'Ã©tat actuel des choses, je pense
+que l'Ã©lan initial a Ã©tÃ© donnÃ©, mais que la premiÃ¨re phase (d'ici 2000)
+risque de retomber comme un soufflÃ© si on ne consolide pas trÃ¨s vite le
+projet, dans chaque pays participant. Donc l'UNU cherche comment monter
+un soutien puissant Ã  la mesure de cette ambition. Je pense que, pour
+la francophonie par exemple, il faudrait un groupe d'une dizaine de
+personnes ne se consacrant qu'Ã  ce projet pendant au moins dix ans,
+plus des stagiaires et des collaborateurs sur le rÃ©seau, bÃ©nÃ©voles ou
+intÃ©ressÃ©s par la mise Ã  disposition gratuite de ressources et
+d'outils."
+
+
+
+CHRONOLOGIE
+
+[Chaque ligne dÃ©bute par l'annÃ©e ou bien l'annÃ©e/mois. Par exemple,
+1971/07 signifie juillet 1971.]
+
+  1968: Le code ASCII est le premier systÃ¨me d'encodage informatique.
+  1971/07: Le Projet Gutenberg est la premiÃ¨re bibliothÃ¨que numÃ©rique.
+  1974: L'internet fait ses dÃ©buts.
+  1990: Le web est inventÃ© par Tim Berners-Lee.
+  1991/01: L'Unicode est un systÃ¨me d'encodage pour toutes les langues.
+  1993/11: Mosaic est le premier logiciel de navigation sur le web.
+  1994/04: La Human-Languages Page est un catalogue des ressources linguistiques sur le web.
+  1994/10: Le World Wide Web Consortium offrira des outils pour un web multilingue.
+  1994: Travlang est un site consacrÃ© aux languages et aux voyages.
+  1995/12: La Kotoba Home Page explique comment utiliser son clavier dans plusieurs langues.
+  1995: L'Internet Dictionary Project veut crÃ©er des dictionnaires de traduction gratuits.
+  1995: NetGlos est un glossaire multilingue pour la terminologie de l'internet.
+  1995: Global Reach est une sociÃ©tÃ© de conseil Ã©manant de Euro-Marketing Associates.
+  1995: L'association LISA dÃ©veloppe des standards pour l'industrie de la localisation.
+  1995: L'Ethnologue, encyclopÃ©die des langues, est disponible gratuitement sur le web.
+  1996/04: OneLook Dictionaries offre un point commun pour de nombreux dictionnaires en ligne.
+  1997/01: L'UNL (universal networking language) est un projet de mÃ©talangage numÃ©rique.
+  1997/12: AltaVista lance AltaVista Translation, appelÃ© aussi Babel Fish.
+  1997: Le Logos Dictionary est mis en ligne gratuitement.
+  1999/12: WebEncyclo est la premiÃ¨re encyclopÃ©die francophone en accÃ¨s libre.
+  1999/12: Britannica.com est la premiÃ¨re encyclopÃ©die anglophone en accÃ¨s libre.
+  1999: WordReference.com propose des dictionnaires bilingues gratuits en ligne.
+  2000/02: yourDictionary.com est un portail pour les langues.
+  2000/07: La moitiÃ© des usagers de l'internet est non anglophone.
+  2000/09: Le Grand dictionnaire terminologique (GDT) est bilingue franÃ§ais-anglais.
+  2001/01: WikipÃ©dia est la premiÃ¨re grande encyclopÃ©die collaborative multilingue.
+  2001/01: L'UNL est dÃ©sormais dÃ©veloppÃ© au sein de l'UNDL Foundation.
+  2001/04: La Human-Languages Page devient le portail iLoveLanguages.
+  2004/01: Le Projet Gutenberg Europe est lancÃ© en tant que projet multilingue.
+  2007/03: IATE (Inter-Active Terminology for Europe) est la nouvelle base terminologique europÃ©enne.
+  2009: L'Ethnologue sort une nouvelle Ã©dition (16e Ã©d.), qui recense 6.909 langues.
+
+
+
+SITES WEB
+
+
+  Alis Technologies: http://www.alis.com/
+  Aquarius.net: Directory of Localization Experts: http://www.aquarius.net/
+  ASCII Table: http://www.asciitable.com/
+  Asia-Pacific Association for Machine Translation (AAMT): http://www.aamt.info/
+  Association for Computational Linguistics (ACL): http://www.aclweb.org/
+  Association for Machine Translation in the Americas (AMTA): http://www.amtaweb.org/
+  CALL@Hull: http://www.fredriley.org.uk/call/
+  ELRA (European Language Resources Association): http://www.elra.info/
+  ELSNET (European Network of Excellence in Human Language Technologies): http://www.elsnet.org/
+  Encyclopaedia Britannica Online: http://www.britannica.com/
+  Encyclopaedia Universalis: http://www.universalis-edu.com/
+  Ethnologue: http://www.ethnologue.com/
+  Ethnologue: Endangered Languages: http://www.ethnologue.com/nearly_extinct.asp
+  EUROCALL (European Association for Computer-Assisted Language Learning): http://www.eurocall-languages.org/
+  European Association for Machine Translation (EAMT): http://www.eamt.org/
+  European Bureau for Lesser-Used Languages (EBLUL): http://www.eblul.org/
+  European Commission: Languages of Europe: http://ec.europa.eu/education/languages/languages-of-europe/
+  European Minority Languages (liste de l'Institut Sabhal MÃ²r Ostaig): http://www.smo.uhi.ac.uk/saoghal/mion-chanain/en/
+  Google Translate: http://translate.google.com/
+  Grand dictionnaire terminologique (GDT): http://www.granddictionnaire.com/
+  IATE: InterActive Terminology for Europe: http://iate.europa.eu/
+  ILOTERM (ILO: International Labor Organization): http://www.ilo.org/iloterm/
+  iLoveLanguages: http://www.ilovelanguages.com/
+  International Committe on Computational Linguistics (ICCL): http://nlp.shef.ac.uk/iccl/
+  Internet Dictionary Project (IDP): http://www.june29.com/IDP/
+  Internet Society (ISOC): http://www.isoc.org/
+  Laboratoire CLIPS (Communication langagiÃ¨re et interaction personne-systÃ¨me): http://www-clips.imag.fr/
+  Laboratoire CLIPS: GETA (Groupe d'Ã©tude pour la traduction automatique): http://www-clips.imag.fr/geta/
+  LINGUIST List (The): http://linguistlist.org/
+  Localization Industry Standards Association (LISA): http://www.lisa.org/
+  Logos: Multilingual Translation Portal: http://www.logos.it/
+  MAITS (Multilingual Application Interface for Telematic Services): http://wwwold.dkuug.dk/maits/
+  Merriam-Webster Online: http://www.merriam-webster.com/
+  Natural Language Group (NLG) at USC/ISI: http://www.isi.edu/natural-language/
+  Nuance: http://www.nuance.com/
+  OneLook Dictionary Search: http://www.onelook.com/
+  Oxford English Dictionary (OED): http://www.oed.com/
+  Oxford Reference Online (ORO): http://www.oxfordreference.com/
+  PAHOMTS (PAHO: Pan American Health Organization): http://www.paho.org/english/am/gsp/tr/machine_trans.htm
+  Palo Alto Research Center (PARC): http://www.parc.com/
+  Palo Alto Research Center (PARC): Natural Language Processing: http://www.parc.com/work/focus-area/NLP/
+  RALI (Recherche appliquÃ©e en linguistique informatique): http://www-rali.iro.umontreal.ca/
+  Reverso: Free Online Translator: http://www.reverso.net/
+  SDL: http://www.sdl.com/
+  SDL: FreeTranslation.com: http://www.freetranslation.com/
+  SDL Trados: http://www.trados.com/
+  Softissimo: http://www.softissimo.com/
+  SYSTRAN: http://www.systranlinks.com/
+  SYSTRANet: Free Online Translator: http://www.systranet.com/
+  TEI: Text Encoding Initiative: http://www.tei-c.org/index.xml
+  TERMITE (Terminology of Telecommunications): http://www.itu.int/terminology/index.html
+  *tmx Vokabeltrainer: http://www.tmx.de/
+  Transparent Language: http://www.transparent.com/
+  TransPerfect: http://www.transperfect.com/
+  Travlang: http://www.travlang.com/
+  Travlang's Translating Dictionaries: http://dictionaries.travlang.com/
+  UNDL (Universal Networking Digital Language) Foundation: http://www.undl.org/
+  Unicode: http://www.unicode.org/
+  Yahoo! Babel Fish: http://babelfish.yahoo.com/
+  YourDictionary.com: http://www.yourdictionary.com/
+  YourDictionary.com: Endangered Languages: http://www.yourdictionary.com/elr/index.html
+  W3C: World Wide Web Consortium: http://www.w3.org/
+  W3C Internationalization Activity: http://www.w3.org/International/
+  WELL (Web Enhanced Language Learning): http://www.well.ac.uk/
+  Wordfast: http://www.wordfast.org/
+  Xerox XRCE (Xerox Research Centre Europe): http://www.xrce.xerox.com/
+  Xerox XRCE: Cross-Language Technologies: http://www.xrce.xerox.com/competencies/cross-language/
+
+
+
+Copyright Â© 2009 Marie Lebert. Tous droits rÃ©servÃ©s.
+
+
+
+
+
+
+
+End of Project Gutenberg's L'Internet et les langues, by Marie Lebert
+
+*** END OF THE PROJECT GUTENBERG EBOOK 30423 ***

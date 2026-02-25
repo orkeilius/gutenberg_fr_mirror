@@ -1,3 +1,2950 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1228af65fad87db54002518f63d90d205d553f994bbe4e8a9e6a3e97b1aa5a2e
-size 112869
+*** START OF THE PROJECT GUTENBERG EBOOK 60896 ***
+
+  LE
+  PETIT-NEVEU
+  DE GRÃCOURT
+
+  OU
+  Ãtrennes Gaillardes
+
+  Recueil de Contes en vers, rÃ©imprimÃ© sur l'Ã©dition de 1782.
+
+  [Marque d'imprimeur: SCIENTIA DUCE I L]
+
+  PARIS
+  Isidore LISEUX, Ãditeur
+  Quai Malaquais, nÂº 5
+
+  1883
+
+
+
+
+_TirÃ© Ã  cent cinquante exemplaires numÃ©rotÃ©s_
+
+_NÂº 10_
+
+
+
+
+AVIS DE L'ÃDITEUR
+
+
+On ne s'attend pas Ã  de longues recherches bibliographiques sur ce lÃ©ger
+recueil de gaietÃ©s: ce serait faire trop d'honneur Ã  un petit vagabond,
+sans feu ni lieu, et sans histoire. Tout ce que nous en savons, c'est
+que d'abord mis au monde, en 1781 ou 1782, sous le titre de _PETIT-NEVEU
+DE GRÃCOURT... Ã  Gibraltar, chez les Moines_, il a Ã©tÃ© vite adoptÃ© par
+Cazin, qui en a donnÃ© deux Ã©ditions, avec un titre nouveau: _ÃTRENNES
+GAILLARDES, dÃ©diÃ©es Ã  ma commÃ¨re... Ã  Lampsaque, de l'imprimerie du Dieu
+des Jardins_, 1782 et 1784. VoilÃ  donc, Ã  bien compter, trois Ã©ditions,
+lesquelles doivent se valoir, vu le mÃ©rite Ã  peu prÃ¨s Ã©gal des
+imprimeurs: le Dieu des Jardins, au XVIIIe siÃ¨cle, n'avait sÃ»rement pas
+de plus dignes Ã©mules que les Moines, de Gibraltar ou d'ailleurs.
+
+Maintenant, qui a composÃ© ce volume? Un homme de goÃ»t, Ã©videmment. On a
+pensÃ© que ce pouvait bien Ãªtre FÃ©lix Nogaret, Ã  cause des initiales Y X,
+dont signe l'Ã©diteur; mais ce n'est lÃ , qu'une supposition fort
+aventurÃ©e. Nogaret avait le bonheur de possÃ©der un X dans son prÃ©nom:
+d'accord; mais tous les anonymes n'ont-ils pas le mÃªme droit Ã  l'X? Et
+quant au goÃ»t de FÃ©lix Nogaret, qui passe avec plus de raison pour avoir
+fait les insipides huitains de l'_ArÃ©tin FranÃ§ais_, n'est-il pas trop
+douteux pour justifier l'attribution?
+
+La chose, en somme, est de minime importance. Quel que soit l'Amateur
+qui a recueilli ces bluettes, acceptons-les pour elles-mÃªmes et ne leur
+demandons pas plus qu'elles ne peuvent tenir. Elles ont Ã©tÃ© glanÃ©es un
+peu partout: cependant, la majeure partie n'en est guÃ¨re connue; elles
+sont lestes, court-vÃªtues, provocantes, et si elles donnent au Lecteur
+une heure ou deux d'amusement, nous aurions grand tort de regretter les
+quelques feuilles de joli papier que nous avons sacrifiÃ©es pour cette
+modeste Ã©dition.
+
+I. L.
+
+Paris, le 20 Juillet 1883.
+
+
+
+
+A MA COMMÃRE
+
+
+Ce n'est pas une ÃpÃ®tre dÃ©dicatoire que je vous adresse, c'est une
+simple Lettre que je vous Ã©cris; n'y cherchez donc ni tournures
+dÃ©licates, ni pÃ©riphrases ingÃ©nieuses, ni tout ce qui sent l'Auteur. Je
+ne le suis pas, Dieu merci: je ne suis qu'un Ãditeur gai et gaillard;
+j'ai consacrÃ© quinze ou vingt jours, plus ou moins, Ã  rassembler des
+Contes joyeux, pour vous rendre une fois le plaisir que vous m'avez
+donnÃ© mille. De toutes les Francomtoises qui embellissent et rÃ©crÃ©ent la
+Capitale, vous Ãªtes sans contredit la plus aimable: votre taille est
+svelte, vos yeux sont noirs et vifs, vos genoux charnus et ronds, vos
+mains potelÃ©es, vos joues parÃ©es des plus belles couleurs; enfin vous
+Ãªtes Ã  trente ans ce qu'une autre femme est Ã  vingt. Vous croyez
+peut-Ãªtre, ma chÃ¨re CommÃ¨re, que ma franchise ordinaire a fait place au
+ton complimenteur, dÃ©trompez-vous: tel je suis en parlant, tel en
+Ã©crivant, et je vais vous rÃ©pÃ©ter ce que je vous ai dit vingt fois sans
+que votre amour-propre en ait paru blessÃ©, tant vous Ãªtes modeste! Votre
+sein n'est ni plus ferme, ni plus rond qu'un autre, votre petit pied
+fait mentir le proverbe; mais ces lÃ©gÃ¨res imperfections servent d'ombres
+au tableau: vous n'en Ãªtes pas moins chÃ¨re Ã  tous ceux qui vous
+connoissent, on ne parle de vous qu'avec feu, et je sais bien pourquoi:
+c'est que dans un siÃ¨cle oÃ¹ chacun vante beaucoup l'humanitÃ©, vous Ãªtes
+humaine autant qu'on peut l'Ãªtre. Avec quel dÃ©sintÃ©ressement ne
+venez-vous pas au secours d'une foule d'Amateurs! votre main s'ouvre
+pour les uns, et votre coeur pour les autres. Vous savez que la
+faiblesse humaine et vos charmes changent une offrande libre en un impÃ´t
+forcÃ©, et malgrÃ© cela, vous ne ranÃ§onnez personne. Le pauvre AbbÃ©
+Piquet, le petit Vicaire de notre Paroisse, et le PÃ¨re Briffard, que
+j'ai rencontrÃ©s ce matin, me le disaient encore; tel GÃ©omÃ¨tre le
+dÃ©montre, et tel Musicien le chante Ã  qui veut l'entendre. Si tous ces
+Messieurs publient votre gÃ©nÃ©rositÃ© sur les toits, puis-je faire moins
+que de l'Ã©lever jusqu'aux nues, moi que vous avez distinguÃ© dans la
+foule, moi Ã  qui vous avez accordÃ© tant de faveurs piquantes pour le
+seul plaisir de m'en accorder, moi enfin Ã  qui vous avez avouÃ© en
+rougissant que j'avais fait votre conquÃªte? Je serais le plus ingrat des
+hommes, ma CommÃ¨re, si je ne continuais pas Ã  vous voir sur le mÃªme
+pied, surtout lorsque mes facultÃ©s et votre maniÃ¨re d'agir Ã  mon Ã©gard
+s'accordent si bien ensemble. Cependant il ne sera pas dit que je ne
+cherche pas Ã  m'acquitter envers vous; je sais que vous aimez la belle
+littÃ©rature, je vous ai surprise plus d'une fois le _Moyen de parvenir_
+Ã  la main, et je me suis mÃªme aperÃ§u que, douÃ©e d'une imagination trÃ¨s
+vive, vous vous trouvez, Ã  la suite de vos lectures, dans des
+dispositions qui tournent Ã  bien pour vous, et Ã  mal pour moi; mais
+dussÃ©-je risquer de nouvelles fatigues, je vous offre ce petit Recueil,
+en vous priant de le lire, de le recommander Ã  vos amis, et surtout de
+l'envoyer Ã  BesanÃ§on. Sur ce, ma CommÃ¨re, je vous baise les mains. Ne
+soyez pas Ã©tonnÃ©e que je ne vous fasse aujourd'hui ma cour que par
+Ã©crit: notre derniÃ¨re entrevue m'a mis pour quelque temps hors d'Ã©tat de
+vous la faire autrement; ce qui n'empÃªche pas que mon amour ne rÃ©ponde
+au vÃ´tre.
+
+Votre CompÃ¨re,
+
+Y. X. ***.
+
+
+
+
+LE
+
+Petit-Neveu de GrÃ©court
+
+OU
+
+Ãtrennes Gaillardes
+
+
+LA FEMME SANS CHOSE
+
+    Le trait suivant, Lecteur, est d'assez bon aloi:
+        Je le tiens de Monsieur GÃ©ronte,
+    Lequel me l'a donnÃ© pour une histoire, et moi
+        Je vous le donne pour un Conte:
+    Car il faut, tant qu'on peut, Ãªtre de bonne foi.
+    C'est tout prÃ¨s de Paris que se passe la scÃ¨ne.
+
+      Un Grenadier (La Rose Ã©toit son nom)
+        Jeune, bien fait, bon compagnon,
+        Ãtant en semestre Ã  SurÃ¨ne,
+    De ThÃ©rÃ¨se un beau jour lorgna le pied mignon.
+        Â«Corbleu!Â» dit-il, Â«la bonne aubaine!
+        Â»Qui pourroit l'attirer Ã  soi
+        Â»Auroit un vrai morceau de Roi,
+        Â»Ou tout au moins de Capitaine.Â»
+    Il aborde Ã  l'instant ThÃ©rÃ¨se sans faÃ§on,
+      D'un air joyeux lui conte sa fleurette
+    Et lui porte la main au-dessous du menton.
+        Son geste, son habit, son ton
+        Plurent beaucoup Ã  la fillette:
+    Bref, quelques jours aprÃ¨s la retrouvant seulette,
+    Dans le fond d'une grange Ã  sa dÃ©votion,
+    Il ne put rÃ©sister Ã  la tentation,
+        Et l'affaire fut bientÃ´t faite.
+      N'en parlons plus; ajoutons seulement
+        Que depuis cet heureux moment,
+    ThÃ©rÃ¨se et son ami, tous les jours en cachette,
+    Alloient au mÃªme lieu se rendre exactement.
+    ThÃ©rÃ¨se y vint un soir, elle Ã©toit inquiÃ¨te
+      Et paraissoit rÃªver profondÃ©ment.
+    En regardant La Rose, elle reste muette.
+        Â«Qu'as-tu,Â» lui dit-il, Â«mon enfant,
+    Â»Et qui peut te causer une peine secrÃ¨te?
+        Â»Ne cache rien Ã  ton Amant,
+    Â»Parle.Â» ThÃ©rÃ¨se enfin parla naÃ¯vement:
+        --Â«On me dit que je suis gentille;
+        Â»Mais la serai-je encor longtemps?
+    Â»Vienne Saint-Nicolas, j'aurai mes vingt-deux ans,
+        Â»Et je ne veux pas mourir fille.
+    Â»Je sais que le Meunier du village voisin
+    Â»A mon pÃ¨re en secret a demandÃ© ma main;
+    Â»Et mon pÃ¨re a dit oui: suffit que j'y consente,
+    Â»J'Ã©pouserai Colas pas plus tard que demain
+    Â»Conseille-moi!--Colas, parbleu! c'est mon cousin,Â»
+    Reprit le Grenadier, Â«car sa mÃ¨re est ma tante;
+        Â»Ce garÃ§on lÃ  n'est pas malin,
+    Â»Mais il a malgrÃ© Ã§a quelque chose qui tente;
+        Â»C'est deux cents bons Ã©cus de rente:
+    Â»Si je les avois, je... Mais puisque je n'ai rien,
+        Â»Ãpouse-le, tu feras bien.
+    Â»J'exige seulement...--Quoi?--Tu sais bien, ma chÃ¨re,
+    Â»Que je dois te quitter dans vingt jours au plus tard;
+      Â»Avant le temps fixÃ© pour mon dÃ©part
+        Â»La noce, dis-tu, peut se faire.
+    Â»En ce cas je prÃ©tends Ã  ton benÃªt d'Ã©poux
+    Â»De ses droits conjugaux interdire l'usage:
+    Â»Si donc il t'invitait Ã  des Ã©bats trop doux,
+    Â»DÃ¨s la premiÃ¨re nuit brusque le personnage,
+        Â»Dusses-tu le mettre en courroux.
+    Â»Quand je serai parti, je lui donne carriÃ¨re;
+      Â»Mais jusque-lÃ , Madame la MeuniÃ¨re,
+    Â»De Monsieur le Meunier je serois trop jaloux.
+        Â»--Comment? tu veux que, sans dÃ©fense,
+    Â»DÃ¨s la premiÃ¨re nuit, seulette entre deux draps,
+    Â»Avec un homme...? Allons, tu te moques, je pense.
+    Â»Qui pourroit se tirer d'un pareil embarras?
+        Â»J'aurois beau faire la mutine,
+        Â»Beau me fÃ¢cher, beau le gronder,
+        Â»Colas croiroit que je badine;
+    Â»Il seroit le plus fort, il faudroit bien cÃ©der.
+    Â»--D'accord, mais si je peux par un bon stratagÃ¨me
+        Â»Lui fermer ce qu'il croit ouvert?...
+        Â»--Pour te prouver combien je t'aime,
+    Â»Je consens volontiers Ã  le prendre sans vert.
+    Â»--Eh bien! avertis-moi la veille de la noce,
+        Â»Et nous agirons de concert,
+    Â»Afin que, comme un sot, il donne dans la bosse.Â»
+      A point nommÃ© La Rose est averti:
+    Imaginez un peu ce qu'il fit Ã  ThÃ©rÃ¨se.
+    (Vous avez vu qu'Ã  tout la belle a consenti
+      Pour empÃªcher que Colas ne la baise).
+    Il colle artistement sur un certain endroit,
+    Que point ne veux nommer, que pourtant on devine,
+    Une peau de mouton douce, fraÃ®che et trÃ¨s fine.
+    Le pli le plus lÃ©ger, il l'efface du doigt,
+        Et partout, ainsi qu'on le croit.
+    Appliquant une main experte et libertine,
+        Il fait si bien qu'on n'aperÃ§oit
+    Ni le creux du vallon, ni le duvet qui croÃ®t
+        Sur le penchant de la colline.
+    Ceci peut sembler fort, mais un amant adroit
+    ExÃ©cute aisÃ©ment tout ce qu'il imagine,
+        Mieux encor qu'on ne le conÃ§oit.
+    Et puis, ami Lecteur, un peu de complaisance;
+        PrÃªtez-vous Ã  l'illusion,
+    Et vous croirez qu'aprÃ¨s cette opÃ©ration
+    ThÃ©rÃ¨se n'en eut plus... du moins en apparence.
+    Au fait. Le lendemain elle Ã©pouse Colas:
+    En sortant de l'Ã©glise on vint faire bombance,
+    On but du petit vin, on servit de grands plats;
+    Mais parlons du souper, lequel suivit la danse:
+    Le souper d'une noce est le meilleur repas.
+      Le mariÃ©, droit comme un Ã©chalas,
+    D'aller se mettre au lit brÃ»loit d'impatience.
+        La Rose, riant aux Ã©clats,
+    Par des couplets gaillards Ã©gayoit l'assistance,
+    S'approchoit de Colas, et lui disoit tout bas:
+    Â«Cousin, tu m'as bien l'air d'un croqueur de pucelles;
+    Â»Gageons que cette nuit tu ne dormiras pas:
+        Â»La mariÃ©e est des plus belles;
+    Â»Demain, les yeux battus et les membres bien las,
+        Â»Tu nous en diras des nouvelles.Â»
+        Tout en parlant de bagatelles,
+        On entendit sonner minuit:
+    Lors au lit nuptial chaque Ã©poux fut conduit,
+        Et l'on Ã©teignit les chandelles:
+      On sait dÃ©jÃ  tout ce qui se passa.
+    Colas, dont on se peint aisÃ©ment la surprise,
+    Pour fÃªter sa commÃ¨re en vain se trÃ©moussa,
+    Tentant dix fois l'assaut, et dix fois lÃ¢chant prise.
+    D'un jeu si dÃ©plaisant enfin il se lassa,
+    Et fut toute la nuit dans une horrible crise.
+      Au point du jour, mon Jocrisse Ã  grands pas
+    Va chez le Grenadier en poussant des hÃ©las!
+        --Â«Si vous saviez, cousin La Rose,
+        Â»Ma femme, elle n'a pas de...--Quoi?
+        Â»--De... la... de...--Quoi donc?--Aidez-moi!
+    Â»Eh bien! elle n'a pas... elle n'a pas de chose!
+        Â»--Ah! parbleu, n'est-ce que cela?
+    Â»On peut remÃ©dier Ã  cet accident-lÃ ;
+      Â»Et je ne sais pourquoi tu t'inquiÃ¨tes:
+        Â»Beaucoup de femmes n'en ont pas;
+    Â»Mais je leur en fais, moi.--Comment, vous leur en faites!
+    Â»--J'en fis un l'an dernier Ã  celle de Lucas;
+    Â»Tu pourrois mÃªme aller la trouver de ce pas,
+        Â»Et par des questions secrÃ¨tes...
+    Â»En observant surtout de lui parler bien bas,
+    Â»Peut-Ãªtre avoueroit-elle...--Ah! que je serois aise
+    Â»Si vous pouviez ce soir en faire un Ã  ThÃ©rÃ¨se!
+        Â»--Ce soir, le terme est un peu court;
+    Â»Mais apporte au logis avant la fin du jour
+    Â»Douze livres de crin, douze francs pour ma peine;
+    Â»Pars demain, va passer huit jours chez ta marraine,
+        Â»Imagine quelque dÃ©tour
+    Â»Afin de lui cacher le sujet qui t'amÃ¨ne:
+    Â»Dis-lui que par malheur tu deviens un peu sourd,
+    Â»Et qu'on t'a conseillÃ© de voyager en plaine.
+        Â»Sur le chose de ta ChrÃ©tienne
+      Â»Sois plus muet que la bouche d'un four,
+    Â»Entends-tu bien, Colas?--Oh! qu'Ã  cela ne tienne!
+    Â»--C'est aujourd'hui lundi, je fixe ton retour
+        Â»Au Mardi de l'autre semaine:
+        Â»Ce jour-lÃ  tu pourras sans gÃªne
+    Â»Faire un petit Colas.--Ah! ThÃ©rÃ¨se, ah! mamour,
+        Â»Mardi j'en aurai donc l'Ã©trenne!
+      Â»--Adieu, cousin.--Bonsoir.Â» Une heure aprÃ¨s
+    Le crin est envoyÃ©, les douze francs sont prÃªts;
+        Et comme une franche pÃ©core,
+    Colas le lendemain partit avant l'aurore.
+        Vous jugez bien que notre amant
+        Sut mettre Ã  profit son absence.
+        A ThÃ©rÃ¨se il fit un enfant,
+    Puis il vendit le crin pour en avoir l'argent,
+    Et riant du cousin docile Ã  la dÃ©fense,
+        Il regagna son RÃ©giment.
+        Colas, au bout de la huitaine,
+    Croyant avec raison l'ouverture certaine,
+    Revient trouver sa femme en faisant les yeux doux,
+        --Â«Couchons-nous,Â» lui dit-il, Â«ma reine.Â»
+        ThÃ©rÃ¨se au lit suit son Ã©poux;
+        LÃ , sans compliment il l'engaÃ®ne.
+    Le jeu fini, Colas visita son domaine;
+    Et lorsqu'en tous les coins il eut passÃ© la main:
+        --Â«Ouais!Â» s'Ã©cria-t-il, Â«cousin,
+    Â»Par ma foi, je vous garde une bonne semonce:
+    Â»Vous m'avez demandÃ© douze livres de crin,
+        Â»Et je n'en trouve pas une once!Â»
+
+
+LA CROYANCE FONDÃE
+
+        Un jour que Madame dormoit,
+        Monsieur fÃªtoit sa ChambriÃ¨re;
+        Celle-ci qui la danse aimoit,
+        Remuoit fort bien la charniÃ¨re:
+        Or la Coquine, toute fiÃ¨re,
+        Lui dit: Â«Monsieur, sur votre foi,
+        Â»Qui le fait mieux, Madame ou moi?
+        Â»--C'est toi, Barbe, sans contredit.
+        Â»--Saint Jean!Â» dit-elle, Â«je le croi;
+        Â»Car tout le monde me le dit.Â»
+
+
+LA DÃCLARATION MILITAIRE
+
+A MADAME ***
+
+        Puisque vous m'avez dit souvent
+        Que vous n'aimez pas la morale.
+        On m'a fait un conte plaisant.
+        Il faut que je vous en rÃ©gale:
+
+        Un Mousquetaire soupiroit
+        Pour Fatime, beautÃ© sÃ©vÃ¨re;
+        Quel est celui qui me diroit
+        Comment soupire un Mousquetaire?
+        Depuis si longtemps un bruit court
+        Que, dans le dÃ©lai le plus court,
+        Ces Messieurs font toujours l'affaire!
+        Le pourquoi n'est plus un mystÃ¨re;
+        Mars qui s'entend avec l'Amour
+        Est exempt du prÃ©liminaire.
+        Mon HÃ©ros, qu'on nommoit Valcour,
+        Et qui certe auroit eu vergogne
+        D'en Ãªtre Ã  son troisiÃ¨me jour
+        Sans finir la douce besogne,
+        Pour la finir n'Ã©pargna rien;
+        Si, qu'Ã  son deuxiÃ¨me entretien,
+        Bien rÃ©solu de passer outre,
+        Il s'Ã©cria: Â«Je voudrois bien,
+        Â«Madame, vous...--Quoi donc?--Vous foutre.Â»
+        Foutre est un mot trÃ¨s indÃ©cent;
+        Fatime se mit en colÃ¨re,
+        Et dit:--Â«Monsieur le Militaire,
+        Â»Vous Ãªtes un impertinent.
+        Â»--Un impertinent soit, ma chÃ¨re;
+        Â»J'en agis toujours rondement,
+        Â»Et ne rÃ©ponds au compliment
+        Â»Que par trois mots: laissez-moi faire.Â»
+        Entre ses bras il vous la prend.
+        On devine que la CommÃ¨re
+        Se dÃ©bat, ou bien fait semblant:
+        Plus elle feint, plus il la serre.
+        Bref, il la pousse vivement.
+        Elle, tout en se dÃ©battant,
+        De tomber dans une bergÃ¨re;
+        Lui d'avoir, en moins d'un instant
+        Fait quatre ou cinq tours Ã  CythÃ¨re.
+        Mademoiselle, en se pÃ¢mant,
+        De lui demander doucement
+        S'il peut encore en faire autant?
+        Et Monsieur, toujours plus galant,
+        De ne pas rester en arriÃ¨re.
+        Mon Lecteur, qui sait que souvent
+        Le plus vigoureux assaillant
+        AprÃ¨s trois exploits tombe Ã  terre,
+        Ne doit pas trouver surprenant
+        Qu'ayant fait six fois la carriÃ¨re,
+        Sans prendre haleine seulement,
+        Mon coquin, d'un air triomphant,
+        EnflÃ© de sa valeur guerriÃ¨re,
+        Dit Ã  Fatime en la quittant:
+        --Â«Pour foutre, vive un Mousquetaire!Â»
+        Ni que Fatime souriant
+        Prenne le parti de se taire;
+        Car un Auteur qui n'est pas sot,
+        Sur _foutre_ a donnÃ© cette glose:
+        Les Dames pardonnent le mot
+        A celui qui fait bien la chose.
+
+
+LA RÃPONSE SENSÃE
+
+CONTE
+
+        Ces jours passÃ©s, une Catin
+        Dit Ã  Pattu le MÃ©decin:
+        Â«Je vous paierai, coÃ»te que coÃ»te;
+        Â»Tirez-moi d'un grand embarras;
+        Â»Monsieur, vous avez vu des _cas_:
+        Â»Les cas sont-ils barbus?--Sans doute.
+        Â»--Pourquoi le mien ne l'est-il pas?
+        Â»--En voici la raison, Ã©coute,Â»
+        Lui rÃ©pond gravement Pattu;
+        Â«Ne sais-tu pas un vieux Proverbe,
+        Â»Qui dit qu'en un sentier battu
+        Â»On ne vit jamais pousser d'herbe?Â»
+
+
+LA PLAINTE INJUSTE
+
+      A la campagne, un jour qu'il faisoit beau,
+      Gilet fut voir Madame du Martelle.
+      Bien fut reÃ§u dans l'antique ChÃ¢teau:
+      Pour le traiter, on mit tout par Ã©cuelle;
+      Mais il se plaint que la ronde femelle
+      L'ait fait coucher auprÃ¨s d'un grand Valet.
+      Or de la Dame Ã  tort se plaint Gilet:
+      Mieux n'eÃ»t choisi, si c'eÃ»t Ã©tÃ© pour elle.
+
+
+BADINAGE IN-PROMPTU
+
+_En voyant la Statue de la Pucelle d'OrlÃ©ans dans la place publique de
+cette Ville._
+
+          Passants, respectez celle
+          Que vous voyez cÃ©ans:
+          C'est la seule pucelle
+          Qui soit dans OrlÃ©ans.
+
+
+LA BELLE ACCOMMODANTE
+
+        LÃ©on, poussÃ© d'humeur folÃ¢tre,
+        Regardoit Ã  son aise un jour
+        Les jambes plus blanches qu'albÃ¢tre
+        De Lise, objet de son amour.
+        TantÃ´t il s'attache Ã  la gauche,
+        TantÃ´t la droite le dÃ©bauche;
+    Â«Je ne sais plus,Â» dit-il, Â«laquelle regarder;
+    Â»Une Ã©gale beautÃ© fait un combat entre elles.
+        Â»--Ah!Â» dit Lise, Â«ami, sans tarder,
+    Â»Mettez-vous entre deux, pour finir leurs querelles!Â»
+
+
+IN-PROMPTU
+
+    Vous me priez toujours de vous faire des vers,
+    Je vous l'ai dit vingt fois, Madame, en bonne prose:
+        Je les ferois tout de travers;
+        J'aime mieux vous faire autre chose.
+
+
+COUPLET
+
+Air: _La faridondaine, la faridondon._
+
+        Pendant six mois, notre voisin
+          Crut sa femme hydropique;
+        Mais en criant un beau matin:
+          Â«Aye! aye! J'ai la colique,Â»
+        Elle accoucha d'un gros garÃ§on,
+      La faridondaine, la faridondon,
+        Qui ressemble au pauvre mari,
+            Biribi,
+        A la faÃ§on de Barbari,
+            Mon ami.
+
+
+BOUQUET A Mlle ***
+
+        En ce jour que je dois fÃªter,
+        Je vous prÃ©sente ma personne;
+        C'est le bouquet que je vous donne,
+        Mais voudrez-vous bien le porter?
+
+
+LA RAGE D'AMOUR
+
+CONTE
+
+      A Cupidon la jeune et belle Amynthe
+      MalgrÃ© l'hymen sacrifioit toujours;
+      Son pauvre Ã©poux toujours Ã©toit en crainte
+      Qu'elle ne fÃ®t de nouvelles amours.
+      Il ne pouvoit en siller la paupiÃ¨re;
+      Veilles, soucis l'eurent tÃ´t emportÃ©.
+      Lui mort, Amynthe, en pleine libertÃ©,
+      A son humeur donna belle carriÃ¨re;
+      On en jasa; son CurÃ© crut devoir
+      L'en avertir: Â«Vous vous perdez, Madame,
+      Â»Changez de vie, ou c'est fait de votre Ã¢me!
+      Â»--HÃ©las! Monsieur, je voudrois le pouvoir,Â»
+      Lui rÃ©pondit la trop fringante veuve;
+      Â«Mais plaignez-moi, tel est mon ascendant,
+      Â»Que je ne puis avoir l'esprit content,
+      Â»Si chaque mois je n'ai pratique neuve.
+      Â»Cela me vient d'un accident fatal:
+      Â»A quatorze ans d'un chien je fus mordue,
+      Â»Chien enragÃ©. Pour prÃ©venir le mal,
+      Â»L'avis commun fut qu'il me falloit nue
+      Â»Plonger en mer. Nue on me dÃ©pouilla.
+      Â»Honteuse alors de me voir sans chemise,
+      Â»Incontinent je portai la main lÃ ...
+      Â»OÃ¹ vous savez, sans jamais lÃ¢cher prise.
+      Â»On me plongea; mais qu'est-il arrivÃ©?
+      Â«C'est que mon corps, Ã´ pudeur trop funeste!
+      Â»Partout ailleurs du mal fut prÃ©servÃ©,
+      Â»Hors cet endroit oÃ¹ la rage me reste.Â»
+
+
+LE PRÃTENDU MALIN
+
+        Jean recherchoit pour l'hymÃ©nÃ©e
+        PÃ¢quette l'Ã©merillonnÃ©e;
+    Chacun disoit Ã  Jean: Â«PÃ¢quette a mauvais bruit,
+        Â»Son honneur est un grand peut-Ãªtre.
+        Â»--Oh!Â» dit Jean, Â«la premiÃ¨re nuit
+        Â»Je saurai bien le reconnoÃ®tre.Â»
+
+
+LA GAGEURE
+
+      Deux Penaillons, voulant prendre un Ã©bat
+      Pour Ã©gayer l'ennui du MonastÃ¨re,
+      Gageoient un jour deux flacons de muscat
+      A qui plutÃ´t auroit dit son BrÃ©viaire:
+      Ce n'est du tout agir ChrÃ©tiennement.
+      Avant d'entrer en si plaisante lice,
+      Nos deux Frocards se prÃªtÃ¨rent serment
+      De ne sauter un mot du saint Office.
+      Le serment fait, les voilÃ  donc en train
+      De marmoter; quand l'un, gagnant la fin.
+      Dit: Â«Je n'ai plus qu'un bout de patenÃ´tre.
+      Â»--Ah! malheureux, tu m'as fourbÃ© vraiment,
+      Â»Car je ne suis qu'au milieu,Â» rÃ©pond l'autre,
+      Â«Et j'ai passÃ© tout le commencement!Â«
+
+
+LE PAIEMENT D'AVANCE
+
+        Dans Paris plus d'un Bourgeois,
+        N'ayant maÃ®tresse ni femme,
+        Pour un Ã©cu tous les mois
+        S'en va rafraÃ®chir sa flamme.
+        TÃ©moin Monsieur Rogaton,
+        Qui sait oÃ¹ le bÃ¢t le blesse,
+        Et de temps en temps, dit-on,
+        CÃ¨de Ã  l'humaine faiblesse.
+        L'autre jour une drÃ´lesse
+        L'aperÃ§ut de son balcon,
+        Et la voilÃ  qui l'invite
+        Par un _st, st_ redoublÃ©.
+        Mon homme de monter vite
+        SitÃ´t qu'il est appelÃ©;
+        Il entre; elle de lui dire:
+        Â«Mon fils, sois le bienvenu;
+        Â»C'est moi qu'on nomme Zelmire:
+        Â»Ce nom, je crois, est connu.
+        Â»Ici l'on trouve Ã  sa guise,
+        Â»Blancheur, fraÃ®cheur, fermetÃ©;
+        Â»Ces trois mots sont ma devise.
+        Â»Je suis en bonne santÃ©;
+        Â»Dans mes bras tout Paris tombe;
+        Â»J'ai la gorge de DutÃ©
+        Â»Et les fesses de Colombe.
+        Â»Viens t'asseoir Ã  mon cÃ´tÃ©
+        Â»Et mets-moi vite Ã  l'Ã©preuve;
+        Â»Mais auparavant fais preuve
+        Â»De ta gÃ©nÃ©rositÃ©.
+        Â»--Dis-moi combien tu demandes?
+        Â»--Combien? Six livres, mon cher,
+        Â»Et douze si tu marchandes;
+        Â»C'est un prix fait en hiver.
+        Mons Rogaton sur la bouche
+        Un gros baiser lui colla;
+        Zelmire, d'un air farouche:
+        --Â«Il faut mettre six francs lÃ ,
+        Â»Et sois sÃ»r que sans cela
+        Â»Je ne veux pas qu'on me touche.
+        Â»DÃ©pÃªchons, il se fait tard;
+        Â»Six francs, ou bats en retraite.Â»
+        Rogaton les lui dÃ©part.
+        La CommÃ¨re, satisfaite,
+        Ses charmes lors dÃ©voila,
+        En lui disant: Â«Me voilÃ 
+        Â»Comme le bon Dieu m'a faite.
+        Â»--Ah! Ciel! je suis infectÃ©!
+        Â»Ici que n'ai-je apportÃ©
+        Â»De l'ambre ou de la civette?
+        Â»Cache, cache tes attraits,Â»
+        Dit l'autre, Â«je gagerois
+        Â»Que tu n'as pas fait toilette.
+        Â»Fi!--Si tu n'es pas content,
+        Â»Tu peux regagner la porte.
+        Â»--Eh bien! rends-moi vitement
+        Â»Mes six francs, et que je sorte.
+        Â»--Tes six francs? oh! doucement:
+        Â»Je ne fais point de corvÃ©e;
+        Â»On ne rend jamais l'argent
+        Â»Lorsque la toile est levÃ©e.Â»
+
+
+IN-PROMPTU
+
+_ChantÃ© dans la maison de M. le Marquis de L***, Ã  V***, le jour qu'on y
+pendit la CrÃ©maillÃ¨re._
+
+Sur l'air: _La bonne aventure, Ã´ guÃ©._
+
+        Comme de vrais _sans souci_,
+          Donnons-nous carriÃ¨re;
+        PrÃ¨s des Dames que voici,
+          LibertÃ© plÃ©niÃ¨re!
+        Surtout point d'Amant transi,
+        Car rien ne doit pendre ici,
+        Que la CrÃ©maillÃ¨re, Ã´ guÃ©,
+          Que la CrÃ©maillÃ¨re!
+
+
+LA CALOMNIE FOUDROYÃE
+
+      Â«Oui, vous feriez en vain le dÃ©licat,
+      Â»Monsieur l'AbbÃ©, je ne serois pas dupe;
+    Â»Avouez, croyez-moi, que vous aimez la jupe.
+      Â»Et sur ce point n'ayons plus d'altercat.
+    Â»--Mais, Madame, jetez les yeux sur mon rabat...
+        Â»--Toutes vos raisons sont frivoles...
+    Â»--Vous Ãªtes incrÃ©dule et voulez un Ã©clat?
+        Â»Eh bien! retenez ces paroles:
+      Â»Du cotillon je fais si peu d'Ã©tat,
+        Â»Que je donnerois cent pistoles
+        Â»Pour que personne n'en portÃ¢t!Â»
+
+
+LA FENTE
+
+CONTE
+
+        Orante avoit fait emplette
+        D'un quarteau de vieux Rota;
+        Sa chambriÃ¨re PÃ¢quette,
+        Un beau matin le goÃ»ta
+        Et le trouva bon sans doute.
+        Elle y revint: Jean l'aida.
+        Verre Ã  verre, goutte Ã  goutte
+        La feuillette se vida.
+        Au bout d'une quarantaine
+        Il advint que le Patron,
+        Qui croit la feuillette pleine,
+        Va pour en prendre l'Ã©trenne.
+        L'eut-il? Vous savez que non.
+        AbusÃ© dans son attente,
+        D'abord il est stupÃ©fait,
+        Puis songeant que le vin tente
+        Et se doutant du mÃ©fait,
+        Il appelle sa servante
+        Et lui dit ce qu'elle sait.
+        Pourtant elle s'Ã©merveille:
+        Jamais, jamais on n'a vu
+        Une aventure pareille!
+        --Â«Certe, qui l'auroit prÃ©vu?Â»
+        RÃ©pondit-elle Ã  son maÃ®tre,
+        Â«D'oÃ¹ peut provenir cela?
+        Â»Quelque fente aura peut-Ãªtre
+        Â»CausÃ© cet accident-lÃ ;
+        Â»Nous pourrons le reconnoÃ®tre.Â»
+        Elle va prendre un flambeau.
+        L'allume, vient, fait sa ronde:
+        Rien ne manquoit au tonneau.
+        --Â«MorguÃ©! le tour est nouveau;
+        Â»Voyons par-dessousÂ», dit-elle.
+        Au mÃªme instant la donzelle,
+        En se baissant, met au jour
+        Ce qui plaÃ®t dans une belle,
+        Morceau digne de l'amour.
+        Et pour parler sans dÃ©tour,
+        Le parois de sa Chapelle
+        Que couvroit un jupon court.
+        --Â«C'est assezÂ», lui dit Orante,
+        En lorgnant le dÃ©filÃ©,
+        Â«Viens que je bouche la fente
+        Â»Par oÃ¹ mon vin a coulÃ©.Â»
+
+
+LE REPENTIR SINCÃRE
+
+        Avec la brune et la blonde
+        Un Prieur BÃ©nÃ©dictin
+        Prit tant d'Ã©bats, qu'un matin
+        Il gagna le mal immonde.
+        Voyant son chose maigri,
+        L'horreur du crime le frappe;
+        Â«Fin,Â» dit-il, Â«qui m'y rattrape...
+        Â»Avant que je sois guÃ©ri!Â»
+
+
+L'ARMURE DE VÃNUS
+
+        VÃ©nus manioit prÃ¨s de Mars
+        Son casque, son glaive, ses dards,
+        Armes de dÃ©fense et d'attaque.
+        Mais le Dieu lui cria soudain:
+        Â«Belle, j'en ai sous ma casaque
+        Â»De plus propres pour votre main.Â»
+
+
+A MA MAITRESSE
+
+_Qui, la veille en dinant chez moi, avait paru dÃ©sirer un serin que
+j'avais._
+
+      ReÃ§ois la cage et le serin charmant
+    Dont tu louois hier l'agrÃ©able ramage:
+    Il en reste encore un Ã  ton fidÃ¨le amant;
+      Mais c'est Ã  toi de lui donner la cage.
+
+
+_Les DÃ©solations et les Consolations._
+
+VAUDEVILLE
+
+        Cloris avec un gros Seigneur,
+        L'hiver dernier, perdit sa fleur;
+          C'est ce qui la dÃ©sole.
+        Mais alors elle n'avoit rien,
+        Et maintenant elle a du bien;
+          C'est ce qui la console.
+        Lise avoit Lindor pour amant,
+        Sa mÃ¨re la met au Couvent;
+          C'est ce qui la dÃ©sole.
+        Un Directeur qui vaut de l'or,
+        PrÃ¨s d'elle remplace Lindor;
+          C'est ce qui la console.
+        Lisimon est bien convaincu
+        Que son voisin le fait cocu;
+          C'est ce qui le dÃ©sole.
+        En secret le drille malin
+        Rend la pareille Ã  son voisin;
+          C'est ce qui le console.
+
+
+ÃLÃGIE
+
+        Au diable soit la donzelle
+        Qui, me prenant par la main,
+        Me fit rebrousser chemin,
+        Et me conduisit chez elle!
+        Sot que je fus ce jour-lÃ !
+        En arrivant dans sa chambre,
+        Sur un lit parfumÃ© d'ambre
+        Ses charmes elle Ã©tala.
+        Las! j'en perdis la parole.
+        Que faire? j'Ã©tois vaincu:
+        Jean Chouart joua son rÃ´le;
+        Barbe gagna son Ã©cu,
+        Moi, je gagnai la vÃ©role.
+
+
+ÃPIGRAMME
+
+        L'Ã©pousÃ©, la premiÃ¨re nuit,
+        Rassuroit sa femme farouche.
+        Â«Mordez-moi,Â» dit-il, Â«s'il vous cuit,
+        Â»VoilÃ  mon doigt en votre bouche.Â»
+        Elle y consent, il s'escarmouche;
+        Et quand il l'eut bien dÃ©housÃ©e;
+        Â«Or Ã§a,Â» dit-il, Â«tendre RouzÃ©e,
+        Â»Vous ai-je fait du mal ainsi?
+        Â»--Ah donc!Â» rÃ©pondit l'Ã©pousÃ©e.
+        Â«Je ne vous ai pas mors aussi!Â»
+
+
+LE TRIOMPHE DE LA MAROTTE
+
+OU
+
+L'ESPRIT DE MES CONFRÃRES
+
+CHANSON
+
+Sur l'air: _O reguinguÃ©, Ã´ lon lan la._
+
+        Entre les diffÃ©rents Ã©tats
+        Qui font vivre l'homme ici-bas,
+        On ne dÃ©mÃªle qu'altercas,
+        Peines d'esprit, vains embarras:
+        Chez le HÃ©ros, chez le Pagnote,
+        Tout n'est que sottise et marotte.
+
+        La dÃ©bauche plaÃ®t au Rentier,
+        Le faux point d'honneur au Guerrier,
+        L'opulence entiche un Caissier,
+        L'amour-propre le monde entier;
+        Petits-MaÃ®tres, Gens de maltote,
+        Chacun a son bien de marotte.
+
+        Mais laissant au joug de leurs fers
+        Tant de personnages divers,
+        L'Ãglise fournit Ã  mes vers
+        De quoi blasonner ses travers;
+        Le plus mince porte-calotte
+        Donne prise Ã  quelque marotte.
+
+        Le Pape avec les Cardinaux,
+        VÃ©nÃ©rables Grippeminauds,
+        Pasteurs quelque peu larronneaux,
+        Font voir en tondant leurs troupeaux,
+        MalgrÃ© les statuts de la rote,
+        L'appÃ¢t du lucre pour marotte.
+
+        Un ÃvÃªque dÃ»ment rentÃ©,
+        Plein d'embonpoint et de santÃ©;
+        Au sÃ©jour de la voluptÃ©,
+        Dans une sainte oisivetÃ©,
+        Sur le duvet qui le dorlotte
+        Laisse appercevoir sa marotte.
+
+        J'aime un Chanoine fortunÃ©
+        Qui, dans son fauteuil cantonnÃ©,
+        PrÃ©mÃ©dite aprÃ¨s dÃ©jeuner
+        L'assortiment de son dÃ®ner,
+        Et qui baptise d'Ostrogote
+        La loi contraire Ã  sa marotte.
+
+        AbbÃ©s charmants, petits collets,
+        Pour qui la mitre a tant d'attraits,
+        Aussi souples que des valets,
+        En rÃ´dant autour des Palais,
+        J'opine ce qui vous balotte;
+        Les grandeurs sont votre marotte.
+
+        La gouvernante d'un CurÃ©,
+        Sous un parentage ignorÃ©,
+        Prend en vain le ton maniÃ©rÃ©;
+        Je dis au bon PrÃªtre leurrÃ©:
+        L'amour entre vous et Javotte
+        N'a-t-il point mis quelque marotte?
+
+        Les Moines, par plus d'un endroit,
+        MÃ©ritent qu'on leur fasse droit;
+        D'abord viennent ceux de BenoÃ®t,
+        Gens absolus, vrais pisse-froid;
+        Craignez cette race dÃ©vote,
+        L'intolÃ©rance est leur marotte.
+
+        Un Bernardin au lansquenet
+        Fouette la carte en prestolet,
+        Hausse le temps, et d'un buffet
+        Range les cristaux au parfait,
+        Fredonne quelque air de gavotte:
+        Telle est au juste sa marotte.
+
+        Le CÃ©lestin entre deux draps
+        Couloit des jours sans embarras;
+        Du Latin qu'il n'entendoit pas,
+        Laissant l'usage aux Savantas,
+        Il trouvoit dans une marmotte
+        Le symbole de sa marotte.
+
+        Un gros Carme Ã  triple menton,
+        PrÃ©lude fort bien sur le ton
+        Propre Ã  l'amoureuse chanson;
+        Mais au lutrin c'est un oison:
+        Il prouve en Ã©corchant la note,
+        Qu'un autre accord fait sa marotte.
+
+        Voulez-vous au fond d'un cellier
+        GoÃ»ter de ce jus singulier
+        Qui repose sur le chantier?
+        Prenez pour guide un Cordelier;
+        BientÃ´t en sifflant la linotte,
+        Il dÃ©masquera sa marotte.
+
+        Le Capucin peu dÃ©licat,
+        NÃ© pour choquer notre odorat,
+        TantÃ´t zÃ©lÃ©, tantÃ´t pied-plat,
+        Emprunte la griffe du chat,
+        Et des bribes qu'il escamotte,
+        Dresse un trophÃ©e Ã  sa marotte.
+
+        PrÃªcheurs, Soccolants, Augustins,
+        Petits et grands Observantins,
+        Famille d'Archi-patelins,
+        Vrais escrocs, adroits carabins,
+        Orgueilleux au sein de la crotte,
+        L'impudence est votre marotte.
+
+        Hermaphrodites incertains,
+        MoitiÃ© Moines, moitiÃ© mondains,
+        Trinitaires, GÃ©novÃ©fains,
+        Antonistes, plats aigrefins,
+        L'eau de senteur, la papillotte
+        Manifestent votre marotte.
+
+        Chartreux saintement dÃ©soeuvrÃ©s,
+        Et vous rebondis PrÃ©montrÃ©s,
+        Cafards, on le sait, attitrÃ©s,
+        Au demeurant baudets jurÃ©s,
+        Ma Muse ombrageuse et capotte
+        Ne voit goutte Ã  votre marotte.
+
+        Disciples du grand Loyola,
+        AprÃ¨s vous il faut dire, holÃ !
+        Quiconque franchit ce point-lÃ ,
+        Ne craint Charybde ni Scylla.
+        Pascal, Auteur de haute note,
+        A su frapper votre marotte.
+
+        Fine fleur d'un sexe rusÃ©,
+        Tour Ã  tour chÃ©ri, mÃ©prisÃ©,
+        Tendres Nonnains, si j'ai glosÃ©
+        Sur le raz et sur le frisÃ©,
+        Vous mÃ©ritez bien qu'on vous cote
+        Dans les fastes de la marotte.
+
+        HÃ©ritiÃ¨res du vain caquet
+        De cet Ã©loquent perroquet,
+        NaguÃ¨re chantÃ© par Gresset,
+        Je vais prononcer votre arrÃªt:
+        Le babil et l'humeur bigote
+        Sont votre Ã©ternelle marotte.
+
+        Indigne de former des noeuds,
+        La coquette attise nos feux,
+        La prude Ã©vite leurs aveux,
+        La volage reste entre deux;
+        Tandis que la froide vieillotte
+        Regrette en secret leur marotte.
+
+        PrÃ©dicateur hors de saison,
+        Quel fruit produira mon sermon?
+        Du vent, rien plus. Jamais chanson
+        Ne fit un Saint d'un Pantalon.
+        Dans la liste que je fagotte,
+        Moi-mÃªme j'ai double marotte.
+
+
+LES CINQ POINTS
+
+A MADEMOISELLE DE ***
+
+      Fleur de quinze ans, si Dieu vous sauve et gard,
+      J'ai en amours trouvÃ© cinq points exprÃ¨s:
+      PremiÃ¨rement, s'offre Ã  vous le regard,
+      Puis le parler, puis le baiser aprÃ¨s;
+      L'attouchement le baiser suit de prÃ¨s,
+      Et tous ceux-lÃ  tendent au dernier point,
+      Lequel est...--Quoi?--Je ne le dirai point;
+      Mais s'il vous plaÃ®t en ma chambre vous rendre,
+      Je me mettrai volontiers en pourpoint,
+      Voire tout nud, pour vous le faire apprendre.
+
+
+L'UN POUR L'AUTRE
+
+CONTE
+
+      PrÃ¨s de s'unir Ã  sa discrÃ¨te amie,
+      Le bon Damis, chez elle, un beau matin,
+      Sur un sopha la trouvant endormie,
+      Osa risquer un geste libertin;
+      Mais par malheur s'Ã©veille la Donzelle,
+      Et ses beaux yeux encore appesantis:
+      Â«Mon cher Louis, ah! tu vaux trop,Â» dit-elle,
+      (Louis Ã©toit un valet du logis),
+      Â«Toute la nuit, tu m'as prouvÃ© ton zÃ¨le;
+      Â»Le jour au moins, repose-toi, Louis.Â»
+
+
+LA PRÃSENCE D'ESPRIT
+
+      Martin menoit son cochon au marchÃ©,
+      Avec Suzon, qui dans la plaine grande,
+      Pria Martin de faire le pÃ©chÃ©
+      De l'un sur l'autre, et Martin lui demande:
+      Â«Mais, qui tiendroit notre cochon, friande?
+      Â»--Qui?Â» dit Suzon, Â«bon remÃ¨de il y a.Â»
+      Lors le cochon Ã  sa jambe lia,
+      Puis Martin grimpe, et lourdement engaÃ®ne.
+      Le porc eut peur, et Suzon s'Ã©cria:
+      Â«Serre, Martin! notre cochon m'entraÃ®ne.Â»
+
+
+LA DÃFENSE BIEN OBSERVÃE
+
+        Â«Quoi! maman me laisse seulette?
+        Â»Pour moi j'en suis presque en courroux;
+        Â»Il semble qu'exprÃ¨s avec vous
+        Â»Je voulois rester tÃªte Ã  tÃªte;
+        Â»Mais non, Monsieur, n'en croyez rien;
+        Â»Vraiment je vous le dÃ©fends bien.
+
+        Â»Pour favoriser le mystÃ¨re,
+        Â»Ma porte est fermÃ©e aux verroux;
+        Â»Ici, sans crainte des jaloux,
+        Â»On pourroit jouir et se taire;
+        Â»Mais non, Monsieur, n'en faites rien;
+        Â»Vraiment je vous le dÃ©fends bien.
+
+        Â»PrÃªt Ã  rire de ma colÃ¨re,
+        Â»Peut-Ãªtre que mon nÃ©gligÃ©,
+        Â»Mon mouchoir un peu dÃ©rangÃ©,
+        Â»Vont vous rendre trop tÃ©mÃ©raire;
+        Â»Mais non, Monsieur, qu'il n'en soit rien;
+        Â»Vraiment je vous le dÃ©fends bien.
+
+        Â»Dans vos yeux je lis votre audace,
+        Â»Vos regards dÃ©vorent mon sein;
+        Â»Vous allez y porter la main,
+        Â»Votre bouche en prendra la place;
+        Â»Mais non, Monsieur, n'en faites rien;
+        Â»Vraiment je vous le dÃ©fends bien.
+
+        Â»Mais que vois-je? ma jarretiÃ¨re
+        Â»Se dÃ©fait et tombe Ã  mes pieds;
+        Â»Souffrir que vous la rattachiez!
+        Â»Oh! pour cela je suis trop fiÃ¨re!
+        Â»Non, non, Monsieur, n'en faites rien;
+        Â»Vraiment je vous le dÃ©fends bien.Â»
+
+        Comprenant enfin la dÃ©fense,
+        Par degrÃ© Damon s'enhardit,
+        A la belle il dÃ©sobÃ©it,
+        Pour prouver son obÃ©issance.
+        Jusques au bout il fit si bien,
+        Qu'on ne lui dÃ©fendit plus rien.
+
+
+LE DÃGEL
+
+      Un jour d'hiver Robin, tout Ã©perdu,
+      Vint Ã  Catin prÃ©senter sa requÃªte,
+      Pour dÃ©geler son chose morfondu,
+      Qui ne pouvoit quasi lever la tÃªte.
+      Incontinent Catin fut toute prÃªte;
+      Robin aussi prend courage et s'accroche;
+      On se remue, on se joue, on se hoche.
+      Puis quand ce vint au naturel devoir,
+      Â«Ah!Â» dit Catin, Â«le grand dÃ©gel approche!
+      Â»--Oui,Â» rÃ©pond-il, Â«je sens qu'il va pleuvoir.Â»
+
+
+HISTOIRE VÃRITABLE ET REMARQUABLE D'UN ABBÃ
+
+Qui avoit donnÃ© un rendez-vous Ã  une femme mariÃ©e; le mari, instruit de
+ce rendez-vous, mit Ã  sa chaste Ã©pouse une ceinture fort usitÃ©e en
+Italie.
+
+Air: _Tarare, pon, pon._
+
+          C'est approchant comm' Ã§a,
+              Vers Novembre
+              Ou DÃ©cembre,
+          Que Flore me donna
+          Un rendez-vous pour Ã§a.
+          En entrant dans sa chambre,
+          Flore dit: Â«Ah! pour Ã§a,
+          Â»Ah! l'abbÃ©, sent-on l'ambre
+              Â»Comm' Ã§a?Â»
+
+          --Â«La Dulac[1] est comm' Ã§a,Â»
+              RÃ©plique
+              L'AbbÃ© R'lique;
+          Â«Mais son ambre a cela
+          Â»De me rendre comm' Ã§a.
+          Â»--AbbÃ©,Â» dit-elle, Â«unique,
+          Â»L'on ne voit sonica,
+          Â»Qu'un EcclÃ©siastique
+              Â»Comm' Ã§a.
+
+          Â»Je ne suis pas comm' Ã§a,
+              Â»Si preste:
+              Â»Malepeste!
+          Â»Mon mari jaloux m'a
+          Â»Mise en cage comm' Ã§a;
+          Â»La ceinture funeste
+          Â»Que vous me voyez lÃ ,
+          Â»Vous interdit un geste
+              Â»Comm' Ã§a.Â»
+
+          --Â«Je n'ai rien vu comm' Ã§a;
+              Â»Le traÃ®tre!Â»
+              Dit le PrÃªtre,
+          Â«Ce chien de mari-lÃ !
+          Â»GÃªner un coeur comm' Ã§a!
+          Â»Sans que j'en sois le maÃ®tre.
+          Â»Cette vue a dÃ©jÃ 
+          Â»Fait que je cesse d'Ãªtre
+              Â»Comm' Ã§a.Â»
+
+          --Â«Une histoire comm' Ã§a,Â»
+              Dit la Belle,
+              Â«Est nouvelle;
+          Â»Quel tour plaisant c'est lÃ !
+          Â»L'AbbÃ©, j'en ris comm' Ã§a.Â»
+          L'abbÃ©, riant comme elle,
+          Fait ses adieux, s'en va,
+          Laissant la Demoiselle
+              Comm' Ã§a.
+
+  [1] Marchande renommÃ©e pour les odeurs et les parfums.
+
+
+L'EXPÃDIENT FACILE
+
+      Martin Ã©toit dedans un bois taillis
+      Avec Alix, qui, de tendre maniÃ¨re,
+      Lui dit: Â«Martin, le long de ces palis,
+      Â»Ta mie Alix d'amour te fait priÃ¨re.
+      Â»--Mais,Â» dit Martin, Â«si quelqu'un par derriÃ¨re
+      Â»Nous surprenoit, ce seroit grand vergogne?
+      Â»--Bon, bon! du cul vous ferez signe arriÃ¨re,
+      Â»Passez chemin, laissez faire besogne.Â»
+
+
+ON FAIT CE QU'ON PEUT
+
+        Blaise, dont jadis le crÃ©dit
+        Voloit de Paris jusqu'au Gange,
+        Est plus dÃ©chu que l'on ne dit.
+        Il s'endette du pain qu'il mange;
+        Et Catin, pour gagner de quoi
+        Mettre une chemise sur soi,
+        Lui met des cornes sur la tÃªte:
+        Voyez quelle diversitÃ©!
+        Pour chasser la nÃ©cessitÃ©,
+        Blaise emprunte, et sa femme prÃªte.
+
+
+LE QUIPROQUO OU COLIN-MAILLARD
+
+    Un jour deux Capucins, l'un pÃ¨re et l'autre FrÃ¨re,
+    En regagnant Paris, passoient par Bagnolet;
+    Les filles, ce jour-lÃ , pour fÃªter Sainte Claire,
+    S'Ã©gayoient et dansoient au son du flageolet.
+        Â«--Mes compagnes,Â» s'Ã©cria Rose,
+    Â«D'un excellent projet je veux vous faire part:
+    Â»VoilÃ  FrÃ¨re FranÃ§ois, avec PÃ¨re Bernard;
+    Â»Qu'on les fasse approcher, et puis qu'on leur propose
+        Â»De jouer Ã  Colin-Maillard;
+    Â»Je gage mon sabot qu'ils acceptent la chose.Â»
+        Rose savoit de bonne part
+    Que jamais Capucins ne craignirent la glose.
+    On les appela donc, et le couple gaillard
+    Eut bientÃ´t mis besace et bÃ¢ton Ã  l'Ã©cart.
+    Ils tirÃ¨rent au sort, Ã  ce que dit l'histoire;
+        L'un Ã©toit jeune, l'autre vieux,
+        Et grÃ¢ce Ã  la bontÃ© notoire
+    De l'Ãªtre prÃ©voyant qui fait tout pour le mieux,
+    Le sort Ã©chut au jeune, on lui banda les yeux.
+    Vous le voyez d'ici tourner Ã  l'aveuglette,
+    Aller Ã  droite, Ã  gauche, Ã  grands, Ã  petits pas,
+    Les deux jarrets tendus aussi bien que les bras,
+    Et le corps en avant comme un Chasseur qui guette.
+    Il avoit tant tournÃ© qu'enfin il Ã©toit las,
+        Quand par bonheur une fillette
+        Vint le tirer par sa jaquette;
+        C'Ã©toit Rose, il la jette Ã  bas;
+        Et portant une main lÃ©gÃ¨re
+        A certain endroit dÃ©fendu:
+        Â«C'est vous!Â» dit-il, Â«RÃ©vÃ©rend PÃ¨re,
+        Â»Votre barbe vous a vendu.Â»
+
+
+L'INOCULATION
+
+CONTE
+
+    Â«La petite vÃ©role est un mal, belle AgnÃ¨s,
+    Â»Dont, passÃ© dix-huit ans, on ne guÃ©rit jamais,Â»
+    Dit un jeune Esculape, Â«ou du moins, c'est bien rare;
+    Â»Vous en avez quatorze; Ã  mes soins fiez-vous,
+        Â»Que d'un poison traÃ®tre et barbare
+    Â»Je sauve avec vos jours des charmes aussi doux;
+      Â»Souffrez enfin... que je vous inocule.
+        Â»--Oh! vous me ferez mal.--TrÃ¨s peu.
+        Â»Vous verrez que ce n'est qu'un jeu;
+        Â»Votre frayeur est ridicule.
+    Â»--A demain.--Aujourd'hui.--Non, non--Soit, Ã  demain.Â»
+    Le lendemain, AgnÃ¨s toujours tremble et rÃ©siste;
+    Notre inoculateur, comme on le croit, persiste;
+    Il fait l'insertion autre part que Tronchin.
+        AgnÃ¨s crie, ensuite se prÃªte
+      A ses efforts. L'opÃ©ration faite,
+      --Â«Que n'allez-vous,Â» dit-elle, Â«votre train?
+        Â»Vous n'auriez qu'Ã  m'avoir manquÃ©e!Â»
+    Il double, il triple, il cesse.--Â«Encore un autre grain,
+        Â»Quand j'en devrois Ãªtre marquÃ©e!Â»
+
+
+LA MUETTE
+
+CHANSON
+
+Air: _Je vous prÃªterai mon manchon._
+
+        Dans un bosquet, prÃ¨s de Lisette,
+        Colin parloit de ses amours;
+        La belle faisoit la muette,
+        Par signe approuvant son discours.
+      Â«Que dois-je,Â» dit-il, Â«penser de ce geste;
+        Â»Si ton coeur ne me dit le reste?
+      Â»Mais, Mamzelle Louison, rÃ©pondez donc,
+            Â»Dites oui ou non,
+          Â»Comment trouvez-vous Ã§a?
+            Â»Suis-je bien lÃ ?
+          Â»Comment trouvez-vous Ã§a?Â»
+
+        Dans son silence elle s'obstine;
+        Colin, pour la faire jaser,
+        Sur la bouche de la mutine
+        Prend et reprend un doux baiser.
+      Â«Je sens,Â» dit-il, Â«qu'il augmente ma flamme;
+        Â»Mon feu passe-t-il dans ton Ã¢me?
+      Â»Mais, Mamzelle Louison, etc.Â»
+
+        Â«Ma foi je n'y puis rien comprendre,Â»
+        Dit-il, en dÃ©couvrant son sein;
+        Â«Quoi! faut-il, pour te faire entendre,
+        Â»Promener lÃ -dessus ma main?
+      Â»Je vois, je sens que mon Ã¢me est joyeuse;
+        Â»Ah! tu n'es donc pas chatouilleuse?
+      Â»Mais, Mamzelle Louison, etc.Â»
+
+        Pas un mot, pas une parole.
+        Â«Ma foi,Â» dit-il, Â«tu parleras;
+        Â»Je suis pressÃ©, le temps s'envole.Â»
+        Soudain il la prend dans ses bras.
+      Puis avec elle il tombe sur l'herbette:
+        Â«Eh bien! Ã  qui tient-il, Lisette?...
+      Â»Mais, Mamzelle Louison, etc.Â»
+
+        Lise, d'un oeil mourant et tendre.
+        De Colin imite l'ardeur;
+        Et sans songer Ã  se dÃ©fendre
+        Souffrit qu'il fÃ»t trois fois vainqueur.
+      Â«Eh bien!Â» dit-il, Â«sens-tu comme je t'aime,
+        Â»A prÃ©sent m'aimes-tu de mÃªme?
+      Â»Mais, Mamzelle Louison, etc.Â»
+
+        --Â«Ah! fort bien!Â» lui rÃ©pond Lisette,
+        Laissant Ã©chapper un soupir;
+        Â»Le dÃ©sir me rendoit muette,
+        Â»Mais je parle, grÃ¢ce au plaisir.
+      Â»Ami, tu peux Ã  prÃ©sent sans obstacle
+        Â»M'interroger.--Ah, quel miracle!
+      Â»Quoi! Mamzelle Louison, vous parlez donc?
+            Â»Le tour est bon;
+          Â»Vous parlerez demain
+            Â»Avec Colin,
+          Â»Vous parlerez demain.Â»
+
+
+L'OBSTACLE
+
+CONTE
+
+        A quoi bon prodiguer les mots?
+        Tous nos Conteurs, pour l'ordinaire,
+        S'Ã©puisent en avant-propos;
+      N'en faisons point, allons droit Ã  l'affaire.
+        Un Jouvenceau taillÃ© pour plaire,
+        AprÃ¨s avoir bien soupirÃ©,
+        Menti, promis et conjurÃ©
+      (C'est des amants le langage vulgaire),
+    Parvint prÃ¨s de sa belle au moment dÃ©sirÃ©:
+    Il touchoit Ã  son but, quand, par triste aventure,
+        Sans pouvoir avancer d'un pas,
+      Il se dÃ©mÃ¨ne, il souffle, il sue, il jure;
+      On peut, je crois jurer en pareil cas.
+        Disons le fait: Dame Nature
+    Avoit fermÃ© d'amour la gentille serrure,
+        Si bien que la clef n'entroit pas.
+    Certain barreau... mais on m'entend de reste;
+    Qu'Amour, jeunes beautÃ©s, veuille vous prÃ©server
+        D'un accident aussi funeste!
+      Ainsi soit-il. Venons Ã  notre Amant:
+    Le dÃ©sir de ses sens par l'obstacle s'enflamme.
+    Il redouble d'efforts, mais inutilement;
+    D'amour et de colÃ¨re il enrage en son Ã¢me:
+    On peut se fourvoyer, quand on marche Ã  tÃ¢ton.
+      Son chalumeau, dÃ©jÃ  baissant d'un ton,
+    Dans le sentier voisin... ArrÃªtons, et pour cause:
+        Car ce sentier... ma foi, je n'ose
+      Vous le nommer; mais je peux, sans qu'on glose,
+    Dire que sa VÃ©nus ne fut plus qu'un Giton.
+    A ce nouvel assaut n'Ã©tant point prÃ©parÃ©e,
+        En vain la belle _imperforÃ©e_
+    Lui crie: Â«ArrÃªtez donc, quel est votre dessein?
+        Â»--Rien de plus simple que la chose,Â»
+    RÃ©pond le gars; Â«chez vous je trouve porte close:
+        Â»J'Ã©cris mon nom chez le voisin.Â»
+
+
+LE TRIBUT CONJUGAL
+
+        La Marquise de Montuza
+        Ãtant presque sexagÃ©naire,
+        Aimoit un jeune Mousquetaire
+        Qui, pour ses Ã©cus, l'Ã©pousa.
+        La premiÃ¨re nuit le compÃ¨re
+        Lui dit, en lui serrant la main:
+        Â«Madame, en vertu de l'hymen
+        Â»Ne puis-je pas, sans vous dÃ©plaire...?
+        Â»Vous m'entendez...--Oui mon poulet,
+        Â»Fais tout ce que tu voudras faire...Â»
+        Le Mousquetaire fit un pet.
+
+
+LE CONSEIL INUTILE
+
+    Â«Madame, il se rÃ©pand un bruit qui vous outrage:
+        Â»Monsieur le PrÃ©sident, dit-on,
+      Â»Sans respecter les noeuds du mariage,
+    Â»Tous les jours en secret fait un petit Giton
+      Â»Du Chevalier qui de votre maison
+        Â»Occupe le troisiÃ¨me Ã©tage.
+    Â»Chassez donc, croyez-moi, ce vilain personnage,
+        Â»Pour fermer la bouche aux railleurs,
+        Â»Et surtout pour votre avantage:
+    Â»Votre Ã©poux ne doit pas aller rÃ©pandre ailleurs
+        Â»Un bien qui n'est qu'Ã  votre usage.
+    Â»--C'est bien dit: cependant si vous le trouvez bon,
+    Â»Madame, vos conseils n'auront pas mon suffrage;
+    Â»Vous ne connaissez pas le Chevalier ClÃ©on:
+      Â»Ce bon ami, cet honnÃªte garÃ§on
+        Â»Ne veut rien avoir Ã  personne;
+        Â»Il n'est pas tel qu'il vous paroÃ®t,
+        Â»Il me rend avec intÃ©rÃªt
+        Â»Ce que le PrÃ©sident lui donne.Â»
+
+
+LA CONFIDENCE
+
+        Â«Babet, vous avez du chagrin?
+        Â»--Oui vraiment, je suis dÃ©solÃ©e.
+        Â»--Et de quoi?--De ce que Martin
+        Â»Cet hiver-ci m'a violÃ©e.
+        Â»--Ciel...! contez-moi vite cela.
+        Â»--Ah! Monsieur, c'Ã©toit un Dimanche:
+        J'avois mis, ce Dimanche-lÃ ,
+        Une jupe de Perse blanche;
+        Martin me vit et m'appela.
+        Le traÃ®tre Ã©toit dans une grange,
+        J'y fus sans trop savoir pourquoi.
+        Â«Babet,Â» me dit-il, Â«sur ma foi,
+        Â»Vous Ãªtes belle comme un Ange!Â»
+        Lors il me mena dans un coin,
+        Et lÃ  prÃ¨s d'un grand tas de foin,
+        De beaux compliments il me berce.
+        Je riois: il me saute au cou,
+        Me fait tomber Ã  la renverse,
+        Et puis prenant je ne sais oÃ¹
+        Un... chose roide comme un clou:
+        Â«LÃ¨ve,Â» me dit-il, Â«ou je perce!Â»
+        Je levai ma jupe de Perse,
+        De crainte qu'il n'y fÃ®t un trou.
+
+
+LE CHAPELAIN
+
+CHANSON
+
+Sur l'Air: _Ne vlÃ -t-il pas que j'aime._
+
+        Il me falloit faire une fin
+          Comme tout bon ApÃ´tre;
+        Je suis devenu Chapelain,
+          Ce poste en vaut un autre.
+
+        Iris m'offroit Ã  desservir
+          Sa gentille Chapelle:
+        Je n'ai jamais su qu'obÃ©ir
+          Aux ordres d'une belle.
+
+        Elle est au fond d'un bois couvert,
+          GardÃ© par le mystÃ¨re;
+        Son sanctuaire n'est ouvert
+          Qu'Ã  mon seul ministÃ¨re.
+
+        Un double autel de marbre blanc
+          Est de sa dÃ©pendance;
+        Mais ce bÃ©nÃ©fice important
+          Oblige Ã  rÃ©sidence.
+
+        Sans Vicaire, de jour, de nuit,
+          Suivant les anciens rites,
+        Je fais l'office Ã  petit bruit
+          Avec deux Acolytes.
+
+        Quoi qu'en puissent dire les gens,
+          MÃªme aux FÃªtes de Vierge,
+        Dans ma Chapelle, en tous les temps,
+          Je n'allume qu'un cierge.
+
+        Gros Prieurs et brillants PrÃ©lats
+          Tout engraissÃ©s d'offrande,
+        Non, non, je ne troquerois pas
+          Avec vous de PrÃ©bende.
+
+
+LE MARCHAND DE LOTO
+
+ÃTRENNES AUX DAMES
+
+        A mon loto, soir et matin,
+        Sous vos doigts un brillant destin
+        Portera des boules heureuses;
+        Ce que j'assure, je le sais:
+        Si vous en Ãªtes curieuses,
+        Mesdames, faites-en l'essai
+            A mon loto.
+
+        Un peu de secours fait grand bien;
+        Tant soit peu d'art ne nuit Ã  rien,
+        Il faut quelquefois s'en permettre;
+        C'est mon avis; on ne sauroit
+        Le dÃ©daigner et se promettre
+        Tout l'avantage qu'on auroit
+            A mon loto.
+
+        Jamais une joueuse habile
+        Ne tint son sachet immobile:
+        Il faut l'agiter prestement.
+        Il faut que mollement pressÃ©e
+        Entre ses doigts lÃ©gÃ¨rement
+        La boule ait Ã©tÃ© caressÃ©e,
+            A mon loto.
+
+        Selon son goÃ»t ou son talent,
+        On a le tirer prompt ou lent:
+        Il n'y faut aucune science,
+        Ou s'il en faut, il en faut peu;
+        Un quart d'heure d'expÃ©rience
+        Suffit pour bien jouer le jeu,
+            A mon loto.
+
+        De celles qu'un ambe contente.
+        Il se plaÃ®t Ã  tromper l'attente,
+        Fi de l'ambe! il est trop commun.
+        D'un terne la chance est mesquine;
+        D'un terne? Oui, de deux jours l'un,
+        Je puis vous rÃ©pondre d'un quine,
+            A mon loto.
+
+        Au quaterne, par accident,
+        S'il se rÃ©duit en attendant,
+        La perte est bientÃ´t rÃ©parÃ©e.
+        Le jour qui suit ce jour fatal,
+        On peut compter sur la rentrÃ©e
+        De l'intÃ©rÃªt du capital,
+            A mon loto.
+
+        Mais de la superbe machine
+        Le pouvoir merveilleux dÃ©cline
+        De jour en jour; c'est son dÃ©faut.
+        Je vous en prÃ©viens, blonde, ou brune;
+        Vous n'avez que le temps qu'il faut,
+        Si vous voulez faire fortune
+            A mon loto.
+
+        Ma demeure est Ã  Vaugirard,
+        Tout vis-Ã -vis maÃ®tre AbÃ©lard,
+        Qui montre aux enfants la musique:
+        L'on se pourvoit, ou l'on souscrit.
+        Sous mon enseigne magnifique,
+        En lettres d'or, il est Ã©crit:
+            AU GRAND LOTO.
+
+
+LE LENDEMAIN DES NOCES
+
+FOLIE DIALOGUÃE
+
+        Â«Hier soir, ma chÃ¨re maman,
+        Â»Tout bas vous me fÃ®tes entendre
+        Â»Que la nuit je devois m'attendre
+        Â»A passer un mauvais moment.
+        Â»Tout en tremblant, pauvre innocente,
+        Â»J'attendois cet instant fatal...
+        Â»HÃ©las! le bon Monsieur Chrysante
+        Â»Ne m'a pas fait le moindre mal.
+        Â»--Est-il vrai, ma fille?--Au contraire,
+        Â»Il ne m'a fait que du plaisir.
+        Â»Quand nous fÃ»mes au lit: Ma chÃ¨re,
+        Â»Je puis t'embrasser Ã  loisir,
+        Â»Dit-il; aussitÃ´t il me baise
+        Â»Sur chaque joue... et mÃªme...--Eh bien,
+        Â»Comment tu rougis, ma ThÃ©rÃ¨se?...
+        Â»Qu'a-t-il fait? ne me cache rien.
+        Â»--Vous m'aviez, qu'il vous en souvienne,
+        Â»DÃ©fendu de rien refuser...
+        Â»--Sans doute. Auroit-il?...--Sur la mienne
+        Â»Sa bouche prit un doux baiser.
+        Â»--Et puis?...--Il me dit Ã  l'oreille:
+        Â»Bonsoir, et s'endormit soudain.
+        Â»--Ma pauvre enfant!... Et ce matin?
+        Â»--Ah! plus tendre encor que la veille.
+        Â»II me dit d'un air caressant:
+        Â»Ma chÃ¨re femme, je t'adore,
+        Â»Et me le prouve en m'embrassant.
+        Â»--Et puis?...--Puis il m'embrasse encore.
+        Â»--Ensuite?--Du lit il descend,
+        Â»Afin, dit-il, que je repose:
+        Â»Peut-on Ãªtre plus complaisant?
+        Â»--Il ne t'a pas fait autre chose?
+        Â»--Eh! non; c'est l'homme le plus doux:
+        Â»Maman, vous lui faites injure...
+        Â»Quoi! vous pleurez?... Mais je vous jure
+        Â»Que je n'ai pas de mon Ã©poux
+        Â»ReÃ§u la moindre Ã©gratignure!Â»
+
+
+LE CONFESSEUR EXEMPLAIRE
+
+      Au temps de PÃ¢que, aux pieds de PÃ¨re Jule,
+      Se confessoit un jeune Garnement,
+      Et des pÃ©chÃ©s dont fait dÃ©nombrement,
+      Cil de Sodome honoroit la cÃ©dule.
+      --Â«Qu'ai-je entendu! Ciel! quel Ã©garement
+      Â»Que de pÃ©cheurs aux infernales flammes,
+      Â»LivrÃ©s pour ce dont vous vous accusez!
+      Â»DÃ©faites-vous de ces amours infÃ¢mes,
+      Â»De notre sexe, Ã´ mon cher fils, n'usez,
+      Â»Et, comme moi, ne voyez que des femmes.Â»
+
+
+L'ESPRIT FORT
+
+CONTE
+
+    Aux pieds d'un Directeur, ClimÃ¨ne, un beau matin,
+        Avec un repentir sincÃ¨re,
+    DÃ©clara nettement que le petit Colin
+        N'Ã©toit pas le fils de son pÃ¨re.
+        --Â«Halte lÃ !Â» dit le Confesseur,
+    Â«Pour un _Confiteor_ vous n'en serez pas quitte;
+    Â»Il en faut deux au moins, ce crime fait horreur.
+    Â»Faut-il qu'injustement votre enfant dÃ©shÃ©rite
+        Â»Un lÃ©gitime successeur?
+        Â»Il faut, Madame, vous rÃ©soudre
+      Â»A confesser le fait Ã  votre Ã©poux,
+        Â»Sans quoi je ne puis vous absoudre.Â»
+        L'avouer ne se pouvoit pas.
+        La voilÃ  dans un embarras
+    Qu'on ne peut exprimer, car enfin l'aventure
+        Ãtoit Ã  digÃ©rer trop dure.
+    Il fallut succomber, et, d'un mortel chagrin,
+        Tomber dans une maladie
+        Qui pensa lui coÃ»ter la vie.
+        Sur le rapport du MÃ©decin,
+    Son Ã©poux connoissant que la mÃ©lancolie
+      Alloit couper la trame de ses jours,
+        La pria d'en dire la cause.
+    Elle veut l'en instruire, et jamais elle n'ose.
+        --Â«Ose tout,Â» dit-il, Â«mes amours:
+    Â«Rien ne me dÃ©plaira, pourvu qu'on te guÃ©risse;
+    Â»Quoi! faut-il qu'un secret te donne la jaunisse,
+    Â»Et qu'une femme meure, Ã  faute de parler?
+    Â»Cela seroit nouveau.--Je vais tout rÃ©vÃ©ler,
+    Â»Puisqu'aussi bien,Â» dit-elle, Â«un repos favorable
+    Â»Doit terminer bientÃ´t mon Ã©tat dÃ©plorable.
+        Â»J'Ã©tois Ã  la maison des champs,
+        Â»OÃ¹ je faisois la mÃ©nagÃ¨re,
+    Â»Quand la voisine Alix, par des discours touchants,
+        Â»Auxquels on ne rÃ©siste guÃ¨re,
+        Â»Me prouva qu'avoir des enfants
+        Â»Ãtoit Ã  vous chose impossible;
+    Â»Me prÃ´na les malheurs de la stÃ©rilitÃ©,
+    Â»Qui chez les Juifs passoit pour un dÃ©faut terrible;
+    Â»Puis dans un jour charmant me fit voir la beautÃ©
+        Â»D'une heureuse fÃ©conditÃ©.
+    Â»Je me rendis, hÃ©las! Ã  cette douce amorce,
+    Â»Et Lucas, le Valet de notre MÃ©tayer,
+    Â»Avec moi se trouvant un jour dans le grenier,
+    Â»Je me souvins d'Alix, et je manquai de force.
+    Â»Il est, cela soit dit sans vous mettre en courroux,
+    Â»A faire des enfants plus habile que vous.
+    Â»Je lui parlai d'amour, il comprit mon langage,
+    Â»Et sur un sac de blÃ©, sac funeste et maudit!
+        Â»Faut-il en dire davantage?
+    Â»De ce malheureux sac, notre Colin sortit.
+        Â»A Lucas je donnai, je pense,
+    Â»Quelques boisseaux de blÃ© pour toute rÃ©compense.
+    Â»Si je vous ai trahi, je meurs, pardonnez-moi;
+    Â»A cela prÃ¨s, toujours je vous gardai ma foi.
+    Â»--N'est-ce pas de mon blÃ© que tu payas l'ouvrage?Â»
+    Lui rÃ©pondit Damis, nullement effrayÃ©.
+    Â«Cet enfant est Ã  moi, puisque je l'ai payÃ©;
+        Â»Ne m'en parle pas davantage.Â»
+
+
+COUPLET
+
+Sur l'air de _Nina_.
+
+        AprÃ¨s avoir fourni trois fois
+          L'amoureuse carriÃ¨re,
+        Le pauvre Colin aux abois
+          Ne pouvoit plus rien faire.
+        Sa MaÃ®tresse, ainsi le voyant,
+          S'Ã©cria tout en pleurant:
+            Â«Ah! quel tourment,
+            Â»Quand l'instrument
+          Â»Duquel le plaisir dÃ©pend,
+                Â»Pend!Â»
+
+
+ÃPIGRAMME
+
+        Un jour Fanchon la CouturiÃ¨re
+    Acheta d'un Fripier un lit pour vingt Ã©cus;
+    Elle a gagnÃ©, dit-on, deux cents louis dessus:
+        Ah! c'est une grande usuriÃ¨re!
+
+
+LE CAS DÃCIDÃ
+
+      Un jeune Peintre au Prieur des Grands-Carmes
+      Vint s'accuser d'un cas assez nouveau:
+      Â«PÃ¨re, j'ai peint VÃ©nus sortant de l'eau,
+      Â»Ses bras, son cul, sa gorge et tous ses charmes.
+      Â»D'abord j'en fus amoureux comme un fou;
+      Â»Et, pour jouir un peu mieux qu'en peinture,
+      Â»Je m'avisai...--De quoi?--De faire un trou
+      Â»Dans ma DÃ©esse, et par cette ouverture,
+      Â»Un beau garÃ§on que je mis en posture,
+      Â»M'introduisit, vous devinez bien oÃ¹.
+      Â»Or, estimez la chose en conscience.
+      Â»En tout ceci, mon principal dessein
+      Â»Fut de jouir d'un objet fÃ©minin:
+      Â»Le pÃ©chÃ© n'est de Rome ou de Florence.
+      Â»--Mon cher enfant, je comprends votre cas,Â»
+      Dit le Pater; Â«la plaisante folie!
+      Â»Je vous absous, mais n'y retournez pas,
+      Â»Car, dans le fond, c'est pure bougrerie.Â»
+
+
+LE FAUX JUPITER
+
+      J'ai toujours craint les gens portant soutane;
+      D'un saint habit couvrant un coeur profane,
+      Que de bons tours ces Messieurs-lÃ  nous font!
+      SÃ©duire AgnÃ¨s, planter cornes au front,
+      Ce sont pour eux misÃ¨res, peccadilles.
+      O gens de bien ayant femmes ou filles!
+      N'oubliez pas ce salutaire avis:
+      Si par malheur entre en votre logis
+      Homme d'Ãglise, ou Capucin, ou PrÃªtre,
+      Je vous le dis: chassez vite le traÃ®tre;
+      Il vient chercher aventure pour lui,
+      Ou bien peut-Ãªtre intriguer pour autrui.
+      D'un vilain nom ce dernier cas s'appelle;
+      Mais Ã  l'honneur la cafarde sÃ©quelle
+      A de tout temps prÃ©fÃ©rÃ© les Ã©cus:
+      Quoi qu'on propose Ã  ces crÃ¢nes tondus,
+      En les payant on est sÃ»r de leur zÃ¨le.
+      Pour appuyer mon avis lÃ -dessus,
+      Je veux vous dire une histoire assez belle
+      Touchant Pauline et son ami Mundus.
+
+      Pauline Ã©toit une jeune Romaine,
+      Veuve Ã  vingt ans, et belle comme HÃ©lÃ¨ne,
+      Mais prude outrÃ©e, avare de faveurs,
+      Et de l'amour dÃ©daignant les douceurs.
+      De mille amants Ã  toute heure entourÃ©e,
+      Elle aimoit bien Ã  s'en voir adorÃ©e,
+      Mais rien de plus: Â«Non,Â» disoit-elle, Â«non,
+      Â»Ne vantez point l'attrait imaginaire
+      Â»D'un vain plaisir qui n'en a que le nom;
+      Â»Faut-il des sens pour aimer et pour plaire?
+      Â»Eh! laissons-les au stupide vulgaire.
+      Â»Pour moi, j'exige un amour de raison,
+      Â»Pur, dÃ©gagÃ© des noeuds de la matiÃ¨re,
+      Â»Tel en un mot que le prescrit Platon.
+      Â»Je n'aimerai jamais d'autre maniÃ¨re.Â»
+      Tous ses amants jeunes, pleins de dÃ©sirs,
+      Peu satisfaits d'un amour sans plaisirs,
+      De ses sermons bientÃ´t se rebutÃ¨rent:
+      L'un aprÃ¨s l'autre enfin ils la quittÃ¨rent.
+      Un seul resta, ce fut le beau Mundus,
+      Bien fait, galant, et digne de sa flamme.
+      Par des cadeaux, par des soins assidus,
+      Il n'avoit pu toucher encor la Dame.
+      Las de se plaindre, enfin le pauvre amant,
+      Pour rÃ©ussir, eut recours Ã  la ruse:
+      Tout galant homme en auroit fait autant,
+      Et quant Ã  moi, de bon coeur je l'excuse.
+      Pauline Ã©toit dÃ©vote Ã  Jupiter:
+      D'une DÃ©vote un Directeur est maÃ®tre;
+      L'adroit Mundus en sut bien profiter.
+      De Jupiter il gagne le Grand-PrÃªtre,
+      Et lui fait part de son tendre projet.
+      Le Directeur, mis dans la confidence,
+      TrÃ¨s bien instruit, trÃ¨s bien payÃ© d'avance,
+      Court chez Pauline, et lui parle en secret.
+      Â«A quel bonheur vous Ãªtes rÃ©servÃ©e!
+      Â»Ma chÃ¨re fille, ah! rÃ©jouissez-vous:
+      Â»Au rang des Dieux vous serez Ã©levÃ©e,
+      Â»Et vous verrez la terre Ã  vos genoux.
+      Â»Oui, cette nuit, ce n'est pas un mensonge,
+      Â»Le Roi des Dieux a daignÃ© dans un songe
+      Â»Me rÃ©vÃ©ler ses dÃ©crets absolus,
+      Â»Et de sa part, je viens ici moi-mÃªme
+      Â»Vous annoncer, quel honneur! qu'il vous aime.
+      Â»--Moi!Â» dit d'un ton modestement confus
+      La belle prude.--Â«Oui, vous,Â» rÃ©pond le PrÃªtre,
+      Â«Et dÃ¨s ce soir il exige de vous
+      Â»Dans son saint Temple un entretien bien doux.
+      Â»Lorsque la nuit sera prÃªte Ã  paroÃ®tre,
+      Â»Courez, volez Ã  la gloire, au plaisir.
+      Â»HÃ¢tez-vous donc, et quoi qu'on vous demande,
+      Â»Quand le Ciel parle, on ne doit qu'obÃ©ir.Â»
+      AprÃ¨s ces mots prononcÃ©s en ProphÃ¨te,
+      Il laisse lÃ  sa dÃ©vote inquiÃ¨te,
+      RÃªvant tout bas Ã  ce propos flatteur,
+      Et ne croyant qu'Ã  peine un tel bonheur.
+      Tout en rÃªvant, elle fait sa toilette:
+      Quoique dÃ©vote, on est un peu coquette.
+      Dans le miroir ses appas rÃ©pÃ©tÃ©s
+      Frappent d'abord ses regards enchantÃ©s;
+      En se voyant, elle commence Ã  croire
+      Que Jupiter, tout Jupiter qu'il est,
+      Peut bien l'aimer sans manquer Ã  sa gloire:
+      Elle est si belle! elle-mÃªme se plaÃ®t,
+      Et par degrÃ©s s'attendrit et soupire.
+      BientÃ´t ses yeux pleins d'un tendre dÃ©lire
+      Avidement parcourent son beau corps:
+      Dieux! que d'attraits Ã  la fois elle admire!
+      Gorge d'albÃ¢tre et mille autres trÃ©sors,
+      TrÃ´ne charmant de l'amoureux empire,
+      Tout redoublant sa vive Ã©motion,
+      Redouble aussi sa bonne opinion:
+      Sa vanitÃ© s'en nourrit et l'augmente.
+      Certain dÃ©sir qui tout bas la tourmente,
+      S'y joint encor: bref, pour conclusion,
+      DÃ¨s que la nuit lui parut assez sombre,
+      Notre dÃ©vote, Ã  la faveur de l'ombre,
+      D'un pas lÃ©ger que le dÃ©sir conduit,
+      Arrive au Temple: un PrÃªtre l'introduit.
+      LÃ  son amant prodiguant la dÃ©pense,
+      Avoit ornÃ© galamment le rÃ©duit
+      Qui devoit voir triompher sa constance,
+      Et se livrant au plus heureux espoir,
+      D'une Chapelle avoit fait un boudoir:
+      L'art s'y joignoit Ã  la magnificence.
+      Pauline arrive Ã  ce charmant sÃ©jour,
+      Ivre Ã  la fois et d'orgueil et d'amour;
+      Elle va voir le Roi des Dieux lui-mÃªme!
+      Elle entre... O Ciel! Quelle surprise extrÃªme!
+      Elle s'Ã©crie: Â«Ah! Mundus, quoi! c'est vous!
+      Â»--Oui,Â» lui dit-il, tombant Ã  ses genoux,
+      Â«Oui, c'est Mundus dont l'amoureuse adresse,
+      Â»En vous trompant, vous prÃ©pare en ces lieux
+      Â»Tous les plaisirs qui suivent la tendresse.
+      Â»Pour un moment, nous sommes seuls tous deux;
+      Â»Si vous vouliez, quel moment plein de charmes!Â»
+      Il prend sa main, il la baigne de larmes,
+      Il fait valoir ses transports et ses feux.
+      Pauline reste immobile, interdite;
+      Son amour-propre, un reste de pudeur
+      Parlent encor dans le fond de son coeur:
+      Mais le dÃ©sir par ces dÃ©lais s'irrite;
+      Son teint s'anime et sa gorge palpite;
+      Ses yeux, chargÃ©s d'une douce langueur,
+      A son amant laissent voir sa faiblesse.
+      Il en profite, il ose, il prie, il presse;
+      Pauline enfin ne peut lui rÃ©sister,
+      Et dans les bras de sa belle MaÃ®tresse,
+      L'heureux Mundus, pour prix de son adresse,
+      Jusques au bout remplaÃ§a Jupiter.
+
+
+LE SOMMEIL DE VÃNUS
+
+CHANSON
+
+Sur l'air: _Ã´ Filii et FiliÃ¦_
+
+        Mars trouva VÃ©nus Ã  Paphos;
+        La belle dormoit sur le dos:
+        Â«Voyons,Â» dit-il, Â«tout ce qu'elle a,
+            Â»Alleluia!Â»
+
+        Il alla dÃ©ranger soudain
+        L'Ã©charpe qui couvroit son sein;
+        Plus blanc que neige il le trouva.
+            Alleluia!
+
+        Sa main eut la tÃ©mÃ©ritÃ©
+        D'en tÃ¢ter la rotonditÃ©;
+        Le sentant ferme, il s'Ã©cria:
+            Â«Alleluia!Â»
+
+        EnivrÃ© de si doux plaisirs,
+        Il forma de nouveau dÃ©sirs,
+        Et de baisers se rÃ©gala.
+            Alleluia!
+
+        De cent faÃ§ons pour l'admirer,
+        Il se mit Ã  la revirer:
+        Ce qui s'augmente s'augmenta.
+            Alleluia!
+
+        VÃ©nus, fermant toujours les yeux,
+        Se plaÃ§a pourtant de son mieux,
+        Et le Guerrier en profita.
+            Alleluia!
+
+        Â«Bon, bon,Â» disoit Mars qui sentoit
+        Qu'en dormant on le secondoit,
+        Â«Dormez toujours comme cela.
+            Alleluia!Â»
+
+        A peine un jeu se finissoit
+        Qu'un autre se recommenÃ§oit:
+        Trois jours entiers cela dura.
+            Alleluia!
+
+        Mais enfin VÃ©nus s'Ã©veillant,
+        Dit au Dieu, presque en rougissant:
+        --Â«Eh! quoi, Monsieur, vous Ã©tiez lÃ !
+            Â»Alleluia!Â»
+
+
+QUATRAIN
+
+A MADAME ***, DONT LE MARI EST BOITEUX ET JALOUX
+
+        Comme VÃ©nus vous Ãªtes belle,
+        Vulcain est aussi votre Ãpoux,
+        Et je voudrois faire pour vous
+        Tout ce que Mars faisoit pour elle.
+
+
+L'ENTHOUSIASME GASCON
+
+      Ces jours passÃ©s, dans un cercle gaillard,
+      On demandoit ce qui plaisoit aux Dames?
+      --Â«Les petits soins,Â» dit un jeune Mignard.
+      --Â«Par la sambleu!Â» s'Ã©crie un vieux paillard,
+      Â«Mon bel ami, tu connois bien les femmes!
+      Â»Si tu ne veux passer pour un nigaud,
+      Â»Tranche et dis-nous: C'est un vit qu'il leur faut,
+      Â»Car les fourreaux sont tous faits pour les lames.
+      Â»--Sandis! mon cher,Â» cria certain Gascon,
+      Â«Embrasse-moi, tu parles comme un con.Â»
+
+
+LE CRI DU COEUR
+
+      PÃ¨re Brichard exploitait Soeur Colette,
+      Sans dÃ©brider pour la sixiÃ¨me fois,
+      Et deux encor: tant qu'enfin la Nonnette,
+      Qui, se lassant, les comptoit par ses doigts,
+      Lui dit: Â«Pater, c'est assez nous Ã©battre:
+      Â»Oui, je le jure, et de par Saint Julien,
+      Â»Qu'au jeu d'amour vous seul en valez quatre.
+      Â»--Par la corbleu! suis-je Carme pour rien?Â»
+
+
+LA BÃNÃDICTION TROP CHÃRE
+
+OU
+
+LE CONSEIL D'ALIX
+
+      Le grand Colas et la jeune Denise,
+        Amoureux, pauvres et contents,
+    Suivis de leurs parents, s'en alloient Ã  l'Ã©glise
+        Dire un oui, faire une sottise
+      Dont maint Ã©poux s'est repenti longtemps.
+    Tout Ã©toit disposÃ© pour cette grande fÃªte;
+    On commence, et dÃ©jÃ  messire Jean s'apprÃªte
+      A prononcer le conjungo fatal,
+      Quand tout Ã  coup un scrupule l'arrÃªte:
+    Â«Avant que d'achever, il ne seroit pas mal,Â»
+        Leur dit-il, Â«de faire une pause.
+      Â»Or, dites-moi, s'il vous plaÃ®t, et pour cause,
+    Â»Ce que vous me donnez pour le droit pastoral?
+      Â»--Nous avons mis soixante sols ensemble,
+        Â»Que vous prendrez, si bon vous semble,Â»
+    RÃ©pond Colas, surpris de cette question.
+      --Â«Soixante sols! je serois un pauvre homme
+    Â»De donner pour si peu ma bÃ©nÃ©diction.
+      Â»MaÃ®tre Colas, amplifiez la somme,
+      Â»Mettez encor vingt sols avec l'Ã©cu.
+        Â»--Quatre francs pour Ãªtre cocu!Â»
+        S'Ã©cria tout haut un bon drÃ´le;
+        Â«Messire Jean, quel monopole!
+        Â»J'en donnerois volontiers neuf,
+        Â»Et plus encor, pour Ãªtre veuf.
+    Â»--Oui, je veux quatre francs sans rabattre une obole;
+        Â»Laissons les discours superflus:
+        Â»Quatre francs, ou n'en parlons plus;
+        Â»Robin, Ã´te-moi mon Ã©tole.Â»
+        Denise alors prit la parole.
+    --Â«Colas et moi,Â» dit-elle, Â«avions deux petits lits;
+    Â»Nous venons de les vendre Ã  la commÃ¨re Alix
+        Â»Pour avoir une grande couche.
+        Â»Que je suis malheureuse, hÃ©las!
+      Â»Messire Jean, que la pitiÃ© vous touche!
+        Â»OÃ¹ donc ira coucher Colas,
+        Â»Si vous ne nous mariez pas?
+        Â»--Vraiment voilÃ  bien du mystÃ¨re!Â»
+    Dit la commÃ¨re Alix; Â«jour de Dieu! laissez faire;
+      Â»Messire Jean y perdra son Latin.
+        Â»Quand je fus promise Ã  Lubin,
+    Â»DÃ©funt notre CurÃ© voulut agir de mÃªme,
+        Â»Mais il ne fut pas le plus fin;
+    Â»Lucas et moi d'accord, nous allÃ¢mes bon train;
+    Â»Si qu'au bout de neuf mois, approchant le CarÃªme,
+    Â»Mon ladre de CurÃ© se vit rÃ©duit enfin
+    Â»A faire au mÃªme jour mariage et baptÃªme,
+    Â»Le tout pour un Ã©cu. Faites comme je fis,
+    Â»C'est un profit tout clair.--Je suis de votre avis,Â»
+    RÃ©part Denise; Â«eh bien! Colas, prenons l'avance;
+        Â»Le Ciel sait nos intentions,
+        Â»Il sait aussi notre indigence;
+    Â»Il voit notre CurÃ© manquer de complaisance:
+    Â»Celui-ci rÃ©pondra de ce que nous ferons;
+    Â»Et puisque sans argent il ne veut pas qu'on danse,
+    Â»Allons, et mettons-lui le plus que nous pourrons
+        Â»De pÃ©chÃ©s sur la conscience.Â»
+
+
+ÃPITRE CONSOLANTE A UN COCU
+
+        Consolez-vous, Monsieur Fumet;
+        Gens de Robe, Gens Ã  Plumet
+        Ont un destin pareil au vÃ´tre:
+        C'est le bon Dieu qui le permet.
+        Le grand ProphÃ¨te Mahomet
+        N'en fut pas plus exempt qu'un autre.
+        Il prit pour femme Cadigha.
+        Celle-ci, d'humeur un peu chaude,
+        Dans son cher Ã©poux distingua
+        Des faÃ§ons qui sentoient le Claude;
+        Lors Dieu sait comme elle intrigua!
+        Un ribaud plut Ã  la ribaude:
+        Ce ribaud qui la subjugua
+        Ãtoit un gros Prieur de Carmes.
+        Mahomet le sut, le nargua,
+        Et prit un croissant pour ses armes.
+        Bel avis aux gens dÃ©licats!
+        Quand il auroit fait des Ã©clats,
+        Quand il auroit battu sa femme,
+        Au jour marquÃ© pour son trÃ©pas,
+        En auroit-il moins rendu l'Ã¢me?
+        Ce fut, suivant un Ã©rudit,
+        A MÃ©dine qu'il la rendit:
+        En mangeant un gigot maudit,
+        Il lui prit une sueur froide
+        Qui le forÃ§a d'aller au lit.
+        Au fait: quand on l'ensevelit
+        On lui trouva le _caiche_ roide
+        (_Caiche_ est synonyme de vit).
+        Soudain le bruit s'en rÃ©pandit.
+        Sa veuve accourt, elle s'Ã©crie:
+        Â«Ah! certes, j'aurois eu grand tort
+        Â»D'avoir passÃ© plus d'une envie
+        Â»Avec un Moine, vrai butor,
+        Â»Si mon Ã©poux qui disoit d'or
+        Â»L'avoit portÃ© pendant sa vie
+        Â»Comme il le porte aprÃ¨s sa mort!Â»
+
+
+L'AVOCAT POUSSÃ A BOUT
+
+        Un Avocat fut consultÃ©
+        Par un Tendron d'aimable mine,
+        Qu'un Gars avoit trop insultÃ©.
+        L'homme de Loi, qui l'examine,
+        Trouve, sous sa simple Ã©tamine,
+        Deux grands yeux pleins de voluptÃ©;
+        Certain air de naÃ¯vetÃ©
+        Peint sur sa figure enfantine;
+        Un sein par l'Amour agitÃ©,
+        Qui se soulÃ¨ve, se mutine,
+        Et semble en sa captivitÃ©
+        Appeler une main lutine,
+        Qui lui rende la libertÃ©.
+        Notre Avocat est transportÃ©:
+        Il lorgne une taille divine,
+        Des pieds mignons et dÃ©licats;
+        Et ce qu'il voit de tant d'appas
+        Ne vaut pas ce qu'il en devine.
+        Avec ces titres de faveur,
+        On peut compter sur la ferveur
+        Du LÃ©giste le plus austÃ¨re.
+        Le nÃ´tre, expert dans tous les droits,
+        Avoit, dit-on, plus d'une fois
+        Pris ses licences Ã  CythÃ¨re.
+        Enfin, prÃ¨s de la belle assis,
+        Il veut, sans dÃ©tour, sans mystÃ¨re,
+        De son cas savoir le prÃ©cis.
+        --Â«Las!Â» dit la belle dÃ©solÃ©e,
+        Â»Je vais rappeler mon esprit,
+        Â»Et vous conter comment s'y prit
+        Â»Le fripon qui m'a violÃ©e.
+        Â»Il avoit un air tendre et doux,
+        Â»La taille la mieux dÃ©couplÃ©e,
+        Â»Et le regard... tout comme vous.Â»
+        Notre grave Jurisconsulte,
+        FlattÃ© d'avoir les mÃªmes traits,
+        En ressent une joie occulte;
+        Et, rajeuni par tant d'attraits,
+        S'approche encore un peu plus prÃ¨s
+        De la beautÃ© qui le consulte.
+        --Â«Poursuivez ce rÃ©cit,Â» dit-il,
+        Â«Car votre affaire m'intÃ©resse.
+        Â»--Ah! Monsieur, qu'il Ã©toit subtil!
+        Â»Que l'Amour inspire d'adresse!
+        Â»Ses yeux sur mes foibles attraits
+        Â»Se promenoient avec ivresse.Â»
+        L'Avocat, qu'un mÃªme feu presse,
+        N'a pas des regards plus discrets.
+        Â«Ce n'est pas tout: sa main hardie
+        Â»Saisit la mienne au mÃªme instant.Â»
+        Vous sentez, sans que je le die,
+        Que l'Avocat en fait autant.
+        Â«Ce n'est pas tout: sa perfidie
+        Â»MÃ©ditoit un autre dessein;
+        Â»Et toujours plus audacieuse,
+        Â»BientÃ´t sa main licencieuse
+        Â»Fourrage les lis de mon sein.Â»
+        Notre Avocat, sur ce modÃ¨le,
+        Glissant une furtive main
+        A travers la gaze infidÃ¨le,
+        Enfile le mÃªme chemin.
+        Â«Ce n'est pas tout: d'un air farouche,
+        Â»A ses feux je veux m'opposer;
+        Â»DÃ©terminÃ©e Ã  tout oser,
+        Â»Sa bouche se colle Ã  ma bouche.Â»
+        L'Avocat, que l'exemple touche,
+        Ravit un semblable baiser...
+        Ravit! je faux, on le lui donne;
+        On feint de n'y pas consentir:
+        Mais c'est pour mieux faire sentir
+        Le prix de ce qu'on abandonne.
+        Femmes, osez me dÃ©mentir!
+        Celle qui jamais ne pardonne,
+        Est trop sujette au repentir.
+        Â«Ce n'est pas tout: son feu redouble,
+        Â»Il me transporte malgrÃ© moi;
+        Â»Les genoux tremblants, et l'oeil trouble...
+        Â»Je ne sais plus ce que je voi.Â»
+        L'Avocat, non moins troublÃ© qu'elle.
+        RÃ©pÃ¨te une leÃ§on si belle;
+        Tous deux bientÃ´t perdent la voix;
+        Tous deux se plongent Ã  la fois
+        Dans une extase mutuelle.
+
+        Notre Avocat crut jusqu'au bout
+        Avoir imitÃ© son modÃ¨le.
+        --Â«Ce n'est pas tout,Â» dit la Donzelle.
+        Â«--Comment, diable! ce n'est pas tout!
+        Â»Qu'avoit-il de plus Ã  vous faire?
+        Â»Vous m'Ã©tonnez! dites, ma chÃ¨re,
+        Â»Comment la chose se passa?
+        Â»--Eh! mais voici tout le mystÃ¨re,
+        Â»Monsieur, c'est qu'il recommenÃ§a.Â»
+
+
+LE DÃLUGE
+
+        Â«Cap dÃ© bious!Â» disoit un Gascon
+      A sa moitiÃ©, qui faisoit la niaise,
+        Â«Pour la premiÃ¨re fois, Fanchon,
+    Â»Il me semble qu'ici je suis bien Ã  mon aise.
+    Â»--Las!Â» dit-elle, Â«mon cher, je suis neuve Ã  tel jeu;
+    Â»Appelez un Frater, et je le ferai juge
+    Â»Que mes eaux seulement ont passÃ© par ce lieu.
+    Â»--Vos eaux! sandis!Â» repart le Gascon qui prend feu;
+        Â«Dites donc les eaux du dÃ©luge.Â»
+
+
+_Ãgri salivantis solatium_
+
+    Des beautÃ©s de Paris, Ã´ toi la moins farouche,
+    Ce fut peu d'un Ã©cu que tu reÃ§us de moi,
+    En retour du plaisir que je pris sur ta couche:
+    Car depuis plus d'un an que j'eus affaire Ã  toi,
+        L'eau m'en vient encore Ã  la bouche.
+
+
+DIALOGUE ENTRE DEUX SERVANTES
+
+        Â«Eh bien! notre nouveau CurÃ©?
+        Â»--Ah! palsanguÃ©! c'est un brave homme.
+    Â»Le premier Ã©toit bon, mais je veux qu'on m'assomme,
+      Â»Si le second n'est meilleur Ã  mon grÃ©.
+    Â«--Comment cela?--Comment? Tiens, juges-en, commÃ¨re:
+    Â»Il me donne par ans quarante bons Ã©cus,
+        Â»Voire quelque chose de plus;
+    Â»J'ai la clef de la cave et je n'ai rien Ã  faire.
+    Â»--Et la nuit...?--Oh! la nuit nous faisons lit Ã  part;
+        Â»Messire Arlot est un saint prÃªtre,
+    Â»Qui ne ressemble en rien Ã  messire Chouart.
+        Â»--Dieu me garde d'un pareil maÃ®tre!
+        Â»Il me feroit mourir d'ennui:
+    Â»Oh! que j'aime bien mieux servir chez son vicaire!
+    Â»Je n'ai que dix Ã©cus et je fais maigre chÃ¨re,
+        Â»Mais du moins on couche avec lui.Â»
+
+
+LE SALAMALEC LYONNOIS
+
+CONTE
+
+      Jamais ne fut nation plus civile
+      Que la FranÃ§oise, il le faut avouer;
+      L'envoyÃ© Turc pourroit bien s'en louer,
+      AprÃ¨s l'honneur qu'Ã  Lyon, la grand ville,
+      Des magistrats en passant il reÃ§ut.
+      Ces magistrats crurent frapper au but,
+      S'ils rÃ©galoient l'Excellence Ottomane
+      D'un compliment en langage Ottoman:
+      Â«Car,Â» disoient-ils, Â«parler par Truchement,
+      Â»C'est une mort: en langue Musulmane
+      Â»Un Musulman il nous faut saluer.Â»
+      L'invention leur sembloit mÃ©morable;
+      Le point Ã©toit comment l'effectuer?
+      OÃ¹ rencontrer un harangueur capable?
+      Un homme expert dans le salamalec?
+      Notez qu'alors tenoit auberge illec
+      Certain quidam, dÃ©serteur de mosquÃ©e,
+      De mauvais Turc devenu bon ChrÃ©tien.
+      Â«C'est notre fait,Â» dirent ces gens de bien.
+      La chose au Sire Ã©tant communiquÃ©e,
+      Il l'approuva:--Â«Laissez faire,Â» dit-il,
+      Â«FranÃ§ois SÃ©lim, c'est ainsi qu'on me nomme.
+      Â»Nul mieux que moi, Dieu merci! ne sait comme
+      Â»La tÃªte on doit courber jusqu'au nombril,
+      Â»Rabattre en arc les mains sur sa poitrine,
+      Â»Se reculer, s'avancer Ã  propos,
+      Â»_Et cÃ¦tera_; suffit: de ma doctrine
+      Â»Tenez-vous sÃ»rs et soyez en repos.
+      Â»Vous me verrez Ã  la mode Turquesque
+      Â»Faire cent tours qui surprendront vos yeux;
+      Â»Telle action vous paroÃ®tra burlesque
+      Â»Qui cache au fond sens trÃ¨s mystÃ©rieux.
+      Â»Or en ceci la grande politique
+      Â»Est de me suivre en tout d'un pas Ã©gal:
+      Â»Souvenez-vous de cet avis unique,
+      Â»Vous ne sauriez, me suivant, faire mal.Â»
+      De point en point on promit de le suivre;
+      On le suivit jusqu'au moindre _iota_.
+      L'ambassadeur bien fort s'en contenta;
+      Mais ce qui, plus que tout, le transporta,
+      Fut qu'un ChrÃ©tien parlÃ¢t Turc comme un livre.
+      --Â«Il n'est,Â» dit-il, Â«assesseur du Divan,
+      Â»Qui mieux que vous entende notre langue.
+      Â»--Pas ne vous doit surprendre ma harangue,Â»
+      RÃ©pond SÃ©lim, Â«je suis nÃ© Musulman.
+      Â»--NÃ© Musulman? Vous l'Ãªtes donc encore?
+      Â»--Moi? point du tout. Je me suis converti,
+      Â»Et c'est le Dieu des ChrÃ©tiens que j'adore.
+      Â»--Ah! par Mahom! vous en avez menti,
+      Â»Et Musulman jamais vous ne naquÃ®tes,
+      Â»Ou vous n'avez pas changÃ© de parti.
+      Â»Je ne puis croire au moins ce que vous dites,
+      Â»Si je n'en vois un signe fort prÃ©cis.
+      Â»--A moi ne tienne!Â»--Ãtes-vous circoncis?
+      Â»--Vous allez voir.Â» Lors sa misÃ¨re nue
+      Le compagnon Ã©tale Ã  dÃ©couvert.
+      Les Magistrats, Ã  cette Ã©trange vue,
+      Quoique Ã©tonnÃ©s, pour n'Ãªtre pris sans vert,
+      Suivant leur guide, imitant sa posture,
+      Firent leur cour en forme et sans tarder,
+      Chacun selon le talent que nature,
+      Petit ou grand, lui voulut accorder.
+      L'ordre fut rare, et l'histoire rapporte
+      Que l'Ottoman saluÃ© de la sorte,
+      Crainte de pis, s'enfuit sans dire adieu.
+      Tout au rebours les Donzelles du lieu
+      Prirent grand goÃ»t Ã  la cÃ©rÃ©monie:
+      Et telle fut leur jubilation,
+      Que maintenant nulle ne se soucie
+      De voir, aprÃ¨s cette rÃ©ception,
+      Ambassadeur, s'il ne vient de Turquie.
+
+
+LA COLÃRE NAÃVE
+
+      Dans un verger, la friande Colette
+      Au point du jour attendoit Augustin;
+      Lucas la vit, et lui dit: Â«Ouais! poulette,
+      Â»Que cherchez-vous en ce lieu si matin?
+      Â»--Un nid, Lucas.--C'est bien fait, pÃ©ronnelle,Â»
+      Lui rÃ©pondit le villageois rusÃ©;
+      Â«Mais pour le prendre oÃ¹ donc est votre Ã©chelle?
+      Â»Tenez, tout franc, le dÃ©tour est usÃ©;
+      Â»Vous cherchez... lÃ ... n'est-il pas vrai, ma belle?...Â»
+      Poursuit Lucas, qui la voit se fÃ¢cher.
+      --Â«Eh! oui, mÃ©chant, puisses-tu,Â» lui dit-elle,
+      Â«Avoir perdu ce que je viens chercher!Â»
+
+
+PARTANT QUITTE
+
+CONTE
+
+      Alain disoit: Â«Ma femme, Ã©coute-moi:
+      Â»Je t'avouerai qu'avant que d'Ãªtre Ã  toi,
+      Â»Bien jeune encor, je fis une folie:
+      Â»J'eus une fille; elle est, ma foi, jolie;
+      Â»Prends-la chez toi, faute de nourrisson;
+      Â»Je veux de toi qu'elle prenne leÃ§on:
+      Â»Tu l'aimeras, car elle te ressemble.
+      Â»--Et moi, j'ai fait,Â» dit-elle, Â«un beau garÃ§on;
+      Â»Il nous faudra les marier ensemble.Â»
+
+
+LE FIN MENTEUR
+
+        En tremblant, un jour Ãloi
+        Fut chez un pharmacopole:
+        Â«Sauf respect, je... voudrois...--Quoi?
+        Â»--De l'onguent pour la _vÃ©role_.
+        Â»--Combien?--Deux onces, je croi.Â»
+        Le voyant saisi d'effroi,
+        Purgon lui dit:--Â«Ah! compÃ¨re,
+        Â»C'est pour toi, la chose est claire,
+        Â»Car tu me parais bien sec.
+        Â»--Oh! non: c'est pour mon cher pÃ¨re
+        Â»Qui veut me frotter avec.Â»
+
+
+LE PARDON
+
+CONTE
+
+      A son voisin la gentille Isabelle
+        Fut se plaindre de son Ã©poux,
+        Qui toujours lui cherchoit querelle.
+        --Â«Croyez-moi,Â» dit-il, Â«vengez-vous.Â»
+        Le conseil plut fort Ã  la belle;
+    Le galant fut choisi pour servir son courroux.
+    A chaque heure du jour, c'Ã©toit nouvelle plainte;
+    Notre couple Ã  l'envi signaloit son ardeur;
+        Mais la colÃ¨re du vengeur
+        En moins de huit jours fut Ã©teinte:
+        De tout on se lasse Ã  la fin.
+    La belle, que toujours la vengeance aiguillonne,
+        Six fois fut se plaindre un matin:
+        --Â«Oh! pour le coup,Â» dit le voisin,
+        Â«Je suis ChrÃ©tien, je lui pardonne.Â»
+
+
+LE MENSONGE ÃVIDENT
+
+      En bavolet, en simple jupon court.
+      Sur son balcon dame Alix appuyÃ©e
+        Lorgnoit les passants un beau jour.
+      Depuis longtemps, aux mystÃ¨res d'amour
+        La belle Ã©toit initiÃ©e.
+        Un sien neveu, nommÃ© Valcour,
+      GarÃ§on alerte et d'assez bonne mise,
+      Entre en sa chambre; il la voit, et soudain
+        Le fripon sent naÃ®tre en son sein
+        Un mouvement de paillardise;
+    Si bien que derriÃ¨re elle il se glisse sans bruit,
+    SoulÃ¨ve le jupon d'une main libertine,
+        Et puis, ainsi qu'on l'imagine,
+        S'ajuste, pousse et s'introduit.
+        --Â«Eh! mais, voyez l'extravagance!Â»
+        Dit Alix Ã  notre Ã©ventÃ©;
+        Â«Valcour... vous me foutez, je pense?...
+        Â»--Moi? non, ma tante, en vÃ©ritÃ©...
+        Â»--Comment, non, coquin que vous Ãªtes?
+        Â»Ne sens-je pas ce que vous faites?
+    Â»Et vous l'osez nier! c'est par trop fort aussi...
+        Â»--Vous Ãªtes donc bien mÃ©contente?Â»
+        Dit Lindor d'un ton radouci;
+        Â«Eh bien! je vais m'Ã´ter, ma tante,
+        Â»Si vous voulez.--Non, restez-y:
+        Â»Mais je n'aime pas que l'on mente.Â»
+
+
+LA MÃTAMORPHOSE
+
+CONTE ÃPIGRAMMATIQUE
+
+        Gertrude Ã  vingt ans fut jolie;
+        Elle avoit deux petits tetons
+        Qu'Ariste aimoit Ã  la folie,
+        Et nommoit ses petits fripons.
+        Ariste fit un long voyage,
+        Et revint aprÃ¨s vingt-cinq ans,
+        Je laisse Ã  penser quel ravage
+        Chez Gertrude avoit fait le temps!
+        Sur les fripons, par habitude,
+        Ariste jeta ses regards:
+        Â«Ah! mes petits fripons, Gertrude,
+        Â»Sont devenus de grands pendards!Â»
+
+
+LE MALADROIT
+
+      Certain benÃªt voulant fÃªter sa femme,
+      Point ne pouvoit attraper le milieu.
+      Â«Trop haut! trop bas!Â» lui rÃ©pÃ©toit la Dame.
+      Â«--Y suis-je?--Non!--Pour le mettre en son lieu,
+      Â»Ma chÃ¨re Alix, ton aide je rÃ©clame.
+      Â»--Quoi! ne pouvez,Â» lui dit-elle en courroux,
+      Â«Trouver ce que cherchez depuis une heure?
+      Â»C'est pourtant lÃ  l'office d'un Ã©poux!
+      Â»J'enrage: point ne connois, ou je meure!
+      Â»D'homme qui soit plus maladroit que vous!Â»
+
+
+LE PLAISIR SANS REMORDS
+
+CONTE
+
+        Le vieux Cassandre est un compÃ¨re,
+        Qui malgrÃ© son Ã¢ge, la nuit,
+        Quelquefois encor fait du bruit;
+        Et sa Pernelle une commÃ¨re,
+        Qui, sans mentir, entre deux draps,
+        A son mari ne cÃ¨de guÃ¨re.
+        La nuit surtout du Mardi-gras,
+        Ils s'amusÃ¨rent... voici comme:
+        A son lit Cassandre montant,
+        Vint Ã  faire un... cela s'entend...
+        Pernelle, alors au premier somme,
+        Que ce bruit Ã©veille Ã  l'instant,
+        Se met Ã  rire, Ã  rire tant,
+        Qu'elle en fait elle-mÃªme autant.
+        Vous jugez bien que le bonhomme
+        Riposta bientÃ´t d'un second:
+        Pernelle aussitÃ´t lui rÃ©pond.
+        Cassandre veut, quoi qu'il en coÃ»te,
+        Par un nouveau lui rÃ©partir;
+        Mais... le sommeil le prend en route.
+        AprÃ¨s tant de plaisir, sans doute,
+        Il est bien permis de dormir.
+
+
+LES DEUX CLYSTÃRES
+
+        Cloris, tandis qu'Ã  votre pÃ¨re,
+        Diafoirus donne un clystÃ¨re,
+    Vous en recevez un d'un jeune Praticien:
+    Mais que ces anodins diffÃ¨rent l'un de l'autre!
+    Votre pÃ¨re Ã  l'instant est dÃ©livrÃ© du sien,
+    Et vous ne la serez que dans neuf mois du vÃ´tre.
+
+
+LE DOUBLE AVEU
+
+CONTE
+
+      Un grand Seigneur, frappÃ© de mort subite,
+      Droit aux enfers fut conduit au plus vite.
+      Du Styx Ã  peine il eut touchÃ© le bord,
+      Que son cocher s'offre Ã  ses yeux d'abord.
+      --Â«Vous, Monseigneur, dans ce lieu de souffrance?
+      Â»Puis-je savoir quel crime, quelle offense?...
+      Â»--Mon cher Vincent, j'ai tout sacrifiÃ©
+      Â»Pour enrichir le fils que ma moitiÃ©,
+      Â»Cette adorable et vertueuse femme,
+      Â»M'avoit donnÃ©, seul gage de sa flamme.
+      Â»Mais toi, Vincent, quel est donc le sujet
+      Â»De ton malheur? Toi, sage domestique?...
+      Â»--Ah! Monseigneur, ce maudit fils unique,
+      Â»HÃ©las! je suis ici pour l'avoir fait.Â»
+
+
+LES SOULIERS
+
+CONTE
+
+    De tous ses amoureux, Babet, dans son printemps,
+    Exigeoit, pour le prix de ses faveurs secrÃ¨tes,
+    Deux paires de souliers: aujourd'hui les grisettes
+    Rougiroient d'accepter de si minces prÃ©sents.
+    Babet s'en contentoit, souliers alloient pleuvants.
+    L'or, quand on est jolie, est fugace, il va vite:
+    On le gagne aisÃ©ment, on le mÃ©nage peu;
+    Babet l'avoit senti; souliers restoient au gÃ®te,
+    Ils devenoient ressource. On conÃ§oit qu'Ã  ce jeu
+        Fallut bientÃ´t Ã  la commÃ¨re,
+    Pour loger les souliers, une maison entiÃ¨re.
+    Le cuir haussa de prix: le Prince le taxa,
+    Mainte bourse s'emplit, maint fermier s'engraissa;
+        Tel est chez nous le train des choses,
+    Toujours les grands effets ont de petites causes.
+        Babet vieillit, le cuir baissa;
+        Adieu vous dit joli visage,
+        Taille fine, Ã©lÃ©gant corsage,
+        Enfin adieu tous ses appas!
+    L'Ã¢ge a beau nous rider, il ne nous change pas.
+    On se travaille en vain, le goÃ»t reste le mÃªme.
+        Celui de Babet pour l'amour,
+    Bien loin de s'affoiblir, avoit crÃ» chaque jour.
+        Que faire en ce besoin extrÃªme?
+    Le temps de but Ã  but Ã©toit plus que passÃ©,
+    Il fallut des souliers implorer l'assistance:
+        GrÃ¢ce Ã  sa sage prÃ©voyance,
+    L'Amant venu nus pieds, s'en retournait chaussÃ©;
+    Elle habilla par bas les deux tiers de Florence.
+    Sur quoi certain voisin, d'elle un jour s'enquÃ©rant
+    De ce tas de souliers qu'elle alloit rÃ©pandant,
+    Babet que le mÃ©tier n'avait point rendu fausse,
+    Lui dit:--Â«Mon cher ami, l'hiver vit de l'Ã©tÃ©.
+    Â»Je rends Ã  mes Amants ce qu'ils m'avoient prÃªtÃ©:
+        Â»Je les dÃ©chaussois, je les chausse.Â»
+
+
+QUI PERD GAGNE
+
+CONTE
+
+        Â«Jeanne, va fermer la targette,Â»
+    Disoit, en s'endormant, Lucas Ã  sa moitiÃ©.
+        --Â«Vas-y, toi,Â» rÃ©pondit Jeannette;
+        Â«L'homme est fait pour Ãªtre sur piÃ©,
+    Â»La femme pour dormir.--Que je sois estropiÃ©
+    Â»Si j'y vais!Â» dit Lucas.--Â«Que le Diable m'emporte
+    Â»Si j'y vais!Â» dit Jeannette.--Â«On ouvrira la porte.
+        Â»--Je m'en gausse.--Et moi je m'en ris.
+    Â»J'encague les voleurs, je n'ai pas une obole.
+        Â»--Et si l'on te prend tes habits?
+    Â»--Je resterai couchÃ©, c'est ce qui me console.
+    Â»--Oh Ã§Ã ! tiens, mon mari, convenons entre nous:
+    Â»Celui qui lÃ¢chera la premiÃ¨re parole
+    Â»Ira verrouiller l'huis.--Tope,Â» reprit l'Ã©poux,
+    Â«Je suis muet, bonsoir!--Moi, j'ai la langue morte!Â»
+    Pendant que nos Ã©poux disputoient de la sorte,
+    AuprÃ¨s de leur logis certain Carme passoit;
+        Le vent Ã©teignit sa bougie.
+    Comme au travers de l'huis leur lampe paraissoit,
+        Mon gaillard, disciple d'Ãlie,
+    Frappe; on ne rÃ©pond point. Il baisse le loquet:
+    --Â«Pardon! de votre somme, amis, je vous dÃ©range;
+    Â»Mais mon abord cÃ©ans ne doit vous alarmer:
+    Â»Ma bougie est Ã©teinte, et je viens l'allumer.Â»
+    Mot. Â«HolÃ !Â» dit le Moine, Ã  cet accueil Ã©trange;
+        Â«M'entendez-vous, mes bonnes gens?
+    Â»Je n'ai, je le rÃ©pÃ¨te, aucuns desseins mÃ©chants.Â»
+    Mot encore. Il s'avance; il voit deux grosses faces,
+    Qui, les yeux bien ouverts, rioient entre leurs dents.
+        Jeanne comptoit au plus vingt ans:
+        Le Frocard lui trouva des grÃ¢ces.
+    Son visage, ses traits, lui semblÃ¨rent piquants:
+    On est Ã  peu de frais aimable aux yeux d'un Moine;
+    Il n'est belle ou laidron, qui ne lui soit idoine.
+        Le Carme, encor qu'il fÃ»t perplex,
+    Jugeant que ce silence Ã©toit une gageure,
+    RÃ©solut in petto de pousser l'aventure.
+    Un teton paroissoit, il y porte l'index:
+    Le mari reste coi, la femme se rÃ©signe.
+        RÃ©duit Ã  pÃ©rorer par signe,
+        Le grivois parla puissamment.
+        Or, voilÃ , je ne sais comment,
+    Que d'abord prÃ¨s du lit, le Jean-chouart du FrÃ¨re
+    TÃ´t aprÃ¨s fut dedans: oh! jugez de la chÃ¨re!
+        Lucas voyoit et souffroit tout.
+        Plus discrÃ¨te qu'on ne peut dire,
+    Jeanne, bien qu'on poussÃ¢t sa patience Ã  bout,
+        N'eÃ»t pas parlÃ© pour un Empire.
+    Le moine se montra digne enfant du Carmel,
+        Fort affamÃ©, peu sensuel.
+    Le temps vient de partir, mon gaillard fit retraite.
+    Il n'Ã©toit pas sorti, que la dame Jeannette
+        Chanta goguette Ã  son Ã©poux:
+    Â«Voyez ce gueux,Â» dit-elle, en feignant du courroux,
+    Â«De me laisser manquer de semblable maniÃ¨re!
+    Â»Et par un Moine encor! je suis d'une colÃ¨re!...
+    Â»Va, je me vengerai, je te le garantis.
+    Â»--Femme,Â» rÃ©pond Lucas, Â«allez verrouiller l'huis:
+        Â»Vous avez parlÃ© la premiÃ¨re!Â»
+
+
+IN-PROMPTU
+
+PARODIE D'UN COUPLET DES AMOURS D'ÃTÃ
+
+Sur l'air: _En plein, plan._
+
+        Qu'une vÃ©role est amÃ¨re,
+        Et q'c'est mÃ©chante affaire!
+        Je l'ai bien pour mes six francs,
+            En plein, plan,
+        Rlan, tan, plan, tirelire,
+              Lan, plan.
+        Il y a des bien honnÃªt's gens,
+        Qu'en ont une plus chÃ¨re.
+
+
+L'EXCUSE INGÃNIEUSE
+
+    Dans un endroit obscur, trouvant une Duchesse,
+    Un jeune Mousquetaire osa porter la main
+        Sous le jupon de son Altesse.
+        Elle jette un cri, c'est en vain:
+      Mon Ã©tourdi, qu'un vif aiguillon presse,
+        Jusques au bout allant son train,
+        Claquoit et reclaquoit sans cesse.
+        Â«Finirez-vous donc, libertin?
+    Â»A moi quelqu'un! la Fleur, Champagne, la Jeunesse!Â»
+    Ces Messieurs, qui buvoient au Cabaret voisin,
+      N'entendoient pas la voix de leur MaÃ®tresse.
+      Mon polisson lÃ¢che prise Ã  la fin.
+      --Â«Ah! malheureux, tu payeras demain
+      Â»Ce trait d'audace et de scÃ©lÃ©ratesse:
+        Â»Crois que ton trÃ©pas est certain!
+        Â»--Pardonnez un moment d'ivresse,Â»
+    Reprit le Mousquetaire avec un air serein;
+        Â«J'ai fait sans doute une sottise,
+        Â»Et vous m'en voyez confondu:
+        Â»Que voulez-vous que je vous dise?
+        Â»Las! je suis un homme foutu,
+    Â»Si vous avez le coeur aussi dur que le cu!Â»
+
+
+L'OBSERVATEUR EN SECOND
+
+OU L'ART D'AIMER
+
+    J'ai vu dans les Ãcrits d'un grand Observateur,
+    Ãmule d'Hamilton et PoÃ«te des GrÃ¢ces,
+    Le vÃ©ritable sens que l'on donne au mot _coeur_.
+    En admirant B... j'ai marchÃ© sur ses traces.
+        Or, Ã©coutez, ami Lecteur,
+    Et vous saurez de moi ce qu'il vous faut entendre
+    Alors que la beautÃ© qui vous a su charmer
+      Vous avoÃ»ra d'une voix douce et tendre,
+        Qu'elle vous permet de l'aimer.
+    _Aimer_ n'est pas un mot de sens tout Ã  fait vide:
+    AnacrÃ©on, Properce et le galant Ovide
+    EmployÃ¨rent souvent ce mot-lÃ  comme il faut.
+      Devinez donc ce que pense une Dame
+      Dont les attraits sont par l'Ã¢ge effacÃ©s,
+    Quand elle vient se plaindre, en nous vantant sa flamme,
+    Que Monsieur son Ã©poux ne l'aime point assez?
+    Qu'une fille me plaÃ®t, qu'elle est intÃ©ressante,
+    Quand le besoin d'aimer en secret la tourmente!
+    Comme elle je ressens ce besoin, ces ardeurs;
+    Pourquoi ne pas unir nos besoins et nos coeurs?
+    Elle diroit bientÃ´t, d'une voix expirante:
+    Ah! quand on aime bien, qu'on goÃ»te de douceurs!
+    Mais n'aime pas qui veut, c'est lÃ  ce qui me fÃ¢che!
+    TantÃ´t bien, tantÃ´t mal, on remplit cette tÃ¢che:
+    J'en vois mÃªme plusieurs, que je saurois nommer,
+    Qui, malgrÃ© leurs efforts, ne peuvent plus aimer.
+
+    MÃ©lidore adoroit (on verra par la suite
+    Qu'ici tout autre mot ne peut Ãªtre adoptÃ©),
+        Adoroit donc une beautÃ©
+        Dans l'art d'aimer assez instruite;
+        Notre amant jeune et sans dÃ©tour,
+        Dans cet art charmant vrai novice,
+    Depuis plus de six mois qu'il Ã©toit au supplice,
+    N'avoit encore osÃ© dÃ©clarer son amour.
+    Aux pieds de Lise enfin il se jette un beau jour,
+        Et pour lui peindre son martyre,
+    Pousse de grands HÃ©las! verse des pleurs, soupire,
+        Veut lui parler et reste court.
+    L'amante, en le voyant, pensa crever de rire,
+    Et sans prendre pitiÃ© du trouble qu'elle inspire,
+    De l'amant Ã  ses pieds, ni de son embarras,
+    Lui rÃ©pond froidement:--Â«Non, vous ne m'aimez pas.
+    Â»--Je ne vous aime pas?... L'amour le plus sincÃ¨re
+    Â»N'est-il donc Ã  vos yeux qu'une vaine chimÃ¨re?
+    Â»Quand je brÃ»le d'un feu qui ne peut s'exprimer,
+    Â»Quand tout mon sang pour vous...--Ce n'est pas lÃ  m'aimer,
+        Â»Et moi, je prÃ©tends que l'on m'aime.
+    Â»--Je vous l'ai dÃ©jÃ  dit, ma tendresse est extrÃªme;
+    Â»Votre volontÃ© seule est ma suprÃªme loi;
+    Â»De grÃ¢ce, commandez.--Eh bien donc, aimez-moi!Â»
+    DÃ©sespÃ©rÃ©, confus, notre amant se retire;
+    D'abord il veut se pendre, et puis il rÃ©flÃ©chit
+    Que ce seroit tomber d'un malheur dans un pire.
+        Ensuite il cherche en son esprit
+    Le sens de chaque mot, et ce qu'ÃglÃ© veut dire?
+        L'Amour enfin daigne l'instruire:
+    Avec un si grand MaÃ®tre une leÃ§on suffit.
+    Quelques jours Ã©coulÃ©s, il vole chez sa Dame,
+    Plein d'espoir et surtout bien rÃ©solu dans l'Ã¢me,
+    De mettre, s'il se peut, la leÃ§on Ã  profit.
+    Il entre... Il la voit seule... Il prend un peu d'audace...
+    Et fit... ce que j'aurois voulu faire Ã  sa place.
+        Pendant les amoureux Ã©bats,
+        L'Amant disoit Ã  sa MaÃ®tresse:
+    Â«Peux-tu te plaindre encor que je ne t'aime pas?
+        Â»Peux-tu douter de ma tendresse?Â»
+    La belle lui repart:--Â«Non, le fait est certain,
+    Â»Tu m'aimes maintenant, j'en ai la preuve en main.Â»
+
+
+ÃPIGRAMME CONTRE UN SOT POLITIQUE
+
+        Des Gazettes de la Tamise,
+        Quand tu saurois le rÃ©sultat,
+    Faudroit-il te vanter d'Ãªtre, comme un MoÃ¯se,
+    Savant dans le mÃ©tier que fait un Potentat?
+    Ta femme me l'a dit: ta sottise est sans bornes,
+    Et si tu ressemblois Ã  cet homme d'Ãtat,
+        Ce ne seroit que par les cornes.
+
+
+LE CURÃ COMPLAISANT
+
+        Â«Lisez tout bas ce guide-Ã¢ne,
+        Â»Monsieur, vous m'Ã©pouvantez;
+        Â»Ah! quels grands mots! LibertÃ©s...
+        Â»De l'Ãglise Gallicane!
+        Â»Comment! je crois, Dieu me damne!
+        Â»Que je les ai rÃ©pÃ©tÃ©s.
+        Â»--Venez sur cette Ottomane,
+        Â»Prendre place Ã  mes cÃ´tÃ©s.
+        Â»Or, maintenant, Ã©coutez:
+        Â»Levez ce jupon de panne,
+        Â»Et sur le dos vous mettez;
+        Â»Les deux cuisses Ã©cartez:
+        Â»Moi, j'entr'ouvre ma soutane...
+        Â»--Je crois que vous me foutez?
+        Â»--Non, c'est pour vous montrer, Jeanne,
+        Â»Ce qu'on nomme LibertÃ©s
+        Â»De l'Ãglise Gallicane.Â»
+
+
+ÃPIGRAMME
+
+    Un auteur, dont le nom passera d'Ã¢ge en Ã¢ge,
+        Montrant un jour son fils, disoit:
+        Â«VoilÃ  mon plus mauvais ouvrage.
+    Â»--Monsieur,Â» reprit Damon, caustique personnage,
+        Â«Est-il sÃ»r que vous l'ayez fait?Â»
+
+
+LA QUESTION RÃSOLUE
+
+        Trois rivaux voyant leur maÃ®tresse
+        Que l'on vient de blesser au sein,
+        AussitÃ´t l'un tombe en faiblesse;
+        L'autre court aprÃ¨s l'assassin;
+        Le troisiÃ¨me bande la plaie.
+        Par ce moyen chacun essaie
+        De montrer qui l'aime le mieux.
+        Si mon avis on me demande,
+        Je rÃ©pondrois qu'il saute aux yeux:
+        Car je suis pour celui qui bande.
+
+
+LE FAGOT
+
+CONTE
+
+    Deux nouveaux mariÃ©s font le sujet du conte.
+        Tous deux, jeunes, s'aimoient tous deux;
+        Mais un dÃ©bat s'Ã©mut entre eux.
+        Il Ã©toit vif, elle Ã©toit prompte.
+    Un semblable dÃ©bat fut autrefois, dit-on,
+        Entre Jupiter et Junon:
+        Mais Junon de dÃ©pit saisie
+        Ne tarda guÃ¨re Ã  se venger
+        Du jugement de TirÃ©sie.
+        Une femme, pour bien juger,
+        Veut qu'on juge Ã  sa fantaisie.
+    Nos deux jeunes Ã©poux Ã©toient donc courroucÃ©s,
+    De quoi? D'Ãªtre trop peu la nuit en paix laissÃ©s,
+        De dormir trop peu l'un et l'autre:
+        Â«Est-ce ma faute?--C'est la vÃ´tre.
+        Â»--N'est-ce pas vous qui me pincez?
+        Â»--N'est-ce pas vous qui m'agacez?Â»
+    Telle Ã©toit chaque jour leur plainte mutuelle;
+    Mais ils n'avoient qu'un lit, ce n'Ã©toit pas assez
+        Pour mettre fin Ã  leur querelle.
+        --Â«Eh bien! pour vous montrer,Â» dit-elle,
+        Â»Que je ne veux vous dire mot,
+        Â»Mettons entre nous un fagot.Â»
+    LÃ -dessus la nuit vient, sÃ¨me le ciel d'Ã©toiles,
+    Et couvre l'univers de ses plus sombres voiles;
+    Tout invite au sommeil, et le fagot se met
+    Pour garant du repos que chacun se promet.
+    Le couple conjugal dormit comme une souche.
+    Mais quand de tous ses sens l'usage suspendu
+    AprÃ¨s un long sommeil lui fut enfin rendu,
+    L'Ã©pouse, vers l'Ã©poux nonchalamment tournÃ©e,
+      Lui dit: Â«Au moins vous ne vous plaindrez pas
+    Â»Que de votre repos je ne fais point de cas.
+    Â»--Et moi,Â» rÃ©pond l'Ã©poux, Â«vous ai-je importunÃ©e?Â»
+    A la seconde nuit, c'est Ã  recommencer.
+        Le fagot revient se placer.
+        Â«Bonsoir, mon coeur.--Bonsoir, m'amie.Â»
+        Au milieu de la nuit pourtant
+        L'Ã©pouse assez mal endormie,
+        Se tourne et se retourne tant,
+    Que le fagot la pique, et qu'elle se rÃ©crie:
+    Â«Peste soit du fagot, et de qui l'a plantÃ©!Â»
+    L'Ã©poux, que le fagot n'avoit pas bien traitÃ©,
+        --Â«Qu'avez-vous,Â» dit-il, Â«je vous prie,
+        Â»A tant pousser de mon cÃ´tÃ©?
+    Â»Le fagot, grÃ¢ce Ã  vous, m'a fort mal ajustÃ©.
+    Â»--Mon Dieu!Â» cria l'Ã©pouse, alors toute attendrie,
+    Â«Que je voie...Â» et pour voir le fagot fut Ã´tÃ©.
+    Mais elle ne vit rien qu'une certaine Ã©pine...
+    Lors prenant et serrant son Ã©poux dans ses bras:
+        --Â«Mon ami,Â» lui dit la coquine,
+    Â«Pour te venger, au lieu de me faire la mine,
+        Â»Pique-moi tant que tu pourras!Â»
+
+
+LA DEMANDE SINGULIÃRE
+
+      Au temps prescrit par notre mÃ¨re Ãglise,
+      Chez son Ã©vÃªque un jeune rustre alla;
+      Puis il lui dit: Â«Monseigneur, me voilÃ ;
+      Â»J'ai nom Jacquot, baillez-moi la prÃªtrise.Â»
+      Le PrÃ©lat rit et lui rÃ©pond:--Â«Nigaud,
+      Â»Crois-tu mener si vite cette affaire?
+      Â»Va, mon enfant, pour Ãªtre prÃªtre, il faut
+      Â»Qu'un homme ait fait trois ans de SÃ©minaire.Â»
+      Jacquot repart:--Â«Je le sais, mais aussi
+      Â»Informez-vous de tout notre village:
+      Â»Mon pÃ¨re Ã©toit vicaire, et, Dieu merci!
+      Â»Tout fils de maÃ®tre est franc d'apprentissage.Â»
+
+
+L'AVOCAT RAISONNABLE
+
+Un Avocat, revenant dans son logis aprÃ¨s deux ans d'absence, y retrouva
+un gros garÃ§on qu'il ne croyoit pas avoir laissÃ©; au lieu de s'emporter
+contre sa femme, il fit l'in-promptu suivant:
+
+IN-PROMPTU
+
+Air: _Du Vaudeville de la RosiÃ¨re._
+
+        Sur cet article dÃ©licat,
+        Un autre courroit au grimoire;
+        Mais moi, comme un franc Avocat,
+        C'est la loi que je veux en croire;
+        Or si je consulte la Loi,
+        L'enfant de ma femme est Ã  moi.
+
+        Je sais bien qu'avant mon dÃ©part,
+        Madame Ã©coutoit les fleurettes,
+        Et qu'elle avoit sa bonne part
+        Du foible qu'on donne aux coquettes;
+        Mais si je consulte la Loi,
+        L'enfant de ma femme est Ã  moi.
+
+        Plus je regarde le poupon,
+        Moins je trouve qu'il me ressemble:
+        Il a la bouche de Cliton,
+        Ses yeux, son nez: aye! aye! je tremble;
+        Mais si je consulte la Loi,
+        L'enfant de ma femme est Ã  moi.
+
+        Sur un doute pareil au mien,
+        Rondon plaida sa mÃ©nagÃ¨re,
+        A cela que gagna-t-il? Rien.
+        Le juge dit au pauvre hÃ¨re:
+        Â«Va-t'en donc consulter la Loi,
+        Â»L'enfant de ta femme est Ã  toi.Â»
+
+        Tous les jours, j'en suis convaincu,
+        Le plus galant homme peut Ãªtre
+        Ce que l'on appelle cocu;
+        Mais, sans chercher Ã  le paroÃ®tre,
+        Il dit: Â«N'Ã©coutons que la Loi,
+        Â»L'enfant de ma femme est Ã  moi.Â»
+
+
+COUPLET A MADEMOISELLE ***
+
+Air: _Du Vaudeville d'Epicure._
+
+        C'est peu d'Ãªtre jeune et jolie:
+        Sans l'amour, que sert la beautÃ©?
+        Pour Ãªtre une fille accomplie,
+        Il faut un peu de voluptÃ©.
+        Victoire, soyez moins sÃ©vÃ¨re,
+        Le plaisir n'est que dans vos yeux:
+        Si vous voulez me laisser faire,
+        Je le logerai beaucoup mieux.
+
+
+L'ÃPOUSE NAÃVE
+
+        Blaise aimoit certaine donzelle.
+      Il l'Ã©pousa. DÃ¨s la premiÃ¨re nuit,
+        En la caressant, il lui dit:
+    Â«J'ai peur que nos plaisirs dans quelque temps, ma belle,
+        Â»Ne te causent bien du tourment...
+    Â»--Ne crains rien,Â» lui rÃ©pond la naÃ¯ve femelle;
+        Â«Blaise, j'accouche heureusement.Â»
+
+
+FIN
+
+
+
+
+TABLE
+
+
+  Avis de l'Ãditeur                                    V
+
+  A ma CommÃ¨re                                         1
+
+  La Femme sans chose                                  5
+  La Croyance fondÃ©e                                  12
+  La DÃ©claration militaire                            13
+  La RÃ©ponse sensÃ©e                                   15
+  La Plainte injuste                                  16
+  Badinage in-promptu                                 17
+  La Belle accommodante                               17
+  In-promptu                                          18
+  Couplet                                             18
+  Bouquet Ã  Mademoiselle ***                          19
+  La Rage d'amour                                     19
+  Le PrÃ©tendu malin                                   20
+  La Gageure                                          21
+  Le Paiement d'avance                                21
+  Impromptu                                           24
+  La Calomnie foudroyÃ©e                               24
+  La Fente                                            25
+  Le Repentir sincÃ¨re                                 27
+  L'Armure de VÃ©nus                                   27
+  A ma MaÃ®tresse                                      28
+  Les DÃ©solations et les Consolations, vaudeville     28
+  ÃlÃ©gie                                              29
+  Ãpigramme                                           30
+  Le Triomphe de la Marotte                           31
+  Les Cinq points                                     37
+  L'Un pour l'autre                                   37
+  La PrÃ©sence d'esprit                                38
+  La DÃ©fense bien observÃ©e, chanson                   39
+  Le DÃ©gel                                            40
+  Histoire vÃ©ritable, etc., d'un AbbÃ© qui             41
+  L'ExpÃ©dient facile                                  43
+  On fait ce qu'on peut                               44
+  Le Qui pro Quo, ou Colin-Maillard                   44
+  L'Inoculation, conte                                46
+  La Muette, chanson                                  47
+  L'Obstacle, conte                                   49
+  Le Tribut conjugal                                  51
+  Le Conseil inutile                                  52
+  La Confidence                                       53
+  Le Chapelain, chanson                               54
+  Le Marchand de loto                                 55
+  Le Lendemain des noces                              58
+  Le Confesseur exemplaire                            59
+  L'Esprit fort                                       60
+  Couplet                                             62
+  Ãpigramme                                           63
+  Le Cas dÃ©cidÃ©                                       63
+  Le Faux Jupiter                                     64
+  Le Sommeil de VÃ©nus                                 69
+  Quatrain Ã  Madame ***                               71
+  L'Enthousiasme Gascon                               72
+  Le Cri du coeur                                     72
+  La BÃ©nÃ©diction trop chÃ¨re, oÃ¹ le conseil d'Alix     73
+  ÃpÃ®tre consolante Ã  un cocu                         75
+  L'Avocat poussÃ© Ã  bout                              77
+  Le DÃ©luge                                           80
+  _Ãgri salivantis solatium_                          81
+  Dialogue entre deux servantes                       81
+  Le Salamalec Lyonnois                               82
+  La ColÃ¨re naÃ¯ve                                     85
+  Partant quitte                                      86
+  Le fin Menteur                                      87
+  Le Pardon                                           87
+  Le Mensonge Ã©vident                                 88
+  La MÃ©tamorphose                                     89
+  Le Maladroit                                        90
+  Le Plaisir sans remords                             91
+  Les deux ClystÃ¨res                                  92
+  Le double Aveu                                      92
+  Les Souliers                                        95
+  Qui perd gagne                                      95
+  In-promptu--Parodie d'un couplet des Amours d'Ã©tÃ©   97
+  L'Excuse ingÃ©nieuse                                 98
+  L'Observateur en second, ou l'Art d'aimer           99
+  Ãpigramme contre un sot politique                  102
+  Le CurÃ© complaisant                                102
+  Ãpigramme                                          103
+  La Question rÃ©solue                                104
+  Le Fagot                                           104
+  La Demande singuliÃ¨re                              106
+  L'Avocat raisonnable                               107
+  Couplet Ã  Mademoiselle ***                         109
+  L'Ãpouse naÃ¯ve                                     109
+
+
+
+
+  IMPRIMÃ
+  PAR
+  CHARLES UNSINGER
+  83, Rue du Bac
+  PARIS
+
+
+
+
+ISIDORE LISEUX, LIBRAIRE-ÃDITEUR
+
+Quai Malaquais, nÂº 5.
+
+
+ÃDITIONS RÃSERVÃES
+
+Sous cette dÃ©signation gÃ©nÃ©rale, nous avons l'intention de faire
+paraÃ®tre une sÃ©rie de volumes curieux de divers formats, imprimÃ©s Ã  un
+trÃ¨s petit nombre d'exemplaires et non destinÃ©s au commerce de la
+NouveautÃ©. Le _Petit-Neveu de GrÃ©court_ est le premier de cette sÃ©rie.
+
+Les couvertures ne porteront aucune indication de prix.
+
+Le prix net de souscription pour Amateurs ou Libraires, indistinctement,
+sera communiquÃ© par avis individuel. Les Amateurs qui souscriront par
+l'entremise des Libraires, s'entendront avec eux pour la commission Ã 
+leur payer en sus du prix net.
+
+AussitÃ´t parus, les volumes entreront de plain-pied dans la Librairie
+ancienne, et le prix originaire de souscription ne pourra plus Ãªtre
+donnÃ© qu'Ã  titre de simple renseignement.
+
+_Envoi franco recommandÃ© contre Mandat ou ChÃ¨que._
+
+
+Paris.--Typ CH. UNSINGER, 83, rue du Bac.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Le petit-neveu de GrÃ©court ou Ãtrennes
+gaillardes, by Anonymous
+
+*** END OF THE PROJECT GUTENBERG EBOOK 60896 ***

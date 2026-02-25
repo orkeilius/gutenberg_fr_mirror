@@ -1,3 +1,4401 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74547e9d275a2dbe47956aa30ad818357304f6b685a2a5b2e628ba4adc571a00
-size 194489
+The Project Gutenberg EBook of Mesure pour mesure, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Mesure pour mesure
+
+Author: William Shakespeare
+
+Translator: Fran�ois Pierre Guillaume Guizot
+
+Release Date: April 14, 2006 [EBook #18169]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MESURE POUR MESURE ***
+
+
+
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica))
+
+
+
+
+
+
+  Note du transcripteur.
+
+      ===========================================================
+      Ce document est tir� de:
+
+
+      OEUVRES COMPL�TES DE
+      SHAKSPEARE
+
+      TRADUCTION DE
+      M. GUIZOT
+
+      NOUVELLE �DITION ENTI�REMENT REVUE
+      AVEC UNE �TUDE SUR SHAKSPEARE
+      DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+      Volume 4
+
+      Mesure pour mesure.--Othello.--Comme il vous plaira.
+      Le conte d'hiver.--Tro�lus et Cressida.
+
+      PARIS
+      A LA LIBRAIRIE ACAD�MIQUE
+      DIDIER ET Cie, LIBRAIRES-�DITEURS
+      35, QUAI DES AUGUSTINS
+      1863
+
+
+      ==========================================================
+
+
+
+                         MESURE POUR MESURE
+
+                              COM�DIE
+
+
+
+                               NOTICE
+                       SUR MESURE POUR MESURE
+
+
+Cette pi�ce d�montre que le g�nie cr�ateur de Shakspeare pouvait
+f�conder le germe le plus st�rile. Une ancienne pi�ce dramatique, d'un
+certain Georges Whestone, intitul�e _Promas et Cassandra_, composition
+pitoyable, est devenue une de ses meilleures com�dies. Peut-�tre
+n'a-t-il m�me pas fait l'honneur � Whestone de profiter de son travail;
+car une nouvelle de Geraldi Cinthio contient � peu pr�s tous les
+�v�nements de _Mesure pour mesure_ et Shakspeare n'avait besoin que
+d'une id�e premi�re pour construire sa fable et la mettre en action.
+Dans la nouvelle de Cinthio, et dans la pi�ce de Whestone, le juge
+pr�varicateur vient � bout de ses desseins sur la soeur qui demande la
+gr�ce de son fr�re. Condamn� par le prince � �tre puni de mort, apr�s
+avoir �pous� la jeune fille qu'il a outrag�e, il obtient sa gr�ce par
+les pri�res de celle qui oublie sa vengeance d�s que le coupable est
+devenu son �poux.
+
+L'�pisode de Marianne a �t� heureusement invent� par Shakspeare pour
+mieux r�compenser la chaste Isabelle. Un critique moderne ne voit qu'une
+froide vertu dans la conduite de cette jeune novice: il l'e�t pr�f�r�e
+plus touch�e du sort de son fr�re, et pr�te � faire le sacrifice
+d'elle-m�me. La sc�ne touchante o� Isabelle implore Angelo, son
+h�sitation quand il s'agit de sauver son fr�re aux d�pens de son honneur
+suffisent pour l'absoudre du reproche d'indiff�rence. Il ne faut pas
+oublier qu'�lev�e dans un clo�tre elle doit avoir horreur de tout ce qui
+pouvait souiller son corps qu'elle est accoutum�e � consid�rer comme un
+vase d'�lection; d'ailleurs une vertu absolue a aussi sa noblesse, et si
+elle est moins dramatique que la passion, elle am�ne ici cette sc�ne si
+vraie o� Claudio, apr�s avoir �cout� avec r�signation le sermon du moine
+et se croyant d�tach� de la vie, retrouve, � la moindre lueur d'espoir,
+cet instinct ins�parable de l'humanit� qui nous fait embrasser avec
+ardeur tout ce qui peut reculer l'instant de la mort. Par quel heureux
+contraste Shakspeare a plac� � c�t� de Claudio ce Bernardino, abruti par
+l'intemp�rance, auquel m�me il ne reste plus cet instinct conservateur
+de l'existence!
+
+Le prince, qui veut �tre la Providence myst�rieuse de ses sujets, est un
+de ces r�les qui produisent toujours de l'effet au th��tre. Il
+soutient avec un art infini son d�guisement, et il est remarquable que
+Shakspeare, po�te d'une cour protestante, ait pr�t� tant de noblesse et
+de dignit� au costume monastique. C'est une remarque qui n'a pas �chapp�
+� Schlegel au sujet du v�n�rable religieux que nous avons d�j� vu dans
+la com�die de _Beaucoup de bruit pour rien_. Mais le philosophe se
+trahit sous le capuchon qui le cache dans l'exhortation sur la vie et
+le n�ant adress�e par le duc � Claudio. Cette tirade contient quelques
+boutades de misanthropie qui ont sans doute �t� mises � profit par
+l'auteur des _Nuits_.
+
+En g�n�ral, le d�faut de cette pi�ce est de ne pas exciter de sympathie
+bien vive pour aucun des personnages. Les caract�res odieux n'ont
+pas une couleur tr�s-prononc�e, quand on les compare � tant d'autres
+cr�ations profondes de Shakspeare. Mais l'intrigue occupe constamment
+la curiosit�, on doit y admirer une foule de pens�es po�tiquement
+exprim�es, et plusieurs sc�nes excellentes. L'unit� d'action et de lieu
+y est assez bien conserv�e.
+
+_Mesure pour mesure_, selon Malone, fut compos�e en 1603.
+
+
+
+
+PERSONNAGES
+
+  VINCENTIO, duc de Vienne.
+  ANGELO, ministre d'�tat en l'absence du duc.
+  ESCALUS, vieux seigneur, coll�gue d'Angelo dans l'administration.
+  CLAUDIO, jeune seigneur.
+  LUCIO, jeune homme �tourdi et libertin.
+  DEUX GENTILSHOMMES.
+  VARRIUS[1], courtisan de la suite du duc.
+  LE PR�V�T DE LA PRISON.
+  THOMAS,}
+  PIERRE,} religieux franciscains.
+  UN JUGE.
+  LE COUDE[2], officier de police.
+  L'�CUME[3], jeune fou.
+  UN PAYSAN BOUFFON, domestique de madame Overdone.
+  ABHORSON, bourreau.
+  BERNARDINO, prisonnier d�bauch�.
+  ISABELLE, soeur de Claudio.
+  MARIANNE, fianc�e � Angelo.
+  JULIETTE, ma�tresse de Claudio.
+  FRANCESCA, religieuse.
+  MADAME OVERDONE, entremetteuse.
+  Des Seigneurs, des Gentilshommes, des Gardes, des Officiers, etc.
+
+[Note 1: Varrius pouvait �tre omis, on lui adresse bien la parole, mais
+c'est un personnage muet.]
+
+[Note 2: _Elbow._]
+
+[Note 3: _Froth._]
+
+
+La sc�ne est � Vienne.
+
+
+
+
+                           ACTE PREMIER
+
+
+SC�NE I
+
+Appartement du palais du duc.
+
+
+LE DUC, ESCALUS, SEIGNEURS _et suite_.
+
+LE DUC.--Escalus!
+
+ESCALUS.--Seigneur!
+
+LE DUC.--Vouloir vous expliquer les principes de l'administration
+para�trait en moi une affectation vaine et discours inutiles, puisque
+je sais que vos propres connaissances dans l'art de gouverner surpassent
+tous les conseils et les instructions que pourrait vous donner mon
+exp�rience. Il ne me reste donc qu'un mot � vous dire: votre capacit�
+�galant votre vertu, laissez-les agir ensemble et de concert[4]. Le
+caract�re de notre population, les lois de notre cit�, les formes de
+la justice sont des mati�res que vous poss�dez � fond, autant qu'aucun
+homme instruit par l'art et la pratique que nous nous rappelions.
+Voil� notre commission, dont nous ne voudrions pas vous voir vous
+�carter.--(_A un domestique._) Allez dire � Angelo de se rendre
+ici.--Quelle opinion avez-vous de sa capacit� pour nous remplacer? Car
+vous savez que nous l'avons choisi avec un soin particulier pour nous
+repr�senter dans notre absence, que nous l'avons arm� de toute la
+puissance de notre autorit�, rev�tu de tout l'empire de notre amour, et
+que nous lui avons transmis enfin par sa commission tous les organes de
+notre pouvoir. Qu'en pensez-vous?
+
+[Note 4: Les commentateurs ont trouv� ici une lacune qu'ils n'ont pu
+remplir.]
+
+ESCALUS.--S'il est dans Vienne un homme digne d'�tre rev�tu d'un si
+grand honneur, et de si hautes fonctions, c'est le seigneur Angelo.
+
+(Entre Angelo.)
+
+LE DUC.--Le voil� qui vient.
+
+ANGELO.--Toujours soumis aux volont�s de Votre Altesse, je viens savoir
+vos ordres.
+
+LE DUC.--Angelo, votre vie pr�sente un certain caract�re o� l'oeil
+observateur peut lire � fond toute votre histoire. Votre personne et
+vos talents ne sont pas tellement votre propri�t� que vous puissiez vous
+consacrer enti�rement � vos vertus, et les consacrer � votre avantage
+personnel. Le ciel se sert de nous comme nous nous servons des torches:
+ce n'est pas pour elles-m�mes que nous les allumons; et si nos vertus
+restaient ensevelies dans notre sein, ce serait comme si nous ne les
+avions pas. La nature ne forme les �mes grandes que pour de grands
+desseins; jamais elle ne communique une parcelle de ses dons que comme
+une d�esse int�ress�e qui retient pour elle l'honneur d'un cr�ancier, en
+exigeant l'int�r�t et la reconnaissance. Mais j'adresse mes r�flexions
+� un homme qui peut trouver en lui-m�me toutes les instructions que
+ma place m'obligerait de lui donner. Tenez donc, Angelo. Pendant notre
+absence, soyez en tout comme nous-m�me. La vie et la mort dans Vienne
+reposent sur vos l�vres et dans votre coeur. Le respectable Escalus,
+quoique le premier nomm�, est votre subordonn�. Prenez votre commission.
+
+ANGELO.--Mon noble duc, attendez que le m�tal dont je suis fait ait subi
+une plus longue �preuve avant d'y imprimer une si noble et si auguste
+image.
+
+LE DUC.--Ne cherchez point de pr�textes: ce n'est qu'apr�s un choix
+bien m�r et bien r�fl�chi que nous vous avons nomm�: ainsi, acceptez les
+honneurs que je vous conf�re. Les motifs qui pressent notre d�part sont
+si imp�rieux qu'ils se placent au-dessus de toute autre consid�ration,
+et ne me laissent pas le temps de parler sur des objets importants. Nous
+vous �crirons, suivant l'occasion et nos affaires, comment nous nous
+trouverons; et nous comptons bien �tre au courant de ce qui vous
+arrivera ici. Adieu; je vous laisse tous deux avec confiance au soin de
+remplir les devoirs de vos fonctions.
+
+ANGELO.--Mais du moins, accordez-nous, seigneur, la permission de vous
+accompagner jusqu'� une certaine distance.
+
+LE DUC.--Je suis trop press� pour vous le permettre; et, sur mon
+honneur, vous n'avez pas besoin d'avoir de scrupule: ma puissance est
+la mesure de la v�tre; vous pouvez renforcer ou adoucir la rigueur des
+lois, selon que votre conscience le trouvera bon. Donnez-moi la main.
+Je veux partir secr�tement: j'aime mon peuple; mais je n'aime pas �
+me donner en spectacle � ses yeux. Quoique ses applaudissements
+soient flatteurs, je n'ai point de go�t pour le bruit et les saluts
+retentissants de la multitude; et je ne crois pas que le prince qui les
+recherche agisse avec prudence et... Encore une fois, adieu.
+
+ANGELO.--Que le ciel assure l'ex�cution de vos desseins!
+
+ESCALUS.--Qu'il conduise vos pas, et vous ram�ne heureux!
+
+LE DUC.--Je vous remercie, adieu.
+
+(Le duc sort.)
+
+ESCALUS, _� Angelo_.--Je vous prie, monsieur, de m'accorder une heure de
+libre entretien avec vous; il m'importe beaucoup d'approfondir tous les
+devoirs de ma place: j'ai re�u des pouvoirs, mais je ne suis pas encore
+bien au fait de leur �tendue et de leur nature.
+
+ANGELO.--Je suis dans le m�me cas.--Retirons-nous ensemble, et nous ne
+tarderons pas � nous satisfaire sur ce point.
+
+ESCALUS.--J'accompagne Votre Seigneurie.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+Une rue de Vienne.
+
+LUCIO et DEUX GENTILSHOMMES.
+
+
+LUCIO.--Si notre duc et les autres ducs n'entrent pas en accommodement
+avec le roi de Hongrie, eh bien alors! tous les ducs vont tomber sur le
+roi.
+
+PREMIER GENTILHOMME.--Le ciel veuille nous accorder la paix, mais non
+pas celle du roi de Hongrie!
+
+SECOND GENTILHOMME.--Amen!
+
+LUCIO.--Vous imitez l� ce d�vot pirate qui se mit en mer avec les dix
+commandements, mais qui en effa�a un de la table.
+
+SECOND GENTILHOMME.--_Tu ne voleras point?_
+
+LUCIO.--Oui: il effa�a celui-l�.
+
+PREMIER GENTILHOMME.--Aussi �tait-ce l� un commandement qui commandait
+au capitaine et � ses compagnons de renoncer � leurs fonctions: car ils
+ne s'embarquaient que pour voler. Il n'y a pas parmi nous tous un soldat
+qui, dans l'action de gr�ces avant le repas, go�te beaucoup la pri�re
+qui demande la paix.
+
+SECOND GENTILHOMME.--Jamais je n'ai entendu aucun soldat la
+d�sapprouver.
+
+LUCIO.--Je vous crois; car vous ne vous �tes jamais trouv�, je pense, l�
+o� on disait les gr�ces.
+
+SECOND GENTILHOMME.--Non, dites-vous? au moins une douzaine de fois.
+
+PREMIER GENTILHOMME.--Quoi donc? en vers?
+
+LUCIO.--Dans tous les rhythmes et dans toutes les langues?
+
+PREMIER GENTILHOMME.--Je le pense, et dans toutes les religions?
+
+LUCIO.--Oui. Pourquoi pas? Les gr�ces sont les gr�ces en d�pit de toute
+controverse; par exemple, vous �tes un mauvais sujet en d�pit de toute
+gr�ce.
+
+PREMIER GENTILHOMME.--Dans ce cas il n'y a eu qu'un coup de ciseaux
+entre nous.
+
+LUCIO.--Je l'accorde, comme entre le velours et la lisi�re; vous �tes la
+lisi�re.
+
+PREMIER GENTILHOMME.--Et vous le velours; un excellent velours, une
+pi�ce de premi�re qualit�. J'aimerais autant servir de lisi�re � une
+serge anglaise, que d'�tre r�p� comme vous l'�tes pour un velours
+fran�ais[5]. Est-ce que je parle sensiblement maintenant?
+
+[Note 5: �quivoque entre le mot _pil'd_, terme qui d�signe la qualit� du
+velours, et _pill'd_, qui signifie _�pil�, chauve_.]
+
+LUCIO.--Je crois que oui; et vous sentez p�niblement vos discours.
+J'apprendrai d'apr�s vos aveux � boire � votre sant�; mais ma vie durant
+j'oublierai de boire apr�s vous.
+
+PREMIER GENTILHOMME.--Je crois que je me suis fait tort, n'est-ce pas?
+
+SECOND GENTILHOMME.--Certainement, que tu sois pinc� ou non.
+
+LUCIO.--Ah! voil�, voil� madame la Douceur qui vient. J'ai achet� chez
+elle des maladies jusqu'� la somme de....
+
+SECOND GENTILHOMME.--Combien, je vous prie?
+
+PREMIER GENTILHOMME.--Devinez.
+
+SECOND GENTILHOMME.--Jusqu'� trois mille dollars par an.[6]
+
+[Note 6: _Dollars_ et _dolours_, �quivoque qui revient souvent dans
+Shakspeare.]
+
+PREMIER GENTILHOMME.--Et plus.
+
+LUCIO.--Une couronne fran�aise de plus.[7]
+
+[Note 7: Il feint de prendre le mot couronne de France, c'est-�-dire un
+�cu, pour la _couronne de V�nus_.]
+
+PREMIER GENTILHOMME.--Vous me croyez toujours des maladies; mais vous
+vous trompez: je suis sain.
+
+LUCIO.--Ce mot-l� ne veut pas dire �tre en sant� pour vous; mais vous
+�tes sain comme un tronc d'arbre creux, vos os sont creux. L'impi�t� a
+fait de vous sa proie.
+
+(Entre madame Overdone.)
+
+PREMIER GENTILHOMME.--Hol�! quelle est celle de vos hanches qui a la
+plus forte sciatique?
+
+MADAME OVERDONE.--Bien, bien, on vient d'arr�ter et de mettre en prison
+quelqu'un qui vaut cinq mille hommes comme vous.
+
+PREMIER GENTILHOMME.--Qui est-ce, je vous prie?
+
+MADAME OVERDONE.--H�! c'est Claudio, le seigneur Claudio.
+
+LUCIO.--Claudio en prison? Cela n'est pas.
+
+MADAME OVERDONE.--Et moi je sais que cela est; je l'ai vu arr�ter; je
+l'ai vu emmener; et il y a bien plus encore: c'est que d'ici � trois
+jours il doit avoir la t�te tranch�e.
+
+LUCIO.--Mais, apr�s tout ce badinage, je ne voudrais pas que cela f�t
+vrai: en �tes-vous bien s�re?
+
+MADAME OVERDONE.--Je n'en suis que trop s�re; et cela, c'est pour avoir
+donn� un enfant � mademoiselle Juliette.
+
+LUCIO.--Croyez-moi, cela pourrait bien �tre. Il m'avait promis de venir
+me joindre il y a deux heures, et il a toujours �t� exact � sa parole.
+
+SECOND GENTILHOMME.--D'ailleurs, vous savez que cela se rapproche assez
+de la conversation que nous avons eue sur pareil sujet.
+
+PREMIER GENTILHOMME.--Et surtout cela s'accorde avec l'ordonnance qu'on
+a publi�e.
+
+LUCIO.--Partons: allons savoir la v�rit� du fait.
+
+(Ils sortent.)
+
+MADAME OVERDONE, _seule_.--Ainsi, gr�ce � la guerre, � la sueur, au
+gibet, � la mis�re, je me trouve sans chalands. (_Entre le bouffon._) Eh
+bien, quelles nouvelles?
+
+LE BOUFFON--L�-bas, on emm�ne un homme en prison.
+
+MADAME OVERDONE.--Oui; et qu'a-t-il fait?
+
+LE BOUFFON.--Une femme.
+
+MADAME OVERDONE.--Mais quel est son d�lit?
+
+LE BOUFFON.--D'avoir �t� p�cher des truites dans la rivi�re d'autrui.
+
+MADAME OVERDONE.--Quoi! Y a-t-il une fille grosse de son fait?
+
+LE BOUFFON.--Non: mais il y a une fille qu'il a rendue femme. Vous
+n'avez pas entendu parler de l'ordonnance: n'est-ce pas?
+
+MADAME OVERDONE.--Quelle ordonnance, mon ami?
+
+LE BOUFFON.--Que toutes les maisons des faubourgs de Vienne seront
+jet�es bas.
+
+MADAME OVERDONE.--Et que deviendront celles de la cit�?
+
+LE BOUFFON.--Elles resteront pour graine: elles seraient tomb�es aussi,
+si un sage bourgeois n'avait plaid� en leur faveur.
+
+MADAME OVERDONE.--Mais toutes nos maisons de refuge dans les faubourgs
+seront-elles abattues?
+
+LE BOUFFON.--Jusqu'aux fondements, madame.
+
+MADAME OVERDONE.--Voil� vraiment un changement dans l'�tat! Que
+deviendrai-je?
+
+LE BOUFFON.--Allons, ne craignez rien; les bons procureurs ne manquent
+pas de clients. Quoique vous changiez de place, vous n'avez pas besoin
+pour cela de changer d'�tat; je serai toujours votre valet. Allons, du
+courage; on prendra piti� de vous; vous qui avez presque us� et perdu
+vos yeux au service, on vous prendra en consid�ration.
+
+MADAME OVERDONE.--Qu'avons-nous � faire ici? Thomas, retirons-nous.
+
+LE BOUFFON.--Voici le seigneur Claudio conduit en prison par le pr�v�t,
+et voici madame Juliette.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+_Entrent_ LE PR�V�T, CLAUDIO, JULIETTE _et des_ OFFICIERS DE JUSTICE,
+_puis_ LUCIO _et les_ DEUX GENTILSHOMMES.
+
+
+CLAUDIO, _au pr�v�t_.--Ami, pourquoi me donnes-tu ainsi en spectacle au
+public? Conduis-moi � la prison o� je dois �tre enferm�.
+
+LE PR�V�T.--Je ne le fais pas par mauvaise disposition pour vous, mais
+sur un ordre sp�cial du seigneur Angelo.
+
+CLAUDIO.--Ainsi, ce demi-dieu de la terre, l'autorit�, peut nous faire
+payer notre d�lit au poids[8]: tels sont les d�crets du ciel! Elle
+frappe qui elle veut, �pargne qui elle veut; et elle est toujours juste.
+
+[Note 8: M�taphore tir�e de l'usage de payer l'argent au poids, m�thode
+plus s�re que celle de la num�ration des esp�ces.]
+
+LUCIO.--Quoi donc, Claudio! D'o� vient cette contrainte?
+
+CLAUDIO.--De trop de libert�, mon Lucio, de trop de libert�; comme
+l'intemp�rance est la m�re du je�ne, de m�me une libert� dont on fait un
+usage immod�r� se change en contrainte. Comme les rats avalent avidement
+le poison qui les tue, nos penchants poursuivent le mal dont ils sont
+alt�r�s, et en buvant nous mourons.
+
+LUCIO.--Si je pouvais parler aussi sagement que toi dans les fers,
+j'enverrais chercher certains de mes cr�anciers; et cependant j'aime
+encore mieux �tre un faquin en libert�, qu'un philosophe en prison. Quel
+est ton crime, Claudio?
+
+CLAUDIO.--Ce serait le commettre encore que d'en parler.
+
+LUCIO.--Quoi, est-ce un meurtre?
+
+CLAUDIO.--Non.
+
+LUCIO.--Une d�bauche?
+
+CLAUDIO.--Si tu veux.
+
+LE PR�V�T.--Allons! monsieur, il faut marcher.
+
+CLAUDIO.--Encore un mot, mon ami.--(_Il prend Lucio � part._) Lucio, un
+mot � l'oreille.
+
+LUCIO.--Cent, s'ils peuvent te faire quelque bien.--Est-ce qu'on regarde
+de si pr�s � la d�bauche?
+
+CLAUDIO.--Voici ma position. D'apr�s un contrat s�rieux, j'ai acquis la
+possession du lit de Juliette. Vous la connaissez; elle est parfaitement
+ma femme, si ce n'est qu'il nous manque de l'avoir d�clar� par les
+c�r�monies ext�rieures. Nous n'en sommes point venus l�, uniquement dans
+la vue de conserver une dot, qui reste dans le coffre de ses parents,
+auxquels nous avons cru devoir cacher notre amour, jusqu'� ce que le
+temps les r�concilie avec nous. Mais le malheur veut que le secret de
+notre union mutuelle se lise en caract�res trop visibles sur la personne
+de Juliette.
+
+LUCIO.--Un enfant, peut-�tre?
+
+CLAUDIO.--H�las! oui, malheureusement; et le nouveau ministre qui
+remplace le duc... je ne sais si c'est la faute et l'�clat de la
+nouveaut�, ou si le corps de l'�tat ressemble � un cheval mont� par le
+gouverneur, qui, nouvellement en selle, et pour lui faire sentir son
+empire, lui fait sentir tout d'abord l'�peron; ou si la tyrannie est
+attach�e � la dignit�, ou bien � l'homme qui l'exerce... Je m'y perds...
+Mais ce nouveau gouverneur vient de r�veiller toutes les vieilles lois
+p�nales qui �taient rest�es suspendues � la muraille comme une armure
+rouill�e, depuis si longtemps que le zodiaque avait dix-neuf fois
+fait son tour, sans qu'aucune d'elles e�t �t� mise en ex�cution; et
+aujourd'hui, pour se faire un nom, il vient appliquer contre moi ces
+d�crets assoupis et si longtemps n�glig�s: s�rement c'est pour faire
+parler de lui.
+
+LUCIO.--Je garantirais que oui; et ta t�te tient si peu sur tes �paules,
+qu'une laiti�re amoureuse pourrait la faire tomber d'un soupir. Envoie
+apr�s le duc, et appelles-en � lui.
+
+CLAUDIO--Je l'ai d�j� fait; mais on ne peut le trouver.--Je t'en
+conjure, Lucio, rends-moi un service: aujourd'hui ma soeur doit entrer
+au couvent, et y commencer son noviciat. Fais-lui conna�tre le danger de
+ma position; implore-la en mon nom; prie-la d'employer des amis aupr�s
+du rigide ministre; dis-lui d'aller elle-m�me sonder son coeur. Je fonde
+l�-dessus de grandes esp�rances; car il est � son �ge un langage muet
+et touchant qui est fait pour �mouvoir les hommes: en outre, elle a un
+talent heureux quand elle veut employer les raisonnements et la parole,
+et elle sait persuader.
+
+LUCIO.--Je prie le ciel qu'elle y r�ussisse, autant pour le salut des
+autres coupables de ton esp�ce qui, sans cela, auraient � subir des
+peines rigoureuses, que pour te conserver la vie, que je serais bien
+f�ch� que tu perdisses si follement � un jeu de _tic tac_. Je vais la
+trouver.
+
+CLAUDIO.--Je te remercie, bon ami Lucio.
+
+LUCIO.--D'ici � deux heures...
+
+CLAUDIO.--Allons, pr�v�t, marchons.
+
+(Ils sortent.)
+
+
+SC�NE IV
+
+Un monast�re.
+
+Entrent LE DUC et LE MOINE THOMAS.
+
+
+LE DUC.--Non, v�n�rable religieux, �cartez cette id�e; ne croyez point
+que le faible trait de l'amour puisse percer un sein bien arm�. Le motif
+qui m'engage � vous demander un asile secret a un but plus grave et plus
+s�rieux que les projets et les entreprises de la bouillante jeunesse.
+
+LE MOINE.--Votre Altesse peut-elle s'expliquer?
+
+LE DUC.--Mon saint p�re, nul ne sait mieux que vous combien j'aimai
+toujours la vie retir�e, et combien peu je me soucie de fr�quenter les
+assembl�es que hantent la jeunesse, le luxe et la folle �l�gance.
+J'ai confi� au soigneur Angelo, homme d'une vertu rigide, et de moeurs
+aust�res, mon pouvoir absolu et mon autorit� dans Vienne, et il me croit
+voyageant en Pologne; car j'ai eu soin de faire r�pandre ce bruit dans
+le peuple, et c'est ce qu'on croit. A pr�sent, mon p�re, vous allez me
+demander pourquoi j'en agis ainsi?
+
+LE MOINE.--Volontiers, seigneur.
+
+LE DUC.--Nous avons des statuts rigoureux et des lois rigides (freins
+et mors n�cessaires pour des coursiers fougueux), que nous avons laiss�
+dormir depuis dix-neuf ans, comme un vieux lion dans sa caverne, qui ne
+va plus chercher sa proie. Comme un faisceau de verges mena�antes
+qu'un p�re indulgent a form� uniquement pour effrayer par leur vue ses
+enfants, et non pour s'en servir, ces verges deviennent � la fin un
+objet de moquerie plut�t que de crainte, il en est de m�me maintenant
+de nos d�crets; morts pour le ch�timent, ils sont morts eux-m�mes; la
+licence tire la justice par le nez; l'enfant bat sa nourrice, et tout
+ordre est renvers�.
+
+LE MOINE--Il d�pendait de Votre Altesse de d�gager la justice de ses
+liens, quand vous le trouveriez bon; et elle aurait paru plus redoutable
+en vous que dans le seigneur Angelo.
+
+LE DUC.--J'ai craint qu'elle ne le f�t trop. Puisque c'est par ma
+faute que j'ai donn� � mon peuple tant de libert�, ce serait en moi une
+tyrannie de frapper, et de les punir cruellement pour des transgressions
+que j'ai ordonn�es moi-m�me; car c'est ordonner les crimes que de
+leur laisser un libre cours, sans faire craindre le ch�timent. Voil�
+pourquoi, mon p�re, j'ai charg� Angelo de cet emploi: il peut, � l'abri
+de mon nom, frapper l'abus au coeur, sans que mon caract�re, qui ne
+sera point expos� � la vue, soit compromis. C'est pour suivre son
+administration, que je veux, sous l'habit d'un de vos fr�res, observer
+� la fois et le ministre et le peuple. Ainsi, je vous prie de me fournir
+un habit de votre ordre, et de m'enseigner comment je dois me conduire
+pour avoir tout l'air d'un vrai religieux. Je vous donnerai, �
+loisir, d'autres raisons de ma conduite: � pr�sent, �coutez seulement
+celle-ci.--Angelo est aust�re; il est en garde contre l'envie: � peine
+avoue-t-il que son sang circule, ou qu'il aime mieux le pain que la
+pierre: nous allons voir par la suite, si le pouvoir vient � changer son
+caract�re, ce que sont nos hommes � belles apparences.
+
+(Ils sortent.)
+
+
+SC�NE V
+
+Un couvent de femmes.
+
+ISABELLE, FRANCESCA, _ensuite_ LUCIO.
+
+
+ISABELLE.--Et sont-ce l� tous vos privil�ges � vous autres religieuses?
+
+FRANCESCA.--Ne sont-ils pas assez �tendus?
+
+ISABELLE.--Oui, sans contredit, et ce que j'en dis n'est pas que j'en
+d�sire davantage: au contraire, je souhaiterais qu'une r�gle plus
+�troite assujett�t la communaut� des soeurs de Sainte-Claire.
+
+LUCIO, _au dehors_.--Hol�, quelqu'un! la paix soit en ces lieux!
+
+ISABELLE.--Qui est-ce qui appelle?
+
+FRANCESCA.--C'est la voix d'un homme. Ch�re Isabelle, tournez la clef,
+et sachez ce qu'il veut; vous le pouvez, et moi non; vous n'avez pas
+encore prononc� vos voeux; lorsque vous l'aurez fait, il ne vous sera
+plus permis de parler � un homme qu'en pr�sence de la sup�rieure; alors,
+si vous lui parlez, vous ne devez pas lui montrer votre visage; ou
+si vous montrez votre visage, vous ne pouvez pas parler.--On appelle
+encore; je vous prie, r�pondez-lui.
+
+(Francesca sort.)
+
+ISABELLE.--Paix et f�licit�! Qui est-ce qui appelle?
+
+LUCIO.--Salut, vierge, si vous l'�tes, comme ces joues l'annoncent
+assez. Pouvez-vous me rendre le service de me faire parler � Isabelle,
+novice dans ce monast�re, et l'aimable soeur de son malheureux fr�re
+Claudio?
+
+ISABELLE.--Pourquoi dites-vous son malheureux frere? Permettez-moi cette
+question, d'autant plus que je dois vous d�clarer � pr�sent que je suis
+cette Isabelle, et sa soeur.
+
+LUCIO.--Aimable et belle novice, votre fr�re vous dit mille tendresses;
+il est en prison.
+
+ISABELLE.--O malheureuse! Eh! pourquoi?
+
+LUCIO.--Pour une action qui lui vaudrait de ma part, si je pouvais �tre
+son juge, des remerciements pour punition: il a fait un enfant � sa
+bonne amie.
+
+ISABELLE.--Monsieur, ne vous jouez pas de moi!
+
+LUCIO.--C'est la v�rit�.--Je ne voudrais pas (quoique ce soit mon p�ch�
+familier d'imiter le vanneau avec les jeunes filles, et de badiner, la
+langue loin du coeur[9]) prendre cette licence avec les vierges. Je vous
+regarde comme un objet consacr� au ciel et sanctifi�, comme un esprit
+immortel par votre renoncement au monde, et auquel il faut parler avec
+sinc�rit� comme � une sainte.
+
+[Note 9: _La langue loin du coeur_, c'est-�-dire quand le vanneau
+s'�loigne en criant de son nid pour tromper l'oiseleur.]
+
+ISABELLE.--Vous blasph�mez le bien en vous moquant ainsi de moi.
+
+LUCIO.--Ne le croyez pas. Bri�vet� et v�rit�, voici le fait: votre fr�re
+et son amante se sont embrass�s; et comme il est naturel que ceux qui
+mangent se remplissent, que la saison des fleurs conduise la semence
+d'une jach�re d�pouill�e � la maturit� de la moisson, de m�me son sein
+annonce son heureuse culture et son industrie.
+
+ISABELLE.--Y a-t-il quelque fille enceinte de lui? ma cousine Juliette?
+
+LUCIO.--Est-ce qu'elle est votre cousine?
+
+ISABELLE.--Par adoption; comme les jeunes �coli�res changent leurs noms
+par amiti�.
+
+LUCIO.--C'est elle.
+
+ISABELLE.--Oh! qu'il l'�pouse!
+
+LUCIO.--Voil� le point. Le duc est sorti de cette ville d'une �trange
+mani�re, et il a tenu plusieurs gentilshommes, et moi entre autres, dans
+l'esp�rance d'avoir part � l'administration: mais nous apprenons par
+ceux qui connaissent le coeur du gouvernement, que les bruits qu'il a
+fait r�pandre �taient � une distance infinie de ses vrais desseins. A
+sa place, et rev�tu de toute son autorit�, le seigneur Angelo gouverne
+l'�tat; un homme dont le sang est de l'eau de neige; un homme qui ne
+sent jamais le poignant aiguillon ni les mouvements des sens, mais
+qui �mousse et dompte les penchants de la nature par les travaux de
+l'esprit, l'�tude et le je�ne.--Pour intimider l'abus et la licence
+qui ont longtemps r�d� imprudemment aupr�s de l'affreuse loi, comme
+des souris pr�s d'un lion, il a d�terr� un �dit dont les rigoureuses
+dispositions condamnent la vie de votre fr�re; Angelo l'a fait
+emprisonner en vertu de cette loi; et il suit litt�ralement toute la
+rigueur du statut pour faire de Claudio un exemple. Toute esp�rance est
+perdue, � moins que vous n'ayez le pouvoir, par vos pri�res, de fl�chir
+Angelo; et c'est l� l'affaire que je suis charg� de traiter entre vous
+et votre malheureux fr�re.
+
+ISABELLE.--En veut-il donc � sa vie?
+
+LUCIO.--Il a d�j� prononc� sa sentence; et, � ce que j'entends dire, le
+pr�v�t a re�u l'ordre pour son ex�cution.
+
+ISABELLE.--H�las! quelles pauvres facult�s puis-je avoir pour lui faire
+du bien?
+
+LUCIO.--Essayez votre pouvoir.
+
+ISABELLE.--Mon pouvoir! h�las! je doute...
+
+LUCIO.--Nos doutes sont des tra�tres, qui nous font souvent perdre le
+bien que nous aurions pu gagner, parce que nous craignons de le tenter.
+Allez trouver le seigneur Angelo, et qu'il apprenne par vous que quand
+une jeune fille demande, les hommes donnent comme les dieux; mais que
+si elle pleure et s'agenouille, tout ce qu'elle demande est aussi
+certainement � elle qu'� ceux m�mes qui le poss�dent.
+
+ISABELLE.--Je verrai ce que je pourrai faire.
+
+LUCIO.--Mais, promptement.
+
+ISABELLE.--Je vais m'en occuper sur-le-champ; et je ne prendrai que
+le temps de donner connaissance de cette affaire � notre m�re. Je vous
+rends d'humbles actions de gr�ce: recommandez-moi � mon fr�re; ce soir,
+de bonne heure, j'enverrai l'instruire de mon succ�s.
+
+LUCIO.--Je prends cong� de vous.
+
+ISABELLE.--Mon bon seigneur, adieu.
+
+(Ils se s�parent.)
+
+FIN DU PREMIER ACTE.
+
+
+
+
+                            ACTE DEUXI�ME
+
+
+SC�NE I
+
+Un appartement dans la maison d'Angelo.
+
+_Entrent_ ANGELO, ESCALUS, UN JUGE, LE PR�V�T[10], OFFICIERS _et suite_.
+
+[Note 10: Le pr�v�t est ici une esp�ce de ge�lier.]
+
+
+ANGELO.--Il ne faut pas que nous fassions de la loi un �pouvantail pour
+effrayer les oiseaux de proie, jusqu'� ce qu'en voyant son immobilit�,
+familiaris�s par l'habitude, ils osent venir se percher sur l'objet m�me
+de leur terreur.
+
+ESCALUS.--Vous avez raison; mais cependant n'aiguisons le glaive de
+la loi que pour blesser l�g�rement, plut�t que pour frapper des coups
+mortels. H�las! ce gentilhomme que je voudrais sauver avait un bien
+noble p�re. Daignez consid�rer, vous que je crois de la vertu la
+plus stricte, que dans l'effervescence de vos propres affections, si
+l'occasion avait concouru avec le lieu, et le lieu avec le d�sir, et
+qu'il n'e�t fallu, pour obtenir l'objet de vos voeux, que laisser
+agir la fougue t�m�raire de votre sang, il est bien douteux que vous
+n'eussiez pu quelquefois dans votre vie tomber dans la faute m�me pour
+laquelle vous le condamnez aujourd'hui, et attirer sur vous la loi.
+
+ANGELO.--Autre chose est d'�tre tent�, Escalus, autre chose de
+succomber. Je ne disconviens pas qu'un jury qui condamne un prisonnier
+� perdre la vie ne puisse, dans les douze jur�s qui le composent,
+renfermer un ou deux voleurs plus coupables que l'homme dont ils font
+le proc�s; mais la justice saisit le crime l� o� il se montre � elle.
+Qu'importe aux lois que des voleurs jugent des voleurs! Il est tout
+simple de nous baisser pour ramasser le joyau que nous voyons; mais
+nous foulons aux pieds le tr�sor que nous ne voyons pas, sans jamais
+y songer. Vous ne devez pas tant excuser sa faute, par la raison que
+j'aurais pu en commettre de semblables; dites plut�t que, lorsque moi
+qui le condamne, je tomberai dans la m�me offense, mon jugement doit
+�tre � l'instant mon arr�t de mort, et que nulle partialit� ne peut
+intervenir. Seigneur, il faut qu'il p�risse.
+
+ESCALUS.--Que ce soit comme le voudra votre sagesse.
+
+ANGELO.--O� est le pr�v�t?
+
+LE PR�V�T.--Ici, s'il pla�t � Votre Honneur.
+
+ANGELO.--Que Claudio soit ex�cut� demain matin sur les neuf heures;
+amenez-lui son confesseur; qu'il se pr�pare � la mort, car il est au
+terme de son p�lerinage.
+
+(Le pr�v�t sort.)
+
+ESCALUS.--Allons, que le ciel lui pardonne! et qu'il nous pardonne aussi
+� tous! Quelques-uns prosp�rent par le crime, d'autres succombent par
+la vertu. Il en est qui ont tous les vices, et qui ne r�pondent
+d'aucun[11]; d'autres sont condamn�s pour une faute unique.
+
+[Note 11: _Brakes of vice_. Les commentateurs ont donn� mille
+explications de ces mots, que nous traduisons en leur laissant le sens
+le plus naturel, bois de vices, repaire de vices, multitude de vices.]
+
+(Entrent le Coude, l'�cume, le Bouffon, officiers de justice.)
+
+LE COUDE.--Allons, amenez-les: si ce sont des gens de bien dans un �tat
+que ceux qui ne font autre chose que de commettre des abus dans les
+maisons de prostitution, je ne connais plus de lois; qu'on les am�ne.
+
+ANGELO.--Eh bien! monsieur, quel est votre nom? et de quoi s'agit-il?
+
+LE COUDE.--Sous le bon plaisir de votre Grandeur, je suis un pauvre
+constable du duc, et mon nom est Coude. Je tiens � la justice, monsieur,
+et j'am�ne ici devant Votre Grandeur deux insignes _bienfaiteurs_.
+
+ANGELO.--Bienfaiteurs? Eh bien! quels bienfaiteurs sont ces gens-l�? Ne
+sont-ce pas des malfaiteurs?
+
+LE COUDE.--Sous le bon plaisir de Votre Grandeur, je ne sais pas bien
+ce qu'ils sont: mais ce sont de vrais coquins, j'en suis s�r, exempts
+de toutes les _profanations mondaines_ qui sont du devoir de tout bon
+chr�tien.
+
+ESCALUS.--Voil� qui coule de source; voil� un officier bien sens�.
+
+ANGELO.--Poursuivez: de quelle esp�ce sont ces deux hommes? Coude est
+votre nom? Eh bien! que ne parlez-vous, Coude?
+
+LE BOUFFON.--Il ne le peut pas, seigneur; il a un trou au coude.
+
+ANGELO, _au Bouffon_.--Qui �tes-vous?
+
+LE COUDE.--Lui, seigneur? un gar�on de taverne, seigneur; un meuble de
+mauvais lieu au service d'une femme de mauvaises moeurs, dont la
+maison, monsieur, a �t�, comme on dit, d�molie dans les faubourgs; et
+aujourd'hui, elle tient une maison de bains, qui, je crois, est aussi
+une fort mauvaise maison.
+
+ESCALUS.--Comment savez-vous cela?
+
+LE COUDE.--Ma femme, monsieur, que je _d�teste_, devant le ciel et
+devant Votre Grandeur...
+
+ESCALUS.--Comment? votre femme?
+
+LE COUDE.--Oui, monsieur, qui, j'en remercie le ciel, est une honn�te
+femme...
+
+ESCALUS.--Et c'est pour cela que vous la _d�testez_?
+
+LE COUDE.--Je dis, monsieur, que je me _d�testerai_ moi-m�me, aussi bien
+qu'elle, si cette maison n'est pas une maison de prostitution, je veux
+regretter sa vie; car c'est une vilaine maison.
+
+ESCALUS.--Comment savez-vous cela, constable?
+
+LE COUDE.--H�! monsieur, par ma femme, qui, si elle avait �t� adonn�e au
+vice _cardinal_[12], aurait pu �tre accus�e en fornication, en adult�re
+et en toutes sortes d'impuret�s dans cette maison.
+
+[Note 12: Cardinal est ici pour _charnel_.]
+
+ESCALUS.--Par les intrigues de cette femme?
+
+LE COUDE.--Oui, monsieur, par madame Overdone; mais comme elle lui a
+crach� au visage, c'est elle qui l'a provoqu�e.
+
+LE BOUFFON.--Monsieur, sous le bon plaisir de Votre Grandeur, cela n'est
+pas.
+
+LE COUDE.--Prouve-le devant ces coquins qui sont ici; prouve-le,
+_honn�te homme_.
+
+ESCALUS, _� Angelo_.--Entendez-vous comme il dit un mot pour l'autre?
+
+LE BOUFFON.--Monsieur, elle est devenue grosse, et avait envie, sous
+votre respect, de pruneaux cuits; nous n'en avions que deux, monsieur,
+dans la maison, qui �taient dans ce temps-l� comme dans un plat de
+fruits, un plat d'environ trois sous; Vos Grandeurs ont vu de ces
+plats-l�; ce ne sont pas des plats de Chine, mais de fort bons plats.
+
+ESCALUS.--Continue, continue: peu importe le plat.
+
+LE BOUFFON.--Non, monsieur, pas d'une t�te d'�pingle: vous avez raison,
+monsieur; mais au fait. Comme je disais, cette dame Coude �tant, comme
+je dis, enceinte, et ayant un fort gros ventre, a eu envie, comme j'ai
+dit, de pruneaux; il n'y en avait que deux, comme j'ai dit, dans le
+plat; ma�tre l'�cume que voil�, cet homme-l� m�me, ayant mang� le reste,
+comme j'ai dit, et comme je dis, pay� fort honn�tement: car, comme vous
+savez, ma�tre l'�cume, je ne pourrais vous rendre les trois sous.
+
+L'�CUME.--Non, vraiment.
+
+LE BOUFFON.--Fort bien: comme vous �tiez donc, si vous vous en souvenez,
+� casser les noyaux des susdits pruneaux.
+
+L'�CUME.--Oui, c'est vrai, j'�tais l�.
+
+LE BOUFFON.--Allons, fort bien: comme je vous disais donc, si vous vous
+le rappelez, que tels et tels �taient incurables de la maladie que
+vous savez, � moins qu'ils n'observassent un bon r�gime, comme je vous
+disais.
+
+L'�CUME.--Tout cela est vrai.
+
+LE BOUFFON.--Eh bien! fort bien, alors...
+
+ESCALUS.--Allons, vous �tes un sot ennuyeux: au but. Qu'a-t-on fait � la
+femme de ce Coude, dont il ait sujet de se plaindre? Venez tout de suite
+� ce qu'on lui a fait.
+
+LE BOUFFON.--Votre Grandeur ne peut en venir l� encore.
+
+ESCALUS.--Ce n'est pas mon intention, non plus.
+
+LE BOUFFON.--Mais, monsieur, vous y viendrez, avec la permission de
+Votre Grandeur: et, je vous en supplie, consid�rez ma�tre l'�cume, que
+voil� ici, monsieur. Un homme de quatre-vingts livres de revenu par an,
+dont le p�re est mort � la Toussaint.--N'�tait-ce pas � la Toussaint,
+ma�tre l'�cume?
+
+L'�CUME.--Le soir de la Toussaint.
+
+LE BOUFFON.--Fort bien: j'esp�re que ce sont l� des v�rit�s. Lui,
+monsieur, �tant assis, comme je dis, sur un tabouret.--C'�tait � _la
+Grappe-de-Raisin_, o� vous aimez � vous asseoir, n'est-il pas vrai?
+
+L'�CUME.--Oui, je l'aime, parce que c'est une chambre ouverte et bonne
+pour l'hiver.
+
+LE BOUFFON.--Allons, fort bien. J'esp�re que ce sont l� des v�rit�s.
+
+ANGELO, _� Escalus_.--Ce r�cit durera toute une nuit de Russie, quand
+les nuits sont les plus longues. Je vais vous quitter et vous laisser
+entendre leur affaire, avec l'esp�rance que vous trouverez mati�re � les
+faire tous fouetter.
+
+ESCALUS.--Je m'y attends. Salut, seigneur. (_Angelo sort._)--Allons,
+l'ami, continuez: qu'a-t-on fait � la femme de Coude, encore une fois?
+
+LE BOUFFON.--Une fois, monsieur? Il n'y a rien eu qu'on lui ait fait une
+fois.
+
+LE COUDE.--Je vous en conjure, monsieur: demandez-lui ce que cet homme a
+fait � ma femme.
+
+LE BOUFFON.--Je vous en conjure, monsieur, demandez-le-moi.
+
+ESCALUS.--Eh bien! qu'est-ce que cet homme lui a fait.
+
+LE BOUFFON.--Je vous en conjure, monsieur, consid�rez bien le visage
+de cet homme-l�.--Mon bon l'�cume, regardez sa Grandeur: c'est pour de
+bonnes vues. Votre Grandeur remarque-t-elle son visage?
+
+ESCALUS.--Oui, fort bien.
+
+LE BOUFFON.--Non, je vous prie, remarquez-le bien.
+
+ESCALUS.--Eh bien! c'est ce que je fais.
+
+LE BOUFFON.--Votre Grandeur voit-elle quelque chose de mal dans sa
+figure?
+
+ESCALUS.--Mais non.
+
+LE BOUFFON.--Je veux supposer[13] sur le livre sacr�, que sa figure est
+ce qu'il a de pis en lui.--Eh bien! si la figure est la pire chose qu'il
+y ait en lui, comment ma�tre l'�cume aurait-il pu faire aucun mal � la
+femme du constable? Je voudrais bien le savoir de Votre Grandeur.
+
+ESCALUS.--Il a raison: constable, que r�pondez-vous � cela?
+
+LE COUDE.--Premi�rement, s'il vous pla�t, la maison est une maison
+_respect�e_; ensuite, cet homme est un dr�le _respect�_, et sa ma�tresse
+est une femme _respect�e_[14].
+
+[Note 13: Supposer pour _d�poser_.]
+
+[Note 14: Pour _suspect�e_.]
+
+LE BOUFFON.--Par cette main, monsieur, sa femme est une personne plus
+_respect�e_ qu'aucun de nous tous.
+
+LE COUDE.--Maraud, tu mens; tu mens, m�chant valet; le temps est encore
+� venir qu'elle ait jamais �t� _respect�e_ par homme, femme, ou enfant.
+
+LE BOUFFON.--Monsieur, elle a �t� _respect�e_ avec lui, avant qu'il
+l'eut �pous�e.
+
+ESCALUS.--Lequel est le plus sage ici, la Justice ou
+l'Iniquit�[15]?--Cela est-il vrai?
+
+LE COUDE, _au bouffon_.--O sc�l�rat, vaurien, m�chant Hannibal[16]! Moi,
+j'ai �t� _respect�_ avec elle avant que je fusse mari� avec elle?
+Si jamais j'ai �t� _respect�_ avec elle, ou elle avec moi, que Votre
+Honneur ne me croie pas le pauvre officier du duc. Prouve cela, sc�l�rat
+Hannibal, ou j'aurai contre toi mon action de _batterie_.
+
+[Note 15: Personnages des _Moralit�s_. La Justice est ici pour le
+constable et l'Iniquit� pour le fou.]
+
+[Note 16: Cannibale.]
+
+ESCALUS.--S'il vous donnait un soufflet, vous pourriez aussi avoir votre
+action en diffamation.
+
+LE COUDE.--Oh! je remercie bien Votre Grandeur pour cet avis-l�.
+Qu'est-ce que Votre Grandeur d�sire que je fasse de ce m�chant coquin?
+
+ESCALUS.--Mais, officier, puisqu'il y a en lui quelques iniquit�s que
+tu voudrais d�couvrir, si tu le pouvais, laisse-le continuer comme �
+l'ordinaire, jusqu'� ce que tu saches ce qu'elles sont.
+
+LE COUDE.--Oh! vraiment j'en remercie Votre Grandeur.--Tu vois bien,
+coquin, ce qui t'arrive maintenant: tu vas continuer, coquin, tu vas
+continuer.
+
+ESCALUS, _� l'�cume._--O� �tes-vous n�, mon ami?
+
+L'�CUME.--Ici, � Vienne, monsieur.
+
+ESCALUS.--Est-il vrai que vous ayez quatre-vingts livres de rente?
+
+L'�CUME.--Oui, si c'est votre bon plaisir, monsieur.
+
+ESCALUS.--Bon. (_Au bouffon._) De quel m�tier �tes-vous, monsieur?
+
+LE BOUFFON.--Gar�on de taverne, le gar�on d'une pauvre veuve.
+
+ESCALUS.--Le nom de votre ma�tresse?
+
+LE BOUFFON.--Madame Overdone.
+
+ESCALUS.--A-t-elle eu plus d'un mari?
+
+LE BOUFFON.--Neuf, monsieur: Overdone[17] pour le dernier.
+
+[Note 17: _Overdone by the last_, ��puis�e par le dernier.� _Overdone_
+fait ici calembour.]
+
+ESCALUS.--Neuf!--Approchez-vous de moi, ma�tre l'�cume. Ma�tre l'�cume,
+je ne voudrais pas que vous fissiez connaissance avec des gar�ons de
+taverne; ils vous soutireront, ma�tre l'�cume, et vous les ferez pendre:
+allez-vous-en, et que je n'entende plus parler de vous.
+
+L'�CUME.--Je remercie Votre Grandeur; quant � moi, jamais je ne vais
+dans aucune chambre de taverne, que je n'y sois attir� par quelqu'un.
+
+ESCALUS.--Allons, plus de cela, ma�tre l'�cume; adieu. (_L'�cume sort._)
+Venez �a, monsieur le gar�on de taverne; quel est votre nom, monsieur le
+gar�on de taverne?
+
+LE BOUFFON.--Pomp�e.
+
+ESCALUS.--Et quoi encore?
+
+LE BOUFFON.--Haut-de-chausses, monsieur.
+
+ESCALUS.--Oui, et en bonne foi, votre haut-de-chausses[18] est ce qu'il
+y a de plus grand en vous; en sorte que, dans le sens le plus brutal,
+vous �tes Pomp�e le Grand. Pomp�e, vous �tes en partie un entremetteur,
+Pomp�e, de quelque mani�re que vous coloriez la chose, sous le nom de
+gar�on de taverne, ne dis-je pas vrai? Allons, avouez-moi la v�rit�;
+vous vous en trouverez bien.
+
+[Note 18: _Bum_. Nous avons mis ici le contenant pour le contenu.]
+
+LE BOUFFON.--Franchement, monsieur, je suis un pauvre diable qui
+voudrait vivre.
+
+ESCALUS.--Comment voudriez-vous vivre, Pomp�e? En �tant un agent
+d'infamie... Que pensez-vous du m�tier, Pomp�e? Est-ce l� un m�tier
+permis?
+
+LE BOUFFON.--Si la loi veut le permettre, monsieur.
+
+ESCALUS.--Mais la loi ne le permettra pas, Pomp�e, et il ne sera pas
+permis � Vienne.
+
+LE BOUFFON.--Votre Grandeur est-elle dans l'intention de mutiler toute
+la jeunesse de la ville?
+
+ESCALUS.--Non, Pomp�e.
+
+LE BOUFFON.--Eh bien! monsieur, suivant ma petite opinion, elle ira
+donc toujours l�. Si Votre Grandeur veut mettre le bon ordre parmi
+les prostitu�es et les vauriens, vous n'aurez plus rien � craindre des
+entremetteurs.
+
+ESCALUS.--Il y a de jolies ordonnances qui commencent � s'ex�cuter, je
+peux vous en assurer; il n'y va que d'�tre pendu et d�capit�.
+
+LE BOUFFON.--Si vous pendez et d�capitez tous ceux qui commettent ce
+p�ch�, seulement pendant dix ans, vous serez bien aise de donner la
+commission de trouver des t�tes. Si cette loi s'ex�cute dans Vienne
+pendant dix ans, je veux louer la plus belle maison de la ville pour
+trois sous par fen�tre. Si vous vivez assez pour voir cela, dites:
+Pomp�e me l'avait bien dit.
+
+ESCALUS.--Grand merci, bon Pomp�e; et, en r�compense de votre proph�tie,
+�coutez-moi bien:--je vous donnerai un avis: que je ne vous revoie pas
+devant moi pour aucune plainte quelconque; et qu'on ne vienne pas me
+dire que vous demeurez encore l� o� vous �tes: si je vous y retrouve,
+Pomp�e[19], je vous chasserai � grands coups jusqu'� votre tente, et je
+serai un rude C�sar pour vous.--Pour vous parler net, Pomp�e, je vous
+ferai fouetter; ainsi, pour cette fois, Pomp�e, portez-vous bien.
+
+[Note 19: Pomp�e est un nom souvent donn� aux chiens.]
+
+LE BOUFFON.--Je remercie Votre Grandeur de son bon conseil; mais je le
+suivrai, selon que la chair et la fortune en d�cideront.--Me fouetter?
+Non, non: que le charretier fouette sa rosse; un coeur vaillant n'est
+point chass� de son m�tier � coups de fouet.
+
+(Il sort.)
+
+ESCALUS.--Approchez, ma�tre Coude; venez, ma�tre constable: combien y
+a-t-il de temps que vous �tes dans cet emploi de constable?
+
+LE COUDE.--Sept ans et demi, monsieur.
+
+ESCALUS.--Je pensais bien, par votre habilet� � l'exercer, qu'il y avait
+quelque temps que vous l'occupiez. Ne dites-vous pas sept ans entiers?
+
+LE COUDE.--Et demi, monsieur.
+
+ESCALUS.--H�las! il vous a co�t� bien des peines. On vous fait tort de
+vous en charger si souvent; est-ce qu'il n'y a pas dans votre garde des
+hommes en �tat de vous suppl�er?
+
+LE COUDE.--En bonne foi, monsieur, il y en a bien peu qui aient
+quelque talent pour cette esp�ce d'emploi: on les choisit; mais ils me
+choisissent apr�s pour les remplacer: je le fais pour quelques pi�ces
+d'argent, et je vais toujours pour tous les autres.
+
+ESCALUS.--�coutez-moi: apportez-moi les noms d'environ six ou sept des
+plus capables de votre paroisse.
+
+LE COUDE.--A la maison de Votre Grandeur, monsieur?
+
+ESCALUS.--Oui, chez moi. Adieu. (_Coude sort._)--(_Au juge de paix._)
+Quelle heure croyez-vous qu'il soit?
+
+LE JUGE.--Onze heures, monsieur.
+
+ESCALUS.--Je vous prie de venir d�ner avec moi.
+
+LE JUGE.--Je vous remercie humblement.
+
+ESCALUS.--Je suis bien afflig� de la mort de Claudio; mais il n'y a
+point de rem�de.
+
+LE JUGE.--Le seigneur Angelo est s�v�re.
+
+ESCALUS.--C'est une n�cessit�; la cl�mence cesse d'�tre cl�mence quand
+elle se montre trop souvent. Le pardon est toujours le p�re d'un
+second crime; mais cependant... malheureux Claudio!--Il n'y a point de
+rem�de.--Venez, monsieur.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+Un autre appartement dans la maison d'Angelo.
+
+_Entrent_ LE PR�V�T ET UN VALET.
+
+
+LE VALET.--Il est occup� � entendre une affaire; il va venir tout de
+suite. Je vais vous annoncer.
+
+LE PR�V�T.--Je vous en prie, faites-le. (_Le valet sort._) Je viens
+savoir ses ordres: peut-�tre se laissera-t-il fl�chir. H�las! son d�lit
+est comme un crime en songe. Tous les �ges, toutes les sectes, sont
+atteints de ce vice, et il faut, lui, qu'il meure pour cela!
+
+(Entre Angelo.)
+
+ANGELO.--Eh bien! quel sujet vous am�ne, pr�v�t?
+
+LE PR�V�T.--Votre bon plaisir est-il que Claudio meure demain?
+
+ANGELO.--Ne vous ai-je pas dit qu'oui? N'avez-vous pas l'ordre? Pourquoi
+venez-vous me le demander une seconde fois?
+
+LE PR�V�T.--J'ai craint d'agir trop pr�cipitamment. Sous votre bon
+plaisir, j'ai vu quelquefois qu'apr�s l'ex�cution, la justice s'est
+repentie de son arr�t.
+
+ANGELO.--Allez, cela me regarde; faites votre devoir, ou c�dez votre
+place, on peut fort bien se passer de vous.
+
+LE PR�V�T.--Je demande pardon � Votre Honneur.--Que fera-t-on, monsieur,
+de la g�missante Juliette? Elle est bien pr�s de son terme.
+
+ANGELO.--Conduisez-la dans quelque lieu plus convenable, et cela sans
+d�lai.
+
+(Le valet revient.)
+
+LE VALET.--Voici la soeur de l'homme condamn�, qui demande � �tre
+introduite pr�s de vous.
+
+ANGELO.--A-t-il une soeur?
+
+LE PR�V�T.--Oui, seigneur: une jeune fille tr�s-vertueuse, et qui est
+pr�te � entrer dans une communaut�, si elle n'y est pas d�j�.
+
+ANGELO.--Allons, qu'on la fasse entrer. (_Le valet sort._)--(_Au
+pr�v�t._) Voyez � ce que la fornicatrice soit transf�r�e ailleurs: qu'on
+lui fournisse le n�cessaire, mais sans superflu: je donnerai des ordres
+pour cela.
+
+(Entrent Lucio et Isabelle.)
+
+LE PR�V�T, _faisant mine de se retirer_.--Que Dieu sauve Votre Honneur.
+
+ANGELO.--Restez encore un moment.--_(A Isabelle.)_ Vous �tes la
+bienvenue: que d�sirez-vous?
+
+ISABELLE.--Vous voyez devant vous une malheureuse suppliante. Qu'il
+plaise seulement � Votre Honneur de m'entendre.
+
+ANGELO.--Voyons, quelle est votre requ�te?
+
+ISABELLE.--Il est un vice que j'abhorre plus que tous les autres, et que
+je voudrais voir surtout frapp� par la justice; je ne voudrais pas le
+d�fendre, mais il le faut; je ne voudrais pas le d�fendre, mais je suis
+en guerre avec moi entre ce que je voudrais et ce que je ne voudrais
+pas.
+
+ANGELO.--Voyons, le sujet?
+
+ISABELLE.--J'ai un fr�re qui est condamn� � mourir, je vous conjure de
+condamner sa faute, et non pas mon fr�re.
+
+LE PR�V�T.--Le ciel veuille te donner des gr�ces �mouvantes!
+
+ANGELO.--Condamner le crime et non le criminel! Mais tout crime est
+condamn�, m�me avant qu'il soit commis. Mes fonctions se r�duiraient �
+z�ro, si je trouvais les fautes dont la peine est marqu�e dans le code,
+pour laisser �chapper les coupables.
+
+ISABELLE,--O loi juste, mais cruelle! Alors, j'avais un fr�re!--Que le
+ciel garde Votre Honneur!
+
+LUCIO, _� Isabelle_.--N'y renoncez pas ainsi: revenez vers lui:
+priez-le; jetez-vous � ses genoux; attachez-vous � sa robe: vous �tes
+trop froide, vous ne lui demanderiez qu'une �pingle que vous ne pourriez
+pas le faire avec plus d'indiff�rence: avancez vers lui, vous dis-je.
+
+ISABELLE _se rapproche_.--Faut-il donc qu'il meure?
+
+ANGELO.--Jeune fille, il n'y a point de rem�de.
+
+ISABELLE.--Il y en a: je pense que vous pourriez lui pardonner, et que
+ni le ciel ni les hommes ne se plaindraient de ce pardon.
+
+ANGELO.--Je ne veux pas le faire.
+
+ISABELLE.--Mais, le pourriez-vous si vous le vouliez?
+
+ANGELO.--Voyez-vous, ce que je ne veux pas faire, je ne le peux pas.
+
+ISABELLE.--Mais pourriez-vous le faire sans nuire � personne au monde,
+si votre coeur �tait touch� de la m�me piti� que le mien ressent pour
+lui?
+
+ANGELO.--Son arr�t est prononc�; il est trop tard.
+
+LUCIO, _bas � Isabelle_.--Vous �tes trop froide.
+
+ISABELLE.--Trop tard! non: moi qui prononce une parole, je peux la
+r�voquer. Croyez-bien une chose, c'est que de toute la pompe qui
+appartient aux grands, ni la couronne du monarque, ni le glaive du
+ministre, ni le b�ton du mar�chal, ni la robe du juge, rien ne leur
+sied aussi bien que la cl�mence. S'il e�t �t� � votre place, et que vous
+eussiez �t� � la sienne, vous auriez fait un faux pas comme lui; mais
+lui n'aurait pas �t� aussi impitoyable que vous.
+
+ANGELO.--Je vous prie, retirez-vous.
+
+ISABELLE.--Je voudrais que le ciel m'e�t donn� votre pouvoir, et que
+vous fussiez Isabelle. En serait-il de m�me alors? non. Je vous dirais
+ce que c'est que d'�tre juge, et ce que c'est d'�tre prisonnier.
+
+LUCIO, _� part_.--Bien; parlez de lui, c'est la corde sensible.
+
+ANGELO.--Votre fr�re est condamn� par la loi; vous perdez vos paroles.
+
+ISABELLE.--H�las! h�las! toutes les �mes qui ont exist� ont �t�
+condamn�es, et le Dieu qui e�t pu se venger avec le plus de justice a
+trouv� un rem�de pour les sauver. Que seriez-vous si celui qui est le
+supr�me arbitre des jugements vous jugeait seulement comme vous �tes?
+Oh! pensez � cela, et alors la cl�mence respirera entre vos l�vres, et
+vous serez un homme nouveau.
+
+ANGELO.--Cessez vos plaintes, belle jeune fille; c'est la loi, et non
+pas moi, qui condamne votre fr�re: il serait mon parent, mon fr�re ou
+mon fils, qu'il en serait de m�me pour lui; il faut qu'il meure demain.
+
+ISABELLE.--Demain! oh! cela est bien prompt! �pargnez-le, �pargnez-le;
+il n'est pas pr�par� � la mort; m�me pour la cuisine nous tuons le
+gibier dans sa saison: servirons-nous le ciel avec moins d'�gard que
+nous ne nous traitons nous-m�mes, grossi�res cr�atures? Mon bon, mon bon
+seigneur, r�fl�chissez-y: qui est-ce qui est mort pour cette faute? Il y
+a beaucoup de gens qui l'ont commise.
+
+LUCIO.--Courage; bien dit.
+
+ANGELO.--La loi, pour �tre endormie, n'�tait pas morte. Cette foule de
+gens n'auraient pas os� commettre ce d�lit, si le premier qui a enfreint
+la loi avait r�pondu de son action; maintenant la loi est �veill�e, elle
+observe ce qui se passe, et, telle qu'un devin, elle regarde dans
+un cristal qui fait voir quels crimes futurs d�j� existants, ou
+nouvellement con�us, gr�ce � la tol�rance, se pr�paraient � �clore et �
+na�tre, et vont �tre �touff�s, arr�t�s dans leurs progr�s, et finir l�
+o� ils existent.
+
+ISABELLE.--Et cependant prouvez quelque piti�.
+
+ANGELO.--Je la prouve surtout en prouvant la justice, car alors
+j'ai piti� d'hommes que je ne connais pas, et qu'un crime pardonn�
+aujourd'hui empoisonnerait dans la suite; je fais justice � un homme
+qui, payant pour une action criminelle, ne vivra plus pour en commettre
+une seconde. N'insistez plus: votre fr�re mourra demain; il faut vous
+r�signer.
+
+ISABELLE.--Ainsi, il faut que vous soyez le premier qui prononciez cette
+sentence, et lui le premier qui la subisse: oh! il est beau d'avoir la
+force d'un g�ant; mais c'est une tyrannie d'en user comme un g�ant.
+
+LUCIO.--Bien dit.
+
+ISABELLE.--Si les grands de la terre pouvaient tonner comme Jupiter,
+jamais Jupiter ne serait en paix; le plus pauvre petit officier
+occuperait sans cesse son ciel � tonner; on n'entendrait que le
+tonnerre.--Ciel mis�ricordieux! toi, tu fendras plut�t des traits
+sulfureux de ta foudre le ch�ne noueux et rebelle � la cogn�e, que le
+doux myrte; mais l'homme, l'homme orgueilleux, rev�tu d'une autorit�
+d'un moment, lui qui conna�t le moins ce dont il est le plus s�r, son
+existence fragile comme le verre, il se pla�t comme un singe en fureur
+� des actions si extravagantes � la face du ciel, qu'il fait pleurer les
+anges, qui, s'ils �taient sujets aux m�mes caprices que nous, riraient �
+en devenir mortels.
+
+LUCIO.--Oh! serrez-le de pr�s, serrez-le de pr�s, jeune fille, il
+s'adoucira. Il se rend d�j�; je m'en aper�ois.
+
+LE PR�V�T.--Prions le ciel qu'elle vienne � bout de le fl�chir!
+
+ISABELLE.--Nous ne pouvons nous peser dans la balance avec notre fr�re;
+les grands ont le privil�ge de badiner avec les saints; c'est en eux
+saillie d'esprit; chez leurs inf�rieurs, c'est une odieuse profanation.
+
+LUCIO.--Vous �tes dans le bon chemin, jeune fille; appuyez.
+
+ISABELLE.--Ce qui n'est qu'un mot d'humeur chez le g�n�ral devient, dans
+la bouche du soldat, un vrai blasph�me.
+
+LUCIO.--O� a-t-elle appris tout cela?--Encore.
+
+ANGELO.--Pourquoi m'appliquez-vous ces adages?
+
+ISABELLE.--Parce que l'autorit�, quoique sujette � errer comme les
+autres, porte avec elle une esp�ce de rem�de qui couvre le mal d'une
+cicatrice. Descendez dans votre sein; frappez � la porte de votre coeur,
+et demandez-lui quelle faute il se conna�t qui ressemble � celle de mon
+fr�re. S'il avoue un penchant naturel au crime dont il est coupable,
+qu'il ne fasse donc pas retentir dans votre bouche un arr�t de mort
+contre mon fr�re.
+
+ANGELO, _� part_.--Elle parle, et avec tant de bon sens que mon bon sens
+�clot en m�me temps. (_A Isabelle._) Adieu.
+
+ISABELLE.--Cher seigneur, revenez.
+
+ANGELO.--Je me consulterai.--Revenez demain.
+
+ISABELLE.--�coutez par quels moyens je veux vous corrompre: mon bon
+seigneur, revenez.
+
+ANGELO.--Que dites-vous, me corrompre?
+
+ISABELLE.--Oui, par des dons que le ciel partagera avec vous.
+
+LUCIO.--Autrement vous auriez tout g�t�.
+
+ISABELLE.--Ce n'est pas avec de vains sequins d'or �prouv�, ni avec
+des pierres dont le taux est riche ou pauvre, selon la valeur que leur
+attache la fantaisie; mais avec de fid�les pri�res qui s'�l�veront vers
+le ciel, et y entreront avant le lever du soleil; avec les pri�res des
+�mes pr�serv�es de la corruption du monde, des vierges qui je�nent, et
+dont le coeur n'est consacr� � rien de terrestre.
+
+ANGELO.--Allons, revenez me voir demain.
+
+LUCIO, _� part, � Isabelle_.--Retirez-vous, tout va bien: sortez.
+
+ISABELLE.--Que le ciel veille sur la s�ret� de Votre Honneur[20]!
+
+[Note 20: Isabelle emploie le mot _honour_ pour dire _Votre Seigneurie,_
+et le juge ram�ne ce mot � son premier sens.]
+
+ANGELO, _� part_.--Ainsi soit-il; car je prends le chemin de la
+tentation dont les pri�res pr�servent.
+
+ISABELLE.--A quelle heure viendrai-je demain retrouver Votre Seigneurie?
+
+ANGELO.--Quand vous voudrez, avant midi.
+
+ISABELLE.--Le ciel pr�serve Votre Honneur!
+
+(Elle sort avec Lucio.)
+
+ANGELO.--De toi, et m�me de ta vertu!--Que veut dire ceci? Que veut dire
+ceci? Est-ce sa faute ou la mienne? De la tentatrice ou de celui qui est
+tent�, lequel p�che le plus? Ah! ce n'est pas elle; et ce n'est pas elle
+qui me tente; c'est moi qui, expos� au soleil pr�s de la violette, fais
+comme la charogne plut�t que comme la fleur, et me corromps sous la
+vertueuse influence de la saison. Se peut-il que la modestie soit plus
+dangereuse � nos sens que la femme l�g�re? Tandis que nous n'avons que
+trop de terrain perdu, irons-nous raser le sanctuaire pour y �tablir nos
+vices? Oh! fi! fi donc! Que fais-tu, ou qui es-tu, Angelo? Veux-tu
+la convoiter criminellement pour ces m�mes avantages qui la rendent
+vertueuse? Ah! que son fr�re vive! Les voleurs sont autoris�s au
+brigandage, lorsque leurs juges eux-m�mes volent. Quoi! est-ce que je
+l'aime parce que je d�sire l'entendre parler encore, et me repa�tre
+de la vue de ses yeux? A quoi r�vais-je donc? O ennemi rus� qui,
+pour attraper un saint, amorce ton hame�on avec des saints! La plus
+dangereuse des tentations est celle qui nous pousse au crime par les
+attraits de la vertu: jamais la prostitu�e avec ses deux forces r�unies,
+l'art et la nature, n'a pu �mouvoir une fois mes sens; mais cette fille
+vertueuse me subjugue tout entier. Jusqu'� ce moment, quand je voyais
+les autres aimer, je souriais, et m'�tonnais de leur folie.
+
+(Il sort.)
+
+
+SC�NE III
+
+Une prison.
+
+LE DUC _en habit de religieux_, LE PR�V�T.
+
+
+LE DUC.--Salut, pr�v�t, car je crois que c'est ce que vous �tes.
+
+LE PR�V�T.--Oui, je suis le pr�v�t: que d�sirez-vous, bon religieux?
+
+LE DUC.--Contraint par ma charit�, et par mon saint ordre, je viens
+visiter les �mes afflig�es renferm�es dans cette prison: accordez-moi le
+droit ordinaire de me les laisser voir, et de m'informer de la nature
+de leurs crimes, afin que je puisse leur administrer en cons�quence mes
+secours spirituels.
+
+LE PR�V�T.--Je ferais davantage s'il en �tait besoin.
+
+(Entre Juliette.)
+
+Tenez, voici une de mes dames, une jeune fille, qui, tombant dans les
+feux de sa jeunesse, a br�l� sa r�putation: elle est enceinte, et le
+p�re de son enfant est condamn� � mort; un jeune homme plus propre �
+commettre un second d�lit semblable qu'� mourir pour le premier.
+
+LE DUC.--Quand doit-il mourir?
+
+LE PR�V�T.--A ce que je crois, demain. (_A Juliette._) J'ai pourvu � vos
+besoins: attendez un moment, et l'on vous conduira.
+
+LE DUC, _� Juliette_.--Vous repentez-vous, belle enfant, du p�ch� que
+vous portez?
+
+JULIETTE.--Oui, et j'en porte la honte avec patience.
+
+LE DUC.--Je vous enseignerai les moyens d'examiner votre conscience,
+et d'�prouver si votre p�nitence est solide, ou si elle n'est que
+superficielle.
+
+JULIETTE.--Je l'apprendrai bien, volontiers.
+
+LE DUC.--Aimez-vous l'homme qui vous a fait ce tort?
+
+JULIETTE.--Oui, autant que j'aime la femme qui lui a fait tort.
+
+LE DUC.--Ainsi, il para�t que c'est d'un consentement mutuel que votre
+crime a �t� commis?
+
+JULIETTE.--Oui, d'un consentement mutuel.
+
+LE DUC.--Votre p�ch� a donc �t� plus grand que le sien?
+
+JULIETTE.--Je le confesse, et je m'en repens, mon p�re.
+
+LE DUC.--Cela est bien juste, ma fille; mais prenez garde que vous ne
+vous repentiez que parce que le p�ch� vous a caus� cette honte: cette
+douleur n'est jamais que pour nous-m�mes, et non pour le ciel; elle
+montre que si nous n'offensons pas le ciel, ce n'est point par amour,
+mais uniquement par crainte.
+
+JULIETTE.--Je me repens de ma faute, parce que c'est un p�ch�, et j'en
+accepte la honte avec joie.
+
+LE DUC.--Pers�v�rez l�-dedans. Votre complice, � ce que j'entends dire,
+doit mourir demain; je vais le visiter et lui donner mes conseils. Que
+la gr�ce du ciel vous accompagne!--_Benedicite._
+
+(Il sort en priant.)
+
+JULIETTE.--Il doit mourir demain! � injuste loi, qui me laisse une vie
+dont toute la consolation est d'�prouver � chaque instant toutes les
+horreurs de la mort!
+
+LE PR�V�T.--C'est bien dommage qu'il en soit l�!
+
+(Ils sortent.)
+
+
+SC�NE IV
+
+(Appartement dans la maison d'Angelo.)
+
+_Entre_ ANGELO.
+
+
+ANGELO.--Quand je veux m�diter et prier, mes pens�es et mes pri�res
+s'�garent d'objet en objet: le ciel a de moi de vaines paroles, tandis
+que mon imagination, sans �couter ma langue, est attach�e sur Isabelle.
+Le ciel est sur mes l�vres, comme si je ne faisais qu'en retourner le
+nom dans ma bouche; et dans mon coeur cro�t la fatale passion qui le
+remplit. L'�tat, dont j'�tudiais les affaires, est comme un bon livre
+qui, � force d'�tre relu souvent, n'inspire plus que l'aversion et
+l'ennui; oui, je me sens capable (que personne ne m'entende!) de changer
+ce grave minist�re dont je suis fier pour une plume l�g�re, vain
+jouet de l'air. O dignit�! � pompe ext�rieure! qu'il t'arrive souvent
+d'extorquer le respect des sots par tes v�tements et ton enveloppe, et
+d'encha�ner les �mes plus sages � tes fausses apparences;--chair, tu
+n'es que chair! Inscrivez, _bon ange_, sur la corne du diable, ce ne
+sera plus le cimier du diable.
+
+(Entre un valet.)
+
+ANGELO.--H� bien! qui est l�?
+
+LE VALET,--Une certaine Isabelle, une soeur, qui demande � vous parler.
+
+ANGELO.--Montre-lui le chemin. (_Le valet sort._)--(_Seul._) O ciel!
+pourquoi tout mon sang se reflue ainsi vers mon coeur, le rendant
+inutile � lui-m�me, et privant tous mes autres organes du ressort qui
+leur est n�cessaire? Ainsi la foule insens�e se presse autour d'un homme
+qui s'�vanouit; ils viennent tous pour le secourir, et interceptent
+ainsi l'air qui le ranimerait; ainsi les sujets d'un monarque bien-aim�
+oublient leur r�le, et pouss�s par une respectueuse affection, se
+pressent en sa pr�sence l� o� leur amour mal instruit va n�cessairement
+para�tre une injure.
+
+(Entre Isabelle.)
+
+ANGELO.--Eh bien! belle jeune fille?
+
+ISABELLE.--Je suis venue savoir votre bon plaisir.
+
+ANGELO.--J'aimerais bien mieux que vous pussiez le deviner, que de me
+demander de vous l'apprendre.--Votre fr�re ne peut vivre.
+
+ISABELLE.--En est-il ainsi? Que le ciel conserve Votre Honneur! (Elle va
+pour se retirer).
+
+ANGELO.--Et cependant il peut vivre encore un temps, et il se pourrait
+qu'il v�c�t aussi longtemps que vous, ou moi... Pourtant, il faut qu'il
+meure.
+
+ISABELLE.--Sur votre arr�t?
+
+ANGELO.--Oui...
+
+ISABELLE.--Quand? je vous en conjure, afin que, dans le r�pit qui lui
+est accord�, plus long ou plus court, il puisse �tre pr�par� � sauver
+son �me.
+
+ANGELO.--Oh! malheur � ces vices honteux! il vaudrait autant pardonner �
+celui qui vole � la nature un homme d�j� form�, qu'� l'insolente volupt�
+de ceux qui jettent l'image du Cr�ateur dans des moules prohib�s par
+le ciel: il n'est pas plus coupable de trancher perfidement une vie
+l�gitimement form�e, que de jeter du m�tal dans des vaisseaux d�fendus
+pour cr�er une vie ill�gitime.
+
+ISABELLE.--Telles sont les lois du ciel, mais non celles de la terre.
+
+ANGELO.--Dites-vous cela? En ce cas, je vais bient�t vous embarrasser.
+Lequel aimeriez-vous mieux, ou que la plus juste des lois �t�t en ce
+moment la vie � votre fr�re, ou, pour racheter sa vie, de livrer votre
+corps � la douce impuret�, comme celle qu'il a d�shonor�e?
+
+ISABELLE.--Seigneur, croyez-moi, j'aimerais mieux sacrifier mon corps
+que mon �me.
+
+ANGELO.--Je ne parle point de votre �me; les p�ch�s que la n�cessit�
+nous force de commettre, ne servent qu'� faire nombre, sans nous charger
+davantage.
+
+ISABELLE.--Comment dites-vous?
+
+ANGELO.--Non, je ne puis pas garantir cela; car je pourrais donner des
+raisons contre ce que je viens de dire. R�pondez-moi � ceci:--moi, qui
+suis la voix de la loi �crite, je prononce contre votre fr�re un arr�t
+de mort: n'y aurait-il point de la charit� dans un p�ch� qui sauverait
+la vie de ce fr�re?
+
+ISABELLE.--Ah! daignez le faire: j'en prends le p�ril sur mon �me; ce ne
+serait point un p�ch�, mais un acte de charit�.
+
+ANGELO.--Si vous vouliez le faire vous-m�me au p�ril de votre �me, le
+poids du p�ch� et de la charit� serait le m�me.
+
+ISABELLE.--Oh! si demander la vie de mon fr�re est un p�ch�, ciel,
+fais-m'en porter tout le poids! et si c'est en vous un p�ch� que de
+c�der � ma sollicitation, tous les matins je prierai le ciel que cette
+faute soit ajout�e aux miennes et que vous n'ayez � en r�pondre en rien.
+
+ANGELO.--Non. �coutez-moi: votre id�e ne suit pas le sens de la mienne;
+ou vous �tes ignorante, ou vous affectez de l'�tre par ruse, et ce n'est
+pas bien.
+
+ISABELLE.--Que je sois ignorante et pleine de d�fauts en tout, pourvu du
+moins que je sache que je ne vaux pas mieux.
+
+ANGELO.--Ainsi la sagesse cherche � briller davantage, en s'accusant
+elle-m�me: comme les masques noirs proclament la beaut� qu'ils cachent,
+dix fois plus haut que ne pourrait le faire la beaut� � d�couvert.--Mais
+�coutez-moi bien; pour �tre bien compris, je vais parler plus nettement:
+votre fr�re doit mourir.
+
+ISABELLE.--Oui.
+
+ANGELO.--Et son d�lit est tel qu'il doit subir la peine impos�e par la
+loi.
+
+ISABELLE.--Cela est vrai.
+
+ANGELO.--Supposez qu'il n'y ait point d'autre moyen de sauver sa
+vie (bien que je ne consente pas � ce moyen, ni � aucun autre; c'est
+uniquement par forme de conversation), si ce n'est celui-ci, que vous,
+sa soeur, inspirant des d�sirs � quelque homme, dont le cr�dit aupr�s du
+juge, ou sa propre dignit�, pourrait d�livrer votre fr�re des entraves
+de la toute-puissante loi, supposez, dis-je, qu'il n'y e�t point d'autre
+moyen humain de le sauver, mais qu'il fall�t, ou livrer les tr�sors
+de votre corps � cet homme que nous supposons, ou laisser souffrir le
+coupable, que feriez-vous?
+
+ISABELLE.--Je ferais pour mon pauvre fr�re tout ce que je ferais pour
+moi-m�me: je veux dire, que si j'�tais condamn�e � la mort, je
+porterais les marques douloureuses du fouet, comme des rubis, et je
+me d�shabillerais pour aller � la mort, comme vers un lit que j'aurais
+d�sir� � en devenir malade, plut�t que de c�der mon corps au d�shonneur.
+
+ANGELO.--En ce cas, votre fr�re mourrait?
+
+ISABELLE.--Et ce serait le parti le plus doux; il vaudrait mieux qu'un
+fr�re mour�t une fois, que si une soeur, pour racheter sa vie, mourait
+�ternellement.
+
+ANGELO.--Et ne seriez-vous pas alors aussi cruelle que la sentence
+contre laquelle vous vous �tes tant r�cri�e?
+
+ISABELLE.--L'ignominie pour ran�on et un libre pardon ne sont pas de la
+m�me famille: une mis�ricorde l�gitime ne ressemble en rien � un rachat
+honteux.
+
+ANGELO.--Vous paraissiez tout � l'heure voir dans la loi un tyran, et
+vous cherchiez � prouver que la faute de votre fr�re �tait plut�t une
+folie qu'un vice.
+
+ISABELLE.--Ah! pardonnez-moi, seigneur; il advient souvent que, pour
+obtenir ce que nous souhaitons, nous ne disons pas tout ce que nous
+pensons; j'excuse un peu le vice que j'abhorre en faveur de l'homme que
+j'aime tendrement.
+
+ANGELO.--Nous sommes tous fragiles.
+
+ISABELLE.--Que mon fr�re meure s'il n'est point feudataire d'une
+servitude commune, mais seul h�ritier et possesseur de la faiblesse.
+
+ANGELO.--Et les femmes sont fragiles aussi.
+
+ISABELLE.--Oui, comme la glace o� elles se mirent, et qui se brise aussi
+facilement qu'elle r�fl�chit leur visage. Les femmes! que le ciel leur
+vienne en aide! Les hommes d�rogent de leur origine en profitant de leur
+faiblesse. Oui, appelez-nous dix fois fragiles: car nous sommes aussi
+tendres que l'est notre constitution, et susceptibles de fausses
+impressions.
+
+ANGELO.--Je le pense comme vous; et, d'apr�s ce t�moignage rendu � votre
+propre sexe, permettez que je m'explique avec plus de hardiesse; puisque
+je suppose que nous ne sommes pas faits pour avoir une force � l'�preuve
+de toutes les fautes. Je vous prends par vos propres paroles: soyez ce
+que vous �tes, c'est-�-dire une femme. Si vous �tes plus, vous n'�tes
+plus une femme; si vous en �tes une (comme l'annoncent visiblement
+toutes les garanties ext�rieures), montrez-le en ce moment, en rev�tant
+ce costume qui vous est destin�.
+
+ISABELLE.--Je ne sais qu'un langage: mon bon seigneur, je vous en
+supplie, parlez-moi comme vous faisiez d'abord.
+
+ANGELO.--Comprenez-moi nettement... je vous aime.
+
+ISABELLE.--Mon fr�re aimait Juliette, et vous me dites qu'il faut qu'il
+meure pour cela.
+
+ANGELO.--Il ne mourra point, Isabelle, si vous m'accordez votre amour.
+
+ISABELLE.--Je sais que votre vertu a le privil�ge de feindre une
+apparence de vice pour surprendre les autres.
+
+ANGELO.--Croyez-moi, sur mon honneur: mes paroles expriment ma pens�e.
+
+ISABELLE.--Ah! c'est bien peu d'honneur pour qu'on y croie beaucoup.
+Pernicieuse pens�e! Hypocrisie, hypocrisie!--Je te d�noncerai tout haut,
+Angelo; prends-y bien garde: signe-moi tout � l'heure le pardon de mon
+fr�re, ou je vais, � gorge d�ploy�e, publier devant l'univers quel homme
+tu es.
+
+ANGELO.--Qui te croira, Isabelle? Mon nom sans tache, l'aust�rit� de ma
+vie, mon t�moignage contre toi, et mon rang dans l'�tat, auront tant de
+pr�pond�rance sur ton accusation, que tu seras �touff�e sous ton propre
+rapport, et tax�e de calomnie. J'ai commenc�, et maintenant je l�che la
+bride � ma passion: donne ton consentement � mes violents d�sirs; �carte
+tout scrupule, et ces rougeurs fatigantes qui repoussent ce qu'elles
+convoitent. Rach�te ton fr�re, en livrant ton corps � mon bon plaisir;
+autrement, non-seulement il mourra de mort, mais ta cruaut� prolongera
+sa mort par de longs tourments. Donne-moi ta r�ponse demain, ou, j'en
+jure par la passion qui me domine � pr�sent, je me montrerai un tyran
+� son �gard. Quant � tes menaces, dis ce que tu voudras; mes mensonges
+auront plus de cr�dit que tes v�rit�s.
+
+(Il sort.)
+
+ISABELLE _seule_.--A qui irai-je porter mes plaintes? Si je redisais
+ceci, qui me croirait? O bouches funestes, qui portent une seule et m�me
+langue pour condamner et pour absoudre; for�ant la loi � se plier � leur
+volont�, attachant le juste et l'injuste � leur passion, pour la suivre
+l� o� elle va. Je vais aller trouver mon fr�re; quoiqu'il ait succomb�
+par l'ardeur du sang, cependant il poss�de une �me si pleine d'honneur
+que, quand il aurait vingt t�tes � placer sur vingt billots sanglants,
+il les donnerait toutes, plut�t que de permettre que sa soeur livr�t son
+corps � une si d�testable profanation. Allons, Isabelle, vis chaste; et
+toi, mon fr�re, meurs. Notre chastet� est plus pr�cieuse qu'un fr�re. Je
+vais pourtant l'instruire de la proposition d'Angelo, et le pr�parer �
+la mort pour le bien de son �me.
+
+(Elle sort.)
+
+FIN DU SECOND ACTE.
+
+
+
+
+                           ACTE TROISI�ME
+
+
+SC�NE I
+
+La prison.
+
+LE DUC, CLAUDIO, LE PR�V�T.
+
+
+LE DUC.--Ainsi, vous esp�rez donc obtenir votre gr�ce du seigneur
+Angelo?
+
+CLAUDIO.--Les malheureux n'ont d'autre rem�de que l'esp�rance: j'ai
+l'esp�rance de vivre, et je suis pr�t � mourir.
+
+LE DUC.--Soyez d�termin� � la mort, et soit la vie, soit la mort, vous
+en para�tront plus douces. Raisonnez ainsi avec la vie: si je te perds,
+je perds une chose qui n'est estim�e que des insens�s. Tu n'es qu'un
+souffle, soumis � toutes les influences de l'atmosph�re, affligeant �
+toute heure le corps que tu habites; tu n'es que le jouet de la mort;
+tu travailles � l'�viter par la fuite et tu cours te pr�cipiter dans
+ses bras. Homme! tu n'as rien de noble; car tous les avantages que tu
+poss�des sont nourris de tout ce qu'il y a de plus bas[21]: tu n'as en
+toi nul courage; car tu crains jusqu'au faible dard fourchu[22] d'un
+pauvre ver: ton meilleur repos c'est le sommeil; aussi tu le recherches
+souvent, et pourtant tu crains sottement la mort, qui n'est rien de
+plus[23]! Tu n'es jamais toi-m�me tu n'existes que par des milliers de
+graines sorties de la poussi�re: tu n'es pas heureux; car ce que tu
+n'as pas, tu cherches sans cesse � l'obtenir; et ce que tu poss�des tu
+l'oublies: tu n'es jamais fix�, car ta nature suit les �tranges caprices
+de la lune. Si tu es riche, tu es pauvre: semblable � l'�ne dont
+l'�chine courbe sous les lingots, tu ne portes tes pesantes richesses
+que pendant une journ�e de marche, et la mort vient te d�charger. Tu
+n'as point d'ami; le fruit de tes propres entrailles, qui te nomme son
+p�re, la substance �man�e de tes reins, maudit la goutte, les dartres
+et le catarrhe qui ne t'ach�vent pas assez vite � son gr�: tu n'as ni
+jeunesse ni vieillesse, mais seulement pour ainsi dire un sommeil de
+l'apr�s-d�n�e, dont les r�ves participent de l'un et de l'autre. Ton
+heureuse jeunesse s'assimile � la vieillesse, et demande l'aum�ne aux
+vieillards paralytiques; lorsque tu es vieux et riche, tu n'as plus ni
+chaleur, ni affections, ni membres, ni beaut�, pour jouir agr�ablement
+de tes tr�sors. Qu'y a-t-il encore dans ce qu'on appelle la vie? Il y a
+encore dans cette vie mille morts cach�es: et nous craignons la mort qui
+met un terme � toutes ces chances!
+
+[Note 21: Toutes les d�licatesses de la table remontent au fumier.]
+
+[Note 22: Opinion fausse du vulgaire sur la forme et le venin de la
+langue du serpent.]
+
+[Note 23: _Habes somnum imaginem mortis, eamque quotidi� induis, et
+dubitas an sensus in morte nullus sit c�m in ejus simulacro videas esse
+nullum sensum._ (CIC�RON.)]
+
+CLAUDIO.--Je vous remercie humblement. Je vois que demander � vivre
+c'est chercher � mourir, et qu'en cherchant la mort on trouve la vie:
+qu'elle vienne donc!
+
+(Entre Isabelle.)
+
+ISABELLE.--Y a-t-il quelqu'un? La paix soit dans ces lieux, et la gr�ce
+c�leste, et une bonne compagnie!
+
+LE PR�V�T.--Qui est l�? Entrez: ce souhait seul m�rite un bon accueil.
+
+LE DUC.--Cher Claudio, avant peu je reviendrai vous voir.
+
+CLAUDIO.--Je vous remercie, saint religieux.
+
+ISABELLE, _au pr�v�t_.--J'ai un mot ou deux � dire � Claudio: voil� ce
+que j'ai � faire.
+
+LE PR�V�T.--Et vous �tes la bienvenue.--(_A Claudio._) Tenez, seigneur,
+voil� votre soeur.
+
+LE DUC.--Pr�v�t, un mot, s'il vous pla�t.
+
+LE PR�V�T.--Autant qu'il vous plaira.
+
+LE DUC.--Amenez-les pour causer dans un endroit o� je puisse �tre cach�
+et les entendre.
+
+(Le duc sort avec le pr�v�t, et assiste, invisible, � la suite de cette
+sc�ne.)
+
+CLAUDIO.--Eh bien! ma soeur, quelle consolation m'apportes-tu?
+
+ISABELLE.--Comme sont toutes les consolations, fort bonne en v�rit�. Le
+seigneur Angelo, ayant des affaires dans le ciel, te choisit pour les
+y porter comme son ambassadeur, et pour y �tre son r�sident �ternel.
+Ainsi, h�te-toi de faire tous tes pr�paratifs; tu pars demain.
+
+CLAUDIO.--N'y a-t-il donc point de rem�de?
+
+ISABELLE.--Point d'autre que celui de fendre un coeur en deux pour
+sauver une t�te.
+
+CLAUDIO.--Mais, y a-t-il quelque rem�de?
+
+ISABELLE.--Oui, mon fr�re, tu peux vivre; il est dans le coeur de ton
+juge une mis�ricorde infernale: si tu veux l'implorer, elle sauvera ta
+vie; mais elle t'encha�nera jusqu'� la mort.
+
+CLAUDIO.--Une prison perp�tuelle?
+
+ISABELLE.--Oui, pr�cis�ment, une prison perp�tuelle: tu resterais
+attach� � un point fixe, quand tu aurais tout l'espace de l'univers � ta
+disposition.
+
+CLAUDIO.--Mais de quelle nature?...
+
+ISABELLE.--D'une nature, si tu y consentais jamais, � d�pouiller de son
+�corce l'arbre de ton honneur, et � te laisser nu.
+
+CLAUDIO.--Fais-moi conna�tre ce moyen.
+
+ISABELLE.--Oh! je te crains, Claudio, je tremble que tu ne veuilles
+conserver une vie maladive, et que tu n'attaches plus de prix � six
+ou sept hivers de plus, qu'� un honneur �ternel. Oses-tu mourir? Le
+sentiment de la mort est surtout dans la crainte, et le malheureux
+insecte que nous foulons aux pieds �prouve des angoisses corporelles
+aussi cruelles qu'un g�ant en ressent pour mourir.
+
+CLAUDIO.--Peux-tu me faire cet outrage? Me crois-tu si faible que je
+sois incapable d'une r�solution courageuse? S'il faut que je meure,
+j'irai au-devant de la mort, comme au-devant d'une fianc�e, et je la
+serrerai dans mes bras.
+
+ISABELLE.--C'est mon fr�re qui vient de parler; cette voix est sortie
+du tombeau de mon p�re.--Oui, tu dois mourir: tu es trop g�n�reux pour
+conserver une vie au prix de viles sollicitations. Ce ministre, avec un
+air de saintet�, dont la grave parole et le visage compos� atterrent
+la jeunesse, et font trembler la folie, comme le faucon la perdrix; eh
+bien! c'est un d�mon; si l'on retirait toute la fange qui le remplit, il
+nous para�trait un ab�me aussi profond que l'enfer.
+
+CLAUDIO.--Le seigneur Angelo?
+
+ISABELLE.--Oh! il porte la trompeuse livr�e de l'enfer, qui se pla�t
+� rev�tir un corps de r�prouv� d'ornements majestueux.--Croiras-tu,
+Claudio, que si je lui livrais ma virginit�, tu pourrais �tre sauv�?
+
+CLAUDIO.--O ciel! cela n'est pas possible.
+
+ISABELLE.--Oui, au prix de ce crime d�testable, il te donnerait la
+libert� de l'offenser encore. Cette nuit m�me est le moment o� je
+devrais faire ce que j'ai horreur de nommer; autrement tu meurs demain.
+
+CLAUDIO.--Tu ne le feras pas.
+
+ISABELLE.--Oh! si ce n'�tait que ma vie, je la jetterais, pour te
+sauver, avec autant d'indiff�rence qu'une �pingle.
+
+CLAUDIO.--Merci, ch�re Isabelle.
+
+ISABELLE.--Tiens-toi pr�t, Claudio, � mourir demain.
+
+CLAUDIO.--Oui.--Mais quoi! a-t-il donc en lui des passions qui puissent
+lui faire ainsi mordre la loi au nez?... Quand il voudrait la violer?...
+s�rement ce n'est pas un p�ch�, ou, des sept p�ch�s capitaux, celui-l�
+est le moindre.
+
+ISABELLE.--Quel est le moindre?
+
+CLAUDIO.--Si c'�tait un p�ch� damnable, lui qui est si sage voudrait-il,
+pour le plaisir d'un moment, s'exposer � une peine �ternelle? O
+Isabelle!
+
+ISABELLE.--Que dit mon fr�re?
+
+CLAUDIO.--Que la mort est une chose terrible.
+
+ISABELLE.--Et une vie sans honneur, une chose ha�ssable.
+
+CLAUDIO.--Oui; mais mourir, et aller on ne sait o�; �tre gisant dans
+une froide tombe, et y pourrir; perdre cette chaleur vitale et dou�e de
+sentiment, pour devenir une argile p�trie; tandis que l'�me accoutum�e
+ici-bas � la jouissance se baignera dans les flots br�lants, ou habitera
+dans les r�gions d'une glace �paisse,--emprisonn�e dans les vents
+invisibles, pour �tre emport�e violemment et sans rel�che par les
+ouragans autour de ce globe suspendu dans l'espace, ou pour subir un
+sort plus affreux que le plus affreux de ceux que la pens�e errante et
+incertaine imagine avec un cri d'�pouvante; oh! cela est trop horrible.
+La vie de ce monde la plus p�nible et la plus odieuse que la vieillesse,
+ou la mis�re, ou la douleur, ou la prison puissent imposer � la nature,
+est encore un paradis aupr�s de tout ce que nous appr�hendons de la
+mort.
+
+ISABELLE.--H�las! h�las!
+
+CLAUDIO.--Ch�re soeur, que je vive! Le p�ch� que tu commets pour sauver
+la vie d'un fr�re est tellement excus� par la nature qu'il devient
+vertu.
+
+ISABELLE.--O brute sauvage! � l�che sans foi! � malheureux sans honneur!
+veux-tu donc vivre par mon crime? N'est-ce pas une esp�ce d'inceste que
+de recevoir la vie du d�shonneur de ta propre soeur? Que dois-je penser?
+Que le ciel m'en pr�serve! Je croirais que ma m�re s'est jou�e de mon
+p�re; car un rejeton si sauvage et si d�g�n�r� n'est jamais sorti de son
+sang. Re�ois mon refus: meurs, p�ris! Il ne faudrait que me baisser pour
+te racheter de ta destin�e, que je te la laisserais subir: je ferais
+mille pri�res pour demander ta mort, et je ne dirais pas un mot pour te
+sauver.
+
+CLAUDIO.--Ah! �coute-moi, Isabelle.
+
+(Le duc rentre.)
+
+ISABELLE.--Oh! fi! fi! fi donc! oh! c'est une honte! Ta faute n'est pas
+accidentelle, c'est une habitude: la piti� qui serait �mue pour toi se
+prostituerait: il vaut mieux que tu meures au plus t�t!
+
+CLAUDIO.--Ah! daigne m'�couter, Isabelle.
+
+LE DUC.--Accordez-moi un mot, jeune soeur, un seul mot.
+
+ISABELLE.--Que me voulez-vous?
+
+LE DUC.--Si vous pouviez disposer de quelques moments de loisir, je
+d�sirerais avoir tout � l'heure avec vous un instant d'entretien, et la
+complaisance que je vous demande vous sera aussi utile.
+
+ISABELLE.--Je n'ai pas de loisir superflu: le temps que je passerai
+ici sera vol� � mes autres affaires; mais je veux bien vous �couter un
+moment.
+
+LE DUC, _� part, � Claudio_.--Mon fils, j'ai entendu tout ce qui s'est
+pass� entre vous et votre soeur. Jamais Angelo n'a eu le projet de la
+s�duire; il n'a voulu que faire l'�preuve de sa vertu, pour exercer
+son jugement sur la nature des caract�res; elle, qui a dans son �me le
+v�ritable honneur, lui a fait ce noble refus qu'il a �t� fort aise de
+recevoir. Je suis le confesseur d'Angelo, et je suis instruit de la
+v�rit� de ce que je vous dis: ainsi pr�parez-vous � la mort: ne vous
+reposez point avec satisfaction sur de vaines esp�rances qui vous
+trompent: il vous faut mourir demain; � genoux donc et pr�parez-vous.
+
+CLAUDIO.--Laissez-moi demander pardon � ma soeur. Je suis si d�go�t� de
+la vie, que je veux prier qu'on m'en d�barrasse.
+
+LE DUC.--Restez-en l�. Adieu.
+
+(Claudio sort.)
+
+(Le pr�v�t rentre.)
+
+LE DUC.--Pr�v�t, un mot.
+
+LE PR�V�T.--Que demandez-vous, mon p�re?
+
+LE DUC.--Que maintenant que vous voil�, vous vous en alliez: laissez-moi
+un instant avec cette jeune fille: mes intentions, d'accord avec
+mon habit, vous sont garants qu'elle ne court aucun risque dans ma
+compagnie.
+
+LE PR�V�T.--A la bonne heure.
+
+(Le pr�v�t sort.)
+
+LE DUC.--La main qui vous a fait belle vous a aussi fait vertueuse: la
+beaut� qui fait bon march� de sa vertu, se fl�trit bient�t en cessant
+d'�tre honn�te: mais la pudeur, qui est l'�me de votre personne,
+conservera � jamais votre beaut�. Le hasard a amen� � ma connaissance
+l'attaque qu'Angelo vous a faite; et sans les exemples que nous avons de
+la fragilit� de l'homme, je m'�tonnerais beaucoup d'Angelo. Comment vous
+y prendriez-vous pour satisfaire ce ministre et pour sauver votre fr�re?
+
+ISABELLE.--Je vais, dans ce moment m�me, r�soudre ces doutes: j'aimerais
+mieux que mon fr�re sub�t la mort � laquelle le condamne la loi, que
+d'�tre m�re d'un fils ill�gitime. Mais h�las! combien le bon duc est
+tromp� par Angelo! Si jamais il revient et que je puisse lui parler, ou
+je perdrai mes paroles ou je d�masquerai son ministre.
+
+LE DUC.--Cela ne sera pas mal fait: cependant, au point o� en sont
+encore les choses, il �ludera votre accusation. Il n'a fait que vous
+�prouver: ainsi, pr�tez bien l'oreille � mes avis: l'envie que j'ai
+de faire le bien m'offre un rem�de. Je me persuade � moi-m�me que vous
+pouvez, sans blesser l'honn�tet�, rendre un service important � une
+dame malheureuse qui en est digne, conserver sans tache votre aimable
+personne, et plaire infiniment au duc absent, si jamais il revient et
+qu'il soit instruit de cette affaire.
+
+ISABELLE.--D�couvrez-moi votre pens�e; je me sens le courage de faire
+tout ce qui ne me para�tra pas mal dans la sinc�rit� de mon �me.
+
+LE DUC.--La vertu est pleine d'intr�pidit�, et la puret� ne conna�t
+pas la crainte. N'avez-vous pas ou� parler de Marianne, la soeur de
+Fr�d�ric, ce guerrier fameux qui a fait naufrage?
+
+ISABELLE.--J'ai entendu nommer cette dame, et l'on parle bien d'elle.
+
+LE DUC.--Eh bien! cet Angelo devait l'�pouser; il lui avait �t� fianc�
+avec serment. Dans l'intervalle du contrat � la c�l�bration du mariage,
+son fr�re Fr�d�ric a fait naufrage sur la mer, et le vaisseau qui a p�ri
+portait la dot de sa soeur. Mais remarquez quel malheur cet accident
+a produit pour cette pauvre dame; elle perd du m�me coup un brave
+et illustre fr�re, qui avait toujours eu pour elle la plus grande
+tendresse, et avec lui le nerf de sa fortune, sa dot de mariage; et
+par suite de ces pertes, le mari qui lui �tait fianc�, cet hypocrite
+d'Angelo.
+
+ISABELLE.--Est-il possible? Quoi! Angelo l'a ainsi d�laiss�e?
+
+LE DUC.--Il l'a laiss�e dans les larmes; il n'en a pas essuy� une seule
+par ses consolations; il a aval� ses serments d'un seul coup, pr�tendant
+avoir fait sur elle des d�couvertes contre son honneur; en un mot, il
+l'a abandonn�e � ses g�missements, qu'elle pousse encore actuellement
+pour l'amour de lui; et lui, de marbre pour ses pleurs, il en est
+arros�, mais non pas amolli.
+
+ISABELLE.--Quel m�rite aurait donc la mort d'enlever cette pauvre
+fille du monde! Quelle corruption dans la vie, de laisser vivre ce
+perfide!--Mais, quel avantage peut-elle tirer de tout ceci?
+
+LE DUC.--C'est une rupture qu'il vous est ais� de renouer; et en la
+gu�rissant vous sauvez non-seulement votre fr�re, mais vous vous gardez
+du d�shonneur.
+
+ISABELLE.--Montrez-moi comment, mon bon p�re.
+
+LE DUC.--Cette jeune fille que je viens de vous nommer conserve toujours
+dans son coeur sa premi�re inclination, et l'injuste et cruel proc�d�
+d'Angelo, qui selon toute raison aurait d� �teindre son amour, n'a fait,
+comme un obstacle dans le courant, que le rendre plus violent et plus
+imp�tueux. Retournez vers Angelo; r�pondez � sa proposition avec une
+ob�issance qui le satisfasse; accordez-vous avec lui dans toutes ses
+demandes � ce sujet, et ne r�servez pour vous que ces conditions:
+d'abord que vous ne resterez pas longtemps avec lui; ensuite qu'il
+choisisse l'heure de la nuit et du plus profond silence, et un lieu
+convenable: ceci convenu, voici le reste: nous conseillons � cette fille
+outrag�e de se servir de votre rendez-vous et d'aller le trouver � votre
+place. Si le secret de leur entrevue vient � se d�voiler dans la suite,
+cette d�couverte pourra le d�terminer � la r�compenser; et par l�, votre
+fr�re est sauv�, votre honneur reste intact, la malheureuse Marianne
+trouve son avantage, et ce ministre corrompu est votre dupe. Je me
+charge d'instruire la jeune fille, et de la pr�parer � son entreprise.
+Si vous avez soin de conduire ceci, le double avantage qui en r�sultera
+absoudra cette ruse de tout reproche. Qu'en pensez-vous?
+
+ISABELLE.--L'id�e m'en satisfait d�j�, et j'ai confiance qu'elle pourra
+conduire � une heureuse issue.
+
+LE DUC.--Le succ�s d�pend beaucoup de votre adresse: h�tez-vous d'aller
+trouver Angelo; s'il vous demande de partager son lit cette nuit,
+promettez-lui de le satisfaire. Je vais � l'instant � Saint-Luc: c'est
+l� que dans une ferme solitaire demeure la triste Marianne; venez m'y
+trouver, et terminez promptement avec Angelo, afin de ne pas tarder � me
+rejoindre.
+
+ISABELLE.--Je vous rends gr�ce de ces consolations. Adieu, bon p�re.
+
+(Ils sortent de diff�rents c�t�s.)
+
+
+SC�NE II
+
+Une rue devant la prison.
+
+_Entrent_ LE DUC, _toujours en habit de religieux_, LE COUDE, LE
+BOUFFON, ET DES OFFICIERS DE JUSTICE.
+
+
+LE COUDE.--Allons, s'il n'y a pas de rem�de, et qu'il faille absolument
+que vous vendiez et achetiez les hommes et les femmes comme des
+bestiaux, il faudra donc que tout le monde s'abreuve de b�tard rouge et
+blanc[24].
+
+[Note 24: Esp�ce de vin doux. Expression amphibologique pour dire qu'on
+n'aura plus qu'une famille de b�tards.]
+
+LE DUC.--O ciel! Quelle est cette esp�ce?
+
+LE BOUFFON.--Il n'y a jamais eu de joie dans le monde, depuis que, de
+deux usuriers, le plus joyeux a �t� ruin�; et le pire des deux a re�u,
+par ordre de la loi, une robe fourr�e pour le tenir chaud, et fourr�e
+de peaux de renard et d'agneau, pour signifier que la fraude, �tant plus
+riche que l'innocence, sert pour les parements.
+
+LE COUDE.--Allez votre chemin, monsieur.--Dieu vous garde, bon
+P�re-Fr�re.
+
+LE DUC.--Et vous aussi, bon Fr�re-P�re. Quelle offense cet homme vous
+a-t-il faite?
+
+LE COUDE.--Vraiment, mon p�re, il a offens� la loi; et voyez-vous,
+monsieur, nous le croyons aussi un voleur, monsieur; car nous avons
+trouv� sur lui, monsieur, un �trange rossignol, que nous avons envoy� au
+ministre.
+
+LE DUC, _au bouffon_.--Fi, mis�rable entremetteur; m�chant entremetteur!
+Le mal que tu fais faire est donc ta ressource pour vivre. R�fl�chis
+seulement � ce que c'est que de remplir son estomac, ou de couvrir son
+dos par le moyen de ces vices honteux. Dis-toi � toi-m�me: c'est du
+fruit de leurs abominables et brutales accointances, que je bois, que je
+mange, que je m'habille, et que je subsiste. Peux-tu donc croire que ta
+vie est une vie d�pendant comme elle fait de ces salet�s? Va t'amender,
+va t'amender.
+
+LE BOUFFON.--Il est vrai que cette vie sent mauvais, � quelques �gards,
+monsieur; mais pourtant, monsieur, je vous prouverai...
+
+LE DUC.--Ah! si le diable t'a donn� des preuves pour commettre le p�ch�,
+tu prouveras que tu es � lui.--Officier, conduisez-le en prison. La
+correction et l'instruction auront toutes deux � faire, avant que cette
+brute en profite.
+
+LE COUDE.--Il faut qu'il comparaisse devant le ministre. Monsieur, le
+ministre lui a d�j� donn� une le�on: le ministre ne peut supporter un
+supp�t de d�bauche. S'il faut qu'il soit un marchand de prostitution, et
+qu'il paraisse en sa pr�sence, il vaudrait autant qu'il f�t � un mille
+de lui � ses affaires.
+
+LE DUC.--Pl�t au ciel que nous fussions tous ce que quelques-uns
+voudraient para�tre, aussi exempts de nos vices, que certains vices sont
+d�pouill�s d'apparences trompeuses!
+
+(Entre Lucio.)
+
+LE COUDE, _au duc_.--Son cou sera comme votre ceinture, avec une corde,
+monsieur.
+
+LE BOUFFON.--Je cherche de l'appui: je demande � grands cris une
+caution: voici un honn�te homme, et un ami � moi.
+
+LUCIO.--H� bien, noble Pomp�e? Quoi! aux talons de C�sar? Es-tu men�
+en triomphe? Quoi! n'y a-t-il donc plus de statues de Pygmalion,
+nouvellement devenues femmes, qu'on puisse se procurer, pour mettre
+la main dans la poche, et l'en retirer ferm�e? Que r�ponds-tu? Ha! Que
+dis-tu de ce ton, de cette mani�re, de cette m�thode? H�! ta r�ponse
+n'a-t-elle pas �t� noy�e dans la derni�re pluie? H� bien! que dis-tu,
+pauvre diable? Le monde va-t-il comme il allait, mon gar�on? Quelle est
+la mode � pr�sent? Est-ce d'�tre triste et laconique? Ou comment, enfin?
+Quel est le genre?
+
+LE DUC.--Toujours, toujours le m�me, et pis encore.
+
+LUCIO.--Comment se porte ma ch�re mignonne, ta ma�tresse? Fait-elle
+toujours le commerce... hem?
+
+LE BOUFFON.--D'honneur, monsieur, elle a mang� tout son boeuf, et elle
+est elle-m�me dans l'�tuve.
+
+LUCIO.--H�! c'est fort bien: cela est bien juste: cela doit �tre.
+Toujours votre fra�che d�bauch�e et votre vieille saupoudr�e!... C'est
+une suite in�vitable: cela doit �tre. Vas-tu en prison, Pomp�e?
+
+LE BOUFFON.--Oui, ma foi, monsieur.
+
+LUCIO.--H� bien! cela n'est pas mal � propos, Pomp�e. Adieu. Va, dis que
+je t'y ai envoy�. Est-ce pour dettes, Pomp�e? ou pourquoi?
+
+LE COUDE.--Pour �tre un �tre, un entremetteur, monsieur, pour �tre un
+entremetteur.
+
+LUCIO.--Allons, emprisonnez-le: si la prison est le partage d'un
+entremetteur, c'est son droit assur�ment, eh bien! cela est juste. Oui,
+il n'y a pas � en douter, c'est un entremetteur, et de vieille date
+encore; il est n� entremetteur. Adieu, bon Pomp�e: recommande-moi �
+la prison, Pomp�e. Tu vas devenir un bon mari, Pomp�e: tu garderas la
+maison.
+
+LE BOUFFON.--J'esp�re, monsieur, que votre bonne seigneurie sera ma
+caution.
+
+LUCIO.--Non, certes, je n'en ferai rien, Pomp�e: ce n'est pas la mode.
+Je prierai, Pomp�e, qu'on resserre tes entraves: si tu ne le prends pas
+en patience, h� bien! tant pis pour toi. Adieu, brave Pomp�e.--Dieu vous
+garde, religieux!
+
+LE DUC.--Et vous aussi.
+
+LUCIO.--Brigitte se peint-elle toujours, Pomp�e? Hem!
+
+LE COUDE, _au bouffon_.--Allez votre chemin, monsieur; allons.
+
+LE BOUFFON, _� Lucio_.--Alors vous ne voulez pas �tre ma caution,
+monsieur?
+
+LUCIO.--Ni maintenant, ni alors, Pomp�e.--(_Au duc._)--Quelles nouvelles
+dans le monde, bon fr�re? Quelles nouvelles?
+
+LE COUDE, _au bouffon_.--Allons, marchez; avan�ons, monsieur.
+
+LUCIO.--Va au chenil, Pomp�e, va.--(_Le Coude, le bouffon et les
+officiers sortent_.) Quelles nouvelles du duc, fr�re?
+
+LE DUC.--Je n'en sais point: pouvez-vous m'en apprendre?
+
+LUCIO.--Il y en a qui disent qu'il est avec l'empereur de Russie;
+d'autres qu'il est � Rome; mais devinez-vous o� il est?
+
+LE DUC.--Je n'en sais absolument rien. Mais o� qu'il soit, je lui
+souhaite du bien.
+
+LUCIO.--C'est une folie, un caprice bien bizarre � lui, de s'�vader
+ainsi de ses �tats, et d'usurper aux mendiants un m�tier pour lequel il
+n'�tait pas n�. Le seigneur Angelo fait bien le duc en son absence; il
+va m�me un peu loin.
+
+LE DUC.--Il fait tr�s-bien.
+
+LUCIO.--Un peu plus d'indulgence pour le libertinage ne lui ferait aucun
+tort � lui: il est un peu trop s�v�re sur cet article, fr�re.
+
+LE DUC.--C'est un vice trop r�pandu; et il n'y a que la s�v�rit� qui
+puisse le gu�rir.
+
+LUCIO.--Oui, en v�rit�; ce vice est d'une nombreuse famille; il est fort
+bien alli�, mais il est impossible de l'extirper compl�tement, fr�re, �
+moins qu'on ne d�fende de boire et de manger. On dit que cet Angelo n'a
+pas �t� fait par un homme et une femme, suivant les voies ordinaires de
+la cr�ation, cela est-il vrai? Le croyez-vous?
+
+LE DUC.--H�! comment donc aurait-il �t� fait?
+
+LUCIO.--Quelques-uns pr�tendent qu'il naquit du frai d'une syr�ne.
+D'autres qu'il a �t� engendr� entre deux morues.--Mais ce qu'il y a de
+bien s�r, c'est que quand il l�che de l'eau, son urine est de la vraie
+glace; pour cela, je sais que cela est, et il n'est qu'un automate
+impuissant cela est bien certain.
+
+LE DUC.--Vous �tes plaisant, monsieur, et vous avez la parole facile.
+
+LUCIO.--Quelle barbarie est-ce de sa part que d'�ter la vie � un homme
+pour la r�volte de la chair? Est-ce que le duc qui est absent aurait
+fait cela? Avant qu'il e�t fait pendre un homme pour avoir engendr� cent
+b�tards, il aurait pay� les mois de nourrice de mille; il se sentait un
+peu de ce penchant; il connaissait le service, et cela lui enseignait
+l'indulgence.
+
+LE DUC.--Jamais je n'ai ou� dire que le duc, qui est absent, ait �t�
+tr�s-coupable sur l'article des femmes; ses inclinations n'allaient pas
+de ce c�t�-l�.
+
+LUCIO.--Oh! monsieur, vous vous trompez.
+
+LE DUC.--Cela n'est pas possible.
+
+LUCIO.--Qui? Le duc? Demandez � votre vieille de cinquante ans; l'usage
+du duc �tait de mettre un ducat dans sa bruyante �cuelle[25]. Le duc
+avait des caprices; il aimait � s'enivrer aussi; je puis vous apprendre
+cela.
+
+[Note 25: Les mendiants, il y a deux ou trois si�cles, portaient une
+�cuelle � couvercle mobile qu'ils agitaient pour avertir qu'elle �tait
+vide.]
+
+LE DUC.--Vous lui faites injure, tr�s-certainement.
+
+LUCIO.--Monsieur, j'�tais son intime; le duc �tait un homme r�serv�, et
+je crois que je sais la cause de sa retraite.
+
+LE DUC.--Quelle peut en �tre la raison, je vous prie?
+
+LUCIO.--Non: excusez-moi.--C'est un secret qui doit rester enferm� entre
+les dents et les l�vres; mais je peux vous laisser comprendre ceci. Le
+plus grand nombre des sujets tenait le duc pour sage.
+
+LE DUC.--Sage? eh mais! il n'y a pas de doute qu'il ne le f�t.
+
+LUCIO.--C'est un homme tr�s-superficiel, ignorant et �tourdi.
+
+LE DUC.--C'est de votre part ou envie, ou folie, ou erreur; le
+cours m�me de sa vie, et les affaires qu'il a gouvern�es, doivent
+n�cessairement lui assurer une meilleure renomm�e.--Qu'on le juge
+seulement sur ce que d�posent de lui ses actions, et il para�tra aux
+plus envieux un homme instruit, un homme d'�tat et un militaire; ainsi
+vous parlez en homme mal inform�; ou, si vous �tes bien instruit, c'est
+donc votre m�chancet� qui vous aveugle.
+
+LUCIO.--Monsieur, je le connais bien, et je l'aime.
+
+LE DUC.--L'amiti� parle avec plus de connaissance, et la connaissance
+avec plus d'amiti�.
+
+LUCIO.--Allons, monsieur, je sais ce que je sais.
+
+LE DUC.--J'ai bien de la peine � le croire, puisque vous ne savez pas ce
+que vous dites. Mais si jamais le duc revient (comme nous le demandons
+au ciel), faites-moi le plaisir de r�pondre devant lui. Si c'est la
+v�rit� qui vous a fait parler, vous aurez le courage de soutenir ce
+que vous avez dit; je suis oblig� de vous citer devant lui; et, je vous
+prie, votre nom?
+
+LUCIO.--Monsieur, mon nom est Lucio, bien connu du duc.
+
+LE DUC.--Il vous conna�tra mieux, monsieur, si je vis pour lui parler de
+vous.
+
+LUCIO.--Je ne vous crains pas.
+
+LE DUC.--Oh! vous esp�rez que le duc ne repara�tra jamais, ou me croyez
+un adversaire trop peu dangereux; mais, moi, je vous dis que je peux
+vous faire un peu de mal; vous vous r�tracterez sur tout ceci.
+
+LUCIO.--Je serai pendu auparavant; vous vous trompez sur mon compte,
+fr�re. Mais ne parlons plus de cela. Pouvez-vous me dire si Claudio doit
+mourir ou non?
+
+LE DUC.--Pourquoi mourrait-il, monsieur?
+
+LUCIO.--Eh! pour avoir rempli une bouteille avec un entonnoir. Je
+voudrais que le duc dont nous parlons f�t revenu. Ce ministre eunuque
+d�peuplera les provinces � force de continence. Il ne faut pas que les
+moineaux b�tissent leur nid sous les toits de sa maison, parce qu'ils
+sont d�bauch�s. Le duc punirait du moins en secret des crimes secrets;
+jamais il ne les produirait au grand jour. Que je voudrais qu'il f�t de
+retour! En v�rit�, Claudio est condamn� pour avoir d�trouss� un jupon.
+Adieu, bon p�re; je vous en prie, priez pour moi. Le duc, je vous le
+r�p�te, mangerait du mouton les vendredis: il a pass� l'�ge maintenant,
+et cependant je vous dis qu'il vous caresserait encore une mendiante,
+quand elle sentirait le pain bis et l'ail. Dites que c'est moi qui vous
+l'ai dit. Adieu. (Il sort.)
+
+LE DUC.--Il n'est puissance ni grandeur parmi les mortels qui puissent
+�chapper � la censure: la calomnie, qui blesse par derri�re, frappe la
+vertu la plus pure. Quel monarque assez puissant pour encha�ner le fiel
+d'une langue m�disante?--Mais qui vient ici?
+
+(Entrent Escalus, le pr�v�t, madame Overdone, et des officiers de
+justice.)
+
+ESCALUS.--Allons, emmenez-la en prison.
+
+MADAME OVERDONE.--Mon cher seigneur, soyez bon pour moi; vous passez
+pour �tre un homme plein de mis�ricorde, mon bon seigneur!
+
+ESCALUS.--Double et triple avertissement, et toujours coupable du m�me
+d�lit! Il y a de quoi forcer la mis�ricorde � jurer, � agir en tyran.
+
+LE PR�V�T.--Une entremetteuse qui pratique depuis onze ans, sous le bon
+plaisir de votre honneur.
+
+MADAME OVERDONE.--Seigneur, c'est la d�lation d'un certain Lucio contre
+moi: madame Catherine Keepdown �tait grosse de lui dans le temps du duc;
+il lui a promis le mariage; son enfant aura un an et trois mois d�s que
+viendra la Saint-Jacques et la Saint-Philippe. Je l'ai nourri moi-m�me,
+et voyez comme il a l'indignit� de me nuire.
+
+ESCALUS.--Cet homme est un franc libertin.--Qu'on le fasse compara�tre
+devant nous.--Conduisez-la en prison: allez, plus de paroles. (_Les
+officiers emm�nent madame Overdone._) Pr�v�t, mon fr�re Angelo ne veut
+pas changer son arr�t; il faut que Claudio meure demain; ayez soin de
+lui procurer des th�ologiens, et tout ce que conseille la charit�, pour
+le pr�parer � son sort. Si mon fr�re agissait d'apr�s ma piti�, Claudio
+n'en serait pas l�.
+
+LE PR�V�T.--Sauf votre bon plaisir ce religieux l'a visit�, et lui a
+donn� ses avis pour le pr�parer � la mort.
+
+ESCALUS.--Bonsoir, bon p�re.
+
+LE DUC.--Que le bonheur et la vertu vous accompagnent toujours.
+
+ESCALUS.--D'o� �tes-vous?
+
+LE DUC.--Je ne suis pas de ce pays, quoique le hasard en ait fait
+le lieu de ma r�sidence pour un certain temps. Je suis un fr�re d'un
+excellent ordre, tout r�cemment envoy� par le saint-si�ge, et charg� par
+sa Saintet� d'une affaire particuli�re.
+
+ESCALUS.--Quelles nouvelles dit-on dans le monde?
+
+LE DUC.--Aucune, si ce n'est qu'il y a une si grande maladie sur la
+vertu, qu'elle ne finira que par sa dissolution; la nouveaut� est ce que
+tout le monde recherche, et il y a autant de danger � vieillir dans
+une m�me fa�on de vivre qu'il y a de vertu � �tre constant dans une
+entreprise. Il survit � peine assez de bonne foi entre les hommes pour
+rendre les soci�t�s s�res; mais il y a assez de s�curit� pour faire
+maudire les associations. C'est sur cette �nigme que roule � peu
+pr�s toute la sagesse du monde. Ces nouvelles sont assez vieilles, et
+cependant ce sont encore les nouvelles de chaque jour.--Je vous prie,
+monsieur, quel �tait le caract�re du duc?
+
+ESCALUS.--Un homme qui s'appliquait plus qu'� tout autre soin � se
+conna�tre lui-m�me.
+
+LE DUC.--A quels plaisirs �tait-il adonn�?
+
+ESCALUS.--Il avait plus de plaisir de voir les autres en joie qu'il
+n'en trouvait lui-m�me � tout ce qui cherchait � le r�jouir. Un homme
+de toute temp�rance! Mais laissons-le � ses aventures, en priant le
+ciel qu'elles soient heureuses; et faites-moi le plaisir de m'apprendre
+comment vous trouvez Claudio pr�par�. On m'a fait entendre que vous
+l'aviez visit�.
+
+LE DUC.--Il d�clare qu'il n'a point � se plaindre de son juge, qu'il
+ne l'accuse point d'injustice, et qu'il se soumet avec une humble
+r�signation � l'arr�t de la justice. Cependant il s'�tait forg�, par une
+inspiration de la faiblesse, plusieurs esp�rances trompeuses de vivre;
+je suis venu � bout avec le temps de lui en faire sentir la vanit�, et
+maintenant il est r�sign� � mourir.
+
+ESCALUS.--Vous vous �tes acquitt� de vos voeux envers le ciel, et envers
+le prisonnier de la dette de votre minist�re. J'ai sollicit� pour ce
+pauvre gentilhomme jusqu'� l'extr�me limite de la discr�tion; mais j'ai
+trouv� mon coll�gue de justice si s�v�re, qu'il m'a forc� de lui dire
+qu'il �tait en effet la justice elle-m�me[26].
+
+[Note 26: _Summum jus, summa injuria._]
+
+LE DUC.--Si sa propre conduite r�pond � la rigueur de ses jugements, il
+n'y a rien � lui reprocher; mais s'il lui arrive de succomber, il s'est
+condamn� lui-m�me.
+
+ESCALUS.--Je vais visiter le prisonnier. Adieu.
+
+LE DUC.--La paix soit avec vous! (_Escalus sort avec le pr�v�t de la
+prison._) Celui qui veut tenir le glaive du ciel, doit �tre aussi saint
+que s�v�re; se sentir lui-m�me un mod�le; poss�der la force de r�sister
+et la vertu d'avancer, ne punissant plus ou moins les autres que d'apr�s
+le poids de ses propres fautes. Honte � celui dont le glaive cruel tue
+pour des fautes o� l'entra�ne son propre penchant! Six fois honte �
+Angelo qui veut d�raciner mes vices et laisser cro�tre les siens! O
+quelles noirceurs l'homme peut cacher en lui-m�me, quoiqu'il paraisse un
+ange � l'ext�rieur! Comme l'hypocrite vivant dans le crime, abusant tout
+le monde, attire � lui, avec de fragiles fils d'araign�e, des choses
+substantielles et de poids! Il faut que j'oppose la ruse au vice. Ce
+soir, Angelo recevra dans son lit son ancienne fianc�e qu'il m�prise;
+c'est ainsi qu'un trompeur sera pris par son propre d�guisement, ne
+recevra que tromperies pour prix des siennes, et sera forc� de remplir
+un ancien contrat[27].
+
+[Note 27: Cette tirade est en vers rim�s.]
+
+FIN DU TROISI�ME ACTE.
+
+
+
+
+                           ACTE QUATRI�ME
+
+
+SC�NE I
+
+Appartement dans la ferme o� habite Marianne.
+
+MARIANNE _assise_, UN JEUNE GAR�ON _chantant_.
+
+
+  CHANSON.
+
+  �carte, oh! �carte ces l�vres
+  Ces l�vres si douces et si parjures;
+  Et ces yeux brillants comme le point du jour,
+  Flambeaux qui �garent l'aurore.
+  Mais rends-moi mes baisers,
+    Rends-les-moi
+  Ces sceaux d'amour, scell�s en vain,
+    Scell�s en vain.
+
+MARIANNE.--Interromps tes chants, et h�te-toi de te retirer. Voici venir
+un homme de consolation dont les avis ont souvent calm� les murmures
+de ma douleur. (_L'enfant sort; le duc entre._) Je vous demande pardon,
+monsieur, et je voudrais bien que vous ne m'eussiez pas trouv�e si en
+train de musique. Excusez-moi, et croyez-m'en, ces chants adoucissaient
+mes chagrins; mais ils sont loin de m'inspirer de la joie.
+
+LE DUC.--C'est bien, quoique la musique ait souvent la puissance de
+faire du mal un bien, et d'exciter le bien au mal.--Je vous prie,
+dites-moi: quelqu'un est-il venu me demander aujourd'hui? A peu pr�s �
+cette heure-ci, j'ai promis de me trouver ici.
+
+MARIANNE.--Personne n'est venu vous demander; je suis rest�e ici tout le
+jour.
+
+(Entre Isabelle.)
+
+LE DUC, _� Marianne_.--Je vous crois sans h�siter. L'heure est venue;
+c'est justement � pr�sent. Je vous demanderai de vous absenter un peu.
+Il se pourrait bien que je vous rappelasse bient�t pour quelque chose
+qui vous sera avantageux.
+
+MARIANNE.--Je vous suis toujours d�vou�e.
+
+(Elle sort.)
+
+LE DUC.--Nous nous rencontrons fort � propos, et vous �tes la bienvenue.
+Quelles nouvelles de ce digne ministre?
+
+ISABELLE.--Il a un jardin entour� d'un mur de briques, dont le c�t�
+du couchant est flanqu� d'un vignoble; � ce vignoble est une porte en
+planches qu'ouvre cette grosse clef; cette autre ouvre une petite porte,
+qui, du vignoble, conduit au jardin; c'est l� que je lui ai promis
+d'aller le trouver au milieu de la nuit.
+
+LE DUC.--Mais, en savez-vous assez pour trouver votre chemin?
+
+ISABELLE.--J'ai pris avec soin tous les renseignements n�cessaires,
+et par deux fois il m'a montr� le chemin avec un soin coupable, en me
+parlant � l'oreille et par des gestes significatifs.
+
+LE DUC.--N'y a-t-il point d'autres gages convenus entre vous qu'il
+faille observer?
+
+ISABELLE.--Non, point d'autres: seulement un rendez-vous dans les
+t�n�bres; et je lui ai bien fait entendre que mon t�te-�-t�te avec lui
+ne pouvait �tre que bien court; car je lui ai d�clar� que je serais
+accompagn�e d'un domestique, qui m'attendrait, et qui �tait persuad� que
+je venais pour les affaires de mon fr�re.
+
+LE DUC.--Tout est bien arrang�; je n'ai pas encore dit un mot de tout
+cela � Marianne.--(_Il l'appelle._) �tes-vous l�? Venez. (_Rentre
+Marianne._) Je vous en prie, faites connaissance avec cette jeune
+personne; elle vient pour vous faire du bien.
+
+ISABELLE.--Je le d�sire pour elle.
+
+LE DUC, _� Marianne_.--�tes-vous persuad�e que je m'int�resse � vous?
+
+MARIANNE.--Bon religieux, je le sais, et j'en ai re�u des preuves.
+
+LE DUC.--Prenez-donc votre compagne par la main; elle a une confidence
+� vous faire. J'attendrai votre loisir; mais h�tez-vous: l'humide nuit
+s'approche.
+
+MARIANNE, _� Isabelle_.--Voulez-vous faire un tour de promenade �
+l'�cart?
+
+(Elles sortent toutes deux.)
+
+LE DUC _seul_.--O dignit�! O grandeur! Des millions d'yeux perfides sont
+attach�s sur toi! Des volumes de rapports, compos�s de r�cits faux
+et contradictoires, courent le monde sur tes actions! Mille esprits
+inquiets te prennent pour l'objet de leurs r�ves insens�s, et te
+tourmentent dans leur imagination! (_Marianne et Isabelle rentrent._)
+Soyez les bienvenues. H� bien, �tes-vous d'accord?
+
+ISABELLE.--Elle se chargera de l'entreprise, mon p�re, si vous le lui
+conseillez.
+
+LE DUC.--Non-seulement je le lui conseille, mais je le lui demande.
+
+ISABELLE, _� Marianne_.--Vous n'avez que tr�s-peu de choses � lui dire;
+quand vous le quitterez, dites-lui simplement, � voix basse: _A pr�sent,
+souvenez-vous de mon fr�re._
+
+MARIANNE.--Reposez-vous sur moi.
+
+LE DUC.--Et vous, ma ch�re fille, n'ayez aucun scrupule; il est votre
+mari par un contrat; il n'y a aucun p�ch� � vous r�unir ainsi; et la
+justice de vos droits sur lui absout cette tromperie. Allons, partons:
+notre bl� sera bient�t � moissonner, et nous avons encore la terre �
+ensemencer.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+Salle de la prison.
+
+_Entrent_ LE PR�V�T ET LE BOUFFON.
+
+
+LE PR�V�T.--Viens ici, coquin.--Peux-tu trancher la t�te d'un homme?
+
+LE BOUFFON.--Si l'homme est gar�on, je le peux, monsieur; mais si c'est
+un homme mari�, il est le chef[28] de sa femme, et je ne pourrais jamais
+trancher le chef d'une femme.
+
+[Note 28: _Head_, t�te, chef.]
+
+LE PR�V�T.--Allons, laissez l� vos �quivoques, et faites-moi une r�ponse
+directe. Demain matin, Claudio et Bernardino doivent �tre ex�cut�s. Nous
+avons ici, dans notre prison, l'ex�cuteur ordinaire, qui a besoin d'un
+aide dans son office. Si vous voulez prendre sur vous de le seconder,
+cela vous rach�tera de vos fers; sinon, vous ferez tout votre temps de
+prison et vous n'en sortirez qu'apr�s avoir �t� impitoyablement fouett�;
+car vous avez �t� un entremetteur affich�.
+
+LE BOUFFON.--Monsieur, j'ai �t�, de temps imm�morial, un entremetteur
+ill�gitime: mais, pourtant, je serai satisfait de devenir un bourreau
+l�gitime. Je serais bien aise de recevoir quelques instructions de mon
+coll�gue.
+
+LE PR�V�T.--Hol�, Abhorson! O� est Abhorson? �tes-vous l�?
+
+(Entre Abhorson.)
+
+ABHORSON.--Appelez-vous, monsieur?
+
+LE PR�V�T.--Maraud, voici un homme qui vous aidera dans votre ex�cution
+de demain: si vous le jugez � propos, arrangez-vous avec lui � l'ann�e,
+et qu'il loge ici dans la prison; sinon, servez-vous de lui dans la
+circonstance pr�sente, et renvoyez-le; il ne peut pas faire le rench�ri
+avec vous: il a �t� entremetteur.
+
+ABHORSON.--Un entremetteur, monsieur! Fi donc! il discr�ditera nos
+myst�res.
+
+LE PR�V�T.--Allez, vous vous valez bien; une plume ferait pencher la
+balance entre vous deux.
+
+(Il sort.)
+
+LE BOUFFON.--Je vous prie, monsieur, par votre bonne gr�ce (car s�rement
+vous avez bonne gr�ce, si ce n'est que vous avez une mine de pendaison),
+est-ce que vous appelez, monsieur, votre occupation un myst�re?
+
+ABHORSON.--Oui, monsieur, un myst�re.
+
+LE BOUFFON.--La peinture, monsieur, � ce que j'ai ou� dire, est un
+myst�re, et vos filles prostitu�es, monsieur, �tant des parties de
+mon minist�re, l'usage de la peinture prouve que mon occupation est
+un myst�re; mais quel myst�re peut-il y avoir � pendre? c'est ce que,
+duss�-je �tre pendu, je ne peux m'imaginer.
+
+ABHORSON.--Monsieur, c'est un myst�re.
+
+LE BOUFFON.--La preuve?
+
+ABHORSON.--La d�pouille de tout honn�te homme convient au voleur: si
+elle para�t trop petite au voleur, l'honn�te homme la croit assez grande
+pour lui; et, si elle est trop grande pour un voleur, le voleur pourtant
+la croit assez petite pour lui: car la d�pouille de tout honn�te homme
+va au voleur.
+
+(Le pr�v�t rentre.)
+
+LE PR�V�T.--�tes-vous arrang�s?
+
+LE BOUFFON.--Monsieur, je veux bien le servir; car je trouve que votre
+bourreau fait un m�tier plus p�nitent que votre entremetteur.
+
+LE PR�V�T, _au bourreau_.--Vous, coquin, pr�parez le billot et votre
+hache, pour demain quatre heures.
+
+ABHORSON, _au bouffon_.--Allons, entremetteur, je vais t'instruire dans
+mon m�tier; suis-moi.
+
+LE BOUFFON.--J'ai bonne envie d'apprendre, monsieur, et j'esp�re que
+si vous avez occasion de m'employer � votre service, vous me trouverez
+adroit; car, en bonne foi, monsieur, je vous dois, pour prix de vos
+bont�s, de vous bien servir. (Il sort.)
+
+LE PR�V�T.--Faites venir ici Bernardino et Claudio; l'un a toute ma
+piti�; je n'en ai pas un grain pour l'autre qui est un assassin...
+f�t-il mon fr�re. _(Entre Claudio.)_ Voyez, Claudio: voici l'ordre pour
+votre mort. Il est � pr�sent minuit sonn�; et demain, � huit heures du
+matin, vous serez fait immortel. O� est Bernardino?
+
+CLAUDIO.--Plong� dans un sommeil aussi profond que l'innocente fatigue
+quand elle dort dans les membres roidis du voyageur, et il ne veut pas
+s'�veiller.
+
+LE PR�V�T.--Quel moyen de lui faire du bien?--Allons, allez-vous
+pr�parer.--Mais �coutons; quel est ce bruit? (_On frappe aux portes._)
+Que le ciel vous donne ses consolations. (_Claudio sort._)--Tout �
+l'heure.--J'esp�re que c'est quelque gr�ce, ou quelque sursis pour
+l'aimable Claudio. (_Entre le duc._) Salut, bon p�re.
+
+LE DUC.--Que les meilleurs anges de la nuit vous environnent, honn�te
+pr�v�t! Qui est venu ici derni�rement?
+
+LE PR�V�T.--Personne, depuis l'heure du couvre-feu.
+
+LE DUC.--Isabelle n'est pas venue?
+
+LE PR�V�T.--Non.
+
+LE DUC.--Alors, elles vont venir sous peu.
+
+LE PR�V�T.--Quelle consolation y a-t-il pour Claudio?
+
+LE DUC.--On en esp�re un peu.
+
+LE PR�V�T.--Ce ministre est bien dur.
+
+LE DUC.--Non pas, non pas: sa vie marche parall�lement avec la ligne de
+son exacte justice; par une sainte abstinence, il dompte en lui-m�me
+le penchant vicieux, qu'il emploie tout son pouvoir � corriger dans
+les autres. S'il �tait souill� du vice qu'il ch�tie, il serait alors un
+tyran; mais, �tant ce qu'il est, il n'est que juste.--(_On frappe._) Les
+voil� venues. (_Le pr�v�t sort._)--C'est un pr�v�t bien humain; il est
+bien rare de trouver dans un ge�lier endurci un ami des hommes.--Eh
+bien, quel est ce bruit? L'esprit qui offense de ces terribles coups
+l'insensible poterne est poss�d� d'une bien grande h�te.
+
+LE PR�V�T _rentre parlant � quelqu'un � la porte_.--Il faut qu'il reste
+l�, jusqu'� ce que l'officier se l�ve pour le faire entrer: on vient de
+l'appeler.
+
+LE DUC.--N'avez-vous point encore de contre-ordre pour Claudio? faut-il
+qu'il meure demain?
+
+LE PR�V�T.--Aucun, monsieur, aucun.
+
+LE DUC.--Pr�v�t, le point du jour est bien pr�s; eh bien, vous aurez des
+nouvelles avant le matin.
+
+LE PR�V�T.--Heureusement, vous savez quelque chose, et cependant je
+crois qu'il ne viendra pas de contre-ordre; nous n'avons point d'exemple
+pareil. D'ailleurs, le seigneur Angelo, sur le si�ge m�me de son
+tribunal, a d�clar� le contraire au public.
+
+(Entre un messager.)
+
+LE DUC.--C'est le valet de Sa Seigneurie.
+
+LE PR�V�T.--Et voil� la gr�ce de Claudio.
+
+LE MESSAGER.--Mon ma�tre vous envoie ces ordres; et il m'a de plus
+charg� de vous dire que vous ayez � ne pas vous �carter le moins du
+monde de ce qu'il vous prescrit, ni pour le temps, ni pour l'objet, ni
+pour toute autre circonstance. Bonjour; car � ce que je pr�sume il est
+presque jour.
+
+LE PR�V�T.--J'ob�irai � ses ordres.
+
+(Le messager sort.)
+
+LE DUC, _� part_.--C'est la gr�ce de Claudio, achet�e par le crime m�me,
+pour lequel on devrait punir celui qui en accorde le pardon. Le crime
+se propage rapidement quand il na�t dans le sein de l'autorit�: quand
+le vice fait gr�ce, le pardon s'�tend si loin, que pour l'amour de la
+faute, le coupable trouve des amis.--Eh bien, pr�v�t, quelles nouvelles?
+
+LE PR�V�T.--Je vous l'ai bien dit: le seigneur Angelo, probablement,
+me croyant n�gligent dans mon devoir, me r�veille par cette exhortation
+inaccoutum�e, et selon moi fort �trange, car il ne l'avait jamais faite
+auparavant.
+
+LE DUC.--Lisez, je vous �coute.
+
+LE PR�V�T.(_Il lit la lettre._)--�Quoique que vous puissiez entendre de
+contraire, que Claudio soit ex�cut� � quatre heures, et Bernardino dans
+l'apr�s-midi; et pour ma plus grande satisfaction, ayez � m'envoyer la
+t�te de Claudio � cinq heures. Que ceci soit ponctuellement ex�cut�; et
+sachez que cela importe plus que je ne dois encore vous le dire: ainsi,
+ne manquez pas � votre devoir; vous en r�pondrez sur votre t�te.�
+
+--Que dites-vous � cela, monsieur?
+
+LE DUC.--Qu'est-ce que c'est que ce Bernardino qui doit �tre ex�cut�
+dans l'apr�s-d�n�e?
+
+LE PR�V�T.--Un Boh�mien de naissance, mais qui a �t� nourri et �lev�
+ici; c'est un prisonnier de neuf ans[29].
+
+[Note 29: Il y a neuf ans qu'il est en prison.]
+
+LE DUC.--Comment se fait-il que le duc absent ne lui ait pas rendu sa
+libert�, ou ne l'ait pas fait ex�cuter? J'ai ou� dire que tel �tait son
+usage.
+
+LE PR�V�T.--Les amis du prisonnier ont toujours si bien agi qu'ils ont
+obtenu des sursis pour lui; et dans le fait, jusqu'au temps du minist�re
+actuel du seigneur Angelo, son affaire n'avait pas de preuves certaines.
+
+LE DUC.--Et sont-elles claires � pr�sent?
+
+LE PR�V�T.--Tr�s-manifestes, et il ne les nie pas lui-m�me.
+
+LE DUC.--A-t-il montr� dans la prison quelque repentir? Para�t-il
+touch�?
+
+LE PR�V�T.--C'est un homme qui n'a pas de la mort une id�e plus terrible
+que d'un sommeil d'ivresse; sans souci, indiff�rent, et ne s'effrayant
+ni du pass�, ni du pr�sent, ni de l'avenir; insensible � l'id�e de
+mourir, et qui mourra en d�sesp�r�.
+
+LE DUC.--Il a besoin de conseils.
+
+LE PR�V�T.--Il n'en veut �couter aucun; il a toujours eu la plus grande
+libert� dans la prison. Vous lui donneriez les moyens de s'en �vader,
+qu'il n'en voudrait rien faire. Il est ivre plusieurs fois par jour,
+lorsqu'il n'est pas ivre pendant plusieurs jours entiers. Nous l'avons
+souvent r�veill� comme pour le conduire � l'�chafaud; nous lui avons
+montr� un ordre contrefait: cela ne l'a pas �mu le moins du monde.
+
+LE DUC.--Nous reparlerons de lui tout � l'heure.--Pr�v�t, l'honn�tet� et
+la fermet� d'�me sont �crites sur votre front: si je n'y lis pas votre
+vrai caract�re, mon ancienne habilet� me trompe bien; mais dans la
+confiance de ma sagacit�, je veux m'exposer au risque. Claudio, que vous
+avez l� l'ordre de faire ex�cuter, n'a pas plus pr�variqu� contre
+la loi, qu'Angelo m�me qui l'a condamn�. Pour vous faire entendre
+clairement ce que je vous avance l�, je ne demande que quatre jours
+de d�lai; et pour cela, il faut que vous m'accordiez aujourd'hui une
+complaisance dangereuse.
+
+LE PR�V�T.--Eh! laquelle, bon religieux, je vous prie?
+
+LE DUC.--Celle de diff�rer l'ex�cution.
+
+LE PR�V�T.--H�las! comment puis-je le faire, ayant l'heure fix�e, et un
+ordre expr�s, sous peine d'en r�pondre moi-m�me, de pr�senter sa t�te �
+la vue d'Angelo? Je pourrais bien me mettre dans le cas o� est Claudio,
+si je manquais en quoi que ce soit � ces ordres.
+
+LE DUC.--Par le voeu de mon ordre je suis votre caution, si vous voulez
+suivre mes instructions. Qu'on ex�cute ce Bernardino ce matin, et qu'on
+porte sa t�te � Angelo.
+
+LE PR�V�T.--Angelo les a vus tous deux, et il reconna�tra les traits.
+
+LE DUC.--Oh! la mort s'entend � d�guiser, et vous pouvez l'aider. Rasez
+la t�te et liez la barbe, et dites que le d�sir du p�nitent a �t� d'�tre
+ainsi ras� avant sa mort: vous savez que cela arrive souvent. S'il vous
+revient autre chose de ceci que des remerciements et votre fortune,
+je jure, par le saint que je r�v�re pour patron, que je vous d�fendrai
+moi-m�me au p�ril de ma vie.
+
+LE PR�V�T.--Pardonnez, bon p�re; mais cela est contre mon serment.
+
+LE DUC.--Est-ce au duc ou au ministre que vous avez fait votre serment?
+
+LE PR�V�T.--Au duc et � ses repr�sentants.
+
+LE DUC.--Penserez-vous que vous n'avez commis aucune offense, si le duc
+certifie la justice de votre conduite?
+
+LE PR�V�T.--Mais quelle vraisemblance y a-t-il de cela?
+
+LE DUC.--Non pas seulement de la vraisemblance, mais la certitude.
+Cependant, puisque je vous vois si timide que ni ma robe, ni mon
+int�grit�, ni mes raisons ne peuvent r�ussir � vous �branler, j'irai
+plus loin que je n'avais l'intention de le faire, pour vous enlever
+toute crainte. Voyez, monsieur, voici la main et le sceau du duc: vous
+connaissez son �criture, je n'en doute pas, et le cachet ne vous est pas
+�tranger.
+
+LE PR�V�T.--Je les reconnais tous deux.
+
+LE DUC.--Le contenu de cet �crit, c'est l'annonce du retour du duc: vous
+le lirez tout � l'heure � votre loisir, et vous y verrez qu'avant deux
+jours il sera ici. C'est une chose qu'Angelo ne sait pas; car il
+re�oit aujourd'hui m�me des lettres qui contiennent d'�tranges choses:
+peut-�tre lui annoncent-elles la mort du duc; peut-�tre son entr�e dans
+quelque monast�re; mais il peut n'�tre rien de ce qui est �crit ici.
+Regardez: l'�toile du matin appelle le berger; ne vous confondez point
+en �tonnement sur la mani�re dont ces choses peuvent se faire; toutes
+les difficult�s sont faciles � r�soudre quand on les conna�t. Appelez
+votre ex�cuteur, et qu'il fasse sauter la t�te de ce Bernardino; je vais
+le confesser � l'instant, et le pr�parer pour un s�jour meilleur. Vous
+restez toujours dans l'�tonnement; mais cet �crit ach�vera de vous
+d�terminer. Sortons; il est presque tout � fait jour.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+LE BOUFFON _seul_.
+
+
+LE BOUFFON _seul_.--Je suis ici aussi riche en connaissances que je
+l'�tais dans notre maison de profession. On se croirait dans la maison
+de madame Overdone, tant on retrouve ici de ses anciens chalands.
+D'abord, il y a le jeune monsieur Rash; il est en prison pour
+une affaire de papier gris et de vieux gingembre, montant �
+quatre-vingt-dix-sept livres, dont il a fait cinq marcs argent comptant.
+Vraiment alors le gingembre n'�tait pas fort recherch�, car toutes les
+vieilles femmes �taient mortes.--Il y a encore un monsieur Caper, � la
+requ�te de monsieur Troispoids, mercier, pour quatre certains habits de
+satin couleur de p�che, qui vous l'ont r�duit maintenant � l'habit d'un
+mendiant. Nous avons aussi le jeune Dizi, et le jeune monsieur Deep-Vow,
+et monsieur Copper-Spur, et monsieur Starve-Lackey, homme d'estoc et de
+taille, et le jeune Drop-Heir, qui a tu� le robuste Pudding, et
+monsieur Fort-Right, le jouteur, et le brave monsieur Shoe-Tie, le grand
+voyageur, et le f�roce Half-Can, qui a poignard� Pots, et, je crois,
+quarante autres, tous grandes pratiques de notre m�tier, et qui sont
+maintenant ici pour l'amour du Seigneur[30].
+
+[Note 30: Trait contre les puritains.]
+
+(Entre Abhorson.)
+
+ABHORSON.--Maraud, am�ne Bernardino ici.
+
+LE BOUFFON, _appelant_.--Monsieur Bernardino! il faut vous lever pour
+�tre pendu, monsieur Bernardino!
+
+ABHORSON.--Allons, debout, Bernardino!
+
+BERNARDINO, _du dedans_.--La peste vous �touffe! qui donc fait ce
+vacarme ici? Qui �tes-vous?
+
+LE BOUFFON.--Vos amis, monsieur, le bourreau. Il faut que vous ayez la
+complaisance, monsieur, de vous lever et de vous laisser ex�cuter.
+
+BERNARDINO, _en dedans_.--Au diable, coquin! au diable! j'ai sommeil.
+
+ABHORSON.--Dis-lui qu'il faut qu'il s'�veille, et cela promptement.
+
+LE BOUFFON.--Je vous en prie, monsieur Bernardino, restez �veill�
+jusqu'� ce que vous soyez ex�cut�, et dormez apr�s.
+
+ABHORSON.--Entre dans son cachot, et fais-l'en sortir.
+
+LE BOUFFON.--Il vient, monsieur, il vient; j'entends craquer sa paille.
+
+(Entre Bernardino.)
+
+ABHORSON, _au bouffon_.--La hache est-elle sur le billot, dr�le?
+
+LE BOUFFON.--Toute pr�te, monsieur.
+
+BERNARDINO.--H� bien! qu'est-ce qu'il y a, Abhorson? Quelles nouvelles
+avez-vous � me dire?
+
+ABHORSON.--Franchement, monsieur, je voudrais que vous vous missiez
+promptement � vos pri�res; car, voyez, l'ordre est venu.
+
+BERNARDINO.--Allons, coquin; j'ai pass� toute la nuit � boire: je ne
+suis pas en �tat...
+
+LE BOUFFON.--Oh! tant mieux, monsieur; car celui qui boit toute la nuit,
+et qui est pendu de bon matin, n'en dort que mieux tout le jour.
+
+(Entre le duc.)
+
+ABHORSON.--Tenez, voyez-vous, voil� votre p�re spirituel qui vient.
+Plaisantons-nous maintenant? Qu'en pensez-vous?
+
+LE DUC, _� Bernardino_.--Mon ami, excit� par ma charit�, et apprenant
+combien vous �tes pr�s de quitter ce monde, je suis venu pour vous
+exhorter, vous consoler et prier avec vous.
+
+BERNARDINO.--Non pas, moine, j'ai bu dru toute la nuit, et l'on me
+donnera plus de temps pour me pr�parer, ou il faudra qu'on me casse la
+t�te � coup de b�che; je ne veux pas consentir � mourir aujourd'hui,
+cela est s�r.
+
+LE DUC.--Oh! mon ami, il le faut; ainsi, je vous en conjure, jetez vos
+regards sur le voyage que vous allez faire.
+
+BERNARDINO.--Je jure que nul homme au monde ne viendra � bout de me
+persuader de mourir aujourd'hui.
+
+LE DUC.--Mais, �coutez-moi...
+
+BERNARDINO.--Pas un mot: si vous avez quelque chose � me dire, venez �
+mon cachot, car je n'en sors pas de la journ�e.
+
+(Il s'en va.)
+
+(Entre le pr�v�t.)
+
+LE DUC.--�galement impropre � vivre et � mourir! O coeur de pierre!
+
+LE PR�V�T.--H� bien! mon p�re, comment trouvez-vous le prisonnier?--(_A
+Abhorson et au bouffon._)--Suivez-le, mes amis: conduisez-le au billot.
+
+LE DUC.--C'est une cr�ature qui n'est pas pr�par�e. Il n'est pas dispos�
+pour mourir, et le faire passer de vie � tr�pas dans l'�tat o� est son
+�me, ce serait le damner.
+
+LE PR�V�T.--Il est mort ce matin, ici, dans la prison, mon p�re, un
+Ragusain, un inf�me pirate, d'une fi�vre violente: cet homme est de
+l'�ge de Claudio; il a la barbe et les cheveux pr�cis�ment de la couleur
+des siens. Si nous laissions-l� cet autre r�prouv� jusqu'� ce qu'il f�t
+bien dispos�, et si on satisfaisait le ministre au moyen de la t�te
+de ce Ragusain, qui est l'homme qui ressemble le plus � Claudio? Qu'en
+dites-vous?
+
+LE DUC.--Oh! c'est un accident que le ciel a pr�par�. D�p�chez-la sans
+d�lai: l'heure fix�e par Angelo est proche, voyez � ce que cela soit
+fait, et envoyez-lui cette t�te suivant ses ordres; tandis que moi, je
+vais exhorter ce brutal malheureux � se r�signer � la mort.
+
+LE PR�V�T.--Cela sera fait, mon bon p�re, dans l'instant m�me. Mais il
+faut que Bernardino meure cette apr�s-midi; et comment prolongerons-nous
+l'existence de Claudio, de fa�on � me garantir du malheur qui pourrait
+m'arriver, si l'on s'apercevait qu'il est vivant?
+
+LE DUC.--Faites ceci: Mettez Bernardino et Claudio dans des recoins
+secrets; avant que le soleil ait �t� saluer deux fois la g�n�ration qui
+habite sous nos pieds, vous trouverez votre s�ret� bien manifeste.
+
+LE PR�V�T.--Je me repose en tout sur vous.
+
+LE DUC.--Vite, d�p�chez, et envoyez la t�te � Angelo. (_Le pr�v�t
+sort_.)--Maintenant je vais �crire une lettre � Angelo; ce sera le
+pr�v�t qui la portera.--Le contenu lui attestera que j'approche de
+mes �tats, et que, par de graves motifs, je suis tenu de rentrer
+publiquement; je lui demanderai de venir � ma rencontre � la fontaine
+sacr�e, � une lieue au-dessous de la ville. Et � partir de l� nous
+proc�derons avec Angelo, avec une froide gradation et des formes bien
+combin�es, et toutes les pratiques r�guli�res.
+
+(Le pr�v�t revient.)
+
+LE PR�V�T.--Voici la t�te: je veux la porter moi-m�me.
+
+LE DUC.--Cela est � propos: revenez promptement; car je voudrais causer
+avec vous de certaines choses qui ne doivent �tre confi�es qu'� vous.
+
+LE PR�V�T.--Je vais faire toute diligence.
+
+(Il sort.)
+
+ISABELLE, _en dedans_.--La paix soit ici! hol�, quelqu'un!
+
+LE DUC.--C'est la voix d'Isabelle.--Elle vient savoir si la gr�ce de
+son fr�re a d�j� �t� envoy�e ici; mais je veux lui laisser ignorer son
+bonheur, pour lui offrir les consolations du ciel dans son d�sespoir, au
+moment o� elle les attendra le moins.
+
+(Entre Isabelle.)
+
+ISABELLE.--Ah! avec votre permission...
+
+LE DUC.--Bonjour, belle et aimable fille.
+
+ISABELLE.--D'autant meilleur pour m'�tre souhait� par un si saint homme.
+Le ministre a-t-il envoy� le pardon de mon fr�re?
+
+LE DUC.--Il l'a �largi de ce monde, Isabelle; sa t�te est tranch�e, et
+envoy�e � Angelo.
+
+ISABELLE.--Non, cela n'est pas.
+
+LE DUC.--Cela est comme je vous le dis: montrez votre sagesse, ma fille,
+dans votre paisible patience.
+
+ISABELLE.--Oh! je vais le trouver, et lui arracher les yeux.
+
+LE DUC.--Vous ne serez pas admise en sa pr�sence.
+
+ISABELLE.--Infortun� Claudio! Malheureuse Isabelle! Odieux monde!
+Infernal Angelo!
+
+LE DUC.--Ces impr�cations ne lui font aucun mal, et ne vous font pas
+le moindre bien; abstenez-vous en donc; remettez votre cause au ciel.
+Faites attention � ce que je vous dis, et vous trouverez que chaque
+syllabe est l'exacte v�rit�.--Le duc revient demain matin.--Allons,
+s�chez vos yeux; c'est un p�re de notre couvent, son confesseur, qui
+m'apprend cette nouvelle, et il en a d�j� port� l'avis � Escalus et �
+Angelo qui se pr�parent � venir au-devant de lui aux portes de la ville,
+pour lui remettre leur autorit�. Si vous le pouvez, conduisez votre
+sagesse dans le bon sentier o� je voudrais la voir marcher; et vous
+obtiendrez le d�sir de votre coeur sur ce mis�rable, la faveur du duc,
+et l'estime g�n�rale.
+
+ISABELLE.--Je me laisse gouverner par vos conseils.
+
+LE DUC.--- Allez donc porter cette lettre au fr�re Pierre, c'est la
+lettre o� il m'avertit du retour du duc; dites-lui, sur ce gage, que je
+d�sire sa compagnie ce soir dans la maison de Marianne; je l'instruirai
+� fond de son affaire et de la v�tre, il vous pr�sentera au duc, il
+accusera Angelo en face, et le confondra. Quant � moi, pauvre religieux,
+je suis li� par un voeu sacr�, et je serai absent. Allez avec cette
+lettre, consolez votre coeur, commandez � ces torrents de larmes qui
+coulent de vos yeux. Ne vous fiez jamais � mon saint ordre, si je vous
+�gare du droit chemin.--Qui vient l�?
+
+(Entre Lucio.)
+
+LUCIO.--Bonsoir. Fr�re, o� est le pr�v�t?
+
+LE DUC.--Il n'est pas dans la prison, monsieur.
+
+LUCIO.--O gentille Isabelle! Mon coeur p�lit de voir tes yeux si rouges;
+il faut que tu prennes patience; j'ai bien l'air de d�ner et de souper
+dor�navant avec du son et de l'eau; je n'oserai plus, pour sauver ma
+t�te, remplir mon estomac. Un repas un peu succulent me m�nerait au
+m�me point; mais on dit que le duc sera ici demain matin. Sur ma foi,
+Isabelle, j'aimais ton fr�re. Si notre vieux duc de joyeuse humeur et
+ami des coins obscurs avait �t� chez lui, Claudio vivrait encore.
+
+(Isabelle sort.)
+
+LE DUC.--Monsieur, le duc a vraiment bien peu d'obligation � vos
+rapports; mais ce qu'il y a de bon, c'est que sa r�putation n'en d�pend
+pas.
+
+LUCIO.--Fr�re, tu ne connais pas le duc aussi bien que moi; c'est un
+meilleur chasseur que tu ne l'imagines.
+
+LE DUC.--Allons, vous r�pondrez un jour de tout ceci. Portez-vous bien.
+
+LUCIO.--Non, reste: je veux t'accompagner; je puis t'accompagner; je
+puis te raconter de jolies histoires du duc.
+
+LE DUC.--Vous ne m'en avez d�j� que trop dit, monsieur, si elles sont
+vraies; si elles ne le sont pas, jamais vous n'en direz assez.
+
+LUCIO.--J'ai comparu devant lui une fois pour avoir donn� un enfant �
+une fille.
+
+LE DUC.--Avez-vous fait pareille chose?
+
+LUCIO.--Oui, d'honneur, je l'ai fait; mais il a bien fallu jurer que
+non; autrement ils m'auraient mari� au bois pourri.
+
+LE DUC.--Monsieur, votre compagnie est plus agr�able qu'honn�te: restez
+en paix.
+
+LUCIO.--Sur ma foi, je vous accompagnerai jusqu'au bout de la rue; si un
+propos libertin vous offense, nous n'en aurons pas long � dire ensemble.
+Allons, fr�re, je suis une esp�ce de glouteron, je m'attacherai � toi.
+
+(Ils sortent.)
+
+
+SC�NE IV
+
+Salle dans la maison d'Angelo.
+
+_Entrent_ ESCALUS et ANGELO.
+
+
+ESCALUS.--Chaque lettre qu'il a �crite a d�savou� l'autre.
+
+ANGELO.--De la mani�re la plus contradictoire et la plus bizarre. Ses
+actions t�moignent quelque chose qui tient beaucoup de la folie;
+prions le ciel que sa sagesse n'en soit pas alt�r�e. Et pourquoi aller
+au-devant de lui aux portes de la ville, et lui remettre l� notre
+autorit�?
+
+ESCALUS.--Je n'en devine pas le motif.
+
+ANGELO.--Et pourquoi veut-il que nous fassions publier, une heure avant
+son entr�e, que si quelqu'un demande r�paration de quelque injustice, il
+ait � pr�senter sa p�tition dans la rue?
+
+ESCALUS.--En cela il se montre judicieux; c'est pour exp�dier toutes les
+plaintes, et nous affranchir pour toujours des intrigues, qui, ce jour
+pass�, ne pourront plus �tre tram�es contre nous.
+
+ANGELO.--Fort bien. Je vous en prie, faites-le proclamer; demain, de
+grand matin, j'irai vous trouver � votre maison. Faites avertir les
+personnes de distinction qui doivent aller � sa rencontre.
+
+ESCALUS.--Je le ferai, monsieur. Adieu.
+
+(Escalus sort.)
+
+ANGELO.--Bonne nuit! Cette action me bouleverse tout � fait, me rend
+incapable de penser, et stupide pour toute affaire. Une vierge d�flor�e!
+et cela par un personnage important qui appliquait la loi port�e contre
+ce d�lit! Si ce n'�tait que sa timide pudeur n'osera proclamer sa
+virginit� perdue, comme elle pourrait parler de moi! mais la raison ne
+l'excite-t-elle pas � m'accuser?--Non, car mon autorit� porte un poids
+de cr�dit qu'aucune accusation particuli�re ne peut toucher sans qu'il
+�crase celui qui oserait la prononcer.... Il aurait v�cu, si ce n'est
+que sa jeunesse libertine, conservant un ressentiment dangereux,
+aurait pu quelque jour chercher � se venger d'avoir ainsi re�u une vie
+d�shonor�e pour une ran�on aussi honteuse; et cependant, pl�t au ciel
+qu'il v�c�t encore! H�las! quand une fois nous avons perdu la gr�ce,
+rien ne va bien: nous voulons, et nous ne voulons pas.
+
+(Il sort.)
+
+
+SC�NE V[31]
+
+La plaine, hors de la ville.
+
+LE DUC, _rev�tu de ses propres habits, et le fr�re_ PIERRE.
+
+[Note 31: Certaines personnes font de cette sc�ne la premi�re de l'acte
+V.]
+
+
+LE DUC.--Remettez-moi ces lettres au moment convenable. (_Il lui donne
+des lettres._) Le pr�v�t est instruit de nos vues et de notre projet:
+l'affaire une fois commenc�e, suivez vos instructions, et tendez
+constamment � notre but particulier, quoique vous ayiez l'air de vous
+en �carter pour ceci ou pour cela, selon que les circonstances le
+conseilleront. Partez, allez chez Flavius, et dites-lui o� je suis:
+instruisez-en �galement Valentin, Rowland et Crassus; et dites leur
+d'envoyer des trompettes � la porte de la ville. Mais envoyez-moi
+Flavius le premier.
+
+LE RELIGIEUX.--Vos ordres seront fid�lement remplis.
+
+(Il sort.)
+
+(Entre Varrius.)
+
+LE DUC.--Je vous rends gr�ces, Varrius; vous avez fait bonne diligence.
+Venez, nous allons nous promener; il y en a encore d'autres de nos amis
+qui vont venir ici nous saluer dans un moment, mon cher Varrius.
+
+(Ils sortent.)
+
+
+SC�NE VI
+
+Une rue pr�s de la porte de la ville.
+
+_Entrent_ ISABELLE ET MARIANNE.
+
+
+ISABELLE.--Parler avec tous ces d�tours me r�pugne: je voudrais dire la
+v�rit�; mais c'est votre r�le � vous de l'accuser ouvertement. Cependant
+il me conseille de le faire, et dit que c'est pour cacher un but
+avantageux.
+
+MARIANNE.--Laissez-vous guider par lui.
+
+ISABELLE.--Il me dit encore que si par hasard il parle contre moi en
+faveur de l'autre, je ne le trouve pas �trange: c'est un rem�de, dit-il,
+qui est amer pour en venir � la douceur.
+
+MARIANNE.--Je voudrais que le fr�re Pierre...
+
+ISABELLE.--Oh! silence, le religieux est arriv�.
+
+(Entre un religieux.)
+
+LE RELIGIEUX.--Venez, je vous ai trouv� une tr�s-bonne place, o� vous
+serez s�res que le duc ne pourra pas passer sans que vous le voyiez;
+les trompettes ont d�j� retenti deux fois; les plus nobles et les plus
+notables citoyens ont pris possession des portes, et le duc ne va pas
+tarder � entrer; ainsi, partons, allons nous-en.
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+                           ACTE CINQUI�ME
+
+
+SC�NE I
+
+Place publique pr�s de la porte de la ville.
+
+MARIANNE _voil�e_, ISABELLE ET PIERRE _dans l'�loignement. Par la porte
+oppos�e entrent_ LE DUC, VARRIUS, DIVERS SEIGNEURS, ANGELO, ESCALUS,
+LUCIO, LE PR�V�T, DES OFFICIERS ET DES CITOYENS.
+
+
+LE DUC.--Mon digne cousin, vous �tes le bienvenu.--Mon ancien et fid�le
+ami, je suis bien aise de vous voir.
+
+ANGELO.--Un heureux retour � Votre Altesse royale!
+
+LE DUC, _� Angelo et Escalus_.--Mille actions de gr�ces sinc�res � tous
+les deux: nous avons pris des informations sur votre compte, et nous
+entendons dire tant de bien de votre justice, que notre coeur ne peut
+s'emp�cher de vous en faire notre remerciement public, comme pr�curseur
+d'autres r�compenses.
+
+ANGELO.--Vous ne faites qu'augmenter de plus en plus mes obligations.
+
+LE DUC.--Votre m�rite parle haut; ce serait lui faire injure que
+d'en renfermer le t�moignage dans le secret de notre connaissance
+personnelle, lorsqu'il m�rite de trouver dans des caract�res d'airain
+une s�curit� �ternelle contre la dent du temps et les ravages de
+l'oubli. Donnez-moi votre main, et que mes sujets le voient, afin qu'ils
+apprennent que mes faveurs visibles voudraient vous annoncer les gr�ces
+que mon coeur vous r�serve.--Venez, Escalus; vous devez �tre pr�s de
+nous de l'autre c�t�. Vous �tes pour moi deux bons appuis.
+
+(Fr�re Pierre et Isabelle s'avancent.)
+
+FR�RE PIERRE, _� Isabelle_.--Voici le moment; parlez haut et mettez-vous
+� genoux devant lui.
+
+ISABELLE.--Justice, � royal duc! abaissez vos regards sur une
+malheureuse, je voudrais pouvoir dire vierge! Oh! digne prince, ne
+d�shonorez pas vos yeux, en les d�tournant vers un autre objet, que vous
+n'ayez entendu ma juste plainte, et que vous ne m'ayez fait justice,
+justice! justice! justice!
+
+LE DUC.--Racontez vos griefs. En quoi avez-vous �t� outrag�e? par
+qui? abr�gez: voici le seigneur Angelo qui vous rendra justice;
+expliquez-vous � lui.
+
+ISABELLE.--O noble duc! vous m'ordonnez d'aller demander mon salut au
+d�mon: entendez-moi vous-m�me; car ce qu'il faut que je dise doit ou
+me faire punir si vous ne me croyez pas, ou vous forcer � me donner
+satisfaction; daignez, ah! daignez m'entendre ici.
+
+ANGELO.--Seigneur, sa raison, je le crains, n'est pas bien saine; elle
+m'a sollicit� pour son fr�re qui a �t� ex�cut� par ordre de la justice.
+
+ISABELLE.--La justice!
+
+ANGELO.--Et elle va se r�pandre en plaintes am�res et �tranges.
+
+ISABELLE.--Oui, je vais r�v�ler des choses bien �tranges, mais bien
+vraies. Cet Angelo est un parjure; cela n'est-il pas �trange? Cet Angelo
+est un assassin; cela n'est-il pas �trange? Cet Angelo est un adult�re
+clandestin, un hypocrite, un ravisseur de vierges; cela n'est-il pas
+�trange et tr�s-�trange?
+
+LE DUC.--Oh! dix fois �trange.
+
+ISABELLE.--Il n'est pas plus vrai qu'il est Angelo, qu'il n'est certain
+que tout cela est aussi vrai qu'�trange; car au bout du compte, la
+v�rit� est la v�rit�.
+
+LE DUC, _� un de ses officiers_.--Qu'on la fasse retirer.--Pauvre
+malheureuse! C'est la faiblesse de sa raison qui la fait parler ainsi.
+
+ISABELLE.--O mon prince! Je vous en conjure, par la foi que vous avez
+qu'il est un autre lieu de consolation que ce monde, ne me d�daignez
+pas en vous persuadant que je suis atteinte de folie; ne jugez pas
+impossible ce qui n'est qu'invraisemblable: il n'est pas impossible
+qu'un homme, qui est le plus vil sc�l�rat de la terre, paraisse aussi
+r�serv�, aussi grave, aussi parfait que le para�t Angelo; il est m�me
+possible qu'Angelo, malgr� toutes ses belles apparences, sa r�putation,
+ses titres et ses formes imposantes, soit un archi-sc�l�rat. Croyez-le,
+illustre prince: s'il est moins que cela, il n'est rien; mais il est
+plus encore, si je savais trouver des mots pour exprimer toute sa
+sc�l�ratesse.
+
+LE DUC.--Sur mon honneur, si elle est insens�e (et je ne puis croire
+autre chose), sa folie a la plus �trange apparence de bon sens; elle
+montre autant de liaison dans ses id�es, que j'en aie jamais entendu
+dans la folie.
+
+ISABELLE.--Gracieux duc, ne vous attachez pas � cette id�e, ne me croyez
+pas priv�e de ma raison parce que je parle sans ordre, et faites servir
+votre jugement � tirer la v�rit� des t�n�bres o� elle semble cach�e, o�
+se cache aussi l'imposture qui semble la v�rit�.
+
+LE DUC.--S�rement, bien des gens qui ne sont pas fous montrent moins de
+raison qu'elle.--Que voulez-vous dire?
+
+ISABELLE.--Je suis la soeur d'un certain Claudio, condamn� � perdre la
+t�te pour un acte de fornication, et condamn� par Angelo. Moi, qui �tais
+en noviciat dans une communaut�, j'ai �t� mand�e par mon fr�re: un nomm�
+Lucio a �t� son messager.
+
+LUCIO.--C'est moi, sous le bon plaisir de Votre Altesse; j'ai �t� la
+trouver de la part de Claudio, et je l'ai pri�e de tenter sa bonne
+fortune aupr�s du seigneur Angelo, pour obtenir le pardon de son pauvre
+fr�re.
+
+ISABELLE.--Oui, c'est lui-m�me en effet.
+
+LE DUC, _� Lucio_.--On ne vous a pas dit de parler.
+
+LUCIO.--Non, mon bon seigneur; mais on n'a pas demand� non plus de me
+taire.
+
+LE DUC.--Allons, je vous le demande maintenant; je vous prie, faites
+attention � ce que je vous dis, et quand vous aurez une affaire
+personnelle, priez le ciel d'�tre alors sans reproche.
+
+LUCIO.--Oh! j'en r�ponds � Votre Altesse.
+
+LE DUC.--R�pondez-vous-en � vous-m�me, prenez-y bien garde.
+
+ISABELLE.--Cet honn�te homme a dit quelque chose de mon histoire.
+
+LUCIO.--Rien que de juste.
+
+LE DUC.--Cela peut �tre juste; mais vous avez tort de parler avant votre
+tour. (_A Isabelle_.) Continuez.
+
+ISABELLE.--J'allai trouver ce dangereux et nuisible ministre.
+
+LE DUC.--Voil� qui sent un peu la d�mence.
+
+ISABELLE.--Pardonnez-moi: la phrase convient au sujet.
+
+LE DUC.--En la rectifiant.--Au fait, continuez.
+
+ISABELLE.--En un mot, et pour laisser de c�t� un inutile r�cit, comment
+j'ai cherch� � le persuader; comment j'ai pri�; comment je me suis
+jet�e � ses genoux; comment il a r�fut� mes raisons; comment je lui ai
+r�pliqu� (car tout cela a �t� long), je d�clare d'abord avec honte et
+douleur l'inf�me conclusion. Il n'a voulu rel�cher mon fr�re qu'au prix
+du sacrifice de mon chaste corps � l'intemp�rance de ses impudiques
+d�sirs. Apr�s beaucoup de d�bats, ma piti� de soeur a fait taire mon
+honneur, et j'ai c�d�; mais le lendemain, d�s le matin, apr�s avoir
+accompli ses desseins, il a envoy� l'ordre de couper la t�te � mon
+pauvre fr�re.
+
+LE DUC.--Cela est fort vraisemblable!
+
+ISABELLE.--Ah! pl�t au ciel que cela f�t aussi vraisemblable que cela
+est vrai!
+
+LE DUC.--Par le ciel, malheureuse insens�e, tu ne sais ce que tu dis;
+ou bien il faut que tu aies �t� suborn�e contre son honneur par quelque
+odieux complot.--D'abord, son int�grit� est sans tache.--Ensuite, il est
+hors de toute raison qu'il poursuiv�t avec tant de s�v�rit� des fautes
+qui lui seraient personnelles: s'il avait ainsi p�ch�, il aurait
+pes� ton fr�re dans sa propre balance, et il ne l'aurait pas fait
+mourir.--Quelqu'un vous a excit�e contre lui. Avouez la v�rit�, et
+d�clarez par le conseil de qui vous �tes venue ici vous plaindre.
+
+ISABELLE.--Et est-ce l� tout? O vous donc, bienheureux ministres du
+ciel, conservez-moi la patience! Et quand le temps sera m�r, d�voilez
+le crime qui reste ici cach� sous de fausses apparences!--Que le ciel
+pr�serve Votre Altesse de tout malheur, lorsque moi, ainsi outrag�e, je
+vous quitte sans que vous me croyiez!
+
+LE DUC.--Je sais que vous ne demanderiez pas mieux que de vous en
+aller.--Un officier!--Conduisez-la en prison.--Quoi! permettrons-nous
+qu'une accusation aussi fl�trissante, aussi scandaleuse, tombe
+impun�ment sur un homme qui nous est attach� de si pr�s? Il y a
+n�cessairement ici quelque intrigue.--Qui a su votre dessein et votre
+d�marche?
+
+ISABELLE.--Un homme que je voudrais bien voir ici, le fr�re Ludovic.
+
+LE DUC.--Votre p�re spirituel, sans doute;--qui conna�t ce Ludovic?
+
+LUCIO.--Seigneur, moi, je le connais; c'est un moine intrigant; je
+n'aime point cet homme-l�: s'il avait �t� la�que, seigneur, je l'aurais
+vertement ch�ti� pour certains propos qu'il a tenus contre Votre
+Altesse, pendant votre absence.
+
+LE DUC.--Des propos contre moi? C'est sans doute un digne religieux!
+Et d'exciter cette malheureuse femme � venir accuser ici notre
+substitut!--Qu'on me trouve ce moine.
+
+LUCIO.--Pas plus tard qu'hier au soir, seigneur, le religieux et elle,
+je les ai vus tous deux dans la prison: un moine impertinent, un vrai
+mis�rable!
+
+LE MOINE PIERRE.--Que le ciel b�nisse Votre Altesse royale! Je me tenais
+ici, seigneur, et j'ai entendu qu'on vous en imposait. D'abord, c'est
+bien � tort que cette femme a accus� votre ministre, qui est aussi
+innocent de toute impuret� ou commerce avec elle, qu'elle l'est
+elle-m�me de tout commerce avec un homme encore � na�tre.
+
+LE DUC.--C'est ce que nous croyons.--Connaissez-vous ce fr�re Ludovic
+dont elle parle?
+
+LE MOINE PIERRE.--Je le connais pour un saint homme de Dieu, et qui
+n'est point un m�chant, ni un intrigant du si�cle, comme le rapporte ce
+gentilhomme. Et, sur ma parole, c'est un homme qui n'a jamais, comme il
+le pr�tend, mal parl� de Votre Altesse.
+
+LUCIO.--Seigneur, de la mani�re la plus inf�me: croyez-moi.
+
+LE MOINE PIERRE.--Allons, il pourra, avec le temps, se justifier
+lui-m�me: mais pour le moment, il est malade, seigneur, d'une fi�vre
+violente; c'est uniquement � sa pri�re, ayant su qu'on projetait
+d'accuser ici devant vous le seigneur Angelo, que je suis venu ici, pour
+d�clarer, comme par sa propre bouche, ce qu'il sait �tre vrai et faux,
+et ce que lui-m�me, par son serment et par toutes sortes de preuves, il
+d�montrera, en quelque temps qu'il soit appel� en t�moignage. D'abord,
+quant � cette femme (� la justification de ce digne seigneur, si
+directement et si publiquement accus�), vous la verrez d�mentie en face,
+jusqu'� ce qu'elle l'avoue elle-m�me.
+
+LE DUC.--Bon p�re, nous vous �coutons, parlez. Cela ne vous fait-il pas
+sourire, seigneur Angelo? O ciel! Ce que c'est que la t�m�rit� de ces
+mis�rables insens�s!--Donnez-nous des si�ges.--Venez, cousin Angelo: je
+veux �tre partial dans cette affaire: soyez vous-m�me juge dans votre
+propre cause. (_Isabelle est emmen�e par les gardes, et Marianne
+s'avance._) Est-ce l� le t�moin, fr�re?--Qu'elle commence par montrer
+son visage, et qu'apr�s, elle parle.
+
+MARIANNE.--Pardonnez, seigneur: je ne montrerai point mon visage, que
+mon �poux ne me l'ordonne.
+
+LE DUC.--- Comment! �tes-vous mari�e?
+
+MARIANNE.--Non, seigneur.
+
+LE DUC.--�tes-vous fille?
+
+MARIANNE.--Non, seigneur.
+
+LE DUC.--Vous �tes donc veuve?
+
+MARIANNE.--Non plus, seigneur.
+
+LE DUC.--Vous n'�tes donc rien?--Ni fille, ni femme, ni veuve.
+
+LUCIO.--Seigneur, elle pourrait bien �tre une catin; car il y en a
+beaucoup parmi elles qui ne sont ni filles, ni femmes, ni veuves.
+
+LE DUC.--Imposez silence � cet homme: je voudrais qu'il e�t quelque
+raison de babiller pour lui-m�me.
+
+LUCIO.--Allons, seigneur.
+
+MARIANNE.--Seigneur, j'avoue que jamais je n'ai �t� mari�e; et j'avoue
+encore que je ne suis point fille: j'ai connu mon mari, et cependant mon
+mari ne sait pas qu'il m'ait jamais connue.
+
+LUCIO.--Il fallait donc qu'il f�t ivre, seigneur; cela ne peut �tre
+autrement.
+
+LE DUC.--Pour obtenir l'avantage de ton silence, je voudrais que tu le
+fusses aussi.
+
+LUCIO.--Tr�s-bien, seigneur.
+
+LE DUC.--Ce n'est pas l� un t�moin pour le seigneur Angelo.
+
+MARIANNE.--Je vais y venir, seigneur. Cette femme qui l'accuse de
+fornication, intente la m�me accusation contre mon mari, et elle
+l'accuse de l'avoir commise, seigneur, dans un moment o� je d�poserai,
+moi, que je le tenais dans mes bras avec toutes les preuves de l'amour.
+
+ANGELO.--L'accuse-t-elle de quelque chose de plus que moi?
+
+MARIANNE.--Pas que je sache.
+
+LE DUC.--Non? Vous dites votre �poux?
+
+MARIANNE.--Oui, pr�cis�ment, seigneur; et c'est Angelo qui croit �tre
+certain de n'avoir jamais connu ma personne, mais qui sait bien qu'il
+croit avoir connu celle d'Isabelle.
+
+ANGELO.--Voil� une �trange �nigme.--Voyons votre visage.
+
+MARIANNE.--Mon mari me l'ordonne; et je vais me d�masquer. (_Elle �te
+son voile._)--Le voil� ce visage, cruel Angelo, que tu jurais nagu�re
+�tre digne de tes regards: voil� la main qui a �t� press�e par la tienne
+avec un contrat appuy� de tes serments: voil� la personne qui a usurp�
+ton rendez-vous avec Isabelle, et qui a satisfait tes d�sirs dans la
+maison de ton jardin, sous le nom suppos� d'Isabelle.
+
+LE DUC, _� Angelo_.--Connaissez-vous cette femme?
+
+LUCIO.--Charnellement, � ce qu'elle dit.
+
+LE DUC, _� Lucio_.--Taisez-vous, dr�le.
+
+LUCIO.--Cela suffit, seigneur.
+
+ANGELO.--Seigneur, je dois convenir que je connais cette femme; et il y
+a cinq ans qu'il y fut question de mariage entre elle et moi, ce qui fut
+rompu en partie parce que la dot promise s'est trouv�e au-dessous de
+la convention; mais la principale raison, c'est que sa r�putation a �t�
+ternie par sa l�g�ret�; et depuis ce temps, depuis cinq ans, jamais je
+ne lui ai parl�, jamais je ne l'ai vue, ni entendu parler d'elle, sur
+mon honneur et ma foi.
+
+MARIANNE.--Noble prince, comme il est vrai que la lumi�re vient du
+ciel, et que les paroles viennent de la voix, que la raison est dans la
+v�rit�, et la v�rit� dans la vertu, je suis fianc�e � cet homme, et sa
+femme par les liens les plus forts que les paroles puissent former; oui,
+mon bon seigneur, pas plus tard que la nuit de mardi dernier, dans la
+maison de son jardin, il m'a connue comme sa femme: au nom de la v�rit�
+de ce que je vous d�clare, souffrez que je me rel�ve de vos genoux en
+s�ret�, ou autrement laissez-moi m'y attacher � jamais comme une statue
+de marbre.
+
+ANGELO.--Je n'ai fait jusqu'� ce moment que sourire � ces extravagances;
+maintenant, mon noble seigneur, donnez-moi la libert� de me faire
+justice: ma patience est mise ici � l'�preuve; je m'aper�ois que ces
+malheureuses folles ne sont que les instruments de quelque ennemi plus
+puissant qui les excite contre moi: laissez-moi la libert�, seigneur, de
+d�couvrir cette sourde men�e.
+
+LE DUC.--De tout mon coeur, et punissez-les absolument � votre
+gr�.--Toi, moine t�m�raire,--et toi, m�chante femme, conjur�e avec celle
+qu'on vient d'emmener, penses-tu que tes serments, quand ils feraient
+descendre � force de protestations tous les saints du ciel, fussent des
+t�moignages admissibles contre son m�rite et sa r�putation, qui sont
+munis du sceau de mon approbation?--Vous, seigneur Escalus, si�gez avec
+mon cousin: pr�tez-lui vos obligeants secours, pour d�couvrir la source
+de cette diffamation.--Il y a un autre moine qui les a excit�es: qu'on
+l'envoie chercher.
+
+LE MOINE PIERRE.--Pl�t � Dieu qu'il f�t ici, seigneur! car c'est lui en
+effet qui a pouss� ces femmes � intenter cette accusation: votre pr�v�t
+conna�t le lieu de sa demeure, et il peut vous l'amener.
+
+LE DUC, _au pr�v�t_.--Allez, et amenez-le dans l'instant.--Et vous,
+mon noble cousin, qui me donnez tant de garanties, et � qui il importe
+d'entendre � fond cette affaire, proc�dez sur vos injures comme vous le
+trouverez bon, et infligez le ch�timent qu'il vous plaira. Je vais vous
+quitter pour quelques moments: ne bougez pas de votre si�ge que vous
+n'ayez bien r�solu la question de ces calomniateurs.
+
+ESCALUS.--Seigneur, nous allons l'examiner � fond.
+
+(Le duc sort.)
+
+ESCALUS, _� Lucio_.--Seigneur Lucio, n'avez-vous pas dit que vous
+connaissiez le moine Ludovic pour �tre un malhonn�te personnage?
+
+LUCIO.--_Cucullus non facit monachum_[32]. Il n'est honn�te en rien que
+par sa robe, et c'est un homme qui a tenu les plus inf�mes propos sur le
+compte du duc.
+
+[Note 32: �L'habit ne fait pas le moine,� proverbe latin qui revient
+plusieurs fois dans Shakspeare.]
+
+ESCALUS.--Nous vous demanderons de rester ici jusqu'� ce qu'il vienne,
+pour en t�moigner contre lui... Nous allons trouver dans ce moine un
+insigne vaurien.
+
+LUCIO.--Autant que qui que ce soit dans Vienne, sur ma parole.
+
+ESCALUS.--Qu'on fasse repara�tre ici cette Isabelle, je voudrais causer
+avec elle. (_A Angelo._)--Je vous en prie, seigneur, laissez-moi le soin
+de l'interroger; vous verrez comme je saurai la manier.
+
+LUCIO.--Pas mieux que lui, d'apr�s son propre rapport � elle-m�me.
+
+ESCALUS.--Que dites-vous?
+
+LUCIO.--Moi, monsieur, je pense que si vous la maniez en particulier,
+elle avouerait plut�t: peut-�tre qu'en public elle aura honte.
+
+(Le duc revient en habit de religieux, le pr�v�t: on am�ne Isabelle.)
+
+ESCALUS.--Je vais questionner un peu obscur�ment.
+
+LUCIO.--Voil� le vrai moyen; car les femmes sont l�g�res vers
+minuit[33].
+
+[Note 33: �quivoque entre _light_ (lumi�re) et light _l�g�re_. Ce jeu de
+mots se retrouve constamment dans Shakspeare.]
+
+ESCALUS.--Venez ��, madame: voici une dame qui nie tout ce que vous avez
+dit.
+
+LUCIO.--Seigneur, voici ce mis�rable dont je vous ai parl�: il vient
+avec le pr�v�t.
+
+ESCALUS.--Fort � propos.--Ne lui parlez pas, que nous ne vous y
+engagions.
+
+LUCIO.--Motus!
+
+ESCALUS.--Avancez, monsieur. Est-ce vous qui avez excit� ces femmes �
+calomnier le seigneur Angelo? Elles ont avou� que vous l'aviez fait.
+
+LE DUC.--Cela est faux.
+
+ESCALUS.--Comment! Savez-vous o� vous �tes?
+
+LE DUC.--Respect � la dignit� de votre place! Et le d�mon lui-m�me est
+quelquefois honor� � cause de son tr�ne br�lant.--O� est le duc? C'est
+lui qui doit m'entendre.
+
+ESCALUS.--Le duc r�side en nous, et nous vous entendrons: songez � dire
+la v�rit�.
+
+LE DUC.--Je parlerai du moins avec hardiesse.--Mais, h�las! pauvres
+�mes, venez-vous ici demander l'agneau au renard? Adieu la justice
+que vous demandiez.--Le duc est-il parti? En ce cas, votre cause est
+perdue.--C'est une injustice au duc de repousser ainsi votre appel
+public, et de remettre l'examen de votre affaire dans les mains du
+sc�l�rat m�me que vous venez accuser.
+
+LUCIO.--C'est ce coquin; c'est bien lui dont je vous ai parl�.
+
+ESCALUS.--Quoi! moine irr�v�rent et profane, ne te suffit-il pas d'avoir
+suborn� ces femmes pour accuser ce digne homme, sans que ta bouche
+inf�me vienne � ses propres oreilles l'appeler sc�l�rat? Et de l� tu
+passes au duc m�me, pour le taxer d'injustice? Qu'on l'emm�ne d'ici:
+qu'on le conduise � la torture.--Nous te serrerons les articulations
+l'une apr�s l'autre, jusqu'� ce que nous sachions ton but. Quoi, le duc
+injuste?
+
+LE DUC.--Ne vous �chauffez pas tant. Le duc n'oserait pas plus torturer
+un de mes doigts, qu'il n'oserait faire souffrir un des siens; je ne
+suis point son sujet, ni provincial de ce pays-ci. Mes affaires, dans
+cet �tat, m'ont mis � port�e d'observer les moeurs dans Vienne, et j'y
+ai vu la corruption bouillir et bouillonner, et d�border de la marmite;
+j'ai vu des lois pour toutes les fautes; mais les fautes si bien
+prot�g�es, que les statuts les plus �nergiques sont comme le tableau
+des amendes pendu dans la boutique d'un barbier[34],--objet d'autant de
+ris�e que d'attention.
+
+[Note 34: Anciennement, dans la boutique des barbiers, il y avait un
+tableau des r�glements et des peines pour emp�cher les pratiques de
+manier les instruments de chirurgie; mais les r�glements �taient si
+ridicules et les barbiers avaient si peu d'autorit�, qu'ils �taient un
+objet de ris�e.]
+
+ESCALUS.--Calomnier l'�tat! Qu'on l'emm�ne en prison.
+
+ANGELO.--Seigneur Lucio, que pouvez-vous certifier contre cet homme?
+Est-ce celui dont vous nous avez parl�?
+
+LUCIO.--C'est lui-m�me, seigneur.--Venez ��, mon bon vieux � t�te
+chauve. Me connaissez-vous?
+
+LE DUC.--Je vous reconnais, monsieur, au son de votre voix: je vous ai
+rencontr� dans la prison, pendant l'absence du duc.
+
+LUCIO.--Oh! oui-d�? Et vous rappelez-vous ce que vous m'avez dit du duc?
+
+LE DUC.--Tr�s-nettement, monsieur.
+
+LUCIO.--Oui-d�, monsieur? Et le duc �tait-il un marchand de chair
+humaine, un imb�cile, un l�che, comme vous me l'avez dit alors?
+
+LE DUC--Il faut, monsieur, que vous changiez de personne avec moi, avant
+que vous mettiez ce propos sur mon compte: car c'est vous-m�me qui avez
+dit cela de lui; et bien pis, bien pis.
+
+LUCIO.--O damn� coquin! Ne t'ai-je pas tir� par le bout du nez, pour tes
+propos?
+
+LE DUC.--Je proteste que j'aime le duc comme je m'aime moi-m�me.
+
+ANGELO.--Entendez-vous comme ce mis�rable voudrait terminer la chose,
+apr�s ses injures de haute trahison?
+
+ESCALUS.--Ce n'est pas l� un homme � qui l'on doive parler. Qu'on
+l'entra�ne en prison.--O� est le pr�v�t? Emmenez-le en prison: mettez-le
+sous les verroux, et qu'il ne parle plus.--Qu'on emm�ne aussi ces
+malheureuses avec leur autre complice.
+
+(Le pr�v�t met la main sur le duc.)
+
+LE DUC.--Arr�tez, monsieur; arr�tez un moment.
+
+ANGELO.--Quoi, il r�siste? Pr�tez main-forte, Lucio.
+
+LUCIO.--Venez, monsieur, venez, monsieur, venez, monsieur: allons
+donc! monsieur: comment, t�te chauve, vil menteur! Il faut donc vous
+encapuchonner ainsi, oui-d�? Montrez votre visage de coquin, et que la
+peste vous saisisse! Montrez-nous votre face de galefretier, et soyez
+pendu dans une heure. Vous ne voulez pas?
+
+(Lucio arrache le capuchon et le duc para�t.)
+
+LE DUC.--Tu es le premier coquin qui ait jamais fait un duc.--D'abord,
+pr�v�t, je me porte pour caution de ces trois honn�tes gens. (_A
+Lucio_.) Ne t'�chappe pas, toi; le moine et toi vont s'expliquer tout �
+l'heure.--Qu'on s'empare de lui.
+
+LUCIO.--Cela pourrait finir par pis que le gibet.
+
+LE DUC, _� Escalus_.--Ce que vous avez dit, je vous le pardonne:
+asseyez-vous. (_Montrant Angelo._) Lui, nous pr�tera sa place. (_A
+Angelo._) Monsieur, avec votre permission. (_Il s'assied � la place
+d'Angelo._)--(_A Angelo._) Te reste-t-il encore des paroles, de
+l'adresse ou de l'impudence, qui puissent te servir? Si tu en as,
+comptes-y, jusqu'� ce qu'on ait entendu mon r�cit, et ne te d�fends pas
+plus longtemps.
+
+ANGELO.--Mon redoutable souverain, je me rendrais plus coupable que ne
+m'a fait mon crime, si je m'imaginais que je suis imp�n�trable, lorsque
+je vois que Votre Altesse, comme une intelligence divine, a p�n�tr�
+toutes mes intrigues. Ainsi, bon prince, ne si�gez pas plus longtemps �
+ma honte; et que mon proc�s se borne � mon propre aveu. Votre sentence �
+l'instant, et la mort apr�s; c'est toute la gr�ce que j'implore.
+
+LE DUC.--Venez ici, Marianne. (_A Angelo._)--R�ponds, as-tu engag� ta
+foi par un contrat � cette femme?
+
+ANGELO.--Oui, seigneur.
+
+LE DUC.--Va, emm�ne-la, et �pouse-la sur-le-champ.--Religieux,
+accomplissez la c�r�monie; et quand elle sera achev�e, renvoyez-le-moi
+ici.--Pr�v�t, accompagnez-le.
+
+(Angelo, Marianne, le pr�v�t et le religieux sortent.)
+
+ESCALUS.--Seigneur, je suis plus confondu de son d�shonneur, que de la
+singularit� de la cause.
+
+LE DUC.--Venez ici, Isabelle: votre moine est maintenant votre prince;
+et comme j'�tais alors z�l� et fid�le pour vos int�r�ts, ne changeant
+point de coeur en changeant de v�tement, je reste toujours attach� �
+votre service.
+
+ISABELLE.--Ah! daignez me pardonner, � moi, votre sujette, d'avoir
+employ� et importun� Votre Altesse qui m'�tait inconnue.
+
+LE DUC.--Je vous le pardonne, Isabelle; et vous, ch�re fille, soyez
+aussi g�n�reuse pour nous. La mort de votre fr�re, je le sais, vous
+reste sur le coeur, et vous pourriez vous demander avec �tonnement
+pourquoi je me suis cach� pour travailler � sauver sa vie, et pourquoi
+je n'ai pas d�voil� t�m�rairement ma puissance plut�t que de le laisser
+p�rir ainsi. Tendre soeur, c'est la rapidit� de son ex�cution, que je
+croyais voir venir d'un pas plus lent, qui a renvers� mes desseins.
+Mais, la paix soit avec lui! La vie dont il jouit n'a plus la mort �
+craindre, et vaut mieux que celle qui n'existe que pour craindre. Faites
+votre consolation de cette id�e, que votre fr�re est heureux.
+
+ISABELLE.--C'est ce que je fais, seigneur.
+
+(Entrent Angelo, Marianne, le religieux, le pr�v�t.)
+
+LE DUC.--Quant � ce nouveau mari� qui revient vers nous, et dont
+l'imagination impure a outrag� votre honneur, que vous avez si bien
+d�fendu, vous devez lui pardonner pour l'amour de Marianne. Mais comme
+il a condamn� votre fr�re, �tant criminel, par une double violation de
+la chastet� sacr�e, et de sa promesse positive de vous accorder la vie
+de votre fr�re � cette condition, la cl�mence m�me de la loi demande
+� grands cris, et par sa bouche m�me: _Angelo pour Claudio, mort pour
+mort._ La c�l�rit� r�pond � la c�l�rit�, la lenteur suit la lenteur,
+repr�sailles pour repr�sailles, _et mesure pour mesure_. Ainsi, Angelo,
+voil� donc ton crime manifest�; et quand tu voudrais le nier, cela ne te
+serait d'aucun avantage. Nous te condamnons � p�rir sur le m�me
+billot o� Claudio a pos� sa t�te pour mourir, et avec la m�me
+pr�cipitation.--Qu'on l'emm�ne.
+
+MARIANNE.--O mon tr�s-gracieux seigneur, j'esp�re que vous ne m'avez
+point donn� un mari pour vous moquer de moi.
+
+LE DUC.--C'est votre mari qui s'est moqu� de vous en vous donnant
+un mari. Pour la sauvegarde de votre honneur, j'ai cru votre mariage
+n�cessaire: autrement, le reproche de votre faiblesse pour lui pouvait
+fl�trir votre vie, et nuire � votre avantage dans l'avenir. Quoique ses
+biens nous appartiennent par la confiscation, nous vous en faisons don,
+comme d'un douaire de veuve; ils vous serviront � acqu�rir un meilleur
+mari.
+
+MARIANNE.--O mon cher seigneur! je n'en d�sire point d'autre ni de
+meilleur que lui.
+
+LE DUC.--Ne le demandez point, ma r�solution est d�finitive.
+
+MARIANNE, _se jetant � ses pieds_.--Mon bon souverain!...
+
+LE DUC.--Vous perdez vos peines.--Qu'on l'emm�ne � la mort. (_A Lucio._)
+Maintenant � vous, monsieur.
+
+MARIANNE.--O mon bon seigneur!--Ch�re Isabelle, charge-toi de mon r�le;
+pr�te-moi tes genoux, et je te pr�terai toute ma vie � venir pour te
+rendre service.
+
+LE DUC.--Vous allez contre toute raison, en l'importunant. Si elle
+s'agenouillait pour me demander la gr�ce de ce crime, l'ombre de son
+fr�re briserait son lit de pierre, et l'entra�nerait avec horreur.
+
+MARIANNE.--Isabelle, ch�re Isabelle! agenouillez-vous seulement � c�t�
+de moi: levez vos mains; ne dites rien, je parlerai, moi. On dit que les
+hommes les plus parfaits sont p�tris de d�fauts, et qu'ils deviennent
+souvent d'autant meilleurs qu'ils ont �t� un peu mauvais: mon mari peut
+�tre du nombre. Isabelle, ne voulez-vous pas fl�chir le genou pour moi?
+
+LE DUC.--Il meurt pour la mort de Claudio.
+
+ISABELLE, _� genoux_.--Prince tr�s-mis�ricordieux, daignez voir cet
+homme condamn� comme si mon fr�re vivait. Je suis dispos�e � croire
+qu'une vraie sinc�rit� a gouvern� ses actions, jusqu'� ce qu'il m'ait
+vue; et puisqu'il en est ainsi, qu'il ne meure pas. Mon fr�re a �t�
+justement puni, puisqu'il avait commis l'action pour laquelle il est
+mort.--Le crime d'Angelo n'a pas atteint sa mauvaise intention, qui doit
+�tre enterr�e comme une intention qui est morte en route: les pens�es ne
+sont point sujettes � la loi, les intentions ne sont que des pens�es.
+
+MARIANNE.--Elles ne sont que cela, seigneur.
+
+LE DUC.--Vos pri�res sont inutiles: levez-vous, vous dis-je. Je viens
+de me rappeler encore un autre d�lit.--Pr�v�t, comment s'est-il fait que
+Claudio ait �t� d�capit� � une heure qui n'est pas d'usage?
+
+LE PR�V�T.--On me l'a command� ainsi.
+
+LE DUC.--Aviez-vous pour cela un ordre �crit et sp�cial?
+
+LE PR�V�T.--Non, seigneur; je l'ai re�u par un message secret.
+
+LE DUC.--Et pour cela, je vous d�pouille de votre office: rendez-moi vos
+clefs.
+
+LE PR�V�T.--Daignez me pardonner, noble seigneur: je croyais bien que
+c'�tait une faute: mais je ne le savais pas, cependant apr�s avoir
+r�fl�chi davantage je m'en suis repenti; et, pour preuve, c'est qu'il
+y a un homme dans la prison qui, d'apr�s un ordre secret, devait �tre
+ex�cut�, et que j'ai laiss� vivre encore.
+
+LE DUC.--Qui est-ce?
+
+LE PR�V�T.--Son nom est Bernardino.
+
+LE DUC--Je voudrais que vous en eussiez agi de m�me avec
+Claudio.--Allez: amenez-le ici, que je le voie.
+
+(Le pr�v�t sort.)
+
+ESCALUS, _� Angelo_.--Je suis bien afflig� qu'un homme aussi �clair�,
+aussi sens� que vous, seigneur Angelo, soit tomb� dans un �cart si
+grossier, d'abord par l'ardeur des sens et ensuite par le d�faut de bon
+jugement.
+
+ANGELO.--Et moi, je suis afflig� d'�tre la cause de tant de chagrins;
+et un remords si profond p�n�tre mon coeur repentant, que je d�sire bien
+plus la mort que le pardon: je l'ai m�rit�e, et je la demande.
+
+(Le pr�v�t, amenant Bernardino, Claudio et Juliette.)
+
+LE DUC.--Lequel est ce Bernardino?
+
+LE PR�V�T.--Celui-ci, seigneur.
+
+LE DUC.--Il y a un religieux qui m'a parl� de cet homme.--Dr�le, on dit
+que tu as une �me ent�t�e, qui ne voit rien au del� de ce monde, et
+que tu r�gles ta vie en cons�quence. Tu es condamn�; mais, quant � tes
+fautes et leur punition en ce monde, je te les remets toutes. Je
+t'en prie, use de ce pardon pour te pr�parer � une meilleure vie �
+venir.--Religieux, conseillez-le; je le laisse entre vos mains. Quel est
+cet homme si bien envelopp�?
+
+LE PR�V�T.--C'est un autre prisonnier que j'ai sauv�, et qui devait
+p�rir quand Claudio a perdu la t�te, et qui ressemble tant � Claudio,
+qu'on le prendrait pour lui-m�me.
+
+LE DUC, _� Isabelle_.--S'il ressemble � votre fr�re, je lui pardonne
+pour l'amour de lui; et vous, Isabelle, pour l'amour de votre charmante
+personne, donnez-moi votre main, et dites que vous serez � moi; il est
+mon fr�re aussi: mais remettons ce soin � un moment plus convenable. A
+pr�sent, le seigneur Angelo commence � s'apercevoir qu'il est en s�ret�;
+il me semble voir ses yeux briller. Allons, Angelo, votre crime vous
+traite bien.--Songez � aimer votre femme; son m�rite �gale le v�tre.--Je
+trouve dans mon coeur un penchant � la cl�mence; et cependant il y a l�
+devant nous quelqu'un � qui je ne peux pardonner.--(_A Lucio._) Vous,
+maraud, qui m'avez connu pour un imb�cile, un l�che, un homme livr� tout
+entier � la d�bauche, un �ne, un fou, comment ai-je m�rit� de vous que
+vous fassiez de moi un semblable pan�gyrique?
+
+LUCIO.--En v�rit�, seigneur, je n'ai tenu ces discours que d'apr�s la
+mode. Si vous voulez me faire pendre pour cela, vous le pouvez: mais
+j'aimerais mieux qu'il vous pl�t de me faire fouetter.
+
+LE DUC.--Fouett� d'abord, monsieur, et pendu apr�s.--Pr�v�t, faites
+proclamer dans toute la ville que, s'il est quelque femme outrag�e par
+ce libertin, comme je lui ai entendu jurer � lui-m�me qu'il y en a une
+qui est enceinte de ses oeuvres, qu'elle se pr�sente, et il faudra qu'il
+l'�pouse; les noces finies, qu'on le fouette et qu'on le pende.
+
+LUCIO.--J'en conjure votre altesse, ne me mariez point � une prostitu�e.
+Votre Altesse a dit, il n'y a qu'un moment, que j'ai fait de vous un
+duc: mon bon seigneur, ne m'en r�compensez pas, en faisant de moi un
+homme d�shonor�.
+
+LE DUC.--Sur mon honneur, tu l'�pouseras. Je te pardonne tes
+calomnies, et � cette condition je te remets toutes tes autres
+offenses.--Emmenez-le en prison, et ayez soin que notre bon plaisir en
+ceci soit ex�cut�.
+
+LUCIO.--Me marier � une fille publique, seigneur, c'est me condamner �
+la mort, au fouet et au gibet.
+
+LE DUC.--Calomnier un prince m�rite bien cette punition.--Vous, Claudio,
+songez � r�parer l'honneur de celle que vous avez outrag�e.--Vous,
+Marianne, soyez heureuse.--Aimez-la, Angelo; je l'ai confess�e, et
+je connais sa vertu.--Je vous remercie, mon bon ami Escalus, de
+votre grande bont�: j'ai en r�serve pour vous d'autres preuves de
+reconnaissance.--Je vous remercie aussi, pr�v�t, de vos soins et de
+votre discr�tion: nous vous emploierons dans un poste plus digne de
+vous.--Pardonnez-lui, Angelo, de vous avoir port� la t�te d'un Ragusain,
+au lieu de celle de Claudio. La faute porte avec elle son pardon. Ch�re
+Isabelle, j'ai � vous faire une demande qui int�resse votre bonheur, et
+si vous voulez y pr�ter une oreille favorable, ce qui est � moi est �
+vous, et ce qui est � vous est � moi.--Allons, conduisez-nous � notre
+palais: l�, nous vous r�v�lerons ce qui vous reste � savoir, et dont il
+convient que vous soyez tous instruits.
+
+(Tous sortent.)
+
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+
+End of Project Gutenberg's Mesure pour mesure, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MESURE POUR MESURE ***
+
+***** This file should be named 18169-8.txt or 18169-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/8/1/6/18169/
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica))
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

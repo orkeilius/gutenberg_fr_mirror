@@ -1,3 +1,1308 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68892cd45ffb81ccf5ac82dc6707fc3b1130f3c379d828f9c18492abde7f9277
-size 58355
+*** START OF THE PROJECT GUTENBERG EBOOK 52669 ***
+
+Note sur la transcription: Les erreurs clairement introduites par le
+typographe ont Ã©tÃ© corrigÃ©es. L'orthographe d'origine a Ã©tÃ© conservÃ©e et
+n'a pas Ã©tÃ© harmonisÃ©e.
+
+
+
+
+Champlain
+
+
+
+
+IL A ÃTÃ TIRÃ DE CET OUVRAGE CINQ CENTS EXEMPLAIRES NUMÃROTÃS
+
+No 225
+
+
+
+
+[Illustration: Portrait de SAMUEL CHAMPLAIN
+
+(DessinÃ© par E. RONJAT.)]
+
+
+
+
+    LES COMMÃMORATIONS FRANCO-AMÃRICAINES
+    Champlain
+    PAR
+    GABRIEL HANOTAUX
+    DE L'ACADÃMIE FRANÃAISE
+    PRÃSIDENT DU COMITÃ FRANCE-AMÃRIQUE
+
+    [Illustration: logo]
+
+    PARIS
+    E. SANSOT & Cie, ÃDITEURS
+    9, RUE DE L'ÃPERON, 9
+    1912
+
+
+
+
+[Illustration: SIGNATURE DE CHAMPLAIN]
+
+
+
+
+LA FRANCE
+
+et le
+
+TROISIÃME CENTENAIRE DE CHAMPLAIN
+
+
+_Il y a quelques mois, l'ambassadeur de France Ã  Washington, M.
+Jusserand, rappelait au ministre des Affaires Ã©trangÃ¨res la frÃ©quence
+des commÃ©morations franÃ§aises aux Ãtats-Unis._
+
+_Pour ne signaler que les plus rÃ©centes, c'est en aoÃ»t 1910 que la
+statue de Washington nous a Ã©tÃ© offerte par l'Ãtat de Virginie, et son_
+_inauguration Ã  Versailles a eu lieu en prÃ©sence des dÃ©lÃ©guÃ©s
+amÃ©ricains. En dÃ©cembre, Â«la capitulation de YorktownÂ», par J.-P.
+Laurens, a Ã©tÃ© solennellement inaugurÃ©e en prÃ©sence de toutes les
+autoritÃ©s de la ville, dans le Palais de Justice de Baltimore. En
+fÃ©vrier 1911, un monument a Ã©tÃ© Ã©rigÃ© Ã  Savannah pour rappeler le
+sanglant assaut livrÃ© par d'Estaing et les troupes franco-amÃ©ricaines
+aux redoutes anglaises oÃ¹ sept cents ou huit cents FranÃ§ais restÃ¨rent
+sur le champ de bataille. Le 19 avril Ã  Annapolis, prÃ¨s de Washington, a
+Ã©tÃ© inaugurÃ© un monument aux soldats et marins franÃ§ais morts pour
+l'indÃ©pendance amÃ©ricaine. En juin, la fondation de Mobile par notre
+compatriote Le Moyne d'Iberville a Ã©tÃ© cÃ©lÃ©brÃ©e dans l'Alabama._
+
+_C'est pour continuer cette suite d'anniversaires, de fÃªtes, de
+cÃ©rÃ©monies franco-amÃ©ricaines, inspirÃ©s par un sentiment public si
+remarquablement unanime et constant, qu'une nouvelle manifestation se
+prÃ©parait en 1912 par l'Ã©rection sur les bords du lac Champlain, d'un
+monument consacrÃ© Ã  la mÃ©moire de notre illustre compatriote._
+
+_Ce monument, que les Ã©tats de New-York et de Vermont se proposent
+d'Ã©lever, commÃ©more les grands souvenirs historiques Ã©voquÃ©s par cette
+rÃ©gion. Ces souvenirs sont communs Ã  la France, aux Ãtats-Unis et au
+Canada et ont trait, en majeure partie, Ã  la longue lutte que se
+livrÃ¨rent sur le continent amÃ©ricain les forces opposÃ©es de la France et
+de la Grande-Bretagne._
+
+_La dÃ©couverte en 1609, par Samuel Champlain, du lac qui porte son nom,
+constitue le premier chapitre de cette histoire. Les souvenirs en sont
+nombreux encore dans toute la rÃ©gion que se partagent aujourd'hui les
+Ã©tats de New-York et de Vermont et la province de QuÃ©bec. A Crown Point,
+on peut voir, en bon Ã©tat de conservation, non seulement les murs des
+forts Ã©levÃ©s par les Anglais, mais d'importants vestiges des ouvrages
+militaires plus anciens construits par les FranÃ§ais, le vieux fort
+FrÃ©dÃ©ric, notamment, qui constituait un poste avancÃ© de la domination
+franÃ§aise dans le Sud._
+
+_NaguÃ¨re, le 15 septembre 1898, la ville de QuÃ©bec a inaugurÃ© un
+monument Ã©levÃ© Ã  la mÃ©moire de Champlain. A cette inauguration, le
+PrÃ©sident de la RÃ©publique et le gouvernement Ã©taient reprÃ©sentÃ©s par
+notre consul gÃ©nÃ©ral d'alors, M. Kleczkowsky. L'AcadÃ©mie franÃ§aise avait
+Ã©tÃ© invitÃ©e et, si elle n'a pu Ã  ce moment rÃ©pondre Ã  cet appel, du
+moins a-t-elle tenu Ã  exprimer toute sa gratitude pour le souvenir
+affectueux qui lui Ã©tait adressÃ© par un Â«pays de langue franÃ§aiseÂ», qui
+reste si fidÃ¨le au culte de ses origines et qui s'est toujours associÃ©
+aux joies et aux douleurs de la France. Le monument lui-mÃªme Ã©tait
+l'Åuvre de deux FranÃ§ais: M. Le Cardonnel, architecte, et M. Chevret,
+sculpteur, qui ont conÃ§u et exÃ©cutÃ© une Åuvre simple, Ã©lancÃ©e et fiÃ¨re,
+qui reprÃ©sente dignement l'art franÃ§ais sur une terre oÃ¹ la France a,
+partout, laissÃ© les plus vivants souvenirs._
+
+_Aujourd'hui, c'est au centre de cette mÃªme rÃ©gion que les Ãtats-Unis
+vont commÃ©morer le troisiÃ¨me centenaire de l'illustre explorateur qui
+fut un fondateur et un initiateur, le fondateur du Canada, l'initiateur
+de ce qui devait Ãªtre la puissance des Ãtats-Unis._
+
+_Une pareille succession d'hommages aux hommes de France en AmÃ©rique
+et aux inaltÃ©rables bons rapports des deux nations ne saurait laisser
+indiffÃ©rent le sentiment public en France. La France doit y rÃ©pondre en
+contribuant Ã  perpÃ©tuer ces souvenirs, c'est pourquoi, rÃ©pondant Ã  la
+demande que, sur l'initiative de notre ambassade Ã  Washington, le
+ministÃ¨re des Affaires Ã©trangÃ¨res a adressÃ© au ComitÃ© France-AmÃ©rique,
+nous avons fait paraÃ®tre un appel pour cÃ©lÃ©brer la mÃ©moire de ce grand
+FranÃ§ais, trop oubliÃ© de la nation dont il Ã©tait le fils glorieux._
+
+_Voici le texte de l'appel que la presse franÃ§aise et amÃ©ricaine a
+publiÃ©_:
+
+Â«_Sur l'initiative de l'ambassade de France aux Ãtats-Unis, le ComitÃ©_
+_France-AmÃ©rique ouvre une souscription publique dans le dessein de
+faire participer notre pays aux manifestations qui, depuis plusieurs
+annÃ©es, se sont succÃ©dÃ©es aux Ãtats-Unis en l'honneur de la France et
+des FranÃ§ais._
+
+_A l'occasion du troisiÃ¨me centenaire de Champlain, les Ãtats de
+New-York et de Vermont Ã©rigent un monument en l'honneur de l'illustre
+initiateur qui conÃ§ut le projet d'une vaste domination, une Â«AmÃ©rique
+franÃ§aiseÂ» s'Ã©tendant de la Louisiane au Canada par le cours du
+Mississipi. C'est le territoire sur lequel se dÃ©veloppa, par la suite,
+la grande RÃ©publique des Ãtats-Unis d'AmÃ©rique._
+
+_Cette commÃ©moration, si honorable pour nous, la France ne peut la
+laisser passer, sans y prendre part et le ComitÃ© France-AmÃ©rique a
+dÃ©cidÃ© d'offrir aux Ãtats-Unis un buste en bronze reprÃ©sentant la France
+que l'illustre sculpteur Rodin vient de terminer. Cette Åuvre d'art
+sera placÃ©e au pied du phare monumental qui va Ãªtre Ã©levÃ© en l'honneur
+de notre compatriote sur les bords du lac qui porte son nom._
+
+_Le ComitÃ© fait appel au concours de tous ceux, FranÃ§ais ou amis de la
+France qui veulent rÃ©pondre Ã  l'initiative amÃ©ricaine par un tÃ©moignage
+d'affection et de gratitude au moment oÃ¹ va Ãªtre cÃ©lÃ©brÃ©e la mÃ©moire
+d'un grand FranÃ§ais._
+
+_Le bureau du ComitÃ© France-AmÃ©rique: G. Hanotaux, de l'AcadÃ©mie
+franÃ§aise, ancien ministre des Affaires Ã©trangÃ¨res; le gÃ©nÃ©ral BrugÃ¨re;
+A. Leroy-Beaulieu, de l'Institut; Heurteau; vicomte de Caix de
+Saint-Aymour; comte Robert de VoguÃ©; Gabriel Louis Jaray, auditeur au
+Conseil d'Ãtat._Â»
+
+_Sur l'appel que le ComitÃ© France-AmÃ©rique adressa au public, la
+souscription obtint rapidement le succÃ¨s dÃ©sirÃ©._
+
+_Tel est l'appel; voici le rÃ©sultat._
+
+[Illustration: deco]
+
+
+
+
+POUR UN GRAND FRANÃAIS
+
+[Illustration: deco]
+
+
+On l'a dit cent fois, si la France est capable, souvent, des grandes
+initiatives, rarement elle en recueille le bÃ©nÃ©fice: nos dÃ©parts sont
+beaux, nos arrÃªts sont brusques. Que de belles dÃ©couvertes, dues Ã  l'un
+des nÃ´tres, ont Ã©tÃ© exploitÃ©es par nos rivaux!
+
+Dans tous les domaines, cette discontinuitÃ©, ce dÃ©cousu des efforts se
+retrouve, et notre Ã¢ge ne diffÃ¨re pas, en cela, des Ã¢ges prÃ©cÃ©dents.
+Brazza, pendant vingt ans, nous entraÃ®ne Ã  sa suite: une imagination
+prÃ©voyante, une vaillance indomptable secouent la torpeur publique;
+l'heureuse adaptation des actes coloniaux en Afrique et des actes
+diplomatiques en Europe constitue rapidement un empire qui relie
+l'AlgÃ©rie au Congo. Quinze ans passÃ©s, son Åuvre semblait oubliÃ©e,
+nÃ©gligÃ©e.
+
+Comment cet enthousiasme de la veille peut-il se rÃ©soudre en ce
+dÃ©tachement du lendemain? Ãtrange loi de nos alternatives, caprices
+funestes de notre histoire ballottÃ©e, sans cesse, de l'engouement Ã 
+l'abandon.
+
+Trois grands FranÃ§ais (je ne veux parler aujourd'hui que de ceux-lÃ ) ont
+Ã©tÃ©, en AmÃ©rique, des initiateurs: Champlain, Jacques de Liniers, F. de
+Lesseps; Champlain dans le Nord, Liniers dans le Sud, Lesseps au centre.
+Les Ãtats-Unis, la RÃ©publique Argentine, le canal de Panama ont, Ã  leurs
+origines, une pensÃ©e franÃ§aise, une volontÃ© franÃ§aise.
+
+Tandis que la RÃ©publique Argentine nous rÃ©apprend le nom de Liniers, les
+Ãtats-Unis restaurent la gloire de Champlain; demain, il faudra bien
+parler de Lesseps, quand on inaugurera la seconde grande voie maritime
+que son gÃ©nie a crÃ©Ã©e.
+
+De ces trois noms, le plus grand peut-Ãªtre est celui de Champlain: il
+fut Ã  la fois un fondateur et un initiateur.
+
+Le Canada lui doit l'existence; QuÃ©bec cÃ©lÃ©bra, il y a douze ans, la
+mÃ©moire de l'homme qui, ayant pleinement connaissance de ce qu'il
+faisait, posa la premiÃ¨re pierre de la mÃ©tropole franÃ§aise en AmÃ©rique.
+
+Il eut aussi Â«les grands desseins et les vastes pensÃ©esÂ». Homme
+d'action, il fut un homme d'imagination. Il rÃªva l'Ã©tablissement, au
+profit de la France, d'une immense domination couvrant le continent
+amÃ©ricain, du Canada Ã  la Louisiane et Ã  la Floride, par la vallÃ©e du
+Mississipi: ce n'Ã©tait ni plus ni moins que l'idÃ©e de la future
+RÃ©publique des Ãtats-Unis; mais, dans la pensÃ©e de Champlain, il
+s'agissait d'une Â«AmÃ©rique franÃ§aiseÂ».
+
+DÃ¨s la premiÃ¨re page de son livre (aujourd'hui si rare et si recherchÃ©
+des bibliophiles), livre qu'il dÃ©diait au cardinal de Richelieu, seul
+capable de le comprendre, Champlain expliquait sa pensÃ©e en termes d'une
+clartÃ© saisissante. Â«Il faudrait, Ã©crivait-il, en 1632, que, sous le
+rÃ¨gne du roi Louis le Juste, la France se vÃ®t enrichie d'un pays dont
+l'Ã©tendue excÃ¨de plus de seize cents lieues en longueur et, en largeur,
+plus de cinq cents, et cela sur un continent qui ne laisse rien Ã 
+dÃ©sirer par la bontÃ© de ses terres et pour l'utilitÃ© qu'on en peut tirer
+tant pour le commerce du dehors que pour la douceur de la vie au
+dedans... la communication des grandes riviÃ¨res et lacs qui sont comme
+des mers traversant ces contrÃ©es rendent une si grande facilitÃ© Ã  toutes
+les dÃ©couvertes dans le profond des terres qu'on pourrait aller de lÃ 
+aux mers de l'Occident, de l'Orient, du Septentrion et s'Ã©tendre mÃªme
+jusques au Midy.Â»
+
+Quand je citais cette page en 1898, j'ajoutais: Â«Seize cents lieues sur
+cinq cents! ce sont des proportions sur lesquelles on ne travaille plus
+guÃ¨re maintenant qu'en Afrique!Â»
+
+Probablement les mÃ©tropoles qui s'Ã©lÃ©veront un jour sur les rives de la
+Sangha, de l'Oubanghi et du Congo cÃ©lÃ©breront Brazza, comme les
+Ãtats-Unis s'apprÃªtent Ã  glorifier Champlain.
+
+Il y a quelques mois, notre ambassadeur Ã  Washington, M. J. Jusserand,
+signalait au ministÃ¨re des Affaires Ã©trangÃ¨res la frÃ©quence des
+commÃ©morations franÃ§aises aux Ãtats-Unis. Il annonÃ§ait notamment
+l'Ã©rection prochaine, sur les bords du lac Champlain, d'un monument
+consacrÃ© Ã  la mÃ©moire de notre compatriote, et il demandait au
+gouvernement de faire en sorte que la France ne fÃ»t pas trop Â«absenteÂ»
+de ces manifestations si honorables pour elle.
+
+Le ministÃ¨re des Affaires Ã©trangÃ¨res s'est adressÃ© au ComitÃ©
+France-AmÃ©rique et c'est celui-ci qui a fait Ã  son tour appel au public.
+
+N'Ã©tait-il pas dÃ©sirable, en effet, n'Ã©tait-il pas convenable que la
+France n'ignore pas absolument ce qui se fait pour elle? Qu'elle oublie
+les services, passe! les peuples ont le droit d'Ãªtre ingrats; mais
+qu'elle nÃ©glige les bons procÃ©dÃ©s, voilÃ  ce qui serait inexcusable. Un
+manque de savoir-vivre est pire qu'une faute. Puisque l'AmÃ©rique du Nord
+ou, pour parler plus exactement, les Ãtats de New-York et de Vermont
+veulent se souvenir, nous obstinerons-nous Ã  oublier?
+
+Le monument en construction est admirablement adaptÃ© aux lieux et aux
+titres de l'homme qu'il s'agit de cÃ©lÃ©brer: c'est, Ã  l'extrÃ©mitÃ© du lac
+dÃ©couvert par Champlain et qui porte son nom, un phare projetant sa
+lumiÃ¨re sur les eaux dont ses yeux d'EuropÃ©en contemplÃ¨rent les
+premiers, l'immense Ã©tendue vide et sauvage et qui sont, maintenant,
+parcourues par la flotte des grands paquebots, peuplÃ©es par une
+fourmiliÃ¨re d'hommes.
+
+Un massif de maÃ§onnerie, une couronne de colonnes portant une terrasse,
+et tout en haut, la lanterne du phare, tels sont, de la base au sommet,
+les membres de cette puissante architecture. Du massif de maÃ§onnerie
+surgit un rostre, au-dessus duquel Champlain se tient debout comme un
+pilote.
+
+Que peut faire, que doit faire la France? Quelle pierre, digne d'elle,
+apportera-t-elle au monument? Il n'y a qu'une solution, c'est que cette
+pierre soit _prÃ©cieuse_...
+
+Nous sommes allÃ©s chez Rodin. On sait Ã  quel point son nom est populaire
+en AmÃ©rique. Le sculpteur magnifique dont la renommÃ©e rayonne sur le
+monde n'a nulle part de plus fervents admirateurs. Nous avons parcouru
+les salons de l'hÃ´tel Biron, ces nobles salons nus et pleins de gÃ©nie
+d'oÃ¹ la barbarie administrative est en train d'expulser la gloire et,
+parmi tant d'Åuvres oÃ¹ l'admiration s'Ã©puise, nous avons dÃ©couvert
+(c'est le mot juste, car la fiÃ¨re modestie du maÃ®tre le signalait Ã 
+peine) un buste en bronze: _la France_.
+
+Imaginez l'Ã©motion de cette rencontre. Nous cherchions une image, un
+symbole, j'oserai dire une signature de notre pays pour l'envoyer
+lÃ -bas, et nous trouvions la France elle-mÃªme, une mignonne France
+pleine de grÃ¢ce, de vivacitÃ© et de courage, une jeune femme franÃ§aise
+aux narines frÃ©missantes, aux joues pleines, au menton dÃ©licat et
+volontaire, au regard loyal, mutin et brave, une jeune femme oÃ¹ se
+rÃ©sument nos Clotilde, nos Blanche, nos Henriette et nos Jeanne, coiffÃ©e
+de ses cheveux comme d'un casque, armÃ©e de sa parure comme d'une
+cuirasse. Nous cherchions une pensÃ©e franÃ§aise et nous trouvions l'image
+mÃªme de la France.
+
+C'est cette figure que nous envoyons lÃ -bas pour qu'elle soit mise prÃ¨s
+du monument de Champlain. Devant le massif de maÃ§onnerie, une
+architecture lÃ©gÃ¨re, un Ã©dicule, qui serait comme une chÃ¢sse de pierre,
+abriterait le buste et l'isolerait, et ainsi l'art franÃ§ais apporterait
+son offrande toute simple, et toute belle et s'associerait Ã  la
+puissante commÃ©moration amÃ©ricaine.
+
+L'idÃ©e parut juste et digne--digne du gouvernement et de l'ambassade qui
+nous l'ont confiÃ©e, digne de l'homme qui fut, il y a trois siÃ¨cles, le
+champion de notre pays, digne de la RÃ©publique-sÅur, et la France a
+souscrit cette carte de visite qui sera portÃ©e lÃ -bas en son nom.
+
+L'inauguration du monument a lieu, en 1912; une dÃ©lÃ©gation franÃ§aise va
+remettre au comitÃ© d'Ã©rection le bronze de Rodin. Le temps pressait. Le
+bronze, qui demandait quelques remaniements, a Ã©tÃ© vite achevÃ© et la
+pensÃ©e du maÃ®tre a fait de l'ensemble une chose dÃ©licate et fiÃ¨re, une
+fleur de France fleurant bon l'art, au pied du colossal monument. Il
+faut de l'argent, un peu: mais il faut surtout une hÃ¢te rÃ©flÃ©chie pour
+Ã©viter Ã  la fois une faute de goÃ»t et un manque d'exactitude. _Le
+Figaro_ nous a ouvert ses colonnes; _le Temps_, _le Matin_, la presse
+parisienne nous ont aidÃ©s et notre appel aux amis de l'AmÃ©rique et aux
+amis de la France a trouvÃ© Ã©cho et succÃ¨s.
+
+[Illustration: deco]
+
+
+
+
+L'ÅUVRE DE SAMUEL CHAMPLAIN
+
+[Illustration: deco]
+
+
+C'est tout un passÃ© d'aventures, de flamme et de sage Ã©nergie, que les
+Ãtats-Unis se prÃ©parent Ã  cÃ©lÃ©brer, en remontant vers leurs origines et
+en faisant revivre la figure, trop oubliÃ©e, de S. Champlain. Qui connaÃ®t
+ce nom, aujourd'hui, parmi nous? Et pourtant, qui devrait ignorer la
+gloire du fondateur d'une colonie devenue un vaste empire et qui garde,
+au delÃ  des mers, les traits caractÃ©ristiques, les vertus natives et
+l'antique renom de la race franÃ§aise?
+
+Samuel Champlain, nÃ© au Brouage, appartient Ã  l'Ã©poque d'Henri IV et de
+Richelieu. De son Ã©tat, il Ã©tait marin, capitaine au long cours. Il a
+laissÃ© un _TraitÃ© de la marine et du bon marinier_, Ã©crit en langue
+naÃ¯ve et savoureuse, oÃ¹ l'on trouve des prÃ©ceptes de conduite dont plus
+d'un homme de mer ferait encore son profit. Dans ce livret, l'excellent
+homme s'est peint au naturel. Taciturne et peu communicatif, il Ã©tait
+actif, brave, prudent et humain. C'est ainsi qu'il sut faire aimer le
+nom de la France par les peuplades naÃ¯ves au milieu desquelles il passa
+les longues annÃ©es d'une vie souvent solitaire.
+
+Il Ã©tait entrÃ© dans ce que nous appellerions aujourd'hui, la carriÃ¨re
+coloniale, sous les auspices d'une femme dont le nom est tout aussi
+ignorÃ© que le sien, mais qui a cependant de fiers Ã©tats de service,
+puisqu'elle fut la protectrice et vÃ©ritablement la patronne de deux
+hommes qui comptent dans notre histoire: Champlain, dont nous parlons,
+et le cardinal de Richelieu. C'est Antoinette de Pons, marquise de
+Guercheville, dame d'honneur de Marie de MÃ©dicis.
+
+Mme de Guercheville mÃ©riterait d'Ãªtre cÃ©lÃ¨bre, rien que pour la jolie
+rÃ©ponse qu'elle fit Ã  Henri IV. Celui-ci l'avait trouvÃ©e Ã  son goÃ»t.
+Elle Ã©tait belle femme, en effet, et assez mal mariÃ©e, aubaine toute
+trouvÃ©e pour le Vert-Galant. Un jour qu'il la pressait: Â«Sire, lui
+dit-elle, je ne suis pas d'assez haute naissance pour Ãªtre votre femme,
+mais je suis de trop bonne maison pour Ãªtre votre maÃ®tresse.Â» Le Roi se
+le tint pour dit et, sans insister davantage, il la proclama, de bonne
+grÃ¢ce, la dame la plus vertueuse de la Cour.
+
+Jolie femme et vertueuse, elle s'entendait cependant aux affaires. En
+outre, elle avait le souci d'Ã©tendre au loin le renom de la France et la
+gloire du Christ. C'est pour ces diverses raisons, qu'en l'annÃ©e 1610,
+elle fit, dans la Cour, une quÃªte, pour rÃ©unir une somme destinÃ©e
+Ã  l'entretien d'un certain nombre de missionnaires dans la
+Nouvelle-France; cette somme devait servir en mÃªme temps de fonds de
+roulement Ã  un commerce de pelleteries et de pÃªcheries, nÃ©cessaire pour
+faire prospÃ©rer la colonie et les missions. De l'acte de charitÃ©, on en
+vint Ã  un contrat d'association passÃ© en due forme par devant notaire;
+et ainsi fut fondÃ©e la premiÃ¨re Compagnie qui entreprit sÃ©rieusement
+l'Åuvre de la colonisation du Canada. Champlain, qui avait dÃ©jÃ  fait
+plusieurs voyages en AmÃ©rique septentrionale, entra au service de cette
+Compagnie.
+
+DÃ©jÃ , au cours d'une de ses prÃ©cÃ©dentes explorations, il avait eu
+l'intuition du vrai lieu oÃ¹ devaient se concentrer les efforts de la
+colonie naissante. Remontant le Saint-Laurent, nÃ©gligeant le port de
+Tadoussac, oÃ¹ se faisait jusque-lÃ  le commerce de pelleteries, il
+s'Ã©tait Ã©tabli Ã  un endroit oÃ¹ le fleuve se resserre. Voici ses propres
+paroles, si intÃ©ressantes dans leur simplicitÃ©: Â«Trouvant un lieu le
+plus Ã©troit de la riviÃ¨re, que les habitants du pays appellent QuÃ©bec,
+j'y fis bÃ¢tir et Ã©difier une habitation, dÃ©fricher des terres et faire
+quelques jardinages.Â» Telle fut l'origine modeste de la future capitale
+du Canada et de la grande ville qui a Ã©levÃ© naguÃ¨re une statue Ã  S.
+Champlain.
+
+Quel joli roman d'aventures que le rÃ©cit de sa vie, tel qu'il le fait
+lui-mÃªme dans un livre dÃ©diÃ© au cardinal de Richelieu. Quelle sensation
+de fraÃ®che et naÃ¯ve nature, au cours de ces pÃ©rÃ©grinations oÃ¹, toujours
+peu accompagnÃ©, souvent seul, Champlain va droit devant lui sur cette
+terre nouvelle qui offre Ã  sa course errante des paysages qui, si
+frÃ©quemment, lui rappellent la terre de France. Ce sont des prairies,
+des bouquets d'arbres, des champs de maÃ¯s ou d'orge, des plants de
+tabac, des buissons de myrtilles et de framboisiers. Certes, les hivers
+sont rudes, les neiges Ã©paisses, le froid intense; mais, jusque dans
+cette rigueur de l'hiver, il y a quelque chose qui rappelle encore la
+chÃ¨re patrie. Et les froids ne sont pas si Ã¢pres qu'ils empÃªchent la
+vigne de pousser. Et, partout, ce sont les arbres familiers, le chÃªne,
+le frÃªne, le hÃªtre, le noyer et l'ormeau.
+
+L'explorateur erre du Nord au Sud et de l'Est Ã  l'Ouest, se laissant
+guider le plus souvent, trompÃ© par les rÃ©cits obscurs ou les contes
+merveilleux des peuplades sauvages au milieu desquelles il s'est
+accoutumÃ© Ã  vivre. Il remonte le cours du Saint-Laurent, franchit les
+rapides, dÃ©termine l'emplacement des futures grandes villes, MontrÃ©al,
+Ottawa. Il rencontre un grand lac qui lui paraÃ®t une mer intÃ©rieure; il
+le traverse, c'est le lac Ontario; un autre ensuite, c'est le lac Huron.
+S'il tourne au Sud, vers la terre de Virginie, il dÃ©couvre un autre lac
+encore, qu'il appelle lui-mÃªme le lac Champlain.
+
+Mais le Nord surtout l'attire: c'est le pays des belles fourrures et le
+grand commerce des pelleteries qui se fait Ã  la cÃ´te vient de lÃ .
+Champlain sait qu'il y a de ce cÃ´tÃ© d'immenses terres nouvelles: le
+Labrador, le pays des Esquimaux. Il n'ignore pas qu'en marchant toujours
+dans ce sens, il trouverait la mer. Mais faute de ressources, il est
+obligÃ© de s'arrÃªter au moment oÃ¹ il s'approche dÃ©jÃ  de la baie d'Hudson.
+DÃ¨s lors, il a conÃ§u le projet, commun Ã  tous les explorateurs de ces
+rÃ©gions, de trouver au Nord le chemin qui, par mer, rÃ©unirait l'Europe Ã 
+la Chine et aux Indes orientales. Les forces et le temps lui manquent,
+mais, du moins, il a posÃ© le problÃ¨me.
+
+Un autre rÃªve, plus vaste encore, le hante. Et c'est ici que Samuel
+Champlain dÃ©passe, Ã  nos yeux, la mesure d'un aventurier hardi ou d'un
+explorateur sagace, pour atteindre celle d'un vÃ©ritable homme d'Ãtat et
+d'un fondateur d'empire.
+
+Tournant ses regards vers le Sud, il a devinÃ© l'avenir de ces immenses
+contrÃ©es qu'il n'a fait qu'entrevoir, mais qui seront bientÃ´t le champ
+d'action de la grande confÃ©dÃ©ration amÃ©ricaine. Par une conception
+vÃ©ritablement gÃ©niale, il songe, dÃ¨s le dÃ©but du dix-septiÃ¨me siÃ¨cle, Ã 
+rÃ©unir en une seule domination, par l'intÃ©rieur des terres, les
+Ã©tablissements fondÃ©s par les FranÃ§ais sur divers points de l'AmÃ©rique
+du Nord. Il devine l'importance qu'auraient, comme trait d'union, la
+sÃ©rie des grands lacs qu'il a dÃ©couverts et les grands fleuves qui vont
+vers le Sud.
+
+Il voudrait rÃ©unir le Canada Ã  la Louisiane et Ã  la Floride. Champlain
+rÃªvait d'une AmÃ©rique franÃ§aise. Tel Ã©tait le plan gigantesque que cet
+homme d'action avait conÃ§u et Ã  la rÃ©alisation duquel il consacra sa
+vie.
+
+Vingt fois, il fit le voyage, aller et retour, sur ces mÃ©diocres
+galiotes de quinze ou vingt tonneaux qui suffisaient aux vigoureux
+marins d'alors. En France, il remua ciel et terre. Il vit le cardinal de
+Richelieu et l'intÃ©ressa Ã  sa cause. Mais celui-ci Ã©tait alors trÃ¨s
+occupÃ©: il Ã©tait retenu par nos Ã©ternelles dissensions intÃ©rieures et
+assiÃ©geait La Rochelle.
+
+Champlain put du moins empÃªcher, qu'en ce qui concernait la colonie du
+Canada, la grande faute, accomplie plus tard au dix-huitiÃ¨me siÃ¨cle, ne
+fÃ»t commise un siÃ¨cle plus tÃ´t. En 1629, au cours des nÃ©gociations qui
+suivirent la prise de La Rochelle, on avait abandonnÃ© Ã  l'Angleterre les
+Ã©tablissements de la Nouvelle-France. GrÃ¢ce Ã  l'intervention directe et
+personnelle de Champlain, le Canada nous fut restituÃ©. A partir de cette
+Ã©poque, la colonie, fondÃ©e et dÃ©fendue, prend un rÃ©el dÃ©veloppement.
+Champlain trouva, d'ailleurs, jusqu'Ã  sa mort, en 1635, l'appui du grand
+cardinal, et c'est par la collaboration de ces deux hommes qu'une fille
+nouvelle de la France se mit Ã  grandir et Ã  prospÃ©rer au delÃ  des mers.
+
+Les contemporains n'ont guÃ¨re apprÃ©ciÃ© les mÃ©rites de Champlain. Ses
+successeurs ne se sont pas toujours montrÃ©s dignes de l'hÃ©ritage qu'il
+avait laissÃ©. Mais, aprÃ¨s trois siÃ¨cles, sa renommÃ©e renaÃ®t pure et sans
+tache. De son vivant, il n'a fait que du bien. Les sauvages, au milieu
+desquels il marchait avec confiance, l'aimaient et se fiaient en lui.
+Par lÃ  encore, il a laissÃ© des exemples et inaugurÃ© une des traditions
+les plus persistantes de l'exploration et de la colonisation franÃ§aises.
+
+Â«Le FranÃ§ais est-il colonisateur?Â» telle est la question qui se pose
+autour de nous, au moment oÃ¹ un vaste empire colonial vient de nouveau
+de nous Ãªtre acquis par les efforts persÃ©vÃ©rants de nos explorateurs, de
+nos missionnaires et de nos soldats. Â«Le FranÃ§ais est-il colonisateur?Â»
+La rÃ©ponse Ã  cette question est dans la vie d'un Samuel Champlain et
+dans les progrÃ¨s toujours croissants de la belle colonie franÃ§aise qui,
+dÃ©tachÃ©e depuis plus d'un siÃ¨cle de la mÃ¨re patrie, se dÃ©veloppa en
+terre amÃ©ricaine.
+
+Si le vaste rÃªve de Champlain n'a pas Ã©tÃ© rÃ©alisÃ© tout entier, du moins
+son Åuvre subsiste et la leÃ§on de sa vie peut instruire les gÃ©nÃ©rations
+prÃ©sentes. D'audacieuses entreprises dÃ©montrent chaque jour qu'elles
+comptent des hommes dignes de leurs glorieux devanciers. Mais il ne
+suffit pas d'entreprendre: il faut persÃ©vÃ©rer et conduire Ã  bonne fin.
+Et c'est pourquoi nous devons Ãªtre particuliÃ¨rement attentifs Ã  tout ce
+qui nous vient de cette population franÃ§aise de l'AmÃ©rique du Nord, qui
+garde les vertus des ancÃªtres et qui nous donne, Ã  son tour, un double
+et excellent exemple: durer d'abord; en outre, croÃ®tre et multiplier.
+
+[Illustration: deco]
+
+
+
+
+APPENDICES
+
+
+
+
+LA DÃLÃGATION FRANÃAISE AU 3e CENTENAIRE DE CHAMPLAIN
+
+[Illustration: deco]
+
+
+La dÃ©lÃ©gation franÃ§aise, groupÃ©e par le ComitÃ© France-AmÃ©rique, pour
+participer au troisiÃ¨me centenaire de Champlain, s'est embarquÃ©e le 20
+avril 1912 Ã  bord de _la France_, lors du voyage d'inauguration de ce
+navire.
+
+Elle apporte le buste de Â«la FranceÂ» sculptÃ© par Rodin et acquis par
+souscription publique. Sur la plaque de bronze, qui forme fond Ã  ce
+buste en bas-relief, sont inscrits ces mots:
+
+    _LE 20 JUILLET 1609 LE FRANÃAIS S. CHAMPLAIN
+    A DÃCOUVERT LE LAC QUI PORTE SON NOM.
+    LE 3 MAI 1912,
+    LES ÃTATS DE NEW-YORK ET DE VERMONT
+    ÃLEVANT CE MONUMENT,
+    UNE DÃLÃGATION FRANÃAISE A SCELLÃ
+    CETTE FIGURE DE
+    LA FRANCE._
+
+La dÃ©lÃ©gation franÃ§aise est composÃ©e de la maniÃ¨re suivante:
+
+
+_Chef de la mission_:
+
+   M. GABRIEL HANOTAUX, de l'AcadÃ©mie franÃ§aise, PrÃ©sident du ComitÃ©
+   France-AmÃ©rique.
+
+   M. POINCARÃ, prÃ©sident du Conseil, ministre des Affaires
+   Ã©trangÃ¨res, est personnellement reprÃ©sentÃ© par M. le Comte CHARLES
+   DE CHAMBRUN, secrÃ©taire d'ambassade.
+
+
+_Membres de la mission_:
+
+    MM. ÃTIENNE LAMY, de l'AcadÃ©mie franÃ§aise.
+        RENÃ BAZIN, de l'AcadÃ©mie franÃ§aise.
+        CORMON, prÃ©sident de l'AcadÃ©mie des Beaux-Arts.
+        Le GÃ©nÃ©ral BRUGÃRE, ancien vice-prÃ©sident
+          du Conseil supÃ©rieur de la Guerre.
+        VIDAL DE LA BLACHE, de l'Institut, professeur
+          Ã  la Sorbonne, reprÃ©sentant l'UniversitÃ© de Paris.
+        LOUIS BARTHOU, dÃ©putÃ©, ancien ministre.
+        Le Baron D'ESTOURNELLES DE CONSTANT, sÃ©nateur,
+        Le Comte de ROCHAMBEAU.
+        Le GÃ©nÃ©ral LEBON, ancien membre du Conseil supÃ©rieur de la
+          Guerre.
+
+La mission Ã©tait accompagnÃ©e des personnes suivantes qui complÃ©taient la
+dÃ©lÃ©gation du ComitÃ© France-AmÃ©rique:
+
+    LÃON BARTHOU, reprÃ©sentant l'AÃ©ro-Club.
+    LOUIS BLÃRIOT.
+    Le DUC DE CHOISEUL.
+    DAL PIAZ, directeur gÃ©nÃ©ral de la Compagnie Transatlantique.
+    GIRARD.
+    GABRIEL LOUIS-JARAY, membre du Conseil d'Ãtat, secrÃ©taire gÃ©nÃ©ral
+      du ComitÃ© France-AmÃ©rique et de la dÃ©lÃ©gation
+
+
+
+
+LISTE GÃNÃRALE DE SOUSCRIPTION A Â«LA FRANCEÂ» DE RODIN
+
+    _Offerte aux Ãtats-Unis
+    pour faire participer la France Ã  la CommÃ©moration
+    du troisiÃ¨me centenaire de Champlain._
+
+[Illustration: deco]
+
+
+  MM.
+
+                                                              Francs
+
+  Le PrÃ©sident de la RÃ©publique                                2.000
+
+  A. Dubost, prÃ©sident du SÃ©nat                                  250
+
+  H. Brisson, prÃ©sident de la Chambre 250
+
+  De Selves, ministre des Affaires Ã©trangÃ¨res[1]               1.000
+
+  Dujardin-Beaumetz, sous-secrÃ©taire d'Ãtat aux Beaux-Arts[1]  1.000
+
+  Jusserand, ambassadeur de France aux Ãtats-Unis                500
+
+  Marquis de VogÃ¼Ã©, de l'AcadÃ©mie FranÃ§aise, membre du ComitÃ©
+    de patronage du ComitÃ© F.-A.                                 100
+
+  Alexandre Ribot, de l'AcadÃ©mie FranÃ§aise, membre du ComitÃ©
+    de patronage du ComitÃ© F.-A.                                 100
+
+  Ãtienne Lamy, de l'AcadÃ©mie FranÃ§aise, membre du ComitÃ© de
+    patronage du ComitÃ© F.-A.                                    100
+
+  Raymond PoincarÃ©, de l'AcadÃ©mie FranÃ§aise, membre du ComitÃ©
+    de patronage du ComitÃ© F.-A.[2]                              100
+
+  Paul Deschanel, de l'AcadÃ©mie FranÃ§aise, membre du ComitÃ© de
+    patronage du ComitÃ© F.-A.                                    100
+
+  Paul Hervieu, de l'AcadÃ©mie FranÃ§aise, membre du ComitÃ© de
+    patronage du ComitÃ© F.-A.                                     50
+
+  Gabriel Hanotaux, de l'AcadÃ©mie FranÃ§aise, prÃ©sident du ComitÃ©
+    France-AmÃ©rique                                              100
+
+  GÃ©nÃ©ral de Lacroix, ancien vice-prÃ©sident du Conseil supÃ©rieur
+    de la guerre, membre du ComitÃ© de patronage du ComitÃ© F.-A.   30
+
+  Le gÃ©nÃ©ral BrugÃ¨re, ancien vice-prÃ©sident du Conseil supÃ©rieur
+    de guerre, prÃ©sident de la section des Ãtats-Unis du ComitÃ©
+    France-AmÃ©rique                                              100
+
+  Comte de Rochambeau, membre du ComitÃ© de patronage du ComitÃ©
+    F.-A.                                                        100
+
+  Compagnie gÃ©nÃ©rale transatlantique                           2.000
+
+  James H. Hyde, membre du Conseil de la section des Ãtats-Unis
+     du ComitÃ© F.-A.                                             500
+
+  Gabriel Louis-Jaray, secrÃ©taire gÃ©nÃ©ral du ComitÃ© F.-A.,
+    membre du Conseil d'Ãtat                                     100
+
+  Banque Morgan, Harjes et Cie                                   500
+
+  Poirrier, sÃ©nateur                                              20
+
+  A. Calvet, sÃ©nateur                                            100
+
+  Georges Leygues, dÃ©putÃ©                                        500
+
+  Alexandre Millerand, dÃ©putÃ©[3]                                 100
+
+  Banque de l'Union Parisienne                                   500
+
+  Piccioni, ministre plÃ©nipotentiaire, membre du Conseil de
+    direction du ComitÃ© F.-A.                                    100
+
+  Demellette, prÃ©sident du Syndicat gÃ©nÃ©ral de l'industrie
+    hÃ´teliÃ¨re                                                    100
+
+  Leroy-White, prÃ©sident de la FÃ©dÃ©ration de l'Alliance franÃ§aise
+    aux Ãtats-Unis                                               100
+
+  Saudray, prÃ©sident de la Chambre des agents et reprÃ©sentants
+    pour l'exportation                                           100
+
+  AbbÃ© FÃ©lix Klein                                                10
+
+  Heurteau, dÃ©lÃ©guÃ© gÃ©nÃ©ral du Conseil d'administration de la
+    Compagnie d'OrlÃ©ans, vice-prÃ©sident du ComitÃ© France-AmÃ©rique 25
+
+  Pierre de Nolhac, conservateur du MusÃ©e de Versailles           20
+
+  Alfred Mayen                                                   200
+
+  G. de C.-M.                                                    250
+
+  Henri Froidevaux, rÃ©dacteur en chef de _France-AmÃ©rique_        10
+
+  Vicomte de Foucauld, administrateur du ComitÃ©                   10
+
+  Fernand Paris, chef du service de propagande du ComitÃ©          10
+
+  Willy Blumenthal                                               100
+
+  HÃ´tel de Crillon, place de la Concorde                         100
+
+  Baron d'Anthouard, ministre de France                           20
+
+  AndrÃ© Benac, administrateur de la Banque de Paris et des
+    Pays-Bas, membre du Conseil de direction du ComitÃ© F.-A.     100
+
+  Guenard, secrÃ©taire gÃ©nÃ©ral de Â«La CanadienneÂ»                  10
+
+  Ed. Noetzlin, prÃ©sident du Conseil d'administration de la
+    Banque de Paris et des Pays-Bas                              200
+
+  Boutroux, de l'Institut, vice-prÃ©sident de la section des
+    Ãtats-Unis du ComitÃ© France-AmÃ©rique                         100
+
+  Edward Tuck, vice-prÃ©sident de la section des Ãtats-Unis du
+    ComitÃ© France-AmÃ©rique                                       500
+
+  Fernand Laudet, directeur de la _Revue hebdomadaire_, membre
+    du Conseil de direction du ComitÃ© F.-A.                       20
+
+  Ed. Fabre-Luce, vice-prÃ©sident du Conseil d'administration
+    du CrÃ©dit Lyonnais, membre du Conseil de direction du ComitÃ©
+    F.-A                                                         100
+
+  Mme J. Bogelot, membre du Conseil supÃ©rieur d'assistance et
+    d'hygiÃ¨ne publiques                                            5
+
+  Ãdouard Julhiet, membre du Conseil de la section des Ãtats-Unis
+    du ComitÃ© F.-A.                                               50
+
+  Appell, de l'Institut, doyen de la FacultÃ© des Sciences,
+    prÃ©sident de la Commission de l'enseignement de la Ligue
+    franÃ§aise de propagande du ComitÃ©                             25
+
+  LÃ©on Grunbaum                                                  100
+
+  Houbigant, parfumeur                                           100
+
+  Antonio Dellepiane, professeur Ã  l'UniversitÃ© de Buenos-Ayres,
+    agrÃ©Ã© Ã  l'UniversitÃ© de Paris                                100
+
+  Fernand Devise, administrateur de la Compagnie gÃ©nÃ©rale
+    transatlantique                                               50
+
+  Vidal de la Blache, de l'institut, professeur Ã  la Sorbonne,
+    membre du Conseil de la section des Ãtats-Unis du ComitÃ©
+    F.-A.                                                         20
+
+  Henri Cachard, ancien prÃ©sident de la Chambre de Commerce
+    amÃ©ricaine de Paris, membre du Conseil de la section des
+    Ãtats-Unis du ComitÃ© F.-A                                    100
+
+  Lequime                                                         20
+
+  Banque internationale du Canada                                500
+
+  Caisse hypothÃ©caire canadienne                                 200
+
+  Maison d'orfÃ¨vrerie Christofle et Cie                          200
+
+  Girard, fabricant de produits pharmaceutiques                  100
+
+  Shoninger, prÃ©sident de la Chambre de Commerce amÃ©ricaine,
+    vice-prÃ©sident de la section des Ãtats-Unis du ComitÃ© F.-A.  100
+
+  Maison d'Ã©dition Hachette et Cie 100
+
+  A. Legallet, prÃ©sident de la French-American Bank de
+    San-Francisco                                                100
+
+  Gaston LiÃ©geard                                                 25
+
+  Charles Lamy, prÃ©sident de la Chambre de Commerce de Limoges    20
+
+  AndrÃ© Hallays                                                   50
+
+  Alfred S. Heidelbach, vice-prÃ©sident de la Chambre de Commerce
+    amÃ©ricaine                                                   100
+
+  Maison de Champagne Pommery et Greno                           500
+
+  Izoulet, professeur au CollÃ¨ge de France                       100
+
+  Charles de Lesseps                                              50
+
+  Duc et duchesse de Choiseul                                    100
+
+  Percy Peixotto                                                 100
+
+  J.-C. Duval                                                    100
+
+  RaphaÃ«l-Georges Levy, banquier, professeur Ã  l'Ãcole des
+    Sciences politiques, membre du Conseil de direction du
+    ComitÃ© F.-A.                                                 100
+
+  La Canadienne 25
+
+  Comte Michel de Pierredon, membre du Conseil de la section
+    des Ãtats-Unis du ComitÃ© F.-A.                               100
+
+  Kleczkowski, ministre de France, membre du conseil de direction
+    du ComitÃ© F.-A.                                               50
+
+  Guillemin, ministre plÃ©nipotentiaire                            50
+
+  Joseph Willermoz                                                10
+
+  E. Sacquet, ingÃ©nieur 5
+
+  R. Koch, chef du bureau des Ã©trangers au CrÃ©dit Lyonnais        20
+
+  Sidney B. Veit, membre de la Chambre de commerce amÃ©ricaine de
+    Paris                                                         25
+
+  Georges Aubert, banquier                                       100
+
+  Gauger                                                          10
+
+  LÃ©on LÃ©vy, directeur de ChÃ¢tillon-Commentry                     25
+
+  V. Faga                                                         20
+
+  Henri Vignaud, ancien conseiller de l'ambassade des Ãtats-Unis,
+    membre du Conseil de la section des Ãtats-Unis du ComitÃ©
+    F.-A.                                                         26
+
+  Maurice Fenaille                                               500
+
+  Marcel Proust et le docteur Proust                             100
+
+  L'Action FranÃ§aise                                             100
+
+  H. Vaugeois, L. Daudet, Ch. Maurras, L. de Montesquiou,
+    L. Moreau, M. Pujo, P. Robain, R. de Boisfleury, J.
+    Rivain, B. de VÃ©sins: en souvenir de la revanche militaire
+    et maritime de Louis XVI, moins de vingt ans aprÃ¨s que
+    Louis XV eut perdu l'empire colonial fondÃ© par Louis XIII
+    et Louis XIV                                                  50
+
+  S. de Jonge                                                    100
+
+  Le ComitÃ© de patronage des Ã©tudiants Ã©trangers, prÃ¨s
+    l'UniversitÃ© de Grenoble                                       5
+
+  Maison d'Ã©dition Larousse                                      200
+
+  Comtesse de Saint-Romans, nÃ©e Slidell                          100
+
+  Colonel Marchand et Madame, nÃ©e de Saint-Romans                100
+
+  Adolphe Carnot, de l'Institut                                   20
+
+  Chambre de commerce de Lyon                                    100
+
+  Henri Grogniez                                                  10
+
+  Louis Arnould, professeur Ã  la FacultÃ© de Poitiers              10
+
+  Maison de fourrures RÃ©villon frÃ¨res                            200
+
+  Chambre de commerce de Reims                                    20
+
+  Leau, de Â«la CanadienneÂ»                                        10
+
+  La baronne d'Erlanger, nÃ©e Slidell                             100
+
+  Toutain (Jean Revel)                                           100
+
+  BriÃ¨re, ancien commissaire de la Marine                        100
+
+  Dorizon, directeur gÃ©nÃ©ral de la SociÃ©tÃ© gÃ©nÃ©rale              100
+
+  Maurice LÃ©on, du barreau de New-York                            50
+
+  De Grandmaison, dÃ©putÃ©                                          20
+
+  F. Guillain, ancien ministre, membre du Conseil de direction
+    du ComitÃ© F.-A.                                               50
+
+  Darboux, secrÃ©taire perp. de l'AcadÃ©mie des sciences, membre
+    du Conseil de direction du ComitÃ© F.-A.                       25
+
+  Alexis Rostand, prÃ©sident du Conseil d'administration du
+    Comptoir national d'Escompte                                 100
+
+  EugÃ¨ne Ãtienne, dÃ©putÃ©, membre du ComitÃ© de patronage du ComitÃ©
+    F.-A                                                         100
+
+  Louis Brunschwig, vice-prÃ©sident de la Chambre de commerce
+    franÃ§aise de la Havane                                        25
+
+  Ãmile Dupont, sÃ©nateur, prÃ©sident du ComitÃ© franÃ§ais des
+    expositions Ã  l'Ã©tranger                                     100
+
+  Pierre Saint-Girons, avocat Ã  la Cour d'appel                   10
+
+  Aynard, dÃ©putÃ©, membre du ComitÃ© de patronage du ComitÃ© F.-A.  100
+
+  Francastel, consul gÃ©nÃ©ral de France Ã  la Nouvelle-OrlÃ©ans      25
+
+  C. Inman Barnard, correspondant du _The New York Tribune_       50
+
+  Mac Dougall Hawkes, vice-prÃ©sident de l'Institut franÃ§ais de
+    New-York                                                     100
+
+  Xavier Charmes, de l'Institut                                  100
+
+  La Chambre de Commerce de Paris                                200
+
+  Max Leclerc, Ã©diteur (maison Armand Colin), membre du Conseil
+    de la section des Ãtats-Unis du ComitÃ© F.-A.                 100
+
+  Anatole Leroy-Beaulieu, de l'Institut, directeur de l'Ãcole
+    des sciences politiques, vice-prÃ©sident du ComitÃ© F.-A        50
+
+  Jean de Pulligny, directeur de la Mission franÃ§aise
+    d'ingÃ©nieurs aux Ãtats-Unis                                  100
+
+  Gustave Benoist, ex-mÃ©canicien de la Marine, promoteur du
+    monument de Liniers Ã  Niort                                    5
+
+  Un groupe de FranÃ§ais de Santiago du Chili                     100
+
+  Luis J. Supervielle, prÃ©sident de la Banque d'assurances
+    d'Ãtat,  Ã  Montevideo                                        100
+
+  La Chambre de commerce franÃ§aise de Rio de Janeiro              50
+
+  Comte de Reganhac                                                5
+
+  Jean Guiffrey, en mission au musÃ©e de Boston                    50
+
+  Firmin Roz, secrÃ©taire de la section des Ãtats-Unis du ComitÃ©
+  F.-A.                                                           10
+
+  Mme Depew                                                      100
+
+  Paul Desprez, ministre de France                                20
+
+  Thurwanger, prÃ©sident du cercle franÃ§ais de Boston              10
+
+  LÃ©on Bocqueraz, prÃ©sident de l'Alliance franÃ§aise Ã 
+    San-Francisco                                                250
+
+  Roger Bocqueraz                                                250
+
+  P.-A. Bergerot, ancien prÃ©sident de l'hÃ´pital franÃ§ais de
+    San-Francisco                                                500
+
+  Charles Carpy, ancien prÃ©sident de la French Bank of Savings   250
+
+  J.-M. Dupas, ancien prÃ©sident de l'Alliance franÃ§aise Ã 
+    San-Francisco                                                250
+
+  Willis Folk                                                    250
+
+  G. Fouchan, ancien prÃ©sident de l'hÃ´pital franÃ§ais             250
+
+  H. MÃ©rou, consul gÃ©nÃ©ral de France Ã  San-Francisco              25
+
+  C. de Cazotte, consul de France Ã  San-Francisco                 25
+
+  _L'Ãcho de l'Ouest_, Ã  San-Francisco.                           50
+
+  RaphaÃ«l Weill, propriÃ©taire de _l'Ãcho de l'Ouest_, Ã 
+    San-Francisco.                                               500
+
+  LÃ©on L. Rey                                                      5
+
+  Docteur Georges Juilly                                          12
+
+  Alfred Blanc                                                     2.50
+
+  Marius Mathieu                                                   2.50
+
+  Ãmile Raas                                                      12
+
+  Louis Savart                                                     5
+
+  E. FÃ©ret                                                         5
+
+  Un ami                                                           5
+
+  A.-M. Rolland                                                   12
+
+  GÃ©o Tessier                                                      5
+
+  J. Delabriandais                                                 2.50
+
+  P. ViguiÃ©                                                        2.50
+
+  A. Helip                                                         5
+
+  Un FranÃ§ais                                                     25
+
+  Louis Baylacq                                                    5
+
+  Pierre BarbÃ©                                                     2.50
+
+  A. LomprÃ©                                                        5
+
+  Henri Ruellan                                                    2.50
+
+  Laurence Vergez                                                  2.50
+
+  Simon Toulouse                                                   2.50
+
+  J.-L. Bourdieu                                                   2.50
+
+  L. L.                                                            2.50
+
+  Joseph BarbÃ©                                                     5
+
+  Justin Carroul                                                   5
+
+  Un BÃ©arnais                                                      2.50
+
+  Abel Chevalley, ministre plÃ©nipotentiaire, s.-directeur
+    d'AmÃ©rique au ministÃ¨re des Affaires Ã©trangÃ¨res, membre
+    du Conseil de direction du ComitÃ©                             50
+
+  Le gÃ©nÃ©ral Lebon, ancien membre du Conseil supÃ©rieur de la
+    guerre, membre du Conseil de direction du ComitÃ©              30
+
+  PalÃ©ologue, ministre plÃ©nipotentiaire, directeur des Affaires
+    politiques au ministÃ¨re des Affaires Ã©trangÃ¨res               30
+
+  AndrÃ© Michel, conservateur des MusÃ©es nationaux, membre du
+    Conseil de la section des Ãtats-Unis du ComitÃ©                20
+
+  Prosper Bouneault, promoteur du monument Liniers Ã  Niort        10
+
+  Le professeur Grasset, professeur Ã  l'UniversitÃ© de Montpellier 50
+
+  Commandant LÃ©once Abeille                                       10
+
+  Comte Fernand de Montebello                                     20
+
+  J.-C. Duval                                                    100
+
+  Gaston Bouzanquet, promoteur du monument Montcalm               20
+
+  BÃ©thune                                                         20
+
+  Paul W. Bartlett, prÃ©sident de l'_American Art Association_,
+    membre du Conseil de la section des Ãtats-Unis du ComitÃ©      50
+
+  Francis VielÃ©-Griffin, membre du Conseil de la section des
+    Ãtats-Unis du ComitÃ©                                         100
+
+  Walter Gay, membre du Conseil de la section des Ãtats-Unis du
+    ComitÃ©                                                       100
+
+  Lazare Weiller, membre du Conseil de la section des Ãtats-Unis
+    du ComitÃ©                                                    100
+
+  Paul Doumer, sÃ©nateur, membre du ComitÃ© de patronage du ComitÃ©  20
+
+  Croiset, doyen de la FacultÃ© des lettres de Paris, membre du
+    Conseil de direction du ComitÃ©                                20
+
+  AndrÃ© Thome, membre du Conseil de direction du ComitÃ©          100
+
+  J. Gauguier, prÃ©sident du tribunal civil Ã  Meaux                20
+
+  Mme Juliette Adam                                               25
+
+  Amiral Gervais, membre du ComitÃ© de patronage du ComitÃ©          5
+
+  AndrÃ© Javey, membre du Conseil de la section des Ãtats-Unis du
+    ComitÃ©                                                       100
+
+  Le CrÃ©dit AlgÃ©rien                                             100
+
+  MÃ©line, sÃ©nateur, ancien prÃ©sident du Conseil                   20
+
+  D'Eichthal, de l'Institut                                       25
+
+  Frank-Mason, consul gÃ©nÃ©ral des Ãtats-Unis, membre du Conseil
+    de la section des Ãtats-Unis                                 100
+
+  L. Marie, dÃ©lÃ©guÃ© du chemin de fer du Nord au CongrÃ¨s de
+    Washington                                                    25
+
+  Louis Barthou, dÃ©putÃ© des Basses-PyrÃ©nÃ©es                      100
+
+  Jean Dupuy, Ministre des Travaux publics                       100
+
+  Jules CorrÃ©ard, Inspecteur des Finances                         10
+
+  Auguste Isaac, PrÃ©sident de la Chambre de commerce de Lyon      25
+
+  Major Mahan                                                     50
+
+  Steeg, Ministre de l'IntÃ©rieur                                 100
+
+  Docteur Charcot                                                 50
+
+  Morel, sculpteur                                                10
+
+  BibliothÃ¨que d'art et d'archÃ©ologie                            100
+
+  Comte J. de PourtalÃ¨s                                           25
+
+  LÃ©on Barthou, MaÃ®tre des RequÃªtes honoraire au Conseil d'Ãtat   50
+
+  Mazery                                                          10
+
+  L. Klotz, Ministre des Finances                                100
+
+  LÃ©on Lhermitte, de l'Institut                                   20
+
+  RenÃ© Bazin, de l'AcadÃ©mie franÃ§aise                             50
+
+  Briand, Ministre de la Justice                                 100
+
+  Paul de Rousiers                                               100
+
+  Lebrun, Ministre des Colonies                                  100
+
+  Guirot                                                           2
+
+  Constantin Mennesson                                            20
+
+  Magenties                                                       10
+
+  Macaigne                                                         5
+
+  Prince Pierre d'Arenberg                                        20
+
+  Jeanniot                                                         5
+
+[Illustration: deco]
+
+  [1] A l'Ã©poque de l'ouverture de la souscription.
+
+  [2] Aujourd'hui prÃ©sident du Conseil et ministre des Affaires
+      Ã©trangÃ¨res.
+
+  [3] Aujourd'hui ministre de la Guerre.
+
+
+[Illustration: deco]
+
+
+
+
+L'ÅUVRE DU COMITÃ FRANCE-AMÃRIQUE
+
+[Illustration: deco]
+
+
+Le ComitÃ© France-AmÃ©rique, sous les auspices duquel s'est prÃ©parÃ©e la
+manifestation en l'honneur de Champlain, a Ã©tÃ© fondÃ© Ã  la fin de 1909
+par un grand nombre de personnalitÃ©s; elles ont lancÃ© l'appel suivant,
+qui rÃ©sume le programme du ComitÃ©:
+
+Les FranÃ§ais qui signent cet appel viennent de fonder une institution
+qui se consacre Ã  une Åuvre urgente de rapprochement et de sympathie
+entre la France et les nations amÃ©ricaines; c'est le ComitÃ©
+France-AmÃ©rique.
+
+Travailler au dÃ©veloppement des relations Ã©conomiques, intellectuelles,
+artistiques, etc., entre les nations du Nouveau Monde et la nation
+franÃ§aise; fonder une Revue mensuelle et y coordonner les renseignements
+les plus complets sur la vie Ã©conomique et intellectuelle des peuples
+amÃ©ricains; attirer en France des Ã©tudiants et des voyageurs des deux
+AmÃ©riques, et leur prÃ©parer un accueil cordial; encourager toute Åuvre
+ou toute action qui fera connaÃ®tre l'AmÃ©rique en France ou la France en
+AmÃ©rique, telle sera la direction donnÃ©e Ã  nos efforts.
+
+Les soussignÃ©s font appel au concours gÃ©nÃ©reux et au dÃ©vouement actif de
+ceux qui, en France, s'intÃ©ressent aux AmÃ©riques et de ceux qui, dans
+les AmÃ©riques, s'intÃ©ressent Ã  la France.
+
+Le ComitÃ© s'est consacrÃ©, depuis lors, Ã  une Åuvre urgente de
+rapprochement et de sympathie mieux Ã©clairÃ©e entre la France et
+l'AmÃ©rique; son nom rÃ©sume la pensÃ©e qui a prÃ©sidÃ© Ã  sa fondation.
+
+Unir de plus en plus les deux pays, faire mieux connaÃ®tre l'AmÃ©rique Ã 
+la France et la France Ã  l'AmÃ©rique, tel est son programme, et nous
+aurions dÃ» dire, tout de suite, pour ne laisser aucun doute: les deux
+AmÃ©riques. Car, si l'AmÃ©rique du Nord offre un champ plus vaste,
+l'AmÃ©rique du Sud nous invite Ã  une sympathie Ã©troite en raison de la
+race et de la culture gÃ©nÃ©rale Ã  tendance latine plus accusÃ©e. Cette
+tendance est, il est vrai, rÃ©pandue sur tout le continent: du Canada au
+dÃ©troit de Magellan, par le Mexique et les rÃ©publiques centrales,
+partout, une forte mixture de sang latin se retrouve dans les artÃ¨res
+des races neuves. Mais, c'est surtout Ã  l'AmÃ©rique du Sud que s'applique
+le fameux proverbe amÃ©ricain: Â«Du sang ce n'est pas de l'eau.Â»
+
+Donc, les deux AmÃ©riques sollicitent, Ã  des titres divers, l'attention
+du ComitÃ©. Quoique le champ soit vaste, jusqu'Ã  en Ãªtre effrayant, il
+n'en retranche aucune partie. L'heure n'est pas venue de restreindre et
+de spÃ©cialiser. Rien n'existe; il faut crÃ©er d'abord. L'avenir se
+dÃ©brouillera.
+
+Il ne peut s'agir, bien entendu, de pÃ©nÃ©tration ou d'expansion, mais
+bien de collaboration et d'accord. Nous avons Ã  emprunter de l'AmÃ©rique,
+autant qu'Ã  lui apporter. Si notre civilisation plus ancienne est plus
+raffinÃ©e, comment ne se retournerait-elle pas vers les exemples de
+vigueur, de rÃ©alisme et d'Ã©nergie, qui lui sont donnÃ©s par le jeune
+continent? Nos vieilles villes ont leurs cathÃ©drales et leurs donjons;
+ses villes rÃ©centes ont leurs usines et leurs gratte-ciels. Nous suons
+l'histoire, ils respirent l'avenir; toutes les grandeurs ont leur
+efficacitÃ© et leur poÃ©sie.
+
+La premiÃ¨re pensÃ©e fut de grouper, en France, les hommes qui
+s'intÃ©ressent aux AmÃ©riques, dans l'espoir de grouper, un jour, aux
+AmÃ©riques, les hommes qui s'intÃ©ressent Ã  la France, et, si c'Ã©tait
+possible, de rÃ©unir ces bonnes volontÃ©s dispersÃ©es en un faisceau qui,
+par le simple rapprochement, deviendrait une force.
+
+Les concours que le ComitÃ© a recueillis ont Ã©tÃ© si nombreux que, dÃ¨s
+1911, le nombre de ses membres actifs et de ses adhÃ©rents approchait du
+millier. AprÃ¨s avoir organisÃ© ainsi en France une base solide, il a
+fondÃ© des comitÃ©s correspondants en AmÃ©rique; les premiers se sont
+fondÃ©s Ã  MontrÃ©al et Ã  la Nouvelle-OrlÃ©ans; d'autres sont crÃ©Ã©s ou en
+voie de formation Ã  New-York, Sao-Paolo, Rio de Janeiro, La Havane,
+MontÃ©vidÃ©o, Buenos-Ayres et Santiago.
+
+D'autre part, une section de propagande organise, depuis le 1er janvier
+1912, un service de renseignements en AmÃ©rique sur le tourisme en
+France, l'enseignement franÃ§ais et les produits de l'industrie
+franÃ§aise. Enfin depuis le mois de mars 1912 des sections nationales ont
+Ã©tÃ© fondÃ©es; celle des Ãtats-Unis a comme membres de son bureau le
+gÃ©nÃ©ral BrugÃ¨re, M. E. Tuck, le prÃ©sident de la Chambre de commerce
+amÃ©ricaine, M. Boutroux et M. d'Estournelles de Constant.
+
+Le ComitÃ© central de Paris, qui a son siÃ¨ge social, 21, rue Cassette,
+se compose d'un bureau, d'un conseil de direction, de membres actifs et
+d'adhÃ©rents. Le bureau est actuellement formÃ© des personnes suivantes:
+
+_PrÃ©sident_: M. Gabriel HANOTAUX, de l'AcadÃ©mie franÃ§aise, ancien
+ministre des Affaires Ã©trangÃ¨res.
+
+_Vice-prÃ©sidents_: MM. le gÃ©nÃ©ral BRUGÃRE; Anatole LEROY-BEAULIEU, de
+l'Institut, directeur de l'Ãcole des Sciences Politiques; HEURTEAU,
+dÃ©lÃ©guÃ© gÃ©nÃ©ral du Conseil d'administration de la Compagnie d'OrlÃ©ans;
+Vicomte Robert DE CAIX DE SAINT-AYMOUR.
+
+_TrÃ©sorier_: M. le Comte R. DE VOGÃÃ.
+
+_SecrÃ©taire gÃ©nÃ©ral_: M. Gabriel-Louis JARAY, auditeur au Conseil
+d'Ãtat.
+
+
+Le ComitÃ© publie depuis le 1er janvier 1910, une revue mensuelle,
+_France-AmÃ©rique_, qui est la propriÃ©tÃ© du ComitÃ©[4].
+
+  [4] Cotisation minimum des adhÃ©rents, donnant droit au service de la
+  Revue et prix d'abonnement: France: 24 francs; AmÃ©rique: 25 francs;
+  Ãtranger: 26 francs.
+
+SiÃ¨ge social: 21, rue Cassette, Paris, VIe; spÃ©cimen sur demande. Cette
+revue Ã©tudie la vie des nations amÃ©ricaines dans toutes leurs
+manifestations, politiques, nationales, Ã©conomiques, financiÃ¨res,
+sociales, intellectuelles, artistiques, etc... Elle a publiÃ©
+rÃ©guliÃ¨rement des articles et chroniques des auteurs les plus connus et
+les plus compÃ©tents. C'est une revue de luxe, qui paraÃ®t sur 92 pages de
+grand format, publie chaque mois des gravures ou cartes en planche hors
+texte sur papier couchÃ© et a un supplÃ©ment mensuel consacrÃ© au Canada.
+
+
+En 1912, cette revue a offert Ã  ses lecteurs deux sÃ©ries d'articles sur
+les chemins de fer en AmÃ©rique et sur les relations des ports et centres
+commerciaux en France avec l'AmÃ©rique. Enfin, pour faire de plus en plus
+de cette Revue le grand pÃ©riodique amÃ©ricain de langue franÃ§aise, le
+ComitÃ© dÃ©veloppe les chroniques mensuelles, en les groupant sous trois
+rubriques: la vie Ã©conomique, commerciale et financiÃ¨re; la vie
+politique et internationale; la vie intellectuelle, sociale et
+artistique. DÃ©sormais ses lecteurs trouvent soit mensuellement, soit
+pÃ©riodiquement, Ã  cÃ´tÃ© des chroniques spÃ©ciales Ã  chaque pays
+d'AmÃ©rique, les chroniques gÃ©nÃ©rales suivantes: Finances publiques:
+budget, dette et circulation monÃ©taire, par M. F. Lefort; Chronique
+commerciale: produits, changes et frets d'AmÃ©rique, par M. P. Gebhard;
+PropriÃ©tÃ© industrielle, littÃ©raire et artistique, par M. Georges
+Chabaud, avocat Ã  la Cour d'appel; Actes et faits internationaux, par M.
+Georges Salle, professeur Ã  l'UniversitÃ© de Lille; Cartographie
+amÃ©ricaine, par M. le capitaine PÃ©rier, du service gÃ©ographique de
+l'armÃ©e; AntiquitÃ©s amÃ©ricaines, par le docteur Rivet, assistant au
+MusÃ©um, etc.
+
+_France-AmÃ©rique_ est la revue d'un ComitÃ© dont l'Åuvre est faite de
+dÃ©vouement dÃ©sintÃ©ressÃ©, de souci patriotique, d'amitiÃ©
+franco-amÃ©ricaine et de conciliation des intÃ©rÃªts de pays amÃ©ricains et
+de la France.
+
+[Illustration: deco]
+
+
+
+
+TABLE DES MATIÃRES
+
+[Illustration: deco]
+
+       I.--LA FRANCE ET LE TROISIÃME CENTENAIRE DE CHAMPLAIN.
+
+     II.--POUR UN GRAND FRANÃAIS.
+
+    III.--L'ÅUVRE DE SAMUEL CHAMPLAIN.
+
+
+    APPENDICES:
+
+       I.--La DÃ©lÃ©gation franÃ§aise au 3e centenaire de Champlain.
+
+      II.--Liste gÃ©nÃ©rale de souscription Ã  Â«la FranceÂ» de Rodin
+        offerte aux Ãtats-Unis pour faire participer la France Ã 
+        la commÃ©moration du troisiÃ¨me centenaire de Champlain.
+
+     III.--L'Åuvre du ComitÃ© France-AmÃ©rique.
+
+
+    PLANCHES HORS TEXTE:
+
+       I.--Signature de Samuel Champlain.
+
+     II.--Portrait de Samuel Champlain.
+
+
+26-3-12.--Tours, imprimerie E. ARRAULT et Cie.
+
+
+
+
+
+End of the Project Gutenberg EBook of Champlain, by Gabriel Hanotaux
+
+*** END OF THE PROJECT GUTENBERG EBOOK 52669 ***

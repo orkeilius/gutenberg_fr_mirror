@@ -1,3 +1,1373 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d72bb36b00b79d15bca8cacd24e1847637967003a7d97c827e887d62a8ded9b
-size 80018
+*** START OF THE PROJECT GUTENBERG EBOOK 10768 ***
+
+L'ÃGYPTOLOGIE
+
+Par G. MASPERO
+
+
+
+
+LES ÃTUDES ÃGYPTOLOGIQUES
+
+
+L'Ãgyptologie est nÃ©e en France; CHAMPOLLION le Jeune (1790-1832) en fut
+le fondateur, et, pendant un certain nombre d'annÃ©es, cette science
+demeura exclusivement franÃ§aise. L'histoire de ses commencements se trouve
+Ã©crite dans le rapport que M. DE ROUGÃ adressa, Ã  propos de l'Exposition
+Universelle de Paris, en 1867, Ã  Victor DURUY, alors ministre de
+l'Instruction publique: je ne reviendrai pas sur les faits antÃ©rieurs Ã 
+cette date.
+
+La gÃ©nÃ©ration d'Ã©gyptologues franÃ§ais qui avait succÃ©dÃ© Ã  celle de
+CHAMPOLLION et qui, avec ThÃ©odule DEVÃRIA (1831-1871), Emmanuel DE ROUGÃ
+(1811-1872), MARIETTE PACHA (1821-1881), CHABAS (1817-1882), avait dÃ©blayÃ©
+vigoureusement les abords du terrain, commenÃ§ait alors Ã  disparaÃ®tre sous
+la poussÃ©e d'une gÃ©nÃ©ration nouvelle. Tous les savants qui l'illustrÃ¨rent
+avaient travaillÃ© isolÃ©ment, chacun dans une direction diffÃ©rente: E. de
+RougÃ© Ã  Paris, oÃ¹ il avait constituÃ©, d'une maniÃ¨re presque dÃ©finitive, la
+grammaire pour l'oeil des documents de la seconde Ã©poque thÃ©baine, Chabas
+en province, Ã  Chalon-sur-SaÃ´ne, oÃ¹ il s'Ã©tait appliquÃ© surtout au
+dÃ©chiffrement des textes, Mariette Ã  l'Ã©tranger, dans l'Ãgypte mÃªme, oÃ¹,
+aidÃ© par moments de DevÃ©ria, il s'Ã©tait livrÃ© Ã  l'exploration du sol, Ã  la
+copie des inscriptions, au dÃ©gagement des grands monuments et oÃ¹ il avait
+fondÃ© le service des AntiquitÃ©s. La gÃ©nÃ©ration suivante s'occupa de
+rÃ©gulariser la Science et de la mettre, une fois pour toutes, en
+possession des instruments nÃ©cessaires Ã  la formation des gÃ©nÃ©rations
+futures. Elle se composait des hommes Ã©levÃ©s Ã  l'Ã©cole d'Emmanuel de
+RougÃ©, Jacques DE ROUGÃ son fils, Paul PIERRET, Paul GUIEYSSE, EugÃ¨ne
+LEFÃBURE, et bientÃ´t du groupe qui se rassembla autour de Gaston MASPERO.
+J. DE ROUGÃ, qui se voua Ã  la publication des oeuvres laissÃ©es
+malheureusement inachevÃ©es par son pÃ¨re, renonÃ§a de bonne heure Ã  l'Ã©tude,
+aprÃ¨s y avoir dÃ©butÃ© brillamment par un mÃ©moire sur les textes
+gÃ©ographiques du temple d'Edfou, dont un livre sur les nomes de la
+Basse-Ãgypte complÃ©ta plus tard les donnÃ©es. Pierret, longtemps
+conservateur du MusÃ©e Ã©gyptien du Louvre, travailleur consciencieux mais
+lent et rare dans son activitÃ©, compila un petit _Dictionnaire
+d'ArchÃ©ologie_ (1875) et un _Vocabulaire HiÃ©roglyphique_ (1871-1875), qui
+ont rendu pendant longtemps des services rÃ©els aux Ã©tudiants; de
+prÃ©fÃ©rence, il oscilla sa vie durant entre la mythologie et la traduction
+avec commentaires des Inscriptions de son MusÃ©e, publiant d'une part la
+premiÃ¨re traduction franÃ§aise du _Livre des Morts_ (achevÃ©e en 1882),
+d'_une stÃ¨le Ã©thiopienne inÃ©dite et de divers manuscrits religieux_
+(1873), de l'autre, ses deux _Recueils d'Inscriptions inÃ©dites du MusÃ©e
+Ã©gyptien du Louvre_ (1874-1878). LEFÃBURE, esprit mystique et entraÃ®nÃ©
+toute sa vie du cÃ´tÃ© du spiritisme ou de l'occultisme, a posÃ© et rÃ©solu en
+partie les problÃ¨mes divers que soulÃ¨vent les religions Ã©gyptiennes. Ses
+MÃ©moires sur les _Hymnes au Soleil composant le XVe Chapitre du Rituel
+funÃ©raire_ (1868) et sur le _Mythe Osirien: les yeux d'Horus_ (1874),
+_Osiris_ (1875), sont encore pÃ©nÃ©trÃ©s des idÃ©es de Max MÃ¼ller sur la
+formation des mythes, mais l'Ã©tude des croyances sauvages et des
+superstitions populaires le ramena promptement Ã  des doctrines plus
+saines, qu'il exposa dans une multitude d'articles dispersÃ©s Ã  travers une
+demi-douzaine de revues diffÃ©rentes, les _MÃ©langes d'ArchÃ©ologie_
+(1871-1878), le _Recueil de travaux_, les _Transactions_ et les
+_Proceedings_ de la sociÃ©tÃ© d'ArchÃ©ologie biblique de Londres, la
+_Zeitschrift fÃ¼r Aegyptische Sprache_ de Berlin, le _Bulletin de l'Institut
+Ã©gyptien_, les _Annales du MusÃ©e Guimet_, et surtout le _Sphinx_ d'Upsala
+en SuÃ¨de. Successivement maÃ®tre de confÃ©rences Ã  la FacultÃ© des Lettres de
+Lyon (1878-1881, puis 1883-1884 et 1885-1886), directeur de la Mission
+archÃ©ologique du Caire (1881 et 1883), supplÃ©ant de M. MASPERO au CollÃ¨ge
+de France (1884-1885), maÃ®tre de confÃ©rences Ã  l'Ãcole supÃ©rieure
+d'Alger (1887-1908), LefÃ©bure s'enferma dans un enseignement trÃ¨s
+technique et s'isola si complÃ¨tement du reste de l'Ãcole, que, malgrÃ© sa
+connaissance approfondie des textes religieux et ses mÃ©rites sÃ©rieux de
+finesse et de clartÃ©, il demeura presque sans influence sur le
+dÃ©veloppement de l'Ãgyptologie. Le seul de ses nombreux Ã©crits qui ait
+conquis la notoriÃ©tÃ©, _les HypogÃ©es royaux de ThÃ¨bes: t. I, le Tombeau de
+SÃ©ti Ier_ (1886) et t. II-III, _Notices des HypogÃ©es_ (1889), peut se
+comparer aisÃ©ment, pour l'exactitude des copies, aux recueils de Lepsius,
+de Mariette, de DÃ¼michen et de RougÃ©. GUIEYSSE, qui avait dÃ©butÃ© dans la
+vie scientifique comme collaborateur de LefÃ©bure, et qui avait essayÃ©
+d'Ã©tablir l'Ã©dition critique du _Chapitre LXIV du Livre des Morts_ (1876),
+fut enlevÃ© promptement Ã  l'Ãgyptologie par la politique. Quoiqu'il soit
+restÃ© attachÃ© Ã  l'Ãcole des hautes Ã©tudes comme maÃ®tre de confÃ©rences et
+comme directeur d'Ã©tudes adjoint de 1880 Ã  1914, date de sa mort, il n'a
+pu nous donner que de rares Ã©tudes sur des points de dÃ©tails: il allait se
+remettre tout entier Ã  la recherche scientifique lorsqu'il disparut.
+
+Quel que fÃ»t leur mÃ©rite, les travaux de ces savants manquaient encore de
+coordination; M. MASPERO groupa en un faisceau compact les forces qui
+s'assemblaient autour de lui. Mis en lumiÃ¨re dÃ¨s sa sortie de l'Ãcole
+normale par deux MÃ©moires: _Essai sur l'inscription dÃ©dicatoire du Temple
+d'Abydos_ (1867) et la _StÃ¨le du Songe_ (1868) puis, nommÃ©, en 1869,
+rÃ©pÃ©titeur du cours d'archÃ©ologie Ã©gyptienne Ã  l'Ãcole pratique des hautes
+Ã©tudes, que Victor Duruy venait de fonder, M. Maspero avait rÃ©uni Ã  son
+cours une dizaine d'auditeurs sÃ©rieux: Adrien DE LONGPÃRIER, le fils du
+savant alors connu; l'abbÃ© ANCESSI, qui mourut fort jeune aprÃ¨s avoir
+publiÃ© trois brochures sur des _Ãtudes de Grammaire comparÃ©e_ (1872-1873),
+sur _MoÃ¯se et l'Ãgypte_ (1875), sur _Job et l'Ãgypte_ (1877); Hyacinthe
+HUSSON qui avait dÃ©jÃ  composÃ© plusieurs Ã©crits de mythologie; EugÃ¨ne
+GRÃBAUT; puis, aprÃ¨s la guerre, Maxence DE ROCHEMONTEIX, l'AmÃ©ricain
+William Berend, EugÃ¨ne LEDRAIN qui quitta bientÃ´t les hiÃ©roglyphes pour
+l'hÃ©breu, Urbain BOURIANT, Victor LORET, l'abbÃ© AMÃLINEAU, Philippe VIREY.
+
+Le travail fourni par ce groupe fut trÃ¨s considÃ©rable dÃ¨s le dÃ©but, et
+devint plus considÃ©rable encore lorsque M. Maspero eut succÃ©dÃ© Ã  E. de
+RougÃ© dans la chaire de Champollion, comme chargÃ© de cours (1873), et
+presque aussitÃ´t aprÃ¨s comme professeur titulaire (1874). Pendant que
+M. Maspero publiait des traductions largement commentÃ©es de textes
+hiÃ©ratiques, _Hymne au Nil_ (1869), _une EnquÃªte judiciaire Ã  ThÃ¨bes au
+temps de la XXe Dynastie_ (1869-1871), _du Genre Ã©pistolaire chez les
+anciens Ãgyptiens_ (1872) qui lui servit de thÃ¨se pour le doctorat Ã¨s
+lettres, _MÃ©moire sur quelques papyrus du Louvre_ (1875) et, dans le
+_Journal asiatique_, les premiers des MÃ©moires dont l'ensemble constitua
+plus tard ses _Ãtudes Ã©gyptiennes_, il produisait des oeuvres de thÃ©orie
+grammaticale sur _le Pronom personnel en Ã©gyptien_ (1869), sur _les Formes
+de la conjugaison en Ã©gyptien antique, en dÃ©motique et en copte_ (1871),
+Sur _la Formation des thÃ¨mes trilitÃ¨res en Ã©gyptien_ (1880), et il
+abordait l'Ã©tude critique du dÃ©motique par ses _Ãtudes dÃ©motiques_ (dans
+le Recueil de travaux, 1870, t. I) puis par ses recherches sur _la
+PremiÃ¨re page du roman de Satni transcrite en hiÃ©roglyphes_ dans la
+_Zeitschrift fÃ¼r Aegyptische Sprache_ (1877). Son activitÃ© se portait
+aussi vers le domaine historique, et il Ã©crivait successivement une thÃ¨se
+latine: _De Carchemis oppidi situ et historia antiquissima_ (1872), des
+fragments d'un _Commentaire sur le livre II d'HÃ©rodote_, qui, commencÃ©s
+pour l'_Annuaire de l'Association des Ã©tudes grecques_ en 1875, furent
+poursuivis plus tard ailleurs, enfin _une Histoire ancienne des peuples de
+l'Orient_ (1875) Ã  l'usage des lycÃ©es, ouvrage qui devint bientÃ´t
+populaire, fut rÃ©Ã©ditÃ© huit fois et traduit en plusieurs langues. Joignez
+Ã  cette production d'oeuvres indÃ©pendantes une collaboration incessante Ã 
+des journaux ou Ã  des collections franÃ§aises ou Ã©trangÃ¨res, _Gazette
+ArchÃ©ologique, Records of the Past, Transactions_ et _Proceedings_ de la
+SociÃ©tÃ© d'archÃ©ologie biblique de Londres, _Zeitschrift fÃ¼r Aegyptische
+Sprache_ de Berlin, _Comptes rendus des CongrÃ¨s orientalistes_ de Paris
+(1873) et de Florence (1878), _The Academy, Journal asiatique, Revue
+ArchÃ©ologique_ et surtout _Revue critique_, oÃ¹, depuis 47 ans, il a rendu
+compte d'une bonne partie des oeuvres d'Ãgyptologie, parues en France ou Ã 
+l'Ã©tranger.
+
+Entre temps, l'enseignement de M. Maspero aux Hautes Ãtudes et au CollÃ¨ge
+de France portait ses fruits: une Ã©cole franÃ§aise, imbue des mÃªmes
+principes et agissant sous une mÃªme impulsion, s'Ã©levait dans la
+gÃ©nÃ©ration d'alors. Le premier qui se manifesta brillamment fut
+M. GrÃ©baut, avec sa thÃ¨se pour le diplÃ´me des Hautes Ãtudes intitulÃ©e
+_Hymne Ã  Ammon RÃ¢ des papyrus Ã©gyptiens du MusÃ©e de Boulaq_ (1875) que
+suivirent bientÃ´t plusieurs articles, dont le plus important se trouve
+dans les _MÃ©langes d'archÃ©ologie Ã©gyptienne_ (1875). Presque aussitÃ´t
+aprÃ¨s GrÃ©baut, William Berend traduisit la brochure de Lepsius sur _les
+MÃ©taux dans les inscriptions Ã©gyptiennes_ (1877) et soumit Ã  l'examen des
+juges sa thÃ¨se sur les principaux _Monuments du MusÃ©e Ã©gyptien de
+Florence_, dont la premiÃ¨re partie consacrÃ©e aux _StÃ¨les, Bas-reliefs et
+Fresques_ a paru seule en 1882, imprimÃ©e avec luxe Ã  l'Imprimerie
+Nationale: malgrÃ© l'Ã©clat de ce premier dÃ©but, Berend renonÃ§a Ã  la science
+sans esprit de retour, puis alla vivre et mourir en SuÃ¨de. En passant,
+disons qu'il ne fut pas, tant s'en faut, le seul Ã©tranger qui suivit
+alors, pendant un trimestre ou deux, les cours de l'Ãcole des hautes
+Ã©tudes et du CollÃ¨ge de France: nous vÃ®mes de la sorte se succÃ©der sur les
+bancs, de 1875 Ã  1880, MM. Alfred Wiedemann, aujourd'hui professeur
+d'Ã©gyptologie Ã  Bonn; Ernesto Schiaparelli, Ã  prÃ©sent directeur du MusÃ©e
+de Turin; Karl Piehl, mort en 1904, professeur de langue Ã©gyptienne Ã 
+l'UniversitÃ© d'Upsal; Edwin Wilbour, journaliste amÃ©ricain, qui apprit
+beaucoup, passa les vingt derniÃ¨res annÃ©es de sa vie alternativement en
+Ãgypte et en France, puis mourut Ã  Paris en 1897 sans avoir rien publiÃ©.
+NÃ©anmoins le fond de l'Ãcole resta franÃ§ais: l'on vit Rochemonteix
+inaugurer les Ã©tudes du berbÃ¨re comparÃ© Ã  l'Ã©gyptien (1873-1876), et
+EugÃ¨ne Ledrain, se dÃ©robant Ã  la vocation ecclÃ©siastique, nous fournir
+comme thÃ¨se pour le diplÃ´me de l'Ãcole des hautes Ã©tudes ses _Monuments
+Ã©gyptiens de la BibliothÃ¨que nationale_ (1879-1882).
+
+A ce moment l'Ãcole franÃ§aise Ã©tait en pleine prospÃ©ritÃ©: M. Maspero en
+avait rÃ©parti les membres entre les domaines les plus variÃ©s, dirigeant
+MM. Loret, Bouriant et Virey vers l'interprÃ©tation des manuscrits
+hiÃ©ratiques, M. GAYET vers l'archÃ©ologie paÃ¯enne et chrÃ©tienne, l'abbÃ©
+AmÃ©lineau vers le copte; d'autre part, M. de Rochemonteix, dÃ©tachÃ© en
+Egypte de 1875 Ã  1878, y relevait les inscriptions et tableaux du grand
+temple d'Edfou. Il fallait Ã  cette plÃ©iade un moyen aisÃ© de publication,
+un journal auquel elle pÃ»t confier ses travaux Ã  mesure qu'ils se
+poursuivaient. DÃ©jÃ , en 1869, l'Ã©diteur Vieweg avait mis en circulation
+une revue dont il avait confiÃ© la prÃ©paration Ã  M. Maspero, et dans le
+premier semestre de 1870, celui-ci avait lancÃ© avec la collaboration de
+MM. E. de RougÃ©, DevÃ©ria, Pierret, un premier numÃ©ro qui avait pour titre:
+_Recueil de travaux relatifs Ã  la philologie et Ã  l'archÃ©ologie
+Ã©gyptiennes et assyriennes_; mais, la guerre survenant presque aussitÃ´t,
+M. de RougÃ© l'avait remplacÃ© chez le mÃªme Ã©diteur par un nouveau journal,
+les _MÃ©langes d'archÃ©ologie Ã©gyptienne et assyrienne_, destinÃ© Ã  recevoir
+les productions de notre Ãcole en opposition Ã  la _Zeitschrift fÃ¼r
+Aegyptische Sprache_ de Berlin qui serait rÃ©servÃ©e aux Allemands. AprÃ¨s la
+mort de M. de RougÃ©, qui coÃ¯ncida presque avec l'apparition du premier
+fascicule, ces _MÃ©langes_ traÃ®nÃ¨rent pÃ©niblement sous la conduite d'un
+comitÃ© de rÃ©daction, oÃ¹ figuraient MM. Jacques de RougÃ©, Pierret, Maspero,
+E. Revillout; ils fournirent trois volumes de 1871 Ã  1878, date oÃ¹ le
+comitÃ© fut dissous et oÃ¹ les _MÃ©langes_ furent remplacÃ©s par deux
+Publications indÃ©pendantes l'une de l'autre, le _Recueil de travaux_, que
+M. Maspero ressuscita et dont il composa un second numÃ©ro en 1879, la
+_Revue Ã©gyptologique_ que M. REVILLOUT Ã©dita depuis 1880 jusqu'Ã  sa mort,
+en 1912.
+
+L'orientation de ces deux publications fut trÃ¨s diffÃ©rente. Tandis que le
+_Recueil_ s'efforÃ§ait de faire oeuvre durable et d'embrasser le domaine
+entier de l'Ã©gyptologie, la _Revue_, plus irrÃ©guliÃ¨re dans son allure, se
+consacra de prÃ©fÃ©rence Ã  la critique du moment, qu'elle exerÃ§a avec
+Ã¢pretÃ©; en fin de compte, elle devint presque entiÃ¨rement l'organe
+exclusif de son directeur. EntrÃ© au MusÃ©e Ã©gyptien du Louvre en 1872,
+celui-ci s'Ã©tait vouÃ© dÃ¨s lors avec ardeur au copte, puis au dÃ©motique.
+C'est ainsi qu'il jeta rapidement sur la place, souvent en les
+autographiant pour marcher plus vite, ses _Actes et contrats des musÃ©es
+Ã©gyptiens de Boulaq et du Louvre_ (1876), puis ses _Apocryphes coptes du
+Nouveau testament_ (1876), ainsi qu'un _MÃ©moire sur la vie et les
+sentences de Secundus_, et un autre sur _le Concile de NicÃ©e d'aprÃ¨s les
+textes coptes et les diverses collections canoniques_, qui furent insÃ©rÃ©s
+au _Journal asiatique_ de 1872 Ã  1875 et ne furent complÃ©tÃ©s qu'en 1881;
+le tout sans prÃ©judice d'une premiÃ¨re Ã©tude sur les _Blemmyes_ (1874) et
+de diffÃ©rentes notes sur l'archÃ©ologie funÃ©raire copte, qu'il donna aux
+_MÃ©langes_. Ce ne fut lÃ , toutefois, que le moindre de sa besogne.
+Trouvant dans la riche collection du Louvre une masse alors incomparable
+de papyrus dÃ©motiques, il se livra avec fougue au dÃ©chiffrement de
+l'Ã©criture cursive qu'il avait commencÃ© sous M. Maspero et il en tira
+bientÃ´t des rÃ©sultats aussi neufs qu'importants: il y dÃ©couvrit des
+contrats de mariage de diffÃ©rente nature, des contrats de location pour
+maisons et pour terres, des contrats de vente et d'achat, bref une masse
+d'actes juridiques du plus haut intÃ©rÃªt. Il forma ainsi deux
+_Chrestomathies dÃ©motiques_ dont la nouvelle (1878) parut avant l'ancienne
+(1880) par une de ces bizarreries qui ne sont pas rares dans son oeuvre.
+En mÃªme temps il traduisait mot Ã  mot le conte dÃ©motique de Satni, dont
+Brugsch avait donnÃ© une premiÃ¨re interprÃ©tation dix annÃ©es auparavant,
+mais il attendait plusieurs annÃ©es encore avant d'y ajouter une
+introduction et de faire du tout un volume sous le titre: _le Roman de
+Setna, Ã©tude philologique et critique_ (1877-1885). Ce fut sans prÃ©judice
+d'une foule d'Ã©crits moindres, publiÃ©s en brochures indÃ©pendantes ou
+dissÃ©minÃ©s dans les journaux franÃ§ais et Ã©trangers, _Journal asiatique,
+Revue ArchÃ©ologique, Proceedings_ de la SociÃ©tÃ© d'archÃ©ologie biblique,
+_MÃ©langes_, etc. Bref, il fit entiÃ¨rement sa revue, Ã  lui, de la _Revue
+Ãgyptologique_, dont il avait produit le premier numÃ©ro en 1880 avec
+CHABAS et Henri BRUGSCH, et dont il remplit presque seul, les quatorze
+volumes parus de 1880 Ã  1912, avec ses articles et ses commencements
+d'articles inachevÃ©s sur le copte, sur le dÃ©motique et en dernier lieu sur
+quelques textes hiÃ©roglyphiques.
+
+L'Ãcole Ã©gyptologique prospÃ©rait en France, lorsque les changements
+provoquÃ©s par la mort de Mariette vinrent Ã  la fois en Ã©largir et en
+compromettre le dÃ©veloppement. Depuis l'annÃ©e de l'Exposition universelle
+en 1867, qui marqua l'apogÃ©e de son crÃ©dit en Ãgypte, Mariette avait dÃ»
+lutter sans relÃ¢che contre l'influence allemande rendue trÃ¨s forte par la
+victoire de 1870-71, contre la nonchalance et le dÃ©sordre de
+l'administration Ã©gyptienne, et surtout contre la maladie qui se rÃ©vÃ©la
+mortelle pour lui dÃ¨s 1872. ForcÃ© de renoncer aux grandes fouilles qui
+avaient illustrÃ© les dÃ©buts de sa direction Ã  Boulaq, il s'efforÃ§a du
+moins d'en publier les rÃ©sultats principaux, et, aidÃ© de MM. Louis Vassali
+et Ãmile Brugsch d'une part, de M. Maspero de l'autre, il donna toute une
+sÃ©rie de grands travaux: _Abydos_, (3 vol. 1869-1880), _DendÃ©rah_ (5 vol.
+1869-1875), _Deir-el-Bahari_ (1 vol. 1875), _les Papyrus Ã©gyptiens du
+MusÃ©e de Boulaq_ (3 vol. 1870-1871), _Karnak, Ã©tude topographique et
+ArchÃ©ologique_ (1 vol. 1875), _Voyage de la Haute Ãgypte_ (2 vol. 1878),
+_Monuments divers recueillis en Ãgypte et en Nubie_ (1 vol. 1871-1889). Il
+prÃ©parait de concert avec M. Maspero deux oeuvres plus importantes encore,
+dont les fragments ne furent Ã©ditÃ©s qu'aprÃ¨s lui, _le SÃ©rapÃ©um de Memphis_
+(1 vol. 1883) et _les Mastabas de l'Ancien Empire_ (Paris, 1889), lorsque
+son Ã©tat empira tellement que l'on craignit de le voir disparaÃ®tre
+soudain, laissant vacante en Ãgypte une place que la France avait intÃ©rÃªt
+Ã  conserver. DÃ©jÃ , en 1873, M. Maspero avait proposÃ© au gouvernement
+franÃ§ais de crÃ©er au Caire une Ã©cole analogue Ã  celle qui existait Ã 
+AthÃ¨nes pour l'Ã©tude des monuments grecs; mais son projet avait Ã©tÃ© rejetÃ©
+par M. de Watteville. Il fut repris par M. Xavier Charmes et, Ã 
+l'instigation de ce dernier, M. Alfred Rambaud, alors chef du cabinet de
+M. Jules Ferry, ministre de l'Instruction publique, dÃ©cida, le 13 novembre
+1880, M. Maspero Ã  aller Ã©tablir une Mission permanente au Caire.
+Celui-ci, aprÃ¨s avoir priÃ© M. GrÃ©baut de le supplÃ©er au CollÃ¨ge de France,
+emmena avec lui ce qu'il avait de mieux en ce temps Ã  l'Ãcole des hautes
+Ã©tudes, MM. Urbain Bouriant et Victor Loret, auquel il adjoignit un
+Arabisant, M. DULAC, et un dessinateur, M. BOURGOIN. ArrivÃ© au Caire le 5
+janvier 1881, il installa son monde dans une maison sise sur une des
+ruelles qui touchent le boulevard Mohammed-Ali et il le mit au travail,
+mais Mariette Ã©tant mort le 18 janvier, il fut nommÃ© le 8 fÃ©vrier suivant
+Directeur gÃ©nÃ©ral des fouilles d'Ãgypte, malgrÃ© les dÃ©marches qu'entreprit
+M. de Saurma, Consul gÃ©nÃ©ral d'Allemagne, pour faire attribuer la place Ã 
+Henri Brugsch. En dÃ©pit de son transfert au service Ã©gyptien, M. Maspero
+n'en demeura pas moins le directeur rÃ©el de la Mission, bien que la
+direction apparente en fÃ»t confiÃ©e officiellement, d'abord Ã  M. EugÃ¨ne
+LEFÃBURE (1881-1883), puis Ã  M. GRÃBAUT (1883-1886), et l'exploration de
+l'Egypte marcha dÃ©sormais sous le contrÃ´le complet de l'Ãgyptologie
+franÃ§aise. Elle progressa heureusement, malgrÃ© les embarras oÃ¹ nous
+jetÃ¨rent la rÃ©volution d'Arabi-Pacha en 1882 et une grande Ã©pidÃ©mie de
+cholÃ©ra en 1883. Mariette, obÃ©issant Ã  l'esprit de son temps, avait
+surtout opÃ©rÃ© des fouilles destinÃ©es Ã  enrichir le musÃ©e de Boulaq; M.
+Maspero pensa que le moment Ã©tait venu d'organiser plus mÃ©thodiquement un
+Service des antiquitÃ©s. Il divisa l'Ãgypte en 7 circonscriptions, et,
+comme les individus faisaient dÃ©faut pour composer un personnel compÃ©tent
+d'inspecteurs indigÃ¨nes, il fonda Ã  Boulaq une petite Ã©cole d'Ãgyptologie
+(1882-1886) oÃ¹ il essaya d'en former six. Il tenta sans succÃ¨s de soulager
+la collection du Caire en Ã©tablissant Ã  Alexandrie un musÃ©e grÃ©co-romain.
+Il poursuivit sur un plan mÃ©thodique le dÃ©blaiement et la consolidation
+des principaux temples d'Ãgypte. Enfin, il appela Ã  l'entreprise des
+fouilles les Ã©trangers que Mariette avait Ã©cartÃ©s systÃ©matiquement, et,
+tout en essayant de rÃ©gler leur industrie au moyen d'une loi que le
+MinistÃ¨re Ã©gyptien ne lui accorda pas, il favorisa de son mieux la
+crÃ©ation de l'_Egypt Exploration Fund_ (1882) qui a depuis lors rendu tant
+de services au pays: bref, il s'attacha Ã  faire oeuvre d'administrateur
+autant et plus que de savant, ainsi que son devoir envers l'Ãgypte
+l'exigeait.
+
+Cela ne l'empÃªcha point de fouiller pour le gouvernement Ã©gyptien les
+pyramides Ã  inscriptions des Pharaons de la Ve et de la VIe dynastie Ã 
+Saqqarah, Ounas, les deux Pioupi, MÃ©tÃ©souphis (1881-1884), de dÃ©couvrir Ã 
+GizÃ©h une nÃ©cropole de la IVe dynastie (1882) et Ã  Saqqarah, Ã  Licht, Ã 
+Dahshour (1883-1886) des cimetiÃ¨res de la Ve et de la XIIe, de pousser les
+travaux en Abydos auprÃ¨s de la ChounÃªt-ez-ZebÃ®b (1881-1886), de continuer
+le dÃ©gagement du grand temple d'Edfou (1884-1885) opÃ©rÃ© par Mariette, de
+dÃ©couvrir Ã  ThÃ¨bes le puits oÃ¹ se cachaient les momies de ThoutmÃ´sis III,
+de SÃªtouÃ® Ier, de RamsÃ¨s II, de RamsÃ¨s III, et trente autres de princes et
+de princesses illustres dans les annales Ã©gyptiennes (1881),
+d'entreprendre Ã  Karnak des travaux de consolidation qui ne purent Ãªtre
+menÃ©s bien loin faute d'argent (1884-1885), mais qui empÃªchÃ¨rent pendant
+quinze ans le dÃ©sastre de la salle hypostyle, de commencer le dÃ©gagement
+du grand temple Ã  MÃ©dinet-Abou (1885), et surtout d'organiser, Ã  l'aide
+d'une souscription ouverte en France, l'expropriation de la partie du
+village de Louxor qui recouvrait l'Ã©difice d'AmÃ©nÃ´thÃ¨s III, de SÃªtouÃ® Ier,
+et de RamsÃ¨s II; grÃ¢ce Ã  cette opÃ©ration, qui prÃ©senta des difficultÃ©s
+considÃ©rables (1882-1884), il rÃ©ussit Ã  dÃ©barrasser l'aire du temple des
+huttes qui l'encombraient, Ã  l'exception de la petite superficie
+recouverte par la mosquÃ©e d'Abou'l-Haggag dans l'angle nord-ouest de la
+premiÃ¨re cour, et Ã  entamer le dÃ©gagement du monument ainsi reconquis
+(1884-1886). C'est aussi avec l'argent provenant d'une souscription
+provoquÃ©e en France par le _Journal des DÃ©bats_, qu'il se mit Ã  dÃ©livrer
+du sable qui l'Ã©touffait le Sphinx de GizÃ©h (1886). Les rÃ©sultats de son
+action ne purent Ãªtre publiÃ©s par le gouvernement Ã©gyptien, faute de
+ressources, et ne parurent qu'en partie dans divers journaux scientifiques
+et dans quelques brochures isolÃ©es, _Bulletin de l'Institut Ã©gyptien,
+Zeitschrift, Recueil de Travaux_ qui ajouta Ã  son titre en 1881 la mention
+_pour servir de Bulletin Ã  la Mission archÃ©ologique du Caire_, enfin aux
+_MÃ©moires_ Ã©ditÃ©s par cette Mission. Celle-ci, en effet, bien que n'ayant
+presque pas de fonds spÃ©ciaux, s'ingÃ©nia Ã  mettre au jour les productions
+de ses membres, dans une sÃ©rie de volumes superbes, sous la direction de
+M. Maspero. Elles Ã©taient de nature trÃ¨s variÃ©e: tandis que M. Maspero
+assignait aux arabisants de l'Ã©cole la tÃ¢che de restituer sur le terrain
+la topographie du Caire de MakrÃ®zÃ®, et de recueillir la littÃ©rature
+populaire de l'Egypte moderne, il occupait les Ã©gyptologues Ã  explorer les
+temples et les tombeaux thÃ©bains ou Ã  rechercher dans les monastÃ¨res du
+Said les pauvres dÃ©bris de la littÃ©rature copte. C'est ainsi qu'on eut
+successivement, dans les premiers volumes des _MÃ©moires_, de Bouriant,
+_Deux jours de fouilles Ã  Tell-el-Amama, l'Ãglise copte du tombeau de
+DÃ©ga, Rapport au Ministre de l'Instruction publique sur une Mission dans
+la haute Egypte_ (1884-1885),--de Loret, les _Tombeaux de l'Amxent
+Amenhotep_ et de l'_Amxent KhÃ¢mha, Quelques documents relatifs Ã  la
+musique et Ã  la littÃ©rature populaire de la haute Egypte_,--de LefÃ©bure,
+les trois volumes de ses _HypogÃ©es royaux de ThÃ¨bes_ dont j'ai dÃ©jÃ 
+parlÃ©,--de Virey, l'_Ãtude sur un parchemin rapportÃ© de ThÃ¨bes_ et le
+_Tombeau de RekhmarÃ¢_,--de Gayet, les _Monuments coptes du MusÃ©e de
+Boulaq, Catalogue des sculptures et des stÃ¨les ornÃ©es de la salle copte_,
+--d'AmÃ©lineau, ses _Monuments pour servir Ã  l'histoire de l'Ãglise
+chrÃ©tienne_, en deux volumes, allant du IVe au VIIe siÃ¨cle. Plusieurs de
+ces ouvrages ne furent imprimÃ©s qu'assez tard aprÃ¨s leur composition, la
+mise en train ayant exigÃ© du temps; mais ils appartiennent tous Ã  cette
+Ã©poque hÃ©roÃ¯que de la Mission. Ceux qui traitent de l'art copte mÃ©ritent
+une attention particuliÃ¨re, car on avait dÃ©daignÃ© jusqu'alors les
+productions de la civilisation chrÃ©tienne de l'Egypte et on avait nÃ©gligÃ©
+de les recueillir systÃ©matiquement. M. Maspero fut le premier Ã  les
+rechercher, Ã  en former un MusÃ©e distinct, et Ã  en encourager la
+publication.
+
+Cependant, des raisons de santÃ© ayant obligÃ© M. Maspero Ã  quitter l'Ãgypte
+le 1er juillet 1886, M. GrÃ©baut, directeur de l'Ãcole franÃ§aise, lui
+succÃ©da Ã  la direction du Service des AntiquitÃ©s, Ã  partir du 1er juin de
+la mÃªme annÃ©e, et, le 1er dÃ©cembre, M. Urbain Bouriant, qui Ã©tait l'un des
+conservateurs adjoints de Boulaq depuis 1883, le remplaÃ§a comme directeur
+de l'Ãcole, tandis que M. Georges DARESSY, Ã©lÃ¨ve de l'Ãcole, prenait le
+poste de M. Bouriant au MusÃ©e. Cette modification du personnel en Ãgypte
+ne changea rien Ã  la situation gÃ©nÃ©rale: l'Ãcole continua Ã  recevoir de M.
+Maspero l'impulsion directrice. Celui-ci, de retour Ã  Paris, avait repris
+ses leÃ§ons Ã  l'Ãcole des hautes Ã©tudes ainsi qu'au CollÃ¨ge de France, et
+il s'Ã©tait occupÃ© tout d'abord de rÃ©organiser les cours dÃ©semparÃ©s
+momentanÃ©ment par le transfert imprÃ©vu, au Caire, des meilleurs Ã©tudiants,
+et par la succession rapide, au CollÃ¨ge de France, de M. GrÃ©baut
+(1881-1884), de M. LefÃ©bure (1884-1885) et de M. Guieysse (1885-1886).
+L'ouverture, en 1883, de deux cours d'Ãgyptologie Ã  l'Ãcole du Louvre,
+l'un pour l'Ã©gyptien ancien par M. Pierret, l'autre de littÃ©rature et de
+droit dÃ©motique par M. Revillout, sembla d'abord lui faciliter la tÃ¢che.
+Tandis qu'il mettait en ordre les notes recueillies en Ãgypte et donnait
+rapidement au _Recueil_, dans les tomes III et suivants jusqu'au
+quatorziÃ¨me, le texte et la traduction des Ã©crits religieux contenus dans
+les Pyramides, rÃ©unis plus tard en un seul volume, sous le titre _les
+Inscriptions des Pyramides de Saqqarah_ (1894), aux MÃ©moires de la Mission
+du Caire, _les Momies royales de Deir el BaharÃ®_ (t. I) et _les Fragments
+de la version thÃ©baine de l'Ancien Testament_ (t. VI), il prÃ©parait une
+gÃ©nÃ©ration nouvelle d'Ã©gyptologues qui, s'instruisant un peu au Louvre et
+beaucoup Ã  l'Ãcole des hautes Ã©tudes, partaient ensuite pour le Caire, MM.
+BÃNÃDITE, Jules BAYET, Dominique MALLET, le pÃ¨re SCHEIL, BOUSSAC,
+CHASSINAT, LEGRAIN. Ce fut pour l'Ãcole franÃ§aise une pÃ©riode d'activitÃ©
+fÃ©conde, pendant laquelle nous eÃ»mes des cours Ã  Alger en 1886 pour M.
+LefÃ©bure, Ã  Paris pour M. AmÃ©lineau Ã  l'Ãcole des hautes Ã©tudes (section
+des sciences religieuses), tandis que M. Victor Loret remplaÃ§ait
+M. LefÃ©bure comme maÃ®tre de confÃ©rences Ã  Lyon.
+
+Ces maÃ®tres rÃ©pandirent largement l'enseignement de la langue et de
+l'archÃ©ologie Ã©gyptiennes, et Ã  ce moment, l'on vit paraÃ®tre les thÃ¨ses de
+M. Virey: _Ãtudes sur le papyrus Prisse_ (1886); de M. GAYET, _StÃ¨les de
+la XIIe Dynastie du MusÃ©e du Louvre;_ de M. Mallet, _le Culte de NÃ©ith Ã 
+Sais;_ de M. PATURET, _la Condition juridique de la femme dans l'ancienne
+Egypte;_ de M. AmÃ©lineau, _Essai sur le Gnosticisme Ã©gyptien._ L'antiquitÃ©
+Ã©gyptienne fut exploitÃ©e rÃ©solument dans toutes ses directions: grammaire
+par Victor Loret, qui rÃ©suma, dans son _Manuel de la Langue Ã©gyptienne_,
+l'enseignement de ses maÃ®tres et y ajouta ses propres observations;
+histoire, par M. Maspero, _Notes sur quelques points de grammaire et Ã 
+histoire_ dans _la Zeitschrift_ et dans _le Recueil;_ archÃ©ologie, par le
+mÃªme, qui condensait, dans son _ArchÃ©ologie Ã©gyptienne_, les rÃ©sultats de
+ses remarques sur les arts et l'industrie; littÃ©rature hiÃ©ratique, par le
+mÃªme encore, _Contes populaires de l'Ãgypte ancienne_, dont quatre
+Ã©ditions se sont suivies en moins de trente ans; littÃ©rature dÃ©motique,
+par Revillout, _Rituel funÃ©raire de Pamonth, Cours de Droit Ã©gyptien,_ en
+nombreuses parties; la _LittÃ©rature chrÃ©tienne de l'Egypte grecque et
+copte,_ par AmÃ©lineau, dont j'ai dÃ©jÃ  citÃ© les ouvrages, et par Bouriant,
+dont les oeuvres furent insÃ©rÃ©es presque toutes dans les _MÃ©moires de la
+mission_, ainsi que celles du pÃ¨re Scheil. Rochemonteix mourait
+malheureusement Ã  la fin de 1892, ayant eu Ã  peine le temps de mettre en
+train son _Temple d'Edfou_, dont MM. Maspero, puis Chassinat continuÃ¨rent
+la publication jusqu'Ã  nos jours (1892-1914) sans l'achever; mais Gayet et
+BÃ©nÃ©dite commencÃ¨rent, le premier le _Temple de Louxor_, le second le
+_Temple de Philae._ Dans le mÃªme temps, M. Maspero ne cessait pas
+d'analyser, dans la _Revue critique_, les livres qui y affluaient sur
+l'Ãgyptologie, de communiquer au _Victoria Institute_ ses recherches sur
+les listes gÃ©ographiques Ã©gyptiennes de la Palestine, et de dÃ©velopper,
+dans son _Bulletin de la Revue de l'histoire des religions_, ses thÃ©ories
+sur la nature des mythes et des dieux Ã©gyptiens, qui prÃ©valent depuis ce
+temps dans l'Ãcole. Ajoutons, pour Ãªtre complet, quelques ouvrages de
+vulgarisation qui firent plus que beaucoup de mÃ©moires scientifiques pour
+rÃ©pandre le goÃ»t des choses du Nil dans le grand public: les _Moines
+Ã©gyptiens_ d'AmÃ©lineau (1889), ainsi que les _Lectures historiques_ de
+Maspero (1888) et que ses catalogues. DÃ©jÃ  en 1883, il avait essayÃ© de
+faire, du _Guide du visiteur au MusÃ©e de Boulaq_, un vÃ©ritable manuel
+d'archÃ©ologie Ã©tabli sur une collection; son _Catalogue du MusÃ©e Ã©gyptien
+de Marseille_ (1889) est construit sur le mÃªme plan, bien qu'avec des
+proportions plus restreintes.
+
+En Ãgypte, l'alliance Ã©troite du Service des antiquitÃ©s, sous M. GrÃ©baut,
+et de la Mission du Caire, dirigÃ©e par M. Bouriant sous l'inspiration de
+M. Maspero, fut d'abord des plus heureuses. M. Bouriant, qui s'enfermait
+dans l'accomplissement de son devoir scientifique, publia au _Journal
+asiatique_, au _Recueil de Travaux_, aux _MÃ©moires_ de la Mission, ses
+moissons de documents inÃ©dits et ses dÃ©couvertes perpÃ©tuelles, _Notice des
+monuments coptes du MusÃ©e de Boulaq_, les _Canons apostoliques de ClÃ©ment
+de Rome, la StÃ¨le 5576 du MusÃ©e de Boulaq et l'Inscription de Rosette,
+Notes de Voyage, Fragments de la version copte du Roman d'Alexandre, Actes
+du Concile d'ÃphÃ¨se, l'Ãloge de l'Apa Victor fils de Romanos, Fragments du
+texte grec du Livre d'Ãnoch et de quelques Ã©crits attribuÃ©s Ã  saint
+Pierre_. De son cÃ´tÃ©, M. GrÃ©baut surveillait de prÃ¨s l'administration du
+Service des AntiquitÃ©s, et poussant activement les fouilles, il continuait
+le dÃ©blaiement du temple de Louxor, engageait Ã  fond celui de
+MÃ©dinet-abou, dÃ©couvrait dans la seconde cachette de Deir-el-Bahari plus
+d'une centaine de momies appartenant Ã  la famille souveraine des
+grands-prÃªtres d'Amon et Ã  ses descendants, enfin il opÃ©rait heureusement,
+en 1890-1891, le transfert du MusÃ©e Ã©gyptien, de l'Ã©difice Ã©triquÃ© de
+Boulaq au palais grandiose de GizÃ©h; mais le parti qu'il crut bon de
+prendre dans la politique Ã©gyptienne motiva son retour en France, au cours
+de l'annÃ©e 1892.
+
+Il eut pour successeur Ã  la Direction gÃ©nÃ©rale des antiquitÃ©s M. Jacques
+DE MORGAN, qui venait de se faire connaÃ®tre par ses recherches
+archÃ©ologiques dans le Caucase russe et en Perse. Le nouveau directeur
+s'occupa de son service avec activitÃ©, achevant le dÃ©blaiement de
+MÃ©dinet-abou, explorant avec soin les carriÃ¨res de la haute Ãgypte et les
+environs d'AssoÃ»an, reprenant les fouilles que M. Maspero avait commencÃ©es
+autour des Pyramides de Dahshour et y recueillant, en 1894-1895, les
+bijoux admirables de plusieurs princesses qui avaient vÃ©cu sous la XIIe
+dynastie. Une bonne part de ces travaux avait Ã©tÃ© accomplie avec la
+collaboration de la Mission permanente du Caire et mise au jour par elle,
+dans J. de Morgan-Bouriant, _les CarriÃ¨res de PtolÃ©maÃ¯s_; mais d'autres
+avaient Ã©tÃ© publiÃ©s indÃ©pendamment par le ministÃ¨re Ã©gyptien, _Catalogue
+des monuments et inscriptions de l'Egypte ancienne_, t. I, de _la
+FrontiÃ¨re de l'Egypte Ã  Kom-Ombo_; et t. II, _Kom-Ombo_, premiÃ¨re partie,
+puis _Fouilles Ã  Dahchour_, mars-juin 1894, t. I. Des recherches
+particuliÃ¨res, absorbant M. de Morgan, imprimÃ¨rent toutefois Ã  son esprit
+une direction diffÃ©rente, et, rompant avec la tradition Ã©tablie par
+Champollion, lancÃ¨rent la science sur des voies nouvelles. Jusqu'alors les
+savants avaient discutÃ©, sans rÃ©sultat Ã©vident, la question de savoir si
+l'Ãgypte antique avait connu un Ã¢ge de la pierre et s'il en subsistait des
+traces; malgrÃ© la dÃ©couverte opÃ©rÃ©e en 1869 par des savants franÃ§ais,
+ARCELIN, HAMY, FranÃ§ois LENORMANT, sur la montagne qui surplombe
+Deir-el-Bahari, les avis demeuraient partagÃ©s Ã  ce sujet, et les
+Ãgyptologues s'Ã©taient si bien accoutumÃ©s Ã  commencer l'histoire positive
+du pays Ã  la fin de la IIIe dynastie, que M. PETRIE, ramenant au jour,
+pour la premiÃ¨re fois, prÃ¨s de Haggadah et de Ballas, des vestiges
+nombreux d'une civilisation grossiÃ¨re, les attribuait non pas aux
+Ãgyptiens d'avant MÃ©nÃ¨s, mais Ã  une race nouvelle apparue vers le temps du
+moyen empire. M. de Morgan, reprenant les fouilles de PÃ©trie Ã  Haggadah,
+et les Ã©tendant Ã  d'autres localitÃ©s du SaÃ®d situÃ©es entre Assiout et
+ThÃ¨bes, montra qu'il s'agissait, en rÃ©alitÃ©, des gÃ©nÃ©rations antÃ©rieures Ã 
+l'Ã¢ge des grandes Pyramides. Presque simultanÃ©ment M. AmÃ©lineau, creusant
+le sable dans les nÃ©cropoles d'Abydos, y dÃ©couvrait dans la rÃ©gion
+d'Omm-el-Gaab, la _mÃ¨re des pots_, les hypogÃ©es des rois de la Ire, de la
+IIe et de la IIIe dynasties (1895). Cinq annÃ©es durant, de 1895 Ã  1899,
+M. AmÃ©lineau exploita le site d'Abydos, aux frais d'une association
+d'amateurs franÃ§ais. Ces fouilles, les plus fÃ©condes qu'il y eÃ»t en
+rÃ©sultats nouveaux, furent publiÃ©es: par M. de Morgan, dans son ouvrage en
+deux volumes, _Recherches sur les origines de l'Ãgypte_, t. I _l'Age de la
+pierre et des mÃ©taux_, t. II _Ethnographie prÃ©historique et le tombeau
+royal de NÃ©gadah_; par M. AmÃ©lineau, malheureusement avec un esprit
+critique insuffisant, dans une foule de rapports, de brochures ou de
+livres, qui se succÃ©dÃ¨rent de 1895 Ã  1910, _les Fouilles d'Abydos,
+campagne de 1895-1896, les nouvelles Fouilles d'Abydos_ (1896-1897), _les
+nouvelles Fouilles d'Abydos _(1897-1898), et trois volumes in-4Â° sur _les
+nouvelles Fouilles d'Abydos_, et _le Tombeau d'Osiris, monographie de la
+dÃ©couverte faite Ã  Abydos, en 1897-1898.
+
+La mission franÃ§aise avait pris une part importante aux travaux de M. de
+Morgan, mais employÃ©e par lui Ã  des tÃ¢ches secondaires, elle n'en tira pas
+de renom. M. Maspero en effet, forcÃ© de surveiller les Ã©tudes qu'il avait
+entreprises pour son propre compte, avait renoncÃ© Ã  s'occuper d'elle pour
+le moment. C'Ã©taient d'un cÃ´tÃ© son _Histoire des peuples de l'Orient
+classique_ dont il avait donnÃ© une forme abrÃ©gÃ©e vingt ans auparavant et
+qui parut en livraisons de 1892 Ã  1900, de l'autre ce qu'il appela la
+_BibliothÃ¨que Ã©gyptologique_. Il avait remarquÃ©, au cours d'une carriÃ¨re
+dÃ©jÃ  longue, que la plupart des oeuvres Ã©crites par les maÃ®tres de
+l'Ãgyptologie, depuis Champollion, Ã©taient comme perdues dans des livres
+tirÃ©s Ã  petit nombre d'exemplaires, ou dans des revues et des journaux
+disparus depuis longtemps: il rÃ©solut donc d'aller les rechercher oÃ¹ elles
+Ã©taient et de les rÃ©unir dans une collection accessible Ã  tous. C'Ã©tait
+rendre service aux jeunes, qui ne se trouveraient plus exposÃ©s Ã  prÃ©senter
+comme neuves des idÃ©es dÃ©jÃ  vieilles, et aux anciens, dont on pouvait
+ainsi saisir aisÃ©ment le travail et apprÃ©cier Ã  sa juste valeur
+l'influence exercÃ©e au dÃ©veloppement de la science. Ajoutez Ã  cela une
+collaboration rÃ©guliÃ¨re au _Journal des DÃ©bats_ destinÃ©e Ã  populariser
+l'historiographie ancienne de l'Orient; une partie des articles composÃ©s
+ainsi, non sans peine, a Ã©tÃ© rÃ©unie en volume vers 1907. Cependant
+l'assiduitÃ© ne faiblissait pas Ã  l'Ãcole des hautes Ã©tudes et au CollÃ¨ge
+de France, dont MM. LACAU, MORET, Isidore LÃVY, le pÃ¨re DEIBER, l'abbÃ©
+ERMONI, et vingt autres suivaient les cours. M. Mallet publiait son bel
+ouvrage sur les _Premiers Ã©tablissements des Grecs en Ãgypte_.
+M. Chassinat achevait le premier volume de l'_Ãdfou_ de Rochemonteix.
+M. AmÃ©lineau lanÃ§ait l'un aprÃ¨s l'autre ses _Actes des Martyrs de l'Ãglise
+copte_, sa _Morale Ã©gyptienne quinze siÃ¨cles avant notre Ã¨re, Ã©tudes sur
+le papyrus de Boulaq NÂ° 4_, oÃ¹ il s'inspirait des remarques faites par
+M. Maspero Ã  l'Ãcole des hautes Ã©tudes, son _Essai sur l'Ãvolution
+historique et philosophique des idÃ©es morales dans l'Ãgypte ancienne_, et
+la premiÃ¨re partie fort peu personnelle de son _Histoire de la sÃ©pulture
+et des funÃ©railles en Ãgypte_. M. Loret composait sa _Flore pharaonique_.
+M. CHARDON amorÃ§ait son _Dictionnaire dÃ©motique_ qu'il n'a point terminÃ©.
+M. Legrain offrait comme thÃ¨se Ã  l'Ãcole du Louvre le _Livre des
+Transformations_, et M. BOUDIER, les _Vers Ã©gyptiens, mÃ©trique dÃ©motique,
+Ã©tude prosodique et phonÃ©tique des PoÃ¨mes satyriques, du PoÃ¨me de Moschion
+et des papyrus Ã  transcriptions grecques de Leyde et de Londres_.
+
+A cette Ã©poque, M. de Morgan Ã©tant retournÃ© en Perse avec une Mission du
+MinistÃ¨re franÃ§ais, M. Victor Loret le remplaÃ§a en Ãgypte Ã  la direction
+du Service des antiquitÃ©s (juillet 1897), et il se voua tout entier aux
+fouilles. Elles furent heureuses Ã  Saqqarah, oÃ¹ il fit sortir des sables
+la pyramide ruinÃ©e d'une reine Apet de la VIe dynastie, puis, autour
+d'elle, plusieurs tombeaux qui formÃ¨rent comme une PompÃ©i Ã©gyptienne, et
+surtout Ã  ThÃ¨bes oÃ¹, de 1898 Ã  1899, il dÃ©couvrit les hypogÃ©es de
+ThoutmÃ´sis Ier, de ThoutmÃ´sis III, de Maharpiriou et d'AmÃ©nÃ´thÃ¨s II, oÃ¹
+Ã©taient renfermÃ©es les momies de onze des Pharaons et des princesses des
+XVIIIe, XIXe et XXe dynasties, en rÃ©alitÃ© le complÃ©ment de la trouvaille
+opÃ©rÃ©e dix-sept ans auparavant Ã  Deir-el-Bahari. Malheureusement sa
+direction, si brillante par certains cÃ´tÃ©s, ne dura que deux annÃ©es, et le
+Ier novembre 1899, M. Maspero se voyait renvoyÃ© par le MinistÃ¨re des
+Affaires Ã©trangÃ¨res de France Ã  son ancien poste de directeur du Service
+des AntiquitÃ©s. Il porta tous ses soins sur l'administration, divisa le
+territoire entre onze inspecteurs indigÃ¨nes aux ordres de deux inspecteurs
+en chef europÃ©ens, remit l'ordre dans les finances, rÃ©prima de son mieux
+les fouilles illicites des marchands, prÃ©para dÃ¨s 1902 une loi sur les
+antiquitÃ©s, qui ne fut promulguÃ©e que le 12 juin 1912 et que le systÃ¨me
+des capitulations l'empÃªcha d'appliquer aux EuropÃ©ens, provoqua, en dÃ©pit
+d'une opposition acharnÃ©e, la crÃ©ation de musÃ©es locaux Ã  IsmaÃ®liah
+(1908), Ã  ÃlÃ©phantine (1912), Ã  Tantah (1913), Ã  MiniÃ©h (1914) et surtout
+Ã  Assiout (1911-1914), organisa la protection de la rÃ©gion des Oasis
+(1909), et de 1907 Ã  1910 arma contre la destruction les temples de la
+Nubie que menaÃ§ait l'Ã©lÃ©vation des eaux du Nil, produite par le barrage
+d'Assouan, DebÃ´t, Taffah, KalabchÃ©h, Dandour, Gerf-Hussein,
+Ouady-es-SÃ©boua, Derr, Ibsamboul. D'autre part, se dÃ©barrassant de la
+tÃ¢che des fouilles sur les Ã©trangers, il se chargea d'exÃ©cuter le
+dÃ©blaiement et la consolidation des principaux monuments de l'Ãgypte
+propre, Saqqarah, Abydos, el-HibÃ©h de la Grande Oasis, DendÃ©rah, Assouan:
+il fit dÃ©gager Ã  fond Karnak par M. Legrain, Gournah, EsnÃ©h et Edfou par
+M. Barsanti, Deir-el-MÃ©dinÃ©h par M. BARAIZE qui avait restaurÃ© dÃ©jÃ 
+el-HibÃ©h. Les rÃ©sultats de ses efforts sont consignÃ©s dans le _Recueil de
+travaux_, dans la _Zeitschrift_, dans les _Comptes rendus_ de l'Institut
+Ã©gyptien, dans le _Bulletin_ de l'Institut franÃ§ais d'ArchÃ©ologie
+orientale du Caire, enfin dans les _Annales du Service des AntiquitÃ©s_,
+fondÃ©es en 1899 par M. Loret et dont quatorze volumes ont paru de 1900 Ã 
+1915. Cette mÃªme pÃ©riode vit achever par ses soins le _Kom-Ombo_ et les
+_Fouilles Ã  Dahchour_ de M. de Morgan, puis continuer le _MusÃ©e Ã©gyptien_,
+dont M. GrÃ©baut avait Ã©mis quelques planches pour une premiÃ¨re livraison
+en 1889, mais qui Ã©tait demeurÃ© suspendu ensuite jusqu'en 1900. Ces
+labeurs officiels n'arrÃªtÃ¨rent point les travaux personnels de
+M. Maspero; mais sans renoncer de collaborer Ã  la _Revue critique_, il ne
+cessa pas d'Ã©diter la _BibliothÃ¨que Ã©gyptologique_ qui compte aujourd'hui
+prÃ¨s de quarante volumes; il rÃ©unit dans trois livres diffÃ©rents intitulÃ©s
+_Causeries d'Ãgypte_ (1906), _Ruines et Souvenirs d'Ãgypte_ (1909) et
+_Essais d'Art Ã©gyptien_ (1911), les articles de vulgarisation qu'il avait
+Ã©crits pour le _Journal des DÃ©bats_, pour le _Temps_ et pour diverses
+revues, insÃ©ra dans la _BibliothÃ¨que d'Ãtude_ des Ã©ditions critiques des
+_MÃ©moires de Sinouhit_ (1908), de l'_Hymne au Nil_ (1911) et des
+_Instructions d'Amenemhait_ (1914), enfin composa pour la collection
+_Ars una_ le traitÃ© _Ãgypte_ (1912) oÃ¹ est exposÃ©e pour la premiÃ¨re fois
+l'histoire complÃ¨te de l'art Ã©gyptien, depuis ses origines jusqu'Ã  sa
+disparition.
+
+Presque en mÃªme temps que le Service des AntiquitÃ©s, la Mission permanente
+du Caire avait changÃ© de directeur, et, qui plus est, de condition.
+M. Bouriant, subordonnÃ© par ordre Ã  M. de Morgan, puis Ã  M. Loret, n'avait
+pas eu le loisir d'achever la prÃ©paration de son grand ouvrage sur
+_MÃ©dinet-abou_, ni de demander beaucoup d'activitÃ© Ã  ses Ã©lÃ¨ves; il avait
+pourtant dÃ©mÃ©nagÃ© la Mission de la Maison Karcher dans l'Ã©difice que
+l'architecte Ambroise, BAUDRY lui avait bÃ¢ti aux frais du gouvernement
+franÃ§ais, dans la rue Soliman-Pacha, prÃ¨s du nouveau MusÃ©e Ã©gyptien. En
+s'Ã©tablissant ainsi chez elle, la Mission avait perdu son nom et modifiÃ©
+son statut: elle Ã©tait devenue l'_Institut franÃ§ais d'ArchÃ©ologie
+orientale du Caire_ et elle avait reÃ§u la personnalitÃ© civile. Bouriant y
+ouvrit une imprimerie trÃ¨s modeste d'abord, mais au mois de septembre
+1897, il fut frappÃ© d'hÃ©miplÃ©gie, et, aprÃ¨s une sorte d'interrÃ¨gne oÃ¹
+Chassinat, alors membre de l'Ãcole, exerÃ§a ses fonctions, il fut mis Ã  la
+retraite et Chassinat lui succÃ©da comme directeur en 1898. Celui-ci par
+goÃ»t et par nÃ©cessitÃ©, dÃ©veloppa fortement l'imprimerie et fit d'elle,
+pour la composition et pour le tirage hiÃ©roglyphique, le premier atelier
+du monde. Il dirigea des fouilles importantes Ã  el-Ghattah, prÃ¨s
+d'Abouroache, Ã  BaouÃ®t, Ã  Assiout, avec le concours des membres de
+l'Institut, GAUTHIER, GUILMANT, CLÃDAT, PIÃRON, GOMBERT, PALANQUE, BARRY,
+LESQUIER et des Ã©lÃ¨ves de l'Ãcole d'AthÃ¨nes dÃ©tachÃ©s auprÃ¨s de lui,
+JOUGUET et Gustave LEFEBVRE. Gombert pÃ©rit malheureusement prÃ¨s de Tounah,
+mais les autres eurent le temps de mettre en ordre le rÃ©sultat de leurs
+recherches. Palanque, Ã©lÃ¨ve diplÃ´mÃ© de l'Ãcole des hautes Ã©tudes, y avait
+prÃ©sentÃ© comme thÃ¨se un ouvrage sur le _Nil Ã  l'Ã©poque pharaonique_.
+ClÃ©dat publia de 1904 Ã  1906 le _MonastÃ¨re et la NÃ©cropole de BaouÃ®t_,
+GUILMANT, _le Tombeau de RamsÃ¨s IX_ en 1907, MALLET, en 1909, le
+_Kasr el-AgoÃ»z_, Chassinat avec PiÃ©ron et Gauthier (1906) les _Fouilles
+d'El-Ghattah_, et seul en 1910 le _Mammisi d'Edfou_. Joignez-y les
+_MÃ©moires sur les fouilles de Licht_, exÃ©cutÃ©es au temps de Bouriant par
+Gautier et JÃQUIER, les _Monuments pour servir Ã  l'histoire du Culte
+d'Atonou_ recueillis en 1893 par Bouriant, Legrain et JÃ©quier, mais mis au
+jour en 1903-1905 seulement, les travaux de Lacau, _Fragments d'apocryphes
+coptes_ (1904), de DEIBER, _ClÃ©ment d'Alexandrie et l'Egypte_ (1904), de
+VERNIER sur _la Bijouterie et la Joaillerie Ã©gyptiennes_ (1907), le _Livre
+des Rois d'Egypte_ commencÃ© par Gauthier en 1910 dont les trois volumes
+parus n'ont pas Ã©puisÃ© la matiÃ¨re, et vous aurez une idÃ©e de l'Ã©lan qu'il
+imprima Ã  l'Ãcole dans le domaine Ã©gyptologique, car je n'ai pas Ã  parler
+ici des publications entreprises dans les autres champs de l'orientalisme.
+La crÃ©ation du _Bulletin de l'Institut franÃ§ais d'ArchÃ©ologie orientale_
+(1901), dont quatorze volumes sont lÃ , fournit aux membres l'occasion de
+faire profiter le public de leurs recherches moindres, et celle de la
+_BibliothÃ¨que d'Ãtude_ (1908), dont six volumes sont dÃ©jÃ  en vente, le
+moyen de prÃ©parer des Ã©ditions de manuscrits Ã©gyptiens ou coptes. Son
+activitÃ© fut ralentie vers 1905, 1906,1907 par une campagne delÃ  presse
+franÃ§aise d'Egypte qui, ne comprenant pas le rÃ´le que jouait notre
+Institut dans le pays, prÃ©tendit le dÃ©pouiller du terrain qu'il possÃ©dait
+au profit d'autres Ã©tablissements. Pour le soustraire aux attaques, il dut
+le transporter au quartier lointain de Mounira, sur un terrain oÃ¹ il donna
+asile Ã  l'Ãcole de Droit franÃ§ais. Il rÃ©ussit Ã  le faire dans des
+conditions trÃ¨s avantageuses, mais les soucis de l'opÃ©ration et le trouble
+qu'elle jeta dans le recrutement arrÃªtÃ¨rent les fouilles importantes: le
+transfert dÃ»ment achevÃ©, il envoya sa dÃ©mission en janvier 1912 et fut
+remplacÃ© en juillet suivant par M. Lacau, qui se consacra exclusivement
+aux fouilles et explora avec succÃ¨s, en collaboration avec M. MONTET, la
+nÃ©cropole d'Abou-roache (1913-1914), par les soins de MM. DAUMAS et Jean
+MASPERO, les Ã©difices de BaouÃ®t (1913), enfin en 1914, les koms d'Edfou
+par l'intermÃ©diaire de MM. JOUGUET et COLLOMP (1914). L'impulsion donnÃ©e
+aux publications par M. Chassinat continua de s'exercer pleinement pendant
+ces deux annÃ©es encore. Elles ont vu paraÃ®tre: Chassinat et Palanque, _une
+Campagne de fouilles dans la nÃ©cropole d'Assiout_ (1911); Gautier, _le
+Livre des Rois d'Egypte_ (t. III, 1913); COUYAT et Montet, _les
+Inscriptions de la vallÃ©e de Hammamat_(1914): la plupart de ces travaux
+durent leur succÃ¨s Ã  la collaboration du Service des antiquitÃ©s et de la
+Mission.
+
+Nulle part cette collaboration ne se montra plus intime et plus
+bienfaisante que dans ce qui regarde le MusÃ©e du Caire: elle facilita
+grandement l'impression des ouvrages publiÃ©s par celui-ci, et celui-ci Ã 
+son tour fournit aux membres de la Mission les matÃ©riaux d'innombrables
+ouvrages. Lorsque, du 13 fÃ©vrier au 13 juillet 1902, M. Maspero transporta
+la collection Ã©gyptienne de GizÃ©h au Caire dans l'Ã©difice construit
+spÃ©cialement au Kasr-en-Nil pour la recevoir, sa lourde tÃ¢che ne fut point
+terminÃ©e: il fallait classer les objets par ordre de matiÃ¨res et de dates,
+amÃ©nager les salles d'exposition et la bibliothÃ¨que, cataloguer les sÃ©ries
+scientifiquement et faire connaÃ®tre le sens des plus importantes au grand
+public, toutes choses assez difficiles car, si le plan gÃ©nÃ©ral des
+bÃ¢timents avait Ã©tÃ© dressÃ©, Ã  la suite d'un concours international, par
+l'architecte franÃ§ais Dourgnon, l'exÃ©cution qui en avait eu lieu de 1897 Ã 
+1902 avait Ã©tÃ© entachÃ©e de malfaÃ§ons telles que l'on dut refaire presque
+immÃ©diatement, de 1907 Ã  1915, toutes les terrasses en ciment armÃ© et, par
+consÃ©quent, modifier sans cesse Ã  l'intÃ©rieur la disposition des salles.
+MalgrÃ© ces remaniements perpÃ©tuels, M. Maspero crut de son devoir de
+donner au grand public un _Guide du visiteur au MusÃ©e du Caire_, qui, tout
+en faisant comprendre Ã  celui-ci la nature, l'Ã©poque, la valeur
+historique, la signification civile ou religieuse des objets dÃ©crits, le
+prÃ©parerait Ã  entendre et Ã  goÃ»ter ce qu'il pourrait voir dans la haute
+Ãgypte: ce _Guide_, qui de 1902 Ã  1915 a eu quatre Ã©ditions franÃ§aises,
+cinq anglaises et une arabe, en tout environ quinze mille exemplaires,
+et dont M. Maspero a fait, selon l'idÃ©al qu'il poursuivait, un traitÃ©
+d'archÃ©ologie illustrÃ© par les monuments qu'il avait sous les yeux, a Ã©tÃ©
+imprimÃ© par l'Institut franÃ§ais d'archÃ©ologie. C'est ce dernier aussi qui
+pouvait seul exÃ©cuter dignement l'impression du _Catalogue gÃ©nÃ©ral des
+AntiquitÃ©s Ã©gyptiennes du MusÃ©e du Caire_, destinÃ© aux Ã©rudits. Ce dernier
+avait Ã©tÃ© commencÃ© du temps de M. de Morgan et de M. Loret, sur un plan un
+peu confus, par les soins d'une commission internationale de cinq membres
+que prÃ©sidait un Allemand, M. Ludwig Borchardt. ArrivÃ© trop tard pour
+remÃ©dier au dÃ©sordre du plan, M. Maspero Ã©largit du moins celui-ci, rompit
+peu Ã  peu le cadre de la commission, et invita Ã  participer Ã  l'oeuvre
+tous les savants que leur bonne fortune amenait en Ãgypte; enfin, en 1900,
+il obtint du gouvernement Ã©gyptien les fonds nÃ©cessaires pour bien Ã©diter
+ce catalogue. Depuis l'annÃ©e 1900, jusqu'Ã  nos jours, plus de soixante
+volumes ou fascicules munis largement de planches ont paru, dont la moitiÃ©
+environ sont dus Ã  la plume de savants franÃ§ais et de membres de
+l'Institut archÃ©ologique. M. DARESSY, aujourd'hui secrÃ©taire gÃ©nÃ©ral du
+service, et dont l'oeuvre considÃ©rable avait Ã©tÃ© dispersÃ©e jusqu'alors
+dans des journaux scientifiques, _Revue archÃ©ologique, Recueil de travaux,
+Bulletin de l'Institut Ã©gyptien_, ouvrit la sÃ©rie en 1900, et la continua
+Ã  quelques annÃ©es d'intervalle par ses volumes de _Dessins et de textes
+magiques_, du _Tombeau de MaherprÃ¢ et d'AmÃ©nophis II_, des _Momies royales
+de Deir-el-BaharÃ®_, des _Figures de divinitÃ©s Ã©gyptiennes_. M. Lacau a
+publiÃ© _les Cercueils du Moyen Empire_ (2 vol.), et le premier volume des
+_StÃ¨les de la XVIIIe dynastie_; M. Moret, _les Cercueils de la XXIIe
+dynastie_ (2 vol.); M. Gauthier, _les Cercueils des prÃªtres de Mentou_;
+M. Gaston Maspero, le premier volume des _Sarcophages d'Ã©poque SaÃ¯te et
+PtolÃ©maÃ¯que_; M. Vernier, deux livraisons de _Bijoux et d'orfÃ¨vreries_ que
+M. Daressy achÃ¨vera; M. BÃ©nÃ©dite, trois volumes sur les petits objets de
+toilette; M. Legrain, trois volumes sur les statues provenant du fonds
+dÃ©couvert par lui dans la _favissa_ de Karnak; M. Lefebvre, _le Papyrus de
+MÃ©nandre_; M. Jean Maspero, _les Papyrus byzantins_, en trois volumes dont
+le dernier est sous presse; M. Chassinat, _la Trouvaille des
+Grands-PrÃªtres d'Ammon de la XXIe dynastie_, et d'autres sont prÃªts qui
+ont pour auteurs MM. MUNIER, Moret, Gauthier, Gaston Maspero. Je ne parle
+pas des collaborateurs Ã©trangers, Reisner, Currelly, Elliot-Smith, et
+maint autre dont les presses de l'Institut ont eu Ã©galement les volumes.
+La seconde des grandes oeuvres du Service Ã©gyptien, _les Temples immergÃ©s
+de la Nubie_ en est sortie tout entiÃ¨re: Gaston Maspero, _Rapports et
+MÃ©moires_; Gauthier, _KalabchÃ¨h, Amada_ et _Ouady es-SÃ©bouÃ¢_; Roeder,
+_de DÃ©bÃ´t au Bab KalabchÃ©h_ et le premier volume de _DakkÃ©h_; Blackmann,
+_Derr_ et _BigÃ©h_. Comme on le voit, ce ne sont pas les FranÃ§ais seuls qui
+tirent profit de l'imprimerie montÃ©e par la France auprÃ¨s de l'Institut
+D'archÃ©ologie orientale.
+
+Si, en prÃ©sence des succÃ¨s remportÃ©s Ã  l'Ã©tranger, ceux qui ont Ã©tÃ©
+obtenus par les Ãgyptologues demeurÃ©s en France pÃ¢lissent un peu, ils n'en
+ont pas moins Ã©tÃ© fort apprÃ©ciables pendant la pÃ©riode de temps qui s'est
+Ã©coulÃ©e depuis 1909 jusqu'en 1914. M. Victor Loret, Ã  Lyon, n'a pas publiÃ©
+beaucoup d'oeuvres originales, mais son excellent enseignement nous a
+procurÃ© plusieurs bons Ã©lÃ¨ves dont le dernier venu, M. Montet, s'est
+distinguÃ© Ã  l'Institut du Caire. M. LefÃ©bure, mort Ã  Alger en 1908, n'a
+guÃ¨re Ã©crit dans ses derniÃ¨res annÃ©es qu'un petit nombre de mÃ©moires
+d'histoire religieuse qui seront recueillis dans le dernier volume de ses
+_Oeuvres_, mais M. Georges FOUCART, professeur d'abord d'Histoire ancienne
+Ã  la FacultÃ© des lettres de Bordeaux (1898-1906), puis d'Histoire des
+religions Ã  la FacultÃ© d'Aix-Marseille, aprÃ¨s avoir soutenu en 1898 une
+thÃ¨se remarquable sur l'_Ordre lotiforme_, et prodiguÃ© beaucoup d'articles
+tant Ã  la _Revue archÃ©ologique_ qu'au _Sphinx_ dont il est un des
+directeurs depuis la mort de Karl Piehl, a risquÃ© un livre fort hardi et
+fort discutÃ©, _Histoire des religions et mÃ©thode comparative_, qui a eu
+rapidement deux Ã©ditions (1912, 1913): il est, depuis janvier 1915,
+directeur de l'Institut archÃ©ologique du Caire. Guieysse est mort en 1914,
+aprÃ¨s avoir enseignÃ© jusqu'au bout Ã  l'Ãcole des hautes Ã©tudes, (section
+d'Histoire et de Philologie), et Moret y professe seul pour l'instant.
+AprÃ¨s avoir insÃ©rÃ© plusieurs articles dans le _Recueil de travaux_, il
+avait choisi pour sujets de thÃ¨se l'histoire du roi Bocchoris qu'il
+Ã©crivit en latin, _De Bocchori rege_, et le _CaractÃ¨re religieux de la
+royautÃ© pharaonique_ (1902), adjoignant Ã  ce dernier sujet comme
+complÃ©ment _le Rituel du culte divin journalier en Ãgypte_ (1902). Il y
+ajouta de nombreux articles dans le _Recueil_, entre autres des
+observations importantes sur _les Donations et les contrats funÃ©raires
+dans l'ancienne Ãgypte_, et un catalogue trÃ¨s dÃ©taillÃ© des monuments
+Ã©gyptiens du musÃ©e d'Aix-en-Provence; dans les Annales du musÃ©e Guimet, un
+catalogue de la partie Ã©gyptienne de ce musÃ©e (1908); enfin, dans le
+_Journal asiatique_, la premiÃ¨re partie d'une critique dirigÃ©e contre les
+idÃ©es du commandant WEILL et intitulÃ©e _Chartes d'immunitÃ© dans l'ancien
+Empire Ã©gyptien_ (1913). Entre temps, il a dissimulÃ© dans la _Revue de
+Paris_ et dans la _BibliothÃ¨que de vulgarisation_, des articles destinÃ©s
+au grand public et qu'il a rÃ©unis en deux volumes sous les titres: _Au
+temps des Pharaons_ (1904), _Rois et Dieux d'Ãgypte_ (1911), et _MystÃ¨res
+Ã©gyptiens_. Son enseignement Ã  l'Ãcole des hautes Ã©tudes a produit un
+Ã©lÃ¨ve, M. SOTTAS, qui, aprÃ¨s quelques articles de moindre intÃ©rÃªt dans les
+Revues scientifiques, conÃ§ut en 1913 une thÃ¨se pour l'obtention du
+diplÃ´me, _la PrÃ©servation de la propriÃ©tÃ© funÃ©raire dans l'ancienne
+Ãgypte_; c'est le dÃ©but le meilleur qui ait Ã©tÃ© fait dans notre science
+depuis trÃ¨s longtemps. Comme M. Sottas, M. Weill est officier de carriÃ¨re.
+Il dÃ©buta en 1898 par un article insÃ©rÃ© au _Journal asiatique_, article
+que sa compÃ©tence sur les questions militaires rendait spÃ©cialement
+intÃ©ressant, _l'Art de la fortification dans la haute antiquitÃ©
+Ã©gyptienne_. Il se voua ensuite Ã  l'Ã©tude du SinaÃ¯, et aprÃ¨s avoir pris la
+presqu'Ã®le mÃªme pour sujet de sa thÃ¨se, qui ne parut qu'en 1908, il Ã©dita
+prÃ©alablement le _Recueil des inscriptions Ã©gyptiennes du SinaÃ¯_ (1904).
+Il avait rÃ©servÃ© son autre thÃ¨se Ã  la recherche et Ã  la discussion
+approfondie des monuments se rapportant aux rois de la _IIe et de la
+IIIe dynastie_ (1908), quand, aprÃ¨s s'Ãªtre attachÃ© pendant une annÃ©e
+(1905) aux fouilles de Flinders Petrie, il s'associa au jeune A.J. REINACH
+pour faire des fouilles au bord du Nil. Ils dÃ©couvrirent ensemble
+Ã  _Coptos_ les premiers monuments connus de la VIIIe dynastie, et, tandis
+qu'A.-J. Reinach faisait le rÃ©cit de leur campagne dans son _Rapport sur
+les fouilles de Coptos_ (1909-1910), Weill publiait les _DÃ©crets royaux de
+l'ancien Empire Ã©gyptien, Ã©tude sur les dÃ©crets royaux trouvÃ©s Ã  Coptos et
+sur les documents similaires d'autres provenances_ (1911), ouvrage qui,
+malgrÃ© ses fautes rÃ©elles et les critiques de Gardner en Angleterre, de
+Moret en France, de Kurt Sethe en Allemagne, demeure des plus suggestifs.
+C'est surtout dans les _Annales du Service des AntiquitÃ©s_ que Lefebvre a
+consignÃ© ses notes tantÃ´t grecques, tantÃ´t hiÃ©roglyphiques, sur les
+monuments par lui recueillis au cours de ses inspections. Montet a
+multipliÃ© les petits mÃ©moires au _Recueil_, dans le _Sphinx_ et dans le
+_Bulletin de l'Institut_. Jean Maspero s'est livrÃ© Ã  de curieuses
+investigations sur les sources coptes et arabes de l'histoire d'Ãgypte et
+a prÃ©sentÃ© une thÃ¨se pour le diplÃ´me d'Ã©lÃ¨ve de l'Ãcole des hautes Ã©tudes
+sur l'_ArmÃ©e byzantine d'Ãgypte_ (1911)[1].
+
+[Note 1: A l'heure oÃ¹ ces lignes sont Ã©crites, MM. MONTET et LEFEBVRE
+sont aux armÃ©es; MM. SOTTAS et WEILL ont Ã©tÃ© blessÃ©s au feu, le premier
+trÃ¨s griÃ¨vement; M. A. J. REINACH a disparu depuis le mois d'aoÃ»t 1914;
+M. Jean MASPERO est tombÃ© Ã  Vauquois, le 17 fÃ©vrier 1915, et le
+dessinateur de l'Institut d'archÃ©ologie, M. DAUMAS, a Ã©tÃ© tuÃ© Ã  l'ennemi
+dÃ¨s les premiÃ¨res rencontres de 1914 en Lorraine. L'Ãgyptologie, sous
+toutes ses formes, a payÃ© largement son tribut Ã  la patrie.]
+
+
+ C'est Ã©galement Ã  l'Egypte des derniers siÃ¨cles que Jouguet, Lesquier et
+Gayet ont consacrÃ©, au moins en partie, leurs travaux. Jouguet en Ã©crivant
+sa thÃ¨se sur _la Vie municipale en Ãgypte_ (1910); Lesquier par ses
+recherches sur l'_ArmÃ©e ptolÃ©maÃ¯que_ (1911) et sur l'armÃ©e romaine
+d'Egypte, auxquelles il a ajoutÃ© en 1914 un essai plus bizarre qu'heureux
+de _Grammaire Ã©gyptienne_; Gavel par l'_Exploration des ruines d'AntinoÃ©_
+(1896), diffÃ©rentes notices sur les fouilles de cette mÃªme ville de 1898 Ã 
+1914. _l'Art copte_ (1906), et de nombreuses brochures Ã©crites un peu au
+hasard. Notons, en terminant, les deux ouvrages oÃ¹ M. Virey a rÃ©sumÃ© en
+1909 la matiÃ¨re des leÃ§ons qu'il avait faites avec beaucoup de vigueur et
+d'impartialitÃ© Ã  l'UniversitÃ© catholique de Paris sur la _Religion
+Ã©gyptienne_ et oÃ¹ M. Jules BAILLET a exposÃ© en dÃ©tail vers 1912 ses idÃ©es
+sur la _Morale_.
+
+Telle est dans ses grandes lignes l'histoire du dÃ©veloppement qu'a suivi,
+depuis l'Exposition universelle de 1867, l'Ãgyptologie franÃ§aise. Si l'on
+reprend un Ã  un tous les hommes qui tenaient la scÃ¨ne au dÃ©but de cette
+pÃ©riode, E. de RougÃ©, Chabas, DevÃ©ria, Mariette, on verra qu'ils sont
+morts ainsi qu'une partie de ceux qui les ont suivis. Berend,
+Rochemonteix, Bouriant, LefÃ©bure, Revillout, Guieysse, GrÃ©baut, AmÃ©lineau.
+Jacques de RougÃ©, Pierret, Auguste Baillet ne produisent plus guÃ¨re.
+Gaston Maspero continue Ã  travailler et Ã  professer, mais l'Ã¢ge de la
+retraite ne tardera pas Ã  sonner pour lui. MalgrÃ© le dÃ©dain que beaucoup
+d'Ã©trangers, qui n'ont fait ni plus ni mieux, affectent pour elle et pour
+une partie de son oeuvre, cette gÃ©nÃ©ration qui s'en va peut se rendre le
+tÃ©moignage qu'elle n'a point laissÃ© pÃ©ricliter l'oeuvre de Champollion. En
+France, elle a enseignÃ© sans relÃ¢che au CollÃ¨ge de France, Ã  l'Ãcole des
+hautes Ã©tudes, au Louvre; elle a obtenu la crÃ©ation de chaires qui n'ont
+pas Ã©tÃ© toutes conservÃ©es, Ã  Lyon, Ã  Alger, Ã  Bordeaux, Ã  Aix-Marseille;
+elle a recueilli l'oeuvre de ses devanciers et elle a prÃ©parÃ© celle de ses
+successeurs. En Ãgypte, elle a organisÃ© le Service des antiquitÃ©s et elle
+a si bien assurÃ© la protection de celles-ci que toutes les nations
+europÃ©ennes, et mÃªme l'Allemagne, ont dÃ» lui reconnaÃ®tre de ce chef un
+vÃ©ritable droit de prÃ©sÃ©ance; et si, plus tard, pour des raisons de
+politique, elle est amenÃ©e Ã  y renoncer, elle a crÃ©Ã© au Caire une grande
+Ãcole qui est en Ã©tat d'y perpÃ©tuer la tradition des recherches purement
+scientifiques. J'espÃ¨re que, malgrÃ© les pertes cruelles qu'elle subit du
+fait de la guerre, la gÃ©nÃ©ration actuelle, la troisiÃ¨me depuis 1867, ne
+faillira pas Ã  maintenir de toutes ses forces l'Ã©difice que la deuxiÃ¨me a
+bÃ¢ti: elle est jeune, pleine d'ardeur, animÃ©e d'un puissant esprit de
+critique, prÃªte Ã  tout entreprendre, et, lorsqu'elle pourra se rÃ©appliquer
+au travail, elle le fera avec les qualitÃ©s d'Ã©nergie et de maturitÃ© qu'une
+crise aussi forte que celle qu'elle traverse en ce moment ne peut manquer
+de lui donner.
+
+G. MASPERO.
+
+
+
+_BIBLIOGRAPHIE_
+
+_Description de l'Ãgypte ou Recueil des observations qui ont Ã©tÃ© faites en
+Ãgypte pendant l'expÃ©dition de l'armÃ©e franÃ§aise,_ 10 vol. de texte in-4Â°
+et 14 vol. de planches in-fol. Paris, Impr. Royale, 1809-1829.
+
+CHAMPOLLION LE JEUNE. _L'Ãgypte sous les Pharaons ou Recherches sur la
+GÃ©ographie, la Religion, la Langue, les Ãcritures et l'Histoire de
+l'Ãgypte avant l'invasion de Cambyse_, 2 vol. in-8Â°. Paris, de Bure
+frÃ¨res, 1814.
+
+--_Lettre Ã  M. le duc de Blacas d'Aulps relative au MusÃ©e royal Ã©gyptien
+de Turin_, in-8Â°. Paris, Didot, 1824.
+
+--_PrÃ©cis du systÃ¨me hiÃ©roglyphique des anciens Ãgyptiens ou Recherches
+sur les Ã©lÃ©ments premiers de cette Ã©criture sacrÃ©e, sur leurs diverses
+combinaisons et sur le rapport de ce systÃ¨me avec les autres mÃ©thodes
+graphiques Ã©gyptiennes_, 2e Ã©d., augmentÃ©e de la _Lettre Ã  M. Dacier
+relative Ã  l'alphabet des hiÃ©roglyphes phonÃ©tiques_ (1814), 2 vol. in-8Â°.
+Paris, Impr. Royale, 1827-1828.
+
+--_Grammaire Ã©gyptienne ou Principes gÃ©nÃ©raux de l'Ã©criture sacrÃ©e
+Ã©gyptienne appliquÃ©e Ã  la reprÃ©sentation de la langue parlÃ©e_, in-4Â°.
+Paris, Didot, 1836.
+
+--_Monuments de l'Ãgypte et de la Nubie d'aprÃ¨s les dessins exÃ©cutÃ©s par
+l'auteur sur les lieux_, 4 vol. in-fol. Paris, Didot, 1835-1845.
+
+--*_Dictionnaire Ã©gyptien en Ã©criture hiÃ©roglyphique_, in-4Â°. Paris,
+Didot, 1841.
+
+CHAMPOLLION LE JEUNE.--_Monuments de l'Ãgypte et de la Nubie. Notices
+descriptives conformes aux manuscrits autographes rÃ©digÃ©s sur les lieux
+par l'auteur_, 2 vol. in-4Â°. Paris, Didot, 1844-1855.
+
+Emm. DE ROUGÃ.--_Notice des monuments exposÃ©s dans la galerie d'antiquitÃ©s
+Ã©gyptiennes au MusÃ©e du Louvre_, 1re Ã©d., in-8Â°. Paris, Vinchon, 1849.
+
+--_Rapport adressÃ© Ã  M. le Directeur gÃ©nÃ©ral des MusÃ©es nationaux sur
+l'exploration scientifique des principales collections Ã©gyptiennes
+renfermÃ©es dans les divers MusÃ©es publics de l'Europe_. Extrait du
+_Moniteur_ des 7 et 8 mars 1851.
+
+--_MÃ©moire sur l'inscription du tombeau d'Aahmes, chef des nautonniers_,
+in-4Â°. Paris, Impr. Nationale, 1851.
+
+--*_Le PoÃ¨me de Pen-ta-our_. Extrait d'un _MÃ©moire sur les campagnes de
+RamsÃ¨s II--SÃ©sostris_, in-8Â°. Paris, Didot, 1856.
+
+--_Inscriptions hiÃ©roglyphiques copiÃ©es en Ãgypte pendant sa mission
+scientifique_, 2 vol. in-4Â°. Paris, Vieweg, 1877-1879.
+
+--_Inscriptions et notices recueillies Ã  Edfou, par E. de RougÃ©_, publiÃ©es
+par J. de RougÃ©, 2 vol. in-8Â°. Paris, Leroux, 1880.
+
+F. CHABAS.--_Le Papyrus magique Harris, traduction analytique et commentÃ©e
+d'un papyrus Ã©gyptien_, in-4Â°. Chalon-sur-SaÃ´ne, Dejussieu, 1860.
+
+--_Les Pasteurs en Ãgypte_, in-4Â°. Amsterdam, E. de Post, 1868.
+
+--_Voyage d'un Ãgyptien en Syrie, en PhÃ©nicie, en Palestine au XIVe siÃ¨cle
+avant notre Ã¨re_, in-4Â°. Paris, Maisonneuve, 1866.
+
+--_MÃ©langes Ã©gyptologiques_, 3 parties, in-8Â°. Chalon-sur-SaÃ´ne,
+1862-1873.
+
+--_Ãtude sur l'antiquitÃ© historique d'aprÃ¨s les sources Ã©gyptiennes et les
+monuments rÃ©putÃ©s prÃ©historiques_, 2e Ã©d., gr. in-8Â°. Paris, Maisonneuve,
+1873.
+
+--_Les Maximes du scribe Ani_, in-4Â°. Chalon-sur-SaÃ´ne, Dejussieu,
+1876-1878.
+
+--_Recherches pour servir Ã  l'histoire de la XIXe dynastie et spÃ©cialement
+du temps de l'Exode_, in-4Â°. Chalon-sur-SaÃ´ne, Dejussieu, 1873.
+
+J. MARIETTE-PACHA.--_Note sur la dÃ©couverte et sur les fouilles du
+SÃ©rapÃ©um de Memphis_. PubliÃ©e dans les comptes rendus des SÃ©ances de
+l'AcadÃ©mie des Inscriptions, 8 et 15 dÃ©cembre 1854.
+
+--_Renseignements sur les 64 Apis trouvÃ©s dans les souterrains du SÃ©rapÃ©um
+de Memphis_. Bulletin de l'Athenaeum franÃ§ais, 1855-1856.
+
+J. MARIETTE-PACHA.--_MÃ©moire sur la mÃ¨re d'Apis_. in-4Â°. Paris, J. de
+Baudry, 1856.
+
+--_Lettre et deuxiÃ¨me lettre Ã  M. le vicomte de RougÃ© sur les fouilles de
+Tanis_. R.A.[1], 2e sÃ©rie, III et V. Paris, 1861-1862.
+
+--_Notices des principaux monuments exposÃ©s dans les galeries provisoires
+du musÃ©e d'AntiquitÃ©s Ã©gyptiennes de S.A. le vice-roi Ã  Boulaq_, in-8Â°.
+Alexandrie, MourÃ¨s, 1864.
+
+--_Fouilles exÃ©cutÃ©es en Ãgypte, en Nubie et au Soudan d'aprÃ¨s les ordres
+du vice-roi_, 2 vol. Paris, Franck, 1867.
+
+--_Abydos, descriptions des fouilles exÃ©cutÃ©es sur l'emplacement de cette
+ville_, 3 vol. in-fol. et in-4Â°. Paris, Vieweg, 1869-1880.
+
+--_Denderah, description gÃ©nÃ©rale du Temple de cette ville_, 5 vol.
+planches in-fol., 1 vol. texte in-4Â°. Paris, Vieweg, 1870-1875.
+
+--_Remarques sur l'Ã¢ge de la pierre en Ãgypte_. Rapport lu Ã  l'AcadÃ©mie
+des inscriptions, le 4 nov. 1870.
+
+--_Les Papyrus Ã©gyptiens du MusÃ©e de Boulaq publiÃ©s en fac-similÃ© sous les
+auspices de S.A. Ismail-Pacha, khÃ©dive d'Egypte_, 3 vol. in-fol. Paris,
+Vieweg, 1871-1878.
+
+--_Liste gÃ©ographique des pylÃ´nes de Karnak_, in-fol. et in-4Â°. Leipzig,
+Hinrichs, 1875.
+
+--_Karnak, Ã©tude topographique et archÃ©ologique_, in-fol. et in-4Â°.
+Leipzig, Hinrichs, 1875.
+
+--_Deir-el-Bahari, Documents topographiques... recueillis dans le temple_,
+in-4Â° et in-fol. Leipzig, Hinrichs, 1877.
+
+--*_Monuments divers recueillis en Ãgypte et en Nubie_, in-fol. Paris,
+Vieweg, 1881.
+
+--_Voyage dans la haute Ãgypte_, 2 vol. in-fol. Paris, Vieweg, 1881.
+
+--_Le SÃ©rapÃ©um de Memphis_, publiÃ© d'aprÃ¨s les manuscrits de l'auteur, par
+G. Maspero, in-4Â° et in-fol. Vieweg, 1882.
+
+--*_Les Mastabas de l'ancien Empire_, publiÃ©s par G. Maspero, in-fol.
+Paris, Vieweg, 1889.
+
+       *       *       *       *       *
+
+NOTE: AbrÃ©viations dÃ©signant les collections et pÃ©riodiques citÃ©s:
+
+A.M.G.: _Annales du MusÃ©e Guimet_. B.E.: _BibliothÃ¨que d'Ãtudes_. B.Eg.:
+_BibliothÃ¨que Ã©gyptologique_.
+
+C.G.: _Catalogue gÃ©nÃ©ral des antiquitÃ©s Ã©gyptiennes du MusÃ©e du Caire_.
+
+E.E.: _Ãtudes Ã©gyptologiques_. M.I.: _MÃ©moires publiÃ©s par les membres de
+l'Institut franÃ§ais d'archÃ©ologie orientale_.
+
+M.M.: _MÃ©moires publiÃ©s par les membres de la Mission archÃ©ologique
+franÃ§aise du Caire_.
+
+M.P.: _Monuments et MÃ©moires publiÃ©s par l'AcadÃ©mie des inscriptions et
+belles-lettres. Fondation EugÃ¨ne Piot_. R.A.: _Revue ArchÃ©ologique_.
+
+R.T.: _Recueil des Travaux relatifs Ã  la philologie et Ã  l'archÃ©ologie
+Ã©gyptiennes et assyriennes_.
+
+
+E. LEFÃBURE.--_Traduction comparÃ©e des Hymnes au Soleil, composant le XVe
+chapitre du Rituel funÃ©raire Ã©gyptien_, in-4Â°. Paris, Vieweg, 1868.
+
+--_Le Mythe osirien_: I. _les Yeux d'Horus_; II. _Osiris_, 2 vol. in-4Â°.
+Paris, Vieweg, 1874-1875.
+
+--_Les HypogÃ©es royaux de ThÃ¨bes_, 1re division, _le Tombeau de Seti 1er_.
+A.M.G., t. IX, 1887: 2e division, _le Tombeau de RamsÃ¨s IX_. Ibid., t. XVI
+et XVIe, 1889. Voir aussi M.M., t. III.
+
+--_Rites Ã©gyptiens. Construction et protection des Ã©difices_. Bulletin de
+Correspondance africaine, in-8Â°. Paris, Leroux, 1890.
+
+--*_Oeuvres diverses publiÃ©es par G. Maspero_. B.Eg., 2 vol. in-8Â°. Paris,
+Leroux, 1890-1912.
+
+Th. DEVÃRIA.--*_Les Papyrus judiciaires de Turin et les Papyrus Lee et
+Rollin_, in-8Â°. Paris, Leroux, 1868.
+
+--_Catalogue des manuscrits Ã©gyptiens Ã©crits sur papyrus, toile, tablettes
+et ostraca... conservÃ©s au musÃ©e Ã©gyptien du Louvre,_ in-12. Paris,
+Mourgues, 1881.
+
+ROUGÃ (Vicomte DE).--_GÃ©ographie des nomes de la basse Ãgypte_. Paris,
+Rothschild, 1891.
+
+PIERRET.--_Textes et traductions franÃ§aises du Rituel funÃ©raire d'une
+stÃ¨le Ã©thiopienne inÃ©dite et divers monuments religieux_, in-4Â°. Paris,
+Vieweg, 1873.
+
+--_Vocabulaire hiÃ©roglyphique_, in-8Â°. Paris, Vieweg, 1875.
+
+PIERRET et DEVERIA.--_Les papyrus de Neb-Keb. Exemplaire hiÃ©roglyphique du
+livre des Morts_, in-fol. Paris, Vieweg, 1872.
+
+--_Le dÃ©cret trilingue de Canope_. E.E., in-4Â°. Paris, Vieweg, 1881.
+
+GRÃBAUT.--_Hymne Ã  Amon-RÃ¢ des papyrus Ã©gyptiens du MusÃ©e de Boulaq_,
+in-8Â°. Paris, Bouillon, 1873-1874.
+
+GUIEYSSE.--_Rituel funÃ©raire Ã©gyptien, chapitre LX1V_. E.E., in-4Â°. Paris,
+Vieweg, 1875.
+
+GUIEYSSE et LEFÃBURE.--_Les Papyrus funÃ©raires de SoutimÃ¨s_, I vol. gr.
+in-fol. Paris, Leroux, 1877.
+
+REVILLOUT.--_Le Concile de NicÃ©e d'aprÃ¨s les Coptes et les diverses
+collections canoniques_, 2 vol. in-8Â°. Paris, Maison-neuve, 1881-1898.
+
+--_Actes et contrats du MusÃ©e Ã©gyptien de Boulaq et du Louvre_, E.E.,
+in-4Â°. Paris, Vieweg, 1876.
+
+--_Le Roman de Setna_, in-8Â°, Paris, Leroux, 1877.
+
+REVILLOUT.--_Rituel funÃ©raire de Pa-Month en dÃ©motique_, in-4Â°. Paris,
+Leroux, 1880-1888.
+
+--_Chrestomathie dÃ©motique_. E.K., IV, in-4Â°. Paris, Vieweg, 1880.
+
+--_Nouvelle Chrestomathie dÃ©motique_, in-4Â°. Paris, Vieweg, 1878.
+
+--_Notices des Papyrus dÃ©motiques archaÃ¯ques et autres textes juridiques
+et historiques_, in-4Â°. Paris, Maisonneuve, 1896.
+
+--*_PrÃ©cis de Droit Ã©gyptien comparÃ© aux autres droits de l'antiquitÃ©_,
+2 vol. in-8Â°. Paris, Giard et BriÃ¨re, 1903.
+
+REVILLOUT et EISENLOH.--_Corpus Papyrorum Aegypti_, in-fol. et in-4Â°.
+Paris, Leroux, 1885-1892.
+
+G. MASPERO.--_La StÃ¨le du Songe_. R.A., 1868, in-8Â°. Paris, s.d.
+
+--_Essai sur l'inscription dÃ©dicatoire du temple d'Abydos et la jeunesse
+de SÃ©sostris_, in-4Â°. Paris, Franck, 1867.
+
+--*_Hymne au Nil publiÃ© et traduit d'aprÃ¨s les deux textes du MusÃ©e
+britannique_, in-4Â°. Franck, 1809. RÃ©Ã©ditÃ© dans B.E., t. V, 1912.
+
+--_Une enquÃªte judiciaire Ã  ThÃ¨bes au temps de la XXe dynastie. Ãtudes sur
+les papyrus Abbot_, in-4Â°. Paris, Impr. Nat., 1872.
+
+--_Du genre Ã©pistolaire chez les Ãgyptiens_, in-8Â°. Paris, Franck, 1872.
+
+--_MÃ©moire sur quelques Papyrus du Louvre_ dans les _Notices et extraits
+des manuscrits du Louvre et de la BibliothÃ¨que Nationale_, in-4Â°. Paris,
+Impr. Nat., 1875.
+
+--*_Ãtudes Ã©gyptiennes_, 2 vol. in-8Â°. Paris, Impr. Nat., 1866-1890.
+
+--_Les Momies royales de Deir-el-Bahari_. M.M., t. I, fasc. IV, in-4Â°.
+Paris, Leroux, 1889.
+
+--*_Contes populaires de l'Egypte ancienne_, 1882, 4e Ã©d. in-8Â°. Paris,
+Guilmoto, 1912.
+
+--*_L'ArchÃ©ologie Ã©gyptienne_, in-8Â°. Paris, Quantin.
+
+--*_Histoire des peuples de l'Orient classique_, 3 vol. in-4Â°. Paris,
+Hachette, 1892-1900.
+
+--*_Ãtudes de mythologie et d'archÃ©ologie Ã©gyptiennes_. B.Eg. t. I, II,
+VII, VIII, XXVII, XXVIII, 7 vol. in-8Â°. Paris, Leroux, 1893-1913.
+
+--*_Les Inscriptions des pyramides de Saqqarah_, 1 vol. in-4Â°. Paris,
+Bouillon, 1894.
+
+--_MÃ©moires de Sinhouit transcrits et publiÃ©s_. B.E., t. I, in-4Â°. Le
+Caire, 1908.
+
+--_Sarcophages des Ã©poques persane et ptolÃ©maÃ¯que_, in-4Â°. Le Caire, 1908.
+
+G. MASPERO.--_Causeries d'Egypte_, in-8Â°. Paris, Guilmoto. 1910.
+
+--*_L'Ãgypte_, dans _Ars Una_, in-12. Paris, Hachette, 1912.
+
+--_Essais sur l'Art Ã©gyptien_, in-8Â°. Paris, Guilmoto, 1913.
+
+--_Ruines et Souvenirs d'Egypte_, in-8Â°. Paris, Guilmoto, 1914.
+
+--_Les Enseignements d'AmenemhaÃ¯t 1er Ã  son fils SenouasrÃ®t_. B.E., t. VI.
+Le Caire, 1914.
+
+G. MASPERO et GRÃBAUT.--_Le MusÃ©e Ã©gyptien, recueil de monuments et de
+notices sur les fouilles d'Egypte_, in-4Â°. Le Caire, 1890-1907.
+
+G. MASPERO, ROEDER, H. GAUTHIER, BLACKMAN et ZUCKER.--_Les Temples
+immergÃ©s de la Nubie_, in-4Â°. Le Caire, 1911.
+
+Maxence DE ROCHEMONTEIX.--*_Essais sur les rapports grammaticaux qui
+existent entre l'Ãgyptien et le BerbÃ¨re_.
+
+--*_Extrait des MÃ©moires du congrÃ¨s international des Orientalistes_, 1re
+session. Paris, 1873, t. II, p. 66-106. B.Eg., t. III, in-8Â°. Paris,
+Leroux, 1894.
+
+--_Edfou_, t. I, publiÃ© et continuÃ© par E. Chassinat, in-4Â°. Paris,
+Leroux, 1897.
+
+Jacques DE MORGAN, BOURIANT, LEGRAIN, JÃQUIER.--_Catalogue des monuments
+et inscriptions de l'Egypte antique_, 3 vol. in-4Â°. Vienne, Holzhausen,
+1894-1905.
+
+--_Fouilles Ã  Dashour_, 2 vol. in-4Â°. Vienne, Holzhausen, 1894-1903.
+
+--_Recherches sur les origines de l'Egypte_, t. I. _l'Age de la pierre et
+des mÃ©taux;_ II. _Ethnographie prÃ©historique et le tombeau royal de
+Negadah_, in-4Â°. Paris, Leroux, 1896-1897.
+
+AMELINEAU.--_Essai sur le Gnosticisme Ã©gyptien, ses dÃ©veloppements et son
+origine Ã©gyptienne_, in-8Â°. Paris, Leroux, 1887.
+
+--_Les Moines Ã©gyptiens. Vie de Schnoudi_, in-12. Paris, Leroux, 1889.
+
+--_La GÃ©ographie de l'Ãgypte copte_, in-4Â°. Paris, Impr. Nat., 1893.
+
+--_Histoire des monastÃ¨res de la basse Egypte, texte copte et traduction
+franÃ§aise_. A.M.G., t. XXV, in-4Â°. Paris, Leroux, 1894.
+
+--_Les nouvelles fouilles d'Abydos. Campagne de 1895-1896 et campagne de
+1897-1898_, 4 vol. in-4Â°. Paris, Leroux, 1899-1904.
+
+Urbain BOURIANT.--_Deux jours de fouilles Ã  Tell-el-Amarna._
+
+--_Les Papyrus d'Akhmin_.
+
+--_Rapport sur une mission en haute Ãgypte, 1884-1885_. M.M., t. I, in-4Â°.
+Paris, Leroux, 1889.
+
+Urbain SOURIANT et LORET.--_Le Tombeau, de SÃ©ti 1er_. M.M., t. II, in-4Â°.
+Paris, Leroux, 1886.
+
+Urbain BOURIANT.--_Actes du Concile d'ÃphÃ¨se, texte copie et traduction_.
+Ibid., t. VIII, in-4Â°. Paris, 1892.
+
+BOURIANT, LEGRAIN et JÃQUIER.--_Monuments pour servir Ã  l'histoire du
+culte d'Atonou_, in-4Â°. Le Caire, 1903.
+
+Victor LORET.--_Quelques documents relatifs Ã  la Musique et Ã  la
+LittÃ©rature populaire de la haute Ãgypte_. M.M., t. I, in-4Â°. Paris,
+Leroux, 1889.
+
+--_La Flore pharaonique_, in-8Â°. Paris, Leroux, 1892.
+
+--_Manuel de la langue Ã©gyptienne: grammaire, tableau des hiÃ©roglyphes,
+textes, glossaire_, gr. in-8Â°. Paris, Leroux, 1889.
+
+Dominique MALLET.--_Le Culte de NÃ©ith Ã  SaÃ¯s_, in-8Â°. Paris, Leroux, 1888.
+
+--_Les premiers Ãtablissements des Grecs en Ãgypte_. M.M., t. XII, in-4Â°.
+Paris, Leroux, 1893.
+
+Albert GAYET.--*_Le Temple de Louxor_. M.M., t. XV, in-4Â°. Paris, Leroux,
+1804.
+
+--_Exploration des ruines d'AntinoÃ©_. A.M.G., t. XXVIe, XXXe. Paris,
+Leroux, 1899-1902.
+
+Philippe VIREY.--_Ãtudes sur le papyrus Prisse_. Paris, Bouillon, 1886.
+
+--_Ãtude sur un parchemin rapportÃ© de ThÃ¨bes_. M.M., t. I, in-4Â°. Paris,
+Leroux, 1889.
+
+--_Le Tombeau de RekhmarÃ¢_. M.M., V1, 1889.
+
+--*_La Religion de l'ancienne Ãgypte_, in-12. Paris, Beauchesne,
+  1910.
+
+Georges DARESSY.--_La grande Colonnade du temple de Louqsor_, in-4Â°.
+Paris, Leroux, 1874.
+
+--_Notice explicative des ruines du temple de Louqsor_. Le Caire, Impr.
+Nat., 1893.
+
+--_Notice explicative des ruines de MÃ©dinet-Habou_. Le Caire, Impr. Nat.,
+1897.
+
+--_Le Mastaba de Mera_. MÃ©moire prÃ©sentÃ© Ã  l'Institut Ã©gyptien, t. III,
+fasc. VI, in-4Â°. Le Caire, 1898.
+
+--_Ostraca_. C.G., in-4Â°. Le Caire, 1901.
+
+--_Textes et dessins magiques_, in-4Â°. Le Caire, 1903.
+
+--_Statues et divinitÃ©s Ã©gyptiennes_, 2 vol. in-4Â°. Le Caire, 1905-1910.
+
+--_Cercueils des cachettes royales_, in-4Â°. Le Caire, 1909.
+
+Georges BÃNÃDITE.--_Le Tombeau de Thiti_.--_Le Tombeau de Neferhotpou_.
+M.M., t. V, in-4Â°. Paris, Leroux, 1891.
+
+--_La PÃ©ninsule sinaÃ¯tique_, in-16. Paris, Hachette, 1891.
+
+--_Le Temple de Philoe_. M.M., t. XIII, in-4Â°. Paris, Leroux,
+  1895.
+
+--*_MÃ©moires d'archÃ©ologie Ã©gyptienne_. M.P., t. II Ã  XIX, in-4Â°. Paris,
+Leroux, 1895-1911.
+
+--_Objets de toilette_. C.G., 2 vol, in-4Â°. Le Caire, Impr. de l'Inst.
+franÃ§ais, 1911.
+
+--_Miroirs_. C.G., in-4Â°. Le Caire.
+
+Emile CHASSINAT.--_Le Mammisi d'Edfou_, in-4Â°. Le Caire, 1910.
+
+Emile CHASSINAT, H. PIÃRON et H. GAUTHIER.--_Fouilles d'El-Qattah_. Ibid.,
+t. XIV, in-4Â°. Le Caire, 1906.
+
+--_La seconde trouvaille des grands prÃªtres d'Amande la XXIe dynastie_.
+C.G., in-4Â°. Le Caire, 1909.
+
+--_Fouilles de BaouÃ®t_. Le Caire, 1911.
+
+Georges LEGRAIN.--_Statues et statuettes de rois et de particuliers_,
+in-4Â°. Le Caire, 1906 ss.
+
+--_RÃ©pertoire gÃ©nÃ©alogique et onomastique du MusÃ©e du Caire. Monuments de
+la XVIIe et XVIIIe dynasties_, in-4Â°. GenÃ¨ve, 1908.
+
+Georges LEGRAIN et NAVILLE.--_L'Aile droite du pylÃ´ne d'AmÃ©nophis III Ã 
+Karnak_. A.M.G., t. XXX, in-4Â°. Paris, Leroux, 1902.
+
+Alexandre MORET.--*_Le CaractÃ¨re religieux de la monarchie pharaonique_,
+in-8Â°. Paris, Leroux, 1902.
+
+--_Le Rituel du culte divin journalier en Ãgypte_, in-8Â°. Paris, Leroux,
+1902.
+
+--_Au temps des Pharaons_, in-12. Paris, Colin, 1908.
+
+--_Charte d'immunitÃ© dans l'ancien Empire Ã©gyptien_. 1re partie, in-8Â°.
+Paris, Impr. Nat., 1912.
+
+--_Sarcophages de l'Ã©poque Bubastite Ã  l'Ã©poque SaÃ¯te_. Le Caire, 1912 ss.
+
+Georges FOUCART.--_L'Ordre lotiforme. Ãtude d'archÃ©ologie Ã©gyptienne_,
+in-4Â°. Paris, Leroux, 1897.
+
+--*_Histoire des religions et mÃ©thode comparative_, 2e Ã©dition. Paris,
+Picard, 1913.
+
+Pierre LACAU.--_Fragments d'apocryphes coptes_. M.I., t. IX, in-4Â°. Le
+Caire, 1904.
+
+Pierre LACAU.--_Sarcophages antÃ©rieurs au Nouvel Empire._ C.G., 2 vol.
+in-4Â°. Le Caire, 1903 et suiv.
+
+--_StÃ¨les du Nouvel Empire_. C.G., in-4Â°. Le Caire, 1909.
+
+--_Notes de grammaire Ã  propos de la grammaire Ã©gyptienne de M. Erman_.
+R.T., XXXV, 1913.
+
+Capitaine R. WEILL.--*_L'Art de la fortification dans la haute antiquitÃ©
+Ã©gyptienne_. Extrait du _Journal Asiatique_. in-8Â°. Paris, Leroux, 1900.
+
+--_La presqu'Ã®le du SinaÃ¯. Ãtude de gÃ©ographie et d'histoire_, in-8Â°.
+Paris, Champion, 1908.
+
+--_DÃ©crets royaux de l'ancien Empire Ã©gyptien; Ã©tude sur les dÃ©crets
+royaux trouvÃ©s Ã  Coptos et sur les documents similaires d'autre
+provenance_, in-4Â°. Paris, Geuthner, 1911.
+
+--_Les Origines de l'Ãgypte pharaonique_. 1re partie, _La IIe et IIIe
+dynasties_, in-4Â°. Paris, Leroux, 1908.
+
+Henri GAUTHIER.--*_Le Livre des Rois d'Ãgypte. Recueil de titres et
+protocoles royaux_. M.I., t. XVII, in-4Â°. Le Caire, 1908.
+
+--_La grande inscription dÃ©dicatoire du temple d'Abydos_. B.E., IV, Ã®n-4Â°.
+Le Caire, 1912.
+
+--_Cercueils anthropoÃ¯des des prÃªtres de Montou_, in-4Â°. Le Caire, 1912.
+
+Jules BAILLET.--_Introduction Ã  l'Ã©tude des idÃ©es morales dans l'Egypte
+antique_. Blois, 1912.
+
+Jean CLÃDAT.--_MonastÃ¨re et nÃ©cropole de BaouÃ®t_. M.I., in-4Â°. Le Caire,
+1906.
+
+Jean LESQUIER.--_Grammaire Ã©gyptienne d'aprÃ¨s A. Erman._ B. E., vol. VII.
+Le Caire, 1914.
+
+Henri SOTTAS.--*_La PrÃ©servation de la propriÃ©tÃ© funÃ©raire dans l'ancienne
+Ãgypte_, in-8Â°. Paris, Champion, 1913.
+
+J. MASPERO et G. WIET.--*_MatÃ©riaux pour servir Ã  la gÃ©ographie de
+l'Ãgypte_, 1re sÃ©r., 1er fasc. M.L., in-4Â°. Le Caire, 1914.
+
+
+
+
+COLLECTIONS ET PÃRIODIQUES
+
+*_BibliothÃ¨que Ã©gyptologique comprenant les oeuvres des Ãgyptologues
+franÃ§ais...,_ publiÃ©e sous la direction de G. Maspero, 35 vol. in-8Â° parus
+de 1892 Ã  1914, in-8Â°. Paris, Leroux.
+
+*_Publications de l'Institut franÃ§ais d'archÃ©ologie orientale.
+BibliothÃ¨que d'Ãtude_. Le Caire.
+
+*_MÃ©moires publiÃ©s par les membres de la mission archÃ©ologique franÃ§aise
+au Caire_ de 1889 Ã  1895, in-4Â°. Paris, Leroux.
+
+*_MÃ©moires publiÃ©s par les membres de l'Institut franÃ§ais d'archÃ©ologie
+orientale_, in-4Â°. Le Caire, 1912-1914.
+
+_MÃ©langes d'archÃ©ologie Ã©gyptienne et assyrienne_, in-fol. Imprimerie
+Nationale, 1873-1876.
+
+*_Revue Ã©gyptologique_, publiÃ©e depuis 1880, in-4Â°. Paris, Leroux.
+
+*_Recueil des Travaux relatifs Ã  la philologie et Ã  l'archÃ©ologie
+Ã©gyptiennes et assyriennes_, publiÃ© depuis 1870, in-4Â°. Paris, Champion.
+
+--*_Bulletin de l'Institut franÃ§ais d'archÃ©ologie orientale_, publiÃ©
+depuis 1901.
+
+[Note: Les ouvrages marquÃ©s d'un astÃ©risque sont ceux qui figurent, en
+totalitÃ© ou en partie, dans la BibliothÃ¨que de la Science franÃ§aise, Ã 
+l'Exposition de San Francisco.]
+
+
+
+
+
+End of the Project Gutenberg EBook of L'egyptologie, by Gaston Maspero
+
+*** END OF THE PROJECT GUTENBERG EBOOK 10768 ***

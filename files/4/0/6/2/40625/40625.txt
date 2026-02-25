@@ -1,3 +1,992 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f32a84ac6116f04d43021a0c52fc416c0e25d7ea855f410a0f306ca3c6f1ac2e
-size 52517
+*** START OF THE PROJECT GUTENBERG EBOOK 40625 ***
+
+     SOLILOQUES SCEPTIQUES
+
+
+
+
+[Illustration]
+
+
+
+
+    SOLILOQUES SCEPTIQUES
+
+    par
+
+    LA MOTHE LE VAYER,
+
+    _RÃ©imprimÃ© sur l'Ã©dition unique de 1670_
+
+    [Illustration: SCIENTIA DUCE]
+
+    PARIS
+
+    _Isidore LISEUX, 5, Rue Scribe_
+
+    _1875_
+
+
+
+
+Ce petit ouvrage ne se trouve pas dans les collections des Oeuvres de
+La Mothe Le Vayer, notamment dans celle de 1669 (15 vol. in-12); il ne
+fut publiÃ© que l'annÃ©e suivante[1], en mÃªme temps que l'_HexamÃ©ron
+rustique_, Ã©galement exclu de ces collections. L'auteur avait alors 82
+ans.
+
+C'Ã©tait un sage Ã  la maniÃ¨re antique, et nous ne pouvions mieux choisir
+que ces pages pour donner une idÃ©e de sa philosophie. Elles montrent
+comment le scepticisme absolu en toutes matiÃ¨res, religions, morale,
+esthÃ©tique, histoire, se concilie aisÃ©ment avec la soumission aux
+mystÃ¨res du Christianisme. Il n'y a, pour cela, qu'Ã  Ãªtre de son temps
+et de son pays. On a un salon rempli d'idoles en or, en marbre, en
+plÃ¢tre: au milieu, ce Â«grand Dieu penduÂ» dont parle Bossuet. LivrÃ© aux
+seules lumiÃ¨res de la science, on hÃ©site: l'embarras est grand, le choix
+difficile; mais, encore une fois, on est de son Ã©poque, et l'on se fait
+pardonner ses doutes en dÃ©clarant, avec Saint Paul, qu'on ne sait rien,
+Â«sinon JÃ©sus-Christ crucifiÃ©Â»[2].
+
+Ainsi l'on vit, tranquille et honorÃ©, l'espace de quatre-vingt-quatre
+ans; ainsi l'on est prÃ©cepteur de Louis XIV, et, plus heureux que
+certain philosophe de nos jours, on a pour collÃ¨gues Ã  l'AcadÃ©mie
+FranÃ§aise des Ã©vÃªques, Bossuet lui-mÃªme, qui ne s'offensent pas de
+collaborer avec vous Ã  un dictionnaire, parce que vous avez l'audace de
+penser et d'Ã©crire librement.
+
+    I. L.
+
+
+
+
+[DÃ©coration]
+
+_AU LECTEUR_
+
+
+_Ne vous estonnez pas que je me serve du mot de Soliloques, peu connu
+dans nostre langue; il ne l'est guÃ¨res davantage dans la Latine oÃ¹ Saint
+Augustin l'a emploiÃ©; et tous ceux qui ont traduit ses oeuvres en
+FranÃ§ois, n'ont pas fait difficultÃ© de le retenir: c'est un entretien
+secret avec soi-mesme, qui respond aucunement aux Ã  parte si frÃ©quens
+sur le ThÃ©Ã¢tre des Italiens, et que le nostre, aussi bien que celui des
+Espagnols, et des Anglais, n'ont pas rejettÃ©. Je sÃ§ai bien qu'on les a
+condamnez comme ridicules, veu le peu d'apparence qui se trouve Ã 
+prÃ©supposer, qu'un Acteur puisse prononcer tout bas, sans estre entendu
+de celui qui n'est qu'Ã  deux pas de lui, ce que tous les Auditeurs du
+parterre, pour esloignez qu'ils soient, doivent entendre. Mais puisque
+tout ce que les ThÃ©Ã¢tres des Grecs et des Latins ont representÃ©, aussi
+bien que les nostres par imitation, n'est que fable, et une pure
+imposition ou mensonge; pourquoi n'admettra-t-on pas une chose de si peu
+de consÃ©quence, Ã  cause qu'elle n'est pas vraisemblable? On oblige bien
+les Spectateurs Ã  prendre un chasteau de carte pour l'Acrocorinthe, ou
+quelque autre forteresse semblable; et un petit coin du lieu oÃ¹ se joue
+la ComÃ©die, pour tout le paÃ¯s Attique. Pourquoi, encore un coup,
+feraient-ils difficultÃ© de se laisser tromper par un_ Ã  parte,
+_prononcÃ© d'une voix contrainte, comme l'on fait, nonobstant que cela
+choque les sens, de la faÃ§on que nous l'avons remarquÃ©? En vÃ©ritÃ©
+l'apparence est moindre, et le raisonnement se trouve beaucoup plus
+offensÃ© aux premiÃ¨res tromperies, et autres pareilles dont le ThÃ©Ã¢tre
+est continuellement rempli, qu'aux Ã  parte qui sont rares, et qui ne
+durent qu'un moment. J'ai assez d'annÃ©es pour escrire qu'autrefois ces
+faÃ§ons de parler estoient en usage:_ j'ai dit Ã  part-moi, _et_ il a dit
+Ã  part-soi, _dont l'on ne se sert plus, et qui respondent aux Ã  parte
+des Italiens. Mais pour revenir aux Soliloques, il ne s'est pas trouvÃ©
+moins de personnes qui les ont voulu gÃ©nÃ©ralement censurer, que de
+celles dont nous venons de parler qui ont condamnÃ© les Ã  parte; et les
+Italiens mesme, nonobstant la pratique de leur ThÃ©Ã¢tre, n'ont pas laissÃ©
+de prononcer en commun proverbe_ il parlar solo, Ã¨ da pazzo, _comme s'il
+n'y avait que des fous qui parlassent Ã  eux-mesmes. Si est-ce que
+l'exemple des Pythagoriciens dans leurs entretiens secrets, et leur
+examen journalier de conscience, que SÃ©nÃ¨que pratiquoit tout les soirs Ã 
+leur exemple, me font estre d'un avis bien diffÃ©rent. Ce grand
+PrÃ©cepteur de la Morale de son siÃ¨cle nous reprÃ©sente dans le sixiÃ¨me
+livre de la CholÃ¨re, qu'il addresse Ã  Novatus, au chapitre
+trente-sixiÃ¨me, comme Ã  l'exemple du Philosophe Sextius, il
+s'interrogeoit lui-mesme tous les soirs, et s'addressant Ã  son Ã¢me, lui
+demandoit compte de ce qui s'estoit passÃ© durant la journÃ©e:_ quotidie,
+_dit-il_, apud me causam dico; _repassant sur ses fautes dans le secret
+du lict, que sa femme Pauline faite Ã  ce mystÃ¨re ne troubloit jamais: il
+ne se les pardonnoit qu'Ã  la charge de n'y plus retomber, et se
+prononÃ§oit, en forme de jugement, ces propres termes:_ Vide ne istud
+amplius facias, nunc tibi ignosco. _De tels Soliloques, et ceux du
+Docteur de la GrÃ¢ce, m'empescheront bien de les condamner, comme
+plusieurs ont fait. Mais puisqu'il n'y a rien de plus naturel, ni aussi
+de plus ordinaire aux hommes, que de se tromper, pardonnons aux autres
+leurs erreurs, afin qu'on excuse les nostres._
+
+
+
+
+[DÃ©coration]
+
+SOLILOQUES _SCEPTIQUES_
+
+
+PREMIER SOLILOQUE
+
+
+Le plus important prÃ©cepte de la science, est de sÃ§avoir qu'il y a des
+choses qui ne mÃ©ritent pas d'estre sceues; ce que Quintilien a dit
+particuliÃ¨rement de quelques notions grammaticales. Mais il y en a
+d'autres qu'on peut dire estre absolument hors de la portÃ©e de nostre
+esprit, qui est trop profondÃ©ment plongÃ© dans la matiÃ¨re, pour bien
+reconnoistre ce qui en est dÃ©gagÃ©. Cependant c'est une des principales,
+et des plus ordinaires maladies de l'homme, d'estre travaillÃ© d'une
+curiositÃ© inquiÃ¨te pour des choses qu'il ne peut sÃ§avoir, et qu'il lui
+est vraisemblablement plus avantageux d'ignorer, que d'en prendre
+connoissance, puisque Dieu a limitÃ© la sphÃ¨re d'activitÃ© de son Ã¢me, qui
+ne peut pas pÃ©nÃ©trer jusques-lÃ . Ainsi l'on peut soustenir que c'est une
+espÃ¨ce d'intempÃ©rance trÃ¨s-pernicieuse, de vouloir sÃ§avoir plus qu'il ne
+faut, et que le Ciel ne nous le permet, _plus velle scire quant sit
+satis, intemperantiÃ¦ genus est_, comme un Payen mesme l'a reconnu. Saint
+Augustin rapporte au septiÃ¨me livre de la _CitÃ© de Dieu_ la mesme pensÃ©e
+expliquÃ©e par Varron en termes diffÃ©rens, quand ce sÃ§avant Romain
+dÃ©clare que s'il parle des choses Divines, c'est Ã  la faÃ§on de
+XÃ©nophanes Colophonien, qui protestoit que ce qu'il en escrivoit,
+n'estoit pas pour le faire passer comme une chose certaine, mais
+seulement comme une pensÃ©e douteuse qu'il en avoit; l'homme ne pouvant
+possÃ©der lÃ -dessus que des opinions incertaines, parce que la
+connoissance asseurÃ©e en est rÃ©servÃ©e Ã  Dieu seul. _Quid putem, non quid
+contendam, ponam; hominis enim est hÃ¦c opinari, Dei scire._ Cela me fait
+remarquer avec estime la prudence du Mofti des Turcs, qui est Ã  peu prÃ¨s
+parmi eux, et dans leur Religion, ce qu'est parmi nous le souverain
+Pontife. Il ne rend jamais de jugement sur ce qui lui est proposÃ©, et ne
+prononce point sa sentence, qui s'appelle en sa langue _Festa_, sans
+adjouter Ã  la fin: _Dieu le sÃ§ait mieux_. Certes, tout bien considÃ©rÃ©,
+je me confirme dans cette doctrine, que hors les vÃ©ritez rÃ©vÃ©lÃ©es
+d'en-haut, et que la vraie Religion nous enseigne, l'on peut sans crime
+demeurer irrÃ©solu, et sans rien dÃ©terminer sur tout le reste. Je vois
+tous les hommes ainsi faits, qu'ils se moquent, en suivant leurs
+fantaisies, les uns des autres, au mesme tems qu'ils pensent tous avoir
+raison. Mais pour moi, je ne veux pas me laisser emporter par le torrent
+de la multitude. _Non posso accommodarmi a cantare, e far concerto, con
+quasi tutti gli altri huomini, il questo particulare_, comme parle cet
+Italien.
+
+
+
+
+SECOND SOLILOQUE
+
+
+J'avoue que le dÃ©sir d'apprendre et de sÃ§avoir est naturel Ã  l'homme,
+_omnes homines scire desiderant_, dit le maistre de l'Eschole. Mais
+j'adjouste Ã  cet axiÃ´me, que ce mesme dÃ©sir ne nous distingue pas moins
+des autres animaux, que la raison, dont nous faisons nostre prÃ©ciput;
+lorsque nous les nommons tous desraisonnables, comme s'il n'y avoit que
+l'homme qui sceust bien discourir, et tirer de bonnes et raisonnables
+consÃ©quences. Si est-ce que ceux qui ont pris la pene d'observer ces
+mesmes animaux, ont apperceu en beaucoup d'entre eux des estincelles
+d'une raison que nous avons voulu nommer imparfaite, bien que Galien, et
+assez d'autres Philosophes n'aient pas fait difficultÃ© de prononcer,
+qu'elle ne diffÃ¨re de la nostre que selon le plus et le moins, qui par
+la doctrine des CollÃ©ges ne change point l'espÃ¨ce, _plus et minus non
+mutant speciem_. Il n'en est pas de mesme de ce dÃ©sir ardent de
+s'instruire, tout particulier Ã  l'homme; sans qu'il se remarque aucun
+vÃ©ritable signe d'une pareille envie aux animaux. Au lieu donc de
+dÃ©finir l'homme un animal raisonnable, je trouverois moins
+d'inconvÃ©nient Ã  le nommer un animal dÃ©sireux de sÃ§avoir, et je
+penserois former par ces termes une plus juste dÃ©finition. Mais si la
+Nature n'imprime point dans nos Ã¢mes de vains dÃ©sirs, et qui ne puissent
+rÃ©ussir, comme quelques-uns l'ont soustenu, il s'ensuivroit que la
+science nous seroit comme naturelle, et que nous pourrions tous
+l'acquÃ©rir; ce qui n'est peut-estre pas vrai, l'ignorance, selon
+beaucoup des plus ingÃ©nus Philosophes, paroissant estre bien plutost de
+l'appennage de nostre humanitÃ©, que la science, comme je m'en suis
+souvent assez expliquÃ© ailleurs. En vÃ©ritÃ©, si nous y prenons garde de
+prÃ¨s, et si nous voulons reconnoistre franchement ce qui en est,
+l'homme n'est pas capable de sÃ§avoir la raison d'autre chose, que de ce
+qu'il exÃ©cute Ã  sa mode, ni comprendre d'autres sciences, que celles
+dont il fait soi-mesme les principes; ce qui se peut facilement prouver
+en considÃ©rant de bonne sorte les MathÃ©matiques. O la belle maxime
+d'Ãtat, qui fait, ce semble, subsister cette grande Monarchie de
+Moscovie! d'estre dans l'ignorance de ce que nous appellons les belles
+lettres, selon que toutes les relations qui en parlent le font voir.
+Hors ce que l'auteur de nostre estre nous a rÃ©vÃ©lÃ©, et que la Foi
+ChrÃ©tienne nous oblige de tenir pour trÃ¨s-certain, il n'y a rien que
+l'esprit humain ne rende douteux et problÃ©matique. C'est ce qui a fait
+dire si excellemment Ã  Saint Paul Ã©crivant aux Corinthiens[3], qu'il ne
+sÃ§avoit rien sinon JÃSUS-CHRIST crucifiÃ©.
+
+
+
+
+TROISIÃME SOLILOQUE
+
+
+Je ne puis que je n'approuve beaucoup l'interprÃ©tation mystÃ©rieuse de
+quelques PÃ¨res, qui ont pris ce que rapporte EzÃ©chiel de certaines eaux
+qu'on passe aisÃ©ment lorsqu'on n'en a que jusques aux talons, et mesme
+que jusques aux genous et jusques aux reins; mais qu'il n'est pas
+possible de traverser sans se perdre, si l'on pense pÃ©nÃ©trer plus avant.
+Ils croient que le ProphÃ¨te veut signifier ce qui arrive aux personnes
+curieuses et tÃ©mÃ©raires, qui peuvent bien prendre quelque connoissance
+d'abord des choses humaines, et mesme pÃ©nÃ©trer jusques Ã  de certaines
+petites notions des Divines; mais qui se perdent indubitablement, s'ils
+pensent aller plus avant, et s'informer Ã©galement de celles que Dieu a
+mises au-dessus de la capacitÃ© de nostre esprit, _hÃ¦c nos Deus mirari
+voluit, scire noluit_. C'est-lÃ  qu'il faut dire ce que les Turcs
+prononcent sur tout ce qui leur paroist douteux, _Allah bilut_, Dieu le
+sÃ§ait. Nostre raison qui nous rend si glorieux, est enfin contrainte
+d'avouer dans sa plus haute Ã©lÃ©vation, qu'il y a une infinitÃ© de choses
+qui la surpassent, et qu'il n'y a rien de si conforme Ã  elle-mesme, si
+elle est juste et bien rÃ©glÃ©e, que de dÃ©savouer ses plus subtils
+discours en tout ce qui concerne la Foi, oÃ¹ elle ne sÃ§auroit trop
+s'humilier, ni trop reconnoistre sa foiblesse, ou, pour mieux dire, son
+aveuglement. Certes, Saint Augustin a eu grand sujet d'escrire dans la
+_CitÃ© de Dieu_, qu'Ã  l'Ã©gard de la Morale mesme, il valoit beaucoup
+mieux tenir ses prÃ©ceptes de la Foi, que de nostre raison humaine, qui
+varie sans cesse, et qui n'est constante que dans son inconstance. Elle
+ne peut faire ses opÃ©rations, qu'elle ne s'appuie sur ce que nos sens
+lui suggÃ¨rent; et nous sommes enfin contraints d'avouer que ces mesmes
+sens, et nostre raison, s'entre-abusent Ã  qui mieux mieux. En
+voulez-vous une plus forte preuve, que de considÃ©rer comme ce qui est
+juste et approuvÃ© en France, est rÃ©putÃ© mauvais et improuvÃ©, je ne dirai
+pas, Ã  la Chine, ni au Japon, mais parmi nos plus proches voisins?
+Estrange et ridicule Morale, que les Alpes et les PyrÃ©nÃ©es diversifient,
+ou un filet d'eau, tel que celui qui nous sÃ©pare de l'Angleterre, et
+celui qui divise l'Espagne d'une Province d'Afrique qui lui est
+opposÃ©e!
+
+
+
+
+QUATRIÃME SOLILOQUE
+
+
+Il n'y a personne qui ne ressente je ne sÃ§ai quoi de pÃ©nible dans son
+esprit, lorsqu'il commence Ã  raisonner sur les choses du Ciel, oÃ¹ il ne
+trouve pas que sa Logique et ses principes s'accordent avec ce qu'il
+avoit receu pour bon aveuglement jusques-lÃ , sans rien examiner. Horace
+exprime cela dans une de ses Odes[4] en ces termes:
+
+    _Parcus Deorum cultor et infrequens,
+    Insanientis dum sapientiÃ¦
+      Consultus erro, nunc retrorsum
+        Vela dare, atque iterare cursus
+    Cogor relictos._
+
+La secte de DÃ©mocrite, la CyrÃ©naÃ¯que, et celle d'Ãpicure, lui avoient
+donnÃ© de mauvaises opinions de la Providence, comme si les choses
+d'ici-bas estoient indiffÃ©rentes Ã  Dieu, parce qu'elles paroissoient Ã 
+ces philosophes indignes de son occupation. La syndÃ©rÃ¨se et un remors de
+conscience fait qu'Horace nomme Ã  bon droit cette pensÃ©e _insanientem
+sapientiam_, une folle sagesse. Et LucrÃ¨ce, plus ancien que lui,
+apprÃ©hendoit de parler mal des choses divines, sur ces mesmes fondemens
+contraires Ã  toute sorte de Religions: ce qui lui fait dire Ã  son
+Lecteur:
+
+    _Illud in his rebus vereor ne forte rearis
+    Impia te rationis inire elementa, viamque
+    Endogredi sceleris._
+
+Tout le monde est touchÃ© de cette crainte, si Dieu ne l'a tout-Ã -fait
+abandonnÃ© Ã  un sens reprouvÃ©. Il n'y a que la Foi qui, dans la vraie
+Religion, nous empesche de dÃ©fÃ©rer aux tentations que l'ennemi de
+nostre repos et de nostre salut nous suggÃ¨re sur ce qui regarde le Ciel.
+Il a bientost sÃ©duit les plus grossiers, parce que, selon le mot de
+l'EcclÃ©siastique, les simples se rendent aux premiÃ¨res apparences
+trompeuses d'un dangereux discours, et sont aussi faciles Ã  persuader,
+qu'un enfant est aisÃ©ment fait pleurer: _a facie verbi parturit fatuus,
+tanquam gemitus partus infantis_. Certes l'on se doit bien garder de
+soumettre les vÃ©ritez constantes de la vraie Religion, qui nous ont estÃ©
+rÃ©vÃ©lÃ©es d'en-haut, au raisonnement humain, parce que si vous pensez
+accommoder la foi au discours qu'on peut former sur ce qu'elle enseigne,
+chacun prÃ©tendra avoir droit d'en penser Ã  sa mode, n'y aiant rien de si
+divers que l'esprit de l'homme; et ainsi cette foi ne sera plus une
+comme elle doit estre. Il faut avaler sans mascher ce qu'elle prescrit,
+comme une mÃ©decine salutaire qui guÃ©rit au dedans si on ne la rejette
+point, ce qui arrive Ã  ceux qui la veulent trop savourer. Si vous voulez
+l'accorder de tout point avec les sciences humaines, vous la ruinez
+absolument, parce que selon le mot de l'Eschole, _posita scientia
+tollitur fides, sicut posita fruitione tollitur spes_. En effet on ne
+croit pas les choses qu'on sÃ§ait, ce qui donna lieu Ã  Pomponace de se
+dÃ©livrer des mains de l'Inquisition oÃ¹ il estoit, pour avoir dit
+nettement dans sa chaire de Professeur en Philosophie, qu'il ne croioit
+pas l'immortalitÃ© de l'Ã¢me. Ne pouvant pas nier d'avoir ainsi parlÃ©, Ã 
+cause qu'on lui produisoit des tesmoins irrÃ©prochables, il s'avisa
+d'interprÃ©ter son dire en l'avouant, avec cette solution, qu'il sÃ§avoit
+et enseignoit dÃ©monstrativement que nos Ã¢mes estoient immortelles; ce
+qui faisoit qu'il ne tenoit pas cela de la foi, par cette raison
+d'Albert le Grand, emploiÃ©e mesme par lui contre Augustinus Niphus[5],
+_quod credita cum scitis non conveniunt, et principia fidei cum
+principiis naturalibus_. Un serviteur nommÃ© Chalinus se sert de cette
+raison dans la _Cassine_ de Plaute[6], avec ces propres termes: _At pol
+ego haud credo, sed certo scio_; voulant dire qu'on ne croit pas les
+choses que l'on sÃ§ait. Aussi y a-t-il grande diffÃ©rence entre sÃ§avoir,
+et croire, selon que Saint-Thomas dÃ©finit ce dernier: _Credere est actus
+intellectus assentientis divinÃ¦ voluntati, ex imperio voluntatis a Deo
+motÃ¦ per gratiam_. La foi donc qui rÃ¨gle nostre crÃ©ance, est tout
+autrement seure que la science humaine, oÃ¹ tout est incertain; d'oÃ¹
+vient la dÃ©termination du Concile de NicÃ©e[7], _Dubius in fide,
+infidelis est_. On ne sÃ§auroit sans crime suspendre tant soit peu sa
+crÃ©ance en ce qui touche la foi, ni rÃ©voquer en doute le moindre de ses
+articles sans pÃ©cher.
+
+
+
+
+CINQUIÃME SOLILOQUE
+
+
+Mais n'est-il point Ã  craindre, qu'establissant ainsi le doute partout,
+exceptÃ© aux choses qui regardent nostre salut, et qui nous ont estÃ©
+rÃ©vÃ©lÃ©es d'en-haut selon que l'Ãglise nous l'enseigne, toute la sociÃ©tÃ©
+civile n'en souffre beaucoup, parce que ne restant plus rien au surplus
+dans la nature que de problÃ©matique parmi les hommes, selon que leur
+esprit est ingÃ©nieux Ã  dÃ©fendre opiniastrÃ©ment ce qu'il s'est une fois
+imaginÃ©, ils vivront dans des contestations perpÃ©tuelles? Car personne
+n'ignore le mot de Protagore, que tout peut estre disputÃ©, _de omni re
+in utramque partem disputari posse ex Ã¦quo, et de hac ipsa, an omnis res
+in utramque partem disputabilis sit_. Combien de grands personnages y
+a-t-il eu, que SÃ©nÃ¨que nomme dans une de ses Ãpistres[8], qui ont estÃ©
+du mesme sentiment, Nausiphane, ParmÃ©nide, ZÃ©non Ãlate, avec une
+infinitÃ© de sectes entiÃ¨res qu'il cite, dont l'Eschole prÃ©supposoit le
+mesme sentiment. Si l'on dit que Platon, et assez d'autres excellens
+Philosophes ont estÃ© d'une opinion contraire, c'est ce qui peut donner
+le plus d'inquiÃ©tude, s'il est soustenable qu'on doive croire chacun en
+son art, puisqu'ils ont estÃ© tous d'une mesme profession, qui alloit Ã 
+rechercher curieusement la vÃ©ritÃ©. Outre cela Aristote, le plus grand
+Dogmatique de tous, et le plus affirmatif, nie cette proposition au
+troisieme livre de ses _Politiques_, chapitre onziÃ¨me, oÃ¹ il establit
+pour constant, qu'en toute sorte d'arts, ceux qui les ignorent, jugent
+mieux de ce que ces mesmes arts produisent, que les meilleurs Artisans
+qui travaillent avec toute sorte d'industrie. Ainsi, dit-il, un pÃ¨re de
+famille juge avec plus de discernement de la disposition commode d'une
+maison, que son Architecte. Un Pilote reconnoist mieux si le gouvernail
+de son vaisseau est bien fabriquÃ©, que celui qui l'a fait. Et les
+convives dans un festin portent meilleur jugement de l'apprest des
+viandes qui s'y trouvent, que le Cuisinier qui les a assaisonnÃ©es. Il
+passe jusques-lÃ  que les Musiciens, ni les PoÃ«tes ne sont pas les plus
+capables juges de leurs ouvrages. Ne tenons donc pas pour indubitable,
+que chacun doive toujours estre cru, et prononcer dÃ©finitivement dans sa
+profession.
+
+
+
+
+SIXIÃME SOLILOQUE
+
+
+L'opinion a estÃ© fort bien nommÃ©e par HÃ©raclite [Grec: hieran noson],
+_sacrum morbum_; c'est une maladie populaire, une Ã©pilepsie qui mÃ©rite
+ce nom, puisqu'elle occupe et infecte la plus noble et la plus sacrÃ©e
+partie de l'homme, qui est l'Ã¢me, _quod sanctissimam hominis partem, hoc
+est, animÃ¦ rationalis domicilium prÃ¦cipue infestet_. Elle le fait avec
+tant d'attachement et de fermetÃ©, qu'elle a donnÃ© lieu au mot
+d'OpiniastretÃ©, qui est un mal d'obstination presque insurmontable. Mais
+il ne faut pas croire, que sous cette appellation de peuple, il n'y ait
+que la plus vile partie des Communautez de comprise. Le vulgaire,
+puisqu'on se sert encore de ce terme pour dÃ©signer des gens de la plus
+basse estoffe, est souvent toute autre chose que ce que l'on pense. La
+pourpre, et le cordon bleu, en font parfois partie, quoique ceux qui
+s'en parent indignement, se croient estre beaucoup au dessus. Tant y a
+que quand la pluspart du monde a une fois Ã©pousÃ© une opinion, pour
+absurde qu'elle soit, et que parlant comme l'on fait au delÃ  des Alpes,
+_il Mondo Ã¨ infinocchiato d'una opinione_, sa faussetÃ© ne la fait guÃ¨res
+quiter; au contraire l'on se roidit souvent d'autant plus Ã  la
+maintenir, qu'elle est desraisonnable et absolument opposÃ©e Ã  la
+vÃ©ritÃ©, qui n'est ni escoutÃ©e ni comprise par la folle et ignorante
+multitude: outre qu'on s'imagine qu'il y a plus d'adresse Ã  maintenir le
+faux que le vrai. La pitiÃ© est que cet entestement est fort contagieux,
+et qu'il fait trÃ©bucher les uns sur les autres dans la foule ceux qui en
+sont touchez, sans qu'ils sentent leur mal, croiant toujours au
+contraire n'avoir que de trÃ¨s-bonnes pensÃ©es. Or ce n'est pas le moien
+de guÃ©rir leur infirmitÃ© d'establir l'incertitude de toutes choses,
+puisque s'il n'y a rien que de douteux, ils sont excusables de ne quiter
+pas leurs fantaisies erronnÃ©es, pour en prendre d'autres qui ne valent
+pas mieux. Ainsi le meilleur sera de laisser le monde en l'estat qu'il
+est, et de suivre le prÃ©cepte que Saint Paul donne Ã  TimothÃ©e[9], de ne
+s'eschauffer point en des disputes fascheuses, _non contendere verbis_,
+[Grec: mÃª logomachein], comme estant une chose inutile. Si vous croiez
+avoir raison contre un antagoniste qui la mesprise, ou qui ne l'entend
+pas, cÃ©dez-lui la victoire en riant, comme je l'ai veu faire avec
+adresse, _porrige herbam, sed ut bestiÃ¦_. En vÃ©ritÃ© celui-lÃ  avoit
+quelque sujet, ce semble, de soustenir que la raison estoit contre
+l'ordre de nature, veu que les hommes raisonnables ne lui paroissoient
+pas moins rares, que les monstres. Quoi qu'il en soit, la sentence
+d'Aristote n'est pas ici peu considÃ©rable, encore qu'il ne l'ait pas
+toujours suivie, _stultas opiniones admodum destruere stultissimum est_.
+Il faut pardonner avec mespris Ã  des syncopes de raison, et des bÃ©veues
+spirituelles ou d'entendement, Ã  qui les Grecs ont donnÃ© le nom de
+[Grec: parorama], et que nous remarquons parfois en ceux avec qui nous
+contestons, soit de vive voix, soit par Ã©crit, puisqu'en tout cas on ne
+sÃ§auroit trop dÃ©fÃ©rer Ã  l'aphorisme de ce sÃ§avant PÃ¨re de l'Ãglise,
+_melius est dubitare de occultis quam litigare de incertis_. Nous ne
+nous repentirons jamais de nous y estre tenus.
+
+
+
+
+SEPTIÃME SOLILOQUE
+
+
+Quelques-uns pourroient penser lÃ -dessus, qu'il est plus Ã -propos de
+garder un perpÃ©tuel silence, que de l'expliquer en quelque faÃ§on que ce
+soit, puisqu'on ne peut rien dire de solide, toutes choses aiant deux
+anses, et pouvant estres prises diversement comme incertaines et
+problÃ©matiques. J'avoue que le silence tient lieu souvent de nourriture
+Ã  l'Ã¢me, estant pour cette considÃ©ration trÃ¨s-recommandable, quoi qu'il
+faille aussi tomber d'accord qu'il est parfois l'asyle et le refuge
+d'une parfaite ignorance, qui se cache sous son ombre. D'ailleurs
+gÃ©nÃ©ralement parlant, l'avantage du silence est tout visible, en ce que
+celuy qui parle se vuide, et que celuy qui Ã©coute se remplit. J'ai fait
+plus d'une fois cette rÃ©flexion dont je me veus souvenir ici, que l'Ãcho
+mesme, toute babillarde fille qu'elle est dans la fable, nous fait leÃ§on
+du pÃ©ril qu'il y a de communiquer Ã  d'autres des pensÃ©es d'importance,
+veu qu'estant une fois sorties de chez nous, les pierres, et les rochers
+ne s'en peuvent taire, et les redisent. Le silence de cinq ans des
+Pythagoriciens, et celuy des Cardinaux qui n'oseroient parler, et sont
+comme muets, jusques Ã  ce que le Pape leur ouvre la bouche, peuvent
+servir d'instruction lÃ -dessus. C'est ce qui fait prononcer
+proverbialement aux Espagnols, _callar_, _y obrar_, _por la tierra_, _y
+por la mar_; et les Arabes ont cet adage qui va au mesme sens, _duobus
+modis pereunt homines, abundantia opum, et abundantia sermonis_; au lieu
+que selon Salomon[10], _qui custodit os suum, custodit animam suam_, et
+que suivant sa doctrine, _stultus quoque si tacuit, sapiens reputabitur,
+et si compresserit labia sua, intelligens_. Si est-ce qu'outre qu'il y a
+des silences trompeurs et dissimulez, on peut soustenir qu'on ne
+sÃ§auroit juger des hommes que par leurs actions, et par leurs discours.
+Parle, disoit un ancien, si tu veux que je te connoisse, _loquere, ut te
+videam_. En effet l'action, qui comprend la parole, est la mesure de
+l'estre, et les choses ne sont, Ã  le bien prendre, qu'autant qu'elles
+agissent, et qu'elles se font connoistre de l'une ou de l'autre maniÃ¨re,
+en faisant ou en parlant. Cependant comme l'inaction et la fainÃ©antise,
+qu'Amasis vouloit estre punie de mort, est nommÃ©e par les Italiens le
+vice des honnestes gens, et que selon eux, _il lavorar Ã¨ mestier da
+buoi_; le silence de mesme a ses partisans qui en font leur capital, et
+d'autres qui ne le peuvent souffrir, parce, disent-ils, qu'un oiseau
+muet ne fait point d'augure, _ave muda non haze aguero_, c'est
+l'Espagnol qui parle ainsi. Certes il n'y a point de mÃ©daille qui n'ait
+un revers, ni de si beau prÃ©cepte de morale, qui ne soit diversement
+envisagÃ©.
+
+
+
+
+HUITIÃME SOLILOQUE
+
+
+La beautÃ©, qui passe pour la plus aimable chose qui se puisse voir, et
+qui appelle tout le monde Ã  soi, [Grec: kalon para to kalein], nous
+fournira un bel exemple de ce divers envisagement. Les charmes de la
+beautÃ© sont tels, qu'elle se rend maistresse des sages les plus modÃ©rez,
+et des conquÃ©rans les plus invincibles. C'est ce qui la fit nommer Ã 
+Socrate, une tyrannie de peu de temps; ce qui obligea Platon de
+soustenir qu'il n'y avoit rien de beau, qui ne fust encore bon; et ce
+qui a contraint Aristote d'Ã©crire que cette beautÃ© portoit avec elle
+plus de recommandation, que quelque lettre de faveur qu'on pust obtenir,
+[Grec: pantos epistoliou systatikoteron]. Et vÃ©ritablement elle donna
+lieu aux premiÃ¨res Monarchies du siÃ¨cle d'or, les peuples obÃ©issant
+volontairement: de sorte qu'alors on ne voioit point de rebelles qui ne
+fussent aveugles. Encore aujourd'huy toutes les conditions de la vie
+cherchent dans la beautÃ© ce qui les doit faire estimer. Le Soldat met sa
+gloire Ã  possÃ©der un beau cheval, et des armes bien polies. Un Peintre
+n'est en rÃ©putation, que par la beautÃ© de ses tableaux; ni un Orateur
+que par celle de ses pÃ©riodes. Or ce n'est pas merveille que nostre
+humanitÃ© considÃ¨re si fort un agrÃ©able aspect, veu que la beautÃ© du
+corps qui se voit, est ordinairement l'image de l'esprit qui l'informe;
+les perfections internes engendrant les externes, jusques aux
+pierreries, dont l'Ã©clat procÃ¨de de la juste mixtion des Ã©lÃ©ments au
+dedans. Cependant Ã  cause de l'infidelle compagnie qui se trouve entre
+la vertu et la beautÃ©, _raram facit mixturam cum sapientia forma_,
+beaucoup de gens ont dressÃ© de grandes invectives contre la derniÃ¨re,
+qui se fait principalement estimer lors que le sexe feminin s'en peut
+prÃ©valoir. Car pour les hommes ils doivent prendre ailleurs leur
+avantage; ce qui a fait dire Ã  l'EcclÃ©siastique: _Non laudes virum in
+facie sua, nec spernas hominem in visu suo_. Et la rÃ©flexion de Galien
+me semble fort juste, qu'HomÃ¨re n'ayant parlÃ© qu'une fois de NirÃ©e comme
+du plus beau des Princes Grecs, il a voulu donner Ã  comprendre que les
+beaux hommes ne sont presque bons Ã  rien. C'est contre les belles Dames
+que la Satyre s'exerce ici, comme s'il n'y avoit que les laides qui
+pussent se garantir du vice, _casta quam nemo rogavit_. Encore
+voudroit-on rendre injustement la pudicitÃ© de celles-cy mesprisable,
+par cette mauvaise raison, que leur Ã¢me n'a pas toujours estÃ© chaste,
+dans une volontÃ© corrompue: _QuÃ¦ malam faciem habent sÃ¦pius pudicÃ¦ sunt,
+non animus illis deest, sed corruptor_, comme en parle SÃ©nÃ¨que dans une
+de ses Controverses. Je me souviens de la raillerie de celuy qui disoit
+d'une fille peu aimable, que Dieu pour la sauver avoit mis son Ã¢me en
+sauvetÃ©, dans un corps que personne ne pouvoit aimer. On ne sÃ§auroit
+nier Ã  l'Ã©gard des belles, que leur humeur superbe ne les fasse parfois
+haÃ¯r. Car comme l'avoue Ovide, leur plus grand amy[11],
+
+    _Fastus inest pulchris, sequiturque superbia formam_.
+
+Et nÃ©antmoins l'on peut dire Ã  la plus agrÃ©able de toutes, _quid excolis
+formam? cum omnia feceris, a multis animalibus decore vinceris_[12].
+
+Il est impossible, dit Diodore Sicilien, d'avoir jamais autant de
+beautÃ©, que cet animal Ã  qui elle a fait donner le nom de _Cepus_,
+[Grec: kÃªpos], parce que la veue de tous les jardins ne peut rÃ©jouir ni
+satisfaire comme la sienne. Ce sont nÃ©antmoins des beautez d'un ordre si
+diffÃ©rent, que j'ay de la pene Ã  souffrir cette comparaison.
+
+
+
+
+NEUVIÃME SOLILOQUE
+
+
+Si la BeautÃ© a eu des adversaires qui l'ont mesprisÃ©e, ce n'est pas
+merveille que quelques-uns aient pris plaisir Ã  prÃ©fÃ©rer une caduque
+vieillesse aux impÃ©tuositez d'une bouillante jeunesse. Car quoique le
+vieil Caton[13] n'approuvast pas le proverbe dÃ©jÃ  usitÃ© de son tems,
+qu'on se devoit rendre vieil de bonne heure, afin de l'estre longtems,
+ce qui semble donner de l'avantage Ã  l'Ã¢ge avancÃ© sur celui qui l'a
+prÃ©cÃ©dÃ©; il est pourtant vrai que ses devanciers et ceux qui ont vescu
+depuis luy, se sont dÃ©clarez pour le proverbe contre le sentiment de
+Caton. J'avoue que la jeunesse a des emportemens qu'on ne sÃ§auroit assez
+condamner, ce qui a fait qu'Aristote n'a pas feint d'escrire[14], que
+contrevenant au prÃ©cepte du sage Chilon, les jeunes gens font toutes
+choses avec excÃ¨s, _omnia nimis agunt_. La modÃ©ration des vieillards a
+quelque avantage pour ce regard, quoique Saint Basile[15] ait prononcÃ©
+contre elle, qu'elle estoit plutost une impuissance de continuer les
+dÃ©sordres de la jeunesse, qu'une vraie tempÃ©rance: _Temperantia in
+senectute, non temperantia est, sed lasciviendi impotentia_. C'est une
+triste chose d'avoir recours Ã  la Fable, pour dire que les Cygnes blancs
+qui tirent le char de VÃ©nus, signifient qu'elle n'est pas ennemie des
+testes blanches, qui peuvent encore se faire agrÃ©er. On dit de mesme Ã 
+l'avantage des femmes qui sont avancÃ©es dans l'Ã¢ge, qu'il y a des
+animaux qui mesprisent les jeunes femelles, et leur prÃ©fÃ¨rent les
+vieilles. Aristote l'asseure en ces termes[16]: _Arietes primum
+vetustiores oves ineunt, novellas enim minus persequuntur._ Pour moi qui
+me suis assez dÃ©clarÃ© lÃ -dessus, devant que j'eusse passÃ© la grande
+annÃ©e climactÃ©rique, je fais peu de cas de toutes ces observations, et
+je trouve bien plus considÃ©rable la belle et Ã©lÃ©gante description que
+nous fait JuvÃ©nal, dans sa dixiÃ¨me Satyre, des imperfections de la
+vieillesse, qui me font souscrire au mot de SÃ©nÃ¨que le Tragique,
+
+    _Rarum est felix idemque senex_.
+
+L'honneur que beaucoup de Nations ont dÃ©fÃ©rÃ© au grand Ã¢ge, a eu ses
+raisons: mais comme s'escrie Ausone sur cela,
+
+    _Quid refert? Cornix an ideo ante Cygnum?_
+
+Les tÃ©nÃ¨bres sont plus anciennes que la lumiÃ¨re, qui voudroit les luy
+prÃ©fÃ©rer pour cela? Je me suis trouvÃ© il y a peu de jours avec un
+Macrobie si impertinent, qu'il me confirma dans l'opinion oÃ¹ j'ay
+toujours estÃ©, qu'on peut retourner en enfance par caducitÃ©, et devenir
+comme celuy dont je parle, _Senex bis puer, ter fatuus, quater
+improbus_. D'ailleurs, il n'y a rien de plus misÃ©rable qu'un vieillard,
+qui n'a rien dont il se puisse vanter, que d'avoir esprouvÃ© une
+infinitÃ© d'adversitez, et de s'estre veu comme il est encore, semblable
+Ã  la Fourmi de Virgile,
+
+    ... _Inopi metuens Formica senectÃ¦_
+
+ce qui plonge dans une infÃ¢me avarice, parce que, selon le dire des
+Italiens, _quanto piÃ¹ l'uccello Ã¨ vecchio, tanto piÃ¹ mal volontieri
+lascia la piuma_. Si le nom de SÃ©nateurs a estÃ© honorable Ã  Rome Ã  cause
+de leurs longues annÃ©es, _quod seniores_; et si celuy de Seigneur en
+France procÃ¨de d'une mesme origine, il ne faut pas laisser de tomber
+d'accord, qu'il n'y a que les belles actions, au cas que nous ayons estÃ©
+assez heureux pour en produire, qui nous puissent rendre dans la
+vieillesse plus considÃ©rables que les jeunes gens. C'est le fondement de
+ce beau mot d'Ovide escrivant Ã  Livia sur la mort du jeune Drusus son
+fils:
+
+    _Acta senem faciunt, hÃ¦c numeranda tibi._
+
+Le reste qui accompagne nostre caducitÃ©, semble estre plutost digne de
+compassion qu'autrement.
+
+
+
+
+DIXIÃME SOLILOQUE
+
+
+Quoi qu'il en soit, nos jours estant comtez au Ciel de toute Ã©ternitÃ©,
+selon nostre plus commune croiance, je ne voy pas bien le fondement des
+honneurs qu'on rend Ã  ceux qui ont veu rouler plus longtems sur leurs
+testes les sphÃ¨res d'en-haut, que le reste des autres hommes, non plus
+que tout ce qui leur arrive; cela dÃ©pendant d'un mesme principe, sans
+qu'ils y aient pu rien contribuer.
+
+    _Ventidius quid enim, quid Tullius, anne aliud quam Sidus, et
+    occulti miranda potentia fati[17]?_
+
+Car toutes nos destinÃ©es, dont les Anciens ont tant parlÃ©, dÃ©pendoient
+selon eux des corps supÃ©rieurs, et du diffÃ©rent aspect des Astres: ce
+qu'observent encore aujourd'huy nos faiseurs d'horoscopes, et tous ceux
+qui dÃ©fÃ¨rent aveuglÃ©ment Ã  l'Astrologie Judiciaire. Or tout est si
+frivole, et si incertain dans cette prÃ©tendue science, que le nombre des
+Cieux n'y est pas constant, assez de Philosophes aiant prÃ©supposÃ© que
+les Astres y estoient comme les oiseaux en l'air, et les poissons dans
+l'eau. Il n'y a eu que les Juifs qui aient bien asseurÃ© qu'il y avoit
+dix Cieux, de sorte qu'en leur langue le Ciel n'a point de singulier, et
+n'est jamais emploiÃ© qu'au pluriel. Selon leurs Rabins les dix courtines
+du Tabernacle de leur temple, signifioient ces dix Cieux; et le passage
+du texte sacrÃ©, qui dit, _opera digitorum tuorum sunt coeli_, tÃ©moigne
+que nos deux mains n'aiant que dix doigts, le nombre des Cieux n'est ni
+moindre, ni plus grand que celui-lÃ . Quant aux Astres, et aux Estoiles,
+Platon les establit dans son _Ãpinomis_ pour des Dieux visibles, ou du
+moins pour leurs images que nous devons respecter. L'ordre, selon luy,
+que les PlanÃ¨tes conservent entre elles, monstre qu'elles sont animÃ©es.
+Et Ovide, conformÃ©ment Ã  cette opinion commune, n'a pas manquÃ© de mettre
+ces Animaux au Ciel dans le premier livre de ses MÃ©tamorphoses,
+
+    _Neu regio foret ulla suis animalibus orba,
+    Astra tenent coeleste solum, formÃ¦que Deorum_.
+
+Le Soleil estant le principal d'entre eux, Apollon estoit nommÃ© [Grec:
+episkopos], ou surveillant, par les Grecs, comme il se peut voir dans
+Phornutus. Tant y a qu'Ã  cause que les premiers PÃ¨res de l'Ãglise
+dÃ©fÃ©roient plus Ã  l'Escole de Platon qu'Ã  celle des autres Philosophes,
+ils admettoient l'animation des Cieux, et des Estoiles; et l'on comte
+entre les erreurs d'OrigÃ¨ne celle d'avoir creu ces mesmes Estoiles
+capables du vice et de la vertu. Y a-t-il un Art plus ridicule que celuy
+de la Judiciaire, quoiqu'aient pu faire ses suppos, qui ont toujours
+taschÃ© de rendre leurs prÃ©dictions apparemment vÃ©ritables par des
+interprÃ©tations qui font pitiÃ© Ã  tous ceux qui en considÃ¨rent
+l'absurditÃ©? J'en ai assez produit d'exemples dans quelques Ã©crits
+imprimez, je veux seulement me remettre ici en mÃ©moire celuy qui regarde
+le PoÃ«te Eschile. On luy avoit prÃ©dit par l'inspection du Ciel qu'il
+mourroit de la cheute d'une maison, et l'on voulut que la Tortue qui
+porte toujours sa maison, et qui luy Ã©crasa sa teste chauve, eust estÃ©
+dÃ©signÃ©e par la prÃ©diction. Comment l'Astrologie auroit-elle quelque
+chose de constant, et oÃ¹ l'on se doive arrester, puisque ses
+Professeurs se contrarient les uns les autres, et bastissent sur des
+fondemens diffÃ©rens? Le PÃ¨re Semedo observe que les Chinois qui
+n'establissent que vingt-huit constellations, ont nÃ©ansmoins un bien
+plus grand nombre d'Estoiles que nous n'en reconnoissons. Si est-ce que
+le PÃ¨re Adam, Astrologue Roial, y fonde ses jugemens sur les mesmes
+aphorismes que suivent les EuropÃ©ens. Au fond si le mouvement de la
+Terre est prÃ©supposÃ©, comme le Cardinal Nicolas de Cusa l'a Ã©tabli[18],
+et quatre-vingts ans depuis luy Copernic, suivi d'une infinitÃ© d'autres;
+que pouvons-nous recueillir de toutes les maximes des Anciens, qui doive
+satisfaire un esprit solide au sujet dont nous parlons? Aussi
+voions-nous que les plus grands hommes se sont repentis d'avoir dÃ©fÃ©rÃ©
+Ã  la vanitÃ© de cette profession. Cardan avoue[19] que la connoissance
+qu'il avoit de l'Astrologie, luy fut fort prÃ©judiciable, parce qu'il
+croioit suivant ses plus constantes maximes, ne devoir pas vivre plus de
+quarante ans, et nous sÃ§avons que sa vie a estÃ© de soixante et quinze
+moins trois jours. Mathieu Paris fait un conte ridicule Ã  ce propos de
+l'Empereur FridÃ©ric second, qu'entestÃ© de la vanitÃ© de cette science
+trompeuse, il s'abstint la premiÃ¨re nuit de ses nopces de toucher sa
+femme Isabelle, fille d'Angleterre, que le matin ne fust venu, et cela
+par le conseil de quelques Astrologues, _donec competens hora ei ab
+Astrologis nunciaretur_. Et Scaliger le pÃ¨re escrit dans sa _PoÃ©tique_,
+que rien ne peut tant fortifier l'opinion impie d'Ãpicure touchant la
+crÃ©ation fortuite du monde par le concours et assemblage hazardeux des
+Atomes, que l'inÃ©gale et tÃ©mÃ©raire disposition des Astres sur nos
+testes, oÃ¹ ils ne font aucune figure ni arrangement qui semble
+raisonnable. Car les figures qu'on leur fait reprÃ©senter sont toutes
+imaginaires, et Ã  peine y voit-on un triangle assez imparfait sous le
+nom du Delta ou Deltoton, non plus que de ligne bien droite, si vous
+exceptez celle du baudrier d'Orion, qui multipliÃ©e sert Ã  mesurer toute
+l'Ã©tendue du Ciel. Le Chancelier Bacon[20] a fait dÃ©jÃ  cette remarque,
+et que rien ne se meut lÃ -haut par des cercles parfaits. Le mespris ou
+j'ay toujours estÃ© des prÃ©dictions Astrologiques, m'a transportÃ© plus
+que je ne pensois, adjoustant ceci Ã  ce que j'en ai escrit ailleurs.
+
+
+
+
+ONZIÃME SOLILOQUE
+
+
+Ce peu que je viens d'observer touchant la Judiciaire me fait penser Ã 
+l'opinion que les premiers Philosophes Grecs ont eue de Dieu, et de la
+Nature, qu'ils ont souvent confondus. CicÃ©ron[21] tient que Straton de
+Lampsaque ne reconnoissoit que la derniÃ¨re, puisqu'il n'y avoit point
+d'effets qu'il ne luy attribuast, sans en rapporter aucun Ã  Dieu,
+_Lampsacenus Strato omnia effecta NaturÃ¦, nulla Diis tribuebat_. Et
+mesme cet Orateur Romain appelle ailleurs[22] la raison naturelle, une
+loi divine et humaine: _NaturÃ¦ ratio, quÃ¦ est lex divina et humana_.
+Platon et Aristote ont eu d'autres pensÃ©es, et ce dernier remarque au
+sixiÃ¨me Livre de sa _MÃ©taphysique_, qu'Ã  n'admettre point d'autres
+substances que les matÃ©rielles, selon qu'en usoient ses devanciers, la
+Physique seroit la premiÃ¨re Philosophie, et non pas celle qui suit et
+est au-delÃ , ce qui luy a fait donner le nom de MÃ©taphysique. Mais en
+vÃ©ritÃ© les deux Mondes de Platon, l'un sensible, et l'autre intelligible
+oÃ¹ habite la VÃ©ritÃ©, sont des viandes bien creuses; de mesme que les
+nombres qui composoient la Nature selon Pythagore. Les deux matiÃ¨res
+d'Aristote, l'une sensible aussi, et l'autre intelligible qui enveloppe
+les MathÃ©matiques, ne sont pas moins chimÃ©riques Ã  ceux qui veulent
+philosopher, aussi bien que naviger seurement, et toujours terre Ã 
+terre, de peur de s'Ã©garer. Ceux-lÃ  s'empescheront toujours d'employer
+dans la Physique des termes nouveaux et surnaturels, comme quelques-uns
+ont voulu faire depuis peu. Mais il y a des esprits qui croient n'avoir
+jamais bien rencontrÃ©, si contrariant les autres, ils ne suivent une
+route diffÃ©rente de la leur; semblables Ã  l'Oiseau Merops qui vole au
+rebours des autres, avanÃ§ant toujours vers sa queue: _Merops, avium
+sola, retrorsus ac versus caudam fertur_, dit Ãlien dans son histoire
+des animaux. Ainsi aux choses mesme d'aussi peu de consÃ©quence, que
+celles dont nous venons de parler sont importantes, on ne trouve que
+diversitÃ© d'opinions. Pline veut que les Oiseaux nous aient enseignÃ©
+l'usage du gouvernail d'un vaisseau. SÃ©nÃ¨que et Possidonius l'attribuent
+aux Poissons dans le mouvement de leur queue. Et cette inclination
+naturelle Ã  la nouveautÃ© contentieuse, autant que d'autres raisons
+morales qu'on pourroit rapporter, ont engendrÃ© enfin l'animositÃ© qui
+s'observe entre quelques Nations, dont je vais dire un mot aprÃ¨s ceux
+qui l'ont observÃ©e devant moi. Il y a une antipathie physique, ce
+semble, entre l'Alleman et le Polonois, le SuÃ©dois et le Danois,
+l'Anglois et l'Escossois, le Galois ou habitant du paÃ¯s de Gales, et
+l'Irlandois. Le Portugais ne s'accorde pas mieux avec le Castillan, non
+plus qu'autrefois le Parisien avec le Norman, et le GÃ©nois avec le
+VÃ©nitien, ou l'Arragonois. Les Arabes sont toujours en diffÃ©rend avec
+les Abyssins, les Turcs avec les Persans, les Mogoles avec les Jusbegs,
+les Chinois avec les Japonois, les Moscovites avec les Tartares. Nos
+anciens Gaulois estoient si haÃ¯s des Romains, qu'ils n'exemtoient de la
+guerre leurs sacrificateurs, que quand il faloit aller au combat contre
+les Gaulois, _in Gallico tumultu_: ce que Plutarque a remarquÃ© dans
+la vie de Camillus. Je laisse l'injustice des Historiens d'Italie contre
+nostre Nation, pour considÃ©rer simplement l'impertinence de PÃ©trarque,
+d'ailleurs fort Ã  priser, quand il veut que la fÃ©rocitÃ© seule de nos
+moeurs nous ait imposÃ© le nom de FranÃ§ois, _a feritate morum Francos
+dictos_. Mais quitons un sujet par trop odieux.
+
+
+
+
+DOUZIÃME SOLILOQUE
+
+
+Cette grande discordance des Nations fait voir entre autres choses,
+qu'il n'y a point, Ã  le bien prendre, de communes notions parmi les
+hommes, qui pensent tous si diversement et avec une opiniastretÃ© si
+voisine de la haine, que ThÃ©ognis a eu raison d'appeller dÃ¨s son tems
+l'Opinion un de nos plus grands maux,
+
+    [Grec: Doxa men anthrÃ´pousi kakon mega],
+    _Opinio quidem hominibus magnum malum est_.
+
+Je ne sÃ§ai point de meilleure rÃ©solution Ã  prendre lÃ -dessus, que de
+suivre le conseil que Saint Paul donne Ã  TimothÃ©e, [Grec: mÃª
+logomachein], de ne contester jamais avec des paroles ordinairement
+inutiles, et qu'il nomme fort bien [Grec: kenophÃ´nias], _inaniloquia_. A
+moins de dÃ©fÃ©rer Ã  cet avis salutaire, il n'y a rien de plus tumultueux
+que nostre vie, parce que tout ce que contient la Nature est sujet Ã 
+controverse, qui s'Ã©tend mesme plus loin dans cette considÃ©ration
+d'Aristote[23], _opinabile latius patere quam ens, quia et quod est, et
+quod non est, opinabile est_. Certes c'est une chose pitoiable de voir
+d'un oeil exemt de prÃ©vention, comme chacun prend les choses Ã  sa mode,
+et comme il n'y a presque personne qui n'aime mieux reprendre Dieu, et
+la Nature, que de reconnoistre ingÃ©nuement l'ignorance oÃ¹ il est. J'use
+de cette pensÃ©e aprÃ¨s CicÃ©ron au livre cinquiÃ¨me de ses Questions
+Tusculanes, _rerum naturam, quam errorem nostrum damnare malumus_. Mais
+quoi, il vaut mieux imiter lÃ -dessus DÃ©mocrite, qu'HÃ©raclite, si nous en
+croions SÃ©nÃ¨que[24], Ã  cause que selon luy _humanius est deridere vitam,
+quam deplorare_; bien qu'il avoue qu'on se peut plus Ã  propos abstenir
+de l'un et de l'autre. Quoi qu'il en soit, la maxime qu'il establit
+ailleurs, de tenir toujours pour trÃ¨s-mauvais ce que le peuple approuve,
+nous est confirmÃ©e par le _tolle, tolle, crucifige_ des Juifs, qui
+montre bien que la voix du peuple n'est pas toujours la voix de Dieu; de
+sorte qu'il n'y a guÃ¨res d'Ã¢mes philosophiques qui ne disent avec le
+mesme SÃ©nÃ¨que[25], _argumentum pessimi turba est_. L'Orateur Romain que
+j'ai dÃ©jÃ  citÃ©, et que je citerai toujours trÃ¨s-volontiers en de
+semblables matiÃ¨res, tesmoigne encore ce sentiment en ces termes[26]:
+_Philosophia paucis est contenta judicibus, multitudinem consulto ipsa
+fugiens, eique ipsi et suspecta et invisa._ C'est une merveille que sa
+profession d'Ãloquence, d'oÃ¹ il retiroit sa principale recommandation,
+luy ait permis de reconnoistre si franchement cette vÃ©ritÃ©, parce
+qu'elle paroist absolument contraire au bien-dire des Orateurs, qui est
+une facultÃ© populaire, et qui ne vise qu'Ã  obtenir l'approbation d'un
+grand nombre d'auditeurs. Ce qui m'Ã©tonne davantage, c'est que cela
+vienne de celuy qui avoit, dÃ¨s le premier livre de ces _Questions
+Tusculanes_, voulu prouver l'existence des Dieux, et l'immortalitÃ© de
+nos Ames, par cette considÃ©ration, qu'une opinion gÃ©nÃ©rale peut estre
+prise pour la propre voix de la Nature, _omnium consensus NaturÃ¦ vox
+est_, n'y aiant rien de plus opposÃ© que le sont ces textes l'un Ã 
+l'autre, par des axiomes tout-Ã -fait diffÃ©rens. Il ne faut pas nÃ©anmoins
+le blasmer lÃ -dessus. Le changement d'avis, et la diversitÃ© d'opinion
+selon le sujet qu'on traite, n'est condamnable ni en luy, ni en tous
+ceux qui philosophant acadÃ©miquement ne se rendent jamais esclaves de
+leurs premiers sentimens. Je veux me souvenir en sa faveur de ce que les
+Anciens faisoient Neptune, sous le nom du Dieu Consus, auteur de tous
+les bons avis. Or ils donnoient apparemment Ã  entendre par lÃ , que
+comme la Mer que ce Dieu gouvernoit, change de face Ã  tous momens, il
+n'estoit pas honteux ni mauvais de prendre des avis diffÃ©rens, selon la
+diversitÃ© des tems et des sujets qui obligent Ã  le faire.
+
+
+
+
+TREZIÃME SOLILOQUE
+
+
+Entre les choses dont la Noblesse et le Peuple sont le mieux d'accord,
+c'est d'amasser du bien si faire se peut, et de fuir la pauvretÃ©. Les
+Philosophes[27] considÃ¨rent que la vertu ne s'acquiert pas avec les
+biens; mais qu'au contraire, c'est assez souvent la vertu qui nous fait
+obtenir des biens. Et pour le regard de la pauvretÃ©, l'EcclÃ©siastique ne
+laisse rien Ã  dire pour l'esviter, quand il asseure qu'il vaut mieux
+mourir, que d'y tomber: _Fili, in tempore viÃ¦ tuÃ¦ ne indigeas, melius
+est enim mori, quant indigere_. C'est pourquoi nous voions que tout le
+monde veut devenir riche en quelque maniÃ¨re que ce soit,
+
+    _Unde habeat quÃ¦rit nemo, sed oportet habere_.
+
+L'homme le plus vertueux, le mieux sensÃ©, et de la plus haute
+extraction, s'il est mal vestu, et que ses habits soient percez au
+coude, n'oseroit parler en bonne compagnie, au pÃ©ril qu'il courroit
+d'estre moquÃ© au mesme tems qu'on applaudit aux discours impertinens
+d'un fat, qui a les rieurs de son costÃ©, parce qu'il s'est richement
+parÃ©.
+
+    _Et genus, et virtus, nisi cum re vilior alga est_[28].
+
+Car cette Res des Latins qui se trouve dans l'opulance, donne des amis
+et des fauteurs partout, _Res amicos invenit_, comme le fait si
+Ã -propos remarquer ce vieillard Antipho dans le _Stichon_ de Plaute[29].
+C'est ici un lieu trop commun parmi les sÃ§avans, et trop facile Ã  estre
+amplifiÃ©, pour s'y arrester davantage. Mais il n'a pas estÃ© moins aisÃ©,
+Ã  ceux qui l'ont voulu contredire, de prendre le parti, sinon d'une
+extrÃªme indigence, au moins d'une tolÃ©rable et honneste pauvretÃ©.
+_Culmen liberos tegit_, ont-ils dit aprÃ¨s SÃ©nÃ¨que, _sub marmore atque
+auro servitus habitat_. Un peu de nÃ©cessitÃ© aiguise l'esprit; elle a ses
+gaietez plus parfaites souvent, et plus fidelles, que ne les a
+l'abondance. Et Dieu soit louÃ© qu'il y ait des jours dans la vie, oÃ¹ le
+riche porte envie Ã  la condition du pauvre! En vÃ©ritÃ© quelqu'un n'a pas
+mal rencontrÃ© d'escrire, qu'on voit la pluspart des grands richars
+tenir dans leurs coffres le rachat des captifs, la libertÃ© des
+prisonniers, la santÃ© des malades, la joie des affligez, et la vie des
+languissans, sans qu'on puisse reprocher une telle malÃ©diction Ã  ceux
+que la Fortune a moins favorisez. Je me trompe de parler ainsi de cette
+DÃ©esse aveugle. Le Bien, la Noblesse, et la Science mesme, sont des dons
+du Ciel, qui les jette parfois, dit EpictÃ¨te, comme l'on fait des noix
+et des figues aux enfans, sans qu'il faille se battre comme eux Ã  qui en
+aura le plus, quoiqu'il soit permis de s'en prÃ©valoir quand ils se
+prÃ©sentent Ã  vous, et qu'on le peut faire civilement. En effet le Chef
+des Gymnosophistes Mandanis ne pouvoit prononcer un plus bel axiome, que
+celuy que nous lisons de luy dans Strabon, qu'il n'y a point de maison
+plus Ã  estimer, que celle qui se contente de peu, se passant de ce dont
+les autres abondent. Car on peut soustenir qu'il est mesme parfois
+avantageux, de diminuer ses richesses, pour devenir plus riche, et
+d'imiter le bon vigneron, qui coupe la vigne pour la faire mieux
+produire. La pensÃ©e de Pline est excellente lÃ -dessus dans la PrÃ©face du
+quatorziÃ¨me Livre de son _Histoire naturelle_, que les Sciences et les
+Arts LibÃ©raux sont tombez de la libertÃ© qui leur avoit donnÃ© le nom,
+dans la servitude, en ce qu'autrefois les plus accommodez des biens de
+Fortune, se plaisoient Ã  cultiver leurs esprits, chose que l'opulence a
+depuis empeschÃ©e, _rerum amplitudo damno fuit_. Car il est arrivÃ© que
+les hommes seuls qui se sont veus rÃ©duits Ã  la pauvretÃ© et Ã  la
+servitude, ont fait valoir les Arts et les Sciences, parce qu'ils
+n'avoient que ce seul moyen pour se faire considÃ©rer, et pour subsister:
+_Quadam sterilitate fortunÃ¦ necesse erat animi bona exercere._ C'est
+ainsi que parle Pline, et qu'on balance toutes choses.
+
+       *       *       *       *       *
+
+_Rogatus Antisthenes quidnam ex philosophia lucratus esset, mecum, ait,
+colloqui posse_, [Grec: to dynastai heautÃ´ homilein].
+
+       *       *       *       *       *
+
+_Qui plura novit, eum majora sequuntur dubia._ Arist.
+
+
+
+
+_Extrait du PrivilÃ©ge_
+
+
+PAR Lettres de PrivilÃ©ge du Roy, en datte du 9 Mars 1651, signÃ©es
+CONRART, il est permis Ã  Monsieur DE LA MOTHE LE VAYER, Conseiller du
+Roy en ses Conseils, de faire imprimer, vendre, et dÃ©biter _tous les
+Traitez_, _Lettres_, _Opuscules_, _et autres piÃ¨ces de sa composition_,
+par tel Imprimeur ou Libraire qu'il voudra choisir, conjointement ou
+sÃ©parÃ©ment, en un ou plusieurs volumes, en telles marges, en tels
+caractÃ¨res, et autant de fois que bon luy semblera, durant l'espace de
+vingt ans: Et dÃ©fenses sont faites Ã  toutes personnes, d'imprimer,
+vendre, ni dÃ©biter aucun de ces Traitez, et Opuscules, sans son
+consentement, ou de ceux qui auront droit de luy, sur peine de trois
+mille livres d'amende, et autre plus grande, ainsi qu'il est plus
+amplement spÃ©cifiÃ© par lesdites Lettres.
+
+
+
+
+  _AchevÃ© d'imprimer_
+
+  SUR LES PRESSES DE MOTTEROZ
+
+  TYPOGRAPHE
+
+  A PARIS, RUE DU DRAGON, 31
+
+
+  _Le 29 Janvier 1875_
+
+
+
+
+NOTES:
+
+[1] Paris, _Louis Billaine, 1670_, petit in-12.
+
+[2] Page 8.
+
+[3] Ep. I. C. 2.
+
+[4] L. I. ode 34.
+
+[5] In defensorio, C. 27. circa fin.
+
+[6] Act. 2. SC. 26.
+
+[7] Baron. tom. II.
+
+[8] Ep. 88.
+
+[9] Ep. 2. C. I.
+
+[10] Prov. C. 13. et 17.
+
+[11] Fast. l. I.
+
+[12] Sen. ep. ult.
+
+[13] Cic. lib. de Senect.
+
+[14] Rhet. l. 2. v. 12.
+
+[15] Conc. 8. de Poen.
+
+[16] De hist. anim. l. 5. C. 14.
+
+[17] Juven. sat. 7.
+
+[18] _De docta ignor._ l. 2. C. 12.
+
+[19] Lib. _de Vita propria_, C. 10.
+
+[20] De augm. scient. p. 166.
+
+[21] _Qu. Academ._ l. 4.
+
+[22] _De Offic._ l. 3.
+
+[23] _Top._ l. 4. C. 15.
+
+[24] _De Tranq._ I. C. 15.
+
+[25] _De vita beata_, C. 2.
+
+[26] _Tusc. qu._ l. 2.
+
+[27] _Arist. Polit._ l. 7. C. I.
+
+[28] Horat. l. I. Sat. 6.
+
+[29] Act. 4. SC. I.
+
+
+
+
+Note de Transcription:
+
+Les erreurs clairement introduites par le typographe ont Ã©tÃ© corrigÃ©es.
+L'orthographe d'origine a Ã©tÃ© conservÃ©e et n'a pas Ã©tÃ© harmonisÃ©e.
+
+
+
+
+
+End of the Project Gutenberg EBook of Soliloques sceptiques, by 
+FranÃ§ois de  La Mothe Le Vayer
+
+*** END OF THE PROJECT GUTENBERG EBOOK 40625 ***

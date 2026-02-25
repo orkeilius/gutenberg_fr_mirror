@@ -1,3 +1,4549 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1e9925ce08712b66f8da507672f46ff5b15ef4f9975e2e87dacb1fa4ce05985
-size 188206
+The Project Gutenberg EBook of Le Jour des Rois, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Le Jour des Rois
+
+Author: William Shakespeare
+
+Translator: Fran�ois Pierre Guillaume Guizot
+
+Release Date: June 25, 2005 [EBook #16128]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LE JOUR DES ROIS ***
+
+
+
+
+Produced by Paul Murray, Renald Levesque and the Online
+Distributed Proofreading Team. This file was produced from
+images generously made available by the Biblioth�que
+nationale de France (BnF/Gallica)
+
+
+
+
+
+  Note du transcripteur.
+  ======================================================================
+  Ce document est tir� de:
+
+  OEUVRES COMPL�TES DE
+  SHAKSPEARE
+
+  TRADUCTION DE
+  M. GUIZOT
+
+  NOUVELLE �DITION ENTI�REMENT REVUE
+  AVEC UNE �TUDE SUR SHAKSPEARE
+  DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+  Volume 3
+  Timon d'Ath�nes.
+  Le Jour des Rois.--Les deux gentilshommes de V�rone.
+  Rom�o et Juliette.--Le Songe d'une nuit d'�t�.
+  Tout est bien qui finit bien.
+
+  PARIS
+  A LA LIBRAIRIE ACAD�MIQUE
+  DIDIER ET Cie, LIBRAIRES-�DITEURS
+  35, QUAI DES AUGUSTINS
+  1862
+
+
+  ======================================================================
+
+
+
+                           LE JOUR DES ROIS
+
+                                 OU
+
+                         CE QUE VOUS VOUDREZ
+
+
+                               COM�DIE
+
+
+
+NOTICE SUR LE JOUR DES ROIS
+
+
+Quoique la partie comique de cette pi�ce appartienne tout enti�re �
+Shakspeare, il est encore redevable de son sujet � Bandello. Nous y
+retrouvons cette ressemblance extraordinaire de deux personnes dont
+Plaute s'est plus d'une fois servie pour le noeud de ses com�dies, et
+que Shakspeare lui a d�j� emprunt�e dans ses _M�prises_.
+
+Lorsque Rome fut conquise, en 1527, par les Espagnols et les Allemands;
+il se trouva parmi les prisonniers un riche marchand nomm� Ambrogio,
+qui avait un fils et une fille, tous les deux d'une beaut� et d'une
+ressemblance si parfaites que, s'ils changeaient d'habillements, le p�re
+lui-m�me avait peine � les distinguer[1]. Paolo, c'est le nom du gar�on,
+fut le partage d'un Allemand, et sa soeur jumelle, Nicuola, tomba entre
+les mains de deux soldats qui la trait�rent avec beaucoup de douceur,
+dans l'esp�rance qu'ils en tireraient une ran�on consid�rable. Ambrogio
+parvint � se sauver de la captivit�, et ayant soustrait, en les cachant
+dans la terre, une grande partie de ses richesses � la cupidit� des
+ennemis, il se mit � la recherche de ses enfants, racheta sa fille, mais
+ne put retrouver son fils, et le crut mort.
+
+[Note 1:
+
+  ....................... _Simillima proles,
+  Indiscreta suis, gratusque parentibus error._
+                                 (VIRGILE.)]
+
+Cette pens�e le tourmentant de plus en plus, il quitta Rome et se retira
+� Erte, lieu de sa naissance. Ce fut l� qu'un autre marchand, veuf
+depuis plusieurs ann�es, devint amoureux de Nicuola et la demanda en
+mariage; mais Ambrogio, craignant que cette union peu assortie du c�t�
+de l'�ge, ne f�t pas heureuse pour Nicuola, et ne voulant pas refuser
+trop brusquement ce vieux soupirant, lui dit qu'il ne se s�parerait
+pas de sa fille qu'il n'e�t retrouv� son fils, espoir qu'il conservait
+toujours.
+
+Cependant Nicuola avait aussi fait impression sur le coeur d'un jeune
+gentilhomme nomm� Lattanzio Puccini, et n'�tait pas indiff�rente � son
+amour. Dans ce temps-l�, des affaires appel�rent Ambrogio � Rome, et il
+conduisit sa fille � Fabriano, chez un de ses parents, pour ne pas la
+laisser seule. Cette absence arr�ta la passion de Lattanzio, qui changea
+bient�t d'objet et se porta vers la fille de Lanzetti, la belle Catella.
+Au contraire, Nicuola revint � Erte toujours plus �prise, et apprit avec
+la plus vive douleur la nouvelle inclination de son amant. Ambrogio fut
+oblig� de faire un second voyage, et cette fois-ci il laissa sa fille
+dans un couvent o� �tait Camilla, ni�ce de Lattanzio. Celui-ci y venait
+souvent commander toutes sortes d'ouvrages � l'aiguille que faisaient
+les religieuses. Nicuola �coutait quelquefois les conversations qu'il
+avait avec sa ni�ce Camilla. Un jour, il lui racontait avec tristesse
+qu'il avait perdu un jeune page qu'il aimait, et qui lui �tait
+tr�s-n�cessaire. Ce r�cit fit na�tre � Nicuola l'id�e de s'habiller en
+homme, et d'entrer chez Lattanzio en qualit� de page. Sa gouvernante
+l'aida dans ce projet. Elle fut admise, en effet, sous le nom de Romulo,
+dans la maison de son infid�le amant; et comme Julia, dans les _Deux
+Gentilshommes de V�rone_, elle fut bient�t charg�e d'aller parler �
+sa rivale de l'amour de son ma�tre. Catella �tait peu sensible aux
+sollicitations de Lattanzio; mais le faux page fit une telle impression
+sur son coeur qu'elle n'�prouva plus que de la r�pugnance pour celui qui
+l'envoyait.
+
+Pendant ces intrigues, le ma�tre de Paolo l'avait pris en affection,
+au point que, venant � mourir, il l'avait fait son h�ritier. Paolo
+s'empressa de retourner � Rome, et de l� � Erte pour y chercher son
+p�re. Il passe sous la fen�tre de Catella, qui le prend pour le pr�tendu
+page. Ambrogio arrive: Nicuola l'aper�oit dans la rue, et, dans sa
+frayeur, elle se sauve chez sa gouvernante. Celle-ci lui conseille de
+reprendre les habits de son sexe, et court annoncer au p�re qu'elle lui
+conduira sa fille le lendemain.
+
+Cependant Lattanzio attend Romulo avec inqui�tude et impatience; il le
+cherche partout, et on lui montre la maison de la gouvernante, o� l'on
+avait vu entrer Nicuola sous son d�guisement. Il lie conversation avec
+la du�gne, qui lui d�couvre tout, lui vante la constance de son ancienne
+ma�tresse, et pr�pare la r�conciliation qu'ach�ve la vue de Nicuola
+elle-m�me.
+
+Catella prend toujours Paolo pour Romulo. Paolo, qui l'aime, s'aper�oit
+de sa m�prise et la d�trompe.
+
+Bient�t tout s'�claircit. Ambrogio se r�jouit du retour de son fils et
+consent au mariage de sa fille. Lanzetti, qui a cru que Paolo n'�tait
+autre que Nicuola d�guis�e, revient de son erreur et accorde aussi
+Catella au fils d'Ambrogio.
+
+Shakspeare a mis cette nouvelle sur la sc�ne avec sa n�gligence
+ordinaire, car le d�guisement de Viola, amoureuse du duc qu'elle ne
+conna�t point, n'est pas aussi bien motiv� que celui de la Nicuola de
+Bandello. En g�n�ral, les �v�nements de la nouvelle sont conduits
+avec beaucoup plus d'art que ceux de la com�die; mais c'est dans les
+caract�res, le comique des situations et la po�sie des d�tails, que
+Shakspeare retrouve sa sup�riorit� et fait oublier tous les reproches
+d'invraisemblance que la critique pourrait lui adresser. L'originalit�
+de sir Andr�, de sir Tobie et du bouffon, les espi�gleries de la
+friponne Marie, la gravit� comique et les pr�tentions de Malvolio, la
+sc�ne d�licieuse du jardin et de la lettre, le duel de sir Andr� et du
+faux page, le charme que r�pand sur toute la pi�ce l'amour de Viola,
+un heureux m�lange de sentiment et de cette gaiet� que les Anglais
+appellent _humour_, tout contribue � rendre cette pi�ce une des plus
+agr�ables de Shakspeare.
+
+Selon le docteur Malone, elle aurait �t� �crite dans l'ann�e 1614; mais
+dans une com�die de Ben Jonson, ant�rieure � cette date, on trouve
+un passage qui semblerait applicable au _Jour des rois_, Ben Jonson
+saisissait toutes les occasions de tourner en ridicule les d�fauts de
+Shakspeare. Un de ses personnages dit, � la fin de l'acte III de sa
+pi�ce intitul�e: _Every man out of his humour_:
+
+
+    �.....Il e�t fallu que sa com�die f�t fond�e sur une autre intrigue
+    que celle d'un duc amoureux d'une comtesse, tandis que cette
+    comtesse serait amoureuse du fils du duc, et ce fils du duc amoureux
+    de la suivante de la dame. Vivent ces amours embrouill�s, avec un
+    paysan bouffon pour valet, plut�t que des �v�nements trop rapproch�s
+    de notre temps!�
+
+Un autre t�moignage tout � fait d�cisif est la d�couverte faite par
+M. Collier d'un petit journal manuscrit du temps, dans lequel une
+repr�sentation du _Jour des Rois_, ou _Ce que vous voudrez_, est
+indiqu�e � la date du 2 f�vrier 1601.
+
+
+
+                           LE JOUR DES ROIS
+
+                                 OU
+
+                         CE QUE VOUS VOUDREZ
+
+
+
+                              COM�DIE
+
+
+
+PERSONNAGES
+
+
+  ORSINO, duc d'Illyrie.
+  SEBASTIEN, jeune gentilhomme, fr�re de Viola.
+  ANTONIO, capitaine de vaisseau, ami de S�bastien.
+  VALENTIN,   }
+  CURIO,      } gentilshommes de la suite du duc.
+  SIR TOBIE BELCH, oncle d'Olivia.
+  UN CAPITAINE DE VAISSEAU, ami de Viola.
+  SIR ANDR� AGUE-CHEEK[2].
+  MALVOLIO, intendant d'Olivia.
+  FABIEN,         }
+  PAYSAN BOUFFON, }au service d'Olivia.
+  OLIVIA, riche comtesse.
+  VIOLA, amoureuse du duc.
+  MARIE, suivante d'Olivia.
+  UN PR�TRE.
+  SEIGNEURS, MATELOTS, OFFICIERS, MUSICIENS, SERVITEURS, etc.
+
+[Note 2: _Ague cheek_, mal de joue.]
+
+_La sc�ne est dans une ville d'Illyrie et sur la c�te voisine._
+
+
+
+
+ACTE PREMIER
+
+
+
+SC�NE I
+
+
+Appartement dans le palais du duc.
+
+LE DUC, CURIO, _seigneurs_.
+
+(Des musiciens jouent.)
+
+LE DUC.--Si la musique est l'aliment de l'amour, jouez donc; donnez-m'en
+jusqu'� ce que ma passion surcharg�e en soit malade et expire.--R�p�tez
+cet air; il avait une chute mourante: oh! il a fait sur mon oreille
+l'impression du doux vent du midi dont le souffle, en passant sur
+un champ de violettes, leur d�robe et leur rend � la fois des
+parfums.--C'est assez, pas davantage: ces sons ne sont plus aussi doux
+qu'ils l'�taient tout � l'heure. O esprit de l'amour, que tu es avide
+de fra�cheur et de nouveaut�! Aussi vaste que la mer, et, comme elle,
+recevant tout dans ton sein, rien n'y entre, quelle que soit sa valeur
+et son m�rite, sans d�g�n�rer et perdre tout son prix au bout d'une
+minute. L'imagination est si f�conde en formes changeantes, que rien
+n'�gale ses bizarres fantaisies.
+
+CURIO.--Voulez-vous venir chasser, seigneur?
+
+LE DUC.--Quoi donc, Curio?
+
+CURIO.--La biche.
+
+LE DUC.--C'est ce que je fais: je poursuis la plus noble biche que j'aie
+vue. Ah! la premi�re fois que mes yeux ont contempl� Olivia, il me
+sembla que sa pr�sence purifiait l'air: de cet instant je fus chang� en
+cerf[3], et mes d�sirs, comme une meute f�roce et cruelle, n'ont cess�
+depuis de me poursuivre.--(_Valentin entre._) Eh bien! quelles nouvelles
+d'Olivia?
+
+[Note 3: Allusion � l'histoire d'Act�on.]
+
+VALENTIN.--Sous votre bon plaisir, seigneur, je n'ai pu �tre admis
+devant elle, et je ne vous rapporte que cette r�ponse de la part de
+sa suivante. Le ciel m�me, avant qu'il ait �t� r�chauff� pendant sept
+ann�es, ne jouira point librement de sa vue; mais, comme une religieuse
+clo�tr�e, elle ne marchera que sous le voile; elle arrosera une fois
+chaque jour le pav� de sa chambre de ses larmes am�res, et le tout pour
+pleurer un fr�re qui n'est plus, et dont elle veut entretenir la tendre
+et vive image dans son triste souvenir.
+
+LE DUC.--Oh! celle qui a un coeur assez sensible pour payer ce tribut de
+tendresse � un fr�re, combien elle aimera quand le trait dor� de l'amour
+aura donn� la mort � la foule de toutes les autres affections qui vivent
+en elle, quand ses nobles perfections, son foie, son cerveau, son
+coeur[4], ces tr�nes souverains, seront une fois occup�s et remplis tout
+entiers par un seul roi supr�me!--Allons nous coucher sur ces doux lits
+de fleurs: les pensers de l'amour reposent mollement sous le dais d'une
+vo�te de feuillage.
+
+
+[Note 4: Le foie, le cerveau et le coeur �taient regard�s comme le si�ge
+des passions, des jugements, des sentiments.]
+
+(Ils sortent.)
+
+
+
+SC�NE II
+
+
+La c�te de la mer.
+
+VIOLA, UN CAPITAINE, _suivi de matelots_.
+
+VIOLA.--Amis, quel est ce pays?
+
+LE CAPITAINE.--C'est l'Illyrie, madame.
+
+VIOLA.--Et que ferai-je en Illyrie? mon fr�re est dans l'�lys�e.
+Peut-�tre n'est-il pas noy�. Qu'en pensez-vous, matelots?
+
+LE CAPITAINE.--C'est par un hasard que vous avez �t� sauv�e vous-m�me.
+
+VIOLA.--O mon pauvre fr�re!--Et peut-�tre pourra-t-il l'�tre aussi par
+hasard.
+
+LE CAPITAINE.--Cela est vrai, madame; et pour augmenter votre confiance
+dans le hasard, soyez assur�e que lorsque notre vaisseau s'est ouvert,
+au moment o� vous, et ces tristes restes �chapp�s avec vous, vous �tes
+attach�s au bord de notre chaloupe, j'ai vu votre fr�re, plein de
+pr�voyance dans le p�ril, se lier avec une adresse que lui sugg�raient
+le courage et l'espoir � un gros m�t qui surnageait sur les flots: je
+l'y ai vu assis comme Arion sur le dos d'un dauphin, en allant de front
+avec les vagues, tant que j'ai pu le voir.
+
+VIOLA.--Tenez, voil� de l'or, pour ce que vous venez de me dire. Mon
+propre salut me fait na�tre l'esp�rance (et votre r�cit l'encourage)
+qu'il pourra lui en arriver autant. Connaissez-vous ce pays?
+
+LE CAPITAINE.--Oui, madame, tr�s-bien; car je suis n� et j'ai �t� �lev�
+� moins de trois lieues de cet endroit m�me.
+
+VIOLA.--Qui gouverne ici?
+
+LE CAPITAINE.--Un duc aussi illustre par son caract�re que par son nom.
+
+VIOLA.--Quel est son nom?
+
+LE CAPITAINE.--Orsino.
+
+VIOLA.--Orsino! J'ai entendu mon p�re le nommer; il �tait gar�on alors.
+
+LE CAPITAINE.--Il l'est encore, ou du moins il l'�tait tout
+derni�rement; car il n'y a pas un mois que je suis parti d'ici, et alors
+il courait un bruit tout r�cent (vous savez que les petits causent
+toujours sur ce que font les grands) qu'il sollicitait l'amour de la
+belle Olivia.
+
+VIOLA.--Qui est-elle?
+
+LE CAPITAINE.--Une vertueuse jeune personne, la fille d'un comte qui est
+mort il y a environ un an; il la laissa en mourant � la protection de
+son fils, son fr�re, qui est mort aussi peu de temps apr�s, et c'est
+pour l'amour de ce fr�re qu'elle a, dit-on, renonc� � la vue et � la
+soci�t� des hommes.
+
+VIOLA.--Oh! que je voudrais �tre au service de cette dame et y rester
+inconnue au monde jusqu'� ce que j'aie eu le temps de m�rir mes
+desseins!
+
+LE CAPITAINE.--Cela serait difficile � obtenir. Elle ne veut �couter
+aucune proposition, non pas m�me celle du duc.
+
+VIOLA.--Capitaine, tu as une heureuse physionomie; et quoique la nature
+renferme souvent la corruption sous une belle enveloppe, cependant je
+suis port�e � croire de toi que tu as une �me qui convient � ces beaux
+dehors. Je te prie, et je t'en r�compenserai g�n�reusement, cache ce que
+je suis, et aide-moi � me procurer le d�guisement dont j'aurai peut-�tre
+besoin pour ex�cuter mes projets. Je veux m'attacher au service de ce
+duc. Tu me pr�senteras � lui en qualit� d'eunuque: cela peut en valoir
+la peine, car je sais chanter; je saurai lui parler sur divers tons
+de musique vari�e, qui lui rendront mon service agr�able. Ce qui peut
+advenir plus tard, je l'abandonne au temps: conforme seulement ton
+silence � mes d�sirs.
+
+LE CAPITAINE.--Soyez son eunuque, moi je serai votre muet. Quand ma
+langue sera indiscr�te, que mes yeux cessent de voir!
+
+VIOLA.--Je te remercie, conduis-moi.
+
+(Ils sortent.)
+
+
+
+SC�NE III
+
+
+Appartement de la maison d'Olivia.
+
+SIR TOBIE et MARIE.
+
+SIR TOBIE.--Que diable pr�tend ma ni�ce en prenant si fort � coeur la
+mort de son fr�re? Je suis s�r, moi, que le chagrin est ennemi de la
+vie.
+
+MARIE.--Sur ma parole, sir Tobie, il faut que vous veniez de meilleure
+heure le soir. Madame votre ni�ce a de grandes objections[5] � vos
+heures indues.
+
+SIR TOBIE.--Eh bien! qu'elle excipe avant d'�tre excip�e[6].
+
+[Note 5: En anglais _exceptions_, d'o� la r�ponse de sir Tobie.]
+
+[Note 6: _Let her except before excepted._]
+
+MARIE.--Fort bien; mais il faut vous confiner dans les modestes limites
+de l'ordre.
+
+SIR TOBIE.--_Confiner_[7]! je ne me tiendrai pas plus finement que je
+ne fais; ces habits sont assez bons pour boire et ces bottes aussi, ou
+sinon qu'elles se pendent � leurs propres tirants.
+
+[Note 7: _To confine_, jeu de mots sur _confine_ et _fine_.]
+
+MARIE.--Ces grandes rasades vous tueront: j'entendais madame en parler
+encore hier, ainsi que de cet imb�cile chevalier que vous avez amen� un
+soir ici pour lui faire la cour.
+
+SIR TOBIE.--Quoi? sir Andr� Ague-cheek?
+
+MARIE.--Oui, lui-m�me.
+
+SIR TOBIE.--C'est un homme des plus braves qu'il y ait en Illyrie.
+
+MARIE.--Et qu'importe � la chose?
+
+SIR TOBIE.--Comment! il a trois mille ducats de rente.
+
+MARIE.--Oui! mais il ne fera qu'une ann�e de tous ses ducats: c'est un
+vrai fou, un prodigue.
+
+SIR TOBIE.--Fi! n'avez-vous pas honte de dire cela? Il joue de la viole
+de Gambo[8], il parle trois ou quatre langues, mot � mot, sans livre, et
+il poss�de les meilleurs dons de nature.
+
+[Note 8: Instrument qu'on tenait entre les jambes.]
+
+MARIE.--Oh! oui, certes, il les poss�de au naturel; car, outre que c'est
+un sot, c'est un grand querelleur; et si ce n'est qu'il a le don d'un
+l�che pour apaiser la fougue qui l'emporte dans une querelle, c'est
+l'opinion des gens sens�s qu'on lui ferait bient�t le don d'un tombeau.
+
+SIR TOBIE.--Par cette main, ce sont des b�l�tres, des d�tracteurs, que
+ceux qui tiennent de lui ces propos.--Qui sont-ils?
+
+MARIE.--Ce sont des gens qui ajoutent encore qu'il est ivre toutes les
+nuits en votre compagnie.
+
+SIR TOBIE.--A force de porter des sant�s � ma ni�ce: je boirai � sa
+sant� aussi longtemps qu'il y aura un passage dans mon gosier, et du vin
+en Illyrie. C'est un l�che et un poltron[9] que celui qui ne veut pas
+boire � ma ni�ce, jusqu'� ce que la cervelle lui tourne comme un sabot
+de village. Allons, fille, _castiliano vulgo_[10]: voici sir Andr�
+Ague-face.
+
+[Note 9: _Coystril_, un coq peureux.]
+
+[Note 10: _Castiliano vulgo_, � l'espagnole.]
+
+(Entre sir Andr� Ague-cheek.)
+
+SIR ANDR�.--Ah! sir Tobie Belch! Comment vous va, sir Tobie Belch?
+
+SIR TOBIE.--Ah! mon cher sir Andr�!
+
+SIR ANDR�, _� Marie_.--Salut, jolie grondeuse.
+
+MARIE.--Salut, monsieur.
+
+SIR TOBIE.--Accoste, sir Andr�, accoste.
+
+SIR ANDR�.--Qu'est-ce que c'est?
+
+SIR TOBIE.--La femme de chambre de ma ni�ce.
+
+SIR ANDR�.--Belle madame _Accoste_, je d�sire faire connaissance avec
+vous.
+
+MARIE.--Mon nom est Marie, monsieur.
+
+SIR ANDR�.--Belle madame Marie _Accoste_....
+
+SIR TOBIE.--Vous vous m�prenez, chevalier. Quand je dis _accoste_, je
+veux dire envisagez-la, abordez-la, faites-lui votre cour, attaquez-la.
+
+SIR ANDR�.--Sur ma foi, je ne voudrais pas l'attaquer ainsi en
+compagnie. Est-ce l� le sens du mot _accoste_?
+
+MARIE.--Portez-vous bien, messieurs.
+
+SIR TOBIE.--Si tu la laisses partir ainsi, sir Andr�, puisses-tu ne
+jamais tirer l'�p�e!
+
+SIR ANDR�.--Si vous partez ainsi, mademoiselle, je ne veux jamais tirer
+l'�p�e. Belle dame, croyez-vous avoir des sots sous la main?
+
+MARIE.--Monsieur, je ne vous ai pas sous la main.
+
+SIR ANDR�.--Par ma foi, vous allez l'avoir tout � l'heure, car voici ma
+main.
+
+MARIE.--Maintenant, monsieur, la pens�e est libre. Je vous prie de
+porter votre main � la baratte au beurre, et laissez-la boire.
+
+SIR ANDR�.--Pourquoi, mon cher coeur? quelle est votre m�taphore?
+
+MARIE.--Elle est s�che, monsieur[11].
+
+[Note 11: Peut-�tre pour dire: elle est vide; ou bien, d'apr�s la
+chiromancie, une main s�che signifie ici une constitution froide.]
+
+SIR ANDR�.--Comment donc! je le crois bien; je ne suis pas assez �ne
+pour ne pas tenir ma main s�che. Mais que signifie votre plaisanterie?
+
+MARIE.--C'est une plaisanterie toute s�che, monsieur.
+
+SIR ANDR�.--En avez-vous beaucoup de semblables?
+
+MARIE.--Oui, monsieur, je les ai au bout de mes doigts: allons, je
+laisse aller votre main, je suis dess�ch�e[12].
+
+(Marie sort.)
+
+[Note 12: _I am barren._]
+
+SIR TOBIE.--Chevalier, tu as besoin d'une coupe de vin des Canaries; je
+ne t'ai jamais vu si bien terrass�.
+
+SIR ANDR�.--Jamais de votre vie, je pense, � moins que vous ne me voyez
+terrass� par le canarie. Il me semble qu'il y a des jours o� je n'ai pas
+plus d'esprit qu'un chr�tien ou qu'un homme ordinaire. Mais je suis un
+grand mangeur de boeuf, et je crois que cela fait tort � mon esprit.
+
+SIR TOBIE.--Il n'y a pas de doute.
+
+SIR ANDR�.--Si je le croyais, je m'en abstiendrais.--Je retourne chez
+moi � cheval demain, sir Tobie.
+
+SIR TOBIE.--Pourquoi, mon cher chevalier?
+
+SIR ANDR�.--Que signifie pourquoi[13]? Le faire ou ne le pas faire? Je
+voudrais avoir employ� � apprendre les langues le temps que j'ai mis �
+l'escrime, � la danse, � la chasse � l'ours.--Oh! si j'avais suivi les
+beaux-arts!
+
+[Note 13: _Pourquoi_, en fran�ais dans le texte.]
+
+SIR TOBIE.--Oh! vous auriez eu une superbe chevelure.
+
+SIR ANDR�.--Quoi, cela aurait-il amend� mes cheveux?
+
+SIR TOBIE.--Sans contredit, car vous voyez qu'ils ne frisent pas
+naturellement.
+
+SIR ANDR�.--Mais cela me sied assez bien, n'est-il pas vrai?
+
+SIR TOBIE.--A merveille. Ils pendent droit comme le lin sur une
+quenouille, et j'esp�re un jour voir une m�nag�re vous prendre entre ses
+jambes et vous filer.
+
+SIR ANDR�.--Ma foi, je retourne chez moi demain, sir Tobie. Votre ni�ce
+ne veut pas se laisser voir, ou, si elle voit quelqu'un, il y a quatre
+� parier contre un qu'elle ne voudra pas de moi. Le comte lui-m�me, qui
+est ici tout pr�s, lui fait la cour.
+
+SIR TOBIE.--Elle ne veut point du comte. Elle ne veut point de mari
+au-dessus d'elle, ni en fortune, ni en �ge, ni en esprit. Je lui en ai
+entendu faire le serment. Hem! il y a de la r�solution l�-dedans, ami!
+
+SIR ANDR�.--Je veux rester un mois de plus. Je suis l'homme du monde qui
+a les id�es les plus dr�les: j'aime extr�mement les mascarades et les
+bals tout � la fois.
+
+SIR TOBIE.--�tes-vous bon pour ces balivernes, chevalier?
+
+SIR ANDR�.--Autant qu'homme en Illyrie, quel qu'il soit, au-dessous du
+rang de mes sup�rieurs....; et cependant je ne veux pas me comparer � un
+vieillard.
+
+SIR TOBIE.--Quel est votre talent pour une _gaillarde_[14], chevalier?
+
+[Note 14: Esp�ce de danse.]
+
+SIR ANDR�.--H�! je suis en �tat de faire une cabriole[15].
+
+[Note 15: _Caper_, cabriole, capre.]
+
+SIR TOBIE.--Et moi je sais d�couper le mouton.
+
+SIR ANDR�.--Et je me flatte d'avoir le saut en arri�re aussi vigoureux
+qu'aucun homme de l'Illyrie.
+
+SIR TOBIE.--Pourquoi donc cacher ces talents? Pourquoi tenir ces dons
+derri�re le rideau? Craignez-vous qu'ils prennent la poussi�re comme le
+portrait de madame Mall[16]? Que n'allez-vous � l'�glise en dansant une
+_gaillarde_, pour revenir chez vous en dansant une _courante_? Je ne
+marcherais plus qu'au pas d'une _gigue_; je ne voudrais m�me uriner que
+sur un pas de cinq[17]. Que pr�tendez-vous? Le monde est-il fait pour
+qu'on enfouisse ses talents? Je croyais bien, � voir la merveilleuse
+constitution de votre jambe, que vous aviez �t� form� sous l'�toile
+d'une gaillarde.
+
+[Note 16: _Mall_, surnomm�e Coupe-Bourse, femme fameuse dans les annales
+des lieux de prostitution.]
+
+[Note 17: _A cinque-pace._]
+
+SIR ANDR�.--Oui, elle est fortement constitu�e, et elle a assez
+bonne gr�ce avec un bas de couleur de flamme. Irons-nous � quelques
+divertissements?
+
+SIR TOBIE.--Que ferons-nous de mieux? Ne sommes-nous pas n�s sous le
+Taureau?
+
+SIR ANDR�.--Le taureau? c'est-�-dire, les flancs et le coeur[18].
+
+[Note 18: Allusion � l'astrologie m�dicale, qui rapporte les diff�rentes
+affections des parties du corps � l'influence dominante de certaines
+constellations.]
+
+SIR TOBIE.--Non, monsieur, ce sont les jambes et les cuisses. Que je
+vous voie faire la cabriole. Ah! plus haut: ah! ah! � merveille.
+
+(Ils sortent.)
+
+
+
+SC�NE IV
+
+
+Appartement du palais du duc.
+
+VALENTIN ET VIOLA _en habit de page_
+
+VALENTIN.--Si le duc vous continue ses faveurs, vraiment, C�sario, vous
+avez bien l'air de faire une grande fortune: il n'y a encore que trois
+jours qu'il vous conna�t, et vous n'�tes d�j� plus un �tranger.
+
+VIOLA.--Vous craignez donc ou l'inconstance de son humeur, ou ma
+n�gligence, pour mettre ainsi en doute la dur�e de son affection? Est-il
+inconstant, monsieur, dans ses go�ts?
+
+VALENTIN.--Non, croyez-moi.
+
+(Entrent le duc et Curio; suite.)
+
+VIOLA, _� Valentin_.--Je vous remercie.--Voici le comte qui vient.
+
+LE DUC.--Qui de vous a vu C�sario?
+
+VIOLA.--Il est � votre suite, seigneur: me voici.
+
+LE DUC, _aux autres_.--Retirez-vous un moment � l'�cart.--C�sario, tu es
+instruit de tout; je t'ai ouvert le livre secret de mon coeur. Ainsi,
+bon jeune homme, dirige tes pas vers elle. Ne te laisse pas interdire
+l'entr�e: poste-toi � ses portes, et dis-leur que ton pied y prendra
+racine jusqu'� ce que tu obtiennes une audience.
+
+VIOLA.--S�rement, mon noble duc, si elle est aussi abandonn�e � son
+chagrin qu'on le dit, jamais elle ne voudra me recevoir.
+
+LE DUC.--Fais du bruit, brave toutes les biens�ances, plut�t que de
+revenir sans succ�s.
+
+VIOLA.--Admettez que je puisse lui parler, seigneur; que lui dirai-je
+alors?
+
+LE DUC.--Ah! d�voile-lui toute la violence de mon amour; �tonne-la
+du r�cit de ma tendresse. Il te si�ra bien de lui repr�senter mes
+souffrances; elle l'�coutera avec plus d'int�r�t dans la bouche de ta
+jeunesse, qu'elle ne ferait dans celle d'un d�put� plus grave.
+
+VIOLA.--Je ne le pense pas, seigneur.
+
+LE DUC.--Crois-le, cher enfant, car c'est mentir � tes belles ann�es,
+que de dire que tu es un homme. Les l�vres de Diane ne sont pas plus
+fra�ches, ni plus vermeilles. Ton filet de voix ressemble � l'organe
+d'une jeune vierge: elle est per�ante et sonore; et tout en toi te rend
+propre � jouer le r�le d'une femme. Je sais que ton �toile te destine �
+cette n�gociation.--(_Aux autres_.) Accompagnez-le, au nombre de quatre
+ou cinq, tous m�me si vous voulez; car pour moi, je ne me trouve jamais
+mieux que quand je suis seul.--(_A Viola._) R�ussis dans ce message, et
+tu vivras aussi ind�pendant que ton ma�tre; sa fortune sera la tienne.
+
+VIOLA.--Je ferai donc de mon mieux ma cour � votre ma�tresse.--(_Le duc
+sort._) Lutte remplie d'obstacles! Quel que soit mon r�le en lui faisant
+ma cour, je voudrais, moi, devenir la femme du duc.
+
+(Tous sortent.)
+
+
+
+SC�NE V
+
+
+Appartement de la maison d'Olivia.
+
+MARIE et LE BOUFFON.
+
+MARIE.--Allons, dis-moi o� tu as �t�, ou je n'ouvrirai pas assez mes
+l�vres pour qu'un crin puisse y entrer, dans le but de t'excuser; ma
+ma�tresse te fera pendre pour t'�tre absent�.
+
+LE BOUFFON.--Eh bien! qu'elle me pende; quiconque est bien pendu dans ce
+monde n'a plus rien � redouter.
+
+MARIE.--Compte l�-dessus.
+
+LE BOUFFON.--Il ne voit plus personne � craindre.
+
+MARIE.--Bonne r�ponse de car�me[19]! Je puis t'apprendre l'origine de
+ces mots.
+
+[Note 19: _A lenten answer_, r�ponse br�ve et mis�rable.]
+
+LE BOUFFON.--D'o� vient-il, bonne dame Marie?
+
+MARIE.--De la guerre; et tu peux le dire hardiment dans tes folies.
+
+LE BOUFFON.--Eh bien! que Dieu donne la sagesse � ceux qui l'ont, et que
+ceux qui sont fous fassent usage de leurs talents.
+
+MARIE.--Mais tu seras pendu pour �tre rest� si longtemps absent, ou tout
+au moins renvoy�; n'est-ce pas la m�me chose pour toi que d'�tre pendu?
+
+LE BOUFFON.--Vraiment, une bonne pendaison pr�vient un mauvais
+mariage[20]. Et quant au malheur d'�tre renvoy�, l'�t� y pourvoira[21].
+
+[Note 20: Gray dit qu'une coutume espagnole autorisait toute femme veuve
+� sauver, en l'�pousant, un malfaiteur condamn� � �tre pendu. Un
+voleur, qui marchait au supplice, plut � une femme, qui s'�cria qu'elle
+demandait sa gr�ce avec la condition d'usage. Le condamn� se retourne,
+et � peine l'a-t-il aper�ue du haut de la charrette, qu'il dit: Allons,
+fouette, cocher!]
+
+[Note 21: Les fain�ants le deviennent encore davantage vers la saison de
+l'�t�, plus s�rs de trouver leur subsistance et de pouvoir coucher � la
+belle �toile.]
+
+MARIE.--Tu es donc bien r�solu?
+
+LE BOUFFON.--Non pas; mais je suis r�solu sur deux points.
+
+MARIE.--En sorte que si l'un manque, l'autre tiendra; ou si tous les
+deux viennent � manquer, ton haut-de-chausses tombe par terre.
+
+LE BOUFFON.--Juste; en bonne foi, tout juste! Allons, va ton chemin. Si
+sir Tobie voulait quitter la boisson, tu serais une aussi spirituelle
+pi�ce de la chair d'�ve qu'aucune en Illyrie.
+
+MARIE.--Tais-toi, faquin; plus de cela: voici ma ma�tresse; fais tes
+excuses sagement, cela vaudra mieux.
+
+(Marie sort.)
+
+(Entrent Olivia, Malvolio et suite.)
+
+LE BOUFFON.--Esprit, si c'est ton bon plaisir, mets-moi en bonne veine
+de folies. Les gens d'esprit qui s'imaginent te poss�der ne sont souvent
+que des fous; et moi, qui suis bien s�r de ne pas t'avoir, je pourrais
+passer pour un homme sens�; car que dit Quinapalus? Un fou spirituel
+vaut mieux qu'un esprit fou.--Dieu vous b�nisse, ma�tresse!
+
+OLIVIA.--Faites sortir cet imb�cile.
+
+LE BOUFFON.--Est-ce que vous n'entendez pas, camarades? Emmenez madame.
+
+OLIVIA.--Va-t'en; tu es un fou � sec: je ne veux plus de toi; d'ailleurs
+tu deviens malhonn�te.
+
+LE BOUFFON.--Deux d�fauts, madonna, que la boisson et les bons conseils
+corrigeront; car donnez � boire � un fou � sec, et le fou cessera
+d'�tre � sec; recommandez � un homme malhonn�te de se corriger, s'il se
+corrige, il ne sera plus malhonn�te, et s'il ne peut se corriger, que le
+ravaudeur le corrige; tout ce qui dans le monde est corrig� n'est que
+rapetass�: la vertu qui s'�gare n'est que rapetass�e de vice, et le vice
+qui s'amende n'est que rapetass� de vertu. Si ce syllogisme tout simple
+peut me servir, � la bonne heure; sinon, quel rem�de? Comme il n'y a
+point d'homme vraiment d�shonor� autre que le mis�rable, de m�me
+la beaut� n'est qu'une fleur.--La dame a command� de faire sortir
+l'imb�cile; en cons�quence, je le r�p�te, faites-la sortir.
+
+OLIVIA.--Monsieur, je leur ai command� de vous faire sortir.
+
+LE BOUFFON.--Une m�prise du plus haut degr�! Madame, _cuclus non facit
+monachum_[22]; c'est comme qui dirait, je ne porte pas d'habit de fou
+dans le cerveau. Bonne madonna, donnez-moi la permission de prouver que
+vous �tes une folle.
+
+[Note 22: Le capuchon ne fait pas le moine.]
+
+OLIVIA.--Peux-tu le prouver?
+
+LE BOUFFON.--Tr�s-adroitement, bonne madonna.
+
+OLIVIA.--Voyons ta preuve.
+
+LE BOUFFON.--Il faut que je vous cat�chise pour cela, madame.--Ma bonne
+petite souris de vertu, r�pondez-moi.
+
+OLIVIA.--Allons, monsieur, � d�faut d'autre passe-temps, je vous
+demanderai votre preuve.
+
+LE BOUFFON.--Bonne madame, pourquoi �tes-vous en deuil?
+
+OLIVIA.--Mon cher fou, pour la mort de mon fr�re.
+
+LE BOUFFON.--Je crois, madame, que son �me est en enfer.
+
+OLIVIA.--Moi, je sais, fou, que son �me est dans le ciel.
+
+LE BOUFFON.--Vous n'en �tes que d'autant plus folle, madame, d'�tre en
+deuil, de ce que l'�me de votre fr�re est dans le ciel.--Emmenez la
+folle, messieurs.
+
+OLIVIA.--Que pensez-vous de ce fou, Malvolio? Ne s'amende-t-il pas?
+
+MALVOLIO.--Oui, et il continuera ainsi jusqu'� ce que les angoisses
+de la mort l'�branlent. L'infirmit� qui fait d�choir le sage amende
+toujours le fou.
+
+LE BOUFFON.--Dieu veuille vous envoyer, monsieur, une prompte infirmit�,
+afin d'augmenter votre folie! Sir Tobie jurera que je ne suis pas un
+renard; mais il ne risquerait pas sa parole sur deux sous, pour gager
+que vous n'�tes pas fou.
+
+OLIVIA.--Que r�pondez-vous � cela, Malvolio?
+
+MALVOLIO.--Je m'�tonne que vous, madame, vous puissiez vous amuser des
+st�riles propos d'un pareil coquin; je l'ai vu terrass� l'autre jour par
+un fou ordinaire qui n'a pas plus de cervelle qu'une pierre. Voyez,
+il est d�j� hors de parade; si vous ne riez pas, et que vous ne lui
+fournissiez pas mati�re, le voil� b�illonn�. Je proteste que je tiens
+tous ces hommes sens�s, qui rient ainsi de ces sortes de fous, pour
+n'�tre eux-m�mes rien de mieux que les bouffons de fous.
+
+OLIVIA.--Oh! vous �tes malade � force d'amour-propre, Malvolio, et votre
+go�t en est d�prav�. Quiconque est g�n�reux, sans reproche, et d'une
+humeur franche, gaie, prend pour des fl�ches d'oiseau ces traits que
+vous croyez des boulets de canon; il n'y a aucune m�disance dans un
+fou de profession, quoiqu'il ne fasse que railler, et il n'y a point
+d'amertume dans les railleries d'un homme connu pour sage, quoiqu'il ne
+fasse que censurer.
+
+LE BOUFFON.--Que Mercure te donne le don de mentir, en r�compense de ce
+que tu parles si bien des fous!
+
+(Entre Marie.)
+
+MARIE.--Madame, il y a � votre porte un jeune gentilhomme qui d�sire
+beaucoup vous parler.
+
+OLIVIA.--De la part du comte Orsino, n'est-ce pas?
+
+MARIE.--Je l'ignore, madame; c'est un beau jeune homme, et bien
+accompagn�.
+
+OLIVIA.--Qui de mes gens l'arr�te � ma porte?
+
+MARIE.--Sir Tobie, madame, votre parent.
+
+OLIVIA.--�cartez-le, je vous prie: il ne dit pas un mot qui ne soit d'un
+insens�. (_Marie sort._)--Allez, Malvolio; si c'est un message de la
+part du comte, je suis malade, ou je ne suis pas chez moi; tout ce que
+vous voudrez pour m'en d�barrasser. (_Malvolio sort._) (_Au bouffon._)
+Tu vois, l'ami, que ta folie devient surann�e et qu'elle d�pla�t aux
+gens.
+
+LE BOUFFON.--Vous avez parl� pour nous, madame, comme si votre fils a�n�
+�tait un fou. Que Jupiter veuille remplir son cr�ne de cervelle; car
+voici un de vos parents qui a une _pie-m�re_[23] des plus faibles.
+
+[Note 23: La pie-m�re, membrane du cerveau, prise ici pour le cerveau
+lui-m�me.]
+
+(Entre sir Tobie Belch.)
+
+OLIVIA.--Sur mon honneur, il est � demi-ivre.--Qui est-ce qui est � la
+porte, cousin?
+
+SIR TOBIE.--Un gentilhomme.
+
+OLIVIA.--Un gentilhomme! quel gentilhomme?
+
+SIR TOBIE.--C'est un gentilhomme.... La peste soit des harengs saurs! Eh
+bien! sot?
+
+LE BOUFFON.--Bon! Sir Tobie....
+
+OLIVIA.--Mon oncle, mon oncle, comment se fait-il que vous ayez gagn� de
+si bonne heure cette l�thargie?
+
+SIR TOBIE.--La luxure[24]; je d�fie la luxure.--Il y a quelqu'un � la
+porte.
+
+[Note 24: �quivoque entre _lechery_ et _lethargy_.]
+
+OLIVIA.--Oui, certes: qui est-ce?
+
+SIR TOBIE.--Qu'il soit le diable, s'il veut, je ne m'en embarrasse
+gu�re. Oh! vous pouvez m'en croire, comme je vous le dis: oui, cela
+m'est �gal. (Il sort.)
+
+OLIVIA.--A quoi ressemble un homme ivre, fou?
+
+LE BOUFFON.--A un homme noy�, � un fou, et � un fr�n�tique; un verre de
+plus apr�s qu'il est en chaleur en fait un fou: le second le jette dans
+la fr�n�sie, et un troisi�me le noie.
+
+OLIVIA.--Va chercher l'officier de paix, et qu'il veille sur mon cousin;
+car il en est au troisi�me degr� de la boisson, il est noy�; va, veille
+sur lui.
+
+LE BOUFFON.--Il n'est encore que fou, madame; et le fou aura soin du
+fou. (Le bouffon sort.)
+
+(Malvolio rentre.)
+
+MALVOLIO.--Madame, il jure qu'il vous parlera. Je lui ai dit que vous
+�tiez malade: il r�pond qu'il s'attendait � cela, et que c'est pour
+cela qu'il vient vous parler: je lui ai dit que vous �tiez endormie; il
+semble qu'il en avait aussi un pressentiment, et il dit que c'est pour
+cela qu'il vient vous parler; que lui dira-t-on, madame? Il est cuirass�
+contre toute esp�ce de refus.
+
+OLIVIA.--Dites-lui qu'il ne me parlera pas.
+
+MALVOLIO.--On le lui a d�j� dit; et il d�clare qu'il va s'�tablir �
+votre porte, comme le poteau d'un sh�riff[25], et se faire pied de banc;
+mais qu'il vous parlera.
+
+[Note 25: Les poteaux plac�s � la porte du sh�riff, pour afficher les
+actes publics, les ordonnances, etc.]
+
+OLIVIA.--Quelle esp�ce d'homme est-ce?
+
+MALVOLIO.--Mais de l'esp�ce des hommes.
+
+OLIVIA.--Et quelles sont ses mani�res?
+
+MALVOLIO.--De fort mauvaises mani�res. Il veut vous parler, que vous
+vouliez ou non.
+
+OLIVIA.--Et sa personne, son �ge?
+
+MALVOLIO.--Il n'est pas encore assez �g� pour un homme, ni assez jeune
+pour un enfant; il est ce qu'est une cosse avant qu'elle devienne pois;
+ou un fruit vert, quand il est sur le point d'�tre une pomme; au point
+de s�paration entre l'enfant et l'homme; il a un fort beau visage, et
+il parle d'un ton mutin; on croirait que le lait de sa m�re n'est pas
+encore tout � fait sorti de ses veines.
+
+OLIVIA.--Qu'il vienne; appelez ma demoiselle.
+
+MALVOLIO.--Mademoiselle, madame vous appelle.
+
+(Il sort.)
+
+(Marie rentre.)
+
+OLIVIA.--Donnez-moi mon voile; jetez-le-moi sur mon visage: nous
+consentons � �couter encore une fois l'ambassade d'Orsino.
+
+(Entre Viola.)
+
+VIOLA.--Laquelle est ici l'honorable ma�tresse du logis?
+
+OLIVIA.--Adressez-moi la parole, je r�pondrai pour elle; que
+voulez-vous?
+
+VIOLA.--Tr�s-radieuse, parfaite et incomparable beaut�....--Je vous
+prie, dites-moi si c'est l� la ma�tresse de la maison, car je ne l'ai
+jamais vue. Je serais bien f�ch� de perdre mal � propos ma harangue; car
+outre qu'elle est admirablement bien �crite, je me suis donn� beaucoup
+de peine, pour l'apprendre par coeur. G�n�reuses beaut�s, ne me faites
+essuyer aucun d�dain; je suis extr�mement susceptible � la plus l�g�re
+marque de m�pris.
+
+OLIVIA.--De quelle part venez-vous, monsieur?
+
+VIOLA.--Je ne suis pas en �tat d'en dire beaucoup plus que je n'ai
+�tudi�; et cette question s'�carte de mon r�le. Aimable dame, donnez-moi
+l'assurance positive que vous �tes la ma�tresse du logis, afin que je
+puisse proc�der � ma harangue.
+
+OLIVIA.--�tes-vous com�dien?
+
+VIOLA.--Non, � vous parler du fond du coeur; et cependant je jure par
+les griffes de la m�chancet� que je ne suis pas ce que je repr�sente.
+�tes-vous la dame du logis?
+
+OLIVIA.--Si je ne me vole pas moi-m�me, je la suis.
+
+VIOLA.--Tr�s-certainement si vous l'�tes, vous vous volez vous-m�me. Car
+ce qui est � vous, pour en faire don, n'est pas � vous pour le tenir en
+r�serve. Mais cela sort de ma commission. Je veux d'abord d�biter mon
+discours � votre louange, et en venir ensuite au fait de mon message.
+
+OLIVIA.--Venez tout de suite � ce qu'il y a d'important, je vous
+dispense de l'�loge.
+
+VIOLA.--H�las! j'ai pris tant de peine � l'�tudier; et il est po�tique.
+
+OLIVIA.--Il n'en ressemble que mieux � une fiction; je vous en prie,
+gardez-le pour vous. On m'a dit que vous �tiez impertinent � ma porte,
+et j'ai permis votre entr�e, plus pour vous contempler avec �tonnement,
+que pour vous �couter. Si vous n'�tes pas insens�, retirez-vous; si vous
+jouissez de votre raison, soyez court: je ne suis pas dans une lune �
+soutenir un dialogue aussi extravagant.
+
+MARIE.--Voulez-vous d�ployer les voiles, monsieur? Voici votre chemin.
+
+VIOLA.--Non, joli mousse, je dois rester � flot ici un peu plus
+longtemps.--(_A Olivia._) Pacifiez un peu votre g�ant, ma ch�re
+dame[26].
+
+[Note 26: Allusion aux g�ants pr�pos�s � la garde des demoiselles dans
+les romans, et � la petite taille de Marie.]
+
+OLIVIA.--D�clarez-moi vos intentions.
+
+VIOLA.--Je suis un messager.
+
+OLIVIA.--S�rement, vous avez quelque chose de bien affreux �
+m'apprendre, puisque le d�but de votre politesse est si craintif;
+expliquez l'objet de votre message.
+
+VIOLA.--Il n'est destin� qu'� votre oreille; je ne vous apporte ni
+d�claration de guerre, ni imposition d'hommage; je porte la branche
+d'olivier dans ma main: mes paroles sont, comme le sujet, des paroles de
+paix.
+
+OLIVIA.--Et cependant vous avez commenc� bien brusquement. Qu'�tes-vous?
+Que voulez-vous?
+
+VIOLA.--Si j'ai montr� quelque grossi�ret�, c'est de mon r�le que je
+l'ai emprunt�e. Ce que je suis et ce que je veux sont des choses aussi
+secr�tes que la virginit�, sacr�es pour vos oreilles, profanation pour
+toute autre.
+
+OLIVIA, _� Marie_.--Laissez-nous seuls. Nous d�sirons conna�tre ces
+choses sacr�es. (_Marie sort._) Maintenant, monsieur, votre texte?
+
+VIOLA.--Tr�s-ch�re dame....
+
+OLIVIA.--Une doctrine vraiment consolante, et sur laquelle on peut dire
+beaucoup de choses!--O� est votre texte?
+
+VIOLA.--Dans le sein d'Orsino.
+
+OLIVIA.--Dans son sein? Dans quel chapitre de son sein?
+
+VIOLA.--Pour vous r�pondre avec m�thode, dans le premier chapitre de son
+coeur.
+
+OLIVIA.--Oh! je l'ai lu; c'est de l'h�r�sie toute pure. N'avez-vous rien
+de plus � dire?
+
+VIOLA.--Ch�re madame, laissez-moi voir votre visage.
+
+OLIVIA.--Avez-vous quelque commission de votre ma�tre � n�gocier avec
+mon visage? Vous voil� maintenant hors de votre texte; mais nous allons
+tirer le rideau et vous montrer le portrait. Regardez, monsieur: voil�
+comme je suis pour le moment; n'est-ce pas bien fait?
+
+(Elle �te son voile.)
+
+VIOLA.--Admirablement bien fait, si Dieu a tout fait.
+
+OLIVIA.--C'est dans le grain, monsieur; cela r�sistera � la pluie et au
+vent.
+
+VIOLA.--C'est la beaut� m�me, m�lange heureux des roses et des lis,
+et la main d�licate et savante de la nature en a p�tri elle-m�me les
+couleurs. Madame, vous �tes la plus cruelle des femmes qui respirent, si
+vous conduisez toutes ces gr�ces au tombeau sans en laisser de copie au
+monde.
+
+OLIVIA.--Oh! monsieur, je n'aurai pas le coeur si dur: je donnerai
+plusieurs c�dules de ma beaut�. Elle sera inventori�e, et chaque
+parcelle, chaque article sera cot� dans mon testament; par exemple,
+_item_, deux l�vres passablement vermeilles: _item_, deux yeux gris avec
+des paupi�res dessus: _item_, un cou, un menton, et ainsi de suite.
+Avez-vous �t� envoy� ici pour faire mon estimation?
+
+VIOLA.--Je vois ce que vous �tes: vous �tes trop fi�re; mais
+fussiez-vous le diable, vous �tes belle: mon seigneur et ma�tre vous
+aime. Oh! un pareil amour m�rite d'�tre r�compens�, fussiez-vous
+couronn�e comme la beaut� incomparable.
+
+OLIVIA.--Comment m'aime-t-il?
+
+VIOLA.--Avec des adorations, des larmes f�condes, des g�missements qui
+tonnent l'amour, et des soupirs de feu[27].
+
+[Note 27: Ridicule jet� sur les hyperboles amoureuses.]
+
+OLIVIA.--Votre ma�tre conna�t mes dispositions: je ne puis l'aimer.
+Cependant je le crois vertueux, je sais qu'il est noble, d'un rang
+illustre, d'une jeunesse sans tache et dans toute sa fra�cheur. Il a les
+suffrages de tout le monde; il est lib�ral, savant et vaillant; et plein
+de gr�ce dans sa taille et sa tournure; mais malgr� toutes ces qualit�s,
+je ne puis l'aimer: il y a longtemps qu'il aurait d� se le tenir pour
+dit.
+
+VIOLA.--Si je vous aimais de toute la passion de mon ma�tre, si je
+souffrais comme il souffre, si ma vie �tait une mort, je ne trouverais
+aucun sens dans votre refus, et je ne le comprendrais pas.
+
+OLIVIA.--Eh! que feriez-vous?
+
+VIOLA.--Je me b�tirais une cabane de saule[28] � votre porte, et j'irais
+voir mon �me dans sa demeure; je composerais des chants loyaux sur
+l'amour m�pris�, et je les chanterais de toute ma voix m�me au milieu de
+la nuit; je crierais votre nom aux collines qui le r�percuteraient, et
+je forcerais la babillarde comm�re de l'air � r�p�ter _Olivia_! Oh! vous
+ne pourriez trouver de repos entre les �l�ments de l'air et de la terre,
+que vous n'eussiez eu piti� de moi.
+
+[Note 28: Arbre de la m�lancolie et des amants.]
+
+OLIVIA.--Vous pourriez faire beaucoup de choses! Quelle est votre
+parent�?
+
+VIOLA.--Au-dessus de ma fortune; et cependant ma fortune est suffisante:
+je suis gentilhomme.
+
+OLIVIA.--Retournez vers votre ma�tre: je ne puis l'aimer; qu'il n'envoie
+plus chez moi; � moins que, par hasard, vous ne reveniez encore, pour me
+dire comment il prend la chose. Adieu! je vous remercie de vos peines;
+d�pensez ceci pour l'amour de moi.
+
+VIOLA.--Je ne suis point un messager � gages, madame: gardez votre
+bourse; c'est mon ma�tre, et non pas moi, qui a besoin de r�compense.
+Puisse l'amour changer en pierre le coeur de celui que vous aimerez; et
+que votre ardeur, comme celle de mon ma�tre, ne rencontre que le m�pris!
+Adieu, beaut� cruelle.
+
+(Elle sort.)
+
+OLIVIA.--_Quelle est votre parent�?_--_Au-dessus de ma fortune_,
+r�pond-il, _et pourtant ma fortune est suffisante._--_Je suis
+gentilhomme._ Oui, je le jurerais, que tu l'es en effet. Ton langage, ta
+physionomie, ta tournure, tes actions et tes sentiments te donnent dix
+fois des armoiries.--N'allons pas trop vite.--Doucement, doucement! Si
+le ma�tre �tait le serviteur! Allons donc!--Comment peut-on prendre
+si promptement la contagion? Il me semble que je sens toutes les
+perfections de ce jeune homme se glisser furtivement et subtilement dans
+mes yeux. Allons, soit.--Hol�, Malvolio!
+
+(Rentre Malvolio.)
+
+MALVOLIO.--Me voici, madame, � vos ordres.
+
+OLIVIA.--Cours apr�s ce messager impertinent, l'homme du comte: il a
+laiss� cette bague ici malgr� moi; dis-lui que je n'en veux point.
+Recommande-lui bien de ne pas flatter son ma�tre, et de ne pas nourrir
+ses esp�rances: je ne suis point pour lui. Si le jeune homme veut
+revenir ici demain, je lui expliquerai les raisons de mon refus. Cours
+vite, Malvolio.
+
+MALVOLIO.--Madame, j'y cours.
+
+(Il sort.)
+
+OLIVIA.--Je ne sais trop ce que je fais; et je crains de trouver que
+mes yeux sont des flatteurs qui en imposent � mon jugement[29]. Destin,
+montre ta puissance: nous ne disposons pas de nous-m�mes. Ce qui est
+d�cr�t� doit arriver; qu'il en soit fait ainsi!
+
+(Elle sort.)
+
+[Note 29: _Mine eye too great a flatterer for my mind._]
+
+FIN DU PREMIER ACTE
+
+
+
+
+ACTE DEUXI�ME
+
+
+
+SC�NE I
+
+
+Le bord de la mer.
+
+ANTONIO, S�BASTIEN.
+
+ANTONIO.--Vous ne voulez pas rester plus longtemps? Et vous ne voulez
+pas que je vous accompagne?
+
+S�BASTIEN.--Non, je vous en prie; mon �toile jette sur moi une clart�
+sinistre: la malignit� de ma destin�e pourrait peut-�tre empoisonner la
+v�tre. Je vous demanderai donc la permission de porter mes maux tout
+seul: ce serait bien mal reconna�tre votre amiti� pour moi, que d'en
+faire retomber une partie sur vous.
+
+ANTONIO.--Faites-moi conna�tre au moins en quel lieu vous vous proposez
+d'aller.
+
+S�BASTIEN.--Non, non, monsieur; le voyage que j'ai r�solu est une
+v�ritable extravagance.--Cependant je remarque en vous une discr�tion si
+d�licate que vous ne chercherez pas � m'extorquer le secret que je veux
+garder... Et la politesse me fait un devoir de vous le r�v�ler moi-m�me.
+Il faut donc que vous sachiez de moi, Antonio, que mon nom est
+S�bastien, que j'ai chang� en celui de Rodrigo; mon p�re �tait ce
+S�bastien de Messaline, dont je sais que vous avez ou� parler. Il a
+laiss� apr�s lui deux enfants, moi, et une soeur, tous deux n�s � la
+m�me heure: s'il e�t plu au ciel, nous aurions de m�me fini notre vie
+ensemble; mais, vous, monsieur, vous avez chang� mes destins; car
+quelques heures avant que vous m'ayez retir� des ab�mes de la mer, ma
+soeur �tait noy�e.
+
+ANTONIO.--H�las! funeste jour!
+
+S�BASTIEN.--Une jeune personne, monsieur, qui, quoiqu'on d�t qu'elle me
+ressemblait beaucoup, passait pour belle aux yeux de beaucoup de gens.
+Il ne me convient pas � moi d'oser avoir d'elle une aussi haute id�e que
+les autres; mais du moins puis-je assurer hardiment qu'elle portait
+une �me que l'envie m�me �tait forc�e de dire belle. Elle est noy�e,
+monsieur, dans l'eau sal�e, et il me semble que je vais encore y noyer
+son souvenir.
+
+ANTONIO.--Excusez-moi, monsieur, de la mauvaise ch�re que je vous ai
+fait faire.
+
+S�BASTIEN.--Cher Antonio, c'est moi qui vous prie de me pardonner
+l'embarras que je vous ai caus�.
+
+ANTONIO.--Si, pour prix de mon amiti�, vous ne voulez pas me tuer,
+permettez-moi d'�tre votre serviteur.
+
+S�BASTIEN.--Si vous ne voulez pas d�truire votre ouvrage, je veux dire,
+tuer celui que vous avez sauv�, n'exigez pas cela de moi. Adieu, en un
+mot: mon coeur est plein de reconnaissance; et je suis encore si pr�s
+d'avoir les mani�res de ma m�re, qu'un peu plus et mes yeux vont me
+trahir. Je vais � la cour du comte Orsino: adieu.
+
+(Il sort.)
+
+ANTONIO.--Que la bont� de tous les dieux ensemble accompagne tes pas!
+J'ai beaucoup d'ennemis � la cour d'Orsino; sans cela, je ne tarderais
+pas � t'y revoir.--Mais, advienne que pourra, je t'adore tant, que pour
+toi tous les dangers me sembleront un jeu, et je veux y aller.
+
+(Il sort.)
+
+
+
+SC�NE II
+
+
+Une rue.
+
+VIOLA _entre_, MALVOLIO _la suit_.
+
+MALVOLIO.--N'�tiez-vous pas, il y a un moment, avec la comtesse Olivia?
+
+VIOLA.--A l'instant m�me, monsieur; en marchant d'un pas ordinaire je ne
+suis encore arriv� qu'ici.
+
+MALVOLIO.--Elle vous renvoie cette bague, monsieur; vous auriez pu
+m'�pargner cette peine, et la reprendre vous-m�me. Elle ajoute, en
+outre, que vous ayez � bien assurer votre ma�tre qu'il peut d�sesp�rer,
+et qu'elle ne veut point de lui; et ceci encore, que vous n'ayez jamais
+la hardiesse de revenir n�gocier pour lui, � moins que ce ne soit pour
+rapporter la mani�re dont votre seigneur, entendez-le bien, aura pris
+son refus.
+
+VIOLA.--Elle a re�u cette bague de moi: je n'en veux point.
+
+MALVOLIO.--Allons, monsieur, vous la lui avez m�chamment jet�e: et son
+intention est qu'elle vous soit rendue. (_Il la jette � ses pieds._)
+Si elle vaut la peine que vous vous baissiez, la voil� sous vos yeux;
+sinon, qu'elle soit � celui qui la trouvera.
+
+(Il sort.)
+
+VIOLA.--Je n'ai point laiss� de bague chez elle; que veut dire cette
+dame? Que ma fortune ne permette pas que ma figure l'ait charm�e!--Elle
+m'a bien regard�e, et si attentivement qu'il me semblait que ses yeux
+�garaient sa langue; car elle ne me parlait que par mots interrompus et
+d'un air distrait. Elle m'aime s�rement. C'est une ruse de sa passion
+qui m'invite � la revoir par ce grossier messager. Ce n'est point du
+tout une bague de mon ma�tre! D'abord, il ne lui en a point envoy�;
+c'est pour moi-m�me.--Si cela est (comme cela est en effet), pauvre
+femme, il vaudrait mieux pour elle �tre amoureuse d'un songe!
+D�guisement, tu es, je le vois, une m�chancet�, dont l'adroit ennemi du
+genre humain sait tirer grand parti. Combien il est ais� � ceux qui ont
+quelques appas pour tromper de faire impression sur la molle cire du
+coeur des femmes! H�las! c'est la faute de notre fragilit�, et non pas
+la n�tre; car nous sommes ce que nous avons �t� faites. Comment ceci
+s'arrangera-t-il? Mon ma�tre l'aime passionn�ment; et moi, pauvre fille
+m�tamorphos�e, je suis aussi �prise de lui. Et elle, dans sa m�prise,
+parait raffoler de moi. Qu'est-ce que tout ceci deviendra? Mon �tat me
+fait d�sesp�rer de l'amour de mon ma�tre; et �tant une femme, h�las! que
+d'inutiles soupirs poussera l'infortun�e Olivia! O temps! c'est � toi de
+d�brouiller ceci et non � moi: le noeud est trop compliqu� pour que je
+le puisse d�nouer.
+
+(Elle sort.)
+
+
+
+SC�NE III
+
+
+Appartement de la maison d'Olivia.
+
+SIR TOBIE BELCH, SIR ANDR� AGUE-CHEEK.
+
+SIR TOBIE.--Approchez, sir Andr�. N'�tre pas au lit apr�s minuit, c'est
+�tre lev� de bonne heure; et _diluculo surgere_[30]....., vous savez....
+
+[Note 30: �Se lever au petit jour est utile � la sant�,� _adage latin_.]
+
+SIR ANDR�.--Non, en bonne foi, je ne sais pas, moi; mais je sais qu'�tre
+lev� tard c'est �tre lev� tard.
+
+SIR TOBIE.--Fausse conclusion, que je hais autant qu'un flacon vide!
+�tre debout apr�s minuit, et aller alors au lit, c'est se coucher matin;
+en sorte qu'aller se coucher apr�s minuit, c'est aller se coucher de
+bonne heure. Notre vie n'est-elle pas compos�e de quatre �l�ments?
+
+SIR ANDR�.--On le dit: mais je crois, moi, qu'elle est plut�t compos�e
+du boire et du manger.
+
+SIR TOBIE.--Vous �tes un savant: allons donc manger et boire.--Hol�!
+Marianne, entendez-vous?--Un flacon de vin.
+
+(Entre le bouffon.)
+
+SIR ANDR�.--Voici, ma foi, le fou qui vient.
+
+LE BOUFFON.--Eh bien! mes coeurs? N'avez-vous jamais vu notre portrait �
+nous trois?
+
+SIR TOBIE.--Sois le bienvenu, �non; allons, une chanson.
+
+SIR ANDR�.--Sur ma foi, ce fou a une excellente voix! Je voudrais pour
+quarante shillings avoir sa jambe, et une voix pour chanter aussi douce
+que celle du fou. En v�rit�, tu �tais dans tes plus charmantes folies
+hier au soir, lorsque tu parlas de Pigrogromitus, des Vapians passant
+l'�quinoxiale de Queubus: cela �tait excellent, en v�rit�; je t'ai
+envoy� douze sous pour ta bonne amie; les as-tu re�us?
+
+LE BOUFFON.--Oui, j'ai remis ta gracieuset� � mon jupon court; car le
+nez de Malvolio n'est pas un manche de fouet[31]; madame a la main
+blanche, et le myrmidon n'est pas un bouchon.
+
+[Note 31: _A whipstock_, il a l'odorat fin.]
+
+SIR ANDR�.--Excellent! c'est la plus jolie folie pour la fin. Allons,
+une chanson.
+
+SIR TOBIE.--Avance; voil� douze sous pour toi; chante-nous une chanson.
+
+SIR ANDR�.--Voil� encore un teston de moi; si un chevalier donne....
+
+LE BOUFFON.--Voudriez-vous une chanson d'amour, ou une chanson morale?
+
+SIR TOBIE.--Une chanson d'amour, une chanson d'amour!
+
+SIR ANDR�.--Oui, oui; je ne me soucie point de morale.
+
+LE BOUFFON _chante_.
+
+  O ma ma�tresse! o� �tes-vous errante?
+  Arr�tez et m'�coutez: Votre sinc�re amant s'avance,
+  Votre amant qui peut chanter haut ou bas.
+  Ne trotte pas plus loin, mon cher coeur:
+  Les voyages finissent par la rencontre des amants,
+  C'est ce que sait le fils de tout homme sage.
+
+SIR ANDR�.--Admirable, en v�rit�!
+
+SIR TOBIE.--Bien, tr�s-bien.
+
+LE BOUFFON.
+
+  Qu'est-ce que l'amour? Il n'est pas fait pour l'avenir.
+  La joie pr�sente fait rire dans le pr�sent;
+  Ce qui est � venir est encore incertain;
+  Il n'y a point de moisson � recueillir des d�lais.
+  Viens donc, ma ch�rie, me donner vingt baisers,
+  La jeunesse est une �toffe qui ne peut durer.
+
+SIR ANDR�.--Une voix douce comme du miel, aussi vrai que je suis
+chevalier.
+
+SIR TOBIE.--Une voix contagieuse!
+
+SIR ANDR�.--Des plus douces et des plus contagieuses, sur ma foi.
+
+SIR TOBIE.--A entendre par le nez, c'est une douce contagion[32]. Mais
+commencerons-nous une danse de tourne-ciel[33]? �veillerons-nous la
+chouette par un canon, qui ravisse les trois �mes[34] d'un tisserand?
+Ferons-nous cela?
+
+[Note 32: _A dulcet in contagion_, jeu de mots intraduisible.]
+
+[Note 33: _A welkin-dance,_ boire jusqu'� ce que le ciel tourne sur nos
+t�tes.]
+
+[Note 34: Apparemment l'�me v�g�tative, l'�me sensitive et l'�me
+raisonnable.]
+
+SIR ANDR�.--Si vous m'aimez, faisons-le. Allons, commence. Je suis un
+chien pour les canons.
+
+LE BOUFFON.--Par Notre-Dame, monsieur, il y a des chiens qui vont bien
+au canon.
+
+SIR ANDR�.--Certainement; chantons: _Coquin, tais-toi_.
+
+LE BOUFFON.--_Tais-toi, coquin_, chevalier? Je serai donc forc� de vous
+appeler coquin, chevalier?
+
+SIR ANDR�.--Ce n'est pas la premi�re fois que j'ai forc� un homme �
+m'appeler coquin. Commence, fou; la chanson commence par _Tais-toi_.
+
+LE BOUFFON.--Je ne commencerai jamais si je me tais.
+
+SIR ANDR�.--Bon l�, ma foi. Allons, commence.
+
+(Ils chantent.)
+
+(Entre Marie.)
+
+MARIE.--Quels hurlements de chats faites-vous donc ici? Si ma ma�tresse
+n'a pas appel� son intendant, Malvolio, et ne lui a pas ordonn� de vous
+mettre � la porte, ne me croyez jamais.
+
+SIR TOBIE.--Madame est une Catayenne[35]; nous sommes des politiques:
+Malvolio est une canaille, et _nous sommes trois joyeux gar�ons_[36].
+Ne suis-je pas son parent? Ne suis-je pas de son sang? Foin de
+madame!--(_Chantant._) _Il �tait un homme � Babylone, madame, madame._
+
+[Note 35: �Terme de m�pris, dont l'origine est indiff�rente.�
+(STEEVENS.)]
+
+[Note 36: _Malvolio is a peg-a-ramsey, and three merry men be we._ Ces
+derniers mots sont le commencement d'une chanson; _Peg-a-ramsey_ est le
+titre d'une ballade ancienne.]
+
+LE BOUFFON.--Malepeste! le chevalier est dans une merveilleuse folie.
+
+SIR ANDR�.--Oui, il s'en tire assez bien, quand il est bien dispos�, et
+moi aussi: il fait le fou avec plus de gr�ce que moi; mais je le fais
+plus au naturel.
+
+SIR TOBIE, _chantant_.--_Ah! le douzi�me jour de d�cembre._
+
+MARIE.--Au nom de Dieu, taisez-vous.
+
+(Entre Malvolio.)
+
+MALVOLIO.--H�! mes ma�tres, �tes-vous fous? ou qu'�tes-vous donc?
+N'avez-vous ni esprit, ni savoir-vivre, ni honn�tet�, pour bavarder
+comme des chaudronniers � cette heure de la nuit? Faites-vous une
+taverne de la maison de madame, que vous vous �gosillez ainsi � crier
+vos airs de tailleurs, sans adoucir ou baisser vos voix? N'avez-vous
+donc aucun respect pour le lieu, les personnes et les temps?
+
+SIR TOBIE.--Nous avons gard� les temps, monsieur, dans nos canons. Allez
+au diable[37].
+
+[Note 37: C'est le sens qu'il faut donner, selon Malone, � ces mots:
+_Sneck up_.]
+
+MALVOLIO.--Sir Tobie, il faut que je sois tout rond avec vous. Ma
+ma�tresse m'a donn� ordre de vous dire que, quoiqu'elle vous re�oive
+comme son parent, elle n'a point de parent� avec vos d�sordres. Si vous
+pouvez vous s�parer de votre mauvaise conduite, vous serez toujours le
+bienvenu dans sa maison: sinon, s'il vous plaisait de prendre cong�
+d'elle, elle est toute dispos�e � vous faire ses adieux.
+
+SIR TOBIE, _chantant_.--_Adieu, cher coeur, puisqu'il faut que je
+parte[38]._
+
+[Note 38: Chanson qu'on trouve dans le recueil de Percy.]
+
+MALVOLIO.--Oui, bon sir Tobie.
+
+SIR TOBIE, _chantant_.--_Ses yeux d�notent que ses jours sont bient�t �
+leur fin._
+
+MALVOLIO.--Les choses en sont-elles l�?
+
+SIR TOBIE, _chantant_.--_Mais moi, je ne mourrai jamais._
+
+LE BOUFFON.--En cela vous mentez, sir Tobie.
+
+MALVOLIO.--Pour cela, je suis tr�s-dispos� � vous croire.
+
+SIR TOBIE, _en chantant_.--_Lui dirai-je de s'en aller?_
+
+LE BOUFFON.--_Et quand vous le feriez?_
+
+SIR TOBIE.--_Lui dirai-je de s'en aller, sans le m�nager?_
+
+LE BOUFFON.--_Oh! non, non, vous n'oseriez._
+
+SIR TOBIE.--Vous d�tonnez, l'ami; vous mentez.--�tes-vous plus qu'un
+intendant? Croyez-vous que, parce que vous �tes vertueux[39], il n'y
+aura plus ni g�teaux, ni bi�re?
+
+
+[Note 39: C'�tait la coutume de faire des g�teaux en famille � la
+Toussaint. Les puritains traitaient cette coutume de superstition.]
+
+LE BOUFFON.--Oui, par sainte Anne, et le gingembre aussi sera chaud dans
+la bouche.
+
+SIR TOBIE.--Tu as raison.--Allez, monsieur, allez frotter votre cha�ne
+avec de la mie de pain[40]. Un flacon de vin, Marie!
+
+[Note 40: �Les intendants ou ma�tres d'h�tel portaient au cou une cha�ne
+en signe de sup�riorit� sur les autres domestiques; et le meilleur moyen
+d'�claircir un m�tal, c'est de le frotter avec de la mie de pain.�
+(STEEVENS.)]
+
+MALVOLIO.--Mademoiselle Marie, si vous faisiez quelque cas de la faveur
+de ma ma�tresse, vous ne voudriez pas pr�ter les mains � cette conduite
+grossi�re; ma ma�tresse en sera inform�e, je vous le jure.
+
+(Il sort.)
+
+MARIE.--Va secouer les oreilles.
+
+SIR ANDR�.--Lui donner un rendez-vous en duel, et puis lui manquer de
+parole et se jouer de lui, ce serait une aussi bonne oeuvre que de boire
+quand on a faim.
+
+SIR TOBIE.--Faites cela, chevalier. Je vais vous �crire un cartel ou je
+lui ferai conna�tre de vive voix votre indignation contre lui.
+
+MARIE.--Mon cher sir Tobie, soyez patient pour ce soir; depuis que
+le jeune page du comte a vu aujourd'hui ma ma�tresse, elle est fort
+troubl�e. Quant � monsieur Malvolio, laissez-moi faire: si je ne le
+mystifie pas au point de le faire passer en proverbe, et de le rendre un
+objet de ris�e publique, croyez que je n'ai pas assez d'esprit pour me
+coucher tout � l'heure dans mon lit; je sais que je suis en �tat de le
+faire.
+
+SIR TOBIE.--Instruis, instruis-nous: conte-nous quelque chose de lui.
+
+MARIE.--Ma foi, monsieur, il est quelquefois une esp�ce de puritain.
+
+SIR ANDR�.--Oh! si je le croyais, je le battrais comme un chien.
+
+SIR TOBIE.--Quoi, pour �tre puritain? Ta sublime raison, cher chevalier?
+
+SIR ANDR�.--Je n'ai point de sublime raison pour cela, mais j'ai d'assez
+bonnes raisons.
+
+MARIE.--Le diable, c'est qu'il n'est pas toujours un puritain, ni quoi
+que ce soit avec suite, si ce n'est un serviteur des circonstances; un
+sot plein d'affectation qui sait par coeur les affaires d'�tat, sans
+livre et sans �tude, et vous d�bite sa science par grands morceaux; un
+homme qui a la meilleure opinion de lui-m�me, et si farci, � ce qu'il
+s'imagine, de perfections, que c'est un article de foi pour lui qu'on
+ne peut le voir sans l'aimer; et c'est sur ce vice-l� que ma vengeance
+trouvera mati�re � s'exercer.
+
+SIR TOBIE.--Que feras-tu?
+
+MARIE.--Je glisserai sur son chemin quelques �p�tres d'amour en style
+obscur, dans lesquelles, � la couleur de sa barbe, � la forme de sa
+jambe, � sa tournure, � sa d�marche, � l'expression de ses yeux, � son
+front, � son teint, il se reconna�tra d�peint de la mani�re la plus
+palpable. Je peux �crire tout comme ferait madame votre ni�ce; nous
+pouvons � peine distinguer nos deux �critures dans une lettre dont le
+sujet est oubli�.
+
+SIR TOBIE.--Excellent! Je flaire la ruse.
+
+SIR ANDR�.--Elle me monte aussi au nez.
+
+SIR TOBIE.--Il croira, par des lettres que vous laisserez tomber sur son
+passage, qu'elles viennent de ma ni�ce, et qu'elle est amoureuse de lui.
+
+MARIE.--Oui, mon projet est un cheval de cette couleur-l�.
+
+SIR ANDR�[41].--Et votre cheval fera de lui un �ne.
+
+[Note 41: Tirwhylt pense qu'il faut donner cette r�ponse et celle
+d'apr�s � sir Tobie; il les trouve trop fines pour sir Andr�, qui ne
+juge rien par lui-m�me, et ne fait que r�p�ter l'avis des autres.]
+
+MARIE.--Oui, un �ne, je n'en doute pas
+
+SIR ANDR�.--Oh! cela sera admirable.
+
+MARIE.--Un plaisir de roi, je vous en assure. Je sais que ma m�decine
+op�rera sur lui. Je vous posterai tous deux en embuscade, et le fou fera
+le troisi�me dans un lieu o� il trouvera la lettre: observez bien comme
+il l'interpr�tera. Pour ce soir, au lit; et r�vons � l'�v�nement. Adieu!
+
+(Elle sort.)
+
+SIR TOBIE.--Bonne nuit, Penth�sil�e[42].
+
+[Note 42: Nom d'une amazone.]
+
+SIR ANDR�.--Par ma foi, c'est une brave fille.
+
+SIR TOBIE.--C'est une excellente levrette, et de race pure, et une fille
+qui m'adore. Qu'en dites-vous?
+
+SIR ANDR�.--J'ai �t� ador� aussi jadis, moi.
+
+SIR TOBIE.--Allons-nous mettre au lit, chevalier.--Tu aurais besoin
+d'envoyer demander plus d'argent.
+
+SIR ANDR�.--Si je ne peux regagner votre ni�ce, je suis dans un mauvais
+pas.
+
+SIR TOBIE.--Envoie demander de l'argent, chevalier: si tu ne parviens
+pas � la fin � l'avoir, dis que je suis un chien � la queue coup�e[43].
+
+[Note 43: �_Cut._ Par les lois foresti�res, on coupait la queue aux
+chiens des paysans et roturiers.� (STEEVENS.) Selon d'autres, il faut
+traduire _cut_ par _cheval_: �Dis que je suis un cheval.�]
+
+SIR ANDR�.--Si je ne le fais pas, ne faites jamais fond sur ma parole;
+prenez-le comme vous voudrez.
+
+SIR TOBIE.--Allons, venez, je vais br�ler un peu de rhum; il est trop
+tard pour aller se coucher maintenant; allons, chevalier, venez.
+
+(Ils sortent.)
+
+
+
+SC�NE IV
+
+
+Appartement dans le palais du duc.
+
+LE DUC, VIOLA, CURIO _et autres._
+
+LE DUC.--Faites-nous un peu de musique.--Ah! bonjour, mes amis.--Allons,
+bon C�sario, seulement ce morceau de chant, cette vieille chanson
+ancienne que nous entend�mes hier au soir. Il me semblait qu'elle
+soulageait beaucoup mon �me souffrante, plus que ces airs l�gers et ces
+refrains r�p�t�s dans ces mesures vives et brusques.--Allons, seulement
+un couplet.
+
+CURIO.--Avec la permission de Votre Altesse, celui qui pourrait le
+chanter n'est pas ici.
+
+LE DUC.--Qui �tait-ce donc!
+
+CURIO.--Feste le bouffon, seigneur; un fou qui amusait beaucoup le p�re
+de madame Olivia: il est quelque part dans la maison.
+
+LE DUC.--Cherchez-le, et qu'on joue l'air en l'attendant. (_Curio sort.
+Musique._) Approche, jeune homme; si tu aimes jamais, dans les doux
+transports de ta passion souviens-toi de moi; car tous les vrais amants
+sont tels que je suis, changeants et volages dans tous les autres
+sentiments, except� dans la constante pens�e de l'objet aim�.--Comment
+trouves-tu cet air?
+
+VIOLA.--Il retentit comme un �cho dans le coeur qui sert de tr�ne �
+l'amour.
+
+LE DUC.--Tu en parles en ma�tre; je gagerais ma vie que, tout jeune que
+tu es, ton oeil s'est fix� sur quelque beaut� qui le charme. N'est-il
+pas vrai, mon enfant?
+
+VIOLA.--Un peu, avec votre permission.
+
+LE DUC.--Quelle esp�ce de femme est-ce?
+
+VIOLA.--De votre complexion.
+
+LE DUC.--Elle n'est donc pas digne de toi. Quel �ge, au vrai?
+
+VIOLA.--Environ de votre �ge, seigneur.
+
+LE DUC.--Elle est trop �g�e, par le ciel! Qu'une femme choisisse
+toujours un �poux plus �g� qu'elle, c'est le moyen qu'elle lui soit plus
+assortie, et plus s�re de r�gner dans son coeur; car, mon enfant, nous
+avons beau nous vanter, nous sommes plus �tourdis, plus flottants
+dans nos caprices; nous sommes ais�ment emport�s par le d�sir et par
+l'inconstance; notre amour s'use et se perd plus vite que celui des
+femmes.
+
+VIOLA.--Je le crois, seigneur.
+
+LE DUC.--Aie donc soin que ton amante soit plus jeune que toi, ou ton
+affection ne pourra durer. Les femmes sont comme les roses; leur belle
+fleur, une fois �panouie, tombe dans l'heure m�me.
+
+VIOLA.--Et cela est vrai. H�las! quel triste sort que de se fl�trir au
+moment o� elles atteignent la perfection!
+
+(Rentrent Curio et le bouffon.)
+
+LE DUC.--Allons, mon ami, la chanson que tu as chant�e hier au soir.
+Remarque-la, C�sario; elle est ancienne et simple. Les fileuses, et
+celles qui tricotent au soleil, et les jeunes filles dont le coeur est
+libre, tout en tissant leur fil avec des outils d'os, ont coutume de
+la chanter: c'est la na�ve v�rit�, et elle peint bien l'innocence de
+l'amour comme le bon vieux temps.
+
+LE BOUFFON.--�tes-vous pr�t, monsieur?
+
+LE DUC--Oui, je t'en prie, chante.
+
+LE BOUFFON.
+
+(Chant.)
+
+    Viens; � mort! viens;
+  Qu'on me couche sous un triste cypr�s:
+    Fuis, fuis, souffle de ma vie.
+  Une beaut� cruelle m'a donn� la mort.
+  Semez de branches d'if mon blanc linceul;
+    Pr�parez-le.
+  Jamais homme ne joua dans la mort un r�le aussi sinc�re
+    Que le mien.
+
+  Point de fleurs, pas une douce fleur
+    Sur mon noir cercueil.
+    Point d'ami, pas un seul ami pour saluer
+  Mon pauvre corps et l'endroit o� mes os seront jet�s;
+    Pour �pargner mille et mille soupirs,
+    Ah! couchez-moi-l�,
+  O� l'amant, triste et fid�le, ne trouve jamais mon tombeau,
+    Pour y pleurer.
+
+LE DUC, _lui donnant sa bourse_.--Voil� pour ta peine.
+
+LE BOUFFON.--Il n'y a nulle peine; j'ai du plaisir � chanter, monsieur.
+
+LE DUC.--Eh bien! je veux te payer ton plaisir.
+
+LE BOUFFON.--A vrai dire, monsieur, le plaisir se paye une fois ou
+l'autre.
+
+LE DUC.--A pr�sent, permets-moi de te quitter.
+
+LE BOUFFON.--Allons, que le dieu de la m�lancolie te prot�ge, et que ton
+tailleur te fasse un habit de taffetas changeant; car ton �me est une
+v�ritable opale. Je voudrais embarquer des hommes aussi constants sur la
+mer, afin qu'ils eussent affaire partout, et que leur but ne f�t nulle
+part; car c'est l� ce qui fait toujours un bon voyage de rien. Adieu.
+
+(Le bouffon sort.)
+
+LE DUC.--Qu'on me laisse. (_Curio sort avec la suite du duc, except�
+Viola._) Encore une fois, C�sario, va trouver cette souveraine cruelle;
+dis-lui que mon amour, plus noble que les tr�sors de l'univers, ne met
+aucun prix � une �tendue de terres boueuses; dis-lui que je fais des
+dons que la Fortune lui a accord�s le cas que je fais de cette volage
+d�esse; mais que c'est cette merveille, cette reine des joyaux que la
+nature a ench�ss�e en elle, qui seule attire mon �me.
+
+VIOLA.--Mais, seigneur, si elle ne peut vous aimer?
+
+LE DUC.--Je ne puis recevoir une pareille r�ponse.
+
+VIOLA.--Ma foi, il le faudra bien. Supposez que quelque dame, comme il
+en est peut-�tre, souffre pour l'amour de vous, dans son coeur, des
+tourments aussi violents que vous en souffrez pour Olivia; vous ne
+pouvez l'aimer et vous le lui d�clarez, n'est-elle pas forc�e de
+recevoir votre refus?
+
+LE DUC.--Il n'est point de coeur de femme qui puisse contenir les
+battements d'une passion aussi forte que celle dont l'amour tourmente
+mon coeur; il n'est point de coeur de femme assez vaste pour contenir
+autant d'amour; elles ne savent pas garder. H�las! on peut bien appeler
+leur amour un app�tit des sens. Ce n'est qu'un go�t qui irrite leur
+palais sans affecter leur coeur: il s'�teint dans la sati�t�, et finit
+par le d�go�t et l'aversion. Mais le mien est aussi affam� que la mer,
+et peut dig�rer autant qu'elle. N'�tablis aucune comparaison entre
+l'amour qu'une femme peut concevoir pour moi, et celui que j'ai pour
+Olivia.
+
+VIOLA.--Oui, mais je sais....
+
+LE DUC.--Que sais-tu?
+
+VIOLA.--Je sais trop bien l'amour que les femmes ont pour les hommes. Je
+vous l'assure, elles ont le coeur aussi fid�le que nous. Mon p�re avait
+une fille qui aimait un homme, comme il se pourrait par aventure que
+moi, si j'�tais femme, j'aimasse Votre Altesse.
+
+LE DUC.--Et quelle est son histoire?
+
+VIOLA.--Une page blanche[44], seigneur. Jamais elle n'a d�clar� son
+amour, mais elle a laiss� sa passion, cach�e comme le ver dans le
+bouton, d�vorer les roses de ses joues: elle languissait dans ses
+pens�es; et, p�le et m�lancolique, elle �tait tranquille comme la
+patience sur un monument, souriant � la douleur. N'�tait-ce pas l�
+v�ritablement de l'amour? Nous autres hommes, nous pouvons en dire
+davantage, en jurer davantage: mais, en v�rit�, nos d�monstrations vont
+plus loin que notre volont�; car toujours nous prouvons beaucoup par nos
+serments, et bien peu par notre amour.
+
+[Note 44: _A blank_.]
+
+LE DUC.--Mais ta soeur est-elle morte de son amour, mon enfant?
+
+VIOLA.--Je suis tout ce qui reste de filles dans la maison de mon p�re,
+et de fr�res aussi, et cependant je ne sais....--Seigneur, irai-je
+trouver cette dame?
+
+LE DUC.--Oui, voil� ce dont il s'agit. Vole vers elle; donne-lui ce
+bijou: dis-lui que mon amour ne peut c�der ni supporter aucun refus.
+
+(Ils sortent.)
+
+
+
+SC�NE V
+
+
+Le jardin d'Olivia.
+
+SIR TOBIE, SIR ANDR� et FABIAN.
+
+SIR TOBIE.--Viens avec nous, seigneur Fabian.
+
+FABIAN.--Oui, je viendrai; si je perds un atome de ce plaisir, que je
+sois rong� de m�lancolie jusqu'� en mourir.
+
+SIR TOBIE.--Ne serais-tu pas bien aise de voir ce gredin, cette
+canaille, ce galefretier, essuyer quelque notable avanie?
+
+FABIAN.--Oh! j'en serais transport�. Vous savez qu'il m'a fait perdre
+les bonnes gr�ces de ma ma�tresse, � l'occasion d'un combat d'ours.
+
+SIR TOBIE.--Pour le mettre en fureur, nous ferons revenir l'ours, et
+nous le ferons �cumer de col�re jusqu'� ce qu'il en soit noir et bleu.
+N'est-ce pas, sir Andr�?
+
+SIR ANDR�.--Si nous ne le faisons pas, c'est fait de notre vie.
+
+(Entre Marie.)
+
+SIR TOBIE.--Voici notre petite sc�l�rate.--Eh bien! comment vous va, mon
+ortie des Indes[45]?
+
+[Note 45: �Apparemment l'ortie marine, qui abonde dans les mers de
+l'Inde.� (JOHNS OX.)]
+
+MARIE.--Cachez-vous tous trois dans le bosquet de buis: Malvolio descend
+le long de cette all�e; il �tait l�-bas, au soleil, l'air occup�,
+faisant des politesses � son ombre depuis une demi-heure: observez-le,
+je vous en prie, si vous aimez � rire; car je suis certaine que cette
+lettre va faire de lui un idiot en extase. Cachez-vous, au nom de la
+plaisanterie! (_Ils se cachent._)--Tenez-vous l� (_Marie laisse
+tomber une lettre_); car voici la truite qu'il faut attraper en la
+chatouillant.
+
+(Marie sort.)
+
+(Entre Malvolio.)
+
+MALVOLIO.--C'est la fortune: tout est une affaire de fortune. Marie m'a
+dit une fois que sa ma�tresse avait du penchant pour moi, et je l'ai
+entendue elle-m�me aller jusqu'� dire que si jamais elle prenait une
+fantaisie, ce serait pour un homme de ma physionomie; de plus, elle
+me traite avec des �gards plus distingu�s qu'aucun de ceux qui sont
+attach�s � son service. Que dois-je penser de tout cela?
+
+SIR TOBIE.--Ce coquin a bien de la pr�somption.
+
+FABIAN.--Oh! paix! ses contemplations font de lui un fameux dindon!
+Comme il se rengorge en �talant son plumage!
+
+SIR ANDR�.--Morbleu! je vous battrais ce maraud....
+
+SIR TOBIE.--Paix! vous dis-je.
+
+MALVOLIO.--Devenir comte Malvolio....
+
+SIR TOBIE.--Ah! coquin....
+
+SIR ANDR�.--Un coup de pistolet, un coup de pistolet sur lui.
+
+SIR TOBIE.--Paix! paix!
+
+MALVOLIO.--Il y en a des exemples. La dame de Strachy[46] a �pous� un
+valet de garde-robe.
+
+[Note 46: Ce mot est rest� sans explication, en d�pit de tous les
+commentaires.]
+
+SIR ANDR�.--Fi de lui, par J�zabel!
+
+FABIAN.--Oh! paix! L'y voil� � fond: voyez comme son imagination le
+gonfle!
+
+MALVOLIO.--Apr�s avoir �t� mari� trois mois avec elle, assis dans ma
+grandeur....
+
+SIR TOBIE.--Oh! si j'avais une arbal�te pour lui lancer une pierre dans
+l'oeil!
+
+MALVOLIO.--Appelant mes officiers autour de moi, dans ma robe de velours
+� ramages, apr�s avoir quitt� mon lit de repos o� j'aurai laiss� Olivia
+endormie....
+
+SIR TOBIE.--Feux et soufre!
+
+FABIAN.--Oh! paix donc, paix!
+
+MALVOLIO.--Alors prendre l'humeur de la grandeur; et, apr�s avoir
+promen� sur eux un regard d�daigneux, leur dire que je connais ma place,
+et que je voudrais qu'ils connussent aussi la leur.... Mander mon cousin
+Tobie....
+
+SIR TOBIE.--Cha�nes et verrous!
+
+FABIAN.--Oh! paix, paix, paix: voyez, voyez.
+
+MALVOLIO.--Sept de mes gens, ob�issant au premier signal, sortent pour
+l'aller chercher; je parais sombre en attendant, et peut-�tre je remonte
+ma montre, ou je joue avec quelque riche bijou. Tobie s'avance; il me
+fait la r�v�rence....
+
+SIR TOBIE.--Laisserons-nous vivre ce faquin?
+
+FABIAN.--Paix! quand six chevaux attel�s voudraient nous arracher notre
+silence.
+
+MALVOLIO.--Je lui tends la main ainsi, m�lant � mon sourire familier un
+regard aust�re et imp�rieux.
+
+SIR TOBIE.--Est-ce que sir Tobie ne vous applique pas alors un soufflet?
+
+MALVOLIO.--En lui disant: �Cousin Tobie, puisque ma fortune a jet� votre
+ni�ce dans mes bras, accordez-moi le privil�ge de vous dire....
+
+SIR TOBIE.--Quoi, quoi?
+
+MALVOLIO.--�Il faut vous corriger de votre ivrognerie.
+
+SIR TOBIE.--Veux-tu, canaille....
+
+FABIAN.--Patience, ou nous rompons tous les fils de notre plan.
+
+MALVOLIO.--�De plus, vous d�pensez le tr�sor de votre temps avec un
+imb�cile de chevalier.
+
+SIR ANDR�.--C'est moi, je vous le garantis.
+
+MALVOLIO.--�Un sir Andr�!�
+
+SIR ANDR�.--Je le savais bien que c'�tait moi; car bien des gens me
+traitent de sot.
+
+MALVOLIO.--Qu'avons-nous ici?
+
+(Ramassant la lettre.)
+
+FABIAN.--Voil� ma b�casse tout pr�s du pi�ge.
+
+SIR TOBIE.--Oh! paix! et que le g�nie de la gaiet� lui inspire de lire
+tout haut.
+
+MALVOLIO.--Sur ma vie, c'est la main de ma ma�tresse: voil� ses _c_, ses
+_v_, ses _t_, et voil� comme elle fait ses grands _P_. Il n'y a pas de
+doute, c'est son �criture.
+
+SIR ANDR�.--Ses _c_, ses _v_, ses _t_. Pourquoi cela?
+
+MALVOLIO, _lisant_.--_A mon bien-aim� inconnu, cette lettre et mes
+tendres aveux!_ Juste, voil� ses phrases. Permets, cire. Doucement....
+et le cachet est une Lucr�ce dont elle a coutume de sceller ses lettres.
+C'est ma ma�tresse.--A qui cela s'adresserait-il?
+
+FABIAN.--Ceci l'enivrera: coeur et tout.
+
+MALVOLIO, _lisant_.
+
+  Jupiter sait que j'aime.
+    Mais qui?
+
+  L�vres, ne remuez pas;
+  Nul mortel ne doit le savoir.
+
+_Nul mortel ne doit le savoir_? Voyons la suite: la mesure est chang�e.
+_Nul mortel ne doit le savoir_. Si c'�tait toi, Malvolio!
+
+SIR TOBIE.--Je te le conseille: va te pendre, blaireau.
+
+MALVOLIO _continue de lire_.
+
+    Je pourrais commander o� j'adore,
+  Mais le silence, comme le poignard de Lucr�ce,
+    D�chire mon coeur sans l'ensanglanter.
+    M.O.A.I, r�gne sur ma vie.
+
+FABIAN.--Une �nigme dans le grand genre!
+
+SIR TOBIE.--C'est une fille admirable, par ma foi!
+
+MALVOLIO.--_M.O.A.I. r�gne sur ma vie_. Mais d'abord, voyons, voyons.
+
+FABIAN.--Quel plat de poisson elle lui a servi l�!
+
+SIR TOBIE.--Et avec quelle avidit� ce faucon sauvage vole � cet app�t!
+
+MALVOLIO.--_Je puis commander o� j'adore_. En effet elle peut me
+commander. Je la sers: elle est ma ma�tresse. Oh! voil� qui est �vident
+pour toute intelligence ordinaire; il n'y a pas de difficult� l�.... Et
+la fin?... que signifie cet arrangement alphab�tique? Si je pouvais le
+faire un peu ressembler � mon nom..... doucement. _M.O.A.I._
+
+SIR TOBIE.--Oh! oui, viens-en � bout: le voil� maintenant d�rout� et en
+d�faut.
+
+FABIAN.--Sowter[47] va donner de la voix l�-dessus, quoique cela sente
+aussi fort qu'un renard.
+
+[Note 47: Nom de chien de chasse.]
+
+MALVOLIO.--_M_--Malvolio.--Eh bien! c'est la lettre initiale de mon nom.
+
+FABIAN.--Ne vous ai-je pas bien dit qu'il ferait quelque chose de ces
+lettres? Oh! c'est un excellent chien quand on est en d�faut!
+
+MALVOLIO.--_M_--Oui.... mais nulle consonnance avec la suite: cela
+demande preuve. Ce serait un _A_ qui devrait suivre, et c'est un _O_.
+
+FABIAN.--Et _O_[48] suivra, j'esp�re.
+
+[Note 48: Allusion � la forme d'un collier de chasse.]
+
+SIR TOBIE.--Ou je le b�tonnerai et lui ferai crier _O_.
+
+MALVOLIO.--C'est l'_I_ qui vient par derri�re.
+
+FABIAN.--Oui, si vous aviez un oeil[49] par derri�re, vous pourriez voir
+plus de ch�timents � vos talons que de bonnes fortunes devant vous.
+
+[Note 49: Jeu de mots sur _I_ et _eye_, oeil, qui se prononcent de la
+m�me mani�re.]
+
+MALVOLIO.--_M.O.A.I_, cela ne s'ajuste pas si bien qu'auparavant; et
+pourtant en for�ant un peu, l'apparence pourrait pencher vers moi: car
+chacune de ces lettres se trouve dans mon nom. Doucement: voyons; voici
+de la prose qui suit: _�Si cette lettre tombe dans tes mains, m�dite-la.
+Mon �toile m'a plac�e au-dessus de toi; mais ne t'effraye point de
+la grandeur. Quelques-uns naissent grands; d'autres parviennent � la
+grandeur, et il en est que la grandeur vient chercher elle-m�me. Ta
+destin�e t'ouvre les bras, que ton audace et ton courage l'embrassent.
+Et pour l'accoutumer � ce que tu dois vraisemblablement devenir, sors de
+ton humble obscurit�, et parais fier et brillant. Sois contredisant
+avec un parent, hautain avec les serviteurs: que ta bouche raisonne
+politique, prends les mani�res d'un homme original. Voil� les conseils
+que donne celle qui soupire pour toi. Souviens-toi de celle qui fit
+l'�loge de tes bas jaunes et qui souhaita de te voir toujours les
+jarreti�res crois�es. Souviens-t'en, je te le r�p�te. Va, poursuis: ta
+fortune est faite, si tu le veux; si tu ne le veux pas, reste donc
+un simple intendant, le compagnon des valets, et un homme indigne de
+toucher la main de la fortune. Adieu: celle qui voudrait changer d'�tat
+avec toi_.--L'HEUREUSE INFORTUN�E.� La lumi�re du jour et la plaine
+ouverte n'en montrent pas davantage: cela est �vident. Je veux devenir
+fier; lire les auteurs politiques; je contrecarrerai sir Tobie; je me
+d�crasserai de mes grossi�res connaissances; je serai tir� � quatre
+�pingles; je deviendrai l'homme par excellence.--Je ne fais pas
+maintenant l'imb�cile; je ne laisse pas mon imagination se jouer de moi:
+car toutes sortes de raisons concourent � me prouver que ma ma�tresse
+est amoureuse de moi: elle louait derni�rement mes bas jaunes; elle a
+vant� ma jambe et sa jarreti�re; et dans cette lettre elle se d�couvre
+elle-m�me � mon amour; c'est avec une esp�ce d'injonction, qu'elle
+m'invite � porter les parures qu'elle pr�f�re. Je rends gr�ces � mon
+�toile; je suis heureux. Je me singulariserai, je me pavanerai, en bas
+jaunes, et en riches jarreti�res, et tout cela le temps de les
+mettre. Louange � Jupiter et � mon �toile!--Ah! voici encore un
+post-scriptum.--_�Il est impossible que tu ne devines pas qui je suis.
+Si tu agr�es mon amour, fais-le voir dans ton sourire: ton sourire te
+sied � merveille: souris donc toujours en ma pr�sence, mon doux ami, je
+t'en conjure.�_ O Jupiter, je te remercie.--Je sourirai: je ferai tout
+ce que tu voudras que je fasse.
+
+(Il sort.)
+
+FABIAN.--Je ne donnerais pas ma part de cette sc�ne divertissante pour
+une pension de mille roupies que me payerait le sophi[50].
+
+[Note 50: Allusion � sir Robert Shirley, ambassadeur pr�s du sophi.]
+
+SIR TOBIE.--J'�pouserais cette fille pour cette seule invention.
+
+SIR ANDR�.--Et moi aussi.
+
+SIR TOBIE.--Et sans lui demander d'autre dot qu'une seconde plaisanterie
+pareille.
+
+SIR ANDR�.--J'en dis autant.
+
+(Entre Marie.)
+
+FABIAN.--Voil� venir celle qui attrape si bien les dupes.
+
+SIR TOBIE _� Marie_.--Veux-tu mettre ton pied sur ma t�te?
+
+SIR ANDR�.--Ou sur la mienne?
+
+SIR TOBIE.--Jouerai-je avec toi ma libert�, aux dames? Et deviendrai-je
+ton esclave?
+
+SIR ANDR�.--Oui, d'honneur; ou veux-tu que ce soit moi?
+
+SIR TOBIE.--Tu l'as plong� dans un tel r�ve, que quand il en perdra
+l'image, il en deviendra fou.
+
+MARIE.--Allons, dites la v�rit�: cela fait-il effet sur lui?
+
+SIR TOBIE.--Comme l'eau-de-vie sur une sage-femme.
+
+MARIE.--Alors, si vous voulez voir les fruits de cette farce, remarquez
+bien son premier abord devant ma ma�tresse. Il va aller la trouver en
+bas jaunes, et c'est une couleur qu'elle abhorre; les jarreti�res
+en croix, mode qu'elle d�teste; et il va lui faire des sourires qui
+cadreront si mal avec la tristesse et la m�lancolie o� elle est plong�e,
+qu'il est impossible qu'il n'en r�sulte pas pour lui le plus insigne
+m�pris; si vous voulez le voir, suivez-moi.
+
+SIR TOBIE.--Je te suivrais aux portes du Tartare merveilleux d�mon
+d'esprit.
+
+SIR ANDR�.--Je veux en �tre aussi.
+
+(Ils sortent.)
+
+FIN DU DEUXI�ME ACTE.
+
+
+
+
+ACTE TROISI�ME
+
+
+
+SC�NE I
+
+
+Le jardin d'Olivia.
+
+VIOLA, LE BOUFFON _avec un tambourin_.
+
+VIOLA.--Avec ta permission, l'ami, et celle de ta musique, vis-tu avec
+ton tambourin[51].
+
+[Note 51: �quivoque sur le mot _by_, qui peut exprimer �galement _par_
+et _pr�s de_.]
+
+LE BOUFFON.--Non, monsieur; je vis avec l'�glise.
+
+VIOLA.--Es-tu un homme d'�glise?
+
+LE BOUFFON.--Rien de pareil, monsieur; je vis � c�t� de l'�glise, car je
+vis dans ma maison, et ma maison est pr�s de l'�glise.
+
+VIOLA.--Tu pourrais donc dire de m�me que le roi vit pr�s d'un mendiant,
+si un mendiant habite pr�s de lui; ou que l'�glise est � c�t� de ton
+tambourin, si ton tambourin est _pr�s_ de l'�glise.
+
+LE BOUFFON.--Vous l'avez dit, monsieur.--Ce que c'est que ce
+si�cle!--une phrase n'est qu'un gant de peau de daim dans les mains d'un
+homme d'esprit: avec quelle rapidit� il sait la retourner � l'envers!
+
+VIOLA.--Oui, cela est certain: ceux qui savent jouer adroitement avec
+les mots peuvent ais�ment les rendre libertins.
+
+LE BOUFFON.--En ce cas, je voudrais bien que ma soeur n'e�t pas eu de
+nom, monsieur.
+
+VIOLA.--Pourquoi, l'ami?
+
+LE BOUFFON.--Pourquoi, monsieur? C'est que son nom est un mot; et en
+jouant sur ce mot, on pourrait rendre ma soeur libertine; mais � vrai
+dire, les mots sont devenus de vrais coquins, depuis que les billets les
+ont d�shonor�s.
+
+VIOLA.--La raison?
+
+LE BOUFFON.--Vraiment, monsieur, je ne puis vous en donner aucune sans
+paroles, et les paroles sont devenues si fausses que je suis d�go�t� de
+m'en servir pour prouver la raison.
+
+VIOLA.--Je garantis que tu es un joyeux dr�le, et qui n'as souci de
+rien.
+
+LE BOUFFON.--Non pas, s'il vous pla�t, monsieur, je me soucie de quelque
+chose; mais en conscience, monsieur, je ne me soucie pas de vous: si
+cela s'appelle n'avoir souci de rien, monsieur, je voudrais que cela p�t
+vous rendre invisible.
+
+VIOLA.--N'es-tu pas le fou de madame Olivia?
+
+LE BOUFFON.--Non, en v�rit�, monsieur. Madame Olivia n'a point de folie,
+et elle n'entretiendra de fou, monsieur, jusqu'� ce qu'elle soit mari�e;
+car les fous ressemblent aux maris, comme les harenguets aux harengs. Le
+mari est le plus gros. Je ne suis vraiment point son fou; je ne suis que
+son corrupteur de mots.
+
+VIOLA.--Je t'ai vu derni�rement chez le comte Orsino.
+
+LE BOUFFON.--La folie, monsieur, fait le tour du globe comme le soleil;
+elle brille partout. Je serais bien f�ch�, monsieur, que le fou f�t
+aussi souvent avec votre ma�tre qu'il l'est avec ma ma�tresse.--Je crois
+avoir aper�u _votre sagesse_ dans la m�me maison.
+
+VIOLA.--Allons, si tu veux l'exercer sur moi, nous n'aurons pas un mot
+de plus ensemble. Tiens, voil� de quoi d�penser.
+
+LE BOUFFON.--Ah! que Jupiter, � sa premi�re occasion de cheveux, vous
+envoie une barbe!
+
+VIOLA.--Ma foi, je te dirai..... que je suis presque malade d'amour
+pour une barbe: quoique je ne voulusse pas la voir cro�tre sur mon
+menton.--Ta ma�tresse est-elle chez elle?
+
+LE BOUFFON, _regardant l'argent_.--Un couple de cette esp�ce ne
+pourrait-il pas multiplier, monsieur?
+
+VIOLA.--Oui, si on les tenait ensemble et qu'on les m�t en oeuvre.
+
+LE BOUFFON.--Je jouerais alors le r�le du seigneur Pandare de Phrygie,
+monsieur, en amenant une Cressida � ce Tro�lus.
+
+VIOLA.--Je te comprends, l'ami; c'est mendier adroitement.
+
+LE BOUFFON.--Ce n'est pas une grande affaire, monsieur; j'esp�re,
+puisque je ne demande qu'une mendiante: Cressida �tait une mendiante.
+Ma ma�tresse est chez elle, monsieur, je veux lui _d�duire_ d'o� vous
+venez: quant � ce que vous d�sirez, cela est hors de mon _firmament_;
+j'aurais pu dire _�l�ment_; mais ce mot est surann�.
+
+(Il sort.)
+
+VIOLA.--Cet original est assez sens� pour jouer le fou; et pour bien
+faire le fou, cela demande une sorte d'esprit. Il faut qu'il observe
+l'humeur de ceux qu'il plaisante, la qualit� des personnes et les
+circonstances; et qu'il n'aille pas, comme le faucon non dress�, fondre
+sur toutes les plumes qui passent devant ses yeux. C'est l� un travail,
+aussi difficile que l'art de l'homme sens�; car la folie qu'on montre �
+propos est de saison: mais la folie des sages qui extravaguent ternit
+leur sagesse.
+
+(Entrent sir Tobie et sir Andr�.)
+
+SIR ANDR�.--Salut � vous, mon gentilhomme.
+
+VIOLA.--Et � vous, monsieur.
+
+SIR TOBIE.--Dieu vous garde, monsieur[52].
+
+[Note 52: Les mots sont en fran�ais dans l'original.]
+
+VIOLA.--Et vous aussi; votre serviteur.
+
+SIR ANDR�.--J'esp�re, monsieur, que vous l'�tes comme je suis le v�tre.
+
+SIR TOBIE.--Voulez-vous approcher de la maison? Ma ni�ce est fort
+d�sireuse de vous y voir entrer, si c'est � elle que vous avez affaire.
+
+VIOLA.--Je me rends chez votre ni�ce, monsieur; je veux dire qu'elle est
+le but de mon voyage.
+
+SIR TOBIE.--T�tez vos jambes, monsieur; mettez-les en mouvement.
+
+VIOLA.--Mes jambes m'entendent mieux, monsieur, que je n'entends ce que
+vous voulez dire en me disant de t�ter mes jambes.
+
+SIR TOBIE.--Je veux dire que vous marchiez, monsieur, que vous entriez.
+
+VIOLA.--Je vous r�pondrai en marchant et en entrant; mais nous sommes
+pr�venus. (_Entrent Olivia et Marie._) Excellente et parfaite dame, que
+le ciel fasse pleuvoir ses parfums sur vous!
+
+SIR ANDR�.--Ce jeune homme est un fameux courtisan. _Pleuvoir des
+parfums!_ A merveille!
+
+VIOLA.--Mon message n'a de voix, belle dame, que pour votre oreille
+indulgente et lib�rale.
+
+SIR ANDR�.--_Des parfums! lib�rale! indulgente!_ Je veux avoir ces trois
+mots tout pr�ts.
+
+OLIVIA.--Qu'on ferme la porte du jardin, et qu'on me laisse l'entendre
+seule. (_Sir Tobie, sir Andr� et Marie sortent._) Donnez-moi votre main,
+monsieur.
+
+VIOLA.--Mon humble respect, madame, et mon d�vouement � votre service.
+
+OLIVIA.--Quel est votre nom?
+
+VIOLA.--C�sario est le nom de votre serviteur, belle princesse.
+
+OLIVIA.--Mon serviteur, monsieur! Jamais il n'y a eu de joie dans le
+monde, depuis qu'on a appel� compliments d'humbles mensonges. Vous �tes
+le serviteur du comte Orsino, jeune homme.
+
+VIOLA.--Et lui est le v�tre, et les siens sont n�cessairement les
+v�tres. Le serviteur de votre serviteur est votre serviteur, madame.
+
+OLIVIA.--Pour le comte, je ne songe pas � lui: quant � ses pens�es, je
+voudrais qu'elles fussent vides plut�t que pleines de moi!
+
+VIOLA.--Madame, je viens pour �veiller vos bonnes pens�es en sa faveur.
+
+OLIVIA.--Oh! avec votre permission, je vous prie, je vous ai ordonn� de
+ne me jamais reparler de lui; mais si vous vouliez entamer une autre
+n�gociation j'aurais plus de plaisir � vous l'entendre traiter, qu'�
+�couter l'harmonie des sph�res.
+
+VIOLA.--Ch�re dame.....
+
+OLIVIA.--Permettez, je vous prie, j'ai envoy� apr�s votre derni�re
+apparition pleine de charme, une bague sur vos traces: c'est ainsi que
+je me suis tromp�e moi-m�me, et mon valet; et, j'en ai peur, vous aussi.
+Il faut que je me soumette � vos dures interpr�tations pour vous forcer,
+par une ruse honteuse, � prendre ce que vous saviez n'�tre pas � vous.
+Que pouvez-vous penser? N'avez-vous pas mis mon honneur au pilori
+pour l'exposer aux attaques de toutes les pens�es d�cha�n�es que peut
+concevoir un coeur tyrannique? Pour un homme de votre p�n�tration, c'est
+vous en montrer assez: au lieu du sein qui le cachait, ce n'est plus
+qu'une gaze qui voile mon pauvre coeur. A pr�sent, que je vous entende
+me r�pondre.
+
+VIOLA.--Je vous plains.
+
+OLIVIA.--C'est d�j� un pas vers l'amour.
+
+VIOLA.--Non, ce n'est pas un pas; car il est d'exp�rience journali�re
+que tr�s-souvent nous plaignons nos ennemis.
+
+OLIVIA.--Allons, il me semble qu'il est encore temps d'en rire. O monde!
+que le pauvre est prompt � s'enorgueillir! S'il faut �tre la proie de
+quelqu'un, combien il vaut mieux succomber devant le lion que devant le
+loup! (_L'heure sonne._) Cette horloge me reproche la perte que je fais
+du temps. Rassurez-vous, bon jeune homme, je ne veux pas de vous; et
+pourtant quand une fois la raison et la jeunesse seront m�ries chez
+vous, votre femme recueillera probablement un beau mari.--Voil� votre
+chemin � l'occident.
+
+VIOLA.--Eh bien! en route pour l'occident[53]. Que la gr�ce et la belle
+humeur vous accompagnent! Vous ne voulez donc, madame, me charger de
+rien pour mon ma�tre?
+
+[Note 53: �_Westward ho!_� c'�tait le cri des mariniers de la Tamise �
+cette �poque, o� elle servait de grande voie de communication pour les
+habitants de Londres.]
+
+OLIVIA.--Arr�tez, je vous prie; dites-moi, que pensez-vous de moi?
+
+VIOLA.--Que vous pensez ne pas �tre ce que vous �tes.
+
+OLIVIA.--Si je pense cela, je le pense aussi de vous.
+
+VIOLA.--Eh bien! vous pensez juste: je ne suis pas ce que je suis.
+
+OLIVIA.--Je voudrais que vous fussiez ce que je vous souhaiterais �tre.
+
+VIOLA.--Si c'�tait pour �tre mieux que je ne suis, madame, je
+souhaiterais que votre voeu s'accompl�t; car maintenant je suis votre
+jouet.
+
+OLIVIA.--Oh! comme le d�dain semble beau dans le m�pris et le courroux
+qui se peignent sur ses l�vres! Un meurtrier criminel ne se trahit pas
+plus vite que l'amour qui voudrait se cacher. La nuit de l'amour est
+aussi claire que le plein midi. C�sario, par les roses du printemps, par
+la virginit�, par l'honneur, par la foi, par tout ce qu'il y a de plus
+sacr�, je le jure, je t'aime tant que, malgr� tes d�dains, ni l'esprit,
+ni la raison ne peuvent cacher ma passion. Ne va pas puiser dans cet
+aveu des raisons; car, quoique je te recherche, ce n'est pas pour toi un
+motif. Impose plut�t silence � tes raisonnements par cette r�flexion:
+l'amour qu'on a cherch� est bon, mais l'amour qui se donne sans qu'on le
+cherche vaut mieux.
+
+VIOLA.--Je jure, par mon innocence et par ma jeunesse, que j'ai aussi
+un coeur, une �me, une foi, mais qu'aucune femme ne les poss�de, et que
+jamais femme n'en sera la ma�tresse que moi seule. Et adieu, ch�re dame;
+je ne viendrai plus d�plorer devant vous les larmes de mon ma�tre.
+
+OLIVIA.--Revenez encore, peut-�tre pourrez-vous �mouvoir et porter �
+go�ter son amour ce coeur qui le hait maintenant.
+
+(Elles sortent.)
+
+
+
+SC�NE II
+
+
+Un appartement dans la maison d'Olivia.
+
+SIR TOBIE, SIR ANDR� et FABIAN.
+
+SIR ANDR�.--Non, par ma foi; je ne resterai pas une minute de plus.
+
+SIR TOBIE.--Ta raison, mon cher furieux; donne-moi ta raison.
+
+FABIAN.--Il faut absolument que vous donniez votre raison, sir Andr�.
+
+SIR ANDR�.--Comment? J'ai vu votre ni�ce prodiguer plus de faveurs au
+serviteur du comte qu'elle ne m'en a jamais accord�; j'ai vu tout ce qui
+s'est pass� dans le verger.
+
+SIR TOBIE.--T'a-t-elle vu pendant ce temps-l�, mon vieux gar�on, dis-moi
+cela?
+
+SIR ANDR�.--Aussi clairement que je vous vois � pr�sent.
+
+FABIAN.--C'est l� une grande preuve de l'amour qu'elle a pour vous.
+
+SIR ANDR�.--Morbleu! voulez-vous faire de moi un �ne?
+
+FABIAN.--Je vous prouverai la l�gitimit� de ma cons�quence, sir Andr�,
+sur les t�moignages du jugement et de la raison.
+
+SIR TOBIE.--Et tous les deux ont �t� de grands juristes, bien avant que
+No� f�t devenu marin.
+
+FABIAN.--Elle n'a fait un favorable accueil � ce page, en votre
+pr�sence, que pour vous exasp�rer, pour r�veiller votre valeur endormie;
+que pour vous mettre du feu dans le coeur, et du soufre dans le foie.
+Vous auriez d� l'aborder alors; et par quelques fines railleries, tout
+fra�chement frapp�es � la monnaie, vous auriez p�trifi� et rendu muet le
+jeune page: voil� ce qu'on attendait de vous, et cela a �t� manqu�; vous
+avez laiss� le temps effacer la double dorure de cette occasion; et vous
+voil� voguant au p�le nord de la bonne opinion de ma ma�tresse. Vous y
+resterez suspendu comme un gla�on � la barbe d'un Hollandais, � moins
+que vous ne rachetiez cette faute par quelque louable tentative de
+valeur ou de politique.
+
+SIR ANDR�.--S'il faut tenter quelque chose, il faut que ce soit par
+la valeur, car je d�teste la politique; j'aimerais autant �tre un
+Browniste[54] qu'un politique.
+
+[Note 54: Secte dissidente dont le chef, nomm� Robert Browne, �tait
+l'objet des quolibets du temps.]
+
+SIR TOBIE.--Eh bien! en ce cas, b�tis-moi donc ta fortune sur la base
+de la valeur. Envoie-moi un cartel au page du comte: bats-toi avec lui:
+blesse-le en onze endroits: ma ni�ce en tiendra note, et sois bien s�r
+qu'il n'y a point dans le monde d'entremetteur d'amour qui puisse rendre
+un homme recommandable aux yeux d'une femme comme la r�putation de
+valeur.
+
+FABIAN.--Il n'y a pas d'autre parti que celui-l�, sir Andr�.
+
+SIR ANDR�.--Voulez-vous, l'un de vous deux, lui porter mon d�fi?
+
+SIR TOBIE.--Allons, �cris-le d'une �criture martiale: sois tranchant et
+court. Peu importe qu'il soit spirituel, pourvu qu'il soit �loquent, et
+plein d'invention. Insulte-le avec toute la licence de l'encre. Si tu le
+tutoies deux ou trois fois, cela ne fera pas mal; et accumule autant de
+d�mentis qu'il en pourra tenir dans ta feuille de papier, f�t-elle assez
+grande pour servir de lit � la Ware, en Angleterre. Allons, � l'ouvrage!
+qu'il y ait assez de fiel dans ton encre; peu importe que tu �crives
+avec une plume d'oie: allons, � l'oeuvre.
+
+SIR ANDR�.--O� vous retrouverai-je?
+
+SIR TOBIE.--Nous irons te demander au _cubiculo_[55]: va.
+
+(Sir Andr� sort.)
+
+[Note 55: _Cubiculo_, dans la chambre � coucher.]
+
+FABIAN.--Voil� un bout d'homme qui vous est bien cher, sir Tobie.
+
+SIR TOBIE.--Je lui ai �t� tr�s-cher, mon gar�on, jusqu'� concurrence de
+deux mille �cus ou quelque chose comme cela.
+
+FABIAN.--Nous aurons une bonne lettre de lui: mais vous ne la remettrez
+pas � son adresse?
+
+SIR TOBIE.--Si fait, ou ne te fie jamais � ma parole; je veux user de
+tous les moyens pour exciter le jeune homme � y r�pondre. Je crois que
+ni boeufs, ni c�bles ne pourront jamais venir � bout de les joindre;
+car, pour sir Andr�, si on l'ouvrait et qu'on trouv�t seulement autant
+de sang dans son foie qu'il en faut pour embarrasser le pied d'une
+mouche, je consens � manger le reste de la dissection.
+
+FABIAN.--Et son adversaire, le jeune page, ne porte pas sur sa figure de
+grands sympt�mes de f�rocit�.
+
+(Entre Marie.)
+
+SIR TOBIE.--Vois, voici le plus jeune roitelet de la couv�e qui vient �
+nous.
+
+MARIE.--Si vous voulez vous dilater la rate, et que vous soyez curieux
+de rire � vous tenir les c�t�s, suivez-moi. Ce stupide Malvolio est
+chang� en pa�en, en vrai ren�gat: car il n'est point de chr�tien, pour
+peu qu'il veuille �tre sauv� en croyant la v�rit�, qui puisse jamais
+croire � des extravagances pareilles et aussi grossi�res: il est en bas
+jaunes.
+
+SIR TOBIE.--Et les jarreti�res en croix?
+
+MARIE.--De la plus ridicule mani�re; comme un p�dant qui tient �cole
+dans l'�glise.--Je l'ai suivi pas � pas, comme si j'eusse �t� son
+assassin; il ob�it de point en point � la lettre que j'ai laiss� tomber
+pour lui faire niche. Pour sourire, il contourne son visage en plus
+de lignes qu'il n'y en a dans la nouvelle carte, augment�e encore des
+Indes: vous n'avez jamais rien vu de semblable. J'ai bien de la peine
+� m'emp�cher de lui lancer quelque chose � la t�te. Je sais que ma
+ma�tresse lui donnera quelque soufflet; si elle le fait, il sourira
+encore, et le prendra pour une faveur signal�e.
+
+SIR TOBIE.--Allons, m�ne-nous, m�ne-nous o� il est.
+
+(Ils sortent.)
+
+
+
+SC�NE III
+
+
+Une rue.
+
+ANTONIO, S�BASTIEN.
+
+S�BASTIEN.--Je ne voulais pas volontairement vous d�ranger: mais puisque
+vous faites votre plaisir de vos peines, je ne gronde plus.
+
+ANTONIO.--Je n'ai pu rester derri�re vous: un d�sir, plus p�n�trant que
+l'acier affil�, m'a aiguillonn� et forc� � marcher en avant. Et ce n'est
+pas purement par besoin de vous voir, ce n'est pas seulement par amiti�,
+quoiqu'elle soit assez forte pour m'avoir fait entreprendre une plus
+longue route; mais c'est aussi par inqui�tude de ce qui pourrait vous
+arriver dans votre voyage, � vous qui n'avez aucune connaissance de ce
+pays, qui souvent se montre sauvage, inhospitalier pour un �tranger sans
+guide et sans ami. Mon affection, pouss�e par ces motifs de crainte, m'a
+engag� � vous suivre.
+
+S�BASTIEN.--Mon cher Antonio, je ne peux vous r�pondre que par des
+remerciements, et des remerciements, et toujours des remerciements.
+Souvent les services de l'amiti� se payent avec cette monnaie qui n'a
+pas cours. Mais si ma puissance �galait mon d�sir, vous seriez mieux
+r�compens�.--Que ferons-nous? Irons-nous voir ensemble les ruines de
+cette ville?
+
+ANTONIO.--Demain, seigneur. Il vaut mieux d'abord aller voir votre
+logement.
+
+S�BASTIEN.--Je ne suis point fatigu�, et il y a loin encore d'ici � la
+nuit: je vous en prie, allons r�cr�er nos yeux par la vue des monuments,
+des choses c�l�bres, qui donnent du renom � cette ville.
+
+ANTONIO.--Je vous demanderai de m'excuser. Je ne me prom�ne point sans
+danger dans ces rues. Une fois, dans un combat de mer, j'ai rendu
+quelque service contre les gal�res du comte; et un service vraiment si
+important, que si j'�tais pris ici, j'aurais peine � me tirer d'affaire.
+
+S�BASTIEN.--Probablement vous avez tu� beaucoup de ses sujets.
+
+ANTONIO.--Mon offense n'est pas d'une nature si sanguinaire; quoique les
+circonstances et la querelle nous missent bien en droit d'en venir � cet
+argument sanglant. On aurait pu l'apaiser depuis en restituant ce que
+nous avions pris: et c'est ce que firent la plupart des citoyens de
+notre ville, pour l'int�r�t du commerce: il n'y a eu que moi seul qui ai
+refus�; et � cause de cela, si j'�tais surpris ici, je le payerais cher.
+
+S�BASTIEN.--Ne vous montrez donc pas trop ouvertement.
+
+ANTONIO.--Cela ne serait pas prudent � moi. Tenez, monsieur, voil�
+ma bourse: la meilleure auberge o� vous puissiez loger, c'est �
+_l'�l�phant_, dans les faubourgs du midi. Je vais y commander notre
+repas, tandis que vous passerez le temps et que vous satisferez votre
+curiosit� en voyant la ville, vous me retrouverez l�.
+
+S�BASTIEN.--Pourquoi aurais-je votre bourse?
+
+ANTONIO.--Peut-�tre vos yeux tomberont-ils sur quelque bagatelle qu'il
+vous prendra envie d'acheter; et vos fonds, � ce que j'imagine, ne sont
+pas destin�s � de frivoles emplettes.
+
+S�BASTIEN.--Je serai votre porte-bourse, et je vous quitte pour une
+heure.
+
+ANTONIO.--A _l'�l�phant_....
+
+S�BASTIEN.--Je m'en souviens bien.
+
+
+
+SC�NE IV.
+
+
+Le jardin d'Olivia.
+
+OLIVIA, MARIE.
+
+OLIVIA, _� part_.--J'ai envoy� apr�s lui. Je suppose qu'il dise qu'il
+viendra..., comment le f�terai-je? Quel don lui ferai-je? car la
+jeunesse aime plus souvent � se faire acheter qu'elle ne se donne ou
+ne se pr�te... Je parle trop haut.--O� est Malvolio?--Il est grave et
+civil; et c'est un serviteur qui cadre bien avec ma position.--O� est
+Malvolio?
+
+MARIE.--Il vient, madame: mais dans un �trange accoutrement: il est
+s�rement poss�d�, madame.
+
+OLIVIA.--Quoi, que veux-tu dire? Est-ce qu'il extravague?
+
+MARIE.--Non, madame; il ne fait que sourire continuellement.--Il serait
+bon, madame, que vous fussiez entour�e, s'il vient: car il est certain
+que cet homme a la t�te timbr�e.
+
+OLIVIA.--Va le chercher. (_Marie sort._)--Je suis aussi insens�e qu'il
+peut l'�tre, si la folie gaie et la folie triste sont �gales. (_Rentrent
+Marie et Malvolio._) Eh bien! Malvolio?
+
+MALVOLIO.--Belle dame.... ho! ho! ho!
+
+OLIVIA.--Tu ris? Je t'ai envoy� chercher pour une triste circonstance.
+
+MALVOLIO.--Triste, madame? Je pourrais �tre triste; ces jarreti�res
+crois�es causent toujours quelque obstruction dans le sang: mais
+qu'est-ce que cela fait? Si elles plaisent � l'oeil d'une seule
+personne, je suis dans le cas du sonnet qui dit bien vrai: _Plaire � une
+seule, c'est plaire � tout le monde_.
+
+OLIVIA.--Qu'est-ce que tu as donc? Que t'arrive-t-il?
+
+MALVOLIO.--Il n'y a point de noir dans mon �me, quoiqu'il y ait du jaune
+� mes jambes.--Elle est tomb�e dans ses mains, et les ordres seront
+ex�cut�s. Je m'imagine que nous savons reconna�tre sa belle main
+romaine.
+
+OLIVIA.--Veux-tu aller te mettre au lit, Malvolio?
+
+MALVOLIO.--Au lit? Oui, ma ch�re �me, et je viendrai te trouver!
+
+OLIVIA.--Dieu te b�nisse! Pourquoi ris-tu ainsi et baises-tu ta main si
+souvent?
+
+MARIE.--Que faites-vous, Malvolio?
+
+MALVOLIO.--R�pondre � vos questions? Oui, comme les rossignols r�pondent
+aux corneilles.
+
+MARIE.--Pourquoi paraissez-vous avec cette ridicule hardiesse devant
+madame?
+
+MALVOLIO.--_Ne t'effraye point de la grandeur?_--Cela est bien �crit.
+
+OLIVIA.--Que veux-tu dire par l�, Malvolio?
+
+MALVOLIO.--_Quelques-uns naissent grands._
+
+OLIVIA.--Quoi?
+
+MALVOLIO.--_D'autres parviennent � la grandeur._
+
+OLIVIA.--Que dis-tu?
+
+MALVOLIO.--_Et il en est que la grandeur vient chercher d'elle-m�me._
+
+OLIVIA.--Que le ciel te r�tablisse!
+
+MALVOLIO.--_Rappelle-toi qui t'a fait l'�loge de tes bas jaunes._
+
+OLIVIA.--Tes bas jaunes?
+
+MALVOLIO.--_Et qui a souhait� te voir en jarreti�res crois�es._
+
+OLIVIA.--En jarreti�res crois�es?
+
+MALVOLIO.--_Poursuis, ta fortune est faite, pour peu que tu le
+veuilles._
+
+OLIVIA.--Ma fortune est faite?
+
+MALVOLIO.--_Si tu ne le veux pas, je ne verrai donc en toi qu'un
+serviteur._
+
+OLIVIA.--Mais c'est une vraie folie de canicule.
+
+(Entre un domestique.)
+
+LE DOMESTIQUE.--Madame, le jeune gentilhomme du comte Orsino est revenu:
+il me serait bien difficile de le prier de se retirer, il attend le bon
+plaisir de Votre Seigneurie.
+
+OLIVIA.--Je vais aller le trouver. (_Le domestique sort._)--Bonne
+Marie, aie soin qu'on veille sur ce gar�on. O� est mon oncle Tobie? Que
+quelques-uns de mes gens le gardent � vue: je ne voudrais pas pour la
+moiti� de ma fortune qu'il lui arriv�t quelque malheur.
+
+(Olivia sort avec Marie.)
+
+MALVOLIO _seul_.--Oh! oh! qu'on m'approche maintenant? Pas moins que sir
+Tobie, pour m'accompagner! Cela s'accorde parfaitement avec la lettre;
+elle me l'envoie expr�s pour que je le traite cavali�rement: car dans la
+lettre elle m'excite � cela. _Secoue ton humble poussi�re_, dit-elle:
+_tiens t�te au parent, sois hautain avec les serviteurs, que ta langue
+raisonne sur les affaires d'�tat, prends les airs d'un homme original_;
+et ensuite elle me dicte la mani�re dont je dois m'y prendre: un visage
+s�rieux, un maintien digne, une prononciation lente, � la mani�re de
+quelqu'un de grande consid�ration, et le reste � l'avenant. Je l'ai
+prise dans mes filets: mais c'est l'oeuvre de Jupiter: et que Jupiter me
+rende reconnaissant!--Oui, et quand elle m'a quitt�: _Qu'on veille
+sur ce gar�on! gar�on_, non pas Malvolio, ni suivant mon rang: mais
+_gar�on_. Allons, tout se tient, en sorte que pas une drachme de
+scrupule, pas un scrupule de scrupule, pas le moindre obstacle, pas
+la moindre circonstance qui offre le moindre doute, la moindre
+incertitude.... Que peut-on dire � cela? Rien qui soit possible ne peut
+s'interposer entre moi et la perspective de mes esp�rances. Allons,
+c'est Jupiter, et non pas moi, qui est l'auteur de tout ceci, et je dois
+lui en rendre gr�ces.
+
+(Marie revient avec sir Tobie et Fabian.)
+
+SIR TOBIE.--Au nom du ciel, quel chemin a-t-il pris? Quand tous les
+diables de l'enfer seraient entr�s dans ce petit corps, et que L�gion
+m�me le poss�derait, je lui parlerai.
+
+FABIAN.--Le voici, le voici.--(_A Malvolio._) Comment vous va, monsieur?
+Comment vous trouvez-vous, ami?
+
+MALVOLIO.--�loignez-vous, je vous cong�die.--Laissez-moi jouir de mon
+particulier, retirez-vous.
+
+MARIE.--Voyez, comme l'esprit malin parle dans ses entrailles d'une voix
+s�pulcrale! Ne vous l'avais-je pas dit? Sir Tobie, ma ma�tresse vous
+prie de bien veiller sur lui.
+
+MALVOLIO.--Ha! ha! l'a-t-elle recommand�?
+
+SIR TOBIE.--Allez, allez; paix, paix! il faut que nous nous y prenions
+doucement avec lui. Laissez-moi faire.--Comment vous va, Malvolio?
+Comment vous trouvez-vous? Allons, du courage, mon gar�on; d�fie le
+diable, souviens-toi qu'il est l'ennemi du genre humain.
+
+MALVOLIO.--Savez-vous bien ce que vous dites?
+
+MARIE.--Eh bien! voyez-vous, lorsque vous parlez mal du diable, comme il
+le prend � coeur? Prions Dieu qu'il ne soit pas ensorcel�.
+
+FABIAN.--Il faut porter de son urine � la sage-femme.
+
+MARIE.--Vraiment, c'est ce que je ne manquerai pas de faire d�s demain
+matin, si je vis. Ma ma�tresse ne voudrait pas le perdre pour plus de
+choses que je ne puis dire.
+
+MALVOLIO, _� Marie_.--Comment donc, mademoiselle?
+
+MARIE.--O mon Dieu!
+
+SIR TOBIE.--Je t'en prie, tais-toi; ce n'est pas l� le moyen. Ne vois-tu
+pas que tu l'�meus? Laisse-moi seul avec lui.
+
+FABIAN.--Il n'y a pas d'autre voie que la douceur: doucement, doucement;
+l'esprit est brutal, et il ne veut pas �tre trait� brutalement.
+
+SIR TOBIE.--Eh bien! mon dindonneau, comment cela va-t-il? Comment
+es-tu, mon poulet?
+
+MALVOLIO.--Monsieur?
+
+SIR TOBIE.--Oui! je t'en prie; viens avec moi. Allons, mon gar�on, il
+ne sied pas � un homme sage comme toi, de jouer ainsi avec Satan; aux
+enfers, l'inf�me charbonnier[56]!
+
+[Note 56: Le mot de charbonnier �tait, dans ce temps-l�, une insulte
+grave.]
+
+MARIE.--T�chez de lui faire dire ses pri�res; mon bon sir Tobie,
+engagez-le � prier.
+
+MALVOLIO.--Mes pri�res, effront�e!
+
+MARIE.--Non, je vous proteste qu'il ne voudra pas entendre parler de
+rien de sacr�.
+
+MALVOLIO.--Allez tous vous faire pendre! Vous �tes des t�tes vides et
+l�g�res; je ne suis pas form� des m�mes �l�ments que vous: vous en
+saurez davantage par la suite.
+
+(Il sort.)
+
+SIR TOBIE.--Est-il possible?
+
+FABIAN.--Si on jouait ceci sur un th��tre, je pourrais bien le condamner
+comme une fiction invraisemblable.
+
+SIR TOBIE.--Oh! son esprit tout entier s'est laiss� prendre au pi�ge.
+
+MARIE.--Allons, suivez-le � pr�sent, de peur que notre projet ne
+s'�vente et ne se g�te.
+
+FABIAN.--En v�rit�, vous le rendrez fou.
+
+MARIE.--La maison n'en sera que plus tranquille.
+
+SIR TOBIE.--Allons, nous l'enfermerons dans une chambre obscure,
+encha�n�. Ma ni�ce est d�j� dans la persuasion qu'il est fou! Nous
+pouvons continuer cette farce, pour notre amusement et sa p�nitence,
+jusqu'� ce que, las de nous amuser, nous nous sentions dispos�s � avoir
+piti� de lui. Alors, nous porterons ton plan au tribunal, et nous te
+couronnerons en qualit� de femme habile � trouver des fous. Mais voyez,
+voyez.
+
+(Entre sir Andr� Ague-cheek.)
+
+FABIAN.--Nouvelle mati�re � divertissement pour le matin du premier
+mai[57].
+
+[Note 57: Jour consacr� aux f�tes.]
+
+SIR ANDR�.--Voici le cartel. Lisez-le. Je garantis, qu'il y a du poivre
+et du vinaigre.
+
+FABIAN.--Est-il bien insultant?
+
+SIR ANDR�.--S'il l'est? Oh! je vous en r�ponds; lisez-le seulement.
+
+SIR TOBIE.--Donnez-moi. (_Sir Tobie lit._) _�Jeune homme, qui que tu
+sois, tu n'es qu'un vil dr�le._
+
+FABIAN.--Bien, courageux!
+
+SIR TOBIE, _lisant_.--_�Ne t'�tonne pas, et ne te demande pas dans tes
+pens�es pourquoi je te traite ainsi; car je ne t'en donnerai aucune
+raison._
+
+FABIAN.--Bonne note! qui vous met hors de la prise de la loi.
+
+SIR TOBIE, _lisant_.--_�Tu viens chez la dame Olivia, et sous mes yeux
+elle te traite avec bont�! Mais tu mens par la gorge: ce n'est pas l� la
+raison pourquoi je te provoque en duel._
+
+FABIAN.--Fort laconique, et d'une b�tise exquise.
+
+SIR TOBIE, _lisant_.--_�Je te surprendrai en chemin, retournant chez
+toi, et l�, s'il t'arrive de me tuer...._
+
+FABIAN.--Fort bien!
+
+SIR TOBIE, _lisant_.--_�Tu me tueras comme un l�che et un vaurien._
+
+FABIAN.--Bon! Vous vous mettez toujours au-dessus du vent de la loi.
+
+SIR TOBIE, _lisant_.--_�Porte-toi bien; et que Dieu fasse merci � l'une
+de nos deux �mes; il pourrait faire merci � la mienne; mais j'esp�re
+mieux que cela, et ainsi songe � toi. Ton ami, selon que tu le
+traiteras, et ton ennemi jur�._ �ANDR� AGUE-CHEEK.�
+
+--Si cette lettre n'est pas capable de le mouvoir, ses jambes ne le
+pourront pas davantage. Je veux la lui remettre.
+
+MARIE.--Vous avez une belle occasion pour cela: il a maintenant un
+entretien avec madame et il va partir prochainement.
+
+SIR TOBIE.--Allons, sir Andr�; attends-le au coin du verger, en vrai
+pr�v�t: du plus loin que tu l'apercevras, d�gaine; et en tirant ton
+�p�e, jure � faire peur, car il arrive souvent qu'un effroyable serment,
+prononc� d'un accent insultant et d'une voix foudroyante, vaut plus
+d'applaudissements au courage que ne lui en auraient gagn� les preuves
+m�mes. Allons, pars.
+
+SIR ANDR�.--Oh! laissez-moi le soin de jurer comme il faut.
+
+(Il sort.)
+
+SIR TOBIE.--Maintenant.... je ne lui donnerai pas la lettre; car les
+mani�res du jeune gentilhomme me prouvent qu'il est intelligent et bien
+�lev�: la n�gociation o� il est employ� entre son ma�tre et ma ni�ce
+le confirme; en cons�quence cette lettre, chef-d'oeuvre d'ignorance,
+n'inspirerait aucune terreur au jeune homme, et il s'apercevrait
+ais�ment qu'elle vient d'un butor. Mais, voyez-vous, je lui rendrai le
+d�fi de bouche; je vanterai sir Andr� pour avoir la r�putation d'un
+brave; et j'inspirerai au jeune homme (que son �ge rendra cr�dule, je le
+sais) la plus formidable id�e de sa fureur, de sa science, de sa rage,
+et de son imp�tuosit�. Et cela les �pouvantera si fort tous deux, qu'ils
+se tueront mutuellement de leur regard, comme des basilics.
+
+FABIAN.--Le voici qui vient avec votre ni�ce; laissez-les ensemble,
+jusqu'� ce qu'il prenne cong� d'elle, et alors suivez-le.
+
+SIR TOBIE.--Je vais en attendant m�diter quelque terrible message pour
+rendre un d�fi.
+
+(Ils sortent.)
+
+(Entrent Olivia et Viola.)
+
+OLIVIA.--J'en ai trop dit � un coeur de pierre, et j'ai expos� mon
+honneur � trop bon march�. Il y a quelque chose en moi qui me reproche
+ma faute; mais ma faute est si ent�t�e et si opini�tre qu'elle se rit
+des reproches.
+
+VIOLA.--Les chagrins de mon ma�tre tiennent la m�me conduite que votre
+passion.
+
+OLIVIA.--Tenez, portez ce bijou pour l'amour de moi; c'est mon portrait:
+ne refusez pas; il n'a point de langue qui puisse vous �tre importune,
+et je vous en conjure, revenez demain. Que pourrez-vous me demander que
+je vous refuse, de ce que l'honneur peut, sans se compromettre, accorder
+� une demande?
+
+VIOLA.--Rien autre chose que cette gr�ce: votre amour sinc�re pour mon
+ma�tre.
+
+OLIVIA.--Comment puis-je, avec honneur, lui donner ce que je vous ai
+donn�?
+
+VIOLA.--Je vous tiendrai quitte.
+
+OLIVIA.--Allons, revenez demain; adieu: un d�mon qui te ressemblerait
+pourrait conduire mon �me en enfer!
+
+(Elle sort.)
+
+(Rentrent Sir Tobie Belch et Fabian.)
+
+SIR TOBIE.--Mon gentilhomme, Dieu te garde!
+
+VIOLA.--Et vous aussi, monsieur!
+
+SIR TOBIE.--Recours � tous les moyens que tu as de te d�fendre. De
+quelle nature sont les insultes que tu lui as faites, c'est ce que
+j'ignore: mais ton ennemi en embuscade, plein de courroux, avide de sang
+comme un chasseur, t'attend au bout du verger. D�gaine ta courte �p�e,
+sois leste � te mettre en garde; car ton assaillant est vif, habile, et
+pouss� par une haine mortelle.
+
+VIOLA.--Vous vous m�prenez, monsieur. Je suis certain que nul homme au
+monde n'est en querelle avec moi: ma m�moire est bien nette et ne me
+retrace pas la moindre id�e d'une offense quelconque faite � qui que ce
+soit.
+
+SIR TOBIE.--Vous verrez le contraire, je vous assure: ainsi, si vous
+attachez quelque prix � votre vie, songez � vous bien mettre en garde;
+car votre adversaire a pour lui tous les avantages que peuvent donner la
+jeunesse, la vigueur, l'art et la fureur.
+
+VIOLA.--Je vous prie, monsieur, qui est-ce?
+
+SIR TOBIE.--Il est chevalier; il a re�u l'accolade avec une rapi�re
+sans br�che et sur un tapis[58]: mais c'est un d�mon dans une querelle
+priv�e: il a d�j� fait divorcer trois �mes et trois corps; et sa furie
+est dans ce moment si implacable, qu'il n'y a point d'autre satisfaction
+qu'il accepte que l'agonie de la mort et le tombeau: _� toute
+outrance_[59] est son mot; il faut la donner ou la recevoir.
+
+[Note 58: C'est un chevalier de salon: _Carpet-knight_.]
+
+[Note 59: �_Hob nob_, corruption de ces mots: _let it happen or not_.�
+(STEEVENS.)]
+
+VIOLA.--Je vais rentrer dans la maison, et demander � madame Olivia
+quelques avis sur la conduite que je dois tenir. Je ne suis point un
+duelliste. J'ai ou� parler de certaines gens qui suscitent expr�s des
+querelles aux autres, pour �prouver leur valeur: probablement que c'est
+un homme de cette esp�ce.
+
+SIR TOBIE.--Non; son indignation vient d'une injure tr�s-positive: ainsi
+avancez, et donnez-lui satisfaction. Vous ne retournerez point � la
+maison, � moins que vous ne veuilliez tenter avec moi ce que vous pouvez
+avec autant de s�ret� vider avec lui. Ainsi, en avant ou tirez votre
+�p�e de son fourreau: car il faut vous battre, cela est certain; ou bien
+renoncer � porter cette arme � votre c�t�.
+
+VIOLA.--Mais cela est aussi incivil qu'�trange. Je vous en conjure,
+rendez-moi le bon service de savoir du chevalier en quoi je l'ai
+offens�, cela vient peut-�tre d'une n�gligence de ma part, mais non
+certainement de mes intentions.
+
+SIR TOBIE.--Je le veux bien; seigneur Fabian, restez aupr�s de ce
+gentilhomme jusqu'� mon retour.
+
+(Sir Tobie sort.)
+
+VIOLA.--De gr�ce, monsieur: �tes-vous instruit de cette affaire?
+
+FABIAN.--Ce que je sais, c'est que le chevalier est irrit� contre
+vous, au point de vouloir un duel � mort; mais je ne sais rien des
+circonstances.
+
+VIOLA.--Dites-moi, je vous prie, quelle esp�ce d'homme est-ce?
+
+FABIAN.--Son air ne promet rien d'extraordinaire, et l'on ne lit point
+sur sa figure ce que vous le trouverez �tre en �prouvant sa valeur.
+C'est l'adversaire le plus habile, le plus sanguinaire, et le plus
+dangereux, que vous puissiez trouver dans toute l'Illyrie. Voulez-vous
+que nous marchions � sa rencontre? Je ferai votre paix avec lui, si je
+puis.
+
+VIOLA.--Je vous en aurai grande obligation. Je suis un de ces hommes qui
+aimeraient beaucoup mieux faire soci�t� avec messire le cur� qu'avec
+messire le chevalier; peu m'importe qu'on sache jusqu'o� va mon courage.
+
+(Ils sortent, et sir Tobie revient avec sir Andr�.)
+
+SIR TOBIE.--Oh! ma foi, c'est un vrai d�mon; je n'ai jamais vu un tel
+champion. J'ai fait un assaut avec lui, lame, fourreau, tout; il m'a
+port� la botte, et d'une rapidit� de mouvement si dangereuse qu'il est
+impossible de l'�viter; et � la riposte, il vous r�pond aussi s�rement
+que votre pied frappe la terre sur laquelle il marche. On dit qu'il a
+�t� le ma�tre d'armes du sophi.
+
+SIR ANDR�.--La peste l'�touffe; je ne veux point avoir affaire � lui.
+
+SIR TOBIE.--Oui, mais maintenant il ne se laissera pas apaiser. Fabian a
+bien de la peine � le retenir l�-bas.
+
+SIR ANDR�.--Malepeste! Si j'avais pu croire qu'il f�t si vaillant, et si
+consomm� dans l'escrime, je l'aurais vu damn� avant de le d�fier. S'il
+veut laisser passer l'affaire, je lui donnerai mon cheval gris, Capilet.
+
+SIR TOBIE.--Je veux bien lui en faire la proposition; restez ici, faites
+bonne contenance; cela finira, j'esp�re, sans perte d'�mes. (_A part._)
+Mordienne, je ferai aller votre cheval tout aussi bien que vous.
+(_Rentrent Fabian et Viola._)--(_A Fabian._) J'ai son cheval pour
+apaiser la querelle. Je lui ai persuad� que le jeune homme �tait un
+diable.
+
+FABIAN, � _sir Tobie_.--Il a de lui une id�e tout aussi formidable, et
+il est haletant et p�le, comme s'il avait un ours sur les talons.
+
+SIR TOBIE, _� Viola_.--Il n'y a point de rem�de. Il faut qu'il se batte
+avec vous, � cause de son serment. Il a r�fl�chi depuis sur sa querelle,
+et il trouve � pr�sent qu'� peine vaut-elle la peine d'en parler: ainsi,
+d�gainez seulement pour l'honneur de sa parole: il proteste qu'il ne
+vous blessera pas.
+
+VIOLA.--Dieu me prot�ge; il ne s'en faut gu�re que je ne leur dise tout
+ce qu'il me manque pour �tre un homme.
+
+FABIAN.--C�dez le terrain, si vous le voyez trop furieux.
+
+SIR TOBIE, _� sir Andr�_.--Allons, sir Andr�, il n'y a pas de rem�de,
+il n'y a pas moyen de l'�viter, le gentilhomme ne poussera qu'une botte
+contre vous, pour sauver son honneur: il ne peut, par les lois du duel,
+s'en dispenser: mais il m'a promis, foi de gentilhomme et de soldat,
+qu'il ne vous blessera pas. Allons, en garde.
+
+SIR ANDR�.--Dieu veuille qu'il tienne sa parole!
+
+(Il tire l'�p�e.)
+
+VIOLA.--Je vous assure que c'est contre ma volont�.
+
+(Elle tire l'�p�e.)
+
+(Entre Antonio.)
+
+ANTONIO, _� sir Andr�_.--Remettez votre �p�e: si ce jeune gentilhomme
+vous a fait quelque insulte, j'en prends la faute sur moi. Si vous
+l'offensez, je vous d�fie en son nom, j'embrasse sa d�fense et vous
+attaque.
+
+(D�ga�nant.)
+
+SIR TOBIE, _� Antonio_.--Vous, monsieur? Quoi! qui �tes-vous?
+
+ANTONIO.--Un homme, monsieur, qui, pour l'amour de ce jeune cavalier,
+fera plus encore que vous ne l'avez entendu se vanter � vous de faire.
+
+SIR TOBIE.--Si vous �tes un _entrepreneur_[60], je suis � vous.
+
+(Il tire l'�p�e.)
+
+(Entrent les officiers de justice.)
+
+[Note 60: _Undertaker_ devint un terme satirique � l'occasion que voici.
+A la session du parlement, en 1614, ce fut l'opinion g�n�rale que le roi
+avait �t� engag� � convoquer le parlement par certaines personnes qui
+avaient entrepris (_undertaken_) de favoriser les vues du roi par leur
+influence dans la Chambre des communes. On les appela _undertakers_; la
+chose devint si s�rieuse que le roi jugea n�cessaire de dissuader le
+peuple par deux discours. Bacon fit aussi une harangue � cette occasion.
+Peut-�tre aussi _undertaker_ n'est-il ici que pour d�signer ces
+bretteurs de profession qui se chargent des affaires des autres.]
+
+FABIAN.--Ah! bon sir Tobie, arr�tez; voici les officiers de justice.
+
+SIR TOBIE, _� Antonio_.--Je serai � vous tout � l'heure.
+
+VIOLA, _� sir Andr�_.--Je vous prie, monsieur, remettez votre �p�e, si
+c'est votre bon plaisir.
+
+SIR ANDR�.--Oh! bien volontiers, monsieur; et quant � ce que je vous
+ai promis, je vous r�ponds de tenir ma parole. Il vous portera bien
+doucement, et il a la bouche fine.
+
+PREMIER OFFICIER.--Voil� l'homme; faites votre devoir.
+
+SECOND OFFICIER.--Antonio, je vous arr�te � la requ�te du comte Orsino.
+
+ANTONIO.--Vous vous m�prenez, monsieur.
+
+PREMIER OFFICIER.--Non, monsieur, pas du tout.--Je connais bien vos
+traits, quoique vous n'ayez pas maintenant le bonnet de marin sur la
+t�te.--Emmenez-le: il sait que je le connais bien.
+
+ANTONIO, _� Viola_.--Je suis forc� d'ob�ir.--Voil� ce qui m'arrive
+en vous cherchant, mais il n'y a pas de rem�de. Je saurai me tirer
+d'affaire: vous, que ferez-vous? Maintenant la n�cessit� me force de
+vous demander ma bourse; je ressens bien plus de peine de ne pouvoir
+rien faire pour vous, que du malheur qui m'arrive. Vous restez confondu;
+allons, consolez-vous.
+
+SECOND OFFICIER.--Allons, monsieur, partons.
+
+ANTONIO.--Il faut que je vous demande une partie de cet argent.
+
+VIOLA.--Quel argent, monsieur? Je veux bien, en consid�ration de
+l'int�r�t g�n�reux que vous venez de montrer ici pour moi, et touch�
+aussi de l'accident qui vous arrive, vous pr�ter quelque chose de mes
+minces et modiques ressources: ce que je poss�de n'est pas grand'chose;
+je le partagerai volontiers avec vous: tenez, voil� la moiti� de ma
+bourse.
+
+ANTONIO.--Voulez-vous me refuser � pr�sent? Est-il possible que
+mes services envers vous ne soient pas capables de vous persuader?
+N'insultez pas � mon infortune, de crainte que le ressentiment ne me
+pousse � l'incons�quence de vous reprocher les services que je vous ai
+rendus.
+
+VIOLA.--Je n'en connais aucun; et je ne vous reconnais ni au son de
+voix, ni � vos traits; je hais plus dans un homme l'ingratitude que le
+mensonge, la vanit�, le bavardage, l'ivrognerie, ou tout autre trace de
+vice, dont le germe impur corrompt notre sang.
+
+ANTONIO.--O ciel!
+
+SECOND OFFICIER.--Allons, monsieur, je vous prie, suivez-nous.
+
+ANTONIO.--Laissez-moi dire encore un mot. Ce jeune homme, que vous voyez
+l�, je l'ai arrach� � la mort qui l'avait d�j� � moiti� englouti; je
+l'ai secouru avec l'affection la plus sainte,.... et je m'�tais d�vou� �
+lui, s�duit par son visage, qui promettait, � ce que je m'imaginais, le
+plus respectable m�rite.
+
+SECOND OFFICIER.--Qu'est-ce que cela nous fait? Le temps se
+passe.--Allons.
+
+ANTONIO.--Mais quelle vile idole se trouve �tre ce dieu!--S�bastien,
+tu fais tort � ton beau visage.--Il n'est dans la nature de v�ritables
+difformit�s que celles de l'�me; nul ne peut �tre tax� de laideur que
+l'ingrat. La vraie beaut�, c'est la vertu; mais le mal cach� dans
+une belle apparence n'est qu'un coffre vide que le d�mon a d�cor� �
+l'ext�rieur.
+
+PREMIER OFFICIER.--Cet homme devient fou; emmenez-le sans
+d�lai.--Allons, allons, monsieur.
+
+ANTONIO.--Conduisez-moi.
+
+(Les officiers emm�nent Antonio.)
+
+VIOLA.--Il me semble que ses paroles partent d'une passion si vive qu'il
+croit ce qu'il dit, je n'en fais pas autant. Oh! r�alise-toi, illusion;
+r�alise-toi! que je sois en effet prise ici pour mon cher fr�re!
+
+SIR TOBIE.--Approche, chevalier; approche, Fabian; nous nous dirons tout
+bas un ou deux couplets de sages sentences.
+
+VIOLA.--Il a nomm� S�bastien! Je sais que mon fr�re vit encore dans
+mon image. Oui, c'�taient bien l� les traits de mon fr�re; et il �tait
+toujours v�tu de cette fa�on: m�me couleur, m�mes ornements; car
+je l'imite en tout. Oh! si cela est vrai, la temp�te est donc
+compatissante, et les flots savent s'attendrir!
+
+(Elle sort.)
+
+SIR TOBIE.--Voil� un jeune homme sans honneur et bien m�prisable: il est
+plus poltron qu'un li�vre; sa malhonn�tet� se manifeste en laissant ici
+son ami dans le besoin, et il pousse la l�chet� jusqu'� le renier; quant
+� sa poltronnerie, interrogez Fabian.
+
+FABIAN.--Un poltron, un poltron des plus parfaits, poltron jusqu'au
+scrupule.
+
+SIR ANDR�.--Ma foi, je veux courir apr�s lui et le battre.
+
+SIR TOBIE.--C'est cela, �trillez-le d'importance; mais ne tirez pas
+l'�p�e.
+
+SIR ANDR�.--Et je ne la tire pas non plus.
+
+(Sir Andr� sort.)
+
+FABIAN.--Allons, voyons le d�no�ment.
+
+SIR TOBIE.--Je gagerais bien tout l'argent qu'on voudrait qu'il
+n'arrivera rien encore.
+
+(Ils sortent.)
+
+FIN DU TROISI�ME ACTE.
+
+
+
+
+ACTE QUATRI�ME
+
+
+
+SC�NE I
+
+
+La rue, devant la maison d'Olivia.
+
+_Entrent_ S�BASTIEN et LE BOUFFON.
+
+LE BOUFFON.--Voudriez-vous me faire croire que ce n'est pas vous qu'on
+m'a envoy� chercher?
+
+S�BASTIEN.--Va-t'en, va-t'en; tu n'es qu'un fou. D�barrasse-moi de ta
+personne.
+
+LE BOUFFON.--Fort bien soutenu, ma foi! Non, sans doute, je ne vous
+connais pas; et je ne vous suis pas envoy� par ma ma�tresse pour vous
+dire de venir lui parler, et votre nom n'est pas monsieur C�sario, et ce
+nez n'est pas � moi non plus?--Non, tout ce qui est n'est pas.
+
+S�BASTIEN.--Je t'en prie, va exhaler ta folie ailleurs. Tu ne me connais
+point.
+
+LE BOUFFON.--_Exhaler ma folie!_ Il a entendu dire ce mot par quelque
+grand homme, et maintenant il l'applique � un fou. _Exhaler ma folie!_
+J'ai bien peur que ce grand lourdaud, qu'on appelle le monde,
+ne devienne tout � fait badaud. Je vous en prie instamment,
+d�barrassez-vous de cet air de surprise, et dites-moi ce que je dois
+exhaler � ma ma�tresse; irai-je lui exhaler que vous allez venir?
+
+S�BASTIEN.--Je t'en conjure, Grec sans cervelle[61], laisse-moi; voil�
+de l'argent pour toi: si tu restes plus longtemps, je te payerai d'une
+plus mauvaise monnaie.
+
+[Note 61: Grec est ici pour entremetteur, comme Corinthe se disait pour
+un lieu de d�bauche.]
+
+LE BOUFFON.--Sur ma foi, tu as la main ouverte.--Les hommes sages qui
+donnent de l'argent aux fous savent se procurer des d�cisions favorables
+apr�s un march� de quatorze ans.
+
+(Entrent sir Andr�, sir Tobie et Fabian.)
+
+SIR ANDR�, _prenant S�bastien pour Viola_.--Quoi! je vous rencontre
+encore ici, monsieur? Voil� pour vous!
+
+(Il frappe S�bastien.)
+
+S�BASTIEN.--Et voil� pour toi (_il le lui rend_), et encore, et encore!
+Tout le monde est-il fou ici?
+
+SIR TOBIE.--Arr�tez, monsieur, ou je jetterai votre �p�e par-dessus la
+maison.
+
+LE BOUFFON.--Je veux aller annoncer cela tout de suite � ma ma�tresse.
+Je ne voudrais pas �tre dans l'un de vos habits pour deux sous.
+
+(Il sort.)
+
+SIR TOBIE, _contenant S�bastien_.--Allons, monsieur, arr�tez.
+
+SIR ANDR�.--Oh! laissez-le faire; je vais m'y prendre d'une autre fa�on
+pour l'arranger; j'aurai contre lui une action en batterie pour peu
+qu'il y ait des lois en Illyrie; quoique je l'aie frapp� le premier,
+cela ne fait rien � la chose.
+
+S�BASTIEN.--�tez votre main.
+
+SIR TOBIE.--Allons, monsieur, je ne vous l�cherai point. Allons, mon
+jeune soldat, renga�nez votre fer. Vous �tes bien �chauff�. Allons.
+
+S�BASTIEN.--Je veux me d�barrasser de toi. (_Il se d�gage._) Que veux-tu
+� pr�sent? Si tu oses me provoquer encore, tire ton �p�e.
+
+SIR TOBIE.--Quoi donc? quoi donc? Allons, il faut que je te tire une ou
+deux onces de ce sang insolent.
+
+(Ils tirent l'�p�e et se battent.)
+
+(Entre Olivia.)
+
+OLIVIA.--Arr�tez, Tobie. Sur votre vie, je vous l'ordonne, arr�tez.
+
+SIR TOBIE.--Madame?
+
+OLIVIA.--Sera-ce toujours la m�me chose? Homme grossier, fait pour
+habiter les montagnes et les cavernes sauvages, o� jamais l'on
+n'enseigna la politesse, sortez de ma vue.--Ne vous f�chez pas, cher
+C�sario.--Brutal, sortez. (_Sir Tobie et sir Andr� sortent._)--(_A
+C�sario._) Je vous prie, mon cher ami, que votre sage prudence, et non
+la passion, vous gouverne dans cette incivile et injuste attaque contre
+votre tranquillit�. Venez avec moi dans ma maison, et apr�s que je vous
+aurai cont� combien de folies extravagantes ce rustre a faites, vous ne
+ferez que rire de celle-ci; vous ne pouvez vous dispenser de venir. Ne
+me refusez pas; maudite soit son �me! il a effray� mon pauvre coeur en
+votre personne.
+
+S�BASTIEN.--A quoi ceci ressemble-t-il? De quel c�t� s'en va l'eau? Ou
+je suis fou, ou tout ceci est un songe!--Que mon imagination plonge
+ainsi mes sens dans le L�th�! et si c'est un songe, que je dorme
+toujours!
+
+OLIVIA.--Allons, venez, je vous en prie; je voudrais que vous vous
+laissassiez conduire par mes conseils.
+
+S�BASTIEN.--Madame, je le veux bien.
+
+OLIVIA.--O redites-le, et faites-le!
+
+
+
+SC�NE II
+
+
+Appartement dans la maison d'Olivia.
+
+MARIE et LE BOUFFON.
+
+MARIE.--Voyons, je t'en prie, mets cette robe, et cette barbe; fais-lui
+croire que tu es messire Topas, le cur�: fais-le croire promptement; je
+vais pendant ce temps-l� chercher sir Tobie.
+
+(Marie sort.)
+
+LE BOUFFON.--Eh bien! je vais la mettre, et me d�guiser; et je voudrais
+�tre le premier qui se f�t jamais travesti sous une pareille robe. Je ne
+suis pas assez grand pour bien remplir cet office, ni assez maigre pour
+�tre r�put� bon �tudiant; mais si l'on dit d'un homme qu'il est honn�te
+homme, et qu'il sait bien tenir une maison, cela vaut bien autant que
+si l'on disait qu'il est un homme sage et un grand savant. Voici les
+conf�d�r�s qui viennent.
+
+(Entrent sir Tobie Belch et Marie.)
+
+SIR TOBIE.--Que Jupiter vous b�nisse, monsieur le cur�.
+
+LE BOUFFON.--_Bonos dies_[62], sir Tobie; car de m�me que le vieil
+ermite de Prague, qui de sa vie n'avait vu plume ni encre, dit fort
+ing�nieusement � la ni�ce du roi Gorboduc[63] _ce qui est, est_[64]; de
+m�me, moi, �tant monsieur le cur�, je suis monsieur le cur�: qu'est-ce
+cela, si ce n'est cela? et qu'est-ce qui est, que ce qui est?
+
+[Note 62: D'heureux jours.]
+
+[Note 63: Trag�die de _Gorboduc_, par le comte Dorset.]
+
+[Note 64: Argument de l'�cole, tourn� en ridicule.]
+
+SIR TOBIE, _indiquant Malvolio_.--A lui, messire Topas.
+
+LE BOUFFON.--Hol�, dis-je! La paix soit dans cette prison!
+
+SIR TOBIE.--Le coquin contrefait � merveille; c'est un adroit coquin.
+
+MALVOLIO, _dans une chambre_.--Qui appelle l�?
+
+LE BOUFFON.--Messire Topas le cur�, qui vient visiter Malvolio le
+lunatique.
+
+MALVOLIO.--Messire Topas, messire Topas, bon messire Topas, allez
+trouver madame.
+
+LE BOUFFON.--Hors d'ici, d�mon hyperbolique! comme tu tourmentes ce
+malheureux! Ne parles-tu donc jamais que de dames?
+
+SIR TOBIE.--Bien dit, monsieur le cur�.
+
+MALVOLIO.--Messire Topas, jamais on n'a fait tant de tort � un homme:
+bon messire Topas, ne croyez point que je sois fou; ils m'ont mis ici
+dans une horrible obscurit�.
+
+LE BOUFFON.--Fi donc, malhonn�te Satan! Je t'appelle des noms les plus
+mod�r�s, car je suis un de ces hommes doux qui savent traiter poliment
+le diable lui-m�me: tu dis que la maison est t�n�breuse?
+
+MALVOLIO.--Comme l'enfer, messire Topas.
+
+LE BOUFFON.--Elle a des fen�tres cintr�es qui sont transparentes
+comme des treillages, et les pierres qui sont vers le sud-nord sont
+reluisantes comme l'�b�ne, et tu te plains que le passage de la lumi�re
+soit obstru�?
+
+MALVOLIO.--Je ne suis pas fou, messire Topas; je vous dis qu'il fait
+noir dans cette maison.
+
+LE BOUFFON.--Insens�, tu te trompes. Je te dis, moi, qu'il n'y a point
+d'autres t�n�bres que l'ignorance; et tu y es enfonc� plus avant que les
+�gyptiens dans leur brouillard..
+
+MALVOLIO.--Je vous dis que cette maison est sombre comme l'ignorance,
+l'ignorance f�t-elle noire comme l'enfer; et je dis que jamais homme
+ne fut aussi indignement trait�. Je ne suis pas plus fou que vous;
+mettez-moi � l'�preuve par quelque question r�guli�re.
+
+LE BOUFFON.--Quelle est l'opinion de Pythagore sur les oiseaux sauvages?
+
+MALVOLIO.--Que l'�me de notre grand'm�re pourrait bien loger dans le
+corps d'un oiseau.
+
+LE BOUFFON.--Et que penses-tu de son opinion?
+
+MALVOLIO.--J'ai de l'�me une id�e noble, et je n'approuve nullement son
+opinion.
+
+BOUFFON.--Adieu, reste dans les t�n�bres; tu soutiendras l'opinion de
+Pythagore avant que je te croie dans ton bon sens; et tu craindras de
+tuer une b�casse, de peur de d�poss�der l'�me de ta grand'm�re: allons,
+porte-toi bien.
+
+MALVOLIO.--Messire Topas! messire Topas!
+
+SIR TOBIE.--Mon cher et coquin messire Topas!
+
+LE BOUFFON.--Je suis bon pour toutes les eaux[65].
+
+[Note 65: Bon pour toutes les friponneries. �_Tu hai mantillo da ogni
+acqua._� Et aussi le mot _water_, eau, peut �tre pris dans le sens qu'y
+attachent les joailliers, ce qui fait une �quivoque.]
+
+MARIE.--Tu pouvais jouer ce r�le sans robe ni barbe il ne te voit pas.
+
+SIR TOBIE.--Va le trouver et parle-lui de ta voix naturelle, et tu
+viendras me rendre compte de l'�tat o� tu l'auras trouv�. Je voudrais
+que nous fussions tous heureusement quittes de ce m�chant tour. Si on
+peut lui rendre sa libert� sans inconv�nient, je voudrais que cela f�t
+d�j� fait, car me voil� si mal avec ma ni�ce que je ne peux conduire
+cette farce jusqu'au bout. Viens me trouver ensuite dans ma chambre.
+
+(Il sort avec Marie.)
+
+LE BOUFFON, _chantant_.
+
+  Allons, Robin, joyeux Robin,
+  Dis-moi comment va ta ma�tresse.
+
+MALVOLIO.--Fou!
+
+LE BOUFFON, _chantant_.
+
+  Ma ma�tresse est par ma foi une cruelle.
+
+MALVOLIO.--Fou!
+
+LE BOUFFON.
+
+  H�las! pourquoi l'est-elle?
+
+MALVOLIO.--Fou, r�ponds-moi donc.
+
+LE BOUFFON.
+
+  C'est qu'elle en aime un autre.
+
+Qui m'appelle ici?
+
+MALVOLIO.--Bon fou, si jamais tu veux bien m�riter de moi, procure-moi
+de la lumi�re, une plume, de l'encre et du papier: comme je suis
+gentihomme, je t'en serai reconnaissant toute ma vie.
+
+LE BOUFFON.--Quoi, monsieur Malvolio?
+
+MALVOLIO.--Oui, mon bon fou.
+
+LE BOUFFON.--H�las! monsieur, comment avez-vous perdu l'usage de vos
+cinq sens?
+
+MALVOLIO.--Fou, il n'y eut jamais d'homme insult� d'une mani�re aussi
+indigne: je jouis de tout mon bon sens aussi bien que toi, fou.
+
+LE BOUFFON.--Aussi bien que moi? En ce cas vous �tes donc fou, si vous
+n'�tes pas plus dans votre bon sens qu'un fou.
+
+MALVOLIO.--Ils ont pris possession de moi ici; ils me tiennent dans
+l'obscurit�, ils m'envoient des ministres, des �nes, et font tout ce
+qu'ils peuvent pour me faire perdre la raison.
+
+LE BOUFFON.--Faites bien attention � ce que vous dites: le ministre est
+ici pr�sent. (_Le Bouffon aussit�t varie sa voix et contrefait dans
+l'obscurit� celle du ministre._)--Malvolio, Malvolio, que le ciel
+veuille te rendre la raison! T�che de dormir, et laisse l� ton vain
+babil.
+
+MALVOLIO.--Messire Topas!
+
+LE BOUFFON, _m�me jeu_.--Ne perdez point de paroles avec lui, mon
+gar�on.--Qui, moi, monsieur? Non pas moi, monsieur. Dieu soit avec
+vous, bon messire Topas!--Ainsi soit-il! Ainsi soit-il!--Je le ferai,
+monsieur, je le ferai.
+
+MALVOLIO.--Fou! fou! fou! r�ponds-moi donc.
+
+LE BOUFFON, _reprenant son ton naturel_.--H�las, monsieur, un peu de
+patience. Que dites-vous, monsieur? On me gronde, parce que je vous
+parle.
+
+MALVOLIO.--Mon bon fou, oblige-moi de m'apporter de la lumi�re et un peu
+de papier. Je te dis que je suis dans mon sens, autant qu'homme qui soit
+dans toute l'Illyrie.
+
+LE BOUFFON.--Pl�t au ciel qu'il en f�t ainsi, monsieur!
+
+MALVOLIO.--Par cette main, cela est. Cher fou, un peu d'encre, de papier
+et de lumi�re, et ensuite porte � madame ce que j'aurai �crit. Ce
+message te sera plus avantageux qu'aucune lettre que tu aies jamais
+port�e.
+
+LE BOUFFON.--Je veux bien vous obliger en cela. Mais dites-moi la
+v�rit�: n'�tes-vous pas fou r�ellement, ou si vous ne faites que le
+contrefaire?
+
+MALVOLIO.--Crois-moi, je ne suis point fou: je te dis la v�rit�.
+
+LE BOUFFON.--Allons, je ne croirai plus jamais qu'un homme soit fou que
+je n'aie vu sa cervelle. Je vais vous chercher de la lumi�re, du papier
+et de l'encre.
+
+MALVOLIO.--Fou, je ne mettrai point de bornes � ta r�compense. Je t'en
+prie, va.
+
+LE BOUFFON _sort en chantant_.
+
+  Je suis parti, monsieur;
+  Et dans un moment, monsieur,
+  Je vous rejoins
+  Dans un clin d'oeil,
+  Pour pourvoir � vos besoins;
+
+  Comme l'antique fou,
+  Qui, avec une dague de bois:
+  Dans sa col�re et sa rage,
+  Crie: _Ah! ah!_ au diable,
+  Comme un enfant insens�:
+  _Rogne tes ongles, papa!_
+  Adieu, �cume d'un honn�te homme.
+
+
+
+SC�NE III
+
+
+Le jardin d'Olivia.
+
+_Entre_ S�BASTIEN.
+
+S�BASTIEN.--C'est bien l'air: c'est bien le glorieux soleil. Voil� bien
+la perle qu'elle m'a donn�e; je le sens, je la vois; et quoique je sois
+plong� dans l'�tonnement, je ne suis pas dans le d�lire. O� est donc
+Antonio? Je n'ai pu le d�couvrir � _l'�l�phant_: et cependant il y avait
+�t� et on y croyait qu'il parcourait la ville pour me chercher. Ses
+conseils pourraient maintenant me rendre des services d'or; car quoique
+ma raison remontre bien � mes sens que tout ceci peut bien �tre une
+m�prise, et non pas de la folie, cependant les hasards singuliers de
+cette aventure surpassent si fort tout exemple, tout raisonnement
+ordinaire, que je suis pr�t � me d�fier de mes yeux, et � chercher
+querelle � ma raison, qui me persuade que tout est possible, sauf que
+je sois fou ou que la dame soit folle. Cependant si elle l'�tait, elle
+serait incapable de gouverner sa maison, de commander � ses gens, de
+prendre en mains les affaires, et de les exp�dier avec cette suite,
+cette prudence, ce calme que je remarque dans toute sa conduite: il y a
+l�-dessous quelque illusion.--Mais voici venir la dame.
+
+(Entre Olivia avec un pr�tre.)
+
+OLIVIA.--Ne bl�mez point cette pr�cipitation de ma part. Si vos
+intentions sont bonnes, venez avec moi et ce saint homme dans la
+chapelle voisine: l�, devant lui et sous ces lambris sacr�s, engagez-moi
+la pleine assurance de votre foi, afin que mon �me jalouse et trop
+d�fiante puisse vivre en paix. Ce pr�tre cachera notre union jusqu'au
+moment o� vous trouverez bon de la rendre publique; et alors nous
+c�l�brerons nos noces comme il convient � ma naissance.--Que dites-vous?
+
+S�BASTIEN.--Je suis pr�t � suivre ce saint homme, et � vous accompagner;
+et quand une fois je vous aurai jur� fid�lit�, je vous serai toujours
+fid�le.
+
+OLIVIA.--En ce cas, montrez-nous le chemin, mon bon p�re. Et que le ciel
+�claire d'une lumi�re propice l'acte que je veux accomplir!
+
+(Ils sortent tous trois.)
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+ACTE CINQUI�ME
+
+
+
+SC�NE I
+
+
+La rue devant la maison d'Olivia.
+
+LE BOUFFON et FABIAN.
+
+FABIAN.--Maintenant, si tu m'aimes, laisse-moi voir sa lettre.
+
+LE BOUFFON.--Et vous, mon cher monsieur Fabian, accordez-moi une autre
+requ�te.
+
+FABIAN.--Tout ce que tu voudras.
+
+LE BOUFFON.--Ne demandez pas � voir cette lettre.
+
+FABIAN.--Eh! mais, c'est me donner un chien, et puis, pour r�compense,
+me redemander mon chien.
+
+(Entrent le duc, Viola, et suite.)
+
+LE DUC.--Mes amis, appartenez-vous � madame Olivia?
+
+LE BOUFFON.--Oui, monsieur, nous faisons partie des meubles de sa
+maison.
+
+LE DUC.--Je te connais bien: eh bien! comment t'en va, mon gar�on?
+
+LE BOUFFON.--Vraiment, monsieur, bien pour mes ennemis, et mal pour mes
+amis.
+
+LE DUC.--C'est pr�cis�ment le contraire; bien pour tes amis.
+
+LE BOUFFON.--Non, monsieur, mal.
+
+LE DUC.--Comment l'entends-tu?
+
+LE BOUFFON.--Eh! monsieur, mes amis me flattent et font de moi un �ne;
+au lieu que mes ennemis me disent tout uniment que je suis un �ne: en
+sorte que, gr�ce � mes ennemis, je profite dans la connaissance de
+moi-m�me, tandis que mes amis me trompent; bref, si les cons�quences
+sont comme les baisers, quatre n�gations �quivalent � deux
+affirmations[66]. Voil� pourquoi je suis mal pour mes amis et bien pour
+mes ennemis.
+
+[Note 66: Apparemment allusion aux _non_ d'une jeune fille, qui veulent
+souvent dire oui.]
+
+LE DUC.--Ton explication est excellente.
+
+LE BOUFFON.--Par ma foi! non, monsieur, quoiqu'il vous plaise d'�tre un
+de mes amis.
+
+LE DUC.--Tu ne diras pas que tu sois mal par ma faute: voil� de l'or.
+
+LE BOUFFON.--Si ce n'est que cela aurait l'air de _duplicit�_, monsieur,
+je voudrais que vous pussiez redoubler.
+
+LE DUC.--Ah! tu me donnes l� un mauvais conseil.
+
+LE BOUFFON.--Mettez votre grandeur dans votre poche, seigneur, pour
+cette seule fois, et laissez ob�ir la chair et le sang.
+
+LE DUC.--Allons, je veux bien �tre assez grand p�cheur pour me rendre
+coupable de _duplicit�_: voil� une seconde pi�ce.
+
+LE BOUFFON.--_Primo, secundo, tertio_, c'est un beau jeu, et le vieux
+proverbe dit que la troisi�me fois paye pour toutes les autres: les
+_triples_, monsieur, sont une vive et joyeuse mesure; et les cloches de
+Saint-Bennet, monsieur, peuvent vous rappeler, _une, deux, trois_.
+
+LE DUC.--Tu ne m'attraperas plus d'argent ce coup-ci. Si tu veux faire
+savoir � ta ma�tresse que je suis ici pour lui parler, et l'amener avec
+toi, cela pourrait encore r�veiller ma g�n�rosit�.
+
+LE BOUFFON.--Ah! monsieur, bercez-la, votre g�n�rosit�, jusqu'� ce
+que je revienne; j'y vais, monsieur. Mais je ne voudrais pas que vous
+crussiez que mon d�sir d'avoir est le p�ch� de convoitise. Mais comme
+vous le dites, monsieur, je vous en prie, que votre g�n�rosit� fasse un
+somme, et je viendrai la r�veiller tout � l'heure.
+
+(Le bouffon sort.)
+
+(Entrent Antonio et officiers de justice.)
+
+VIOLA.--Seigneur, voici l'homme qui m'a sauv�.
+
+LE DUC.--Je me rappelle bien son visage, et cependant la derni�re fois
+que je l'ai vu, il �tait noirci comme celui de Vulcain par la fum�e du
+combat. Il �tait le capitaine d'un malheureux vaisseau qu'on m�prisait
+pour sa petitesse et le peu d'eau qu'il tirait; et pourtant il aborda
+avec tant de fureur le plus noble navire de notre flotte, que l'envie
+m�me, et le parti vaincu, pouss�rent des cris d'admiration � sa
+gloire.--De quoi s'agit-il?
+
+PREMIER OFFICIER.--Orsino, voici cet Antonio qui prit _le Ph�nix_ et
+sa cargaison, � son retour de Candie; et c'est encore lui qui monta �
+l'abordage du _Tigre_, dans le combat o� votre jeune neveu Titus perdit
+une jambe: nous l'avons arr�t� au milieu d'une querelle particuli�re,
+dans les rues de cette ville, o� il m�prisait la honte et la convenance
+comme un d�sesp�r�.
+
+VIOLA.--Il m'a rendu service, seigneur: il a tir� l'�p�e pour ma
+d�fense; mais il a fini par m'adresser un discours si �trange que je ne
+puis y comprendre autre chose, sinon que ce doit �tre du d�lire.
+
+LE DUC, _� Antonio_.--Insigne pirate, voleur d'eau sal�e, quelle audace
+insens�e t'a conduit ici � la merci de ceux que tu as rendus tes ennemis
+� des conditions si sanglantes et si cruelles?
+
+ANTONIO.--Orsino, noble seigneur, souffrez que je repousse les noms que
+vous me donnez. Jamais Antonio ne fut un pirate ni un brigand, quoiqu'il
+soit, je l'avoue, et cela par des motifs bien fond�s, l'ennemi d'Orsino.
+C'est un v�ritable enchantement qui m'a attir� ici: ce jeune homme,
+qui est � c�t� de vous, le plus grand des ingrats, c'est moi qui
+l'ai arrach� aux gouffres �cumants d'une mer furieuse: il avait fait
+naufrage, et n'avait plus d'espoir; je lui ai donn� la vie, et j'ai
+encore ajout� � ce don celui de mon amiti�, sans restriction ni r�serve,
+en me d�vouant enti�rement � lui. C'est pour ses int�r�ts, par pur amour
+pour lui, que je me suis expos� au danger d'entrer dans cette ville
+ennemie. J'ai tir� l'�p�e pour le d�fendre quand il �tait attaqu�;
+et c'est l� que j'ai �t� arr�t�; et qu'inspir� par une perfide
+dissimulation, il a refus� de prendre aucune part � mon danger, et m'a
+reni� pour �tre de sa connaissance; il est devenu en un clin d'oeil
+comme un �tranger qui ne m'aurait pas vu depuis vingt ans; il a refus�
+de me rendre ma propre bourse, dont je lui avais recommand� de se servir
+il n'y avait pas une demi-heure.
+
+VIOLA.--Comment cela peut-il �tre?
+
+LE DUC.--Depuis quand ce jeune homme est-il venu dans cette ville?
+
+ANTONIO.--D'aujourd'hui, seigneur. Et nous �tions ensemble depuis trois
+mois, sans nous �tre quitt�s d'un instant, d'une seule minute, ni le
+jour ni la nuit.
+
+(Entre Olivia avec sa suite.)
+
+LE DUC.--Voici la comtesse qui s'avance: voil� le ciel qui se prom�ne
+sur la terre. (_A Antonio_.) Quant � toi, mon ami, ce que tu dis est
+de la d�mence. Il y a trois mois que ce jeune homme est attach� � mon
+service.--Mais nous reparlerons tout � l'heure.--Qu'on l'emm�ne �
+l'�cart.
+
+OLIVIA.--Que d�sire mon seigneur, except� ce qu'Olivia ne peut lui
+accorder, en quoi puis-je lui rendre service?--C�sario, vous ne me tenez
+pas votre parole.
+
+VIOLA.--Madame?
+
+LE DUC.--Aimable Olivia.
+
+OLIVIA.--Que dites-vous, C�sario?--Mon cher seigneur....
+
+VIOLA.--Son Altesse veut parler; et mon respect m'impose silence.
+
+OLIVIA.--Si c'est toujours sur l'ancien air, seigneur, il est aussi
+dissonant, aussi f�cheux � mon oreille, que des hurlements apr�s la
+musique.
+
+LE DUC.--Toujours aussi cruelle?
+
+OLIVIA.--Toujours aussi constante, seigneur.
+
+LE DUC.--Quoi! jusqu'� l'ent�tement? Vous, cruelle dame, qui avez vu mon
+coeur offrir � vos autels ingrats et d�favorables les voeux les plus
+fid�les que la d�votion ait jamais offerts! Que dois-je faire?
+
+OLIVIA.--Tout ce qui plaira � Votre Seigneurie qui puisse lui convenir.
+
+LE DUC.--Pourquoi ne ferais-je pas, si j'avais le coeur de le faire,
+comme le ravisseur �gyptien[67] sur le point de mourir, et ne tuerais-je
+pas ce que j'aime? C'est une jalousie sauvage, mais qui parfois annonce
+de la noblesse.--�coutez ce que je vais vous dire: puisque vous rebutez
+ma foi avec d�dain, et que je connais en partie l'instrument qui me
+chasse de ma v�ritable place dans votre faveur, vivez tranquille, tyran
+au coeur de marbre: mais celui-ci, votre favori, que je sais que vous
+aimez, et que, j'en jure par le ciel, je ch�ris moi-m�me tendrement,
+je l'arracherai de ces yeux cruels, o� il est assis couronn� du d�dain
+qu'on montre � son ma�tre.--Venez, jeune homme, suivez-moi: mon coeur
+est m�r pour la vengeance, je vais immoler l'agneau que j'aime, et
+d�chirer un coeur de corbeau dans le sein d'une colombe.
+
+[Note 67: Th�ag�ne et Charicl�e tomb�rent entre les mains de Thyamis de
+Memphis, chef d'une bande de voleurs, qui devint amoureux de Charicl�e.
+Peu apr�s, une autre troupe fondit sur celle de Thyamis, qui, craignant
+pour sa ma�tresse, l'enferma dans une caverne, avec son tr�sor. La
+coutume de ces barbares �tait de tuer en m�me temps qu'eux tous ceux
+qui leur �taient chers, afin de les avoir avec eux dans l'autre monde.
+Thyamis se trouvant entour� d'ennemis, court � sa caverne et appelle
+� haute voix, en langue �gyptienne; il entend r�pondre en grec, et,
+suivant la direction de la voix, il saisit par les cheveux la premi�re
+personne qu'il rencontre dans les t�n�bres, et, supposant qu'elle est
+Charicl�e, il lui plonge son �p�e dans le sein. (H�RODOTE.)]
+
+(Il fait quelques pas pour s'en aller.)
+
+VIOLA.--Et moi, je subirais volontiers mille morts joyeusement et avec
+plaisir pour vous rendre le repos.
+
+(Elle va pour suivre le duc.)
+
+OLIVIA.--O� va C�sario?
+
+VIOLA.--Sur les pas de celui que j'aime plus que mes yeux, plus que ma
+vie, et mille fois plus que je n'aimerai jamais ma femme. Si je mens, �
+vous, t�moins c�lestes, punissez sur ma vie mes fautes contre l'amour.
+
+OLIVIA.--H�las! malheureuse que je suis, comme je suis tromp�e!
+
+VIOLA.--Qui vous trompe? qui vous outrage?
+
+OLIVIA.--T'es-tu donc oubli� toi-m�me? Y a-t-il si longtemps que...?
+Allez chercher le saint p�re.
+
+(Un domestique sort.)
+
+LE DUC, _� Viola_.--Allons, viens.
+
+OLIVIA.--O� voulez-vous qu'il aille, seigneur? C�sario, mon �poux,
+arr�te.
+
+LE DUC.--Votre �poux?
+
+OLIVIA.--Oui, mon �poux: peut-il le nier?
+
+LE DUC, _� Viola_.--Tu serais son �poux, mis�rable.
+
+VIOLA.--Non, seigneur; non pas moi.
+
+OLIVIA.--H�las! c'est la l�chet� de ta crainte qui te fait d�savouer ta
+propri�t�. Ne crains point, C�sario: prends possession de ta fortune.
+Sois ce que tu sais �tre, et tu seras aussi grand que celui que tu
+redoutes.--(_Entre le pr�tre._) Ah! soyez le bienvenu, mon p�re! Mon
+p�re, je vous somme, au nom de votre saint �tat, de d�clarer ici
+ouvertement ce que nous avions r�solu de tenir dans l'obscurit�, et que
+les circonstances forcent maintenant de r�v�ler avant la maturit�.--Oui,
+dites ce que vous savez qui s'est r�cemment pass� entre ce jeune homme
+et moi.
+
+LE PR�TRE.--Un contrat d'union �ternelle, confirm� par vos mains
+jointes, attest� par la sainte promesse de vos l�vres, fortifi� par
+l'�change de vos anneaux: toutes les c�r�monies de cet engagement ont
+�t� scell�es par mon minist�re, et appuy�es de mon t�moignage; et depuis
+lors, ma montre me dit que je n'ai avanc� vers mon tombeau que de
+l'espace de deux heures.
+
+LE DUC, _� Viola_.--O toi, perfide renard, que seras-tu donc quand
+le temps aura sem� les cheveux blancs sur ta t�te? ou ta perfidie
+grandira-t-elle si rapidement que tes efforts pour en supplanter un
+autre te feront tomber toi-m�me? Adieu, prends-la; mais songe � conduire
+tes pas en des lieux o� toi et moi ne nous rencontrions jamais.
+
+VIOLA.--Seigneur, je vous proteste....
+
+OLIVIA.--Ah! ne fais point de serments: conserve un peu de foi au milieu
+de tes craintes exag�r�es.
+
+(Entre sir Andr� la t�te fendue.)
+
+SIR ANDR�.--Pour l'amour de Dieu, un chirurgien; et envoyez quelqu'un �
+l'instant � sir Tobie.
+
+OLIVIA.--Qu'y a-t-il donc?
+
+SIR ANDR�.--Il m'a fendu la t�te, et a aussi ensanglant� le visage de
+sir Tobie.--Au nom de Dieu, du secours: je donnerais quarante livres
+pour �tre chez moi.
+
+OLIVIA.--Quel est le coupable, sir Andr�?
+
+SIR ANDR�.--Le gentilhomme du comte, un nomm� C�sario. Nous l'avions
+pris pour un poltron, mais c'est un vrai diable incarn�.
+
+LE DUC.--Mon gentilhomme, C�sario?
+
+SIR ANDR�.--Mort de ma vie! le voil� ici.--Oui, vous m'avez fendu
+la t�te pour rien; et ce que j'ai fait, je ne l'ai fait que par
+l'instigation de sir Tobie.
+
+VIOLA.--Pourquoi vous adressez-vous � moi? Jamais je ne vous ai fait
+aucun mal. Vous avez tir� votre �p�e contre moi sans aucun sujet: mais
+je vous ai parl� avec douceur, et je ne vous ai fait aucune blessure.
+
+SIR ANDR�.--Si une t�te ensanglant�e est une blessure, vous m'avez
+bless�; je crois que vous ne faites pas cas d'une t�te ensanglant�e.
+(_Entre sir Tobie ivre et soutenu par le bouffon._) Voici sir Tobie qui
+vient tout chancelant: vous allez en entendre davantage. Mais, s'il
+n'avait pas �t� pris de vin, il vous aurait chatouill� d'une autre
+mani�re qu'il n'a fait.
+
+LE DUC.--Eh bien! chevalier, en quel �tat �tes-vous donc?
+
+SIR TOBIE.--Cela est �gal: il m'a bless�, et voil� tout.--(_Au fou._)
+Sot, as-tu vu Dick le chirurgien? r�ponds, sot?
+
+LE BOUFFON.--Oh! il est ivre, sir Tobie, depuis plus d'une heure. Ses
+yeux �taient ferm�s � huit heures du matin.
+
+SIR TOBIE.--Eh bien! c'est un dr�le; et apr�s un _passamezze_ et une
+pavane[68], ce que je hais le plus, c'est un dr�le qui s'enivre.
+
+[Note 68: Danses d'un caract�re s�rieux.]
+
+OLIVIA.--Qu'on l'emm�ne. Qui a fait ce d�g�t sur leurs personnes?
+
+SIR ANDR�.--Je vais vous aider, sir Tobie; nous nous ferons panser
+ensemble.
+
+SIR TOBIE.--Voulez-vous m'aider? T�te d'�ne, fat, dr�le!... dr�le � la
+face effil�e, buse!
+
+(Le bouffon, Fabian, sir Andr� et sir Tobie sortent.)
+
+(S�bastien entre.)
+
+OLIVIA.--Qu'on le mette au lit et qu'on soigne sa blessure.
+
+S�BASTIEN.--Je suis f�ch�, madame, d'avoir bless� votre parent; mais
+e�t-il �t� mon propre fr�re, je n'aurais pu en faire moins, avec
+prudence et s�ret�. Vous jetez sur moi un regard �trange, qui me fait
+sentir que je vous ai offens�e. Pardonnez-moi, ma bien-aim�e, au nom des
+serments que nous nous sommes mutuellement faits il y a si peu de temps.
+
+LE DUC.--Une m�me figure, une m�me voix, un m�me habillement, et deux
+personnes! C'est une perspective naturelle qui existe et n'existe
+pas[69].
+
+[Note 69: �Perspective naturelle.� On appelle perspective naturelle les
+jeux d'optique o� plusieurs traits et objets forment, dans leur ensemble
+et � un certain point de vue, une figure r�guli�re avec laquelle ils
+n'ont rien de semblable dans le d�tail, par exemple le kal�idoscope.]
+
+S�BASTIEN.--Antonio! � mon cher Antonio! dans quelles tortures, dans
+quels cruels tourments j'ai pass� les heures qui se sont �coul�es depuis
+que je t'ai perdu!
+
+ANTONIO.--�tes-vous S�bastien?
+
+S�BASTIEN.--Crains-tu le contraire, Antonio?
+
+ANTONIO.--Comment t'es-tu partag�? Une pomme, coup�e en deux, ne donne
+pas deux moiti�s plus semblables que ces deux cr�atures. Lequel est
+S�bastien?
+
+OLIVIA.--Cela tient du prodige!
+
+S�BASTIEN.--Suis-je pr�sent ici, ou non? Jamais je n'ai eu de fr�re, et
+je ne poss�de pas dans mon essence le privil�ge de la Divinit�, d'�tre
+� la fois ici et partout. J'avais une soeur, que l'aveugle fureur des
+flots a engloutie. (_A Viola._) Par charit�, quelle parent� avez-vous
+avec moi? �tes-vous mon compatriote? Quel est votre nom, votre famille?
+
+VIOLA.--Je suis de Messaline: mon p�re s'appelait S�bastien: j'avais
+aussi pour fr�re un S�bastien: telle �tait sa physionomie, tels �taient
+ses habits, lorsqu'il est descendu dans sa tombe humide. Si les esprits
+peuvent rev�tir la forme et les v�tements des vivants, vous venez pour
+nous effrayer.
+
+S�BASTIEN.--Je suis un esprit en effet, mais rev�tu de ces dimensions
+mat�rielles que j'ai puis�es dans le sein de ma m�re. S'il �tait vrai
+que vous fussiez aussi une femme, je laisserais couler mes larmes sur
+vos joues, et je dirais: Sois trois fois la bienvenue, Viola, la noy�e.
+
+VIOLA.--Mon p�re avait un signe sur le front.
+
+S�BASTIEN.--Et le mien aussi.
+
+VIOLA.--Et il est mort le jour m�me que Viola comptait treize ann�es
+depuis sa naissance.
+
+S�BASTIEN.--Oh! ce souvenir est vivant dans mon �me! Il finit en effet
+le cours de sa vie mortelle le jour qui compl�ta les treize ann�es de ma
+soeur.
+
+VIOLA.--Si nul autre obstacle ne s'oppose � notre bonheur mutuel que cet
+habillement d'homme et ce costume usurp�, ne m'embrasse qu'apr�s t'�tre
+convaincu que chaque circonstance des lieux, des temps et de la fortune
+s'accorde et concourt � prouver que je suis Viola: et pour te le
+confirmer, je vais te conduire au capitaine qui est dans cette ville,
+et chez qui sont d�pos�s mes v�tements de fille. C'est par son g�n�reux
+secours que j'ai �t� sauv�e pour servir cet illustre comte; et depuis ce
+moment, tous les �v�nements de mon histoire se sont pass�s entre cette
+dame et ce seigneur.
+
+S�BASTIEN, _� Olivia_.--Il r�sulte de l�, madame, que vous vous �tes
+m�prise; mais la nature a suivi en cela son instinct. Vous vouliez vous
+unir � une fille; sur ma vie, vous ne vous �tes pas tromp�e, et vous
+�tes fianc�e � la fois avec une fille et avec un homme.
+
+LE DUC, _� Olivia_.--Ne restez point confondue: son sang est noble.
+Si tout cela est v�rit�, comme le montrent jusqu'ici les apparences,
+j'aurai ma part dans cet heureux naufrage.--(_A Viola_.) Jeune homme,
+tu m'as dit mille fois que tu n'aimerais jamais une femme autant que tu
+m'aimes.
+
+VIOLA.--Je confirmerai par mes serments ce que je vous ai dit; et je
+garderai aussi fid�lement dans mon coeur tous ces serments, que ce globe
+garde le feu qui s�pare le jour de la nuit.
+
+LE DUC.--Donne-moi ta main; et que je te voie avec tes habits de femme.
+
+VIOLA.--Le capitaine qui m'a amen�e sur le rivage a mes v�tements de
+fille; il est maintenant en prison pour quelque affaire � la requ�te de
+Malvolio, gentilhomme attach� au service de madame.
+
+OLIVIA.--Il le fera �largir: qu'on fasse venir ici Malvolio. Et
+pourtant, h�las! je me souviens qu'on dit que ce pauvre gentilhomme est
+en d�mence. (_Entrent Fabian et le bouffon avec une lettre._) Un acc�s
+de folie des plus violents, que j'ai �prouv�, a banni tout � fait de ma
+m�moire l'id�e de la sienne.--Comment est-il, dr�le?
+
+LE BOUFFON.--En v�rit�, madame, il tient Belz�buth � bout de bras,
+autant qu'un homme dans son �tat puisse le faire: il vous a �crit ici
+une lettre que je devais vous rendre ce matin; mais comme les �p�tres
+d'un fou ne sont pas paroles d'�vangile, il importe peu en quel temps
+elles sont remises � leur adresse.
+
+OLIVIA.--Ouvre-la, et lis-la.
+
+LE BOUFFON.--Attendez-vous donc � �tre �difi�e, quand le fou remet la
+lettre d'un insens�.--(_Lisant._) �_Par le Seigneur, madame....._�
+
+OLIVIA.--Comment, es-tu fou?
+
+LE BOUFFON.--Non, madame: je ne fais que lire de la folie. Si vous
+voulez qu'elle soit lue comme il faut, vous pouvez lui pr�ter vous-m�me
+une voix.
+
+OLIVIA.--Je t'en prie, lis-la en homme qui jouit de sa raison.
+
+LE BOUFFON.--C'est ce que je fais, madame. Pour repr�senter en lisant
+l'�tat de son esprit, il faut le lire comme je fais: ainsi attention, ma
+princesse, et pr�tez l'oreille.
+
+OLIVIA, _� Fabian_.--Lis-la, toi, maraud.
+
+FABIAN _prend la lettre et lit_.--�Par le Seigneur, madame, vous me
+faites injure, et le monde en sera instruit; quoique vous m'ayez fait
+mettre dans les t�n�bres, et que vous ayez donn� � votre ivrogne d'oncle
+l'empire sur moi, cependant je jouis de mes facult�s aussi bien que
+vous, madame. Je poss�de votre propre lettre qui m'a excit� � prendre
+le maintien que j'ai emprunt�, et cette lettre me servira, j'en suis
+certain, ou � me faire rendre justice, ou � vous couvrir de honte.
+Pensez de moi ce qu'il vous plaira. J'oublie un peu le respect que je
+vous dois, pour ne songer qu'� l'affront que j'ai re�u.
+
+�MALVOLIO, _qu'on a trait� en insens�_.�
+
+OLIVIA.--Est-ce bien lui qui a �crit cette lettre?
+
+LE BOUFFON.--Oui, madame.
+
+LE DUC.--Cela ne sent pas trop la folie.
+
+OLIVIA.--Fabian, voyez � ce qu'on le mette en libert�: amenez-le ici.
+Seigneur, laissons ces soins � d'autres temps, et daignez me vouloir
+autant de bien comme soeur que comme �pouse; qu'un seul et m�me jour
+couronne cette double alliance, ici dans mon palais, et � mes frais.
+
+LE DUC.--Madame, je suis tr�s-dispos� � accepter votre offre. (_A
+Viola._) Votre ma�tre vous tient quitte; et pour les services que vous
+lui avez rendus, si oppos�s au caract�re de votre sexe, si au-dessous de
+votre �ducation et de votre naissance, et, en r�compense de ce que vous
+m'avez appel� si longtemps votre ma�tre, voil� ma main: vous serez
+d�sormais la ma�tresse de votre ma�tre.
+
+OLIVIA.--Ma soeur? Oui, vous l'�tes.
+
+(Fabian am�ne Malvolio.)
+
+LE DUC.--Est-ce l� le fou?
+
+OLIVIA.--Oui, seigneur, c'est lui-m�me.--Eh bien! Malvolio?
+
+MALVOLIO.--Madame, vous m'avez fait un outrage, un insigne outrage.
+
+OLIVIA.--Moi, Malvolio? Non.
+
+MALVOLIO.--Vous, madame, vous-m�me, je vous en prie, lisez cette lettre.
+Vous ne pouvez pas nier que ce ne soit l� votre �criture. �crivez
+autrement, si vous le pouvez, soit pour le caract�re, soit pour le
+style; ou dites que ce n'est pas l� votre cachet, ni votre ouvrage;
+vous ne pouvez rien dire de tout cela. Allons, convenez-en donc, et
+dites-moi, sans blesser votre honneur, pourquoi vous m'avez donn� tant
+de marques irr�cusables de faveur, pourquoi vous m'avez recommand� de
+vous aborder en souriant, et en jarreti�res crois�es, de mettre des bas
+jaunes, de montrer un front grondeur � sir Tobie et aux gens de bas
+�tage; pourquoi, lorsque l'espoir de vous plaire m'a fait remplir ce
+r�le par ob�issance, vous avez souffert qu'on m'emprisonn�t dans une
+maison t�n�breuse, o� j'ai re�u la visite du pr�tre, et suis devenu la
+dupe et le jouet le plus ridicule dont la malice se soit jamais amus�e?
+Dites-moi pourquoi?
+
+OLIVIA.--H�las! Malvolio, cette lettre n'est pas de moi, quoique, je
+l'avoue, cette �criture ressemble beaucoup � la mienne: mais, sans aucun
+doute, c'est la main de Marie; et, en ce moment je me le rappelle, c'est
+elle qui m'a dit la premi�re que vous �tiez devenu fou: et aussit�t
+apr�s je vous ai vu venir le sourire sur les l�vres, et mis de la
+mani�re qu'on vous indiquait ici dans cette lettre. Je vous en prie,
+apaisez-vous; c'est un bien m�chant tour qu'on s'est permis de vous
+jouer l�: mais quand nous en conna�trons les motifs et les auteurs, vous
+serez, je vous le promets, juge et partie dans votre propre cause.
+
+FABIAN.--Daignez, madame, m'�couter un moment, et ne permettez-pas
+qu'aucune querelle, aucune discorde vienne troubler la joie de cette
+heure fortun�e, dont les aventures m'ont rempli d'admiration. C'est dans
+l'esp�rance que vous ne le permettrez pas, que je vous avoue franchement
+que c'est moi-m�me et sir Tobie, qui avons complot� cette farce contre
+Malvolio que voil�, pour nous venger de certains proc�d�s incivils et
+brutaux que nous avions endur�s de lui: c'est Marie qui a �crit la
+lettre, press�e par les importunit�s de sir Tobie; et en r�compense, il
+l'a �pous�e. Toutes les malignes plaisanteries qui en ont �t� la suite
+m�ritent plut�t d'exciter le rire que la vengeance, si l'on veut bien
+peser avec justice les torts r�ciproques dont les deux parties ont � se
+plaindre.
+
+OLIVIA.--H�las! pauvre homme, comme ils se sont moqu�s de toi!
+
+LE BOUFFON.--Quoi! _il est des hommes qui naissent dans la grandeur,
+d'autres qui parviennent � la grandeur, et d'autres que la grandeur
+vient chercher d'elle-m�me (A Malvolio.)_ J'ai fait un r�le, monsieur,
+dans cet interm�de; oui, j'ai fait un certain messire Topas, monsieur:
+mais qu'est-ce que cela fait?--_Par le Seigneur, fou, je ne suis pas
+insens�._ Mais vous rappelez-vous ce que vous disiez: �_Madame, pourquoi
+riez-vous des platitudes de ce fou? Si vous ne riiez pas, il aurait
+un b�illon dans la bouche._� C'est ainsi que les pirouettes du temps
+am�nent les vengeances.
+
+MALVOLIO.--Je me vengerai de toute votre meute.
+
+(Il sort.)
+
+OLIVIA.--Il a �t� cruellement jou�!
+
+LE DUC.--Courez apr�s lui, et engagez-le � faire la paix. Il ne nous a
+encore rien dit du capitaine; quand ceci sera connu et que l'heure
+dor�e nous rassemblera, nos tendres coeurs s'uniront par un noeud
+solennel.--En attendant, ch�re soeur, nous ne sortirons pas
+d'ici.--C�sario, venez, car vous serez toujours C�sario, tant que vous
+serez un homme; mais d�s que vous appara�trez sous d'autres habits, vous
+serez la ma�tresse d'Orsino, et la reine de ses volont�s.
+
+(Ils sortent.)
+
+LE BOUFFON.
+
+  Quand j'�tais un petit gar�on
+  Et hi, et ho, au vent et � la pluie,
+  Toutes nos folies
+  Passaient pour enfantillage,
+  Car la pluie tombe tous les jours.
+
+  Mais lorsque je devins grand,
+  Et hi, et ho, le vent et la pluie;
+  Les gens ferment leurs portes contre les filous et les voleurs,
+  Car la pluie tombe tous les jours.
+
+  Mais quand je vins � prendre femme,
+  Et hi, et ho, le vent et la pluie,
+  Je ne pus faire fortune en faisant le brave,
+  Car la pluie tombe tous les jours.
+
+  Mais quand j'allais au lit,
+  Et hi, et ho, le vent et la pluie,
+  Je me grisais avec des ivrognes,
+  Car la pluie tombe tous les jours.
+
+  Il y a longtemps que le monde a commenc�,
+  Et hi, et ho, le vent et la pluie,
+  Mais, n'importe, la pi�ce est finie,
+  Et nous t�cherons de vous plaire tous les jours.
+
+(Il sort.)
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+End of the Project Gutenberg EBook of Le Jour des Rois, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LE JOUR DES ROIS ***
+
+***** This file should be named 16128-8.txt or 16128-8.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/6/1/2/16128/
+
+Produced by Paul Murray, Renald Levesque and the Online
+Distributed Proofreading Team. This file was produced from
+images generously made available by the Biblioth�que
+nationale de France (BnF/Gallica)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

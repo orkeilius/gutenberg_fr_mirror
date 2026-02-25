@@ -1,3 +1,2728 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d408fbc5e06f761349f0197dc1de05857319cb96286b68bc697a7454b8c5a864
-size 144258
+The Project Gutenberg EBook of Lettres d'un satyre, by Remy de Gourmont
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Lettres d'un satyre
+
+Author: Remy de Gourmont
+
+Illustrator: Pierre-Eug�ne Vibert
+
+Release Date: November 18, 2018 [EBook #58309]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LETTRES D'UN SATYRE ***
+
+
+
+
+Produced by Thanks to Carlo Traverso, Laurent Vogel and
+the Distributed Proofreading team at DP-test Italia. (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+
+
+
+
+
+
+
+  REMY DE GOURMONT
+
+  LETTRES
+  D'UN
+  SATYRE
+
+  FRONTISPICE DESSIN� ET GRAV�
+  SUR BOIS PAR P.-EUG. VIBERT
+
+  [Marque d'imprimeur: CRES-CAM]
+
+  PARIS
+  GEORGES CR�S ET Cie
+  LES MAITRES DU LIVRE
+  3, PLACE DE LA SORBONNE, 3
+
+  MCMXIII
+
+
+
+
+EXEMPLAIRE SUR PAPIER DE RIVES
+
+N� 741
+
+
+
+
+_A L'AMAZONE_
+
+
+Vous ne m'avez pas demand�, Amazone, en acceptant la d�dicace de cette
+histoire singuli�re, ce que j'avais voulu faire par ces _Lettres d'un
+Satyre_. Je n'en ai pas �t� surpris, parce que vous connaissez souvent
+mes intentions mieux que moi-m�me et que vous �tes toujours pr�te �
+m'attribuer les plus favorables et les plus ing�nieuses. Ah! mon amie,
+je ne suis pas toujours l'homme des intentions, des plans et des
+projets, j'aime � ob�ir � ce que me sugg�rent les dieux et � me fier
+pour l'ex�cution � cette logique qui permane au fond de mon cerveau et
+qui me rassure sur la suite de quelques-unes de mes divagations. Quoique
+l'encha�nement des causes ait mis un espace de plusieurs ann�es entre
+les deux premi�res _Lettres_ et les autres et quoique celles-ci se
+soient encore suivies � des intervalles fort irr�guliers et aussi ou
+d'abord, quoique mon esprit, le long de ce petit roman, ait subi
+certaines modifications, j'ai t�ch� qu'elles conservassent dans leur
+ensemble une assez visible unit� de ton. Pourtant je crains, encore que
+tout cela soit bien court, qu'on se sente, vers la fin, un peu de
+l'ennui que me conf�rait la monotone psychologie de mon personnage
+cornu. Rien n'est plus difficile que l'�tude d'un �tre �l�mentaire, dont
+la na�vet� d�route � chaque pas nos habitudes hypocrites ou civilis�es,
+qui marche de plain-pied dans les vices les plus candides et ne s'�tonne
+m�me pas de nos �tonnements. Ce qui nous amuse le plus dans nos jeux,
+c'est que ce sont des jeux d�fendus. Or, c'est une qualit� de plaisir
+dont il ne sent aucunement le sel. L'id�e le d�passe, d'un �tre qui ne
+tende pas naturellement vers ce qui lui est agr�able, quoiqu'il go�te
+aussi, tout comme un autre, le charme des obstacles surmont�s et de la
+difficult� vaincue. Ce qui m'amusa, en �crivant ces _Lettres_, ce fut de
+prendre parti pour la cr�ature instinctive contre la cr�ature
+raisonnable, dont la raison est si courte, mais quelle que f�t ma
+sympathie pour ce d�vergond�, je n'ai pu lui procurer le contentement de
+vivre dans une soci�t� �troite dont il faut comprendre les finesses afin
+de s'en accommoder. Pour faire figure en ce monde, il lui manque trop de
+choses pour qu'il y r�ussisse jamais. Qu'est-ce qu'un �tre qui ne
+conna�t point la valeur de l'argent et qui d'abord n'en poss�de pas? Je
+doute que m�me, s'il vient � fr�quenter, plus tard, un monde plus
+d�licat, il en tire de grandes satisfactions. Voyez la simplicit� de son
+coeur! Il devient amoureux d'une petite gourgandine, et il n'en rougit
+pas, ne comprenant d'ailleurs rien � son commerce: mais s'il le
+comprenait, je ne sais pas s'il en rougirait davantage. Il n'a pas
+encore donn� sa mesure. Il lui faudrait un plus vaste th��tre.
+Antiphilos peut aller loin dans l'inconscience.
+
+Ne croyez pas du reste que j'aie eu, en lui faisant conter le d�but de
+ses aventures humaines, de grandes intentions satiriques. Critiquer les
+moeurs des hommes! Il y faut plus de na�vet� que je n'en poss�de. A vrai
+dire, je trouve qu'ils font toujours bien quand ils font leur plaisir:
+ceux-l� seuls ne sont pas dupes de notre extraordinaire organisation
+morale. Mais ne jugeons pas des hommes et encore moins des femmes
+d'apr�s nous-m�mes. La plupart sont tr�s satisfaits de leur esclavage,
+au point que leur bont� souffre devant la condition mis�rable de ceux
+qui s'en sont lib�r�s. Ils font tout au monde pour les rattraper et leur
+passer de force le collier au cou: �Vous ne connaissez pas le bonheur,
+notre bonheur, venez et nous vous le ferons partager.� Il y a des
+infortun�s qui se laissent prendre � ce discours. D'autres, quand on
+peut, on les prend de force.
+
+La police, ou de ces �mes charitables comme il y en a trop, d�couvrit
+une fois dans un taudis du quartier Saint-Sulpice un nid de bonheur. Il
+�tait hant� par un tout jeune couple de passereaux. Le gar�on pouvait
+avoir une quinzaine d'ann�es, moins encore, si je me souviens, et la
+fille en avait douze. De quoi vivaient-ils, on n'en sait rien, de
+grapillage, sans doute, d'�pluchures et d'eau claire? Quand ils n'en
+pouvaient plus de vagabonder, ils rentraient dans leur soupente o� ils
+s'endormaient dans les bras l'un de l'autre, car ils �taient amants. Le
+na�f amour les consolait d'avoir trop souvent faim, et ceux qui les
+d�couvrirent d�couvrirent qu'ils �taient heureux, en leur innocence
+animale. Ce fut un grand scandale, dont on parle peut-�tre encore entre
+d�votes et autres personnes de l'endroit. Naturellement on les s�para,
+quoiqu'ils en pleurassent beaucoup, et on mit le gar�on aux Enfants
+Assist�s, cependant que la fille dut suivre la cotte de quelque bonne
+soeur. Et tout le monde trouva cela tr�s bien. Moi aussi. Je le dois,
+pour ne pas me faire honnir, et vous ferez ainsi, n'est-ce pas, mon
+amie, afin de conserver l'estime des gens convenables? Est-il
+admissible, en effet, que des enfants se mettent � vivre � l'�tat de
+nature, en plein Paris, dans un quartier honorable, � deux pas d'une
+�glise, du jardin du Luxembourg et du S�nat? On e�t pass� sur le
+grapillage, mais l'amour! N'est-il pas vrai que tant de perversit�, et
+si pr�coce, d�concerte? Antiphilos e�t �t� �mu par cette histoire, mais
+Antiphilos est bien suspect et il ne se conna�t qu'en morale naturelle.
+Il la pratique, encore qu'il n'en sache pas la th�orie.
+
+Vous ne savez pas, Amazone, comme je vous sais gr� d'avoir aim� ce petit
+livre incertain et de ne pas en avoir r�prouv� les tendances! C'est au
+point que je serais tent� de dire que vous l'avez aim� plus qu'il ne
+m�ritait. N'est-ce pas, d'ailleurs, ce que je pense � peu pr�s de tous
+mes �crits. Il n'est gu�re un seul qui m'ait jamais satisfait
+compl�tement. C'est pourquoi j'ai pris le parti de n'y jamais rien
+corriger, quand on les imprime ou qu'on les r�imprime, car je me sens
+toujours tent� de les remettre sur le chevalet et de faire dispara�tre,
+sous de la peinture nouvelle, l'ancienne. Vous le savez bien, vous qui
+m'en avez arrach� un des mains. Je suis hant� par la technique du
+chef-d'oeuvre inconnu. Mais je pratique trop la philosophie du
+d�tachement pour jamais c�der � de telles na�vet�s d'amour-propre et je
+supporte avec r�signation les d�plaisirs que me cause ce que j'�crivis,
+en r�vant aux livres merveilleux que je n'�crirai jamais. Ah! que
+j'envie ces auteurs qui se mirent dans leurs ouvrages et qui ne voient
+pas le n�ant proche ou ils cherront avec eux. Je les envie, mais en
+souriant avec quelque ironie, peut-�tre, car tout cela n'a vraiment pas
+beaucoup d'importance. Il faut vivre, cependant, et pour cela s'attacher
+fermement � quelques touffes, le long du fleuve qui emporte tout, comme
+des naufrag�s que nous sommes. Le sentiment que l'on pla�t � ceux-l�
+m�mes qu'on aurait choisis et le sentiment que l'on d�pla�t � d'autres
+qu'on aurait volontiers �lus pour cet office suffisent quelquefois �
+vous maintenir en �quilibre et � vous fortifier le coeur et les mains.
+L'un de ces r�conforts n'agit que sur l'orgueil et n'a que des effets
+n�gatifs sur le plaisir de vivre, mais l'autre, qui remue toutes les
+fibres de la sympathie, peut conf�rer � lui seul la joie suffisante.
+Pourquoi, par quelle l�chet�, mettre au pluriel ces termes n�cessaires?
+Une belle tendresse a fait son oeuvre. Amazone, sans vous, je crois bien
+que je ne m'aimerais plus beaucoup et que je n'aurais plus une extr�me
+confiance ni dans la vie ni dans moi-m�me. Aussi, je vous remercie
+encore d'avoir pris Antiphilos sous votre protection. Je suis rassur�
+sur son destin parmi les humains puisque vous lui avez souri, amie.
+
+  _REMY DE GOURMONT_.
+
+
+
+
+LETTRES D'UN SATYRE
+
+
+            _... Fugiunt per devia Nymph�:
+        Has agitant Satyri per juga qu�que leves,
+    Nec fuit in sylvis arbos nec rupibus antrum
+        Sub quo non illic pressa puella foret._
+
+_B. P. PRIGNANUS, Mutinensis, De imperio cupidinis. Lib. I._
+
+
+
+
+I
+
+APPARITION
+
+
+  Etang de Saint-Cucufa, 3 juin.
+
+  MONSIEUR,
+
+C'est l'indignation qui me dicte cette �p�tre: _Indignatio facit
+versum_, comme on disait au bon temps. Je ne sais ni lire ni �crire,
+vous pensez bien, mais parfois une petite bouche complaisante veut bien
+m'�peler une vieille gazette tout embue de graisse et de vin.
+Aujourd'hui, l'aimable menotte d'une �coli�re munie de tout ce qu'il
+faut pour �crire vous signifie ma pens�e avec une dext�rit� charmante.
+Mes genoux velus, dont elle n'a pas peur, lui servent de tablette. Alors
+je vais vous conter mon histoire et vous faire ma protestation.
+
+Figurez-vous d'abord que c'est la petite qui vous �crit qui m'a
+conseill� de m'adresser � vous: �C'en est un qu'on m'a dit qu'a fait un
+conte qu'est tout � fait mon histoire. Seulement, moi, j'avais huit ans,
+et je n'ai pas �t� si moche.� Hier, un journal qu'elle me lisait lui a
+rafra�chi la m�moire: �Virginal! Mon coeur virginal! C'est bien �a.�
+Elle en tr�pignait. Bien qu'il y ait environ huit mille neuf cents ans
+que je r�de dans les campagnes et autour des cit�s, je ne comprends pas
+encore tr�s bien les femmes. J'en ai connu plus qu'il n'y a d'�toiles au
+ciel et la derni�re m'est, autant que la premi�re, nouvelle et
+myst�rieuse. Tout cela, c'est pour vous dire que je ne sais pas en quoi
+le virginal pouvait l'int�resser. (Ici je la vois qui sourit, en tirant
+la langue par le coin de la bouche.) Peut-�tre songe-t-elle au moment o�
+elle redeviendra vierge, tout naturellement, pour la commodit� des
+usages sociaux. (Je l'entends qui gringotte: �Bien s�r, tiens!�.) Elles
+sont �tonnantes.
+
+Mais je viens au fait. Vous voyez mon innocence. Je proteste donc de
+toutes mes forces de Satyre honn�te, quoique libertin, contre la
+qualification de �satyre� donn�e par vos journaux � des hommes (oui, par
+Jupiter, des hommes!) qui enl�vent les petites filles pour les violer,
+leur ouvrir le ventre, les couper en morceaux! Jamais un Satyre ne se
+livra � de telles idioties. Violer, quand il n'y a qu'� ouvrir les bras
+au d�sir? Serrer d'une inf�me main ces petits cous frais et ployants?
+D�chirer cette douce chair, ensanglanter ces corps inachev�s, d�pecer ce
+bouton o� la femme d�j� se gonfle et r�ve? Pour qui nous prenez-vous
+donc, journalistes stupides? Pour des hommes? D�trompez-vous. Nous
+sommes des dieux.
+
+                   *       *       *       *       *
+
+Mon histoire, qui est tr�s longue, est obscure, mais deux �pisodes
+l'ennoblissent singuli�rement. Je suis n� en Phrygie des amours d'Herm�s
+et d'une �l�gante Dryade, que j'aimai beaucoup, parce qu'elle �tait
+tendre et jolie. Pourtant, elle ne s'occupa gu�re de mon enfance; elle
+avait des passions fougueuses et les bergers, non moins que les dieux,
+attiraient, mais ne fixaient pas son caprice. Je grandis, j'exer�ai au
+hasard ma curiosit�, qui trouvait des curieuses � tous les gu�s et sur
+tous les sentiers. Dyonisos, que vous appelez Bacchus, m'emmena dans son
+cort�ge et je connus, sous les cieux torrides, des femmes plus fondantes
+que vos grappes et plus lascives que vos ch�vres. A mon retour, je
+passai en Gr�ce, mais les hommes d�j� commen�aient � se faire la guerre,
+ils enfermaient leurs femmes et posaient � leurs champs des cl�tures.
+L'�ge d'or �tait fini:
+
+    Regrettez-vous le temps o� le ciel sur la terre
+    Marchait et respirait dans un peuple de dieux?
+
+Moi, je le regrette si fort et si souvent que j'en ai gard� une
+invincible m�lancolie. Les grands dieux ne descendant plus sur la terre
+souill�e par la guerre, la propri�t�, l'or et ces lois humaines qui
+traduisent si mal les douces lois divines, nous rest�mes les seuls
+immortels qu'un p�tre p�t rencontrer sur son chemin, � la tomb�e du
+jour. On nous aimait et on nous craignait aussi. On nous donnait du
+lait, des g�teaux et du miel, ce qui �tait agr�able, mais, plus d'une
+fois, un paysan hargneux me poursuivit avec une fourche, jusqu'� me
+faire fuir vers l'abri de quelque bois. Je suis paisible et vuln�rable.
+Je suis dieu, mais un butor pourrait fort bien m'�cloper. On dit que
+l'�ge d'or reviendra. Esp�rons-le.
+
+Ne vous repr�sentez pas la Gr�ce antique comme un pays � bonnes
+fortunes. L'amour n'y �tait estim� que sous une forme qui me r�pugna
+toujours. Peu de joies: une esclave �chapp�e, une paysanne en rut. Si je
+n'avais eu les nymphes, mes soeurs, je serais mort d'ennui; mais les
+nymphes sont moins vari�es que les femmes, quoique plus jolies, et leur
+orgueil est terrible. L'enseignement d�go�tant d'un certain Socrate,
+ap�tre bigarr� de la p�d�rastie et de la vertu, ennemi des femmes et des
+dieux, h�ta ma fuite. Je passai en Italie, o� je retrouvai un certain
+�tat de nature et des moeurs humaines. Pour n'�tonner personne, je
+m'appelai Faune, comme mes fr�res italiques.
+
+C'est en Italie que j'ai pass� le meilleur de ma vie. J'y retrouvais les
+gr�ces de l'Asie, avec moins de mollesse, beaucoup de curiosit� �rotique
+� la fois et passionn�e et cette pr�cocit� d�licieuse qui fait que les
+jeunes fleurs, dans leur ardeur innocente, devancent le printemps et
+cr�vent leur corselet au premier regard du soleil. J'eus des saisons
+dignes d'Apollon. Mon nez camard brilla dans les plus beaux yeux et les
+jambes les plus fra�ches frissonn�rent sous mes jambes chaudes de bouc.
+Le bruit r�p�t� de mes sabots sur le flanc rocheux des collines
+�veillait les d�sirs encore endormis dans la poitrine ind�cise des
+vierges latines. Pardonnez � mon �motion devant ces brillants souvenirs.
+J'ai encore des journ�es, je n'ai plus gu�re de saisons et ma jeunesse
+�ternelle est souvent contrainte � vivre du pass�; l'�re des glanes a
+succ�d� depuis longtemps � l'�re de l'abondance. Songez que j'ai fui, en
+ce temps-l�, aussi souvent, peut-�tre, que j'ai poursuivi. J'�tais las
+d'aimer, las d'ouvrir des routes nouvelles. Un moment, je songeai �
+camper dans un de mes d�frichements, j'allais me mettre en m�nage. Le
+m�nage de Faunus, vous voyez la jolie atellane! H�las! je n'en eus pas
+le temps.
+
+Un jour, nous nous v�mes cern�s par une troupe de paysans arm�s de
+b�tons aigus comme pour la chasse au sanglier. Ils �taient conduits par
+une mani�re de sorcier coiff� comme les Galles, qui remuait dans l'air
+un morceau de bois fourchu comme une potence; de son autre main il
+trempait un rameau de buis dans une outre que portait un esclave et il
+aspergeait la nature. J'aurais bien ri, si je n'avais pressenti un
+danger. Ma compagne s'�tait �loign�e pour cueillir des herbes: �Ils
+viennent la chercher, me dis-je. Elle, ils ne lui feront pas de mal.
+Mais moi, s'ils me joignent, gare aux �pieux!� Je pris mon �lan et,
+franchissant un pr�cipice, je fus bient�t hors d'atteinte. Ce pr�cipice,
+je n'ai pu le repasser, pendant pr�s de douze cents ans.
+
+Quels si�cles! Je les v�cus au milieu des ch�vres sauvages et c'est �
+peine si de temps � autre je pus faire tomber dans mes rets une paysanne
+imprudente, qui d'ailleurs s'en trouvait bien. L'une d'elles m'apprit
+que je ne m'appelais plus Faunus, mais Diabolo, et que l'on me
+consid�rait comme l'ennemi du genre humain, celui qui avait fait tomber
+l'homme dans le p�ch�. J'avais s�duit une femme sous la forme d'un
+serpent! Je pensai que les hommes �taient devenus aussi fous qu'ils
+�taient m�chants d�j�, et je m'affligeai, songeant � ma triste
+immortalit�. Cependant, comme la femme me tirait la barbe et baisait mon
+nez camus et mes l�vres moites en m'appelant monstre, je conclus � une
+folie mitig�e et qui laissait un peu d'espoir, au moins chez une moiti�
+de l'humanit�. (Ici, ma petite amie me tire la langue et dit: �Ah! c'est
+toi qu'on appelait le diable?�)
+
+Un bruit de chasse un jour me r�veilla. On soufflait dans des conques
+qui donnaient un bruit comme celles de mes fr�res marins, les Tritons.
+Des chiens d�chiraient l'air de sons rauques et violents. Le galop des
+chevaux sonnait sur la terre dure comme un vers de Virgile. (O temps o�
+les bergers se redisaient les chants du Berger mantouan!) Plus hardi,
+depuis quelque temps, je musais dans la brande, courant apr�s les
+sauterelles et les l�zards. La chasse arrivait. Je n'eus que le temps de
+sauter sur un rocher; et, comme je regardais le spectacle avant de
+grimper plus haut et de dispara�tre, j'entendis une voix claire crier,
+avec un accent de surprise et de joie: �Ecco il Fauno!� Moi aussi, je
+fus bien content, car je compris, mon beau nom de dieu romain m'�tant
+rendu, que des temps nouveaux �taient advenus. Tr�s �mu, je me couchai
+dans le thym tout chaud des baisers du soleil; le soir tombait, je
+r�vais, quand la m�me voix claire sonna encore � mes oreilles: �Fauno!
+Fauno!� Leurs pointes velues se dress�rent, ainsi que tout mon poil.
+J'�tais debout, le jarret tendu. �Fauno! Fauno!� En quelques bonds,
+j'atteignis la voix claire. C'�tait une belle jeune femme. Pour mieux
+courir, elle avait ouvert son corsage et le vent avait d�nou� ses
+cheveux. Elle se laissa tomber effar�e dans mes bras, cependant que je
+murmurais, en �levant ma pens�e vers le ma�tre des dieux: �La beaut� est
+donc redescendue sur la terre? O Jupiter, tu n'oublies pas tes enfants!�
+
+Si je vous disais que vous avez peut-�tre toujours sous les yeux la
+preuve de la v�racit� de mon r�cit, vous ne me croiriez pas. Attendez
+quelques jours, vous ne serez plus incr�dule. Ma petite amie est
+fatigu�e. (�Oui! j'en ai assez, vrai!�) Elle va me relire cette lettre
+qu'elle se charge de vous faire parvenir. Vous pouvez d�j�, avec le
+commencement de cette histoire, d�montrer � vos amis les journalistes
+qu'un Satyre est un �tre respectable et qui m�rite des �gards. Mais ce
+que j'ai encore � vous dire est bien plus beau.
+
+  ANTIPHILOS,
+
+  Satyre.
+
+
+
+
+II
+
+LA FOSCA
+
+
+  Au Mont Agel, 17 juillet.
+
+  MONSIEUR,
+
+Le froid m'a fait fuir dans le Midi, d'o� j'arrivais quand je vous ai
+�crit d'abord. C'est sur les flancs parfum�s de cette douce montagne,
+d'o� l'on voit la mer violette, que je passe le rude hiver. Des grottes
+propices m'y donnent asile et, quand le soleil luit, je prends mes
+�bats, guettant le long des sentiers les passantes curieuses. C'est un
+bon pays, et enchant� par le charme de tant de jolies filles! Aux
+premi�res chaleurs un peu indiscr�tes, je remonte, et � mesure que je
+passe, il semble que j'apporte le printemps avec moi. On me conna�t dans
+les villages. On m'attend. On se confie � l'oreille: �Tu sais, je l'ai
+vu!--Oh! ma ch�re!� Et � l'or�e des bois, le soir, j'aper�ois de l�g�res
+ombres qui fuient sous les pins ou sous les ch�nes. J'en attrape une au
+hasard, et quelquefois deux. Les rires �touff�s se m�lent aux longs
+soupirs. Je suis la joie qui passe, la joie crisp�e par une d�licieuse
+peur. Ma main a calm� bien des seins agit�s, ranim� bien des coeurs
+tremblants. Je passe, et quand je suis pass�, les gar�ons trouvent les
+filles moins farouches. Je s�me des baisers, et je n'attends pas la
+r�colte. A d'autres. Je ne prends que la fleur, tant qu'il y a des
+fleurs. Les dieux sont ainsi. Les dieux sont des d�licats.
+
+Quand j'ai quitt� les bords de la Seine, la petite qui vous a �crit
+voulait me suivre. Un vrai amour! Cette enfant sera d'une fid�lit�
+f�roce. Je suis parti au galop; j'ai voyag� sans m'arr�ter que pour
+dormir et j'ai eu bien froid. Ici, je me r�chauffe et je m'amuse un peu.
+Celle � qui je dicte ceci diff�re beaucoup de mon petit secr�taire de
+l'�tang de Saint-Cucufa. Elle est plus grande. C'est presque une femme
+(Presque?). Elle �crit sur du beau papier transparent (vous le voyez)
+avec un instrument qu'elle appelle �fountain-pen�. Je n'avais encore
+jamais vu cela. Elle est fr�le et incassable (la fillette) et lascive
+comme une d�esse, avec un air vraiment d'�tre descendue de l'Olympe hier
+matin. Elle vient de Roquebrune, tous les jours. Lev�e avec le soleil,
+elle arrive dans la ros�e, repart pour se m�ler innocemment aux
+promeneurs matinaux, et ne quitte jamais son masque royal, m�me quand
+elle murmure essouffl�e: �Darling! darling!� Elle me pla�t beaucoup.
+(Ici, la �fountain-pen� s'enfonce terriblement dans mon genou, mais je
+ne dis rien, je suis content). Ses curiosit�s sont infinies, et elle les
+satisfait m�thodiquement, sans jamais se d�partir de son s�rieux. J'aime
+cela. L'amour est s�rieux. Il peut, quand on a une sensibilit� profonde,
+faire pleurer; faire rire, jamais. Il n'y a que parmi les hommes que
+l'on rit en aimant. Les dieux ne rient jamais, si ce n'est de la sottise
+des hommes. Quand ma petite Anglaise est tr�s �mue, elle me r�cite des
+vers, puis elle me les traduit, car je ne connais que les langues
+m�diterran�ennes. Elle dit, en me caressant:
+
+    Tiens, couche-toi sur ce tapis de fleurs,
+    Pendant que je caresserai tes aimables joues,
+    Pendant que je piquerai des roses parfum�es dans le poil soyeux
+            de ta douce t�te
+    Et que je baiserai tes larges et belles oreilles, � ma tendre joie!
+    ... Oh! comme je t'aime! je suis folle de toi!
+
+Et quelquefois je m'endors, pendant qu'elle me regarde amoureusement.
+
+Mais je reprends mon histoire o� je l'avais laiss�e. Je tiens � vous
+conter l'aventure qui me fait beaucoup d'honneur, � ce que je pense, et
+que je vous ai promise. J'aimais depuis deux jours et deux nuits la
+belle jeune femme qui �tait venue � moi en criant: �Fauno! Fauno!� Nous
+�tions vers les heures du soir; le soleil brillait avec ardeur et ses
+rayons, passant sous les pins, illuminaient la terre, chaque brin
+d'herbe, chaque fleur. Mon amie dormait et pour la pr�server des mouches
+bourdonnantes, car elle �tait nue, j'avais jet� sur elle sa grande
+�charpe d�ploy�e. Mais de temps en temps, ne pouvant r�sister � mon
+d�sir, tant elle �tait belle, je venais soulever un coin du voile et je
+la regardais dormir. A un certain moment, je m'aper�us avec frayeur que
+nous n'�tions pas seuls. Un �tre nous �piait, cach� dans les buissons.
+Je courus � l'ennemi: un homme se leva. Je me jetais sur lui, tout
+h�riss� de jalousie, lorsqu'il me fit un signe � la fois imp�rieux et
+amical:
+
+--�Comprends-tu la langue des hommes? me dit-il. Alors, sache que je ne
+viens pas te combattre. Je me prom�ne en qu�te de belles choses. Je
+cherche la Nature, et il me semble que je l'ai trouv�e. Alors, je
+regarde. Es-tu une b�te, es-tu un dieu?
+
+--Je suis un dieu.
+
+--C'est donc vrai, murmura le jeune homme, qu'il existe de tels �tres!
+Et elle?
+
+--Elle? C'est une femme, mais aussi belle que ma m�re, qui �tait une
+d�esse. Je suis n� en Phrygie, au temps o� les dieux �taient sur la
+terre aussi nombreux que les hommes.
+
+--Laisse-moi faire ton portrait et celui de la femme divine qui repose �
+nos pieds.�
+
+Il tirait de son pourpoint un carton et des crayons. Je consentais � sa
+fantaisie, lorsque mon amie se r�veilla. A demi soulev�e sur son bras,
+elle disait:
+
+--�Seigneur Allegri, vous ne me trahirez pas, j'esp�re?
+
+--Ah! c'est la Fosca. Je ne te savais pas si belle, t�n�breuse beaut�!
+
+--Et aujourd'hui lumineuse, n'est-ce pas? Mais d�tournez la t�te un
+moment, car il serait mals�ant de laisser voir les mouvements de mon
+corps. Quand je dors, je suis un marbre; mais quand je remue, je suis
+une femme. Or, je veux m'habiller pour honorer votre pr�sence et vous
+offrir les fruits de nos bois et l'eau de notre source.
+
+--Avez-vous donc fui � jamais les humains?
+
+--Peut-�tre. Il n'y a que les dieux qui savent aimer, et j'ai trouv� un
+dieu.
+
+--Merveilleuse aventure, dit Allegri. Mais si vous mettez une robe, deux
+soleils vont donc se coucher � la m�me minute.
+
+--Vous me verrez encore, si vous revenez ici, car mon dieu n'est pas
+jaloux. Et comment le serait-il, lui qui surpasse les hommes en
+puissance, � peu pr�s comme un ch�ne surpasse un lierre?�
+
+J'eus un sourire qui me fit une bouche si large qu'Allegri reprit:
+
+--C'est bien un Faune. Il ressemble � celui que fit, il n'y a pas
+longtemps, le seigneur Buonarroti, pour amuser notre saint Giulio.�
+
+Pendant qu'Allegri tra�ait sur son carton une figure o� je me
+reconnaissais, la Fosca s'�tait lev�e et, drap�e dans son �charpe, elle
+s'�loignait. J'allai chercher de l'eau dans une corne de buffle, la
+Fosca r�unit quelques fruits, des m�res, des pommes et des pignons et
+nous f�mes une collation agr�able.
+
+Allegri revint plusieurs fois les jours suivants. Il dessinait sur des
+morceaux de carton avec des crayons de plusieurs couleurs. La Fosca, d�s
+qu'il arrivait, s'�tendait nue, dans la pose que vous connaissez, et moi
+j'avais la bont� de rester l�, tenant le voile que je venais d'enlever,
+et dans une attitude de d�sir qui n'�tait pas feinte. Cette com�die
+m'aga�ait un peu. Je trouvais les s�ances longues. Et puis la Fosca
+avait des sourires trop heureux dans son sommeil simul�, son ventre et
+ses seins se soulevaient avec trop de complaisance.
+
+Une nuit que nous �tions rest�s tr�s tard � deviser et � rire (il avait
+apport� des confitures et un flacon de vin), le ciel p�lit l�g�rement.
+
+--�Il est temps, dit alors Allegri, en se levant. Venez. Dans une heure,
+nous aurons gagn� la masure solitaire o� j'ai �tabli mon atelier. Mon
+tableau est fini, mais je voudrais, au moins une fois, le comparer � la
+r�alit�, car le souvenir de mes yeux a pu me tromper, quoiqu'ils soient
+des miroirs tr�s fid�les.�
+
+Nous le suiv�mes. L'oeuvre �tait parfaite. La Fosca respirait vraiment
+et moi j'�tais vraiment beau, avec mon air amoureux. Des peaux de b�tes
+attendaient la Fosca, qui s'y �tendit, d�v�tue, et Allegri, comme avec
+fi�vre, les yeux � la fois sur le mod�le et sur le tableau, jeta sur son
+oeuvre de rapides touches, dont chacune, quel miracle! en augmentait le
+relief, l'�clat, la vie. A ce moment-l�, c'�tait bien lui, le v�ritable
+dieu!
+
+--�J'entends les paysans, cria-t-il tout � coup. Sauve-toi, je te la
+ram�nerai ce soir.�
+
+Je m'enfuis, car je crains fort les fourches. Je n'ai jamais revu la
+Fosca. Sa perte ne me fut sensible que dans les premiers jours, car
+j'avais bien senti qu'elle m'aimait moins, depuis qu'elle se livrait �
+l'admiration d'Allegri, et d'ailleurs, j'en avais tir� tant de plaisirs
+que la sati�t� approchait.
+
+Je fis, peu apr�s, la rencontre d'une jeune paysanne qui me la fit tout
+� fait oublier. Cependant, ce n'est jamais sans �motion que je revois
+l'image de ce bel Allegri, mon portrait et la nudit� divine de cette
+noble Fosca que l'amour transformait en bacchante, mais qui ne fit
+jamais, dans les attitudes les plus lascives, un geste disgracieux. Sa
+beaut� lui a valu l'immortalit�: elle vivra autant que moi, autant que
+les arbres, les fleuves et les montagnes, autant que le monde. Ma petite
+Anglaise m'en apporta hier la photographie. J'aime mieux les anciennes
+gravures, mais cette mani�re est peut-�tre plus exacte. Pourquoi
+appelle-t-on cela Jupiter et Antiope, la petite, pas plus que d'autres,
+jamais, n'ont pu me le dire. Vous saurez, vous, du moins, que cela
+repr�sente le Faune Antiphilos et la Fosca, depuis marquise de Sassuolo.
+
+Un mois plus tard, Allegri revint me voir. J'�tais avec ma jeune
+paysanne et pourtant je m'appr�tais � lui faire des reproches, lorsqu'il
+me dit, d'un air fort m�lancolique:
+
+--�Elle m'a quitt� � mon tour.
+
+--C'est bien fait, r�pondis-je.
+
+--Sans doute, mais toi, tu es consol� et moi, je ne le suis pas encore.�
+
+Il me conta que la Fosca �tait la fille d'un patricien de Mod�ne fort
+dissolu et endett�, qui l'avait vendue � un pr�tre. Elle poignarda le
+pr�tre au moment m�me du viol et s'enfuit � Sassuolo o� le vieux marquis
+Giambattista la rencontra, la recueillit et la cacha pour sa beaut�.
+Ensuite, elle fut sa ma�tresse par reconnaissance, et v�cut � sa cour
+sur le pied d'une noble dame.
+
+--�Elle �tait avec lui, � la chasse, quand elle courut vers toi. Il y a
+huit jours, le marquis qui faisait de grandes recherches pour la
+retrouver, apprit que je cachais une femme dans ma masure. Il vint; au
+lieu de se mettre en col�re, il pleura, pardonna, m'acheta mon tableau
+et m'invita au mariage. Elle est la marquise de Sassuolo depuis ce
+matin. Les vieillards ont des id�es singuli�res. Quelles oeuvres
+j'aurais faites avec un tel corps!
+
+--Tu n'es ni homme ni dieu, Allegri, tu es peintre.�
+
+Il ne r�pondit pas et resta longtemps songeur. Je ne l'ai jamais revu.
+
+  ANTIPHILOS.
+
+
+
+
+III
+
+L'APR�S-MIDI D'UN FAUNE
+
+
+  Cogolin, 3 juin.
+
+  MONSIEUR,
+
+Enfin j'ai une occasion pour vous �crire et vous dire encore un chapitre
+de mes aventures, puisque je sais que vous les avez fait conna�tre aux
+hommes. Les dieux comme la nature n'existent qu'au moment que vous en
+parlez, que vous y pensez, et sit�t que votre attention se d�tourne des
+choses divines, ils retombent dans l'obscure immensit� panth�iste, o�
+leur vie s'�coule muette, profonde et v�g�tative. Je participe des
+dieux, j'ai v�cu cette vie. Je participe des hommes, et je connais les
+joies humaines. H�las! Elles m'ont �t� si parcimonieusement mesur�es par
+le destin, en ces derniers temps, que je ne sens presque plus mon
+humanit�. Cela fait que je suis triste, oui, triste, malgr� les yeux
+changeants qui me regardent en ce moment d'un air de reproche, malgr�
+les joues un peu rosies par le fard et maintenant un peu p�les qui se
+frottent � mon vieux cuir immortel et poilu. J'ai go�t�, depuis trois
+ans, plus d'amertume que dans le reste de mes jours. La solitude m'a
+empoisonn� le coeur, et si des temps pareils, ou pires, qui sait?
+devaient revenir pour moi, j'en serais r�duit � implorer des dieux mon
+rappel � l'Olympe, mon retour � la condition paternelle. Ah! renoncer
+aux femmes! Les dieux ne descendent plus sur la terre et je crains les
+d�esses. Quelle figure, parmi elles, ferait le pauvre ch�vre-pieds?
+
+Mais ne suis-je pas n� pour �tre heureux? Cydalise, quand je dis cela,
+me traite de satyre romantique, et quoique je ne comprenne pas bien, je
+sens que cela signifie qu'un tel r�ve est devenu un peu chim�rique. Foin
+de la chim�re! Nous ne comprenons pas le bonheur de la m�me mani�re, moi
+et vos philosophes. Je ne mourrai qu'avec la nature, ce n'est qu'avec
+elle seule que je dois m'accommoder. Les saisons m'importent plus que
+les m�taphysiques. Pourquoi le temps ne reviendrait-il pas des anciennes
+libert�s faunesques? La porte des bercails ne sera pas toujours aussi
+bien ferm�e et V�nus, qui semble s'oublier en des amours particuli�res,
+se souviendra encore de sa mission universelle. C'est un fait que les
+nymphes n'habitent plus les bois et que je n'ai pu, depuis trois ans,
+capter aucune fille, mais Cydalise a r�confort� le vieux Faune solitaire
+et l'espoir des vendanges est rentr� dans mon coeur. Ne croyez pas ce
+que je vous dis aux premi�res pages de cette lettre. C'�tait un reste
+des m�lancolies que je n'ai pu partager avec personne. Maintenant que
+vous les avez ressenties comme moi, je ne les ressens plus. Que fait le
+pass� � qui tient le pr�sent!
+
+Cydalise est descendue du chariot de Thespis pour venir � moi. Sa
+profession est de d�clamer devant les peuples les vers des po�tes. Elle
+me cherchait, c'est qu'elle m'avait d�j� trouv�, comme disent des vers
+qu'elle m'a r�cit�s et qui s'appliquent �videmment � ma divinit�,
+toujours pr�sente et toujours active. Cydalise ne l'a pas invoqu�e en
+vain. Le dieu mill�naire a toujours la jeunesse de ses d�sirs et les
+d�sirs de sa jeunesse. Les faibles hommes trahissent les femmes, bien
+des femmes me l'ont avou�, les satyres jamais, elles l'ont reconnu,
+fr�missantes et rougissantes, trop tard aussi pour leur bonheur, dirent
+quelques-unes. R�veuse et libertine, Cydalise aime � dire des po�mes
+entre deux d�lires. Elle commence d'une voix un peu essouffl�e par la
+course divine, s'exalte puis peu � peu tombe en une sorte de tremblement
+pr�cipit� qui s'ach�ve dans mes bras, plus rapide encore. Aussi, je sais
+plut�t les premiers vers que les derniers, qui meurent dans un murmure
+sans paroles. Je me souviens d'une aventure pareille, jadis, en
+Campanie. J'aimais une esclave grecque d'une merveilleuse beaut� qui
+venait me retrouver tous les soirs, et qui tous les soirs voulait me
+chanter la premi�re idylle de Th�ocrite, pour me montrer que sa voix
+�tait aussi pure que son corps oint d'huile de lavande. Elle n'eut
+jamais la force d'entamer le troisi�me vers. �Doux est le murmure du pin
+pr�s des fontaines, chevrier, doux le son de ta fl�te...� Sa voix
+s'�vanouissait � [Grec: Tyrisdes]. Peut-�tre ne se souciait-elle pas,
+comme dit Esope, de l�cher la proie pour l'ombre. Les dieux soient
+lou�s! La gaiet� me revient avec ces lointains souvenirs qui se
+rejoignent si doucement au pr�sent, � travers les si�cles. Celle-ci sait
+mieux r�sister � la violence du d�sir: elle pr�pare avec plus d'adresse
+le d�nouement dont elle sait prolonger les syllabes plaintives. Les
+hommes ne lui ont pas donn� une mauvaise �ducation: peut-�tre
+m'attacherai-je � elle plus qu'� toutes les autres, quoique ma nature me
+pousse toujours vers de nouvelles d�couvertes. Les femmes de cette sorte
+sont si rares!
+
+Mais il y a des repos forc�s � l'amour, et les honn�tes satyres
+eux-m�mes les respectent, car ils ont en horreur le sang, comme les
+larmes. Un de ses jours de langueur, elle vint avec un livre, et,
+souriante encore parmi sa tristesse r�sign�e, elle se mit � lire, tout
+haut, sans autre explication: L'APR�S-MIDI D'UN FAUNE. Miracle! Berc� �
+ces rythmes in�gaux comme une course dans les collines bois�es, j'avais
+presque autant de plaisir � contempler ses l�vres mouvantes qu'� les
+tenir enferm�es dans les miennes. Puis elle m'expliqua le po�me comme
+jadis les philosophes dans les acad�mies.
+
+Et je me voyais � mesure surgissant d'entre les saules du bord de l'eau,
+l'oreille aux aguets d'�bats que je d�sirais et que je ne voyais pas. Je
+me souvenais, c'�tait une de ces apr�s-midi excitantes et chaudes, telle
+que je n'en ai pas eu depuis longtemps, j'avais entendu la rivi�re
+clapoter un peu, comme au jeu d'un corps qui s'y plonge et j'allais
+fuir, car je crains l'homme ennemi, quand je crus voir au bord des
+cheveux flottants, touffe de chanvre tenue d'un lien de jonc. Je
+guettai. Si c'�tait une femme, partie d'un petit jardin de roses, elle
+reviendrait l�, et la haie �tait transparente et la maison assez haut
+vers la colline. Je guettai longtemps. Las, je me mis en qu�te. Je ne
+voyais rien. J'entendais des rires maintenant. J'imaginai beaucoup de
+choses, celles m�mes que le po�te avait dites. Oh! les prendre! Elles
+sont au moins deux, puisqu'il y a des rires. Des rires, des jeux, des
+caresses l�g�res. C'est l�. On se tait. M'a-t-on devin�? Non. Le plaisir
+m�dite avant d'�clater. Et moi? Mais si vous connaissez le po�me, vous
+connaissez aussi mon agitation, mon inqui�tude irrit�e, hennissante,
+toute effar�e, toute �tourdie. Un homme se leva, parmi les arbres d'en
+haut.
+
+--�C'�tait lui, dit Cydalise.
+
+--Lui?
+
+--Le po�te.�
+
+Et elle baisa son nom sur la premi�re page du livre.
+
+--�C'�tait donc lui?
+
+--Assur�ment.
+
+--Je pris la fuite.
+
+--Fuir! Mais il te voyait, il aurait voulu s'approcher de toi. Songe, il
+te ressemblait, autant qu'un homme peut ressembler � un dieu, et nul ne
+fut jamais plus pr�s des dieux par l'esprit. Le fuir, lui, ton fr�re en
+ing�nuit�!�
+
+Voil� l'aventure telle que je viens de l'apprendre. Cydalise me dit que
+je dois en �tre tr�s fier. Elle m'a fait apprendre par coeur trois vers
+de ce divin po�me, afin que je n'aie pas l'air d'ignorer tout de mes
+fastes:
+
+    Alors m'�veillerais-je � la ferveur premi�re,
+    Droit et seul, sous le flot antique de lumi�re,
+    Lys! et l'un de vous tous pour l'ing�nuit�.
+
+Ing�nuit�, encore. Mais rien ne me convient davantage.
+
+J'ai fait un march� avec Cydalise. Je lui permets de vous envoyer des
+baisers. Recevez-les. Elle me permet de vous faire ou plut�t de vous
+renouveler une pri�re. Ne permettez pas qu'on appelle satyre les vilains
+hommes qui �ventrent les petites filles. Un satyre est incapable de tels
+forfaits. Toutes celles que j'ai rencontr�es ont �t� fort contentes de
+moi et leurs baisers, innocents comme la nature, m'ont remerci�
+fervemment des mille petits jeux que je leur ai appris.
+
+  ANTIPHILOS,
+
+  Satyre.
+
+
+
+
+IV
+
+CYDALISE
+
+
+  Cogolin, 30 septembre.
+
+  MONSIEUR,
+
+Je vous �cris moi-m�me. Cydalise a fait ce miracle. Ma divinit�, qui
+�tait d�j� vieille il y a six mille ans, en sait presque autant que ces
+petits gar�ons qui sortent en courant de l'�cole. Je ne dirai pas que
+cela m'a ouvert le monde. Cela me l'a voil�, au contraire, et je l'ai vu
+diminuer, comme se rapetissent les pins sur la colline, � mesure que
+l'on s'en �loigne. Mais en se rapetissant il devient plus net, ses
+contours sont plus fixes et ses lumi�res plus vives. Mon cerveau en est
+tout chang�. Ce n'est d�j� plus celui d'un dieu. La vision vaste, mais
+confuse, et presque inconsciente, s'est tout � coup pr�cis�e. Peu � peu,
+je me suis d�tach� de la nature, d'o� je me suis �rig�, seul. Elle
+vivait en moi et je la sentais comme le battement de mon coeur. C'est
+moi maintenant qui vis en elle et je cherche en vain � la toucher de mes
+mains: elle n'est plus que de l'air, de la lumi�re, des odeurs et des
+aliments. Je la sentais respirer du m�me souffle que moi et il faut
+maintenant que je la boive: cela m'enivre.
+
+Cydalise s'amuse de mes �tonnements.
+
+--�Je vois, dit-elle, na�tre un homme. C'est plus beau qu'un dieu.
+J'�tais curieuse de toi. Maintenant je t'aime, car je lis dans tes yeux
+une fraternit�. On ne peut aimer que ses pareils ou ceux qu'on a
+fa�onn�s � son image. Quand les dieux se mettent � aimer ils deviennent
+des hommes.�
+
+Ce singulier langage me r�jouit, car c'est la v�rit�, je me suis mis �
+aimer Cydalise, je le reconnais � cela que les plus belles filles me
+sont presque indiff�rentes ou que l'image de Cydalise vient s'interposer
+aussit�t entre elles et moi, si par hasard elles me plaisent et
+m'attirent. Il y en a eu beaucoup sous nos pins, cet �t�. Elles se
+couchaient dans la lavande, leur grand chapeau sur les yeux et elles
+feignaient de dormir dans la paix ti�de des s�r�es, sous le dernier rai
+du soleil. Oh! l'�motion soudaine, le frisson qui d'un coup tend l'arc,
+quand la robe lentement lev�e laisse voir un beau corps rayonnant de
+nudit�! Ce n'est pas un vieux souvenir. Il y a encore des raffinements
+qui, jadis, �taient l'habitude. Ces pieds nus dans des sandales, ces
+capuces, ces robes de nonne comme j'en vis autrefois � Florence, droites
+et modestes dans leur laine grise couleur du temps et de l'innocence,
+j'ai revu cela, un soir, sous les pins de Cogolin.
+
+Qu'elle fut bonne, qu'elle fut belle, qu'elle fut douce, la petite nonne
+de Cogolin! Et ses yeux, comme � mon approche ils m�l�rent candidement
+leurs longs cils d'or! C'est ma derni�re aventure. Le souvenir m'en est
+cher et je ne l'ai pas sacrifi� � l'amour de Cydalise, mais depuis, je
+n'ai plus cherch� rien, accept� rien. Quand j'ai su mes lettres, j'ai
+voulu graver sur l'�corce d'un platane:
+
+  LE SATYRE ANTIPHILOS EST FID�LE A CYDALISE
+
+En relisant l'inscription, je ne pouvais croire que cela f�t la v�rit�
+et que je l'eusse �crit moi-m�me. J'allais �clater de rire, quand je vis
+dans les yeux de Cydalise un regard heureux. Je compris que je n'avais
+pas menti.
+
+Nous vivons des jours dor�s. Mon amante me donne presque toute sa vie.
+Quand elle va � la ville, elle en revient un peu lasse, avec des pi�ces
+d'or qu'elle me montre en souriant et des g�teaux au lait et au miel que
+nous partageons au bord d'un ruisseau pur o� les colombes comme nous
+viennent boire. Puis elle me donne une le�on. Je crois que l'or qu'elle
+rapporte lui vient de celle qu'elle donne aux hommes, l�-bas. Quand je
+lui demande si ses �l�ves font des progr�s, elle me baise le poitrail et
+joue avec mes frisures pour toute r�ponse. Moi, je me laisse faire, puis
+nous parcourons notre domaine, c'est-�-dire le bois de pins, la pelouse
+de bruy�re et de lavande, le coteau aride dans lequel il y a une grotte
+et des broussailles qu'arr�te le ruisseau pr�s duquel ont pouss�
+quelques platanes.
+
+Cela semble � Cydalise singulier et amusant de coucher dans une grotte.
+Je n'ai jamais dormi qu'en plein air ou dans des grottes, et ce qui
+m'�tonne et ce qui m'amuse dans la n�tre, ce n'est pas qu'elle soit une
+grotte, mais que Cydalise en ait fait un palais digne de l'Olympe. Elle
+a apport� dans un char que tra�nait un cheval rapide un grand sac de
+laine cousu avec art, sur lequel nous nous �tendons, bien plus � l'aise
+que sur les feuilles mortes, qui sont pourtant douces, des peaux de
+b�tes, des �toffes richement tiss�es et peintes des couleurs les plus
+vives. Elle a pour sa toilette r�uni mille objets qu'envieraient les
+d�esses et, rang�s sur des planchettes �l�gantes, il y a, ce que je
+n'avais pour ainsi dire jamais vu, des livres et des cahiers d'images.
+Par elle si nette, si raffin�e, divine, on le croirait, je vis dans un
+enchantement. J'ai des loisirs. Mes repas tout pr�par�s m'attendent et
+le temps que je passais � cueillir fruits et racines, � faire des
+provisions d'�cureuil, il s'�coule l�, maintenant, pr�s d'un livre o� je
+d�couvre la vie.
+
+Voil� ce qui est singulier pour moi, bien plus encore que les f�eries
+cr��es par Cydalise, c'est que la vie puisse �tre contenue dans les
+pages d'un livre. Oui, j'ai vu qu'une feuille de papier sur laquelle on
+dirait qu'un hanneton s'est promen� bien sagement, mais les pattes
+sales, qu'un tel chiffon d�tient en lui plus de choses que les vallons
+et les coteaux, les arbres et les horizons qui se dressent ou
+s'allongent devant mes yeux. Ma longue et divine exp�rience est
+confondue. Je croyais savoir parce que j'avais vu, mais les hommes ont
+regard�, et ce n'est pas la m�me chose. Je ne puis que vous exprimer mal
+mes joies de jeune civilis�. Il est entr� en moi tant d'id�es dont je
+n'avais pas le moindre soup�on, que j'en suis tout troubl�. C'est en
+vain que j'essaierais de vous les dire. Puis, ce serait expliquer le vol
+� un habitant des airs. Mais j'ai besoin d'un confident, d'un homme �
+qui je puisse avouer, sans qu'il en rie, mon nouvel �tat d'esprit.
+Cydalise m'intimide trop: je suis pr�s d'elle comme un grand enfant qui
+cherche � lire dans les yeux et qui s'y mire.
+
+Ah! divine nature, c'est toi la cause, cependant, et c'est toi d'abord
+que je dois remercier. C'est ma noble nudit� et la hardiesse sauvage de
+mon allure qui ont attir� � moi la femme o� je frotte la rugosit� de ma
+peau; je l'ai us�e jusqu'au sang et ma chair s'est faite d'une
+sensibilit� inconnue. Les antennes de la volupt� sont devenues peu � peu
+celles de l'intelligence. Quand Cydalise, sous mes yeux attentifs,
+laisse tomber ses v�tements et �clate, il me semble que c'est Isis qui
+se d�voile, mon cerveau s'exalte et non plus seulement mon sens
+g�n�sique, et, du m�me mouvement, que ma chair, mon esprit se dilate et
+s'�panouit.
+
+Hein? Ce n'est pas mal pour un Satyre? Je me relis avec complaisance, je
+d�place quelques virgules, je m'amuse beaucoup.
+
+  Votre
+
+  ANTIPHILOS.
+
+
+
+
+V
+
+M�TAMORPHOSE
+
+
+  Toulon, 15 d�cembre.
+
+  CHER MONSIEUR,
+
+Que d'aventures depuis ma derni�re lettre, qui annon�ait d�j� bien des
+changements dans ma vie? Je crois que Cydalise est victime d'Aphrodite
+qui l'a rendue folle de moi:
+
+--�Avant de te conna�tre, me dit-elle, je ne savais pas ce que c'�tait
+que l'amour!�
+
+Cela me fait rire dans ma barbe, car Cydalise, quoique mortelle, m'a
+toujours paru fort experte en cette science immortelle que j'ai pouss�e
+assez loin pour �tre bon juge. Mais je ne dis rien. Comment riposter?
+Mon ironie divine s'arr�te sur mes l�vres, car Cydalise me fait �prouver
+aussi je ne sais quel sentiment inconnu. Je ne puis me passer d'elle,
+voil� qui est certain, et cela ne m'�tait jamais arriv�. Elle m'est plus
+belle que toutes les femmes, plus verte que les vierges, plus fondante
+que les matrones parfum�es. Avec elle je poss�de tout et je ne regrette
+rien, je monte plus haut que les dieux, au point qu'il me semble que,
+pour devenir plus qu'un dieu parfois, il faut cesser de l'�tre � chaque
+heure de sa vie. La vraie divinit� est intermittente et se repose
+d�licieusement dans le n�ant d'avoir �t�. J'apporte tant de choses dans
+l'amour que je n'avais jusqu'ici jamais demand� aux femmes d'�tre autre
+chose qu'un pr�texte au d�ploiement de moi-m�me. Maintenant, je sens que
+Cydalise jette � mes pieds presque autant de richesse que moi: alors,
+pour n'�tre pas vaincu en munificences amoureuses, je lui ob�is. Elle
+fait de moi ce qu'elle veut: quelle m�tamorphose!
+
+Je ne pouvais me s�parer d'elle et la saison rendait nos rencontres plus
+difficiles. Alors elle a eu l'id�e de m'emmener � la ville:
+
+--�Et puis, m'a-t-elle dit, je veux t'aimer parmi les hommes.�
+
+Moi qui me souvenais des coups de fourche et des crocs des chiens, je
+demeurai muet, en la regardant avec terreur.
+
+--�Tu as peur?
+
+--Et comment te suivrais-je tout nu?�
+
+Cydalise �clata de rire, se jeta � mon cou, et ce jour-l� nous ne
+parl�mes plus de mon exode.
+
+Un matin, je m�ditais tristement, songeant � fuir, pareil au sanglier
+qui emporte � son flanc l'�pieu qui le blessa. Malgr� mon amour, la
+vision lumineuse de femmes nouvelles commen�ait � emplir mes yeux,
+j'entendais leurs cris, leurs rires, leurs disputes et leurs moqueries
+anxieuses, quand Cydalise surgit au bord du sentier, portant un gros
+paquet qu'elle laissa choir, en m�me temps qu'elle-m�me. Sans m'adresser
+la parole, elle regardait alternativement le paquet, puis moi. Enfin,
+selon son habitude dans les cas embarrassants, elle prit le parti de
+rire. Maintenant elle se roulait sur la mousse, en proie � une telle
+crise de gaiet� hyst�rique que sous son sein gonfl� le corsage c�da.
+Cela changea ses id�es et la calma aussit�t. D�s que je lui vis un
+visage s�rieux et inquiet, je m'approchai d'elle et, lui ayant bais�
+tendrement les yeux, j'attirai le paquet et je l'ouvris.
+
+Les regards de Cydalise suivaient avec curiosit� tous mes mouvements:
+
+--�Oui, c'est pour toi. Je t'emm�ne � la ville.�
+
+Vous avez devin� que c'�taient des v�tements d'homme. J'eus un moment de
+d�sespoir:
+
+--�Mettre �a!�
+
+Mais Cydalise me regardait, maintenant, avec tant de sollicitude que je
+murmurai, soumis comme un petit enfant:
+
+--�Je veux bien.�
+
+Alors elle battit des mains et nous all�mes vers la grotte. Il faisait
+assez frais et cela influa peut-�tre sur mon sentiment. Je me trouvai
+fort bien de toutes mani�res, quand j'eus rev�tu ces habits qui
+m'avaient sembl� d'abord de vilains instruments de torture.
+
+J'avais chaud et il �manait de moi je ne sais quelle �l�gance humaine
+dont je fus aussit�t fier. Un marin m'a dit depuis que j'avais la gr�ce
+du roi n�gre Ho-Papo, et il ne plaisantait pas: un roi est toujours un
+roi, un satyre est toujours un satyre. Avec le bon go�t des femmes,
+Cydalise m'admira aussit�t. Elle ne s'en lassait pas, me faisait tourner
+comme une toupie, tapotait les plis et les poches. Elle ne fit la moue
+que devant la cravate bleue qui n'allait pas � mon teint, disait-elle,
+mais on verrait cela plus tard. Mes cothurnes �taient du cuir brillant
+le plus souple et ne me blessaient nullement. Un p�tase rond embo�tait �
+merveille mes petites cornes recourb�es et mon �paisse crini�re. Elle
+mit dans la poche de mon gilet, en rougissant un peu, quelques pi�ces
+d'or et d'argent, puis:
+
+--�Maintenant, tu es complet, mon amour; partons.
+
+--Adieu, grotte o� j'ai �t� heureux parmi le vent et les feuilles, et
+vous, arbres, ruisseaux, houx, adieu. Nature, adieu...�
+
+Cydalise interrompit mes effusions, qui d'ailleurs me semblaient
+ridicules, maintenant que j'avais rev�tu la livr�e humaine, et nous
+r�un�mes le contenu de la grotte en un paquet gu�re plus gros que celui
+qui avait contenu les �l�ments de ma m�tamorphose. J'aurais bien voulu
+sacrifier une derni�re fois � l'Aphrodite champ�tre, mais Cydalise me
+dit que le train n'attendait pas et nous gagn�mes la voiture qui, elle,
+nous attendait � l'or�e de la for�t de pins.
+
+Mes sensations, en ce d�but extraordinaire de ma vie nouvelle, furent
+trop confuses pour que je puisse trouver des mots qui les caract�risent
+exactement. Je voyageai un peu comme un animal que j'avais �t�
+jusqu'ici, mais un animal divin en qui les choses et les bruits
+laisseraient leur empreinte. Avec beaucoup d'application, je pourrais
+les d�chiffrer, comme j'ai fait des phrases, dans mon premier livre de
+lecture, mais j'ai peur que le r�sultat ne vous donne rien de nouveau,
+et je remets � plus tard � coordonner mes �mois, si je sens que cela en
+vaut la peine:
+
+�Ainsi je participe de ces choses rapides que l'on voit passer dans les
+campagnes, plus l�g�res que les cerfs, plus hurlantes que les loups...�
+
+Vous voyez le genre. Ou encore:
+
+�Me voici install� dans un de ces palais que l'on aper�oit group�s au
+loin dans les vall�es ou sur les collines et d'o� se propage un bruit
+confus et continu comme celui de la mer, etc.�
+
+D'ailleurs, mes �tonnements ne sont plus. Je demeure avec Cydalise dans
+une chambre qui donne sur la mer fleurie et o� j'�touffe quand la
+fen�tre est ferm�e. Je ne la vois gu�re plus, ma divine amante, qu'au
+temps o� notre couche n'avait pour rideaux que les branches des pins.
+Jamais elle ne rentre avant deux ou trois heures du matin et si lasse
+que c'est � son r�veil seulement qu'elle pense � l'amour. Elle continue
+de r�citer les vers des po�tes devant le peuple assembl�, et apr�s la
+s�ance publique, des amateurs de po�sie r�clament encore ses talents.
+N�anmoins je ne m'ennuie pas. Je regarde. Je ne vois pas encore bien.
+Mon bonheur est concentr� dans Cydalise, et je fais la joie de ses
+jours.
+
+Votre d�vou�,
+
+  ANTIPHILOS.
+
+
+
+
+VI
+
+LA CELLULE
+
+
+  1er mars.
+
+Quelle vie, mon cher ami, depuis que j'ai quitt�, pour l'amour de
+Cydalise, mes bois familiers et leurs hasards! D'abord quelle monotonie,
+puis que de troubles, que d'ennuis! Dix fois j'ai voulu fuir, mais les
+bras de mon amante m'ont retenu, et ses larmes, ses sourires, ses
+baisers, ses gestes suppliants.
+
+--�Attends au moins les beaux jours, me dit-elle, mon amour. Que
+ferais-tu parmi ce froid, ce vent et la plainte des pins sonores,
+maintenant que tu es habitu� � la douceur des lits et � la tendresse de
+mes bras? Retrouverais-tu ton chemin, seulement, parmi toutes ces
+maisons qui te d�robent l'horizon? O Antiphilos, pense � moi, pense �
+nos matin�es, pense � mes jours que tu as divinis�s par ta pr�sence.
+Quoi! laisser ta Cydalise! N'as-tu pas tout ce qui est n�cessaire � un
+satyre? Dis, parle, que veux-tu?�
+
+Je ne sais que r�pondre � ces paroles de miel qu'elle d�pose dans mes
+belles oreilles pointues et aussi sur mes l�vres, dans un baiser. Ce que
+je d�sire, c'est me retrouver moi-m�me, mais comprendrait-elle cela, si
+je le lui disais? Et je me tais. Je lui tais aussi une aventure qui m'a
+boulevers�, dont elle se doute, j'en ai peur, mais dont je ne veux pas
+qu'elle ait jamais la certitude. J'en tremble encore, mais vous la
+saurez, car vous �tes mon ami, et � qui donc la conterais-je, puisque je
+n'ai plus pour confidents les pins, les rhododendrons, les rochers et
+les ruisseaux? Autrefois, quand il m'arrivait quelque vilaine aventure,
+pour m'�tre trop approch� des hommes, je chantais all�grement ma peine
+et ma peur. Maintenant, prisonnier, je n'ai plus rien de vivant qui
+m'�coute, et ma voix, quand elle module, m'assourdit. Et puis, j'ai
+d'autres soucis que la libert�, la libert� que je sais que je ne
+reprendrai pas.
+
+Un jour de soleil du mois dernier, � force de me pencher par la fen�tre
+et de scruter les alentours, je d�couvris non loin d'ici un coin de
+verdure, un jardin d'o� montaient parfois des cris aigus et je d�sirai y
+aller. Cydalise me prom�ne tous les jours avant d�ner (tout � fait comme
+un animal favori); nous allons par les rues vieilles, nous allons vers
+le port, nous t�chons de gagner la campagne, mais c'est trop loin et
+Cydalise n'a jamais le temps. Nous d�nons de bonne heure, elle rentre
+avec moi, et, apr�s quelques caresses, me laisse en me recommandant
+d'�tre bien sage. Ces fa�ons maternelles me sont douces, mais elles me
+sont s�v�res aussi: je me vois avec peine redevenu ob�issant comme un
+petit enfant: ma fiert� en souffre. D'autres fois, je r�fl�chis que
+c'est l'amour qui me tient et modifie mon �me; alors je n'ose plus me
+plaindre, et bien docilement je fais tout ce qu'a voulu Cydalise.
+
+Je m'endors vite d'ailleurs, la lecture � la lumi�re m'�blouit et j'ai
+conserv� cette facult� plus divine encore qu'animale, je crois, du
+sommeil facile, � la fois profond et l�ger, qui tombe aux ab�mes en une
+seconde et en une seconde remonte � la surface. Je ne me r�veille qu'�
+l'entr�e de Cydalise en qui, souvent � cette heure-l�, murmurent encore
+les harmonieuses abeilles du Pinde. Elle fredonne les vers qu'elle a
+d�clam�s devant le peuple selon des rythmes nouveaux et fort inattendus
+pour mon oreille plus habitu�e aux bruits du vent dans les arbres qu'aux
+inventions du g�nie de la grasse Euterpe. Quelquefois, elle tombe sur
+moi, �tourdie de fatigue et la bouche am�re. Quelquefois elle se d�v�t
+avec fr�n�sie et m'�tonne bient�t moi-m�me par l'audace de ses gestes
+lascifs. Mais il faut bien dire que, la plupart du temps, elle est fort
+calme. Apr�s m'avoir cri�: �Bonsoir, Tityre�, elle fait le r�colement
+des monnaies �parses dans le grand sac qui ne la quitte pas, se montre
+g�n�ralement satisfaite et ne tarde pas � s'endormir.
+
+S'il n'y avait pas les matin�es, je ne supporterais assur�ment pas une
+vie si �troite et si mesur�e; malgr� mon amour pour Cydalise, je m'en
+irais au hasard des chemins, mais les matin�es, je l'avoue, embellissent
+ma vie. Cydalise est tr�s belle et elle me livre sa beaut� bien plus
+litt�ralement que dans les grottes et sur les mousses. Le grand air et
+l'absence de cl�ture effarouchent toujours un peu les femmes. Aussi je
+comprends et j'admire ce que votre civilisation a fait pour les
+rassurer. Si j'en juge par Cydalise, quelles faunesses derri�re deux
+bons verrous et sous une lumi�re doucement tamis�e par des rideaux
+propices! Celle-ci est digne des dieux. Que n'es-tu, telle que moi,
+immortelle! Je ne puis te regarder sans m�lancolie, apr�s que tu t'es
+r�pandue autour de moi comme une vague de d�lices, car maintenant que je
+per�ois ton existence continue, je per�ois aussi ton destin. C'est en
+passant seulement et comme tombent les �clairs que les dieux doivent
+aimer les femmes. Elles les ressentent alors ainsi qu'une foudre
+m�morable qui descend, allume, consume, dispara�t et, pour eux, ce n'est
+dans leur vie qu'une sensation plus ample, qu'une inspiration plus
+profonde, qu'une coupe de vin plus ardente. Mais l'union constante de
+deux �tres si diff�rents d'essence, quoique presque tout pareils en
+d�sirs et en plaisirs! L'amour de Cydalise me fait conna�tre la
+tristesse des choses p�rissables. Je pense aux fleurs, je pense aux
+moissons, je pense aux saisons, � tout ce qui ne vit qu'un jour, � tout
+ce qui tombe s�rement dans le gouffre et qui n'en remontera pas.
+Cydalise m'a donn� une �me d'homme en me donnant son amour de femme,
+mais une �me d'homme qui sait que le destin ne l'atteindra pas,
+cependant qu'il verra p�rir ses amours.
+
+Des hommes, je poss�de d�j� tout le jargon m�taphysique. Je ne puis plus
+prendre la vie telle qu'elle s'offre � moi, bonne ou mauvaise, mais
+toujours adorable puisqu'elle est. Malgr� ma divinit�, je pense � ce qui
+sera, comme si je ne portais pas en moi � la fois le pr�sent et le futur
+et comme si je n'�tais pas destin� � ne jamais en sentir le poids � mes
+�paules. Dieux myst�rieux, il me faut un effort pour ne pas penser
+douloureusement, moi dont la vie inconsciente exultait en de brefs
+moments de lumi�re! Est-ce que je deviendrais vraiment un homme pour
+avoir aim� vraiment une femme? J'aurais donc un �ge, moi aussi? Combien
+d'ann�es vivent les faunes amoureux? C'est peut-�tre ainsi qu'ils ont
+disparu, car on n'en rencontre plus, du moins sur cette terre
+occidentale.
+
+Voil� � quels exc�s se portent mes divagations et les pens�es illogiques
+qui m'assaillent en contemplant la t�te transitoire de Cydalise,
+endormie comme elle sera morte, sur mes genoux fauves. Ah! quel poison
+que votre amour, humains, et quelle id�e fut la mienne de lever vers mes
+l�vres l'amphore fra�che et qui paraissait d'eau pure? Fiez-vous � l'eau
+pure, Faunes et Satyres!
+
+Et je ne vous ai pas dit mon aventure. Cydalise dort encore, mais elle
+va se r�veiller. Je n'ose pas. Je vous �crirai encore prochainement.
+Malgr� ses matin�es de soleil, plaignez le pauvre Satyre.
+
+  ANTIPHILOS.
+
+
+
+
+VII
+
+LE SATYRE! LE SATYRE!
+
+
+  Toulon, 15 mars.
+
+Mon cher ami, la t�te d'un satyre qui demeure � Toulon avec une
+r�citante lyrique, favorite du peuple, et qui ne voit plus d'autres
+paysages que les inharmoniques logis des humains, est sujette �
+d'�tranges bouillonnements. Vous me pardonnerez donc les divagations de
+ma derni�re lettre qui voulait vous raconter une anecdote et qui n'a pas
+su le faire. Je n'arrive pas � ranger mes id�es dans leur bo�te. Elles
+empi�tent les unes sur les autres, d'o� il r�sulte une grande confusion.
+Quand j'en veux tirer une, les autres y sont m�l�es et le temps se passe
+� les mettre en ordre.
+
+J'allais atteindre le fait principal, quand l'heure est venue pour
+Cydalise de rendre � ses traits repos�s le sourire qui les �claire.
+C'est pour dire que Cydalise se r�veille en souriant. Cela fait comme
+une rose qui s'ouvrirait assez vite pour laisser observer le d�pliage de
+ses feuilles. La vision est de celles que je ne voudrais pas manquer et
+chaque matin je cueille sur la rose que je surveille la ros�e des l�vres
+humides. Les Hamadryades et les Or�ades sont belles. Heureux qui peut
+les surprendre dans la fra�cheur des aurores et soulever dans leur sein
+les orages de la volupt�! Mais Cydalise efface leur souvenir par je ne
+sais quelle gr�ce o� se m�lent les promesses et les d�sirs. C'est bien
+la nymphe qui s'�veille, mais la nymphe qui attend son amant et va le
+prendre joyeusement en m�me temps qu'elle se donne � lui. Je n'en
+finirais pas, cher ami, si j'osais vous dire tous les charmes que
+Cydalise me fait �prouver. C'est une incantation, peut-�tre, mais �
+l'effet de laquelle je me pr�te avec joie, et je ne me rassasie pas du
+breuvage divin, non plus que de la folie o� il m'exalte.
+
+Un des matins donc du mois dernier, Cydalise fut cruelle. Elle me laissa
+bien boire � son sourire naissant, mais la coupe fleurie et parfum�e
+s'�loigna brusquement de mes l�vres, en m�me temps que ses bras, un
+instant nou�s sur mon cou, se d�tachaient et me repoussaient.
+
+--�Tityre (elle m'appelle toujours ainsi), j'ai affaire, il faut que je
+sorte et je suis en retard. Sois sage, mon amour.�
+
+Je ne dis mot, je la regardais, navr�. Elle fut vite habill�e,
+m'embrassa presque discr�tement et disparut.
+
+Elle m'avait laiss� dans un �tat que vous ne comprendrez peut-�tre pas,
+n'�tant pas faune. Des vers en moi murmur�rent:
+
+    Tant pis! vers le bonheur d'autres m'entra�neront
+    Par leur tresse nou�e aux cornes de mon front...
+
+Elle avait oubli� de m'enfermer. Je fus bient�t dehors, moi aussi.
+J'avais eu la patience de soigner ma toilette et de me donner toute
+l'�l�gance compatible avec mes formes athl�tiques et satyriques. C'�tait
+l'heure des jeux d'avant-midi. Des cris aigus montant du petit jardin
+m'avaient orient�. Il y avait toutes sortes d'�tres en robe courte qui
+jouaient, sautaient, couraient, mais � l'�cart dans un massif, sur un
+banc, deux presque grandes causaient en peignant leurs poup�es. Il y
+avait un autre banc en face. Je m'y installai.
+
+Vous fr�missez d�j� parce que vous connaissez le personnage, parce qu'il
+vous a confess� quelques anecdotes qui amus�rent sa vie, parce que c'est
+par une fillette, comme celles-l�, que vous avez eu d'abord la
+r�v�lation de mon existence. Eh bien, mon ami, il n'est rien arriv� du
+tout, sinon que j'ai eu tr�s peur, que j'ai pris mes jambes � mon cou et
+que je suis rentr� chez moi suivi (de loin, heureusement) par une troupe
+hurlante de Yahous.
+
+--�Le satyre! Le satyre!�
+
+J'�tais calm�. Je ne d�sirais pas du tout �tre entra�n� �par leur tresse
+nou�e aux cornes de mon front�.
+
+Mais quelles r�flexions!
+
+Voil� donc ce qu'avaient fait de moi six mois d'une civilisation �
+laquelle je n'avais presque pas particip�. Certes, je n'ai jamais �t�
+t�m�raire et je pr�f�re fuir les coups que les coups ne m'atteignent,
+mais tout de m�me autrefois je n'aurais pas, comme un li�vre, trembl�
+devant l'ombre de mes oreilles. Ne serait-ce pas la lecture de vos
+journaux qui m'aurait affol�? Je le crois. Un honn�te homme (j'en avais
+l'aspect du moins) ne peut plus s'asseoir en face de deux petites filles
+et regarder en souriant leurs minauderies sans entendre ses oreilles
+corner de l'aboiement d'une meute!
+
+C'est pourtant joli, les petites filles aux cheveux sur le dos; mais
+depuis cette histoire folle, je les d�teste. Ah! que je souffre de ma
+l�chet� et de ma fid�lit�. Cydalise, toujours Cydalise! Est-ce qu'elle
+s'imagine que, parce que je l'aime, je ne puis aimer qu'elle? H�las! je
+suis encha�n�. Ayant bris� mon lien, je l'ai renou� moi-m�me. J'ai peur
+qu'elle ne gronde, j'ai peur qu'elle ne se moque, je crains ses yeux,
+surtout, ses yeux dans lesquels je vis, dont j'attends en tremblant le
+r�veil.
+
+Aimez-vous comme cela, vous autres? Avec de tels d�chirements et une
+telle soumission? Sentez-vous en vous-m�me rugir un animal impatient et
+ob�issant? Peut-�tre qu'au fond, les faunes et les hommes sont faits de
+la m�me p�te, avec seulement, dans les faunes, un levain plus �nergique?
+Cela doit �tre ainsi, puisque de tout temps les dieux se sont m�l�s �
+vos femmes et parfois, pour leur plaire et les servir, ont abdiqu� leur
+condition divine. Nous sommes tous les fils du destin et notre vie
+immortelle n'est en somme qu'une succession de vies humaines mal soud�es
+entre elles par le ciment confus du souvenir. Que m'importe aujourd'hui
+le pass�? Je vois bien qu'il n'y a qu'un pr�sent, car le pr�sent efface
+toutes les autres minutes. Il y a une telle diff�rence entre ce que
+j'�tais hier et ce que je suis aujourd'hui que je n'y vois que
+difficilement des rapports logiques. La dur�e, ou ce que vous appelez
+ainsi n'est que l'illusion de la marche du temps. Mais il est immobile
+pour moi, qui demeure toujours le m�me et dont la vie recommence
+toujours, bien plus qu'elle ne dure, puisque la dur�e c'est le temps,
+etc. Comprenez-vous? Mon cher, j'ai lu des m�taphysiques et j'en ai
+conclu que la vie n'est rien pour les hommes, puisqu'elle a une fin, et
+rien pour les dieux, puisqu'elle n'en a pas. Tout est �gal dans
+l'absurde. Seulement j'ai encore une vague r�miniscence de mes plaisirs
+d'animal libre; je ne broutais pas tous les jours, mais je ne broutais
+pas tous les jours Cydalise. Par Jupiter, si j'allais en venir � ne plus
+l'aimer, que deviendrais-je entre ces quatre murs, ou dehors, parmi le
+grouillement des Yahous?
+
+Je veux que Cydalise m'emm�ne avec elle parmi le peuple qu'elle
+enchante. Il faut que je me familiarise avec le mouvement et les paroles
+ext�rieures. N'ai-je pas tout ce qu'il faut pour plaire? Oui, je me
+plais quand je me regarde dans le miroir de mon amante. D'ailleurs,
+puisqu'elle me regarde avec plaisir, pourquoi les autres seraient-ils
+plus effarouch�s? Je ne doutais pas de moi dans le creux des arbres, les
+jambes plaqu�es de vieille terre, des mousses et des feuilles accroch�es
+� mon poil hirsute, et jamais femme n'a couru bien longtemps devant moi,
+sans faire une chute opportune. Il est vrai que tout m'�tait bon alors,
+et que je suis devenu plus d�licat. Je suis m�me ahuri par la quantit�
+de femmes laides et d�plaisantes que nous rencontrons dans nos sorties.
+J'en ris avec Cydalise, si haut qu'elle me sermonne, mais elle est de
+mon avis et murmure souvent � mi-voix: �Quelles tournures!�
+
+Je ne voulais pas conter mon histoire de petites filles � Cydalise. J'ai
+chang� d'avis. Je veux qu'elle la connaisse. Je vais m�me exag�rer les
+dangers (presque imaginaires) que j'ai courus parmi les Yahous, afin
+qu'elle voie la n�cessit� de me familiariser avec le monde.
+
+Yahous! C'est l'effet que vous me faites. Ne vous en formalisez pas. Il
+y a des femmes, il y a des hommes parmi les Yahous.
+
+  Votre
+
+  ANTIPHILOS.
+
+
+
+
+VIII
+
+L'EAU DE FENOUIL
+
+
+  Toulon, 1er avril.
+
+Mon cher ami, je vous remercie de vos conseils, je m'en suis bien
+trouv�. Tout a parfaitement r�ussi. Mon chagrin a touch� Cydalise. Il
+�tait r�el. Je n'ai eu � en feindre que l'exc�s et � simuler le
+d�sespoir. Huit jours de com�die supr�me ont r�duit mon amante � toutes
+les complaisances. Que les femmes sont faciles � tromper! J'en ai fait
+l'exp�rience autrefois avec les na�ves nymphes de ma terre natale; les
+femmes, � peine un peu plus rus�es, tombent aux m�mes pi�ges. Occup�es
+d'elles-m�mes plus que tout au monde et confiantes au dernier point dans
+le pouvoir de leurs charmes, elles ignorent que l'on puisse s'en priver
+pendant huit jours, m�me pour acqu�rir ce bien sup�rieur, la libert�.
+Instinctives, elles sont sup�rieures dans les conflits de l'instinct,
+mais l'exercice de l'intelligence les d�route parce qu'elles ne la
+supposent jamais chez leurs adversaires. Cydalise n'a compris qu'une
+chose, c'est que je pouvais �chapper � sa tendresse et, depuis ce
+temps-l�, elle redouble de c�lineries. Les miennes la rassurent et,
+comme j'ai �t� bien accueilli par les compagnies qu'elle fr�quente, nous
+sommes plus unis que jamais.
+
+Je me pr�parais en secret � ma nouvelle vie. J'y fus, du premier coup,
+fort � mon aise. Je me dois � moi-m�me, me disais-je, � l'antiquit� et �
+la divinit� de ma race, et j'ai pris l'attitude d�sabus�e d'un humain
+sup�rieur en exil chez les Scythes. Je parle peu, sinon quand Cydalise
+est pr�s de moi pour me pousser du coude ou du genou et je prends peu �
+peu la r�putation d'un homme d�daigneux ou distrait.
+
+�Quelque fils de famille, quelque solide hobereau�, ai-je entendu dire.
+
+Cydalise, � qui j'ai r�p�t� cela, en a beaucoup ri.
+
+--�C'est que c'est vrai!� r�p�tait-elle.
+
+Elle m'a appris alors que hobereau, cela voulait dire un noble de
+campagne, demeur� un peu paysan, et, caressant ma barbe, elle m'embrassa
+devant tout le monde, ce qui fit pousser de petits cris singuliers �
+plusieurs femmes qui �taient l�. Cela se passait au caf� de l'Amiraut�.
+C'est l� que j'ai d�but� dans la carri�re d'homme du monde, du vaste
+monde.
+
+Les femmes me regardent beaucoup. Cela ne m'�tonne pas, car je dois leur
+para�tre surnaturel, mais presque aucune ne m'a plu encore et Cydalise
+voit ses inqui�tudes se dissiper de jour en jour. Elle m'a confi� � un
+de ses amis, un vieil officier de marine qui a connu des humanit�s de
+toutes les couleurs et qui me fait du matin au soir le r�cit de ses
+navigations et de ses exp�riences: cela m'instruit. Il est tr�s fier
+d'avoir connu une Oc�anienne nomm�e Rarahu, qui �tait inconsolable,
+comme Calypso, du d�part d'Ulysse, et qu'il a pourtant consol�e.
+
+--�Je n'avais pas, me dit-il, mon pareil, pour consoler les filles de
+couleur, abandonn�es par des Blancs.�
+
+Cet amour subalterne m'inspire un peu de piti�, mais je suis bien aise
+de conna�tre sa fonction amoureuse. Si jamais je quitte Cydalise pour
+suivre ma destin�e, qui, d'ailleurs, est ind�finie, je la remettrai aux
+mains de ce brave homme.
+
+Un camarade est venu le voir et ils se sont mis � raconter ce qu'ils
+appellent leurs bonnes fortunes. Ce camarade est tr�s convenable, mais
+un peu monotone. Quelle pauvret� de souvenirs et de sensations! Il sort
+de leurs r�cits je ne sais quelle odeur de gaudriole qui prend � la
+gorge. Moi, l'amour ne m'a jamais fait rire. Cela fut toujours pour moi
+la chose la plus grave du monde et la plus profonde. A la vulgaire fille
+de ferme, sentant la bouse de vache, j'ai trouv� encore un go�t
+d'infini.
+
+Au reste, je crois bien que l'amour nous donne ce que l'on poss�de d�j�
+et qu'il ne peut nous donner que cela. C'est pourquoi, � des natures
+comme la mienne, la qualit� de l'adversaire importe peu, en dehors des
+aptitudes de jeunesse et de force. Pourtant la beaut� a toujours �t� une
+fontaine o� mes forces se sont accrues, o� je retrouvais toujours
+renouvel� mon d�sir � mesure que je l'abandonnais au secret des eaux.
+
+Mais la beaut�, c'est si rare! M�me les nymphes immortelles, je puis
+vous l'avouer, sont quelquefois un peu camuses et il y a de la duret�
+dans leurs sourcils trop rapproch�s et leurs cheveux fauves plant�s trop
+bas. Comme moi, avant ma transformation, elles sentent la terre, les
+feuilles pourries et les fleurs vireuses �cras�es par leurs reins. Ne
+r�vez pas de ces amours qui ne sont belles que par leur inconscience. Je
+puis encore m'y plaire, j'y retrouverais ma saveur originelle et la
+jeunesse rude de mes d�sirs phrygiens, mais vos Cydalises, si pr�cieuses
+par leur fragilit� m�me, surpassent les d�lices des immortelles et c'est
+� leur peau que s'est attach�e l'odeur des violettes.
+
+Mes deux marins, cependant, buvaient une sorte d'eau couleur d'herbe et
+qui sentait le fenouil, leur teint prenait des couleurs de plus en plus
+riches et, jouant avec des mani�res d'osselets, comme les bergers de
+Sicile, ils n'�changeaient plus que de rares paroles o� revenaient des
+mots dont je ne pouvais saisir le sens. Ils avaient oubli� les femmes et
+je n'en fus pas f�ch�, car je go�te peu les discours insanes dont elles
+sont le pr�texte.
+
+Je pus donc regarder celles qui maintenant emplissaient le caf� et ne
+semblaient faire nulle attention � moi. Pourtant je crus remarquer que
+deux yeux, en apparence perdus dans le vague, se fixaient de temps en
+temps sur ma figure, et la vanit� me poussa � sourire. Un sourire me
+r�pondit. Moi qui ne buvais pas d'eau de fenouil, je me sentis devenir
+plus rouge que mes voisins et soudain je fis un mouvement pour me lever.
+Mes anciens instincts renaissaient, j'allais vers mon plaisir, comme
+jadis. Un instant, je crus respirer du v�ritable fenouil et l'odeur des
+oranges de Cogolin. Si elle s'�tait lev�e aussi, si elle avait fait,
+comme mes folles de jadis, le geste de fuir, comme j'aurais bondi dans
+ses pas! Mais elle prit un journal o� elle dissimula son visage, et les
+mobiles du mouvement m'�tant enlev�s, je demeurai tranquille. Cydalise
+s'approchait. C'�tait probablement sa venue, aper�ue dans la glace, qui
+avait fait se d�ployer le journal. Je me promis d�sormais d'�tre plus
+ma�tre de moi-m�me et de surveiller les glaces.
+
+La bien-aim�e Cydalise m'aga�a, puis m'exasp�ra en m'appelant sottement
+�son vieux Tityre�, ce qui fit d�clencher un petit ressort rouill� chez
+le vieil officier qui laissa sortir p�niblement:
+
+�_Tityre tu recubans, recubans..._�
+
+Le journal ne remuait pas, mais par prudence je baissai les yeux.
+Cydalise �tait �galement de mauvaise humeur. Heureusement, la partie
+d'osselets �tant finie, les deux bonshommes se tourn�rent vers elle et
+l'assaillirent de galanteries. Celui qui �tait arriv� le dernier �tait
+le plus empress� et Cydalise, amus�e, reprit un peu d'entrain. Elle
+accepta un verre de jus d'herbe et ces messieurs en profit�rent pour
+remplir leurs coupes, apr�s m'avoir pri� de suivre leur exemple:
+
+--�Pas lui, pas lui!� s'�cria Cydalise. �Cela le rendrait fou. C'est du
+lait qu'il lui faut.�
+
+Le lait �tait bleu et avait un go�t de vieux papier, mais je pr�f�rais
+encore cela au fenouil. Que de fois, dans mes courses � travers les
+pr�s, au lever du soleil, j'avais press� dans mes l�vres la mamelle
+d'Io! Je faillis dire cela tout haut. Par bonheur, la grimace que je
+fis, en retournant dans ma bouche le relent de ce singulier breuvage,
+�loigna de mon esprit cette confidence intempestive.
+
+Je me tus, d�vorant en silence les bienfaits de la civilisation:
+
+�Enfin, il y a des compensations�, me dis-je.
+
+Nous part�mes. Sur le seuil je me retournai vers le journal. Il s'�tait
+abaiss�. Cydalise surveillait les plis de sa robe. Follement, j'envoyai
+un baiser au visage qui maintenant me regardait.
+
+--�Viens-tu, Tityre?�
+
+Je suivis.
+
+Est-ce que je commence � comprendre? Adieu.
+
+  Votre
+
+  ANTIPHILOS.
+
+
+
+
+IX
+
+�R�BE
+
+
+  Toulon, 17 juin.
+
+Voici ma vie, pendant ces deux mois, mon cher ami, et quoique vous ne
+m'ayez point donn� de vos nouvelles depuis longtemps, je vais vous la
+conter, pour provoquer vos conseils. Les jeunes gens et les dieux
+�ternellement jeunes, ont besoin de remontrances des sages, et vous �tes
+un sage, vous qui ne m�prisez pas les satyres. Cet �tat, vous le savez,
+a bien des inconv�nients et leur nature insatiable les expose � de
+f�cheuses aventures parmi les hommes plus enivr�s de l'id�e d'amour que
+de l'amour lui-m�me.
+
+On c�l�bre, para�t-il, � Turin, des sortes de jeux olympiques o� se
+r�unissent pour disputer des coupes cisel�es et des couronnes au
+feuillage divers les envoy�s du monde entier. Un entrepreneur de
+spectacles, qui voyageait par ici, s'est �pris de la frimousse (comme il
+dit) de Cydalise et l'a pri�e de venir repr�senter les d�esses sans
+voiles devant les peuples assembl�s. Il suppose qu'un beau corps est
+toujours la suite d'une belle figure et je dois vous confier que cette
+fois il ne s'est pas tromp�. Cydalise est comme moi, elle n'a pas
+beaucoup de pudeur et m�me elle jugerait criminel de cacher obstin�ment
+aux yeux ce que le Plasmateur supr�me des hommes et des satyres a form�
+pour le plaisir des yeux. Elle a donc accept� (depuis, elle m'a cont� en
+riant que le tyran de ce pays, que j'ai connu plus humain, loin
+d'all�ger les draperies des d�esses, les exige bien opaques et bien
+lourdes; mais c'est un point secondaire dans l'histoire, passons), sans
+se dissimuler qu'il y avait la question _moi_, qui l'embarrassait
+beaucoup. Elle redoutait pour son cher Antiphilos, disait-elle, toutes
+sortes de dangers, et Antiphilos, qui pr�f�rait rester � Toulon,
+s'empressa de manifester � l'id�e du voyage une joie scandaleuse. Donc,
+elle m'a laiss� ici, en me promettant, ce que son entrepreneur lui a
+accord�, de revenir toutes les semaines passer un jour avec moi.
+
+Elle est revenue fid�lement, comme elle l'avait arr�t�, rapportant �
+chaque voyage quantit� de monnaies d'or aux effigies les plus vari�es:
+je n'aurais jamais cru que l'univers compt�t tant de tyrans. S'ils se
+font la guerre, comme c'�tait la coutume autrefois, dans quel �tat doit
+�tre la terre, � ma�tre de l'Olympe? Je suis le gardien de ce tr�sor,
+qui s'accro�t beaucoup. Je ne sais pas encore bien ce qu'on peut faire
+avec de l'or, moi, j'ai d'autres moyens de persuasion, mais Cydalise le
+sait et je me contente de remplir mon office qui est de fourrer tout cet
+or dans un sac, de le c�ler et de me taire.
+
+J'ai d'autres moyens de persuasion. Ils sont visibles dans l'�clat de
+mes yeux qui ne sont pas, comme dit le po�te, �durs, brillants et
+tristes�, mais doux, brillants et joyeux, des yeux d'amant, des yeux
+d'aimant, des yeux qui attirent les coeurs et les yeux, comme font des
+saphirs la pierre magique. Vous avez devin� que ma conqu�te du caf� de
+l'Amiraut� est tomb�e dans mes bras et qu'elle s'y est plu. Elle est
+loin d'�tre aussi belle que Cydalise et ne m'apporte gu�re que le
+plaisir de la vari�t�. Pourtant, elle aussi conna�t les r�gles du jeu et
+toutes ses finesses. Ce qui l'exalte surtout, c'est l'id�e de tromper
+Cydalise, qu'elle conna�t et qui n'a pas voulu se lier avec elle.
+Pourvu, � dieu qui as des ailes aux talons, qu'elle n'aille pas se
+vanter de sa bonne fortune! Je ferai un sacrifice � Harpocrate pour
+qu'il pose un sceau sur ses l�vres. En attendant, je l'ai appel�e Er�be,
+elle ne sait pas pourquoi. Son corps est pareil � ces flambeaux, dor�s,
+mordus de noir, que je me souviens d'avoir vus � Eph�se apr�s
+l'incendie. Comme nous errions l'autre soir sur le port, un matelot
+chantait:
+
+    Elle est un peu brunette,
+    Ce sont les plus belles gens.
+
+Elle se mit � �couter et � rire:
+
+--�Trouves-tu, Satyros?
+
+--Oui, Er�be.�
+
+Je ne lui ai pas fait de confidences, mais elle a vu sculpt�e � la poupe
+d'un navire grec une t�te de satyre qui me ressemblait et un matelot lui
+a �pel� le nom dont elle me qualifie. Cela m'amuse. Les Or�ades de
+Phrygie m'appelaient parfois ainsi, en mani�re de provocation et elles
+avaient bient�t imprim� sur la terre une figure callipyge qui disait ma
+victoire. O douce terre de Phrygie!
+
+Tout de m�me, je l'ai pri�e de garder bien ce nom pour l'intimit�, car
+les satyres ont de plus en plus mauvaise r�putation dans ce pays, dont
+j'enrage. Er�be n'a-t-elle pas eu l'id�e, l'autre jour, d'acheter et de
+me lire un journal orgueilleusement appel� _Le Journal des Satyres_:
+
+--�Ah! Ah! voil� un journal pour toi! Il n'y manque que ton portrait.�
+
+Par Apollon! Quelles incoh�rences! quelles niaiseries! Quelle id�e se
+font-ils d'un satyre, les esclaves qui ont r�dig� cette feuille? Malgr�
+mon naturel d�bonnaire, je me suis mis en col�re et contre le journal et
+contre les archontes qui ont, para�t-il, jet� les esclaves �
+l'ergastule. Ce ne sont que des sots. A peine m�ritaient-ils la punition
+dont Priapos menace les larrons du verger: _inrumabo_! J'ai expliqu�
+cela � Er�be: elle est devenue s�rieuse. Nous avons parl� d'autre chose.
+
+Cydalise, voil� � quoi tu exposes ton satyre familier, en le laissant
+errer par les rues, cependant que les �ph�bes olympiques vident en ton
+honneur les coupes cisel�es remplies d'un vin noir. Er�be n'aime que le
+champagne. Moi je suis toujours fid�le � mon lait qui a go�t de papier
+et, quand Er�be s'en �tonne, je lui dis que le lait est le vin des
+satyres. Elle prend vite une figure souriante: c'est sa mani�re de faire
+croire qu'elle a compris.
+
+Quand Cydalise revient, nous passons tous nos moments chez nous, les
+jours comme la nuit. Ainsi j'�vite les rencontres et les explications,
+qui me feraient perdre la t�te, car toute ma diplomatie consiste �
+prendre la fuite et � m'aller cacher dans un tronc d'arbre. Comme je me
+sens emp�tr� par votre civilisation et que les femmes sont
+d�raisonnables! Elles appellent cela de la trahison. Mais je les aime
+toutes, moi. Est-ce que toutes ne m'appartiennent pas, puisque je puis
+toutes les satisfaire? Elles ne savent pas encore, ni vous peut-�tre, ce
+que c'est qu'un satyre, que cette force de la nature d�cha�n�e par le
+d�sir. Il faudra que Cydalise en prenne son parti et qu'elle admette que
+les satyres ne sont pas faits pour la fid�lit� et que le caprice est
+divin.
+
+O caprice, diversit� des formes sous la r�gle �ternelle, caprice aux
+yeux changeants!
+
+Caprice, fille gracile aux seins d'airain, matrone o� tr�ne l'automne et
+toutes ses couleurs!
+
+Caprice, nymphes barbouill�es de m�res, au dos d'argile, aux joues
+balafr�es par les ronces, pures ou impures comme la terre, et des
+feuilles s�ches sonnent dans leurs cheveux emm�l�s!
+
+Caprice, les jeunes bergers fuient vers la chaumi�re, et les berg�res se
+prennent par la main, criant comme des poules qu'un renard a surprises,
+et se retournant pour rire entre deux cris!
+
+Caprice, odeur am�re des foug�res, odeur des �paules sous les saules et
+des jambes dans les ruisseaux qui charrient encore l'�cume blanche
+d'avoir baign� la fille de Latone!
+
+Caprice, etc.
+
+Que ce lyrisme ne vous surprenne pas. C'est l'�t� qui me monte � la
+t�te.
+
+  Votre ami,
+
+  ANTIPHILOS.
+
+
+
+
+X
+
+DIOG�NE
+
+
+  Toulon, 15 juillet.
+
+Je suis certainement heureux, mon cher ami, depuis que je suis un faune
+domestiqu�; je ne connais plus le froid ni la disette, ni l'absence
+d'amour, ni l'hostilit� des hommes, ni la morsure des chiens; mais il se
+m�le � mon bonheur je ne sais quelle honte et je ne sais quelle limite.
+J'ai le sentiment que ma divinit� diminue: l'homme cro�t en moi, �touffe
+peu � peu mon ancienne nature, qui �tait le D�sir! J'ai la nostalgie du
+d�sir! Je d�sirais les fruits, je d�sirais les feuilles, je d�sirais les
+femmes et quand tout cela est venu vers moi, je ne r�ve plus que d'�tre
+nu et affam� dans un d�sert. Oh! que la solitude a d'attraits pour qui
+vit au milieu des hommes!
+
+Le phrygien Esope (j'ai connu ses fr�res et ses soeurs, qui �taient
+beaux et stupides) a �crit une fable pour montrer que la libert� est le
+premier des biens. Je l'ai entendue dans le grec de mon enfance, et des
+petites filles l'ont apprise par coeur sur mes genoux. Elle est vraie et
+elle est fausse, comme toutes les inventions des hommes. La libert� est
+un fardeau qu'on souhaite poser � terre, quand on ne conna�t pas autre
+chose, et il y a dans l'esclavage le plus heureux des civilisations je
+ne sais quelle amertume qui resserre le coeur. Jadis mes tristesses
+elles-m�mes �taient des sortes de joies o� ma vie se dilatait et
+s'exaltait. Elles �taient une transformation momentan�e des puissances
+de mon �tre et quand j'avais rencontr� par hasard une cr�ature avec qui
+les partager, elles grandissaient dans le silence voluptueux des nuits
+jusqu'� s'�galer � l'immensit� m�me du monde. Je souffrais parfois, je
+ne m'ennuyais jamais. Quel est ce nouveau mal dont j'ai appris
+l'existence, comme j'en apprenais le nom? Un jour, j'ai vu que les
+choses se d�coloraient autour de moi et que les yeux des femmes se
+ternissaient � mon approche comme un miroir de m�tal. Je ne
+m'int�ressais plus � rien, je r�vais de pays qui n'existent pas. Mon
+pass� m�me, si riche de toutes aventures, ne pouvait fixer mon souvenir
+sur un point de son histoire et mon d�sir endormi ne se r�veillait pas
+pour les amours futures.
+
+Cela n'a dur� que quelques jours, mais j'en suis encore malade et je
+sens que je n'en gu�rirai jamais. C'est le retour de Cydalise qui m'a
+rendu � moi-m�me et depuis qu'elle est repartie, je supporte ma vie sans
+m'y plaire. Er�be m'a lass�, je suis seul, et c'est en vain que
+D�idamie, une petite Grecque, se met sur mon passage quand je vais voir
+mes amis qui boivent de l'eau verte. C'est une amie d'Er�be, qui m'a
+l�gu� aussi un vieux marchand de syllabes qui lui �crivait ses lettres
+d'amour pour la r�compenser de venir assister � sa toilette. Elle lui
+secouait dans la figure sa chevelure poivr�e d'o� tombaient un tas de
+mots qui ne l'�taient pas moins. Er�be l'appelait son secr�taire et moi
+Diog�ne! J'en ai entendu des d�bats, l'un voulant mettre en termes
+dignes du Portique les secr�tes pens�es d'Er�be, l'autre les lan�ant �
+la vol�e, toutes nues ainsi qu'Aphrodite sortant de l'onde et beaucoup
+moins pudiques! Qu'il �tait comique en cette lutte, mon vieux Diog�ne;
+mais je fus froiss� d'y apprendre qu'Er�be trafiquait de ses charmes,
+inconsciente comme le Destin. Comment j'ai rompu avec elle est un
+�pisode insignifiant. J'ai appris quelques jours plus tard qu'elle �tait
+partie avec un Anglais voyageur, qui n'aime pas � consid�rer tout seul
+les sites ensoleill�s. Diog�ne �plor� m'apporta la nouvelle et resta. Il
+assiste � ma toilette et attend mes discours du matin, mais c'est moi
+qui le fais parler.
+
+Ses propos sont plaisants et amers. Je m'en suis amus� d'abord, mais
+bient�t sa parole d�sabus�e m'a fait r�fl�chir plus qu'il n'aurait fallu
+sur moi-m�me et sur la vie, et c'est peut-�tre cela, j'y songe, qui m'a
+rendu malade. Il n'est pas surprenant qu'il soit d�senchant�, car il est
+vieux et pauvre, r�duit � fr�quenter un monde qui contrarie ses
+instincts et ses habitudes. Je l'ai peut-�tre mal nomm� Diog�ne; il est
+plus m�lancolique que cynique et plus r�sign� que d�prav�. Si peu que je
+me connaisse en v�tements et en modes, il m'a paru habill� avec une
+sorte de recherche surann�e, pauvre et triste. Ses cheveux ont la
+couleur du chanvre qu'on voit rouir dans les mares au milieu des pr�s;
+ils sont d�color�s comme son �me. Son linge en papier est toujours fort
+blanc, son teint est rose, ses mains fines, ses yeux doux et ind�cis; et
+ses l�vres charnues lui donnent un air de bont� et de sensualit�
+innocente.
+
+Il y a ici des pr�tres de Jupiter qui ont cet air-l�, mais quelques
+phrases grecques qui lui ont �chapp� m'ont d�voil� l'ancien professeur
+d'�loquence ou le philosophe. J'�coute maintenant, sans effroi, ses
+explications de la vie et m�me j'y trouve un plaisir d'initi�; tant�t il
+me semble entendre un bacchant et tant�t un mithriaque et tant�t encore
+un homme entre deux vins. Le vin, qui me rend fou et que je n'aime que
+dans les grappes, lui donne de la hardiesse. Quand il est l�, j'en fais
+toujours qu�rir un flacon couleur d'ambre ou couleur de roses nouvelles,
+qui du moins me r�jouit la vue, et j'�coute en me brossant le poil et en
+limant mes cornes, car je n'ai plus de secrets pour lui.
+
+Comme Er�be, il m'appelle famili�rement Satyros, et je trouve cela tout
+naturel. C'est elle qui fut le sujet de notre premier entretien ou
+plut�t de son premier discours:
+
+�Ce qui me pla�t dans cette femme, c'est son d�sint�ressement. Elle ne
+vend sa peau que pour mieux la donner, c'est sa faiblesse. Elle a un
+merveilleux app�tit de luxure et ne peut le satisfaire qu'avec celui
+qu'elle a choisi. Ceux qui la choisissent ne trouvent qu'une servante
+d'Aphrodite. Si elle �tait riche, elle serait la plus honn�te des femmes
+et ne prendrait ses amants que parmi ceux qui ressemblent le plus � des
+dieux. M�me en amours, la richesse est un grand privil�ge. Cela fait
+qu'il y a deux races sur la terre qui se cr�ent et se recr�ent sans
+cesse, la race soumise au destin et celle qui le surmonte. Vous
+entendrez dire le contraire de ceci par le monde. Ce ne sont que
+sornettes. Ecoutez la voix d'un homme que le destin �crase et qui, pour
+se rapprocher d'une femme qu'il aime, s'est fait son esclave domestique.
+Elle reviendra, je sentirai encore l'odeur de sa chevelure et celle de
+son d�dain. Je me suis ruin� pour Aspasie; il est juste qu'Aspasie me
+m�prise.�
+
+Je vous apporte assez fid�lement quelques-unes de ses paroles, mais je
+ne les ai pas bien comprises. Il me sembla d'ailleurs que son teint se
+colorait et qu'il penchait vers l'ivresse. Il ajouta des choses que je
+compris moins encore sur la volupt� de la souffrance et les jouissances
+de l'abjection. Puis il me r�cita la d�clamation de Th�ognis contre la
+pauvret�, achevant ainsi l'aveu de ses incoh�rences.
+
+Il ne m'a point paru toujours aussi fou. C'est un malheureux puni par
+Aphrodite pour avoir abus� de l'amour (ce qui n'est permis qu'aux
+dieux), mais d'ordinaire elle lui laisse du rel�che et sa conversation
+est moins d�primante. Si je vous raconte la suite de mes exp�riences,
+j'aurai sans doute � vous parler de Diog�ne. Mais vraiment, je suis
+patient, car il a bien abus� de moi.
+
+  Votre ami,
+
+  ANTIPHILOS.
+
+
+
+
+XI
+
+D�IDAMIE
+
+
+  Monte-Carlo, 15 septembre.
+
+Mon cher ami, je ne sais point comment cela s'est ordonn�, mais Diog�ne
+m'a engag� dans une aventure qui ne laisse pas que de m'inqui�ter un
+peu, encore que je croie que la protection des grands dieux ne me
+faillira point. J'allais beaucoup mieux, les espi�gleries amoureuses de
+D�idamie, � laquelle j'avais enfin c�d�, m'avaient distrait de l'ennui
+vague qui me tourmentait... Mais il faut que je vous la fasse conna�tre,
+en mani�re d'�pisode, avant de vous faire le r�cit de ma redoutable
+aventure. Figurez-vous qu'elle est phrygienne, n�e sur les bords du
+M�andre, et si cela ne vous �meut pas, du moins vous comprendrez mon
+�motion en retrouvant l'amour d'une fille de ma terre natale! Mais les
+Phrygiennes ont toujours �t� inconstantes: D�idamie est le type m�me du
+caprice. La charmante fille! Elle �tait la ma�tresse de la femme d'un
+archonte, elle-m�me fort belle, de la beaut� que les hommes ont donn�e �
+Pallas Ath�n�.
+
+�Tu aimes tes pareilles, � D�idamie aux yeux de violettes...�
+
+D�idamie aimait ses pareilles et ses non-pareils. Que les femmes sont
+privil�gi�es! Elles mettent de la gr�ce dans tous les amours. Diog�ne
+m'expliqua que c'est ainsi qu'elles d�sarment la morale, puissance
+redout�e parmi les hommes et dont le soin est d'emp�cher qu'ils ne
+prennent trop de plaisir � vivre. D�idamie m'a �t� enlev�e quand je
+l'aimais encore. C'est un bon moment pour perdre une femme. Les regrets
+se transforment en agr�ables souvenirs, la sati�t� vous est �vit�e.
+Diog�ne m'avait pr�dit que cela ne durerait gu�re et qu'habitu�e aux
+cajoleries f�minines, D�idamie, apr�s les premiers jours d'�tonnement
+heureux, se lasserait d'un �tre inexpert aux tendresses.
+
+--�Vous ne saurez pas, me disait-il, entretenir la flamme qui dort dans
+ses yeux doux. Votre soufflet de forge l'�teindra au lieu de l'animer.
+
+--�Je vous connais d�j�, Satyros. Vous exciterez toujours les curiosit�s
+et vous les d�cevrez toujours. Votre carri�re est le rapt, la surprise,
+l'�tourdissement.�
+
+J'avais envie de lui r�pondre qu'il y avait beaucoup de vrai dans ce
+jugement sur mon caract�re, mais je ne dis rien, m�ditant sur la sagesse
+de mon compagnon et sa perspicacit�. Cependant, je pensais � Cydalise,
+dont il ne connaissait pas l'histoire. Je la lui racontai et il fut
+surpris. Ayant r�fl�chi quelque peu, il me confessa qu'on avait beau
+conna�tre les femmes et en avoir class� les types dans son esprit, il
+s'en rencontrait toujours quelqu'une par qui les plus s�res th�ories
+�taient renvers�es.
+
+--�Ce que vous me dites, Satyros, ne me contrarie pas, puisque cela
+m'instruit. La science des hommes et des femmes est un compos�
+d'exceptions dont chacune est une r�gle. Aussi est-elle tr�s longue et
+tr�s difficile. Elle ressemble assez � la langue chinoise, dont les
+vieillards commencent � se rendre ma�tres apr�s soixante ans d'�tudes et
+quand ils n'ont plus ni la force ni le go�t de discourir. La vue
+s'affaiblit � observer les hommes et ce sont encore d'autres facult�s
+qui s'usent dans la fr�quentation des femmes, sans quoi d'ailleurs elles
+s'useraient �galement. Mais vous ne pouvez pas comprendre cela, vous qui
+f�tes p�tri d'une argile immortelle et sans d�faillance, et qui �tes
+l'image d'une jeunesse dont les illusions seraient des r�alit�s.�
+
+En disant cela, Diog�ne me consid�rait d'un air d'envie o� il y avait de
+l'amour, de cet air qu'ont les pauvres devant les s�billes pleines d'or,
+comme j'en ai vu dans la rue derri�re un grillage. Il reprit, comme
+sortant d'un songe:
+
+--�Etes-vous vraiment immortel, Satyros? Vos ma�tres et ceux des hommes,
+les grands dieux sont morts...
+
+--Le destin m'a oubli�, Diog�ne, et d'ailleurs je crois que j'ai des
+fr�res au fond de toutes les for�ts, dans les antres de toutes les
+montagnes, au creux de toutes les vall�es. Je ne les ai jamais vus, mais
+je les devine. Nous sommes les forces de la nature et si nous mourions,
+vous seriez condamn�s � mort.
+
+--C'est bien ce que nous sommes. Je crois que vous confondez
+l'immortalit� et la perp�tuit�.�
+
+Je ne r�pondis rien. Il m'est difficile d'entrer dans ces subtilit�s. La
+t�te me tourne. Il me semble que mes cornes poussent au travers de ma
+t�te. Cette fois il me consid�ra avec piti�:
+
+--�Hum! Satyros, me dit-il, en revenant � des discours plus sens�s,
+puisque Cydalise vous aime, pourquoi n'allez-vous pas la retrouver?
+
+--Et vous viendriez avec moi, Diog�ne?
+
+--Sans doute. Vous parliez du destin, puisqu'il a mis sur mon chemin un
+fils, ou m�me un petit-cousin des dieux immortels, croyez-vous que je
+puisse l'abandonner? Vous ne connaissez pas l'amiti�, Satyros. C'est la
+vertu des hommes.�
+
+L�-dessus, il me fit un long discours qui m'enchanta par la belle
+ordonnance cadenc�e de ses p�riodes. Je me crus transport� aux temps de
+mon enfance, je buvais son �loquence comme le lait de ma m�re. J'�tais
+�mu, je pleurais d'attendrissement et je haletais � demi noy� sous ces
+flots harmonieux. Je suis Grec et sensible aux d�lices de la rh�torique.
+Ah! s'il avait parl� en grec, je lui eusse offert de partager avec moi
+ma divinit�, mais je lui sus gr� de sa discr�tion et je l'embrassai. Ce
+fut le moment de nous jurer une amiti� �ternelle. Je passai le reste de
+la journ�e � me f�liciter du nouveau bonheur qui m'�tait �chu parmi les
+hommes. J'avais un ami, et sans bien comprendre les joies que cela
+devait m'apporter, je les tenais pour tr�s grandes et toutes pareilles �
+celles que Diog�ne m'avait peintes dans son discours aux nombreuses
+fleurs.
+
+D�s le lendemain, il vint demeurer avec moi. Il s'installa dans une
+chambre voisine que je fus heureux de lui offrir, comme il convient dans
+la vraie amiti�, et il ne manqua pas de tenir compagnie � la frugalit�
+de mes repas, dont il voulut bien se contenter. C'est alors qu'il me
+reparla de Cydalise, dont le portrait venait de surgir du fond de ses
+souvenirs. Je la lui d�peignis et il la reconnut tout de suite. Je me
+plaisais � ses entretiens. Parler d'elle la faisait revivre sous mes
+yeux et presque sous mes l�vres. Elle �tait plus pr�s de moi, chaque
+fois que je pronon�ais tout haut son nom et il me semblait que la porte
+allait s'ouvrir devant elle.
+
+Cydalise n'�tait pas revenue depuis pr�s d'un mois et elle ne m'avait
+�crit que des lettres assez �nigmatiques et qui ne me rassuraient qu'�
+demi. La derni�re �tait un billet si court que je le lus d'un regard,
+comme on boit d'une haleine l'eau qu'on a cueillie au creux de sa main.
+J'avais �t� distrait de mon inqui�tude par le caprice de D�idamie, mais
+maintenant que la petite Phrygienne �tait retourn�e dormir sur le sein
+de son amie, je pensais avec force � Cydalise. Diog�ne n'eut donc que
+peu de chose � faire pour me d�cider � l'aller rejoindre et, comme il
+devait m'�pargner tous les ennuis du voyage, notre d�part fut d�cid�, �
+la suite d'un nouveau discours qui me remua jusqu'au fond du coeur et
+eut raison de mes derni�res h�sitations. Nous f�mes nos pr�paratifs. Je
+n'oubliai pas le tr�sor dont j'avais la garde. Diog�ne s'en chargea.
+
+Vous saurez la suite.
+
+  Votre ami,
+
+  ANTIPHILOS.
+
+
+
+
+XII
+
+LA GRAPPE DE RAISIN
+
+
+  Monte-Carlo, 20 septembre.
+
+Nous part�mes donc. Diog�ne �tait de fort bonne humeur et moi un peu
+d�contenanc� par une d�cision aussi rapide, car il avait � peine eu mon
+consentement que, toutes affaires r�gl�es, nous �tions en route.
+
+--�Peut-�tre, disais-je, que Cydalise revient au moment m�me que je
+pars. Que va-t-elle penser de moi?�
+
+Mais Diog�ne avait l'air tr�s rassur�.
+
+--�Sans doute, elle monte peut-�tre en ce moment notre escalier, elle
+frappe, on ne r�pond pas, elle s'inqui�te, elle s'informe; c'est
+possible, puisque tout est possible. Mais Cydalise n'est pas une de ces
+personnes �tourdies qui arrivent � l'improviste chez leur amant, surtout
+lorsqu'un amant s'appelle Satyros. La vie lui a donn� quelque
+exp�rience. Croyez-moi, mon ami, soyons sans inqui�tude.�
+
+Comme je subis toujours la derni�re impression qui m'a frapp�, je me
+rangeai facilement � l'opinion de Diog�ne et je consid�rai le paysage
+qui avait encore toutes les richesses de l'�t�. Je croyais retrouver
+partout les aspects de Cogolin et l'odeur de ses orangers. Diog�ne avait
+beau m'avertir que nous en passions assez loin, je revoyais les bois des
+derniers jours de ma libert� et je m'exaltais comme s'ils allaient
+revenir.
+
+--�Descendons ici, disais-je � tout moment, je sens qu'un bonheur
+m'attend dans ces rochers. Une femme est venue l� pour moi, elle me
+cherche, elle croit m'apercevoir derri�re chaque touffe d'arbousiers.
+Vois, elle se retourne pleine d'espoir sur la terre rouge. Descendons,
+descendons!
+
+--Il y a longtemps que tu n'as vu les campagnes, Satyros, me r�pondait
+Diog�ne. La t�te te tourne. Que voudrais-tu que nous fassions parmi ce
+d�sert? Ce n'est qu'une couleur, ce n'est qu'une imagination.�
+
+Le train ralentit et Diog�ne dut m'arr�ter, comme je me pr�cipitais vers
+la porti�re. Elle s'ouvrit au m�me moment et deux femmes mont�rent dans
+notre bo�te o� nous avions �t� seuls jusqu'� ce moment. Diog�ne, d�s
+lors, n'eut plus besoin de me surveiller. Il tira de sa poche un journal
+et se mit � lire tranquillement, assur� que je ne chercherais plus �
+m'enfuir. Je me tins tranquille, en effet. Quoiqu'elles ne donnassent
+aucun plaisir � mes yeux, elles ne laissaient pas que d'occuper mon
+imagination. Je reconnaissais leur coiffure. Que de t�tes pareilles
+n'avais-je pas suivies jadis parmi les ombres de la nuit tombante, � la
+lisi�re des vignes! Elles n'�taient pas absolument laides et m�me leurs
+yeux avaient une certaine beaut�; mais quelle lourdeur, quelle disgr�ce
+de formes! Certainement j'en avais aim� plus d'une moins plaisante
+encore. C'�tait donc l� ces conqu�tes dont j'�tais si r�joui, ces fruits
+de la nature que j'avais d�vor�s, ces urnes de terre ou j'avais bu si
+fi�rement la volupt�! Ces grosses filles de Pomone portaient aux bras
+chacune deux paniers pleins de raisins, d'oranges et de l�gumes,
+qu'elles avaient pos�s pr�s d'elles, et comme je les regardais plus
+volontiers qu'elles-m�mes, l'une d'elles me dit de sa voix chantante:
+
+--�Vous mangeriez peut-�tre bien un grapillon de raisin?�
+
+J'avan�ai la main, et elle haussa gentiment vers mon geste son pesant
+panier. C'�tait la moins rustaude.
+
+--�Je ne puis, r�pondis-je, vous offrir qu'un baiser.�
+
+Elles se mirent � rire toutes les deux et l'autre dit d'un air
+engageant:
+
+--�Les paniers, c'est � nous deux.�
+
+Je l'embrassai sur la joue et l'autre au coin des l�vres. J'�tais
+redevenu faune; mes r�flexions d�daigneuses n'avaient pas tenu contre
+l'odeur souriante d'une mara�ch�re!
+
+Elles riaient si haut, pour dissimuler leur confusion, qu'elles ne
+s'�taient pas aper�ues qu'on �tait arriv� aux Arcs. Diog�ne, que la
+sc�ne avait diverti de son journal, en fit la remarque tout haut et les
+deux villageoises se h�t�rent de descendre. Comme je leur tendais leurs
+paniers, celle que j'avais effleur�e de mon d�sir me salua d'un sourire
+pendant que l'autre disait:
+
+--�On se reverra peut-�tre?�
+
+J'avais domin� mon �motion. Quand nous f�mes repartis, Diog�ne prof�ra
+sentencieusement ces mots que je fus une bonne minute � comprendre:
+
+--�Voil� ce que c'est que d'avoir fr�quent� les petites courtisanes de
+Toulon.�
+
+Il ajouta, voyant mon air �tonn�:
+
+--�Satyros s'�loigne de la nature. On en fera peut-�tre quelque chose.�
+
+La perspicacit� de Diog�ne me surprit et m'enchanta en m�me temps. Comme
+les deux propositions se rejoignaient bien et comme elles traduisaient
+bien mon propre sentiment! Mais que voulait dire le dernier mot: �On en
+fera peut-�tre quelque chose?� Ne suis-je donc rien, rien de s�rieux,
+rien de vrai?
+
+--�Diog�ne, r�pondis-je, j'entends votre premi�re pens�e, elle r�pond �
+la mienne; mais que vous proposez-vous de faire de moi? Ceci est obscur.
+
+--Un philosophe, Satyros, rien de plus, rien de moins, un philosophe
+comme moi-m�me, c'est-�-dire un homme qui n'est dupe de rien ou qui,
+quand il est dupe, le sait et jouit de sa duperie; c'est un �tat tr�s
+rare et qui surpasse celui m�me des Dieux, lesquels, si j'en juge par
+toi-m�me, sont fort ignorants et presque toujours � la merci des
+impressions du moment. J'ai �t� content de voir de quel oeil tu as
+consid�r� les deux rustaudes qui t'ont fait leurs meilleures agaceries.
+C'est le premier stade. Il faut savoir r�sister � ses passions. Le
+second est de leur c�der. Ni au-dessus ni au-dessous des faiblesses
+humaines, auxquelles les faiblesses divines ressemblent beaucoup, si
+j'en juge encore par toi-m�me, voil� une bonne position. Sois toujours �
+leur niveau, toujours pr�t � leur r�pondre, les yeux dans les yeux.
+
+--Si je les avais rencontr�es le long d'un sentier, dans la montagne,
+malgr� ma r�pulsion du premier moment, je n'aurais pas �t� ma�tre de mon
+d�sir.
+
+--C'est bien comme cela que j'entends le second stade, reprit Diog�ne,
+mais il en est un troisi�me, encore plus avantageux. C'est quand on
+s'aime assez soi-m�me, pour s'aimer plus que les d�sirs qui nous font
+sortir de notre �go�sme. Je m'achemine vers cet �tat, o� je ne crois pas
+que tu parviennes jamais, Satyros.
+
+--Je ne le crois pas non plus, Diog�ne. Si la nature des dieux ne
+s'�loigne gu�re de celle des hommes, elle en diff�re pourtant par un
+point essentiel, que leur �go�sme est si vaste que toute po�sie s'agr�ge
+aussit�t � sa substance, sans effort et par le jeu m�me du d�sir. Je
+m'enrichis l� o� tu t'appauvris, Diog�ne.�
+
+Ce fut � son tour de m�diter la profondeur de mes paroles. Il ne sut
+quoi r�pondre, sans doute, car je vis sur son visage de l'ennui et de la
+tristesse et peut-�tre de l'envie. Diog�ne n'est plus tr�s jeune, j'ai
+peur que sa philosophie ne soit une sorte de r�signation insouciante �
+la fatalit� qui p�se sur les hommes. Je m'aper�ois, les livres me l'ont
+d�j� enseign�, qu'il y a autant de philosophies qu'il y a d'�ges et de
+temp�raments. Il me l'a assez bien esquiss� par sa th�orie des trois
+stades; on d�sire r�sister � ses passions, quand elles sont si faibles
+qu'un peu d'attention suffit � les dominer. On y c�de, quand elles sont
+si puissantes que la lutte est douloureuse. On les d�daigne, du jour o�
+elles sont redevenues sans force, et on n'ose plus regretter le temps de
+leur pouvoir, de peur de para�tre avec l'attitude d'un vaincu. C'est le
+moment de la vertu. Selon que des jeunes hommes ou des vieillards, des
+d�biles ou des forts r�gissent la soci�t�, l'un ou l'autre esprit domine
+le monde. Et je crois bien qu'il en est ainsi de tous les penchants
+humains. Les Etats oscillent selon que l'action ou le r�ve sont le plus
+applaudis sur la sc�ne. Ah! je comprends pourquoi on rit dans l'Olympe.
+
+  ANTIPHILOS.
+
+
+
+
+XIII
+
+L'INCONNUE
+
+
+  Cannes, 1er d�cembre.
+
+Cher ami, je ne vous ai pas cont� ce qui nous advint � Monte-Carlo et
+c'est � peine si je m'en souviens maintenant. Dans le premier moment,
+cela me semblait consid�rable, mais je vois bien que les �v�nements
+n'ont gu�re d'int�r�t que dans leur nouveaut�: cela doit nous apprendre
+� les consid�rer avec philosophie au moment m�me qu'ils nous sont le
+plus douloureux. Il me semble bien que l'aventure arriv�e � Diog�ne, et
+qui nous atteignait tous les deux, aurait pu mal tourner, du moins il me
+l'a dit, mais mon insouciance ne s'y est pas arr�t�e longtemps et la vie
+m'a donn� raison.
+
+--�Heureux Antiphilos! disait Diog�ne, en me contemplant avec une
+admiration m�l�e de col�re, nous sommes perdus et il est calme comme un
+dieu! Es-tu capable au moins de me donner un conseil? Animal divin, sois
+oraculaire, sois dodonique, prof�re un nombre!�
+
+Il est probable que j'ob�is, car Diog�ne manifesta soudain un grand
+contentement et disparut, me laissant un peu effar� par ses mani�res sur
+un des bancs du jardin, � l'ombre ind�cise des palmiers. Je ne tardai
+pas � me remettre, car le lieu �tait propice � la paix. Des jeunes
+femmes passaient accompagn�es d'hommes v�n�rables et les m�mes pens�es
+certes n'habitaient pas leurs t�tes, car ils avaient des regards
+dissemblables. Celui des hommes �tait morne et celui des femmes �tait
+stupide, et quoique plusieurs d'entre elles fussent assez jolies, elles
+ne m'inspiraient aucun d�sir.
+
+D'ailleurs, je ne dispute jamais une femme � un m�le. Il n'y a que les
+b�liers, les boucs et taureaux qui entrem�lent leurs cornes et luttent
+pour la conqu�te des femelles. Moi, dont les moeurs sont pacifiques, je
+ne m'attaque jamais qu'aux femmes seules, c'est plus s�r. M�me, � moins
+que cela ne soit la nuit, autour des maisons, j'attends d'avoir vu dans
+leurs yeux la petite flamme provocatrice que ma pr�sence manque rarement
+d'allumer � leurs prunelles. Ainsi, je ne me mets pas en frais, � moins
+d'�tre s�r de plaire. Diog�ne m'a dit que les hommes ne sont pas ainsi
+et que ce qui les excite dans une femme, c'est sa froideur, souvent, non
+moins que les obstacles qui la prot�gent. Ils emploient dans leur
+langage � ce sujet toutes sortes d'images guerri�res qui font de leurs
+livres sur l'amour de v�ritables trait�s de strat�gie. Il y est question
+de si�ge, de stratag�mes, d'escarmouches, d'attaque, de d�faite, de
+r�sistance, de victoire, de conqu�te. Je ne comprends rien � tout cela.
+L'amour n'est rien, quand il n'est pas le jaillissement d'un double
+d�sir. Cependant, je ne serais pas digne du nom de Satyros si je
+n'admettais l'assaut et l'enl�vement, la surprise qui satisfait le d�sir
+endormi avant qu'il n'ait eu le temps de s'�veiller. Ce n'est peut-�tre
+pas le plus beau c�t� de ma nature, mais elle est telle que les dieux
+l'ont faite et d'ailleurs ni femmes ni filles ne s'en sont jamais
+plaintes. Il faut dire que j'ai tout � fait refr�n� ces mani�res, depuis
+que je vis dans les villes une vie pareille � celle des autres hommes.
+Si je n'ai pas encore compris que l'on assi�ge la femme, comme Alexandre
+assi�gea la ville de Tyr, c'est peut-�tre que je tiens plus encore �
+l'ing�nuit� de ses d�sirs qu'� une possession que, dans le syst�me
+strat�gique, on ne doit le plus souvent qu'� la lassitude de l'assi�g�e,
+� la science poliorc�tique de l'assi�geant.
+
+--�Satyros, cria tout � coup la voix de Diog�ne, Satyros! Tu es le vrai
+Dieu ou du moins un dieu v�ritable!�
+
+Et, plongeant une main dans sa poche, il la retira pleine d'or.
+
+--�Mais, soyons prudents, continua-t-il. Il ne faut plus interroger le
+destin. Il a fort bien r�pondu. Fuyons cette ville. Prends mon bras du
+c�t� de l'or et partons sans retourner la t�te.
+
+--Vous avez tort, monsieur, reprit une autre voix derri�re nous. On ne
+rompt pas ainsi sa veine...�
+
+C'�tait une fort jolie femme, non sans �l�gance ni sans distinction.
+Diog�ne l'apostropha avec emphase:
+
+--�Es-tu le dragon qui garde ces portes et qui doit reprendre aux
+mortels l'or que leur octroya le destin? Es-tu...
+
+--Je ne suis m�me pas un dragon de vertu, r�pondit la jeune femme, en
+souriant agr�ablement. Tu as raison. Il est temps d'aller d�jeuner. Je
+te montre le chemin.�
+
+D�j� elle prenait mon bras, et je me laissais faire innocemment, quand
+Diog�ne s'�lan�a:
+
+--�Laissez mon ami, je vous prie. Il ne d�sire pas vous suivre.�
+
+J'avais l'air d'un coll�gien que son grand fr�re arrache aux p�rils
+d'une aventure et je trouvais que Diog�ne prot�geait vraiment un peu
+trop ma vertu, car cette femme me plaisait d�cid�ment. J'ai vraiment
+honte de vous l'avouer, mais je luttai un instant encore contre mon
+d�sir, je me vis sur le point d'ob�ir � Diog�ne, mon bras allait se
+d�gager, je me sentais le fils docile de la civilisation la plus morne,
+de celle qui s'assied au bord de la route et qui regarde passer ses
+r�ves, sans oser leur mettre la main sur l'�paule. Mais elle tourna vers
+moi sa t�te blonde aux yeux clairs, nos regards se p�n�tr�rent et je me
+sentis soudain redevenir le faune des for�ts, le faune jovial et
+hennissant que peuvent vaincre les coups de fourche, mais non les
+raisonnements.
+
+J'eus un �clat de rire strident, par quoi je raillais mes h�sitations.
+Ma compagne en trembla et serra davantage mon bras. Elle m'emmena et je
+croyais l'emporter, tant je sentais d�j� ses membres palpiter sous mon
+effort.
+
+Quand Diog�ne nous rejoignit dans les chambres, dont il avait comme moi
+la clef, elle se recoiffait d�j� dans la glace en me regardant de coin
+et en murmurant:
+
+--�Quel homme! c'est prodigieux!�
+
+Il eut l'insolence de venir nous consid�rer, puis il haussa les �paules
+et dit:
+
+--�Autant celle-l� qu'une autre. Elle est d'ailleurs jolie, quoique
+dou�e de cheveux blonds. Satyros ne pouvait rester plus longtemps sage.
+D'ailleurs il faut bien �gayer la route. Nous allons loin, madame, et
+les caprices des dieux sont brefs. Je vous laisse, � moins que vous ne
+m'invitiez � partager votre repas.�
+
+La nymphe se recoiffait toujours. Je pensai que les femmes sont bien
+heureuses d'avoir � manier leur chevelure dans les circonstances
+d�licates. Moi, je ne savais que faire et je ne savais que dire.
+
+--�Quel repas? demanda la dame. Il est fini, ajouta-t-elle avec un joli
+rire. Du moins, je le crois.
+
+--Et vous �tes recoiff�e? fit Diog�ne.
+
+--Qui �tes-vous donc, vous? dit-elle, presque en col�re, qui venez vous
+m�ler...
+
+--Je suis, madame, le secr�taire de Satyros, et comme je crains qu'il ne
+connaisse pas bien les usages...
+
+--Je comprends. Vous me croyez v�nale? Je suis esclave de la vie, voil�
+tout. Je sais go�ter, sous ma cha�ne et selon sa longueur, les
+enchantements de la minute pr�sente et en accepter les d�boires.
+Laissez-moi avec mon ami d'une heure, afin que j'amasse sous mes
+paupi�res les larmes pour le moment o� il me quittera... Souvent, j'ai
+vu na�tre l'amour, dans les yeux qui me suivaient, mais je n'ai pas su
+comment faire cro�tre la fleur, comment au moins la garder fra�che comme
+une rose dans un verre d'eau. Quand mes amants s'en vont, ils �crasent
+la rose en ricanant, et la jettent � terre et la pi�tinent. As-tu, toi
+aussi, honte de ton plaisir?
+
+--Comme elle parle bien! dit Diog�ne, qui aime l'�loquence. Que j'aime
+cette joueuse de fl�te! Tu ne dis rien, Satyros?�
+
+Mais je parlai et elle resta.
+
+  ANTIPHILOS.
+
+
+
+
+XIV
+
+FUITE
+
+
+  Cannes.
+
+Mon cher ami, Diog�ne me dit que c'est l'usage entre civilis�s de se
+faire force compliments hypocrites quand arrivent les derniers jours de
+l'ann�e, mais cette coutume ne me convient pas pour plusieurs raisons.
+La premi�re est que je connais les saisons, mais non pas les ann�es, qui
+ont d�j� tomb� sur ma t�te en nombre tel que je devrais en �tre
+enseveli. Tant�t il fait chaud, tant�t il fait froid. Les saisons
+alternent et ne s'accumulent pas. La seconde, la troisi�me et les autres
+sont que j'ai un d�go�t profond des hommes et que je ne veux plus leur
+ressembler en rien. Je m'en vais, je retourne aux vieux bois sacr�s et
+au hasard des routes. J'ai retenu mon passage sur une nef qui regagne le
+pays de Th�ocrite, veuve des citrons qu'elle apporta. Diog�ne m'a
+repr�sent� que sans doute je serai tr�s malade, aussi que je ferai
+peut-�tre naufrage, mais je crois que c'est pour m'effrayer, et
+d'ailleurs j'aime mieux me livrer � tous les p�rils que de risquer de
+devenir � la fin un homme pareil � ce que vous �tes. Je m'en vais, je
+m'en vais! Rien ne me retiendra.
+
+Je fuis un mal affreux, qui diminue mes forces, qui brise mes jambes,
+qui pourrait faire blanchir mon poil. Diog�ne, qui en est atteint comme
+moi, moins peut-�tre, le supporte gaillardement, se moque de moi et me
+jure que c'est le lot commun des hommes et qu'il faut apprendre � vivre
+avec lui. J'en eus d�j� une crise, dont je vous fis part, je crois,
+mais, cette fois, c'est intol�rable. C'est l'ennui. Tout me semble
+inutile, je n'ai aucun d�sir et la vie est pour moi sans go�t. Diog�ne
+me dit que cette crise passera comme la premi�re, mais elle est beaucoup
+plus forte et j'y succombe. Je sens que seule la solitude peut me gu�rir
+et il faut que je mette � la chercher la derni�re �nergie qui me reste
+encore.
+
+Cydalise m'a d�cid�ment oubli�. Cela m'a fait du chagrin, et voil� d�j�
+un mauvais sentiment et dont j'ai honte. Diog�ne le trouvait honorable,
+mais je ne suis pas (heureusement) construit comme vous et elle me fait
+horreur, l'id�e qu'une femme aurait pu me r�duire en esclavage au point
+de me rendre son oubli douloureux. Le pis, c'est qu'il y a une partie de
+moi-m�me qui pense comme Diog�ne. Il est all� faire un tour � Toulon.
+Elle n'est revenue � aucun moment. Elle n'a pas �crit. Enfin il a su par
+une de ses camarades qu'elle n'�tait jamais all�e � Turin; elle ajoutait
+que nous aurions peut-�tre de ses nouvelles un jour ou l'autre. Je
+voudrais ne jamais plus conna�tre que des femmes sans nom, comme celle
+que je ramassai dans les jardins de Monte-Carlo. Il ne faut pas qu'un
+�tre sorte de sa nature. Celles-l� me conviennent, qui viennent men�es
+par le hasard, et qui passent.
+
+Je m'en vais! Il y a tout de m�me une consolation dans ces syllabes que
+je r�p�te souvent, et qui me mesurent mes derniers jours parmi les
+hommes. Diog�ne ne cherche pas beaucoup � me retenir. Il voit mon
+abattement et a renonc� � le vaincre. D'ailleurs, je crois qu'il a la
+nostalgie de sa vie libidineuse; le voyage de Toulon a r�veill� ses
+souvenirs. Je le regretterai peut-�tre. Il n'ignore rien des moeurs des
+femmes de son pays et moi, qui en ignore presque tout, j'aimais ses
+discours amers et pourtant pleins de jovialit�:
+
+--�Tu nous reviendras, Satyros, quand la solitude, ou plut�t la
+barbarie, aura retremp� ton coeur. Tu as encore bien des exp�riences �
+faire parmi nous, je veux dire parmi les femmes qui aiment l'amour, et
+c'est toutes, si on compte celles qui le fuient parce qu'elles croient
+en avoir peur. Tu n'as connu que celles qui se jettent � la t�te des
+hommes, mais il y a celles qu'il faut conqu�rir. C'est l'infini,
+Satyros. C'est notre infini � nous et g�n�ralement notre tombeau. Nous y
+descendons, en r�vant encore � l'�nigme de leur sourire dont on ne saura
+jamais s'il est une propri�t� naturelle ou une condescendance de leur
+visage. Tu ne peux pas comprendre cela, je le crains, Satyros, mais, ces
+femmes-l�, on les aime en proportion de ce que l'on doute de leur amour,
+dont on n'est jamais s�r. Elles ne sont jamais tout � fait conquises, et
+c'est ce qui donne tant de prix � leurs moindres faveurs. C'est un monde
+bien diff�rent. Tu n'en as point la moindre id�e, Satyros. Tu en es
+rest� � Phryn�, chez laquelle on avait toujours acc�s, pr�c�d� d'un sac
+d'or...
+
+--L'or, qu'est-ce que c'est que �a?
+
+--Ou d'une belle r�putation faunesque.
+
+--A la bonne heure!
+
+--Je ne dis pas que ce dernier m�rite, qui est le tien, ne puisse encore
+t'ouvrir quelques coeurs o� l'orgueil n'a pas tu� la curiosit�, mais il
+faut aussi pour cela une qualit� de diplomatie qui ne t'appartient pas
+encore.
+
+--Cela m'ennuie d'avance!
+
+--Tu ne peux pas savoir. Ah! Satyros, malgr� ta petite aventure avec
+Cydalise, tu es d'une belle ignorance sentimentale. Que d'�chelons tu as
+encore � monter, ou peut-�tre � descendre, pour �tre au niveau de la
+belle humanit� d�licate!
+
+--A descendre, Diog�ne, � descendre. Mais je ne d�sire plus ressembler
+aux hommes. Je d�sire m'en aller.
+
+--Tu le diras aussi quand tu seras tout seul avec tes fr�res les arbres
+et les ombres fuyantes de tes d�sirs. Patience! Tu reviendras. Et pour
+cela il faut partir. La nostalgie est le commencement de la vie
+spirituelle. L'ennui est la noblesse de l'�me.
+
+--J'aurais plut�t cru que ce f�t la joie.
+
+--Non, une �me joyeuse ne sera jamais tout � fait distingu�e. Si tu fais
+des cabrioles, au moins que cela soit avec m�lancolie. Regarde-moi bien.
+L'infini commence � poindre dans tes yeux. Satyros, je crois d�couvrir
+en toi un Faune chr�tien � son aurore.
+
+--Je sens obscur�ment, Diog�ne, que tu me railles. N'importe, je te
+regretterai peut-�tre.
+
+--Je l'esp�re bien. Mais je ne te raille pas. Je constate qu'une
+certaine tristesse t'a touch� le coeur. Si tu restais, tu serais bient�t
+malheureux avec d�lices. En effet, cet �tat ne convient pas � un dieu.
+C'est bon pour nous, c'est bon pour moi qui n'ai plus que ce moyen de
+vivre les derni�res ann�es de ma pauvre vie. Elle m'�chappe et je ne la
+retiens qu'en feignant l'indiff�rence, car il y a une ironie dans les
+choses et elles aiment la malice de la contradiction. Mais moi je sais
+que j'ai encore de l'amour pour elles et que cet amour est inutile.
+Alors tu vois ce qui se passe en moi?
+
+--Je ne le vois nullement, mon cher Diog�ne, malgr� toute mon
+application, mais je d�sire que tu sois heureux et qu'Er�be te soit
+favorable.
+
+--C'est entendu. Adieu. Je retourne � ma turpitude.�
+
+Ah! je ne comprendrai jamais les hommes! Mais mon bateau part demain au
+lever du jour et je dois aller coucher � bord. Je ne sais si j'aurai
+encore l'occasion ni m�me le d�sir de vous �crire.
+
+  Votre ami,
+
+  ANTIPHILOS.
+
+
+
+
+FAC-SIMIL� DU MANUSCRIT DE l'AUTEUR
+
+
+[Fac-simil� du manuscrit de la lettre 9, sur 9 pages.]
+
+
+
+
+TABLE
+
+DES LETTRES D'UN SATYRE
+
+
+  _A L'Amazone_                             7
+
+  I.     Apparition                        23
+  II.    La Fosca                          38
+  III.   L'apr�s-midi d'un Faune           51
+  IV.    Cydalise                          63
+  V.     M�tamorphose                      73
+  VI.    La Cellule                        83
+  VII.   Le Satyre! Le Satyre!             93
+  VIII.  L'eau de fenouil                 105
+  IX.    Er�be                            118
+  X.     Diog�ne                          126
+  XI.    D�idamie                         141
+  XII.   La grappe de raisin              153
+  XIII.  L'Inconnue                       165
+  XIV.   Fuite                            177
+
+  _Fac-simil� du manuscrit de l'auteur_   187
+
+
+
+
+CE LIVRE, LE VINGTI�ME DE LA COLLECTION DES MAITRES DU LIVRE, A �T�
+�TABLI PAR AD. VAN BEVER. TIR� A MILLE SOIXANTE EXEMPLAIRES; SOIT: 5
+EXEMPLAIRES SUR VIEUX JAPON IMP�RIAL, NUM�ROT�S DE 1 A 5; 5 EXEMPLAIRES
+SUR CHINE, NUM�ROT�S DE 6 A 10; 50 EXEMPLAIRES SUR JAPON IMP�RIAL (DONT
+8 HORS-COMMERCE), NUM�ROT�S DE 11 A 52 ET DE 53 A 60; ET 1000
+EXEMPLAIRES SUR PAPIER DES MANUFACTURES DE RIVES (DONT 50
+HORS-COMMERCE), NUM�ROT�S DE 61 A 1010 ET DE 1011 A 1060, LE PR�SENT
+OUVRAGE A �T� ACHEV� D'IMPRIMER PAR PAUL H�RISSET, A �VREUX, LE 10
+F�VRIER MCMXIII. LES ORNEMENTS TYPOGRAPHIQUES ONT �T� DESSIN�S ET GRAV�S
+SUR BOIS PAR PIERRE-EUG�NE VIBERT.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Lettres d'un satyre, by Remy de Gourmont
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LETTRES D'UN SATYRE ***
+
+***** This file should be named 58309-8.txt or 58309-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/8/3/0/58309/
+
+Produced by Thanks to Carlo Traverso, Laurent Vogel and
+the Distributed Proofreading team at DP-test Italia. (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

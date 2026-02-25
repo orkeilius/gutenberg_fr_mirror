@@ -1,3 +1,3763 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9301f865186b38061de36399fa90bffe3c6737db3809b9964866f8b6749f1a0
-size 164205
+*** START OF THE PROJECT GUTENBERG EBOOK 55456 ***
+
+  Au lecteur
+
+  Cette version Ã©lectronique reproduit dans son intÃ©gralitÃ©
+  la version originale.
+
+  La ponctuation n'a pas Ã©tÃ© modifiÃ©e hormis quelques corrections
+  mineures.
+
+  L'orthographe a Ã©tÃ© conservÃ©e. Seuls quelques mots ont Ã©tÃ© modifiÃ©s.
+  La liste des modifications se trouve Ã  la fin du texte.
+
+
+
+
+  AVENTURES D'ALICE
+
+  AU
+
+  PAYS DES MERVEILLES.
+
+
+
+
+  AVENTURES D'ALICE
+
+  _AU PAYS DES MERVEILLES_.
+
+
+  PAR
+
+  LEWIS CARROLL.
+
+
+  TRADUIT DE L'ANGLAIS PAR HENRI BUÃ.
+
+
+  _OUVRAGE ILLUSTRÃ DE 42 VIGNETTES PAR
+  JOHN TENNIEL._
+
+
+  Londres:
+
+  MACMILLAN AND CO.
+
+  1869.
+
+
+  [_Le Droit de Traduction et de Reproduction est rÃ©servÃ©._]
+
+
+
+
+[L'Auteur dÃ©sire exprimer ici sa reconnaissance envers le Traducteur
+de ce qu'il a remplacÃ© par des parodies de sa composition quelques
+parodies de morceaux de poÃ©sie anglais, qui n'avaient de valeur que
+pour des enfants anglais; et aussi, de ce qu'il a su donner en jeux
+de mots franÃ§ais les Ã©quivalents des jeux de mots anglais, dont la
+traduction n'Ã©tait pas possible.]
+
+
+LONDRES.--IMPRIMERIE DE R. CLAY, FILS, ET TAYLOR, BREAD STREET HILL.
+
+
+
+
+  Notre barque glisse sur l'onde
+  Que dorent de brÃ»lants rayons;
+  Sa marche lente et vagabonde
+  TÃ©moigne que des bras mignons,
+  Pleins d'ardeur, mais encore novices,
+  Tout fiers de ce nouveau travail,
+  MÃ¨nent au grÃ© de leurs caprices
+  Les rames et le gouvernail.
+
+  Soudain trois cris se font entendre,
+  Cris funestes Ã  la langueur
+  Dont je ne pouvais me dÃ©fendre
+  Par ce temps chaud, qui rend rÃªveur.
+  "Un conte! Un conte!" disent-elles
+  Toutes d'une commune voix.
+  Il fallait cÃ©der aux cruelles;
+  Que pouvais-je, hÃ©las! contre trois?
+
+  La premiÃ¨re, d'un ton suprÃªme,
+  Donne l'ordre de commencer.
+  La seconde, la douceur mÃªme,
+  Se contente de demander
+  Des choses Ã  ne pas y croire.
+  Nous ne fÃ»mes interrompus
+  Par la troisiÃ¨me, c'est notoire,
+  Qu'une fois par minute, au plus.
+
+  Puis, muettes, prÃªtant l'oreille
+  Au conte de l'enfant rÃªveur,
+  Qui va de merveille en merveille
+  Causant avec l'oiseau causeur;
+  Leur esprit suit la fantaisie
+  OÃ¹ se laisse aller le conteur.
+  Et la vÃ©ritÃ© tÃ´t oublie
+  Pour se confier Ã  l'erreur.
+
+  Le conteur (espoir chimÃ©rique!)
+  Cherche, se sentant Ã©puisÃ©,
+  A briser le pouvoir magique
+  Du charme qu'il a composÃ©,
+  Et "TantÃ´t" voudrait de ce rÃªve
+  Finir le rÃ©cit commencÃ©:
+  "Non, non, c'est tantÃ´t! pas de trÃªve!"
+  Est le jugement prononcÃ©.
+
+  Ainsi du pays des merveilles
+  Se racontÃ¨rent lentement
+  Les aventures sans pareilles,
+  Incident aprÃ¨s incident.
+  Alors vers le prochain rivage
+  OÃ¹ nous devions tous dÃ©barquer
+  Rama le joyeux Ã©quipage;
+  La nuit commenÃ§ait Ã  tomber.
+
+  Douce Alice, acceptez l'offrande
+  De ces gais rÃ©cits enfantins,
+  Et tressez-en une guirlande,
+  Comme on voit faire aux pÃ¨lerins
+  De ces fleurs qu'ils ont recueillies,
+  Et que plus tard, dans l'avenir,
+  Bien qu'elles soient, hÃ©las! flÃ©tries,
+  Ils chÃ©rissent en souvenir.
+
+
+
+
+  TABLE.
+
+
+  CHAPITRE.                                 PAGE.
+
+     I. AU FOND DU TERRIER.                     1
+
+    II. LA MARE AUX LARMES.                    15
+
+   III. LA COURSE COCASSE.                     29
+
+    IV. L'HABITATION DU LAPIN BLANC.           41
+
+     V. CONSEILS D'UNE CHENILLE.               60
+
+    VI. PORC ET POIVRE.                        78
+
+   VII. UN THÃ DE FOUS.                        98
+
+  VIII. LE CROQUET DE LA REINE.               115
+
+    IX. HISTOIRE DE LA FAUSSE-TORTUE.         133
+
+     X. LE QUADRILLE DE HOMARDS.              151
+
+    XI. QUI A VOLÃ LES TARTES?                164
+
+   XII. DÃPOSITION D'ALICE.                   179
+
+
+
+
+[Illustration]
+
+CHAPITRE PREMIER.
+
+AU FOND DU TERRIER.
+
+
+ALICE, assise auprÃ¨s de sa sÅur sur le gazon, commenÃ§ait Ã  s'ennuyer
+de rester lÃ  Ã  ne rien faire; une ou deux fois elle avait jetÃ© les
+yeux sur le livre que lisait sa sÅur; mais quoi! pas d'images, pas de
+dialogues! "La belle avance," pensait Alice, "qu'un livre sans images,
+sans causeries!".
+
+Elle s'Ã©tait mise Ã  rÃ©flÃ©chir, (tant bien que mal, car la chaleur du
+jour l'endormait et la rendait lourde,) se demandant si le plaisir de
+faire une couronne de marguerites valait bien la peine de se lever et
+de cueillir les fleurs, quand tout Ã  coup un lapin blanc aux yeux roses
+passa prÃ¨s d'elle.
+
+Il n'y avait rien lÃ  de bien Ã©tonnant, et Alice ne trouva mÃªme pas
+trÃ¨s-extraordinaire d'entendre parler le Lapin qui se disait: "Ah!
+j'arriverai trop tard!" (En y songeant aprÃ¨s, il lui sembla bien
+qu'elle aurait dÃ» s'en Ã©tonner, mais sur le moment cela lui avait paru
+tout naturel.) Cependant, quand le Lapin vint Ã  tirer une montre de
+son gousset, la regarda, puis se prit Ã  courir de plus belle, Alice
+sauta sur ses pieds, frappÃ©e de cette idÃ©e que jamais elle n'avait vu
+de lapin avec un gousset et une montre. EntraÃ®nÃ©e par la curiositÃ© elle
+s'Ã©lanÃ§a sur ses traces Ã  travers le champ, et arriva tout juste Ã 
+temps pour le voir disparaÃ®tre dans un large trou au pied d'une haie.
+
+Un instant aprÃ¨s, Alice Ã©tait Ã  la poursuite du Lapin dans le terrier,
+sans songer comment elle en sortirait.
+
+Pendant un bout de chemin le trou allait tout droit comme un tunnel,
+puis tout Ã  coup il plongeait perpendiculairement d'une faÃ§on si
+brusque qu'Alice se sentit tomber comme dans un puits d'une grande
+profondeur, avant mÃªme d'avoir pensÃ© Ã  se retenir.
+
+De deux choses l'une, ou le puits Ã©tait vraiment bien profond, ou elle
+tombait bien doucement; car elle eut tout le loisir, dans sa chute, de
+regarder autour d'elle et de se demander avec Ã©tonnement ce qu'elle
+allait devenir. D'abord elle regarda dans le fond du trou pour savoir
+oÃ¹ elle allait; mais il y faisait bien trop sombre pour y rien voir.
+Ensuite elle porta les yeux sur les parois du puits, et s'aperÃ§ut
+qu'elles Ã©taient garnies d'armoires et d'Ã©tagÃ¨res; Ã§Ã  et lÃ , elle vit
+pendues Ã  des clous des cartes gÃ©ographiques et des images. En passant
+elle prit sur un rayon un pot de confiture portant cette Ã©tiquette,
+"MARMELADE D'ORANGES." Mais, Ã  son grand regret, le pot Ã©tait vide:
+elle n'osait le laisser tomber dans la crainte de tuer quelqu'un; aussi
+s'arrangea-t-elle de maniÃ¨re Ã  le dÃ©poser en passant dans une des
+armoires.
+
+"Certes," dit Alice, "aprÃ¨s une chute pareille je ne me moquerai pas
+mal de dÃ©gringoler l'escalier! Comme ils vont me trouver brave chez
+nous! Je tomberais du haut des toits que je ne ferais pas entendre une
+plainte." (Ce qui Ã©tait bien probable.)
+
+Tombe, tombe, tombe! "Cette chute n'en finira donc pas! Je suis
+curieuse de savoir combien de milles j'ai dÃ©jÃ  faits," dit-elle tout
+haut. "Je dois Ãªtre bien prÃ¨s du centre de la terre. Voyons donc, cela
+serait Ã  quatre mille milles de profondeur, il me semble." (Comme vous
+voyez, Alice avait appris pas mal de choses dans ses leÃ§ons; et bien
+que ce ne fÃ»t pas lÃ  une trÃ¨s-bonne occasion de faire parade de son
+savoir, vu qu'il n'y avait point d'auditeur, cependant c'Ã©tait un bon
+exercice que de rÃ©pÃ©ter sa leÃ§on.) "Oui, c'est bien Ã  peu prÃ¨s cela;
+mais alors Ã  quel degrÃ© de latitude ou de longitude est-ce que je me
+trouve?" (Alice n'avait pas la moindre idÃ©e de ce que voulait dire
+latitude ou longitude, mais ces grands mots lui paraissaient beaux et
+sonores.)
+
+BientÃ´t elle reprit: "Si j'allais traverser complÃ©tement la terre?
+Comme Ã§a serait drÃ´le de se trouver au milieu de gens qui marchent
+la tÃªte en bas. Aux Antipathies, je crois." (Elle n'Ã©tait pas fÃ¢chÃ©e
+cette fois qu'il n'y eÃ»t personne lÃ  pour l'entendre, car ce mot ne
+lui faisait pas l'effet d'Ãªtre bien juste.) "Eh mais, j'aurai Ã  leur
+demander le nom du pays.--Pardon, Madame, est-ce ici la Nouvelle-Zemble
+ou l'Australie?"--En mÃªme temps elle essaya de faire la rÃ©vÃ©rence.
+(Quelle idÃ©e! Faire la rÃ©vÃ©rence en l'air! Dites-moi un peu, comment
+vous y prendriez-vous?) "'Quelle petite ignorante!' pensera la dame
+quand je lui ferai cette question. Non, il ne faut pas demander cela;
+peut-Ãªtre le verrai-je Ã©crit quelque part."
+
+Tombe, tombe, tombe!--Donc Alice, faute d'avoir rien de mieux Ã 
+faire, se remit Ã  se parler: "Dinah remarquera mon absence ce soir,
+bien sÃ»r." (Dinah c'Ã©tait son chat.) "Pourvu qu'on n'oublie pas de
+lui donner sa jatte de lait Ã  l'heure du thÃ©. Dinah, ma minette, que
+n'es-tu ici avec moi? Il n'y a pas de souris dans les airs, j'en
+ai bien peur; mais tu pourrais attraper une chauve-souris, et cela
+ressemble beaucoup Ã  une souris, tu sais. Mais les chats mangent-ils
+les chauves-souris?" Ici le sommeil commenÃ§a Ã  gagner Alice. Elle
+rÃ©pÃ©tait, Ã  moitiÃ© endormie: "Les chats mangent-ils les chauves-souris?
+Les chats mangent-ils les chauves-souris?" Et quelquefois: "Les
+chauves-souris mangent-elles les chats?" Car vous comprenez bien
+que, puisqu'elle ne pouvait rÃ©pondre ni Ã  l'une ni Ã  l'autre de ces
+questions, peu importait la maniÃ¨re de les poser. Elle s'assoupissait
+et commenÃ§ait Ã  rÃªver qu'elle se promenait tenant Dinah par la main,
+lui disant trÃ¨s-sÃ©rieusement: "Voyons, Dinah, dis-moi la vÃ©ritÃ©, as-tu
+jamais mangÃ© des chauves-souris?" Quand tout Ã  coup, pouf! la voilÃ 
+Ã©tendue sur un tas de fagots et de feuilles sÃ¨ches,--et elle a fini de
+tomber.
+
+Alice ne s'Ã©tait pas fait le moindre mal. Vite elle se remet sur ses
+pieds et regarde en l'air; mais tout est noir lÃ -haut. Elle voit devant
+elle un long passage et le Lapin Blanc qui court Ã  toutes jambes. Il
+n'y a pas un instant Ã  perdre; Alice part comme le vent et arrive tout
+juste Ã  temps pour entendre le Lapin dire, tandis qu'il tourne le coin:
+"Par ma moustache et mes oreilles, comme il se fait tard!" Elle n'en
+Ã©tait plus qu'Ã  deux pas: mais le coin tournÃ©, le Lapin avait disparu.
+Elle se trouva alors dans une salle longue et basse, Ã©clairÃ©e par une
+rangÃ©e de lampes pendues au plafond.
+
+Il y avait des portes tout autour de la salle: ces portes Ã©taient
+toutes fermÃ©es, et, aprÃ¨s avoir vainement tentÃ© d'ouvrir celles du cÃ´tÃ©
+droit, puis celles du cÃ´tÃ© gauche, Alice se promena tristement au beau
+milieu de cette salle, se demandant comment elle en sortirait.
+
+[Illustration]
+
+Tout Ã  coup elle rencontra sur son passage une petite table Ã  trois
+pieds, en verre massif, et rien dessus qu'une toute petite clef d'or.
+Alice pensa aussitÃ´t que ce pouvait Ãªtre celle d'une des portes; mais
+hÃ©las! soit que les serrures fussent trop grandes, soit que la clef fÃ»t
+trop petite, elle ne put toujours en ouvrir aucune. Cependant, ayant
+fait un second tour, elle aperÃ§ut un rideau placÃ© trÃ¨s-bas et qu'elle
+n'avait pas vu d'abord; par derriÃ¨re se trouvait encore une petite
+porte Ã  peu prÃ¨s quinze pouces de haut; elle essaya la petite clef
+d'or Ã  la serrure, et, Ã  sa grande joie, il se trouva qu'elle y allait
+Ã  merveille. Alice ouvrit la porte, et vit qu'elle conduisait dans un
+Ã©troit passage Ã  peine plus large qu'un trou Ã  rat. Elle s'agenouilla,
+et, jetant les yeux le long du passage, dÃ©couvrit le plus ravissant
+jardin du monde. Oh! Qu'il lui tardait de sortir de cette salle
+tÃ©nÃ©breuse et d'errer au milieu de ces carrÃ©s de fleurs brillantes, de
+ces fraÃ®ches fontaines! Mais sa tÃªte ne pouvait mÃªme pas passer par
+la porte. "Et quand mÃªme ma tÃªte y passerait," pensait Alice, "Ã  quoi
+cela servirait-il sans mes Ã©paules? Oh! que je voudrais donc avoir la
+facultÃ© de me fermer comme un tÃ©lescope! Ãa se pourrait peut-Ãªtre, si
+je savais comment m'y prendre." Il lui Ã©tait dÃ©jÃ  arrivÃ© tant de choses
+extraordinaires, qu'Alice commenÃ§ait Ã  croire qu'il n'y en avait guÃ¨re
+d'impossibles.
+
+Comme cela n'avanÃ§ait Ã  rien de passer son temps Ã  attendre Ã  la
+petite porte, elle retourna vers la table, espÃ©rant presque y trouver
+une autre clef, ou tout au moins quelque grimoire donnant les rÃ¨gles
+Ã  suivre pour se fermer comme un tÃ©lescope. Cette fois elle trouva
+sur la table une petite bouteille (qui certes n'Ã©tait pas lÃ  tout Ã 
+l'heure). Au cou de cette petite bouteille Ã©tait attachÃ©e une Ã©tiquette
+en papier, avec ces mots "BUVEZ-MOI" admirablement imprimÃ©s en grosses
+lettres.
+
+[Illustration]
+
+C'est bien facile Ã  dire "_Buvez-moi_" mais Alice Ã©tait trop fine
+pour obÃ©ir Ã  l'aveuglette. "Examinons d'abord," dit-elle, "et
+voyons s'il y a Ã©crit dessus '_Poison_' ou non." Car elle avait lu
+dans de jolis petits contes, que des enfants avaient Ã©tÃ© brÃ»lÃ©s,
+dÃ©vorÃ©s par des bÃªtes fÃ©roces, et qu'il leur Ã©tait arrivÃ© d'autres
+choses trÃ¨s-dÃ©sagrÃ©ables, tout cela pour ne s'Ãªtre pas souvenus
+des instructions bien simples que leur donnaient leurs parents:
+par exemple, que le tisonnier chauffÃ© Ã  blanc brÃ»le les mains qui
+le tiennent trop longtemps; que si on se fait au doigt une coupure
+profonde, il saigne d'ordinaire; et elle n'avait point oubliÃ© que si
+l'on boit immodÃ©rÃ©ment d'une bouteille marquÃ©e "_Poison_" cela ne
+manque pas de brouiller le cÅur tÃ´t ou tard.
+
+Cependant, comme cette bouteille n'Ã©tait pas marquÃ©e "_Poison_," Alice
+se hasarda Ã  en goÃ»ter le contenu, et le trouvant fort bon, (au fait
+c'Ã©tait comme un mÃ©lange de tarte aux cerises, de crÃ¨me, d'ananas, de
+dinde truffÃ©e, de nougat, et de rÃ´ties au beurre,) elle eut bientÃ´t
+tout avalÃ©.
+
+              *         *         *         *         *
+
+                   *         *         *         *
+
+              *         *         *         *         *
+
+"Je me sens toute drÃ´le," dit Alice, "on dirait que je rentre en
+moi-mÃªme et que je me ferme comme un tÃ©lescope." C'est bien ce qui
+arrivait en effet. Elle n'avait plus que dix pouces de haut, et
+un Ã©clair de joie passa sur son visage Ã  la pensÃ©e qu'elle Ã©tait
+maintenant de la grandeur voulue pour pÃ©nÃ©trer par la petite porte dans
+ce beau jardin. Elle attendit pourtant quelques minutes, pour voir
+si elle allait rapetisser encore. Cela lui faisait bien un peu peur.
+"Songez donc," se disait Alice, "je pourrais bien finir par m'Ã©teindre
+comme une chandelle. Que deviendrais-je alors?" Et elle cherchait Ã 
+s'imaginer l'air que pouvait avoir la flamme d'une chandelle Ã©teinte,
+car elle ne se rappelait pas avoir jamais rien vu de la sorte.
+
+Un moment aprÃ¨s, voyant qu'il ne se passait plus rien, elle se dÃ©cida
+Ã  aller de suite au jardin; mais hÃ©las, pauvre Alice! en arrivant Ã 
+la porte, elle s'aperÃ§ut qu'elle avait oubliÃ© la petite clef d'or.
+Elle revint sur ses pas pour la prendre sur la table. Bah! impossible
+d'atteindre Ã  la clef qu'elle voyait bien clairement Ã  travers le
+verre. Elle fit alors tout son possible pour grimper le long d'un des
+pieds de la table, mais il Ã©tait trop glissant; et enfin, Ã©puisÃ©e de
+fatigue, la pauvre enfant s'assit et pleura.
+
+"Allons, Ã  quoi bon pleurer ainsi," se dit Alice vivement. "Je vous
+conseille, Mademoiselle, de cesser tout de suite!" Elle avait pour
+habitude de se donner de trÃ¨s-bons conseils (bien qu'elle les suivÃ®t
+rarement), et quelquefois elle se grondait si fort que les larmes lui
+en venaient aux yeux; une fois mÃªme elle s'Ã©tait donnÃ© des tapes pour
+avoir trichÃ© dans une partie de croquet qu'elle jouait toute seule; car
+cette Ã©trange enfant aimait beaucoup Ã  faire deux personnages. "Mais,"
+pensa la pauvre Alice, "il n'y a plus moyen de faire deux personnages,
+Ã  prÃ©sent qu'il me reste Ã  peine de quoi en faire un."
+
+Elle aperÃ§ut alors une petite boÃ®te en verre qui Ã©tait sous la
+table, l'ouvrit et y trouva un tout petit gÃ¢teau sur lequel les mots
+"MANGEZ-MOI" Ã©taient admirablement tracÃ©s avec des raisins de Corinthe.
+"Tiens, je vais le manger," dit Alice: "si cela me fait grandir, je
+pourrai atteindre Ã  la clef; si cela me fait rapetisser, je pourrai
+ramper sous la porte; d'une faÃ§on ou de l'autre, je pÃ©nÃ©trerai dans le
+jardin, et alors, arrive que pourra!"
+
+Elle mangea donc un petit morceau du gÃ¢teau, et, portant sa main sur sa
+tÃªte, elle se dit tout inquiÃ¨te: "Lequel est-ce? Lequel est-ce?" Elle
+voulait savoir si elle grandissait ou rapetissait, et fut tout Ã©tonnÃ©e
+de rester la mÃªme; franchement, c'est ce qui arrive le plus souvent
+lorsqu'on mange du gÃ¢teau; mais Alice avait tellement pris l'habitude
+de s'attendre Ã  des choses extraordinaires, que cela lui paraissait
+ennuyeux et stupide de vivre comme tout le monde.
+
+Aussi elle se remit Ã  l'Åuvre, et eut bien vite fait disparaÃ®tre le
+gÃ¢teau.
+
+              *         *         *         *         *
+
+                   *         *         *         *
+
+              *         *         *         *         *
+
+
+
+
+CHAPITRE II.
+
+LA MARE AUX LARMES.
+
+
+[Illustration]
+
+"DE plus trÃ¨s-curieux en plus trÃ¨s-curieux!" s'Ã©cria Alice (sa surprise
+Ã©tait si grande qu'elle ne pouvait s'exprimer correctement): "VoilÃ  que
+je m'allonge comme le plus grand tÃ©lescope qui fÃ»t jamais! Adieu mes
+pieds!" (Elle venait de baisser les yeux, et ses pieds lui semblaient
+s'Ã©loigner Ã  perte de vue.) "Oh! mes pauvres petits pieds! Qui vous
+mettra vos bas et vos souliers maintenant, mes mignons? Quant Ã 
+moi, je ne le pourrai certainement pas! Je serai bien trop loin pour
+m'occuper de vous: arrangez-vous du mieux que vous pourrez.--Il faut
+cependant que je sois bonne pour eux," pensa Alice, "sans cela ils
+refuseront peut-Ãªtre d'aller du cÃ´tÃ© que je voudrai. Ah! je sais ce que
+je ferai: je leur donnerai une belle paire de bottines Ã  NoÃ«l."
+
+Puis elle chercha dans son esprit comment elle s'y prendrait. "Il
+faudra les envoyer par le messager," pensa-t-elle; "quelle Ã©trange
+chose d'envoyer des prÃ©sents Ã  ses pieds! Et l'adresse donc! C'est cela
+qui sera drÃ´le.
+
+  _A Monsieur LepiÃ©droit d'Alice,
+
+  Tapis du foyer,
+
+  PrÃ¨s le garde-feu.
+
+  (De la part de Mlle Alice.)_
+
+
+Oh! que d'enfantillages je dis lÃ !"
+
+Au mÃªme instant, sa tÃªte heurta contre le plafond de la salle: c'est
+qu'elle avait alors un peu plus de neuf pieds de haut. Vite elle
+saisit la petite clef d'or et courut Ã  la porte du jardin.
+
+Pauvre Alice! C'est tout ce qu'elle put faire, aprÃ¨s s'Ãªtre Ã©tendue de
+tout son long sur le cÃ´tÃ©, que de regarder du coin de l'Åil dans le
+jardin. Quant Ã  traverser le passage, il n'y fallait plus songer. Elle
+s'assit donc, et se remit Ã  pleurer.
+
+"Quelle honte!" dit Alice. "Une grande fille comme vous" ('grande'
+Ã©tait bien le mot) "pleurer de la sorte! Allons, finissez, vous
+dis-je!" Mais elle continua de pleurer, versant des torrents de larmes,
+si bien qu'elle se vit Ã  la fin entourÃ©e d'une grande mare, profonde
+d'environ quatre pouces et s'Ã©tendant jusqu'au milieu de la salle.
+
+
+Quelque temps aprÃ¨s, elle entendit un petit bruit de pas dans le
+lointain; vite, elle s'essuya les yeux pour voir ce que c'Ã©tait.
+C'Ã©tait le Lapin Blanc, en grande toilette, tenant d'une main une paire
+de gants paille, et de l'autre un large Ã©ventail. Il accourait tout
+affairÃ©, marmottant entre ses dents: "Oh! la Duchesse, la Duchesse!
+Elle sera dans une belle colÃ¨re si je l'ai fait attendre!" Alice se
+trouvait si malheureuse, qu'elle Ã©tait disposÃ©e Ã  demander secours
+au premier venu; ainsi, quand le Lapin fut prÃ¨s d'elle, elle lui dit
+d'une voix humble et timide, "Je vous en prie, Monsieur--" Le Lapin
+tressaillit d'Ã©pouvante, laissa tomber les gants et l'Ã©ventail, se mit
+Ã  courir Ã  toutes jambes et disparut dans les tÃ©nÃ¨bres.
+
+[Illustration]
+
+
+Alice ramassa les gants et l'Ã©ventail, et, comme il faisait trÃ¨s-chaud
+dans cette salle, elle s'Ã©venta tout en se faisant la conversation:
+"Que tout est Ã©trange, aujourd'hui! Hier les choses se passaient comme
+Ã  l'ordinaire. Peut-Ãªtre m'a-t-on changÃ©e cette nuit! Voyons, Ã©tais-je
+la mÃªme petite fille ce matin en me levant?--Je crois bien me rappeler
+que je me suis trouvÃ©e un peu diffÃ©rente.--Mais si je ne suis pas la
+mÃªme, qui suis-je donc, je vous prie? VoilÃ  l'embarras." Elle se mit Ã 
+passer en revue dans son esprit toutes les petites filles de son Ã¢ge
+qu'elle connaissait, pour voir si elle avait Ã©tÃ© transformÃ©e en l'une
+d'elles.
+
+"Bien sÃ»r, je ne suis pas Ada," dit-elle. "Elle a de longs cheveux
+bouclÃ©s et les miens ne frisent pas du tout.--AssurÃ©ment je ne suis pas
+Mabel, car je sais tout plein de choses et Mabel ne sait presque rien;
+et puis, du reste, Mabel, c'est Mabel; Alice, c'est Alice!--Oh! mais
+quelle Ã©nigme que cela!--Voyons si je me souviendrai de tout ce que
+je savais: quatre fois cinq font douze, quatre fois six font treize,
+quatre fois sept font---- je n'arriverai jamais Ã  vingt de ce train-lÃ .
+Mais peu importe la table de multiplication. Essayons de la GÃ©ographie:
+Londres est la capitale de Paris, Paris la capitale de Rome, et Rome la
+capitale de--Mais non, ce n'est pas cela, j'en suis bien sÃ»re! Je dois
+Ãªtre changÃ©e en Mabel!--Je vais tÃ¢cher de rÃ©citer _MaÃ®tre Corbeau._"
+Elle croisa les mains sur ses genoux comme quand elle disait ses
+leÃ§ons, et se mit Ã  rÃ©pÃ©ter la fable, d'une voix rauque et Ã©trange, et
+les mots ne se prÃ©sentaient plus comme autrefois:
+
+
+  _"MaÃ®tre Corbeau sur un arbre perchÃ©,
+    Faisait son nid entre des branches;
+    Il avait relevÃ© ses manches,
+    Car il Ã©tait trÃ¨s-affairÃ©.
+    MaÃ®tre Renard, par lÃ  passant,
+    Lui dit: 'Descendez donc, compÃ¨re;
+    Venez embrasser votre frÃ¨re.'
+    Le Corbeau, le reconnaissant,
+    Lui rÃ©pondit en son ramage:
+        'Fromage.'"_
+
+"Je suis bien sÃ»re que ce n'est pas Ã§a du tout," s'Ã©cria la pauvre
+Alice, et ses yeux se remplirent de larmes. "Ah! je le vois bien, je
+ne suis plus Alice, je suis Mabel, et il me faudra aller vivre dans
+cette vilaine petite maison, oÃ¹ je n'aurai presque pas de jouets pour
+m'amuser.--Oh! que de leÃ§ons on me fera apprendre!--Oui, certes,
+j'y suis bien rÃ©solue, si je suis Mabel je resterai ici. Ils auront
+beau passer la tÃªte lÃ -haut et me crier, 'Reviens auprÃ¨s de nous, ma
+chÃ©rie!' Je me contenterai de regarder en l'air et de dire, 'Dites-moi
+d'abord qui je suis, et, s'il me plaÃ®t d'Ãªtre cette personne-lÃ , j'irai
+vous trouver; sinon, je resterai ici jusqu'Ã  ce que je devienne une
+autre petite fille.'--Et pourtant," dit Alice en fondant en larmes,
+"je donnerais tout au monde pour les voir montrer la tÃªte lÃ -haut! Je
+m'ennuie tant d'Ãªtre ici toute seule."
+
+Comme elle disait ces mots, elle fut bien surprise de voir que tout en
+parlant elle avait mis un des petits gants du Lapin. "Comment ai-je pu
+mettre ce gant?" pensa-t-elle. "Je rapetisse donc de nouveau?" Elle se
+leva, alla prÃ¨s de la table pour se mesurer, et jugea, autant qu'elle
+pouvait s'en rendre compte, qu'elle avait environ deux pieds de haut,
+et continuait de raccourcir rapidement.
+
+BientÃ´t elle s'aperÃ§ut que l'Ã©ventail qu'elle avait Ã  la main en Ã©tait
+la cause; vite elle le lÃ¢cha, tout juste Ã  temps pour s'empÃªcher de
+disparaÃ®tre tout Ã  fait.
+
+"Je viens de l'Ã©chapper belle," dit Alice, tout Ã©mue de ce brusque
+changement, mais bien aise de voir qu'elle existait encore.
+"Maintenant, vite au jardin!"--Elle se hÃ¢ta de courir vers la petite
+porte; mais hÃ©las! elle s'Ã©tait refermÃ©e et la petite clef d'or se
+trouvait sur la table de verre, comme tout Ã  l'heure. "Les choses vont
+de mal en pis," pensa la pauvre enfant. "Jamais je ne me suis vue si
+petite, jamais! Et c'est vraiment par trop fort!"
+
+A ces mots son pied glissa, et flac! La voilÃ  dans l'eau salÃ©e jusqu'au
+menton. Elle se crut d'abord tombÃ©e dans la mer. "Dans ce cas je
+retournerai chez nous en chemin de fer," se dit-elle. (Alice avait Ã©tÃ©
+au bord de la mer une fois en sa vie, et se figurait que sur n'importe
+quel point des cÃ´tes se trouvent un grand nombre de cabines pour les
+baigneurs, des enfants qui font des trous dans le sable avec des pelles
+en bois, une longue ligne de maisons garnies, et derriÃ¨re ces maisons
+une gare de chemin de fer.) Mais elle comprit bientÃ´t qu'elle Ã©tait
+dans une mare formÃ©e des larmes qu'elle avait pleurÃ©es, quand elle
+avait neuf pieds de haut.
+
+[Illustration]
+
+"Je voudrais bien n'avoir pas tant pleurÃ©," dit Alice tout en nageant
+de cÃ´tÃ© et d'autre pour tÃ¢cher de sortir de lÃ . "Je vais en Ãªtre punie
+sans doute, en me noyant dans mes propres larmes. C'est cela qui sera
+drÃ´le! Du reste, tout est drÃ´le aujourd'hui."
+
+Au mÃªme instant elle entendit patauger dans la mare Ã  quelques pas
+de lÃ , et elle nagea de ce cÃ´tÃ© pour voir ce que c'Ã©tait. Elle pensa
+d'abord que ce devait Ãªtre un cheval marin ou hippopotame; puis elle se
+rappela combien elle Ã©tait petite maintenant, et dÃ©couvrit bientÃ´t que
+c'Ã©tait tout simplement une souris qui, comme elle, avait glissÃ© dans
+la mare.
+
+"Si j'adressais la parole Ã  cette souris? Tout est si extraordinaire
+ici qu'il se pourrait bien qu'elle sÃ»t parler: dans tous les cas, il
+n'y a pas de mal Ã  essayer." Elle commenÃ§a donc: "O Souris, savez-vous
+comment on pourrait sortir de cette mare? Je suis bien fatiguÃ©e de
+nager, O Souris!" (Alice pensait que c'Ã©tait lÃ  la bonne maniÃ¨re
+d'interpeller une souris. Pareille chose ne lui Ã©tait jamais arrivÃ©e,
+mais elle se souvenait d'avoir vu dans la grammaire latine de son
+frÃ¨re:--"La souris, de la souris, Ã  la souris, Ã´ souris.") La Souris
+la regarda d'un air inquisiteur; Alice crut mÃªme la voir cligner un de
+ses petits yeux, mais elle ne dit mot.
+
+"Peut-Ãªtre ne comprend-elle pas cette langue," dit Alice; "c'est sans
+doute une souris Ã©trangÃ¨re nouvellement dÃ©barquÃ©e. Je vais essayer de
+lui parler italien: 'Dove Ã¨ il mio gatto?'" C'Ã©taient lÃ  les premiers
+mots de son livre de dialogues. La Souris fit un bond hors de l'eau,
+et parut trembler de tous ses membres. "Oh! mille pardons!" s'Ã©cria
+vivement Alice, qui craignait d'avoir fait de la peine au pauvre
+animal. "J'oubliais que vous n'aimez pas les chats."
+
+"Aimer les chats!" cria la Souris d'une voix perÃ§ante et colÃ¨re. "Et
+vous, les aimeriez-vous si vous Ã©tiez Ã  ma place?"
+
+"Non, sans doute," dit Alice d'une voix caressante, pour l'apaiser. "Ne
+vous fÃ¢chez pas. Pourtant je voudrais bien vous montrer Dinah, notre
+chatte. Oh! si vous la voyiez, je suis sÃ»re que vous prendriez de
+l'affection pour les chats. Dinah est si douce et si gentille." Tout
+en nageant nonchalamment dans la mare et parlant moitiÃ© Ã  part soi,
+moitiÃ© Ã  la Souris, Alice continua: "Elle se tient si gentiment auprÃ¨s
+du feu Ã  faire son rouet Ã  se lÃ©cher les pattes, et Ã  se dÃ©barbouiller;
+son poil est si doux Ã  caresser; et comme elle attrape bien les
+souris!--Oh! pardon!" dit encore Alice, car cette fois le poil de la
+Souris s'Ã©tait tout hÃ©rissÃ©, et on voyait bien qu'elle Ã©tait fÃ¢chÃ©e
+tout de bon. "Nous n'en parlerons plus si cela vous fait de la peine."
+
+[Illustration]
+
+"Nous! dites-vous," s'Ã©cria la Souris, en tremblant de la tÃªte Ã  la
+queue. "Comme si moi je parlais jamais de pareilles choses! Dans notre
+famille on a toujours dÃ©testÃ© les chats, viles crÃ©atures sans foi ni
+loi. Que je ne vous en entende plus parler!"
+
+"Eh bien non," dit Alice, qui avait hÃ¢te de changer la conversation.
+"Est-ce que--est-ce que vous aimez les chiens?" La Souris ne rÃ©pondit
+pas, et Alice dit vivement: "Il y a tout prÃ¨s de chez nous un petit
+chien bien mignon que je voudrais vous montrer! C'est un petit terrier
+aux yeux vifs, avec de longs poils bruns frisÃ©s! Il rapporte trÃ¨s-bien;
+il se tient sur ses deux pattes de derriÃ¨re, et fait le beau pour
+avoir Ã  manger. Enfin il fait tant de tours que j'en oublie plus de la
+moitiÃ©! Il appartient Ã  un fermier qui ne le donnerait pas pour mille
+francs, tant il lui est utile; il tue tous les rats et aussi---- Oh!"
+reprit Alice d'un ton chagrin, "voilÃ  que je vous ai encore offensÃ©e!"
+En effet, la Souris s'Ã©loignait en nageant de toutes ses forces, si
+bien que l'eau de la mare en Ã©tait tout agitÃ©e.
+
+Alice la rappela doucement: "Ma petite Souris! Revenez, je vous en
+prie, nous ne parlerons plus ni de chien ni de chat, puisque vous ne
+les aimez pas!"
+
+A ces mots la Souris fit volte-face, et se rapprocha tout doucement;
+elle Ã©tait toute pÃ¢le (de colÃ¨re, pensait Alice). La Souris dit d'une
+voix basse et tremblante: "Gagnons la rive, je vous conterai mon
+histoire, et vous verrez pourquoi je hais les chats et les chiens."
+
+Il Ã©tait grand temps de s'en aller, car la mare se couvrait d'oiseaux
+et de toutes sortes d'animaux qui y Ã©taient tombÃ©s. Il y avait un
+canard, un dodo, un lory, un aiglon, et d'autres bÃªtes extraordinaires.
+Alice prit les devants, et toute la troupe nagea vers la rive.
+
+
+
+
+[Illustration]
+
+CHAPITRE III.
+
+LA COURSE COCASSE.
+
+
+ILS formaient une assemblÃ©e bien grotesque ces Ãªtres singuliers rÃ©unis
+sur le bord de la mare; les uns avaient leurs plumes tout en dÃ©sordre,
+les autres le poil plaquÃ© contre le corps. Tous Ã©taient trempÃ©s, de
+mauvaise humeur, et fort mal Ã  l'aise.
+
+"Comment faire pour nous sÃ©cher?" ce fut la premiÃ¨re question, cela
+va sans dire. Au bout de quelques instants, il sembla tout naturel Ã 
+Alice de causer familiÃ¨rement avec ces animaux, comme si elle les
+connaissait depuis son berceau. Elle eut mÃªme une longue discussion
+avec le Lory, qui, Ã  la fin, lui fit la mine et lui dit d'un air
+boudeur: "Je suis plus Ã¢gÃ© que vous, et je dois par consÃ©quent en
+savoir plus long." Alice ne voulut pas accepter cette conclusion avant
+de savoir l'Ã¢ge du Lory, et comme celui-ci refusa tout net de le lui
+dire, cela mit un terme au dÃ©bat.
+
+Enfin la Souris, qui paraissait avoir un certain ascendant sur les
+autres, leur cria: "Asseyez-vous tous, et Ã©coutez-moi! Je vais bientÃ´t
+vous faire sÃ©cher, je vous en rÃ©ponds!" Vite, tout le monde s'assit
+en rond autour de la Souris, sur qui Alice tenait les yeux fixÃ©s avec
+inquiÃ©tude, car elle se disait: "Je vais attraper un vilain rhume si je
+ne sÃ¨che pas bientÃ´t."
+
+"Hum!" fit la Souris d'un air d'importance; "Ãªtes-vous prÃªts? Je ne
+sais rien de plus sec que ceci. Silence dans le cercle, je vous prie.
+'Guillaume le ConquÃ©rant, dont le pape avait embrassÃ© le parti, soumit
+bientÃ´t les Anglais, qui manquaient de chefs, et commenÃ§aient Ã 
+s'accoutumer aux usurpations et aux conquÃªtes des Ã©trangers. Edwin et
+Morcar, comtes de Mercie et de Northumbrie----'"
+
+"Brrr," fit le Lory, qui grelottait.
+
+"Pardon," demanda la Souris en fronÃ§ant le sourcil, mais fort poliment,
+"qu'avez-vous dit?"
+
+"Moi! rien," rÃ©pliqua vivement le Lory.
+
+"Ah! je croyais," dit la Souris. "Je continue. 'Edwin et Morcar, comtes
+de Mercie et de Northumbrie, se dÃ©clarÃ¨rent en sa faveur, et Stigand,
+l'archevÃªque patriote de Cantorbery, trouva cela----'"
+
+"Trouva quoi?" dit le Canard.
+
+"Il trouva _cela_," rÃ©pondit la Souris avec impatience. "AssurÃ©ment
+vous savez ce que '_cela_' veut dire."
+
+"Je sais parfaitement ce que '_cela_' veut dire; par exemple: quand moi
+j'ai trouvÃ© cela bon; '_cela_' veut dire un ver ou une grenouille,"
+ajouta le Canard. "Mais il s'agit de savoir ce que l'archevÃªque
+trouva."
+
+La Souris, sans prendre garde Ã  cette question, se hÃ¢ta de continuer.
+"'L'archevÃªque trouva cela de bonne politique d'aller avec Edgar
+Atheling Ã  la rencontre de Guillaume, pour lui offrir la couronne.
+Guillaume, d'abord, fut bon prince; mais l'insolence des vassaux
+normands----' Eh bien, comment cela va-t-il, mon enfant?" ajouta-t-elle
+en se tournant vers Alice.
+
+"Toujours aussi mouillÃ©e," dit Alice tristement. "Je ne sÃ¨che que
+d'ennui."
+
+"Dans ce cas," dit le Dodo avec emphase, se dressant sur ses pattes,
+"je propose l'ajournement, et l'adoption immÃ©diate de mesures
+Ã©nergiques."
+
+"Parlez franÃ§ais," dit l'Aiglon; "je ne comprends pas la moitiÃ© de ces
+grands mots, et, qui plus est, je ne crois pas que vous les compreniez
+vous-mÃªme." L'Aiglon baissa la tÃªte pour cacher un sourire, et
+quelques-uns des autres oiseaux ricanÃ¨rent tout haut.
+
+"J'allais proposer," dit le Dodo d'un ton vexÃ©, "une course cocasse;
+c'est ce que nous pouvons faire de mieux pour nous sÃ©cher."
+
+"Qu'est-ce qu'une course cocasse?" demanda Alice; non qu'elle tÃ®nt
+beaucoup Ã  le savoir, mais le Dodo avait fait une pause comme s'il
+s'attendait Ã  Ãªtre questionnÃ© par quelqu'un, et personne ne semblait
+disposÃ© Ã  prendre la parole.
+
+"La meilleure maniÃ¨re de l'expliquer," dit le Dodo, "c'est de le
+faire." (Et comme vous pourriez bien, un de ces jours d'hiver, avoir
+envie de l'essayer, je vais vous dire comment le Dodo s'y prit.)
+
+D'abord il traÃ§a un terrain de course, une espÃ¨ce de cercle ("Du
+reste," disait-il, "la forme n'y fait rien"), et les coureurs furent
+placÃ©s indiffÃ©remment Ã§Ã  et lÃ  sur le terrain. Personne ne cria, "Un,
+deux, trois, en avant!" mais chacun partit et s'arrÃªta quand il voulut,
+de sorte qu'il n'Ã©tait pas aisÃ© de savoir quand la course finirait.
+Cependant, au bout d'une demi-heure, tout le monde Ã©tant sec, le Dodo
+cria tout Ã  coup: "La course est finie!" et les voilÃ  tous haletants
+qui entourent le Dodo et lui demandent: "Qui a gagnÃ©?"
+
+Cette question donna bien Ã  rÃ©flÃ©chir au Dodo; il resta longtemps
+assis, un doigt appuyÃ© sur le front (pose ordinaire de Shakespeare
+dans ses portraits); tandis que les autres attendaient en silence.
+Enfin le Dodo dit: "Tout le monde a gagnÃ©, et tout le monde aura un
+prix."
+
+"Mais qui donnera les prix?" demandÃ¨rent-ils tous Ã  la fois.
+
+"_Elle_, cela va sans dire," rÃ©pondit le Dodo, en montrant Alice du
+doigt, et toute la troupe l'entoura aussitÃ´t en criant confusÃ©ment:
+"Les prix! Les prix!"
+
+Alice ne savait que faire; pour sortir d'embarras elle mit la main dans
+sa poche et en tira une boÃ®te de dragÃ©es (heureusement l'eau salÃ©e n'y
+avait pas pÃ©nÃ©trÃ©); puis en donna une en prix Ã  chacun; il y en eut
+juste assez pour faire le tour.
+
+"Mais il faut aussi qu'elle ait un prix, elle," dit la Souris.
+
+"Comme de raison," reprit le Dodo gravement. "Avez-vous encore quelque
+chose dans votre poche?" continua-t-il en se tournant vers Alice.
+
+"Un dÃ©; pas autre chose," dit Alice d'un ton chagrin.
+
+[Illustration]
+
+"Faites passer," dit le Dodo. Tous se groupÃ¨rent de nouveau autour
+d'Alice, tandis que le Dodo lui prÃ©sentait solennellement le dÃ© en
+disant: "Nous vous prions d'accepter ce superbe dÃ©." Lorsqu'il eut fini
+ce petit discours, tout le monde cria "Hourra!"
+
+Alice trouvait tout cela bien ridicule, mais les autres avaient l'air
+si grave, qu'elle n'osait pas rire; aucune rÃ©ponse ne lui venant Ã 
+l'esprit, elle se contenta de faire la rÃ©vÃ©rence, et prit le dÃ© de son
+air le plus sÃ©rieux.
+
+Il n'y avait plus maintenant qu'Ã  manger les dragÃ©es; ce qui ne se
+fit pas sans un peu de bruit et de dÃ©sordre, car les gros oiseaux se
+plaignirent de n'y trouver aucun goÃ»t, et il fallut taper dans le
+dos des petits qui Ã©tranglaient. Enfin tout rentra dans le calme. On
+s'assit en rond autour de la Souris, et on la pria de raconter encore
+quelque chose.
+
+"Vous m'avez promis de me raconter votre histoire," dit Alice, "et
+de m'expliquer pourquoi vous dÃ©testez--les chats et les chiens,"
+ajouta-t-elle tout bas, craignant encore de dÃ©plaire.
+
+La Souris, se tournant vers Alice, soupira et lui dit: "Mon histoire
+sera longue et traÃ®nante."
+
+"Tiens! tout comme votre queue," dit Alice, frappÃ©e de la ressemblance,
+et regardant avec Ã©tonnement la queue de la Souris tandis que celle-ci
+parlait. Les idÃ©es d'histoire et de queue longue et traÃ®nante se
+brouillaient dans l'esprit d'Alice Ã  peu prÃ¨s de cette faÃ§on:--Canichon
+dit Ã 
+
+  la Souris, Qu'il
+        rencontra
+            dans le
+              logis:
+            "Je crois
+          le moment
+        fort propice
+      De te faire
+        aller en justice.
+              Je ne
+                doute pas
+                  du succÃ¨s
+                Que doit
+              avoir
+      notre procÃ¨s.
+    Vite, allons,
+  commenÃ§ons
+    l'affaire.
+      Ce matin
+        je n'ai rien
+              Ã  faire."
+                  La Souris
+                    dit Ã 
+            Canichon:
+          "Sans juge
+        et sans
+      jurÃ©s,
+        mon bon!"
+          Mais
+            Canichon
+              plein de
+                malice
+              Dit:
+          "C'est moi
+            qui suis
+              la justice,
+                  Et, que
+                tu aies
+              raison
+            ou tort,
+              Je vais te
+                  condamner
+                        Ã  mort."
+
+"Vous ne m'Ã©coutez pas," dit la Souris Ã  Alice d'un air sÃ©vÃ¨re. "A quoi
+pensez-vous donc?"
+
+"Pardon," dit Alice humblement. "Vous en Ã©tiez au cinquiÃ¨me dÃ©tour."
+
+"DÃ©tour!" dit la Souris d'un ton sec. "Croyez-vous donc que je manque
+de vÃ©racitÃ©?"
+
+"Des vers Ã  citer? oh! je puis vous en fournir quelques-uns!" dit
+Alice, toujours prÃªte Ã  rendre service.
+
+"On n'a pas besoin de vous," dit la Souris. "C'est m'insulter que de
+dire de pareilles sottises." Puis elle se leva pour s'en aller.
+
+"Je n'avais pas l'intention de vous offenser," dit Alice d'une voix
+conciliante. "Mais franchement vous Ãªtes bien susceptible."
+
+La Souris grommela quelque chose entre ses dents et s'Ã©loigna.
+
+"Revenez, je vous en prie, finissez votre histoire," lui cria Alice; et
+tous les autres dirent en chÅur: "Oui, nous vous en supplions." Mais la
+Souris secouant la tÃªte ne s'en alla que plus vite.
+
+"Quel dommage qu'elle ne soit pas restÃ©e!" dit en soupirant le Lory,
+sitÃ´t que la Souris eut disparu.
+
+Un vieux crabe, profitant de l'occasion, dit Ã  son fils: "Mon enfant,
+que cela vous serve de leÃ§on, et vous apprenne Ã  ne vous emporter
+jamais!"
+
+"Taisez-vous donc, papa," dit le jeune crabe d'un ton aigre. "Vous
+feriez perdre patience Ã  une huÃ®tre."
+
+"Ah! si Dinah Ã©tait ici," dit Alice tout haut sans s'adresser Ã 
+personne. "C'est elle qui l'aurait bientÃ´t ramenÃ©e."
+
+"Et qui est Dinah, s'il n'y a pas d'indiscrÃ©tion Ã  le demander?" dit le
+Lory.
+
+Alice rÃ©pondit avec empressement, car elle Ã©tait toujours prÃªte Ã 
+parler de sa favorite: "Dinah, c'est notre chatte. Si vous saviez comme
+elle attrape bien les souris! Et si vous la voyiez courir aprÃ¨s les
+oiseaux; aussitÃ´t vus, aussitÃ´t croquÃ©s."
+
+Ces paroles produisirent un effet singulier sur l'assemblÃ©e. Quelques
+oiseaux s'enfuirent aussitÃ´t; une vieille pie s'enveloppant avec soin
+murmura: "Il faut vraiment que je rentre chez moi, l'air du soir ne
+vaut rien pour ma gorge!" Et un canari cria Ã  ses petits d'une voix
+tremblante: "Venez, mes enfants; il est grand temps que vous vous
+mettiez au lit!"
+
+Enfin, sous un prÃ©texte ou sous un autre, chacun s'esquiva, et Alice se
+trouva bientÃ´t seule.
+
+"Je voudrais bien n'avoir pas parlÃ© de Dinah," se dit-elle tristement.
+"Personne ne l'aime ici, et pourtant c'est la meilleure chatte du
+monde! Oh! chÃ¨re Dinah, te reverrai-je jamais?" Ici la pauvre Alice se
+reprit Ã  pleurer; elle se sentait seule, triste, et abattue.
+
+Au bout de quelque temps elle entendit au loin un petit bruit de pas;
+elle s'empressa de regarder, espÃ©rant que la Souris avait changÃ© d'idÃ©e
+et revenait finir son histoire.
+
+
+
+
+CHAPITRE IV.
+
+L'HABITATION DU LAPIN BLANC.
+
+
+C'ÃTAIT le Lapin Blanc qui revenait en trottinant, et qui cherchait de
+tous cÃ´tÃ©s, d'un air inquiet, comme s'il avait perdu quelque chose;
+Alice l'entendit qui marmottait: "La Duchesse! La Duchesse! Oh! mes
+pauvres pattes; oh! ma robe et mes moustaches! Elle me fera guillotiner
+aussi vrai que des furets sont des furets! OÃ¹ pourrais-je bien les
+avoir perdus?" Alice devina tout de suite qu'il cherchait l'Ã©ventail et
+la paire de gants paille, et, comme elle avait bon cÅur, elle se mit Ã 
+les chercher aussi; mais pas moyen de les trouver.
+
+Du reste, depuis son bain dans la mare aux larmes, tout Ã©tait changÃ©:
+la salle, la table de verre, et la petite porte avaient complÃ©tement
+disparu.
+
+BientÃ´t le Lapin aperÃ§ut Alice qui furetait; il lui cria d'un ton
+d'impatience: "Eh bien! Marianne, que faites-vous ici? Courez vite
+Ã  la maison me chercher une paire de gants et un Ã©ventail! Allons,
+dÃ©pÃªchons-nous."
+
+Alice eut si grand' peur qu'elle se mit aussitÃ´t Ã  courir dans la
+direction qu'il indiquait, sans chercher Ã  lui expliquer qu'il se
+trompait.
+
+"Il m'a pris pour sa bonne," se disait-elle en courant. "Comme il sera
+Ã©tonnÃ© quand il saura qui je suis! Mais je ferai bien de lui porter ses
+gants et son Ã©ventail; c'est-Ã -dire, si je les trouve." Ce disant, elle
+arriva en face d'une petite maison, et vit sur la porte une plaque en
+cuivre avec ces mots, "JEAN LAPIN." Elle monta l'escalier, entra sans
+frapper, tout en tremblant de rencontrer la vraie Marianne, et d'Ãªtre
+mise Ã  la porte avant d'avoir trouvÃ© les gants et l'Ã©ventail.
+
+"Que c'est drÃ´le," se dit Alice, "de faire des commissions pour un
+lapin! BientÃ´t ce sera Dinah qui m'enverra en commission." Elle se prit
+alors Ã  imaginer comment les choses se passeraient.--"'Mademoiselle
+Alice, venez ici tout de suite vous apprÃªter pour la promenade.' 'Dans
+l'instant, ma bonne! Il faut d'abord que je veille sur ce trou jusqu'Ã 
+ce que Dinah revienne, pour empÃªcher que la souris ne sorte.' Mais je
+ne pense pas," continua Alice, "qu'on garderait Dinah Ã  la maison si
+elle se mettait dans la tÃªte de commander comme cela aux gens."
+
+Tout en causant ainsi, Alice Ã©tait entrÃ©e dans une petite chambre
+bien rangÃ©e, et, comme elle s'y attendait, sur une petite table dans
+l'embrasure de la fenÃªtre, elle vit un Ã©ventail et deux ou trois
+paires de gants de chevreau tout petits. Elle en prit une paire, ainsi
+que l'Ã©ventail, et allait quitter la chambre lorsqu'elle aperÃ§ut,
+prÃ¨s du miroir, une petite bouteille. Cette fois il n'y avait pas
+l'inscription BUVEZ-MOI--ce qui n'empÃªcha pas Alice de la dÃ©boucher
+et de la porter Ã  ses lÃ¨vres. "Il m'arrive toujours quelque chose
+d'intÃ©ressant," se dit-elle, "lorsque je mange ou que je bois. Je
+vais voir un peu l'effet de cette bouteille. J'espÃ¨re bien qu'elle me
+fera regrandir, car je suis vraiment fatiguÃ©e de n'Ãªtre qu'une petite
+nabote!"
+
+C'est ce qui arriva en effet, et bien plus tÃ´t qu'elle ne s'y
+attendait. Elle n'avait pas bu la moitiÃ© de la bouteille, que sa tÃªte
+touchait au plafond et qu'elle fut forcÃ©e de se baisser pour ne pas se
+casser le cou. Elle remit bien vite la bouteille sur la table en se
+disant: "En voilÃ  assez; j'espÃ¨re ne pas grandir davantage. Je ne puis
+dÃ©jÃ  plus passer par la porte. Oh! je voudrais bien n'avoir pas tant
+bu!"
+
+HÃ©las! il Ã©tait trop tard; elle grandissait, grandissait, et eut
+bientÃ´t Ã  se mettre Ã  genoux sur le plancher. Mais un instant aprÃ¨s, il
+n'y avait mÃªme plus assez de place pour rester dans cette position, et
+elle essaya de se tenir Ã©tendue par terre, un coude contre la porte et
+l'autre bras passÃ© autour de sa tÃªte. Cependant, comme elle grandissait
+toujours, elle fut obligÃ©e, comme derniÃ¨re ressource, de laisser pendre
+un de ses bras par la fenÃªtre et d'enfoncer un pied dans la cheminÃ©e en
+disant: "A prÃ©sent c'est tout ce que je peux faire, quoi qu'il arrive.
+Que vais-je devenir?"
+
+[Illustration]
+
+Heureusement pour Alice, la petite bouteille magique avait alors
+produit tout son effet, et elle cessa de grandir. Cependant sa
+position Ã©tait bien gÃªnante, et comme il ne semblait pas y avoir la
+moindre chance qu'elle pÃ»t jamais sortir de cette chambre, il n'y a pas
+Ã  s'Ã©tonner qu'elle se trouvÃ¢t bien malheureuse.
+
+"C'Ã©tait bien plus agrÃ©able chez nous," pensa la pauvre enfant. "LÃ 
+du moins je ne passais pas mon temps Ã  grandir et Ã  rapetisser, et
+je n'Ã©tais pas la domestique des lapins et des souris. Je voudrais
+bien n'Ãªtre jamais descendue dans ce terrier; et pourtant c'est assez
+drÃ´le cette maniÃ¨re de vivre! Je suis curieuse de savoir ce que c'est
+qui m'est arrivÃ©. Autrefois, quand je lisais des contes de fÃ©es, je
+m'imaginais que rien de tout cela ne pouvait Ãªtre, et maintenant me
+voilÃ  en pleine fÃ©erie. On devrait faire un livre sur mes aventures; il
+y aurait de quoi! Quand je serai grande j'en ferai un, moi.--Mais je
+suis dÃ©jÃ  bien grande!" dit-elle tristement. "Dans tous les cas, il n'y
+a plus de place ici pour grandir davantage."
+
+"Mais alors," pensa Alice, "ne serai-je donc jamais plus vieille
+que je ne le suis maintenant? D'un cÃ´tÃ© cela aura ses avantages, ne
+jamais Ãªtre une vieille femme. Mais alors avoir toujours des leÃ§ons Ã 
+apprendre! Oh, je n'aimerais pas cela du tout."
+
+"Oh! Alice, petite folle," se rÃ©pondit-elle. "Comment pourriez-vous
+apprendre des leÃ§ons ici? Il y a Ã  peine de la place pour vous, et il
+n'y en a pas du tout pour vos livres de leÃ§ons."
+
+Et elle continua ainsi, faisant tantÃ´t les demandes et tantÃ´t les
+rÃ©ponses, et Ã©tablissant sur ce sujet toute une conversation; mais au
+bout de quelques instants elle entendit une voix au dehors, et s'arrÃªta
+pour Ã©couter.
+
+"Marianne! Marianne!" criait la voix; "allez chercher mes gants bien
+vite!" Puis Alice entendit des piÃ©tinements dans l'escalier. Elle
+savait que c'Ã©tait le Lapin qui la cherchait; elle trembla si fort
+qu'elle en Ã©branla la maison, oubliant que maintenant elle Ã©tait mille
+fois plus grande que le Lapin, et n'avait rien Ã  craindre de lui.
+
+Le Lapin, arrivÃ© Ã  la porte, essaya de l'ouvrir; mais, comme elle
+s'ouvrait en dedans et que le coude d'Alice Ã©tait fortement appuyÃ©
+contre la porte, la tentative fut vaine. Alice entendit le Lapin qui
+murmurait: "C'est bon, je vais faire le tour et j'entrerai par la
+fenÃªtre."
+
+[Illustration]
+
+"Je t'en dÃ©fie!" pensa Alice, Elle attendit un peu; puis, quand elle
+crut que le Lapin Ã©tait sous la fenÃªtre, elle Ã©tendit le bras tout Ã 
+coup pour le saisir; elle ne prit que du vent. Mais elle entendit un
+petit cri, puis le bruit d'une chute et de vitres cassÃ©es (ce qui lui
+fit penser que le Lapin Ã©tait tombÃ© sur les chÃ¢ssis de quelque serre Ã 
+concombre), puis une voix colÃ¨re, celle du Lapin: "Patrice! Patrice!
+oÃ¹ es-tu?" Une voix qu'elle ne connaissait pas rÃ©pondit: "Me v'lÃ , not'
+maÃ®tre! J' bÃªchons la terre pour trouver des pommes!"
+
+"Pour trouver des pommes!" dit le Lapin furieux. "Viens m'aider Ã  me
+tirer d'ici." (Nouveau bruit de vitres cassÃ©es.)
+
+"Dis-moi un peu, Patrice, qu'est-ce qu'il y a lÃ  Ã  la fenÃªtre?"
+
+"Ãa, not' maÃ®tre, c'est un bras."
+
+"Un bras, imbÃ©cile! Qui a jamais vu un bras de cette dimension? Ãa
+bouche toute la fenÃªtre."
+
+"Bien sÃ»r, not' maÃ®tre, mais c'est un bras tout de mÃªme."
+
+"Dans tous les cas il n'a rien Ã  faire ici. EnlÃ¨ve-moi Ã§a bien vite."
+
+Il se fit un long silence, et Alice n'entendait plus que des
+chuchotements de temps Ã  autre, comme: "MaÃ®tre, j'osons point."--"Fais
+ce que je te dis, capon!" Alice Ã©tendit le bras de nouveau comme pour
+agripper quelque chose; cette fois il y eut deux petits cris et encore
+un bruit de vitres cassÃ©es. "Que de chÃ¢ssis il doit y avoir lÃ !" pensa
+Alice. "Je me demande ce qu'ils vont faire Ã  prÃ©sent. Quant Ã  me
+retirer par la fenÃªtre, je le souhaite de tout mon cÅur, car je n'ai
+pas la moindre envie de rester ici plus longtemps!"
+
+Il se fit quelques instants de silence. A la fin, Alice entendit un
+bruit de petites roues, puis le son d'un grand nombre de voix; elle
+distingua ces mots: "OÃ¹ est l'autre Ã©chelle?--Je n'avais point qu'Ã  en
+apporter une; c'est Jacques qui a l'autre.--Allons, Jacques, apporte
+ici, mon garÃ§on!--Dressez-les lÃ  au coin.--Non, attachez-les d'abord
+l'une au bout de l'autre.--Elles ne vont pas encore moitiÃ© assez
+haut.--Ãa fera l'affaire; ne soyez pas si difficile.--Tiens, Jacques,
+attrape ce bout de corde.--Le toit portera-t-il bien?--Attention Ã 
+cette tuile qui ne tient pas.--Bon! la voilÃ  qui dÃ©gringole. Gare les
+tÃªtes!" (Il se fit un grand fracas.) "Qui a fait cela?--Je crois bien
+que c'est Jacques.--Qui est-ce qui va descendre par la cheminÃ©e?--Pas
+moi, bien sÃ»r! Allez-y, vous.--Non pas, vraiment.--C'est Ã  vous,
+Jacques, Ã  descendre.--HohÃ©, Jacques, not' maÃ®tre dit qu'il faut que tu
+descendes par la cheminÃ©e!"
+
+[Illustration]
+
+"Ah!" se dit Alice, "c'est donc Jacques qui va descendre. Il paraÃ®t
+qu'on met tout sur le dos de Jacques. Je ne voudrais pas pour beaucoup
+Ãªtre Jacques. Ce foyer est Ã©troit certainement, mais je crois bien que
+je pourrai tout de mÃªme lui lancer un coup de pied."
+
+Elle retira son pied aussi bas que possible, et ne bougea plus jusqu'Ã 
+ce qu'elle entendÃ®t le bruit d'un petit animal (elle ne pouvait deviner
+de quelle espÃ¨ce) qui grattait et cherchait Ã  descendre dans la
+cheminÃ©e, juste au-dessus d'elle; alors se disant: "VoilÃ  Jacques sans
+doute," elle lanÃ§a un bon coup de pied, et attendit pour voir ce qui
+allait arriver.
+
+La premiÃ¨re chose qu'elle entendit fut un cri gÃ©nÃ©ral de: "Tiens, voilÃ 
+Jacques en l'air!" Puis la voix du Lapin, qui criait: "Attrapez-le,
+vous lÃ -bas, prÃ¨s de la haie!" Puis un long silence; ensuite un mÃ©lange
+confus de voix: "Soutenez-lui la tÃªte.--De l'eau-de-vie maintenant.--Ne
+le faites pas engouer.--Qu'est-ce donc, vieux camarade?--Que t'est-il
+arrivÃ©? Raconte-nous Ã§a!"
+
+Enfin une petite voix faible et flÃ»tÃ©e se fit entendre. ("C'est la voix
+de Jacques," pensa Alice.) "Je n'en sais vraiment rien. Merci, c'est
+assez; je me sens mieux maintenant; mais je suis encore trop bouleversÃ©
+pour vous conter la chose. Tout ce que je sais, c'est que j'ai Ã©tÃ©
+poussÃ© comme par un ressort, et que je suis parti en l'air comme une
+fusÃ©e."
+
+"Ãa, c'est vrai, vieux camarade," disaient les autres.
+
+"Il faut mettre le feu Ã  la maison," dit le Lapin.
+
+Alors Alice cria de toutes ses forces: "Si vous osez faire cela,
+j'envoie Dinah Ã  votre poursuite."
+
+Il se fit tout Ã  coup un silence de mort. "Que vont-ils faire Ã 
+prÃ©sent?" pensa Alice. "S'ils avaient un peu d'esprit, ils enlÃ¨veraient
+le toit." Quelques minutes aprÃ¨s, les allÃ©es et venues recommencÃ¨rent,
+et Alice entendit le Lapin, qui disait: "Une brouettÃ©e d'abord, Ã§a
+suffira."
+
+"Une brouettÃ©e de quoi?" pensa Alice. Il ne lui resta bientÃ´t plus de
+doute, car, un instant aprÃ¨s, une grÃªle de petits cailloux vint battre
+contre la fenÃªtre, et quelques-uns mÃªme l'atteignirent au visage. "Je
+vais bientÃ´t mettre fin Ã  cela," se dit-elle; puis elle cria: "Vous
+ferez bien de ne pas recommencer." Ce qui produisit encore un profond
+silence.
+
+Alice remarqua, avec quelque surprise, qu'en tombant sur le plancher
+les cailloux se changeaient en petits gÃ¢teaux, et une brillante idÃ©e
+lui traversa l'esprit. "Si je mange un de ces gÃ¢teaux," pensa-t-elle,
+"cela ne manquera pas de me faire ou grandir ou rapetisser; or, je ne
+puis plus grandir, c'est impossible, donc je rapetisserai!"
+
+Elle avala un des gÃ¢teaux, et s'aperÃ§ut avec joie qu'elle diminuait
+rapidement. AussitÃ´t qu'elle fut assez petite pour passer par la porte,
+elle s'Ã©chappa de la maison, et trouva toute une foule d'oiseaux et
+d'autres petits animaux qui attendaient dehors. Le pauvre petit lÃ©zard,
+Jacques, Ã©tait au milieu d'eux, soutenu par des cochons d'Inde, qui
+le faisaient boire Ã  une bouteille. Tous se prÃ©cipitÃ¨rent sur Alice
+aussitÃ´t qu'elle parut; mais elle se mit Ã  courir de toutes ses forces,
+et se trouva bientÃ´t en sÃ»retÃ© dans un bois touffu.
+
+"La premiÃ¨re chose que j'aie Ã  faire," dit Alice en errant Ã§Ã  et lÃ 
+dans les bois, "c'est de revenir Ã  ma premiÃ¨re grandeur; la seconde, de
+chercher un chemin qui me conduise dans ce ravissant jardin. C'est lÃ ,
+je crois, ce que j'ai de mieux Ã  faire!"
+
+En effet c'Ã©tait un plan de campagne excellent, trÃ¨s-simple et
+trÃ¨s-habilement combinÃ©. Toute la difficultÃ© Ã©tait de savoir comment
+s'y prendre pour l'exÃ©cuter. Tandis qu'elle regardait en tapinois et
+avec prÃ©caution Ã  travers les arbres, un petit aboiement sec, juste
+au-dessus de sa tÃªte, lui fit tout Ã  coup lever les yeux.
+
+Un jeune chien (qui lui parut Ã©norme) la regardait avec de grands yeux
+ronds, et Ã©tendait lÃ©gÃ¨rement la patte pour tÃ¢cher de la toucher.
+"Pauvre petit!" dit Alice d'une voix caressante et essayant de siffler.
+Elle avait une peur terrible cependant, car elle pensait qu'il pouvait
+bien avoir faim, et que dans ce cas il Ã©tait probable qu'il la
+mangerait, en dÃ©pit de toutes ses cÃ¢lineries.
+
+[Illustration]
+
+Sans trop savoir ce qu'elle faisait, elle ramassa une petite baguette
+et la prÃ©senta au petit chien qui bondit des quatre pattes Ã  la fois,
+aboyant de joie, et se jeta sur le bÃ¢ton comme pour jouer avec. Alice
+passa de l'autre cÃ´tÃ© d'un gros chardon pour n'Ãªtre pas foulÃ©e aux
+pieds. SitÃ´t qu'elle reparut, le petit chien se prÃ©cipita de nouveau
+sur le bÃ¢ton, et, dans son empressement de le saisir, butta et fit
+une cabriole. Mais Alice, trouvant que cela ressemblait beaucoup Ã 
+une partie qu'elle ferait avec un cheval de charrette, et craignant Ã 
+chaque instant d'Ãªtre Ã©crasÃ©e par le chien, se remit Ã  tourner autour
+du chardon. Alors le petit chien fit une sÃ©rie de charges contre le
+bÃ¢ton. Il avanÃ§ait un peu chaque fois, puis reculait bien loin en
+faisant des aboiements rauques; puis enfin il se coucha Ã  une grande
+distance de lÃ , tout haletant, la langue pendante, et ses grands yeux Ã 
+moitiÃ© fermÃ©s.
+
+Alice jugea que le moment Ã©tait venu de s'Ã©chapper. Elle prit sa course
+aussitÃ´t, et ne s'arrÃªta que lorsqu'elle se sentit fatiguÃ©e et hors
+d'haleine, et qu'elle n'entendit plus que faiblement dans le lointain
+les aboiements du petit chien.
+
+"C'Ã©tait pourtant un bien joli petit chien," dit Alice, en s'appuyant
+sur un bouton d'or pour se reposer, et en s'Ã©ventant avec une des
+feuilles de la plante. "Je lui aurais volontiers enseignÃ© tout plein
+de jolis tours si----si j'avais Ã©tÃ© assez grande pour cela! Oh! mais
+j'oubliais que j'avais encore Ã  grandir! Voyons. Comment faire? Je
+devrais sans doute boire ou manger quelque chose; mais quoi? VoilÃ  la
+grande question."
+
+En effet, la grande question Ã©tait bien de savoir quoi? Alice regarda
+tout autour d'elle les fleurs et les brins d'herbes; mais elle ne vit
+rien qui lui parÃ»t bon Ã  boire ou Ã  manger dans les circonstances
+prÃ©sentes.
+
+PrÃ¨s d'elle poussait un large champignon, Ã  peu prÃ¨s haut comme elle.
+Lorsqu'elle l'eut examinÃ© par-dessous, d'un cÃ´tÃ© et de l'autre,
+par-devant et par-derriÃ¨re, l'idÃ©e lui vint qu'elle ferait bien de
+regarder ce qu'il y avait dessus.
+
+Elle se dressa sur la pointe des pieds, et, glissant les yeux
+par-dessus le bord du champignon, ses regards rencontrÃ¨rent ceux
+d'une grosse chenille bleue assise au sommet, les bras croisÃ©s, fumant
+tranquillement une longue pipe turque sans faire la moindre attention Ã 
+elle ni Ã  quoi que ce fÃ»t.
+
+
+
+
+[Illustration]
+
+CHAPITRE V.
+
+CONSEILS D'UNE CHENILLE.
+
+
+LA Chenille et Alice se considÃ©rÃ¨rent un instant en silence. Enfin la
+Chenille sortit le houka de sa bouche, et lui adressa la parole d'une
+voix endormie et traÃ®nante.
+
+"Qui Ãªtes-vous?" dit la Chenille. Ce n'Ã©tait pas lÃ  une maniÃ¨re
+encourageante d'entamer la conversation. Alice rÃ©pondit, un peu
+confuse: "Je----je le sais Ã  peine moi-mÃªme quant Ã  prÃ©sent. Je sais
+bien ce que j'Ã©tais en me levant ce matin, mais je crois avoir changÃ©
+plusieurs fois depuis."
+
+"Qu'entendez-vous par lÃ ?" dit la Chenille d'un ton sÃ©vÃ¨re.
+"Expliquez-vous."
+
+"Je crains bien de ne pouvoir pas m'expliquer," dit Alice, "car,
+voyez-vous, je ne suis plus moi-mÃªme."
+
+"Je ne vois pas du tout," rÃ©pondit la Chenille.
+
+"J'ai bien peur de ne pouvoir pas dire les choses plus clairement,"
+rÃ©pliqua Alice fort poliment; "car d'abord je n'y comprends rien
+moi-mÃªme. Grandir et rapetisser si souvent en un seul jour, cela
+embrouille un peu les idÃ©es."
+
+"Pas du tout," dit la Chenille.
+
+"Peut-Ãªtre ne vous en Ãªtes-vous pas encore aperÃ§ue," dit Alice. "Mais
+quand vous deviendrez chrysalide, car c'est ce qui vous arrivera,
+sachez-le bien, et ensuite papillon, je crois bien que vous vous
+sentirez un peu drÃ´le, qu'en dites-vous?"
+
+"Pas du tout," dit la Chenille.
+
+"Vos sensations sont peut-Ãªtre diffÃ©rentes des miennes," dit Alice.
+"Tout ce que je sais, c'est que cela me semblerait bien drÃ´le Ã  moi."
+
+"A vous!" dit la Chenille d'un ton de mÃ©pris. "Qui Ãªtes-vous?"
+
+Cette question les ramena au commencement de la conversation.
+
+Alice, un peu irritÃ©e du parler bref de la Chenille, se redressa de
+toute sa hauteur et rÃ©pondit bien gravement: "Il me semble que vous
+devriez d'abord me dire qui vous Ãªtes vous-mÃªme."
+
+"Pourquoi?" dit la Chenille.
+
+C'Ã©tait encore lÃ  une question bien embarrassante; et comme Alice ne
+trouvait pas de bonne raison Ã  donner, et que la Chenille avait l'air
+de trÃ¨s-mauvaise humeur, Alice lui tourna le dos et s'Ã©loigna.
+
+"Revenez," lui cria la Chenille. "J'ai quelque chose d'important Ã  vous
+dire!"
+
+L'invitation Ã©tait engageante assurÃ©ment; Alice revint sur ses pas.
+
+"Ne vous emportez pas," dit la Chenille.
+
+"Est-ce tout?" dit Alice, cherchant Ã  retenir sa colÃ¨re.
+
+"Non," rÃ©pondit la Chenille.
+
+Alice pensa qu'elle ferait tout aussi bien d'attendre, et qu'aprÃ¨s
+tout la Chenille lui dirait peut-Ãªtre quelque chose de bon Ã  savoir.
+La Chenille continua de fumer pendant quelques minutes sans rien dire.
+Puis, retirant enfin la pipe de sa bouche, elle se croisa les bras et
+dit: "Ainsi vous vous figurez que vous Ãªtes changÃ©e, hein?"
+
+"Je le crains bien," dit Alice. "Je ne peux plus me souvenir des choses
+comme autrefois, et je ne reste pas dix minutes de suite de la mÃªme
+grandeur!"
+
+"De quoi est-ce que vous ne pouvez pas vous souvenir?" dit la Chenille.
+
+"J'ai essayÃ© de rÃ©citer la fable de _MaÃ®tre Corbeau_, mais ce n'Ã©tait
+plus la mÃªme chose," rÃ©pondit Alice d'un ton chagrin.
+
+"RÃ©citez: '_Vous Ãªtes vieux, PÃ¨re Guillaume,_'" dit la Chenille.
+
+Alice croisa les mains et commenÃ§a:
+
+[Illustration]
+
+  _"Vous Ãªtes vieux, PÃ¨re Guillaume.
+  Vous avez des cheveux tout gris...
+  La tÃªte en bas! PÃ¨re Guillaume;
+  A votre Ã¢ge, c'est peu permis!
+
+  --Ãtant jeune, pour ma cervelle
+  Je craignais fort, mon cher enfant;
+  Je n'en ai plus une parcelle,
+  J'en suis bien certain maintenant.
+
+[Illustration]
+
+  --Vous Ãªtes vieux, je vous l'ai dit,
+  Mais comment donc par cette porte,
+  Vous, dont la taille est comme un muid!
+  Cabriolez-vous de la sorte?
+
+  --Ãtant jeune, mon cher enfant,
+  J'avais chaque jointure bonne;
+  Je me frottais de cet onguent;
+  Si vous payez je vous en donne.
+
+[Illustration]
+
+  --Vous Ãªtes vieux, et vous mangez
+  Les os comme de la bouillie;
+  Et jamais rien ne me laissez.
+  Comment faites-vous, je vous prie?
+
+  --Ãtant jeune, je disputais
+  Tous les jours avec votre mÃ¨re;
+  C'est ainsi que je me suis fait
+  Un si puissant os maxillaire.
+
+[Illustration]
+
+  --Vous Ãªtes vieux, par quelle adresse
+  Tenez-vous debout sur le nez
+  Une anguille qui se redresse
+  Droit comme un I quand vous sifflez?
+
+  --Cette question est trop sotte!
+  Cessez de babiller ainsi,
+  Ou je vais, du bout de ma botte,
+  Vous envoyer bien loin d'ici."_
+
+"Ce n'est pas cela," dit la Chenille.
+
+"Pas tout Ã  fait, je le crains bien," dit Alice timidement. "Tous les
+mots ne sont pas les mÃªmes."
+
+"C'est tout de travers d'un bout Ã  l'autre," dit la Chenille d'un ton
+dÃ©cidÃ©; et il se fit un silence de quelques minutes.
+
+La Chenille fut la premiÃ¨re Ã  reprendre la parole.
+
+"De quelle grandeur voulez-vous Ãªtre?" demanda-t-elle.
+
+"Oh! je ne suis pas difficile, quant Ã  la taille," reprit vivement
+Alice. "Mais vous comprenez bien qu'on n'aime pas Ã  en changer si
+souvent."
+
+"Je ne comprends pas du tout," dit la Chenille.
+
+Alice se tut; elle n'avait jamais de sa vie Ã©tÃ© si souvent contredite,
+et elle sentait qu'elle allait perdre patience.
+
+"Ãtes-vous satisfaite maintenant?" dit la Chenille.
+
+"J'aimerais bien Ã  Ãªtre un petit peu plus grande, si cela vous Ã©tait
+Ã©gal," dit Alice. "Trois pouces de haut, c'est si peu!"
+
+"C'est une trÃ¨s-belle taille," dit la Chenille en colÃ¨re, se dressant
+de toute sa hauteur. (Elle avait tout juste trois pouces de haut.)
+
+"Mais je n'y suis pas habituÃ©e," rÃ©pliqua Alice d'un ton piteux, et
+elle fit cette rÃ©flexion: "Je voudrais bien que ces gens-lÃ  ne fussent
+pas si susceptibles."
+
+"Vous finirez par vous y habituer," dit la Chenille. Elle remit la pipe
+Ã  sa bouche, et fuma de plus belle.
+
+Cette fois Alice attendit patiemment qu'elle se dÃ©cidÃ¢t Ã  parler. Au
+bout de deux ou trois minutes la Chenille sortit le houka de sa bouche,
+bÃ¢illa une ou deux fois et se secoua; puis elle descendit de dessus
+le champignon, glissa dans le gazon, et dit tout simplement en s'en
+allant: "Un cÃ´tÃ© vous fera grandir, et l'autre vous fera rapetisser."
+
+"Un cÃ´tÃ© de quoi, l'autre cÃ´tÃ© de quoi?" pensa Alice.
+
+"Du champignon," dit la Chenille, comme si Alice avait parlÃ© tout haut;
+et un moment aprÃ¨s la Chenille avait disparu.
+
+Alice contempla le champignon d'un air pensif pendant un instant,
+essayant de deviner quels en Ã©taient les cÃ´tÃ©s; et comme le champignon
+Ã©tait tout rond, elle trouva la question fort embarrassante. Enfin elle
+Ã©tendit ses bras tout autour, en les allongeant autant que possible,
+et, de chaque main, enleva une petite partie du bord du champignon.
+
+"Maintenant, lequel des deux?" se dit-elle, et elle grignota un peu du
+morceau de la main droite pour voir quel effet il produirait. Presque
+aussitÃ´t elle reÃ§ut un coup violent sous le menton; il venait de
+frapper contre son pied.
+
+Ce brusque changement lui fit grand' peur, mais elle comprit qu'il n'y
+avait pas de temps Ã  perdre, car elle diminuait rapidement. Elle se mit
+donc bien vite Ã  manger un peu de l'autre morceau. Son menton Ã©tait
+si rapprochÃ© de son pied qu'il y avait Ã  peine assez de place pour
+qu'elle pÃ»t ouvrir la bouche. Elle y rÃ©ussit enfin, et parvint Ã  avaler
+une partie du morceau de la main gauche.
+
+              *         *         *         *         *
+
+                   *         *         *         *
+
+              *         *         *         *         *
+
+"VoilÃ  enfin ma tÃªte libre," dit Alice d'un ton joyeux qui se changea
+bientÃ´t en cris d'Ã©pouvante, quand elle s'aperÃ§ut de l'absence de ses
+Ã©paules. Tout ce qu'elle pouvait voir en regardant en bas, c'Ã©tait un
+cou long Ã  n'en plus finir qui semblait se dresser comme une tige, du
+milieu d'un ocÃ©an de verdure s'Ã©tendant bien loin au-dessous d'elle.
+
+"Qu'est-ce que c'est que toute cette verdure?" dit Alice. "Et oÃ¹ donc
+sont mes Ã©paules? Oh! mes pauvres mains! Comment se fait-il que je ne
+puis vous voir?" Tout en parlant elle agitait les mains, mais il n'en
+rÃ©sulta qu'un petit mouvement au loin parmi les feuilles vertes.
+
+Comme elle ne trouvait pas le moyen de porter ses mains Ã  sa tÃªte,
+elle tÃ¢cha de porter sa tÃªte Ã  ses mains, et s'aperÃ§ut avec joie que
+son cou se repliait avec aisance de tous cÃ´tÃ©s comme un serpent. Elle
+venait de rÃ©ussir Ã  le plier en un gracieux zigzag, et allait plonger
+parmi les feuilles, qui Ã©taient tout simplement le haut des arbres sous
+lesquels elle avait errÃ©, quand un sifflement aigu la forÃ§a de reculer
+promptement; un gros pigeon venait de lui voler Ã  la figure, et lui
+donnait de grands coups d'ailes.
+
+"Serpent!" criait le Pigeon.
+
+"Je ne suis pas un serpent," dit Alice, avec indignation. "Laissez-moi
+tranquille."
+
+"Serpent! Je le rÃ©pÃ¨te," dit le Pigeon, mais d'un ton plus doux; puis
+il continua avec une espÃ¨ce de sanglot: "J'ai essayÃ© de toutes les
+faÃ§ons, rien ne semble les satisfaire."
+
+"Je n'ai pas la moindre idÃ©e de ce que vous voulez dire," rÃ©pondit
+Alice.
+
+"J'ai essayÃ© des racines d'arbres; j'ai essayÃ© des talus; j'ai essayÃ©
+des haies," continua le Pigeon sans faire attention Ã  elle. "Mais ces
+serpents! il n'y a pas moyen de les satisfaire."
+
+Alice Ã©tait de plus en plus intriguÃ©e, mais elle pensa que ce n'Ã©tait
+pas la peine de rien dire avant que le Pigeon eÃ»t fini de parler.
+
+"Je n'ai donc pas assez de mal Ã  couver mes Åufs," dit le Pigeon. "Il
+faut encore que je guette les serpents nuit et jour. Je n'ai pas fermÃ©
+l'Åil depuis trois semaines!"
+
+"Je suis fÃ¢chÃ©e que vous ayez Ã©tÃ© tourmentÃ©," dit Alice, qui commenÃ§ait
+Ã  comprendre.
+
+"Au moment oÃ¹ je venais de choisir l'arbre le plus haut de la forÃªt,"
+continua le Pigeon en Ã©levant la voix jusqu'Ã  crier,--"au moment oÃ¹
+je me figurais que j'allais en Ãªtre enfin dÃ©barrassÃ©, les voilÃ  qui
+tombent du ciel 'en replis tortueux.' Oh! le vilain serpent!"
+
+"Mais je ne suis pas un serpent," dit Alice. "Je suis une---- Je
+suis----"
+
+"Eh bien! qu'Ãªtes-vous!" dit le Pigeon. "Je vois que vous cherchez Ã 
+inventer quelque chose."
+
+"Je---- je suis une petite fille," rÃ©pondit Alice avec quelque
+hÃ©sitation, car elle se rappelait combien de changements elle avait
+Ã©prouvÃ©s ce jour-lÃ .
+
+"VoilÃ  une histoire bien vraisemblable!" dit le Pigeon d'un air de
+profond mÃ©pris. "J'ai vu bien des petites filles dans mon temps, mais
+je n'en ai jamais vu avec un cou comme cela. Non, non; vous Ãªtes un
+serpent; il est inutile de le nier. Vous allez sans doute me dire que
+vous n'avez jamais mangÃ© d'Åufs."
+
+"Si fait, j'ai mangÃ© des Åufs," dit Alice, qui ne savait pas mentir;
+"mais vous savez que les petites filles mangent des Åufs aussi bien que
+les serpents."
+
+"Je n'en crois rien," dit le Pigeon, "mais s'il en est ainsi, elles
+sont une espÃ¨ce de serpent; c'est tout ce que j'ai Ã  vous dire."
+
+Cette idÃ©e Ã©tait si nouvelle pour Alice qu'elle resta muette pendant
+une ou deux minutes, ce qui donna au Pigeon le temps d'ajouter: "Vous
+cherchez des Åufs, Ã§a j'en suis bien sÃ»r, et alors que m'importe que
+vous soyez une petite fille ou un serpent?"
+
+"Cela m'importe beaucoup Ã  moi," dit Alice vivement; "mais je ne
+cherche pas d'Åufs justement, et quand mÃªme j'en chercherais je ne
+voudrais pas des vÃ´tres; je ne les aime pas crus."
+
+"Eh bien! allez-vous-en alors," dit le Pigeon d'un ton boudeur en
+se remettant dans son nid. Alice se glissa parmi les arbres du
+mieux qu'elle put en se baissant, car son cou s'entortillait dans
+les branches, et Ã  chaque instant il lui fallait s'arrÃªter et le
+dÃ©sentortiller. Au bout de quelque temps, elle se rappela qu'elle
+tenait encore dans ses mains les morceaux de champignon, et elle se
+mit Ã  l'Åuvre avec grand soin, grignotant tantÃ´t l'un, tantÃ´t l'autre,
+et tantÃ´t grandissant, tantÃ´t rapetissant, jusqu'Ã  ce qu'enfin elle
+parvint Ã  se ramener Ã  sa grandeur naturelle.
+
+Il y avait si longtemps qu'elle n'avait Ã©tÃ© d'une taille raisonnable
+que cela lui parut d'abord tout drÃ´le, mais elle finit par s'y
+accoutumer, et commenÃ§a Ã  se parler Ã  elle-mÃªme, comme d'habitude.
+"Allons, voilÃ  maintenant la moitiÃ© de mon projet exÃ©cutÃ©. Comme tous
+ces changements sont embarrassants! Je ne suis jamais sÃ»re de ce que
+je vais devenir d'une minute Ã  l'autre. Toutefois, je suis redevenue de
+la bonne grandeur; il me reste maintenant Ã  pÃ©nÃ©trer dans ce magnifique
+jardin. Comment faire?" En disant ces mots elle arriva tout Ã  coup Ã 
+une clairiÃ¨re, oÃ¹ se trouvait une maison d'environ quatre pieds de
+haut. "Quels que soient les gens qui demeurent lÃ ," pensa Alice, "il ne
+serait pas raisonnable de se prÃ©senter Ã  eux grande comme je suis. Ils
+deviendraient fous de frayeur." Elle se mit de nouveau Ã  grignoter le
+morceau qu'elle tenait dans sa main droite, et ne s'aventura pas prÃ¨s
+de la maison avant d'avoir rÃ©duit sa taille Ã  neuf pouces.
+
+
+
+
+CHAPITRE VI.
+
+PORC ET POIVRE.
+
+
+ALICE resta une ou deux minutes Ã  regarder Ã  la porte; elle se
+demandait ce qu'il fallait faire, quand tout Ã  coup un laquais en
+livrÃ©e sortit du bois en courant. (Elle le prit pour un laquais Ã  cause
+de sa livrÃ©e; sans cela, Ã  n'en juger que par la figure, elle l'aurait
+pris pour un poisson.) Il frappa fortement avec son doigt Ã  la porte.
+Elle fut ouverte par un autre laquais en livrÃ©e qui avait la face toute
+ronde et de gros yeux comme une grenouille. Alice remarqua que les deux
+laquais avaient les cheveux poudrÃ©s et tout frisÃ©s. Elle se sentit
+piquÃ©e de curiositÃ©, et, voulant savoir ce que tout cela signifiait,
+elle se glissa un peu en dehors du bois afin d'Ã©couter.
+
+[Illustration]
+
+Le Laquais-Poisson prit de dessous son bras une lettre Ã©norme, presque
+aussi grande que lui, et la prÃ©senta au Laquais-Grenouille en disant
+d'un ton solennel: "Pour Madame la Duchesse, une invitation de la Reine
+Ã  une partie de croquet." Le Laquais-Grenouille rÃ©pÃ©ta sur le mÃªme ton
+solennel, en changeant un peu l'ordre des mots: "De la part de la Reine
+une invitation pour Madame la Duchesse Ã  une partie de croquet;" puis
+tous deux se firent un profond salut et les boucles de leurs chevelures
+s'entremÃªlÃ¨rent.
+
+Cela fit tellement rire Alice qu'elle eut Ã  rentrer bien vite dans
+le bois de peur d'Ãªtre entendue; et quand elle avanÃ§a la tÃªte pour
+regarder de nouveau, le Laquais-Poisson Ã©tait parti, et l'autre Ã©tait
+assis par terre prÃ¨s de la route, regardant niaisement en l'air.
+
+Alice s'approcha timidement de la porte et frappa.
+
+"Cela ne sert Ã  rien du tout de frapper," dit le Laquais, "et cela
+pour deux raisons: premiÃ¨rement, parce que je suis du mÃªme cÃ´tÃ© de
+la porte que vous; deuxiÃ¨mement, parce qu'on fait lÃ -dedans un tel
+bruit que personne ne peut vous entendre." En effet, il se faisait
+dans l'intÃ©rieur un bruit extraordinaire, des hurlements et des
+Ã©ternuements continuels, et de temps Ã  autre un grand fracas comme si
+on brisait de la vaisselle.
+
+"Eh bien! comment puis-je entrer, s'il vous plaÃ®t?" demanda Alice.
+
+"Il y aurait quelque bon sens Ã  frapper Ã  cette porte," continua le
+Laquais sans l'Ã©couter, "si nous avions la porte entre nous deux. Par
+exemple, si vous Ã©tiez Ã  _l'intÃ©rieur_ vous pourriez frapper et je
+pourrais vous laisser sortir." Il regardait en l'air tout le temps
+qu'il parlait, et Alice trouvait cela trÃ¨s-impoli. "Mais peut-Ãªtre ne
+peut-il pas s'en empÃªcher," dit-elle; "il a les yeux presque sur le
+sommet de la tÃªte. Dans tous les cas il pourrait bien rÃ©pondre Ã  mes
+questions,--Comment faire pour entrer?" rÃ©pÃ©ta-t-elle tout haut.
+
+"Je vais rester assis ici," dit le Laquais, "jusqu'Ã  demain----"
+
+Au mÃªme instant la porte de la maison s'ouvrit, et une grande assiette
+vola tout droit dans la direction de la tÃªte du Laquais; elle lui
+effleura le nez, et alla se briser contre un arbre derriÃ¨re lui.
+
+"---- ou le jour suivant peut-Ãªtre," continua le Laquais sur le mÃªme
+ton, tout comme si rien n'Ã©tait arrivÃ©.
+
+"Comment faire pour entrer?" redemanda Alice en Ã©levant la voix.
+
+"Mais devriez-vous entrer?" dit le Laquais. "C'est ce qu'il faut se
+demander, n'est-ce pas?"
+
+Bien certainement, mais Alice trouva mauvais qu'on le lui dÃ®t. "C'est
+vraiment terrible," murmura-t-elle, "de voir la maniÃ¨re dont ces
+gens-lÃ  discutent, il y a de quoi rendre fou."
+
+Le Laquais trouva l'occasion bonne pour rÃ©pÃ©ter son observation avec
+des variantes. "Je resterai assis ici," dit-il, "l'un dans l'autre,
+pendant des jours et des jours!"
+
+"Mais que faut-il que je fasse?" dit Alice.
+
+"Tout ce que vous voudrez," dit le Laquais; et il se mit Ã  siffler.
+
+"Oh! ce n'est pas la peine de lui parler," dit Alice, dÃ©sespÃ©rÃ©e;
+"c'est un parfait idiot." Puis elle ouvrit la porte et entra.
+
+[Illustration]
+
+La porte donnait sur une grande cuisine qui Ã©tait pleine de fumÃ©e
+d'un bout Ã  l'autre. La Duchesse Ã©tait assise sur un tabouret Ã  trois
+pieds, au milieu de la cuisine, et dorlotait un bÃ©bÃ©; la cuisiniÃ¨re,
+penchÃ©e sur le feu, brassait quelque chose dans un grand chaudron qui
+paraissait rempli de soupe.
+
+"Bien sÃ»r, il y a trop de poivre dans la soupe," se dit Alice, tout
+empÃªchÃ©e par les Ã©ternuements.
+
+Il y en avait certainement trop dans l'air. La Duchesse elle-mÃªme
+Ã©ternuait de temps en temps, et quant au bÃ©bÃ© il Ã©ternuait et hurlait
+alternativement sans aucune interruption. Les deux seules crÃ©atures
+qui n'Ã©ternuassent pas, Ã©taient la cuisiniÃ¨re et un gros chat assis
+sur l'Ã¢tre et dont la bouche grimaÃ§ante Ã©tait fendue d'une oreille Ã 
+l'autre.
+
+"Pourriez-vous m'apprendre," dit Alice un peu timidement, car elle
+ne savait pas s'il Ã©tait bien convenable qu'elle parlÃ¢t la premiÃ¨re,
+"pourquoi votre chat grimace ainsi?"
+
+"C'est un GrimaÃ§on," dit la Duchesse; "voilÃ  pourquoi.--Porc!"
+
+Elle prononÃ§a ce dernier mot si fort et si subitement qu'Alice en
+frÃ©mit. Mais elle comprit bientÃ´t que cela s'adressait au bÃ©bÃ© et non
+pas Ã  elle; elle reprit donc courage et continua:
+
+"J'ignorais qu'il y eÃ»t des chats de cette espÃ¨ce. Au fait j'ignorais
+qu'un chat pÃ»t grimacer."
+
+"Ils le peuvent tous," dit la Duchesse; "et la plupart le font."
+
+"Je n'en connais pas un qui grimace," dit Alice poliment, bien contente
+d'Ãªtre entrÃ©e en conversation.
+
+"Le fait est que vous ne savez pas grand'chose," dit la Duchesse.
+
+Le ton sur lequel fut faite cette observation ne plut pas du tout Ã 
+Alice, et elle pensa qu'il serait bon de changer la conversation.
+Tandis qu'elle cherchait un autre sujet, la cuisiniÃ¨re retira de
+dessus le feu le chaudron plein de soupe, et se mit aussitÃ´t Ã  jeter
+tout ce qui lui tomba sous la main Ã  la Duchesse et au bÃ©bÃ©--la pelle
+et les pincettes d'abord, Ã  leur suite vint une pluie de casseroles,
+d'assiettes et de plats. La Duchesse n'y faisait pas la moindre
+attention, mÃªme quand elle en Ã©tait atteinte, et l'enfant hurlait dÃ©jÃ 
+si fort auparavant qu'il Ã©tait impossible de savoir si les coups lui
+faisaient mal ou non.
+
+"Oh! je vous en prie, prenez garde Ã  ce que vous faites," criait Alice,
+sautant Ã§Ã  et lÃ  et en proie Ã  la terreur. "Oh! son cher petit nez!"
+Une casserole d'une grandeur peu ordinaire venait de voler tout prÃ¨s du
+bÃ©bÃ©, et avait failli lui emporter le nez.
+
+"Si chacun s'occupait de ses affaires," dit la Duchesse avec un
+grognement rauque, "le monde n'en irait que mieux."
+
+"Ce qui ne serait guÃ¨re avantageux," dit Alice, enchantÃ©e qu'il se
+prÃ©sentÃ¢t une occasion de montrer un peu de son savoir. "Songez Ã  ce
+que deviendraient le jour et la nuit; vous voyez bien, la terre met
+vingt-quatre heures Ã  faire sa rÃ©volution."
+
+"Ah! vous parlez de faire des rÃ©volutions!" dit la Duchesse. "Qu'on lui
+coupe la tÃªte!"
+
+Alice jeta un regard inquiet sur la cuisiniÃ¨re pour voir si elle allait
+obÃ©ir; mais la cuisiniÃ¨re Ã©tait tout occupÃ©e Ã  brasser la soupe et
+paraissait ne pas Ã©couter. Alice continua donc: "Vingt-quatre heures,
+je crois, ou bien douze? Je pense----"
+
+"Oh! laissez-moi la paix," dit la Duchesse, "je n'ai jamais pu souffrir
+les chiffres." Et lÃ -dessus elle recommenÃ§a Ã  dorloter son enfant, lui
+chantant une espÃ¨ce de chanson pour l'endormir et lui donnant une forte
+secousse au bout de chaque vers.
+
+  _"Grondez-moi ce vilain garÃ§on!
+  Battez-le quand il Ã©ternue;
+  A vous taquiner, sans faÃ§on
+  Le mÃ©chant enfant s'Ã©vertue."_
+
+REFRAIN
+
+(que reprirent en chÅur la cuisiniÃ¨re et le bÃ©bÃ©).
+
+  _"Brou, Brou, Brou!" (bis.)_
+
+En chantant le second couplet de la chanson la Duchesse faisait sauter
+le bÃ©bÃ© et le secouait violemment, si bien que le pauvre petit Ãªtre
+hurlait au point qu'Alice put Ã  peine entendre ces mots:
+
+  _"Oui, oui, je m'en vais le gronder,
+  Et le battre, s'il Ã©ternue;
+  Car bientÃ´t Ã  savoir poivrer,
+  Je veux que l'enfant s'habitue."_
+
+REFRAIN.
+
+  _"Brou, Brou, Brou!" (bis.)_
+
+"Tenez, vous pouvez le dorloter si vous voulez!" dit la Duchesse Ã 
+Alice: et Ã  ces mots elle lui jeta le bÃ©bÃ©. "Il faut que j'aille
+m'apprÃªter pour aller jouer au croquet avec la Reine." Et elle se
+prÃ©cipita hors de la chambre. La cuisiniÃ¨re lui lanÃ§a une poÃªle comme
+elle s'en allait, mais elle la manqua tout juste.
+
+Alice eut de la peine Ã  attraper le bÃ©bÃ©. C'Ã©tait un petit Ãªtre d'une
+forme Ã©trange qui tenait ses bras et ses jambes Ã©tendus dans toutes
+les directions; "Tout comme une Ã©toile de mer," pensait Alice. La
+pauvre petite crÃ©ature ronflait comme une machine Ã  vapeur lorsqu'elle
+l'attrapa, et ne cessait de se plier en deux, puis de s'Ã©tendre tout
+droit, de sorte qu'avec tout cela, pendant les premiers instants,
+c'est tout ce qu'elle pouvait faire que de le tenir.
+
+SitÃ´t qu'elle eut trouvÃ© le bon moyen de le bercer, (qui Ã©tait d'en
+faire une espÃ¨ce de nÅud, et puis de le tenir fermement par l'oreille
+droite et le pied gauche afin de l'empÃªcher de se dÃ©nouer,) elle le
+porta dehors en plein air. "Si je n'emporte pas cet enfant avec moi,"
+pensa Alice, "ils le tueront bien sÃ»r un de ces jours. Ne serait-ce pas
+un meurtre de l'abandonner?" Elle dit ces derniers mots Ã  haute voix,
+et la petite crÃ©ature rÃ©pondit en grognant (elle avait cessÃ© d'Ã©ternuer
+alors). "Ne grogne pas ainsi," dit Alice; "ce n'est pas lÃ  du tout une
+bonne maniÃ¨re de s'exprimer."
+
+Le bÃ©bÃ© grogna de nouveau. Alice le regarda au visage avec inquiÃ©tude
+pour voir ce qu'il avait. Sans contredit son nez Ã©tait trÃ¨s-retroussÃ©,
+et ressemblait bien plutÃ´t Ã  un groin qu'Ã  un vrai nez. Ses yeux aussi
+devenaient trÃ¨s-petits pour un bÃ©bÃ©. Enfin Alice ne trouva pas du tout
+de son goÃ»t l'aspect de ce petit Ãªtre. "Mais peut-Ãªtre sanglotait-il
+tout simplement," pensa-t-elle, et elle regarda de nouveau les yeux du
+bÃ©bÃ© pour voir s'il n'y avait pas de larmes. "Si tu vas te changer en
+porc," dit Alice trÃ¨s-sÃ©rieusement, "je ne veux plus rien avoir Ã  faire
+avec toi. Fais-y bien attention!"
+
+[Illustration]
+
+La pauvre petite crÃ©ature sanglota de nouveau, ou grogna (il Ã©tait
+impossible de savoir lequel des deux), et ils continuÃ¨rent leur chemin
+un instant en silence.
+
+Alice commenÃ§ait Ã  dire en elle-mÃªme, "Mais, que faire de cette
+crÃ©ature quand je l'aurai portÃ©e Ã  la maison?" lorsqu'il grogna de
+nouveau si fort qu'elle regarda sa figure avec quelque inquiÃ©tude.
+Cette fois il n'y avait pas Ã  s'y tromper, c'Ã©tait un porc, ni plus ni
+moins, et elle comprit qu'il serait ridicule de le porter plus loin.
+
+Elle dÃ©posa donc par terre le petit animal, et se sentit toute soulagÃ©e
+de le voir trotter tranquillement vers le bois. "S'il avait grandi,"
+se dit-elle, "il serait devenu un bien vilain enfant; tandis qu'il
+fait un assez joli petit porc, il me semble." Alors elle se mit Ã 
+penser Ã  d'autres enfants qu'elle connaissait et qui feraient d'assez
+jolis porcs, si seulement on savait la maniÃ¨re de s'y prendre pour les
+mÃ©tamorphoser. Elle Ã©tait en train de faire ces rÃ©flexions, lorsqu'elle
+tressaillit en voyant tout Ã  coup le Chat assis Ã  quelques pas de lÃ 
+sur la branche d'un arbre.
+
+Le Chat grimaÃ§a en apercevant Alice. Elle trouva qu'il avait l'air bon
+enfant, et cependant il avait de trÃ¨s-longues griffes et une grande
+rangÃ©e de dents; aussi comprit-elle qu'il fallait le traiter avec
+respect.
+
+"GrimaÃ§on!" commenÃ§a-t-elle un peu timidement, ne sachant pas du
+tout si cette familiaritÃ© lui serait agrÃ©able; toutefois il ne fit
+qu'allonger sa grimace.
+
+"Allons, il est content jusqu'Ã  prÃ©sent," pensa Alice, et elle
+continua: "Dites-moi, je vous prie, de quel cÃ´tÃ© faut-il me diriger?"
+
+"Cela dÃ©pend beaucoup de l'endroit oÃ¹ vous voulez aller," dit le Chat.
+
+"Cela m'est assez indiffÃ©rent," dit Alice.
+
+"Alors peu importe de quel cÃ´tÃ© vous irez," dit le Chat.
+
+"Pourvu que j'arrive _quelque part_," ajouta Alice en explication.
+
+"Cela ne peut manquer, pourvu que vous marchiez assez longtemps."
+
+Alice comprit que cela Ã©tait incontestable; elle essaya donc d'une
+autre question: "Quels sont les gens qui demeurent par ici?"
+
+"De ce cÃ´tÃ©-ci," dit le Chat, dÃ©crivant un cercle avec sa patte droite,
+"demeure un chapelier; de ce cÃ´tÃ©-lÃ ," faisant de mÃªme avec sa patte
+gauche, "demeure un liÃ¨vre. Allez voir celui que vous voudrez, tous
+deux sont fous."
+
+[Illustration]
+
+"Mais je ne veux pas frÃ©quenter des fous," fit observer Alice.
+
+"Vous ne pouvez pas vous en dÃ©fendre, tout le monde est fou ici. Je
+suis fou, vous Ãªtes folle."
+
+"Comment savez-vous que je suis folle?" dit Alice.
+
+"Vous devez l'Ãªtre," dit le Chat, "sans cela vous ne seriez pas venue
+ici."
+
+Alice pensa que cela ne prouvait rien. Toutefois elle continua: "Et
+comment savez-vous que vous Ãªtes fou?"
+
+"D'abord," dit le Chat, "un chien n'est pas fou: vous convenez de cela."
+
+"Je le suppose," dit Alice.
+
+"Eh bien!" continua le Chat, "un chien grogne quand il se fÃ¢che, et
+remue la queue lorsqu'il est content. Or, moi, je grogne quand je suis
+content, et je remue la queue quand je me fÃ¢che. Donc je suis fou."
+
+"J'appelle cela faire le rouet, et non pas grogner," dit Alice.
+
+"Appelez cela comme vous voudrez," dit le Chat. "Jouez-vous au croquet
+avec la Reine aujourd'hui?"
+
+"Cela me ferait grand plaisir," dit Alice, "mais je n'ai pas Ã©tÃ©
+invitÃ©e."
+
+"Vous m'y verrez," dit le Chat; et il disparut.
+
+Alice ne fut pas trÃ¨s-Ã©tonnÃ©e, tant elle commenÃ§ait Ã  s'habituer aux
+Ã©vÃ©nements extraordinaires. Tandis qu'elle regardait encore l'endroit
+que le Chat venait de quitter, il reparut tout Ã  coup.
+
+"A propos, qu'est devenu le bÃ©bÃ©? J'allais oublier de le demander."
+
+"Il a Ã©tÃ© changÃ© en porc," dit tranquillement Alice, comme si le Chat
+Ã©tait revenu d'une maniÃ¨re naturelle.
+
+"Je m'en doutais," dit le Chat; et il disparut de nouveau.
+
+Alice attendit quelques instants, espÃ©rant presque le revoir, mais il
+ne reparut pas; et une ou deux minutes aprÃ¨s, elle continua son chemin
+dans la direction oÃ¹ on lui avait dit que demeurait le LiÃ¨vre. "J'ai
+dÃ©jÃ  vu des chapeliers," se dit-elle; "le LiÃ¨vre sera de beaucoup le
+plus intÃ©ressant." A ces mots elle leva les yeux, et voilÃ  que le Chat
+Ã©tait encore lÃ  assis sur une branche d'arbre.
+
+"M'avez-vous dit porc, ou porte?" demanda le Chat.
+
+"J'ai dit porc," rÃ©pÃ©ta Alice. "Ne vous amusez donc pas Ã  paraÃ®tre et Ã 
+disparaÃ®tre si subitement, vous faites tourner la tÃªte aux gens."
+
+[Illustration]
+
+"C'est bon," dit le Chat, et cette fois il s'Ã©vanouit tout doucement
+Ã  commencer par le bout de la queue, et finissant par sa grimace qui
+demeura quelque temps aprÃ¨s que le reste fut disparu.
+
+"Certes," pensa Alice, "j'ai souvent vu un chat sans grimace, mais une
+grimace sans chat, je n'ai jamais de ma vie rien vu de si drÃ´le."
+
+Elle ne fit pas beaucoup de chemin avant d'arriver devant la maison
+du LiÃ¨vre. Elle pensa que ce devait bien Ãªtre lÃ  la maison, car les
+cheminÃ©es Ã©taient en forme d'oreilles et le toit Ã©tait couvert de
+fourrure. La maison Ã©tait si grande qu'elle n'osa s'approcher avant
+d'avoir grignotÃ© encore un peu du morceau de champignon qu'elle avait
+dans la main gauche, et d'avoir atteint la taille de deux pieds
+environ; et mÃªme alors elle avanÃ§a timidement en se disant: "Si aprÃ¨s
+tout il Ã©tait fou furieux! Je voudrais presque avoir Ã©tÃ© faire visite
+au Chapelier plutÃ´t que d'Ãªtre venue ici."
+
+
+
+
+CHAPITRE VII.
+
+UN THÃ DE FOUS.
+
+
+IL y avait une table servie sous un arbre devant la maison, et le
+LiÃ¨vre y prenait le thÃ© avec le Chapelier. Un Loir profondÃ©ment
+endormi Ã©tait assis entre les deux autres qui s'en servaient comme
+d'un coussin, le coude appuyÃ© sur lui et causant par-dessus sa tÃªte.
+"Bien gÃªnant pour le Loir," pensa Alice. "Mais comme il est endormi je
+suppose que cela lui est Ã©gal."
+
+Bien que la table fÃ»t trÃ¨s-grande, ils Ã©taient tous trois serrÃ©s l'un
+contre l'autre Ã  un des coins. "Il n'y a pas de place! Il n'y a pas de
+place!" criÃ¨rent-ils en voyant Alice. "Il y a abondance de place," dit
+Alice indignÃ©e, et elle s'assit dans un large fauteuil Ã  l'un des bouts
+de la table.
+
+[Illustration]
+
+"Prenez donc du vin," dit le LiÃ¨vre d'un ton engageant.
+
+Alice regarda tout autour de la table, mais il n'y avait que du thÃ©.
+"Je ne vois pas de vin," fit-elle observer.
+
+"Il n'y en a pas," dit le LiÃ¨vre.
+
+"En ce cas il n'Ã©tait pas trÃ¨s-poli de votre part de m'en offrir," dit
+Alice d'un ton fÃ¢chÃ©.
+
+"Il n'Ã©tait pas non plus trÃ¨s-poli de votre part de vous mettre Ã  table
+avant d'y Ãªtre invitÃ©e," dit le LiÃ¨vre.
+
+"J'ignorais que ce fÃ»t votre table," dit Alice. "Il y a des couverts
+pour bien plus de trois convives."
+
+"Vos cheveux ont besoin d'Ãªtre coupÃ©s," dit le Chapelier. Il avait
+considÃ©rÃ© Alice pendant quelque temps avec beaucoup de curiositÃ©, et ce
+fut la premiÃ¨re parole qu'il lui adressa.
+
+"Vous devriez apprendre Ã  ne pas faire de remarques sur les gens; c'est
+trÃ¨s-grossier," dit Alice d'un ton sÃ©vÃ¨re.
+
+A ces mots le Chapelier ouvrit de grands yeux; mais il se contenta de
+dire: "Pourquoi une pie ressemble-t-elle Ã  un pupitre?"
+
+"Bon! nous allons nous amuser," pensa Alice. "Je suis bien aise qu'ils
+se mettent Ã  demander des Ã©nigmes. Je crois pouvoir deviner cela,"
+ajouta-t-elle tout haut.
+
+"Voulez-vous dire que vous croyez pouvoir trouver la rÃ©ponse?" dit le
+LiÃ¨vre.
+
+"PrÃ©cisÃ©ment," rÃ©pondit Alice.
+
+"Alors vous devriez dire ce que vous voulez dire," continua le LiÃ¨vre.
+
+"C'est ce que je fais," rÃ©pliqua vivement Alice.
+
+"Du moins----je veux dire ce que je dis; c'est la mÃªme chose, n'est-ce
+pas?"
+
+"Ce n'est pas du tout la mÃªme chose," dit le Chapelier. "Vous pourriez
+alors dire tout aussi bien que: 'Je vois ce que je mange,' est la mÃªme
+chose que: 'Je mange ce que je vois.'"
+
+"Vous pourriez alors dire tout aussi bien," ajouta le LiÃ¨vre, "que:
+'J'aime ce qu'on me donne,' est la mÃªme chose que: 'On me donne ce que
+j'aime.'"
+
+"Vous pourriez dire tout aussi bien," ajouta le Loir, qui paraissait
+parler tout endormi, "que: 'Je respire quand je dors,' est la mÃªme
+chose que: 'Je dors quand je respire.'"
+
+"C'est en effet tout un pour vous," dit le Chapelier. Sur ce, la
+conversation tomba et il se fit un silence de quelques minutes. Pendant
+ce temps, Alice repassa dans son esprit tout ce qu'elle savait au
+sujet des pies et des pupitres; ce qui n'Ã©tait pas grand'chose.
+
+Le Chapelier rompit le silence le premier. "Quel quantiÃ¨me du mois
+sommes-nous?" dit-il en se tournant vers Alice. Il avait tirÃ© sa montre
+de sa poche et la regardait d'un air inquiet, la secouant de temps Ã 
+autre et l'approchant de son oreille.
+
+Alice rÃ©flÃ©chit un instant et rÃ©pondit: "Le quatre."
+
+"Elle est de deux jours en retard," dit le Chapelier avec un soupir.
+"Je vous disais bien que le beurre ne vaudrait rien au mouvement!"
+ajouta-t-il en regardant le LiÃ¨vre avec colÃ¨re.
+
+"C'Ã©tait tout ce qu'il y avait de plus fin en beurre," dit le LiÃ¨vre
+humblement.
+
+"Oui, mais il faut qu'il y soit entrÃ© des miettes de pain," grommela le
+Chapelier. "Vous n'auriez pas dÃ» vous servir du couteau au pain pour
+mettre le beurre."
+
+Le LiÃ¨vre prit la montre et la contempla tristement, puis la trempa
+dans sa tasse, la contempla de nouveau, et pourtant ne trouva rien de
+mieux Ã  faire que de rÃ©pÃ©ter sa premiÃ¨re observation: "C'Ã©tait tout ce
+qu'il y avait de plus fin en beurre."
+
+Alice avait regardÃ© par-dessus son Ã©paule avec curiositÃ©: "Quelle
+singuliÃ¨re montre!" dit-elle. "Elle marque le quantiÃ¨me du mois, et ne
+marque pas l'heure qu'il est!"
+
+"Et pourquoi marquerait-elle l'heure?" murmura le Chapelier. "Votre
+montre marque-t-elle dans quelle annÃ©e vous Ãªtes?"
+
+"Non, assurÃ©ment!" rÃ©pliqua Alice sans hÃ©siter. "Mais c'est parce
+qu'elle reste Ã  la mÃªme annÃ©e pendant si longtemps."
+
+"Tout comme la mienne," dit le Chapelier.
+
+Alice se trouva fort embarrassÃ©e. L'observation du Chapelier
+lui paraissait n'avoir aucun sens; et cependant la phrase Ã©tait
+parfaitement correcte. "Je ne vous comprends pas bien," dit-elle, aussi
+poliment que possible.
+
+"Le Loir est rendormi," dit le Chapelier; et il lui versa un peu de thÃ©
+chaud sur le nez.
+
+Le Loir secoua la tÃªte avec impatience, et dit, sans ouvrir les yeux:
+"Sans doute, sans doute, c'est justement ce que j'allais dire."
+
+"Avez-vous devinÃ© l'Ã©nigme?" dit le Chapelier, se tournant de nouveau
+vers Alice.
+
+"Non, j'y renonce," rÃ©pondit Alice; "quelle est la rÃ©ponse?"
+
+"Je n'en ai pas la moindre idÃ©e," dit le Chapelier.
+
+"Ni moi non plus," dit le LiÃ¨vre.
+
+Alice soupira d'ennui. "Il me semble que vous pourriez mieux employer
+le temps," dit-elle, "et ne pas le gaspiller Ã  proposer des Ã©nigmes qui
+n'ont point de rÃ©ponses."
+
+"Si vous connaissiez le Temps aussi bien que moi," dit le Chapelier,
+"vous ne parleriez pas de le gaspiller. On ne gaspille pas quelqu'un."
+
+"Je ne vous comprends pas," dit Alice.
+
+"Je le crois bien," rÃ©pondit le Chapelier, en secouant la tÃªte avec
+mÃ©pris; "je parie que vous n'avez jamais parlÃ© au Temps."
+
+"Cela se peut bien," rÃ©pliqua prudemment Alice, "mais je l'ai souvent
+mal employÃ©."
+
+"Ah! voilÃ  donc pourquoi! Il n'aime pas cela," dit le Chapelier. "Mais
+si seulement vous saviez le mÃ©nager, il ferait de la pendule tout ce
+que vous voudriez. Par exemple, supposons qu'il soit neuf heures du
+matin, l'heure de vos leÃ§ons, vous n'auriez qu'Ã  dire tout bas un petit
+mot au Temps, et l'aiguille partirait en un clin d'Åil pour marquer une
+heure et demie, l'heure du dÃ®ner."
+
+("Je le voudrais bien," dit tout bas le LiÃ¨vre.)
+
+"Cela serait trÃ¨s-agrÃ©able, certainement," dit Alice d'un air pensif;
+"mais alors---- je n'aurais pas encore faim, comprenez donc."
+
+"Peut-Ãªtre pas d'abord," dit le Chapelier; "mais vous pourriez retenir
+l'aiguille Ã  une heure et demie aussi longtemps que vous voudriez."
+
+"Est-ce comme cela que vous faites, vous?" demanda Alice.
+
+Le Chapelier secoua tristement la tÃªte.
+
+"HÃ©las! non," rÃ©pondit-il, "nous nous sommes querellÃ©s au mois de mars
+dernier, un peu avant qu'il devÃ®nt fou." (Il montrait le LiÃ¨vre du bout
+de sa cuiller.) C'Ã©tait Ã  un grand concert donnÃ© par la Reine de CÅur,
+et j'eus Ã  chanter:
+
+[Illustration]
+
+  _"Ah! vous dirai-je, ma sÅur,
+  Ce qui cause ma douleur!"_
+
+"Vous connaissez peut-Ãªtre cette chanson?"
+
+"J'ai entendu chanter quelque chose comme Ã§a," dit Alice.
+
+"Vous savez la suite," dit le Chapelier; et il continua:
+
+  _"C'est que j'avais des dragÃ©es,
+  Et que je les ai mangÃ©es."_
+
+Ici le Loir se secoua et se mit Ã  chanter, tout en dormant: "Et que
+je les ai mangÃ©es, mangÃ©es, mangÃ©es, mangÃ©es, mangÃ©es," si longtemps,
+qu'il fallÃ»t le pincer pour le faire taire.
+
+"Eh bien, j'avais Ã  peine fini le premier couplet," dit le Chapelier,
+"que la Reine hurla: 'Ah! c'est comme Ã§a que vous tuez le temps! Qu'on
+lui coupe la tÃªte!'"
+
+"Quelle cruautÃ©!" s'Ã©cria Alice.
+
+"Et, depuis lors," continua le Chapelier avec tristesse, "le Temps ne
+veut rien faire de ce que je lui demande. Il est toujours six heures
+maintenant."
+
+Une brillante idÃ©e traversa l'esprit d'Alice. "Est-ce pour cela qu'il y
+a tant de tasses Ã  thÃ© ici?" demanda-t-elle.
+
+"Oui, c'est cela," dit le Chapelier avec un soupir; "il est toujours
+l'heure du thÃ©, et nous n'avons pas le temps de laver la vaisselle dans
+l'intervalle."
+
+"Alors vous faites tout le tour de la table, je suppose?" dit Alice.
+
+"Justement," dit le Chapelier, "Ã  mesure que les tasses ont servi."
+
+"Mais, qu'arrive-t-il lorsque vous vous retrouvez au commencement?" se
+hasarda de dire Alice.
+
+"Si nous changions de conversation," interrompit le LiÃ¨vre en bÃ¢illant;
+"celle-ci commence Ã  me fatiguer. Je propose que la petite demoiselle
+nous conte une histoire."
+
+"J'ai bien peur de n'en pas savoir," dit Alice, que cette proposition
+alarmait un peu.
+
+"Eh bien, le Loir va nous en dire une," criÃ¨rent-ils tous deux.
+"Allons, Loir, rÃ©veillez-vous!" et ils le pincÃ¨rent des deux cÃ´tÃ©s Ã  la
+fois.
+
+Le Loir ouvrit lentement les yeux. "Je ne dormais pas," dit-il d'une
+voix faible et enrouÃ©e. "Je n'ai pas perdu un mot de ce que vous avez
+dit, vous autres."
+
+"Racontez-nous une histoire," dit le LiÃ¨vre.
+
+"Ah! Oui, je vous en prie," dit Alice d'un ton suppliant.
+
+"Et faites vite," ajouta le Chapelier, "sans cela vous allez vous
+rendormir avant de vous mettre en train."
+
+"Il y avait une fois trois petites sÅurs," commenÃ§a bien vite le Loir,
+"qui s'appelaient Elsie, Lacie, et Tillie, et elles vivaient au fond
+d'un puits."
+
+"De quoi vivaient-elles?" dit Alice, qui s'intÃ©ressait toujours aux
+questions de boire ou de manger.
+
+"Elles vivaient de mÃ©lasse," dit le Loir, aprÃ¨s avoir rÃ©flÃ©chi un
+instant.
+
+"Ce n'est pas possible, comprenez donc," fit doucement observer Alice;
+"cela les aurait rendues malades."
+
+"Et en effet," dit le Loir, "elles Ã©taient trÃ¨s-malades."
+
+Alice chercha Ã  se figurer un peu l'effet que produirait sur elle
+une maniÃ¨re de vivre si extraordinaire, mais cela lui parut trop
+embarrassant, et elle continua: "Mais pourquoi vivaient-elles au fond
+d'un puits?"
+
+"Prenez un peu plus de thÃ©," dit le LiÃ¨vre Ã  Alice avec empressement.
+
+"Je n'en ai pas pris du tout," rÃ©pondit Alice d'un air offensÃ©. "Je ne
+peux donc pas en prendre un peu _plus_."
+
+"Vous voulez dire que vous ne pouvez pas en prendre _moins_," dit le
+Chapelier. "Il est trÃ¨s-aisÃ© de prendre un peu _plus_ que pas du tout."
+
+"On ne vous a pas demandÃ© votre avis, Ã  vous," dit Alice.
+
+"Ah! qui est-ce qui se permet de faire des observations?" demanda le
+Chapelier d'un air triomphant.
+
+Alice ne savait pas trop que rÃ©pondre Ã  cela. Aussi se servit-elle un
+peu de thÃ© et une tartine de pain et de beurre; puis elle se tourna du
+cÃ´tÃ© du Loir, et rÃ©pÃ©ta sa question. "Pourquoi vivaient-elles au fond
+d'un puits?"
+
+Le Loir rÃ©flÃ©chit de nouveau pendant quelques instants et dit:
+"C'Ã©tait un puits de mÃ©lasse."
+
+"Il n'en existe pas!" se mit Ã  dire Alice d'un ton courroucÃ©. Mais le
+Chapelier et le LiÃ¨vre firent "Chut! Chut!" et le Loir fit observer
+d'un ton bourru: "TÃ¢chez d'Ãªtre polie, ou finissez l'histoire
+vous-mÃªme."
+
+"Non, continuez, je vous prie," dit Alice trÃ¨s-humblement. "Je ne vous
+interromprai plus; peut-Ãªtre en existe-t-il _un_."
+
+"Un, vraiment!" dit le Loir avec indignation; toutefois il voulut
+bien continuer. "Donc, ces trois petites sÅurs, vous saurez qu'elles
+faisaient tout ce qu'elles pouvaient pour s'en tirer."
+
+"Comment auraient-elles pu s'en tirer?" dit Alice, oubliant tout Ã  fait
+sa promesse.
+
+"C'est tout simple----"
+
+"Il me faut une tasse propre," interrompit le Chapelier. "AvanÃ§ons tous
+d'une place."
+
+Il avanÃ§ait tout en parlant, et le Loir le suivit; le LiÃ¨vre prit la
+place du Loir, et Alice prit, d'assez mauvaise grÃ¢ce, celle du LiÃ¨vre.
+Le Chapelier fut le seul qui gagnÃ¢t au change; Alice se trouva bien
+plus mal partagÃ©e qu'auparavant, car le LiÃ¨vre venait de renverser le
+lait dans son assiette.
+
+Alice, craignant d'offenser le Loir, reprit avec circonspection: "Mais
+je ne comprends pas; comment auraient-elles pu s'en tirer?"
+
+"C'est tout simple," dit le Chapelier. "Quand il y a de l'eau dans un
+puits, vous savez bien comment on en tire, n'est-ce pas? Eh bien! d'un
+puits de mÃ©lasse on tire de la mÃ©lasse, et quand il y a des petites
+filles dans la mÃ©lasse on les tire en mÃªme temps; comprenez-vous,
+petite sotte?"
+
+"Pas tout Ã  fait," dit Alice, encore plus embarrassÃ©e par cette rÃ©ponse.
+
+"Alors vous feriez bien de vous taire," dit le Chapelier.
+
+Alice trouva cette grossiÃ¨retÃ© un peu trop forte; elle se leva indignÃ©e
+et s'en alla. Le Loir s'endormit Ã  l'instant mÃªme, et les deux autres
+ne prirent pas garde Ã  son dÃ©part, bien qu'elle regardÃ¢t en arriÃ¨re
+deux ou trois fois, espÃ©rant presque qu'ils la rappelleraient. La
+derniÃ¨re fois qu'elle les vit, ils cherchaient Ã  mettre le Loir dans la
+thÃ©iÃ¨re.
+
+[Illustration]
+
+"A aucun prix je ne voudrais retourner auprÃ¨s de ces gens-lÃ ," dit
+Alice, en cherchant son chemin Ã  travers le bois. "C'est le thÃ© le plus
+ridicule auquel j'aie assistÃ© de ma vie!"
+
+Comme elle disait cela, elle s'aperÃ§ut qu'un des arbres avait une
+porte par laquelle on pouvait pÃ©nÃ©trer Ã  l'intÃ©rieur. "VoilÃ  qui est
+curieux," pensa-t-elle. "Mais tout est curieux aujourd'hui. Je crois
+que je ferai bien d'entrer tout de suite." Elle entra.
+
+Elle se retrouva encore dans la longue salle tout prÃ¨s de la petite
+table de verre.
+
+"Cette fois je m'y prendrai mieux," se dit-elle, et elle commenÃ§a par
+saisir la petite clef d'or et par ouvrir la porte qui menait au jardin,
+et puis elle se mit Ã  grignoter le morceau de champignon qu'elle avait
+mis dans sa poche, jusqu'Ã  ce qu'elle fÃ»t rÃ©duite Ã  environ deux
+pieds de haut; elle prit alors le petit passage; et enfin---- elle se
+trouva dans le superbe jardin au milieu des brillants parterres et des
+fraÃ®ches fontaines.
+
+
+
+
+CHAPITRE VIII.
+
+LE CROQUET DE LA REINE.
+
+
+UN grand rosier se trouvait Ã  l'entrÃ©e du jardin; les roses qu'il
+portait Ã©taient blanches, mais trois jardiniers Ã©taient en train de les
+peindre en rouge. Alice s'avanÃ§a pour les regarder, et, au moment oÃ¹
+elle approchait, elle en entendit un qui disait: "Fais donc attention,
+Cinq, et ne m'Ã©clabousse pas ainsi avec ta peinture."
+
+"Ce n'est pas de ma faute," dit Cinq d'un ton bourru, "c'est Sept qui
+m'a poussÃ© le coude."
+
+LÃ -dessus Sept leva les yeux et dit: "C'est cela, Cinq! Jetez toujours
+le blÃ¢me sur les autres!"
+
+"Vous feriez bien de vous taire, vous," dit Cinq. "J'ai entendu la
+Reine dire pas plus tard que hier que vous mÃ©ritiez d'Ãªtre dÃ©capitÃ©!"
+
+[Illustration]
+
+"Pourquoi donc cela?" dit celui qui avait parlÃ© le premier.
+
+"Cela ne vous regarde pas, Deux," dit Sept.
+
+"Si fait, cela le regarde," dit Cinq; "et je vais le lui dire. C'est
+pour avoir apportÃ© Ã  la cuisiniÃ¨re des oignons de tulipe au lieu
+d'oignons Ã  manger."
+
+Sept jeta lÃ  son pinceau et s'Ã©criait: "De toutes les injustices----"
+lorsque ses regards tombÃ¨rent par hasard sur Alice, qui restait lÃ  Ã 
+les regarder, et il se retint tout Ã  coup. Les autres se retournÃ¨rent
+aussi, et tous firent un profond salut.
+
+"Voudriez-vous avoir la bontÃ© de me dire pourquoi vous peignez ces
+roses?" demanda Alice un peu timidement.
+
+Cinq et Sept ne dirent rien, mais regardÃ¨rent Deux. Deux commenÃ§a Ã 
+voix basse: "Le fait est, voyez-vous, mademoiselle, qu'il devrait y
+avoir ici un rosier Ã  fleurs rouges, et nous en avons mis un Ã  fleurs
+blanches, par erreur. Si la Reine s'en apercevait nous aurions tous la
+tÃªte tranchÃ©e, vous comprenez. Aussi, mademoiselle, vous voyez que nous
+faisons de notre mieux avant qu'elle vienne pour----"
+
+A ce moment Cinq, qui avait regardÃ© tout le temps avec inquiÃ©tude de
+l'autre cÃ´tÃ© du jardin, s'Ã©cria: "La Reine! La Reine!" et les trois
+ouvriers se prÃ©cipitÃ¨rent aussitÃ´t la face contre terre. Il se faisait
+un grand bruit de pas, et Alice se retourna, dÃ©sireuse de voir la Reine.
+
+D'abord venaient des soldats portant des piques; ils Ã©taient tous
+faits comme les jardiniers, longs et plats, les mains et les pieds
+aux coins; ensuite venaient les dix courtisans. Ceux-ci Ã©taient
+tous parÃ©s de carreaux de diamant et marchaient deux Ã  deux comme
+les soldats. DerriÃ¨re eux venaient les enfants de la Reine; il y en
+avait dix, et les petits chÃ©rubins gambadaient joyeusement, se tenant
+par la main deux Ã  deux; ils Ã©taient tous ornÃ©s de cÅurs. AprÃ¨s eux
+venaient les invitÃ©s, des rois et des reines pour la plupart. Dans le
+nombre, Alice reconnut le Lapin Blanc. Il avait l'air Ã©mu et agitÃ© en
+parlant, souriait Ã  tout ce qu'on disait, et passa sans faire attention
+Ã  elle. Suivait le Valet de CÅur, portant la couronne sur un coussin
+de velours; et, fermant cette longue procession, LE ROI ET LA REINE DE
+CÅUR.
+
+Alice ne savait pas au juste si elle devait se prosterner comme les
+trois jardiniers; mais elle ne se rappelait pas avoir jamais entendu
+parler d'une pareille formalitÃ©. "Et d'ailleurs Ã  quoi serviraient les
+processions," pensa-t-elle, "si les gens avaient Ã  se mettre la face
+contre terre de faÃ§on Ã  ne pas les voir?" Elle resta donc debout Ã  sa
+place et attendit.
+
+Quand la procession fut arrivÃ©e en face d'Alice, tout le monde s'arrÃªta
+pour la regarder, et la Reine dit sÃ©vÃ¨rement: "Qui est-ce?" Elle
+s'adressait au Valet de CÅur, qui se contenta de saluer et de sourire
+pour toute rÃ©ponse.
+
+"Idiot!" dit la Reine en rejetant la tÃªte en arriÃ¨re avec impatience;
+et, se tournant vers Alice, elle continua: "Votre nom, petite?"
+
+"Je me nomme Alice, s'il plaÃ®t Ã  Votre MajestÃ©," dit Alice fort
+poliment. Mais elle ajouta en elle-mÃªme: "Ces gens-lÃ  ne sont, aprÃ¨s
+tout, qu'un paquet de cartes. Pourquoi en aurais-je peur?"
+
+"Et qui sont ceux-ci?" dit la Reine, montrant du doigt les trois
+jardiniers Ã©tendus autour du rosier. Car vous comprenez que, comme ils
+avaient la face contre terre et que le dessin qu'ils avaient sur le dos
+Ã©tait le mÃªme que celui des autres cartes du paquet, elle ne pouvait
+savoir s'ils Ã©taient des jardiniers, des soldats, des courtisans, ou
+bien trois de ses propres enfants.
+
+"Comment voulez-vous que je le sache?" dit Alice avec un courage qui
+la surprit elle-mÃªme. "Cela n'est pas mon affaire Ã  moi."
+
+[Illustration]
+
+La Reine devint pourpre de colÃ¨re; et aprÃ¨s l'avoir considÃ©rÃ©e un
+moment avec des yeux flamboyants comme ceux d'une bÃªte fauve, elle se
+mit Ã  crier: "Qu'on lui coupe la tÃªte!"
+
+"Quelle idÃ©e!" dit Alice trÃ¨s-haut et d'un ton dÃ©cidÃ©. La Reine se tut.
+
+Le Roi lui posa la main sur le bras, et lui dit timidement: "ConsidÃ©rez
+donc, ma chÃ¨re amie, que ce n'est qu'une enfant."
+
+La Reine lui tourna le dos avec colÃ¨re, et dit au Valet:
+"Retournez-les!"
+
+Ce que fit le Valet trÃ¨s-soigneusement du bout du pied.
+
+"Debout!" dit la Reine d'une voix forte et stridente. Les trois
+jardiniers se relevÃ¨rent Ã  l'instant et se mirent Ã  saluer le Roi, la
+Reine, les jeunes princes, et tout le monde.
+
+"Finissez!" cria la Reine. "Vous m'Ã©tourdissez." Alors, se tournant
+vers le rosier, elle continua: "Qu'est-ce que vous faites donc lÃ ?"
+
+"Avec le bon plaisir de Votre MajestÃ©," dit Deux d'un ton trÃ¨s-humble,
+mettant un genou en terre, "nous tÃ¢chions----"
+
+"Je le vois bien!" dit la Reine, qui avait pendant ce temps examinÃ©
+les roses. "Qu'on leur coupe la tÃªte!" Et la procession continua
+sa route, trois des soldats restant en arriÃ¨re pour exÃ©cuter les
+malheureux jardiniers, qui coururent se mettre sous la protection
+d'Alice.
+
+"Vous ne serez pas dÃ©capitÃ©s," dit Alice; et elle les mit dans un grand
+pot Ã  fleurs qui se trouvait prÃ¨s de lÃ . Les trois soldats errÃ¨rent de
+cÃ´tÃ© et d'autre, pendant une ou deux minutes, pour les chercher, puis
+s'en allÃ¨rent tranquillement rejoindre les autres.
+
+"Leur a-t-on coupÃ© la tÃªte?" cria la Reine.
+
+"Leurs tÃªtes n'y sont plus, s'il plaÃ®t Ã  Votre MajestÃ©!" lui criÃ¨rent
+les soldats.
+
+"C'est bien!" cria la Reine. "Savez-vous jouer au croquet?"
+
+Les soldats ne soufflÃ¨rent mot, et regardÃ¨rent Alice, car, Ã©videmment,
+c'Ã©tait Ã  elle que s'adressait la question.
+
+"Oui," cria Alice.
+
+"Eh bien, venez!" hurla la Reine; et Alice se joignit Ã  la procession,
+fort curieuse de savoir ce qui allait arriver.
+
+"Il fait un bien beau temps aujourd'hui," dit une voix timide Ã  cÃ´tÃ©
+d'elle. Elle marchait auprÃ¨s du Lapin Blanc, qui la regardait d'un Åil
+inquiet.
+
+"Bien beau," dit Alice. "OÃ¹ est la Duchesse?"
+
+"Chut! Chut!" dit vivement le Lapin Ã  voix basse et en regardant avec
+inquiÃ©tude par-dessus son Ã©paule. Puis il se leva sur la pointe des
+pieds, colla sa bouche Ã  l'oreille d'Alice et lui souffla: "Elle est
+condamnÃ©e Ã  mort."
+
+"Pour quelle raison?" dit Alice.
+
+"Avez-vous dit: 'quel dommage?'" demanda le Lapin.
+
+"Non," dit Alice. "Je ne pense pas du tout que ce soit dommage. J'ai
+dit: 'pour quelle raison?'"
+
+"Elle a donnÃ© des soufflets Ã  la Reine," commenÃ§a le Lapin. (Alice fit
+entendre un petit Ã©clat de rire.) "Oh, chut!" dit tout bas le Lapin
+d'un ton effrayÃ©. "La Reine va nous entendre! Elle est arrivÃ©e un peu
+tard, voyez-vous, et la Reine a dit----"
+
+"A vos places!" cria la Reine d'une voix de tonnerre, et les gens se
+mirent Ã  courir dans toutes les directions, trÃ©buchant les uns contre
+les autres; toutefois, au bout de quelques instants chacun fut Ã  sa
+place et la partie commenÃ§a.
+
+[Illustration]
+
+Alice n'avait de sa vie vu de jeu de croquet aussi curieux que
+celui-lÃ . Le terrain n'Ã©tait que billons et sillons; des hÃ©rissons
+vivants servaient de boules, et des flamants de maillets. Les soldats,
+courbÃ©s en deux, avaient Ã  se tenir la tÃªte et les pieds sur le sol
+pour former des arches.
+
+Ce qui embarrassa le plus Alice au commencement du jeu, ce fut de
+manier le flamant; elle parvenait bien Ã  fourrer son corps assez
+commodÃ©ment sous son bras, en laissant pendre les pieds; mais, le plus
+souvent, Ã  peine lui avait-elle allongÃ© le cou bien comme il faut,
+et allait-elle frapper le hÃ©risson avec la tÃªte, que le flamant se
+relevait en se tordant, et la regardait d'un air si Ã©bahi qu'elle ne
+pouvait s'empÃªcher d'Ã©clater de rire; et puis, quand elle lui avait
+fait baisser la tÃªte et allait recommencer, il Ã©tait bien impatientant
+de voir que le hÃ©risson s'Ã©tait dÃ©roulÃ© et s'en allait. En outre, il se
+trouvait ordinairement un billon ou un sillon dans son chemin partout
+oÃ¹ elle voulait envoyer le hÃ©risson, et comme les soldats courbÃ©s
+en deux se relevaient sans cesse pour s'en aller d'un autre cÃ´tÃ© du
+terrain, Alice en vint bientÃ´t Ã  cette conclusion: que c'Ã©tait lÃ  un
+jeu fort difficile, en vÃ©ritÃ©.
+
+Les joueurs jouaient tous Ã  la fois, sans attendre leur tour, se
+querellant tout le temps et se battant Ã  qui aurait les hÃ©rissons. La
+Reine entra bientÃ´t dans une colÃ¨re furieuse et se mit Ã  trÃ©pigner en
+criant: "Qu'on coupe la tÃªte Ã  celui-ci!" ou bien: "Qu'on coupe la tÃªte
+Ã  celle-lÃ !" une fois environ par minute.
+
+Alice commenÃ§a Ã  se sentir trÃ¨s-mal Ã  l'aise; il est vrai qu'elle
+ne s'Ã©tait pas disputÃ©e avec la Reine; mais elle savait que cela
+pouvait lui arriver Ã  tout moment. "Et alors," pensait-elle, "que
+deviendrai-je? Ils aiment terriblement Ã  couper la tÃªte aux gens ici.
+Ce qui m'Ã©tonne, c'est qu'il en reste encore de vivants."
+
+Elle cherchait autour d'elle quelque moyen de s'Ã©chapper, et se
+demandait si elle pourrait se retirer sans Ãªtre vue; lorsqu'elle
+aperÃ§ut en l'air quelque chose d'Ã©trange; cette apparition l'intrigua
+beaucoup d'abord, mais, aprÃ¨s l'avoir considÃ©rÃ©e quelques instants,
+elle dÃ©couvrit que c'Ã©tait une grimace, et se dit en elle-mÃªme, "C'est
+le GrimaÃ§on; maintenant j'aurai Ã  qui parler."
+
+"Comment cela va-t-il?" dit le Chat, quand il y eut assez de sa bouche
+pour qu'il pÃ»t parler.
+
+Alice attendit que les yeux parussent, et lui fit alors un signe de
+tÃªte amical. "Il est inutile de lui parler," pensait-elle, "avant que
+ses oreilles soient venues, l'une d'elle tout au moins." Une minute
+aprÃ¨s, la tÃªte se montra tout entiÃ¨re, et alors Alice posa Ã  terre son
+flamant et se mit Ã  raconter sa partie de croquet, enchantÃ©e d'avoir
+quelqu'un qui l'Ã©coutÃ¢t. Le Chat trouva apparemment qu'il s'Ã©tait assez
+mis en vue; car sa tÃªte fut tout ce qu'on en aperÃ§ut.
+
+"Ils ne jouent pas du tout franc jeu," commenÃ§a Alice d'un ton de
+mÃ©contentement, "et ils se querellent tous si fort, qu'on ne peut pas
+s'entendre parler; et puis on dirait qu'ils n'ont aucune rÃ¨gle prÃ©cise;
+du moins, s'il y a des rÃ¨gles, personne ne les suit. Ensuite vous
+n'avez pas idÃ©e comme cela embrouille que tous les instruments du jeu
+soient vivants; par exemple, voilÃ  l'arche par laquelle j'ai Ã  passer
+qui se promÃ¨ne lÃ -bas Ã  l'autre bout du jeu, et j'aurais fait croquet
+sur le hÃ©risson de la Reine tout Ã  l'heure, s'il ne s'Ã©tait pas sauvÃ©
+en voyant venir le mien!"
+
+"Est-ce que vous aimez la Reine?" dit le Chat Ã  voix basse.
+
+"Pas du tout," dit Alice. "Elle est si----" Au mÃªme instant elle
+aperÃ§ut la Reine tout prÃ¨s derriÃ¨re elle, qui Ã©coutait; alors elle
+continua: "si sÃ»re de gagner, que ce n'est guÃ¨re la peine de finir la
+partie."
+
+La Reine sourit et passa.
+
+"Avec qui causez-vous donc lÃ ," dit le Roi, s'approchant d'Alice et
+regardant avec une extrÃªme curiositÃ© la tÃªte du Chat.
+
+"C'est un de mes amis, un GrimaÃ§on," dit Alice: "permettez-moi de vous
+le prÃ©senter."
+
+"Sa mine ne me plaÃ®t pas du tout," dit le Roi. "Pourtant il peut me
+baiser la main, si cela lui fait plaisir."
+
+"Non, grand merci," dit le Chat.
+
+"Ne faites pas l'impertinent," dit le Roi, "et ne me regardez pas
+ainsi!" Il s'Ã©tait mis derriÃ¨re Alice en disant ces mots.
+
+"Un chat peut bien regarder un roi," dit Alice. "J'ai lu quelque chose
+comme cela dans un livre, mais je ne me rappelle pas oÃ¹."
+
+"Eh bien, il faut le faire enlever," dit le Roi d'un ton trÃ¨s-dÃ©cidÃ©;
+et il cria Ã  la Reine, qui passait en ce moment: "Mon amie, je
+dÃ©sirerais que vous fissiez enlever ce chat!"
+
+La Reine n'avait qu'une seule maniÃ¨re de trancher les difficultÃ©s,
+petites ou grandes. "Qu'on lui coupe la tÃªte!" dit-elle sans mÃªme se
+retourner.
+
+"Je vais moi-mÃªme chercher le bourreau," dit le Roi avec empressement;
+et il s'en alla prÃ©cipitamment.
+
+Alice pensa qu'elle ferait bien de retourner voir oÃ¹ en Ã©tait la
+partie, car elle entendait au loin la voix de la Reine qui criait de
+colÃ¨re. Elle l'avait dÃ©jÃ  entendue condamner trois des joueurs Ã  avoir
+la tÃªte coupÃ©e, parce qu'ils avaient laissÃ© passer leur tour, et elle
+n'aimait pas du tout la tournure que prenaient les choses; car le jeu
+Ã©tait si embrouillÃ© qu'elle ne savait jamais quand venait son tour.
+Elle alla Ã  la recherche de son hÃ©risson.
+
+Il Ã©tait en train de se battre avec un autre hÃ©risson; ce qui parut Ã 
+Alice une excellente occasion de faire croquet de l'un sur l'autre. Il
+n'y avait Ã  cela qu'une difficultÃ©, et c'Ã©tait que son flamant avait
+passÃ© de l'autre cÃ´tÃ© du jardin, oÃ¹ Alice le voyait qui faisait de
+vains efforts pour s'enlever et se percher sur un arbre.
+
+Quand elle eut rattrapÃ© et ramenÃ© le flamant, la bataille Ã©tait
+terminÃ©e, et les deux hÃ©rissons avaient disparu. "Mais cela ne fait
+pas grand'chose," pensa Alice, "puisque toutes les arches ont quittÃ©
+ce cÃ´tÃ© de la pelouse." Elle remit donc le flamant sous son bras pour
+qu'il ne lui Ã©chappÃ¢t plus, et retourna causer un peu avec son ami.
+
+Quand elle revint auprÃ¨s du Chat, elle fut surprise de trouver une
+grande foule rassemblÃ©e autour de lui. Une discussion avait lieu entre
+le bourreau, le Roi, et la Reine, qui parlaient tous Ã  la fois, tandis
+que les autres ne soufflaient mot et semblaient trÃ¨s-mal Ã  l'aise.
+
+DÃ¨s que parut Alice, ils en appelÃ¨rent Ã  elle tous les trois pour
+qu'elle dÃ©cidÃ¢t la question, et lui rÃ©pÃ©tÃ¨rent leurs raisonnements.
+Comme ils parlaient tous Ã  la fois, elle eut beaucoup de peine Ã 
+comprendre ce qu'ils disaient.
+
+Le raisonnement du bourreau Ã©tait: qu'on ne pouvait pas trancher une
+tÃªte, Ã  moins qu'il n'y eÃ»t un corps d'oÃ¹ l'on pÃ»t la couper; que
+jamais il n'avait eu pareille chose Ã  faire, et que ce n'Ã©tait pas _Ã 
+son Ã¢ge_ qu'il allait commencer.
+
+[Illustration]
+
+Le raisonnement du Roi Ã©tait: que tout ce qui avait une tÃªte pouvait
+Ãªtre dÃ©capitÃ©, et qu'il ne fallait pas dire des choses qui n'avaient
+pas de bon sens.
+
+Le raisonnement de la Reine Ã©tait: que si la question ne se dÃ©cidait
+pas en moins de rien, elle ferait trancher la tÃªte Ã  tout le monde Ã  la
+ronde. (C'Ã©tait cette derniÃ¨re observation qui avait donnÃ© Ã  toute la
+compagnie l'air si grave et si inquiet.)
+
+Alice ne trouva rien de mieux Ã  dire que: "Il appartient Ã  la Duchesse;
+c'est elle que vous feriez bien de consulter Ã  ce sujet."
+
+"Elle est en prison," dit la Reine au bourreau. "Qu'on l'amÃ¨ne ici." Et
+le bourreau partit comme un trait.
+
+La tÃªte du Chat commenÃ§a Ã  s'Ã©vanouir aussitÃ´t que le bourreau fut
+parti, et elle avait complÃ©tement disparu quand il revint accompagnÃ© de
+la Duchesse; de sorte que le Roi et le bourreau se mirent Ã  courir de
+cÃ´tÃ© et d'autre comme des fous pour trouver cette tÃªte, tandis que le
+reste de la compagnie retournait au jeu.
+
+
+
+
+CHAPITRE IX.
+
+HISTOIRE DE LA FAUSSE-TORTUE.
+
+
+"VOUS ne sauriez croire combien je suis heureuse de vous voir, ma bonne
+vieille fille!" dit la Duchesse, passant amicalement son bras sous
+celui d'Alice, et elles s'Ã©loignÃ¨rent ensemble.
+
+Alice Ã©tait bien contente de la trouver de si bonne humeur, et pensait
+en elle-mÃªme que c'Ã©tait peut-Ãªtre le poivre qui l'avait rendue si
+mÃ©chante, lorsqu'elles se rencontrÃ¨rent dans la cuisine. "Quand
+je serai Duchesse, moi," se dit-elle (d'un ton qui exprimait peu
+d'espÃ©rance cependant), "je n'aurai pas de poivre dans ma cuisine, pas
+le moindre grain. La soupe peut trÃ¨s-bien s'en passer. Ãa pourrait
+bien Ãªtre le poivre qui Ã©chauffe la bile des gens," continua-t-elle,
+enchantÃ©e d'avoir fait cette dÃ©couverte; "Ã§a pourrait bien Ãªtre le
+vinaigre qui les aigrit; la camomille qui les rend amÃ¨res; et le sucre
+d'orge et d'autres choses du mÃªme genre qui adoucissent le caractÃ¨re
+des enfants. Je voudrais bien que tout le monde sÃ»t cela; on ne serait
+pas si chiche de sucreries, voyez-vous."
+
+Elle avait alors complÃ©tement oubliÃ© la Duchesse, et tressaillit en
+entendant sa voix tout prÃ¨s de son oreille. "Vous pensez Ã  quelque
+chose, ma chÃ¨re petite, et cela vous fait oublier de causer. Je ne puis
+pas vous dire en ce moment quelle est la morale de ce fait, mais je
+m'en souviendrai tout Ã  l'heure."
+
+"Peut-Ãªtre n'y en a-t-il pas," se hasarda de dire Alice.
+
+"Bah, bah, mon enfant!" dit la Duchesse. "Il y a une morale Ã  tout, si
+seulement on pouvait la trouver." Et elle se serra plus prÃ¨s d'Alice en
+parlant.
+
+Alice n'aimait pas trop qu'elle se tÃ®nt si prÃ¨s d'elle; d'abord parce
+que la Duchesse Ã©tait trÃ¨s-laide, et ensuite parce qu'elle Ã©tait juste
+assez grande pour appuyer son menton sur l'Ã©paule d'Alice, et c'Ã©tait
+un menton trÃ¨s-dÃ©sagrÃ©ablement pointu. Pourtant elle ne voulait pas
+Ãªtre impolie, et elle supporta cela de son mieux.
+
+[Illustration]
+
+"La partie va un peu mieux maintenant," dit-elle, afin de soutenir la
+conversation.
+
+"C'est vrai," dit la Duchesse; "et la morale en est: 'Oh! c'est
+l'amour, l'amour qui fait aller le monde Ã  la ronde!'"
+
+"Quelqu'un a dit," murmura Alice, "que c'est quand chacun s'occupe de
+ses affaires que le monde n'en va que mieux."
+
+"Eh bien! Cela signifie presque la mÃªme chose," dit la Duchesse, qui
+enfonÃ§a son petit menton pointu dans l'Ã©paule d'Alice, en ajoutant: "Et
+la morale en est: 'Un chien vaut mieux que deux gros rats.'"
+
+"Comme elle aime Ã  trouver des morales partout!" pensa Alice.
+
+"Je parie que vous vous demandez pourquoi je ne passe pas mon bras
+autour de votre taille," dit la Duchesse aprÃ¨s une pause: "La raison
+en est que je ne me fie pas trop Ã  votre flamant. Voulez-vous que
+j'essaie?"
+
+"Il pourrait mordre," rÃ©pondit Alice, qui ne se sentait pas la moindre
+envie de faire l'essai proposÃ©.
+
+"C'est bien vrai," dit la Duchesse; "les flamants et la moutarde
+mordent tous les deux, et la morale en est: 'Qui se ressemble,
+s'assemble.'"
+
+"Seulement la moutarde n'est pas un oiseau," rÃ©pondit Alice.
+
+"Vous avez raison, comme toujours," dit la Duchesse; "avec quelle
+clartÃ© vous prÃ©sentez les choses!"
+
+"C'est un minÃ©ral, je crois," dit Alice.
+
+"AssurÃ©ment," dit la Duchesse, qui semblait prÃªte Ã  approuver tout ce
+que disait Alice; "il y a une bonne mine de moutarde prÃ¨s d'ici; la
+morale en est qu'il faut faire bonne mine Ã  tout le monde!"
+
+"Oh! je sais," s'Ã©cria Alice, qui n'avait pas fait attention Ã  cette
+derniÃ¨re observation, "c'est un vÃ©gÃ©tal; Ã§a n'en a pas l'air, mais c'en
+est un."
+
+"Je suis tout Ã  fait de votre avis," dit la Duchesse, "et la morale en
+est: 'Soyez ce que vous voulez paraÃ®tre;' ou, si vous voulez que je le
+dise plus simplement: 'Ne vous imaginez jamais de ne pas Ãªtre autrement
+que ce qu'il pourrait sembler aux autres que ce que vous Ã©tiez ou
+auriez pu Ãªtre n'Ã©tait pas autrement que ce que vous aviez Ã©tÃ© leur
+aurait paru Ãªtre autrement.'"
+
+"Il me semble que je comprendrais mieux cela," dit Alice fort poliment,
+"si je l'avais par Ã©crit: mais je ne peux pas trÃ¨s-bien le suivre comme
+vous le dites."
+
+"Cela n'est rien auprÃ¨s de ce que je pourrais dire si je voulais,"
+rÃ©pondit la Duchesse d'un ton satisfait.
+
+"Je vous en prie, ne vous donnez pas la peine d'allonger davantage
+votre explication," dit Alice.
+
+"Oh! ne parlez pas de ma peine," dit la Duchesse; "je vous fais cadeau
+de tout ce que j'ai dit jusqu'Ã  prÃ©sent."
+
+"VoilÃ  un cadeau qui n'est pas cher!" pensa Alice. "Je suis bien
+contente qu'on ne fasse pas de cadeau d'anniversaire comme cela!" Mais
+elle ne se hasarda pas Ã  le dire tout haut.
+
+"Encore Ã  rÃ©flÃ©chir?" demanda la Duchesse, avec un nouveau coup de son
+petit menton pointu.
+
+"J'ai bien le droit de rÃ©flÃ©chir," dit Alice sÃ¨chement, car elle
+commenÃ§ait Ã  se sentir un peu ennuyÃ©e.
+
+"A peu prÃ¨s le mÃªme droit," dit la Duchesse, "que les cochons de voler,
+et la mo----"
+
+Mais ici, au grand Ã©tonnement d'Alice, la voix de la Duchesse
+s'Ã©teignit au milieu de son mot favori, _morale_, et le bras qui Ã©tait
+passÃ© sous le sien commenÃ§a de trembler. Alice leva les yeux et vit la
+Reine en face d'elle, les bras croisÃ©s, sombre et terrible comme un
+orage.
+
+"VoilÃ  un bien beau temps, Votre MajestÃ©!" fit la Duchesse, d'une voix
+basse et tremblante.
+
+"Je vous en prÃ©viens!" cria la Reine, trÃ©pignant tout le temps. "Hors
+d'ici, ou Ã  bas la tÃªte! et cela en moins de rien! Choisissez."
+
+La Duchesse eut bientÃ´t fait son choix: elle disparut en un clin d'Åil.
+
+"Continuons notre partie," dit la Reine Ã  Alice; et Alice, trop
+effrayÃ©e pour souffler mot, la suivit lentement vers la pelouse.
+
+Les autres invitÃ©s, profitant de l'absence de la Reine, se reposaient
+Ã  l'ombre, mais sitÃ´t qu'ils la virent ils se hÃ¢tÃ¨rent de retourner au
+jeu, la Reine leur faisant simplement observer qu'un instant de retard
+leur coÃ»terait la vie.
+
+Tant que dura la partie, la Reine ne cessa de se quereller avec les
+autres joueurs et de crier: "Qu'on coupe la tÃªte Ã  celui-ci! Qu'on
+coupe la tÃªte Ã  celle-lÃ !" Ceux qu'elle condamnait Ã©taient arrÃªtÃ©s par
+les soldats qui, bien entendu, avaient Ã  cesser de servir d'arches, de
+sorte qu'au bout d'une demi-heure environ, il ne restait plus d'arches,
+et tous les joueurs, Ã  l'exception du Roi, de la Reine, et d'Alice,
+Ã©taient arrÃªtÃ©s et condamnÃ©s Ã  avoir la tÃªte tranchÃ©e.
+
+Alors la Reine cessa le jeu toute hors d'haleine, et dit Ã  Alice:
+"Avez-vous vu la Fausse-Tortue?"
+
+"Non," dit Alice; "je ne sais mÃªme pas ce que c'est qu'une
+Fausse-Tortue."
+
+"C'est ce dont on fait la soupe Ã  la Fausse-Tortue," dit la Reine.
+
+"Je n'en ai jamais vu, et c'est la premiÃ¨re fois que j'en entends
+parler," dit Alice.
+
+[Illustration]
+
+"Eh bien! venez," dit la Reine, "et elle vous contera son histoire."
+
+Comme elles s'en allaient ensemble, Alice entendit le Roi dire Ã  voix
+basse Ã  toute la compagnie: "Vous Ãªtes tous graciÃ©s." "Allons, voilÃ 
+qui est heureux!" se dit-elle en elle-mÃªme, car elle Ã©tait toute
+chagrine du grand nombre d'exÃ©cutions que la Reine avait ordonnÃ©es.
+
+Elles rencontrÃ¨rent bientÃ´t un Griffon, Ã©tendu au soleil et dormant
+profondÃ©ment. (Si vous ne savez pas ce que c'est qu'un Griffon,
+regardez l'image.) "Debout! paresseux," dit la Reine, "et menez
+cette petite demoiselle voir la Fausse-Tortue, et l'entendre raconter
+son histoire. Il faut que je m'en retourne pour veiller Ã  quelques
+exÃ©cutions que j'ai ordonnÃ©es; "et elle partit laissant Alice seule
+avec le Griffon. La mine de cet animal ne plaisait pas trop Ã  Alice,
+mais, tout bien considÃ©rÃ©, elle pensa qu'elle ne courait pas plus de
+risques en restant auprÃ¨s de lui, qu'en suivant cette Reine farouche.
+
+Le Griffon se leva et se frotta les yeux, puis il guetta la Reine
+jusqu'Ã  ce qu'elle fÃ»t disparue; et il se mit Ã  ricaner. "Quelle
+farce!" dit le Griffon, moitiÃ© Ã  part soi, moitiÃ© Ã  Alice.
+
+"Quelle est la farce?" demanda Alice.
+
+"Elle!" dit le Griffon. "C'est une idÃ©e qu'elle se fait; jamais on
+n'exÃ©cute personne, vous comprenez. Venez donc!"
+
+"Tout le monde ici dit: 'Venez donc!'" pensa Alice, en suivant
+lentement le Griffon. "Jamais de ma vie on ne m'a fait aller comme
+cela; non, jamais!"
+
+Ils ne firent pas beaucoup de chemin avant d'apercevoir dans
+l'Ã©loignement la Fausse-Tortue assise, triste et solitaire, sur un
+petit rÃ©cif, et, Ã  mesure qu'ils approchaient, Alice pouvait l'entendre
+qui soupirait comme si son cÅur allait se briser; elle la plaignait
+sincÃ¨rement. "Quel est donc son chagrin?" demanda-t-elle au Griffon;
+et le Griffon rÃ©pondit, presque dans les mÃªmes termes qu'auparavant:
+"C'est une idÃ©e qu'elle se fait; elle n'a point de chagrin, vous
+comprenez. Venez donc!"
+
+Ainsi ils s'approchÃ¨rent de la Fausse-Tortue, qui les regarda avec de
+grands yeux pleins de larmes, mais ne dit rien.
+
+"Cette petite demoiselle," dit le Griffon, "veut savoir votre histoire."
+
+"Je vais la lui raconter," dit la Fausse-Tortue, d'un ton grave et
+sourd: "Asseyez-vous tous deux, et ne dites pas un mot avant que j'aie
+fini."
+
+Ils s'assirent donc, et pendant quelques minutes, personne ne dit mot.
+Alice pensait: "Je ne vois pas comment elle pourra jamais finir si
+elle ne commence pas." Mais elle attendit patiemment.
+
+[Illustration]
+
+"Autrefois," dit enfin la Fausse-Tortue, "j'Ã©tais une vraie Tortue."
+
+Ces paroles furent suivies d'un long silence interrompu seulement de
+temps Ã  autre par cette exclamation du Griffon: "Hjckrrh!" et les
+soupirs continuels de la Fausse-Tortue. Alice Ã©tait sur le point de se
+lever et de dire: "Merci de votre histoire intÃ©ressante," mais elle ne
+pouvait s'empÃªcher de penser qu'il devait sÃ»rement y en avoir encore Ã 
+venir. Elle resta donc tranquille sans rien dire.
+
+"Quand nous Ã©tions petits," continua la Fausse-Tortue d'un ton plus
+calme, quoiqu'elle laissÃ¢t encore de temps Ã  autre Ã©chapper un sanglot,
+"nous allions Ã  l'Ã©cole au fond de la mer. La maÃ®tresse Ã©tait une
+vieille tortue; nous l'appelions ChÃ©lonÃ©e."
+
+"Et pourquoi l'appeliez-vous ChÃ©lonÃ©e, si ce n'Ã©tait pas son nom?"
+
+"Parce qu'on ne pouvait s'empÃªcher de s'Ã©crier en la voyant: 'Quel long
+nez!'" dit la Fausse-Tortue d'un ton fÃ¢chÃ©; "vous Ãªtes vraiment bien
+bornÃ©e!"
+
+"Vous devriez avoir honte de faire une question si simple!" ajouta le
+Griffon; et puis tous deux gardÃ¨rent le silence, les yeux fixÃ©s sur
+la pauvre Alice, qui se sentait prÃªte Ã  rentrer sous terre. Enfin le
+Griffon dit Ã  la Fausse-Tortue, "En avant, camarade! TÃ¢chez d'en finir
+aujourd'hui!" et elle continua en ces termes:
+
+"Oui, nous allions Ã  l'Ã©cole dans la mer, bien que cela vous Ã©tonne."
+
+"Je n'ai pas dit cela," interrompit Alice.
+
+"Vous l'avez dit," rÃ©pondit la Fausse-Tortue.
+
+"Taisez-vous donc," ajouta le Griffon, avant qu'Alice pÃ»t reprendre la
+parole. La Fausse-Tortue continua:
+
+"Nous recevions la meilleure Ã©ducation possible; au fait, nous allions
+tous les jours Ã  l'Ã©cole."
+
+"Moi aussi, j'y ai Ã©tÃ© tous les jours," dit Alice; "il n'y a pas de
+quoi Ãªtre si fiÃ¨re."
+
+"Avec des 'en sus,'" dit la Fausse-Tortue avec quelque inquiÃ©tude.
+
+"Oui," dit Alice, "nous apprenions l'italien et la musique en sus."
+
+"Et le blanchissage?" dit la Fausse-Tortue.
+
+"Non, certainement!" dit Alice indignÃ©e.
+
+"Ah! Alors votre pension n'Ã©tait pas vraiment des bonnes," dit la
+Fausse-Tortue comme soulagÃ©e d'un grand poids. "Eh bien, Ã  notre
+pension il y avait au bas du prospectus: 'l'italien, la musique, et le
+blanchissage en sus.'"
+
+"Vous ne deviez pas en avoir grand besoin, puisque vous viviez au fond
+de la mer," dit Alice.
+
+"Je n'avais pas les moyens de l'apprendre," dit en soupirant la
+Fausse-Tortue; "je ne suivais que les cours ordinaires."
+
+"Qu'est-ce que c'Ã©tait?" demanda Alice.
+
+"A Luire et Ã  MÃ©dire, cela va sans dire," rÃ©pondit la Fausse-Tortue;
+"et puis les diffÃ©rentes branches de l'ArithmÃ©tique: l'Ambition, la
+Distraction, l'Enjolification, et la DÃ©rision."
+
+"Je n'ai jamais entendu parler d'enjolification," se hasarda de dire
+Alice. "Qu'est-ce que c'est?"
+
+Le Griffon leva les deux pattes en l'air en signe d'Ã©tonnement. "Vous
+n'avez jamais entendu parler d'enjolir!" s'Ã©cria-t-il. "Vous savez ce
+que c'est que 'embellir,' je suppose?"
+
+"Oui," dit Alice, en hÃ©sitant: "cela veut dire----rendre----une
+chose----plus belle."
+
+"Eh bien!" continua le Griffon, "si vous ne savez pas ce que c'est que
+'enjolir' vous Ãªtes vraiment niaise."
+
+Alice ne se sentit pas encouragÃ©e Ã  faire de nouvelles questions
+lÃ -dessus, elle se tourna donc vers la Fausse-Tortue, et lui dit,
+"Qu'appreniez-vous encore?"
+
+"Eh bien, il y avait le Grimoire," rÃ©pondit la Fausse-Tortue en
+comptant sur ses battoirs; "le Grimoire ancien et moderne, avec la
+MÃ©rographie, et puis le DÃ©dain; le maÃ®tre de DÃ©dain Ã©tait un vieux
+congre qui venait une fois par semaine; il nous enseignait Ã  DÃ©daigner,
+Ã  Esquiver et Ã  Feindre Ã  l'huÃ®tre."
+
+"Qu'est-ce que cela?" dit Alice.
+
+"Ah! je ne peux pas vous le montrer, moi," dit la Fausse-Tortue, "je
+suis trop gÃªnÃ©e, et le Griffon ne l'a jamais appris."
+
+"Je n'en avais pas le temps," dit le Griffon, "mais j'ai suivi les
+cours du professeur de langues mortes; c'Ã©tait un vieux crabe,
+celui-lÃ ."
+
+"Je n'ai jamais suivi ses cours," dit la Fausse-Tortue avec un soupir;
+"il enseignait le Larcin et la GrÃ¨ve."
+
+"C'est Ã§a, c'est Ã§a," dit le Griffon, en soupirant Ã  son tour; et ces
+deux crÃ©atures se cachÃ¨rent la figure dans leurs pattes.
+
+"Combien d'heures de leÃ§ons aviez-vous par jour?" dit Alice vivement,
+pour changer la conversation.
+
+"Dix heures, le premier jour," dit la Fausse-Tortue; "neuf heures, le
+second, et ainsi de suite."
+
+"Quelle singuliÃ¨re mÃ©thode!" s'Ã©cria Alice.
+
+"C'est pour cela qu'on les appelle leÃ§ons," dit le Griffon, "parce que
+nous les laissons lÃ  peu Ã  peu."
+
+C'Ã©tait lÃ  pour Alice une idÃ©e toute nouvelle; elle y rÃ©flÃ©chit un peu
+avant de faire une autre observation. "Alors le onziÃ¨me jour devait
+Ãªtre un jour de congÃ©?"
+
+"AssurÃ©ment," rÃ©pondit la Fausse-Tortue.
+
+"Et comment vous arrangiez-vous le douziÃ¨me jour?" s'empressa de
+demander Alice.
+
+"En voilÃ  assez sur les leÃ§ons," dit le Griffon intervenant d'un ton
+trÃ¨s-dÃ©cidÃ©; "parlez-lui des jeux maintenant."
+
+
+
+
+CHAPITRE X.
+
+LE QUADRILLE DE HOMARDS.
+
+
+LA Fausse-Tortue soupira profondÃ©ment et passa le dos d'une de ses
+nageoires sur ses yeux. Elle regarda Alice et s'efforÃ§a de parler,
+mais les sanglots Ã©touffÃ¨rent sa voix pendant une ou deux minutes. "On
+dirait qu'elle a un os dans le gosier," dit le Griffon, et il se mit Ã 
+la secouer et Ã  lui taper dans le dos. Enfin la Fausse-Tortue retrouva
+la voix, et, tandis que de grosses larmes coulaient le long de ses
+joues, elle continua:
+
+"Peut-Ãªtre n'avez-vous pas beaucoup vÃ©cu au fond de la mer?"--("Non,"
+dit Alice)--"et peut-Ãªtre ne vous a-t-on jamais prÃ©sentÃ©e Ã  un
+homard?" (Alice allait dire: "J'en ai goÃ»tÃ© une fois----" mais elle se
+reprit vivement, et dit: "Non, jamais.") "De sorte que vous ne pouvez
+pas du tout vous figurer quelle chose dÃ©licieuse c'est qu'un quadrille
+de homards."
+
+"Non, vraiment," dit Alice. "Qu'est-ce que c'est que cette danse-lÃ ?"
+
+"D'abord," dit le Griffon, "on se met en rang le long des bords de la
+mer----"
+
+"On forme deux rangs," cria la Fausse-Tortue: "des phoques, des tortues
+et des saumons, et ainsi de suite. Puis lorsqu'on a dÃ©barrassÃ© la cÃ´te
+des gelÃ©es de mer----"
+
+"Cela prend ordinairement longtemps," dit le Griffon.
+
+"----on avance deux fois----"
+
+"Chacun ayant un homard pour danseur," cria le Griffon.
+
+"Cela va sans dire," dit la Fausse-Tortue. "Avancez deux fois et
+balancez----"
+
+"Changez de homards, et revenez dans le mÃªme ordre," continua le
+Griffon.
+
+"Et puis, vous comprenez," continua la Fausse-Tortue, "vous jetez
+les----"
+
+"Les homards!" cria le Griffon, en faisant un bond en l'air.
+
+"----aussi loin Ã  la mer que vous le pouvez----"
+
+"Vous nagez Ã  leur poursuite!!" cria le Griffon.
+
+"----vous faites une cabriole dans la mer!!!" cria la Fausse-Tortue, en
+cabriolant de tous cÃ´tÃ©s comme une folle.
+
+"Changez encore de homards!!!!" hurla le Griffon de toutes ses forces.
+
+"----revenez Ã  terre; et----c'est lÃ  la premiÃ¨re figure," dit la
+Fausse-Tortue, baissant tout Ã  coup la voix; et ces deux Ãªtres, qui
+pendant tout ce temps avaient bondi de tous cÃ´tÃ©s comme des fous, se
+rassirent bien tristement et bien posÃ©ment, puis regardÃ¨rent Alice.
+
+"Cela doit Ãªtre une trÃ¨s-jolie danse," dit timidement Alice.
+
+"Voudriez-vous, voir un peu comment Ã§a se danse?" dit la Fausse-Tortue.
+
+[Illustration]
+
+"Cela me ferait grand plaisir," dit Alice.
+
+"Allons, essayons la premiÃ¨re figure," dit la Fausse-Tortue au Griffon;
+"nous pouvons la faire sans homards, vous comprenez. Qui va chanter?"
+
+"Oh! chantez, vous," dit le Griffon; "moi j'ai oubliÃ© les paroles."
+
+Il se mirent donc Ã  danser gravement tout autour d'Alice, lui marchant
+de temps Ã  autre sur les pieds quand ils approchaient trop prÃ¨s, et
+remuant leurs pattes de devant pour marquer la mesure, tandis que la
+Fausse-Tortue chantait trÃ¨s-lentement et trÃ¨s-tristement:
+
+    _"Nous n'irons plus Ã  l'eau,
+    Si tu n'avances tÃ´t;
+    Ce Marsouin trop pressÃ©
+    Va tous nous Ã©craser.
+      ColimaÃ§on danse,
+      Entre dans la danse;
+      Sautons, dansons,
+  Avant de faire un plongeon."
+
+    "Je ne veux pas danser,
+    Je me f'rais fracasser."
+    "Oh!" reprend le Merlan,
+    "C'est pourtant bien plaisant."
+      ColimaÃ§on danse,
+      Entre dans la danse;
+      Sautons, dansons,
+  Avant de faire un plongeon.
+
+    "Je ne veux pas plonger,
+    Je ne sais pas nager"
+    --"Le Homard et l' bateau
+    D' sauv'tag' te tir'ront d' l'eau."
+      ColimaÃ§on danse,
+      Entre dans la danse;
+      Sautons, dansons,
+  Avant de faire un plongeon._
+
+"Merci; c'est une danse trÃ¨s-intÃ©ressante Ã  voir danser," dit Alice,
+enchantÃ©e que ce fÃ»t enfin fini; "et je trouve cette curieuse chanson
+du merlan si agrÃ©able!"
+
+"Oh! quant aux merlans," dit la Fausse-Tortue, "ils---- vous les avez
+vus sans doute?"
+
+"Oui," dit Alice, "je les ai souvent vus Ã  dÃ®----" elle s'arrÃªta tout
+court.
+
+"Je ne sais pas oÃ¹ est Di," reprit la Fausse-Tortue; "mais, puisque
+vous les avez vus si souvent, vous devez savoir l'air qu'ils ont?"
+
+"Je le crois," rÃ©pliqua Alice, en se recueillant. "Ils ont la queue
+dans la bouche---- et sont tout couverts de mie de pain."
+
+"Vous vous trompez Ã  l'endroit de la mie de pain," dit la
+Fausse-Tortue: "la mie serait enlevÃ©e dans la mer, mais ils ont bien la
+queue dans la bouche, et la raison en est que----" Ici la Fausse-Tortue
+bÃ¢illa et ferma les yeux. "Dites-lui-en la raison et tout ce qui
+s'ensuit," dit-elle au Griffon.
+
+"La raison, c'est que les merlans," dit le Griffon, "voulurent
+absolument aller Ã  la danse avec les homards. Alors on les jeta Ã 
+la mer. Alors ils eurent Ã  tomber bien loin, bien loin. Alors ils
+s'entrÃ¨rent la queue fortement dans la bouche. Alors ils ne purent plus
+l'en retirer. VoilÃ  tout."
+
+"Merci," dit Alice, "c'est trÃ¨s-intÃ©ressant; je n'en avais jamais tant
+appris sur le compte des merlans."
+
+"Je propose donc," dit le Griffon, "que vous nous racontiez
+quelques-unes de vos aventures."
+
+"Je pourrais vous conter mes aventures Ã  partir de ce matin," dit Alice
+un peu timidement; "mais il est inutile de parler de la journÃ©e d'hier,
+car j'Ã©tais une personne tout Ã  fait diffÃ©rente alors."
+
+"Expliquez-nous cela," dit la Fausse-Tortue.
+
+"Non, non, les aventures d'abord," dit le Griffon d'un ton
+d'impatience; "les explications prennent tant de temps."
+
+Alice commenÃ§a donc Ã  leur conter ses aventures depuis le moment oÃ¹
+elle avait vu le Lapin Blanc pour la premiÃ¨re fois. Elle fut d'abord un
+peu troublÃ©e dans le commencement; les deux crÃ©atures se tenaient si
+prÃ¨s d'elle, une de chaque cÃ´tÃ©, et ouvraient de si grands yeux et une
+si grande bouche! Mais elle reprenait courage Ã  mesure qu'elle parlait.
+Les auditeurs restÃ¨rent fort tranquilles jusqu'Ã  ce qu'elle arrivÃ¢t au
+moment de son histoire oÃ¹ elle avait eu Ã  rÃ©pÃ©ter Ã  la chenille: "_Vous
+Ãªtes vieux, PÃ¨re Guillaume,_" et oÃ¹ les mots lui Ã©taient venus tout de
+travers, et alors la Fausse-Tortue poussa un long soupir et dit: "C'est
+bien singulier."
+
+"Tout cela est on ne peut plus singulier," dit le Griffon.
+
+"Tout de travers," rÃ©pÃ©ta la Fausse-Tortue d'un air rÃªveur. "Je
+voudrais bien l'entendre rÃ©citer quelque chose Ã  prÃ©sent. Dites-lui de
+s'y mettre." Elle regardait le Griffon comme si elle lui croyait de
+l'autoritÃ© sur Alice.
+
+[Illustration]
+
+"Debout, et rÃ©citez: '_C'est la voix du canon,_'" dit le Griffon.
+
+"Comme ces Ãªtres-lÃ  vous commandent et vous font rÃ©pÃ©ter des leÃ§ons!"
+pensa Alice; "autant vaudrait Ãªtre Ã  l'Ã©cole." Cependant elle se leva
+et se mit Ã  rÃ©citer; mais elle avait la tÃªte si pleine du Quadrille de
+Homards, qu'elle savait Ã  peine ce qu'elle disait, et que les mots lui
+venaient tout drÃ´lement:--
+
+  _"C'est la voix du homard grondant comme la foudre:
+  'On m'a trop fait bouillir, il faut que je me poudre!'
+  Puis, les pieds en dehors, prenant la brosse en main,
+  De se faire bien beau vite il se met en train."_
+
+"C'est tout diffÃ©rent de ce que je rÃ©citais quand j'Ã©tais petit, moi,"
+dit le Griffon.
+
+"Je ne l'avais pas encore entendu rÃ©citer," dit la Fausse-Tortue; "mais
+cela me fait l'effet d'un fameux galimatias."
+
+Alice ne dit rien; elle s'Ã©tait rassise, la figure dans ses mains, se
+demandant avec Ã©tonnement si jamais les choses reprendraient leur cours
+naturel.
+
+"Je voudrais bien qu'on m'expliquÃ¢t cela," dit la Fausse-Tortue.
+
+"Elle ne peut pas l'expliquer," dit le Griffon vivement. "Continuez,
+rÃ©citez les vers suivants."
+
+"Mais, _les pieds en dehors_," continua opiniÃ¢trement la Fausse-Tortue.
+"Pourquoi dire qu'il avait les pieds en dehors?"
+
+"C'est la premiÃ¨re position lorsqu'on apprend Ã  danser," dit Alice;
+tout cela l'embarrassait fort, et il lui tardait de changer la
+conversation.
+
+"RÃ©citez les vers suivants," rÃ©pÃ©ta le Griffon avec impatience; "Ã§a
+commence: '_Passant prÃ¨s de chez lui----_'"
+
+Alice n'osa pas dÃ©sobÃ©ir, bien qu'elle fÃ»t sÃ»re que les mots allaient
+lui venir tout de travers. Elle continua donc d'une voix tremblante:
+
+  _"Passant prÃ¨s de chez lui, j'ai vu, ne vous dÃ©plaise,
+  Une huÃ®tre et un hibou qui dÃ®naient fort Ã  l'aise."_
+
+"A quoi bon rÃ©pÃ©ter tout ce galimatias," interrompit la Fausse-Tortue,
+"si vous ne l'expliquez pas Ã  mesure que vous le dites? C'est, de
+beaucoup, ce que j'ai entendu de plus embrouillant."
+
+"Oui, je crois que vous feriez bien d'en rester lÃ ," dit le Griffon; et
+Alice ne demanda pas mieux.
+
+"Essaierons-nous une autre figure du Quadrille de Homards?" continua
+le Griffon. "Ou bien, prÃ©fÃ©rez-vous que la Fausse-Tortue vous chante
+quelque chose?"
+
+"Oh! une chanson, je vous prie; si la Fausse-Tortue veut bien avoir
+cette obligeance," rÃ©pondit Alice, avec tant d'empressement que le
+Griffon dit d'un air un peu offensÃ©: "Hum! Chacun son goÃ»t. Chantez-lui
+'_La Soupe Ã  la Tortue,_' hÃ©! camarade!"
+
+La Fausse-Tortue poussa un profond soupir et commenÃ§a, d'une voix de
+temps en temps Ã©touffÃ©e par les sanglots:
+
+    _"O doux potage,
+  O mets dÃ©licieux!
+    Ah! pour partage,
+  Quoi de plus prÃ©cieux?
+  Plonger dans ma soupiÃ¨re
+  Cette vaste cuillÃ¨re
+    Est un bonheur
+  Qui me rÃ©jouit le cÅur."
+
+    "Gibier, volaille,
+  LiÃ¨vres, dindes, perdreaux,
+    Rien qui te vaille,----
+  Pas mÃªme les pruneaux!
+  Plonger dans ma soupiÃ¨re
+  Cette vaste cuillÃ¨re
+    Est un bonheur
+  Qui me rÃ©jouit le cÅur."_
+
+"Bis au refrain!" cria le Griffon; et la Fausse-Tortue venait de le
+reprendre, quand un cri, "Le procÃ¨s va commencer!" se fit entendre au
+loin.
+
+"Venez donc!" cria le Griffon; et, prenant Alice par la main, il se mit
+Ã  courir sans attendre la fin de la chanson.
+
+"Qu'est-ce que c'est que ce procÃ¨s?" demanda Alice hors d'haleine; mais
+le Griffon se contenta de rÃ©pondre: "Venez donc!" en courant de plus
+belle, tandis que leur parvenaient, de plus en plus faibles, apportÃ©es
+par la brise qui les poursuivait, ces paroles pleines de mÃ©lancolie:
+
+  _"Plonger dans ma soupiÃ¨re
+  Cette vaste cuillÃ¨re
+    Est un bonheur
+  Qui me rÃ©jouit le cÅur."_
+
+
+
+
+CHAPITRE XI.
+
+QUI A VOLÃ LES TARTES?
+
+
+LE Roi et la Reine de CÅur Ã©taient assis sur leur trÃ´ne, entourÃ©s
+d'une nombreuse assemblÃ©e: toutes sortes de petits oiseaux et d'autres
+bÃªtes, ainsi que le paquet de cartes tout entier. Le Valet, chargÃ© de
+chaÃ®nes, gardÃ© de chaque cÃ´tÃ© par un soldat, se tenait debout devant
+le trÃ´ne, et prÃ¨s du roi se trouvait le Lapin Blanc, tenant d'une main
+une trompette et de l'autre un rouleau de parchemin. Au beau milieu
+de la salle Ã©tait une table sur laquelle on voyait un grand plat de
+tartes; ces tartes semblaient si bonnes que cela donna faim Ã  Alice,
+rien que de les regarder. "Je voudrais bien qu'on se dÃ©pÃªchÃ¢t de finir
+le procÃ¨s," pensa-t-elle, "et qu'on fÃ®t passer les rafraÃ®chissements,"
+mais cela ne paraissait guÃ¨re probable, aussi se mit-elle Ã  regarder
+tout autour d'elle pour passer le temps.
+
+C'Ã©tait la premiÃ¨re fois qu'Alice se trouvait dans une cour de justice,
+mais elle en avait lu des descriptions dans les livres, et elle fut
+toute contente de voir qu'elle savait le nom de presque tout ce qu'il
+y avait lÃ . "Ãa, c'est le juge," se dit-elle; "je le reconnais Ã  sa
+grande perruque."
+
+Le juge, disons-le en passant, Ã©tait le Roi, et, comme il portait sa
+couronne par-dessus sa perruque (regardez le frontispice, si vous
+voulez savoir comment il s'Ã©tait arrangÃ©) il n'avait pas du tout l'air
+d'Ãªtre Ã  son aise, et cela ne lui allait pas bien du tout.
+
+"Et Ã§a, c'est le banc du jury," pensa Alice; "et ces douze crÃ©atures"
+(elle Ã©tait forcÃ©e de dire 'crÃ©atures,' vous comprenez, car
+quelques-uns Ã©taient des bÃªtes et quelques autres des oiseaux), "je
+suppose que ce sont les jurÃ©s;" elle se rÃ©pÃ©ta ce dernier mot deux ou
+trois fois, car elle en Ã©tait assez fiÃ¨re: pensant avec raison que bien
+peu de petites filles de son Ã¢ge savent ce que cela veut dire.
+
+Les douze jurÃ©s Ã©taient tous trÃ¨s-occupÃ©s Ã  Ã©crire sur des ardoises.
+"Qu'est-ce qu'ils font lÃ ?" dit Alice Ã  l'oreille du Griffon. "Ils ne
+peuvent rien avoir Ã  Ã©crire avant que le procÃ¨s soit commencÃ©."
+
+"Ils inscrivent leur nom," rÃ©pondit de mÃªme le Griffon, "de peur de
+l'oublier avant la fin du procÃ¨s."
+
+"Les niais!" s'Ã©cria Alice d'un ton indignÃ©, mais elle se retint bien
+vite, car le Lapin Blanc cria: "Silence dans l'auditoire!" Et le Roi,
+mettant ses lunettes, regarda vivement autour de lui pour voir qui
+parlait.
+
+Alice pouvait voir, aussi clairement que si elle eÃ»t regardÃ© par-dessus
+leurs Ã©paules, que tous les jurÃ©s Ã©taient en train d'Ã©crire "les
+niais" sur leurs ardoises, et elle pouvait mÃªme distinguer que l'un
+d'eux ne savait pas Ã©crire "niais" et qu'il Ã©tait obligÃ© de le demander
+Ã  son voisin. "Leurs ardoises seront dans un bel Ã©tat avant la fin du
+procÃ¨s!" pensa Alice.
+
+Un des jurÃ©s avait un crayon qui grinÃ§ait; Alice, vous le pensez bien,
+ne pouvait pas souffrir cela; elle fit le tour de la salle, arriva
+derriÃ¨re lui, et trouva bientÃ´t l'occasion d'enlever le crayon. Ce
+fut si tÃ´t fait que le pauvre petit jurÃ© (c'Ã©tait Jacques, le lÃ©zard)
+ne pouvait pas s'imaginer ce qu'il Ã©tait devenu. AprÃ¨s avoir cherchÃ©
+partout, il fut obligÃ© d'Ã©crire avec un doigt tout le reste du jour, et
+cela Ã©tait fort inutile, puisque son doigt ne laissait aucune marque
+sur l'ardoise.
+
+"HÃ©raut, lisez l'acte d'accusation!" dit le Roi. Sur ce, le Lapin Blanc
+sonna trois fois de la trompette, et puis, dÃ©roulant le parchemin, lut
+ainsi qu'il suit:
+
+[Illustration]
+
+  _"La Reine de CÅur fit des tartes,
+    Un beau jour de printemps;
+  Le Valet de CÅur prit les tartes,
+    Et s'en fut tout content!"_
+
+"DÃ©libÃ©rez," dit le Roi aux jurÃ©s.
+
+"Pas encore, pas encore," interrompit vivement le Lapin; "il y a bien
+des choses Ã  faire auparavant!"
+
+"Appelez les tÃ©moins," dit le Roi; et le Lapin Blanc sonna trois fois
+de la trompette, et cria: "Le premier tÃ©moin!"
+
+Le premier tÃ©moin Ã©tait le Chapelier. Il entra, tenant d'une main
+une tasse de thÃ© et de l'autre une tartine de beurre. "Pardon, Votre
+MajestÃ©," dit il, "si j'apporte cela ici; je n'avais pas tout Ã  fait
+fini de prendre mon thÃ© lorsqu'on est venu me chercher."
+
+"Vous auriez dÃ» avoir fini," dit le Roi; "quand avez-vous commencÃ©?"
+
+Le Chapelier regarda le LiÃ¨vre qui l'avait suivi dans la salle, bras
+dessus bras dessous avec le Loir. "Le Quatorze Mars, je crois bien,"
+dit-il.
+
+"Le Quinze!" dit le LiÃ¨vre.
+
+"Le Seize!" ajouta le Loir.
+
+"Notez cela," dit le Roi aux jurÃ©s. Et les jurÃ©s s'empressÃ¨rent
+d'Ã©crire les trois dates sur leurs ardoises; puis en firent l'addition,
+dont ils cherchÃ¨rent Ã  rÃ©duire le total en francs et centimes.
+
+"Otez votre chapeau," dit le Roi au Chapelier.
+
+"Il n'est pas Ã  moi," dit le Chapelier.
+
+"VolÃ©!" s'Ã©cria le Roi en se tournant du cÃ´tÃ© des jurÃ©s, qui
+s'empressÃ¨rent de prendre note du fait.
+
+"Je les tiens en vente," ajouta le Chapelier, comme explication. "Je
+n'en ai pas Ã  moi; je suis chapelier."
+
+Ici la Reine mit ses lunettes, et se prit Ã  regarder fixement le
+Chapelier, qui devint pÃ¢le et tremblant.
+
+"Faites votre dÃ©position," dit le Roi; "et ne soyez pas agitÃ©; sans
+cela je vous fais exÃ©cuter sur-le-champ."
+
+Cela ne parut pas du tout encourager le tÃ©moin; il ne cessait de passer
+d'un pied sur l'autre en regardant la Reine d'un air inquiet, et, dans
+son trouble, il mordit dans la tasse et en enleva un grand morceau, au
+lieu de mordre dans la tartine de beurre.
+
+Juste Ã  ce moment-lÃ , Alice Ã©prouva une Ã©trange sensation qui
+l'embarrassa beaucoup, jusqu'Ã  ce qu'elle se fÃ»t rendu compte de ce
+que c'Ã©tait. Elle recommenÃ§ait Ã  grandir, et elle pensa d'abord Ã  se
+lever et Ã  quitter la cour: mais, toute rÃ©flexion faite, elle se dÃ©cida
+Ã  rester oÃ¹ elle Ã©tait, tant qu'il y aurait de la place pour elle.
+
+"Ne poussez donc pas comme Ã§a," dit le Loir; "je puis Ã  peine respirer."
+
+"Ce n'est pas de ma faute," dit Alice doucement; "je grandis."
+
+"Vous n'avez pas le droit de grandir ici," dit le Loir.
+
+"Ne dites pas de sottises," rÃ©pliqua Alice plus hardiment; "vous savez
+bien que vous aussi vous grandissez."
+
+"Oui, mais je grandis, raisonnablement, moi," dit le Loir; "et non
+de cette faÃ§on ridicule." Il se leva en faisant la mine, et passa de
+l'autre cÃ´tÃ© de la salle.
+
+Pendant tout ce temps-lÃ , la Reine n'avait pas cessÃ© de fixer les yeux
+sur le Chapelier, et, comme le Loir traversait la salle, elle dit Ã  un
+des officiers du tribunal: "Apportez-moi la liste des chanteurs du
+dernier concert." Sur quoi, le malheureux Chapelier se mit Ã  trembler
+si fortement qu'il en perdit ses deux souliers.
+
+[Illustration]
+
+"Faites votre dÃ©position," rÃ©pÃ©ta le Roi en colÃ¨re; "ou bien je vous
+fais exÃ©cuter, que vous soyez troublÃ© ou non!"
+
+"Je suis un pauvre homme, Votre MajestÃ©," fit le Chapelier d'une voix
+tremblante; "et il n'y avait guÃ¨re qu'une semaine ou deux que j'avais
+commencÃ© Ã  prendre mon thÃ©, et avec Ã§a les tartines devenaient si
+minces et les _dragÃ©es_ du thÃ©----"
+
+"Les _dragÃ©es_ de quoi?" dit le Roi.
+
+"Ãa a commencÃ© par le thÃ©," rÃ©pondit le Chapelier.
+
+"Je vous dis que dragÃ©e commence par un _d!_" cria le Roi vivement. "Me
+prenez-vous pour un Ã¢ne? Continuez!"
+
+"Je suis un pauvre homme," continua le Chapelier; "et les dragÃ©es et
+les autres choses me firent perdre la tÃªte. Mais le LiÃ¨vre dit----"
+
+"C'est faux!" s'Ã©cria le LiÃ¨vre se dÃ©pÃªchant de l'interrompre.
+
+"C'est vrai!" cria le Chapelier.
+
+"Je le nie!" cria le LiÃ¨vre.
+
+"Il le nie!" dit le Roi. "Passez lÃ -dessus."
+
+"Eh bien! dans tous les cas, le Loir dit----" continua le Chapelier,
+regardant autour de lui pour voir s'il nierait aussi; mais le Loir ne
+nia rien, car il dormait profondÃ©ment.
+
+"AprÃ¨s cela," continua le Chapelier, "je me coupai d'autres tartines de
+beurre."
+
+"Mais, que dit le Loir?" demanda un des jurÃ©s.
+
+"C'est ce que je ne peux pas me rappeler," dit le Chapelier.
+
+"Il faut absolument que vous vous le rappeliez," fit observer le Roi;
+"ou bien je vous fais exÃ©cuter."
+
+Le malheureux Chapelier laissa tomber sa tasse et sa tartine de beurre,
+et mit un genou en terre. "Je suis un pauvre homme, Votre MajestÃ©!"
+commenÃ§a-t-il.
+
+"Vous Ãªtes un trÃ¨s-pauvre orateur," dit le Roi.
+
+Ici un des cochons d'Inde applaudit, et fut immÃ©diatement rÃ©primÃ© par
+un des huissiers. (Comme ce mot est assez difficile, je vais vous
+expliquer comment cela se fit. Ils avaient un grand sac de toile qui
+se fermait Ã  l'aide de deux ficelles attachÃ©es Ã  l'ouverture; dans ce
+sac ils firent glisser le cochon d'Inde la tÃªte la premiÃ¨re, puis ils
+s'assirent dessus.)
+
+"Je suis contente d'avoir vu cela," pensa Alice. "J'ai souvent lu dans
+les journaux, Ã  la fin des procÃ¨s: 'Il se fit quelques tentatives
+d'applaudissements qui furent bientÃ´t rÃ©primÃ©es par les huissiers,' et
+je n'avais jamais compris jusqu'Ã  prÃ©sent ce que cela voulait dire."
+
+"Si c'est lÃ  tout ce que vous savez de l'affaire, vous pouvez vous
+prosterner," continua le Roi.
+
+"Je ne puis pas me prosterner plus bas que cela," dit le Chapelier; "je
+suis dÃ©jÃ  par terre."
+
+"Alors asseyez-vous," rÃ©pondit le Roi.
+
+[Illustration]
+
+Ici l'autre cochon d'Inde applaudit et fut rÃ©primÃ©.
+
+"Bon, cela met fin aux cochons d'Inde!" pensa Alice. "Maintenant Ã§a va
+mieux aller."
+
+"J'aimerais bien aller finir de prendre mon thÃ©," dit le Chapelier,
+en lanÃ§ant un regard inquiet sur la Reine, qui lisait la liste des
+chanteurs.
+
+"Vous pouvez vous retirer," dit le Roi; et le Chapelier se hÃ¢ta de
+quitter la cour, sans mÃªme prendre le temps de mettre ses souliers.
+
+"Et coupez-lui la tÃªte dehors," ajouta la Reine, s'adressant Ã  un des
+huissiers; mais le Chapelier Ã©tait dÃ©jÃ  bien loin avant que l'huissier
+arrivÃ¢t Ã  la porte.
+
+"Appelez un autre tÃ©moin," dit le Roi.
+
+L'autre tÃ©moin, c'Ã©tait la cuisiniÃ¨re de la Duchesse; elle tenait la
+poivriÃ¨re Ã  la main, et Alice devina qui c'Ã©tait, mÃªme avant qu'elle
+entrÃ¢t dans la salle, en voyant Ã©ternuer, tout Ã  coup et tous Ã  la
+fois, les gens qui se trouvaient prÃ¨s de la porte.
+
+"Faites votre dÃ©position," dit le Roi.
+
+"Non!" dit la cuisiniÃ¨re.
+
+Le Roi regarda d'un air inquiet le Lapin Blanc, qui lui dit Ã 
+voix basse: "Il faut que Votre MajestÃ© interroge ce tÃ©moin-lÃ 
+contradictoirement."
+
+"Puisqu'il le faut, il le faut," dit le Roi, d'un air triste; et,
+aprÃ¨s avoir croisÃ© les bras et froncÃ© les sourcils en regardant la
+cuisiniÃ¨re, au point que les yeux lui Ã©taient presque complÃ©tement
+rentrÃ©s dans la tÃªte, il dit d'une voix creuse: "De quoi les tartes
+sont-elles faites?"
+
+"De poivre principalement!" dit la cuisiniÃ¨re.
+
+"De mÃ©lasse," dit une voix endormie derriÃ¨re elle.
+
+"Saisissez ce Loir au collet!" cria la Reine. "Coupez la tÃªte Ã  ce
+Loir! Mettez ce Loir Ã  la porte! RÃ©primez-le, pincez-le, arrachez-lui
+ses moustaches!"
+
+Pendant quelques instants, toute la cour fut sens dessus dessous
+pour mettre le Loir Ã  la porte; et, quand le calme fut rÃ©tabli, la
+cuisiniÃ¨re avait disparu.
+
+"Cela ne fait rien," dit le Roi, comme soulagÃ© d'un grand poids.
+"Appelez le troisiÃ¨me tÃ©moin;" et il ajouta Ã  voix basse en s'adressant Ã 
+la Reine: "Vraiment, mon amie, il faut que vous interrogiez cet autre
+tÃ©moin; cela me fait trop mal au front!"
+
+Alice regardait le Lapin Blanc tandis qu'il tournait la liste dans
+ses doigts, curieuse de savoir quel serait l'autre tÃ©moin. "Car les
+dÃ©positions ne prouvent pas grand'chose jusqu'Ã  prÃ©sent," se dit-elle.
+Imaginez sa surprise quand le Lapin Blanc cria, du plus fort de sa
+petite voix criarde: "Alice!"
+
+
+
+
+CHAPITRE XII.
+
+DÃPOSITION D'ALICE.
+
+
+"VOILA!" cria Alice, oubliant tout Ã  fait dans le trouble du moment
+combien elle avait grandi depuis quelques instants, et elle se leva si
+brusquement qu'elle accrocha le banc des jurÃ©s avec le bord de sa robe,
+et le renversa, avec tous ses occupants, sur la tÃªte de la foule qui se
+trouvait au-dessous, et on les vit se dÃ©battant de tous cÃ´tÃ©s, comme
+les poissons rouges du vase qu'elle se rappelait avoir renversÃ© par
+accident la semaine prÃ©cÃ©dente.
+
+[Illustration]
+
+"Oh! je vous demande bien pardon!" s'Ã©cria-t-elle toute confuse,
+et elle se mit Ã  les ramasser bien vite, car l'accident arrivÃ© aux
+poissons rouges lui trottait dans la tÃªte, et elle avait une idÃ©e
+vague qu'il fallait les ramasser tout de suite et les remettre sur les
+bancs, sans quoi ils mourraient.
+
+"Le procÃ¨s ne peut continuer," dit le Roi d'une voix grave, "avant que
+les jurÃ©s soient tous Ã  leurs places; _tous!_" rÃ©pÃ©ta-t-il avec emphase
+en regardant fixement Alice.
+
+Alice regarda le banc des jurÃ©s, et vit que dans son empressement elle
+y avait placÃ© le LÃ©zard la tÃªte en bas, et le pauvre petit Ãªtre remuait
+la queue d'une triste faÃ§on, dans l'impossibilitÃ© de se redresser; elle
+l'eut bientÃ´t retournÃ© et replacÃ© convenablement. "Non que cela soit
+bien important," se dit-elle, "car je pense qu'il serait tout aussi
+utile au procÃ¨s la tÃªte en bas qu'autrement."
+
+SitÃ´t que les jurÃ©s se furent un peu remis de la secousse, qu'on eut
+retrouvÃ© et qu'on leur eut rendu leurs ardoises et leurs crayons,
+ils se mirent fort diligemment Ã  Ã©crire l'histoire de l'accident, Ã 
+l'exception du LÃ©zard, qui paraissait trop accablÃ© pour faire autre
+chose que demeurer la bouche ouverte, les yeux fixÃ©s sur le plafond de
+la salle.
+
+"Que savez-vous de cette affaire-lÃ ?" demanda le Roi Ã  Alice.
+
+"Rien," rÃ©pondit-elle.
+
+"Rien absolument?" insista le Roi.
+
+"Rien absolument," dit Alice.
+
+"VoilÃ  qui est trÃ¨s-important," dit le Roi, se tournant vers les jurÃ©s.
+Ils allaient Ã©crire cela sur leurs ardoises quand le Lapin Blanc
+interrompant: "Peu important, veut dire Votre MajestÃ©, sans doute,"
+dit-il d'un ton trÃ¨s-respectueux, mais en fronÃ§ant les sourcils et en
+lui faisant des grimaces.
+
+"Peu important, bien entendu, c'est ce que je voulais dire," rÃ©pliqua
+le Roi avec empressement. Et il continua de rÃ©pÃ©ter Ã  demi-voix:
+"TrÃ¨s-important, peu important, peu important, trÃ¨s-important;" comme
+pour essayer lequel des deux Ã©tait le mieux sonnant.
+
+Quelques-uns des jurÃ©s Ã©crivirent "trÃ¨s-important," d'autres, "peu
+important." Alice voyait tout cela, car elle Ã©tait assez prÃ¨s d'eux
+pour regarder sur leurs ardoises. "Mais cela ne fait absolument rien,"
+pensa-t-elle.
+
+A ce moment-lÃ , le Roi, qui pendant quelque temps avait Ã©tÃ© fort occupÃ©
+Ã  Ã©crire dans son carnet, cria: "Silence!" et lut sur son carnet:
+"RÃ¨gle Quarante-deux: _Toute personne ayant une taille de plus d'un
+mille de haut devra quitter la cour._"
+
+Tout le monde regarda Alice.
+
+"Je n'ai pas un mille de haut," dit-elle.
+
+"Si fait," dit le Roi.
+
+"PrÃ¨s de deux milles," ajouta la Reine.
+
+"Eh bien! je ne sortirai pas quand mÃªme; d'ailleurs cette rÃ¨gle n'est
+pas d'usage, vous venez de l'inventer."
+
+"C'est la rÃ¨gle la plus ancienne qu'il y ait dans le livre," dit le Roi.
+
+"Alors elle devrait porter le numÃ©ro Un."
+
+Le Roi devint pÃ¢le et ferma vivement son carnet. "DÃ©libÃ©rez," dit-il
+aux jurÃ©s d'une voix faible et tremblante.
+
+"Il y a d'autres dÃ©positions Ã  recevoir, s'il plaÃ®t Ã  Votre MajestÃ©,"
+dit le Lapin, se levant prÃ©cipitamment; "on vient de ramasser ce
+papier."
+
+"Qu'est-ce qu'il y a dedans?" dit la Reine.
+
+"Je ne l'ai pas encore ouvert," dit le Lapin Blanc; "mais on dirait que
+c'est une lettre Ã©crite par l'accusÃ© Ã ---- Ã  quelqu'un."
+
+"Cela doit Ãªtre ainsi," dit le Roi, "Ã  moins qu'elle ne soit, Ã©crite Ã 
+personne, ce qui n'est pas ordinaire, vous comprenez."
+
+"A qui est-elle adressÃ©e?" dit un des jurÃ©s.
+
+"Elle n'est pas adressÃ©e du tout," dit le Lapin Blanc; "au fait, il n'y
+a rien d'Ã©crit Ã  l'extÃ©rieur." Il dÃ©plia le papier tout en parlant et
+ajouta: "Ce n'est pas une lettre, aprÃ¨s tout; c'est une piÃ¨ce de vers."
+
+"Est-ce l'Ã©criture de l'accusÃ©?" demanda un autre jurÃ©.
+
+"Non," dit le Lapin Blanc, "et c'est ce qu'il y a de plus drÃ´le." (Les
+jurÃ©s eurent tous l'air fort embarrassÃ©.)
+
+"Il faut qu'il ait imitÃ© l'Ã©criture d'un autre," dit le Roi. (Les jurÃ©s
+reprirent l'air serein.)
+
+"Pardon, Votre MajestÃ©," dit le Valet, "ce n'est pas moi qui ai Ã©crit
+cette lettre, et on ne peut pas prouver que ce soit moi; il n'y a pas
+de signature."
+
+"Si vous n'avez pas signÃ©," dit le Roi, "cela ne fait qu'empirer la
+chose; il faut absolument que vous ayez eu de mauvaises intentions,
+sans cela vous auriez signÃ©, comme un honnÃªte homme."
+
+LÃ -dessus tout le monde battit des mains; c'Ã©tait la premiÃ¨re rÃ©flexion
+vraiment bonne que le Roi eÃ»t faite ce jour-lÃ .
+
+"Cela prouve sa culpabilitÃ©," dit la Reine.
+
+"Cela ne prouve rien," dit Alice. "Vous ne savez mÃªme pas ce dont il
+s'agit."
+
+"Lisez ces vers," dit le Roi.
+
+Le Lapin Blanc mit ses lunettes. "Par oÃ¹ commencerai-je, s'il plaÃ®t Ã 
+Votre MajestÃ©?" demanda-t-il.
+
+"Commencez par le commencement," dit gravement le Roi, "et continuez
+jusqu'Ã  ce que vous arriviez Ã  la fin; lÃ , vous vous arrÃªterez."
+
+Voici les vers que lut le Lapin Blanc:
+
+  _"On m'a dit que tu fus chez elle
+  Afin de lui pouvoir parler,
+  Et qu'elle assura, la cruelle,
+  Que je ne savais pas nager!
+
+  BientÃ´t il leur envoya dire
+  (Nous savons fort bien que c'est vrai!)
+  Qu'il ne faudrait pas en mÃ©dire,
+  Ou gare les coups de balai!
+
+  J'en donnai trois, elle en prit une;
+  Combien donc en recevrons-nous?
+  (Il y a lÃ  quelque lacune.)
+  Toutes revinrent d'eux Ã  vous.
+
+  Si vous ou moi, dans cette affaire,
+  Ãtions par trop embarrassÃ©s,
+  Prions qu'il nous laisse, confrÃ¨re,
+  Tous deux comme il nous a trouvÃ©s.
+
+  Vous les avez, j'en suis certaine,
+  (Avant que de ses nerfs l'accÃ¨s
+  Ne bouleversÃ¢t l'inhumaine,)
+  TrompÃ©s tous trois avec succÃ¨s.
+
+  Cachez-lui qu'elle les prÃ©fÃ¨re;
+  Car ce doit Ãªtre, par ma foi,
+  (Et sera toujours, je l'espÃ¨re)
+  Un secret entre vous et moi."_
+
+"VoilÃ  la piÃ¨ce de conviction la plus importante que nous ayons eue
+jusqu'Ã  prÃ©sent," dit le Roi en se frottant les mains; "ainsi, que le
+jury maintenant----"
+
+"S'il y a un seul des jurÃ©s qui puisse l'expliquer," dit Alice (elle
+Ã©tait devenue si grande dans ces derniers instants qu'elle n'avait plus
+du tout peur de l'interrompre), "je lui donne une piÃ¨ce de dix sous. Je
+ne crois pas qu'il y ait un atome de sens commun lÃ -dedans."
+
+Tous les jurÃ©s Ã©crivirent sur leurs ardoises: "Elle ne croit pas qu'il
+y ait un atome de sens commun lÃ -dedans," mais aucun d'eux ne tenta
+d'expliquer la piÃ¨ce de vers.
+
+"Si elle ne signifie rien," dit le Roi, "cela nous Ã©pargne un
+monde d'ennuis, vous comprenez: car il est inutile d'en chercher
+l'explication; et cependant je ne sais pas trop," continua-t-il en
+Ã©talant la piÃ¨ce de vers sur ses genoux et les regardant d'un Åil; "il
+me semble que j'y vois quelque chose, aprÃ¨s tout. '_Que je ne savais
+pas nager!_' Vous ne savez pas nager, n'est-ce pas?" ajouta-t-il en se
+tournant vers le Valet.
+
+Le Valet secoua la tÃªte tristement. "En ai-je l'air," dit-il. (Non,
+certainement, il n'en avait pas l'air, Ã©tant fait tout entier de
+carton.)
+
+"Jusqu'ici c'est bien," dit le Roi; et il continua de marmotter tout
+bas, "'_Nous savons fort bien que c'est vrai_.' C'est le jury qui dit
+cela, bien sÃ»r! '_J'en donnai trois, elle en prit une_;' justement,
+c'est lÃ  ce qu'il fit des tartes, vous comprenez."
+
+[Illustration]
+
+"Mais vient ensuite: '_Toutes revinrent d'eux Ã  vous_,'" dit Alice.
+
+"Tiens, mais les voici!" dit le Roi d'un air de triomphe, montrant du
+doigt les tartes qui Ã©taient sur la table.
+
+"Il n'y a rien de plus clair que cela; et encore: '_Avant que de ses
+nerfs l'accÃ¨s_.' Vous n'avez jamais eu d'attaques de nerfs, je crois,
+mon Ã©pouse?" dit-il Ã  la Reine.
+
+"Jamais!" dit la Reine d'un air furieux en jetant un encrier Ã  la tÃªte
+du LÃ©zard. (Le malheureux Jacques avait cessÃ© d'Ã©crire sur son ardoise
+avec un doigt, car il s'Ã©tait aperÃ§u que cela ne faisait aucune marque;
+mais il se remit bien vite Ã  l'ouvrage en se servant de l'encre qui lui
+dÃ©coulait le long de la figure, aussi longtemps qu'il y en eut.)
+
+"Non, mon Ã©pouse, vous avez trop bon air," dit le Roi, promenant son
+regard tout autour de la salle et souriant. Il se fit un silence de
+mort.
+
+"C'est un calembour," ajouta le Roi d'un ton de colÃ¨re; et tout le
+monde se mit Ã  rire. "Que le jury dÃ©libÃ¨re," ajouta le Roi, pour Ã  peu
+prÃ¨s la vingtiÃ¨me fois ce jour-lÃ .
+
+"Non, non," dit la Reine, "l'arrÃªt d'abord, on dÃ©libÃ©rera aprÃ¨s."
+
+"Cela n'a pas de bon sens!" dit tout haut Alice. "Quelle idÃ©e de
+vouloir prononcer l'arrÃªt d'abord!"
+
+"Taisez-vous," dit la Reine, devenant pourpre de colÃ¨re.
+
+[Illustration]
+
+"Je ne me tairai pas," dit Alice.
+
+"Qu'on lui coupe la tÃªte!" hurla la Reine de toutes ses forces.
+Personne ne bougea.
+
+"On se moque bien de vous," dit Alice (elle avait alors atteint toute
+sa grandeur naturelle). "Vous n'Ãªtes qu'un paquet de cartes!"
+
+LÃ -dessus tout le paquet sauta en l'air et retomba en tourbillonnant
+sur elle; Alice poussa un petit cri, moitiÃ© de peur, moitiÃ© de colÃ¨re,
+et essaya de les repousser; elle se trouva Ã©tendue sur le gazon, la
+tÃªte sur les genoux de sa sÅur, qui Ã©cartait doucement de sa figure les
+feuilles mortes tombÃ©es en voltigeant du haut des arbres.
+
+"RÃ©veillez-vous, chÃ¨re Alice!" lui dit sa sÅur. "Quel long somme vous
+venez de faire!"
+
+"Oh! j'ai fait un si drÃ´le de rÃªve," dit Alice; et elle raconta Ã  sa
+sÅur, autant qu'elle put s'en souvenir, toutes les Ã©tranges aventures
+que vous venez de lire; et, quand elle eut fini son rÃ©cit, sa sÅur
+lui dit en l'embrassant: "Certes, c'est un bien drÃ´le de rÃªve; mais
+maintenant courez Ã  la maison prendre le thÃ©; il se fait tard." Alice
+se leva donc et s'Ã©loigna en courant, pensant le long du chemin, et
+avec raison, quel rÃªve merveilleux elle venait de faire.
+
+
+Mais sa sÅur demeura assise tranquillement, tout comme elle l'avait
+laissÃ©e, la tÃªte appuyÃ©e sur la main, contemplant le coucher du soleil
+et pensant Ã  la petite Alice et Ã  ses merveilleuses aventures; si bien
+qu'elle aussi se mit Ã  rÃªver, en quelque sorte; et voici son rÃªve:--
+
+D'abord elle rÃªva de la petite Alice personnellement:--les petites
+mains de l'enfant Ã©taient encore jointes sur ses genoux, et ses
+yeux vifs et brillants plongeaient leur regard dans les siens. Elle
+entendait jusqu'au son de sa voix; elle voyait ce singulier petit
+mouvement de tÃªte par lequel elle rejetait en arriÃ¨re les cheveux
+vagabonds qui sans cesse lui revenaient dans les yeux; et, comme elle
+Ã©coutait ou paraissait Ã©couter, tout s'anima autour d'elle et se peupla
+des Ã©tranges crÃ©atures du rÃªve de sa jeune sÅur. Les longues herbes
+bruissaient Ã  ses pieds sous les pas prÃ©cipitÃ©s du Lapin Blanc; la
+Souris effrayÃ©e faisait clapoter l'eau en traversant la mare voisine;
+elle entendait le bruit des tasses, tandis que le LiÃ¨vre et ses amis
+prenaient leur repas qui ne finissait jamais, et la voix perÃ§ante de
+la Reine envoyant Ã  la mort ses malheureux invitÃ©s. Une fois encore
+l'enfant-porc Ã©ternuait sur les genoux de la Duchesse, tandis que les
+assiettes et les plats se brisaient autour de lui; une fois encore la
+voix criarde du Griffon, le grincement du crayon d'ardoise du LÃ©zard,
+et les cris Ã©touffÃ©s des cochons d'Inde mis dans le sac par ordre de la
+cour, remplissaient les airs, en se mÃªlant aux sanglots que poussait au
+loin la malheureuse Fausse-Tortue.
+
+C'est ainsi qu'elle demeura assise, les yeux fermÃ©s, et se croyant
+presque dans le Pays des Merveilles, bien qu'elle sÃ»t qu'elle n'avait
+qu'Ã  rouvrir les yeux pour que tout fÃ»t changÃ© en une triste rÃ©alitÃ©:
+les herbes ne bruiraient plus alors que sous le souffle du vent, et
+l'eau de la mare ne murmurerait plus qu'au balancement des roseaux; le
+bruit des tasses deviendrait le tintement des clochettes au cou des
+moutons, et elle reconnaÃ®trait les cris aigus de la Reine dans la voix
+perÃ§ante du petit berger; l'Ã©ternuement du bÃ©bÃ©, le cri du Griffon et
+tous les autres bruits Ã©tranges ne seraient plus, elle le savait bien,
+que les clameurs confuses d'une cour de ferme, tandis que le beuglement
+des bestiaux dans le lointain remplacerait les lourds sanglots de la
+Fausse-Tortue.
+
+Enfin elle se reprÃ©senta cette mÃªme petite sÅur, dans l'avenir, devenue
+elle aussi une grande personne; elle se la reprÃ©senta conservant,
+jusque dans l'Ã¢ge mÃ»r, le cÅur simple et aimant de son enfance, et
+rÃ©unissant autour d'elle d'autres petits enfants dont elle ferait
+briller les yeux vifs et curieux au rÃ©cit de bien des aventures
+Ã©tranges, et peut-Ãªtre mÃªme en leur contant le songe du Pays des
+Merveilles du temps jadis: elle la voyait partager leurs petits
+chagrins et trouver plaisir Ã  leurs innocentes joies, se rappelant sa
+propre enfance et les heureux jours d'Ã©tÃ©.
+
+FIN.
+
+
+LONDRES.--IMPRIMERIE DE R. CLAY, FILS, ET TAYLOR, BREAD STREET HILL.
+
+
+                   *       *       *       *       *
+
+
+  Liste des modifications:
+
+  Page 140: Â«condammÃ©sÂ» remplacÃ© par Â«condamnÃ©sÂ» (Ã©taient arrÃªtÃ©s et
+              condamnÃ©s)
+  Page 166: Â«trÃ¨s-occuppÃ©sÂ» par Â«trÃ¨s-occupÃ©sÂ» (trÃ¨s-occupÃ©s Ã  Ã©crire)
+
+
+
+
+
+End of the Project Gutenberg EBook of Aventures d'Alice au pays des
+merveilles, by Lewis Carroll
+
+*** END OF THE PROJECT GUTENBERG EBOOK 55456 ***

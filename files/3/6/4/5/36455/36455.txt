@@ -1,3 +1,3213 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be69da317f0d098866027e798df3fed86a4b48b036974970fd70edf67e8b7f8a
-size 118525
+The Project Gutenberg EBook of Petit Glossaire des lettres de Madame de
+S�vign�, by �douard Pilastre
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Petit Glossaire des lettres de Madame de S�vign�
+
+Author: �douard Pilastre
+
+Release Date: June 17, 2011 [EBook #36455]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PETIT GLOSSAIRE DES LETTRES ***
+
+
+
+
+Produced by Anna Tuinman, Hans Pieterse, Hugo Voisard and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by the Biblioth�que nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+
+
+
+
+
+
+
+Note de transcription:
+
+Les erreurs clairement introduites par le typographe ont �t�
+corrig�es. L'orthographe d'origine a �t� conserv�e et n'a pas
+�t� harmonis�e.
+
+Le texte imprim� en gras est marqu� =comme ceci=.
+
+
+
+
+  _E. PILASTRE_
+
+  PETIT GLOSSAIRE
+  DES
+  _Lettres de Madame de S�vign�_
+
+  FONTAINEBLEAU
+  MAURICE BOURGES, IMPRIMEUR BREVET�
+  32, Rue de l'Arbre-Sec.
+
+  1908
+
+
+
+
+  TIR� A TROIS CENTS EXEMPLAIRES
+  _Exemplaire No 224._
+
+
+
+
+  PETIT GLOSSAIRE
+  DES
+  _Lettres de Madame de S�vign�_
+
+
+
+
+  AUTRE OUVRAGE DU M�ME AUTEUR
+
+  LEXIQUE SOMMAIRE
+  DE LA LANGUE DU DUC DE SAINT-SIMON.
+
+  Paris, 1905, Firmin Didot et Cie,
+  �diteurs.
+
+
+
+
+  _D�di� � ma Fille_
+  MADAME MARGUERITE MERLIN
+
+
+
+
+AVANT-PROPOS
+
+
+Le petit livre que nous publions est destin� aux gens du monde
+qui sont rest�s fid�les � la litt�rature du XVIIe si�cle et qui
+ont gard� le culte de Madame de S�vign�. Les _S�vignistes_,
+comme les appelait Sainte-Beuve, voudront bien excuser ce que
+notre essai a d'incomplet et d'imparfait. Il nous a sembl�,
+toutefois, que, m�me dans les limites �troites o� se renfermait
+notre travail, il pourrait offrir quelque int�r�t, soit pour
+l'intelligence de l'oeuvre de Madame de S�vign�, soit pour
+l'�tude de la langue fran�aise d'autrefois.
+
+Dans ses incessantes �volutions, notre langue s'est appauvrie,
+peu � peu, de plus d'un terme expressif qu'on retrouvera dans les
+Lettres de la c�l�bre Marquise. En outre il nous appara�t, comme
+on l'a d�j� souvent remarqu�, que nos contemporains se sont
+accoutum�s � ne pas faire usage, m�me, de tous les mots qui ne
+sont pas tomb�s en d�su�tude. Un vocabulaire restreint et
+monotone para�t suffire aux besoins de nos �crivains modernes;
+d'autre part, beaucoup d'additions nouvelles � la belle langue du
+XVIIe si�cle, dont ils usent, ne sont pas toujours marqu�es au
+bon coin. Elles ne nous consolent pas, d'ailleurs, de ce que
+l'usage nous a fait perdre.
+
+La correspondance de Madame de S�vign� pr�sente cette exacte
+proportion entre la pens�e et la forme qui, comme l'a dit le
+philosophe Bersot, a constitu� au XVIIe si�cle la perfection de
+tant d'ouvrages. L'oeuvre de Madame de S�vign� n'a pas vieilli.
+On peut lui appliquer d'ailleurs ce qu'elle �crivait � sa fille,
+le 11 janvier 1690, d'un auteur qu'elle admirait: �Il ne faut pas
+dire cela est vieux; non cela n'est pas vieux, mais c'est divin.�
+
+La sup�riorit� des femmes du XVIIe si�cle, dans l'art
+�pistolaire, n'a jamais �t� m�connue: �Ce sexe va plus loin que
+nous dans ce genre d'�crire�, d�clarait La Bruy�re. Paul-Louis
+Courier, si bon connaisseur en mati�re de beau langage, disait de
+m�me: �Gardez-vous bien de croire que quelqu'un ait �crit en
+fran�ais, depuis le r�gne de Louis XIV. La moindre femmelette de
+ce temps-l� vaut mieux, pour le langage, que les Jean-Jacques,
+Diderot, d'Alembert, contemporains ou post�rieurs.�
+
+En particulier, le style de Madame de S�vign� est incomparable.
+Son langage est vif, rapide, anim�, clair, naturel, riche en
+tours nouveaux, exempt de d�clamation, affranchi de la lourdeur
+compass�e de certains auteurs de son temps, plein de rencontres
+heureuses et accru encore de l'agr�ment des souvenirs de ses
+lectures et de ses travaux.
+
+En effet, aux dons naturels de son esprit, Madame de S�vign�
+avait ajout� le fruit d'une �ducation d�velopp�e et le profit de
+lectures s�rieuses dans notre langue, comme dans d'autres.
+
+Elle savait l'italien, qui lui avait �t� enseign� par M�nage et
+Chapelain; l'espagnol et le latin que M�nage lui avait appris.
+Elle lisait Virgile �dans toute la majest� du texte�, comme elle
+l'�crivait � sa fille, le 16 juillet 1672. Elle �tudiait le
+Tasse, l'Arioste, Cervant�s dans leurs langues; elle les citait �
+propos, toujours de m�moire. Elle connaissait � fond Corneille,
+La Fontaine, Moli�re, Quinault que notre si�cle n'appr�cie pas �
+sa juste valeur, Racine qu'elle ne mettait pas � un assez haut
+rang. Elle avait lu Rabelais et en avait retenu plus d'un trait
+qui plaisait � sa nature franche, hardie et rieuse. L'histoire,
+la religion, la philosophie �taient les constants objets de ses
+lectures. Descartes, Nicole, Arnauld, les Solitaires de
+Port-Royal, Pascal, surtout, excitaient chez elle une admiration
+passionn�e. Elle avait profit� de la fa�on la plus heureuse des
+connaissances qu'elle avait ainsi acquises pendant toute sa vie.
+Elle n'�tait pas tomb�e dans ce que Moli�re appelle �tout le
+savoir obscur de la p�danterie�. Elle avait fait, cependant,
+partie de la Soci�t� des Pr�cieuses de l'h�tel de Rambouillet,
+sans �tre atteinte par l'affectation de leurs propos et de leurs
+�crits. Elle y avait gagn� le go�t du bon langage et cette
+politesse exquise qui avait succ�d�, gr�ce aux efforts des
+Pr�cieuses, � la grossi�ret� trop r�elle des moeurs et des
+discours des �ges pr�c�dents.
+
+Ce qui pla�t, dans les Lettres de Madame de S�vign�, c'est le
+naturel parfait de sa mani�re. Elle justifie, pour nous, le mot
+profond de Pascal: �Quand on voit le style naturel on est �tonn�
+et �mu, car on s'attendait � voir un auteur et on trouve un
+homme.�
+
+Il en est de Madame de S�vign� comme de Voltaire: l'artifice
+n'appara�t jamais dans leurs �crits. On pourrait, assur�ment,
+appliquer � la Marquise cette pens�e du Tasse, un de ses auteurs
+favoris, sur les jardins d'Armide: �Ce qui ajoute � la beaut� et
+au prix de l'ouvrage, l'art, qui a pr�sid� � tout ne s'y d�couvre
+pas.�
+
+Nous n'avons pas � faire ressortir ici tout l'int�r�t que
+pr�sente la correspondance de Madame de S�vign� par la peinture
+des moeurs et des caract�res de ses contemporains, la vie de la
+Cour de Louis XIV et les principaux �v�nements de ce grand r�gne.
+C'est une mine dans laquelle les historiens et les philosophes
+n'ont jamais cess� de puiser. Ses �crits demeureraient un tableau
+unique de son �poque, si nous n'avions pas La Bruy�re et
+Saint-Simon.
+
+C'est ce dernier qui peut surtout, � juste titre, �tre rapproch�
+de Madame de S�vign�. Il admirait beaucoup la c�l�bre marquise
+et lisait souvent ses lettres. Il lui rend un t�moignage
+d'admiration dans ses M�moires.
+
+Quand Saint-Simon ne s'abandonne pas � sa fougue passionn�e
+contre ses adversaires, quand ses yeux ne sont pas troubl�s par
+l'aveugle amour de ses privil�ges de duc et pair, quand il se
+borne � narrer ce qu'il a vu et observ� et � retracer, dans un
+style alerte et anim�, quelque incident notable de la Cour ou
+quelque aventure singuli�re, il nous a rappel� plus d'une fois le
+charme et l'aisance des narrations simples, vivantes et
+expressives de Madame de S�vign�.
+
+La langue de Saint-Simon pr�sente plus d'une analogie avec celle
+de Madame de S�vign�. Elle est hardie, riche en termes originaux
+d'ancienne ou de nouvelle date; elle ne recule pas, au besoin,
+devant le mot propre, avec cette fausse pruderie qui a trop
+souvent gagn�, depuis, les fils des Gaulois.
+
+Dans le Glossaire que nous avons r�dig�, on trouvera plus d'un
+renvoi aux M�moires de Saint-Simon. Si le lecteur veut bien s'y
+r�f�rer, il apercevra ais�ment les ressemblances de style que
+nous signalons.
+
+Celui qui voudra faire une �tude plus compl�te de la langue de
+la marquise, trouvera dans le Lexique de la langue de Madame de
+S�vign�, publi� en 1886 par E. Sommer, � la librairie Hachette,
+un tableau complet et achev� de cette langue. Nous nous sommes
+born� � pr�senter au public une esquisse. On composait autrefois
+des petites biblioth�ques pour les hommes du monde et les gens
+de go�t, en volumes de format exigu, � l'apparence modeste, mais
+en r�alit� assez instructifs. Si cette mode n'�tait pas pass�e
+et si, sous l'influence �trang�re, l'�rudition moderne ne nous
+submergeait pas souvent sous des publications d'une �tendue qui
+les rend peu accessibles aux profanes, nous serions heureux que
+notre petit volume f�t accueilli avec bienveillance par ceux
+des amateurs du temps pass� qui ne seraient pas trop attach�s
+aux nouvelles habitudes. Nous n'aurions rien � d�sirer si notre
+travail ramenait encore quelques lecteurs � une �tude nouvelle
+du texte de Madame de S�vign�. Nous avons r�duit nos observations
+personnelles dans ce but, car nous partageons enti�rement l'avis
+de La Bruy�re: �L'�tude des textes ne peut �tre assez recommand�e.
+C'est la paresse des hommes qui a encourag� le p�dantisme �
+grossir plut�t qu'� enrichir les biblioth�ques et � faire p�rir
+le texte sous le poids des commentaires.�
+
+       *       *       *       *       *
+
+Les renvois relatifs aux Lettres de Madame de S�vign�
+s'appliquent � la grande �dition, en douze volumes, de ces
+Lettres donn�e par Monmerqu� chez MM. Hachette. Pour les Lettres
+in�dites, les renvois se r�f�rent, avec une indication sp�ciale,
+� la publication en deux volumes, faite chez les m�mes �diteurs,
+par M. Capmas.
+
+
+Les citations des M�moires de Saint-Simon sont donn�es d'apr�s
+l'�dition en vingt et un volumes, parue en 1873 chez MM.
+Hachette. Dans un Lexique sommaire de la langue de Saint-Simon,
+compos� par nous, on trouvera les passages des M�moires de
+Saint-Simon rappel�s, ici, avec un bref commentaire.
+
+
+A d�faut d'indication sp�ciale pour ces divers ouvrages, le
+premier chiffre, romain, indiquera le tome et le chiffre arabe,
+la page de ces livres.
+
+
+
+
+PETIT GLOSSAIRE
+DES
+_LETTRES DE MADAME DE S�VIGN�_
+PAR E. PILASTRE
+
+
+
+
+A
+
+
+=ABIM�E EN DIEU=, tome I, page 444. �Madame votre tante m'a paru
+_ab�m�e en Dieu_.�--Jet�e dans le fond, plong�e.... (Cf.
+Saint-Simon, VIII, 406, I.)
+
+
+=ABOYER=, VII, 279. �Les touri�res ont _aboy�_ sur moi, que je
+n'�tais pas encore abord�e.�
+
+On �crivait autrefois _abboy�_. On trouve dans Saint-Simon ce mot
+employ� comme verbe actif. (Cf. Saint-Simon, I, 453.)
+
+
+=ACAD�MISTES=, I, 407. �Si vous n'avez jamais vu les proc�d�s des
+_Acad�mistes_...�
+
+Ceux qui fr�quentent les �coles d'�quitation, ou d'autres
+exercices corporels, dites acad�mies.
+
+Acad�mie au XVIIe si�cle signifiait un lieu d'exercices pour les
+jeunes gens. (Cf. Saint-Simon, XIV, 385).
+
+
+=ACCESSIT=, IX, 258. �Pour �tre pape, l'_accessit_ g�ta tout.�
+
+Dans le scrutin de ballottage du Conclave, il y avait l'acc�s ou
+l'accessit des voix des cardinaux � l'un des candidats d�j�
+b�n�ficiaires d'un certain nombre de suffrages.
+
+
+=ACCOUCHADE=, IV, 143. �Embrassez l'_accouchade_.�--C'est-�-dire
+l'accouch�e.--Forme proven�ale du participe.
+
+
+=AIGLE �PLOY�E=, IX, 404. �Cette _aigle �ploy�e_ nous fera voir
+de quel c�t� elle prendra son vol....�--L'aigle � deux t�tes de
+l'Empire, avec les ailes �tendues.
+
+�L'aigle, dit Fureti�re, comme symbole de la royaut�, est
+repr�sent�e quelquefois avec deux t�tes et, en ce cas, on la
+qualifie _esploy�e_, quoiqu'elle n'ait jamais qu'un corps, deux
+jambes et deux ailes ouvertes et �tendues, montrant enti�rement
+l'estomac. Celle de l'Empire est de cette sorte.... On appelle en
+g�n�ral _esploy�s_, tous les oiseaux qui ont les ailes �tendues;
+le mot vient du latin _explicare_.�
+
+
+=AIMABLEMENT=, _Lettres in�dites_, II, 126. �_Aimablement_, voil�
+un mot qui vient souvent sous ma plume; je voudrais bien pouvoir
+le mettre dans le grand monde.�
+
+Il y est arriv� par l'usage.--Ce mot nouveau, employ� par Madame
+de S�vign�, n'est pas donn� par M�nage, non plus qu'aimable. Ce
+dernier terme est seul admis dans le _Dictionnaire universel_, de
+Fureti�re. Madame de Staal-Delaunay (t. I, p. 213), �crit encore
+_amiable_: �des propos aussi peu amiables.�
+
+
+=AIR (bon)=, IX, 517. �Il n'a pas _bon air_, cet hiver.�--Bonne
+conduite et belle apparence.
+
+
+=AIR (l')=, I, 475. �Il apprit cette bonne nouvelle par
+_l'air_.�--Par des signes.
+
+
+=ALLELUIA (style d')=, X, 281. �Si vous lui �criviez, sur sa
+r�surrection, _d'un style d'Alleluia_.�--D'all�gresse.
+
+
+=ALL'ERTA=, _Lettres in�dites_, I, 418. �Les grands marchands
+�taient d�j� _all'erta_.�
+
+Dans l'attente, anxieux. (V. Saint-Simon, II, 316). En italien:
+_erta_, lieu �minent, mont�e; en fran�ais: tenir alerte, �tre en
+garde, guetter.
+
+
+=ALMANACH=, IV, 10. �Vous �tes un tr�s bon _almanach_.�
+
+Ce mot vient du bas latin _almanachus_; il s'appliquait d'abord �
+des calendriers �gyptiens.
+
+
+=AMITI�=, IX, 505. �Le Roi lui envoya faire une _amiti�_.�--Un
+compliment affectueux.
+
+
+=ANONNEMENT=, X, 267. �L'_�nonnement_ que je connais, ferait une
+�trange pauvret� de cette lettre.�--Lecture mauvaise � haute
+voix.
+
+
+=APOSTILLES=, I, 519. �Quelles _apostilles_ ne ferais-je point �
+vos lettres....?�
+
+Annotation marginale. Etymologie: _post illa_ (_verba_.)
+
+
+=AR�ONS (remis dans les)=, VI, 133. �Il se fut encore _remis dans
+les ar�ons_.�
+
+Retrouver son �quilibre et sa force, reprendre les �triers.
+
+
+=ATTOURNANCE=, VIII, 76. �J'attends votre r�ponse sur
+l'_attournance_ de ces six mille livres.�--Cession.
+
+
+=ATTOURNER=, VIII, 87. �Il faut l'obliger � nous _attourner_ ces
+pr�tentions.�--C�der.
+
+_Attourner_: disposer, parer. Atour, qui vient de ce verbe, reste
+seul en usage.
+
+
+=AUTOMNE (une)=, V, 245. �Que vous allez passer _une jolie
+automne_.�
+
+Automne est devenu du genre masculin, autrefois il �tait des deux
+genres.
+
+
+=AVALER=, VIII, 263. �Madame de Coulanges ne pouvait _avaler_ mes
+excuses.�--Faire descendre. (Cf. Saint-Simon, XI, 275.)
+
+
+=AVOINE=, VIII, 213. �On mange son _avoine_ tristement, mais,
+enfin, on la mange.�
+
+Prendre sa nourriture en silence, se r�signer � son sort, v�g�ter
+dans un �tat passif.
+
+
+
+
+B
+
+
+=BAC (dont la corde est rompue)=, IX, 81. �Vous me paraissez dans
+un grand _bac dont la corde est rompue_.�--Situation tr�s
+p�rilleuse.
+
+
+=BAGUE (courir la)=, V, 340. �Nous �tions accoutum�s � _courir la
+bague_.�--Aller tr�s vite.
+
+Fureti�re d�crit la bague: �Un exercice de man�ge que font les
+gentilshommes pour montrer leur adresse, lorsque, avec une lance
+et en courant � toute bride, ils emportent une bague suspendue au
+milieu de la carri�re, � une potence.�
+
+
+=BAIN (� la S�n�que)=, V, 326. �Je me suis _baign�e � la
+S�n�que_.�
+
+Bain extr�mement chaud dont parle S�n�que (_Epit._ 86), ou
+allusion � la mort de S�n�que, dans une �tuve br�lante.
+
+
+=BAISE-MAINS=, VIII, 3. �Elle vous fait mille _baise-mains_.�
+
+Recommandations et civilit�s offertes � quelqu'un. Ce mot �tait
+employ� m�me par les femmes. Madame de Maintenon (Lettres de
+Boileau), chargeait l'auteur des _Satires_ de faire ses
+baise-mains � Racine. �On �crivait autrefois aux dames, dit
+M�nage: je vous baise les mains et suis, etc. On ne souffrirait
+pas cela maintenant. Malherbe �crivait � une femme qu'il aimait:
+Je vous baise les pieds.�
+
+
+=BALLOTTER=, VIII, 454. �_Je ballotte._�--Je pelote en attendant
+partie.
+
+M�nage dit que c'est une m�taphore prise du jeu de la paume, o�
+l'on renvoie, � coups de raquette, la balle de tous les c�t�s.
+
+Ballotter, selon Fureti�re, se dit quand des joueurs de paume ne
+font que renvoyer la balle l'un � l'autre et ne jouent point
+partie.
+
+
+=BAPTISER (difficile �)=, IX, 592. �Je n'ai jamais vu un enfant
+si _difficile � baptiser_.�--Madame de S�vign� parle ici des
+nouvelles bulles annonc�es et retard�es.
+
+
+=BAPTISTAIRE=, X, 266. �Vous allez en avant pour la gaiet�, en
+reculant contre le _baptistaire_.�--L'extrait de l'acte de
+bapt�me; au figur�: l'�ge.
+
+
+=BARAGOUINER=, VI, 442. �Je n'aime pas les _baragouin�s_ d'Aix.�
+
+Baragouiner, parler d'une fa�on inintelligible, � la fa�on des
+bas-bretons d'autrefois, chez lesquels les mots _bara_, pain, et
+_guin_ ou _gwin_, vin, revenaient sans cesse. Les Fran�ais, par
+d�rision, qualifiaient de baragouin leur mani�re de parler.
+
+
+=BARRE (au-dessous de la)=, IX, 271. �Un esprit n'est-il pas
+_au-dessous de la barre_ � cet �ge?�
+
+Au propre, la barre est la pi�ce d'un tonneau qui traverse le
+fond par le milieu. Au figur�: �tre au-dessous du niveau, comme
+le vin, qui est au-dessous de la barre du fond du tonneau et qui
+est de moins bonne qualit�.
+
+
+=BIGARR�S (yeux)=, I, 509. �Je vis moi-m�me, de mes propres yeux
+_bigarr�s_.�--De diverses couleurs.
+
+
+=BILLEBAUDE=, IV, 454. �C'est une _billebaude_, qui m'est
+agr�able.�--Vie d�cousue, irr�guli�re, comme une bille lanc�e
+d'une mani�re hardie.
+
+
+=BLANC-SIGN�=, _Lettres in�dites_, II, 102. �Envoyez votre
+_blanc-sign�_.�--Actuellement: blanc-seing.
+
+
+=BOISSEAU (lumi�re sous le)=, VIII, 140. �Voil� de plaisantes
+_lumi�res � mettre sur le boisseau_, il faudrait les mettre
+dessous.� Cf. _Ev. Saint-Mathieu_, VI, 1.--Gens peu �clair�s et
+peu recommandables.
+
+
+=BONHOMME=, V, 1. �J'ai vu le _bonhomme_ de l'Orme.�--Personne
+�g�e; terme employ� souvent autrefois sans manque de respect. (V.
+Saint-Simon, I, 146).
+
+
+=BOTT� A CRU=, IX, 41. �N'avoir de la d�votion que ce
+retranchement (des pi�ces de com�die) me para�t �tre _bott� �
+cru_.�--Etre mal �quip�, repr�senter mal.
+
+
+=BOUCHON=, IX, 312. �C'est un joli petit _bouchon_ qui me r�jouit
+fort.�
+
+Terme de cajolerie, dit Fureti�re, qu'on donne aux petits enfants
+et aux jeunes filles de basse condition. Moli�re l'a employ�.
+(_Ecole des Femmes_, II, 9, _M�decin malgr� lui_, I, 59). Dans la
+_Coquette_, Regnard fait plaisamment d�river bouchon de bouche.
+On doit rattacher ce mot, dans ses sens divers, d'apr�s Hatzfeld,
+� l'ancien fran�ais bousche, faisceau de branchages et de
+javelles.
+
+
+=BOUFFE (la)=, IX, 178. �Il n'a point, avec nous, la _bouffe_ de
+gouverneur.�--Le visage gonfl�, l'allure importante.
+
+M�nage d�finit bouffer: Souffler � puissance d'haleine et les
+joues enfl�es. Les m�decins, �crit Fureti�re, appellent bouffe la
+partie inf�rieure de la joue, qu'on enfle de vent quand on veut.
+
+
+=BOUFF�E=, VII, 73. �Nous avons une petite _bouff�e_ d'hombres et
+de reversis.�
+
+Bouff�e: Mouvement � intervalles, flot. Hombres et reversis: jeux
+de cartes en usage au XVIIe si�cle.
+
+
+=BOURR�=, III, 514. �Si nous les attrapons, ils seront bien
+_bourr�s_.�--Bourrer, faire comme le chien qui poursuit un
+li�vre, lui donne un coup de dent, lui arrache le poil.
+
+Etymologie: latin populaire _burra_, amas de poils d�tach�s de la
+peau.
+
+
+=BOUTON (haut)=, V, 538. �C'est vous qui nous avez mis le _bouton
+si haut_.�
+
+Mettre le bouton haut � quelqu'un, c'est lui rendre une chose
+difficile. Cette m�taphore para�t tir�e de l'escrime, o�
+l'extr�mit� arrondie du fleuret est appel�e bouton ou mouche.
+
+
+=BRAVE=, VII, 416. �Vous me faites plus _brave_ que je
+voulais.�--Plus �l�gante.
+
+Ce mot a deux significations: vaillant et superbement v�tu.
+L'Acad�mie, au temps de M�nage, le trouvait un peu bas, dans ce
+dernier sens.
+
+
+=BR�SILL�=, IV, 234. �Mandez-moi si vous n'�tes pas
+_br�sill�e_.�--Devenue rouge, teinte avec le bois rouge appel�
+_br�sil_.
+
+Autre sens: br�siller, rompre par petits morceaux, r�duire en
+poudre � force de s�cheresse.
+
+
+=BR�TAUDER=, II, 117. �Madame de Nevers y vint, coiff�e � faire
+rire. Le Martin l'avait _br�taud�e_ par plaisir, comme un patron
+de mode excessive.�--Rogner, couper, tondre irr�guli�rement. On
+disait de m�me: une pistole br�taud�e.
+
+M�nage donne � ce mot, comme origine, les mots latins: _varie
+tondere_. Plus exactement, Hatzfeld voit son �tymologie dans
+_bertondre_, compos� de _bre_ ou _ber_, expression p�jorative, et
+de _tondre_.
+
+
+=BRIDE (l�cher la)=, IX, 307. �Je ne veux pas me _l�cher la
+bride_ � vous parler.�
+
+D'un terme de man�ge, le mot _bride_ est devenu, au figur�,
+l'obstacle � la volont� ou � la puissance d'une personne.
+
+
+=BRI (de la potence)=, IX, 295. �Avoir fourni _bri de la
+potence_.�--Avoir donn� contre la potence, dans le carrousel, au
+lieu d'avoir emport� la bague; avoir manqu� son coup.
+
+Madame de S�vign� dit ailleurs: brider la potence. (_Lettres
+in�dites_, I, 47.)
+
+
+=BRIDER SA COIFFE=, V. 101. �Si Quanto avait _brid� sa
+coiffe_.�--Se cacher sous ses coiffes, ne pas se montrer.
+
+Brider, dit Fureti�re, signifie quelquefois �teindre, serrer,
+cacher. Exemple: Ce justaucorps est mal taill�, il vous bride
+trop sur les �paules.
+
+
+=BRILLOTTER=, VI, 7. �Il _brillotte_ fort � nos Etats.�--Mot
+propre � Madame de S�vign�; briller en fr�tillant.
+
+
+=BUISSONS (battre les)=, VI, 136. �On _bat les buissons_ et un
+autre prend les oiseaux.�
+
+Le mot buisson a pour origine, d'apr�s M�nage, la cl�ture des
+jardins, autrefois en buis.
+
+
+
+
+C
+
+
+=CABINET=, VII, 428. �On peut trouver le reste assez bon pour
+�tre jet� dans un fond de _cabinet_.�--De bureau (Cf. _Le
+Misanthrope_, I, 1: Il est bon � mettre au cabinet).
+
+
+=CAMP DE MAINTENON=, VIII, 466. �Il fait de votre maison un _camp
+de Maintenon_, dont l'air ne sera pas moins mortel.�--Allusion
+aux travaux �normes et aux �pid�mies meurtri�res des ouvriers
+employ�s au ch�teau de Maintenon.
+
+
+=CANAILLES CHR�TIENNES=, IX, 221. �Je crois qu'il se contentera
+d'aller en Paradis et qu'il ne quittera pas ces _canailles
+chr�tiennes_.�
+
+Ce terme d�signait, avec un sens un peu moins m�prisant que de
+nos jours, le bas peuple. Mot attribu� � l'orgueilleux �v�que de
+Noyon, Clermont-Tonnerre, dans un de ses sermons.
+
+
+=CAR�ME PRENANT=, VI, 307. �Je vous trouve heureuse d'�tre
+d�livr�e de _Car�me prenant_.�--Carnaval, masque du mardi-gras.
+
+C'est � la fois le moment o� le car�me prend et l'homme d�guis�,
+appel�, quelquefois aussi, carnaval. (Voir Moli�re: _Le Bourgeois
+gentilhomme_, III, 3.)
+
+
+=CASE=, V, 186. �La _case_ de Brancas.�--Maison, famille, petite
+habitation.
+
+
+=CHACUNI�RE=, III, 316. �Les filles s'en vont, chacune � sa
+_chacuni�re_.�--Demeure particuli�re, logis.
+
+
+=CHAIR (�tre � la)=, X, 118. �Quand vos petits gar�ons seront _�
+la chair_.�--Form�s et en �tat d'agir, comme l'oiseau du
+fauconnier.
+
+
+=CHAMAILLIS=, _Lettres in�dites_, II, 258. �Vous devriez �tre en
+repos de ce premier _chamaillis_.�--Combat en champ clos, puis
+querelle o� l'on se chamaille. (Cf. Saint-Simon, VIII, 233.)
+
+Bruit produit par des gens qui chamaillent, qui se battent. Ce
+mot n'�tait plus en usage d�j� au temps de Fureti�re. Chamailler
+signifiait se battre contre un ennemi arm� de toutes pi�ces,
+frapper r�ciproquement sur les armes les uns des autres. Selon Le
+H�richer (_Les Etymologies difficiles_) ce terme aurait pour
+origine _cha_, pr�fixe p�joratif, et _mailler_, battre � coup de
+maillet. Littr� enseigne que l'expression vient de _Camail_,
+armure de t�te. D'apr�s Hatzfeld, l'�tymologie serait un mot du
+latin populaire _clamaculare_, crier, _clamare_, en bonne
+latinit�.
+
+
+=CHANDELLE DES ROIS=, II, 268. �Bariol� comme la _Chandelle des
+Rois_.�
+
+Autrefois, selon Fureti�re, la veille de la f�te des Rois, on
+br�lait une chandelle riol�e (ray�e), et piol�e (bigarr�e), de
+diverses couleurs.
+
+
+=CHANTER DES OREILLES=, IV, 296. �Je les entendais tous qui
+_chantaient des oreilles_, car je n'ai jamais entendu de sons
+comme ceux-l�.�--Chantaient mal. (Rabelais, _Pantagruel_, V, 27):
+Les fr�res ne chantaient que des oreilles.--Ne rendaient aucun
+son, ne parlaient pas.
+
+
+=CHATTE=, _Lettres in�dites_, II, 309. �La duchesse faisait
+comme la femme qui ne pouvait oublier qu'elle avait �t�
+_chatte_.�--Traiter quelqu'un avec un abandon familier, comme
+avant les grandeurs qui ont pu changer l'�tat, mais non
+l'ancien naturel de la personne.
+
+
+=CHAUD (trop)=, IX, 545. �Il prend go�t au m�tier (de la guerre)
+et ne trouve rien de _trop chaud_.�--Allusion � la chaleur de la
+bataille.
+
+
+=CHAUDE (� la)=, II, 532. �J'y fais une r�ponse � la
+_chaude_.�--Vivement, � l'instant. (Cf. Saint-Simon, V, 533.)
+
+
+=CHIEN DE VISAGE=, III, 78. �Voir toujours votre _chien de
+visage_.�
+
+Plaisanterie fr�quente chez Madame de S�vign�. Allusion au mot de
+Moli�re: chienne de face. (_D�pit amoureux_, IV, 47.)
+
+
+=CHIEN ET LOUP=, IV, 231. �Je crains l'entre _chien et
+loup_.�--D�but de la soir�e, l'heure � laquelle on ne
+distinguerait plus un chien d'un loup.
+
+
+=CHIEN DE JARDINIER=, V, 316. �Un _chien de jardinier_ comme
+lui.�
+
+Un envieux jaloux; il ne mange pas d'une chose et il ne veut pas
+que les autres y touchent, comme le chien du jardinier qui ne
+mange pas les choux et en interdit cependant l'approche.
+
+
+=CHR�ME ET BAPT�ME (renier)=, VIII, 374. �Un homme qui renie
+_chr�me et bapt�me_.�--Chr�me, huile d'olive employ�e dans
+certaines c�r�monies religieuses.--Ici le sens est: homme qui
+jure par les choses les plus sacr�es.
+
+
+=CLAIRET=, _Lettres in�dites_, I, 301. �L'autre avait beaucoup de
+blanc et de _clairet_ sur le visage.�--De rouge p�le, qui n'est
+point naturel.
+
+
+=COCU=, V, 483. �Il a permission de prouver qu'il est _cocu_.�
+
+Appellation injurieuse et basse donn�e au mari d'une femme
+infid�le. M�nage soutient que ce nom vient de _Cucullus_, parce
+que le coucou va pondre dans le nid des autres oiseaux.
+
+
+=COEUR DE ROI=, _Lettres in�dites_, I, 277. �Avec un _coeur
+de roi_, il d�cide tout, en prenant sur lui ce qui est en
+contestation.�--Vigueur et �l�vation de l'�me.
+
+
+=COEUR (emporter le)=, III, 155. �Un homme qui _emporte le
+coeur_.�--Qui entra�ne la sympathie et la conviction.
+
+
+=COFFRE (sur le)=, IV, 5. �Je ne mourrai pas _sur le
+coffre_.�--Au service du ma�tre, dans les antichambres o� les
+coffres servaient de si�ges aux nombreux courtisans de Louis XIV,
+qui attendaient son lever � la porte de sa chambre.
+
+
+=COFFRES (pesant sur les)=, VIII, 246. �Il va �tre un peu _pesant
+sur vos coffres_ et inutile.�--Se dit d'un homme qui est � charge
+aux autres.
+
+
+=COIN (avoir un)=, IV, 44. �Il _a un coin_ d'Arnauld dans sa
+t�te.�--Une partie des opinions et des sentiments grav�s dans la
+t�te.
+
+On dit d'un homme qui a plusieurs qualit�s, qu'il est marqu� au
+bon coin.
+
+
+=COMMERCE=, _Lettres in�dites_, II, 201. �S'il a du _commerce_ en
+Flandre.�--Des connaissances et des rapports.
+
+
+=COMPASS�=, IX, 357. �Les arrangements ont �t� si bien
+_compass�s_.�--Mesur�s comme avec un compas.
+
+
+=COMPLAISANCE=, IX, 501. �Elle demanda pardon au Roi de son peu
+de _complaisance_.�--D�f�rence � ses volont�s.
+
+
+=COQUELUCHONN�=, VIII, 464. �Des jupes noires si plaisamment
+_coqueluchonn�es_.�
+
+Ce mot vient de coqueluchon, capuchon de moine, en grosse bure.
+
+
+=COQUESIGRUES ou COQUECIGRUES=, VI, 453. �Je trouve mille
+_coquesigrues_.�--Animal fantastique, d'invention burlesque.
+
+Ce serait un poisson (l'anguille de mer), suivant les uns,
+suivant d'autres, un oiseau fantastique. Au figur�: �tre
+chim�rique. On dit proverbialement: Cela arrivera quand viendront
+les coquecigrues. Picrochole (Rabelais, livre I, chap. 99),
+esp�rait, d'apr�s une proph�tie, que son royaume lui serait rendu
+� la venue des coquecigrues. Madame de S�vign� donne � ce mot
+coquecigrue le sens de niaiserie. Dans l'_Interm�diaire des
+curieux et des chercheurs_, une discussion savante a �t� publi�e
+en 1907 sur ce mot bizarre. On verra dans les _M�moires de Madame
+de Boigne_ (III, 170), que Charles X s'�tant laiss� aller, au
+jeu, � traiter son partenaire inhabile de coquecigrue, celui-ci
+s'irrita, et que le souverain, pour le calmer, avoua en riant,
+qu'il ne savait pas bien lui-m�me le sens du mot qu'il venait
+d'employer.
+
+L'�tymologie de coquecigrue est inconnue. On a essay�, en vain,
+de l'attribuer � la r�union des trois mots: coq, cygne et grue.
+
+
+=CORBILLARD=, VIII, 280. �Cet aimable _corbillard_ qui s'en
+allait tous les jours faire si bonne ch�re.�
+
+Grand bateau allant de Corbeil � Paris, puis grand carrosse pour
+huit personnes de la suite des Princes.
+
+
+=COTHURNE=, _Lettres in�dites_, II, 409. �Votre r�le est h�ro�que
+et d'un _cothurne_ qui passe toutes mes forces.�--Eclatant, comme
+une sc�ne de trag�die.
+
+
+=COTE ROMPUE=, VI, 60. �Cette affaire a une _c�te
+rompue_.�--Allusion, dans un cas de rupture de mariage, � la
+naissance de la premi�re femme tir�e de la c�te d'Adam qui lui
+donna ainsi la vie.
+
+
+=COU (rompre le)=, IX, 566. �On ne peut pas _rompre le cou_ � un
+homme plus agr�ablement.�--Faire perdre son rang ou sa cause.
+
+
+=COULPE=, IX, 557. �Je m'abandonne � J�sus-Christ pour la
+_coulpe_ et les peines.�--Latin: _Culpa_, faute.
+
+
+=COURIR=, _Lettres in�dites_, I, 300. �Toute la ville me _court_,
+mais je ne veux pas rendre de visites.�--Courir a ici le sens de
+poursuivre.
+
+
+=COUSSINET (jeter son)=, VIII, 405. �La duchesse a toujours voulu
+M. de Mirepoix; elle y a _jet� son coussinet_.�--S'emparer de
+quelqu'un, comme on retient sa place dans un lieu public, en
+mettant un coussin. (Cf. Saint-Simon, X, 211)
+
+
+=COUSU (avec quelqu'un)=, VI, 350. �Elle n'est point condamn�e �
+�tre _cousue_ avec la Reine.�
+
+
+=COUSUES (bouches)=, IX, 162. �Voil� donc nos _bouches cousues_.�
+
+
+=COUSU=, _Lettres in�dites_, II, 16. �Etre moins _cousue_ et
+moins pr�s de moi.�--Moins attach�es � l'exc�s l'une � l'autre.
+
+
+=CRAPAUDS (nourrir des)=, I, 524. �Les _crapauds_ et les
+couleuvres que vous nourrissez contre moi.�--Au figur�: chose
+p�nible.
+
+On dit encore, dans un sens analogue, avaler des crapauds et des
+couleuvres.
+
+
+=CREVER=, VI, 310. �Ce fils ressortit pour _crever_.�--Exhaler la
+douleur qui l'oppressait.
+
+
+=CRISTAL (de l'automne)=, V, 99. �Ces beaux jours de _cristal de
+l'automne_.�
+
+Allusion � la transparence et � la limpidit� de la lumi�re et de
+l'air.
+
+
+=CROIX DE L'�P�E (mariage sur la)=, VIII, 522. �Fait un _mariage
+sur la croix de l'�p�e_.�
+
+Croix de la poign�e de l'�p�e; promesse militaire de mariage
+prononc�e en touchant cette arme.
+
+
+=CROUSTILLES=, VII, 2. �Les mets de vos _croustilles_.�
+
+Petits repas o� l'on casse une cro�te, collation l�g�re.
+
+
+
+
+D
+
+
+=D�BELLER=, VIII, 314. �Il y a bien des cr�anciers � _d�beller_.�
+
+Etymologie: latin _debellare_, soumettre par la guerre. (Cf.
+Saint-Simon, V, 122.)
+
+
+=DEBREDOUILL�=, VII, 55. �Les trois jours ont _debredouill�_ le
+chevalier.�
+
+Oter la bredouille, faire dispara�tre la mauvaise
+chance.--Bredouille, insucc�s au jeu ou � la chasse.
+
+
+=D�CONTENANCEMENT=, IV, 376. �Le _d�contenancement_ de
+Vardes.�--Trouble qui fait perdre contenance.
+
+
+=D�GINGAND�=, IV, 118. �Notre commerce _d�gingand�_.�--Allant de
+travers, interrompu.
+
+�Terme burlesque, dit Fureti�re, dont on se sert pour se moquer
+d'une personne malpropre et chiffonn�e, ou qui n'a pas une
+d�marche ferme, assur�e et modeste.� (Cf. Saint-Simon, X, 186.)
+
+
+=D�M�RITER=, IX, 528. �Il m�rita et _d�m�rita_ l'amiti� et
+l'estime de saint Augustin.�
+
+D�m�riter: perdre ses titres � l'amiti� et � la bienveillance de
+quelqu'un.
+
+
+=D�MONTER (son esprit)=, X, 109. �Il faut _d�monter_ mon
+esprit.�--Le mettre en place, le calmer.
+
+
+=D�PLOR�=, _Lettres in�dites_, II, 252. �Si les affaires �taient
+moins _d�plor�es_, on serait heureux.�--Dans un �tat moins
+affligeant.
+
+
+=D�S (trois)=, V, 16. �Jouer sa part � _trois d�s_.�--A raison de
+l'indiff�rence sur le choix � faire ou le parti � prendre. (Cf.
+Saint-Simon, VIII, 124.)
+
+
+=D�SASSORTI=, V, 243. �C'est une chose toute _d�sassortie_.�--Qui
+n'est pas � sa place.
+
+
+=D�SASSORTISSEMENT=, IX, 358. �C'est un _d�sassortissement_
+ridicule.�--Etat d'une chose d�plac�e et sans accord avec le
+reste.
+
+
+=D�SOCCUPATION=, IX, 525. �Je ne sais si c'est la
+_d�soccupation_.�--Etat de celui qui n'est pas occup�.
+
+
+=D�SOCCUP�=, VI, 101. �Il �tait _d�soccup�_.�--Mot vieilli; celui
+qui ne fait plus rien.
+
+
+=D�SOPILER (se)=, III, 342. �M. de Luxembourg ne saurait se
+_d�sopiler_.�--Se d�gager, �ter les obstructions.
+
+Etymologie: la particule _des_ (latin _dis_), et le latin
+_oppilare_, boucher.--Opiler: obstruer les conduits naturels.
+
+
+=D�TRAPER=, III, 81. �La fortune _d�trapera_ de bien des
+gens.�--D�barrasser.
+
+Etymologie: la particule _d�_ et _trappe_, pi�ge. On peut
+rapprocher de ce terme: attraper, rest� seul en usage.
+
+
+=D�VIDER=, VI, 390. Je vous parcours, je vous _d�vide_, je vous
+red�vide.�
+
+D�vider: d�rouler, d�velopper, parcourir.
+
+
+=DIAMANT=, _Lettres in�dites_, I, 244. �Il y aurait un _diamant_
+pour celui qui ferait les noces de sa cousine.�--Cadeau
+honorifique, sens rare au XVIIe si�cle.
+
+
+=DIANTRE=, III, 184. �Il fait un temps de _diantre_.�--Alt�ration
+arbitraire du mot diable qu'on �vitait de prononcer au XVIIe
+si�cle.
+
+
+=DIEUX (les)=, _Lettres in�dites_, II, 520. �Cette pens�e hante
+les gens accoutum�s � n'avoir que les _dieux_ au-dessus de leur
+t�te.�--Les fils et petits-fils de Rois. (Cf. La Bruy�re,
+_Caract�res_, ch. II.)
+
+
+=DILATER=, VIII, 256. �Je souhaite de voir votre coeur _dilat�_
+et dans la paix.�--Le coeur plein d'expansion par la joie.
+
+
+=DISEUR=, IV, 5. �Je ne suis pas un _diseur_.�--Bavard qui r�p�te
+d'inutiles paroles. (Cf. Moli�re, _Le Misanthrope_, I, 1.)
+
+
+=DISPOSITION=, IV, 482. �C'est une l�g�ret�, une
+_disposition_.�--Qualit� de ce qui est dispos, agile.
+
+
+=DIXI�ME (le) DE MAI=, V, 436. �_Le dixi�me de mai._�--Au lieu
+de, le dix mai. Ancienne formule.
+
+
+=DOMESTIQUE (le)=, _Lettres in�dites_, I, 247. �Il ne faut pas
+que le _domestique_ soit d�guenill�.�--Ici les gens de service.
+
+_Domestique_ avait au XVIIe si�cle un sens beaucoup plus �tendu
+et il s'appliquait � tous ceux qui �taient attach�s � une
+personne � un titre quelconque, dans l'int�rieur de la maison.
+
+
+=DRAGONS=, V, 169. �Ne vous faites pas de _dragons_.�--Fant�mes
+chim�riques, craintes vaines.
+
+
+=DRU=, III, 462. �Jamais vous n'avez vu une mari�e si _drue_;
+elle va droit � son m�nage.�
+
+Dru: au propre, qui a des pousses nombreuses et serr�es. Dru est
+aussi un terme de fauconnerie qui se dit d'un oiseau pr�t �
+s'envoler du nid. Au figur�, dru signifie: d�j� cr�, qui se porte
+bien, vigoureux, gaillard.
+
+
+
+
+E
+
+
+=�BAUBIS=, V, 422. �Ces deux historiens plus _�baubis_ que vous.�
+
+Ebaubi: interdit au point de b�gayer. Ebaubi est le participe
+pass� de l'ancien verbe �baubir, rendre baube. _Baube_ veut dire
+_b�gue_ dans le vieux fran�ais et vient du latin _balbus_.
+
+
+=�CUELLE (pleuvoir dans l')=, _Lettres in�dites_, II, 99. �Il a
+bien _plu dans l'�cuelle_ de vos cadets.�--Pensions accord�es,
+avantages advenus, successions opulentes, etc.
+
+
+=�CUMER=, V, 274. �_Ecumer_ votre chambre.�--D�barrasser de
+f�cheux incommodes.
+
+
+=�CUMER LE POT=, VI, 164. �Je laisserai _�cumer mon pot_ � qui
+voudra.�--Qui voudra fera les honneurs de chez moi.
+
+
+=EFFERVESCENCES D'HUMEUR=, IX, 146. �Des _effervescences
+d'humeur_, voil� un mot dont je n'avais jamais entendu parler,
+mais il est de votre p�re, Descartes.�--Bouillonnements de l'�me.
+
+
+=�MERILLONN�E=, V, 208. �Cette petite _�merillonn�e_, cette
+petite infante.�--Vive comme un �merillon (petit faucon).
+
+
+=EMMAIGRIR=, VI, 265. �Le caf� _emmaigrit_ l'autre.�--Mot
+vieilli, remplac� par amaigrir.
+
+
+=EMMANCHER=, VII, 477. �Une suite de pens�es _emmanch�es_ �
+gauche.�--Fausses, mauvaises, contraires � la droiture.
+
+
+=�NERGUM�NE=, _Lettres in�dites_, II, 427. �Je connais le mot
+d'_�nergum�ne_ pour l'avoir lu en bon lieu et dans le Nouveau
+Testament, quand Notre-Seigneur fait sortir les d�mons de ces
+poss�d�s, en les appelant �nergum�nes; mais quel mot pour un bout
+rim�!�
+
+Ce mot, dit M. Capmas, n'�tait encore, au XVIIe si�cle,
+qu'un terme de th�ologie; il se trouve chez des annotateurs
+de l'Evangile et point dans le texte. M�nage et Fureti�re
+mentionnent tous deux cette expression de laquelle se servaient
+les eccl�siastiques pour d�signer un poss�d� du diable qu'ils
+exorcisaient.
+
+
+=ENT�TER=, IX, 479. �Ce que vous me mandez, ach�ve d'_ent�ter_
+mon fils.�--Occuper la t�te d'une id�e, donner une pr�vention
+aveugle, �tourdir, attacher � une opinion.
+
+
+=�P�E (MOURIR D'UNE PLUS BELLE)=, IX, 467. �_Mourir d'une plus
+belle �p�e._�--Faire une fin honorable et brillante.
+
+
+=�PLUCHEUR D'�CREVISSES=, V, 266. �Vous appelez Dom Robert �un
+_�plucheur d'�crevisses_.�--Auteur d'�crits subtils qui
+ressemblent aux �crevisses, o� il y a plus � �plucher qu'�
+manger.
+
+
+=ESCABELLES=, VIII, 17. �La mort venait d�ranger ses
+_escabelles_.�--Rompre ses desseins. (Cf. Saint-Simon, XVI, 119.)
+
+
+=ESCARMOUCHER=, VII, 85. �_Escarmouchez_ avec lui.� (Cf.
+Saint-Simon, IX, 21.)
+
+Etymologie: italien _Scaramucca_, qu'on peut rapprocher du nom
+propre Scaramouche.
+
+
+=ESCOUSSE=, VIII, 485. �Ne prenez pas de si loin votre
+_escousse_.�--Action qui pr�pare � mieux sauter, �lan. (Cf.
+Saint-Simon, VI, 434.)
+
+
+=ESTOC=, IV, 177. �Je voudrais le marier � une petite fille qui
+est un peu juive de son _estoc_.�--De sa souche, de sa race, de
+sa ligne d'extraction.
+
+Au propre: souche d'arbre, tige. Au figur�: origine d'une
+famille. Etymologie germanique.
+
+
+=�TOILE DU ROI=, IX, 505. �Je demande en gr�ce, � l'_�toile du
+Roi_, de nous �ter le prince d'Orange.�
+
+Etoile: astre qui, au moment de la naissance d'un homme, exer�ait
+une influence sur sa destin�e.
+
+
+=�TRANGLANTE (raison)=, IX, 222. �C'est une _raison
+�tranglante_.�--Qui comprime, arr�te et tue.
+
+
+=EXAG�REUSE=, II, 281. �N'avez-vous pas quelque _exag�reuse_
+comme celle-ci.�
+
+Exag�reur: celui qui va en pens�e ou en action au del� de toute
+mesure.
+
+
+
+
+F
+
+
+=FAGOT D'�PINES=, VI, 155. �Elle n'est rien moins qu'un _fagot
+d'�pines_.�--Une personne qu'on ne sait par quel bout prendre.
+
+
+=FAGOTAGE=, III, 366. �N'admirez-vous pas le _fagotage_ de
+mes lettres? Je quitte un discours et tout � coup je le
+reprends.�--Composition n�glig�e.
+
+IV, 104. �Peut-on voir un plus beau _fagotage_?�--A propos de
+la r�union de choses contraires.
+
+IX, 262. �Il aurait fallu faire un _fagotage_ de
+r�conciliation.�--B�cler un accord, r�tablir d'anciens liens.
+
+
+=FAIRE FROID=, I, 346. �_Faire froid_, au dernier point, � une
+personne.�
+
+On dit � pr�sent: _battre froid_.
+
+
+=FAISEUR DE FILLES=, I, 357. �Le beau _faiseur de filles_.�
+
+Raillerie de Madame de S�vign� � l'�gard de Bussy-Rabutin.
+
+
+=FANTAISIE MUSQU�E=, VI, 17. �Quelle _fantaisie
+musqu�e_.�--Affect�e.
+
+
+=FAVORI SANS M�RITE=, V, 493. �Vous savez ce bon mot sur
+Versailles, ce _favori sans m�rite_.�
+
+
+=FERS (Qualit� entre deux)=, VI, 222, �On trouvait la qualit�
+_entre deux fers_, pour entrer dans le carrosse de la
+Reine.�--Qualit� insuffisante. Une pi�ce de monnaie, qu'on p�se
+et qui ne tr�buche pas, est dite entre deux fers.
+
+
+=FEUILLE QUI CHANTE=, V, 232. �Il y a de la _feuille qui chante_
+� ce m�lange des dieux et des hommes.�
+
+Locution remarquable, r�p�t�e � plusieurs reprises par Madame de
+S�vign�. Au lieu de peindre l'oiseau chantant dans les arbres et
+les bois, elle pr�te aux feuilles qu'elle anime le r�le du
+chanteur ail�. On a dit qu'elle avait ainsi fix� le premier
+moment de la perception, celui o� l'on per�oit � la fois le
+feuillage et le chant. Louis Bouilhet appliquant cette pens�e �
+une fleur et � un oiseau exotique, a �crit de m�me:
+
+  Et l'on ne sait pas quand on les voit ensemble,
+  Si c'est la fleur qui chante ou l'oiseau qui fleurit.
+
+
+=FICH�=, _Lettres in�dites_, II, 28. �Cela s'est _fich�_ dans ma
+t�te.�--Enfonc� par la pointe.
+
+
+=FICHU=, VII, 302. �C'est beaucoup de n'avoir pas l'esprit
+_fichu_, ni de travers.�--Mal ordonn�, d�plaisant.
+
+
+=FIG�=, III, 499. �Pour _fig�es_, mes lettres ne le sont
+pas.�--Synonyme ici de glac�es.
+
+
+=FONTAINE=, IV, 109. �Un petit page devenait _fontaine_, en
+pleurant.�--Pleurs qui coulent comme d'une source.
+
+
+=FONTANGE=, VIII, 322. �Vous me faites horreur avec cette
+_fontange_.�--Noeud de rubans port� au-dessus du front, mis � la
+mode par Mademoiselle de Fontanges.
+
+
+=FORLONGER (se)=, III, 514. �Ils se _forlongent_.�--Tirent en
+longueur, comme une b�te chass�e qui s'�loigne de son s�jour
+ordinaire. (Cf. Saint-Simon, VI, 296.)
+
+
+=FRANCE (la)=, II, 173. �Nourrir _la France_.�
+
+VIII, 288. �Toute _la France_ vint lui faire compliment.�
+
+Toute la Cour, tout ce qui comptait en France, au XVIIe si�cle.
+Saint-Simon emploie fr�quemment cette expression dans ce sens.
+
+
+=FRAT�=, IV, 163. �Une mani�re de _frat�_� (pour frater, fr�re).
+
+
+=FR�TILLER=, _Lettres in�dites_, II, 165. �Les mains lui
+_fr�tillent_.�
+
+Fr�tiller: s'agiter comme une anguille. (Cf. Saint-Simon, XIV,
+197.)
+
+
+=FRICASS� DANS LA NEIGE=, VII, 55. �Il aurait mieux valu �tre
+_fricass� dans la neige_.�
+
+Allusion au mot c�l�bre de Ninon, qui disait de Ch. de S�vign�
+que c'�tait une citrouille fricass�e dans la neige.
+
+
+=FRUST (chevaux)=, IX, 87. �_Chevaux frust._�--Fringants; chevaux
+de carton en usage dans les f�tes populaires de la Provence.
+
+
+=FURIES (battu des)=, IV, 508. �Il ne serait pas _battu des
+furies_.�--Tourment� par les remords.
+
+
+=FUS�E=, VIII, 55. �Il faut que cette _fus�e_ soit d�m�l�e.�
+
+Au propre: quantit� de fil roul�e autour du fuseau, ou m�me
+fuseau. Au figur�, ici: Question � �claircir et � d�brouiller.
+
+
+
+
+G
+
+
+=GAGNER (pays)=, VI, 236. �Il vaut bien mieux _gagner
+pays_.�--Prendre de l'avance. (Cf. Saint-Simon, VII, 72.)
+
+
+=GALERIES (faire ses)=, VII, 62. �La Princesse _fait ses
+galeries_, de Vitr� ici.�
+
+Locution proverbiale d�signant, autrefois, un chemin qu'une
+personne suit souvent et sans peine.
+
+
+=GARGOTIER=, _Lettres in�dites_, II, 190. �Vous pouvez faire des
+reproches au cuisinier de M. de La Garde, du _gargotier_ qu'il
+vous avait envoy�.�
+
+Gargote vient de l'ancien fran�ais gargate, gosier. Lieu o� on
+remplit le gosier d'aliments.
+
+
+=GAUDEAMUS=, VII, 458. �Nos petits hommes soupaient en
+_gaudeamus_.�--D�bauche famili�re et chant bachique � table. Mot
+latin signifiant: R�jouissons-nous!
+
+
+=GODENOT=, VII, 443. �Le petit prince, habill� comme un
+_godenot_.�
+
+�Petite figure ou marionnette, dit Fureti�re, dont se servent les
+charlatans pour amuser le peuple. Se dit aussi, par d�rision, de
+personnes laides et mal faites, des figures mal taill�es ou
+d�figur�es.�
+
+
+=GODINEMENT=, VII, 427. �Vous pouvez aller coucher _godinement_ �
+Foug�res.�--Mot d'origine bretonne: gaiement, gentiment.
+
+
+=GODRONN�=, IX, 300. �De la vaisselle toute neuve, toute
+_godronn�e_, au fruit.�
+
+Godronn�: orn� de figures en relief.--Godron, ornement fait aux
+bords des vaisselles d'argent, en forme d'oeuf allong�.--Au
+fruit: au dessert.
+
+
+=GONFL� (de vision)=, VII, 494. �Un homme _gonfl� de vision_.�
+
+
+=GORGE (coup�e)=, VI, 6. �Ne laissez point vivre ni rire des gens
+qui ont la _gorge coup�e_ et qui ne le sentent pas.�
+
+
+=GORGE (rendre sa)=, _Lettres in�dites_, I, 253. �Elle _rendait
+un peu sa gorge_ le matin.�--Expectorer de la salive, de la bile.
+
+
+=GRAPPILLER=, IX, 367. �Lire en _grappillant_ les endroits
+plaisants.�
+
+Grappiller: cueillir des petites grappes, des grappillons; faire
+des petits profits, peu � peu.
+
+
+=GRAS (des jambes)=, IV, 181. �Avoir mal au _gras des jambes_ sur
+un sujet.�--En entendant un discours importun qui fait perdre
+patience � l'auditeur et l'agite.
+
+
+=GRATIS (le)=, IX, 374. �Le pape donne _le gratis_.�--Ne fait
+rien payer pour les bulles de nomination � une abbaye ou autre
+fonction eccl�siastique.
+
+
+=GRIMAUDAGE=, VII, 350. �Otez-vous de l'esprit tout ce
+_grimaudage_ d'une femme bless�e.�
+
+Grimaudage: verbiage p�dantesque d'un petit ma�tre d'�cole.
+
+
+=GRISETTE=, _Lettres in�dites_, II, 263. �Je m'en vais consulter
+pour une _grisette_.�--Habit de petite �toffe grise.
+
+
+=GRISONS=, VII, 357. �Les _grisons_ vous sont inutiles: je vous
+dirai toujours la v�rit�.�--Gens de service, habill�s en gris,
+pour les cas de missions secr�tes.
+
+
+=GUENILLON=, VI, 162. �Je vous mandai par un petit _guenillon_ de
+billet.�--Ici, petit lambeau d'�criture.
+
+
+=GUERRE (en) ET EN MARCHANDISE=, IX, 272. �Il se vante d'avoir vu
+le chevalier _en guerre et en marchandise_.�--Comme soldat et
+comme homme priv�.
+
+M�taphore tir�e d'un vaisseau �quip� moiti� pour la guerre,
+moiti� pour le commerce.
+
+
+
+
+H
+
+
+=HURLUP�=, II, 172. �La t�te nue et _hurlup�e_.�--H�riss�e.
+
+On �crivait autrefois, _hurup�_, qui venait de hure, poil de la
+t�te.
+
+
+
+
+I
+
+
+=INHUMANIT�S=, IX, 507. �Je suis impitoyable � ses longues et
+cruelles froideurs, pour ne pas dire _inhumanit�s_.�
+
+
+=INTERLOQU�=, IX, 404. �Cela ne peut entrer dans ma t�te; cet
+article est _interloqu�_.�
+
+Mot emprunt� au langage du droit. Le plaideur est interloqu�
+quand le jugement est suspendu jusqu'� ce que la preuve soit
+fournie. Il faut proc�der d'abord � l'ex�cution d'une mesure
+pr�paratoire, dite interlocutoire, parce qu'elle pr�juge le fond.
+
+Etymologie: latin _interloqui_: interrompre.
+
+
+
+
+J
+
+
+=JAMBON (tranches de)=, IX, 182. �Il marquait les feuillets de
+son br�viaire avec des _tranches de jambon_.�--Pr�lat �picurien,
+ne songeant qu'� sa table.
+
+
+=JOBELIN=, I, 544. �Je ne sais pas ce que j'aurais fait d'un
+_jobelin_ qui e�t sorti de l'Acad�mie.�--Un niais.
+
+Au XVIIe si�cle, on appelait jobelins les partisans du sonnet de
+Job, compos� par Benserade, qu'on opposait alors � celui
+d'Uranie, �crit par Voiture, en 1638.
+
+
+=JOIE NOY�E=, VII, 529. �Une _joie noy�e_ de tant de larmes.�
+
+
+=JOLI=, _Lettres in�dites_, II, 29. �Vous �tes trop _jolie_ de
+m'avoir envoy�.�--Trop aimable, trop obligeante.
+
+Ce sens est encore usit� dans le langage populaire de la
+Bretagne.
+
+
+
+
+L
+
+
+=LA=, _Lettres in�dites_, II, 85. �N'�tes-vous point effray�e; je
+_la_ suis.�
+
+On �crit actuellement _le_, sans faire accorder le pr�nom.
+
+
+=LAMBEL=, I, 357. �Je vous r�duirai au _lambel_.�
+
+Brisure des armoiries des branches cadettes. A la partie
+sup�rieure de l'�cu, on tra�ait un filet horizontal.
+
+
+=LANTERNERIE=, VII, 452. �Mon fils a une petite _lanternerie_
+d'�motion qui l'a emp�ch� d'aller aux Etats.�
+
+Retard dans l'ex�cution d'un acte ou chose de minime importance.
+
+
+=L� (tout de)=, VII, 269. �Elle perdit hier son proc�s tout de
+long et _tout de l�_.�
+
+L�, largeur, vient du latin _latum_.
+
+
+=L�G�RE (repas � la)=, II, 222. �Nos repas ne sont pas _repas �
+la l�g�re_.�--Peu substantiels.
+
+Madame de S�vign� cite, en le modifiant un peu, un vers de La
+Fontaine: (V. _l'Aigle et le Hibou_, V, 18.)
+
+
+=LIBERTINE=, V, 551. �Je suis tellement _libertine_, quand
+j'�cris.�--Affranchie de toute r�gle, suivant uniquement son
+caprice.
+
+_Lettres in�dites_, II, 11. �L'exp�rience va vous rendre plus
+_libertine_ que jamais.�--Plus ind�pendante d'esprit et de
+caract�re.
+
+
+=LIE (la)=, VII, 458. �_La lie_ de l'esprit et du corps est
+humiliante � soutenir.� (Cf. Saint-Simon, XIV, 9.)
+
+
+=LIE (de la vie)=, X, 344. �Il est rare que la fin et la _lie de
+la vie_ n'en soient humiliantes.�
+
+
+=LI�VRE AU CORPS (prendre le)=, IX, 192. �Cette affaire est
+pressante et _prend le li�vre au corps_.�
+
+C'est une question urgente qui doit �tre tranch�e sans
+h�sitation. Fureti�re enseigne que prendre le li�vre au corps,
+signifie prendre une affaire de bon biais, donner la d�cision
+d'une question.
+
+
+=LOIN (de)=, _Lettres in�dites_, II, 23. �Il ne pourra _de loin_
+quitter la M�diterran�e.�--De longtemps.
+
+
+=LOPE (Es de)=, VII, 516. �Il y a un certain caract�re de finesse
+et de facilit� qui fait toujours crier: _Es de Lope_.�
+
+Proverbe espagnol: c'est de Lope, c'est parfait.
+
+
+=LOUP (gueule au)=, IX, 521. �Mon fils est � la _gueule au
+loup_.�--Dans une position dangereuse.
+
+C'est une m�taphore analogue � celle du proverbe latin: tenir le
+loup par les oreilles.
+
+
+
+
+M
+
+
+=MAITRE-GAR�ON=, X, 168. �Je veux qu'il laisse le mar�chal de
+Bellefonds, comme son _ma�tre-gar�on_, pour le conduire dans la
+suite des rem�des.�--Auxiliaire du m�decin, son premier �l�ve
+autrefois.
+
+
+=MACHONNER=, VII, 270. �Son amie _machonne_ quelque chose d'un
+p�lerinage.�--M�cher avec difficult�.
+
+Par analogie, parler avec embarras.
+
+
+=MAILLOT=, VIII, 277. �Ce petit gar�on n'est plus ce petit
+_maillot_ de Madame de Coulanges.�--Jeune enfant encore dans les
+langes. (Cf. Saint-Simon, IV, 59.)
+
+
+=MAIN (� la)=, V, 227. �La promenade est si fort _� la main_.�--A
+port�e. (Cf. Saint-Simon, IV, 70.)
+
+
+=MAIN (la)=, VIII, 406. �Le roi d'Angleterre ne donne pas _la
+main_ � Monseigneur.�--La droite. (Cf. Saint-Simon, II, 285.)
+
+
+=MAIN (s�ch�e)=, VIII, 331. �Il leva la main, la _main ne lui
+s�cha pas_.�
+
+Voir la Bible, les Rois, XIII, 6.
+
+
+=MANGER (son pain b�nit)=, V, 352. �A-t-il besoin de cette
+conduite, d'un changement de corbillon, pour _manger son pain
+b�nit_?�
+
+Corbillon, petite corbeille pour les g�teaux. Allusion � ce
+proverbe: �_Changement de corbillon fait app�tit de pain b�nit_,�
+fait trouver le pain bon.
+
+
+=MANGER (le chagrin)=, _Lettres in�dites_, II, 416. �_Mangeant le
+chagrin_ de la lenteur du cheval.�
+
+On dit actuellement: d�vorer le chagrin, avec le m�me sens.
+
+
+=MANGER L'ARTICLE=, IX, 519. �Me permettre de _manger
+l'article_.�
+
+Madame de S�vign� veut �crire: la comtesse Dalet, au lieu de la
+comtesse _de_ Dalet.
+
+
+=MANGERIE=, VII, 2. �L'�toile de la _mangerie_ s'est mise en ce
+pays.�
+
+Action de manger abondamment.--Terme vieilli.
+
+
+=MARAUDAILLE=, V, 36. �Ces _maraudailles_ de Paris.�--Canailles,
+r�unions de marauds.
+
+
+=MARGUERITES (devant les pourceaux)=, VII, 227. �C'�taient des
+_marguerites devant les pourceaux_.�
+
+L'Evangile de saint Mathieu parle de perles, en latin
+_margaritas_. (Cf. Saint-Simon, XIII, 275.)
+
+
+=MARIONNETTE (de guerre)=, III, 286. �Cette _marionnette de
+guerre_.�--Simulacre.
+
+
+=MARTEAU (coup de)=, IX, 138. �J'aime qu'un _coup de marteau_ ne
+soit pas votre ma�tre.�--Elle pr�f�re la libert� de la vie, et
+des repas.
+
+
+=MASQUES, JE VOUS CONNAIS=, X, 279.
+
+Reproche fait � des gens anoblis. On trouvera dans notre livre
+intitul�: _Vie et esprit d'Achille III de Harlay_, le r�cit
+complet de la sc�ne � laquelle Madame de S�vign� fait allusion.
+
+
+=MEZZO-TERMINE=, IX, 183. �_Les Mezzo-termine_ ne lui manquaient
+pas.�--Les moyens termes. (Cf. Saint-Simon, VIII, 4.)
+
+
+=MIE=, _Lettres in�dites_, I, 262. �Je serai ravie d'embrasser ma
+petite _mie_.�
+
+On disait jadis: m'amie, pour mon amie, et, par un diminutif
+familier, mie. (Cf. Saint-Simon, I, 340.)
+
+
+=MIGNON (plaisant)=, I, 356. �Vous �tes un _plaisant mignon_ de
+ne m'avoir pas �crit.�
+
+Personne qu'on ch�rit, � qui l'on trouve du charme dans sa
+petitesse.
+
+
+=MIRODER=, IV, 533. �Elle fut _mirod�e_.�
+
+Mot breton: ajuster avec soin. On �crit aussi: miroter et
+mirauder.
+
+
+=MITONNER=, V, 259. �Cela s'appelle _mitonner_ les
+dames.�--Pr�parer doucement, entourer de petits soins, choyer.
+
+
+=MORGUER=, III, 130. �L'autre vous _morgue_.�--Morguer: braver
+par des regards m�prisants, regarder fixement. (Cf. Saint-Simon,
+III, 205.)
+
+
+=MOUFLER=, IV, 487. �Ces dames sont bonnes � _moufler_.�
+
+Moufle: visage rebondit, gras; moufler, prendre le nez et les
+joues � quelqu'un pour lui faire boursoufler les joues.
+
+
+=MOULIN A PAROLES=, VI, 223. �Elle fait joliment tourner son
+_moulin � paroles_.�
+
+Babillarde � la langue intemp�rante, qui fait grand bruit, qui
+parle sans arr�t, comme un moulin qui tourne.
+
+
+=MOUSTACHE (passer sur la)=, V, 341. �Ce t�m�raire cocher nous
+_passa sur la moustache_.�
+
+L'emporter sur quelqu'un par une action hardie. Fureti�re nous
+apprend que le terme moustache ne se disait pas seulement de la
+barbe, mais aussi des cheveux qu'on laissait cro�tre et pendre �
+c�t� des joues. Les femmes avaient des moustaches boucl�es qui
+leur pendaient le long des joues, jusque sur le sein. On faisait
+la guerre aux servantes et aux bourgeoises, quand elles portaient
+des moustaches comme les demoiselles.
+
+
+
+
+N
+
+
+=NEUF=, IV, 118. �Elle est dans son _neuf_.�--Neuvi�me mois de
+grossesse.
+
+
+=NUES (monter aux)=, IX, 548. �Les moindres int�r�ts de son fils
+la faisaient _monter aux nues_.�--Avoir les plus grandes
+ambitions.
+
+
+=NUES (sauter aux)=, I, 470. �Je _saute aux nues_, quand je pense
+� cette infamie.�
+
+On dit, � pr�sent, sauter en l'air avec le m�me sens.
+
+
+
+
+O
+
+
+=OILLE=, X, 117. �Elle fit de plus une _oille_.�
+
+Espagnol: _olla_, potage o� il entre toutes sortes de viandes et
+de l�gumes. (V. Saint-Simon, XVIII, 163.)
+
+
+=OISEAU (battu de l')=, VI, 333. �Vous �tes encore trop _battus
+de l'oiseau_.�--Eprouv�s par le malheur, rebut�s par les
+insucc�s. (Cf. Saint-Simon, IV, 107.)
+
+
+=OLIVE (rameau d')=, V, 522. �Le _rameau d'olive_ qui fit
+reconna�tre que la terre �tait d�couverte.�
+
+Ancienne forme �d'olivier�. On disait autrefois: J�sus au jardin
+des olives.
+
+
+=OMBRE (sous)=, I, 405. �_Sous ombre_ que vous �crivez comme un
+petit Cic�ron.�--Sous l'apparence que. Latinisme.
+
+
+=OP�RA=, IX, 540. �Ce sont des sonnets, c'est un _op�ra_ pour
+moi.�
+
+Op�ra signifiait jadis oeuvre capitale. Scarron �crivait: �Vos
+lettres sont des choses admirables, dignes d'�tre apprises par
+coeur, en un mot, ce qu'on appelle des _op�ras_.� Ici le sens
+est: chose rare, difficile.
+
+
+=OREILLE (droite)=, III, 166. �C'est l'_oreille droite_ qui corne
+quand on dit du bien.�--On dit proverbialement de m�me: les
+oreilles lui tintent, lui donnent la sensation d'une cloche qu'on
+frapperait.
+
+
+=OREILLE (faire l', d'un enfant)=, _Lettres in�dites_, II, 521.
+�C'est un _enfant dont j'aurai fait l'oreille_.�--Participation �
+la naissance d'une affaire. (Cf. La Fontaine, _Contes_, II, 17.)
+
+
+
+
+P
+
+
+=PACOLET=, _Lettres in�dites_, II, 421. �Peut-on souhaiter un
+plus joli _Pacolet_?�--Personnage des anciennes f�eries
+remplissant le r�le de messager.
+
+
+=PAILLER=, VIII, 109. �Il est difficile de contester un homme sur
+son _pailler_.�
+
+Pailler, cour de ferme pleine de paille. On dit qu'un homme est
+sur son pailler, quand il para�t le plus fort, comme �tant chez
+lui, dans sa maison. Mot d'origine picarde: paill�, terrain.
+
+
+=PAILLE (lever la)=, II, 329. �Il y avait une basse Brette qu'on
+nous avait assur� qui _levait la paille_.�
+
+Lever la paille: Allusion � la vertu de l'ambre, qui attire les
+corps l�gers. Au figur�: avoir du succ�s. (Saint-Simon, XVII,
+207.)
+
+
+=PAIN (de feuilles et de foug�res)=, X, 151. �Il est sur le point
+de manger du _pain de feuilles et de foug�res_.�--Etre dans la
+g�ne.
+
+
+=PANADER (se)=, II, 431. �Le voyant _se panader_ dans les
+occupations qu'il lui donnait.�--Faire le paon. (Cf. Saint-Simon,
+III, 336.)
+
+
+=PANER�ES (de t�tons)=, II, 173. �Il lui semblait toujours voir
+des _paner�es de t�tons_.�--Contenance d'un panier plein.
+
+
+=PANTOUFLERIE=, VI, 515. �La _pantouflerie_ ne vous d�plairait
+pas.�
+
+Pantoufle: raisonnement ridicule, bavardage � tort et � travers.
+
+
+=PAPIER MARQU�=, _Lettres in�dites_, I, 327. �Vous seriez riche,
+si vous lui rendiez le _papier marqu�_ et qu'il ne p�t faire ses
+copies ailleurs.�
+
+Papier frapp� de l'imp�t du timbre, �tabli par Mazarin. Ce mot
+est rest� dans le langage populaire, pour indiquer notre papier
+timbr�.
+
+
+=PARADIS (par del� le)=, V, 69. �Il voulait aller _par del� le
+Paradis_.�--Mourir.
+
+
+=PAROLI=, VIII, 324. �On ne peut vous donner le _paroli_ de cette
+sottise.�
+
+Terme de jeu indiquant le double de la premi�re mise; faire
+paroli, au figur�, signifie rench�rir. Mot d'origine italienne.
+
+
+=PARIS DE TRAVERSE=, IX, 2. �Vaquer � tous les _paris de
+traverse_, qui arrivent chaque jour.�--Paris qui ne sont pas du
+courant du jeu qu'on joue.
+
+
+=PARTIE (coup de)=, VII, 127. �Votre voyage est un _coup de
+partie_ pour votre maison.�
+
+Le coup de partie est celui qui d�cide du gain de la partie, au
+jeu. Au figur�, �v�nement d�cidant du succ�s.
+
+
+=PASSADE=, VII, 422. �Je reviens � la _passade_.�--Sur mes pas;
+terme d'�quitation.
+
+
+=PATERNIT�S=, _Lettres in�dites_, II, 196. �Le bon abb� vous dit
+mille _paternit�s_.�--Tendresses paternelles.
+
+
+=P�CHER=, I, 389. �O� avez-vous �t� _p�cher_ ce monsieur le
+Grand-Prieur?�--Terme familier: chercher, prendre.
+
+
+=PERSONNE (une)=, VI, 351. �C'est _une personne_.�
+
+Une femme digne de ce nom, comme on dit: c'est un homme.
+
+
+=P�TILLER=, _Lettres in�dites_, II, 276. �Le duc de Charost
+_p�tillait_.�--Laissait �chapper des signes de vive impatience.
+(Cf. Saint-Simon, IX, 82.)
+
+
+=PETIT POT A PART=, VII, 206. �Notre ami a fait son _petit pot �
+part_ pour vous �crire.�--Agir de son c�t�, faire seul sa petite
+cuisine.
+
+
+=P�TOFFE=, III, 276. �C'est la grande _p�toffe_ de l'Europe.�
+
+Mot de la langue d'oc: m�disance, tracasserie, sornette,
+inutilit�.
+
+
+=PIEDS DE DERRI�RE=, IV, 376. �Je me prom�ne sur les _pieds de
+derri�re_ comme un autre.�--Elle recommen�ait � marcher, apr�s
+une maladie.
+
+
+=PITAUDE=, IV, 458. �Vous �tes une vraie _pitaude_.�
+
+Pitaud, terme injurieux qu'on dit aux gens grossiers qui ont des
+mani�res de rustres. On appelait pitauds des paysans lev�s pour
+aller � la guerre (Fureti�re). La Cour du roi P�taud, rest�e
+proverbiale, est plut�t celle du roi des Pitauds, d'apr�s
+certains auteurs.
+
+
+=PLAIT-IL MAITRE?= VII, 217. �Vous voil� de seigneur devenu:
+_Pla�t-il ma�tre?_�--Subalterne, inf�rieur, oblig� de demander
+pour toutes choses une permission. (Cf. Saint-Simon, XI, 410.)
+
+
+=PLUCHE=, IX, 550. �Certaines pri�res nouvelles que nous appelons
+de la _pluche_.�
+
+Madame de S�vign�, en disant ses anciennes pri�res, �pluchait les
+pri�res nouvelles, ainsi qu'on enl�ve les parties inutiles d'un
+objet.
+
+
+=POING (�tre sur le)=, III, 183. �_Etre sur le poing_ de M. de
+Marseille.�--Etre accompagn�, tenu en bride, comme un faucon de
+chasse.
+
+
+=POINT (se faire un)=, VI, 379. �Elle s'est _fait un point_ de
+vous estimer.�--Une obligation principale.
+
+
+=POIS CHAUDS (manger des)=, VI, 65. �Sur cela je _mange des pois
+chauds_, dans ma r�ponse, comme disait M. de La Rochefoucauld.�
+
+Manger des pois chauds, h�siter, ne savoir que r�pondre, comme le
+mangeur qui craint de se br�ler et va lentement.
+
+
+=PONT-NEUF (faire le)=, _Lettres in�dites_, II, 503. �Cet �tat
+n'est pas obligeant pour une famille qui croit avoir _fait le
+Pont-neuf_ pour une prompte d�cision.�
+
+Expression proverbiale: faire le Pont-neuf, faire des merveilles.
+
+
+=PORTE FERM�E=, _Lettres in�dites_, II, 108. �Tenant sa _porte
+ferm�e_ et dansant.�--Bouche ferm�e.
+
+
+=PORTES (tomber les)=, VI, 288. �Etre dans la foule, apr�s avoir
+vu _tomber les portes_ devant soi.�--Avoir eu acc�s dans les plus
+hautes places, n'avoir �t� arr�t� par rien.
+
+
+=PORTATIF=, X, 46. �On n'est point _portatif_, quand on est
+attach� ins�parablement � deux ou trois personnes; on ne saurait
+faire des courses l�g�res.�--Portatif: d'un d�placement facile.
+
+
+=PORTER (sur les �paules)=, VII, 293. �Elle nous _portait tous
+sur ses �paules_.�--Nous �tions pour elle un fardeau d�plaisant.
+
+
+=POT�E (de souris)=, IV, 29. �Elle est comme une _pot�e de
+souris_.�
+
+Ce que contient un pot. On dit proverbialement: �veill�e comme
+une pot�e de souris.
+
+
+=POUILLIER=, VI, 43. �Ils couch�rent dans un
+_pouillier_.�--Taudis.
+
+
+=POUSSER (le temps � l'�paule)=, _Lettres in�dites_, II, 278. �Je
+_pousse le temps � l'�paule_, comme vous.� (V. Saint-Simon, VIII,
+114.)
+
+
+=PRESSE (faire la)=, VI, 312. �Elle n'allait pas _faire la
+presse_ parmi cette famille.�--Se m�ler � la foule.
+
+
+=PRIME (petite)=, V, 20. �C'est tirer son jeu � _petite prime_.�
+
+Il y avait la grande et la petite prime; ces jeux diff�raient par
+le nombre de points.
+
+
+=PRONERIES=, _Lettres in�dites_, I, 348. �Je vous demande
+mille excuses des ennuyeuses _pr�neries_ o� je me suis
+embarqu�e.--Pr�dications exag�r�es.
+
+
+=PUCE (saut d'une)=, IX, 411. Le soleil remonte du _saut d'une
+puce_.�
+
+Proverbe: Le 13 d�cembre, jour de la sainte Luce, les jours
+commencent � cro�tre du saut d'une puce.
+
+
+
+
+Q
+
+
+=QUANTOVA=, _Lettres in�dites_, II, 159. �J'ai trouv� ici ce
+livre fran�ais que Vardes vous apporta en italien: _La pedina del
+Re quanto va_.�
+
+Pedina signifie _pion_ et aussi _ma�tresse_. Au jeu des �checs,
+en Espagne, on disait: le _pedina (ou lo pedino) del Re quanto
+va_. Quand marche la pionne (ou le pion) du roi, c'est toujours
+devant lui. Est-ce en souvenir du titre de ce livre que Madame de
+S�vign� d�signa Madame de Montespan sous le nom de _Quantova_, ou
+de _Quanto_?
+
+_Quantova_ est-il un terme de jeu: De combien allez-vous? Madame
+de Montespan �tant fort joueuse, l'allusion pourrait se
+comprendre. Le sens serait-il plus simple: Combien durera ce
+nouvel amour du Roi? Il est difficile de trouver le mot de
+l'�nigme.
+
+Madame de S�vign� �crit ailleurs: VII, 324. �Je vais me promener
+_quanto va_.�--Tant que cela va.
+
+
+=QUINOLA (� prime)=, IX, 107. �Notre ignorance s'en accommoderait
+comme d'un _quinola � prime_.�
+
+Quinola, mot espagnol, indique le valet de coeur au jeu de
+reversis et de la petite prime. Quinola � prime est le coup
+gagnant.
+
+
+
+
+R
+
+
+=RABUTINAGE=, IV, 518. �Voyez si vous �crirez un mot en faveur du
+_rabutinage_.�
+
+Parent� des Rabutin, du c�t� de Madame de S�vign�, n�e Marie de
+Rabutin-Chantal.
+
+
+=RADOTERIE=, IV, 91. �Je suis loin de la _radoterie_ qui fait
+passer l'amour maternel aux petits enfants.�
+
+Habitude de radoter, de tenir des propos qui d�notent un
+affaiblissement de l'esprit.
+
+
+=RAFRAICHISSEMENT=, VI, 502. �Je ne puis concevoir le ch�teau de
+Grignan comme un lieu de _rafra�chissement_, pour vous.�--Lieu de
+repos qui refroidit et apaise l'irritation.
+
+
+=RAIES (petites)=, VIII, 378. �J'aime mes _petites raies_; elles
+donnent de l'attention.�
+
+Traits dans l'�criture, pour mettre en relief certains passages
+d'une composition.
+
+
+=RAPAISER=, I, 365. �Vous vous servez de cette finesse pour me
+_rapaiser_.�--Ramener � la paix, adoucir quelqu'un, faire passer
+sa col�re.
+
+
+=RAPATRIER (se)=, IX, 13. �Le nez de M. de Gesvres s'est
+_rapatri�_ avec celui des B�thune.�--Se rapprocher, se
+r�concilier.
+
+
+=RASOIRS (marcher sur des)=, VII, 222. �Tout le monde disait
+que c'�tait _marcher_ sur des charbons ardents, _sur des
+rasoirs_.�--Traverser une passe difficile et p�rilleuse.
+
+
+=RAVAUDER=, V, 182. �Vouloir _ravauder_ � Rome sur le
+rel�chement.�--Rapi�cer, rab�cher, tenir des propos futiles.
+
+
+=RAVAUDERIES=, IV, 238. �Recueillir toutes les
+_ravauderies_.�--Niaiseries, rab�chages.
+
+
+=RAVISSEMENTS=, III, 78. �Il a �crit des _ravissements_ de votre
+beaut�.�
+
+Etat d'une �me transport�e d'enthousiasme. Moli�re a dit de m�me:
+�Et vos ravissements ne prendraient pas de fin.� (_Tartuffe_, I,
+15.)
+
+
+=RECOGNER=, VII, 396. �Tant de s�rosit�s y avaient �t�
+_recogn�es_ par les eaux froides.�--Remettre au coin, repousser.
+
+
+=RECOMMENCEUR=, I, 397. �L'amour est un vrai _recommenceur_.�
+
+Mot de Bussy-Rabutin, �crit � Madame de S�vign�.
+
+
+=REDISEURS=, _Lettres in�dites_, II, 234. �Dites � vos
+_rediseurs_ que vous les nommerez puisqu'ils sont si assur�s de
+ce qu'ils redisent.�--Ceux qui r�p�tent ce qu'ils ont appris.
+
+
+=REDRESSER=, IX, 457. �_Redressez_ vos pens�es.�--Relever,
+remettre dans l'�tat normal.
+
+
+=REGRATTER=, IX, 317. �Je vous d�fie de trouver � _regratter_
+l�-dessus.�--Gratter de nouveau, en �pluchant les comptes.
+
+
+=R�GLEMENT=, _Lettres in�dites_, II, 201. �Manger un peu
+_r�glement_.�--D'une fa�on r�guli�re, sans �cart.
+
+
+=RELAISSER (se)=, III, 513. �Ils se _relaissent_.�--Comme une
+b�te qui a longtemps couru, s'arr�te de lassitude. (Cf.
+Saint-Simon, I, 413.)
+
+
+=RELEVER (de sentinelle)=, V, 62. �Les Jans�nistes le _relev�rent
+de sentinelle_.�
+
+Retirer d'un poste, en le gourmandant, un mauvais soldat qui est
+remplac� dans son service.
+
+
+=RELIQUE VIVANTE=, IV, 469. �On m'a toujours appel�e _relique
+vivante_, � Sainte-Marie.�--A cause de Madame de Chantal, sa
+grand'm�re.
+
+
+=REMPART (mettre sur le)=, VI, 415. �Si je voulais _mettre_ une
+fille _sur le rempart_.�--En faire une fille galante, une femme
+des boulevards, dirions-nous.
+
+
+=REMUEUSE=, VIII, 349. Une _remueuse_.--Femme qui remuait
+(changeait) le linge et nettoyait l'enfant d'un grand seigneur.
+
+
+=RENONCER=, X, 234. �Ne me parlez pas de Madame de Mecklembourg;
+je la _renonce_.�--Refuse de la reconna�tre.
+
+
+=RESSOLLICITER=, _Lettres in�dites_, I, 350. �Il a fallu
+_ressolliciter_ pour votre petit proc�s.�
+
+Aller de nouveau solliciter les juges, suivant l'usage du XVIIe
+si�cle.
+
+
+=RESSUYER=, VII, 69. �Il n'y a aucun lieu de repos pour eux, ni
+qui puisse les _ressuyer_.�--Les remettre au beau, apr�s la pluie
+des d�penses.
+
+
+=RETARDEMENT=, III, 82. �Le _retardement_.�--Action de retarder;
+mot vieilli.
+
+
+=R�VERB�RATION=, V, 263. �Je n'�tais son amie que par
+_r�verb�ration_.�--Par le contre-coup de connaissances communes.
+
+
+=RIDEAU (derri�re le)=, _Lettres in�dites_, II, 409.
+�Permettez-moi de passer _derri�re le rideau_ et de vous faire
+venir sur le th��tre.�--S'effacer.
+
+
+=ROGATON=, IX, 409. �Nous lisons des _rogatons_ que nous trouvons
+sous notre main.�--_Rogatum_, chose demand�e, humble requ�te,
+puis chose de rebut.
+
+
+=RUSTAUDE=, V, 213. �L'�ducation _rustaude_ est fort bonne.�--Qui
+a de la rusticit�, campagnarde.
+
+
+=RUSTAUDEMENT=, I, 406. �Je vous aime un peu
+_rustaudement_.�--Comme une personne de la campagne.
+
+
+
+
+S
+
+
+=SABLONNIER (le)=, VII, 438. �Il ne fallait pas douter que le
+_sablonnier_, en passant sur le minuit, ne leur serv�t de garde.�
+
+Sablonnier, vieillard imaginaire qui jetterait du sable dans les
+yeux des petits enfants pour les endormir.
+
+
+=SAC=, IV, 120. �Je vais avoir la t�te dans un _sac_.�--Ne
+s'occuper de rien. (Cf. Saint-Simon, IV, 120.)
+
+
+=SAC (pi�ce de son)=, IX, 346. �Ce sera la meilleure _pi�ce de
+son sac_.�
+
+M�taphore tir�e des sacs � proc�s, o� les Procureurs mettaient
+les pi�ces d'un dossier.
+
+
+=SAL�=, IV, 161; VI, 37. �Je trouve Montgobert _sal�e_ et tous
+ses tours me font plaisirs.�--Vive et piquante.
+
+On disait aussi, autrefois, d'un homme rigide, ne faisant aucune
+concession, que c'�tait un homme bien sal�.
+
+
+=SANG (aux ongles)=, V, 8. �Si mes ennemis avaient du _sang aux
+ongles_.�
+
+Avaient de l'�nergie, du sang dans les veines, dirions-nous �
+pr�sent.
+
+
+=SAPATE=, VI, 144. �Un �cran donn� en forme de _Sapate_.�
+
+Ce serait, d'apr�s une note des Chansons de Coulanges, un pr�sent
+consid�rable, sous la forme d'un objet qui l'est moins en
+apparence, par exemple: un diamant dans un citron. Quoiqu'il en
+soit, Sapate est le nom d'une f�te en usage le 5 d�cembre, veille
+de l'anniversaire de saint Nicolas, chez les Espagnols, avec
+surprises et cadeaux plac�s secr�tement dans les pantoufles de la
+personne favoris�e. Etymologie: _Zapatilla_, pantoufle, en
+espagnol.
+
+
+=SAVANTAS=, VIII, 430. �Vous me repr�sentez plaisamment votre
+_Savantas_.�--P�dant, ennuyeux.
+
+
+=S�CHETTE=, III, 147. �Votre lettre est un peu _s�chette_.�
+
+Diminutif de s�che, cr�� par Madame de S�vign�.
+
+
+=SEMONCE=, X, 191. �Il faut que la cuisse des cailles se s�pare
+du corps � la premi�re _semonce_.�--Invitation, sollicitation.
+
+
+=SENS FROID=, V, 103. �Je n'attendrai pas de _sens froid_ cette
+joie.�
+
+Au lieu de sang-froid. Saint-Simon se sert d'une expression
+identique.
+
+
+=SERRURE (brouill�e)=, VI, 380. �Sa _serrure_ �tait bien
+_brouill�e_.�--Son esprit �tait confus, il n'�tait ouvert � rien;
+il agissait � tort et � travers.
+
+
+=SIBYLLE (feuilles de la)=, X, 132. �Ce que vous faites me para�t
+impossible; c'est courir apr�s les _feuilles de la Sibylle_.�
+
+Voir _En�ide_, III, 443: _Fata canit, foliis que notas et nomina
+mandat._
+
+X, 39. �Vous avez bien de la peine � reprendre en l'air les
+sommes �parpill�es que je compare toujours aux _feuilles de cette
+Sibylle_, qui ne rendait les r�ponses qu'� la condition de les
+chercher sur les feuilles qu'elle jetait en l'air.�
+
+
+=SOLAIRE=, V, 233. �Son voyage est _solaire_.�--Rayonnant.
+
+Ce mot signifie aussi ouvert et plein. (Cf. Saint-Simon, X, 108.)
+
+
+=SOURDEMENT=, III, 351. �On va _sourdement_ chez le duc du
+Maine.�--En se cachant, en dissimulant sa d�marche aux yeux et
+aux oreilles.
+
+
+=SOUS (pi�ce de quatre)=, VII, 15. �D�penser son esprit en
+petites _pi�ces de quatre sous_.�--En bagatelles, en menue
+monnaie.
+
+
+=SURTOUT=, IX, 427. �Quel _surtout_ que ce rhumatisme!�--Casaque
+d'hiver, mise par-dessus les autres habits.
+
+
+=SYNAGOGUE (enterrer la)=, VI, 63. �Ils _enterrent la
+synagogue_.�
+
+Cette expression proverbiale signifie, d'apr�s Fureti�re, se
+servir de mani�res honn�tes pour d�truire quelque chose. Jusqu'�
+la destruction du Temple de J�rusalem, la synagogue a �t�
+respect�e par les chr�tiens, comme l'ancienne loi, pr�te �
+dispara�tre.
+
+
+
+
+T
+
+
+=TAIAUTS=, VI, 360. �Il conserve sa tristesse au milieu de tous
+les _taiauts_.�--Cris de chasse.
+
+
+=TAILLER (en plein drap)=, V, 524. �J'�tais dans un lieu o� on
+_taillait en plein drap_.�--Parler, se r�soudre � agir, sans
+frein et au hasard.
+
+
+=TAMBOURINAGE=, V, 311. �Elle me rend le _tambourinage_ qu'elle
+re�oit de beaucoup d'autres.�--Action de faire grand bruit de
+quelqu'un ou de quelque chose.
+
+
+=TAPIS (de revente)=, IV, 67. �Nous faisons chercher un _tapis de
+revente_.�--Un tapis qui a d�j� servi.
+
+
+=TERRE (mettre �)=, IX, 456. �Charg� de toutes les affaires de la
+maison, j'aurais eu peur qu'il ne les _m�t � terre_.�--D�laisser,
+abandonner.
+
+
+=TERRE (tomber �)=, IX, 330. �Cela ne _tombera pas � terre_.�--Ne
+sera pas n�glig�.
+
+
+=TERRES (inconnues)=, VII, 328. �L'amiti� au del� de celle que
+j'ai pour vous, ce sont des _terres inconnues_.�
+
+
+=T�TE VERTE=, V, 117. �Un homme qui a une _t�te
+verte_.�--Brusque, emport�, juv�nile encore.
+
+
+=TH�ATRE (se retirer derri�re le)=, IX, 498. �Ma belle-fille
+_s'est retir�e derri�re le th��tre_.�--A quitt� la sc�ne,
+abandonn� la partie, rompu tout rapport.
+
+
+=TIRER (jusqu'� la lie)=, VIII, 3. �Ne pas souhaiter de _tirer
+jusqu'� la lie_.�--Prolonger sa vie jusqu'� la d�cr�pitude.
+
+
+=TRANSIR=, VI, 328. �Cela fait _transir_.�
+
+Etre engourdi de froid. (Cf. Racine, _Ph�dre_, I, 3: Je sentis
+tout mon corps et transir et br�ler.)--Etymologie: latin
+_transire_, aller au del�.
+
+
+=TR�MEUR=, V, 12. �On attend des nouvelles avec _tr�meur_.�
+
+Latinisme: _tremor_, tremblement.
+
+
+=TRIVELIN=, _Lettres in�dites_, I, 395. �Il s'est trouv� en un
+moment hors d'affaires, comme _Trivelin_.�--Personnage de la
+com�die italienne, jouant les r�les d'intrigant, de fourbe.
+
+
+=TU AUTEM=, IX, 146. �Qu'il suive ses conseils, voil� le _tu
+autem_.�--Le noeud d'une affaire, sa difficult�, ce qui est
+essentiel. Etymologie: _tu autem_, mots latins qui signifient:
+_mais toi_. Cette fa�on de parler employ�e �galement au XVIIe
+si�cle par La Fontaine, Scarron, Madame Dunoyer et d'autres
+�crivains, est prise des le�ons du br�viaire qui finissent par:
+_Tu autem Domine, miserere mei_.
+
+
+
+
+V
+
+
+=VADE=, VI, 126. �Elle m'aime un peu pour ma _vade_.�
+
+Pour mon compte. Au propre: la somme par laquelle un joueur de
+brelan ouvre le jeu. (Cf. Saint-Simon, IX, 397.)
+
+
+=VAISSEAU (d'iniquit�)=, IX, 510. �M'appeler un _vaisseau
+d'iniquit�_.�
+
+Ce mot a ici le sens de vase, _vas iniquitatis_.
+
+
+=VAPOREUX=, IX, 7. �La nombreuse troupe des _vaporeux_.�
+
+Malades de vapeurs. Au XVIIe si�cle, on appelait vapeurs des
+humeurs subtiles qui s'�levaient des parties basses du corps et
+qui occupaient et blessaient le cerveau.
+
+
+=VENTS (pointe des)=, VI, 12. �La lettre est un peu sur la
+_pointe des vents_.�--Ecrite au hasard, dans l'incertitude.
+
+
+=VENT (lier le)=, VIII, 241. �Ils n'en viendront � bout que le
+jour o� ils auront trouv� l'invention de _lier le vent_ et de
+fixer le mercure.�
+
+
+=VERROUS=, IV, 142. �Tirer les _verrous_ sur soi.�--Vivre dans la
+retraite o� l'on s'est enferm�.
+
+
+=VESSIES (de cochon par le nez)=, IV, 27. �Donner d'une _vessie
+de cochon par le nez_.�--(Cf. Rabelais, III, 45: Comme Triboullet
+nasardant Panurge avec la vessie de porc enfl�e qu'il a re�ue de
+lui.)
+
+
+=VIANDE=, IX, 152. �Un rago�t, une salade de concombres, des
+cerneaux et autres sortes de _viandes_.�
+
+Viande �tait autrefois synonyme d'aliment. Le pain bis �tait
+appel� viande par Malherbe. (Cf. Saint-Simon, III, 25.)
+
+
+=VIVOTER=, IX, 461. �Faire _vivoter_ un pauvre
+pulmonique.�--Vivre petitement.
+
+
+=VOITURE=, I, 395. �Je pr�tends avoir un de ces jours ma
+_Voiture_ � part.�--Ecrire mes lettres comme celles de Voiture.
+
+
+=VRAIES (personnes)=, II, 286. �Ah! qu'il y a peu de _personnes
+vraies_! R�vez un peu sur ce mot, vous l'aimerez. Je lui
+trouve, de la fa�on que je l'entends, une force au del� de sa
+signification ordinaire.�
+
+Une personne qui se montre dans ses paroles et sa conduite telle
+qu'elle est en r�alit�. (Cf. Boileau: Rien n'est beau que le
+vrai.)
+
+
+=VUE (donner dans la)=, _Lettres in�dites_, II, 119. �Avait
+_donn� dans la vue_ d'une fille de Madame de Montglat.�
+
+Donner dans les yeux. (Cf. Saint-Simon, IX, 372.)
+
+
+
+
+TABLE
+
+
+Les premiers chiffres renvoient � l'Edition des Lettres de Madame
+de S�vign�, publi�e par Monmerqu�, les derniers chiffres
+indiquent les pages du pr�sent ouvrage.
+
+
+  A
+                                                 Pages.
+  Ab�m� (en Dieu), I, 444                           17
+  Aboyer, VII, 279                                  17
+  Acad�mistes, I, 407                               17
+  Accessit, IX, 258                                 17
+  Accouchade, IV, 143                               18
+  Aigle (�ploy�e), IX, 404                          18
+  Aimablement, Lettres in�dites, II, 126            18
+  Air (bon), IX, 517                                19
+  Air (l'), I, 475                                  19
+  Alleluia (style d'), X, 281                       19
+  All'erta, Lettres in�dites, I, 418                19
+  Almanach, IV, 10                                  19
+  Amiti�, IX, 505                                   19
+  Anonnement, X, 267                                19
+  Apostilles, I, 519                                19
+  Ar�ons (remis dans les), VI, 133                  20
+  Attournance, VIII, 76                             20
+  Attourner, VIII, 87                               20
+  Automne (une), V, 245                             20
+  Avaler, VIII, 263                                 20
+  Avoine, VIII, 213                                 20
+
+
+  B
+
+  Bac (dont la corde est rompue), IX, 81            21
+  Bague (courir la), V, 340                         21
+  Bain (� la S�n�que), V, 326                       21
+  Baise-mains, VIII, 3                              21
+  Ballotter, VIII, 454                              22
+  Baptiser (difficile �), IX, 592                   22
+  Baptistaire, X, 266                               22
+  Baragouiner, VI, 442                              22
+  Barre (au-dessous de la), IX, 271                 22
+  Bigarr�s (yeux), I, 509                           23
+  Billebaude, IV, 454                               23
+  Blanc-sign�, Lettres in�dites, II, 102            23
+  Boisseau (lumi�re sous le), VIII, 140             23
+  Bonhomme, V, 1                                    23
+  Bott� � cru, IX, 41                               23
+  Bouchon, IX, 312                                  23
+  Bouffe (la), IX, 178                              24
+  Bouff�e, VII, 73                                  24
+  Bourr�, III, 514                                  24
+  Bouton (haut), V, 538                             24
+  Brave, VII, 416                                   25
+  Br�sill�, IV, 234                                 25
+  Br�tauder, II, 117                                25
+  Bride (l�cher la), IX, 307                        25
+  Bri (de la potence), IX, 295                      26
+  Brider (sa coiffe), V, 101                        26
+  Brillotter, VI, 7                                 26
+  Buissons (battre les), VI, 136                    26
+
+
+  C
+
+  Cabinet, VII, 428                                 27
+  Camp (de Maintenon), VIII, 466                    27
+  Canailles chr�tiennes, IX, 221                    27
+  Car�me prenant, VI, 307                           27
+  Case, V, 186                                      27
+  Chacuni�re, III, 316                              28
+  Chair (�tre � la), X, 118                         28
+  Chamaillis, Lettres in�dites, II, 258             28
+  Chandelle des Rois, II, 268                       28
+  Chanter des oreilles, IV, 296                     29
+  Chatte, Lettres in�dites, II, 309                 29
+  Chaud (trop), IX, 545                             29
+  Chaude (� la), II, 532                            29
+  Chien de visage, III, 78                          29
+  Chien et loup, IV, 231                            29
+  Chien de jardinier, V, 316                        30
+  Chr�me et bapt�me (renier), VIII, 374             30
+  Clairet, Lettres in�dites, I, 301                 30
+  Cocu, V, 483                                      30
+  Coeur de Roi, Lettres in�dites, I, 277            30
+  Coeur (emporter le), III, 155                     30
+  Coffre (sur le), IV, 5                            31
+  Coffres (pesant sur les), VIII, 246               31
+  Coin (avoir un), IV, 44                           31
+  Commerce, Lettres in�dites, II, 201               31
+  Compass�, IX, 357                                 31
+  Complaisance, IX, 501                             31
+  Coqueluchonn�, VIII, 464                          31
+  Coquesigrues, VI, 453                             32
+  Corbillard, VIII, 280                             32
+  Cothurne, Lettres in�dites, II, 409               33
+  C�te rompue, VI, 60                               33
+  Cou (rompre le), IX, 566                          33
+  Coulpe, IX, 557                                   33
+  Courir, Lettres in�dites, I, 300                  33
+  Coussinet (jeter son), VIII, 405                  33
+  Cousu (avec quelqu'un), VI, 350                   33
+  Cousues (bouches), IX, 162                        34
+  Cousu, Lettres in�dites, II, 16                   34
+  Crapauds (nourrir des), I, 524                    34
+  Crever, VI, 310                                   34
+  Cristal (de l'automne), V, 99                     34
+  Croix de l'�p�e (mariage sur la), VIII, 522       34
+  Croustilles, VII, 2                               34
+
+
+  D
+
+  D�beller, VIII, 314                               35
+  Debredouill�, VII, 55                             35
+  D�contenancement, IV, 376                         35
+  D�gingand�, IV, 118                               35
+  D�m�riter, IX, 528                                35
+  D�monter (son esprit), X, 109                     36
+  D�plor�, Lettres in�dites, II, 252                36
+  D�s (trois), V, 16                                36
+  D�sassorti, V, 243                                36
+  D�sassortissement, IX, 358                        36
+  D�soccupation, IX, 525                            36
+  D�soccup�, VI, 101                                36
+  D�sopiler (se), III, 342                          36
+  D�traper, III, 81                                 37
+  D�vider, VI, 390                                  37
+  Diamant, Lettres in�dites, I, 244                 37
+  Diantre, III, 184                                 37
+  Dieux (les), Lettres in�dites, II, 520            37
+  Dilater, VIII, 256                                37
+  Diseur, IV, 5                                     37
+  Disposition, IV, 482                              37
+  Dixi�me (le) de mai, V, 436                       38
+  Domestique (le), Lettres in�dites, I, 247         38
+  Dragons, V, 169                                   38
+  Dru, III, 462                                     38
+
+
+  E
+
+  Ebaubis, V, 422                                   38
+  Ecuelle (pleuvoir dans l'), Lettres in�dites,
+      II, 99                                        39
+  Ecumer, V, 274                                    39
+  Ecumer (le pot), VI, 164                          39
+  Effervescences d'humeur, IX, 146                  39
+  Emerillonn�e, V, 208                              39
+  Emmaigrir, VI, 265                                39
+  Emmancher, VII, 477                               39
+  Energum�ne, Lettres in�dites, II, 427             39
+  Ent�ter, IX, 479                                  40
+  Ep�e (mourir d'une plus belle), IX, 467           40
+  Eplucheur d'�crevisses, V, 266                    40
+  Escabelles, VIII, 17                              40
+  Escarmoucher, VII, 85                             40
+  Escousse, VIII, 485                               41
+  Estoc, IV, 177                                    41
+  Etoile du Roi, IX, 505                            41
+  Etranglante (raison), IX, 222                     41
+  Exag�reuse, II, 281                               41
+
+
+  F
+
+  Fagot d'�pines, VI, 155                           42
+  Fagotage, III, 366; IV, 104; IX, 262              42
+  Faire froid, I, 346                               42
+  Faiseur de filles, I, 357                         42
+  Fantaisie musqu�e, VI, 17                         42
+  Favori sans m�rite, V, 493                        42
+  Fers (qualit� entre deux), VI, 222                43
+  Feuille qui chante, V, 232                        43
+  Fich�, Lettres in�dites, II, 28                   43
+  Fichu, VII, 302                                   43
+  Fig�, III, 499                                    43
+  Fontaine, IV, 109                                 44
+  Fontange, VIII, 322                               44
+  Forlonger (se), III, 514                          44
+  France (la), II, 173; VIII, 288                   44
+  Frat�, IV, 163                                    44
+  Fr�tiller, Lettres in�dites, II, 165              44
+  Fricass� dans la neige, VII, 55                   44
+  Frust (chevaux), IX, 87                           45
+  Furies (battu des), IV, 508                       45
+  Fus�e, VIII, 55                                   45
+
+
+  G
+
+  Gagner (pays), VI, 236                            45
+  Galeries (faire ses), VII, 62                     45
+  Gargotier, Lettres in�dites, II, 190              45
+  Gaudeamus, VII, 458                               46
+  Godenot, VII, 443                                 46
+  Godinement, VII, 427                              46
+  Godronn�, IX, 300                                 46
+  Gonfl� (de vision), VII, 494                      46
+  Gorge coup�e, VI, 6                               46
+  Gorge (rendre sa), Lettres in�dites, I, 253       46
+  Grappiller, IX, 367                               47
+  Gras (des jambes), IV, 181                        47
+  Gratis (le), IX, 374                              47
+  Grimaudage, VII, 350                              47
+  Grisette, Lettres in�dites, II, 263               47
+  Grisons, VII, 357                                 47
+  Guenillon, VI, 162                                47
+  Guerre (en, et en marchandise), IX, 272           47
+
+
+  H
+
+  Hurlup�, II, 172                                  48
+
+
+  I
+
+  Inhumanit�s, IX, 507                              48
+  Interloqu�, IX, 404                               48
+
+
+  J
+
+  Jambon (tranches de), IX, 182                     49
+  Jobelin, I, 544                                   49
+  Joie noy�e, VII, 529                              49
+  Joli, Lettres in�dites, II, 29                    49
+
+
+  L
+
+  La, Lettres in�dites, II, 85                      49
+  Lambel, I, 357                                    49
+  Lanternerie, VII, 452                             50
+  L� (tout de), VII, 269                            50
+  L�g�re (repas � la), II, 222                      50
+  Libertine, V, 551                                 50
+  Libertine, Lettres in�dites, II, 11               50
+  Lie (la), VII, 458                                50
+  Lie (de la vie), X, 344                           50
+  Li�vre au corps (prendre le), Lettres in�dites,
+      IX, 192                                       51
+  Loin (de), II, 23                                 51
+  Lope (Es de), VII, 516                            51
+  Loup (gueule au), IX, 521                         51
+
+
+  M
+
+  Ma�tre-gar�on, X, 168                             51
+  Machonner, VII, 270                               52
+  Maillot, VIII, 277                                52
+  Main (� la), V, 227                               52
+  Main (la), VIII, 406                              52
+  Main s�ch�e, VIII, 331                            52
+  Manger (son pain b�nit), V, 352                   52
+  Manger (le chagrin), Lettres in�dites, II, 416    52
+  Manger l'article, IX, 519                         53
+  Mangerie, VII, 2                                  53
+  Maraudaille, V, 36                                53
+  Marguerites (devant les pourceaux), VII, 227      53
+  Marionnette (de guerre), III, 286                 53
+  Marteau (coup de), IX, 138                        53
+  Masques, je vous connais, X, 279                  53
+  Mezzo termine, IX, 183                            54
+  Mie, Lettres in�dites, I, 262                     54
+  Mignon (plaisant), I, 356                         54
+  Miroder, IV, 533                                  54
+  Mitonner, V, 259                                  54
+  Morguer, III, 130                                 54
+  Moufler, IV, 487                                  54
+  Moulin � paroles, VI, 223                         54
+  Moustache (passer sur la), V, 341                 55
+
+
+  N
+
+  Neuf, IV, 118                                     55
+  Nues (monter aux), IX, 548                        55
+  Nues (sauter aux), I, 470                         55
+
+
+  O
+
+  Oille, X, 117                                     56
+  Oiseau (battu de l'), VI, 333                     56
+  Olive (rameau d'), V, 522                         56
+  Ombre (sous), I, 405                              56
+  Op�ra, IX, 540                                    56
+  Oreille (droite), III, 166                        56
+  Oreille (faire l', d'un enfant), Lettres
+      in�dites, II, 521                             57
+
+
+  P
+
+  Pacolet, Lettres in�dites, II, 421                57
+  Pailler, VIII, 109                                57
+  Paille (lever la), II, 329                        57
+  Pain de feuilles et de foug�res, X, 151           57
+  Panader (se), II, 431                             58
+  Paner�es (de t�tons), II, 173                     58
+  Pantouflerie, VI, 515                             58
+  Papier marqu�, Lettres in�dites, I, 327           58
+  Paradis (par del� le), V, 69                      58
+  Paroli, VIII, 324                                 58
+  Paris de traverse, IX, 2                          58
+  Partie (coup de), VII, 127                        59
+  Passade, VII, 422                                 59
+  Paternit�s, Lettres in�dites, II, 196             59
+  P�cher, I, 389                                    59
+  Personne (une), VI, 351                           59
+  P�tiller, Lettres in�dites, II, 276               59
+  Petit pot � part, VII, 206                        59
+  P�toffe, III, 276                                 59
+  Pieds de derri�re, IV, 376                        60
+  Pitaude, IV, 458                                  60
+  Pla�t-il, ma�tre? VII, 217                        60
+  Pluche, IX, 550                                   60
+  Poing (�tre sur le), III, 183                     60
+  Point (se faire un), VI, 379                      60
+  Pois chauds (manger des), VI, 65                  61
+  Pont-neuf (faire le), Lettres in�dites, II, 503   61
+  Porte ferm�e, Lettres in�dites, II, 108           61
+  Portes (tomber les), VI, 288                      61
+  Portatif, X, 46                                   61
+  Porter (sur les �paules), VII, 293                61
+  Pot�e (de souris), IV, 29                         62
+  Pouillier, VI, 43                                 62
+  Pousser (le temps) � l'�paule, Lettres in�dites,
+      II, 278                                       62
+  Presse (faire la), VI, 312                        62
+  Prime (petite), V, 20                             62
+  Pr�neries, Lettres in�dites, I, 348               62
+  Puce (saut d'une), IX, 411                        62
+
+
+  Q
+
+  Quantova, Lettres in�dites, II, 159; VII, 324     63
+  Quinola (� prime), IX, 107                        63
+
+
+  R
+
+  Rabutinage, IV, 518                               64
+  Radoterie, IV, 91                                 64
+  Rafraichissement, VI, 502                         64
+  Raies (petites), VIII, 378                        64
+  Rapaiser, I, 365                                  64
+  Rapatrier (se), IX, 13                            64
+  Rasoirs (marcher sur des), VII, 222               65
+  Ravauder, V, 182                                  65
+  Ravauderies, IV, 238                              65
+  Ravissements, III, 78                             65
+  Recogner, VII, 396                                65
+  Recommenceur, I, 397                              65
+  Rediseurs, Lettres in�dites, II, 234              65
+  Redresser, IX, 457                                66
+  Regratter, IX, 317                                66
+  R�glement, Lettres in�dites, II, 201              66
+  Relaisser (se), III, 513                          66
+  Relever (de sentinelle), V, 62                    66
+  Relique vivante, IV, 469                          66
+  Rempart (mettre sur le), VI, 415                  66
+  Remueuse, VIII, 349                               67
+  Renoncer, X, 234                                  67
+  Resolliciter, Lettres in�dites, I, 350            67
+  Ressuyer, VII, 69                                 67
+  Retardement, III, 82                              67
+  R�verb�ration, V, 263                             67
+  Rideau (derri�re le), Lettres in�dites, II, 409   67
+  Rogaton, IX, 409                                  67
+  Rustaude, V, 213                                  68
+  Rustaudement, I, 406                              68
+
+
+  S
+
+  Sablonnier (le), VII, 438                         68
+  Sac, IV, 120                                      68
+  Sac (pi�ce de son), IX, 346                       68
+  Sal�, IV, 161; VI, 37                             68
+  Sang (aux ongles), V, 8                           69
+  Sapate, VI, 144                                   69
+  Savantas, VIII, 430                               69
+  S�chette, III, 147                                69
+  Semonce, X, 191                                   69
+  Sens froid, V, 103                                69
+  Serrure (brouill�e), VI, 380                      70
+  Sibylle (feuilles de la), X, 132; X, 39           70
+  Solaire, V, 233                                   70
+  Sourdement, III, 351                              70
+  Sous (pi�ce de quatre), VII, 15                   70
+  Surtout, IX, 427                                  70
+  Synagogue (enterrer la), VI, 63                   71
+
+
+  T
+
+  Taiauts, VI, 360                                  71
+  Tailler (en plein drap), V, 524                   71
+  Tambourinage, V, 311                              71
+  Tapis (de revente), IV, 67                        71
+  Terre (mettre �), IX, 456                         71
+  Terre (tomber �), IX, 330                         72
+  Terres inconnues, VII, 328                        72
+  T�te verte, V, 117                                72
+  Th��tre (se retirer derri�re le), IX, 498         72
+  Tirer (jusqu'� la lie), VIII, 3                   72
+  Transir, VI, 328                                  72
+  Tr�meur, V, 12                                    72
+  Trivelin, Lettres in�dites, I, 395                72
+  Tu autem, IX, 146                                 73
+
+
+  V
+
+  Vade, VI, 126                                     73
+  Vaisseau d'iniquit�, IX, 510                      73
+  Vaporeux, IX, 7                                   73
+  Vents (pointe des), VI, 12                        73
+  Vent (lier le), VIII, 241                         74
+  Verrous, IV, 142                                  74
+  Vessies (de cochon par le nez), IV, 27            74
+  Viande, IX, 152                                   74
+  Vivoter, IX, 461                                  74
+  Voiture, I, 395                                   74
+  Vraies (personnes), II, 286                       74
+  Vue (donner dans la), Lettres in�dites, II, 119   75
+
+
+  FONTAINEBLEAU.--MAURICE BOURGES, imp. brevet�
+
+
+
+
+
+End of the Project Gutenberg EBook of Petit Glossaire des lettres de Madame
+de S�vign�, by �douard Pilastre
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PETIT GLOSSAIRE DES LETTRES ***
+
+***** This file should be named 36455-8.txt or 36455-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/6/4/5/36455/
+
+Produced by Anna Tuinman, Hans Pieterse, Hugo Voisard and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by the Biblioth�que nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

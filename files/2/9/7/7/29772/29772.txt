@@ -1,3 +1,2287 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b9e34ffc032cf9e6a1af527c636ae2ae58c357da9e2190a764457079a224710
-size 120273
+ï»¿The Project Gutenberg EBook of Oeuvres de Blaise Pascal, by 
+Blaise Pascal and FranÃ§ois-Marie Arouet and Marie Jean, marquis de Condorcet and FranÃ§ois de Neufchateau
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Oeuvres de Blaise Pascal
+       Nouvelle Ãdition. Tome Second.
+
+Author: Blaisse Pascal
+        FranÃ§ois-Marie Arouet
+        Marie Jean, marquis de Condorcet
+        FranÃ§ois de Neufchateau
+
+Release Date: August 23, 2009 [EBook #29772]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK OEUVRES DE BLAISE PASCAL ***
+
+
+
+
+Produced by Michael Roe and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+
+
+
+Extrait des Åuvres de Blaise Pascal. Tome second. Paris: LefÃ¨vre,
+1819.
+
+
+
+
+NOTES DE VOLTAIRE ET DE CONDORCET SUR LES PENSÃES DE PASCAL.
+
+
+Les notes marquÃ©es C sont celles que Condorcet a jointes Ã  son
+Ã©dition _in_-8Âº., et celles aprÃ¨s lesquelles est un V sont de
+Voltaire. De ces derniÃ¨res, les unes ont Ã©tÃ© publiÃ©es pour la
+premiÃ¨re fois dans l'Ã©dition _in_-8Âº. que Voltaire fit faire Ã 
+GenÃ¨ve en 1778; les autres avoient Ã©tÃ© dÃ©jÃ  employÃ©es par Condorcet
+dans l'Ã©dition de 1776.
+
+
+
+
+NOTES DE VOLTAIRE ET DE CONDORCET SUR LES PENSÃES DE PASCAL.
+
+
+(1) Et je m'y sens tellement disproportionnÃ©, que je crois pour moi
+la chose absolument impossible.
+
+    Il l'a trouvÃ©e trÃ¨s-possible dans les Provinciales. V.
+
+(2) Cet art que j'appelle l'art de persuader...... consiste en trois
+parties essentielles.
+
+    Mais ce n'est pas lÃ  l'art de persuader, c'est l'art
+    d'argumenter. V.
+
+(3) Je voudrois que la chose fÃ»t vÃ©ritable, et qu'elle fÃ»t si connue,
+que je n'eusse pas eu la peine de rechercher avec tant de soin la
+source de tous les dÃ©fauts des raisonnements.
+
+    Locke, le Pascal des Anglois, n'avoit pu lire Pascal. Il vint
+    aprÃ¨s ce grand homme, et ces pensÃ©es paraissent, pour la premiÃ¨re
+    fois, plus d'un demi-siÃ¨cle aprÃ¨s la mort de Locke. Cependant
+    Locke, aidÃ© de son seul grand sens, dit toujours: _DÃ©finissez les
+    termes._ V.
+
+(4) Les meilleurs livres sont ceux que chaque lecteur croit qu'il
+auroit pu faire.
+
+    Cela n'est pas vrai dans les sciences: il n'y a personne qui
+    croie qu'il eÃ»t pu faire les principes mathÃ©matiques de Newton.
+    Cela n'est pas vrai en belles-lettres; quel est le fat qui ose
+    croire qu'il auroit pu faire l'Iliade et l'ÃnÃ©ide? V.
+
+(5) Je les voudrois nommer basses, communes, familiÃ¨res; ces noms-lÃ 
+leur conviennent mieux; je hais les mots d'enflure.
+
+    C'est la chose que vous haÃ¯ssez; car pour le mot, il vous en faut
+    un qui exprime ce qui vous dÃ©plaÃ®t. V.
+
+    Voici un moyen de dÃ©couvrir la vÃ©ritÃ©, qui me paroÃ®t avoir
+    Ã©chappÃ© Ã  tous les philosophes. Il est tirÃ© de la relation d'un
+    voyage fait aux Moluques, en 1760, par le capitaine Dryden.
+
+    Â»On emploie dans ces Ã®les une singuliÃ¨re mÃ©thode de dÃ©couvrir la
+    vÃ©ritÃ©; voici en quoi elle consiste: quand on veut savoir si un
+    homme a commis ou n'a pas commis une certaine action, et que des
+    gens qui ont achetÃ©, pour une somme assez modique, le droit de
+    s'en informer, n'ont pas eu l'esprit de dÃ©couvrir la vÃ©ritÃ©, ils
+    font lier fortement les jambes de l'accusÃ© entre des planches;
+    ensuite on serre entre ces planches un certain nombre de coins de
+    bois, Ã  force de bras et de coups de maillet. Pendant ce temps-lÃ 
+    les rechercheurs interrogent tranquillement le patient, font
+    Ã©crire ses rÃ©ponses, ses cris, les demi-mots que les tourments
+    lui arrachent, et ils ne le laissent en repos qu'aprÃ¨s Ãªtre
+    parvenus Ã  le faire Ã©vanouir deux ou trois fois par la force de
+    la douleur, et que le mÃ©decin, tÃ©moin de l'opÃ©ration, a dÃ©clarÃ©
+    que, si on continue, le patient mourra dans les tourments.
+    Quelquefois il arrive que les rechercheurs n'ont pas eu besoin de
+    recourir Ã  ce moyen pour se croire sÃ»rs de la vÃ©ritÃ©, mais qu'il
+    leur reste un lÃ©ger scrupule; alors ils ordonnent, qu'avant de
+    punir l'accusÃ©, on recourra Ã  la mÃ©thode infaillible des maillets
+    et des coins. A la vÃ©ritÃ©, ils remplissent de tourments horribles
+    les derniers moments de cet infortunÃ©; mais ces aveux, extorquÃ©s
+    par la torture, rassurent leur conscience, et au sortir de lÃ ,
+    ils en dÃ®nent bien plus tranquillement: quand ils voient que
+    l'accusÃ© a pu avoir des complices, ils ont grand soin de recourir
+    Ã  leur mÃ©thode favorite. Enfin, il y des crimes pour lesquels on
+    l'ordonne par pure routine, et oÃ¹ cette clause est de style.
+
+    Â»Ces rechercheurs, aussi stupides que fÃ©roces, ne se sont pas
+    encore avisÃ©s d'avoir le moindre doute sur la bontÃ© de leur
+    mÃ©thode. Ils forment une caste Ã  part. On croit mÃªme, dans ces
+    Ã®les, qu'ils sont d'une race d'hommes particuliÃ¨re, et que les
+    organes de la sensibilitÃ© manquent absolument Ã  cette espÃ¨ce. En
+    effet, il y a des hommes fort humains dans les mÃªmes Ã®les. La
+    premiÃ¨re caste mÃªme est formÃ©e de gens trÃ¨s-polis, trÃ¨s-doux et
+    trÃ¨s-braves. Ceux-lÃ  passent leur vie Ã  danser; et portant de
+    grand chapeaux de plumes, ils se croiroient dÃ©shonorÃ©s, s'il
+    dansoient avec un homme de la caste des rechercheurs; mais ils
+    trouvent trÃ¨s-bon que ces rechercheurs gardent le privilÃ©ge
+    exclusif d'Ã©craser, entre des planches, les jambes de toutes les
+    castes.
+
+    Â»On m'a assurÃ© que, quelques personnes de la caste des lettrÃ©s
+    s'Ã©tant avisÃ©es de dire tout haut qu'il y avoit des moyens plus
+    humains et plus sÃ»rs de dÃ©couvrir la vÃ©ritÃ©, les rechercheurs Ã 
+    maillets les ont fait taire, en les menaÃ§ant de les brÃ»ler Ã 
+    petit feu, aprÃ¨s leur avoir _prÃ©alablement_ brisÃ© les jambes; car
+    le crime de n'Ãªtre pas du mÃªme avis que les rechercheurs est un
+    de ceux pour lesquels ils ne manquent jamais d'employer leur
+    mÃ©thode.
+
+    Â»Des politiques profonds prÃ©tendent que, depuis ce temps-lÃ , les
+    rechercheurs sont eux-mÃªmes convaincus de l'absurditÃ© de leur
+    mÃ©thode; que, s'ils l'emploient encore de temps en temps sur des
+    accusÃ©s obscurs, c'est afin de ne pas laisser rouiller cette
+    vieille arme, et de la tenir toujours prÃªte pour effrayer leurs
+    ennemis, ou pour s'en venger.
+
+    Â»J'ai lu qu'il y avoit eu autrefois en Europe des usages aussi
+    abominables; mais ils n'y subsistent plus depuis long-temps. Pour
+    les conserver au milieu d'un siÃ¨cle Ã©clairÃ©, et des mÅurs douces
+    de l'Europe, il auroit fallu, dans les magistrats de ce pays, un
+    mÃ©lange d'imbÃ©cillitÃ© et de cruautÃ©, portÃ©es toutes deux Ã  un si
+    haut point, que ce seroit calomnier la nature humaine que de l'en
+    supposer capable.Â» C.
+
+    (_Voyage aux Moluques_, tome II, page 232.)
+
+(6) _Tout le paragraphe I de l'article IV._
+
+    Cette Ã©loquente tirade ne prouve autre chose, sinon que l'homme
+    n'est pas Dieu. Il est Ã  sa place comme le reste de la nature,
+    imparfait, parce que Dieu seul peut Ãªtre parfait; ou, pour mieux
+    dire, l'homme est bornÃ©, et Dieu ne l'est pas. V.
+
+(7) Que la terre lui paroisse comme un point, au prix du vaste tour
+que dÃ©crit le soleil.
+
+    La superstition avoit-elle dÃ©gradÃ© Pascal au point de n'oser
+    penser que c'est la terre qui tourne, et d'en croire plutÃ´t le
+    jugement des dominicains de Rome que les preuves de Copernic, de
+    Keppler et de GalilÃ©e[1]? C.
+
+(8) C'est une sphÃ¨re infinie, dont le centre est partout, la
+circonfÃ©rence nulle part.
+
+    Cette belle expression est de TimÃ©e de Locres: Pascal Ã©toit digne
+    de l'inventer; mais il faut rendre Ã  chacun son bien. V.
+
+(9) Quand l'univers l'Ã©craseroit, l'homme seroit encore plus noble
+que ce qui le tue.
+
+    Que veut dire ce mot, _noble_? Il est bien vrai que ma pensÃ©e est
+    autre chose, par exemple, que le globe du soleil: mais est-il
+    bien prouvÃ© qu'un animal, parce qu'il a quelques pensÃ©es, est
+    plus noble que le soleil, qui anime tout ce que nous connoissons
+    de la nature? Est-ce Ã  l'homme Ã  en dÃ©cider? Il est juge et
+    partie. On dit qu'un ouvrage est supÃ©rieur Ã  un autre, quand il a
+    coÃ»tÃ© plus de peine Ã  l'ouvrier, et qu'il est d'un usage plus
+    utile; mais en a-t-il moins coÃ»tÃ© au CrÃ©ateur de faire le soleil
+    que de pÃ©trir un petit animal, haut d'environ cinq pieds, qui
+    raisonne bien ou mal? Qui des deux est le plus utile au monde, ou
+    de cet animal, ou de l'astre qui Ã©claire tant de globes? Et en
+    quoi quelques idÃ©es reÃ§ues dans un cerveau sont-elles prÃ©fÃ©rables
+    Ã  l'univers matÃ©riel? V.
+
+(10) Je blÃ¢me Ã©galement, et ceux qui prennent le parti de louer
+l'homme, et ceux qui le prennent de le blÃ¢mer, et ceux qui le
+prennent de le divertir.
+
+    HÃ©las! si vous aviez souffert le divertissement, vous auriez vÃ©cu
+    davantage. V.
+
+(11) Les autres disent: cherchez le bonheur en vous divertissant, et
+cela n'est pas vrai.
+
+    En vous divertissant vous aurez du plaisir; et cela est
+    trÃ¨s-vrai. Nous avons des maladies; Dieu a mis la petite-vÃ©role
+    et les vapeurs au monde. HÃ©las encore! hÃ©las Pascal! on voit bien
+    que vous Ãªtes malade. V.
+
+(12) _Tout le paragraphe I._
+
+    On n'a point besoin de toute cette mÃ©taphysique pour expliquer
+    les effets que produit l'amour de la gloire. Il est impossible Ã 
+    quelqu'un qui vit dans une sociÃ©tÃ© nombreuse et policÃ©e, de ne
+    pas voir combien, dans la dÃ©pendance oÃ¹ il est sans cesse des
+    autres hommes, il lui est avantageux d'Ãªtre l'objet de leur
+    enthousiasme. Â«Mais on s'occupe plus de ce que la postÃ©ritÃ© dira
+    de nous, que de ce qu'en disent nos contemporains. Mais on
+    sacrifie sa vie entiÃ¨re Ã  une gloire dont on ne jouira jamais,
+    mais on court Ã  une mort certaine.Â» Tel est l'effet du dÃ©sir si
+    naturel d'Ãªtre estimÃ©s des autres hommes, lorsque ce dÃ©sir est
+    portÃ© jusqu'Ã  l'enthousiasme. Il en est de mÃªme de l'amour
+    physique, qui n'est que le dÃ©sir de jouir: laissez l'enthousiasme
+    en faire une passion; alors on poignarde sa maÃ®tresse, on meurt
+    pour elle. Le hasard peut amener des circonstances oÃ¹ un amant
+    aimera mieux mourir d'une mort cruelle que de jouir de la femme
+    qu'il adore.
+
+    Ne pourroit-on pas dire que l'enthousiasme consiste Ã  se
+    prÃ©senter vivement, Ã  la fois, toutes les jouissances que notre
+    passion peut rÃ©pandre sur un long espace de temps? alors on jouit
+    comme si on les rÃ©unissoit toutes; on craint, comme si un instant
+    pouvoit nous faire Ã©prouver, Ã  la fois, toutes les douleurs d'une
+    longue vie: et lorsque ce sentiment a Ã©puisÃ© toute la force de
+    nos organes, qu'il ne nous en reste plus pour raisonner, nous ne
+    pouvons plus nous apercevoir si ces jouissances sont impossibles.
+
+    Cet Ã©tat d'espÃ©rances enivrantes est en lui-mÃªme un plaisir, et
+    un plaisir assez grand pour prÃ©fÃ©rer ces jouissances imaginaires
+    Ã  des plaisirs rÃ©els et prÃ©sents. Car on se tromperoit dans tous
+    les raisonnements qu'on fait sur les passions, si on se bornoit Ã 
+    ne compter que les plaisirs ou les peines des sens qu'elles font
+    Ã©prouver. Les diffÃ©rents sentiments de dÃ©sir, de crainte, de
+    ravissement, d'horreur, etc. qui naissent des passions, sont
+    accompagnÃ©s de sensations physiques, agrÃ©ables ou pÃ©nibles,
+    dÃ©licieuses ou dÃ©chirantes. On rapporte ces sensations Ã  la
+    rÃ©gion de la poitrine; et il paroÃ®t que le diaphragme[2] en est
+    l'organe. Le sentiment trÃ¨s-vif de plaisir et de douleur dont
+    cette partie du corps est susceptible, dans les hommes
+    passionnÃ©s, suffiroit peut-Ãªtre pour expliquer ce que les
+    passions offrent, en apparence, de plus inexplicable. C.
+
+(13) La vanitÃ© est si ancrÃ©e, etc. _tout le paragraphe_.
+
+    Oui, vous couriez aprÃ¨s la gloire de passer un jour pour le flÃ©au
+    des jÃ©suites, le dÃ©fenseur de Port-Royal, l'apÃ´tre du jansÃ©nisme,
+    le rÃ©formateur des ChrÃ©tiens. V.
+
+(14) Le prÃ©sent n'est jamais notre but. Le passÃ© et le prÃ©sent sont
+nos moyens; le seul avenir est notre objet.
+
+    Il est faux que nous ne pensions point au prÃ©sent; nous y pensons
+    en Ã©tudiant la nature, et en faisant toutes les fonctions de la
+    vie: nous pensons aussi beaucoup au futur. Remercions l'auteur de
+    la nature de ce qu'il nous donne cet instinct qui nous emporte
+    sans cesse vers l'avenir. Le trÃ©sor le plus prÃ©cieux de l'homme,
+    est cette espÃ©rance qui adoucit nos chagrins, et qui nous peint
+    des plaisirs futurs dans la possession des plaisirs prÃ©sents. Si
+    les hommes Ã©toient assez malheureux pour ne s'occuper jamais que
+    du prÃ©sent, on ne semeroit point, on ne bÃ¢tiroit point, on ne
+    planteroit point, on ne pourvoiroit Ã  rien, on manqueroit de tout
+    au milieu de cette fausse jouissance. Un esprit comme Pascal
+    pouvoit-il donner dans un lieu commun comme celui-lÃ ? La nature a
+    Ã©tabli que chaque homme jouiroit du prÃ©sent, en se nourrissant,
+    en faisant des enfants, en Ã©coutant des sons agrÃ©ables, en
+    occupant sa facultÃ© de penser et de sentir, et qu'en sortant de
+    ces Ã©tats, souvent au milieu de ces Ã©tats mÃªmes, il penseroit au
+    lendemain, sans quoi il pÃ©riroit de misÃ¨re aujourd'hui. Il n'y a
+    que les enfants et les imbÃ©cilles qui ne pensent qu'au prÃ©sent;
+    faudra-t-il leur ressembler? V.
+
+    On connoÃ®t ce vers de M. de V.:
+
+      Nous ne vivons jamais, nous attendons la vie.
+
+    Et celui-ci de Manilius:
+
+      _Victuri semper agimus, nec vivimus unquÃ m._
+
+(15) Plaisante justice qu'une riviÃ¨re ou une montagne borne! vÃ©ritÃ©s
+en-deÃ§Ã  des PyrÃ©nÃ©es, erreur au-delÃ .
+
+    Il n'est point ridicule que les lois de la France et de l'Espagne
+    diffÃ¨rent; mais il est trÃ¨s-impertinent que ce qui est juste Ã 
+    Romorantin soit injuste Ã  Corbeil; qu'il y ait quatre cents
+    jurisprudences diverses dans le mÃªme royaume, et surtout que,
+    dans un mÃªme parlement, on perde dans une chambre le procÃ¨s qu'on
+    gagne dans une autre chambre. V.
+
+(16) Se peut-il rien de plus plaisant qu'un homme ait droit de me
+tuer parce qu'il demeure au-delÃ  de l'eau, et que son prince a
+querelle contre le mien, quoique je n'en aie aucune avec lui?
+
+    Plaisant n'est pas le mot propre; il falloit _dÃ©mence exÃ©crable_.
+    V.
+
+(17) Le plus sage des lÃ©gislateurs disoit que, pour le bien des
+hommes, il faut souvent les piper.
+
+    On ne manquera pas d'accuser l'Ã©diteur qui a rassemblÃ© ces
+    PensÃ©es Ã©parses, d'Ãªtre un athÃ©e, ennemi de toute morale; mais je
+    prie les auteurs de cette objection, de considÃ©rer que ces
+    PensÃ©es sont de Pascal, et non pas de moi; qu'il les a Ã©crites en
+    toutes lettres; que si elles sont d'un athÃ©e, c'est Pascal qui
+    Ã©toit athÃ©e, et non pas moi; qu'enfin, puisque Pascal est mort,
+    ce seroit peine perdue que de le calomnier.
+
+    Il est beau de voir dans cet article M. de V. prendre contre
+    Pascal la dÃ©fense de l'existence de Dieu[3]; mais que diront ceux
+    Ã  qui il en coÃ»te tant pour convenir qu'un vivant puisse avoir
+    raison contre un mort? C.
+
+(18) Combien un avocat, bien payÃ© par avance, trouve-t-il plus juste
+la cause qu'il plaide!
+
+    Je compterois plus sur le zÃ¨le d'un homme espÃ©rant une grande
+    rÃ©compense que sur celui d'un homme l'ayant reÃ§ue. V.
+
+(19) _Tout le paragraphe XIX._
+
+    Ces idÃ©es ont Ã©tÃ© adoptÃ©es par Locke. Il soutient qu'il n'y a nul
+    principe innÃ©; cependant il paroÃ®t certain que les enfants ont un
+    instinct, celui de l'Ã©mulation, celui de la pitiÃ©, celui de
+    mettre, dÃ¨s qu'ils le peuvent, les mains devant leur visage quand
+    il est en danger, celui de reculer pour mieux sauter dÃ¨s qu'ils
+    sautent. V.
+
+(20) Je crois qu'il seroit presque aussi heureux qu'un roi, qui.....
+
+    Tous ceux qui ont attaquÃ© la certitude des connoissances humaines
+    ont commis la mÃªme faute. Ils ont fort bien Ã©tabli que nous ne
+    pouvons parvenir, ni dans les sciences physiques, ni dans les
+    sciences morales, Ã  cette certitude rigoureuse des propositions
+    de la gÃ©omÃ©trie, et cela n'Ã©toit pas difficile; mais ils ont
+    voulu en conclure que l'homme n'avoit aucune rÃ¨gle sÃ»re pour
+    asseoir son opinion sur ces objets, et ils se sont trompÃ©s en
+    cela. Car il y a des moyens sÃ»rs de parvenir Ã  une trÃ¨s-grande
+    probabilitÃ© dans plusieurs cas; et dans un grand nombre,
+    d'Ã©valuer le degrÃ© de cette probabilitÃ©. C.
+
+      Ãtre heureux comme un roi, dit le peuple hÃ©bÃ©tÃ©. V.
+
+(21) Que deux hommes voient de la neige, ils expriment tous deux la
+vue de ce mÃªme objet par les mÃªmes mots.....
+
+    Il y a toujours des diffÃ©rences imperceptibles entre les choses
+    les plus semblables; il n'y a jamais eu peut-Ãªtre deux Åufs de
+    poule absolument les mÃªmes, mais qu'importe? Leibnitz devoit-il
+    faire un principe philosophique de cette observation triviale? V.
+
+(22) C'est ce qui a donnÃ© lieu Ã  ces titres, aussi fastueux en effet,
+quoique non[4] en apparence, que cet auteur qui crÃ¨ve les yeux, _de
+omni scibili_.
+
+    Qui crÃ¨ve les yeux ne veut pas dire ici qui se montre Ã©videmment:
+    il signifie tout le contraire. V.
+
+(23) Cela Ã©tant bien compris, je crois qu'on s'en tiendra au
+repos.....
+
+    Tout cet article, d'ailleurs obscur, semble fait pour dÃ©goÃ»ter
+    des sciences spÃ©culatives. En effet, un bon artiste en
+    haute-lisse, en horlogerie, en arpentage, est plus utile que
+    Platon. V.
+
+(24) La seule comparaison que nous faisons de nous au fini nous fait
+peine.
+
+    Il eÃ»t plutÃ´t fallu dire Ã  l'infini. Mais souvenons-nous que ces
+    pensÃ©es jetÃ©es au hasard Ã©toient des matÃ©riaux informes qui ne
+    furent jamais mis en Åuvre. V.
+
+(25) _Tout le paragraphe XXV._
+
+    Cette pensÃ©e paroÃ®t un sophisme, et la faussetÃ© consiste dans ce
+    mot d'_ignorance_, qu'on prend en deux sens diffÃ©rents. Celui qui
+    ne sait ni lire, ni Ã©crire, est un ignorant; mais un
+    mathÃ©maticien, pour ignorer les principes cachÃ©s de la nature,
+    n'est pas au point d'ignorance d'oÃ¹ il Ã©toit parti quand il
+    commenÃ§a Ã  apprendre Ã  lire. Newton ne savoit pas pourquoi
+    l'homme remue son bras quand il le veut; mais il n'en Ã©toit pas
+    moins savant sur le reste. Celui qui ne sait point l'hÃ©breu, et
+    qui sait le latin, est savant, par comparaison, avec celui qui ne
+    sait que le franÃ§ois. V.
+
+(26) L'Ã¢me est jetÃ©e dans le corps pour y faire un sÃ©jour de peu de
+durÃ©e.
+
+    Pour dire l'_Ã¢me est jetÃ©e_, il faudroit Ãªtre sÃ»r qu'elle est
+    substance, et non qualitÃ©. C'est ce que presque personne n'a
+    recherchÃ©, et c'est par oÃ¹ il faudroit commencer, en
+    mÃ©taphysique, en morale, etc. V.
+
+(27) Mais quand j'y ai regardÃ© de plus prÃ¨s, etc. _tout l'alinÃ©a_.
+
+    Ce mot, _ne voir que nous_, ne forme aucun sens. Qu'est-ce qu'un
+    homme qui n'agiroit point, et qui est supposÃ© se contempler?
+    Non-seulement je dis que cet homme seroit un imbÃ©cille, inutile Ã 
+    la sociÃ©tÃ©; mais je dis que cet homme ne peut exister. Car cet
+    homme que contempleroit-il? Son corps, ses pieds, ses mains, ses
+    cinq sens? ou il seroit un idiot, ou bien il feroit usage de tout
+    cela. Resteroit-il Ã  contempler sa facultÃ© de penser? Mais il ne
+    peut contempler cette facultÃ© qu'en l'exerÃ§ant. Ou il ne pensera
+    Ã  rien, on bien il pensera aux idÃ©es qui lui sont dÃ©jÃ  venues, ou
+    il en composera de nouvelles; or il ne peut avoir d'idÃ©es que du
+    dehors. Le voilÃ  donc nÃ©cessairement occupÃ©, ou de ses sens, ou
+    de ses idÃ©es; le voilÃ  donc hors de soi, ou imbÃ©cille. Encore une
+    fois, il est impossible Ã  la nature humaine de rester dans cet
+    engourdissement imaginaire, il est absurde de le penser, il est
+    insensÃ© d'y prÃ©tendre. L'homme est nÃ© pour l'action, comme le feu
+    tend en haut et la pierre en bas. N'Ãªtre point occupÃ©, et
+    n'exister pas, c'est la mÃªme chose pour l'homme; toute la
+    diffÃ©rence consiste dans les occupations douces ou tumultueuses,
+    dangereuses ou utiles. Job a bien dit: Â«L'homme est nÃ© pour le
+    travail, comme l'oiseau pour volerÂ»; mais l'oiseau, en volant,
+    peut Ãªtre pris au trÃ©buchet. C.
+
+(28) Un roi qui se voit est un homme plein de misÃ¨res, et qui les
+ressent comme un autre.
+
+    Toujours le mÃªme sophisme. Un roi qui se recueille pour penser
+    est alors trÃ¨s-occupÃ©; mais s'il n'arrÃªtoit sa pensÃ©e que sur
+    soi, en disant Ã  soi-mÃªme: _je rÃ¨gne_, et rien de plus, il seroit
+    un idiot. V.
+
+(29) Les hommes ont un instinct secret, etc. _et le reste de
+l'alinÃ©a_.
+
+    Cet instinct secret Ã©tant le premier principe et le fondement
+    nÃ©cessaire de la sociÃ©tÃ©, il vient plutÃ´t de la bontÃ© de Dieu, et
+    il est plutÃ´t l'instrument de notre bonheur que le ressentiment
+    de notre misÃ¨re. Je ne sais pas ce que nos premiers pÃ¨res
+    faisoient dans le paradis terrestre; mais si chacun d'eux n'avoit
+    pensÃ© qu'Ã  soi, l'existence du genre humain Ã©toit bien hasardÃ©e.
+    N'est-il pas absurde de penser qu'ils avoient des sens parfaits,
+    c'est-Ã -dire, des instruments d'actions parfaits, uniquement pour
+    la contemplation? Et n'est-il pas plaisant que des tÃªtes
+    pensantes puissent imaginer que la paresse est un titre de
+    grandeur, et l'action un rabaissement de notre nature? V.
+
+(30) Lorsque CynÃ©as disoit Ã  Pyrrhus, etc.
+
+    L'exemple de CinÃ©as est bon dans les satires de DesprÃ©aux, mais
+    non dans un livre philosophique. Un roi sage peut Ãªtre heureux
+    chez lui; et de ce qu'on nous donne Pyrrhus pour fou, cela ne
+    conclut rien pour le reste des hommes. V.
+
+(31) L'homme est si malheureux, qu'il s'ennuieroit, mÃªme sans aucune
+cause Ã©trangÃ¨re d'ennui, par le propre Ã©tat de sa condition
+naturelle.
+
+    Ne seroit-il pas aussi vrai de dire que l'homme est si heureux en
+    ce point, et que nous avons tant d'obligation Ã  l'auteur de la
+    nature, qu'il a attachÃ© l'ennui Ã  l'inaction, afin de nous forcer
+    par lÃ  Ã  Ãªtre utiles au prochain et Ã  nous-mÃªmes? V.
+
+(32) _Le paragraphe V._
+
+    La nature ne nous rend pas toujours malheureux. Pascal parle
+    toujours en malade qui veut que le monde entier souffre. V.
+
+(33) _Le paragraphe VI._
+
+    Cette comparaison assurÃ©ment n'est pas juste. Des malheureux
+    enchaÃ®nÃ©s, qu'on Ã©gorge l'un aprÃ¨s l'autre, sont malheureux
+    non-seulement parce qu'ils souffrent, mais encore parce qu'ils
+    Ã©prouvent ce que les autres hommes ne souffrent pas. Le sort
+    naturel d'un homme n'est, ni d'Ãªtre enchaÃ®nÃ©, ni d'Ãªtre Ã©gorgÃ©;
+    mais tous les hommes sont faits, comme les animaux, les plantes,
+    pour croÃ®tre, pour vivre un certain temps, pour produire leur
+    semblable, et pour mourir. On peut, dans une satire, montrer
+    l'homme, tant qu'on voudra, du mauvais cÃ´tÃ©; mais, pour peu qu'on
+    se serve de sa raison on avouera que, de tous les animaux,
+    l'homme est le plus parfait, le plus heureux, et celui qui vit le
+    plus long-temps; car ce qu'on dit des cerfs et des corbeaux n'est
+    qu'une fable: au lieu donc de nous Ã©tonner et de nous plaindre du
+    malheur et de la briÃ¨vetÃ© de la vie, nous devons nous Ã©tonner et
+    nous fÃ©liciter de notre bonheur et de sa durÃ©e. A ne raisonner
+    qu'en philosophe, j'ose dire qu'il y a bien de l'orgueil et de la
+    tÃ©mÃ©ritÃ© Ã  prÃ©tendre que, par notre nature, nous devons Ãªtre
+    mieux que nous ne sommes. V.
+
+(34) Nous allons montrer que toutes les opinions du peuple sont
+trÃ¨s-saines.
+
+    Pascal prouve dans cet article que les prÃ©jugÃ©s du peuple sont
+    fondÃ©s sur des raisons, mais non pas que le peuple ait raison de
+    les avoir adoptÃ©s. C.
+
+(35) Le plus grand des maux est les guerres civiles. Elles sont
+sÃ»res, si on veut rÃ©compenser le mÃ©rite; car tous diroient qu'ils
+mÃ©ritent.
+
+    Cela mÃ©rite explication. Guerre civile, si le prince de Conti
+    dit: J'ai autant de mÃ©rite que le grand CondÃ©; si Retz dit: Je
+    vaux mieux que Mazarin; si Beaufort dit: Je l'emporte sur
+    Turenne, et s'il n'y a personne pour les mettre Ã  leur place.
+    Mais quand Louis XIV arrive, et dit: Je ne rÃ©compenserai que le
+    mÃ©rite; alors plus de guerre civile. V.
+
+(36) _Les paragraphes V et VI._
+
+    Ces articles ont besoin d'explication, et semblent n'en pas
+    mÃ©riter. V.
+
+(37) Il a quatre laquais, et je n'en ai qu'un; c'est Ã  moi Ã  cÃ©der.
+
+    Non. Turenne avec un laquais sera respectÃ© par un traitant qui en
+    aura quatre. V.
+
+(38) Nos magistrats ont bien connu ce mystÃ¨re. Leurs robes rouges,
+leurs hermines, dont ils s'emmaillottent en chats fourrÃ©s, etc.
+
+    Les sÃ©nateurs romains avoient le laticlave. V.
+
+(39) Les seuls gens de guerre ne se sont pas dÃ©guisÃ©s de la sorte.
+
+    Aujourd'hui c'est tout le contraire, on se moqueroit d'un mÃ©decin
+    qui viendroit tÃ¢ter le pouls et contempler votre chaise percÃ©e en
+    soutane. Les officiers de guerre, au contraire, vont partout avec
+    leurs uniformes et leurs Ã©paulettes. V.
+
+(40) Les Suisses s'offensent d'Ãªtre dits gentilshommes, et prouvent
+la roture de race pour Ãªtre jugÃ©s dignes de grands emplois.
+
+    Pascal Ã©toit mal informÃ©. Il y avoit de son temps, et il y a
+    encore dans le sÃ©nat de Berne des gentilshommes aussi anciens que
+    la maison d'Autriche. Ils sont respectÃ©s, ils sont dans les
+    charges. Il est vrai qu'ils n'y sont pas par droit de naissance,
+    comme les nobles y sont Ã  Venise. Il faut mÃªme Ã  BÃ¢le renoncer Ã 
+    sa noblesse pour entrer dans le sÃ©nat. V.
+
+(41) Cet habit, c'est une force; il n'en est pas de mÃªme d'un cheval
+bien enharnachÃ© Ã  l'Ã©gard d'un autre.
+
+    Bas et indigne de Pascal. V.
+
+(42) Le peuple a des opinions trÃ¨s-saines, par exemple, d'avoir
+choisi le divertissement et la chasse plutÃ´t que la poÃ©sie.
+
+    Il semble qu'on ait proposÃ© au peuple de jouer Ã  la boule ou de
+    faire _des vers_. Non, mais ceux qui ont des organes grossiers
+    cherchent des plaisirs oÃ¹ l'Ã¢me n'entre pour rien; ceux qui ont
+    un sentiment plus dÃ©licat veulent des plaisirs plus fins: il faut
+    que tout le monde vive. V.
+
+(43) Le port rÃ¨gle ceux qui sont dans le vaisseau; mais oÃ¹
+trouverons-nous ce point dans la morale?
+
+    Dans cette seule maxime, reÃ§ue de toutes les nations: Ne faites
+    pas Ã  autrui ce que vous ne voudriez pas qu'on vous fÃ®t. V.
+
+(44) _Le paragraphe VI._
+
+    Un certain peuple a eu une loi par laquelle on faisoit pendre un
+    homme qui avoit bu Ã  la santÃ© d'un certain prince: il eÃ»t Ã©tÃ©
+    juste de ne point boire avec cet homme, mais il Ã©toit un peu dur
+    de le pendre: cela Ã©toit Ã©tabli, mais cela Ã©toit abominable. V.
+
+(45) Sans doute que l'Ã©galitÃ© des biens est juste.
+
+    L'Ã©galitÃ© des biens n'est pas juste. Il n'est pas juste que, les
+    parts Ã©tant faites, des Ã©trangers mercenaires, qui viennent
+    m'aider Ã  faire mes moissons, en recueillent autant que moi. V.
+
+(46) Ne pouvant faire que ce qui est juste fÃ»t fort, on a fait que ce
+qui est fort fÃ»t juste.
+
+    Pascal semble se rapprocher ici des idÃ©es de Hobbes, et le plus
+    dÃ©vot des philosophes de son siÃ¨cle est, sur la nature du juste
+    et de l'injuste, du mÃªme avis que le plus irrÃ©ligieux. C.
+
+(47) _Tout le paragraphe X._
+
+    Selon Platon, les bonnes lois sont celles que les citoyens aiment
+    plus que leur vie; l'art de faire aimer aux hommes les lois de
+    leur patrie Ã©toit, selon lui, le grand art des lÃ©gislateurs. Il y
+    a loin d'un philosophe d'AthÃ¨nes Ã  un philosophe du faubourg
+    Saint-Jacques. C.
+
+(48) L'extrÃªme esprit est accusÃ© de folie, comme l'extrÃªme dÃ©faut.
+
+    Ce n'est pas l'extrÃªme esprit, c'est l'extrÃªme vivacitÃ© et
+    volubilitÃ© de l'esprit qu'on accuse de folie; l'extrÃªme esprit
+    est l'extrÃªme justesse, l'extrÃªme finesse; l'extrÃªme Ã©tendue
+    opposÃ©e diamÃ©tralement Ã  la folie. L'extrÃªme dÃ©faut d'esprit est
+    un manque de conception, un vide d'idÃ©es; ce n'est point la
+    folie, c'est la stupiditÃ©. La folie est un dÃ©rangement dans les
+    organes, qui fait voir plusieurs objets trop vite, ou qui arrÃªte
+    l'imagination sur un seul avec trop d'application et de violence.
+    Ce n'est point non plus la mÃ©diocritÃ© qui passe pour bonne, c'est
+    l'Ã©loignement des deux vices opposÃ©s; c'est ce qu'on appelle
+    _juste milieu_, et non _mÃ©diocritÃ©_. On ne fait cette remarque,
+    et quelques autres dans ce goÃ»t, que pour donner des idÃ©es
+    prÃ©cises. C'est plutÃ´t pour Ã©claircir que pour contredire. V.
+
+(49) Les belles actions cachÃ©es sont les plus estimables. Quand j'en
+vois quelques-unes dans l'histoire, elles me plaisent fort. Mais
+enfin elles n'ont pas Ã©tÃ© tout-Ã -fait cachÃ©es, puisqu'elles ont Ã©tÃ©
+sues; ce peu par oÃ¹ elles ont paru en diminue le mÃ©rite, car c'est lÃ 
+le plus beau de les avoir voulu cacher[5].
+
+    Voici une action dont la mÃ©moire mÃ©rite d'Ãªtre conservÃ©e, et Ã 
+    qui il ne me paroÃ®t pas possible qu'on puisse appliquer la
+    rÃ©flexion de Pascal.
+
+    Le vaisseau que montoit le chevalier de Lordat, Ã©toit prÃªt Ã 
+    couler Ã  fond Ã  la vue des cÃ´tes de France. Il ne savoit pas
+    nager; un soldat, excellent nageur, lui dit de se jeter avec lui
+    dans la mer, de le tenir par la jambe, et qu'il espÃ¨re le sauver
+    par ce moyen. AprÃ¨s avoir long-temps nagÃ©, les forces du soldat
+    s'Ã©puisent; M. de Lordat s'en aperÃ§oit, l'encourage; mais enfin
+    le soldat lui dÃ©clare qu'ils vont pÃ©rir tous deux.--Et si tu
+    Ã©tois seul?--Peut-Ãªtre pourrois-je encore me sauver. Le chevalier
+    de Lordat lui lÃ¢che la jambe, et tombe au fond de la mer. C.
+
+    Et comment l'histoire en a-t-elle pu parler, si on ne les a pas
+    sues? V.
+
+(50) Pourquoi faire plutÃ´t quatre espÃ¨ces de vertus que dix?
+
+    On a remarquÃ©, dans un AbrÃ©gÃ© de l'Inde et de la guerre misÃ©rable
+    que l'avarice de la Compagnie franÃ§aise soutint contre l'avarice
+    anglaise; on a remarquÃ©, dis-je, que les brames peignent la vertu
+    belle et forte avec dix bras, pour rÃ©sister Ã  dix pÃ©chÃ©s
+    capitaux. Les missionnaires ont pris la vertu pour le diable. V.
+
+(51) _Tout le paragraphe XXXI._
+
+    Il est faux que les petits soient moins agitÃ©s que les grands. Au
+    contraire, leurs dÃ©sespoirs sont plus vifs, parce qu'ils ont
+    moins de ressources. De cent personnes qui se tuent Ã  Londres et
+    ailleurs, il y en a quatre-vingt-dix-neuf du bas peuple, et Ã 
+    peine une de condition relevÃ©e. La comparaison de la roue est
+    ingÃ©nieuse et fausse. V.
+
+(52) _Tout le paragraphe XXXIII._
+
+    Il auroit fallu dire d'_Ãªtre aussi vicieux que lui_[6]; cet
+    article est trop trivial, et indigne de Pascal. Il est clair que,
+    si un homme est plus grand que les autres, ce n'est pas parce que
+    ses pieds sont aussi bas, mais parce que sa tÃªte est plus Ã©levÃ©e.
+    V.
+
+(53) _Paragraphe XLVII._
+
+    L'on s'imagine d'ordinaire qu'Alexandre et CÃ©sar sont sortis de
+    chez eux dans le dessein de conquÃ©rir la terre: ce n'est point
+    cela. Alexandre succÃ©da Ã  Philippe dans le gÃ©nÃ©ralat de la GrÃ¨ce,
+    et fut chargÃ© de la juste entreprise de venger les Grecs des
+    injures du roi de Perse; il battit l'ennemi commun, et continua
+    ses conquÃªtes jusqu'Ã  l'Inde, parce que le royaume de Darius
+    s'Ã©tendoit jusqu'Ã  l'Inde: de mÃªme que le duc de Marlborough
+    seroit venu jusqu'Ã  Lyon sans le marÃ©chal de Villars. A l'Ã©gard
+    de CÃ©sar, il Ã©toit un des premiers de la rÃ©publique: il se
+    brouilla avec PompÃ©e, comme les jansÃ©nistes avec les molinistes,
+    et alors ce fut Ã  qui s'extermineroit: une seule bataille, oÃ¹ il
+    n'y eut pas dix mille hommes de tuÃ©s, dÃ©cida de tout. Au reste,
+    la pensÃ©e de Pascal est peut-Ãªtre fausse en un sens. Il falloit
+    la maturitÃ© de CÃ©sar pour se dÃ©mÃªler de tant d'intrigues; et il
+    est peut-Ãªtre Ã©tonnant qu'Alexandre, Ã  son Ã¢ge, ait renoncÃ© au
+    plaisir pour faire une guerre si pÃ©nible. V.
+
+(54) En Ã©crivant ma pensÃ©e, elle m'Ã©chappe quelquefois, etc.
+
+    Les idÃ©es de Platon sur la nature de l'homme sont bien plus
+    philosophiques que celles de Pascal. Platon regardoit l'homme
+    comme un Ãªtre qui naÃ®t avec la facultÃ© de recevoir des
+    sensations, d'avoir des idÃ©es, de sentir du plaisir et de la
+    douleur; les objets que le hasard lui prÃ©sente, l'Ã©ducation, les
+    lois, le gouvernement, la religion, agissent sur lui, et forment
+    son intelligence, ses opinions, ses passions, ses vertus et ses
+    vices. Il ne seroit rien de ce que nous disons que la nature l'a
+    fait, si tout cela avoit Ã©tÃ© autrement. Soumettons-le Ã  d'autres
+    agents, et il deviendra ce que nous voudrons qu'il soit, ce qu'il
+    faudroit qu'il fÃ»t pour son bonheur, et pour celui de ses
+    semblables; qui osera fixer des termes Ã  ce que l'homme pourroit
+    faire de grand et de beau? Mais ne nÃ©gligeons rien. C'est l'homme
+    tout entier qu'il faut former, et il ne faut abandonner au
+    hasard, ni aucun instant de sa vie, ni l'effet d'aucun des objets
+    qui peuvent agir sur lui[7]. V.
+
+(55) Platon et Aristote.... Ã©toient d'honnÃªtes gens qui rioient comme
+les autres avec leurs amis.
+
+    Cette expression, _honnÃªtes gens_, a signifiÃ©, dans l'origine,
+    les hommes qui avoient de la probitÃ©. Du temps de Pascal, elle
+    signifioit les gens de bonne compagnie; et maintenant ceux qui
+    ont de la naissance ou de l'argent. C.
+
+    Non, monsieur, les honnÃªtes gens sont ceux Ã  la tÃªte desquels
+    vous Ãªtes. V.
+
+(56) Je mets en fait que, si tous les hommes savoient ce qu'ils
+disent les uns des autres, il n'y auroit pas quatre amis dans le
+monde.
+
+    Dans l'excellente comÃ©die du _Plain dealer_, l'homme au franc
+    procÃ©dÃ© (excellente Ã  la maniÃ¨re angloise), le Plain dealer dit Ã 
+    un personnage: Tu te prÃ©tends mon ami; voyons, comment le
+    prouverois-tu?--Ma bourse est Ã  toi,--Et Ã  la premiÃ¨re fille
+    venue. Bagatelle.--Je me battrois pour toi.--Et pour un dÃ©menti;
+    ce n'est pas lÃ  un grand sacrifice.--Je dirai du bien de toi Ã  la
+    face de ceux qui te donneront des ridicules.--Oh! si cela est, tu
+    m'aimes. V.
+
+(57) A mesure qu'on a plus d'esprit, on trouve qu'il y a plus
+d'hommes originaux. Les gens du commun ne trouvent pas de diffÃ©rence
+entre les hommes.
+
+    Il y a trÃ¨s-peu d'hommes vraiment originaux; presque tous se
+    gouvernent, pensent et sentent par l'influence de la coutume et
+    de l'Ã©ducation. Rien n'est si rare qu'un esprit qui marche dans
+    une route nouvelle; mais parmi cette foule d'hommes qui vont de
+    compagnie, chacun a de petites diffÃ©rences dans la dÃ©marche, que
+    les vues fines aperÃ§oivent. V.
+
+(58) .... Ils ne savent pas que j'en juge par ma montre.
+
+    En ouvrage de goÃ»t, en musique, en poÃ©sie, en peinture, c'est le
+    goÃ»t qui tient lieu de montre; et celui qui n'en juge que par
+    rÃ¨gles, en juge mal. V.
+
+(59) Il y en a qui masquent toute la nature. Il n'y a point de roi
+parmi eux, mais un auguste monarque; point de Paris, mais une
+capitale du royaume.
+
+    Ceux qui Ã©crivent en beau franÃ§ois les gazettes pour le profit
+    des propriÃ©taires de ces fermes dans les pays Ã©trangers, ne
+    manquent jamais de dire: Â«Cette auguste famille entendit vÃªpres
+    dimanche, et le sermon du rÃ©vÃ©rend pÃ¨re N. Sa majestÃ© joua aux
+    dÃ©s en haute personne. On fit l'opÃ©ration de la fistule Ã  son
+    Ã©minence.Â» V.
+
+(60) La derniÃ¨re chose qu'on trouve en faisant un ouvrage, est de
+savoir celle qu'il faut mettre la premiÃ¨re.
+
+    Quelquefois. Mais jamais on n'a commencÃ© ni une histoire, ni une
+    tragÃ©die par la fin, ni aucun travail. Si on ne sait souvent par
+    oÃ¹ commencer, c'est dans un Ã©loge, dans une oraison funÃ¨bre, dans
+    un sermon, dans tous ces ouvrages de pur appareil, oÃ¹ il faut
+    parler sans rien dire. V.
+
+(61) Il est difficile de rien obtenir de l'homme que par le plaisir,
+qui est la monnoie pour laquelle nous donnons tout ce qu'on veut.
+
+    Le plaisir n'est pas la monnoie, mais la denrÃ©e pour laquelle on
+    donne tant de monnoie qu'on veut. V.
+
+(62) Il (ÃpictÃ¨te) veut que l'homme soit humble.
+
+    Si ÃpictÃ¨te a voulu que l'homme fÃ»t humble, vous ne deviez donc
+    pas dire que l'humilitÃ© n'a Ã©tÃ© recommandÃ©e que chez nous. V.
+
+(63) Montaigne, nÃ© dans un Ã©tat chrÃ©tien, fait profession de la
+religion catholique.
+
+    On vient de faire un livre pour prouver que Montaigne Ã©toit bon
+    chrÃ©tien. Selon nos zÃ©lÃ©s, tout grand homme des siÃ¨cles passÃ©s
+    Ã©toit croyant, tout grand homme vivant est incrÃ©dule. Leur
+    premiÃ¨re loi est de chercher Ã  nuire; l'intÃ©rÃªt de leur cause ne
+    marche qu'aprÃ¨s. C.
+
+(64) Les principales raisons des pyrrhoniens sont que nous n'avons
+aucune certitude de la vÃ©ritÃ© des principes....
+
+    Les pyrrhoniens absolus ne mÃ©ritoient pas que Pascal parlÃ¢t
+    d'eux. V.
+
+(65) N'y ayant point de certitude hors la foi, si l'homme est crÃ©Ã©
+par un Dieu bon, ou par un dÃ©mon mÃ©chant....
+
+    La foi est une grÃ¢ce surnaturelle. C'est combattre et vaincre la
+    raison que Dieu nous a donnÃ©e, c'est croire fermement et
+    aveuglÃ©ment un homme qui ose parler au nom de Dieu, au lieu de
+    recourir soi-mÃªme Ã  Dieu. C'est croire ce qu'on ne croit pas. Un
+    philosophe Ã©tranger, qui entendit parler de la foi, dit que
+    c'Ã©tait se mentir Ã  soi-mÃªme. Ce n'est pas lÃ  de la certitude;
+    c'est de l'anÃ©antissement. C'est le triomphe de la thÃ©ologie sur
+    la faiblesse humaine. V.
+
+(66) La raison dÃ©montre qu'il n'y a point deux nombres carrÃ©s dont
+l'un soit double de l'autre.
+
+    Ce n'est point le raisonnement, c'est l'expÃ©rience et le
+    tÃ¢tonnement qui dÃ©montrent cette singularitÃ© et tant d'autres. V.
+
+(67) Tous se plaignent, princes, sujets, etc.
+
+    Je sais qu'il est doux de se plaindre; que, de tout temps, on a
+    vantÃ© le passÃ© pour injurier le prÃ©sent; que chaque peuple a
+    imaginÃ© un Ã¢ge d'or, d'innocence, de bonne santÃ©, de repos et de
+    plaisir, qui ne subsiste plus. Cependant j'arrive de ma province
+    Ã  Paris; on m'introduit dans une trÃ¨s-belle salle oÃ¹ douze cents
+    personnes Ã©coutent une musique dÃ©licieuse: aprÃ¨s quoi toute cette
+    assemblÃ©e se divise en petites sociÃ©tÃ©s qui vont faire un
+    trÃ¨s-bon souper, et aprÃ¨s ce souper elles ne sont pas absolument
+    mÃ©contentes de la nuit. Je vois tous les beaux-arts en honneur
+    dans cette ville, et les mÃ©tiers les plus abjects bien
+    rÃ©compensÃ©s, les infirmitÃ©s trÃ¨s-soulagÃ©es, les accidents
+    prÃ©venus; tout le monde y jouit ou espÃ¨re jouir, ou travaille
+    pour jouir un jour, et ce dernier partage n'est pas le plus
+    mauvais. Je dis alors Ã  Pascal: Mon grand homme, Ãªtes-vous fou?
+
+    Je ne nie pas que la terre n'ait Ã©tÃ© souvent inondÃ©e de malheurs
+    et de crimes, et nous en avons eu notre bonne part. Mais
+    certainement, lorsque Pascal Ã©crivoit, nous n'Ã©tions pas si Ã 
+    plaindre. Nous ne sommes pas non plus si misÃ©rables aujourd'hui.
+
+      Prenons toujours ceci, puisque Dieu nous l'envoie;
+        Nous n'aurons pas toujours tels passe-temps. V.
+
+(68) Qu'y a-t-il de plus ridicule et de plus vain que ce que
+proposent les stoÃ¯ciens?
+
+    La morale des stoÃ¯ciens Ã©toit fondÃ©e sur la nature mÃªme,
+    quoiqu'elle semble toujours la combattre. Ces philosophes avoient
+    observÃ© que les passions violentes, l'enthousiasme, la folie
+    mÃªme, non-seulement donnent Ã  l'homme la force de supporter la
+    douleur, mais l'y rendoient souvent insensible; et comme il est
+    une foule de douleurs que notre prudence et nos lumiÃ¨res ne
+    peuvent ni prÃ©venir, ni soulager; comme la crainte de la douleur
+    est l'instrument avec lequel les tyrans dÃ©gradent l'homme et le
+    rendent misÃ©rable, les stoÃ¯ciens jugÃ¨rent, avec raison, que l'on
+    ne pourroit opposer aux maux oÃ¹ nous a soumis la nature un remÃ¨de
+    Ã  la fois plus utile et plus sÃ»r que d'exciter dans notre Ã¢me un
+    enthousiasme durable, qui, s'augmentant en mÃªme temps que la
+    douleur, par nos efforts, pour nous roidir contre elle, nous y
+    rendÃ®t presque insensibles; cet enthousiasme avoit contre la
+    douleur la mÃªme force que le dÃ©lire, et cependant laissoit Ã 
+    l'Ã¢me le libre usage dt toutes ses facultÃ©s. Ainsi le stoÃ¯cien
+    dit: La douleur n'est point un mal, et il cessa presque de la
+    sentir. Le mÃªme remÃ¨de s'applique encore, avec plus de succÃ¨s,
+    aux maux de l'Ã¢me, plus cruels que ceux du corps. Celle du sage
+    s'Ã©lÃ¨ve si haut, que les opprobres, les injustices, ne peuvent y
+    atteindre. L'amour de l'ordre, portÃ© jusqu'Ã  l'enthousiasme, fut
+    sa seule passion, et la rendit inaccessible Ã  toute autre. Le
+    bonheur du stoÃ¯cien consistoit dans le sentiment de la force et
+    de la grandeur de son Ã¢me; la foiblesse et le crime Ã©toient donc
+    les seuls maux qui pussent le troubler, et, occupÃ© de se
+    rapprocher des dieux, en faisant du bien aux hommes, il savoit
+    mourir quand il ne lui en restoit plus Ã  faire.
+
+    Si donc on peut regarder comme des enthousiastes les sectateurs
+    de cette morale, on ne peut se dispenser de reconnoÃ®tre dans son
+    inventeur un gÃ©nie profond et une Ã¢me sublime. C.
+
+    Il est vrai que c'est le sublime des Petites-Maisons; mais il est
+    bien respectable. V.
+
+(69) Ce dÃ©sir (de la vÃ©ritÃ© et du bonheur) nous est laissÃ©, tant pour
+nous punir que pour nous faire sentir d'oÃ¹ nous sommes tombÃ©s.
+
+    Comment peut-on dire que le dÃ©sir du bonheur, ce grand prÃ©sent de
+    Dieu, ce premier ressort du monde moral, n'est qu'un juste
+    supplice? O Ã©loquence fanatique! V.
+
+(70) Quelle chimÃ¨re est-ce donc que l'homme?
+
+    Vrai discours de malade. V.
+
+(71) Que ceux qui combattent la religion[8] apprennent au moins
+quelle elle est avant que de la combattre. Si cette religion se
+vantoit d'avoir une vue claire de Dieu, et de le possÃ©der Ã  dÃ©couvert
+et sans voile[9], ce seroit la combattre que de dire qu'on ne voit
+rien dans le monde qui le montre avec cette Ã©vidence. Mais
+puisqu'elle dit, au contraire, que les hommes sont dans les
+tÃ©nÃ¨bres[10] et dans l'Ã©loignement de Dieu....
+
+(72) Toutes nos actions et toutes nos pensÃ©es doivent prendre des
+routes si diffÃ©rentes, selon qu'il y aura des biens Ã©ternels Ã 
+espÃ©rer, ou non, qu'il est impossible de faire une dÃ©marche avec sens
+et jugement, qu'en la rÃ©glant par la vue de ce point, qui doit Ãªtre
+notre premier objet.
+
+    Il ne s'agit pas encore ici de la sublimitÃ© et de la saintetÃ© de
+    la religion chrÃ©tienne, mais de l'immortalitÃ© de l'Ã¢me, qui est
+    le fondement de toutes les religions connues, exceptÃ© de la
+    juive; je dis exceptÃ© de la juive, parce que ce dogme n'est
+    exprimÃ© dans aucun endroit du Pentateuque, qui est le livre de la
+    loi juive; parce que nul auteur juif n'a pu y trouver aucun
+    passage qui dÃ©signÃ¢t ce dogme; parce que, pour Ã©tablir
+    l'existence reconnue de cette opinion si importante, si
+    fondamentale, il ne suffit pas de la supposer, de l'infÃ©rer de
+    quelques mots dont on force le sens naturel: mais il faut qu'elle
+    soit Ã©noncÃ©e de la faÃ§on la plus positive et la plus claire;
+    parce que, si la petite nation juive avoit eu quelque
+    connoissance de ce grand dogme avant Antiochus Ãpiphane, il n'est
+    pas Ã  croire que la secte des SadducÃ©ens, rigides observateurs de
+    la loi, eÃ»t osÃ© s'Ã©lever contre la croyance fondamentale de la
+    loi juive.
+
+    Mais qu'importe en quel temps la doctrine de l'immortalitÃ© et de
+    la spiritualitÃ© de l'Ã¢me a Ã©tÃ© introduite dans le malheureux pays
+    de la Palestine? Qu'importe que Zoroastre aux Perses, Numa aux
+    Romains, Platon aux Grecs, aient enseignÃ© l'existence et la
+    permanence de l'Ã¢me? Pascal veut que tout homme, par sa propre
+    raison, rÃ©solve ce grand problÃ¨me. Mais lui-mÃªme le peut-il?
+    Locke, le sage Locke, n'a-t-il pas confessÃ© que l'homme ne peut
+    savoir si Dieu ne peut accorder le don de la pensÃ©e Ã  tel Ãªtre
+    qu'il daignera choisir? N'a-t-il pas avouÃ© par lÃ  qu'il ne nous
+    est pas plus donnÃ© de connoÃ®tre la nature de notre entendement
+    que de connoÃ®tre la maniÃ¨re dont notre sang se forme dans nos
+    veines? Jescher a parlÃ©; il suffit.
+
+    Quand il est question de l'Ã¢me, il faut combattre Ãpicure,
+    LucrÃ¨ce, Pomponace, et ne pas se laisser subjuguer par une
+    faction de thÃ©ologiens du faubourg Saint-Jacques, jusqu'Ã  couvrir
+    d'un capuce une tÃªte d'ArchimÃ¨de. V.
+
+(73) La mort nous doit mettre dans un Ã©tat Ã©ternel de bonheur ou de
+malheur, ou d'anÃ©antissement.
+
+    Il n'y eut ni malheur Ã©ternel, ni anÃ©antissement dans les
+    systÃ¨mes des Bracmanes, des Egyptiens, et chez plusieurs sectes
+    grecques. Enfin ce qui parut aux Romains de plus vraisemblable,
+    ce fut cet axiome tant rÃ©pÃ©tÃ© dans le sÃ©nat et sur le thÃ©Ã¢tre:
+    Â«Que devient l'homme aprÃ¨s la mort? Ce qu'il Ã©toit avant de
+    naÃ®tre.Â» Pascal raisonne ici contre un mauvais ChrÃ©tien, contre
+    un ChrÃ©tien indiffÃ©rent qui ne pense point Ã  sa religion, qui
+    s'Ã©tourdit sur elle. Mais il faut parler Ã  tous les hommes, il
+    faut convaincre un Chinois et un Mexicain, un dÃ©iste et un athÃ©e.
+    J'entends des dÃ©istes et des athÃ©es qui raisonnent, et qui par
+    consÃ©quent mÃ©ritent qu'on raisonne avec eux; je n'entends pas des
+    petits-maÃ®tres. V.
+
+(74) Comme je ne sais d'oÃ¹ je viens, aussi ne sais-je ou je vais; je
+sais seulement qu'en sortant de ce monde, je tombe pour jamais, ou
+dans le nÃ©ant, ou dans les mains d'un Dieu irritÃ©, sans savoir Ã 
+laquelle des deux conditions je dois Ãªtre Ã©ternellement en partage.
+
+    Si vous ne savez oÃ¹ vous allez, comment savez-vous que vous
+    tombez infailliblement ou dans le nÃ©ant, ou dans les mains d'un
+    Dieu irritÃ©? Qui vous a dit que l'Etre suprÃªme peut Ãªtre irritÃ©?
+    N'est-il pas infiniment plus probable que vous serez entre les
+    mains d'un Dieu bon et misÃ©ricordieux? Et ne peut-on pas dire de
+    la nature divine ce que le poÃ¨te philosophe des Romains en a dit.
+    V.
+
+      _Ipsa suis pollens opibus, nihil indiga nostrÃ®,
+      Nec benÃ¨ promeritis capitur, neque tangitur ira._
+
+      LUCR. lib. 2, v. 649.
+
+(75) Un homme dans un cachot, ne sachant si son arrÃªt est donnÃ©,
+n'ayant plus qu'une heure pour l'apprendre.... il est contre la
+nature qu'il emploie cette heure-lÃ , non Ã  s'informer si cet arrÃªt
+est donnÃ©, mais Ã  jouer et Ã  se divertir.
+
+    Il semble qu'il manque quelque chose Ã  ce raisonnement de Pascal.
+    Sans doute il est absurde de ne pas employer son temps Ã  la
+    recherche d'une chose qu'on peut connoÃ®tre, et dont la
+    connoissance nous est d'une importance infinie. Mais un homme qui
+    seroit persuadÃ© que cette connoissance est impossible Ã  acquÃ©rir,
+    que l'esprit humain n'a aucun moyen d'y parvenir, peut, sans
+    folie, demeurer dans le doute; il peut y demeurer tranquille,
+    s'il croit qu'un Dieu juste n'a pu faire dÃ©pendre l'Ã©tat futur
+    des hommes de connoissances auxquelles leur esprit ne sauroit
+    atteindre.
+
+    Un homme, enfermÃ© dans un cachot, ne sachant pas si son arrÃªt est
+    donnÃ©, mais sÃ»r de son innocence, et comptant sur l'Ã©quitÃ© de ses
+    juges, n'ayant aucun moyen d'apprendre encore ce que porte son
+    arrÃªt, pourroit l'attendre tranquillement, et ne seroit alors que
+    raisonnable et ferme. Il faut donc commencer par prouver qu'il
+    n'est pas impossible que l'homme parvienne Ã  quelque connoissance
+    certaine sur la vie future. C.
+
+(76) Ce sont des personnes qui ont ouÃ¯ dire que les belles maniÃ¨res
+du monde consistent Ã  faire ainsi l'emportÃ©.
+
+    Cette capucinade n'auroit jamais Ã©tÃ© rÃ©pÃ©tÃ©e par un Pascal, si le
+    fanatisme jansÃ©niste n'avoit pas ensorcelÃ© son imagination.
+    Comment n'a-t-il pas vu que les fanatiques de Rome en pouvoient
+    dire autant Ã  ceux qui se moquoient de Numa et d'ÃgÃ©rie? les
+    Ã©nergumÃ¨nes d'Ãgypte aux esprits sensÃ©s qui rioient d'Isis,
+    d'Osiris et d'Horus? le sacristain de tous les pays aux honnÃªtes
+    gens de tous les pays? V.
+
+(77) Si on leur fait rendre compte des raisons qu'ils ont de douter
+de la religion, ils diront des choses si foibles et si basses, qu'ils
+persuaderont plutÃ´t du contraire.
+
+    Ce n'est donc pas contre ces insensÃ©s mÃ©prisables que vous devez
+    disputer; mais contre des philosophes trompÃ©s par des arguments
+    sÃ©duisants. V.
+
+(78) Qu'ils soient au moins honnÃªtes gens, s'ils ne peuvent encore
+Ãªtre chrÃ©tiens.
+
+    Il s'agit ici de savoir si l'opinion de l'immortalitÃ© de l'Ã¢me
+    est vraie, et non pas si elle annonce plus d'_esprit_, _une Ã¢me
+    plus Ã©levÃ©e_ que l'opinion contraire; si elle est plus _gaie_, ou
+    _de meilleur air_. Il faut croire cette grande vÃ©ritÃ©, parce
+    qu'elle est prouvÃ©e, et non parce que cette croyance excitera les
+    autres hommes Ã  avoir en nous plus de confiance. Cette maniÃ¨re de
+    raisonner ne seroit propre qu'Ã  faire des hypocrites. D'ailleurs
+    il me semble que c'est moins d'aprÃ¨s les opinions d'un homme sur
+    la mÃ©taphysique, ou la morale, qu'il faut se confier en lui, ou
+    s'en dÃ©fier, que d'aprÃ¨s son caractÃ¨re; et, s'il est permis de
+    s'exprimer ainsi, d'aprÃ¨s sa constitution morale. L'expÃ©rience
+    paroÃ®t confirmer ce que j'avance ici. Ni Constantin, ni ThÃ©odose,
+    ni Mahomet, ni Innocent III, ni Marie d'Angleterre, ni Philippe
+    II, ni Aureng-zeb, ni Jacques ClÃ©ment, ni Ravaillac, ni Balthazar
+    GÃ©rard, ni les brigands qui dÃ©vastÃ¨rent l'AmÃ©rique, ni les
+    capucins qui conduisoient les troupes piÃ©montoises au dernier
+    massacre des Vaudois, n'ont jamais Ã©levÃ© le moindre doute sur
+    l'immortalitÃ© de l'Ã¢me. En gÃ©nÃ©ral mÃªme, ce sont les hommes
+    foibles, ignorants et passionnÃ©s, qui commettent des crimes: et
+    ces mÃªmes hommes sont naturellement portÃ©s Ã  la superstition. C.
+
+(79) Par les lumiÃ¨res naturelles..... nous sommes incapables de
+connoÃ®tre, ni ce qu'il est, ni s'il est.
+
+    Il est Ã©trange que Pascal ait cru qu'on pouvoit deviner le pÃ©chÃ©
+    originel par la raison, et qu'il dise qu'on ne peut connoÃ®tre par
+    la raison si Dieu est. C'est apparemment la lecture de cette
+    pensÃ©e qui engagea le pÃ¨re Hardouin Ã  mettre Pascal dans sa liste
+    ridicule des athÃ©es. Pascal eÃ»t manifestement rejetÃ© cette idÃ©e,
+    puisqu'il la combat en d'autres endroits. En effet, nous sommes
+    obligÃ©s d'admettre des choses que nous ne concevons pas.
+    Â«J'existe, donc quelque chose existe de toute Ã©ternitÃ©,Â» est une
+    proposition Ã©vidente: cependant, comprenons-nous l'Ã©ternitÃ©? C.
+
+(80) Je n'entreprendrai pas ici de prouver par des raisons
+naturelles, ou l'existence de Dieu, ou la TrinitÃ©..... parce que je
+ne me sentirois pas assez fort....
+
+    Encore une fois, est-il possible que ce soit Pascal qui ne se
+    sente pas assez fort pour prouver l'existence de Dieu! V.[11]
+
+(81) C'est une chose admirable que jamais auteur canonique n'a dit:
+Il n'y a point de vide, donc il y a un Dieu.
+
+    VoilÃ  un plaisant argument: Jamais la Bible n'a dit comme
+    Descartes: Tout est plein, donc il y a un Dieu. V.
+
+(82) Ne parier point que Dieu est, c'est parier qu'il n'est pas.
+
+    Il est Ã©videmment faut de dire: Ne point parier que Dieu est,
+    c'est parier qu'il n'est pas; car celui qui doute et demande Ã 
+    s'Ã©claircir, ne parie assurÃ©ment ni pour, ni contre. D'ailleurs
+    cet article paroÃ®t un peu indÃ©cent et puÃ©ril: cette idÃ©e de jeu,
+    de perte et de gain, ne convient point Ã  la gravitÃ© du sujet. De
+    plus, l'intÃ©rÃªt que j'ai Ã  croire une chose n'est pas une preuve
+    de l'existence de cette chose. Vous me promettez l'empire du
+    monde, si je crois que vous avez raison. Je souhaite alors de
+    tout mon cÅur que vous ayez raison; mais, jusqu'Ã  ce que vous me
+    l'ayez prouvÃ©, je ne puis vous croire. Commencez, pourroit-on
+    dire Ã  Pascal, par convaincre ma raison: j'ai intÃ©rÃªt, sans
+    doute, qu'il y ait un Dieu; mais si dans votre systÃ¨me, Dieu
+    n'est venu que pour si peu de personnes, si le petit nombre des
+    Ã©lus est si effrayant, si je ne puis rien du tout par moi-mÃªme,
+    dites-moi, je vous prie, quel intÃ©rÃªt j'ai Ã  vous croire. N'ai-je
+    pas un intÃ©rÃªt visible Ã  Ãªtre persuadÃ© du contraire? De quel
+    front osez-vous me montrer un bonheur infini, auquel, d'un
+    million d'hommes, un seul Ã  peine a droit d'aspirer! Si vous
+    voulez me convaincre, prenez-vous-y d'une autre faÃ§on, et n'allez
+    pas tantÃ´t me parler de jeux de hasard, de pari, de croix et de
+    pile, et tantÃ´t m'effrayer par les Ã©pines que vous semez sur le
+    chemin que je veux et que je dois suivre. Votre raisonnement ne
+    serviroit qu'Ã  faire des athÃ©es, si la voix de toute la nature ne
+    nous crioit qu'il y a un Dieu avec autant de force que ces
+    subtilitÃ©s ont de foiblesse. V.
+
+(83) Combien y a-t-il peu de choses dÃ©montrÃ©es! Les preuves ne
+convainquent que l'esprit. La coutume fait nos preuves les plus
+fortes.
+
+    Coutume n'est pas ici le mot propre. Ce n'est pas par coutume
+    qu'on croit qu'il fera jour demain. C'est par une extrÃªme
+    probabilitÃ©. Ce n'est point par les sens, par le corps, que nous
+    nous attendons Ã  mourir; mais notre raison, sachant que tous les
+    hommes sont morts, nous convainc que nous mourrons aussi.
+    L'Ã©ducation, la coutume fait sans doute des musulmans et des
+    chrÃ©tiens, comme le dit Pascal. Mais la coutume ne fait pas
+    croire que nous mourrons, comme elle nous fait croire Ã  Mahomet
+    ou Ã  Paul, selon que nous avons Ã©tÃ© Ã©levÃ©s Ã  Constantinople ou Ã 
+    Rome. Ce sont choses fort diffÃ©rentes. V.
+
+(84) Nulle autre religion n'a jamais demandÃ© Ã  Dieu de l'aimer et de
+le suivre.
+
+    ÃpictÃ¨te esclave, et Marc-AurÃ¨le empereur, parlent
+    continuellement d'aimer Dieu et de le suivre. V.
+
+(85) Dieu Ã©tant cachÃ©, toute religion qui ne dit pas que Dieu est
+cachÃ©, n'est pas la vÃ©ritable.
+
+    Pourquoi vouloir toujours que Dieu soit cachÃ©? On aimeroit mieux
+    qu'il fÃ»t manifeste. V.
+
+(86) Il est impossible d'envisager toutes les preuves de la religion
+chrÃ©tienne, etc. _Tout cet alinÃ©a et le suivant._
+
+    Heureusement il fut dans les dÃ©crets de la divine Providence que
+    DioclÃ©tien protÃ©geÃ¢t notre sainte religion pendant dix-huit
+    annÃ©es avant la persÃ©cution commencÃ©e par Galerius, et qu'ensuite
+    Constancius-le-PÃ¢le, et enfin Constantin, la missent sur le
+    trÃ´ne. V.
+
+(87) Ils (les philosophes paÃ¯ens) n'ont jamais reconnu pour vertu ce
+que les chrÃ©tiens appellent humilitÃ©.
+
+    Platon la recommande, ÃpictÃ¨te encore davantage. V.
+
+(88) Que l'on considÃ¨re cette suite merveilleuse de prophÃ¨tes qui se
+sont succÃ©dÃ©s les uns aux autres pendant deux mille ans, etc.
+
+    Mais que l'on considÃ¨re aussi cette suite ridicule de prÃ©tendus
+    prophÃ¨tes, qui tous annoncent le contraire de JÃ©sus-Christ, selon
+    ces Juifs, qui seuls entendent la langue de ces prophÃ¨tes. V.
+
+(89) Enfin, que l'on considÃ¨re la saintetÃ© de cette religion, sa
+doctrine, qui rend raison de tout, jusqu'aux contrariÃ©tÃ©s qui se
+rencontrent dans l'homme....., et qu'on juge, aprÃ¨s tout cela, s'il
+est possible de douter que la religion chrÃ©tienne soit la seule
+vÃ©ritable, et si jamais aucune autre a rien eu qui en approchÃ¢t.
+
+    Lecteurs sages, remarquez que ce coryphÃ©e des jansÃ©nistes n'a
+    dit, dans tout ce livre sur la religion chrÃ©tienne, que ce qu'ont
+    dit les jÃ©suites. Il l'a dit seulement avec une Ã©loquence plus
+    serrÃ©e et plus mÃ¢le. Port-royalistes et Ignatiens, tous ont
+    prÃªchÃ© les mÃªmes dogmes: tous ont criÃ©, croyez aux livres juifs
+    dictÃ©s par Dieu mÃªme, et dÃ©testez le judaÃ¯sme. Chantez les
+    priÃ¨res juives que vous n'entendez point, et croyez que le peuple
+    de Dieu a condamnÃ© votre Dieu Ã  mourir Ã  une potence. Croyez que
+    votre Dieu juif, la seconde personne de Dieu, co-Ã©ternel avec
+    Dieu le pÃ¨re, est nÃ© d'une vierge juive, a Ã©tÃ© engendrÃ© par une
+    troisiÃ¨me personne de Dieu, et qu'il a eu cependant des frÃ¨res
+    juifs qui n'Ã©toient que des hommes. Croyez, qu'Ã©tant mort par le
+    supplice le plus infÃ¢me, il a par ce supplice mÃªme Ã´tÃ© de dessus
+    la terre tout pÃ©chÃ© et tout mal, quoique depuis lui et en son nom
+    la terre ait Ã©tÃ© inondÃ©e de plus de crimes et de malheurs que
+    jamais.
+
+    Les fanatiques de Port-Royal et les fanatiques jÃ©suites se sont
+    rÃ©unis pour prÃªcher ces dogmes Ã©tranges avec le mÃªme
+    enthousiasme; et en mÃªme temps ils se sont fait une guerre
+    mortelle; ils se sont mutuellement anathÃ©matisÃ©s avec fureur,
+    jusqu'Ã  ce qu'une de ces deux factions de possÃ©dÃ©s ait enfin
+    dÃ©truit l'autre.
+
+    Souvenez-vous, sages lecteurs, des temps mille fois plus
+    horribles de ces Ã©nergumÃ¨nes, nommÃ©s _papistes_ et _calvinistes_,
+    qui prÃªchoient le fond des mÃªmes dogmes, et qui se poursuivirent
+    par le fer, par la flamme et par le poison pendant deux cents
+    annÃ©es, pour quelques mots diffÃ©remment interprÃ©tÃ©s. Songez que
+    ce fut en allant Ã  la messe que l'on commit les massacres
+    d'Irlande et de la Saint-BarthÃ©lemi; que ce fut aprÃ¨s la messe,
+    et pour la messe, qu'on Ã©gorgea tant d'innocents, tant de mÃ¨res,
+    tant d'enfants dans la croisade contre les Albigeois; que les
+    assassins de tant de rois ne les ont assassinÃ©s que pour la
+    messe. Ne vous y trompez pas; les convulsionnaires qui restent
+    encore en feroient tout autant, s'ils avoient pour apÃ´tres les
+    mÃªmes tÃªtes brÃ»lantes qui mirent le feu Ã  la cervelle de Damiens.
+
+    O Pascal! voilÃ  ce qu'ont produit les querelles interminables sur
+    des dogmes, sur des mystÃ¨res qui ne pouvoient produire que des
+    querelles. Il n'y a pas un article de foi qui n'ait enfantÃ© une
+    guerre civile.
+
+    Pascal a Ã©tÃ© gÃ©omÃ¨tre et Ã©loquent; la rÃ©union de ces deux grands
+    mÃ©rites Ã©toit alors bien rare: mais il n'y joignoit pas la vraie
+    philosophie. L'auteur de l'Ã©loge indique avec adresse ce que
+    j'avance hardiment. Il vient enfin un temps de dire la vÃ©ritÃ©. V.
+
+(90) Il faut encore que la vÃ©ritable religion nous rende raison des
+Ã©tonnantes contrariÃ©tÃ©s qui s'y rencontrent.
+
+    Cette maniÃ¨re de raisonner paroÃ®t fausse et dangereuse; car la
+    fable de PromÃ©thÃ©e et de Pandore, les Androgynes de Platon, les
+    dogmes des anciens Ãgyptiens, ceux de Zoroastre, rendroient aussi
+    bien raison de ces contrariÃ©tÃ©s apparentes. La religion
+    chrÃ©tienne n'en demeurera pas moins vraie, quand mÃªme on n'en
+    tireroit pas ces conclusions ingÃ©nieuses, qui ne peuvent servir
+    qu'Ã  faire briller l'esprit. Il est nÃ©cessaire, pour qu'une
+    religion soit vraie, qu'elle soit rÃ©vÃ©lÃ©e, et point du tout
+    qu'elle rende raison de ces contrariÃ©tÃ©s prÃ©tendues; elle n'est
+    pas plus faite pour vous enseigner la mÃ©taphysique que
+    l'astronomie. V.
+
+(91) Sera-ce celle qu'enseignoient les philosophes?
+
+    Les philosophes n'ont point enseignÃ© de religion: ce n'est pas
+    leur philosophie qu'il s'agit de combattre. Jamais philosophe ne
+    s'est dit inspirÃ© de Dieu; car dÃ¨s lors il eÃ»t cessÃ© d'Ãªtre
+    philosophe, et il eÃ»t fait le prophÃ¨te. Il ne s'agit pas de
+    savoir si JÃ©sus-Christ doit l'emporter sur Aristote; il s'agit de
+    prouver que la religion de JÃ©sus-Christ est la vÃ©ritable, et que
+    celles de Mahomet, de Zoroastre, de Confucius, d'HermÃ¨s, et
+    toutes les autres, sont fausses. Il n'est pas vrai que les
+    philosophes nous aient proposÃ©, pour tout bien, un bien qui est
+    en nous. Lisez Platon, Marc-AurÃ¨le, ÃpictÃ¨te; ils veulent qu'on
+    aspire Ã  mÃ©riter d'Ãªtre rejoint Ã  la DivinitÃ© dont nous sommes
+    Ã©manÃ©s. V.
+
+(92) J'ai crÃ©Ã© l'homme saint, innocent, parfait...... mais il n'a pu
+soutenir tant de gloire sans tomber dans la prÃ©somption.
+
+    Ce furent les premiers bracmanes qui inventÃ¨rent le roman
+    thÃ©ologique de la chute de l'homme, ou plutÃ´t des anges: et cette
+    cosmogonie, aussi ingÃ©nieuse que fabuleuse, a Ã©tÃ© la source de
+    toutes les fables sacrÃ©es qui ont inondÃ© la terre. Les sauvages
+    de l'occident, policÃ©s si tard, et aprÃ¨s tant de rÃ©volutions et
+    aprÃ¨s tant de barbaries, n'ont pu en Ãªtre instruits que dans nos
+    derniers temps. Mais il faut remarquer que vingt nations de
+    l'orient ont copiÃ© les anciens bracmanes, avant qu'une de ces
+    mauvaises copies, j'ose dire la plus mauvaise de toutes, soit
+    parvenue jusqu'Ã  nous. V.
+
+(93) Si l'homme n'avoit jamais Ã©tÃ© corrompu, il jouiroit de la vÃ©ritÃ©
+et de la fÃ©licitÃ© avec assurance. Et si l'homme n'avoit jamais Ã©tÃ©
+que corrompu, il n'auroit aucune idÃ©e ni de la vÃ©ritÃ©, ni de la
+bÃ©atitude.
+
+    Il est sÃ»r, par la foi et par notre rÃ©vÃ©lation, si au-dessus des
+    lumiÃ¨res des hommes, que nous sommes tombÃ©s; mais rien n'est
+    moins manifeste par la raison. Car je voudrais bien savoir si
+    Dieu ne pouvoit pas, sans dÃ©roger Ã  sa justice, crÃ©er l'homme tel
+    qu'il est aujourd'hui; et ne l'a-t-il pas mÃªme crÃ©Ã© pour devenir
+    ce qu'il est? L'Ã©tat prÃ©sent de l'homme n'est-il pas un bienfait
+    du CrÃ©ateur? Qui vous a dit que Dieu vous en devoit davantage?
+    Qui vous a dit que votre Ãªtre exigeoit plus de connoissances et
+    plus de bonheur? Qui vous a dit qu'il en comporte davantage? Vous
+    vous Ã©tonnez que Dieu ait fait l'homme si bornÃ©, si ignorant, si
+    peu heureux; que ne vous Ã©tonnez-vous qu'il ne l'ait pas fait
+    plus bornÃ©, plus ignorant, plus malheureux? Vous vous plaignez
+    d'une vie courte et si infortunÃ©e; remerciez Dieu de ce qu'elle
+    n'est pas plus courte et plus malheureuse. Quoi donc! selon vous,
+    pour raisonner consÃ©quemment, il faudroit que tous les hommes
+    accusassent la Providence, hors les mÃ©taphysiciens qui raisonnent
+    sur le pÃ©chÃ© originel. V.
+
+(94) Cette duplicitÃ© de l'homme est si visible, qu'il y en a qui ont
+pensÃ© que nous avions deux Ã¢mes.
+
+    Cette pensÃ©e est prise entiÃ¨rement de Montaigne, ainsi que
+    beaucoup d'autres. Elle se trouve au chapitre de l'inconstance de
+    nos actions. Mais Montaigne s'explique en homme qui doute. Nos
+    diverses volontÃ©s ne sont point des contradictions de la nature,
+    et l'homme n'est point un sujet simple; il est composÃ© d'un
+    nombre innombrable d'organes. Si un seul de ces organes est un
+    peu altÃ©rÃ©, il est nÃ©cessaire qu'il change toutes les impressions
+    du cerveau, et que l'animal ait de nouvelles pensÃ©es et de
+    nouvelles volontÃ©s. Il est trÃ¨s-vrai que nous sommes, tantÃ´t
+    abattus de tristesse, tantÃ´t enflÃ©s de prÃ©somption; et cela doit
+    Ãªtre, quand nous nous trouvons dans des situations opposÃ©es. Un
+    animal, que son maÃ®tre caresse et nourrit, et un autre qu'on
+    Ã©gorge lentement et avec adresse, pour en faire une dissection,
+    Ã©prouvent des sentiments bien contraires. Ainsi faisons-nous; et
+    les diffÃ©rences qui sont en nous sont si peu contradictoires,
+    qu'il seroit contradictoire qu'elles n'existassent pas. Les fous
+    qui ont dit que nous avions deux Ã¢mes pouvoient, par la mÃªme
+    raison, nous en donner trente et quarante. Car un homme, dans une
+    grande passion, a souvent trente ou quarante idÃ©es diffÃ©rentes de
+    la mÃªme chose, et doit nÃ©cessairement les avoir, selon que cet
+    objet lui paroÃ®t sous diffÃ©rentes faces. Cette prÃ©tendue
+    duplicitÃ© de l'homme est une idÃ©e aussi absurde que mÃ©taphysique;
+    j'aimerois autant dire que le chien qui mord et qui caresse est
+    double; que la poule, qui a tant soin de ses petits, et qui
+    ensuite les abandonne jusqu'Ã  les mÃ©connoÃ®tre, est double; que la
+    glace, qui reprÃ©sente des objets diffÃ©rents, est double; que
+    l'arbre, qui est tantÃ´t chargÃ©, tantÃ´t dÃ©pouillÃ© de feuilles, est
+    double. J'avoue que l'homme est inconcevable en un sens; mais
+    tout le reste de la nature l'est aussi: et il n'y a pas plus de
+    contradictions apparentes dans l'homme que dans tout le reste. V.
+
+(95) Je vois des multitudes de religions..... mais elles n'ont ni
+morale qui me puisse plaire, ni preuves capables de m'arrÃªter.
+
+    La morale est partout la mÃªme, chez l'empereur Marc-AurÃ¨le, chez
+    l'empereur Julien, chez l'esclave ÃpictÃ¨te, que vous-mÃªme admirez
+    dans Saint-Louis et dans Bondebar son vainqueur, chez l'empereur
+    de la Chine Kien-Long, et chez le roi de Maroc. V.
+
+(96) Ils (les Juifs) soutiennent qu'il viendra un libÃ©rateur pour
+tous; qu'ils sont au monde pour l'annoncer.
+
+    Peut-on s'aveugler Ã  ce point, et Ãªtre assez fanatique pour ne
+    faire servir son esprit qu'Ã  vouloir aveugler le reste des
+    hommes! Grand Dieu! un reste d'Arabes voleurs, sanguinaires,
+    superstitieux et usuriers, seroit le dÃ©positaire de tes secrets!
+    Cette horde barbare seroit plus ancienne que les sages Chinois,
+    que les bracmanes qui ont enseignÃ© la terre, que les Ãgyptiens
+    qui l'ont Ã©tonnÃ©e par leurs immortels monuments! Cette chÃ©tive
+    nation seroit digne de nos regards pour avoir conservÃ© quelques
+    fables ridicules et atroces, quelques contes absurdes infiniment
+    au-dessous des fables indiennes et persanes! Et c'est cette horde
+    d'usuriers fanatiques qui vous en impose, Ã´ Pascal! et vous
+    donnez la torture Ã  votre esprit, vous falsifiez l'histoire, et
+    vous faites dire Ã  ce misÃ©rable peuple tout le contraire de ce
+    que ses livres ont dit! vous lui imputez tout le contraire de ce
+    qu'il a fait! et cela pour plaire Ã  quelques jansÃ©nistes qui ont
+    subjuguÃ© votre imagination ardente et perverti votre raison
+    supÃ©rieure. V.
+
+(97) Ce peuple (les Juifs), quoique si Ã©trangement abondant, est
+sorti d'un seul homme.
+
+    Il n'est point Ã©trangement abondant. On a calculÃ© qu'il n'existe
+    pas aujourd'hui six cent mille individus juifs. V.
+
+(98) Ce peuple est le plus ancien qui soit dans la connoissance des
+hommes.
+
+    Certes, ils ne sont pas antÃ©rieurs aux Ãgyptiens, aux ChaldÃ©ens,
+    aux Perses, leurs maÃ®tres; aux Indiens, inventeurs de la
+    thÃ©ologie. On peut faire comme on veut sa gÃ©nÃ©alogie. Ces vanitÃ©s
+    impertinentes sont aussi mÃ©prisables que communes: mais un peuple
+    ose-t-il se dire plus ancien que des peuples qui ont eu des
+    villes et des temples plus de vingt siÃ¨cles avant lui?
+
+(99) La loi (des Juifs) est tout ensemble la plus ancienne loi du
+monde, etc.
+
+    Il est trÃ¨s-faux que la loi des Juifs soit la plus ancienne,
+    puisque avant MoÃ¯se, leur lÃ©gislateur, ils demeuroient en Ãgypte,
+    le pays de la terre le plus renommÃ© par ses sages lois, selon
+    lesquelles les rois Ã©toient jugÃ©s aprÃ¨s la mort. Il est trÃ¨s-faux
+    que le nom de _loi_ n'ait Ã©tÃ© connu qu'aprÃ¨s HomÃ¨re; il parle des
+    lois de Minos dans _l'OdyssÃ©e_. Le mot de loi est dans HÃ©siode;
+    et quand le nom de loi ne se trouveroit ni dans HÃ©siode, ni dans
+    HomÃ¨re, cela ne prouveroit rien. Il y avoit d'anciens royaumes,
+    des rois et des juges: donc il y avoit des lois. Celles des
+    Chinois sont bien antÃ©rieures Ã  MoÃ¯se.
+
+    Il est encore trÃ¨s-faux que les Grecs et les Romains aient pris
+    des lois des Juifs. Ce ne peut Ãªtre dans les commencements de
+    leurs rÃ©publiques; car alors ils ne pouvoient connoÃ®tre les
+    Juifs. Ce ne peut Ãªtre dans le temps de leur grandeur; car alors
+    ils avoient pour ces barbares un mÃ©pris connu de toute la terre.
+    Voyez comme CicÃ©ron les traite, en parlant de la prise de
+    JÃ©rusalem par PompÃ©e. Philon avoue qu'avant la traduction imputÃ©e
+    aux Septante, aucune nation n'a connu leurs livres. V.
+
+(100) C'est une sincÃ©ritÃ© qui n'a point d'exemple dans le monde, ni
+sa racine dans la nature.
+
+    Cette sincÃ©ritÃ© a partout des exemples, et n'a sa racine que dans
+    la nature. L'orgueil de chaque Juif est intÃ©ressÃ© Ã  croire que ce
+    n'est point sa dÃ©testable politique, son ignorance des arts, sa
+    grossiÃ¨retÃ©, qui l'ont perdu; mais que c'est la colÃ¨re de Dieu
+    qui le punit: il pense, avec satisfaction, qu'il a fallu des
+    miracles pour l'abattre, et que sa nation est toujours la
+    bien-aimÃ©e du Dieu qui la chÃ¢tie. Qu'un prÃ©dicateur monte en
+    chaire, et dise aux FranÃ§ois: Â«Vous Ãªtes des misÃ©rables qui
+    n'avez ni cÅur, ni conduite; vous avez Ã©tÃ© battus Ã  Hochstet et Ã 
+    Ramillies, parce que vous n'avez pas su vous dÃ©fendreÂ», il se
+    fera lapider. Mais s'il dit: Â«Vous Ãªtes des catholiques chÃ©ris de
+    Dieu; vos pÃ©chÃ©s infÃ¢mes avoient irritÃ© l'Ãternel, qui vous livra
+    aux hÃ©rÃ©tiques Ã  Hochstet et Ã  Ramillies; et quand vous Ãªtes
+    revenus au Seigneur, alors il a bÃ©ni votre courage Ã  DenainÂ», ces
+    paroles le feront aimer de l'auditoire. V.
+
+(101) La crÃ©ation du monde commenÃ§ant Ã  s'Ã©loigner, Dieu a pourvu
+d'un historien contemporain.
+
+    Contemporain: ah! V.
+
+(102) Si MoÃ¯se eÃ»t dÃ©bitÃ© des fables, il n'y eÃ»t point eu de Juif qui
+n'en eÃ»t pu reconnoÃ®tre l'imposture.
+
+    Oui, s'il avoit Ã©crit en effet ces fables dans un dÃ©sert, pour
+    deux ou trois millions d'hommes qui eussent eu des bibliothÃ©ques.
+    Mais si quelques lÃ©vites avoient Ã©crit ces fables plusieurs
+    siÃ¨cles aprÃ¨s MoÃ¯se, comme cela est vraisemblable et vrai!....
+
+    De plus, y a-t-il une nation chez laquelle on n'ait pas dÃ©bitÃ©
+    ces fables? V.
+
+(103) Au temps oÃ¹ il Ã©crivoit ces choses, la mÃ©moire en devoit encore
+Ãªtre toute rÃ©cente dans l'esprit de tous les Juifs.
+
+    Les Ãgyptiens, Syriens, ChaldÃ©ens, Indiens, n'ont-ils pas donnÃ©
+    des siÃ¨cles de vie Ã  leurs hÃ©ros, avant que la petite horde
+    juive, leur imitatrice, existÃ¢t sur la terre? V.
+
+(104) Ce n'est pas de cette sorte que l'Ãcriture, qui connoÃ®t mieux
+que nous les choses qui sont de Dieu, en parle.
+
+    Et qu'est-ce donc que le _CÅli enarrant gloriam Dei_? V.
+
+(105) Lorsque j'ai considÃ©rÃ© d'oÃ¹ vient qu'on ajoute tant de foi Ã 
+tant d'imposteurs, etc., _et tout le reste de ce long paragraphe_.
+
+    La solution de ce problÃ¨me est bien aisÃ©e. On vit des effets
+    physiques extraordinaires; des fripons les firent passer pour des
+    miracles. On vit des maladies augmenter dans la pleine lune; et
+    des sots crurent que la fiÃ¨vre Ã©toit plus forte, parce que la
+    lune Ã©toit pleine. Un malade, qui devoit guÃ©rir, se trouva mieux
+    le lendemain qu'il eut mangÃ© des Ã©crevisses; et on conclut que
+    les Ã©crevisses purifioient le sang, parce qu'elles sont rouges
+    Ã©tant cuites.
+
+    Il me semble que la nature humaine n'a pas besoin du vrai pour
+    tomber dans le faux. On a imputÃ© mille fausses influences Ã  la
+    lune, avant qu'on imaginÃ¢t le moindre rapport vÃ©ritable avec le
+    flux de la mer. Le premier homme qui a Ã©tÃ© malade a cru sans
+    peine le premier charlatan; personne n'a vu de loups garoux ni de
+    sorciers, et beaucoup y ont cru; personne n'a vu de transmutation
+    de mÃ©taux, et plusieurs ont Ã©tÃ© ruinÃ©s par la crÃ©ance de la
+    pierre philosophale; les Romains, les Grecs, les paÃ¯ens, ne
+    croyoient-ils donc aux miracles dont ils Ã©toient inondÃ©s que
+    parce qu'ils en avoient vu de vÃ©ritables? V.
+
+(106) Commencez par plaindre les incrÃ©dules; ils sont assez
+malheureux. Il ne les faudroit injurier qu'en cas que cela servÃ®t;
+mais cela leur nuit.
+
+    Et vous les avez injuriÃ©s sans cesse. Vous les avez traitÃ©s comme
+    des jÃ©suites! Et en leur disant tant d'injures, vous convenez que
+    les vrais chrÃ©tiens ne peuvent rendre raison de leur religion;
+    que, s'ils la prouvoient, ils ne tiendroient point parole; que
+    leur religion est une sottise; que, si elle est vraie, c'est
+    parce qu'elle est une sottise. O profondeur d'absurditÃ©s! V.
+
+(107) A ceux qui ont de la rÃ©pugnance pour la religion, il faut
+commencer par leur montrer qu'elle n'est pas contraire Ã  la raison.
+
+    Ne voyez-vous pas, Ã´ Pascal! que vous Ãªtes un homme de parti qui
+    cherchez Ã  faire des recrues? V.
+
+(108) De se tromper en croyant vraie la religion chrÃ©tienne, il n'y a
+pas grand'chose Ã  perdre: mais quel malheur de se tromper en la
+croyant fausse!
+
+    Le flamen de Jupiter, les prÃªtres de CybÃ¨le, ceux d'Isis, en
+    disoient autant. Le muphti, le grand-lama, en disent autant. Il
+    faut donc examiner les piÃ¨ces du procÃ¨s. V.
+
+(109) Jamais on ne fait le mal si pleinement et si gaÃ®ment que quand
+on le fait par un faux principe de conscience.
+
+    Les crimes, regardÃ©s comme tels, font beaucoup moins de mal Ã 
+    l'humanitÃ© que cette foule d'actions criminelles qu'on commet
+    sans remords, parce que l'habitude, ou une fausse conscience,
+    nous les fait regarder comme indiffÃ©rentes, ou mÃªme comme
+    vertueuses.
+
+    1^o. Combien, depuis Constantin, n'y a-t-il pas eu de princes qui
+    ont cru servir la DivinitÃ© en tourmentant, de supplices cruels,
+    ceux de leurs sujets qui l'adoroient sous une forme diffÃ©rente!
+
+    Combien n'ont-ils pas cru Ãªtre obligÃ©s de proscrire ceux qui
+    osoient dire leur avis sur ces grands objets, qui intÃ©ressent
+    tous les hommes, et dont chaque homme semble avoir le droit de
+    dÃ©cider pour lui-mÃªme!
+
+    Combien de lÃ©gislateurs ont privÃ© des droits de citoyen quiconque
+    n'Ã©toit pas d'accord avec eux sur quelques points de leur
+    croyance, et forcÃ© des pÃ¨res de choisir entre le parjure, et
+    l'inquiÃ©tude cruelle de ne laisser Ã  leurs enfants qu'une
+    existence prÃ©caire! Et ces lois subsistent! Et les souverains
+    ignorent que chaque mal qu'elles font est un crime pour le prince
+    qui les ordonne, qui en permet l'exÃ©cution, ou qui tarde de les
+    dÃ©truire!
+
+    2^o. En ordonnant la guerre, qui n'est pas nÃ©cessaire pour la
+    sÃ»retÃ© de son peuple, un prince se rend responsable de tous les
+    maux qu'elle entraÃ®ne, et il est coupable d'autant de meurtres
+    que la guerre fait de victimes. Combien cependant de guerres
+    inutiles sont regardÃ©es comme justes, et entreprises sans
+    remords, sur de frivoles motifs d'intÃ©rÃªt politique ou de dignitÃ©
+    nationale!
+
+    3^o. C'est un usage reÃ§u en Europe, qu'un gentilhomme vende, Ã 
+    une querelle Ã©trangÃ¨re, le sang qui appartient Ã  sa patrie; qu'il
+    s'engage Ã  assassiner, en bataille rangÃ©e, qui il plaira au
+    prince qui le soudoie; et ce mÃ©tier est regardÃ© comme honorable.
+
+    4^o. Tout juge qui dÃ©cerne une peine de mort, sans y Ãªtre
+    condamnÃ© par une loi expresse, est un assassin. Ni une loi vague,
+    qui permettroit de prononcer mÃªme la mort, suivant l'Ã©chÃ©ance des
+    cas, ni ce qu'on appelle la jurisprudence des arrÃªts, ne peuvent
+    le justifier: car la permission de tuer un homme n'en donne pas
+    le droit: et c'est mal se justifier d'un meurtre, que de dire
+    qu'on est dans l'habitude d'en commettre.
+
+    Tout juge qui dÃ©cerne une peine capitale pour une action qui ne
+    blesse aucune des lois de la nature; pour une action ou
+    indiffÃ©rente, ou blÃ¢mable, mais qui n'est un crime qu'aux yeux
+    des prÃ©jugÃ©s; pour une action imaginaire enfin, se rend coupable
+    de meurtre. La loi l'oblige, dit-il, de prononcer ainsi: mais la
+    loi ne l'oblige pas d'Ãªtre juge, et la nature lui dÃ©fend d'Ãªtre
+    absurde et barbare. Il vaut mieux renoncer Ã  la charge de
+    prÃ©sident Ã  mortier qu'Ã  la qualitÃ© d'homme.
+
+    Nous oserons demander si les juges d'Anne du Bourg, de Dolet, de
+    Morin, de Petit d'HerbÃ©, des bergers de Brie, de Moriceau, de La
+    Chaux, de Lalli, de La Barre, etc., ont Ã©tÃ© fidÃ¨les Ã  ces rÃ¨gles,
+    dictÃ©es par la nature et la raison, qui sont plus anciennes et
+    plus sacrÃ©es que les registres _olim_.
+
+    5^o. Arracher des hommes de leur pays par la trahison et par la
+    violence, pour les exposer en vente dans des marchÃ©s publics,
+    comme des bÃªtes de somme; s'accoutumer Ã  ne mettre aucune
+    diffÃ©rence entre eux et les animaux; les contraindre au travail,
+    Ã  force de coups; les nourrir non pour qu'ils vivent, mais pour
+    qu'ils rapportent; les abandonner dans la vieillesse ou dans la
+    maladie, lorsque l'on n'espÃ¨re plus de regagner par leur travail
+    ce qu'il en coÃ»teroit pour les soigner; ne leur permettre d'Ãªtre
+    pÃ¨res que pour donner le jour Ã  des enfants destinÃ©s aux mÃªmes
+    misÃ¨res, devenus comme eux la propriÃ©tÃ© de leur maÃ®tre, qui peut
+    les leur arracher et les vendre; que pour voir leurs femmes et
+    leurs filles exposÃ©es Ã  toutes les insultes de ces hommes sans
+    humanitÃ© comme sans pudeur! VoilÃ  comme nous traitons d'autres
+    hommes; ce seroit une horrible barbarie si ces hommes Ã©toient
+    blancs; mais ils sont noirs, et cela change toutes nos idÃ©es. Le
+    trafiquant en AmÃ©rique oublie que les nÃ¨gres sont des hommes; il
+    n'a avec eux aucune relation morale; ils ne sont pour lui qu'un
+    objet de profit: s'il les plaint, s'il Ã©vite de leur faire
+    souffrir des maux inutiles, son insolente pitiÃ© est celle que
+    nous avons pour les animaux qui nous servent: et tel est l'excÃ¨s
+    de son mÃ©pris stupide pour cette malheureuse espÃ¨ce, que, revenu
+    en Europe, il s'indigne de les voir vÃªtus comme des hommes, et
+    placÃ©s Ã  cÃ´tÃ© de lui. Mais je n'ai pas tout dit: en vain les
+    lois, en consacrant cet usage qu'aucune loi positive ne peut
+    rendre lÃ©gitime, parce qu'il viole les droits de la nature; en
+    vain les lois ont-elles voulu mettre une borne Ã  la cruautÃ© des
+    maÃ®tres; leur ingÃ©nieuse barbarie Ã©lude toutes les lois. Le
+    colon, renfermÃ© dans sa plantation; seul avec quelques
+    satellites, au milieu de ses noirs, est sÃ»r de n'avoir que des
+    tÃ©moins dont la loi rejette le tÃ©moignage. LÃ , juge Ã  la fois et
+    partie, il prodigue en sÃ»retÃ© les tortures et les supplices; le
+    noir qu'il croit coupable est dÃ©chirÃ©, tenaillÃ©, jetÃ© vivant dans
+    des fours ardents, aux yeux de ses tristes compagnons, qui,
+    tremblant d'Ãªtre traitÃ©s comme complices, n'osent mÃªme montrer
+    une stÃ©rile pitiÃ©.
+
+    La jeune AmÃ©ricaine assiste Ã  ces supplices; elle y prÃ©side
+    quelquefois; on veut l'accoutumer de bonne heure Ã  entendre sans
+    frÃ©mir les hurlements des malheureux; on semble craindre qu'un
+    jour sa pitiÃ© ne tente de dÃ©sarmer le cÅur de son Ã©poux.
+
+    Ces crimes sont publics, la loi les tolÃ¨re, l'opinion ne les
+    flÃ©trit pas. On ose mÃªme en faire l'apologie; sans cela, dit-on,
+    nous ne pourrions avoir de sucre. Eh bien, si on ne peut en avoir
+    qu'Ã  force de crimes, il faut savoir se passer de sucre, il faut
+    renoncer Ã  une denrÃ©e souillÃ©e du sang de nos frÃ¨res. Mais qui a
+    dit qu'on ne pouvoit en avoir qu'Ã  ce prix? Quelles tentatives
+    a-t-on faites pour s'en procurer autrement? Quoi! c'est sur la
+    foi d'un prÃ©jugÃ© qu'on ne daigne pas mÃªme examiner, que la loi a
+    autorisÃ© cette horrible violation des droits de la nature, et
+    qu'on exerce ou qu'on tolÃ¨re tranquillement ces barbaries. A
+    peine quelques philosophes ont-ils osÃ© Ã©lever, de loin en loin,
+    en faveur de l'humanitÃ©, des cris que les gens en place n'ont
+    point entendus, et qu'un monde frivole a bientÃ´t oubliÃ©s.
+
+    Pourquoi ne pas faire cultiver nos colonies par des blancs? La
+    terre se plaÃ®t Ã  Ãªtre cultivÃ©e par des mains libres; et combien
+    de malheureux en Europe qui fatiguent en vain un sol stÃ©rile et
+    Ã©puisÃ©, iroient chercher en AmÃ©rique une terre fÃ©conde et
+    nouvelle! Alors, Ã  ce petit nombre de colons corrompus et
+    barbares, qui ne vivent dans nos colonies que pour avoir de l'or,
+    parce qu'en Europe la considÃ©ration s'achÃ¨te avec de l'or, nous
+    verrions succÃ©der un peuple nombreux de citoyens laborieux et
+    honnÃªtes, qui, regardant les colonies comme leur patrie,
+    sauroient combattre pour les dÃ©fendre.
+
+    Pourquoi ne pas remplir nos Ã®les de ces galÃ©riens inutiles, des
+    dÃ©serteurs, des voleurs domestiques, des faux-sauniers, qui ont
+    vendu au peuple, Ã  bas prix, une denrÃ©e nÃ©cessaire, des filles
+    qui ont mieux aimÃ© risquer leur vie que d'avouer leur honte; de
+    tant d'autres condamnÃ©s Ã  la mort par des lois que l'excÃ¨s de
+    leur sÃ©vÃ©ritÃ© rend inutiles? Ces hommes Ã  qui on distribueroit
+    des terres, devenus cultivateurs et propriÃ©taires, perdroient,
+    avec les motifs du crime, la tentation de le commettre. Est-ce
+    qu'en rendant aux nÃ¨gres les droits de l'homme, ils ne pourroient
+    pas cultiver, comme ouvriers ou comme fermiers, les mÃªmes terres
+    qu'ils cultivent comme esclaves? Ils peupleroient alors, et l'on
+    ne seroit pas obligÃ©, chaque annÃ©e, d'aller chercher en Afrique
+    de nouvelles victimes.
+
+    Et qu'on ne dise pas qu'en supprimant l'esclavage, le
+    gouvernement violeroit la propriÃ©tÃ© des colons. Comment l'usage,
+    ou mÃªme une loi positive, pourroit-elle jamais donner Ã  un homme
+    un vÃ©ritable droit de propriÃ©tÃ© sur le travail, sur la libertÃ©,
+    sur l'Ãªtre entier d'un autre homme innocent, et qui n'y a point
+    consenti? En dÃ©clarant les nÃ¨gres libres, on n'Ã´teroit pas au
+    colon sa propriÃ©tÃ©; on l'empÃªcheroit de faire un crime, et
+    l'argent qu'on a payÃ© pour un crime n'a jamais donnÃ© le droit de
+    le commettre.
+
+    On dit que les nÃ¨gres sont paresseux: veut-on qu'ils trouvent du
+    plaisir Ã  travailler pour leurs tyrans? Ils sont bas, fourbes,
+    traÃ®tres, sans mÅurs: eh bien, ils ont tous les vices des
+    esclaves, et c'est la servitude qui les leur a donnÃ©s. Rendez-les
+    libres: et plus prÃ¨s que vous de la nature, ils vaudront beaucoup
+    mieux que vous.
+
+    Ne pourroit-on pas, si on n'osoit Ãªtre juste tout-Ã -fait, changer
+    l'esclavage personnel des nÃ¨gres en un esclavage de la glÃ¨be, tel
+    que celui sous lequel gÃ©missent encore les habitants d'une partie
+    de l'Europe? L'exÃ©cution de ce projet seroit plus aisÃ©e. Le sort
+    des nÃ¨gres deviendroit plus supportable; et cet ordre politique
+    une fois bien Ã©tabli, seroit aisÃ©ment remplacÃ© par une libertÃ©
+    entiÃ¨re; il y auroit servi de degrÃ©, il adouciroit ce passage de
+    la servitude Ã  la libertÃ©, qui, sans cela, seroit peut-Ãªtre trop
+    brusque.
+
+    Sait-on si la Sardaigne, et surtout la Sicile, ne sont pas
+    propres Ã  la culture des cannes Ã  sucre, et ne suffiroient point
+    pour l'approvisionnement de l'Europe?
+
+    Et si, au lieu d'apprendre aux nÃ¨gres d'Afrique Ã  vendre leurs
+    frÃ¨res, nous leur avions appris Ã  cultiver leur sol; si, au lieu
+    de leur apporter nos liqueurs fortes, nos maladies et nos vices,
+    nous leur avions portÃ© nos lumiÃ¨res, nos arts et notre industrie,
+    croit-on que l'Afrique n'eÃ»t pas remplacÃ© nos colonies!
+    Compteroit-on pour rien l'avantage d'arracher Ã  la barbarie et Ã 
+    la misÃ¨re une des quatre parties du monde? Et quand mÃªme il n'y
+    auroit pas Ã  gagner pour tous les peuples dans un tel changement,
+    les nations ne devroient-elles pas se lasser de suivre, dans leur
+    conduite, une morale dont le particulier le plus vil rougiroit
+    d'adopter les principes?
+
+    6^o. Personne n'a jamais doutÃ© que ce ne soit un dÃ©lit grave de
+    ravager un champ cultivÃ©. Au dommage fait au propriÃ©taire se
+    joint la perte rÃ©elle d'une denrÃ©e nÃ©cessaire Ã  la subsistance
+    des hommes. Cependant il y a des pays oÃ¹ les seigneurs ont le
+    droit de faire manger par des bÃªtes fauves le blÃ© que le paysan a
+    semÃ©; oÃ¹ celui qui tueroit l'animal qui dÃ©vaste son champ seroit
+    envoyÃ© aux galÃ¨res, seroit puni de mort; car on a vu des princes
+    faire moins de cas de la vie d'un homme que du plaisir d'avoir un
+    cerf de plus Ã  faire dÃ©chirer par leurs chiens. Dans ces mÃªmes
+    pays, il y a plus d'hommes employÃ©s Ã  veiller Ã  la sÃ»retÃ© du
+    gibier qu'Ã  celle des hommes; souvent il arrive que, pour
+    dÃ©fendre des liÃ¨vres, les gardes tirent sur les paysans; et comme
+    tous les juges sont seigneurs de fiefs, il n'y a point d'exemple
+    qu'aucun de ces meurtres ait Ã©tÃ© puni. LÃ , des provinces entiÃ¨res
+    y sont rÃ©servÃ©es aux plaisirs du souverain. Les propriÃ©taires de
+    ces cantons y sont privÃ©s du droit de dÃ©fendre leur champ par un
+    enclos, ou de l'employer d'une maniÃ¨re pour laquelle cette
+    clÃ´ture seroit nÃ©cessaire. Il faut que le cultivateur laisse
+    l'herbe qu'il a semÃ©e pourrir sur terre jusqu'Ã  ce qu'un
+    garde-chasse ait dÃ©clarÃ© que les Åufs de perdrix n'ont plus rien
+    Ã  craindre, et qu'il lui est permis de faucher son herbe. Il y a
+    long-temps que ces lois subsistent; il est Ã©vident qu'elles sont
+    un attentat contre la propriÃ©tÃ©, une insulte aux malheureux, qui
+    meurent de faim au milieu d'une campagne que les sangliers et les
+    cerfs ont ravagÃ©e. Cependant aucun confesseur du roi ne s'est
+    encore avisÃ© de faire naÃ®tre Ã  son pÃ©nitent le moindre scrupule
+    sur cet objet.
+
+    7^o. Les impÃ´ts sont une portion du revenu de chaque citoyen,
+    destinÃ©e Ã  l'utilitÃ© publique. Dans toute administration bien
+    rÃ©glÃ©e, le nÃ©cessaire physique de chaque homme doit Ãªtre exempt
+    de tout impÃ´t; mais, au contraire le crÃ©dit des riches a fait
+    retomber ce fardeau sur les pauvres, dans presque tous les pays
+    oÃ¹ le peuple n'a point de reprÃ©sentant. Ainsi toute portion de
+    l'impÃ´t qui n'est point employÃ©e pour le public doit Ãªtre
+    regardÃ©e comme un vÃ©ritable vol, et comme un vol fait aux
+    pauvres. Ainsi, pour qu'un homme puisse croire avoir droit Ã 
+    cette portion, il faut qu'il puisse se rendre ce tÃ©moignage,
+    qu'il fait Ã  l'Ã©tat un bien au moins Ã©quivalent Ã  la somme qu'il
+    reÃ§oit pour salaire, ou plutÃ´t au mal que cette partie de l'impÃ´t
+    fait souffrir au peuple sur qui elle se lÃ¨ve. Cela mÃªme ne suffit
+    pas; car l'homme riche doit compte Ã  la nation de l'emploi de son
+    temps et de ses forces; ce n'est mÃªme qu'Ã  ce prix qu'il peut lui
+    Ãªtre permis de jouir d'un superflu sans travail, tandis que
+    d'autres hommes manquent souvent du nÃ©cessaire malgrÃ© un travail
+    opiniÃ¢tre. Il faut donc, pour avoir droit Ã  une part sur le
+    trÃ©sor public, que cette part soit employÃ©e, par celui qui la
+    reÃ§oit, d'une maniÃ¨re utile Ã  la nation. Si ce principe d'Ã©quitÃ©
+    naturelle n'avoit pas Ã©tÃ© Ã©touffÃ© par l'habitude, si l'opinion
+    flÃ©trissoit celui qui s'en Ã©carte, alors les impÃ´ts cesseroient
+    d'Ãªtre un fardeau pÃ©nible, le peuple respireroit, le prix de son
+    travail lui appartiendroit tout entier; et l'on ne verroit plus
+    les premiers hommes de chaque pays se dÃ©vouer uniquement au
+    mÃ©tier de corrompre les rois pour s'enrichir de la subsistance du
+    peuple.
+
+    8^o. Le souverain n'a pas le droit de rien dÃ©tourner du trÃ©sor
+    public, pour satisfaire ou ses fantaisies, ou son orgueil; ce
+    trÃ©sor n'est pas Ã  lui, il est au peuple. Une partie du superflu
+    du riche peut sans doute Ãªtre employÃ©e Ã  consoler le chef d'une
+    nation des peines du gouvernement; mais cet emploi du tribut
+    devient criminel, du moment oÃ¹ une partie de l'impÃ´t se lÃ¨ve sur
+    le peuple. Les courtisans parlent sans cesse des dÃ©penses
+    nÃ©cessaires Ã  la majestÃ© du trÃ´ne. J'ignore toutefois si la vue
+    d'un prince uniquement occupÃ© du bonheur de ses peuples, menant
+    une vie simple et frugale, sans gardes, sans appareil, sans
+    courtisans, que quelques sages livrÃ©s aux mÃªmes soins que lui;
+    j'ignore si un tel prince n'offriroit point un spectacle plus
+    attendrissant, plus imposant mÃªme que celui de la cour la plus
+    brillante, et par consÃ©quent la plus ruineuse pour la nation qui
+    la paye; mais du moins faut-il avouer qu'il est plus nÃ©cessaire Ã 
+    un peuple d'avoir du pain que d'Ã©blouir les Ã©trangers par la
+    triste reprÃ©sentation d'une cour somptueuse. Cette morale devroit
+    Ãªtre celle de tous les rois. Presque aucun cependant ne l'a
+    connue; et ceux qui ont paru s'en souvenir quelquefois dans leurs
+    discours, l'ont oubliÃ©e dans leur conduite.
+
+    9^o. L'usage d'ouvrir les lettres des citoyens, de leur arracher
+    les secrets qu'ils n'ont pas confiÃ©s, ne peut Ãªtre regardÃ© que
+    comme une violation ouverte de la foi publique. Il est clair
+    encore que cette infamie n'a aucune autre utilitÃ© que de fournir
+    un aliment Ã  la curiositÃ© du prince, ou aux petites passions des
+    ministres, et de donner au chef des espions les moyens de nuire Ã 
+    qui il veut auprÃ¨s du gouvernement. Aucun secret important ne
+    peut se connoÃ®tre par cette voie, parce que cet espionnage est
+    public, et que, si l'on confie encore quelquefois Ã  la poste des
+    rÃ©flexions ou des Ã©pigrammes, on n'y livre ni ses projets, ni ses
+    complots. Les espions rÃ©pandus dans les maisons particuliÃ¨res
+    sont un autre ressort de la police moderne, aussi infÃ¢me et aussi
+    inutile. On raconte qu'un ministre de Charles I^er d'Angleterre,
+    Falkland, dÃ©daigna de recourir Ã  aucun de ces vils moyens, que
+    jamais il n'intercepta une lettre, que jamais il n'employa un
+    espion: mais, malheureusement pour l'espÃ¨ce humaine, cet exemple
+    est unique jusqu'ici, et l'usage contraire, proscrit par la
+    raison, par l'Ã©quitÃ©, par l'honneur, subsiste presque partout; on
+    l'exerce sans remords, et mÃªme sans honte. L'opinion flÃ©trit, Ã 
+    la vÃ©ritÃ©, les espions subalternes; mais elle s'arrÃªte lÃ , et
+    elle ne dÃ©voue pas Ã  l'opprobre ceux qui les emploient, et qui,
+    calomniant la nation auprÃ¨s du prince, osent lui faire accroire
+    que ces infÃ¢mes abus du pouvoir sont des prÃ©cautions nÃ©cessaires.
+
+    J'ai choisi pour exemples des actions qui peuvent influer sur la
+    prospÃ©ritÃ© publique: et je ne les ai choisies que dans nos mÅurs.
+    J'aurais pu Ã©tendre cette liste; et si j'avois parcouru
+    l'histoire de toutes les nations, si j'avois voulu m'arrÃªter sur
+    les actions particuliÃ¨res, cette liste auroit Ã©tÃ© immense.
+
+    Cela prouve, selon moi, que, pour donner aux hommes une morale
+    bien sÃ»re et bien utile, il faut leur inspirer une horreur pour
+    ainsi dire machinale de tout ce qui nuit Ã  leurs semblables;
+    former leur Ã¢me de maniÃ¨re que le plaisir de faire du bien soit
+    le premier de tous leurs plaisirs; que le sentiment d'avoir fait
+    leur devoir soit un dÃ©dommagement suffisant de tout ce qu'il leur
+    en a pu coÃ»ter pour le remplir. Il faut allumer, dans ceux que
+    l'enthousiasme des passions peut Ã©garer, un enthousiasme pour la
+    vertu, capable de les dÃ©fendre. Alors qu'on laisse Ã  leur raison
+    le soin de juger de ce qui est juste et de ce qui est injuste, et
+    que leur conscience ne se repose pas sur un certain nombre de
+    maximes de morale, adoptÃ©es dans le pays oÃ¹ ils naissent; ou sur
+    un code dont une classe d'hommes, jalouse de rÃ©gner sur les
+    esprits, se soit rÃ©servÃ© l'interprÃ©tation. C.
+
+    On voit bien, dans cette terrible note, que le _louant_ est plus
+    vÃ©ritablement philosophe que le _louÃ©_: cet Ã©diteur Ã©crit comme
+    le secrÃ©taire de Marc-AurÃ¨le, et Pascal comme le secrÃ©taire de
+    Port-Royal. L'un semble aimer la rectitude et l'honnÃªtetÃ© pour
+    elles-mÃªmes, l'autre par esprit de parti. L'un est homme, et veut
+    rendre la nature humaine honorable; l'autre est chrÃ©tien, parce
+    qu'il est jansÃ©niste. Tous deux ont de l'enthousiasme et
+    embouchent la trompette; l'auteur des notes pour agrandir notre
+    espÃ¨ce, et Pascal pour l'anÃ©antir Pascal a peur, et il se sert de
+    toute la force de son esprit pour inspirer sa peur. L'autre
+    s'abandonne Ã  son courage, et le communique. Que puis-je
+    conclure? Que Pascal se portoit mal, et que l'autre se porte
+    bien.
+
+      Bonne ou mauvaise santÃ©
+      Fait notre philosophie. V.
+
+(110) Je crois volontiers les histoires dont les tÃ©moins se font
+Ã©gorger.
+
+    La difficultÃ© n'est pas seulement de savoir si on croira des
+    tÃ©moins qui meurent pour soutenir leur dÃ©position, comme ont fait
+    tant de fanatiques; mais encore si ces tÃ©moins sont effectivement
+    morts pour cela, si on a conservÃ© leurs dÃ©positions, s'ils ont
+    habitÃ© les pays oÃ¹ on dit qu'ils sont morts; pourquoi JosÃ¨phe, nÃ©
+    dans le temps de la mort du Christ, JosÃ¨phe, ennemi d'HÃ©rode,
+    JosÃ¨phe, peu attachÃ© au judaÃ¯sme, n'a-t-il pas dit un mot de tout
+    cela? VoilÃ  ce que Pascal eÃ»t dÃ©brouillÃ© avec succÃ¨s. V.
+
+(111) Nous naissons injustes; car chacun tend Ã  soi: cela est contre
+tout ordre.
+
+    Cela est selon tout ordre; il est aussi impossible qu'une sociÃ©tÃ©
+    puisse se former et subsister sans amour-propre, qu'il seroit
+    impossible de faire des enfants sans concupiscence, de songer Ã 
+    se nourrir sans appÃ©tit. C'est l'amour de nous-mÃªmes qui assiste
+    l'amour des autres; c'est par nos besoins mutuels que nous sommes
+    utiles au genre humain: c'est le fondement de tout commerce;
+    c'est l'Ã©ternel lien des hommes; sans lui, il n'y auroit pas eu
+    un art inventÃ©, ni une sociÃ©tÃ© de dix personnes formÃ©e. C'est cet
+    amour-propre que chaque animal a reÃ§u de la nature, qui nous
+    avertit de respecter celui des autres. La loi dirige cet
+    amour-propre, et la religion le perfectionne. Il est bien vrai
+    que Dieu auroit pu faire des crÃ©atures uniquement attentives au
+    bien d'autrui. Dans ce cas, les marchands auroient Ã©tÃ© aux Indes
+    par charitÃ©, le maÃ§on eÃ»t sciÃ© de la pierre pour faire plaisir Ã 
+    son prochain, etc. Mais Dieu a Ã©tabli les choses autrement:
+    n'accusons point l'instinct qu'il nous donne, et faisons-en
+    l'usage qu'il commande. V.
+
+(112) _Paragraphe LXXVII._
+
+    On voit ici l'homme de parti un peu emportÃ©. Si quelque chose
+    peut justifier Louis XIV d'avoir persÃ©cutÃ© les jansÃ©nistes, c'est
+    assurÃ©ment ce paragraphe. V.
+
+(113) Si mes Lettres sont condamnÃ©es Ã  Rome, ce que j'y condamne est
+condamnÃ© dans le ciel.
+
+    HÃ©las! le ciel, composÃ© d'Ã©toiles et de planÃ¨tes, dont notre
+    globe est une partie imperceptible, ne s'est jamais mÃªlÃ© des
+    querelles d'Arnauld avec la Sorbonne, et de JansÃ©nius avec
+    Molina. V.
+
+(114) S'il ne falloit rien faire que pour le certain, etc.
+
+    Vous avez Ã©puisÃ© votre esprit en arguments pour nous prouver que
+    votre religion est certaine, et maintenant vous nous assurez
+    qu'elle n'est pas certaine; et aprÃ¨s vous Ãªtre si Ã©trangement
+    contredit, vous revenez sur vos pas; vous dites qu'on ne peut
+    avancer Â«qu'il soit possible que la religion chrÃ©tienne soit
+    fausse.Â» Cependant c'est vous-mÃªme qui venez de nous dire qu'il
+    est possible qu'elle soit fausse, puisque vous avez dÃ©clarÃ©
+    qu'elle est incertaine. V.
+
+(115) Les inventions des hommes, etc.
+
+    Je voudrois qu'on examinÃ¢t quel siÃ¨cle a Ã©tÃ© le plus fÃ©cond en
+    crimes, et par consÃ©quent en malheurs. L'auteur de la fÃ©licitÃ©
+    publique a eu cet objet en vue, et a dit des choses bien vraies
+    et bien utiles. V.
+
+(116) Il faut avoir une pensÃ©e de derriÃ¨re, etc.
+
+    Sur un autre papier, Pascal avoit Ã©crit: J'aurai aussi mes
+    pensÃ©es de derriÃ¨re la tÃªte. C.
+
+    L'auteur de l'Ãloge est bien discret, bien retenu, de garder le
+    silence sur ces pensÃ©es de derriÃ¨re. Pascal et Arnauld
+    l'auroient-ils gardÃ©, s'ils avoient trouvÃ© cette maxime dans les
+    papiers d'un jÃ©suite? V.
+
+1: Dans une note Ã  ce sujet, j'ai dÃ©jÃ  essayÃ© d'interprÃ©ter
+l'intention de Pascal. J'ajouterai ici que peut-Ãªtre il n'a voulu
+qu'imiter le langage des auteurs sacrÃ©s, qui, sans prÃ©tendre rien
+dÃ©cider sur ce point, parlent suivant l'opinion commune des hommes,
+pour Ãªtre Ã©galement entendus de tous. (_Note de l'Ãditeur._)
+
+2: Il est vrai que dans les mouvements subits des grandes passions,
+on sent vers la poitrine des convulsions, des dÃ©faillances, des
+agonies, qui ont quelquefois causÃ© la mort; et c'est ce qui fait que
+presque toute l'antiquitÃ© imagina une Ã¢me dans la poitrine. Les
+mÃ©decins placÃ¨rent les passions dans le foie. Les romanciers ont mis
+l'amour dans le cÅur. V.
+
+3: C'est apparemment dans le paragraphe oÃ¹ M. de V.... s'Ã©tonne, avec
+juste raison, qu'un homme tel que Pascal ait pu dire: Â«Nous sommes
+incapables de connoÃ®tre si Dieu estÂ». Ce ne peut Ãªtre qu'une
+inadvertance dans ce grand homme[a].
+
+a: Ce n'est point une inadvertance. Pascal, comme nous l'avons dit,
+n'Ã©crivoit ses pensÃ©es que pour lui. Si Voltaire et Condorcet avoient
+saisi l'idÃ©e du dialogue contenu dans cet article III de la seconde
+partie, ils n'auroient pas pris le change sur les propositions que
+l'auteur y met en avant. (_Note de l'Ãditeur._)
+
+4: Dans un exemplaire de l'Ã©dition de Condorcet, je trouve, au lieu
+de ce _non_, le mot _modeste_ Ã©crit de la main de d'Alembert.
+J'indique cette correction qui me semble heureuse. R.
+
+5: Le plus beau seroit de ne songer ni Ã  les montrer, ni Ã  les
+cacher. C.
+
+6: L'observation de Voltaire s'appliquoit, avec raison, au passage
+tel qu'on le lit dans l'Ã©dition de Condorcet, oÃ¹ il est tronquÃ©; mais
+elle devient inutile pour la mienne, oÃ¹ ce paragraphe est rectifiÃ©,
+et conforme au manuscrit de Pascal. (_Note de l'Ãditeur._)
+
+7: Platon n'a point eu ces idÃ©es, monsieur, c'est vous qui les avez.
+Platon fit de nous des androgynes Ã  deux corps, donna des ailes Ã  nos
+Ã¢mes, et les leur Ã´ta. Platon rÃªva sublimement, comme je ne sais
+quels autres Ã©crivains ont rÃªvÃ© bassement. V.
+
+8: Il ne faut pas commencer d'un ton si impÃ©rieux. V.
+
+9: Elle seroit bien hardie. V.
+
+10: VoilÃ  une plaisante faÃ§on d'enseigner. Suivez-moi, car je marche
+dans les tÃ©nÃ¨bres. V.
+
+11: En employant les expressions mÃªmes de ces deux savants, ne
+pourroit on pas dire: _Il est Ã©trange_ que Voltaire et Condorcet se
+soient mÃ©pris Ã  ce point sur l'intention de Pascal? _Est-il possible_
+que leur mÃ©prise n'ait pas Ã©tÃ© volontaire, puisqu'un peu d'attention
+leur eÃ»t fait lire l'article comme je l'ai prÃ©sentÃ© dans cette
+Ã©dition. _Voyez_, au surplus, l'article mÃªme et ma note.
+(_L'Ãditeur._)
+
+
+NOTE DU TRANSCRIPTEUR
+
+Les erreurs typographiques suivantes ont Ã©tÃ© corrigÃ©es:
+
+  Helas a Ã©tÃ© remplacÃ© par HÃ©las
+  Editeur par Ãditeur
+  dÃ¨s par des
+  nombe par nombre
+  Nai-je par N'ai-je
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Oeuvres de Blaise Pascal, by 
+Blaise Pascal and FranÃ§ois-Marie Arouet and Marie Jean, marquis de Condorcet and FranÃ§ois de Neufchateau
+
+*** END OF THIS PROJECT GUTENBERG EBOOK OEUVRES DE BLAISE PASCAL ***
+
+***** This file should be named 29772-0.txt or 29772-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/7/7/29772/
+
+Produced by Michael Roe and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

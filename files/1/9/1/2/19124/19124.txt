@@ -1,3 +1,1426 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bfd7d54fed64657239f838f52318f3c568183f67a7cacbcd8728949d56dea4c
-size 90619
+The Project Gutenberg EBook of La princesse de Monpensier, by 
+Marie-Madeleine de La Fayette
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La princesse de Monpensier
+
+Author: Marie-Madeleine de La Fayette
+
+Release Date: August 26, 2006 [EBook #19124]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA PRINCESSE DE MONPENSIER ***
+
+
+
+
+Produced by Laurent Vogel. This file was produced from
+images generously made available by the Biblioth�que
+nationale de France (BnF/Gallica)
+
+
+
+
+
+
+
+
+
+LA PRINCESSE DE MONPENSIER.
+
+
+
+
+LE LIBRAIRE AU LECTEUR.
+
+
+_Le respect que l'on doit � l'illustre nom qui est � la teste de ce
+Livre, & la consideration que l'on doit avoir pour les �minentes
+personnes qui sont descendues de ceux qui l'ont port�, m'oblige de dire,
+pour ne pas manquer envers les uns ni les autres en donnant cette
+histoire au public, qu'elle n'a est� tir�e d'aucun Manuscrit qui nous
+soit demeur� du temps des personnes dont elle parle. L'Autheur ayant
+voulu pour son divertissement escrire des avantures invent�es � plaisir,
+a jug� plus � propos de prendre des nom connus dans nos Histoires, que
+de se servir de ceux que l'on trouve dans les Romans, croiant bien que
+la reputation de Madame de Monpensier ne seroit pas bless�e par un recit
+effectivement fabuleux. S'il n'est pas de ce sentiment, j'y suppl�e par
+cet avertissement: qui sera aussi avantageux � l'Autheur, que
+respectueux pour moy envers les Morts qui y sont interessez, & envers
+les Vivans qui pourroient y prendre part._
+
+
+
+
+PRIVILEGE DU ROY
+
+
+LOUIS PAR LA GRACE DE DIEU ROY DE FRANCE & DE NAVARRE, A nos amez &
+feaux Conseillers les gens tenans nos Cours de Parlement, Maistres des
+Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts,
+leurs Lieutenans, & � tous autres nos Justiciers & Officiers qu'il
+appartiendra: Salut. Nostre am� AUGUSTIN COURB�, Marchand Libraire de
+nostre bonne Ville de Paris, Nous a fait remonstrer qu'il auroit
+recouvert un Livre, intitul� _La Princesse de Monpensier_, lequel il
+desireroit faire imprimer; mais craignant que quelque Libraire, ou
+autres envieux de son travail, ne voulussent luy contrefaire, &
+l'imprimer, tant sur sa copie que sur d'autre; il nous a tres-humblement
+suppli� de luy accorder pour ce nos Lettres de permission & Privilege A
+CES CAUSES, voulant favorablement traiter l'Exposant; Nous luy avons
+permis & permettons d'imprimer, ou faire imprimer ledit Livre en tel
+volume qu'il jugera bon estre durant l'espace de sept ann�es, � compter
+du jour qu'il sera achev� d'estre imprim� pour la premiere fois: Faisant
+tres-expresses deffences � toutes personnes de quelque qualit� &
+condition qu'elles soient, de l'imprimer, vendre ny distribuer, sous
+pretexte de correction, changement de titre, ou autrement, en quelque
+sorte & maniere que ce soit, mesme d'en apporter, vendre & distribuer de
+ceux qui pourroient estre contrefaits �s pa�s estrangers, � peine de
+confiscation des Exemplaires contre-faits, de tous d�pens, dommages &
+interests, & de quin-cens livres d'amande, applicable � l'Hospital
+General de nostre bonne Ville de Paris; � condition qu'il sera mis deux
+exemplaires dudit Livre dans nostre Bibliotheque publique, un dans
+nostre Cabinet, & un en celle de nostre tres-cher & feal Chevalier,
+Comte de Gyen, Chancellier de France, le Sieur Seguier, avant que
+l'exposer en vente � peine de nullit� des presentes; du contenu
+desquels, Nous voulons & vous mandons que vous fassiez jouyr dans tous
+les lieux de nostre obeyssance ledit COURB�, ou ceux qui auront droict
+de luy, sans souffrir qu'il leur soit donn� aucun empeschement; & qu'en
+mettant au commencement ou � la fin dudit Livre un extrait des
+presentes, elles soient tenu�s pour bien & deu�ment signifi�es: Mandons
+au premier nostre Huissier ou Sergent sur ce requis, faire tous
+exploicts necessaires, sans demander autre permission: CAR tel est
+nostre plaisir, nonobstant oppositions ou appellations quelconques; &
+sans prejudice d'icelles, desquelles Nous Nous reservons la
+connoissance, & � nostre Conseil, nonobstant clameur de Harro, Chartre
+Normande, & autres Lettres � ce contraires. DONN� � Saint Germain, le
+vingt-septi�me jour de Juillet, l'an de Grace mil six cens
+soixante-deux: Et de nostre Regne le vingti�me, Par le Roy en son
+Conseil.
+
+Sign�,  JUSTEL.
+
+
+Et ledit COURB� a ced� & transport� son droit de Privilege � THOMAS
+JOLLY & LOUIS BILLAINE, Marchands Libraires � Paris, pour en jouyr le
+temps port� par iceluy.
+
+
+Et ledit JOLLY & BILLAINE ont associ� avec eux CHARLES DE SERCY, aussi
+Marchand Libraire � Paris.
+
+
+_Registr� sur le Livre de Communaut� le 19. Aoust 1662. suivant l'Arrest
+du Parlement du 8. Avril 1653._
+
+Les Exemplaires ont est� fournis.
+
+_Achev� d'Imprimer le 20. Aoust 1662._
+
+
+
+
+LA PRINCESSE DE MONPENSIER.
+
+
+Pendant que la Guerre Civile d�chiroit la France sous le regne de
+Charles IX. l'Amour ne laissoit pas de trouver sa place parmi tant de
+desordres, & d'en causer beaucoup dans son Empire. La fille unique du
+Marquis de Mezieres, Heritiere tres-considerable, & par ses grands
+biens, & par l'illustre Maison d'Anjou dont elle estoit descendu�,
+estoit promise au Duc du Maine, cadet du Duc de Guise, que l'on a depuis
+appell� le Balafr�. L'extr�me jeunesse de cette grande Heritiere
+retardoit son mariage. Et cependant le Duc de Guise qui la voioit
+souvent, & qui voioit en elle les commencemens d'une grande beaut�, en
+devint amoureux, & en fut aim�. Ils cacherent leur amour avec beaucoup
+de soin. Le Duc de Guise, qui n'avoit pas encore autant d'ambition qu'il
+en a eu depuis, souhaittoit ardemment de l'�pouser: mais la crainte du
+Cardinal de Lorraine, qui luy tenoit lieu de pere, l'emp�choit de se
+declarer. Les choses estoient en cet estat, lorsque la Maison de
+Bourbon, qui ne pouvoit voir qu'avec envie l'�levation de celle de
+Guise, s'apercevant de l'avantage qu'elle recevroit de ce mariage, se
+resolut de le luy oster, & d'en profiter elle-mesme en faisant �pouser
+cette Heritiere au jeune Prince de Monpensier. On travailla �
+l'execution de ce dessein avec tant de succez, que les parens de
+Mademoiselle de Mezieres, contre les promesses qu'ils avoient faites au
+Cardinal de Lorraine, se resolurent de la donner en mariage � ce jeune
+Prince. Toute la Maison de Guise fut extr�mement surprise de ce proced�:
+mais le Duc en fut accabl� de douleur; & l'interest de son amour luy fit
+recevoir ce manquement de parole comme un affront insupportable. Son
+ressentiment �clata bientost, malgr� les reprimendes du Cardinal de
+Lorraine & du Duc d'Aumale ses oncles, qui ne vouloient pas
+s'opiniastrer � une chose qu'ils voioient ne pouvoir emp�cher: & il
+s'emporta avec tant de violence, en presence mesme du jeune Prince de
+Monpensier, qu'il en n�quit entre eux une haine qui ne fin�t qu'avec
+leur vie. Mademoiselle de Mezieres tourment�e par ses parens d'�pouser
+ce Prince, voiant d'ailleurs qu'elle ne pouvoit �pouser le Duc de Guise,
+& connoissant par sa vertu qu'il estoit dangereux d'avoir pour
+Beau-frere un homme qu'elle eust souhaitt� pour Mari, se resolut enfin
+de suivre le sentiment de ses proches, & conjura Monsieur de Guise de ne
+plus apporter d'obstacle � son mariage. Elle �pousa donc le Prince de
+Monpensier, qui peu de temps apres l'emmena � Champigni, sejour
+ordinaire des Princes de sa Maison, pour l'oster de Paris, o�
+apparemment tout l'effort de la Guerre alloit tomber. Cette grande Ville
+estoit menac�e d'un siege par l'Arm�e des Huguenots, dont le Prince de
+Cond� estoit le Chef, & qui venoit de declarer la Guerre au Roy pour la
+seconde fois. Le Prince de Monpensier dans sa plus tendre jeunesse avoit
+fait une amiti� tres-particuliere avec le Comte de Chabanes, qui estoit
+un homme d'un �ge beaucoup plus avanc� que luy, & d'un merite
+extraordinaire. Ce Comte avoit est� si sensible � l'estime & � la
+confiance de ce jeune Prince, que contre les engagemens qu'il avoit avec
+le Prince de Cond�, qui luy faisoit esperer des emplois considerables
+dans le Parti des Huguenots, il se declara pour les Catholiques, ne
+pouvant se resoudre � estre oppos� en quelque chose � un homme qui luy
+estoit si cher. Ce changement de Parti n'ayant point d'autre fondement,
+l'on douta qu'il fust veritable; & la Reine Mere, Catherine de Medicis,
+en eut de si grands soup�ons, que la guerre estant declar�e par les
+Huguenots, elle eut dessein de le faire arrester: mais le Prince de
+Monpensier l'en empescha, & emmena Chabanes � Champigni en s'y en allant
+avec sa femme. Le Comte ayant l'esprit fort doux & fort agreable, gaigna
+bientost l'estime de la Princesse de Monpensier, & en peu de temps elle
+n'eut pas moins de confiance & d'amiti� pour luy qu'en avoit le Prince
+son Mari. Chabanes de son cost� regardoit avec admiration tant de
+beaut�, d'esprit, & de vertu qui paroissoient en cette jeune Princesse:
+& se servant de l'amiti� qu'elle luy t�moignoit, pour luy inspirer des
+sentimens d'une vertu extraordinaire, & digne de la grandeur de sa
+naissance, il la rendit en peu de temps une des personnes du monde la
+plus achev�e. Le Prince estant revenu � la Cour, o� la continuation de
+la guerre l'appelloit, le Comte demeura seul avec la Princesse, &
+continua d'avoir pour elle un respect & une amiti� proportionn�e � sa
+qualit� & � son merite. La confiance s'augmenta de part & d'autre, & �
+tel point du cost� de la Princesse de Monpensier, qu'elle luy apprist
+l'inclination qu'elle avoit eu� pour Monsieur de Guise; mais elle luy
+apprit aussi en mesme temps, qu'elle estoit presque �teinte, & qu'il ne
+luy en restoit que ce qui estoit necessaire pour defendre l'entr�e de
+son coeur � une autre inclination; & que la vertu se joignant � ce reste
+d'impression, elle n'estoit capable que d'avoir du m�pris pour ceux qui
+oseroient avoir de l'amour pour elle. Le Comte qui connoissoit la
+sincerit� de cette belle Princesse, & qui luy voioit d'ailleurs des
+dispositions si oppos�es � la foiblesse de la Galanterie, ne douta point
+de la verit� de ses paroles: & neantmoins il ne p�t se defendre de tant
+de charmes qu'il voioit tous les jours de si pr�s. Il devint
+passionn�ment amoureux de cette Princesse; & quelque honte qu'il
+trouvast � se laisser surmonter, il falut ceder, & l'aimer de la plus
+violente & de la plus sincere passion qui fut jamais. S'il ne fut pas
+maistre de son coeur, il le fut de ses actions. Le changement de son ame
+n'en apporta point dans sa conduite, & personne ne soup�onna son amour.
+Il pr�t un soin exact pendant une ann�e entiere de le cacher � la
+Princesse: & il crut qu'il auroit to�jours le mesme desir de le luy
+cacher. L'amour fit en luy ce qu'il fait en tous les autres: il luy
+donna l'envie de parler; & apres tous les combats qui ont accoustum� de
+se faire en pareilles occasions, il osa luy dire qu'il l'aimoit;
+s'estant bien prepar� � essuier les orages dont la fiert� de cette
+Princesse le mena�oit. Mais il trouva en elle une tranquillit� & une
+froideur pires mille fois que toutes les rigueurs � quoy il s'estoit
+attendu. Elle ne pr�t pas la peine de se mettre en cholere contre luy.
+Elle luy representa en peu de mots la difference de leurs qualitez & de
+leur �ge, la connoissance particuliere qu'il avoit de sa vertu, & de
+l'inclination qu'elle avoit eu� pour le Duc de Guise; & sur tout ce
+qu'il devoit � l'amiti� & � la confiance du Prince son Mari. Le Comte
+pensa mourir � ses pieds de honte & de douleur. Elle t�cha de le
+consoler, en l'asseurant qu'elle ne se souviendroit jamais de ce qu'il
+venoit de luy dire; qu'elle ne se persuaderoit jamais une chose qui luy
+estoit si desavantageuse; & qu'elle ne le regarderoit jamais que comme
+son meilleur ami. Ces assurances consolerent le Comte comme on se le
+peut imaginer. Il sentit le m�pris des paroles de la Princesse dans
+toute leur �tendue, & le lendemain la revoiant avec un visage aussi
+ouvert que de coustume, son affliction en redoubla de la moiti�. Le
+proced� de la Princesse ne la diminua pas. Elle vescut avec luy avec la
+mesme bont� qu'elle avoit accoustum�. Elle luy reparla, quand l'occasion
+en fit naistre le discours, de l'inclination qu'elle avoit eu� pour le
+Duc de Guise: & la Renomm�e commen�ant alors � publier les grandes
+qualitez qui paroissoient en ce Prince, elle luy avo�a qu'elle en
+sentoit de la joi�, & qu'elle estoit bien aise de voir qu'il meritoit
+les sentimens qu'elle avoit eus pour luy. Toutes ces marques de
+confiance qui avoient est� si cheres au Comte, luy devinrent
+insupportables. Il n'osoit pourtant le temoigner � la Princesse,
+quoyqu'il osast bien la faire souvenir quelquefois de ce qu'il avoit eu
+la hardiesse de luy dire. Apres deux ann�es d'absence la Paix estant
+faite, le Prince de Monpensier revint trouver la Princesse sa femme,
+tout couvert de la gloire qu'il avoit acquise au siege de Paris, & � la
+bataille de S. Denis. Il fut surpris de voir la beaut� de cette
+Princesse dans une si grande perfection; & par le sentiment d'une
+jalousie qui luy estoit naturelle, il en eut quelque chagrin, prevoiant
+bien qu'il ne seroit pas seul � la trouver belle. Il eut beaucoup de
+jo�e de revoir le Comte de Chabanes, pour qui son amiti� n'estoit point
+diminu�e. Il luy demanda confidemment des nouvelles de l'esprit & de
+l'humeur de sa femme, qui luy estoit quasi une personne inconnu�, par le
+peu de temps qu'il avoit demeur� avec elle. Le Comte avec une sincerit�
+aussi exacte que s'il n'eust point est� amoureux, dit au Prince tout ce
+qu'il connoissoit en cette Princesse capable de la luy faire aimer: & il
+avertit aussi Madame de Monpensier de toutes les choses qu'elle devoit
+faire pour achever de gaigner le coeur & l'estime de son Mari.
+
+Enfin la passion du Comte le portoit si naturellement � ne songer qu'�
+ce qui pouvoit augmenter le bonheur & la gloire de cette Princesse,
+qu'il oublioit sans peine l'interest qu'ont les amants � emp�cher que
+les personnes qu'ils aiment ne soient dans une parfaite intelligence
+avec leurs Maris. La Paix ne fit que paroistre. La Guerre recommen�a
+aussitost par le dessein qu'eut le Roy de faire arrester � Noiers le
+Prince de Cond� & l'Amiral de Chastillon: & ce dessein ayant est�
+decouvert, l'on commen�a de nouveau les preparatifs de la Guerre; & le
+Prince de Monpensier fut contraint de quitter sa femme pour se rendre o�
+son devoir l'appelloit. Chabanes le suivit � la Cour, s'estant
+entierement justifi� aupres de la Reine. Ce ne fut pas sans une douleur
+extr�me qu'il quitta la Princesse, qui de son cost� demeura fort triste
+des perils o� la Guerre alloit exposer son Mari. Les Chefs des Huguenots
+s'estoient retirez � La Rochelle. Le Poitou & la Xaintonge estant dans
+leur Parti, la Guerre s'y alluma fortement, & le Roy y r'assembla toutes
+ses Troupes. Le Duc d'Anjou son Frere, qui fut depuis Henri III. y
+acquit beaucoup de gloire par plusieurs belles actions, & entre autres
+par la bataille de Jarnac, o� le Prince de Cond� fut tu�. Ce fut dans
+cette Guerre que le Duc de Guise commen�a � avoir des emplois
+considerables, & � faire connoistre qu'il passoit de beaucoup les
+grandes esperances qu'on avoit conce�es de luy. Le Prince de Monpensier
+qui le ha�ssoit, & comme son ennemi particulier, & comme celuy de sa
+Maison, ne voioit qu'avec peine la gloire de ce Duc, aussi bien que
+l'amiti� que luy temoignoit le Duc d'Anjou. Apres que les deux arm�es se
+furent fatigu�es par beaucoup de petits combats, d'un commun
+consentement on licencia les Troupes pour quelque temps. Le Duc d'Anjou
+demeura � Loches, pour donner ordre � toutes les Places qui eussent p�
+estre attaqu�es. Le Duc de Guise y demeura avec luy; & le Prince de
+Monpensier accompagn� du Comte de Chabanes s'en retourna � Champigni,
+qui n'estoit pas fort �loign� de l�. Le Duc d'Anjou alloit souvent
+visiter les places qu'il faisoit fortifier. Un jour qu'il revenoit �
+Loches par un chemin peu connu de ceux de sa suite, le Duc de Guise qui
+se vantoit de le savoir, se mit � la teste de la Troupe pour servir de
+Guide: mais apres avoir march� quelque temps, il s'�gara, & se trouva
+sur le bord d'une petite Riviere, qu'il ne reconnut pas luy-mesme. Le
+Duc d'Anjou luy fit la guerre de les avoir si mal conduits: & estant
+arrestez en ce lieu, aussi disposez � la jo�e qu'ont accoustum� de
+l'estre de jeunes Princes, ils aperceurent un petit bateau qui estoit
+arrest� au milieu de la Riviere: & comme elle n'estoit pas large, ils
+distinguerent aisement dans ce bateau trois ou quatre Femmes: & une
+entre autres qui leur sembla fort belle, qui estoit habill�e
+magnifiquement, & qui regardoit avec attention deux Hommes qui
+peschoient aupres d'elle. Cette avanture donna une nouvelle jo�e � ces
+jeunes Princes, & � tous ceux de leur suite. Elle leur parut une chose
+de Roman. Les uns disoient au Duc de Guise, qu'il les avoit �garez
+expr�s pour leur faire voir cette belle personne; les autres, qu'il
+faloit, apres ce qu'avoit fait le hazard, qu'il en devint amoureux: & le
+Duc d'Anjou soustenoit que c'estoit luy qui devoit estre son Amant.
+Enfin, voulant pousser l'avanture � bout, ils firent avancer dans la
+Riviere de leurs Gens � cheval, le plus avant qu'il se p�t, pour crier �
+cette Dame que c'estoit monsieur d'Anjou, qui eut bien voulu passer de
+l'autre cost� de l'eau, & qui prioit qu'on le vint prendre. Cette Dame,
+qui estoit la Princesse de Monpensier, entendant dire que le Duc d'Anjou
+estoit l�, & ne doutant point � la quantit� des Gens qu'elle voioit au
+bord de l'eau, que ce ne fust luy, f�t avancer son bateau pour aller du
+cost� o� il estoit. Sa bonne mine le luy f�t bientost distinguer des
+autres. Mais elle distingua encore plustost le Duc de Guise. Sa veu� luy
+apporta un trouble qui la fit un peu rougir, & qui la fit paroistre aux
+yeux de ces Princes dans une beaut� qu'ils crurent surnaturelle. Le Duc
+de Guise la reconnut d'abord, malgr� le changement avantageux qui
+s'estoit fait en elle depuis les trois ann�es qu'il ne l'avoit ve�e. Il
+dit au Duc d'Anjou qui elle estoit, qui fut honteux d'abord de la
+libert� qu'il avoit prise: mais voiant Madame de Monpensier si belle, &
+cette avanture luy plaisant si fort, il se resolut de l'achever: & apres
+mille excuses & mille complimens, il inventa une affaire considerable,
+qu'il disoit avoir au del� de la Riviere, & accepta l'offre qu'elle luy
+f�t de le passer dans son bateau. Il y entra seul avec le Duc de Guise,
+donnant ordre � tous ceux qui les suivoient d'aller passer la Riviere �
+un autre endroit & de les venir joindre � Champigni, que Madame de
+Monpensier leur d�t qui n'estoit qu'� deux lieu�s de l�. Sitost qu'ils
+furent dans le bateau, le Duc d'Anjou luy demanda � quoy ils devoient
+une si agreable rencontre, & ce qu'elle faisoit au milieu de la Riviere.
+Elle luy repondit, qu'estant partie de Champigni avec le Prince son
+Mari, dans le dessein de le suivre � la Chasse, s'estant trouv�e trop
+lasse, elle estoit venu� sur le bord de la Riviere, o� la curiosit� de
+voir prendre un Saumon qui avoit donn� dans un filet, l'avoit fait
+entrer dans ce bateau. Monsieur de Guise ne se m�loit point dans la
+conversation: mais sentant reveiller vivement dans son coeur tout ce que
+cette Princesse y avoit autrefois fait naistre, il pensoit en luy-mesme
+qu'il sortiroit difficilement de cette avanture sans rentrer dans ses
+liens. Ils arriverent bientost au bord, o� ils trouverent les chevaux &
+les Escuiers de Madame de Monpensier, qui l'attendoient. Le Duc d'Anjou
+& le Duc de Guise luy aiderent � monter � cheval, o� elle se tenoit avec
+une grace admirable. Pendant tout le chemin elle les entretint
+agreablement de diverses choses. Ils ne furent pas moins surpris des
+charmes de son esprit, qu'ils l'avoient est� de sa beaut�; & ils ne
+p�rent s'emp�cher de luy faire connoistre qu'ils en estoient
+extraordinairement surpris. Elle r�pondit � leurs lo�anges avec toute la
+modestie imaginable: mais un peu plus froidement � celles du Duc de
+Guise; voulant garder une fiert� qui l'emp�chast de fonder aucune
+esperance sur l'inclination qu'elle avoit eu� pour luy. En arrivant dans
+la premiere cour de Champigni, ils trouverent le Prince de Monpensier,
+qui ne faisoit que de revenir de la chasse. Son estonnement fut grand de
+voir marcher deux Hommes � cost� de sa femme: mais il fut extr�me, quand
+s'approchant de plus pr�s, il reconnut que c'estoit le Duc d'Anjou, & le
+Duc de Guise. La haine qu'il avoit pour le dernier se joignant � sa
+jalousie naturelle, luy f�t trouver quelque chose de si desagreable �
+voir ces Princes aveque sa femme, sans savoir comment ils s'y estoient
+trouvez, ni ce qu'ils venoient faire en sa maison, qu'il ne p�t cacher
+le chagrin qu'il en avoit. Il en rejetta adroitement la cause sur la
+crainte de ne pouvoir recevoir un si grand Prince selon sa qualit�, &
+comme il l'eust bien souhaitt�. Le Comte de Chabanes avoit encore plus
+de chagrin de voir Monsieur de Guise aupr�s de Madame de Monpensier, que
+Monsieur de Monpensier n'en avoit luy-mesme. Ce que le hazard avoit fait
+pour r'assembler ces deux personnes, luy sembloit de si mauvais augure,
+qu'il pronostiquoit aisement que ce commencement de Roman ne seroit pas
+sans suite. Madame de Monpensier f�t le soir les honneurs de chez elle
+avec le mesme agr�ment qu'elle faisoit toutes choses. Enfin elle ne pl�t
+que trop � ses Hostes. Le Duc d'Anjou, qui estoit fort galand & fort
+bien fait, ne p�t voir une fortune si digne de luy sans la souhaitter
+ardemment. Il fut touch� du mesme mal que Monsieur de Guise: & feignant
+to�jours des affaires extraordinaires, il demeura deux jours �
+Champigni, sans estre oblig� d'y demeurer que par les charmes de Madame
+de Monpensier; le Prince son Mari ne faisant point de violence pour l'y
+retenir. Le Duc de Guise ne partit pas sans faire entendre � Madame de
+Monpensier qu'il estoit pour elle, ce qu'il avoit est� autrefois: &
+comme sa passion n'avoit est� seu� de personne, il luy d�t plusieurs
+fois devant tout le monde, sans estre entendu que d'elle, que son coeur
+n'estoit point chang�. Et luy & le Duc d'Anjou partirent de Champigni
+avec beaucoup de regret. Ils marcherent long temps tous deux dans un
+profond silence. Mais enfin le Duc d'Anjou s'imaginant tout d'un coup
+que ce qui faisoit sa resverie, pouvoit bien causer celle du Duc de
+Guise, luy demanda brusquement s'il pensoit aux beautez de la Princesse
+de Monpensier. Cette demande si brusque, jointe � ce qu'avoit d�ja
+remarqu� le Duc de Guise des sentimens du Duc d'Anjou, luy f�t voir
+qu'il seroit infailliblement son Rival; & qu'il luy estoit
+tres-important de ne pas d�couvrir son amour � ce Prince. Pour luy en
+oster tout soup�on, il luy respondit en riant, qu'il paroissoit
+luy-mesme si occup� de la resverie dont il l'accusoit, qu'il n'avoit pas
+jug� � propos de l'interrompre: que les beautez de la Princesse de
+Monpensier n'estoient pas nouvelles pour luy; qu'il s'estoit accoustum�
+� en supporter l'�clat du temps qu'elle estoit destin�e � estre sa
+Belle-soeur; mais qu'il voioit bien que tout le monde n'en estoit pas si
+peu �blo�i. Le Duc d'Anjou luy avo�a qu'il n'avoit encore rien veu qui
+luy par�t comparable � cette jeune Princesse; & qu'il sentoit bien que
+sa veu� luy pourroit estre dangereuse, s'il y estoit souvent expos�. Il
+voulut faire convenir le Duc de Guise qu'il sentoit la mesme chose: mais
+ce Duc, qui commen�oit � se faire une affaire serieuse de son amour,
+n'en voulut rien avo�er. Ces Princes s'en retournerent � Loches, faisant
+souvent leur agreable conversation de l'avanture, qui leur avoit
+d�couvert la Princesse de Monpensier. Ce ne fut pas un sujet de si grand
+divertissement dans Champigni. Le Prince de Monpensier estoit mal
+content de tout ce qui estoit arriv�, sans qu'il en p�t dire le sujet.
+Il trouvoit mauvais que sa femme se fust trouv�e dans ce bateau. Il luy
+sembloit qu'elle avoit receu trop agreablement ces Princes: & ce qui luy
+d�plaisoit le plus, estoit d'avoir remarqu� que le Duc de Guise l'avoit
+regard�e attentivement. Il en conceut d�s ce moment une jalousie
+furieuse, qui le f�t resouvenir de l'emportement qu'il avoit temoign�
+lors de son mariage; & il eut quelque pens�e que d�s ce temps-l� mesme
+il en estoit amoureux. Le chagrin que tous ces soup�ons luy causerent,
+donnerent de mauvaises heures � la Princesse de Monpensier. Le Comte de
+Chabanes, selon sa coustume, pr�t soin d'empescher qu'ils ne se
+bro�illassent tout � fait; afin de persuader par l� � la Princesse,
+combien la passion qu'il avoit pour elle estoit sincere &
+des-interess�e. Il ne p�t s'empescher de luy demander l'effet qu'avoit
+produit en elle la veu� du Duc de Guise. Elle luy appr�t qu'elle en
+avoit est� troubl�e, par la honte du souvenir de l'inclination qu'elle
+luy avoit autrefois temoign�e: qu'elle l'avoit trouv� beaucoup mieux
+fait qu'il n'estoit en ce temps-l�; & que mesme il luy avoit paru qu'il
+vouloit luy persuader qu'il l'aimoit encore: mais elle l'assura en mesme
+temps, que rien ne pouvoit esbranler la resolution qu'elle avoit prise
+de ne s'engager jamais. Le Comte de Chabanes eut bien de la jo�e
+d'apprendre cette resolution: mais rien ne le pouvoit rassurer sur le
+Duc de Guise. Il temoigna � la Princesse qu'il apprehendoit extr�mement
+que les premieres impressions ne revinssent bientost: & il luy f�t
+comprendre la mortelle douleur qu'il auroit pour leur interest commun,
+s'il la voioit un jour changer de sentimens. La Princesse de Monpensier
+continuant to�jours son proced� avec luy, ne respondoit presque pas � ce
+qu'il luy disoit de sa passion; & ne consideroit to�jours en luy que la
+qualit� du meilleur Ami du monde, sans luy vouloir faire l'honneur de
+prendre garde � celle d'Amant.
+
+Les Arm�es estant remises sur pied, tous les Princes y retournerent: &
+le Prince de Monpensier trouva bon que sa femme s'en vint � Paris, pour
+n'estre plus si proche des lieux o� se faisoit la Guerre. Les huguenots
+assiegerent la Ville de Poitiers. Le Duc de Guise s'y jetta pour la
+deffendre; & il y f�t des actions qui suffiroient seules pour rendre
+glorieuse une autre vie que la sienne. En suite la Bataille de
+Moncontour se donna. Le Duc d'Anjou, apres avoir pris Saint Jean
+d'Ang�ly, tomba malade, & quitta en mesme temps l'Arm�e; soit par la
+violence de son mal, soit par l'envie qu'il avoit de revenir go�ter le
+repos & les douceurs de Paris, o� la presence de la Princesse de
+Monpensier n'estoit pas la moindre raison qui luy attirast. L'Arm�e
+demeura sous le commandement du Prince de Monpensier: & peu de temps
+apres la Paix estant faite, toute la Cour se trouva � Paris. La beaut�
+de la Princesse effa�a toutes celles qu'on avoit admir�es jusques alors.
+Elle attira les yeux de tout le monde, par les charmes de son esprit &
+de sa personne. Le Duc d'Anjou ne changea pas � Paris les sentimens
+qu'il avoit conceus pour elle � Champigni. Il prit un soin extr�me de le
+luy faire connoistre par toutes sortes de soins: prenant garde toutefois
+� ne luy en pas rendre des temoignages trop �clatans, de peur de donner
+de la jalousie au Prince son Mari. Le Duc de Guise acheva d'en devenir
+violamment amoureux: & voulant par plusieurs raisons tenir sa passion
+cach�e, il se resolut de la luy declarer d'abord, afin de s'espargner
+tous ces commencemens, qui font to�jours naistre le bruit & l'�clat.
+Estant un jour chez la Reine � une heure o� il y avoit tres-peu de
+monde, la Reine s'estant retir�e pour parler d'affaires avec le Cardinal
+de Lorraine, la Princesse de Monpensier y arriva. Il se resolut de
+prendre ce moment pour luy parler: & s'approchant d'elle; Je vais vous
+surprendre, Madame, luy-dit-il, & vous d�plaire, en vous apprenant que
+j'ay to�jours conserv� cette passion qui vous a est� connu� autrefois;
+mais qui s'est si fort augment�e en vous revoiant, que ni vostre
+severit�, ni la haine de Monsieur le Prince de Monpensier, ni la
+concurrence du premier Prince du Royaume, ne sauroient luy oster un
+moment de sa violence. Il auroit est� plus respectueux de vous la faire
+connoistre par mes actions, que par mes paroles: mais, Madame, mes
+actions l'auroient apprise � d'autres aussi bien qu'� vous; & je
+souhaitte que vous sachiez seule que je suis assez hardi pour vous
+adorer. La Princesse fut d'abord si surprise & si troubl�e de ce
+discours, qu'elle ne songea pas � l'interrompre: mais en suite estant
+revenu� � elle, & commen�ant � luy repondre, le Prince de Monpensier
+entra. Le trouble & l'agitation estoient peints sur le visage de la
+Princesse. La veu� de son Mari acheva de l'embarrasser: de sorte qu'elle
+luy en laissa plus entendre, que le Duc de Guise ne luy en venoit de
+dire. La Reine sortit de son cabinet; & le Duc se retira pour guerir la
+jalousie de ce Prince. La Princesse de Monpensier trouva le soir dans
+l'esprit de son Mari tout le chagrin imaginable. Il s'emporta contre
+elle avec des violences �pouvantables; & luy deffendit de parler jamais
+au Duc de Guise. Elle se retira bien triste dans son appartement, & bien
+occup�e des avantures qui luy estoient arriv�es ce jour-l�. Le jour
+suivant elle revit le Duc de Guise chez la Reine: mais il ne l'aborda
+pas; & se contenta de sortir un peu apres elle, pour luy faire voir
+qu'il n'y avoit que faire quand elle n'y estoit pas. Il ne se passoit
+point de jour qu'elle ne receust mille marques cach�es de la passion de
+ce Duc, sans qu'il essayast de luy en parler, que lors qu'il ne pouvoit
+estre veu de personne. Comme elle estoit bien persuad�e de cette
+passion, elle commen�a, nonobstant toutes les resolutions qu'elle avoit
+faites � Champigni, � sentir dans le fonds de son coeur quelque chose de
+ce qui y avoit est� autrefois. Le Duc d'Anjou de son cost� n'oublioit
+rien pour luy temoigner son amour en tous les lieux o� il la pouvoit
+voir, & il la suivoit continuellement chez la Reine sa Mere. La
+Princesse sa soeur, de qui il estoit aim�, en estoit trait�e avec une
+rigueur capable de guerir toute autre passion que la sienne. On
+d�couvrit en ce temps l� que cette Princesse, qui fut depuis la Reine de
+Navarre, eut quelque attachement pour le Duc de Guise: & ce qui le f�t
+d�couvrir davantage, fut le refroidissement qui parut du Duc d'Anjou
+pour le Duc de Guise. La Princesse de Monpensier appr�t cette nouvelle,
+qui ne luy fut pas indifferente; & qui luy f�t sentir qu'elle prenoit
+plus d'interest au Duc de Guise qu'elle ne pensoit. Monsieur de
+Monpensier son Beau-pere, �pousant alors Madamoiselle de Guise, soeur de
+ce Duc, elle estoit contrainte de le voir souvent, dans les lieux o� les
+ceremonies des Nopces les appelloient l'un & l'autre. La Princesse de
+Monpensier ne pouvant plus souffrir qu'un homme que toute la France
+croioit amoureux de Madame, osast luy dire qu'il l'estoit d'elle: & se
+sentant offens�e, & quasi afflig�e de s'estre tromp�e elle-mesme; un
+jour que le Duc de Guise la rencontra chez sa soeur un peu �loign�e des
+autres, & qu'il luy voulut parler de sa passion, elle l'interrompit
+brusquement, & luy d�t d'un ton de voix qui marquoit sa colere: Je ne
+comprens pas qu'il faille sur le fondement d'une foiblesse, dont on a
+est� capable � treize ans, avoir l'audace de faire l'amoureux d'une
+personne comme moi; & sur tout quand on l'est d'une autre � la veu� de
+toute la Cour. Le Duc de Guise qui avoit beaucoup d'esprit, & qui estoit
+fort amoureux, n'eut besoin de consulter personne, pour entendre tout ce
+que signifioient les paroles de la Princesse. Il luy respondit avec
+beaucoup de respect: J'avo�e, Madame, que j'ay eu tort de ne pas
+m�priser l'honneur d'estre Beau-frere de mon Roy, plutost que de vous
+laisser soup�onner un moment, que je pouvois desirer un autre coeur que
+le vostre: mais si vous voulez me faire la grace de m'�couter, je suis
+asseur� de me justifier aupr�s de vous. La Princesse de Monpensier ne
+repondit point; mais elle ne s'�loigna pas: & le Duc de Guise voiant
+qu'elle luy donnoit l'audiance qu'il souhaittoit, luy appr�t que sans
+s'estre attir� les bonnes graces de Madame par aucun soin, elle l'en
+avoit honor�: que n'ayant nulle passion pour elle, il avoit tres-mal
+repondu � l'honneur qu'elle luy faisoit, jusques � ce qu'elle luy eust
+donn� quelque esperance de l'�pouser. Qu'� la verit� la grandeur o� ce
+mariage pouvoit l'�lever, l'avoit oblig� de luy rendre plus de devoirs:
+& que c'estoit ce qui avoit donn� lieu au soup�on qu'en avoit eu le Roy
+& le Duc d'Anjou: que l'opposition de l'un ni de l'autre ne le
+dissuadoient pas de son dessein; mais que si ce dessein luy deplaisoit,
+il l'abandonnoit d�s l'heure mesme, pour n'y penser de sa vie. Le
+sacrifice que le Duc de Guise faisoit � la Princesse, luy f�t oublier
+toute la rigueur & toute la colere avec laquelle elle avoit commenc� de
+luy parler. Elle changea de discours, & se mit � l'entretenir de la
+foiblesse qu'avoit eu� Madame de l'aimer la premiere, & de l'avantage
+considerable qu'il recevroit en l'�pousant. Enfin, sans rien dire
+d'obligeant au Duc de Guise, elle luy f�t revoir mille choses agreables,
+qu'il avoit trouv�es autrefois en Mademoiselle de Meziere. Quoy qu'ils
+ne se fussent point parl� depuis long-temps, ils se trouverent
+accoustumez l'un � l'autre: & leurs coeurs se remirent aisement dans un
+chemin qui ne leur estoit pas inconnu. Ils finirent cette agreable
+conversation, qui laissa une sensible jo�e dans l'esprit du Duc de
+Guise. La Princesse n'en eut pas une petite de connoistre qu'il l'aimoit
+veritablement. Mais quand elle fut dans son cabinet, quelles reflexions
+ne f�t-elle point sur la honte de s'estre laiss�e fl�chir si aisement
+aux excuses du Duc de Guise? sur l'embarras o� elle s'alloit plonger en
+s'engageant dans une chose qu'elle avoit regard�e avec tant d'horreur, &
+sur les effroiables malheurs, o� la jalousie de son Mari la pouvoit
+jetter? Ces pens�es luy firent faire de nouvelles resolutions, mais qui
+se dissiperent d�s le lendemain par la veu� du Duc de Guise. Il ne
+manquoit point de luy rendre un compte exact de ce qui se passoit entre
+Madame & luy. La nouvelle alliance de leurs Maisons luy donnoit occasion
+de luy parler souvent. Mais il n'avoit pas peu de peine � la guerir de
+la jalousie que luy donnoit la beaut� de Madame, contre laquelle il n'y
+avoit point de serment qui la pust rassurer. Cette jalousie servoit � la
+Princesse de Monpensier � deffendre le reste de son coeur contre les
+soins du Duc de Guise, qui en avoit d�ja gaign� la plus grande partie.
+Le mariage du Roy avec la fille de l'Empereur Maximilien remplit la Cour
+de festes & de r�jo�issances. Le Roy f�t un Ballet, o� dansoit Madame, &
+toutes les Princesses. La Princesse de Monpensier pouvoit seule luy
+disputer le prix de la beaut�. Le Duc d'Anjou dansoit une Entr�e de
+Maures; & le Duc de Guise, avec quatre autres, estoit de son Entr�e.
+Leurs habits estoient tous pareils, comme le sont d'ordinaire les habits
+de ceux qui dansent une mesme Entr�e. La premiere fois que le Ballet se
+dansa, le Duc de Guise devant que de danser, n'ayant pas encore son
+masque, d�t quelques mots en passant � la Princesse de Monpensier. Elle
+s'aperceut bien que le Prince son Mari y avoit pris garde: ce qui la mit
+en inquietude. Quelque temps apres voiant le Duc d'Anjou avec son masque
+& son habit de Maure, qui venoit pour luy parler, troubl�e de son
+inquietude, elle crut que c'estoit encore le Duc de Guise: &
+s'approchant de luy, N'ayez des yeux ce soir que pour Madame, luy
+dit-elle: Je n'en serez point jalouse: Je vous l'ordonne: On m'observe
+Ne m'approchez plus. Elle se retira sitost qu'elle eut achev� ces
+paroles. Le Duc d'Anjou en demeura accabl� comme d'un coup de tonnerre.
+Il vit dans ce moment qu'il avoit un Rival aim�. Il compr�t par le nom
+de Madame, que ce Rival estoit le Duc de Guise: & il ne put douter que
+la Princesse sa Soeur ne fust le sacrifice qui avoit rendu la Princesse
+de Monpensier favorable aux voeux de son Rival. La jalousie, le depit, &
+la rage se joignant � la haine qu'il avoit d�ja pour luy, firent dans
+son ame tout ce qu'on peut imaginer de plus violent; & il eut donn� sur
+l'heure quelque marque sanglante de son desespoir, si la dissimulation
+qui luy estoit naturelle, ne f�t venue � son secours, & ne l'eust oblig�
+par des raisons puissantes, en l'estat qu'estoient les choses, � ne rien
+entreprendre contre le Duc de Guise. Il ne put toutefois se refuser le
+plaisir de luy apprendre, qu'il savoit le secret de son amour: &
+l'abordant en sortant de la salle, o� l'on avoit dans�: C'est trop, luy
+d�t-il, d'oser lever les yeux jusques � ma Soeur, & de m'oster ma
+Maistresse. La consideration du Roy m'empesche d'�clater: mais
+souvenez-vous que la perte de vostre vie sera peut-estre la moindre
+chose dont je puniray quelque jour vostre temerit�. La fiert� du Duc de
+Guise n'estoit pas accoustum�e � de telles menaces. Il ne put neanmoins
+y r�pondre, parceque le Roy, qui sortoit en ce moment, les appella tous
+deux: mais elles graverent dans son coeur un desir de vangeance, qu'il
+travailla toute sa vie � satisfaire. D�s le mesme soir le Duc d'Anjou
+luy rendit toutes sortes de mauvais offices aupr�s du Roy. Il luy
+persuada que jamais Madame ne consentiroit d'estre mari�e avec le Roy de
+Navarre, avec qui on proposoit de la marier, tant que l'on souffriroit
+que le Duc de Guise l'approchast: & qu'il estoit honteux de souffrir
+qu'un de ses Sujets, pour satisfaire � sa vanit�, apportast de
+l'obstacle � une chose qui devoit donner la Paix � la France. Le Roy
+avoit d�ja assez d'aigreur contre le Duc de Guise. Ce discours
+l'augmenta si fort, que le voiant le lendemain comme il se presentoit
+pour entrer au Bal chez la Reine, par� d'un nombre infini de pierreries,
+mais plus par� encore de sa bonne mine, il se m�t � l'entr�e de la
+porte, & luy demanda brusquement o� il alloit. Le Duc, sans s'estonner,
+luy d�t, qu'il venoit pour luy rendre ses tres-humbles services: � quoy
+le Roy repliqua qu'il n'avoit pas besoin de ceux qu'il luy rendoit; & se
+tourna, sans le regarder. Le Duc de Guise ne laissa pas d'entrer dans la
+Salle, outr� dans le coeur, & contre le Roy, & contre le Duc d'Anjou.
+Mais sa douleur augmenta sa fiert� naturelle; & par une maniere de depit
+il s'approcha beaucoup plus de Madame qu'il n'avoit accoustum�: joint
+que ce que luy avoit dit le Duc d'Anjou de la Princesse de Monpensier,
+l'empeschoit de jetter les yeux sur elle. Le Duc d'Anjou les observoit
+soigneusement l'un & l'autre. Les yeux de cette Princesse laissoient
+voir malgr� elle quelque chagrin, lors que le Duc de Guise parloit �
+Madame. Le Duc d'Anjou, qui avoit compris par ce qu'elle luy avoit dit
+en le prenant pour M^r. de Guise, qu'elle avoit de la jalousie, espera
+de les bro�iller; & se mettant aupr�s d'elle, C'est pour vostre
+interest, Madame, plutost que pour le mien, luy d�t-il, que je m'en vais
+vous apprendre que le Duc de Guise ne merite pas que vous l'ayez choisi
+� mon prejudice. Ne m'interrompez point, je vous prie, pour me dire le
+contraire d'une verit� que je ne say que trop. Il vous trompe, Madame, &
+vous sacrifie � ma Soeur, comme il vous l'a sacrifi�e. C'est un homme
+qui n'est capable que d'ambition: mais puis qu'il a eu le bonheur de
+vous plaire, c'est assez. Je ne m'opposeray point � une fortune que je
+meritois sans doute mieux que luy. Je m'en rendrois indigne, si je
+m'opini�trois davantage � la conqueste d'un coeur qu'un autre possede.
+C'est trop de n'avoir p� attirer que vostre indifference. Je ne veux pas
+y faire succeder la haine, en vous importunant plus long temps de la
+plus fidelle passion qui fut jamais. Le Duc d'Anjou, qui estoit
+effectivement touch� d'amour & de douleur, put � peine achever ces
+paroles: & quoy qu'il eust commenc� son discours dans un esprit de depit
+& de vangeance, il s'attendrit, en considerant la beaut� de la
+Princesse, & la perte qu'il faisoit en perdant l'esperance d'en estre
+aim�. De sorte que sans attendre sa reponse, il sortit du Bal, feignant
+de se trouver mal, & s'en alla chez luy resver � son malheur. La
+Princesse de Monpensier demeura afflig�e & troubl�e, comme on se le peut
+imaginer. Voir sa reputation & le secret de sa vie entre les mains d'un
+Prince qu'elle avoit maltrait�, & apprendre par luy, sans pouvoir en
+douter, qu'elle estoit tromp�e par son Amant, estoient des choses peu
+capables de luy laisser la libert� d'esprit que demandoit un lieu
+destin� � la jo�e. Il falut pourtant demeurer en ce lieu, & aller souper
+en suite chez la Duchesse de Monpensier sa Belle-mere, qui l'emmena avec
+elle. Le Duc de Guise, qui mouroit d'impatience de luy conter ce que luy
+avoit dit le Duc d'Anjou le jour precedent, la suivit chez sa Soeur.
+Mais quel fut son estonnement, lors que voulant entretenir cette belle
+Princesse, il trouva qu'elle ne luy parloit que pour luy faire des
+reproches �pouvantables: & le depit luy faisoit faire ces reproches si
+confus�ment, qu'il n'y pouvoit rien comprendre, sinon qu'elle l'accusoit
+d'infidelit� & de trahison. Accabl� de desespoir de trouver une si
+grande augmentation de douleur, o� il avoit esper� de se consoler de
+tous ses ennuis; & aimant cette Princesse avec une passion qui ne
+pouvoit plus le laisser vivre dans l'incertitude d'en estre aim�, il se
+determina tout d'un coup. Vous serez satisfaite, Madame, luy d�t-il. Je
+m'en vais faire pour vous ce que toute la puissance Royalle n'auroit p�
+obtenir de moy. Il m'en coustera ma fortune: mais c'est peu de chose
+pour vous satisfaire. Sans demeurer davantage chez la Duchesse sa Soeur,
+il s'en alla trouver � l'heure mesme les Cardinaux, ses Oncles; & sur le
+pretexte du mauvais traitement qu'il avoit receu du Roy, il leur f�t
+voir une si grande necessit� pour sa fortune � faire paroistre qu'il
+n'avoit aucune pens�e d'espouser Madame, qu'il les obligea � conclure
+son mariage avec la Princesse de Portien, duquel on avoit d�ja parl�. La
+nouvelle de ce mariage fut aussi tost seu� par tout Paris. Tout le monde
+fut surpris, & la Princesse de Monpensier en fut touch�e de jo�e & de
+douleur. Elle fut bien aise de voir par l� le pouvoir qu'elle avoit sur
+le Duc de Guise: & elle fut fach�e en mesme temps de luy avoir fait
+abandonner une chose aussi avantageuse que le mariage de Madame. Le Duc
+de Guise, qui vouloit au moins que l'Amour le recompensast de ce qu'il
+perdoit du cost� de la Fortune, pressa la Princesse de luy donner une
+audiance particuliere, pour s'�claircir des reproches injustes qu'elle
+luy avoit faits. Il obtint qu'elle se trouveroit chez la Duchesse de
+Monpensier sa Soeur � une heure que cette Duchesse n'y seroit pas, &
+qu'il pourroit l'entretenir en particulier. Le Duc de Guise eut la jo�e
+de se pouvoir jetter � ses pieds, de luy parler en libert� de sa
+passion, & de luy dire ce qu'il avoit souffert de ses soup�ons. La
+Princesse ne pouvoit s'oster de l'esprit ce que luy avoit dit le Duc
+d'Anjou, quoy que le proced� du Duc de Guise la dust absolument
+rassurer. Elle luy appr�t le juste sujet qu'elle avoit de croire qu'il
+l'avoit trahie; puis que le Duc d'Anjou savoit ce qu'il ne pouvoit avoir
+appris que de luy. Le Duc de Guise ne savoit par o� se deffendre, &
+estoit aussi embarrass� que la Princesse de Monpensier � deviner ce qui
+avoit p� d�couvrir leur intelligence. Enfin dans la suite de leur
+conversation, comme elle luy remontroit, qu'il avoit eu tort de
+precipiter son mariage avec la Princesse de Portien, & d'abandonner
+celuy de Madame, qui luy estoit si avantageux, elle luy d�t qu'il
+pouvoit bien juger qu'elle n'en eust eu aucune jalousie, puis que le
+jour du Ballet elle-mesme l'avoit conjur� de n'avoir des yeux que pour
+Madame. Le Duc de Guise luy d�t qu'elle avoit eu l'intention de luy
+faire ce commandement; mais qu'assurement elle ne luy avoit pas fait. La
+Princesse luy soustint le contraire. Enfin � force de disputer &
+d'aprofondir, ils trouverent qu'il falloit qu'elle se fust tromp�e dans
+la ressemblence des habits, & qu'elle mesme eust appris au Duc d'Anjou
+ce qu'elle accusoit le Duc de Guise de luy avoir appris. Le Duc de Guise
+qui estoit presque justifi� dans son esprit par son mariage, le fut
+entierement par cette conversation. Cette belle Princesse ne put refuser
+son coeur � un homme qui l'avoit possed� autrefois, & qui venoit de tout
+abandonner pour elle. Elle consentit donc � recevoir ses voeux, & luy
+permit de croire qu'elle n'estoit pas insensible � sa passion. L'arriv�e
+de la Duchesse de Monpensier sa Belle-Mere finit cette conversation, &
+emp�cha le Duc de Guise de luy faire voir les transports de sa jo�e.
+Quelque temps apres la Cour s'en allant � Blois, o� la Princesse de
+Monpensier la suivit, le mariage de Madame avec le Roy de Navarre y fut
+conclu. Le Duc de Guise ne connoissant plus de grandeur ni de bonne
+fortune que celle d'estre aim� de la Princesse, vit avec jo�e la
+conclusion de ce mariage, qui l'auroit combl� de douleur dans un autre
+temps. Il ne pouvoit si bien cacher son amour, que le Prince de
+Monpensier n'en entrevist quelque chose, lequel n'estant plus maistre de
+sa jalousie, ordonna � la Princesse sa femme de s'en aller � Champigni.
+Ce commandement luy fut bien rude: il falut pourtant obeir. Elle trouva
+moyen de dire adieu en particulier au Duc de Guise: mais elle se trouva
+bien embarrass�e � luy donner des moyens seurs pour luy escrire. Enfin
+apres avoir bien cherch�, elle jetta les yeux sur le Comte de Chabanes,
+qu'elle contoit to�jours pour son Ami, sans considerer qu'il estoit son
+Amant. Le Duc de Guise, qui savoit � quel point ce Comte estoit Ami du
+Prince de Monpensier, fut espouvant� qu'elle le choisist pour son
+Confident, mais elle luy r�pondit si bien de sa fidelit�, qu'elle le
+rasseura. Il se separa d'elle avec toute la douleur que peut causer
+l'absence d'une personne que l'on aime passionnement. Le Comte de
+Chabanes qui avoit to�jours est� malade � Paris pendant le sejour de la
+Princesse de Monpensier � Blois, sachant qu'elle s'en alloit �
+Champigni, la fut trouver sur le chemin pour s'en aller avec elle. Elle
+luy f�t mille caresses & mille amitiez; & luy temoigna une impatiance
+extraordinaire de s'entretenir en particulier, dont il fut d'abord
+charm�. Mais quelle fut son estonnement & sa douleur, quand il trouva
+que cette impatiance n'alloit qu'� luy conter qu'elle estoit
+passionnement aim�e du Duc de Guise, & qu'elle l'aimoit de la mesme
+sorte? Son estonnement & sa douleur ne luy permirent pas de r�pondre. La
+Princesse, qui estoit pleine de sa passion, & qui trouvoit un
+soulagement extr�me � luy en parler, ne pr�t pas garde � son silence; &
+se mit � luy conter jusques aux plus petites circonstances de son
+avanture. Elle luy d�t comme le Duc de Guise & elle estoient convenus de
+recevoir par son moyen les lettres qu'ils devoient s'�crire. Ce fut le
+dernier coup pour le Comte de Chabanes, de voir que sa maistresse
+vouloit qu'il servit son Rival, & qu'elle luy en faisoit la proposition
+comme d'une chose qui luy devoit estre agreable. Il estoit si absolument
+maistre de luy mesme, qu'il luy cacha tous ses sentimens. Il luy
+temoigna seulement la surprise o� il estoit de voir en elle un si grand
+changement. Il espera d'abord que ce changement qui luy ostoit toutes
+ses esperances, luy osteroit aussi toute sa passion: mais il trouva
+cette Princesse si charmante, sa beaut� naturelle estant encore de
+beaucoup augment�e par une certaine grace que luy avoit donn�e l'air de
+la Cour, qu'il sentit qu'il l'aimoit plus que jamais. Toutes les
+confidences qu'elle luy faisoit sur la tendresse & sur la delicatesse de
+ses sentimens pour le Duc de Guise, luy faisoient voir le prix du coeur
+de cette Princesse, & luy donnoient un desir de le posseder. Comme sa
+passion estoit la plus extraordinaire du monde, elle produisit l'effet
+du monde le plus extraordinaire: car elle le f�t resoudre de porter � sa
+Maistresse les Lettres de son Rival. L'absence du Duc de Guise donnoit
+un chagrin mortel � la Princesse de Monpensier. Et n'esperant de
+soulagement que par ses Lettres, elle tourmentoit incessamment le Comte
+de Chabanes pour savoir s'il n'en recevoit point, & se prenoit quasi �
+luy de n'en avoir pas assez-tost. Enfin, il en receut par un Gentilhomme
+du Duc de Guise: & il les luy apporta � l'heure mesme, pour ne luy
+retarder pas sa jo�e d'un moment. Celle qu'elle eut de les recevoir fut
+extr�me. Elle ne prit pas le soin de la luy cacher, & luy f�t avaller �
+longs traits tout le poison imaginable, en luy lisant ces lettres, & la
+response tendre & galante qu'elle y faisoit. Il porta cette response au
+Gentilhomme avec la mesme fidelit� avec laquelle il avoit rendu la
+lettre � la Princesse: mais avec plus de douleur. Il se consola pourtant
+un peu dans la pens�e que cette Princesse feroit quelque reflexion sur
+ce qu'il faisoit pour elle, & qu'elle luy en temoigneroit de la
+reconnaissance. La trouvant de jour en jour plus rude pour luy, par le
+chagrin qu'elle avoit d'ailleurs, il pr�t la libert� de la supplier de
+penser un peu � ce qu'elle luy faisoit souffrir. La Princesse qui
+n'avoit dans la teste que le Duc de Guise, & qui ne trouvoit que luy
+seul digne de l'adorer, trouva si mauvais qu'un autre que luy osast
+penser � elle, qu'elle maltraita bien plus le Comte de Chabanes en cette
+occasion, qu'elle n'avoit fait la premiere fois qu'il luy avoit parl� de
+son amour. Quoy que sa passion, aussi bien que sa patience, fust
+extr�me, & � toutes espreuves, il quitta la Princesse, & s'en alla chez
+un de ses Amis dans le voisinage de Champigni, d'o� il luy escrivit avec
+toute la rage que pouvoit causer un si estrange proced�: mais neantmoins
+avec tout le respect qui estoit deu � sa qualit�: & par sa lettre il luy
+disoit un eternel adieu. La Princesse commen�a � se repentir d'avoir si
+peu m�nag� un homme sur qui elle avoit tant de pouvoir; & ne pouvant se
+resoudre � le perdre, non seulement � cause de l'amiti� qu'elle avoit
+pour luy, mais aussi par l'interest de son amour, pour lequel il luy
+estoit tout � fait necessaire, elle luy manda qu'elle vouloit absolument
+luy parler encore une fois, & apres cela qu'elle le laissoit libre de
+faire ce qu'il luy plairoit. L'on est bien foible quand on est amoureux.
+Le Comte revint, & en moins d'une heure la beaut� de la Princesse de
+Monpensier, son esprit, & quelques paroles obligeantes le rendirent plus
+soumis qu'il n'avoit jamais est�: & il luy donna mesme des lettres du
+Duc de Guise, qu'il venoit de recevoir. Pendant ce temps, l'envie qu'on
+eut � la Cour d'y faire venir les Chefs du Parti Huguenot, pour c�t
+horrible dessein qu'on executa le jour de la S. Barthelemy, f�t que le
+Roy, pour les mieux tromper, esloigna de luy tous les Princes de la
+Maison de Bourbon, & tous ceux de la Maison de Guise. Le Prince de
+Monpensier s'en retourna � Champigni, pour achever d'accabler la
+Princesse sa Femme par sa presence. Le Duc de Guise s'en alla � la
+campagne, chez le Cardinal de Lorraine son Oncle. L'amour & l'oisivet�
+mirent dans son esprit un si violent desir de voir la Princesse de
+Monpensier, que sans considerer ce qu'il hazardoit pour elle, & pour
+luy, il feignit un voiage, & laissant tout son train dans une petite
+Ville, il prit avec luy ce seul Gentilhomme qui avoit d�ja fait
+plusieurs voyages � Champigni, & il s'y en alla en poste. Comme il
+n'avoit point d'autre adresse que celle du Comte de Chabanes, il luy f�t
+escrire un billet par ce mesme Gentilhomme, par lequel ce Gentilhomme le
+prioit de le venir trouver en un lieu qu'il luy marquoit. Le Comte de
+Chabanes croyant que c'estoit seulement pour recevoir des lettres du Duc
+de Guise, l'alla trouver: mais il fut extr�mement surpris quand il vit
+le Duc de Guise; & il n'en fut pas moins afflig�. Ce Duc, occup� de son
+dessein, ne prit non plus garde � l'embarras du Comte, que la Princesse
+de Monpensier avoit fait � son silence, lors qu'elle luy avoit cont� son
+amour. Il se mit � luy exagerer sa passion, & � luy faire comprendre
+qu'il mourroit infailliblement, s'il ne luy faisoit obtenir de la
+Princesse la permission de la voir. Le Comte de Chabanes luy repondit
+froidement qu'il diroit � cette Princesse tout ce qu'il souhaittoit
+qu'il luy dist, & qu'il viendroit luy en rendre r�ponse. Il s'en
+retourna � Champigni, combatu de ses propres sentimens, mais avec une
+violence qui luy ostoit quelquefois toute sorte de connoissance. Souvent
+il prenoit resolution de renvoier le Duc de Guise sans le dire � la
+Princesse de Monpensier: mais la fidelit� exacte qu'il luy avoit
+promise, changeoit aussitost sa resolution. Il arriva aupr�s d'elle sans
+savoir ce qu'il devoit faire; & apprenant que le Prince de Monpensier
+estoit � la chasse, il alla droit � l'appartement de la Princesse, qui
+le voiant troubl�, fit retirer aussitost ses Femmes pour savoir le sujet
+de ce trouble. Il luy d�t, en se moderant le plus qu'il luy fut
+possible, que le Duc de Guise estoit � une lieu� de Champigni, & qu'il
+souhaittoit passion�ment de la voir. La Princesse fit un grand cri �
+cette nouvelle, & son embarras ne fut guere moindre que celuy du Comte.
+Son amour luy presenta d'abord la jo�e qu'elle auroit de voir un homme
+qu'elle aimoit si tendrement. Mais quand elle pensa combien cette action
+estoit contraire � sa vertu, & qu'elle ne pouvoit voir son amant qu'en
+le faisant entrer la nuit chez elle � l'insu de son Mari, elle se trouva
+dans une extr�mit� �pouvantable. Le Comte de Chabanes attendoit sa
+r�ponse comme une chose qui alloit decider de sa vie ou de sa mort.
+Jugeant de l'incertitude de la Princesse par son silence, il pr�t la
+parole, pour luy representer tous les perils o� elle s'exposeroit par
+cette entreveu�. Et voulant luy faire voir qu'il ne luy tenoit pas ce
+discours pour ses interests, il luy d�t: Si apres tout ce que je viens
+de vous representer, Madame, vostre passion est la plus forte, & que
+vous desiriez voir le Duc de Guise, que ma consideration ne vous en
+empesche point, si celle de vostre interest ne le fait pas. Je ne veux
+point priver d'une si grande satisfaction une personne que j'adore, ni
+estre cause qu'elle cherche des personnes moins fidelles que moy pour se
+la procurer. O�y, Madame, si vous le voulez, j'iray querir le Duc de
+Guise d�s ce soir, car il est trop perilleux de le laisser plus long
+temps o� il est, & je l'ammeneray dans vostre appartement. Mais par o� &
+comment? interrompit la Princesse. Ha! Madame s'�cria le Comte, c'en est
+fait, puis que vous ne deliberez plus que sur les moyens. Il viendra,
+Madame, ce bien-heureux Amant. Je l'ammeneray par le Parc: donnez ordre
+seulement � celle de vos Femmes � qui vous vous fiez le plus, qu'elle
+baisse, pr�cisement � minuit, le petit Pont-Levis qui donne de vostre
+Anti-chambre dans le Parterre; & ne vous inquietez pas du reste. En
+achevant ces paroles, il se leva; & sans attendre d'autre consentement
+de la Princesse de Monpensier, il remonta � cheval, & vint trouver le
+Duc de Guise qui l'attendoit avec une impatiance extr�me. La Princesse
+de Monpensier demeura si troubl�e, qu'elle f�t quelque temps sans
+revenir � elle. Son premier mouvement fut de faire rapeller le Comte de
+Chabanes, pour luy deffendre d'ammener le Duc de Guise: mais elle n'en
+eut pas la force. Elle pensa que sans le rappeller, elle n'avoit qu'� ne
+point faire abaisser le Pont. Elle cr�t qu'elle continueroit dans cette
+resolution. Quand l'heure de l'assignation approcha, elle ne p�t
+resister davantage � l'envie de voir un Amant qu'elle croioit si digne
+d'elle; & elle instruisit une de ses femmes de tout ce qu'il falloit
+faire pour introduire le Duc de Guise dans son appartement. Cependant &
+ce Duc & le Comte de Chabanes approchoient de Champigni, mais dans un
+estat bien different. Le Duc abandonnoit son ame � la jo�e, & � tout ce
+que l'esperance inspire de plus agreable: & le Comte s'abandonnoit � un
+desespoir, & � une rage, qui le pousserent mille fois � donner de son
+�p�e au travers du corps de son Rival. Enfin ils arriverent au Parc de
+Champigni, o� ils laisserent leurs chevaux � l'Escuier du Duc de Guise;
+& passant par des breches qui estoient aux murailles, ils vinrent dans
+le Parterre. Le Comte de Chabanes, au milieu de son desespoir, avoit
+to�jours quelque esperance que la raison reviendroit � la Princesse de
+Monpensier, & qu'elle prendroit enfin la resolution de ne point voir le
+Duc de Guise. Quand il vit ce petit Pont abaiss�, ce fut alors qu'il ne
+p�t douter du contraire: & ce fut aussi alors qu'il fut tout prest � se
+porter aux dernieres extr�mitez. Mais venant � penser que s'il faisoit
+du bruit, il seroit o�i apparamment du Prince de Monpensier, dont
+l'appartement donnoit sur le mesme Parterre; & que tout ce desordre
+tomberoit en suite sur la personne qu'il aimoit le plus, sa rage se
+calma � l'heure m�me; & il acheva de conduire le Duc de Guise aux pieds
+de sa Princesse. Il ne p�t se resoudre � estre temoin de leur
+conversation, quoy que la Princesse luy temoignast le souhaitter, &
+qu'il l'eust bien souhaitt� luy-mesme. Il se retira dans un petit
+passage qui estoit du cost� de l'appartement du Prince de Monpensier,
+ayant dans l'esprit les plus tristes pens�es qui ayent jamais occup�
+l'esprit d'un Amant. Cependant quelque peu de bruit qu'ils eussent fait
+en passant sur le Pont, le Prince de Monpensier, qui par malheur estoit
+�veill� dans ce moment, l'entendit, & fit lever un de ses Valets de
+Chambre, pour voir ce que c'estoit. Le Vallet de Chambre mit la teste �
+la fenestre, & au travers de l'obscurit� de la nuit, il aperceut que le
+Pont estoit abaiss�. Il en avertit son Maistre, qui luy commanda en
+mesme temps d'aller dans le Parc voir ce que se pouvoit estre. Un moment
+apres il se leva luy-mesme, estant inquiet� de ce qu'il luy sembloit
+avoir o�i marcher quelqu'un, & il s'en vint droit � l'appartement de la
+Princesse sa Femme, qui respondoit sur le Pont. Dans le moment qu'il
+approchoit de ce petit passage, o� estoit le Comte de Chabanes, la
+Princesse de Monpensier, qui avoit quelque honte de se trouver seule
+avec le Duc de Guise, pria plusieurs fois le Comte d'entrer dans sa
+chambre. Il s'en excusa to�jours; & comme elle l'en pressoit davantage,
+possed� de rage & de fureur, il luy repondit si haut qu'il f�t o�i du
+Prince de Monpensier; mais si confus�ment que ce Prince entendit
+seulement la voix d'un homme, sans distinguer celle du Comte. Une
+pareille avanture eust donn� de l'emportement � un esprit & plus
+tranquille, & moins jaloux. Aussi mit-elle d'abord l'excez de la rage &
+de la fureur dans celuy du Prince. Il heurta aussitost � la porte avec
+impetuosit�; & criant pour se faire ouvrir, il donna la plus cruelle
+surprise du monde � la Princesse, au Duc de Guise & au Comte de
+Chabanes. Le dernier entendant la voix du Prince comprit d'abord qu'il
+estoit impossible de l'empescher de croire qu'il n'y eust quelqu'un dans
+la chambre de la Princesse sa Femme: & la grandeur de sa passion luy
+montrant en ce moment, que s'il y trouvoit le Duc de Guise, Madame de
+Monpensier auroit la douleur de le voir tuer � ses yeux, & que la vie
+mesme de cette Princesse ne seroit pas en seuret�, il se resolut par une
+generosit� sans exemple, de s'exposer pour sauver une Maistresse
+ingrate, & un Rival aim�. Pendant que le Prince de Monpensier donnoit
+mille coups � la porte, il vint au Duc de Guise, qui ne savoit quelle
+resolution prendre, & il le mit entre les mains de cette femme de Madame
+de Monpensier qui l'avoit fait entrer par le Pont, pour le faire sortir
+par le mesme lieu, pendant qu'il s'exposeroit � la fureur du Prince. A
+peine le Duc estoit hors l'Antichambre, que le Prince ayant enfonc� la
+porte du passage, entra dans la chambre comme un homme possed� de
+fureur, & qui cherchoit sur qui la faire �clater. Mais quand il ne vit
+que le Comte de Chabanes, & qu'il le vit immobile, appuy� sur la table,
+avec un visage o� la tristesse estoit peinte, il demeura immobile
+luy-mesme: & la surprise de trouver & seul & la nuit dans la chambre de
+sa Femme l'Homme du monde qu'il aimoit le mieux, le mit hors d'estat de
+pouvoir parler. La Princesse estoit � demi �vano�ie sur des carreaux, &
+jamais peut-estre la Fortune n'a mis trois personnes en des estats si
+pitoiables. Enfin le Prince de Monpensier qui ne croioit pas voir ce
+qu'il voioit, & qui vouloit d�mesler ce cahos o� il venoit de tomber,
+adressant la parole au Comte, d'un ton qui faisoit voir qu'il avoit
+encore de l'amiti� pour luy, Que vois-je, luy d�t-il? Est-ce une
+illusion ou une verit�? Est-il possible qu'un Homme que j'ay aim� si
+cherement choisisse ma Femme entre toutes les autres Femmes pour la
+seduire? Et vous, Madame, d�t-il � la Princesse, en se tournant de son
+cost�, n'estoit-ce point assez de m'oster vostre coeur, & mon honneur,
+sans m'oster le seul Homme qui me pouvoit consoler de ces malheurs.
+R�pondez-moy l'un ou l'autre, leur dit-il, & �claircissez-moy d'une
+avanture que je ne puis croire telle qu'elle me paroist. La Princesse
+n'estoit pas capable de r�pondre, & le Comte de Chabanes ouvrit
+plusieurs fois la bouche sans pouvoir parler. Je suis criminel � vostre
+�gard, luy dit-il enfin, & indigne de l'amiti� que vous avez eu� pour
+moi: mais ce n'est pas de la maniere que vous pouvez vous l'imaginer. Je
+suis plus malheureux que vous, & plus desesper�. Je ne saurois vous en
+dire davantage. Ma mort vous vangera, & si vous voulez me la donner tout
+� l'heure, vous me donnerez la seule chose qui peut m'estre agreable.
+Ces paroles, prononc�es avec une douleur mortelle, & avec un air qui
+marquoit son innocence, au lieu d'�claircir le Prince de Monpensier, luy
+persuadoient de plus en plus qu'il y avoit quelque mistere dans cette
+avanture qu'il ne pouvoit deviner: & son desespoir s'augmentant par
+cette incertitude, Ostez-moy la vie vous-mesme, luy dit-il, ou
+donnez-moy l'�claircissement de vos paroles: Je n'y comprends rien. Vous
+devez cet �claircissement � mon amiti�. Vous le devez � ma moderation;
+car tout autre que moy auroit d�ja vang� sur vostre vie un affront si
+sensible. Les apparances sont bien fausses, interrompit le Comte. Ah
+c'est trop, replica le Prince: il faut que je me vange, & puis je
+m'�clairciray � loisir. En disant ces paroles, il s'approcha du Comte de
+Chabanes avec l'action d'un homme emport� de rage. La Princesse
+craignant quelque malheur (ce qui ne pouvoit pourtant pas arriver, son
+Mari n'ayant point d'esp�e) se leva pour se mettre entre-deux. La
+foiblesse o� elle estoit, la f�t succomber � cet effort; & comme elle
+approchoit de son Mari, elle tomba �vano�ie � ses pieds. Le Prince fut
+encore plus touch� de cet �vano�issement, qu'il n'avoit est� de la
+tranquillit� o� il avoit trouv� le Comte, lors qu'il s'estoit approch�
+de luy; & ne pouvant plus soustenir la veu� de deux personnes qui luy
+donnoient des mouvemens si tristes, il tourna la teste de l'autre cost�,
+& se laissa tomber sur le lit de sa Femme, accabl� d'une douleur
+incroiable. Le Comte de Chabanes penetr� de repentir d'avoir abus� d'une
+amiti� dont il recevoit tant de marques, & ne trouvant pas qu'il pust
+jamais reparer ce qu'il venoit de faire, sortit brusquement de la
+chambre; & passant par l'appartement du Prince, dont il trouva les
+portes ouvertes, il descendit dans la Cour. Il se f�t donner des
+chevaux, & s'en alla dans la campagne, guid� par son seul desespoir.
+Cependant le Prince de Monpensier qui voioit que la Princesse ne
+revenoit point de son �vano�issement, la laissa entre les mains de ses
+Femmes, & se retira dans sa chambre avec une douleur mortelle. Le Duc de
+Guise qui estoit sorti heureusement du Parc, sans savoir quasi ce qu'il
+faisoit, tant il estoit troubl�, s'�loigna de Champigni de quelques
+lieu�s: mais il ne put s'�loigner davantage, sans savoir des nouvelles
+de la Princesse. Il s'arresta dans une forest, & envoya son Escuier pour
+apprendre du Comte de Chabanes ce qui estoit arriv� de cette terrible
+avanture. L'Escuier ne trouva point le Comte de Chabanes, mais il apprit
+d'autres personnes que la Princesse de Monpensier estoit
+extraordinairement malade. L'inquietude du Duc de Guise fut augment�e
+par ce que luy d�t son Escuier: & sans la pouvoir soulager, il fut
+contraint de s'en retourner trouver ses Oncles, pour ne pas donner de
+soup�on par un plus long voiage. L'Escuier du Duc de Guise luy avoit
+raport� la verit�, en luy disant que Madame de Monpensier estoit
+extr�mement malade; car il estoit vray que sitost que ses Femmes
+l'eurent mise dans son lit, la fievre luy prit si violemment, & avec des
+r�veries si horribles, que d�s le second jour l'on craignit pour sa vie.
+Le Prince feignit d'estre malade, afin qu'on ne s'estonnast de ce qu'il
+n'entroit pas dans la chambre de sa Femme. L'ordre qu'il receut de s'en
+retourner � la Cour, o� l'on rappeloit tous les Princes Catholiques pour
+exterminer les Huguenots, le tira de l'embarras o� il estoit. Il s'en
+alla � Paris, ne sachant ce qu'il avoit � esperer ou � craindre du mal
+de la Princesse sa Femme. Il n'y fut pas sitost arriv�, qu'on commen�a
+d'attaquer les Huguenots en la personne d'un de leurs Chefs, l'Amiral de
+Chastillon: & deux jours apres l'on f�t cet horrible massacre, si
+renomm� par toute l'Europe. Le pauvre Comte de Chabanes, qui s'estoit
+venu cacher dans l'extr�mit� de l'un des Faux-bourgs de Paris, pour
+s'abandonner entierement � sa douleur, fut envelopp� dans la ruine des
+Huguenots. Les personnes chez qui il s'estoit retir� l'ayant reconnu, &
+s'estant souvenu�s qu'on l'avoit soup�onn� d'estre de ce Parti, le
+massacrerent cette mesme nuit qui fut si funeste � tant de gens. Le
+matin le Prince de Monpensier allant donner quelques ordres hors la
+Ville, passa dans la ru� o� estoit le corps de Chabanes. Il fut d'abord
+saisi d'�tonnement � ce pitoiable spectacle; en suite son amiti� se
+r�veillant, elle luy donna de la douleur: mais le souvenir de l'offense
+qu'il croioit avoir receu� du Comte, luy donna enfin de la jo�e: & il
+fut bien aise de se voir vang� par les mains de la Fortune. Le Duc de
+Guise occup� du desir de vanger la mort de son Pere, & peu apres rempli
+de la jo�e de l'avoir vang�e, laissa peu � peu �loigner de son ame le
+soin d'apprendre des nouvelles de la Princesse de Monpensier; & trouvant
+la Marquise de Noirmoustier, personne de beaucoup d'esprit & de beaut�,
+& qui donnoit plus d'esperance que cette Princesse, il s'y attacha
+enti�rement, & l'aima avec une passion demesur�e, & qui luy dura jusques
+� la mort. Cependant apres que le mal de Madame de Monpensier fut venu
+au dernier point, il commen�a � diminuer. La raison luy revint, & se
+trouvant un peu soulag�e par l'absence du Prince son Mari, elle donna
+quelque esperance de sa vie. Sa sant� revenoit pourtant avec grande
+peine, par le mauvais estat de son esprit: & son esprit fut travaill� de
+nouveau, quand elle se souvint qu'elle n'avoit eu aucune nouvelle du Duc
+de Guise pendant toute sa maladie. Elle s'enquit de ses Femmes, si elles
+n'avoient vu personne, si elles n'avoient point de lettres; & ne
+trouvant rien de ce qu'elle eust souhaitt�, elle se trouva la plus
+malheureuse du monde, d'avoir tout hazard� pour un homme qui
+l'abandonnoit. Ce luy fut encore un nouvel accablement d'apprendre la
+mort du Comte de Chabanes, qu'elle seut bientost par les soins du Prince
+son Mari. L'ingratitude du Duc de Guise luy f�t sentir plus vivement la
+perte d'un homme dont elle connoissoit si bien la fidelit�. Tant de
+deplaisirs si pressans la remirent bientost dans un estat aussi
+dangereux que celuy dont elle estoit sortie. Et comme Madame de
+Noirmoustier estoit une personne qui prenoit autant de soin de faire
+�clater ses galanteries, que les autres en prennent de les cacher,
+celles de Monsieur de Guise & d'elle estoient si publiques, que toute
+�loign�e & toute malade qu'estoit la Princesse de Monpensier, elle les
+apprit de tant de costez, qu'elle n'en p�t douter. Ce fut le coup mortel
+pour sa vie. Elle ne put resister � la douleur d'avoir perdu l'estime de
+son Mari, le coeur de son Amant, & le plus parfait Ami qui fut jamais.
+Elle mourut en peu de jours, dans la fleur de son �ge, une des plus
+belles Princesses du monde, & qui auroit est� sans doute la plus
+heureuse, si la vertu & la prudence eussent conduit toutes ses actions.
+
+FIN.
+
+
+
+
+----------------------
+NOTES DU TRANSCRIPTEUR
+
+Dans la pr�sentation de cette version �lectronique on a rendu
+plus syst�matique la distinction, imparfaitement achev�e dans
+l'original, entre les lettres i/j, u/v.
+
+On a conserv� l'orthographe de l'original avec ses bizarreries,
+mais on a corrig� les coquilles les plus manifestes:
+- pouvoir en pouvoit (rien ne pouvoit esbranler)
+- le en la (la Ville de Poitiers)
+- interrrompre (ne songea pas � l'interrompre)
+- reppeller en rappeller (sans le rappeller)
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La princesse de Monpensier, by 
+Marie-Madeleine de La Fayette
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA PRINCESSE DE MONPENSIER ***
+
+***** This file should be named 19124-8.txt or 19124-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/1/2/19124/
+
+Produced by Laurent Vogel. This file was produced from
+images generously made available by the Biblioth�que
+nationale de France (BnF/Gallica)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

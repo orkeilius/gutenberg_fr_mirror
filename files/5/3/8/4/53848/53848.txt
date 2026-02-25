@@ -1,3 +1,3821 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e31c0ba20faf95a16875580371047119d58b7309a279514702e8f32aa0350e81
-size 178601
+*** START OF THE PROJECT GUTENBERG EBOOK 53848 ***
+
+  Au lecteur.
+
+  Ce livre Ã©lectronique reproduit intÃ©gralement le texte original,
+  et l'orthographe d'origine a Ã©tÃ© conservÃ©e et n'a pas Ã©tÃ© harmonisÃ©e.
+  Seules les erreurs clairement introduites par le typographe ont Ã©tÃ©
+  corrigÃ©es. La liste de ces corrections se trouve Ã  la fin du texte.
+
+  Cependant, la ponctuation et les erreurs d'accent ont Ã©tÃ©
+  tacitement corrigÃ©es.
+
+
+
+
+LA FEMME DOIT-ELLE VOTER?
+
+(LE POUR ET LE CONTRE)
+
+
+
+
+    UNIVERSITÃ DE MONTPELLIER
+
+    FACULTÃ DE DROIT
+
+
+    La Femme doit-elle voter?
+
+    (Le Pour et le Contre)
+
+
+    THÃSE
+    pour le Doctorat Ã¨s Sciences politiques et Ã©conomiques
+
+
+    PAR
+
+    Joseph GINESTOU
+
+
+    MONTPELLIER
+
+    IMPRIMERIE GROLLIER, ALFRED DUPUY, SUCCESSEUR
+    7, Boulevard du Peyrou
+
+    1910
+
+
+
+
+UNIVERSITÃ DE MONTPELLIER
+
+FACULTÃ DE DROIT
+
+
+   MM. VIGIÃ, Doyen, professeur de Droit civil, chargÃ© du cours
+     d'Enregistrement.
+
+   BRÃMOND, Assesseur, professeur de Droit administratif.
+
+   GLAIZE, professeur honoraire.
+
+   LABORDE, professeur de Droit criminel, chargÃ© du cours de
+     LÃ©gislation et Ãconomie industrielles.
+
+   CHARMONT, professeur de Droit civil.
+
+   CHAUSSE, professeur de Droit romain.
+
+   VALÃRY, professeur de Droit commercial, chargÃ© du cours de Droit
+     international privÃ©.
+
+   PERREAU, professeur de ProcÃ©dure civile.
+
+   MARGAT, professeur de Droit civil.
+
+   MOYE, professeur de Droit international public.
+
+   RIST, professeur d'Ãconomie politique.
+
+   BARTHÃLEMY, agrÃ©gÃ©, chargÃ© d'un cours de Droit constitutionnel.
+
+   GIFFARD, agrÃ©gÃ©, chargÃ© d'un cours d'Histoire du Droit.
+
+   MORIN, agrÃ©gÃ©, chargÃ© d'un cours de Droit civil approfondi.
+
+   BRIDREY, agrÃ©gÃ©, chargÃ© d'un cours de Droit romain.
+
+   NOGARO, agrÃ©gÃ©, chargÃ© d'un cours d'Economie politique.
+
+   ROCHETTE, secrÃ©taire.
+
+
+MEMBRES DU JURY
+
+    MM. BRÃMOND, _PrÃ©sident_.
+        MOYE,       }
+        BARTHÃLEMY, } _Assesseurs_.
+
+
+La FacultÃ© n'entend donner aucune approbation ni improbation
+aux opinions Ã©mises dans les thÃ¨ses; ces opinions doivent Ãªtre
+considÃ©rÃ©es comme propres Ã  leurs auteurs.
+
+
+
+
+    A LA MÃMOIRE DE MON PÃRE
+
+    A MA MÃRE
+
+    MEIS ET AMICIS
+
+
+
+
+INTRODUCTION
+
+
+La question du Suffrage des femmes qui, jusqu'Ã  nos jours, n'avait
+eu en France que les honneurs d'une presse inconnue du public, les
+journaux fÃ©ministes, ou n'avait Ã©tÃ© dans son ensemble qu'un pur
+mouvement littÃ©raire, vient de prendre, grÃ¢ce aux excentricitÃ©s
+retentissantes des suffragettes anglaises et aux rÃ©clamations plus
+calmes et plus sensÃ©es des franÃ§aises, une importance qu'il serait
+peut-Ãªtre tÃ©mÃ©raire de vouloir dissimuler.
+
+De tous cÃ´tÃ©s, dans les journaux, les revues, en librairie, au
+thÃ©Ã¢tre, dans les confÃ©rences, le fÃ©minisme est le sujet pour ainsi
+dire obligatoire, la derniÃ¨re nouveautÃ©, l'inÃ©dit. Les hommes
+fÃ©ministes, sans souci de leur dÃ©doublement, comme les Hervieu,
+les Jules Bois, les Sembat, les Marguerite, ne craignent pas
+d'apporter Ã  cette cause l'appui de leur haute compÃ©tence et de nous
+prÃ©senter, telle qu'ils la rÃªvent, la femme de demain: l'Ã©gale de
+l'homme. Au SÃ©nat, des hommes Ã©minents se font les porte-drapeaux des
+revendications du sexe faible; Ã  la Chambre, de vÃ©ritables discours
+fÃ©ministes sont prononcÃ©s. Le cabinet de M. Briand, prÃ©sident du
+Conseil, s'ouvre devant Mme Schmall, une des plus sympathiques
+reprÃ©sentantes de ce grand mouvement. M. FalliÃ¨res, prÃ©sident de la
+RÃ©publique, n'hÃ©site nullement Ã  proclamer ses sympathies pour les
+Eves nouvelles. En un mot, le fÃ©minisme est Ã  l'ordre du jour. C'est
+une RÃ©volution, comme on l'a dit, mais une RÃ©volution sans R.
+
+La bataille est engagÃ©e. D'un cÃ´tÃ©, quelques femmes convaincues
+et sincÃ¨res dont l'idÃ©al est de devenir des hommes; de l'autre,
+un public indiffÃ©rent, ne connaissant la question que par les
+caricatures, les calembours et les plaisanteries des journalistes,
+riant de l'Ã©trangetÃ© paradoxale de ces prÃ©tentions et, bonhomme,
+acceptant, ironique et amusÃ©, ce tournoi du divorce des sexes.
+
+L'attaque est alertement menÃ©e par les suffragettes, soutenues
+parfois par des hommes au talent incontestable. Impassible, Monsieur
+Tout-le-Monde assiste Ã  cette lutte sinon imprÃ©vue, du moins Ã©trange.
+
+Parfois des mots cruels traversent le champ de bataille des journaux,
+des livres, des revues ou des salles de confÃ©rence:
+
+Â«Les fÃ©ministes sont les laissÃ©s pour compte de l'amourÂ»[1].
+
+  [1] Rey.
+
+Â«La femme est un moyen terme entre l'homme et l'animalÂ»[2].
+
+  [2] Proud'hon.
+
+Â«La famille a un vote; si elle en avait deux, elle pÃ©riraitÂ»[3].
+
+  [3] Jules Simon: _La libertÃ© civile_.
+
+ExaltÃ©e et vibrante d'espoir, une rÃ©ponse fÃ©ministe essaie de
+regagner la partie souvent compromise:
+
+Â«Il ne faut pas dÃ©sespÃ©rer du monde si les femmes obtiennent le droit
+de suffrageÂ»[4].
+
+  [4] Mgr Ireland: ConfÃ©rence faite Ã  Paris. _Journal des DÃ©bats_,
+  20 juin 1891.
+
+Â«DÃ©nier au sexe fÃ©minin le droit de suffrage, c'est lui refuser le
+droit de lÃ©gitime dÃ©fenseÂ»[5].
+
+  [5] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Notre intention n'est point, certes, d'endiguer les flots tumultueux
+de cette houle fÃ©ministe; l'Åuvre serait trop grande et l'auteur...
+trop petit. De mÃªme d'apporter au camp des rÃ©volutionnaires en
+dentelles, malgrÃ© tout l'attrait qu'elles nous inspirent, le secours
+d'une plume si peu autorisÃ©e et inconnue.
+
+Nous nous bornerons simplement Ã  Ãªtre les spectateurs de cette lutte
+nouvelle et de ce pÃ©nible travail de dÃ©sexualisation. Impartialement,
+nous compterons les coups; nous enregistrerons les dÃ©faites sans
+rancÅur, nous soulignerons les victoires avec modestie. Dans cette
+thÃ¨se, nous examinerons de prime abord l'acteur principal de la
+question: Â«la femmeÂ». Nous donnerons ensuite les raisons qui militent
+en faveur de leur plaidoyer pour l'obtention des droits politiques;
+malgrÃ© toute notre galanterie, nous exposerons enfin celles qui leur
+sont dÃ©favorables.
+
+Et si, nouveau rÃ©volutionnaire, nous laissons parfois entrevoir dans
+le courant de la discussion des sentiments fÃ©ministes, que les hommes
+nous pardonnent!
+
+Mais si, par contre, partisan du bon vieux temps, malgrÃ© tout l'amour
+et le respect que nous avons pour la femme, nous Ã©mettons des
+opinions contraires Ã  leurs revendications viriles, qu'elles nous
+pardonnent aussi.
+
+Avouerons-nous humblement, Mesdames, que ce pardon, si lÃ©ger soit-il,
+nous sommes sÃ»r de ne jamais l'obtenir!
+
+
+
+
+PREMIÃRE PARTIE
+
+
+
+
+CHAPITRE PREMIER
+
+LA PLACE DE LA FEMME DANS LA SOCIÃTÃ A TRAVERS LES AGES QUELQUES
+APPRÃCIATIONS
+
+
+Il est en ce moment-ci un Ãªtre qui ne cesse de gÃ©mir et de se
+lamenter sur son sort. Nous avons nommÃ© la femme. Et parmi ses
+lamentations, il en est une qui par sa persistance et son opiniÃ¢tretÃ©
+a su attirer l'attention sur le sexe fÃ©minin; c'est la complainte du
+suffrage.
+
+Ces dames veulent Ã  tout prix avoir le droit et l'honneur de dÃ©poser
+elles-mÃªmes dans l'urne un bulletin de vote.
+
+Avant d'accÃ©der Ã  leur dÃ©sir et de satisfaire leur amour-propre
+chatouilleux, examinons la place occupÃ©e par la femme Ã  travers les
+Ã¢ges et comment elle fut apprÃ©ciÃ©e.
+
+La femme, c'est ce grand point d'interrogation Ã©ternellement suspendu
+sur nos tÃªtes, c'est un cÅur derriÃ¨re lequel il se passe toujours
+quelque chose, et depuis que le monde est monde, un seul jour ne
+s'est levÃ© sans que dans l'univers un homme de bon sens ne se soit
+demandÃ© quelle Ã©tait cette Ã©trange petite crÃ©ature! Depuis sa
+crÃ©ation, les hommes sont lÃ , attendant vainement celui qui leur dira
+la clef de cette Ã©nigme parfois si amusante et si douce, parfois si
+cruelle et si terrible, mais nÃ©anmoins toujours troublante! Qui dira
+ce qu'elle a engendrÃ© de beautÃ©, de force et de vie, mais par contre
+ce qu'elle a fait naÃ®tre de tristesses, d'amertumes et de douleurs.
+
+Dans les civilisations antiques, la femme nous apparaÃ®t comme Ã©tant
+l'esclave de l'homme. Les Grecs l'enfermÃ¨rent jalousement, ne lui
+donnant aucune Ã©ducation et la considÃ©rant comme un simple objet de
+luxe.
+
+Rome fit d'elle une perpÃ©tuelle dÃ©chue, et malgrÃ© la gloire qui
+rejaillit sur la femme avec les noms d'Aggrypine, de LucrÃ¨ce et de
+CornÃ©lie, la conserva dans un Ã©tat d'abaissement constant.
+
+Le catholicisme, dans sa toute bontÃ© compatissante, releva le front
+de l'Ã©ternelle serve, mais ne changea guÃ¨re au point de vue social et
+moral la domination de l'homme sur elle. Avec le Moyen-Ã¢ge, la femme
+fut idÃ©alisÃ©e; elle devint la Grande Inspiratrice, le stimulant et le
+but de toute activitÃ©. Â«Plus que PoÃ¨te, elle est la PoÃ©sieÂ», comme
+le dit Lamartine. La Renaissance commence Ã  diminuer la femme comme
+Ãªtre moral. Sous la RÃ©volution, elle relÃ¨ve la tÃªte, et Victor Hugo
+s'Ã©crie plus tard: Â«Le XIXe siÃ¨cle a proclamÃ© les droits de l'homme,
+le XXe siÃ¨cle proclamera ceux de la femmeÂ».
+
+Parmi les apprÃ©ciations portÃ©es sur elle, il en est quelques-unes qui
+par leur piquant, leur humour et surtout leur cruelle vÃ©ritÃ© mÃ©ritent
+d'Ãªtre citÃ©es:
+
+Â«Souveraine peste, s'Ã©crie Jean Crysostome, c'est par toi que le
+diable a triomphÃ© de notre premier pÃ¨reÂ»[6].
+
+  [6] _Entretien_, XXIV.
+
+Â«J'ai trouvÃ© la femme plus amÃ¨re que la mort, elle est semblable au
+filet des chasseursÂ»[7].
+
+  [7] L'_EcclÃ©siaste_.
+
+Saint Thomas, trÃ¨s irrÃ©vÃ©rencieusement, la baptise: Â«Ãtre accidentel
+et manquÃ©Â».
+
+Les lois de Manou, dans leur Ã©ternelle sagesse et leur naÃ¯vetÃ©
+poÃ©tique, nous la reprÃ©sentent comme une esclave: Â«Une femme ne doit
+jamais se gouverner Ã  sa guiseÂ»[8].
+
+  [8] Manou: Livre V.
+
+Â«Il faut se dÃ©fier d'elle, parce que la nature du sexe fÃ©minin est de
+chercher ici-bas Ã  corrompre les hommesÂ»[9].
+
+  [9] Manou: Livre I.
+
+Â«La femme peut en ce monde Ã©carter du droit chemin non seulement
+l'insensÃ© mais aussi l'homme pourvu d'expÃ©rienceÂ»[10].
+
+  [10] Manou: Livre I.
+
+Tel compare la voix de la femme au sifflement du serpent et leur
+langue au dard du scorpion!
+
+Saint Paul nous dit: Â«Le mari est le chef de la femme.Â»
+
+L'antiquitÃ© fut sans pitiÃ© pour elle. Tertullien ne dÃ©sirait qu'une
+chose, Â«que la femme cachÃ¢t son visage, toujours et partout.Â» Â«Femme,
+tu es la porte du diable; c'est toi qui as persuadÃ© celui que le
+diable n'osait attaquer en face; c'est Ã  cause de toi que le Fils
+de Dieu a dÃ» mourir. Tu devrais t'en aller en haillons et en deuil,
+offrant aux regards des yeux pleins de larmes de repentir pour faire
+oublier que tu as perdu le genre humainÂ»[11].
+
+  [11] Tertullien: _TraitÃ© de l'Ornement des femmes_.
+
+Saint Antoine l'appelait Â«le Diable en personneÂ»; saint Bonaventure
+Â«un scorpion toujours prÃªt Ã  piquerÂ»; saint Jean de Damas Â«un affreux
+tÃ©nia qui a son siÃ¨ge dans le cÅur de l'homme.Â»
+
+Les expressions les plus cruelles lui Ã©taient destinÃ©es: Â«Fille de
+mensonge, porte de l'enfer, vase d'impuretÃ©, larve du dÃ©mon.Â»
+
+Le Koran, dans ses versets enthousiastes, est parfois trÃ¨s dur pour
+elle: Â«Attribuera-t-on Ã  Dieu comme enfant un Ãªtre qui grandit dans
+les ornements et les parures et qui est toujours prÃªt Ã  se disputer
+sans raisonÂ»[12].
+
+  [12] Koran, XVIII.
+
+Aux yeux des Chinois, Â«la femme n'est qu'une machine Ã  faire des
+enfants. Quand elle est dÃ©traquÃ©e, on lui en adjoint une deuxiÃ¨me,
+une troisiÃ¨me, suivant la fortune du mariÂ»[13].
+
+  [13] Docteur Martignon: _Revue d'anthropologie_, 1897.
+
+Montaigne plaisamment se moque d'elles: Â«De bonnes, il n'en est point
+Ã  la douzaineÂ»[14].
+
+  [14] Montaigne: _Essais_, II.
+
+MoliÃ¨re immortalise leurs dÃ©fauts dans les _PrÃ©cieuses ridicules_ et
+les _Femmes savantes_. Les philosophes du XVIIIe siÃ¨cle, Rousseau,
+Montesquieu, etc., la considÃ¨rent simplement comme un instrument de
+plaisir.
+
+Mme de SÃ©vignÃ©, cependant dÃ©licieuse dans ses Lettres, se compare Ã 
+une bÃªte de compagnie; Schopenhauer n'hÃ©site pas Ã  Ã©crire: Â«C'est
+un animal qu'il faut battre, bien nourrir et enfermerÂ»; tandis
+qu'Alexandre Dumas, enveloppant son opinion sÃ©vÃ¨re dans une phrase
+poÃ©tique, nous dit: Â«La femme est la seule Åuvre inachevÃ©e que Dieu
+ait permis Ã  l'homme de reprendre et de finir. C'est un ange de
+rebusÂ»[15]. Milton l'appelle: Â«Un beau dÃ©faut de la natureÂ».
+
+  [15] L'_Ami des femmes_.
+
+Enfin, de nos jours, une Allemande au talent indiscutable, Mme
+Boelhau, avait l'audace et la superbe franchise de rÃ©pondre: Â«La
+femme est une demi-BÃªteÂ».
+
+VoilÃ  donc, trÃ¨s briÃ¨vement rÃ©sumÃ©es, les opinions que l'on a
+eues sur les femmes. Certes, la question n'est point rÃ©solue et
+ce tableau aux larges coups de crayon, Ã  l'emporte-piÃ¨ce, ne nous
+donne point la solution de cet Ã©ternel problÃ¨me: qui est-elle? Il
+permet cependant, malgrÃ© son pessimisme poussÃ© Ã  outrance, de se
+faire une idÃ©e de ce petit Ãªtre qui gÃ©mit et qui pleure en demandant
+aujourd'hui sa part de gÃ¢teau politique et social. Que conclure?
+Le mieux serait, semble-t-il, de s'abstenir. Certes, il existe
+de par les livres enthousiastes et profondÃ©ment fÃ©ministes, des
+expressions et des chapitres nous reprÃ©sentant la femme comme un Ãªtre
+supÃ©rieur et d'essence divine. Nous ne prendrons point parti dans ces
+comparaisons, notre but ayant Ã©tÃ© simplement d'esquisser un lÃ©ger
+portrait de notre compagne. Et si maintenant, Mesdames, vous trouviez
+ridicules et malsonnantes ces apprÃ©ciations par trop rÃ©alistes,
+mais cependant justes dans leur dÃ©licieuse concision, pour essayer
+d'attÃ©nuer votre douleur et calmer votre dÃ©pit, disons avec le
+grand Proudhon: Â«Non, toutes ces imprÃ©cations ne sont qu'un hommage
+dÃ©sespÃ©rÃ© Ã  votre Ã©ternelle beautÃ©.Â»
+
+
+
+
+CHAPITRE II
+
+RAISONS POUR LESQUELLES LA FEMME DOIT VOTER
+
+
+1re: La femme doit voter parce que la loi ne lui enlÃ¨ve point ce droit
+
+Â«_Sont Ã©lecteurs tous les FranÃ§ais Ã¢gÃ©s de 21 ans et jouissant de
+leurs droits civils et politiques_Â».
+
+Le suffrage universel, tel est le mode de vote de la nation
+franÃ§aise. Mais existe-t-il vraiment dans toute la plÃ©nitude de sa
+conception et malgrÃ© la merveilleuse et gÃ©nÃ©reuse idÃ©e de cette
+expression, n'y aurait-il pas un mirage trompeur faussant sa portÃ©e
+et son fonctionnement?
+
+Et tout d'abord, comme Ã  toute rÃ¨gle, nous trouvons des exceptions.
+Le Code, dans sa rigiditÃ© absolue, nous Ã©numÃ¨re les diffÃ©rentes
+sortes d'incapables. Ce sont:
+
+1Âº Les individus condamnÃ©s soit Ã  des peines afflictives ou
+infamantes, soit Ã  des peines infamantes seulement (suit
+l'Ã©numÃ©ration des diverses condamnations et peines);
+
+2Âº Les interdits;
+
+3Âº Les faillis non rÃ©habilitÃ©s dont la faillite a Ã©tÃ© dÃ©clarÃ©e soit
+par les tribunaux franÃ§ais, soit par jugements rendus Ã  l'Ã©tranger
+mais exÃ©cutÃ©s en France (modifiÃ© par la loi du 31 dÃ©cembre 1904). Loi
+du 2 fÃ©vrier 1852, modifiÃ©e par celle du 24 janvier 1859.
+
+Ainsi, en dehors de cette Ã©numÃ©ration d'incapables, nous concluons,
+anomalie Ã©trange, qu'un citoyen, fÃ»t-il illettrÃ©, stupide, idiot,
+parfait gredin ou malhonnÃªte sans condamnation, demi-fou ou voleur
+rÃ©habilitÃ©, a le droit, au nom des lois de la RÃ©publique franÃ§aise,
+de dÃ©poser dans l'urne son bulletin de vote.
+
+Et la femme? Pourquoi l'assimiler Ã  cette catÃ©gorie peu intÃ©ressante
+d'individus: Â«Est incapable toute personne que la loi prive de
+certains droitsÂ». Mais avons-nous un texte de loi autorisant Ã 
+affirmer que les femmes sont comprises parmi les incapables? Non.
+Pourquoi alors Ã©tablir contre elle une prÃ©somption d'incapacitÃ©?
+
+Et ce fameux suffrage, dit lÃ©galement universel, n'est-il point alors
+limitÃ©? La souverainetÃ©, dit Turgeon, ne dÃ©coule pas exclusivement
+soit des hommes, soit des femmes, mais du peuple entier, de tous les
+membres de la nation, de l'ensemble des hommes et des femmes. D'un
+mot, elle est bisexuelle. Cela Ã©tant, la conclusion s'impose: tous
+souverains, tous Ã©lecteurs.
+
+L'Ã©lÃ©gante place rÃ©servÃ©e Ã  la femme entre un failli ou un voleur! Et
+cela au nom de quelle loi? au nom de quel texte?
+
+Â«Aujourd'hui, la femme est moins encore que le gredin, que l'enfant,
+que l'aliÃ©nÃ©, car le fripon redevient citoyen Ã  l'expiration de sa
+peine, le mineur est capable au jour de sa majoritÃ©, l'aliÃ©nÃ© en
+recouvrant sa raison est restituÃ© dans ses droits, tandis que la
+femme, quelles que soient son intelligence, sa sagesse, ses vertus,
+demeure toujours la condamnÃ©e, la proscrite, l'Ã©ternelle mineure, la
+perpÃ©tuelle dÃ©chueÂ»[16].
+
+  [16] Franck: _Grand catÃ©chisme de la femme_.
+
+Incapable! Â«Quand je pense, s'Ã©crie Alexandre Dumas fils, que Jeanne
+d'Arc ne pourrait pas voter pour les conseillers municipaux de
+DomrÃ©my, dans ce beau pays de France qu'elle aurait sauvÃ©Â»[17].
+
+  [17] Lettre Ã  Maria ChÃ©liga: _Revue EncyclopÃ©dique_, 1885.
+
+La discussion est certainement sÃ©rieuse et mÃ©rite qu'on pÃ¨se la
+valeur des arguments pour ou contre. Il est exact qu'on ne trouve
+pas dans le Code un texte refusant aux femmes le droit de voter. Il
+est encore exact que la femme n'est point comprise dans la liste
+des incapables. Mais ceux qui, obstinÃ©ment, s'appuyant sur ces deux
+constatations, sans vouloir un seul instant discuter, se bouchent les
+oreilles et disent: La loi n'interdit pas aux femmes de voter..., le
+mot citoyen signifie: personne des deux sexes..., donc la femme a le
+droit de voter, ces gens-lÃ  raisonnent mal ou plutÃ´t ne raisonnent
+pas du tout.
+
+Il n'y a pire sourd que celui qui ne veut pas entendre. Quiconque
+prend un texte au pied de la lettre, sans le comprendre ou
+l'approfondir, risque fort d'en altÃ©rer le sens et la portÃ©e. VoilÃ 
+pourquoi il s'est Ã©tabli Ã  cÃ´tÃ© du Code, parfois barbare dans sa
+sÃ©cheresse brÃ¨ve et sa rigueur immuable, un courant parallÃ¨le qu'on
+appelle la jurisprudence.
+
+Cette jurisprudence, Ã©tablie non point pour corriger la Loi, mais
+simplement pour la rendre plus souple, plus mallÃ©able, Ã©claire Ã  la
+lueur des textes et principalement de la raison et du bon sens les
+articles obscurs et sujets Ã  discussion. Elle permet ainsi d'Ã©viter
+souvent de nombreuses erreurs, car n'oublions pas que les extrÃªmes se
+touchent. Une justice extrÃªmement rigoureuse et toujours Ã©nergique ne
+serait souvent que de l'injustice.
+
+Que dire alors de l'interprÃ©tation de ce texte Ã  l'aide de la
+jurisprudence: Â«Sont Ã©lecteurs tous les FranÃ§ais Ã¢gÃ©s de vingt et un
+ans et jouissant de leurs droits civils et politiquesÂ»!
+
+Le lÃ©gislateur a-t-il voulu donner aux femmes le droit de voter?
+Non, certainement non. Nous avons tout d'abord pour nous les travaux
+prÃ©paratoires; en second lieu le simple bon sens qui nous dit: Si
+le lÃ©gislateur avait eu l'intention bien arrÃªtÃ©e de confÃ©rer au
+sexe fÃ©minin le droit d'Ãªtre Ã©lecteur, il aurait nettement mis dans
+l'article l'expression: Â«FranÃ§aiseÂ». Qui oserait soutenir que le mot
+FranÃ§ais vise les personnes des deux sexes? Pourquoi jouer ainsi sur
+les mots et leur accorder un sens que tout Ãªtre intelligent se refuse
+Ã  leur reconnaÃ®tre.
+
+Nous avons enfin un arrÃªt de la Cour de Cassation sur l'affaire de
+Mlle Barberousse qui, en 1885, invoquait l'universalitÃ© des lois
+Ã©lectorales, prÃ©tendant que le mot Â«FranÃ§aisÂ» englobait les deux
+sexes.
+
+Cet arrÃªt faisant jurisprudence, nous nous faisons un plaisir de le
+reproduire in extenso.
+
+La Cour de Cassation, par arrÃªt du 5 mars 1885, rejeta le pourvoi:
+
+Â«Attendu qu'aux termes de l'article 7 du Code civil, l'exercice des
+droits civils est indÃ©pendant de la qualitÃ© de citoyen, laquelle
+confÃ¨re seule l'exercice des droits politiques et ne s'acquiert que
+conformÃ©ment Ã  la loi constitutionnelle;
+
+Â»Attendu que si les femmes jouissent des droits civils dans la mesure
+dÃ©terminÃ©e par la loi, suivant qu'elles sont cÃ©libataires ou mariÃ©es,
+aucune disposition constitutionnelle ou lÃ©gale ne leur a confÃ©rÃ© la
+jouissance et par suite l'exercice des droits politiques;
+
+Â»Attendu que la jouissance de ces derniers droits est une condition
+essentielle de l'inscription sur les listes Ã©lectorales;
+
+Â»Attendu que la Constitution du 4 novembre 1848, en substituant
+le rÃ©gime du suffrage universel au rÃ©gime du suffrage censitaire
+ou restreint dont les femmes Ã©taient exclues, n'a point Ã©tendu Ã 
+d'autres qu'aux citoyens du sexe masculin, qui jusqu'alors en
+Ã©taient seuls investis, le droit d'Ã©lire les reprÃ©sentants du pays
+aux diverses fonctions Ã©lectives Ã©tablies par les constitutions
+et par les lois; que cela rÃ©sulte manifestement des lois du 11
+mars 1849, 2 fÃ©vrier 1852, 7 juillet 1874 et 5 avril 1884, mais
+plus encore de leur esprit attestÃ© par les travaux et discussions
+qui les ont prÃ©parÃ©es et aussi par l'application ininterrompue et
+jamais contestÃ©e qui en a Ã©tÃ© faite depuis l'institution du suffrage
+universel, lors de la formation premiÃ¨re ou de la rÃ©vision annuelle
+des listes Ã©lectorales;
+
+Â»D'oÃ¹ il suit qu'en dÃ©clarant que la demoiselle L. Barberousse ne
+devait point Ãªtre inscrite sur les listes Ã©lectorales le jugement
+attaquÃ©, loin de violer les dispositions de la loi invoquÃ©e par le
+pourvoi, en a fait juste application; rejette le pourvoi....Â»
+
+L'arrÃªt est des plus clair: la question est nettement tranchÃ©e. Ce
+n'est plus un texte sec et aride qu'on applique, c'est la discussion,
+c'est l'interprÃ©tation, c'est la jurisprudence qui fait loi.
+Concluons donc: lÃ©galement la femme n'a pas droit de voter!
+
+Pourquoi? direz-vous, peut-Ãªtre, Mesdames! Le lÃ©gislateur serait-il
+infaillible! A cela nous n'osons rÃ©pondre. Nous aimons mieux laisser
+cette douce tÃ¢che au cÃ©lÃ¨bre Ã©conomiste M. Giddes, devant la
+compÃ©tence duquel vous vous inclinerez certainement:
+
+Â«C'est dans l'intÃ©rÃªt de l'ordre et des bonnes mÅurs que tous
+les lÃ©gislateurs ont d'un commun accord refusÃ© Ã  la femme toute
+participation aux droits politiques. De tous temps, l'instinct des
+peuples a senti que la femme en sortant de l'ombre et de la paix du
+foyer pour s'exposer au grand jour et aux agitations de la place
+publique, perdrait quelque chose du charme qu'elle exerce et du
+respect dont elle est l'objetÂ».
+
+Mesdames les fÃ©ministes, mÃ©ditez longuement ces admirables lignes.
+Il y va de votre charme, de votre beautÃ©, de votre cÅur, de votre
+douceur et de votre esprit. Abandonnez ce rÃªve excentrique de la
+femme Ã©lecteur. Croyez-nous, le geste ne serait point Ã©lÃ©gant et
+vous risqueriez fort de changer en un dÃ©sert l'autel oÃ¹ tous vos
+adorateurs viennent en foule se prosterner Ã  vos pieds!
+
+
+2e: La femme doit voter parce qu'elle est l'Ã©gale de l'homme
+
+Le sexe constitue-t-il une infÃ©rioritÃ© ou une supÃ©rioritÃ©, selon
+qu'il est mÃ¢le ou femelle? Non. La femme est l'Ã©gale de l'homme,
+c'est-Ã -dire qu'entre ces deux crÃ©atures il n'existe aucune
+diffÃ©rence, soit au point de vue physique, soit au point de vue
+intellectuel et moral. Nous n'avons qu'un Ãªtre subdivisÃ© en deux
+parties: l'homme et la femme. Ces deux parties sont identiques,
+Ã©gales, se valent, et par conclusion auront les mÃªmes devoirs et
+nÃ©cessairement les mÃªmes droits.
+
+Examinons en premier lieu le cÃ´tÃ© scientifique.
+
+La maternitÃ© n'est point, comme certains savants l'ont prÃ©tendu,
+une des causes primordiales de l'Ã©tat d'abaissement dans lequel la
+femme est restÃ©e stationnaire. La maternitÃ© est une des fonctions
+les plus belles et les plus sacrÃ©es qui donne Ã  la femme son aurÃ©ole
+d'Ã©ternelle tendresse et nul ne songerait Ã  prÃ©tendre sÃ©rieusement
+qu'elle constitue Ã  son Ã©gard une cause d'infÃ©rioritÃ©. Darwin,
+Lombroso, le docteur Cleisz nous dÃ©montrent qu'elle n'oblige point la
+femme de jouer un rÃ´le social infÃ©rieur Ã  celui de l'homme.
+
+Si nous examinons le cÃ´tÃ© anthropologique, nous nous heurtons Ã  des
+discussions plus acharnÃ©es et plus vives. Les uns, se basant sur la
+grandeur de la boÃ®te cranienne et le poids du cerveau, soutiennent
+que la femme est plus intelligente que l'homme. Le docteur Buchner
+affirme que sous le rapport du poids, le cerveau fÃ©minin l'emporte
+sur le cerveau masculin, par sa finesse, sa texture intime et la
+dÃ©licatesse de chacune de ses parties[18].
+
+  [18] _L'homme et la science_, p. 259.
+
+Havelock Ellis dÃ©montre que l'homme ne possÃ¨de aucune supÃ©rioritÃ©
+relative en ce qui concerne l'ensemble du cerveau. S'il y a
+supÃ©rioritÃ©, elle est du cÃ´tÃ© de la femme[19].
+
+  [19] Etnographie, 1895.
+
+M. Manouvrier nous fait toucher du doigt l'erreur dans laquelle
+sont tombÃ©s les anthropologistes qui ont voulu voir, dans les 100
+grammes de substance cÃ©rÃ©brale que possÃ¨de la femme, la preuve de son
+infÃ©rioritÃ©[20].
+
+  [20] _Revue socialiste_, 1908, Docteur Madeleine Pelletier.
+
+Un curieux exemple de supÃ©rioritÃ© de la femme sur l'homme est donnÃ©
+par Elisa Faarham. Elle affirme que si le serpent s'est adressÃ© Ã 
+la premiÃ¨re femme, c'est que celle-ci Ã©tait Ã©videmment supÃ©rieure Ã 
+l'homme. De mÃªme la postcrÃ©ation de la femme lui donne Ã  penser que
+l'homme en a Ã©tÃ© l'Ã©bauche.
+
+L'anthropologie criminelle nous montre la femme moins sujette Ã 
+la maladie, moins Ã©rotique, moins criminelle. Lombroso, aprÃ¨s de
+nombreuses observations, conclut: Â«Les progrÃ¨s de la civilisation
+tendent Ã  l'Ã©galitÃ© des sexesÂ»[21].
+
+  [21] _La femme criminelle._
+
+Au point de vue intellectuel, qui soutiendra que la femme, depuis
+l'antiquitÃ©, n'a point produit des Åuvres aussi fortes, aussi
+puissantes que celles des hommes; n'a-t-elle point eu des figures
+aussi nobles et aussi belles que les plus grandes illustrations
+masculines? N'ont-elles point dans leur galerie: Jeanne d'Arc,
+Charlotte Corday, CÃ©cile Renault, Elisabeth d'Angleterre, Isabelle
+Ier, Catherine II de Russie, Berthe de Bourgogne. Voici ClÃ©mence
+Isaure, Marie de Gournay, Mme de la Fayette, Mme DeshouliÃ¨res, Mme de
+SÃ©vignÃ©, Mme de StaÃ«l, George Sand, la marquise de ChÃ¢telet, etc.,
+etc. (Nous ne citons pas nos contemporaines de peur de froisser leur
+modestie.)
+
+La femme n'a-t-elle point eu d'illustres reprÃ©sentantes dans tous les
+arts, dans toutes les sciences?
+
+Pourquoi donc vouloir Ã  tout prix qu'elle soit infÃ©rieure Ã  l'homme?
+
+MalgrÃ© ce faisceau de preuves et de noms, nous nous abstiendrons
+de prendre position dans cette querelle, estimant, comme nous le
+dÃ©montrerons tout Ã  l'heure, qu'il n'y a pas lieu de rechercher si la
+femme est Ã©gale, infÃ©rieure ou supÃ©rieure Ã  l'homme. Pour rÃ©pondre
+Ã  ces attaques, nous nous contenterons de rÃ©sumer simplement les
+rÃ©ponses que l'on pourrait fournir.
+
+Peu nous importe, malgrÃ© l'assertion des savants, de savoir si le
+crÃ¢ne de la femme est supÃ©rieur au crÃ¢ne de l'homme, ou si le cerveau
+fÃ©minin pÃ¨se plus que le cerveau masculin.
+
+Peu nous importe, malgrÃ© les Ã©tudes approfondies de la doctoresse
+Madeleine Pelletier, que la comparaison de la glabelle des arcades
+sourciliÃ¨res, des mandibules et des crÃªtes d'insertion, la conduisent
+Ã  la conclusion que l'homme se rapproche plus du singe que la
+femme![22].
+
+  [22] _Revue socialiste_, 1908.
+
+Cela nous rappelle la spirituelle rÃ©flexion d'une jeune fille arrÃªtÃ©e
+devant les singes du Jardin des Plantes: Â«AprÃ¨s tout, il ne leur
+manque que de l'argentÂ». Peu flatteur, n'est-ce pas? Mais enfin,
+Madame la doctoresse Pelletier, si nous sommes des dÃ©gÃ©nÃ©rÃ©s, ayez la
+bonne grÃ¢ce d'avouer que nous sommes des dÃ©gÃ©nÃ©rÃ©s supÃ©rieurs! Vous
+ne pourriez en dire autant?
+
+Donc transporter la discussion sur le terrain scientifique pour
+savoir si la femme est l'Ã©gale ou l'infÃ©rieure de l'homme nous semble
+tÃ©mÃ©raire. Les arguments sont purement thÃ©oriques, les conclusions
+fantaisistes, et, de plus, il n'est nullement dÃ©montrÃ© qu'il existe
+un rapport entre la capacitÃ© cranienne ou le volume du cerveau et
+l'intelligence[23]. La question reste entiÃ¨re.
+
+  [23] Madaillac: _Les premiers hommes_.
+
+Il n'en est point de mÃªme de la femme au point de vue intellectuel.
+En toute sincÃ©ritÃ©, Mesdames, en envisageant la question de
+sang-froid et avec impartialitÃ©, croyez-vous qu'une comparaison
+puisse Ãªtre faite avec l'homme? Non! Nous vous accordons et
+reconnaissons volontiers la prÃ©sence dans votre camp de femmes d'une
+rare intelligence et d'un rÃ©el talent. Nous reconnaissons l'existence
+d'Åuvres fortes et puissantes crÃ©Ã©es par votre gÃ©nie. Dans toutes
+les branches de la science humaine, des femmes ont eu l'aurÃ©ole de
+la cÃ©lÃ©britÃ©, mais ne sont-ce point lÃ  des types d'exception qui
+tiendraient tous dans un salon? Et si nous envisageons en gÃ©nÃ©ral,
+toutes les femmes depuis le commencement des siÃ¨cles en posant cette
+question que vous doit l'humanitÃ©? nous sommes forcÃ©s de rÃ©pondre:
+Rien ou pas grand chose. Dans vos plus brillantes manifestations,
+votre esprit n'a pas atteint les hauts sommets de la pensÃ©e, il est
+restÃ© pour ainsi dire Ã  mi-cÃ´te[24].
+
+  [24] Madame d'Agout: _Revue EncyclopÃ©dique_, 1896.
+
+Â«Les femmes n'ont fait ni l'_Illiade_, ni l'_EnÃ©ide_, ni la _JÃ©rusalem
+dÃ©livrÃ©e_, ni _PhÃ¨dre_, ni _Tartuffe_, ni _Athalie_, ni _Polyeucte_, ni
+le PanthÃ©on, ni la VÃ©nus de MÃ©dicis, ni l'Appollon du BelvÃ©dÃ¨re. Elles
+font quelque chose de plus grand. C'est sur leurs genoux que se forme
+ce qu'il y a de plus excellent au monde: un homme et une femme[25].Â»
+
+  [25] Joseph de Maistre.
+
+Â«Toute Åuvre forte de la civilisation est un fruit du gÃ©nie de
+l'hommeÂ»[26].
+
+  [26] Michelet.
+
+Vous invoquez Jeanne d'Arc, Mesdames! Qu'aurait-elle Ã©tÃ© sans ses
+prÃ©tendues voix? Et puis, Ã  la fille Ã  soldats, Ã  l'hÃ©roÃ¯ne coureuse
+d'aventures, Ã  l'immortelle franÃ§aise aux mÅurs libres et au cÅur
+chevaleresque, oseriez-vous aujourd'hui, comtesses et nobles dames
+tendre vos belles mains gantÃ©es, vous qui par pose et snobisme voulez
+faire vÃ´tre une femme que vous auriez dÃ©daignÃ©e et repoussÃ©e.
+
+Vous nous citez des noms de grandes reines! Savez-vous pourquoi
+une reine gouverne mieux qu'un homme? C'est que sous une reine
+c'est d'ordinaire un homme qui dirige, tandis que sous un roi c'est
+gÃ©nÃ©ralement une femme[27].
+
+  [27] RÃ©ponse de la duchesse de Bourgogne Ã  Madame de Maintenon.
+
+Non, comme nous le disions tout Ã  l'heure, la question est mal posÃ©e.
+Chercher Ã  comparer la femme Ã  l'homme, savoir si elle lui est Ã©gale,
+infÃ©rieure ou supÃ©rieure, est un faux dÃ©part, car la femme est autre
+que l'homme.
+
+Oui il serait fou, d'une folie sans excuse, de parler de la
+supÃ©rioritÃ© d'un sexe sur l'autre, parce que l'on ne peut comparer
+deux Ãªtres ayant la mÃªme origine et qui diffÃ¨rent dans tous les
+dÃ©tails; parce que l'homme et la femme sont deux moitiÃ©s d'un
+tout, semblables mais non Ã©gales; parce que la femme n'est ni le
+_sexus sequior_ dont parle Schopenhauer, pas plus qu'elle n'est
+l'homme-femme de Stuart Mill.
+
+Et c'est heureux, car cette dÃ©formation accomplie l'humanitÃ©
+pÃ©rirait[28].
+
+  [28] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Et si ce n'est pas l'Ã©galitÃ© que l'on cherche, si c'est l'identitÃ©
+ou la suppression des diffÃ©rences, disons tout d'abord que cette
+suppression est impossible. Â«L'esprit d'une femme et son cÅur ne
+sont ni l'esprit ni le cÅur d'un hommeÂ»[29]. Combien on doit s'en
+fÃ©liciter.
+
+  [29] Jules et Gustave Simon: _La femme au XXe siÃ¨cle._
+
+VoilÃ  pourquoi la femme Ã©tant autre que l'homme et par consÃ©quent
+n'Ã©tant point son Ã©gale doit avoir seulement les droits de son sexe
+et non ceux des hommes! Aussi ne devons-nous point sourire Ã  la
+lecture de ces phrases: Â«DÃ¨s que l'Ã©galitÃ© sexuelle sera conquise, la
+femme au contact de la vie contractera cette duretÃ© de cÅur, apanage
+jusqu'ici de l'autre sexe. FrappÃ©e, elle frappera; blessÃ©e, elle
+blessera; spoliÃ©e, elle spoliera[30].Â»
+
+  [30] Madeleine Pelletier: _Revue socialiste_, 1908.
+
+Oh! l'Ã©trange et disgracieux type de femme que rÃªve Mme Pelletier!
+Quel monstre! et quelle chose plus navrante que cet Ãªtre asexuÃ©!
+Mais vouloir enlever Ã  la femme la seule chose qui la rende belle et
+bonne: sa tendresse; vouloir la lancer dans les combats pour qu'elle
+lutte, qu'elle frappe, et qu'elle... tombe! O! l'horrible cauchemar!
+Non! de l'homme et de la femme n'en faites point des Ã¢mes ennemies;
+ne proclamez pas le divorce des sexes, il y aurait trop de misÃ¨res et
+trop de deuils!
+
+
+3e: La femme doit voter pour dÃ©fendre ses intÃ©rÃªts attaquÃ©s et sa
+libertÃ© compromise
+
+L'on nous dit: permettez aux femmes de voter, elles commenceront
+par demander une augmentation de salaire. N'est-il pas navrant de
+voir encore de nos jours des patrons, des directeurs de maison de
+commerce, assez peu scrupuleux pour obliger leurs ouvriÃ¨res Ã  un
+travail quotidien de douze et parfois quinze heures.
+
+Regardons les journÃ©es d'une midinette: Ã  8 heures elle rentre Ã 
+l'atelier jusqu'Ã  midi. Une heure pour rÃ©parer ses forces grÃ¢ce Ã  un
+frugal repas n'excÃ©dant pas le plus souvent 75 centimes. De 1 heure Ã 
+7 heures 1/2 travail. Et dans les journÃ©es Â«Ã  poussÃ©esÂ», les veilles
+jusqu'Ã  minuit achÃ¨vent d'Ã©puiser ses forces affaiblies. Tout cela
+pour un modeste salaire de 20 Ã  30 sous par jour!
+
+Que dire de ces millions de braves femmes peinant tout un jour pour
+gagner pÃ©niblement 1 fr. 25, 1 fr. 50? Â«Six millions de femmes
+manient Ã  l'heure actuelle l'aiguille, la plume, l'Ã©bauchoir, le
+livre d'enseignement, le scalpel, le Code, les leviers, les volants,
+les manettes Ã  l'usine, la machine Ã  Ã©crire dans les bureaux. Songez
+que prÃ¨s de trois millions de femmes se courbent sur la terre et
+qu'on compte prÃ¨s d'un million de domestiques femmes. Refusera-t-on
+Ã  ces laborieuses le droit de choisir des mandataires conscients ou
+conscientes de leurs intÃ©rÃªts?Â»[31].
+
+  [31] Paul Marguerite: _Le Journal_, 1909.
+
+Pourquoi nous enlever en outre le droit de disposer librement de
+nos salaires? La loi ne devrait-elle pas dÃ©fendre le produit de
+notre travail contre un mari peu scrupuleux, gaspillant et dissipant
+au cafÃ© le produit d'une semaine d'efforts. Oui les femmes ont
+raison de dire: puisque vous, hommes et lÃ©gislateurs, vous vous
+dÃ©clarez incapables de nous protÃ©ger contre des maris sans vergogne
+et sans pudeur, puisque vos lois ne dÃ©fendent que les intÃ©rÃªts de
+vos semblables, donnez-nous au moins le droit de nous protÃ©ger, de
+conserver ce que notre travail nous donne, accordez-nous le droit
+de voter. Et puis que dire de cet asservissement, de cet esclavage,
+de cette infÃ©rioritÃ© dans lequel le mari, grÃ¢ce aux liens du
+mariage, nous tient continuellement courbÃ©es? Notre opinion dans une
+discussion n'est rien, notre volontÃ© est sans cesse annihilÃ©e, nos
+droits sont Ã©ternellement violÃ©s. Qui dit femme mariÃ©e dit esclave,
+dit servante.
+
+Vos rÃ©clamations, mesdames, sont justes, mais peut-Ãªtre entourÃ©es par
+instant d'une fausse sensibilitÃ© et d'un sentimentalisme excessif
+nuisant Ã  leur justesse. Il faut toujours se mÃ©fier du cÅur, dans les
+discussions; c'est un trÃ¨s mauvais conseiller, surtout chez vous,
+mesdames, et examiner une question avec impartialitÃ© quand on fait
+appel Ã  ce viscÃ¨re, nous paraÃ®t impossible.
+
+Quand vous vous Ã©criez: les salaires des femmes sont insuffisants en
+comparaison de leur travail, nous sommes entiÃ¨rement d'accord avec
+vous. Il est, en effet, inadmissible que certains patrons exploitent
+ainsi des jeunes filles sans guide et sans soutien. Et si dans vos
+rÃ©clamations il est une note juste, une raison sÃ©rieuse qui milite en
+faveur de votre rÃ©volte, c'est bien celle-lÃ . Mais le remÃ¨de Ã  vos
+maux n'est point dans le bulletin de vote.
+
+Dites Ã  ces femmes admirables, gÃ©nÃ©rales de votre armÃ©e, dites-leur
+vos souffrances et vos misÃ¨res. Que des brochures, que des
+confÃ©rences dÃ©noncent Ã  la vindicte publique ces exploiteurs du
+travail fÃ©minin, les grands couturiers, les grands tailleurs, les
+grands patrons d'usines, les grands directeurs de salons de mode.
+Traquez-les, nommez-les, intÃ©ressez des hommes influents, des
+parlementaires actifs Ã  vos malheurs. Soyez impitoyables dans vos
+attaques et fermes dans vos rÃ©solutions; et si malgrÃ© toute votre
+Ã©nergie le triomphe ne couronne pas vos efforts, n'hÃ©sitez pas:
+proclamez la grÃ¨ve, le seul moyen lÃ©gal qui vous reste. Et tous les
+gens de cÅur vous soutiendront.
+
+Il ne faudrait point cependant, Mesdames, exagÃ©rer! Et quand vous
+parlez dans toutes les branches de l'industrie de salaires de misÃ¨re,
+nous vous disons: casse-cou, le cÅur commence Ã  parler. Non, la
+femme n'est point l'Ã©ternelle exploitÃ©e, comme vous vous plaisez Ã  le
+proclamer. Il n'est pas rare de trouver Ã  Paris et dans nos grandes
+villes des femmes gagnant 5 et 6 francs, sans fournir pour cela un
+travail au-dessus de leurs forces. Les grandes administrations de
+l'Ãtat, Postes, MinistÃ¨res, les grandes Compagnies, les entreprises
+privÃ©es, les exploitations agricoles, les maisons de commerce, les
+Ã©coles et les lycÃ©es paient normalement, sans affamer leurs employÃ©es.
+
+Notons que sur cinq millions et demi de femmes exerÃ§ant une
+profession, le nombre de femmes employÃ©es dans ces diffÃ©rentes
+branches s'Ã©lÃ¨ve Ã  prÃ¨s de trois millions et demi, leurs salaires
+variant entre 5 et 8 francs, sans nÃ©gliger, pour quelques-unes, le
+prÃ©cieux avantage d'une retraite.
+
+Ainsi donc, le but vers lequel devraient tendre tous vos efforts
+serait l'augmentation d'un salaire pour les femmes dont les travaux,
+soit de jour, soit de nuit, sont rÃ©munÃ©rÃ©s bien au-dessous de leur
+valeur. Pour cela, point n'est besoin d'agiter incessamment au-dessus
+de vos sÅurs le drapeau des revendications de vos droits politiques.
+Point n'est besoin de vous Ã©crier tragiquement: Hors de l'urne, point
+de salut!
+
+Non, Mesdames, ce moyen est ridicule. Concentrez plutÃ´t tous vos
+efforts Ã  vous grouper, Ã  vous unir, Ã  vous sentir les coudes;
+commencez Ã  ne plus vous dÃ©nigrer, Ã  ne plus vous battre entre
+illustres fÃ©ministes; sachez savoir, vous les directrices du
+mouvement, faire souvent abstraction de vous-mÃªmes et ne point
+toujours ambitionner la place de gÃ©nÃ©ralissime ou de colonelle!
+Faites-vous les champions de cette noble cause: le relÃ¨vement du
+salaire de la femme; crÃ©ez, par vos journaux, par vos revues, par vos
+confÃ©rences, une agitation intense; faites appel aux noms illustres
+et aux cÅurs gÃ©nÃ©reux, vous trouverez encore en France des hommes qui
+sauront dÃ©fendre vos droits. Mais de grÃ¢ce, ne perdez pas votre temps
+Ã  de futiles discussions, descendez des brumes de vos rÃªves fous pour
+rentrer dans le domaine des rÃ©alitÃ©s. Et si, tÃªtues et inflexibles,
+vous n'aviez d'Ã©loquence et d'Ã©nergie que pour la dÃ©fense du bulletin
+de vote vous permettant de faire des lois en votre faveur, nous vous
+rÃ©pondrions: Â«Mais enfin, les hommes peuvent bien en faire autant, et
+si vous aviez su vous y prendre, ce serait dÃ©jÃ  fait.Â»
+
+Il en est de mÃªme de la libre disposition de vos salaires. La preuve
+certaine des bons rÃ©sultats obtenus par vos groupements fÃ©ministes,
+et de la sollicitude avec laquelle sont examinÃ©es vos justes
+revendications, c'est la loi de 1907 donnant Ã  la femme mariÃ©e le
+droit de disposer comme il lui plaÃ®t de son salaire, loi obtenue
+grÃ¢ce au dÃ©vouement intelligent et Ã  la persÃ©vÃ©rance sensÃ©e d'une de
+vos plus illustres reprÃ©sentantes: Mme Jane Schmall. Alors pourquoi,
+donc, encore une fois, perdre votre temps Ã  trÃ©pigner comme des
+enfants devant les urnes en disant rageusement: Â«Moi je veux un
+bulletin de vote! na!Â» On rit, tout simplement, tandis que lorsque
+vous parlez sÃ©rieusement, on vous Ã©coute. La voie est ouverte! Ã  vous
+de savoir y pÃ©nÃ©trer et ne pas dÃ©vier du droit chemin des justes
+revendications.
+
+Arrivons enfin Ã  cette refonte du Code civil. Que proposent les
+fÃ©ministes le jour oÃ¹ elles auront le droit de voter: ObÃ©issance au
+mari, supprimÃ©e. DorÃ©navant, dans la famille moderne, deux tÃªtes,
+deux volontÃ©s, deux dÃ©cisions; chacun agira Ã  sa guise, la femme
+de son cÃ´tÃ©, l'homme du sien. Nous n'aurons plus alors des femmes
+esclaves, spoliÃ©es et enchaÃ®nÃ©es, elles seront libres, indÃ©pendantes,
+marchant les cheveux au vent dans le soleil de la libertÃ©!!!
+
+Comme thÃ©orie ce sera superbe; comme pratique ce sera piteux.
+
+Certes nous ne dirons point, avec M. Bonaparte, que nous aurons
+la hardiesse, de contredire: Â«La nature a fait de nos femmes nos
+esclaves; le mari a le droit de dire Ã  sa femme: Madame, vous ne
+sortirez pas, vous n'irez pas Ã  la comÃ©die, vous ne verrez plus telle
+ou telle personne, c'est-Ã -dire, Madame, vous m'appartiendrez corps
+et Ã¢meÂ»[32].
+
+  [32] Thibaudeau: _MÃ©moires sur le Consulat_.
+
+GÃ©nÃ©ral, vous exagÃ©rez, et comprendre ainsi son rÃ´le de maÃ®tre de
+maison serait trop dÃ©gradant pour la femme... et pour l'homme!
+
+Pas plus que la femme, l'homme ne doit commander dans un mÃ©nage.
+L'unitÃ© de direction que vous rÃ©clamez doit Ãªtre faite de deux
+volontÃ©s qui s'accordent, qui s'harmonisent, de la volontÃ© de
+l'Ã©poux et de l'Ã©pouse. Elle ne doit former qu'un tout qui
+n'atteindra sa perfection qu'aprÃ¨s de multiples froissements et
+d'innombrables heurts, mais enfin qui permettra au mÃ©nage de vivre
+heureux! Et ne taxez pas tout de suite de bourgeois deux Ã©poux
+qui s'aiment, qui vivent l'un pour l'autre, et dont les dÃ©cisions
+ne sont prises qu'aprÃ¨s un consentement mutuel. Vous Ãªtes faites,
+Mesdames, non point pour commander, mais pour conseiller; non
+point pour diriger, mais pour indiquer simplement la direction.
+Commander, Ãªtre directrice de votre intÃ©rieur, le pourriez-vous
+avec votre sensibilitÃ© poussÃ©e jusqu'Ã  l'exaspÃ©ration, avec votre
+nervositÃ©, votre exaltation et votre volontÃ© Â«sautillante comme les
+mouchesÂ»[33]. Non, mille fois non! Et puis, soyez franches comme nous
+allons l'Ãªtre. Dans presque tous les mÃ©nages, qui dirige, qui conduit
+moralement, insensiblement, et sans s'en douter la barque? Mais c'est
+vous, Mesdames!
+
+  [33] Kant.
+
+Les femmes Ã©gales de l'homme! Pourquoi? Elles nous font abdiquer
+quand cela leur plaÃ®t: Â«Voyez-moi, ma fille! Etais-je assez
+autoritaire, jadis? Eh bien, peu Ã  peu, j'ai pliÃ©. Mais quand Ã 
+inscrire la dÃ©chÃ©ance de l'homme dans les lois de la femme! ah! non,
+jamais, par exemple! Ce qui est sublime dans les femmes supÃ©rieures
+qui nous dominent, c'est qu'elles dominent leurs maÃ®tresÂ»[34].
+
+  [34] _Tata_, A. Dumas.
+
+Â«La femme est l'inspiratrice et la reine de la sociÃ©tÃ©. C'est d'elle
+que dÃ©pend en grande partie la maniÃ¨re de penser des hommesÂ»[35].
+
+  [35] Rousseau: _Lettre Ã  d'Alembert_.
+
+Oui, c'est vous qui grÃ¢ce Ã  votre tact, Ã  votre finesse, Ã  votre
+habiletÃ©, savez petit Ã  petit, par ce je ne sais quoi qui nous
+enlace, faire de vos maÃ®tres vos esclaves. LÃ©galement nous vous
+commandons. Pratiquement nous vous obÃ©issons.
+
+Et toujours et sans cesse, malgrÃ© vos rÃ©clamations et vos cris, il en
+sera ainsi de par le monde, car aucune loi ne peut changer le cÅur
+humain.
+
+Les gens heureux! Ils sont foule en notre beau pays de France.
+Â«Voulez-vous connaÃ®tre le secret des bons mÃ©nages? Chacun des Ã©poux
+reste Ã  sa place, le mari commandant sans en avoir l'air, la femme
+obÃ©issant sans en avoir conscience. Ils sont si Ã©troitement liÃ©s
+qu'ils ne forment qu'un cÅur et qu'une Ã¢me! Ils rÃ©alisent le mariage
+parfaitÂ»[36].
+
+  [36] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Oui, en France, la femme est la maÃ®tresse de maison malgrÃ© vos
+dÃ©clarations, Mesdames les fÃ©ministes. Vienne le jour oÃ¹ par un fait
+du hasard le plus Ã©trange elle soit dÃ©clarÃ©e lÃ©galement l'Ã©gale de
+l'homme, ce jour-lÃ  il n'y aura rien de changÃ© sous la coupole des
+cieux! Nous resterons toujours vos subordonnÃ©s, Â«car la femme est une
+esclave qui fait porter les chaÃ®nes Ã  son maÃ®treÂ».
+
+TrÃªve donc de vos rÃ©clamations. N'allumez point la guerre
+
+    OÃ¹ se jetant de loin un regard irritÃ©
+    Les deux sexes mourront chacun de son cÃ´tÃ©[37].
+
+  [37] Alfred de Vigny: _La colÃ¨re de Samson_.
+
+Continuez Ã  Ãªtre l'aimable conseillÃ¨re de l'homme, guidez-le avec
+votre tendresse si douce, secourez-le dans les moments d'abattement;
+soyez fiÃ¨res de votre rÃ´le actuel dans la famille, laissez de cÃ´tÃ©
+ces dÃ©fis que vous lancez au bon sens et souvenez-vous que beaucoup
+d'hommes disent avec Jules Simon: Â«Je repousse la domination des
+femmes, mais j'accepte leur influenceÂ».
+
+
+4e: La femme doit voter en France parce que les femmes votent dans
+les autres pays
+
+Si, Ã  un point de vue peut-Ãªtre trÃ¨s nouveau, le point de vue
+Ã©lectoral fÃ©minin, nous jetons les yeux sur la carte du monde, on
+aperÃ§oit l'hÃ©misphÃ¨re divisÃ© en deux parties. D'un cÃ´tÃ©, les pays
+oÃ¹ les femmes ont les mÃªmes droits politiques que les hommes; de
+l'autre, ceux oÃ¹ elles se contentent d'Ãªtre des Ã©pouses et des mÃ¨res
+de famille.
+
+Les Ãtats accordant le droit de suffrage aux femmes sont:
+
+La RÃ©publique de l'Equateur depuis 1861.
+
+Le Wyoming depuis 1869.
+
+L'Autriche, dans la classe de la grande propriÃ©tÃ©, depuis 1873.
+
+L'Ile de Man depuis 1881.
+
+La Finlande depuis 1893.
+
+La Nouvelle-ZÃ©lande et l'Ãtat de Colorado depuis 1893.
+
+L'Utah et l'Idaho.
+
+En Angleterre, toutes les femmes votent pour les principaux corps
+reprÃ©sentatifs locaux, qui sont:
+
+    Les conseils scolaires.
+          --     de gardiens.
+          --     paroissiaux.
+          --     municipaux.
+          --     de comtÃ©.
+
+Elles sont Ã©ligibles seulement dans les trois premiers. La seule
+liste dont les femmes soient exclues est la liste pour l'Ã©lection des
+membres du Parlement.
+
+Certains auteurs affirment que les rÃ©sultats ont Ã©tÃ© excellents;
+les Ã©lections ont toujours revÃªtu un caractÃ¨re de calme et de
+modÃ©ration qu'elles n'avaient jamais eu. Les femmes ont accompli ce
+nouveau devoir avec intÃ©rÃªt et conviction. Pourquoi donc une chose
+fonctionnant si bien dans les autres pays ne donnerait pas d'aussi
+bons rÃ©sultats en France? Les femmes votent au-delÃ  des mers; tout
+le monde a trouvÃ© cette nouvelle institution admirable. Qu'attend-on
+pour l'appliquer chez nous. Ne sommes-nous pas des femmes comme les
+Finlandaises, les AmÃ©ricaines ou les Anglaises?
+
+La solution est simple, mais elle est fausse.
+
+Il faut essentiellement se mÃ©fier de ces compte-rendus fantaisistes
+des journalistes nous annonÃ§ant que 3.000 femmes ont participÃ© au
+vote, tandis qu'un confrÃ¨re estime Ã  300 les suffragettes ayant usÃ©
+de leur nouveau droit politique. Tel enthousiaste fÃ©ministe proclame
+que la nouvelle loi a Ã©tÃ© accueillie avec joie; tel autre, plus
+calme, annonce que cette rÃ©forme a passÃ© complÃ¨tement inaperÃ§ue. Nous
+sommes encore trop prÃ¨s des Ã©vÃ©nements pour pouvoir les juger; les
+matÃ©riaux sÃ©rieux et les documents probants manquent pour essayer
+mÃªme de porter un timide jugement sur les rÃ©sultats obtenus et pour
+juger les effets. Le mieux est d'attendre! mais un journaliste le
+peut-il? Nous en doutons!
+
+Le raisonnement que vous faites, Mesdames, n'est guÃ¨re ingÃ©nieux. Les
+femmes votent en AmÃ©rique, en Finlande, etc. Pourquoi les FranÃ§aises
+ne feraient-elles pas de mÃªme?
+
+Puisque les Chinoises portent le deuil en blanc, que les nÃ©gresses
+se mettent des anneaux dans le nez, ou que les Japonaises, pour
+arrondir leur dot, font un an de stage dans les bateaux de fleurs,
+en feriez-vous autant? Et puis, vous oubliez la chose principale,
+la question des mÅurs, de tempÃ©rament. Â«Erreur en deci, vÃ©ritÃ© en
+deÃ§Ã Â». Ce qui peut Ãªtre raisonnable et naturel dans un pays, peut
+Ãªtre grotesque et fou dans un autre. Que la femme du Nord, plus
+froide, plus calme; que l'AmÃ©ricaine, plus flegmatique, puissent,
+avec leur Ã©ternelle indiffÃ©rence, exercer leur nouveau droit sans
+que rien dans leur vie ne soit changÃ©, nous l'admettons. Mais vous,
+FranÃ§aises, vous les enthousiastes, si sensibles, si changeantes,
+vous extrÃªmes en tout, qui Ãªtes la lÃ©gÃ¨retÃ© et l'insouciance mÃªme,
+capables des pires rÃ©solutions comme des actes les plus fous, comment
+pourriez-vous dÃ©poser un bulletin dans l'urne? Auriez-vous seulement
+le dÃ©sir de voter, d'exercer ce droit si fragile et si mobile, que
+l'on fait dÃ©vier par une promesse ou par une menace, vous qui Ãªtes Ã 
+la merci d'un sourire, d'une larme, d'une parole et d'un geste!
+
+Ah! le joli rÃ©sultat, le jour oÃ¹ vous pourrez avec un sÃ©rieux
+imperturbable inscrire sur vos cartes: Ã©lectrice! Quelle dÃ©cadence!
+
+Le _Mercure de France_ publiait dans son numÃ©ro du 1er fÃ©vrier 1904
+un article de Mme Charlotte Fabrier-Rieder, sur les Â«Femmes et le
+FÃ©minisme en AmÃ©riqueÂ». Entre autres choses plutÃ´t tristes, cette
+courageuse dame disait:
+
+Â«Il n'y a plus de vie de famille en AmÃ©rique, plus de femmes
+d'intÃ©rieur. L'homme travaille pour que la femme ait beaucoup
+d'argent Ã  dÃ©penser. L'homme est le vÃ©ritable esclave de la femme.
+Partout elle est prÃ©pondÃ©rante, elle collabore Ã  la vie sociale, elle
+accÃ¨de aux fonctions administratives et publiques, impose ses droits
+aux professions libÃ©rales, Ã  tel point qu'un journaliste de talent,
+M. Cleveland Moffett, se plaint que l'AmÃ©rique soit de tous les pays
+du monde celui oÃ¹ la femme reÃ§oit le plus de l'homme et lui donne le
+moins en Ã©change. La femme, dit-il, passe sa vie dans la fainÃ©antise,
+ne raccommode jamais, fait tout aussi bon marchÃ© de ses devoirs
+de mÃ¨re que d'Ã©pouse et de mÃ©nagÃ¨re. O femmes d'AmÃ©rique, prenez
+quelques leÃ§ons de la vieille Europe et en particulier de la France!
+
+Â»Prendre des leÃ§ons de la France, c'est un peu tard, puisque c'est
+elle qui est en train de s'amÃ©ricaniser et de se fÃ©miniserÂ»[38].
+
+  [38] _Mercure de France._
+
+Paul Parsy, lui, est moins catÃ©gorique:
+
+Â«FranÃ§ais et FranÃ§aises nous admirons en NorwÃ¨ge la femme qui
+s'avance en souveraine dans la citÃ©, mais les NorwÃ©giens et les
+NorwÃ©giennes admirent et envient la FranÃ§aise, femme d'intÃ©rieur,
+comme nous disons, souveraine de la maison et du foyer. Et peut-Ãªtre
+cette souverainetÃ©-ci vaut-elle cette souverainetÃ©-lÃ . Et peut-Ãªtre
+aussi ces deux souverainetÃ©s sont-elles conciliablesÂ»[39].
+
+  [39] _Annales politiques et littÃ©raires_, 7 novembre 1909.
+
+A notre humble avis, nous croyons Ã  l'Ã©ternelle sÃ©paration de ces
+souverainetÃ©s. Et si le rÃªve contraire se rÃ©alisait un jour, qu'au
+moins parmi nos sÅurs franÃ§aises il en reste toujours quelques-unes
+qui, selon le vers dÃ©licieux de Mme Fouqueux, veulent bien accepter
+
+    Ne vouloir Ãªtre rien, Ãªtre rien qu'une femme.
+
+
+5e: La femme doit voter parce qu'elle ferait des lois contre
+l'alcoolisme et de rÃ©gÃ©nÃ©ration sociale
+
+S'il est une plaie hideuse qui ronge notre pays, c'est bien celle
+de l'alcoolisme. De tous cÃ´tÃ©s, on entend rÃ©pÃ©ter cette sinistre
+constatation: Â«L'alcoolisme fait des progrÃ¨s effrayants, le flÃ©au
+contamine notre sang le plus pur. La France est perdue!Â»
+
+De toutes parts des cris alarmants sont poussÃ©s. Des cÅurs bons,
+des Ã¢mes gÃ©nÃ©reuses, fondent des sociÃ©tÃ©s dites de tempÃ©rance ou
+antialcooliques, pour enrayer le mal. La Chambre, devant le pÃ©ril
+croissant, augmente sans cesse les taxes sur les alcools et, anomalie
+Ã©trange, plus l'impÃ´t est lourd, plus le nombre des consommateurs
+augmente. Quel remÃ¨de dÃ©couvrir Ã  ce chancre rongeur de notre vie la
+meilleure et de notre force nationale? Comment arrÃªter le dÃ©bordement
+de ce vice effroyable qui mine, qui sape, qui brÃ»le les Ã©nergies
+indomptables, transformant un homme sain et vigoureux en une loque
+pantelante, en un Ãªtre condamnÃ© Ã  perpÃ©tuer une race rabougrie et
+dÃ©gÃ©nÃ©rÃ©e?
+
+Ce remÃ¨de, les femmes nous le proposent. Ce que vous n'avez pas le
+courage de faire, vous autres hommes, nous, femmes, nous le ferons.
+Donnez nous le droit de voter, et vous verrez si du jour au lendemain
+nos reprÃ©sentantes ne demanderont pas la fermeture immÃ©diate de ces
+bars, de ces cafÃ©s oÃ¹ l'homme, sans souci de sa dignitÃ©, gaspille
+et son argent et sa santÃ©, pendant que nous, les travailleuses, les
+hÃ©roÃ¯ques, les courageuses, peinons pour Ã©lever nos enfants, pour les
+nourrir et, malheureusement aussi, le plus souvent, pour permettre au
+mari d'assouvir sa passion verte avec notre argent honnÃªtement gagnÃ©.
+
+Ah! vos cabarets, messieurs les lÃ©gislateurs, quels admirables
+soutiens d'Ã©lections, quel nid plus sÃ»r oÃ¹ l'on est toujours certain
+de trouver la voix qui assurera le succÃ¨s, et cela moyennant une
+piÃ¨ce d'argent ou mÃªme un simple verre!
+
+Un ivrogne? Mais pour une fine on a sa voix! Le bistro! quel gros et
+influent Ã©lecteur! En voilÃ  un au moins connaissant ses clients et
+sachant par une tournÃ©e effacer une opinion ou changer la couleur de
+votre drapeau.
+
+VoilÃ  pourquoi, messieurs, vous permettez cette effrayante
+multiplication de dÃ©bits, de ces gouffres oÃ¹ meurent tous nos
+plus beaux rÃªves de jeunesse, toutes nos espÃ©rances et toutes nos
+illusions; de ces taudis infects oÃ¹ l'ouvrier vient s'empoisonner Ã 
+bon marchÃ©, oubliant dans sa griserie quotidienne femme, enfants,
+famille, travail!
+
+Et puis, c'est la misÃ¨re, la faim, l'horreur et la peur des coups!
+c'est pour l'homme le suicide ou le surin, pour la femme l'hÃ´pital ou
+le trottoir!
+
+Ces enfers! messieurs, laissez-nous voter, et demain nulle trace
+n'existera d'eux.
+
+Pas plus que ces lois infÃ¢mes contre la prostituÃ©e qui, le plus
+souvent, fille du peuple, bonne, commise ou trottin, a Ã©tÃ© jetÃ©e
+sur le pavÃ© des villes par un homme sans scrupule qui lÃ¢chement l'a
+abandonnÃ©e. Pas plus que ces rÃ¨glements de police soi-disant des
+mÅurs, qui traquent la fille publique comme une bÃªte, qui l'enserrent
+dans leurs filets, qui l'Ã©touffent dans leurs mailles pour la lancer
+dans la rue encore plus farouche, plus excitÃ©e, plus criminelle!
+
+La belle apostrophe, mesdames! et quel beau rÃªve!
+
+Reconnaissez tout d'abord avec nous qu'il existe de par le monde bon
+nombre de mÃ©nages heureux, dans toutes les classes de la sociÃ©tÃ©,
+ainsi que des hommes non alcooliques constituant mÃªme une imposante
+majoritÃ©.
+
+Reste donc une minoritÃ©, Ã©levÃ©e, il est vrai, d'hommes pour lesquels
+le cafÃ© est tout, et qui sont par consÃ©quent des alcooliques
+invÃ©tÃ©rÃ©s.
+
+Sans crainte de trouver un dÃ©menti, nous pouvons affirmer que la
+moitiÃ© de cette minoritÃ© d'alcooliques est composÃ©e d'ivrognes de
+naissance ou de tempÃ©rament, c'est-Ã -dire que malgrÃ© toutes les
+lois, toutes les sociÃ©tÃ©s et toutes les dÃ©fenses, ils continueront
+Ã  boire... parce qu'ils ont toujours bu. Un joueur invÃ©tÃ©rÃ© cesse
+le jour oÃ¹ il n'a plus d'argent, un fumeur quand il n'a plus de
+souffle, un alcoolique quand il est mort. A ces indÃ©racinables
+auxquels vous ne pouvez rien opposer, ni le sentiment de leur
+bassesse, ni le respect de la famille, ni l'amour des enfants, ni les
+devoirs d'Ã©poux, le seul moyen raisonnable est de les laisser finir
+lamentablement leur vie de brute Ã©ternelle.
+
+Mais, dites-vous, nous fermerons les cafÃ©s! Croyez-vous qu'ils ne
+seront point forcÃ©s d'abandonner leurs tristes habitudes?
+
+Non! raisonnablement, Mesdames, croyez-vous qu'Ã  l'heure actuelle il
+soit moralement possible de supprimer en France Â«une habitudeÂ», une
+nÃ©cessitÃ©, qui est dans les mÅurs, et qu'on appelle le cafÃ©?
+
+Ou de deux choses l'une! ou il faut les supprimer tous sans
+exception, ou il ne faut en fermer aucun.
+
+Si vous n'en supprimez que la moitiÃ©, par exemple, vous n'Ã©teindrez
+pas le vice, vous l'aviverez, en canalisant tout simplement les
+ivrognes vers les bars ouverts, et n'en resterait-il qu'un tous les
+alcooliques s'y donneraient rendez-vous!
+
+Quant Ã  les supprimer tous, n'y comptez pas; vous auriez contre vous
+la majoritÃ© formidable des gens raisonnables qui vont au cafÃ© pour
+leur bon plaisir, pour passer un instant, y voir des amis; l'ouvrier
+pour y faire sa partie ou sa causette; en un mot tous ceux pour qui
+le cafÃ© est une distraction, un second chez soi, un complÃ©ment de la
+vie.
+
+Quant Ã  la deuxiÃ¨me catÃ©gorie, nous les appellerons les apprentis
+alcooliques; ce sont tous ces ouvriers, dignes d'intÃ©rÃªt, se laissant
+petit Ã  petit entraÃ®ner vers les bars et se faisant Ã  la longue une
+gloire de savoir savamment Â«Ã©trangler un perroquet ou Ã©touffer un
+petit verreÂ».
+
+Que faire pour prÃ©server ces hommes? La question est difficile
+pratiquement. Les solutions des problÃ¨mes sociaux sont trop complexes
+pour pouvoir dire catÃ©goriquement: Il faut faire telle ou telle chose.
+
+Fermer tous les cafÃ©s! le pourriez-vous? vous n'oseriez pas le faire.
+
+Leur montrer par des confÃ©rences, des brochures, des avertissements,
+le gouffre vers lequel ils se prÃ©cipitent! Ils n'y assisteront pas;
+ils ne vous Ã©couteront pas.
+
+Les enrÃ´ler dans une sociÃ©tÃ© antialcoolique? Ils en riront! en auront
+honte.
+
+Un remÃ¨de contre l'alcoolisme pour le supprimer? C'est chimÃ¨re! il
+n'existera jamais. Mais alors essayons de l'amoindrir.
+
+CommenÃ§ons par donner Ã  nos enfants une Ã©ducation non scientifique,
+mais pratique; sans trÃªve ni repos, montrons-leur tous les dangers
+de ce mal affreux; Ã  nos petits soldats apprenons chaque jour,
+au lieu d'une stupide thÃ©orie militaire, les consÃ©quences de ce
+vice effroyable; enfin que nos lÃ©gislateurs, avec une indomptable
+Ã©nergie, votent des lois plus sÃ©vÃ¨res et plus rudes et surtout
+fassent impitoyablement la guerre Ã  ces alcools frelatÃ©s, permettant
+de donner le verre Ã  10 centimes! Quand on songe que les droits par
+hecto sont de 220 francs.
+
+VoilÃ  le point faible de l'alcoolisme. Supprimez les mauvais
+alcools, traquez les eaux-de-vie bon marchÃ©, empÃªchez tous les
+vulgaires bistros de servir pour deux ou trois sous un soi-disant
+apÃ©ritif ou liqueur qui n'est autre chose que du poison; si l'impÃ´t
+sur l'alcool, existant actuellement, ne suffit pas Ã  enrayer le vice,
+eh! bien augmentez-le toujours[40]. Mais en mÃªme temps resserrez les
+mailles du filet qui enlacera les dÃ©bitants et les cafÃ©s d'ouvriers,
+et si quelqu'un trouvait, par hasard, cette mesure antidÃ©mocratique,
+nous rÃ©pondrions que de l'antidÃ©mocratie on n'en a cure, pourvu que
+le sang du peuple franÃ§ais soit fort et pur.
+
+  [40] Les droits de consommation sont de 220 francs par hectolitre
+  d'alcool pur, plus 50 francs de surtaxe pour absinthes, bitters
+  et amers.
+
+  A ce droit s'ajoute un droit d'entrÃ©e perÃ§u dans les villes de
+  4.000 Ã¢mes et au-dessus qui varie de 7 fr. 50 Ã  30 francs selon
+  la population. Dans les villes sujettes Ã  octroi, les alcools
+  sont encore frappÃ©s d'un droit qui peut Ãªtre le double des droits
+  d'entrÃ©e.
+
+  Paris peut arriver Ã  85 fr. 20, ce qui porte les droits Ã  Paris Ã 
+  385 francs par hectolitre d'alcool.
+
+Et, maintenant, ne rÃ©pÃ©tez pas cette Ã©norme sottise que les
+lÃ©gislateurs conservent les cafÃ©s et les bars pour leur permettre
+d'Ãªtre rÃ©Ã©lus; non, ne croyez point, Mesdames, que des hommes
+politiques, qui pour Ãªtre politiques n'en sont pas moins cependant
+des gens honnÃªtes et respectables, s'abaissent Ã  ce point.
+
+C'est peu connaÃ®tre l'esprit franÃ§ais que de prÃªter un seul instant
+de semblables intentions Ã  nos reprÃ©sentants.
+
+N'Ã©coutez point en cela les voix rÃ©actionnaires vous chantant
+l'Ã©ternel couplet de la pourriture, de la dÃ©gradation des mÅurs
+parlementaires. La RÃ©publique aurait-elle donc le triste apanage
+d'Ãªtre un rÃ©gime de honte et de boue? Et ne pourrait-on pas sans
+peine dÃ©montrer que les empires et les royautÃ©s n'ont Ã©tÃ© qu'une
+longue thÃ©orie de sang et qu'un amas de ruines.
+
+Mettons les choses au point et disons qu'en ce siÃ¨cle de lutte pour
+la vie les actes les plus simples revÃªtent toujours un caractÃ¨re
+d'Ã©goÃ¯sme bien caractÃ©risÃ©. Si le candidat parcourt les cafÃ©s,
+accusez les mÅurs de notre siÃ¨cle, voulant que ce soit lÃ  que le
+dÃ©putÃ© fasse sa confÃ©rence, voit ses Ã©lecteurs, leur cause, leur
+dÃ©veloppe ses idÃ©es! De lÃ  Ã  soutenir l'alcoolisme, il y a loin, trÃ¨s
+loin!
+
+Quant aux diatribes contre les rÃ¨glements des prostituÃ©es, je vous
+dis: Attention! fausse sensibilitÃ©. Qu'il y ait des hommes lÃ¢ches et
+sans cÅur abandonnant de pauvres filles sur le trottoir, il y en a,
+et la seule vengeance contre leur lÃ¢chetÃ©, c'est de les dÃ©noncer Ã  la
+vindicte publique. Mais quant aux autres:
+
+Â«Les femmes qui vivent de la prostitution, eh bien! ce sont tout
+simplement celles qui trouvent ce moyen d'existence moins pÃ©nible
+que le travail. Elles bÃ©nissent, dans leur for intÃ©rieur, la nature,
+cette bonne mÃ¨re, qui les a fait naÃ®tre d'un sexe oÃ¹ l'on gagne sa
+vie et oÃ¹ mÃªme parfois l'on s'amasse des rentes sans se donner du
+mal. Cela leur coÃ»te si peu et cela leur fait tant de profit. La
+preuve en est que lorsque des Ã¢mes charitables tirent ces marchandes
+de sourires de la fange et cherchent Ã  les rÃ©habiliter par le
+travail, Ã  la premiÃ¨re occasion, elles retombent.
+
+Â»Tout ce que la SociÃ©tÃ© peut faire Ã  cet Ã©gard, c'est d'exercer une
+surveillance rigoureuse sur l'infÃ¢me mÃ©tier qu'on appelle la traite
+des blanchesÂ»[41].
+
+  [41] _Les Mensonges du fÃ©minisme_, par ThÃ©odore Joran.
+
+Et nous ajoutons: d'essayer de rendre plus humains les rÃ¨glements de
+la police des mÅurs.
+
+Laissez donc de cÃ´tÃ©, Mesdames, ces drapeaux que vous dÃ©ployez Ã 
+toutes occasions: Le drapeau de l'alcoolisme et de la rÃ©gÃ©nÃ©ration
+sociale! Un humoriste, nous ne savons plus lequel, a dit que
+c'Ã©taient des bateaux! Nous avouons partager son opinion.
+
+Vous avez de si beaux sujets pour rÃ©clamer, oÃ¹ tout votre cÅur et
+toute votre sensiblerie pourront se donner libre cours; mais de grÃ¢ce
+ne continuez plus Ã  vous poser comme les rÃ©novatrices des mÅurs et de
+la morale.
+
+Vous n'auriez aucun succÃ¨s..., car rien n'est plus fastidieux qu'une
+femme savante, politique, Ã©conomiste, Ã©loquente et fÃ©ministe..., mÃªme
+jolie!
+
+
+6e: La femme doit voter parce qu'elle vote dÃ©jÃ  pour les Tribunaux de
+commerce.
+
+Prenons une femme directrice d'un magasin, d'un commerce, d'une
+entreprise. Avec rÃ©gularitÃ© et sÃ©rieux, elle dirige tout, sait faire
+face Ã  toutes les difficultÃ©s; la maison prospÃ¨re et s'agrandit,
+menÃ©e par une tÃªte intelligente et une volontÃ© ferme. Il lui manque
+cependant quelque chose, c'est d'Ãªtre l'Ã©gale de l'homme devant
+les tribunaux de commerce dont elle relÃ¨ve directement. Pourquoi
+n'aurait-elle pas, elle la femme honnÃªte et travailleuse, les mÃªmes
+droits que son voisin, commerÃ§ant, dÃ©jÃ  failli, mais rÃ©habilitÃ©. En
+portant un procÃ¨s devant des juges qu'elle n'avait pas choisis ne
+pouvait-elle avoir une cause de suspicion lÃ©gitime et mÃªme les juges
+pourraient-ils rendre un jugement en leur Ã¢me et conscience sans Ãªtre
+taxÃ©s de partialitÃ©.
+
+La loi du 23 janvier 1898 a comblÃ© cette lacune; dÃ©sormais les femmes
+participent aux Ã©lections des Tribunaux de commerce, des membres de
+la Chambre de commerce et des Chambres consultatives.
+
+Une loi du 15 novembre 1908 rend les femmes Ã©ligibles aux Conseils de
+prud'hommes.
+
+Les rÃ©sultats ont Ã©tÃ© excellents. La femme est dorÃ©navant l'Ã©gale de
+l'homme, et cela sans entraÃ®ner une rÃ©volution, un bouleversement
+des mÅurs. Le public ne s'est mÃªme point doutÃ© de ce changement qui
+a donnÃ© toute satisfaction. Pourquoi donc alors ne pas accentuer le
+mouvement et Ã©tendre petit Ã  petit les droits Ã©lectoraux fÃ©minins:
+droit de vote pour les Ã©lections municipales, puis d'arrondissements,
+conseillers gÃ©nÃ©raux, etc., etc.
+
+N'exagÃ©rons rien. Si la rÃ©forme est passÃ©e inaperÃ§ue, c'est que les
+Ã©lections des tribunaux de commerce sont celles oÃ¹ les hommes se
+dÃ©rangent le moins pour voter. Il n'est pas rare de voir plusieurs
+tours de scrutin afin de rÃ©unir le nombre de suffrages exigÃ©s par la
+loi. Et du jour oÃ¹ les femmes ont Ã©tÃ© admises Ã  l'insigne honneur de
+venir dÃ©poser un bulletin de vote dans l'urne de Mercure le rÃ©sultat
+n'a pas changÃ©, l'Ã©ternelle indiffÃ©rence a subsistÃ©.
+
+Ecoutons M. Turgeon, un fÃ©ministe convaincu cependant:
+
+Â«C'eÃ»t Ã©tÃ© tout profit pour la magistrature consulaire si l'admission
+des femmes au scrutin avait rÃ©veillÃ© le zÃ¨le endormi des commerÃ§ants.
+Cet espoir a Ã©tÃ© dÃ©Ã§u. L'expÃ©rience toute fraÃ®che de la nouvelle loi
+a montrÃ© que les femmes prÃ©fÃ¨rent autant que les hommes la maison
+de famille Ã  la salle de vote. D'abord les commerÃ§antes ont mis
+bien peu d'empressement Ã  se faire inscrire sur les listes; puis,
+au jour du scrutin, l'abstention a Ã©tÃ© gÃ©nÃ©rale. MÃªme Ã  Paris, il
+n'est guÃ¨re que les dames de la Halle qui aient pris Ã  cÅur de
+dÃ©poser leurs bulletins dans l'urne; ce qui prouve qu'en dehors de
+quelques personnalitÃ©s bruyantes pour lesquelles le fÃ©minisme est
+une profession ou une distraction, les FranÃ§aises qui sont simplement
+femmes se soucient mÃ©diocrement des revendications, mÃªme lÃ©gitimes,
+autour desquelles on mÃ¨ne si grand tapageÂ»[42].
+
+  [42] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Quant Ã  la marche insensible du passage d'un vote Ã  l'autre, c'est
+tout simplement un leurre. Ce dosage savamment indiquÃ© entraÃ®nerait
+de grosses perturbations dues surtout aux ambitions des diffÃ©rents
+partis politiques. Chacun d'eux voudrait s'accaparer les voix
+fÃ©minines, et cela ne se ferait pas sans un bouleversement complet
+des mÅurs. Nous assistons dÃ©jÃ  Ã  un curieux mouvement fÃ©ministe dans
+les partis les plus rÃ©trogrades comme les plus avancÃ©s, mouvement Ã 
+l'heure actuelle insensible, mais qui se ferait profondÃ©ment sentir
+le jour oÃ¹ le sexe fÃ©minin pourrait voter.
+
+Chaque opinion, royaliste, bonapartiste, radicale, socialiste,
+anarchiste a son revers de mÃ©daille fÃ©ministe. Ces messieurs prennent
+ainsi position dans la nouvelle bataille. Chaque camp arbore le
+drapeau des revendications fÃ©ministes.
+
+Et du jour oÃ¹ l'Ã©galitÃ© politique sera proclamÃ©e, nous assisterons
+alors Ã  cette Ã©norme ruÃ©e de tous les partis vers les voix fÃ©minines.
+Nous verrons l'assaut des votes du sexe faible menÃ© par les
+fort-tÃ©nors de la droite, les leaders du centre et les pÃ©troleurs
+de la gauche! Adieu alors retenue, galanterie, tendresse, respect,
+amour, famille!
+
+La femme deviendra une voix qu'on accapare, qu'on achÃ¨te, ou qu'on
+vole! Girouette, ou article de bazar! Navrante rÃ©alitÃ©!
+
+Et dans quelques annÃ©es, lasses, fatiguÃ©es, annihilÃ©es par ces
+luttes incessantes pour lesquelles vous n'Ãªtes pas faites, vous vous
+cloÃ®trerez dans l'immuable abstention, organisant trÃ¨s originalement
+la grÃ¨ve des suffragettes, vous les tristes dÃ©senchantÃ©es!
+
+    Le poids d'un tel fardeau sur de frÃªles Ã©paules
+    Pourrait bien les faire ployer,
+    Mesdames, croyez-moi, ne changeons pas les rÃ´les,
+    Restez les anges du foyer[43].
+
+  [43] Louis FrÃ©chette: Le coin du feu (_Revue de MontrÃ©al_, 1893).
+
+
+7e: La femme doit voter parce qu'elle paie l'impÃ´t
+
+L'objection est des plus naÃ¯ves et des plus enfantines: Â«Si vous
+acceptez notre argent, si vous nous obligez Ã  payer l'impÃ´t,
+donnez nous au moins le droit de le voter, le droit d'Ã©lire des
+reprÃ©sentants qui seront nos porte-parolesÂ».
+
+On ne voit pas trÃ¨s bien, nous osons l'avouer, la relation qui existe
+entre le droit de voter et le paiement de l'impÃ´t! Voyons! Est-ce
+parce qu'on paie l'impÃ´t qu'on a le droit de voter ou bien est-ce
+parce qu'on vote qu'on paie l'impÃ´t? Alors les incapables Ã©numÃ©rÃ©s
+par la loi, les abstentionnistes, les militaires, etc., ne devraient
+pas Ãªtre taxÃ©s par le fisc! L'impÃ´t n'a point comme corollaire le
+droit au vote.
+
+Et puis, une raison plus sÃ©rieuse milite en notre faveur. Du
+caractÃ¨re lÃ©gal de l'impÃ´t dÃ©coule un autre raisonnement. L'impÃ´t, de
+nos jours, est rÃ©el et non personnel[44], c'est-Ã -dire dÃ» non par la
+personne, non par un homme ou une femme, mais bien par la fortune. Ce
+n'est plus Monsieur X. ou Madame Y. qui sont taxÃ©s, mais directement
+leurs richesses!
+
+  [44] Moye: _TraitÃ© de LÃ©gislation financiÃ¨re_.
+
+N'essayez donc point de vous prÃ©valoir, Mesdames, de ce fameux
+droit illusoire: Â«Nous payons, donc nous voteronsÂ». Si, dans votre
+arsenal fÃ©ministe, vous ne possÃ©dez que de semblables arguments, la
+dÃ©route sera complÃ¨te avant peu dans votre camp. Et cela Ã  cause de
+cette lÃ©gÃ¨retÃ© innÃ©e, de cette sensibilitÃ© naturelle qui vous font
+dÃ©vier du droit chemin, ou qui faussent en vous les raisonnements les
+plus simples. Une idÃ©e surgit, elle vous semble excellente! Vous la
+soutenez, vous la dÃ©fendez, sans mÃªme parfois vous demander quelle
+en est exactement la valeur. Vous vous grisez de mots et de phrases,
+Ã©tourdies par le vide de vos conceptions.
+
+Il est temps, Mesdames, de vous rappeler Ã  votre rÃ´le: Â«Un chat, un
+oiseau, au meilleur cas une nourrice[45]Â».
+
+  [45] Nietzsche: L'individualisme et l'anarchie; _Revue des
+  Deux-Mondes_, 1895.
+
+
+
+
+DEUXIÃME PARTIE
+
+
+
+
+RAISONS POUR LESQUELLES LA FEMME NE DOIT PAS VOTER
+
+Une erreur
+
+
+Avant d'exposer les raisons pour lesquelles la femme, d'aprÃ¨s nous,
+ne doit point se mÃªler aux luttes politiques, nous voulons examiner
+une objection Ã  l'encontre du vote fÃ©minin, constituant, Ã  notre
+avis, une imposante erreur.
+
+Les femmes, disent certains auteurs, ne font pas de service
+militaire; elles doivent donc Ãªtre dÃ©pourvues de tous droits
+politiques. L'argument est dÃ©testable! Et la seule chose qui
+Ã©tonne c'est de le voir si souvent rÃ©pÃ©tÃ©. Comment, s'Ã©crient ces
+antifÃ©ministes aveugles, vous voudriez voter et vous ne payez pas Ã 
+la patrie l'impÃ´t le plus lourd, le plus dur, l'impÃ´t du sang! Qui
+a fait la France belle et puissante? Nos soldats! Qui permet Ã  la
+RÃ©publique de se faire aimer et respecter? Notre armÃ©e! Tandis que
+vous, Mesdames, vos champs de bataille sont le thÃ©Ã¢tre, le turf et
+les boulevards; votre idÃ©al une toilette splendide et vous ne savez
+mourir que pour l'amour!
+
+Nous le rÃ©pÃ©tons, l'argument est complÃ¨tement dÃ©pourvu de bon sens.
+Comment est-il venu Ã  l'esprit d'un homme intelligent de dire: Â«Vous
+ne voterez pas, car vous ne serez jamais soldat!Â» Comme si par son
+sexe et ses consÃ©quences la femme avait Ã©tÃ© crÃ©Ã©e pour supporter
+la fatigue des casernes, faire l'exercice, le pas gymnastique, les
+grandes manÅuvres et, au jour des sombres guerres, courir sus Ã 
+l'ennemi!
+
+Comment peut-on faire un grief Ã  la femme de ne pas mettre sac au
+dos, de ne pas avoir des galons de caporal ou d'Ãªtre un officier de
+rÃ©serve. Reprocher cela Ã  la femme, c'est comme si l'on disait Ã 
+l'homme: Â«A partir d'aujourd'hui, vous ne voterez plus parce que vous
+ne savez pas faire la cuisine, coudre, nettoyer les casseroles, faire
+le lit, torcher les bambins, parce que vous ne portez pas de chichis
+ou des dentelles!!! parce qu'enfin vous n'Ãªtes pas femme!!!Â»
+
+Ce serait aussi ridicule.
+
+En un mot, on dit aux femmes: Â«Vous ne voterez pas parce que vous
+n'Ãªtes pas des hommes.Â»
+
+Combien l'on doit s'en rÃ©jouir!
+
+Et croyez-vous alors que l'impÃ´t du sang ne soit point compensÃ© par
+cette lourde charge: la maternitÃ©? Mais ces gÃ©nÃ©rations de hÃ©ros, de
+gloires illustres, de triomphateurs! Cette France belle, puissante,
+Ã©ternellement jeune, qui l'a faite? sinon vous les femmes, sinon
+vous les mÃ¨res! Vous dont le droit serait de vous lever toutes pour
+demander Ã  ces grands mangeurs d'hommes, tels que les NapolÃ©ons, oÃ¹
+sont nos fils? Et ce geste, vous ne l'esquissez mÃªme pas, courbant
+vos fronts voilÃ©s de deuil devant la rÃ©ponse: Patrie!
+
+Comprend-on maintenant ce mot de Michelet: Â«Qui paie l'impÃ´t du sang?
+La mÃ¨re!Â»
+
+L'impÃ´t du sang! Nous le payons dans la personne de ceux qui nous
+sont les plus chers, fils, frÃ¨res, Ã©poux et amis. Si nous sommes
+dispensÃ©es du service militaire, nous sommes condamnÃ©es en revanche
+Ã  toutes les douleurs de l'enfantement. Si nous ne faisons pas la
+guerre, nous faisons des soldats[46].
+
+  [46] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+CrÃ©er les futurs soldats au prix de mille souffrances, au pÃ©ril de
+sa vie; passer un tiers de son existence Ã  prÃ©parer des citoyens,
+tout cela n'Ã©quivaut pas Ã  deux ans de rÃ©giment? Ne dites point Ã 
+la femme des choses qui la blessent dans ses attributions les plus
+douloureuses mais les plus idÃ©alement belles: la maternitÃ©. A ces
+exaltÃ©es luttant pour leurs droits et leurs intÃ©rÃªts soi-disant
+mÃ©connus, Ã  ces Ã©ternelles blessÃ©es, n'opposez point des raisons
+aussi vaines et aussi sottes. Car parfois leur rÃ©ponse: Â«Nous serons
+puisque vous le voulez, soldatsÂ», est aussi ridicule, aussi dÃ©pourvue
+de bons sens que l'objection.
+
+Non, Mesdames, votre place n'est point Ã  la caserne, pas plus du
+reste qu'Ã  la mairie ou Ã  la Chambre des dÃ©putÃ©s.
+
+Â«Militaires, elles ne connaÃ®tront jamais l'odeur de la poudre et le
+sifflement des balles, car elles sont femmes et comme femmes elles
+doivent avoir horreur du sang versÃ©. C'est alors qu'on les verrait
+toutes ces belliqueuses dÃ©pouiller un costume qui ne leur siÃ©rait
+plus et il n'y en aurait pas une qui ne prÃ©fÃ©rÃ¢t aux attributs dont
+elles s'Ã©taient imprudemment parÃ©es le seul insigne qui convienne
+Ã  une femme, quand le canon tonne et le sang coule: le brassard
+consolateur de la Croix-Rouge. C'est aux hommes qu'il faut laisser
+l'uniforme et c'est Ã  eux seuls que demeure le droit de le porter,
+parce qu'il n'est pas sur eux l'indice d'un goÃ»t mais qu'il est
+l'indice d'un devoirÂ»[47].
+
+  [47] Henri de RÃ©gnier: _Revue franÃ§aise politique et littÃ©raire_.
+
+Ne rÃ©pÃ©tons donc point avec le gros public envisageant la discussion
+sous un angle Ã©trangement Ã©troit: Vous ne payez pas votre dette Ã  la
+patrie; nous vous refusons le droit de vote.
+
+N'exaspÃ©rez pas les femmes! elles auraient raison de s'insurger et de
+se rÃ©volter devant des raisonnements si peu chevaleresques et si peu
+probants.
+
+Car pour une fois nous serions capable de devenir fÃ©ministe!
+
+
+1re: La femme ne doit pas voter Ã  cause de la famille
+
+Jules Simon, de l'AcadÃ©mie FranÃ§aise, Ã©crivait: Â«La famille a un
+vote, si elle en avait deux elle pÃ©riraitÂ». Et Jules Simon Ã©tait loin
+d'Ãªtre un sot.
+
+Que l'on ne nous accuse point de sentiments arriÃ©rÃ©s et vieux jeu,
+que l'on ne nous traite point de rÃ©trograde ou de bourgeois! Nous
+avons une trop haute idÃ©e de la famille pour que nous ne disions
+le profond bouleversement qui serait occasionnÃ© par cette nouvelle
+rÃ©forme: le vote des femmes!
+
+Nous entendons dÃ©jÃ  les mille et une rÃ©ponses faites Ã  cette
+objection! La femme Ã©lectrice! Et aprÃ¨s! Croyez-vous que dans un
+mÃ©nage il n'y ait pas de nos jours des sujets plus importants de
+discussion et qui n'entraÃ®nent pas pour cela la faillite de la
+famille?
+
+Attribuez-vous Ã  un simple bulletin de vote le pouvoir anormal
+d'introduire sous le toit familial la discorde? Les enfants! mais
+aucun changement ne sera apportÃ© dans leur Ã©ducation ou dans les
+soins Ã  leur donner! Quant Ã  l'amour des deux Ã©poux, il ne sera point
+diminuÃ© par le nouveau rÃ©gime: Ã©galitÃ© des droits sans distinction de
+sexe!
+
+DÃ¨s le moment oÃ¹ les femmes voteront, elles auront conscience
+de leurs devoirs. SollicitÃ©es de donner leurs voix, elles se
+demanderont pourquoi. DÃ¨s cet instant, il s'Ã©changera entre l'homme
+et la femme des inspirations qui loin de nuire Ã  leurs rapports
+rÃ©ciproques ne feront au contraire que de les amÃ©liorer dans une
+large mesure. La femme, moins instruite, aura recours Ã  l'homme qui
+le sera davantage. Il s'en suivra un Ã©change d'idÃ©es, de conseils, un
+Ã©tat de choses enfin comme il n'en aura existÃ© que dans les cas trÃ¨s
+rares[48].
+
+  [48] Bebel.
+
+Les grands-prÃªtres du fÃ©minisme ont beau jeu pour idÃ©aliser en
+phrases ronflantes et illuminÃ©es le sanctuaire d'amour que sera le
+mÃ©nage moderne; la femme, enfin, libÃ©rÃ©e de son rÃ´le honteux de bonne
+lÃ©gale Ã  tout faire; l'homme n'ayant plus une compagne, mais une
+semblable, un homme-femme!
+
+Nous avouons ne point partager ce vibrant enthousiasme. S'il existe
+dÃ©jÃ  dans la famille de nombreux sujets Ã  discussion, on ne voit
+guÃ¨re le besoin d'en introduire de nouveaux.
+
+Quand on aborde la question suivante, qui est en somme le nÅud de
+tout raisonnement: Â«Le vote de la femme dÃ©truira-t-il la famille?Â»
+les uns haussent les Ã©paules, en souriant, sans rÃ©pondre; ce sont nos
+grands intellectuels et intellectuelles, dÃ©molisseurs des prÃ©jugÃ©s
+bourgeois et crÃ©ateurs des grands systÃ¨mes sociaux! Ce sont les
+fortes tÃªtes de la sociÃ©tÃ©, ayant l'intime conviction d'Ãªtre des
+gens d'essence supÃ©rieure! _Beati pauperes spiritu!_
+
+D'autres, plus sÃ©rieux, discutent, approfondissent, travaillent
+la question, ne se contentant pas de phrases prophÃ©tiques ou
+d'affirmations embrumÃ©es! Ils se disent: Â«Supposons du jour au
+lendemain l'Ã©galitÃ© politique proclamÃ©e. Prenons un mÃ©nage type oÃ¹ le
+mari aura des idÃ©es avancÃ©es, la femme peut-Ãªtre pas bien dÃ©finies,
+comme presque toutes les idÃ©es des femmes, mais enfin plutÃ´t
+rÃ©trogrades ou conservatrices. Jusqu'ici aucune ombre n'Ã©tait venue
+assombrir la joie et le bonheur de cet heureux mÃ©nage; les enfants
+Ã©taient trÃ¨s bien Ã©levÃ©s, les relations entre les diffÃ©rents membres
+de la famille Ã©taient sympathiques, on Ã©tait heureux!
+
+Mais le jour des Ã©lections approche, une fiÃ¨vre intense gagne tous
+les cerveaux; des amies viennent causer Ã  Madame; on l'entraÃ®ne dans
+des rÃ©unions; dans des confÃ©rences oÃ¹ luttent, acharnÃ©s, _onguibus
+et rostro_, les deux candidats. Timidement, le mari fait observer
+Ã  sa femme qu'il serait peut-Ãªtre plus convenable, il n'ose dire
+nÃ©cessaire, que son vote soit conforme au sien, et cela eu Ã©gard
+Ã  sa position, Ã  ses relations, Ã  son avancement. La femme, par
+amour-propre ou par conviction, rÃ©pond catÃ©goriquement que son
+opinion est arrÃªtÃ©e et que le choix de son candidat est dÃ©jÃ  fait.
+
+Le mari Ã©met quelques observations; le ton de la discussion s'Ã©lÃ¨ve;
+les pointes et les rÃ©pliques de la femme achÃ¨vent de mettre le feu
+aux poudres; si les parents, les frÃ¨res, les sÅurs s'en mÃªlent, le
+mÃ©nage devient alors un vÃ©ritable enfer et cela simplement parce que
+Madame veut voter pour un royaliste et Monsieur pour un rÃ©publicain.Â»
+
+Que dire des querelles qui Ã©clateront dans un mÃ©nage ouvrier ou dans
+une famille de paysans! La lutte sera lÃ  encore plus Ã¢pre, plus
+serrÃ©e, plus cruelle!
+
+Qui pourra se figurer les innombrables discussions et les
+froissements inÃ©vitables qui existeront entre les amis, les parents
+et toute la lignÃ©e d'Ã©trangers mise en communion d'idÃ©e par le
+mariage!
+
+Ce sera charmant et le nouveau rÃ©gime aura des consÃ©quences
+magnifiques!
+
+Et cette description, nullement exagÃ©rÃ©e, pourra s'appliquer du
+jour au lendemain Ã  des milliers de mÃ©nages! Cela malgrÃ© toutes les
+dÃ©nÃ©gations des fÃ©ministes.
+
+Du jour oÃ¹ vous permettrez Ã  la femme de voter, elle commencera par
+s'immiscer dans les rÃ©unions politiques, Ã  parler, Ã  discuter, et
+avec son caractÃ¨re enflammÃ© et extrÃªme, s'enthousiasmant pour un
+rien, elle sacrifiera son intÃ©rieur et sa tranquillitÃ© Ã  la dÃ©fense
+d'une opinion. Cela, parce que de nos jours quand la politique vous
+enserre dans ses tentacules redoutables, elle vous absorbe, vous
+Ã©treint, vous broie; parce qu'en politique toute tendresse, tout
+amour, toute sympathie s'Ã©vanouissent; parce qu'en politique on
+oublie tout, famille, enfants, situation, vous surtout, femmes, les
+exagÃ©rÃ©es Ã©ternelles, capables des rÃ©solutions les plus folles comme
+des actes les plus extravagants; parce qu'en un mot, on change de
+sexe, on n'est plus un homme ou une femme: on est politique.
+
+Et nous assisterons alors Ã  cette chose lamentable, la dÃ©crÃ©pitude de
+la famille franÃ§aise; nous verrons des intÃ©rieurs autrefois si calmes
+et si heureux changÃ©s en salles de confÃ©rence oÃ¹ devant des enfants
+pleurant et apeurÃ©s par les cris, un homme et une femme, un pÃ¨re
+et une mÃ¨re, discuteront les mÃ©rites de leurs candidats, avec des
+gestes fous et des expressions malsonnantes. Nous assisterons Ã  cette
+destruction lente mais sÃ»re de la tendresse maternelle.
+
+Quant aux enfants, abandonnÃ©s, livrÃ©s Ã  eux-mÃªmes, Ã©levÃ©s dans la
+libertÃ©, l'Ã©mancipation et la libre-pensÃ©e, entre une tirade radicale
+et un discours royaliste, tirÃ©s d'un cÃ´tÃ©, tiraillÃ©s de l'autre, ils
+seront les spectateurs impuissants de ces luttes ridicules, jusqu'au
+jour oÃ¹ blasÃ©s et cyniques ils considÃ©reront d'un Åil froid et terne
+leur mÃ¨re comme une folle et leur pÃ¨re comme un dÃ©traquÃ©.
+
+Oh! les grands rÃªves rÃ©volutionnaires, les grands mots d'Ã©galitÃ©
+sexuelle, de libertÃ©, d'Ã©mancipation, de rÃ©novation sociale. Oh!
+modernes entrepreneurs de changement des mÅurs! quelle triste figure
+serait la vÃ´tre devant l'application rÃ©elle du programme de vos
+futures constructions! Quelle inquiÃ©tante responsabilitÃ© pÃ¨serait
+sur vos frÃªles Ã©paules, le jour oÃ¹ l'on vous dirait: ouvrez vos
+chantiers! combien d'ouvriers ou d'ouvriÃ¨res auriez-vous? Peu,
+trÃ¨s peu, car le bon peuple franÃ§ais se contenterait de regarder
+par-dessus les palissades la citÃ© future que vos folles conceptions
+tentent d'Ã©lever!
+
+Non, de grÃ¢ce, ne touchez point Ã  cette chose sacrÃ©e: la famille.
+Croyez, malgrÃ© tout votre scepticisme, qui pour la plupart d'entre
+vous n'est que de la pose ou du snobisme, que le vote des femmes
+aurait dans la majoritÃ© des foyers des consÃ©quences dÃ©sastreuses.
+
+On ne peut Ã©mettre une opinion d'avenir, nous l'avouons, mais
+regardez simplement de nos jours dans les villes et les villages
+l'action des femmes. A la campagne surtout elle est Ã©norme, car lÃ 
+on ne vote plus pour une opinion, on vote pour un tel ou tel autre.
+Les Ã©lections se font pour un nom contre un nom. Et les femmes se
+lancent dans la lutte, fÃ©roces, exaltÃ©es, entraÃ®nantes, poussant aux
+derniÃ¨res folies! Que sera-ce le jour oÃ¹ elles pourront manier l'arme
+dont elles ne peuvent aujourd'hui que frÃ´ler le manche? Ce sera la
+dÃ©bÃ¢cle de la famille, le renversement de la femme de son piÃ©destal
+de gloire et de bontÃ©.
+
+Et maintenant, mesdames, vous les sensÃ©es, vous les normales,
+opposez toute votre Ã©nergie, toute votre force, Ã  ces dÃ©molisseurs
+de tendresse et de bonheur. Rappelez Ã  ces Ã©chevelÃ©es la phrase de
+Jules Simon: Â«La femme doit rÃ©gner dans l'intÃ©rieur de sa maison,
+mais elle ne doit rÃ©gner que lÃ Â», et si prÃ©tentieuses et arrogantes,
+certaines mercantilistes du fÃ©minisme, avec des gestes tragiques
+et une face convulsÃ©e, s'Ã©criaient: Â«mes sÅurs, rÃ©voltons-nous; la
+famille vivra plus belle et plus puissante aprÃ¨s notre Ã©mancipationÂ»,
+faites-leur la rÃ©ponse ronde et franche que l'Ã©pouse de JÃ©rÃ´me
+Paturot lanÃ§ait dans un club de femmes en 1848:
+
+Â«Comment, ce n'est pas assez que les hommes aient la cervelle sens
+dessus dessous, il faut encore que les femmes s'en mÃªlent? On vous
+parle de vos droits. Vous avez celui de tenir en ordre votre maison,
+de raccommoder les chausses de votre mari, d'Ã©lever vos enfants,
+de commander aux bonnes et de veiller Ã  ce que le dÃ®ner soit cuit
+Ã  point? Et qu'aurez-vous gagnÃ© en venant ici? Que la maison ira
+Ã  vau-l'eau, que tous les enfants seront mal tenus, les nippes en
+mauvais Ã©tat et les bonnes maÃ®tresses chez vous!!Â»
+
+Oh! diront, mesdames les fÃ©ministes, quel idÃ©al trivial et banal! et
+surtout, en Â«quels termes grossiers ces choses-lÃ  sont dites.Â»
+
+Mon Dieu! mesdames, nous avouons humblement prÃ©fÃ©rer ce style sans
+gÃªne, dÃ©licieux dans sa rondeur bonhomme, Ã  vos phrases prÃ©tentieuses
+et Ã©conomico-sociales, dignes tout au plus de figurer dans le Parc
+aux HuÃ®tres de _Fantasio_.
+
+Quant Ã  l'idÃ©al de l'Ã©pouse de JÃ©rÃ´me Paturot, pour si terre Ã  terre
+et si peu Ã©levÃ© qu'il soit, il a sur le vÃ´tre, rÃ©volutionnaire et
+pÃ©dant, l'avantage d'Ãªtre censÃ©.
+
+Et cela, croyez-nous, n'est point Ã  dÃ©daigner.
+
+
+2e: La femme ne doit point voter parce qu'elle demanderait
+l'Ã©ligibilitÃ©.
+
+Les femmes sont comme les enfants. Accordez-leur un petit bout de
+libertÃ©, elles en demandent le lendemain un gros morceau! Et dire
+qu'il est inutile de leur donner le droit de vote parce qu'elles
+demanderaient tout de suite celui d'Ãªtre Ã©ligibles, me paraÃ®t tout
+naturel! DÃ¨s qu'elles seront Ã©lectrices, elles voudront Ãªtre Ã©lues!
+
+Quelques-unes mÃªme mettent la charrue avant les bÅufs! Mesdames
+Marguerite Durand, Hubertine Auclert, etc., etc., se prÃ©sentent dans
+divers arrondissements de Paris. Â«Leur ouvrirez-vous dÃ©bonnairement
+les mairies, les conseils gÃ©nÃ©raux, le Parlement, toutes les
+fonctions officielles du gouvernement?[49].Â»
+
+  [49] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Mais certainement, rÃ©pondent ces dames! A quoi nous servirait
+l'usage du bulletin de vote s'il nous Ã©tait impossible de faire
+triompher nos candidates? Et puis, croyez-vous que certaines femmes
+n'auraient pas autant de talent pour discuter une loi, faire une
+interpellation, etc., que la plupart des dÃ©putÃ©s? Mais pour Ãªtre
+conseiller municipal, maire, dÃ©putÃ©, sÃ©nateur ou ministre, point
+n'est nÃ©cessaire d'Ãªtre un aigle ou un gÃ©nie? Et pour faire le
+travail que ces messieurs font, une dame en est aussi bien capable.
+
+Nous ne discuterons point, mesdames, la comparaison et l'apprÃ©ciation
+que vous portez sur le travail d'un dÃ©putÃ© ou d'un sÃ©nateur. Nous
+dirons simplement que ce travail parfois Ã©norme, mais toujours
+sÃ©rieux et Ã  la longue ennuyeux, n'est point fait pour vous, Ã  cause
+de votre tempÃ©rament. Il vous serait impossible de dresser des actes
+de l'Ã©tat-civil, de faire des discours, de discuter des rapports, de
+rÃ©pondre Ã  tous les solliciteurs, de faire, en un mot, un travail de
+tous les instants, continu, sans trÃªve ni relÃ¢che, car vous Ãªtes des
+femmes et qui dit femme, dit lÃ©gÃ¨retÃ©, Ã©tourderie, inconstance!
+
+Que diriez-vous d'un conseil municipal composÃ© de femmes! D'un
+maire-femme! D'un dÃ©putÃ©-femme! D'un sÃ©nateur-femme (ceci est plus
+douteux; une femme Ã©tant en principe toujours jeune Ã©prouverait
+quelque difficultÃ© Ã  dÃ©couvrir son Ã¢ge en s'asseyant dans l'auguste
+assemblÃ©e des pÃ¨res conscrits!)
+
+Mais, nous rÃ©pondent les fÃ©ministes, ce ne serait pas si ridicule!
+Dans les conseils elles apporteraient l'appui de leur tendresse, de
+leur impartialitÃ©; Ã  la Chambre elles sauraient Ãªtre indÃ©pendantes,
+donneraient leurs avis compÃ©tents sur les questions d'intÃ©rÃªt
+pratique ou d'Ã©conomie!
+
+Et puis enfin, n'avons-nous pas dÃ©jÃ  la femme avocate, la femme
+docteur, la femme-Ã©crivain, pourquoi n'aurions-nous pas la femme-maire
+ou la femme-dÃ©putÃ©?
+
+Le raisonnement est ingÃ©nieux, mais il est faux! Il ne s'ensuit pas
+de ce que nous avons dÃ©jÃ  des femmes avocates ou mÃ©decins que nous
+soyons obligÃ©s de subir des femmes politiques. Ce serait une corde de
+plus Ã  leur arc pour se rendre encore plus ridicules!
+
+Les avocates! La plaie des tribunaux! l'Ã©pouvantail des confrÃ¨res et
+des prÃ©venus, la bÃªte noire des juges!
+
+ValÃ¨re Maxime nous dit que de son Ã©poque, dÃ©jÃ , on comparaÃ®t les
+clameurs d'une femme avocate Ã  des aboiements! Et ajoutant qu'elle
+Ã©tait nÃ©e en 48 avant JÃ©sus-Christ, il dit: Â«Lorsqu'il s'agit d'un
+pareil monstre, l'histoire doit plutÃ´t enregistrer la mÃ©moire de sa
+destruction que la date de sa naissanceÂ»[50].
+
+  [50] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+La doctoresse! Qui nous dira l'aversion qu'elle inspire Ã  tous les
+mÃ©decins. La plus grande dÃ©couverte du siÃ¨cle, nous disait un docteur
+cÃ©lÃ¨bre de Montpellier, serait de dÃ©couvrir le microbe des Ã©tudiantes
+en mÃ©decine!!
+
+L'Ã©crivain! Elles sont trois mille en France, nous annonce
+tristement le _Figaro_! Et sur ce nombre, combien d'inconnues!
+combien d'ignorÃ©es. C'est la lente submersion de la littÃ©rature sous
+la production Ã©norme: Â«de ces vaches Ã©crivassiÃ¨res aux mamelles
+gonflÃ©es d'encreÂ», comme les appelle irrÃ©vÃ©rencieusement Nietzsche.
+
+Â«Lorsque dans une sociÃ©tÃ©, dans une littÃ©rature l'Ã©lÃ©ment fÃ©minin
+domine, ou seulement domine l'Ã©lÃ©ment masculin, il y a arrÃªt dans
+cette sociÃ©tÃ© et cette littÃ©rature est bientÃ´t dÃ©cadente. L'Ã©lÃ©ment
+fÃ©minin produit une rÃ©trogradation humaineÂ»[51].
+
+  [51] Proud'hon: _Amour et Mariage_.
+
+AprÃ¨s cela vous voulez nous donner la femme maire ou la femme dÃ©putÃ©!
+Non, Mesdames; sans parler des nombreux et Ã©nervants conflits de tous
+ordres que vos candidatures susciteraient, il est une question plus
+sÃ©rieuse qui doit vous faire renoncer Ã  ceindre l'Ã©charpe tricolore!
+C'est votre lÃ©gÃ¨retÃ©.
+
+Une femme, disait Lamartine, est incapable de suivre un raisonnement
+plus d'un quart d'heure! Vous entendriez-vous Ã  rÃ©viser des comptes,
+Ã  compulser des dossiers! Croyez-vous sincÃ¨rement Ã  l'autoritÃ© morale
+d'une fonction publique exercÃ©e par une femme? Ne trouveriez-vous pas
+dÃ©gradant de vous voir dans les luttes politiques d'oÃ¹ est bannie
+toute galanterie, huÃ©es, insultÃ©es, vilipendÃ©es et traÃ®nÃ©es dans la
+boue?
+
+Auriez-vous le courage le jour oÃ¹ l'ordre serait troublÃ© de le
+rÃ©tablir! Seriez-vous assez sÃ©rieuses et assez calmes pour prendre
+aux heures du danger des dÃ©cisions Ã©nergiques et sÃ»res? Non, car
+votre lÃ©gÃ¨retÃ©, votre nervositÃ© compromettraient en vous la voix
+de la raison et du bon sens! Et puis nous autres, les hommes, que
+ferions-nous? La cuisine, le travail de la maison, l'Ã©ducation des
+enfants, pendant que vous approfondiriez les comptes des mairies ou
+que vous prÃ©pareriez un rapport sur la marine ou sur les Beaux-Arts.
+Vous seriez la grande armÃ©e des femmes politiques dont nous ne
+serions que les serre-files! Non, Mesdames, ayez le bon esprit de
+reconnaÃ®tre que les rÃ´les de chacun ne peuvent s'intervertir.
+
+On ne change point les dÃ©cisions de la nature. Restez ces Ãªtres
+charmants et doux, tendres et bons, embellissez un foyer par votre
+tendresse et souvenez-vous que malgrÃ© toute votre beautÃ©, toute votre
+grÃ¢ce, vous feriez toujours Ã  la mairie ou Ã  la Chambre des dÃ©putÃ©s
+piÃ¨tre figure! Vous n'y auriez aucun succÃ¨s! Ecoutez du reste M.
+Claude Mill, un de nos chroniqueurs les plus spirituels:
+
+Â«Tout de mÃªme est-ce que vraiment les femmes ont besoin d'entrer au
+Parlement pour que nous les apprÃ©ciions davantage? Elles Ã©taient
+charmantes avant de reprÃ©senter le peuple; elles le seront Ã©videmment
+aprÃ¨s: mais elles ne le seront pas davantage. Tremblons donc
+qu'obligÃ©es d'assister aux doubles sÃ©ances, contraintes d'arriver Ã 
+neuf heures, de dÃ©jeuner Ã  la hÃ¢te en Ã©tudiant des rapports et de
+s'en revenir dÃ¨s le dessert pris, pour discuter de la dÃ©cadence des
+haras, tremblons qu'elles ne donnent plus le mÃªme temps--oh le bon
+temps--Ã  l'Ã©tude de l'ondulation et Ã  la science du chichi. On me
+dira que les femmes sont essentiellement pratiques, qu'elles n'iront
+pas comme les hommes perdre six mois Ã  discuter un budget assommant
+sous le couvert de rÃ©formes que la dÃ©mocratie n'attend pas. Les
+femmes savent au moins le prix du beurre et encore plus la valeur du
+pain que l'on met dessous et ce n'est pas elles qui nous parleront
+cinq heures d'horloge de la politique du gouvernement en Cochinchine
+pour aboutir Ã  l'ordre du jour pur et simple.
+
+Â»Je veux bien croire aussi que le jour oÃ¹ la femme sera admise Ã 
+dÃ©libÃ©rer et Ã  voter, la Chambre deviendra un sÃ©jour charmant. Les
+complots sentiront un peu la verveine et la poudre de riz. On fera
+ou on dÃ©fera un ministÃ¨re pour un regard ou pour un baiser. Si la
+corruption continue Ã  planer sur les assemblÃ©es politiques, elle se
+prodiguera sous la forme gracieuse de l'amour. Et le pot de crÃªme
+remplacera le pot-de-vin!
+
+Â»C'est entendu mais au fond tout cela est-il bien sÃ©rieux?
+
+Â»Tout d'abord, impossible d'ouvrir la moindre session, malgrÃ© le
+proverbe qui veut qu'une session soit ouverte ou fermÃ©e?
+
+Â»Quelle est la coquette, en effet, qui consentira jamais Ã  Ãªtre
+prÃ©sidente d'Ã¢ge? Et que de potins! La mÃ©disance ira bon train. On
+dira l'Aube a ses vapeurs. La Manche fait la tÃªte car le Doubs parle
+bas Ã  l'Eure! Et l'IsÃ¨re est-elle mal fagotÃ©e. La sÃ©ance sera-t-elle
+houleuse? Le prÃ©sident rappellera-t-il ces dames Ã  l'ordre? Quel
+incident s'il se permet de dÃ©clarer qu'elles manquent de formes?
+
+Â»Non, non. Mesdames! Croyez-moi, abstenez-vous. L'abstention est
+toujours chose facile, trop facile. Demandez aux hommes, ils en
+savent quelque chose. Et voulez-vous un bon conseil? En fait de loi,
+contentez-vous de faire Ã  vos maris celles que nos mÃ¨res faisaient Ã 
+nos pÃ¨res, c'est la plus douce et la meilleureÂ».
+
+Et personnellement nous ajoutons, c'est la seule que nous supportions
+de vous avec joie et bonheur!
+
+
+3e: La femme ne doit point voter parce que cette nouvelle conception
+n'est point dans nos mÅurs.
+
+Depuis quelques annÃ©es, des voix de femmes se sont mÃªlÃ©es aux justes
+revendications d'une dÃ©mocratie jusqu'ici ignorÃ©e, les unes graves
+et pondÃ©rÃ©es, d'autres rÃ©volutionnaires et exaltÃ©es. Certaines
+militantes, comme Mmes Maugeret et Chenu, ont pris la direction du
+fÃ©minisme chrÃ©tien; mais, comme leur patron saint Jean-Baptiste,
+elles prÃªchÃ¨rent dans le dÃ©sert. Quelques-unes, le bonnet rouge sur
+l'oreille et les deux mains sur les hanches, comme Mme Pognon ou la
+doctoresse Pelletier, se firent les propagandistes d'un fÃ©minisme
+rouge. Et de l'extrÃªme-gauche Ã  l'extrÃªme-droite de la politique,
+l'arc-en-ciel fÃ©ministe a resplendi.
+
+Les CongrÃ¨s de 1889, 1891, 1903 et 1904 commencÃ¨rent Ã  mettre mieux
+en relief les revendications du sexe faible. Avec la naissance de
+la 3e RÃ©publique coÃ¯ncide la crÃ©ation de nombreuses associations,
+l'Union universelle des femmes (Mme Cheliga-LÃ©vy), l'Avant-CourriÃ¨re
+(Mme Schmall), la Ligue franÃ§aise pour le droit des femmes (Mme
+Pognon), l'EgalitÃ© (Mme Vincent), etc., etc.
+
+De nombreux pÃ©riodiques ou revues viennent soutenir l'ardeur des
+combattantes et stimuler le zÃ¨le des nÃ©ophytes: _La Fronde_, _Le
+Droit des Femmes_, _La Femme_, _L'Avant-CourriÃ¨re_, _Le Pain_, _Le
+Journal des Femmes_, _La Femme Socialiste_, _La Revue FÃ©ministe_,
+_L'Harmonie Sociale_, _La Ligue_, etc., etc.
+
+En littÃ©rature, MM. Hervieu, Turgeon, Marguerite, Brieux, Donnay,
+Beaubourg, PrÃ©vost, Bourget, Jules Bois exaltent le rÃ´le futur de la
+femme libre et affranchie et idÃ©alisent sa mission de demain.
+
+Des hommes politiques, comme MM. Vaillant, Allemane, Viviani, Sembat,
+d'Estournelles de Constant, etc., se font les porte-paroles Ã©loquents
+des revendications du sexe faible. Bref, la vague fÃ©ministe monte,
+monte sans cesse.
+
+Â«Une Ã©vidence domine, c'est que le but se rapproche, c'est que la
+voix longtemps Ã©touffÃ©e, la voix innombrable des femmes retentit plus
+distincte et qu'on peut prÃ©voir dÃ©sormais sans erreur l'Ã©poque oÃ¹
+elle apportera dans nos assemblÃ©es le poids de son ingÃ©niositÃ©, de sa
+prÃ©voyance, de sa pitiÃ©, un sÃ»r et ardent levier pour le travail et
+pour la paixÂ»[52].
+
+  [52] Victor Marguerite, _Le Journal_, 29 mars 1910.
+
+Ãa sonne bien, c'est joli, c'est bien Ã©crit! Mais voilÃ , grattez un
+peu... il n'y a rien dessous. M. Victor Marguerite est simplement un
+merveilleux Ã©crivain.
+
+On serait tentÃ© de croire aprÃ¨s cette revue rapide des forces
+fÃ©ministes Ã  l'existence d'un courant profond, modifiant nos mÅurs
+et orientant l'opinion vers cette nouvelle perspective: les femmes
+Ã©lectrices. A prendre au pied de la lettre les articles enthousiastes
+des devins fÃ©ministes, il semble que la masse du peuple franÃ§ais soit
+prÃªte Ã  ce changement, et qu'il suffirait d'un simple coup de pouce
+donnÃ© Ã  l'Ã©volution de la sociÃ©tÃ© pour faire des femmes nos Ã©gales.
+Un petit tour de manivelle et crac, sans Ã -coups, sans oscillations
+ni secousses, insensiblement, glissante et souple, la rÃ©forme
+s'adapterait, inaperÃ§ue. Tous FranÃ§ais, tous Ã©lecteurs.
+
+La rÃ©alitÃ© serait plus mouvementÃ©e. Ce serait une profonde erreur
+et un leurre dangereux de supposer Ã  l'heure actuelle les mÅurs
+franÃ§aises suffisamment prÃ©parÃ©es Ã  l'acceptation d'une semblable
+rÃ©forme.
+
+Non, malgrÃ© toutes les affirmations, notre esprit n'est point encore
+accoutumÃ© Ã  considÃ©rer comme une chose sÃ©rieuse et rÃ©alisable le
+suffrage des femmes: La rÃ©forme n'est pas mÃ»re, elle est verte,
+horriblement verte.
+
+Et les annÃ©es se succÃ©deront longtemps encore avant que cette chimÃ¨re
+ait pu prendre consistance, avant que cette idÃ©e fausse et anormale
+soit acceptÃ©e par des cerveaux Ã©quilibrÃ©s et raisonnables.
+
+Cela parce que dans notre terre de France, oÃ¹ le bon sens est encore
+le meilleur juge, il existe des hommes sincÃ¨res et sÃ©rieux, ne
+craignant point d'Ã©lever leurs voix autorisÃ©es pour proclamer folie
+ce rÃªve de quelques exaltÃ©es.
+
+Cela, parce que la majoritÃ© des femmes se dÃ©sintÃ©resse complÃ¨tement
+de cette rÃ©forme que l'on ne prend pas au sÃ©rieux; femmes du peuple
+ignorant et ne soupÃ§onnant mÃªme pas la portÃ©e des revendications;
+bourgeoises effrayÃ©es dans leur simple jugeotte par ces grands mots:
+Ã©galitÃ© des sexes; aristocrates dÃ©daignant, pour une fois avec juste
+raison, ces luttes du sexe faible, bonnes tout au plus pour des
+institutrices.
+
+Enfin parce que toute l'Ã©norme majoritÃ© des FranÃ§ais et des
+FranÃ§aises intelligents, normaux et douÃ©s d'un solide bon sens ne
+peuvent accepter cette conception nouvelle du rÃ´le de la femme, se
+mÃªlant aux luttes politiques et descendant dans la rue!
+
+Â«Ce que nous voulons supprimer, ce n'est pas le sexe fÃ©minin, mais
+la servitude fÃ©minine, servitude que perpÃ©tuent la coquetterie,
+la retenue, la pudeur exagÃ©rÃ©e, les miÃ¨vreries de l'esprit et du
+langage. La femme sera un individu avant que d'Ãªtre un sexeÂ»[53].
+
+  [53] Doctoresse Pelletier: _Revue socialiste_, 1906.
+
+Le dÃ©licieux type de femme; dÃ©sormais libre, sans frein, sans
+moralitÃ©, sans coquetterie, sans amabilitÃ©, sans tendresse!
+
+Mme la doctoresse Pelletier n'est pas heureuse, constatons-le dans ce
+nouveau portrait de l'Eve future! Un ours! pas mÃªme lÃ©chÃ©!
+
+A la lecture de cet idÃ©al, nos pÃ¨res auraient dit tout simplement:
+Â«Les monstres, elles mÃ©ritent d'Ãªtre fouettÃ©esÂ». Mais si efficace
+qu'il puisse Ãªtre, ce vieux traitement rÃ©pugnerait Ã  la douceur de
+nos Ã¢mes. Nous avons fait nÃ´tre le joli proverbe indou: Ne frappez
+pas une femme, mÃªme avec une fleur! et puis les chÃ¨res crÃ©atures
+n'aiment plus Ã  Ãªtre battues. Mon docteur avait raison. Â«Mieux vaut
+de toute faÃ§on les asperger que les meurtrir. L'hydrothÃ©rapie a du
+bonÂ»[54].
+
+  [54] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+La mesure serait plus douce mais ne produirait pas de bons rÃ©sultats.
+
+Entre nous, mesdames, ne soyez pas si entÃªtÃ©es; convenez qu'Ã  l'heure
+actuelle nous ne sommes pas prÃªts pour cette rÃ©forme. Avouez-le! vous
+avez contre vous tout un peuple et vos faibles forces viendront se
+heurter longtemps encore contre le rempart du bon sens dont les bases
+sont en France trÃ¨s solides.
+
+Je n'en veux pour preuve qu'une confession d'un immortel fÃ©ministe,
+le provocateur des grands suicides moraux de notre Ã©poque et grand
+directeur des consciences de nos demi-vierges, nous avons nommÃ©
+Marcel PrÃ©vost.
+
+Â«Le suffrage des femmes est parmi les problÃ¨mes politiques et sociaux
+de l'heure prÃ©sente un de ceux qui agitent le moins l'opinion
+franÃ§aise. On peut s'en Ã©tonner Ã  une Ã©poque oÃ¹ les revendications
+fÃ©ministes ne sont nullement inactives ni nÃ©gligeables. Les
+conquÃªtes de la femme contemporaine dans le domaine de l'Ã©galitÃ©
+sociale sont tellement importantes depuis une vingtaine d'annÃ©es
+qu'elles dÃ©passent les prÃ©visions les plus optimistes. Mais dans
+le sens de l'Ã©galitÃ© politique, le changement fut quasi nul. La
+raison de cette immobilitÃ©, c'est que les femmes se sont franchement
+dÃ©sintÃ©ressÃ©es jusqu'ici de leurs droits politiquesÂ»[55].
+
+  [55] _Le Figaro_, 20 mars 1910.
+
+Â«La majoritÃ© des femmes n'est fÃ©ministe Ã  peu prÃ¨s dans aucun pays
+du monde, 120 ans aprÃ¨s la RÃ©volution franÃ§aise. Et parmi les
+revendications fÃ©ministes, celle Ã  laquelle les femmes tiennent
+peut-Ãªtre le moins, c'est le droit de suffrage lÃ©gislatif ou mÃªme
+municipalÂ»[56].
+
+  [56] Marcel PrÃ©vost: _Annales politiques et littÃ©raires_, 7
+  novembre 1909.
+
+Nous avions raison de vous dire, mesdames: l'idÃ©e n'est point
+encore dans nos mÅurs, la rÃ©forme n'est pas mÃ»re, elle est verte,
+horriblement verte et bonne tout au plus pour des... dÃ©traquÃ©es.
+
+
+4e: La femme ne doit point voter car elle n'a pas reÃ§u l'Ã©ducation
+civique et politique
+
+Supposons que du jour au lendemain, on accorde aux femmes le droit
+de voter: Qu'arriverait-il? Tout simplement que la majoritÃ© des
+femmes (et nous ne parlons que de celles ayant reÃ§u une Ã©ducation)
+Ã©prouveraient quelque difficultÃ© Ã  se servir de cette nouvelle
+attribution, car cette intelligence, malgrÃ© toute la science (?)
+inculquÃ©e pendant des annÃ©es par de savantes (?) maÃ®tresses, n'aura
+pas reÃ§u (heureusement) une Ã©ducation politique suffisante. Ah!
+disent les fÃ©ministes, qu'Ã  cela ne tienne, changeons les programmes
+et prÃ©parons les gÃ©nÃ©rations fÃ©minines Ã  leur rÃ´le futur.
+
+Non, Mesdames, ne faites point cette suprÃªme bÃªtise! Examinons
+en effet l'Ã©ducation de la femme moderne? Nous nous poserons
+certainement cette question: oÃ¹ sont les fous? Chez les hommes qui
+Ã©laborent de semblables programmes, ou chez les jeunes filles qui les
+apprennent!
+
+On rit en pensant Ã  ce que doit savoir une femme pour son certificat
+primaire, on tremble quand on jette un coup d'Åil sur le certificat
+supÃ©rieur, on frÃ©mit Ã  la lecture d'un programme d'Ã©cole normale!
+
+Quant au reste, cela dÃ©passe l'imagination humaine!
+
+Non seulement l'Ã©ducation pratique et intelligente est abandonnÃ©e,
+mais encore, chose plus grave, elle est condamnÃ©e. Lire tout,
+apprendre tout, mais ne savoir rien, tel est le grand critÃ©rium de
+l'instruction fÃ©ministe moderne.
+
+Â«Il n'est pas rare de voir les jeunes filles faire dans une mÃªme
+journÃ©e le commentaire d'une Ã©glogue de Virgile, l'analyse du systÃ¨me
+de Kant, l'exposÃ© des transformations du substantif de la langue
+d'oil et le tableau du rÃ©gime parlementaire des Anglais au XVIIIe
+siÃ¨cle ou expliquer le rÃ´le du systÃ¨me nerveux pÃ©riphÃ©rique, la
+formation des carbures d'hydrogÃ¨ne et reliquaÂ»[57].
+
+  [57] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+C'est cela! l'instruction Ã  haute tension, la concentration dans un
+cerveau fÃ©minin des choses les plus abstraites et les moins utiles!
+On fait de nos jeunes filles d'aujourd'hui des intellectuelles, des
+doctoresses, des brevetÃ©es, des agrÃ©gÃ©es, c'est-Ã -dire des pÃ©dantes,
+des prÃ©tentieuses, mais hÃ©las on n'en fait pas des femmes!
+
+Et si maintenant pour obtenir malgrÃ© tout votre fameux suffrage
+vous joignez, Mesdames, Ã  cette Ã©ducation savante, une Ã©ducation
+politique; si Ã  la thÃ©orie du systÃ¨me de Kant ou du tronc de cÃ´ne
+vous joignez les thÃ©ories royalistes, impÃ©rialistes, rÃ©publicaines ou
+socialistes; si dÃ©sormais une femme doit apprendre l'exposÃ© radical
+ou la doctrine communiste, le rÃ©sultat sera admirable!
+
+A la jeune fille pÃ©dante Â«qui n'a du dÃ©dain que pour les bourgeoises
+prÃ©parant des conserves ou surveillant la blanchisseuseÂ»[58], ajoutez
+un troisiÃ¨me sexe, la femme politique, nous aurons alors un Ãªtre
+hideux, difforme, composÃ© de pÃ©dantisme, de laideur, de prÃ©tention,
+de science et de politique, qui ne sera mÃªme plus, selon l'expression
+vulgaire, bonne Ã  prendre avec des pincettes!
+
+  [58] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Quelques fÃ©ministes dÃ©sireraient pour arriver Ã  ce rÃ©sultat un autre
+systÃ¨me. Ce serait la promiscuitÃ© de chaque jour des femmes avec les
+hommes:
+
+Â«La politique, le cafÃ©, le cabaret, en mettant les hommes en contact,
+leur font apprendre Ã  s'apprÃ©cier et Ã  se maÃ®triser. Mais pour les
+femmes, actuellement Ã©cartÃ©es de la politique, il n'y a point de
+contact civilisateur et l'habitude de n'avoir en vue que soi mÃªme
+fatalement restreint leur sens moralÂ»[59].
+
+  [59] _Le Matin_, 23 mars 1910.
+
+Ainsi donc, pour complÃ©ter l'Ã©ducation de la femme, Mme Hubertine
+Auclert nous propose comme contact civilisateur la politique, le
+cabaret et le cafÃ©. Pour notre part, nous croyons que si une pareille
+Ã©ducation devait leur Ãªtre donnÃ©e dans de semblables milieux, il
+faudrait dÃ©sespÃ©rer de les voir s'apprÃ©cier et se maÃ®triser; et il
+serait Ã  craindre de constater, le jour oÃ¹ elles prendront ce fameux
+contact civilisateur, la ruine de la famille et une recrudescence
+formidable d'aliÃ©nÃ©es.
+
+Non, jeunes filles, restez simplement les petites intelligences
+vives et alertes, ayant des aperÃ§us rapides sur certaines branches
+de la science, connaissant trÃ¨s bien notre littÃ©rature, Ã©crivant un
+franÃ§ais impeccable, sachant apprÃ©cier Ã  sa juste valeur une Åuvre
+d'art; joignez Ã  cela une Ã©ducation artistique, soyez des femmes
+agrÃ©ables, distinguÃ©es sans Ãªtre pÃ©dantes, instruites sans Ãªtre
+prÃ©cieuses.
+
+Ce n'est point certes que nous soyons partisans du type classique
+et ennuyeux de la femme de 1830 ou de la reproduction de cette
+espÃ¨ce infÃ©rieure de jeune fille appelÃ©e oie blanche! Mais de grÃ¢ce,
+ne brisez point brutalement cette aurÃ©ole de tendresse et d'amour
+qui font la femme douce et aimante. Laissez pour les hommes les
+discussions thÃ©oriques, les analyses profondes et surtout cette
+fameuse Ã©ducation civique ou politique dont vous espÃ©rez merveille et
+qui ne fera que creuser plus profondÃ©ment le fossÃ© qui vous sÃ©pare de
+la raison et du bon sens.
+
+Ne soyez point, Mesdames les fÃ©ministes, celles qui font toujours
+semblant de croire Ã  la vÃ©ritÃ© et Ã  la beautÃ© des doctrines que vous
+prÃ©conisez car, parfois, dans la hardiesse et la nouveautÃ© de vos
+idÃ©es, vous confinez au ridicule et n'oubliez pas qu'en France le
+ridicule tue toujours!
+
+
+5e: La femme ne doit point voter Ã  cause du danger confessionnel
+
+Ce chapitre, qu'on pourrait intituler: de l'hypnotisme, est un de
+ceux qui a rÃ©uni le plus grand nombre d'adversaires et de partisans.
+
+Cette dÃ©licate question de l'influence du confesseur sur l'Ã¢me
+de sa pÃ©nitente est si complexe et surtout soumise Ã  tellement
+de variations, Ã  cause du tempÃ©rament et du milieu, qu'il est
+matÃ©riellement impossible d'apporter des faits individuels permettant
+de faire une preuve Ã©clatante dans l'un ou l'autre sens.
+
+Comment, disent certaines Ã¢mes charitables et naÃ¯ves, pouvez-vous
+supposer Ã  un homme de religion le pouvoir pour ainsi dire surhumain
+de guider les dÃ©cisions des femmes, de diriger leurs actes, en un
+mot de leur imposer sa faÃ§on de penser et d'agir. Mais de nos jours,
+avec la libertÃ© effrayante des mÅurs, avec notre laisser aller, notre
+indiffÃ©rence et notre scepticisme, l'armÃ©e des illustres pÃ©cheresses
+rachetant leurs fautes par de douces pÃ©nitences et suivant exactement
+les conseils intÃ©ressÃ©s de leur confesseur n'existe plus.
+
+La femme d'aujourd'hui est trop lÃ©gÃ¨re, trop insouciante, et surtout
+trop avisÃ©e pour prÃªter une oreille attentive aux remontrances d'un
+jeune abbÃ© poudrÃ©, ou d'un vieux vicaire illuminÃ© et bedonnant!
+Par tradition, par habitude, par respect humain, elle lui dÃ©bitera
+l'Ã©ternel monologue de ses pÃ©chÃ©s mignons, bouclera aussi vite que
+possible la douce pÃ©nitence et, plus lÃ©gÃ¨re qu'un oiseau, volera
+vers d'autres dangers, vers d'autres chutes, ayant au cÅur la douce
+espÃ©rance d'Ãªtre pardonnÃ©e et de re-recommencer.
+
+Le confessionnal n'est plus aujourd'hui le point oÃ¹ mystÃ©rieusement
+se rÃ©unissaient les fils qui guidaient les volontÃ©s des femmes;
+l'indiffÃ©rence et la raison ont brisÃ© la trame de cette toile
+immense, enserrant les Ã¢mes et les Ã©nergies fÃ©minines!
+
+C'est mal comprendre la profonde influence qu'a toujours exercÃ©e sur
+la volontÃ© faible et molle de nos compagnes le caractÃ¨re religieux
+d'un confesseur. Depuis la juste loi de la SÃ©paration, l'Eglise vit
+en marge de la RÃ©publique, dissimulÃ©e mais non vaincue, rabaissÃ©e
+mais non soumise. De n'avoir pas voulu se courber Ã  l'instar des
+autres dogmes sous le joug de la loi, d'avoir Ã©tÃ© forcÃ©e de se
+soumettre, elle a gardÃ© l'Ã©ternelle rancÅur des vaincus et l'espoir
+de relever un jour la tÃªte.
+
+VoilÃ  pourquoi, malgrÃ© tout, sans chocs, sans heurts ses ministres
+ont redoublÃ© d'influence et de zÃ¨le! Sachant que la majoritÃ© des
+femmes a reÃ§u une Ã©ducation religieuse laissant en elles une trace
+indÃ©lÃ©bile, ils savent rÃ©veiller au moment opportun les sentiments
+qui s'endormaient dans la fiÃ¨vre de notre siÃ¨cle! Ils continuent Ã 
+guider les Ã¢mes et Ã  avoir main mise sur leur volontÃ©.
+
+Dans les villes oÃ¹ la femme est absorbÃ©e par les exigences mondaines
+ou la lutte pour la vie, leur tÃ¢che est peut-Ãªtre plus difficile;
+dans les villages oÃ¹ les lumiÃ¨res du ciel brillent encore dans l'Ã¢me
+naÃ¯ve et douce des paysannes, leur travail est simplifiÃ©. Et, comme
+dans le passÃ©, ils continuent Ã  exercer une pression d'autant plus
+dangereuse qu'elle est cachÃ©e, d'autant plus Ã  craindre qu'ils font
+miroiter l'Ã©clat des palmes du martyre et la beautÃ© d'une grande
+revanche, jusqu'au jour oÃ¹ Ã©tant les directeurs de toutes ces Ã¢mes,
+ils dÃ©clareront ouvertement la guerre Ã  la RÃ©publique.
+
+Que l'on ne nous dise point que ce sont lÃ  paroles lÃ©gÃ¨res ou
+pronostics pessimistes. Ce que nous voulons montrer, c'est
+la timiditÃ©, la faiblesse, la molle Ã©nergie d'une femme.
+C'est la facilitÃ© avec laquelle on capte sa volontÃ©. C'est
+l'attrait mystÃ©rieux qu'exerce sur toute Ã¢me religieuse, mÃªme
+superficiellement, la parole douce et chrÃ©tienne, psalmodiÃ©e dans un
+confessionnal ombrÃ© avec des gestes bÃ©nisseurs et caressants.
+
+C'est la facilitÃ© avec laquelle, sous prÃ©texte de religion, le
+confesseur peut dÃ©vier d'un sujet Ã  l'autre, peut inspirer et imposer
+sa faÃ§on de voir, peut en un mot se substituer Ã  la volontÃ© de sa
+pÃ©nitente.
+
+Et voilÃ  pourquoi le jour oÃ¹ dans sa bontÃ© magnanime la RÃ©publique
+accordera aux femmes le droit de vote, ce jour-lÃ  des millions de
+bulletins tomberont en avalanche sur elle; ce jour-lÃ  elle sera
+submergÃ©e par les flots des opinions rÃ©actionnaires des femmes, qui
+ne seront autres que les opinions de l'Eglise!
+
+Raisonnement faux, dit-on, puisque la plupart des fÃ©ministes
+sont rÃ©volutionnaires et libre-penseuses! Mais quelle diffÃ©rence
+faites-vous donc d'abord entre un rÃ©volutionnaire et un rÃ©actionnaire
+ou un anti-rÃ©publicain?
+
+Il n'y en a pas! tous deux veulent renverser le rÃ©gime existant, les
+uns par le raisonnement et le coup d'Etat, les autres par la torche
+et le pÃ©trole! Tous deux rÃªvent Ã  l'aube du grand soir, pour les
+premiers elle est blanche; rouge pour les seconds!
+
+Et puis croyez-vous que les fÃ©ministes socialistes iraient
+maladroitement se sÃ©parer du concours des catholiques? Leurs forces
+sont dÃ©jÃ  bien petites; qu'adviendrait-il si elles les divisaient?
+Oui, nous avons l'intime conviction que le vote des femmes serait
+dÃ©favorable Ã  la RÃ©publique et cela parce que de nos jours encore la
+volontÃ© de la femme n'est point libre, elle est soumise Ã  celle de
+son confesseur. Ceci n'est point une opinion; c'est la constatation
+de chaque jour, c'est un fait habituel! et nous croyons toujours Ã 
+l'Ã©loquence des faits plus qu'Ã  celle des discussions.
+
+De lÃ , cependant, Ã  faire retentir la trompette anticlÃ©ricale et
+sonner Ã  tous les Ã©chos le ralliement de la libre-pensÃ©e, nous
+paraÃ®trait un moyen essentiellement faux et maladroit. N'essayons
+point de jouer le rÃ´le insipide de la mouche du coche, comme par
+exemple Mme Nelly-Roussel:
+
+Â«Tant que nos soi-disant libres-penseurs, dit-elle, se montreront
+aussi misogynes que l'Eglise, tant qu'ils n'ouvriront Ã  la femme
+qu'une petite porte dÃ©robÃ©e en lui recommandant d'Ãªtre bien sage
+et de s'asseoir humblement Ã  l'Ã©cart, qu'ils ne lui feront pas
+partout sa large place, nous pourrons craindre que nos tentatives
+de laÃ¯cisation complÃ¨te demeurent vaines et infructueuses! Mais
+qu'espÃ©rez vous, Ã´ anticlÃ©ricaux! Chasser vos compagnes des Ã©glises
+sans leur donner d'autres asiles! Les enlever Ã  ce qui les console
+sans faire en sorte qu'elles n'aient plus besoin de chercher les
+consolations! Et dans leur Ã¢me oÃ¹ la rÃ©signation chrÃ©tienne endort la
+dignitÃ© humaine, tuer cette rÃ©signation sans rÃ©veiller la dignitÃ© qui
+dÃ©fend de courber la tÃªte sous aucun joug moral ou social? Sachez-le
+bien, vous rÃªvez l'impossible!Â»[60].
+
+  [60] _Quelques lances rompues en faveur de nos libertÃ©s_,
+  Nelly-Roussel.
+
+Sauf votre respect, Madame Nelly-Roussel, empruntant pour un instant
+un vocabulaire populaire: C'est du battage! Voyez-vous, les phrases,
+les grandes idÃ©es, les systÃ¨mes modernes sociaux, la refonte de la
+morale, Â«l'Eglise remplacÃ©e par la dignitÃ© qui dÃ©fend de courber
+la tÃªteÂ», tout cela c'est un brillant galimatias, un merveilleux
+assemblage de mots qui ne veulent pas dire grand chose et qui, une
+fois rÃ©unis, veulent dire encore moins.
+
+Laissez de cÃ´tÃ©, Madame, ces grandiloquentes thÃ©ories de la porte
+dÃ©robÃ©e et du joug moral ou social! Vos sÅurs, pas plus que vos
+frÃ¨res, du reste, ne pourraient vous comprendre! Pour combattre et
+ruiner Ã  jamais dans l'Ã¢me de nos femmes l'influence d'un confesseur,
+point n'est besoin de ce brÃ©viaire insensÃ© de libre-penseuse ou de ce
+manuel nÃ©buleux de parfaite laÃ¯que!
+
+Non! que le mari soit dÃ©sormais le confident de son Ã©pouse, qu'il
+l'entoure d'une affection franche et sincÃ¨re, qu'il soit pour elle
+un guide, un soutien; qu'Ã  tous les instants il se penche vers son
+cÅur pour connaÃ®tre ses souffrances et ses dÃ©sirs, que son rÃ´le ne
+se borne point Ã  celui du mari lÃ©gal, qu'il soit aussi le confesseur
+paternel et aimant, et dÃ©sormais disparaÃ®tra cette influence nÃ©faste
+du prÃªtre qui fausse les volontÃ©s et qui pourrait dÃ©tourner Ã  son
+profit le suffrage des femmes!
+
+Mais plus de ces harangues philosophiquement ennuyeuses, Madame
+Nelly-Roussel! Ralliez-vous Ã  notre systÃ¨me! C'est le meilleur, parce
+que le plus simple et le plus naturel!
+
+
+6e: La femme ne doit point voter parce qu'elle est femme
+
+Cela semble un paradoxe, une vÃ©ritÃ© de la Palisse; et cependant
+nulle raison, Ã  notre humble avis, n'est meilleure. De l'arsenal des
+raisons, restreintes Ã  volontÃ©, militant en faveur de notre opinion,
+aucune ne nous semble possÃ©der plus de force, plus de bon sens, plus
+de naturel et plus de vigueur.
+
+La femme ne doit point voter parce qu'elle est femme.
+
+Certes, il est assez tÃ©mÃ©raire de vouloir donner une explication de
+la femme. Nous comptons, du reste, sur l'indulgence des critiques,
+pour la seule et bonne raison que pas plus que nous ils n'arriveront
+Ã  donner la rÃ©solution de ce problÃ¨me.
+
+Impressionnable, est un de ses graves dÃ©fauts. Son organisme dÃ©licat
+la prÃ©dispose, en effet, plus que l'homme aux Ã©motions. Un rien la
+trouble, l'Ã©branle jusqu'aux larmes. La moindre impression laisse en
+elle une trace profonde; une parole qui l'aura choquÃ©e, froissÃ©e,
+restera gravÃ©e dans son esprit pour toujours. Il faut peu de chose
+pour la rendre heureuse et une robe qui lui va mal la rend inquiÃ¨te,
+agitÃ©e, irascible. Le moindre petit dÃ©tail qui cloche dans sa
+silhouette la met dans des Ã©tats de nervositÃ© Ã©tranges; un malheur
+profond la laisse calme, froide et rÃ©signÃ©e.
+
+A cÃ´tÃ© de ces miÃ¨vreries qui constituent cependant une ambiance
+nerveuse plus grande qu'elle ne paraÃ®t, il faut placer encore toutes
+les secousses plus fortes auxquelles elle est en butte: maladies,
+dÃ©sillusions, misÃ¨res, auxquelles son cÅur gÃ©nÃ©reux compatit
+toujours; chagrins intimes qu'elle garde jalousement par fiertÃ© et
+font d'elle l'Ã©ternelle blessÃ©e. Elle est en vibration continuelle
+et son Ã¢me et son esprit sont sans cesse agitÃ©s par le souffle de la
+douleur et de la joie.
+
+Et c'est Ã  ce petit Ãªtre ballottÃ©, Ã  la merci d'un sourire ou d'une
+larme, que vous voulez donner un droit--celui de voter--droit
+exigeant peut-Ãªtre plus que tout autre le calme et la rÃ©flexion!
+Oh! direz-vous, Ãªtes-vous sÃ»r que les hommes rÃ©flÃ©chissent avant de
+donner leurs voix Ã  un candidat? Soit! faisons des concessions et
+reconnaissons que bon nombre d'Ã©lecteurs votent sans se douter du
+droit sacrÃ© dont ils font usage; mais enfin, qu'on le veuille ou non,
+il existe encore bon nombre de FranÃ§ais qui en leur Ã¢me et conscience
+dÃ©posent, sans Ãªtre impressionnÃ©s par les discours tapageurs ou
+circonvenus par les promesses, leur bulletin dans l'urne.
+
+Prenons, au contraire, la femme avec son extrÃªme impressionnabilitÃ©,
+mÃªlons-la aux luttes politiques, jetons-la dans des rÃ©unions, des
+manifestations; pendant des semaines bourrons-la de professions
+de foi, de proclamations, de dÃ©clarations, enflammons-la par de
+violentes polÃ©miques, et nous aurons le jour du vote devant nous une
+malheureuse dÃ©semparÃ©e, brisÃ©e par les Ã©motions, ne sachant plus Ã 
+quel candidat se vouer, ne comprenant plus ce qu'on exige d'elle;
+nous n'aurons qu'une petite barque roulant, tanguant sur la mer
+immense de la politique.
+
+Oh! combien triste et pitoyable ce sera!
+
+On comprend qu'avec un tel goÃ»t pour les Ã©motions fortes, elle soit
+inÃ©vitablement sentimentale. CÅur et nerfs, ainsi pourrait-on la
+symboliser.
+
+Elle subit continuellement cette double impulsion. Son cÅur est
+toujours plein de tendresse et de dÃ©vouement qu'elle rÃ©pand sans
+compter. Aimer, Ãªtre aimÃ©e, se dÃ©vouer toute, se donner corps et Ã¢me,
+voilÃ  la vÃ©ritable aspiration de la femme.
+
+Certains fÃ©ministes jugent parfois ce but dÃ©gradant, humiliant, parce
+qu'il fait d'elle une esclave, et leurs thÃ©ories sont vaines, car
+aucun raisonnement n'empÃªchera la femme d'aimer et d'Ãªtre une esclave
+Ã  laquelle nous obÃ©issions.
+
+Sa seule tÃ¢che ici-bas se nomme amour. Et qu'on le baptise comme
+l'on voudra, sentimentalisme, romantisme, passion, tendresse, tout
+cela n'est qu'une forme de l'amour qui remplit la vie de la femme.
+Irez-vous rabaisser cet idÃ©al, en faisant d'elle notre Ã©gale, du
+moins en thÃ©orie.
+
+Mais la femme, crÃ©ature d'amour, n'est point faite pour ces grandes
+thÃ©ories modernes de l'Ã©mancipation sociale. Son cÅur tout rempli de
+tendresse ne peut comprendre ces aspirations illÃ©gitimes de libertÃ©,
+ces aspirations mal fondÃ©es d'Ã©galitÃ© dans la question politique.
+Ãloignez d'elle toutes ces complications, ne la sortez point de son
+cadre de beautÃ© et d'amour, car le jour oÃ¹ elle viendra se mÃªler Ã 
+nos luttes, le jour oÃ¹ elle sera Ã©lue maire ou dÃ©putÃ©, ce jour-lÃ 
+sera pour elle l'ouverture d'une Ã¨re de rabaissement et de dÃ©chÃ©ance.
+Elle ne sera qu'une pÃ¢le imitation de l'homme! Trahie par son cÅur,
+et voulant mettre la tendresse lÃ  oÃ¹ la raison, le droit et l'Ã©nergie
+doivent seuls rÃ©gner, elle sera renversÃ©e, piÃ©tinÃ©e, elle deviendra
+la victime de l'amour!
+
+Sentimentales, que deviendront leurs dÃ©cisions! A quel parti
+s'arrÃªteront-elles! Comment pourront-elles porter un jugement droit
+et dÃ©finitif? La passion, le sentiment fausseront toujours leurs
+idÃ©es:
+
+Â«Le sentiment peut tout faire rentrer dans l'esprit d'une femmeÂ»[61].
+
+  [61] Paul Bourget.
+
+Â«L'homme est poussÃ© par la passion, la femme par les passions;
+celui-lÃ  par un grand courant, celle-ci par des vents changeantsÂ»[62].
+
+  [62] Jean-Paul Richter.
+
+VoilÃ  pourquoi jamais leur tempÃ©rament de grandes amoureuses ne
+pourra s'adapter Ã  celui de politique et de tous ses corollaires, y
+compris surtout celui de voter.
+
+La femme est de plus trop lÃ©gÃ¨re et trop inconstante. Aucune suite
+ne se trouve dans ces dÃ©cisions. Incapable de prendre par elle-mÃªme
+une rÃ©solution, elle dispense son Ã©nergie entre de nombreuses idÃ©es
+auxquelles, du reste, elle ne s'arrÃªte particuliÃ¨rement jamais. Et si
+par hasard elle parvient Ã  prendre une rÃ©solution ferme et Ã©nergique,
+elle est absolument incapable d'en attendre le rÃ©sultat?
+
+Â«Vous causez avec une femme de sujets graves, tout de suite vous vous
+apercevez que vous n'Ãªtes ni compris, ni suivi. Sans cesse votre
+interlocutrice vous Ã©chappe, se jette Ã  cÃ´tÃ©, s'arrÃªte Ã  des dÃ©tails,
+se noie dans des lieux communs et sautille d'une idÃ©e Ã  l'autre.
+C'est que la femme n'est pas un cerveau, elle n'est qu'un sexeÂ»[63].
+
+  [63] _Les Mensonges du fÃ©minisme_, par ThÃ©odore Joran.
+
+Ah! qui nous dira l'insouciance de cette petite Ã¢me d'oiseau, la
+lÃ©gÃ¨retÃ© de cet esprit Â«sautillant comme les mouchesÂ»[64], qui
+touche Ã  tout, goÃ»te Ã  tout, veut tout voir, tout entendre, tout
+connaÃ®tre, tout savoir sans rien approfondir. C'est que la femme ne
+peut matÃ©riellement rÃ©flÃ©chir plus de cinq minutes; sa devise est
+frivolitÃ©. Â«La femme Ã©bauche tout, n'achÃ¨ve rienÂ»[65].
+
+  [64] Kant.
+
+  [65] Turgeon.
+
+Â«Ma femme est charmante, provocante, seulement elle ne laisse rien
+dans la main. Elle ressemble Ã  ces verres de champagne, oÃ¹ tout est
+en mousse. Quand on a fini par trouver le fond, c'est bon tout de
+mÃªme, mais il y en a trop peu!Â»[66].
+
+  [66] Guy de Maupassant.
+
+Rapprochons cette dÃ©licieuse rÃ©flexion de Guy de Maupassant d'une
+dÃ©claration fine et jolie qu'Henri Lavedan met dans la bouche d'une
+de ses hÃ©roÃ¯nes:
+
+Â«Des joujous animÃ©s, des Ãªtres indÃ©cis et bizarres Ã  caprices, Ã 
+vapeurs, Ã  nerfs, voilÃ  ce que nous sommes. Il y a des moments oÃ¹
+nous ne comprenons rien Ã  nous-mÃªmes. Nous avons des cervelles de
+petit lait, nous ne rÃ©flÃ©chissons pas plus qu'une bÃªte Ã  Bon Dieu.
+Moi, je me fais l'effet de ne peser rien, d'Ãªtre un duvet; moins
+qu'une chandelle... tu sais, cette fleur des champs sur laquelle on
+souffle et puis qui s'est envolÃ©eÂ»[67].
+
+  [67] Henri Lavedan: _Leurs sÅurs_.
+
+Et maintenant pourrez-vous, Mesdames et Messieurs les fÃ©ministes,
+Ãªtre convaincus que la femme aura assez de bon sens et de raison pour
+user du bulletin de vote que, malgrÃ© elle, vous voulez lui offrir.
+
+Vous voulez faire de ce petit Ãªtre mignon qui ne songe qu'Ã 
+s'habiller comme un champignon ou comme un parapluie, l'Ã©gale de
+l'homme; vous voulez accorder des droits nouveaux Ã  cette Eve si
+mobile d'Ã¢me et d'esprit, qui ne s'arrÃªte Ã  rien de profond et de
+sÃ©rieux, qui glisse sur les sujets pour ne peser que la bagatelle!
+Allons, permettons aux enfants de s'amuser avec des armes Ã  feu! Le
+droit de vote est une arme que la femme ne saurait et ne pourrait
+manier, elle la tuerait!
+
+Et puis n'oubliez pas Â«que les femmes sautent toujours Ã  pieds joints
+par-dessus les longues chaÃ®nes des raisons froidesÂ»[68].
+
+  [68] Henri Marion: _Psychologie des femmes_.
+
+Cela Ã©vite toute discussion en leur faveur!
+
+En outre, que dire de leur exaltation. Â«Nerveuse, sensible, la femme
+est extrÃªme en tout, capable des pires folies comme des actes les
+plus sublimes! La femme rÃªve toujours quelque chose de mieux que le
+bien et de pire que le malÂ»[69].
+
+  [69] Octave Feuillet.
+
+Accordez-leur le suffrage et vous comprendrez alors pourquoi des
+hommes de bon sens vous crient: Casse-cou! Mais dans les villes, et
+surtout dans les villes ouvriÃ¨res et les villages, nous assisterons
+pendant les Ã©lections Ã  des rÃ©sultats navrants: les femmes exaltÃ©es,
+ayant au cÅur la prÃ©tention de faire triompher leur candidat, se
+livrant Ã  toutes sortes d'actes que nous ne pourrons que rÃ©prouver.
+
+ConsidÃ©rez-les, de notre Ã©poque, dans les grÃ¨ves. Ce sont elles qui
+mÃ¨nent les ouvriers, qui se couchent sous les pieds des chevaux des
+gendarmes ou sur les rails des chemins de fer! Le jour oÃ¹ elles
+auront le droit de voter, les Ã©lections sombreront dans le ridicule
+ou dans le sang. Pour notre part, nous trouvons les deux solutions
+aussi grotesques l'une que l'autre! Et nous sommes sÃ»r d'avoir de
+notre cÃ´tÃ© tous les gens de bon sens.
+
+N'Ãªtes-vous point encore coquettes, et ce dÃ©faut qui parfois est
+une qualitÃ© ne deviendra-t-il pas, quand vous serez Ã©lectrices, une
+sÃ©rieuse pierre d'achoppement?
+
+Vaniteuses! accessibles aux compliments. Comme vous deviendrez bien
+vite amorales! Que ne ferait-on pas d'une femme en lui vantant ses
+jolis cheveux ou ses grands yeux noirs. Des compromissions! mais il
+y en aura plus que jamais! Le premier joli candidat venu, au bagout
+Ã©tincelant, Ã  la fine moustache ou Ã  l'allure crÃ¢ne, vous fera
+tourner comme des girouettes! Seriez-vous capables de rÃ©sister Ã 
+l'offre allÃ©chante d'un pot-de-vin qui pour la circonstance revÃªtira
+les formes Ã©lÃ©gantes d'une robe de chez Paquin ou d'un superbe
+chapeau!
+
+Mais en faisant vibrer en vous la corde dÃ©sespÃ©rÃ©ment sensible de la
+vanitÃ©, en vous montrant une rivale adulÃ©e, comblÃ©e d'honneurs, que
+vous pourrez Ã©galer et mÃªme surpasser, que n'obtiendra-t-on pas de
+vous!
+
+Les ennemis de la RÃ©publique rabÃ¢chent depuis dÃ©jÃ  longtemps
+l'Ã©ternelle complainte de la pourriture de nos mÅurs politiques.
+Ils savent bien malgrÃ© tout qu'en RÃ©publique aucune suspicion ne
+peut-Ãªtre jetÃ©e sur notre corps reprÃ©sentatif.
+
+Le jour oÃ¹ vous aurez le droit de voter, mesdames, la pourriture
+politique gagnera du terrain sÃ»rement, lentement, car aucune de vous
+n'aura ni le courage ni la force de rÃ©sister aux tentations!
+
+Et ce jour-lÃ , les adversaires du rÃ©gime auront beau jeu!
+
+Nous le rÃ©pÃ©tons, vous ne devez point voter, car vous Ãªtes des
+femmes! car la femme est ce qu'il y a de plus beau sur la terre et
+peut-Ãªtre dans le ciel, car les anges lui ressemblent idÃ©alement.
+Â«Elle mÃ©rite ici-bas des autels, des litanies, une adoration
+spÃ©ciale. C'est la fleur humaine par excellence; et c'est aussi la
+perle, l'Ã©toile et le papillon et toutes les pierres prÃ©cieuses,
+le plus rare bijou de la couronne. Et c'est aussi tous les arts
+rÃ©unis, fondus, le plus exquis tableau, la plus svelte statue, le
+plus veloutÃ© pastel! Et c'est encore la musique animÃ©e, rÃ©alisÃ©e,
+personnifiÃ©e, la mÃ©lodie et l'harmonie, l'Ã©ternelle et divine
+romance!Â»[70].
+
+  [70] Henri Lavedan: _Leurs sÅurs_.
+
+AprÃ¨s cela, mesdames, aimeriez-vous devenir des hommes c'est-Ã -dire
+des singes?
+
+Et pour terminer, mÃ©ditez cette pensÃ©e de Victor Hugo: Â«Si vous Ãªtes
+pierre, soyez aimant; si vous Ãªtes plante, soyez sensitive; si vous
+Ãªtes femme, soyez amour!Â»[71]. C'est la seule chose que vous puissiez
+Ãªtre ici-bas.
+
+  [71] _Les MisÃ©rables_, Victor Hugo.
+
+
+
+
+TROISIÃME PARTIE
+
+
+
+
+QUELQUES RÃFLEXIONS SUR LES SUFFRAGETTES
+
+
+Ce ne sont point dans les pages suivantes des critiques ou des
+conseils que nous voulons donner aux fÃ©ministes de notre Ã©poque.
+Notre faible voix risquerait fort d'Ãªtre peu Ã©coutÃ©e. Pourrait-il en
+Ãªtre autrement! Ce que nous avons voulu, c'est simplement condenser
+en quelques lignes certaines rÃ©flexions suggÃ©rÃ©es par ces messieurs
+et dames fÃ©ministes.
+
+Qu'ils ne voient point lÃ  les rÃ©criminations amÃ¨res d'un adversaire
+rÃ©solu des revendications du sexe faible, mais simplement les idÃ©es
+d'un jeune homme qui s'amuse Ã  rire de leurs travers et de leurs
+dÃ©fauts, ce qui, du reste, a Ã©tÃ© une partie des plus agrÃ©ables et des
+plus intÃ©ressantes de ce travail.
+
+
+1Âº Les Suffragettes et la RÃ©clame
+
+Nous ne citerons point de noms; nous pourrons ainsi concilier la
+pÃ©nible obligation de dire aux femmes de cruelles vÃ©ritÃ©s tout en
+n'abandonnant point le champ agrÃ©able de la galanterie. Et personne
+n'Ã©tant visÃ©, ces dames pourront se donner l'illusion de voir ces
+lignes Ã©crites pour leurs voisines.
+
+Il existe Ã  l'heure actuelle une question palpitante d'intÃ©rÃªt: c'est
+le suffrage des femmes. Comme de toutes les nouveautÃ©s, des personnes
+s'en sont emparÃ©es, l'ont exploitÃ©e, pensant s'en faire un tremplin
+de gloire et de cÃ©lÃ©britÃ©. Il est si difficile de percer de nos jours.
+
+Les hommes fÃ©ministes ont sautÃ© Ã  pieds joints sur ce nouveau thÃ¨me
+qui leur permet, journalistes d'exposer un sujet inÃ©dit, romanciers
+d'intÃ©resser leur clientÃ¨le par des idÃ©es modernes, auteurs
+dramatiques d'Ã©viter le four sensationnel par la hardiesse de la
+thÃ¨se!
+
+Pour quelques-uns, un succÃ¨s de curiositÃ© a rÃ©pondu Ã  cette nouvelle
+Â«exploitation littÃ©raireÂ»; pour beaucoup le dÃ©sintÃ©ressement et le
+bon sens de la majoritÃ© des FranÃ§ais ont fait justice de cette levÃ©e
+de boucliers fÃ©ministes. Ces Messieurs avaient en effet oubliÃ© une
+chose essentielle, principale: d'Ã©clairer la lanterne, c'est-Ã -dire
+d'Ã©tudier la question. Ils croyaient pouvoir traiter le sujet du
+suffrage des femmes dans quelques articles de journaux ou aux feux
+de la rampe. Et quand on s'aperÃ§ut que leurs raisons n'Ã©taient que
+des raisons sentimentales, que leurs phrases claironnantes Ã©taient de
+magnifiques ciselures vides de sens, on haussa les Ã©paules et l'on se
+mit Ã  rire!
+
+C'Ã©tait la seule conclusion qui s'imposait!
+
+Quant aux femmes, elles ont Ã©tÃ© superbes d'audace et de dÃ©sinvolture.
+Elles ont tout d'abord donnÃ© l'impression de grandes hÃ©roÃ¯nes, tÃ©moin
+Olympe de Gouges! La femme, disait-elle, a le droit de monter sur
+l'Ã©chafaud; elle doit avoir Ã©galement celui de monter Ã  la tribune!
+Son dÃ©sir fut sinistrement exaucÃ© et nous ne pouvons que saluer trÃ¨s
+bas une victime innocente de la RÃ©volution!
+
+A cette hÃ©roÃ¯ne succÃ©da une floraison de fÃ©ministes convaincues et
+exaltÃ©es, ne rÃªvant que plaies et bosses, luttes, barricades, avec le
+dÃ©sir public de devenir Ã  leur tour des martyres, mais avec aussi le
+secret espoir de demeurer tout simplement des femmes.
+
+L'idÃ©e de ces revendications, comme du reste toute idÃ©e neuve et
+hardie, faisant en France son petit bonhomme de chemin, ces dames se
+crurent tout d'un coup les Messies d'une nouvelle sociÃ©tÃ©; Ã  l'instar
+des Saint-Simoniens elles tÃ¢chÃ¨rent de fonder un nouveau dogme
+de rÃ©gÃ©nÃ©ration sociale! Et du jour au lendemain, les fÃ©ministes
+furent cÃ©lÃ¨bres, on leur prit des interviews, elles Ã©crivirent
+leurs impressions, quelques-unes mÃªme leurs mÃ©moires. Les grands
+quotidiens publiÃ¨rent des articles sensationnels sur leur compte;
+et Ã  part quelques esprits calmes et pondÃ©rÃ©s, l'escouade de ces
+militantes fut grisÃ©e, fut Ã©blouie! Songez donc! on publiait en
+premiÃ¨re page leurs articles, leurs noms; on donnait mÃªme leurs
+photographies!
+
+Â«Ah! l'on ne connaÃ®t pas l'influence de la photographie retouchÃ©e sur
+la femme! Elles se font photographier dans toutes les positions, face
+Ã  l'OcÃ©an; celle-lÃ , partant Ã  la conquÃªte de la littÃ©rature, sur
+un dos de chameau; telle se costume en impÃ©ratrice, telle autre en
+bÃ©douine!Â»[72].
+
+  [72] Louise Faure Favier: _Figaro_, 21 fÃ©vrier 1910.
+
+Et toutes ces dames, prises tout Ã  coup d'un furieux accÃ¨s de
+production, Ã©crivirent, chaque jour, dans tous les journaux, dans
+toutes les revues, dans tous les quotidiens!
+
+Oh! cette littÃ©rature fÃ©ministe! De l'opium! de la guimauve ou de la
+pÃ¢te... Ã©pilatoire!
+
+Les hommes-fÃ©ministes! Des convaincus! des champions de
+l'Ã©mancipation! Allons donc! dites plutÃ´t des esprits brillants
+et distinguÃ©s! soit, mais aussi des vendeurs de littÃ©rature, des
+lanceurs d'affaires, des hommes subtils et adroits, ayant compris
+tout le profit qu'ils pourraient retirer de ces idÃ©es modernes et
+toute la gloires qui rejaillirait sur eux de les avoir fait connaÃ®tre
+et exalter!
+
+Les femmes fÃ©ministes! Des convaincues! Allons donc; des assoiffÃ©es
+de rÃ©clame, des ambitieuses, dont le suprÃªme bonheur est de prÃ©sider
+un congrÃ¨s ou de lire leur nom dans un journal.
+
+Â«Ce qui perce Ã  travers la propagande qu'elles mÃ¨nent c'est, avec le
+mauvais goÃ»t de la dÃ©clamation, une aviditÃ© impatiente de rÃ©clame, un
+goÃ»t effrÃ©nÃ© de notoriÃ©tÃ© bruyante. La poule meurt d'envie de chanter
+comme le coq, et c'est Ã  qui s'Ã©poumonera pour mettre sa petite
+personne en Ã©vidence sur le plus haut perchoir du poulaillerÂ»[73].
+
+  [73] Turgeon: _Le fÃ©minisme franÃ§ais_.
+
+Oui, Mesdames les fÃ©ministes, voilÃ  ce que vous Ãªtes, des petits
+esprits Ã©troits et bornÃ©s, ayant au cÅur un seul dÃ©sir, celui de
+paraÃ®tre sur la scÃ¨ne de la vie, de taper Ã  coups redoublÃ©s sur la
+grosse caisse de vos revendications afin que l'on parle et que l'on
+cause de vous, que l'on vous interviewe ou que l'on mette votre
+photographie dans un illustrÃ©, devant une rÃ©clame de rasoir ou de
+corricide!
+
+IdÃ©al combien ridicule et banal! Cela classe tout de suite le
+fÃ©minisme!
+
+
+2Âº Les suffragettes et la beautÃ©!
+
+Il existe chez les fÃ©ministes femmes un point faible, trÃ¨s faible; un
+point tout petit et qui, cependant, malgrÃ© les haussements d'Ã©paules
+de ces dames, a une grande importance! C'est la question de la beautÃ©!
+
+Jusqu'ici, les fÃ©ministes n'ont recueilli que des suffrages
+restreints, et cela tient beaucoup au manque d'Ã©lÃ©gance et
+d'esthÃ©tique des candidates. Cette raison qui, Ã  premiÃ¨re vue, peut
+paraÃ®tre puÃ©rile est cependant, aprÃ¨s discussion, sÃ©rieuse et fondÃ©e!
+
+Vous nous direz: Mais toute femme jolie est bÃªte! et pour Ãªtre
+intelligente nul besoin n'est d'avoir une figure fine et gracieuse!
+C'est vrai, mais enfin c'est un grand dÃ©faut d'Ãªtre laide, Madame!
+Â«La femme n'a qu'un droit, avons-nous lu quelque part, celui d'Ãªtre
+jolie!Â» L'auteur exagÃ©rait, Ã©videmment, mais il ne mentait pas!
+
+Â«Qui dÃ©crira les nez en pied de marmite, chevauchÃ©s par de calamiteux
+lorgnons, et les mentons crochus, les bouches Ã©dentÃ©es, oÃ¹
+n'apparaissent plus, au coin d'un redoutable sourire, que quelques
+vieux chicots crÃ©nelÃ©s; et les visages couperosÃ©s ou jaunÃ¢tres, les
+physionomies en coin de rue et les petits yeux vÃ©rons ou pers,
+laissant filtrer un regard rÃ©frigÃ©rant comme un courant d'air!Â»[74].
+
+  [74] _Journal_, 6 juin. Ludovic Naudeau.
+
+Mme Nelly-Roussel, en rapportant et commentant ce passage
+photographiÃ© et pris sur le vif, devient triste et amÃ¨re! TouchÃ©e
+au vif, elle n'a pour le correspondant du _Journal_ que des paroles
+mordantes!
+
+Et parce que M. Ludovic Naudeau a montrÃ©, dans toute sa vÃ©ritÃ© et
+toute son horreur un type presque universel de fÃ©ministe, parce qu'il
+souligne d'une plume minutieuse et humouristique le grave et Ã©ternel
+dÃ©faut de ces dames, Mme Nelly-Roussel, avec un esprit mÃ©lancolique,
+nous rÃ©pond: Â«Ah! quel amusant jeu de massacre nous fournirait le
+Parlement de n'importe quel pays! mais nous sommes meilleures que
+vous, nous nous reconnaissons le droit Ã  la laideur... bien que de
+celui-lÃ , comme des autres, vous abusiez volontiersÂ»[75].
+
+  [75] _Quelques lances rompues en faveur de nos libertÃ©s_, Nelly
+  Roussel.
+
+Eh! bien, Ã  vous! mesdames, nous ne vous reconnaissons pas ce droit!
+Un homme peut Ãªtre laid, cela n'influe en rien sur son caractÃ¨re ou
+son Ã©nergie, mais vous! femmes, si vous voulez rÃ©ussir, triompher!
+vous devez Ãªtre belles, car le jour oÃ¹ vous niez cette qualitÃ©, vous
+supprimez la moitiÃ© de vous-mÃªmes!
+
+Oui, n'oubliez pas, Mesdames, Â«dont les hÃ©roÃ¯ques campagnes en faveur
+du fÃ©minisme et de l'amour libre sont inscrites dans la lassitude
+de vos bajoues et le dÃ©couragement de vos seinsÂ»[76], que la femme
+qui veut avoir un nom, Ãªtre connue, faire parler d'elle, quand sa
+cause est mauvaise ou que la vive intelligence lui fait dÃ©faut, doit
+racheter tout cela par sa beautÃ©. Pour vous, c'est une arme devant
+laquelle peu d'hommes rÃ©sistent, une force qui plie tout Ã  sa volontÃ©!
+
+  [76] Jean Lorrain.
+
+La laideur, Mesdames les fÃ©ministes, voilÃ  votre ennemi mortel! Nous
+contemplions vos traits dans le numÃ©ro de _FÃ©mina_ du 15 avril 1910.
+Quelle impression doit produire sur les Ã©lecteurs la silhouette
+hommasse ou le facies exsangue de certaines candidates! Quel piÃ¨tre
+succÃ¨s malgrÃ© toute votre Ã©loquence (_?_) et que de sourires
+ironiques doivent souligner vos pÃ©riodes Ã©chevelÃ©es!
+
+Peut Ãªtre allons-nous faire mourir de jalousie certaines
+concurrentes! A quoi attribuer le succÃ¨s de Mme Marguerite Durand?
+Ã  ses idÃ©es fÃ©ministes? Non! loin de lÃ , mais simplement Ã  son
+Ã©lÃ©gance, Ã  sa joliesse, Ã  sa beautÃ© distinguÃ©e!
+
+Vous voyez, Mesdames, nous avions raison de vous dire: Soyez jolies!
+Soyez jolies!
+
+Admirons profondÃ©ment, sincÃ¨rement, ce journaliste, fÃ©ministe
+convaincu, John-Antoine Nau qui, dans le _Petit NiÃ§ois_ du 18 janvier
+1909, parlant de la laideur des suffragettes anglaises Ã©crit: Â«La
+prochaine fois que je rencontre une fÃ©ministe anglaise ou non,
+Ã©lÃ©gante ou malpropre, mÃªme bottÃ©e comme un Ã©goutier, mÃªme laide
+comme un pou, mÃªme un peu Ã©mÃªchÃ©e, sentant le schnik, le tord-boyaux,
+voire le tabac Ã  chiquer, je l'embrasse fÃ»t-ce en pleine rue!Â»
+
+Je ne croyais pas qu'il existÃ¢t de par le monde des hommes capables
+d'un tel courage!
+
+Quant Ã  nous, le jour oÃ¹ nous rencontrerons une fÃ©ministe de tous
+points semblable Ã  l'idÃ©al de M. Nau, qui voudra se venger de nos
+attaques, nous lui dirons simplement: Embrassez-moi. Et vous pouvez
+croire, Mesdames, que nous serons cruellement puni!
+
+
+3Âº: Les suffragettes et la critique
+
+Il est encore un point qui vous porte considÃ©rablement tort,
+Mesdames, c'est votre tactique de combat. Aux attaques et aux coups
+de vos adversaires vous ne savez rÃ©pondre la plupart du temps que par
+des insultes ou des procÃ©dÃ©s mÃ©chants.
+
+Irritables et nerveuses Ã  l'excÃ¨s, vous ne savez pas mesurer vos
+paroles, guider vos rÃ©ponses, empreintes toujours de fiel et
+d'amertume; Ã  la discussion vous prÃ©fÃ©rez la phrase emportÃ©e; Ã  la
+polÃ©mique, le ton rancunier et colÃ©reux. Nous le rÃ©pÃ©tons, vous avez
+gravement tort!
+
+Ayez au contraire le bon sourire franc des duellistes de journaux;
+encaissez les coups sans mauvaise humeur; ayez la rÃ©partie fine,
+vive, spirituelle, mordante; sachez retourner les arguments adverses
+d'une plume alerte et Ã©moustillante, mais de grÃ¢ce ne prenez point
+tout de suite cet air boudeur et cette mine rageuse; que vos
+discussions et vos rÃ©ponses ne disparaissent plus sous les flots
+tumultueux et pressÃ©s des Ã©pithÃ¨tes malsonnantes; vos arguments n'en
+auront que plus de valeur (ils en ont du reste besoin), et dÃ©sormais
+vous n'aurez plus l'ennui de lire des articles si vÃ©ridiques Ã  votre
+adresse, Ã  l'instar du suivant:
+
+Â«Chaque fois que je me suis permis de ne pas admirer les femmes qui
+font de la politicaille, j'ai reÃ§u toutes sortes de lettres et de
+cartes injurieuses.
+
+Â»Des mains sans doute charmantes ont Ã©crit Ã  mon adresse de
+cette Ã©criture fine et allongÃ©e et pointue,--marque d'une bonne
+Ã©ducation--les mots de crÃ©tin, d'idiot, d'abruti (j'en passe et des
+pires).
+
+Â»Ma foi! j'ai tort de croire que les dames n'ont pas de dispositions
+pour entrer dans l'arÃ¨ne Ã©lectoraleÂ»[77].
+
+  [77] ClÃ©ment Vautel, _Matin_, 11 fÃ©vrier 1910.
+
+En homme spirituel et aimable, ClÃ©ment Vautel ne fait que vous
+supposer des dispositions; il vaudrait bien mieux pour vous,
+Mesdames, pour votre beautÃ©, votre intelligence et votre Ã©lÃ©gance,
+Ãªtre obligÃ©es de reconnaÃ®tre que vous n'Ãªtes point faites pour les
+luttes politiques!
+
+Vous n'arriverez Ã  ce rÃ©sultat que le jour oÃ¹ vous reviendrez Ã  ce
+que vous avez toujours Ã©tÃ©, c'est-Ã -dire des femmes, par analogie des
+Ãªtres doux, affectueux et polis!
+
+Et ce jour-lÃ  arrivera bientÃ´t. Car vous reconnaÃ®trez votre erreur,
+vous ne fausserez dÃ©sormais plus vos caractÃ¨res, vous ne serez plus
+les politiciennes aux mots grossiers et injurieux, car cela n'est
+point ni dans votre nature, ni dans votre caractÃ¨re, ni dans votre
+cÅur! Vous redeviendrez des femmes.
+
+Chassez le naturel, il revient au galop!
+
+
+
+
+QUATRIÃME PARTIE
+
+
+
+
+OPINIONS DE PERSONNALITÃS POLITIQUES ET LITTÃRAIRES SUR LE SUFFRAGE
+DES FEMMES
+
+
+Nous avons essayÃ© de grouper trÃ¨s impartialement les opinions de
+quelques personnalitÃ©s politiques et littÃ©raires sur le suffrage des
+femmes.
+
+Nous nous plaisons cependant Ã  constater l'absence presque complÃ¨te
+de partisans rÃ©solus et convaincus. La plupart n'ont pas osÃ©
+rÃ©pondre; certains, et ils sont nombreux, ne disent ni oui ni non,
+enveloppent leur pensÃ©e dans un tour de phrase mystÃ©rieux, reprenant
+d'une main ce qu'ils accordent de l'autre: bref pour ne point se
+donner l'air de vieux rÃ©trogrades, biaisent, essayent de gagner du
+terrain avec tellement de restrictions et de doutes qu'ils prÃ©cisent
+mieux encore leurs opinions.
+
+Et c'est pour nous une des constatations des plus agrÃ©ables Ã  la
+fin de ce travail, aprÃ¨s avoir parcouru les principaux ouvrages des
+grands fÃ©ministes hommes, d'avoir l'impression trÃ¨s nette et trÃ¨s
+franche du sentiment de gÃªne Ã©prouvÃ© par ces Ã©crivains Ã  se dÃ©clarer
+partisans convaincus des revendications du sexe faible.
+
+Nous n'en voulons pour preuve (au milieu de nombreuses) que
+l'assertion de deux fÃ©ministes acharnÃ©s, MM. PrÃ©vost et Jadin.
+
+M. Marcel PrÃ©vost, aprÃ¨s avoir exaltÃ© dans tous ses ouvrages la
+nouvelle femme, l'Eve libre, fait dire Ã  une de ces vierges fortes
+(_LÃ©a_, p. 154):
+
+Â«Une voix intÃ©rieure m'a toujours dit: Â«Rien n'est meilleur que
+d'avoir une famille, un mari qui travaille avec vous, beaucoup
+d'enfants qu'on soigne et qu'on Ã©lÃ¨veÂ».
+
+Plus loin:
+
+Â«Cet attachement fÃ©tichiste de l'Ã©pouse Ã  l'Ã©poux sera longtemps la
+loi des meilleures entre les femmes.Â»
+
+Enfin, Ã©trange constatation, dans les lettres Ã  FranÃ§oise:--Â«Vous,
+FranÃ§oise, je crois vous dÃ©finir assez justement en disant que vous
+Ãªtes antifÃ©ministe pour vous-mÃªme et volontiers fÃ©ministe pour les
+autres.Â»
+
+On ne peut Ãªtre plus franchement ironique.
+
+Quant Ã  M. Jadin, professeur Ã  l'Ãcole de Pharmacie de Montpellier,
+homme aimable et distinguÃ©, unissant Ã  ses dons d'agrÃ©able
+confÃ©rencier une Ã©rudition complÃ¨te sur la question du fÃ©minisme,
+aprÃ¨s avoir louangÃ© dans un discours d'ouverture des FacultÃ©s la
+femme savante et doctoresse, ne put s'empÃªcher de nous dire:
+
+Â«Loin de moi d'exalter la femme intellectuelle aux dÃ©pens de la
+femme d'intÃ©rieur. Plus que tout autre, peut-Ãªtre, je considÃ¨re que
+les rÃ´les sacrÃ©s d'Ã©pouse et de mÃ¨re auxquels sa nature la destine
+suffisent Ã  remplir glorieusement une carriÃ¨re, que les qualitÃ©s
+mÃªmes de nos compagnes, leur grÃ¢ce, leur joliesse, leur dÃ©licatesse,
+leur sensibilitÃ©, les consacrent gardiennes d'ornements du foyer
+domestique!Â»[78].
+
+  [78] La _Vie MontpelliÃ©raine_.
+
+Nous excusons volontiers M. Jadin, fÃ©ministe convaincu, de son hymne
+en l'honneur de la femme sensÃ©e et raisonnable. Cela ne nous surprend
+pas outre mesure. Les hommes d'esprit savent toujours reconnaÃ®tre
+leur erreur, et M. Jadin est un de ceux-lÃ !
+
+Quant Ã  nous, si ces Dames trouvaient ridicule notre aversion contre
+leurs rÃ©clamations et leurs revendications, nous rÃ©pondrions tout
+simplement: Il faut toujours avoir le courage de ses opinions... et
+de ses ridicules!
+
+                                    *
+                                   * *
+
+Voici maintenant l'opinion de quelques personnalitÃ©s sur le suffrage
+des femmes:
+
+
+De la _Revue Socialiste_, 1906:
+
+Je suis convaincu qu'il en rÃ©sulterait non seulement pour la femme
+une libÃ©ration rapide des lois et des usages qui Ã©conomiquement
+et civilement l'infÃ©riorisent Ã  l'homme, mais aussi pour tout le
+prolÃ©tariat une prompte croissance de force et de libertÃ© morale
+et sociale. Ce serait un pas de plus dans la voie du progrÃ¨s
+dÃ©mocratique et humain!
+
+    Edouard VAILLANT, dÃ©putÃ©.
+
+
+C'est incontestablement le seul moyen pour que le suffrage mÃ©rite
+d'Ãªtre appelÃ© universel! C'est aussi celui d'Ãªtre d'accord avec la
+justice et le bon sens, car il est aussi injuste de refuser Ã  la
+femme, parce que femme, tout ce qu'on accorde Ã  l'homme. De lÃ  des
+mÃ©sintelligences fort explicables!
+
+    Jean ALLEMANE, dÃ©putÃ©.
+
+
+Par le fait mÃªme de son affranchissement politique, la femme
+sortirait de l'ombre des Ã©glises pour venir en plein soleil de la
+place publique.
+
+    Emile VANDERVELDE, dÃ©putÃ© Ã  la Chambre belge.
+
+
+Notre parti s'est prononcÃ© avec enthousiasme pour l'affranchissement
+politique des femmes. Il est difficile pour moi de comprendre que
+cette revendication ne soit pas acceptÃ©e par tous les socialistes.
+
+    Keir HARDIE, membre du Parlement britannique.
+
+
+Je pense que le droit de vote pour la femme est indÃ©niable au point
+de vue moral, social et politique.
+
+    Enrico FERRI, de la Chambre italienne.
+
+
+A mon avis, la question du suffrage des femmes n'est pas de premiÃ¨re
+importance pour le socialisme et la classe ouvriÃ¨re. C'est une
+question de justice plutÃ´t que d'intÃ©rÃªt pratique pour le mouvement
+d'Ã©mancipation, la plupart des femmes se montrant trÃ¨s indiffÃ©rentes
+Ã  ce sujet, mÃªme celles de la classe ouvriÃ¨re.
+
+    Edouard BERNSTEIN, membre du Parlement allemand.
+
+                                    *
+                                   * *
+
+A quoi sert-il de rÃ©volutionner le Code civil au profit des femmes
+et de leur donner des droits si, pour conserver ces droits, elles ne
+sont pas armÃ©es du bulletin de vote, si le suffrage politique ne leur
+est pas donnÃ©. En parlant de la sorte, je vais peut-Ãªtre froisser,
+dans le fÃ©minisme mÃªme, les sentiments de quelques Ãªtres timorÃ©s qui
+nous accusent de compromettre notre thÃ¨se en demandant le suffrage
+politique pour les femmes. Eh bien! que les femmes me permettent
+de leur dire que toutes les lois que nous pourrons proposer seront
+vaines si pour accroÃ®tre et dÃ©fendre ces lois elles ne sont pas
+armÃ©es du bulletin de vote. Vous obtiendrez de la gÃ©nÃ©rositÃ© des
+hommes, de leur esprit de justice ou quelquefois de leur amour du
+paradoxe, quelques rÃ©formes partielles, quelques menues modifications
+du Code civil ou de Commerce, mais jamais vous ne recevrez le
+bienfait total de l'Ã©mancipation. Au nom d'une expÃ©rience politique
+et parlementaire assez longue, laissez-moi vous dire que les
+lÃ©gislateurs font les lois pour ceux qui font les lÃ©gislateurs.
+Tant qu'un suffrage fÃ©minin ne viendra pas se joindre au suffrage
+masculin, tant que se complÃ©tant l'un l'autre ils n'auront pas
+restituÃ© Ã  la sociÃ©tÃ© l'harmonie et l'Ã©quilibre, la sociÃ©tÃ© ira de
+tourments en tourments et d'abÃ®mes en abÃ®mes.
+
+    M. VIVIANI, Ministre du Travail.
+
+                                    *
+                                   * *
+
+Des _Annales politiques et littÃ©raires_:
+
+Je crois que le suffrage universel serait moins mauvais pendant
+quelque temps si les femmes votaient, mais d'autre part le suffrage
+universel me paraÃ®t idiot! Alors!
+
+    Jules LEMAITRE, de l'AcadÃ©mie FranÃ§aise.
+
+
+J'ai dit bien des fois que je suis partisan du suffrage politique
+des femmes et de leur Ã©ligibilitÃ©, voulant l'absolue Ã©galitÃ© des
+droits des deux sexes. Je suis mÃªme partisan du vote des enfants (le
+pÃ¨re votant pour les garÃ§ons et la mÃ¨re pour les filles!) ce qui
+donnerait aux pÃ¨res et mÃ¨res la prÃ©pondÃ©rance sociale qu'ils doivent
+avoir. Je crois que pour tout pays, le vote serait moralisateur
+et conservateur, les femmes Ã©tant Ã  les considÃ©rer d'ensemble un
+peu moins sensuelles, beaucoup moins cruelles et infiniment moins
+alcooliques que les hommes.
+
+    Emile FAGUET, de l'AcadÃ©mie FranÃ§aise.
+
+
+En vÃ©ritÃ©, pourquoi ne voterait-elle pas puisque si elle ne
+vote point elle fait voter ceux qui votent? Vous verrez que les
+suffragettes, ces midinettes du vote, auront raison tÃ´t ou tard du
+prÃ©jugÃ©. Elles sont l'avant-garde du fÃ©minisme et leurs promenades
+boulevardiÃ¨res, d'abord raillÃ©es, finiront quelque jour par le vote
+de leur droit au vote. Ce n'est pas demain! Et qui sait? Demain vient
+vite et la France nouvelle, celle qui date de 20 ans seulement, est
+dÃ©jÃ  assez diffÃ©rente de l'ancienne pour qu'on s'attende Ã  bien des
+transformations encore.
+
+    Jules CLARETIE, de l'AcadÃ©mie FranÃ§aise.
+
+
+Je ne saurais vous cacher que je suis rÃ©solument opposÃ© au vote
+des femmes. Je craindrais qu'elles ne se jetassent dans les luttes
+politiques avec une ardeur qui augmenterait encore les divisions de
+la France, et nous sommes assez divisÃ©s comme cela.
+
+    Comte d'HAUSSONVILLE, de l'AcadÃ©mie FranÃ§aise.
+
+
+Je veux bien que les femmes votent et je crois qu'elles voteront dÃ¨s
+qu'elles s'aviseront de le dÃ©sirer; mais je n'y vois pas d'utilitÃ©
+gÃ©nÃ©rale, puisqu'elles n'ont indiquÃ© jusqu'ici aucune vue politique
+propre. Faut-il Ãªtre franc? Dans la minute prÃ©sente, les femmes
+qui veulent voter me semblent des agitÃ©es. Leur vÃ©ritable activitÃ©
+se satisfait de cent autres maniÃ¨res. Cependant si elles tiennent Ã 
+voter, si elles se croient humiliÃ©es de n'Ãªtre pas Ã©lectrices, il
+n'y a pas d'objection sÃ©rieuse Ã  leur opposer et quand elles auront
+conquis leur bulletin de vote, elles l'auront mÃ©ritÃ© tout aussi bien
+que les hommes.
+
+    Maurice BARRÃS, de l'AcadÃ©mie FranÃ§aise.
+
+
+Ce sont de bien grosses questions et c'est seulement par des points
+d'interrogation que je me permettrai d'y rÃ©pondre!
+
+Est-il logique, est-il juste qu'une femme devenue chef de famille
+par le fait de son veuvage ne soit jamais appelÃ©e Ã  dire un mot
+quelconque dans les grands dÃ©bats qui intÃ©ressent la destinÃ©e de sa
+propre famille, aussi bien que la destinÃ©e des familles voisines,
+politiquement reprÃ©sentÃ©es par le vote du pÃ¨re?
+
+Est-il logique, est-il juste que les travailleuses organisÃ©es en
+syndicat n'aient aucun moyen direct d'assurer la rÃ©percussion de
+leur volontÃ© dans les assemblÃ©es politiques et que l'Ã©mancipation
+Ã©conomique ainsi assurÃ©e Ã  la femme n'ait aucune sanction dans le
+domaine politique?
+
+LUCIE-FÃLIX-FAURE-GOYAN.
+
+                                    *
+                                   * *
+
+Du _Gil-Blas_:
+
+Tant que notre pays sera rÃ©gi par le suffrage universel, je serai
+rÃ©solument pour le vote et l'Ã©ligibilitÃ© des femmes. Et pourquoi?
+parce que je les mets au dÃ©fi de gouverner plus mal et de choisir des
+reprÃ©sentants qui fassent plus mal les affaires de la France.
+
+    Louis d'HURCOURT.
+
+                                    *
+                                   * *
+
+De _l'Eclair_, de Paris:
+
+J'en suis partisan, parce qu'elles sont, elles et leurs enfants,
+entraÃ®nÃ©es par les destinÃ©es de leur pays et qu'elles doivent, par
+consÃ©quent, avoir le droit d'y participer et d'y veiller; parce que
+l'unitÃ© sociale, la famille, a pour directeurs naturels le pÃ¨re et
+la mÃ¨re et que cette derniÃ¨re y assume autant de responsabilitÃ© que
+son mari; parce que la femme a un sens pratique et une universelle
+bontÃ© qui doivent avoir les moyens de se faire entendre et au besoin
+accepter.
+
+    Docteur Armand GAUTIER,
+    De l'Institut, membre de l'AcadÃ©mie de MÃ©decine.
+
+
+A voir l'usage que les hommes font du bulletin de vote, il n'y a pas
+de risque de tomber dans le pire en courant l'aventure d'une rÃ©forme
+Ã©quitable.
+
+    ANDRIEUX, ancien dÃ©putÃ©, ancien prÃ©fet de police.
+
+
+Il m'est trÃ¨s difficile de me prononcer au pied levÃ© et sans Ã©tude
+spÃ©ciale de la question sur un aussi grave et dÃ©licat problÃ¨me.
+Tout ce que je puis vous dire, je ne suis pas opposÃ© Ã  la nouvelle
+rÃ©forme, pourvu qu'il s'agisse du droit de vote seulement et non
+pas de l'Ã©ligibilitÃ©. Encore une fois, il ne s'agit ici que d'une
+impression hÃ¢tive et non pas d'un parti sÃ©rieusement Ã©tudiÃ©.
+
+    Marquis de SÃGUR.
+
+
+Je suis avec vous, du moins partiellement. Seulement je suis d'avis
+de procÃ©der par Ã©tapes. Je voudrais d'abord accorder aux femmes le
+vote, l'Ã©lectorat puis l'Ã©ligibilitÃ© municipale. Si l'expÃ©rience,
+comme je crois, rÃ©ussissait, je serais disposÃ© Ã  permettre aux
+femmes de prendre part aux Ã©lections cantonales. Mais je m'arrÃªterais
+lÃ . L'Ã©lectorat politique me paraÃ®t insÃ©parable des charges
+militaires, jusqu'ici du moins.
+
+    Jacques BARDOUX, Professeur Ã  l'Ecole des Sciences politiques.
+
+
+Je voudrais confÃ©rer Ã  la mÃ¨re de famille (comme au pÃ¨re de famille)
+la pluralitÃ© du vote comme une rÃ©compense et un honneur dans ce pays
+que mine une natalitÃ© volontairement dÃ©croissante, mais aussi comme
+un attribut justifiÃ© par plus d'expÃ©rience acquise et d'intÃ©rÃªts dans
+la vie.
+
+    EugÃ¨ne ROSTAND.
+
+
+Je suis en principe partisan du suffrage des femmes Ã  condition
+qu'elles soient veuves ou cÃ©libataires Ã¢gÃ©es de 25 ans.
+
+Par contre, je ne suis pas d'avis qu'elle soit Ã©ligible, si ce n'est
+aux fonctions d'assistance, municipales ou Ã©ducatives.
+
+    C. BONNET-MAURY,
+    Professeur Ã  la FacultÃ© libre de ThÃ©ologie protestante.
+
+
+Je suis partisan du suffrage des femmes. Nous pourrions commencer par
+l'introduire Ã  certaines conditions dans les Ã©lections municipales.
+
+    Paul DESCHANEL.
+
+
+Je dÃ©sire obtenir pour la femme l'Ã©galitÃ© des droits politiques.
+NÃ©anmoins je considÃ¨re qu'une pareille rÃ©forme ne peut s'accomplir
+que par Ã©tapes.
+
+    GOIRAND.
+
+
+Je crois que, dans un avenir plus ou moins rapprochÃ©, les femmes
+deviendront Ã©lecteurs et Ã©ligibles et je suis mÃªme convaincu qu'elles
+Ã©limineront les hommes de la politique. Elles y apporteront plus de
+finesse mais elles la compliqueront. En Finlande et en Australie,
+leur intervention n'a pas Ã©tÃ© heureuse.
+
+    Yves GUYOT.
+
+
+Le bulletin de vote pour les femmes, Ã§a sera comme pour les hommes,
+l'acceptation de l'oppression politique et de l'exploitation
+Ã©conomique par la grande masse, pour le plus grand profit de ceux qui
+exercent le pouvoir et qui dÃ©tiennent la richesse sociale.
+
+    Jean GRAVE.
+
+
+Il y a dÃ©jÃ  tant d'incompÃ©tences qui s'occupent de politique que je
+ne verrais pas sans inquiÃ©tude les femmes se jeter dans la mÃªlÃ©e des
+partis. Dans les pays catholiques, le vote de la plupart des femmes
+serait celui de leurs confesseurs, qui recevraient eux-mÃªmes le mot
+d'ordre de Rome. Au lieu de contribuer au progrÃ¨s, il amÃ¨nerait je
+crois un recul. Attendons, la question me semble prÃ©maturÃ©e.
+
+    Alfred FOUILLÃE, membre de l'Institut.
+
+
+La presque unanimitÃ© des Ã©lecteurs de Roquefixade m'a fait maire de
+cette commune, quoique me sachant aussi matÃ©rialiste que patriote et
+rÃ©publicain.
+
+Or, si les femmes votaient, non seulement je n'aurais pas le suffrage
+de la plupart d'entre elles, mais elles dÃ©tourneraient de moi un
+assez grand nombre de mes Ã©lecteurs actuels.
+
+    E. DARNAUD, maire de Roquefixade (AriÃ¨ge).
+
+                                    *
+                                   * *
+
+Du _Nouveau SiÃ¨cle_:
+
+Si la femme Ã©tait directement intÃ©ressÃ©e dans nos luttes, elle y
+perdrait l'influence bienfaisante qu'elle tient de ses rÃ´les d'Ã©pouse
+et de mÃ¨re, sur les destinÃ©es de la Patrie qui n'est plus que le
+prolongement naturel de la famille.
+
+Au moment oÃ¹ sous les attaques incessantes contre l'idÃ©e de
+la Â«PatrieÂ» on sent poindre de tous cÃ´tÃ©s des sentiments de
+dÃ©couragement et comme des symptÃ´mes de rÃ©signation Ã  une sorte de
+dÃ©gÃ©nÃ©rescence nationale, la femme, dans ses deux grands rÃ´les, avec
+son sens plus affinÃ© de nos traditions, m'apparaÃ®t comme la seule
+capable de rÃ©veiller en ce pays la vision rÃ©demptrice de son idÃ©al et
+de ses destinÃ©es momentanÃ©ment obscurcies par nos luttes politiques.
+
+Elle n'y arrivera que si elle s'en tient soigneusement Ã  l'Ã©cart.
+
+    Amiral BIENAIMÃ, dÃ©putÃ© de Paris.
+
+
+J'aurais Ã©tÃ© satisfait de voir dans la Chambre des femmes dÃ©putÃ©s...
+Tout cela parce que la femme a autant--si ce n'est plus--de droits Ã 
+dÃ©fendre que l'homme. Comme celui-ci, du reste, elle a Ã  combattre
+l'exploitation capitaliste et elle a tout Ã  attendre de la venue
+d'une sociÃ©tÃ© socialiste. En plus, comme mÃ¨re, la femme devrait
+pouvoir influer sur les destinÃ©es sociales et matÃ©rielles.
+
+    COMPÃRE-MOREL, dÃ©putÃ© du Gard.
+
+
+Le suffrage universel n'est qu'une fiction tant que les femmes en
+seront exclues; le mot de fÃ©minisme me paraÃ®t impropre. C'est la
+question de l'Ã©galitÃ© et de l'Ã©quitÃ© dans le civisme qui est posÃ©e.
+La femme est citoyen devant la loi commerciale, devant la loi pÃ©nale;
+elle ne l'est pas devant l'urne Ã©lectorale, c'est la contradiction
+constitutionnelle, l'injustice sociale.
+
+    MILLEVOYE, dÃ©putÃ© de Paris.
+
+
+Puisque les femmes sont admises avec nos pÃ¨res et nos fils dans les
+grandes Ã©coles de l'Etat, puisqu'elles peuvent Ãªtre commerÃ§antes,
+mÃ©decins, avocats, puisqu'elles partagent les travaux de certains
+fonctionnaires, puisque les voilÃ  maintenant reconnues aptes Ã 
+Ãªtre des juges-prud'hommes; je ne vois pas ce qui les empÃªcherait
+d'occuper des siÃ¨ges Ã  la Chambre des dÃ©putÃ©s, au SÃ©nat, dans
+les Conseils gÃ©nÃ©raux et dans les Conseils municipaux oÃ¹ elles
+apporteraient un charme et une sÃ©duction qui manquent Ã  la plupart
+des hommes politiques.
+
+    Georges BERRY, dÃ©putÃ© de Paris.
+
+                                    *
+                                   * *
+
+Voici enfin quelques opinions inÃ©dites dont nous remercions
+sincÃ¨rement les auteurs:
+
+Si les femmes doivent voter, monsieur? Certainement.
+
+    Max et Alex FISCHER.
+
+_P. S._--Nous ne parlons bien entendu que de celles qui ont de la
+moustache.
+
+
+Les femmes doivent voter: Parce qu'elles ont voix au chapitre. Parce
+qu'elles feront prÃ©valoir des lois de prÃ©servation de l'espÃ¨ce. Parce
+qu'elles feront passer le sentiment en ce qu'il a de plus noble avant
+les considÃ©rations de cuisine politique.
+
+    Paul MARGUERITE.
+
+
+Je n'ai point d'idÃ©es neuves sur ce sujet.
+
+    Charles GIDE.
+
+
+    Mon cher ami,
+
+Les femmes sont faites pour surveiller le mÃ©nage et faire des enfants.
+
+    LASIES, dÃ©putÃ©.
+
+
+Je vous paraÃ®trai peut-Ãªtre un vil rÃ©actionnaire, mais je partage
+entiÃ¨rement son opinion.
+
+    Emmanuel BROUSSE, dÃ©putÃ©.
+
+
+    MONSIEUR,
+
+Je ne suis pas du tout partisan du vote des femmes. Ce serait une
+raison de plus pour elles de sortir de leur rÃ´le, ce qui leur arrive
+dÃ©jÃ  trop souvent, depuis quelque temps. Et puis, elles ont dÃ©jÃ  bien
+trop de moyens d'action sur nous et bien trop de faÃ§ons de se mÃªler
+de nos affaires sans y ajouter ce nouveau prÃ©texte.
+
+Je ne prÃ©tends pas qu'elles voteraient plus mal que nous. Ce serait
+difficile, d'ailleurs. Mais elles y mettraient encore plus de passion.
+
+Et puis, comme on dit de notre cÃ´tÃ© en cas d'aventure: Cherchez la
+femme; on dirait de leur cÃ´tÃ©: Cherchez l'homme. Car finalement il
+n'y a que Ã§a au fond de la plupart des actions humaines.
+
+Y mÃªler encore la politique me paraÃ®t superflu.
+
+    Mes sentiments les plus distinguÃ©s.
+
+    Michel PROVINS.
+
+
+
+
+CONCLUSION
+
+
+    _Aux Femmes_
+
+Vous qui nous lirez, convaincues, sceptiques, ou indiffÃ©rentes,
+n'ayez pour moi aucune parole de haine, aucun sentiment de mauvaise
+humeur, aucun accÃ¨s d'indignation. A nos attaques raisonnÃ©es et
+sincÃ¨res, rÃ©pondez par un sourire, Ã  nos objections par un geste
+Ã©lÃ©gant de vaincues: Vous aurez lÃ  l'occasion d'Ãªtre pour une fois
+des femmes d'esprit.
+
+De nous ne vous faites pas l'idÃ©e d'un rÃ©trograde, d'un bourgeois ou
+d'un retardÃ© du siÃ¨cle! Non! plus que vous, nous aimons tout ce qui
+est jeune, nouveau; plus que vous nous adorons l'idÃ©e riche d'espoir,
+de jeunesse et d'avenir; mais cependant nous ne prendrons dans ces
+projets d'Ã©volution future que ce qui nous semble juste, Ã©quitable
+et sensÃ©, vous laissant, Mesdames les fÃ©ministes, le rÃ´le ingrat de
+ne voir dans nos thÃ©ories sociales que le ridicule, le grotesque et
+l'invraisemblable.
+
+Mais ce n'est point encore Ã  vous les intellectuelles (?), les
+rÃ©volutionnaires, les exaltÃ©es que j'en veux, vous qui dÃ©fendez
+parfois avec conviction et rarement avec raison une mauvaise cause.
+C'est Ã  vous, Messieurs les fÃ©ministes, qui doucement, avec une douce
+et fausse pitiÃ©, vous penchez vers l'Ã¢me de cette femme Ã©prise de
+libertÃ©, grisÃ©e d'Ã©mancipation et par votre prestigieux talent et
+votre plume Ã©blouissante matÃ©rialisez et faites passer du domaine
+irrÃ©el au domaine rÃ©el une idÃ©e fausse et anormale. Oui c'est Ã  vous
+que je cherche querelle, vous les hommes puissamment assis dans la
+vie politique qui par pose, par snobisme, par genre, vous collez
+l'Ã©tiquette de fÃ©ministe, vous qui trÃ´nez fiers et impassibles dans
+les hauteurs de la littÃ©rature et du journalisme et prenez plaisir
+Ã  soutenir la cause de l'Eve future pour vous singulariser ou vous
+crÃ©er un nom, c'est vous que j'accuse de cet Ã©nervement social, de
+cette crise qui secoue ridiculement quelques FranÃ§aises! Un coup de
+bistouri eÃ»t Ã©tÃ© mieux appropriÃ© qu'une tendre consultation!
+
+Et si le jour oÃ¹ Ã©coutant les plaintes affolÃ©es et injustifiÃ©es de
+ces enfants, vous leur aviez dit ce que tout homme de bon sens pense,
+au lieu de leur faire inÃ©lÃ©gamment l'aumÃ´ne d'une fausse pitiÃ©, de
+nos jours on n'entendrait plus ce flot de grotesques rÃ©clamations,
+qui n'ont pas seulement le mÃ©rite d'Ãªtre idÃ©alisÃ©es par des larmes et
+qui sont couvertes par des Ã©clats de rire.
+
+Si Ã  ces Ã©nervÃ©es, Ã  ces dÃ©traquÃ©es vous leur aviez fait entrevoir la
+faiblesse de leurs raisonnements et le contre-sens de leur idÃ©al au
+lieu de leur prÃªter une oreille attentive, si vous aviez d'un seul
+coup plongÃ© dans la vie normale ces anormales, au moment de stupeur
+et d'Ã©touffement aurait peut-Ãªtre succÃ©dÃ© une crise plus violente,
+mais vite dissipÃ©e, et petit Ã  petit, le temps aidant, lasses et
+fatiguÃ©es, elles seraient rentrÃ©es dans l'oubli et dans le passÃ©!
+
+VoilÃ  ce que vous n'avez pas voulu faire, Messieurs les fÃ©ministes,
+vous la cause premiÃ¨re de cette thÃ©orie moderne et combien
+insoutenable: l'Ã©mancipation de la femme! Vous avez considÃ©rÃ© cette
+idÃ©e nouvelle comme un Â«tremplin, comme un capital, comme une bonne
+affaire!Â»
+
+Puissiez-vous faire faillite et crouler ridiculement sous les
+applaudissements vengeurs de tous les FranÃ§ais raisonnables et sensÃ©s!
+
+Quant Ã  nous, ce qui nous console, c'est que nombreux sont encore en
+France, Â«les Philistins des deux sexes qui n'osent pas s'arracher
+au cercle Ã©troit des prÃ©jugÃ©s et appellent le fÃ©minisme la folie du
+siÃ¨cleÂ»[79].
+
+  [79] Aussip Laune; _Revue Socialiste_.
+
+Oui, la folie du siÃ¨cle qui dÃ©traque le cerveau de quelques femmes
+pauvres d'esprit et riches d'espÃ©rances; folie remplissant notre pays
+de cris Ã©tranges et inquiÃ©tants, tels que Â«EgalitÃ© des deux sexes,
+Emancipation de la femmeÂ», etc., etc., Ã  tel point qu'une de vos
+sÅurs, Mesdames, intelligente et fine, Mme SÃ©verine, dans le _Matin_
+du 2 avril 1910, essayait dans un style humouristique de faire taire
+ces brailleries par une expression peut-Ãªtre pas trÃ¨s acadÃ©mique mais
+tout au moins de circonstance: Â«La ferme!Â»
+
+Nous n'aurons point, Mesdames, la coquette impertinence d'une de vos
+plus illustres reprÃ©sentantes, croyez cependant que ce mot rÃ©sume
+bien pour nous l'attitude Ã  prendre devant tous vos discours et vos
+rÃ©clamations.
+
+Que dire maintenant de cette question en elle-mÃªme, le suffrage des
+femmes?
+
+La question du vote arrive Ã  sa pÃ©riode heureuse, c'est-Ã -dire qu'on
+ne la prend encore ni au sÃ©rieux, ni au tragique. Touche-t-on Ã  une
+solution? Si l'on songe que le problÃ¨me fut posÃ© par Aristophane,
+qui n'Ã©tait probablement pas le premier, il y a environ 2.300 ans,
+on se sent un peu sceptique malgrÃ© l'initiative de quelques pays
+d'avant-garde. Au fond, chacun se demande si les femmes sont aptes
+Ã  voter. Â«Cela n'a aucune importance, puisque les idiots votentÂ»,
+dÃ©clare Mme Durand, avec une humilitÃ© bien peu fÃ©ministe et encore
+moins fÃ©minine.
+
+Mais on se demande surtout, pour qui voteront-elles? et comme
+personne n'est sÃ»r d'avoir les femmes pour soi (perfides comme
+l'onde, la douceur mobile, toutes les langues ont lÃ -dessus des
+dictons malhonnÃªtes), chacun se mÃ©fie, exceptÃ© Don Juan..., mais Don
+Juan ne fait pas de politique.
+
+Au fond, citoyennes, vous vous prÃ©parez un maigre profit et beaucoup
+de dÃ©sillusions. Il y a de mauvaises lois Ã  abroger, Ã  modifier; il
+y en a de bonnes, de trÃ¨s bonnes Ã  faire vous concernant. Laissez
+ce soin au temps, aux mÅurs pas meilleures mais qui deviennent
+plus humaines. On y travaille depuis longtemps, Mesdames, depuis
+Justinien. Ne dÃ©sespÃ©rez donc pas! On a rendu l'amour obligatoire
+tout comme l'instruction! Pouvait-on vraiment aller plus loin.
+
+Quant Ã  vos champions, vos leaders, charmantes parfois, Ã©minentes
+rarement, Ã  tous Ã©gards, en politique les croyez-vous capables de
+poursuivre l'intÃ©rÃªt vÃ©ritable des femmes. L'on en voit trop prendre
+de l'incohÃ©rence pour du gÃ©nie, le manque de goÃ»t pour du courage et
+l'incongruitÃ© pour de la hardiesse d'esprit.
+
+De grÃ¢ce, Mesdames, ne compliquez pas la vie, elle n'est pas dÃ©jÃ  si
+simple! et puis, sans doute, les hommes eux aussi font beaucoup de
+sottises, mais croyez-vous qu'une sottise fÃ©minine soit l'antidote
+d'une sottise masculine? Nous croyons plutÃ´t qu'elles font deux.
+
+Ne prenez point ces airs batailleurs. Le costume de petite lutteuse
+vous va si mal.
+
+L'homme politique devient devant les foules une bÃªte orgueilleuse
+et dÃ©chaÃ®nÃ©e. Il ne regardera pas si vous avez des jupes ou des
+pantalons. Et une fois meurtries et blessÃ©es, vous pleurerez et vous
+n'aspirerez qu'Ã  redevenir ce que vous n'auriez dÃ» jamais cesser
+d'Ãªtre, des femmes.
+
+Certes, quelques-unes des grandes fÃ©ministes trouveront peut-Ãªtre
+ce rÃ´le bien banal, bien effacÃ©, bien indigne de leurs hautes
+aspirations.
+
+Il semble que vous oubliez que c'est vous qui, dans la vie, Ãªtes le
+plus souvent la souveraine! Pauvres pantins que les hommes, lorsque
+vous mettez en marche toutes les ficelles de votre sÃ©duction et de
+votre coquetterie.
+
+Etouffez en vous ces bouffÃ©es d'orgueil et de domination politiques,
+souvenez-vous que vous avez des moyens plus sÃ»rs de rÃ©gner et
+d'avoir une incontestable influence! Songez Ã  l'AssemblÃ©e des
+femmes d'Aristophane et Ã  Lysistrata matÃ©rialisant de la faÃ§on la
+plus choquante et la moins attique une incontestable vÃ©ritÃ©. Par
+votre charme, votre grÃ¢ce, et les mille et un dÃ©tails de votre
+caractÃ¨re, par la poÃ©sie de votre sexe et la simplicitÃ© du pot au
+feu, vous menez le monde (on a dÃ©jÃ  dit cela en vers de tous pieds,
+en madrigaux de toutes faÃ§ons, nous ne le redirons pas en prose!)
+Vouloir un autre moyen de domination, mesdames, c'est dÃ©choir,
+abdiquer. Gardez-vous des utopies de notre siÃ¨cle, donnez-nous de
+beaux enfants, restez simplement Â«petites fÃ©esÂ».
+
+Â«Relevez le FranÃ§ais du XXe siÃ¨cle qui se donne Ã  lui-mÃªme le
+spectacle de sa dÃ©compositionÂ»[80]; ne soyez pas des vierges fortes,
+Ãªtres incomplets, inquiÃ©tants, enfiÃ©vrÃ©s, tourmentÃ©s et n'ayez point
+comme idÃ©al celui fou et grotesque d'Ãªtre un individu avant que
+d'Ãªtre un sexe.
+
+  [80] RenÃ© Doumic.
+
+Femmes, Ãªtres exquis, faits de grÃ¢ce et de dÃ©licatesse, restez ce
+que vous Ãªtes; Ã©coutez avec ironie et pitiÃ© les thÃ©ories de ces
+hommes-femmes, de ces ratÃ©es, de ces soldes de l'amour, thÃ©ories
+mauvaises, car elles sont anti-naturelles.
+
+Dites-vous que l'homme ne veut point vous lancer dans la lutte
+politique parce que vous Ãªtes meilleures que lui et que le jour oÃ¹
+vous serez son Ã©gal vous ne serez plus rien!
+
+L'esprit, le cÅur et le charme rÃ©unis, voilÃ  un idÃ©al bien plus
+agrÃ©able, bien plus sÃ©duisant que celui d'un siÃ¨ge de dÃ©putÃ© ou un
+fauteuil de maire. Il vous donnera, mesdames et non citoyennes, soyez
+en sÃ»res, une satisfaction intÃ©rieure plus douce; et puis n'oubliez
+pas les vers Ã©ternels de MoliÃ¨re que mon bon sens me murmure Ã 
+l'oreille.
+
+    Et comme un animal est toujours animal
+    Et ne sera jamais qu'animal dans sa vie
+    Durerait cent mille ans, ainsi sans rÃ©partie
+    La femme est toujours femme et jamais ne sera
+    Que femme tant qu'entier le monde durera.
+
+Et si malheureusement cette prophÃ©tie du grand Poquelin ne se
+rÃ©alisait pas, nous nous estimerions profondÃ©ment heureux, si notre
+modeste travail pouvait retarder seulement d'une demi-seconde l'heure
+oÃ¹, comme un glas, sonnera l'Ã©mancipation de l'Eve nouvelle et la
+mort de la femme!
+
+
+
+
+BIBLIOGRAPHIE
+
+
+OUVRAGES
+
+    AUCLERT (Hubertine).--Le Suffrage des femmes.
+
+    BEBEL (Auguste).--La femme.
+
+    BOIS (Jules).--L'Ã©ternelle poupÃ©e.
+          --       L'Eve nouvelle.
+
+    DESCHANEL (Emile).--Le bien et le mal qu'on a dit des femmes.
+
+    DUMAS fils (Alexandre).--Les femmes qui tuent et les femmes qui
+    votent.
+
+    GASPARIN.--Les rÃ©clamations des femmes.
+
+    GIDE (Paul).--Etude sur la condition privÃ©e de la femme dans le
+    droit ancien et nouveau.
+
+    JORAN (ThÃ©odore).--Les mensonges du fÃ©minisme.
+
+    LAMBERT (Maurice).--Le fÃ©minisme et ses revendications.
+
+    LAMY (Etienne).--La femme de demain.
+
+    LAMPÃRIÃRE (Mme Anna).--Le rÃ´le social de la femme.
+
+    MARGUERITE (Paul et Victor).--Femmes nouvelles.
+
+    MICHELET.--La Femme.
+
+    NELLY-ROUSSEL.--Quelques lances rompues en faveur de nos libertÃ©s.
+
+    OSTROGORSKI.--La femme au point de vue du droit public.
+
+    POINSINET.--Le rÃ´le social de la femme.
+
+    PREVOST (Marcel).--Les Vierges fortes.
+
+    SECRÃTAN (Charles).--Le droit de la femme.
+
+    SIMON (Jules).--La femme du XXe siÃ¨cle.
+
+    TURGEON.--Le fÃ©minisme franÃ§ais (2 volumes).
+
+
+REVUES
+
+    AcadÃ©mie des Sciences politiques et morales.
+
+    Revue des Revues.
+
+    Quinzaine.
+
+    Revue politique et parlementaire.
+
+    Revue politique et littÃ©raire.
+
+    Revue EncyclopÃ©dique.
+
+    Revue Bleue.
+
+    Revue Socialiste.
+
+    Revue Economique politique.
+
+    Revue de Morale Sociale.
+
+    RÃ©forme Sociale.
+
+    Bulletin de la Ligue des Droits de l'Homme.
+
+
+JOURNAUX
+
+    L'Opinion.
+
+    Annales politiques et littÃ©raires.
+
+    Le Figaro.
+
+    L'Eclair de Paris.
+
+    Le Gil Blas.
+
+    Le Temps.
+
+    Le Petit NiÃ§ois.
+
+    Le Journal.
+
+    Le Matin.
+
+    FÃ©mina.
+
+    Le Journal des femmes.
+
+    La Femme.
+
+    La Vie MontpelliÃ©raine.
+
+
+THÃSES
+
+    APPLETON.--De la situation sociale et politique des femmes dans le
+    droit moderne.
+
+    DAMEZ (Albert).--Le mouvement fÃ©ministe et le libre salaire de la
+    femme.
+
+    DESSENS.--Des revendications des droits de la femme pendant la
+    RÃ©volution.
+
+    DESSIGNOLES.--Le fÃ©minisme d'aprÃ¨s la doctrine de Fourier.
+
+    DURAND (Camille).--Questions fÃ©ministes.
+
+    KRUG (Charles).--Le fÃ©minisme et le droit civil franÃ§ais.
+
+    POIRIER.--Le fÃ©minisme et l'infÃ©rioritÃ© de la femme.
+
+    RENAUDOT.--Le fÃ©minisme et les droits publics de la femme.
+
+    SURONNEAU.--Du suffrage universel.
+
+
+    Vu le PrÃ©sident de la thÃ¨se:
+    J. BRÃMOND.
+
+    Vu, le Doyen de la FacultÃ© de Droit:
+    VIGIÃ.
+
+    Vu et permis d'imprimer:
+    Montpellier, le 3 mai 1910.
+    Pour le Recteur, le Vice-PrÃ©sident du Conseil de l'UniversitÃ©,
+    LÃ©on PÃLISSIER.
+
+
+
+
+TABLE DES MATIÃRES
+
+
+    INTRODUCTION                                                       7
+
+    PREMIÃRE PARTIE: CHAPITRE PREMIER: La place de
+      la femme dans la sociÃ©tÃ© Ã  travers les Ã¢ges. Quelques
+      apprÃ©ciations.                                                  11
+
+    CHAPITRE II: Raisons pour lesquelles la femme doit
+      voter.                                                          17
+
+      1re: La femme doit voter parce que la loi ne lui enlÃ¨ve
+      pas ce droit.                                                   17
+
+      2me: La femme doit voter parce qu'elle est l'Ã©gale
+      de l'homme.                                                     24
+
+      3me: La femme doit voter pour dÃ©fendre ses intÃ©rÃªts
+      attaquÃ©s et sa libertÃ© compromise.                              32
+
+      4me: La femme doit voter en France parce que les
+      femmes votent dans les autres pays.                             41
+
+      5me: La femme doit voter parce qu'elle ferait des
+      lois contre l'alcoolisme et de rÃ©gÃ©nÃ©ration sociale.            46
+
+      6me: La femme doit voter parce qu'elle vote dÃ©jÃ 
+      pour les Tribunaux de commerce.                                 54
+
+      7me: La femme doit voter parce qu'elle paie l'impÃ´t.            58
+
+    DEUXIÃME PARTIE: Raisons pour lesquelles la
+      femme ne doit pas voter. Une erreur.                            61
+
+      1re: La femme ne doit pas voter Ã  cause de la famille.          65
+
+      2me: La femme ne doit pas voter parce qu'elle
+      demanderait l'Ã©ligibilitÃ©.                                      73
+
+      3me: La femme ne doit point voter parce que cette
+      nouvelle conception n'est point dans nos mÅurs.                 80
+
+      4me: La femme ne doit point voter car elle n'a pas
+      reÃ§u l'Ã©ducation civique et politique.                          86
+
+      5me: La femme ne doit point voter Ã  cause du danger
+      confessionnel.                                                  90
+
+      6me: La femme ne doit point voter parce qu'elle est
+      femme.                                                          96
+
+    TROISIÃME PARTIE: Quelques rÃ©flexions sur les
+      suffragettes.                                                  105
+
+      1Âº Les Suffragettes et la RÃ©clame.                             106
+
+      2Âº Les Suffragettes et la BeautÃ©.                              110
+
+      3Âº Les Suffragettes et la Critique.                            114
+
+    QUATRIÃME PARTIE: Opinions de personnalitÃ©s politiques
+      et littÃ©raires sur le suffrage des femmes.                     117
+
+    CONCLUSIONS                                                      131
+
+    BIBLIOGRAPHIE                                                    139
+
+
+                   *       *       *       *       *
+
+
+  Liste des corrections effectuÃ©es.
+
+  Page  15: Â«nourirÂ» remplacÃ© par Â«nourrirÂ» (qu'il faut battre, bien
+              nourrir)
+  Page  27: Â«docteressseÂ» par Â«doctoresseÂ» (Madame la doctoresse
+              Pelletier)
+            Â«globelleÂ» par Â«glabelleÂ» (glabelle des arcades sourciliÃ¨res)
+  Page  44: Â«racommodeÂ» par Â«raccommodeÂ» (La femme ... ne raccommode
+              jamais)
+  Page  51: Â«absintesÂ» par Â«absinthesÂ» (surtaxe pour absinthes)
+  Page  54: Â«rÃ©hahilitÃ©Â» par Â«rÃ©habilitÃ©Â» (dÃ©jÃ  failli, mais
+              rÃ©habilitÃ©)
+  Page  56: Â«arbhorreÂ» par Â«arboreÂ» (Chaque camp arbore le drapeau)
+  Page  68: Â«consÃ©qencesÂ» par Â«consÃ©quencesÂ» (des consÃ©quences
+              magnifiques)
+  Pages 73, 88: Â«AubertineÂ» par Â«HubertineÂ» (Hubertine Auclert)
+  Page  74: Â«n'aurions-pasÂ» par Â«n'aurions-nous pasÂ» (pourquoi
+              n'aurions-nous pas la femme-maire)
+  Page  80: Â«annnÃ©esÂ» par Â«annÃ©esÂ» (Depuis quelques annÃ©es)
+  Page  83: Â«fÃ©minimeÂ» par Â«fÃ©minineÂ» (la servitude fÃ©minine)
+  Page  86: Â«simplemementÂ» par Â«simplementÂ» (Tout simplement)
+  Page  93: Â«qu'elleÂ» par Â«quelleÂ» (Mais quelle diffÃ©rence
+              faites-vous)
+  Page  95: Â«LaisezÂ» par Â«LaissezÂ» (Laissez de cÃ´tÃ©)
+  Page  96: Â«irrascibleÂ» par Â«irascibleÂ» (inquiÃ¨te, agitÃ©e, irascible)
+  Page  99: Â«corrolairesÂ» par Â«corollairesÂ» (tous ses corollaires)
+  Page 100: Â«elle-mÃªneÂ» par Â«elle-mÃªmeÂ» (Incapable de prendre par
+              elle-mÃªme)
+  Page 103: Â«les lesÂ» par Â«lesÂ» (les formes Ã©lÃ©gantes)
+  Page 106: Â«hardisseÂ» par Â«hardiesseÂ» (la hardiesse de la thÃ¨se)
+  Page 112: Â«homasseÂ» par Â«hommasseÂ» (la silhouette hommasse)
+  Page 119: Â«suffragesÂ» par Â«suffrageÂ» (Voici maintenant lâopinion de
+              quelques personnalitÃ©s sur le suffrages des femmes)
+  Page 121: Â«les lesÂ» par Â«lesÂ» (ceux qui font les lÃ©gislateurs)
+
+
+
+
+
+End of the Project Gutenberg EBook of La Femme doit-elle voter ? Le pour et
+le contre, by Joseph Ginestou
+
+*** END OF THE PROJECT GUTENBERG EBOOK 53848 ***

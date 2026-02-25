@@ -1,3 +1,2145 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66358d317ba268d3ca2ff85aa521d60b16751d810b30e039ba3c8bc019f8fef0
-size 97742
+ï»¿The Project Gutenberg EBook of Le chef d'orchestre, by Hector Berlioz
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Le chef d'orchestre
+       thÃ©orie de son art
+
+Author: Hector Berlioz
+
+Release Date: August 5, 2011 [EBook #36978]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LE CHEF D'ORCHESTRE ***
+
+
+
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images available at the BibliothÃ¨que nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+
+
+
+
+
+
+LE
+CHEF D'ORCHESTRE
+
+THÃORIE DE SON ART
+
+EXTRAIT
+DU GRAND TRAITÃ D'INSTRUMENTATION ET D'ORCHESTRATION MODERNES
+
+PAR
+HECTOR BERLIOZ
+
+DEUXIÃME ÃDITION
+
+PRIX NET: =2= FRANCS
+
+HENRY LEMOINE & CIE
+
+17, RUE PIGALLE, PARIS.--BRUXELLES, RUE DE L'HÃPITAL, 44
+
+_Reproduction et traduction rÃ©servÃ©es_
+
+
+
+
+LE CHEF D'ORCHESTRE
+
+THÃORIE DE SON ART
+
+PARIS.--IMPRIMERIE GEORGES PETIT
+
+12, RUE GODOT-DE-MAUROI, 12
+
+
+
+
+LE
+CHEF D'ORCHESTRE
+
+THÃORIE DE SON ART
+
+EXTRAIT
+DU GRAND TRAITÃ D'INSTRUMENTATION ET D'ORCHESTRATION MODERNES
+
+PAR
+HECTOR BERLIOZ
+
+DEUXIÃME ÃDITION
+
+PRIX NET: =2= FRANCS
+
+HENRY LEMOINE & CIE
+17, RUE PIGALLE, PARIS.--BRUXELLES, RUE DE L'HÃPITAL, 44
+
+_Reproduction et traduction rÃ©servÃ©es_
+
+
+
+
+LE CHEF D'ORCHESTRE
+
+THÃORIE DE SON ART
+
+EXTRAIT
+
+DU GRAND TRAITÃ D'INSTRUMENTATION ET D'ORCHESTRATION MODERNES
+
+PAR
+
+HECTOR BERLIOZ
+
+
+La Musique paraÃ®t Ãªtre le plus exigeant des arts, le plus difficile Ã 
+cultiver, et celui dont les productions sont le plus rarement prÃ©sentÃ©es
+dans les conditions qui permettent d'en apprÃ©cier la valeur rÃ©elle, d'en
+voir clairement la physionomie, d'en dÃ©couvrir le sens intime et le
+vÃ©ritable caractÃ¨re.
+
+De tous les artistes producteurs, le compositeur est Ã  peu prÃ¨s le seul,
+en effet, qui dÃ©pende d'une foule d'intermÃ©diaires, placÃ©s entre le
+public et lui; intermÃ©diaires intelligents ou stupides, dÃ©vouÃ©s ou
+hostiles, actifs ou inertes, pouvant, depuis le premier jusqu'au
+dernier, contribuer au rayonnement de son Åuvre ou la dÃ©figurer, la
+calomnier, la dÃ©truire mÃªme complÃ¨tement.
+
+On a souvent accusÃ© les chanteurs d'Ãªtre les plus dangereux de ces
+intermÃ©diaires; c'est Ã  tort, je le crois. Le plus redoutable, Ã  mon
+sens, c'est le chef d'orchestre. Un mauvais chanteur ne peut gÃ¢ter que
+son propre rÃ´le, le chef d'orchestre incapable ou malveillant ruine
+tout. Heureux encore doit s'estimer le compositeur quand le chef
+d'orchestre entre les mains duquel il est tombÃ© n'est pas Ã  la fois
+incapable et malveillant; car rien ne peut rÃ©sister Ã  la pernicieuse
+influence de celui-ci. Le plus merveilleux orchestre est alors paralysÃ©,
+les plus excellents chanteurs sont gÃªnÃ©s et engourdis, il n'y a plus ni
+verve ni ensemble: sous une pareille direction, les plus nobles
+hardiesses de l'auteur semblent des folies, l'enthousiasme voit son Ã©lan
+brisÃ©, l'inspiration est violemment ramenÃ©e Ã  terre, l'ange n'a plus
+d'ailes, l'homme de gÃ©nie devient un extravagant ou un crÃ©tin, la divine
+statue est prÃ©cipitÃ©e de son piÃ©destal et traÃ®nÃ©e dans la boue; et, qui
+pis est, le public, et des auditeurs mÃªme douÃ©s de la plus haute
+intelligence musicale, sont dans l'impossibilitÃ©, s'il s'agit d'un
+ouvrage nouveau qu'ils entendent pour la premiÃ¨re fois, de reconnaÃ®tre
+les ravages exercÃ©s par le chef d'orchestre, de dÃ©couvrir les sottises,
+les fautes, les crimes qu'il commet.
+
+Si l'on aperÃ§oit clairement certains dÃ©fauts de l'exÃ©cution, ce n'est
+pas lui, ce sont ses victimes qu'on en rend en pareil cas responsables.
+S'il a fait manquer l'entrÃ©e des choristes dans un final, s'il a laissÃ©
+s'Ã©tablir un balancement discordant entre le chÅur et l'orchestre, ou
+entre les deux cÃ´tÃ©s extrÃªmes du groupe instrumental, s'il a prÃ©cipitÃ©
+follement un mouvement, s'il l'a laissÃ© s'alanguir outre mesure, s'il a
+interrompu un chanteur avant la fin d'une pÃ©riode, on dit: les chÅurs
+sont dÃ©testables, l'orchestre n'a pas d'aplomb, les violons ont dÃ©figurÃ©
+le dessin principal, tout le monde a manquÃ© de verve, le tÃ©nor s'est
+trompÃ©, il ne savait pas son rÃ´le, l'harmonie est confuse, l'auteur
+ignore l'art d'accompagner les voix, etc., etc.
+
+Ce n'est guÃ¨re qu'en Ã©coutant les chefs-d'Åuvre dÃ©jÃ  connus et
+consacrÃ©s, que les auditeurs intelligents peuvent dÃ©couvrir le vrai
+coupable et faire la part de chacun; mais le nombre de ceux-ci encore
+est si restreint, que leur jugement reste de peu de poids et que le
+mauvais chef d'orchestre, en prÃ©sence du mÃªme public qui sifflerait
+impitoyablement l'_accident de voix_ d'un bon chanteur, trÃ´ne, avec tout
+le calme d'une mauvaise conscience, dans sa scÃ©lÃ©ratesse et son ineptie.
+
+Heureusement je m'attaque ici Ã  une exception: le chef d'orchestre
+capable ou non, mais malveillant, est assez rare.
+
+Le chef d'orchestre plein de bon vouloir, mais incapable, est au
+contraire fort commun. Sans parler des innombrables mÃ©diocritÃ©s
+dirigeant des artistes qui, bien souvent, leur sont supÃ©rieurs, un
+auteur, par exemple, ne peut guÃ¨re Ãªtre accusÃ© de conspirer contre son
+propre ouvrage; combien y en a-t-il, pourtant, qui s'imaginant savoir
+conduire, abÃ®ment innocemment leurs meilleures partitions.
+
+Beethoven, dit-on, gÃ¢ta plus d'une fois l'exÃ©cution de ses Symphonies
+qu'il voulait diriger, mÃªme Ã  l'Ã©poque oÃ¹ sa surditÃ© Ã©tait devenue
+presque complÃ¨te. Les musiciens, pour pouvoir marcher ensemble,
+convinrent enfin de suivre de lÃ©gÃ¨res indications de mouvement que leur
+donnait le Concert-Meister (1er Violon-Leader) et de ne point
+regarder le bÃ¢ton de Beethoven. Encore faut-il savoir que la direction
+d'une symphonie, d'une ouverture ou de toute autre composition dont les
+mouvements restent longtemps les mÃªmes, varient peu et sont rarement
+nuancÃ©s, est un jeu en comparaison de celle d'un opÃ©ra, ou d'une Åuvre
+quelconque oÃ¹ se trouvent des rÃ©citatifs, des airs et de nombreux
+dessins d'orchestre prÃ©cÃ©dÃ©s de silences non mesurÃ©s. L'exemple de
+Beethoven, que je viens de citer, m'amÃ¨ne Ã  dire tout de suite que si la
+direction d'un orchestre me paraÃ®t fort difficile pour un aveugle, elle
+est sans contredit impossible pour un sourd, quelle qu'ait pu Ãªtre
+d'ailleurs son habiletÃ© technique avant de perdre le sens de l'ouÃ¯e.
+
+Le chef d'orchestre doit _voir_ et _entendre_, il doit Ãªtre _agile_ et
+_rigoureux_, connaÃ®tre la _composition_, la _nature_ et l'_Ã©tendue_ des
+instruments, savoir lire la partition et possÃ©der, en outre du talent
+spÃ©cial dont nous allons tÃ¢cher d'expliquer les qualitÃ©s constitutives,
+d'autres dons presque indÃ©finissables, sans lesquels un lien invisible
+ne peut s'Ã©tablir entre lui et ceux qu'il dirige, la facultÃ© de leur
+transmettre son sentiment lui est refusÃ©e et, par suite, le pouvoir,
+l'empire, l'action directrice lui Ã©chappent complÃ¨tement. Ce n'est plus
+alors un chef, un directeur, mais un simple batteur de mesure, en
+supposant qu'il sache la battre et la diviser rÃ©guliÃ¨rement.
+
+Il faut qu'on sente qu'il sent, qu'il comprend, qu'il est Ã©mu; alors son
+sentiment et son Ã©motion se communiquent Ã  ceux qu'il dirige, sa flamme
+intÃ©rieure les Ã©chauffe, son Ã©lectricitÃ© les Ã©lectrise, sa force
+d'impulsion les entraÃ®ne; il projette autour de lui les irradiations
+vitales de l'art musical. S'il est inerte et glacÃ©, au contraire, il
+paralyse tout ce qui l'entoure; comme ces masses flottantes des mers
+polaires, dont on devine l'approche au refroidissement subit de l'air.
+
+Sa tÃ¢che est complexe. Il a non seulement Ã  diriger, dans le sens des
+intentions de l'auteur, une Åuvre dont la connaissance est dÃ©jÃ  acquise
+aux exÃ©cutants, mais encore Ã  donner Ã  ceux-ci cette connaissance, quand
+il s'agit d'un ouvrage nouveau pour eux. Il a Ã  faire la critique des
+erreurs et des dÃ©fauts de chacun pendant les rÃ©pÃ©titions, et Ã  organiser
+les ressources dont il dispose, de faÃ§on Ã  en tirer le meilleur parti le
+plus promptement possible; car, dans la plupart des villes de l'Europe
+aujourd'hui, l'art musical est si mal partagÃ©, les exÃ©cutants sont si
+mal payÃ©s, les nÃ©cessitÃ©s des Ã©tudes sont si peu comprises, que
+l'_emploi du temps_ doit Ãªtre comptÃ© parmi les exigences les plus
+impÃ©rieuses de l'_art du chef d'orchestre_. Voyons en quoi consiste la
+partie mÃ©canique de cet art.
+
+Le talent du _batteur de mesure_, sans demander de bien hautes qualitÃ©s
+musicales, est encore assez difficile Ã  acquÃ©rir, et trÃ¨s peu de gens le
+possÃ¨dent rÃ©ellement. Les signes que le conducteur doit faire, bien
+qu'assez simples en gÃ©nÃ©ral, se compliquent nÃ©anmoins dans certains cas
+par la division et mÃªme la _subdivision_ des temps de la mesure.
+
+Le chef, avant tout, est tenu de possÃ©der une idÃ©e nette des principaux
+traits et du caractÃ¨re de l'Åuvre dont il va diriger l'exÃ©cution ou les
+Ã©tudes, pour pouvoir, sans hÃ©sitation ni erreur, dÃ©terminer dÃ¨s l'abord
+les mouvements voulus par le compositeur. S'il n'a pas Ã©tÃ© Ã  mÃªme de
+recevoir directement de celui-ci ses instructions, ou si les mouvements
+n'ont pu lui Ãªtre transmis par la tradition, il doit recourir aux
+indications du mÃ©tronome et les bien Ã©tudier, la plupart des maÃ®tres
+ayant aujourd'hui le soin de les Ã©crire en tÃªte et dans le courant de
+leurs morceaux.
+
+Je ne veux pas dire par lÃ  qu'il faille imiter la rÃ©gularitÃ©
+mathÃ©matique du mÃ©tronome, toute musique exÃ©cutÃ©e de la sorte serait
+d'une raideur glaciale, et je doute mÃªme qu'on puisse parvenir Ã 
+observer pendant un certain nombre de mesures cette plate uniformitÃ©.
+Mais le mÃ©tronome n'en est pas moins excellent Ã  consulter pour
+connaÃ®tre le premier mouvement et ses altÃ©rations principales.
+
+Si le chef d'orchestre ne possÃ¨de ni les instructions de l'auteur, ni la
+tradition, ni les indications mÃ©tronomiques, ce qui arrive souvent pour
+les anciens chefs-d'Åuvre Ã©crits Ã  une Ã©poque oÃ¹ le mÃ©tronome n'Ã©tait
+pas inventÃ©, il n'a plus d'autres guides que les termes vagues employÃ©s
+pour dÃ©signer les mouvements, et son propre instinct, et son sentiment
+plus ou moins fin, plus ou moins juste du style de l'auteur. Nous sommes
+forcÃ© d'avouer que ces guides sont trop souvent insuffisants et
+trompeurs. On peut s'en convaincre en voyant reprÃ©senter aujourd'hui les
+opÃ©ras de l'ancien rÃ©pertoire dans les villes oÃ¹ la tradition de ces
+ouvrages n'existe plus. Sur dix mouvements divers, il y en a toujours
+alors au moins quatre pris Ã  contre-sens. J'ai entendu un jour un chÅur
+d'IphigÃ©nie en Tauride, exÃ©cutÃ© dans un thÃ©Ã¢tre d'Allemagne _Allegro
+assaÃ¯ Ã  deux temps_, au lieu de _Allegro non troppo Ã  quatre temps_,
+c'est-Ã -dire prÃ©cisÃ©ment le double trop vite. On pourrait multiplier
+indÃ©finiment les exemples de dÃ©sastres pareils amenÃ©s, soit par
+l'ignorance ou l'incurie des chefs d'orchestre, soit par la difficultÃ©
+rÃ©elle qu'il y a pour les hommes mÃªme les mieux douÃ©s et les plus
+soigneux, de dÃ©couvrir le sens prÃ©cis des termes italiens indicateurs
+des mouvements.
+
+Sans doute personne ne sera embarrassÃ© pour distinguer un Largo d'un
+Presto. Si le Presto est Ã  deux temps, un conducteur un peu sagace, Ã 
+l'inspection des traits et des dessins mÃ©lodiques que le morceau
+contient, arrivera mÃªme Ã  trouver le degrÃ© de vitesse que l'auteur a
+voulu. Mais si le Largo est Ã  quatre temps, d'un tissu mÃ©lodique simple,
+ne contenant qu'un petit nombre de notes dans chaque mesure, quel moyen
+aura le malheureux conducteur pour dÃ©couvrir le mouvement vrai? et de
+combien de maniÃ¨res ne pourra-t-il pas se tromper? Les divers degrÃ©s de
+lenteur qu'on peut imprimer Ã  l'exÃ©cution d'un pareil Largo sont trÃ¨s
+nombreux; le sentiment individuel du chef d'orchestre sera dÃ¨s lors le
+moteur unique; et c'est du sentiment de l'auteur et non du sien qu'il
+s'agit. Les compositeurs doivent donc, dans leur Åuvres, ne pas
+nÃ©gliger les indications mÃ©tronomiques, et les chefs d'orchestre sont
+tenus de les bien Ã©tudier. NÃ©gliger cette Ã©tude est, de la part de ces
+derniers, un acte d'improbitÃ©.
+
+Maintenant je suppose le conducteur parfaitement instruit des mouvements
+de l'Åuvre dont il va diriger l'exÃ©cution ou les Ã©tudes; il veut donner
+aux musiciens placÃ©s sous ses ordres le sentiment rythmique qui est en
+lui, dÃ©terminer la durÃ©e de chaque mesure, et faire observer
+uniformÃ©ment cette durÃ©e par tous les exÃ©cutants. Or, cette prÃ©cision et
+cette uniformitÃ© ne s'Ã©tabliront dans l'ensemble plus ou moins nombreux
+de l'orchestre et du chÅur, qu'au moyen de certains signes faits par le
+chef.
+
+Ces signes indiqueront les divisions principales, les _temps_ de la
+mesure, et, dans beaucoup de cas, les subdivisions, les _demi-temps_. Je
+n'ai pas Ã  expliquer ici ce qu'on entend par les temps forts et les
+temps faibles, je suppose que je parle Ã  des musiciens.
+
+Le chef d'orchestre se sert ordinairement d'un petit bÃ¢ton lÃ©ger, d'un
+demi-mÃ¨tre de longueur, et plutÃ´t blanc que de couleur obscure (on le
+voit mieux) qu'il tient Ã  la main droite, pour rendre clairement
+apprÃ©ciable sa faÃ§on de marquer le commencement, la division intÃ©rieure
+et la fin de chaque mesure. L'archet, employÃ© par quelques chefs
+violonistes, est moins convenable que le bÃ¢ton. Il est un peu flexible;
+ce dÃ©faut de rigiditÃ© et la petite rÃ©sistance qu'il offre en outre Ã 
+l'air Ã  cause de sa garniture de crins, rendent ses indications moins
+prÃ©cises.
+
+La plus simple de toutes les mesures, la mesure Ã  deux temps, se bat
+trÃ¨s simplement aussi.
+
+Le bras et le bÃ¢ton du conducteur Ã©tant Ã©levÃ©s, de faÃ§on que sa main se
+trouve au niveau de sa tÃªte, il marque le premier temps en abaissant la
+pointe du bÃ¢ton perpendiculairement de haut en bas (_par la flexion du
+poignet_, autant que possible et non en abaissant le bras dans son
+entier), et le second temps en relevant perpendiculairement le bÃ¢ton par
+le geste contraire.
+
+[Illustration: _ainsi:_]
+
+La mesure _Ã  un temps_ n'Ã©tant en rÃ©alitÃ©, pour le chef d'orchestre
+surtout, qu'une mesure Ã  deux temps extrÃªmement rapide, doit Ãªtre battue
+comme la prÃ©cÃ©dente. L'obligation oÃ¹ se trouve le chef de relever la
+pointe de son bÃ¢ton aprÃ¨s l'avoir baissÃ©e, divise d'ailleurs
+nÃ©cessairement cette mesure en deux parties.
+
+Dans la mesure Ã  quatre temps, le premier geste fait de haut en bas
+[flÃ¨che] est adoptÃ© partout pour marquer le premier temps
+fort, le commencement de la mesure. Le deuxiÃ¨me mouvement, fait par le
+bÃ¢ton conducteur de droite Ã  gauche en se relevant [flÃ¨che]
+dÃ©signe le second temps (premier temps faible). Un troisiÃ¨me,
+transversal de gauche Ã  droite [flÃ¨che] dÃ©signe le troisiÃ¨me temps
+(second temps fort), et un quatriÃ¨me, oblique de bas en haut, indique le
+quatriÃ¨me temps (second temps faible). L'ensemble de ces quatre gestes
+peut Ãªtre figurÃ© de la sorte:
+
+[Illustration:
+
+             4
+              \
+               \
+                \
+                 \
+             0    \
+      2------------3
+       \     |
+        \    |
+         \   |
+          \  |
+           \ |
+             1
+]
+
+Il est important que le conducteur, en agissant ainsi dans ces diverses
+directions, ne meuve pas beaucoup son bras et, par suite, ne fasse pas
+parcourir au bÃ¢ton un trop grande espace, car chacun de ces gestes doit
+s'opÃ©rer Ã  peu prÃ¨s instantanÃ©ment, ou du moins ne prendre qu'un instant
+si court qu'il soit inapprÃ©ciable. Si cet instant devient apprÃ©ciable au
+contraire, multipliÃ© par le nombre de fois oÃ¹ le geste se rÃ©pÃ¨te, il
+finit par mettre le chef d'orchestre en retard du mouvement qu'il veut
+imprimer et par donner Ã  sa direction une pesanteur des plus fÃ¢cheuses.
+Ce dÃ©faut a, de plus, pour rÃ©sultat de fatiguer le chef inutilement et
+de produire des Ã©volutions exagÃ©rÃ©es, presque ridicules, qui attirent
+sans motif l'attention des spectateurs et deviennent trÃ¨s dÃ©sagrÃ©ables Ã 
+la vue.
+
+Dans la mesure Ã  trois temps le premier geste, fait de haut en bas, est
+Ã©galement adoptÃ© partout pour marquer le premier temps, mais il y a deux
+maniÃ¨res de marquer le second. La plupart des chefs d'orchestre
+l'indiquent par un geste de gauche Ã  droite.
+
+[Illustration:
+
+
+                               2
+                        0     /
+      _ainsi:_     |    /
+                        |   /
+                        |  /
+                        | /
+                        |/
+                        1
+]
+
+Quelques maÃ®tres de chapelle allemands font le contraire et portent le
+bÃ¢ton de droite Ã  gauche.
+
+[Illustration:
+
+
+                      2
+                       \     0
+                        \    |
+      _ainsi:_      \   |
+                          \  |
+                           \ |
+                            \|
+                             1
+]
+
+Cette maniÃ¨re a le dÃ©savantage, quand le chef tourne le dos Ã 
+l'orchestre, ainsi qu'il arrive dans les thÃ©Ã¢tres, de ne permettre qu'Ã 
+un trÃ¨s petit nombre de musiciens d'apercevoir l'indication si
+importante du second temps, le corps du chef cachant alors le mouvement
+de son bras. L'autre procÃ©dÃ© est meilleur, puisque le chef dÃ©ploie son
+bras en _dehors_, en l'Ã©loignant de sa poitrine, et que son bÃ¢ton, s'il
+a soin de l'Ã©lever un peu au-dessus du niveau de son Ã©paule, reste
+parfaitement visible Ã  tous les yeux.
+
+Quant le chef regarde en face les exÃ©cutants, il est indiffÃ©rent qu'il
+marque le second temps Ã  droite ou Ã  gauche.
+
+En tout cas, le troisiÃ¨me temps de la mesure Ã  trois est toujours
+marquÃ© comme le dernier de la mesure Ã  quatre, par un mouvement oblique
+de bas en haut.
+
+[Illustration:
+
+                              3
+                               \
+                                \
+                                 \
+                                  \
+    _Exemple:_          0     \ 2
+                             |     /
+                             |    /
+                             |   /
+                             |  /
+                             | /
+                             |/
+                             1
+
+_ou:_
+
+             3
+            /
+           /
+          /
+         /
+        /
+      2/
+       \      0
+        \     |
+         \    |
+          \   |
+           \  |
+            \ |
+             \|
+              1
+]
+
+Les mesures Ã  cinq et Ã  sept temps seront plus comprÃ©hensibles pour les
+exÃ©cutants, si, au lieu de les dessiner par une sÃ©rie spÃ©ciale de
+gestes, on les traite, l'une comme un composÃ© des mesures Ã  trois et Ã 
+deux, l'autre comme un composÃ© des mesures Ã  quatre et Ã  trois.
+
+On en marquera donc les temps en consÃ©quence.
+
+       *       *       *       *       *
+
+[Illustration:
+
+_Exemple_ Ã  cinq temps:
+
+
+       3   5
+        \  |
+        0\ |
+        | \|
+        |  |
+        |  |\
+        |  | \
+        |  |  \
+        |  |   \
+     0  |  |    \
+     |  |  |     \2
+     |  |  |     /
+     |  |  |    /
+     |  |  |   /
+     |  |  |  /
+     |  |  | /
+     |  |  0/
+     |  |  /
+     |  | /
+     |  4/
+     |  /
+     | /
+     |/
+     1
+
+]
+
+[Illustration:
+
+_Exemple_ Ã  sept temps:
+
+                    4 7
+                     \ \
+                      \ \
+                       \ \
+                    0   \ \
+                    |    \ \
+                    |     \ \
+                    |      \ \
+                    |       \ \
+                    |        \ \
+                 0  |         \ \
+    2------------|--|----------3 6
+     \           |  |           /
+      \          |  |          /
+       \         |  |         /
+        \        |  |        /
+         \       |  |       /
+          \      |  |      /
+           \     |  |     /
+            \    |  |    /
+             \   |  |   /
+              \  |  |  /
+               \ |  | /
+                \|  |/
+                 1  5
+
+]
+
+Ces diverses mesures, pour Ãªtre divisÃ©es de la sorte, sont sensÃ©es
+appartenir Ã  des mouvements modÃ©rÃ©s. Il n'en serait plus de mÃªme si leur
+mouvement Ã©tait ou trÃ¨s rapide ou trÃ¨s lent.
+
+La mesure Ã  deux temps, je l'ai dÃ©jÃ  fait comprendre, ne peut Ãªtre
+battue autrement que nous ne l'avons vu tout Ã  l'heure, quelle que
+puisse Ãªtre sa rapiditÃ©. Mais si, par exception, elle est trÃ¨s lente, le
+chef d'orchestre devra la subdiviser.
+
+Une mesure Ã  quatre temps trÃ¨s rapide, au contraire, devra Ãªtre battue Ã 
+deux temps; les quatre gestes usitÃ©s dans le mouvement moderato,
+devenant alors si prÃ©cipitÃ©s qu'ils ne reprÃ©sentent plus rien de prÃ©cis
+Ã  l'Åil, et troublent l'exÃ©cutant au lieu de lui donner de l'assurance.
+En outre, et ceci est bien plus grave, le chef, en faisant inutilement
+ces quatre gestes dans un mouvement prÃ©cipitÃ©, rend l'allure du rhythme
+pÃ©nible, et perd la libertÃ© de gestes que la simple division de la
+mesure par sa moitiÃ© lui laisserait.
+
+En gÃ©nÃ©ral, les compositeurs ont tort d'Ã©crire en pareil cas
+l'indication de la mesure Ã  quatre temps. Quand le mouvement est trÃ¨s
+vif, ils ne devraient jamais Ã©crire que le signe [C] et
+non celui-ci [C] qui peut induire le chef d'orchestre en
+erreur.
+
+Il en est absolument de mÃªme pour la mesure Ã  trois trÃ¨s rapides 3/4 ou
+3/8. Il faut alors supprimer le geste du second temps, et restant un
+temps de plus sur le frappÃ© du premier, ne relever le bÃ¢ton qu'au
+troisiÃ¨me.
+
+[Illustration:
+
+                             3
+                    0        |
+                    |        |
+                    |        |
+                    |        |
+                    |        |
+   _Exemple:_  |        |
+                    |        |
+                    |        |
+                    |        |
+                    |        |
+                    |        |
+                    |        |
+                  1 et 2     0
+]
+
+Il serait ridicule de vouloir marquer les trois temps d'un Scherzo de
+Beethoven.
+
+L'inverse a lieu pour ces deux mesures, comme pour celle Ã  deux temps.
+Si le mouvement est trÃ¨s lent, il faut en diviser chaque temps, faire en
+consÃ©quence huit gestes pour la mesure Ã  quatre et six pour la mesure Ã 
+trois, en rÃ©pÃ©tant en raccourci chacun des gestes principaux que nous
+avons indiquÃ©s tout Ã  l'heure.
+
+       *       *       *       *       *
+
+[Illustration:
+
+_Exemple_ Ã  quatre temps trÃ¨s lents:
+
+                         \
+                        4 \
+                          /
+                         /
+                         \
+                          \
+                           \
+                            \
+                             \
+                              \
+                    0         /
+                    |        /
+                    |       /
+                    |       \3
+                    |        \
+                    |         \
+      --------------|----------
+      \             |
+     2 \            |
+       /            |
+      /             |
+      \             |
+       \            |
+        \           |
+         \          |
+          \         |
+           \        |
+            \       |
+             \      |
+              \     |
+               \    |
+                \   |
+                 \  |  /\
+                  \ | /  \
+                   \|/    \
+                    |
+                      1
+
+
+]
+
+[Illustration:
+
+_Exemple_ Ã  trois temps trÃ¨s lents:
+
+           \
+          3 \
+            /
+           /
+           \
+            \
+             \
+              \
+               \
+                \
+     0          /
+     |         /
+     |        /
+     |        \2
+     |         \
+     |          \
+     |          /
+     |         /
+     |        /
+     |       /
+     | /\   /
+     |/  \ /
+       1
+]
+
+Le bras doit rester absolument Ã©tranger au petit geste supplÃ©mentaire
+que nous indiquons pour la subdivision de la mesure, et le poignet seul
+faire mouvoir le bÃ¢ton.
+
+Cette division des temps a pour objet d'empÃªcher les divergences
+rhythmiques qui pourraient aisÃ©ment s'Ã©tablir parmi les exÃ©cutants,
+pendant l'intervalle qui sÃ©pare un temps de l'autre. Car le chef
+n'indiquant rien pendant cette durÃ©e devenue assez considÃ©rable par
+suite de l'extrÃªme lenteur du mouvement, les exÃ©cutants sont alors
+entiÃ¨rement livrÃ©s Ã  eux-mÃªmes, _sans chef_, et comme le sentiment
+rhythmique n'est point le mÃªme chez tous, il s'ensuit que les uns
+pressent pendant que les autres retardent et que l'ensemble est bientÃ´t
+dÃ©truit. Ou ne pourrait faire exception Ã  cette rÃ¨gle qu'en dirigeant un
+orchestre du premier ordre, composÃ© de virtuoses qui se connaissent
+bien, ont l'habitude de jouer ensemble et possÃ¨dent Ã  peu prÃ¨s par cÅur
+l'Åuvre qu'ils exÃ©cutent. Et encore, dans ces conditions, la
+distraction d'un seul musicien peut amener un accident. Pourquoi s'y
+exposer? Je sais que certains artistes se trouvent blessÃ©s dans leur
+amour-propre d'Ãªtre ainsi tenus en lisiÃ¨res (_comme des enfants,
+disent-ils_); mais aux yeux d'un chef qui n'a en vue que l'excellence du
+rÃ©sultat final, cette considÃ©ration n'a pas de valeur. MÃªme dans un
+quatuor, il est rare que le sentiment individuel des exÃ©cutants soit
+entiÃ¨rement libre de se donner carriÃ¨re; dans une symphonie, c'est de
+celui du chef qu'il s'agit; c'est dans l'art de le comprendre et de le
+reproduire avec ensemble que consiste la perfection de l'exÃ©cution, et
+les vellÃ©itÃ©s individuelles, qui d'ailleurs ne peuvent s'accorder entre
+elles, ne sauraient Ãªtre admises Ã  se manifester.
+
+Ceci compris, on devine que la subdivision est encore bien plus
+essentielle pour les mesures composÃ©es trÃ¨s lentes; telles que celle Ã 
+6/4, Ã  6/8, Ã  9/8, Ã  12/8, etc.
+
+Mais ces mesures, oÃ¹ le rhythme ternaire joue un si grand rÃ´le, peuvent
+Ãªtre dÃ©composÃ©es de plusieurs faÃ§ons.
+
+Si le mouvement est vif ou modÃ©rÃ©, il ne faut guÃ¨re indiquer que les
+temps simples de ces mesures, d'aprÃ¨s le procÃ©dÃ© adoptÃ© pour les mesures
+simples analogues.
+
+Les mesures Ã  6/8 allegretto et Ã  6/4 allegro seront donc battues comme
+celles Ã  deux temps: [C] = ou 2 = ou 2/4: on marquera la
+mesure Ã  9/8 allegro comme celle Ã  3/4 moderato, ou comme celle Ã  3/8
+andantino; la mesure Ã  12/8 moderato ou allegro, comme on marque la
+mesure Ã  quatre temps simples. Mais si le mouvement est adagio et Ã  plus
+forte raison largo-assaÃ¯, andante-maestoso, on devra, selon la forme de
+la mÃ©lodie ou du dessin prÃ©dominant, marquer soit toutes les croches,
+soit une noire suivie d'une croche chaque temps.
+
+[Illustration: _Larghetto grazioso._ notation musicale]
+
+Il n'est pas nÃ©cessaire, dans cette mesure Ã  trois temps, de marquer
+toutes les croches; le rhythme d'une noire suivie d'une croche dans
+chaque temps suffit.
+
+On fera alors pour la subdivision le petit geste indiquÃ© pour les
+mesures simples; seulement cette subdivision partagera chaque temps en
+deux parties inÃ©gales, puisqu'il s'agit d'indiquer aux yeux la valeur de
+la noire et celle de la croche.
+
+Si le mouvement est encore plus lent, il n'y a pas Ã  hÃ©siter, et l'on ne
+sera maÃ®tre de l'ensemble de l'exÃ©cution qu'en marquant toutes les
+croches, quelle que soit la nature de la mesure composÃ©e.
+
+[Illustration: EXEMPLES:
+
+_Adagio._
+
+_Adagio sostenuto._
+
+_Largo._ notation musicale]
+
+Dans ces trois mesures, avec les mouvements indiquÃ©s, le chef
+d'orchestre marquera trois croches par temps, trois en bas et trois en
+haut pour la mesure Ã  6/8.
+
+[Illustration:
+
+      0             |\    |\    |
+      |             | \   | \   |
+      |             |  \  |  \  |
+      |             |   \ |   \ |
+      |             |
+      |             |
+      |   /|   /|   |
+      |  / |  / |   |
+      | /  | /  |   |
+      |/   |/   |   0
+]
+
+Trois en bas, trois Ã  droite et trois en haut, pour la mesure Ã  9/8.
+
+[Illustration:
+
+
+                \
+                 \
+                 /
+                /
+                \
+                 \
+                 /
+                /
+                \
+                 \
+                  \
+                   \
+                    \
+                     \
+      0               \
+      |                \
+      |                /
+      |               /
+      |               \
+      |                \
+      |                 \
+      |                 /
+      |                /
+      |                \
+      |                 \
+      |                  \
+      |                  /
+      |                 /
+      |                /
+      |               /
+      |  /\    /\    /
+      | /  \  /  \  /
+      |/    \/    \/
+
+]
+
+Trois en bas, trois Ã  gauche, trois Ã  droite et trois en haut, pour la
+mesure Ã  12/8.
+
+[Illustration:
+
+
+                        \
+                         \
+                          \
+                          /
+                         /
+                        /
+                        \
+                         \
+                          \
+                          /
+                         /
+                        /
+                        \
+                         \
+                          \
+                           \
+                            \
+                             \
+                              \
+                               \
+                                \
+                                /
+                               /
+                              /
+                              \
+                               \
+                                \
+                                /
+                               /
+                              /
+                0             \
+                |              \
+                |               \
+                |               /
+                |              /
+                |             /
+        --------|-------------
+       /        |
+      /         |
+     /          |
+     \          |
+      \         |
+       \        |
+       /        |
+      /         |
+     /          |
+     \          |
+      \         |
+       \        |
+       /        |
+      /         |
+     /          |
+     \          |
+      \         |
+       \        |
+        \       |
+         \      |
+          \     |
+           \    |
+            \   |
+             \  |
+              \ |
+               \|
+                \
+                |\ /\    /\
+                | /  \  /  \
+                |/ \  \/    \
+
+]
+
+Une circonstance difficile se prÃ©sente quelquefois; c'est quand, dans
+une partition, certaines parties sont, pour obtenir un contraste,
+rhythmÃ©es Ã  trois pendant que les autres parties conservent le rhythme Ã 
+deux.
+
+[Illustration: notation musical, _Andante._
+
+INSTRUMENTS A VENT.
+
+VIOLONS.]
+
+Sans doute, si la partie des instruments Ã  vent dans cet exemple est
+confiÃ©e Ã  des musiciens _trÃ¨s musiciens_, il n'y a pas de nÃ©cessitÃ© de
+changer la maniÃ¨re de marquer la mesure, et le chef peut continuer Ã  la
+subdiviser par six ou Ã  la diviser simplement par deux; mais la plupart
+des exÃ©cutants paraissant hÃ©siter au moment oÃ¹, par l'emploi de la forme
+syncopÃ©e, le rhythme ternaire intervient dans le rhythme binaire et s'y
+mÃªle; voici le moyen de leur donner de l'assurance. L'inquiÃ©tude que
+leur cause la subite apparition de ce rhythme inattendu et que le reste
+de l'orchestre contrarie, porte toujours instinctivement les exÃ©cutants
+Ã  jeter un coup d'Åil sur le chef, comme pour lui demander assistance.
+Celui-ci doit alors les regarder aussi, se tourner un peu vers eux et
+leur marquer par de trÃ¨s petits gestes le rhythme ternaire, comme si la
+mesure Ã©tait Ã  trois temps rÃ©els, de telle faÃ§on que les violons et les
+autres instruments jouant dans le rhythme binaire ne puissent remarquer
+ce changement qui les dÃ©rangerait tout Ã  fait. Il rÃ©sulte de ce
+compromis que le rhythme nouveau Ã  trois, Ã©tant marquÃ© secrÃ¨tement par
+le chef, s'exÃ©cute alors avec assurance, pendant que le rhythme Ã  deux,
+dÃ©jÃ  fermement Ã©tabli, se continue sans peine, bien que le chef ne le
+dessine plus.
+
+D'un autre cÃ´tÃ©, rien, Ã  mon avis, n'est plus blÃ¢mable et plus contraire
+au bon sens musical que l'application de ce procÃ©dÃ© aux passages oÃ¹ il
+n'y a pas superposition de deux rhythmes de natures opposÃ©es, et oÃ¹ se
+rencontre seulement l'emploi des syncopes. Le chef, divisant la mesure
+par _le nombre des accents qui s'y trouvent contenus_, dÃ©truit alors
+l'effet de la forme syncopÃ©e, pour tous les auditeurs qui le voient, et
+substitue un plat changement de mesure Ã  un jeu de rhythme du plus
+piquant intÃ©rÃªt. C'est ce qui arrive si l'on marque les accents au lieu
+des temps, dans ce passage de la symphonie Pastorale de Beethoven:
+
+[Illustration: notation musical, _Andante._]
+
+et si l'on fait les six gestes ci-dessus indiquÃ©s au lieu des quatre
+Ã©tablis auparavant, qui laissent apercevoir et font mieux sentir la
+syncope:
+
+[Illustration: notation musical, _Andante._]
+
+Cette soumission volontaire Ã  une forme rhythmique _que l'auteur a
+destinÃ©e Ã  Ãªtre contrariÃ©e_ est une des plus Ã©normes fautes de style
+qu'un batteur de mesure puisse commettre.
+
+Il est une autre difficultÃ© trÃ¨s inquiÃ©tante pour le chef d'orchestre et
+pour laquelle il a besoin de toute sa prÃ©sence d'esprit; c'est celle que
+prÃ©sente la superposition de mesures diffÃ©rentes. Il est aisÃ© de
+conduire une mesure Ã  deux temps binaires placÃ©e au-dessus ou au-dessous
+d'une autre mesure Ã  deux temps ternaires, si l'une et l'autre sont dans
+le mÃªme mouvement; elles sont alors Ã©gales en durÃ©e, et il ne s'agit que
+de les diviser par leur moitiÃ© en marquant les deux temps principaux.
+
+[Illustration: notation musical, EX.:
+
+_Allegro._]
+
+Mais si, au milieu d'un morceau d'un mouvement lent, est introduite une
+forme nouvelle dont le mouvement est vif, et si le compositeur, soit
+pour rendre plus facile l'exÃ©cution du mouvement vif, soit parce qu'il
+Ã©tait impossible d'Ã©crire autrement, a adoptÃ© pour ce nouveau mouvement
+la mesure brÃ¨ve qui y correspond, il peut alors y avoir deux et mÃªme
+trois mesures brÃ¨ves superposÃ©es Ã  une mesure lente.
+
+[Illustration: notation musical, EXEMPLE.
+
+_Andante._
+
+NÂº 1.
+
+_Allegro._
+
+_sempre andante._
+
+NÂº 2.                     NÂº 3.
+(Trois mesures contre une.)
+]
+
+La tÃ¢che du chef est de faire marcher et de maintenir ensemble ces
+mesures diverses en nombre inÃ©gal et ces mouvements dissemblables. Il y
+parvient dans l'exemple prÃ©cÃ©dent en commenÃ§ant Ã  diviser les temps dÃ¨s
+la mesure Andante NÂº 1 qui prÃ©cÃ¨de l'entrÃ©e de l'Allegro Ã  6/8, et en
+continuant Ã  les diviser ensuite, mais en ayant soin de marquer encore
+davantage cette division. Les exÃ©cutants de l'Allegro Ã  6/8 comprennent
+alors que les deux gestes du chef reprÃ©sentent les deux temps de leur
+petite mesure, et les exÃ©cutants de l'Andante que ces deux mÃªmes gestes
+ne reprÃ©sentent pour eux qu'un temps divisÃ© de leur grande mesure.
+
+       *       *       *       *       *
+
+Mesure nÂº 1.
+
+[Illustration:
+
+           \
+            \
+            /
+           /
+           \
+            \
+             \
+              \
+               \
+               /
+     0        /
+     |        \
+     |         \
+     |         /
+     |        /
+     |       /
+     |      /
+     | /\  /
+     |/  \/
+]
+
+Mesures nos 2, 3 et suivantes.
+
+[Illustration:
+
+          ___
+            /
+           /
+           \
+            \
+            /
+           /
+           \
+            \
+             \
+              \
+               \
+               /
+     0        /
+     |        \
+     |         \
+     |         /
+     |        /
+     |       /
+     |      /
+     | /\  /
+     |/  \/
+]
+
+Ceci, on le voit, est assez simple au fond, parce que la division de la
+petite mesure et les subdivisions de la grande concordent entre elles.
+L'exemple suivant oÃ¹ une mesure lente est superposÃ©e Ã  deux mesures
+brÃ¨ves, sans que cette concordance existe, est plus scabreux.
+
+[Illustration: notation musicale, _Allegro assai._
+
+HAUTBOIS.
+
+_Allegro assai._
+
+ALTOS.
+
+_Allegretto_, le double moins vite.
+
+NÂº 1.                       NÂº 2.
+conservez le mÃªme mouvement.
+
+NÂº 3.]
+
+Ici les trois mesures Allegro-assaÃ¯ qui prÃ©cÃ¨dent l'Allegretto se
+battent Ã  deux temps simples comme Ã  l'ordinaire. Au moment oÃ¹ commence
+l'Allegretto, dont la mesure est le double de la prÃ©cÃ©dente et de celle
+que conservent les Altos, le chef marque deux temps divisÃ©s pour la
+grande mesure, par deux gestes inÃ©gaux en bas et par deux autres en
+haut:
+
+[Illustration:
+
+     *      |\ |
+     |      | \|
+     |      |
+     |      |
+     |      |
+     |      |
+     | /|   |
+     |/ |   *
+]
+
+Les deux grands gestes divisent par le milieu la grande mesure et en
+font comprendre la valeur aux hautbois, sans contrarier les Altos qui
+conservent le mouvement vif, Ã  cause du petit geste qui divise aussi par
+le milieu leur petite mesure. DÃ¨s la mesure NÂº 3, il cesse de diviser
+ainsi la grande mesure par quatre, Ã  cause du rhythme ternaire de la
+mÃ©lodie Ã  6/8 que cette division contrarie. Il se borne alors Ã  marquer
+les deux temps de la grande mesure, et les Altos dÃ©jÃ  lancÃ©s dans leur
+rhythme rapide le continuent sans peine, comprenant bien que chaque
+mouvement du bÃ¢ton conducteur marque seulement le commencement de leur
+petite mesure.
+
+Et cette derniÃ¨re observation fait voir avec quel soin il faut se garder
+de diviser les temps d'une mesure, lorsqu'une partie des instruments ou
+des voix vient Ã  exÃ©cuter les triolets sur ces temps. Cette division,
+coupant alors par le milieu la seconde note du triolet, en rendrait
+l'exÃ©cution chancelante et pourrait l'empÃªcher tout Ã  fait. Il faut mÃªme
+s'abstenir de cette division des temps de la mesure par deux, un peu
+avant le moment oÃ¹ le dessin rhythmique ou mÃ©lodique va venir les
+diviser par trois, afin de ne pas donner d'avance aux exÃ©cutants le
+sentiment d'un rhythme contraire Ã  celui qu'ils vont avoir Ã  faire
+entendre.
+
+[Illustration: notation musicale, _Adagio._]
+
+[Illustration:
+
+          ___
+            /
+           /
+           \
+            \
+            /
+           /
+           \
+            \
+             \
+              \
+               \
+               /
+     0        /
+     |        \
+     |         \
+     |         /
+     |        /
+     |       /
+     |      /
+     | /\  /
+     |/  \/
+]
+
+Dans cet exemple, la subdivision de la mesure par six, ou la division
+des temps par deux, est utile et ne prÃ©sente aucun inconvÃ©nient pendant
+la mesure NÂº 1: on fait alors le geste, mais il faut s'en abstenir dÃ¨s
+le dÃ©but de la mesure NÂº 2 et se borner aux gestes simples Ã  cause du
+triolet placÃ© sur le troisiÃ¨me temps, et Ã  cause du suivant que les
+gestes doubles contrarieraient beaucoup.
+
+[Illustration:
+
+
+      3
+       \
+        \
+         \
+          \
+     0     \ 2
+     |     /
+     |    /
+     |   /
+     |  /
+     | /
+     |/
+     1
+]
+
+Dans la fameuse scÃ¨ne du bal de _Don Giovanni_ de Mozart, la difficultÃ©
+de faire marcher ensemble les trois orchestres Ã©crits dans trois mesures
+diffÃ©rentes est moindre qu'on ne croit. Il suffit de marquer toujours en
+bas chaque temps du _tempo di minuetto_.
+
+[Illustration: notation musicale]
+
+Une fois entrÃ© dans l'ensemble, le petit Allegretto Ã  3/8 dont une
+mesure entiÃ¨re reprÃ©sente un tiers ou un temps de celle du minuetto, et
+l'autre Allegro Ã  3/4 dont une mesure entiÃ¨re en reprÃ©sente deux tiers
+ou deux temps, s'accordent parfaitement ensemble et avec le thÃ¨me
+principal, et marchent sans le moindre embarras. Le tout est de les
+faire entrer Ã  propos.
+
+Une faute grossiÃ¨re que j'ai vu commettre consiste Ã  Ã©largir la mesure
+d'un morceau Ã  deux temps, quand l'auteur y a introduit des triolets de
+blanches:
+
+[Illustration: notation musicale]
+
+En pareils cas la troisiÃ¨me blanche n'ajoute rien Ã  la durÃ©e de la
+mesure, comme quelques chefs semblent le croire. On peut si l'on veut,
+et si le mouvement est lent ou modÃ©rÃ©, marquer ces passages en dessinant
+la mesure Ã  trois temps, mais la durÃ©e de la mesure entiÃ¨re doit rester
+absolument la mÃªme. Dans le cas oÃ¹ ces triolets se rencontreraient dans
+une mesure trÃ¨s brÃ¨ve Ã  deux temps (Allegro assaÃ¯), les trois gestes
+font alors confusion, et il faut absolument n'en faire que deux, un
+frappÃ© sur la premiÃ¨re blanche et un levÃ© sur la troisiÃ¨me. Lesquels
+gestes, Ã  cause de la vitesse du mouvement, diffÃ¨rent peu Ã  l'Åil des
+deux de la mesure Ã  deux temps Ã©gaux, et n'empÃªchent pas de marcher les
+parties de l'orchestre qui ne contiennent pas de triolets.
+
+[Illustration: notation musicale, _Allegro assai._
+
+Deux temps        Deux temps         Deux temps
+  Ã©gaux.        un peu inÃ©gaux.       Ã©gaux.
+]
+
+Parlons Ã  prÃ©sent de l'action du chef dans les rÃ©citatifs. Ici le
+chanteur ou l'instrumentiste rÃ©citant n'Ã©tant plus soumis Ã  la division
+rÃ©guliÃ¨re de la mesure, il s'agit, en le suivant attentivement, de faire
+attaquer par l'orchestre avec prÃ©cision et ensemble les accords ou les
+dessins instrumentaux dont le rÃ©citatif est entremÃªlÃ©, et de faire
+changer Ã  propos l'harmonie, quand le rÃ©citatif est accompagnÃ©, soit par
+des tenues, soit par un tremolo Ã  plusieurs parties, dont la plus
+obscure parfois est celle dont le chef doit s'occuper davantage,
+puisque c'est du mouvement de celle-lÃ  que rÃ©sulte le changement
+d'accord.
+
+[Illustration: notation musicale, Exemple non mesurÃ©:
+
+VIOLONS.
+
+ALTOS
+&
+BASSES.
+]
+
+Dans cet exemple, le chef, tout en suivant la partie rÃ©citante non
+mesurÃ©e, a surtout Ã  se prÃ©occuper de la partie d'alto, et Ã  la faire se
+mouvoir Ã  propos du premier temps sur le second, du Fa sur le Mi au
+commencement de la deuxiÃ¨me mesure; sans quoi, comme cette partie est
+exÃ©cutÃ©e par plusieurs instrumentistes jouant Ã  l'unisson, les uns
+tiendront le Fa plus longtemps que les autres et une discordance
+passagÃ¨re se produira.
+
+Beaucoup de chefs ont l'habitude, en dirigeant l'orchestre des
+rÃ©citatifs, de ne tenir aucun compte de la division Ã©crite de la mesure,
+et de marquer un temps levÃ© avant celui oÃ¹ se trouve un accord bref qui
+doit frapper l'orchestre, lors mÃªme que cet accord est placÃ© sur un
+temps faible.
+
+[Illustration: notation musicale, RÃ©citatif.
+
+Par-lez!
+
+(_Orchestre_)]
+
+Dans un passage tel que celui-ci, ils lÃ¨vent le bras sur le soupir qui
+commence la mesure et l'abaissent sur le temps de l'accord. Je ne
+saurais approuver un tel usage que rien ne justifie et qui peut souvent
+amener des accidents dans l'exÃ©cution. Je ne vois pas d'ailleurs
+pourquoi on cesserait, dans les rÃ©citatifs, de diviser la mesure
+rÃ©guliÃ¨rement et de marquer les temps rÃ©els Ã  leur place, comme dans la
+musique mesurÃ©e. Je conseille donc, pour l'exemple prÃ©cÃ©dent, de frapper
+le premier temps en bas comme Ã  l'ordinaire, et de porter le bÃ¢ton Ã 
+gauche pour faire attaquer l'accord sur le second temps; et ainsi de
+suite pour les cas analogues en divisant toujours la mesure
+rÃ©guliÃ¨rement. Il est trÃ¨s important en outre de la diviser d'aprÃ¨s le
+mouvement prÃ©cÃ©demment indiquÃ© par l'auteur, et de ne pas oublier, si ce
+mouvement est allegro ou maestoso, et si la partie rÃ©citante a longtemps
+rÃ©citÃ© sans accompagnement, de donner Ã  tous les temps, quand
+l'orchestre rentre, la valeur de ceux d'un allegro ou d'un maestoso. Car
+quand l'orchestre joue seul il est en gÃ©nÃ©ral mesurÃ©; il ne joue sans
+mesure que s'il accompagne la voix rÃ©citante ou l'instrument rÃ©citant.
+Dans le cas exceptionnel oÃ¹ le rÃ©citatif est Ã©crit pour l'orchestre
+lui-mÃªme, ou pour le chÅur, ou bien pour une partie de l'orchestre ou
+du chÅur, comme il s'agit de faire marcher ensemble, soit Ã  l'unisson,
+soit en harmonie, mais sans mesure exacte, un certain nombre
+d'exÃ©cutants, _c'est alors le chef d'orchestre qui est le vrai rÃ©citant_
+et qui donne Ã  chaque temps de la mesure la durÃ©e qu'il juge convenable.
+Suivant la forme de la phrase, tantÃ´t il divise et subdivise les temps,
+tantÃ´t il marque les accents, tantÃ´t les doubles croches s'il y en a,
+enfin il dessine avec son bÃ¢ton la forme mÃ©lodique du rÃ©citatif. Bien
+entendu que les exÃ©cutants, sachant leurs notes Ã  peu prÃ¨s par cÅur,
+ont l'Åil constamment fixÃ© sur lui, sans quoi on ne peut obtenir ni
+assurance ni ensemble.
+
+En gÃ©nÃ©ral, mÃªme pour la musique mesurÃ©e, le chef d'orchestre doit
+exiger que les musiciens qu'il dirige le regardent le plus souvent
+possible. _Pour un orchestre qui ne regarde pas le bÃ¢ton conducteur, il
+n'y a pas de chef._ Souvent, aprÃ¨s un point d'orgue, par exemple, le
+chef est obligÃ© de s'abstenir de faire le geste dÃ©cisif qui va
+dÃ©terminer l'attaque de l'orchestre, jusqu'Ã  ce qu'il voie les veux de
+tous les musiciens fixÃ©s sur lui. C'est au chef, pendant les
+rÃ©pÃ©titions, de les accoutumer Ã  le regarder simultanÃ©ment au moment
+important.
+
+[Illustration: notation musicale,_Allegretto._]
+
+Si, dans la mesure ci-jointe, dont le premier temps portant un point
+d'orgue peut Ãªtre prolongÃ© indÃ©finiment, on n'observait pas la rÃ¨gle que
+je viens d'indiquer, le trait
+
+[Illustration: notation musicale]
+
+ne pourrait Ãªtre lancÃ© avec aplomb et ensemble, les musiciens qui ne
+regardent pas le bÃ¢ton conducteur ne pouvant savoir quand le chef
+dÃ©termine le second temps et reprend le mouvement suspendu par le point
+d'orgue.
+
+Cette obligation pour les exÃ©cutants de regarder leur chef implique
+nÃ©cessairement pour celui-ci l'obligation de se laisser bien voir par
+eux. Il doit, quelle que soit la disposition de l'orchestre, sur des
+gradins ou sur un plan horizontal, s'arranger de faÃ§on Ã  Ãªtre le centre
+de tous les rayons visuels.
+
+Il faut au chef d'orchestre, pour l'exhausser et le mettre bien en vue,
+une estrade spÃ©ciale, d'autant plus Ã©levÃ©e que le nombre des exÃ©cutants
+est plus grand et occupe un plus vaste espace. Que son pupitre ne soit
+pas assez haut pour que la planchette portant la partition cache sa
+figure: car l'expression de son visage entre pour beaucoup dans
+l'influence qu'il exerce, et si le chef n'existe pas pour un orchestre
+qui ne sait ou ne veut pas le regarder, il n'existe guÃ¨re davantage s'il
+ne peut Ãªtre bien vu.
+
+Quant Ã  l'emploi d'un bruit quelconque produit par des coups du bÃ¢ton
+du chef sur son pupitre, ou de son pied sur son estrade, on ne peut que
+le blÃ¢mer sans rÃ©serve. C'est plus qu'un mauvais moyen, c'est une
+barbarie.
+
+Seulement si, dans un thÃ©Ã¢tre, les Ã©volutions de la mise en scÃ¨ne
+empÃªchent les choristes de voir le bÃ¢ton conducteur, le chef est obligÃ©,
+pour assurer aprÃ¨s un silence l'attaque du chÅur, d'indiquer cette
+attaque en marquant le temps qui la prÃ©cÃ¨de par un lÃ©ger coup de bÃ¢ton
+sur son pupitre. Cette circonstance exceptionnelle est la seule qui
+puisse justifier l'emploi d'un _bruit indicateur_; encore est-il
+regrettable qu'on soit obligÃ© d'y recourir.
+
+A propos des choristes et de leur action dans les thÃ©Ã¢tres, il est bon
+de dire ici que les directeurs du chant se permettent souvent de marquer
+la mesure dans les coulisses, sans voir le bÃ¢ton du chef, souvent mÃªme
+sans entendre l'orchestre. Il en rÃ©sulte que cette mesure arbitraire,
+battue plus ou moins mal, ne pouvant s'accorder avec celle du chef,
+Ã©tablit inÃ©vitablement une discordance rhythmique entre les chÅurs et
+le groupe instrumental, et bouleverse l'ensemble au lieu de contribuer Ã 
+l'Ã©tablir.
+
+Autre barbarie traditionnelle que le chef d'orchestre intelligent et
+Ã©nergique a pour mission de dÃ©truire. Si un chÅur ou un morceau
+instrumental est exÃ©cutÃ© derriÃ¨re la scÃ¨ne sans la participation de
+l'orchestre principal, un autre chef est absolument nÃ©cessaire pour le
+conduire. Si l'orchestre accompagne ce groupe, le premier chef, qui
+entend la musique lointaine, est alors rigoureusement tenu de _se
+laisser conduire_ par le second et de suivre _de l'oreille_ ses
+mouvements. Mais si, comme il arrive souvent dans la musique moderne, la
+sonoritÃ© du grand orchestre empÃªche le premier chef d'entendre ce qui
+s'exÃ©cute loin de lui, l'intervention d'un mÃ©canisme spÃ©cial conducteur
+du rhythme devient indispensable pour Ã©tablir une communication
+instantanÃ©e entre lui et les exÃ©cutants Ã©loignÃ©s. On a fait en ce genre
+des essais plus ou moins ingÃ©nieux, dont le rÃ©sultat n'a pas partout
+rÃ©pondu Ã  ce qu'on en attendait. Celui du thÃ©Ã¢tre de Covent Garden, Ã 
+Londres, que le pied du chef d'orchestre fait mouvoir, fonctionne assez
+bien. Seul le _MÃ©tronome Ã©lectrique_ Ã©tabli par M. Verbrugghe au thÃ©Ã¢tre
+de Bruxelles ne laisse rien Ã  dÃ©sirer. Il consiste en un appareil de
+rubans de cuivre, partant d'une pile de Volta placÃ©e sous le thÃ©Ã¢tre,
+venant s'attacher au pupitre-chef, et aboutissant Ã  un bÃ¢ton mobile fixÃ©
+par un de ses bouts sur un pivot, devant une planche Ã  _quelque distance
+que ce soit_ du chef d'orchestre. Au pupitre de celui-ci est adaptÃ©e une
+touche en cuivre assez semblable Ã  une touche de piano, Ã©lastique et
+armÃ©e Ã  sa face infÃ©rieure d'une protubÃ©rance de trois ou quatre lignes
+de longueur. ImmÃ©diatement au-dessous de la protubÃ©rance se trouve un
+petit godet en cuivre Ã©galement et rempli de mercure. Au moment oÃ¹ le
+chef d'orchestre, voulant marquer un temps quelconque de la mesure,
+presse avec l'index de sa main gauche (la droite Ã©tant employÃ©e Ã  tenir
+comme Ã  l'ordinaire le bÃ¢ton conducteur) la touche de cuivre, cette
+touche s'abaisse, la protubÃ©rance entre dans le godet plein de mercure,
+une faible Ã©tincelle Ã©lectrique se dÃ©gage, et le bÃ¢ton placÃ© Ã  l'autre
+extrÃ©mitÃ© du ruban de cuivre fait une oscillation devant sa planche.
+Cette communication du fluide et ce mouvement sont tout Ã  fait
+instantanÃ©s, quelle que soit la distance parcourue. Les exÃ©cutants Ã©tant
+groupÃ©s derriÃ¨re la scÃ¨ne, les yeux fixÃ©s sur le bÃ¢ton du mÃ©tronome
+Ã©lectrique, subissent en consÃ©quence directement l'action du chef, qui
+pourrait ainsi, s'il le fallait, diriger du milieu de l'orchestre de
+l'opÃ©ra de Paris un morceau de musique exÃ©cutÃ© Ã  Versailles. Il est
+important seulement de convenir d'avance avec les choristes, ou avec
+leur conducteur (si, par surcroÃ®t de prÃ©caution, ils en ont un) de la
+maniÃ¨re dont le chef marquera la mesure, s'il marquera tous les temps
+principaux ou le premier temps seulement: les oscillations du bÃ¢ton mÃ»
+par l'Ã©lectricitÃ© Ã©tant toujours d'arriÃ¨re en avant, n'indiquent rien de
+prÃ©cis Ã  cet Ã©gard.
+
+Lorsque je me suis servi pour la premiÃ¨re fois Ã  Bruxelles du prÃ©cieux
+instrument que j'essaie de dÃ©crire, son emploi prÃ©sentait un
+inconvÃ©nient. Chaque fois que la touche de cuivre de mon pupitre
+subissait la pression de l'index de ma main gauche, elle venait frapper
+au dessous une autre plaque de cuivre; malgrÃ© la dÃ©licatesse de ce
+contact, il en rÃ©sultait un petit bruit sec qui, pendant les silences de
+l'orchestre, finissait par attirer l'attention des auditeurs au
+dÃ©triment de l'effet musical. Je fis remarquer ce dÃ©faut Ã  M.
+Verbrugghe, qui remplaÃ§a la plaque de cuivre infÃ©rieure par le godet
+plein de mercure dont j'ai parlÃ© plus haut, et dans lequel la
+protubÃ©rance supÃ©rieure s'introduit pour Ã©tablir le courant Ã©lectrique,
+sans produire le moindre bruit.
+
+Il ne reste plus maintenant, inhÃ©rente Ã  l'emploi de ce mÃ©canisme, que
+la crÃ©pitation de l'Ã©tincelle au moment oÃ¹ elle se dÃ©gage; crÃ©pitation
+trop faible pour Ãªtre entendue du public.
+
+Ce mÃ©tronome est peu dispendieux Ã  Ã©tablir; il coÃ»te quatre cents francs
+au plus. Les grands thÃ©Ã¢tres lyriques, les Ã©glises et les salles de
+concerts, devraient en Ãªtre pourvus depuis longtemps. L'utilitÃ© de cette
+invention de M. Verbrugghe est devenue si manifeste aux grands concerts
+que j'ai dirigÃ©s en 1855 dans le Palais de l'Exposition universelle de
+l'Industrie, concerts oÃ¹ plus de mille musiciens ont exÃ©cutÃ©, mÃªme des
+morceaux d'un mouvement trÃ¨s vif, avec une Ã©tonnante prÃ©cision et un
+ensemble irrÃ©prochable, que trois des thÃ©Ã¢tres lyriques de Paris (le
+ThÃ©Ã¢tre Italien, l'OpÃ©ra-Comique et le ThÃ©Ã¢tre Lyrique) se sont
+empressÃ©s d'acquÃ©rir chacun un mÃ©tronome Ã©lectrique.
+
+Je n'ai pas tout dit encore sur ces dangereux auxiliaires qu'on nomme
+directeurs des chÅurs. Il y en a trÃ¨s peu d'assez rÃ©ellement aptes Ã 
+conduire une exÃ©cution musicale pour que le chef d'orchestre puisse
+compter sur eux. Il ne saurait donc les surveiller d'assez prÃ¨s, quand
+il est obligÃ© de subir leur collaboration. Les plus redoutables sont
+ceux que l'Ã¢ge a dÃ©pourvus d'agilitÃ© et d'Ã©nergie. Le maintien de tout
+mouvement un peu vif leur est impossible, quel que soit le degrÃ© de
+rapiditÃ© imprimÃ© au dÃ©but d'un morceau dont la direction leur est
+confiÃ©e, peu Ã  peu ils en ralentissent l'allure, jusqu'Ã  ce que le
+rhythme soit rÃ©duit Ã  une certaine lenteur moyenne qui semble Ãªtre en
+harmonie avec le mouvement de leur sang et l'affaiblissement gÃ©nÃ©ral de
+leur organisme. Il est vrai d'ajouter que les vieillards ne sont pas les
+seuls qui fassent courir ce danger aux compositeurs. Il y a des hommes
+dans la force de l'Ã¢ge, d'un tempÃ©rament lymphatique, dont le sang
+paraÃ®t circuler _Moderato_. S'il leur arrive de diriger un allegro
+_assaÃ¯_, ils le ralentiront graduellement jusqu'au _Moderato_; si au
+contraire c'est un Largo ou un Andante sostenuto, pour peu que le
+morceau se prolonge, ils arriveront par une animation progressive,
+longtemps avant la fin, au mouvement _Moderato_. Le _Moderato_ est leur
+mouvement naturel, et ils y reviennent aussi infailliblement que
+reviendrait au sien un pendule dont on aurait un instant pressÃ© ou
+ralenti les oscillations.
+
+Ces gens-lÃ  sont les ennemis nÃ©s de toute musique caractÃ©risÃ©e et les
+plus grands aplatisseurs du style. Que le chef d'orchestre se prÃ©serve Ã 
+tout prix de leur concours!
+
+Un jour, dans une grande ville que je ne veux pas nommer, il s'agissait
+d'exÃ©cuter derriÃ¨re la scÃ¨ne un chÅur trÃ¨s simple Ã©crit Ã  6/8 dans le
+mouvement allegretto. L'intervention du maÃ®tre de chant devint
+nÃ©cessaire; c'Ã©tait un vieillard... Le mouvement de ce chÅur Ã©tant
+d'abord dÃ©terminÃ© par l'orchestre, notre Nestor le suivait tant bien que
+mal pendant les premiÃ¨res mesures; mais bientÃ´t aprÃ¨s, le ralentissement
+devenait tel qu'il n'y avait plus moyen de continuer sans rendre le
+morceau complÃ¨tement ridicule. On recommenÃ§a deux fois, trois fois,
+quatre fois; on employa une grande demi-heure en efforts de plus en plus
+irritants, et toujours avec le mÃªme rÃ©sultat. La conservation du
+mouvement allegretto Ã©tait absolument impossible Ã  ce brave homme. Enfin
+le chef d'orchestre impatientÃ© vint le prier de ne pas conduire du tout;
+il avait trouvÃ© un expÃ©dient: il fit simuler aux choristes un mouvement
+de marche, en Ã©levant tour Ã  tour chaque pied sans changer de place. Ce
+mouvement Ã©tant en rapports exacts avec le rhythme binaire de la mesure
+Ã  6/8 dans un allegretto, les choristes, qui n'Ã©taient plus empÃªchÃ©s par
+leur directeur, exÃ©cutÃ¨rent aussitÃ´t le morceau, comme s'ils eussent
+chantÃ© en marchant, avec autant d'ensemble que de rÃ©gularitÃ©, et sans
+ralentir.
+
+Je reconnais pourtant que plusieurs directeurs des chÅurs ou sous-chefs
+d'orchestre sont quelquefois d'une vÃ©ritable utilitÃ©, et mÃªme
+indispensables pour maintenir l'ensemble des grandes masses
+d'exÃ©cutants. Lorsque ces masses sont forcÃ©ment disposÃ©es de maniÃ¨re Ã 
+ce qu'une partie des musiciens ou des choristes tournent le dos au chef,
+celui-ci a besoin alors d'un certain nombre de sous-batteurs de mesure
+placÃ©s devant ceux des exÃ©cutants qui ne voient pas le premier chef, et
+chargÃ©s de reproduire tous ses mouvements. Pour que cette reproduction
+soit prÃ©cise, les sous-chefs devront se garder de quitter un seul
+instant des yeux le bÃ¢ton du conducteur principal. Si, pour regarder
+leur partition, ils cessent de le voir pendant la durÃ©e de trois mesures
+seulement, aussitÃ´t une discordance se dÃ©clare entre leur mesure et la
+sienne, et tout est perdu.
+
+Dans un festival oÃ¹ douze cents exÃ©cutants se trouvaient rÃ©unis sous ma
+direction Ã  Paris, en 1844, je dus employer cinq directeurs du chÅur
+placÃ©s tout autour de la masse vocale, et deux sous-chefs d'orchestre
+dont l'un dirigeait les instruments Ã  vent et l'autre les instruments Ã 
+percussion. Je leur avais bien recommandÃ© de me regarder sans cesse; ils
+ne l'oubliÃ¨rent pas; et nos huit bÃ¢tons, s'Ã©levant et s'abaissant sans
+la plus lÃ©gÃ¨re diffÃ©rence de rhythme, Ã©tablirent parmi nos douze cents
+musiciens l'ensemble le plus parfait dont on ait jamais eu d'exemple.
+Avec un ou plusieurs mÃ©tronomes Ã©lectriques maintenant, il ne semble
+plus nÃ©cessaire de recourir Ã  ce moyen. On peut en effet diriger sans
+peine de la sorte des choristes qui tournent le dos au chef
+d'orchestre. Des sous-chefs attentifs et intelligents seront pourtant
+toujours en ce cas prÃ©fÃ©rables Ã  une machine.
+
+Ils ont non seulement Ã  battre la mesure, comme la tige mÃ©tronomique,
+mais de plus Ã  parler aux groupes qui les avoisinent pour appeler leur
+attention sur les nuances et, aprÃ¨s les silences, les avertir du moment
+de leur rentrÃ©e.
+
+Dans un local disposÃ© en amphithÃ©Ã¢tre demi-circulaire, le chef
+d'orchestre peut conduire seul un nombre considÃ©rable d'exÃ©cutants, tous
+les yeux pouvant alors sans peine se porter sur lui. NÃ©anmoins l'emploi
+d'un certain nombre de sous-chefs me paraÃ®t prÃ©fÃ©rable Ã  l'unitÃ© de la
+direction individuelle, Ã  cause de la grande distance oÃ¹ se trouvent du
+chef les points extrÃªmes de la masse vocale et instrumentale. Plus le
+chef d'orchestre s'Ã©loigne des musiciens qu'il dirige, plus son action
+sur eux s'affaiblit. Ce qu'il y aurait de mieux serait d'avoir plusieurs
+sous-chefs, avec plusieurs mÃ©tronomes Ã©lectriques, battant devant leurs
+yeux les grands temps de la mesure. C'est ainsi qu'en 1855 je dirigeais
+les concerts du Palais de l'Industrie.
+
+Maintenant, le chef doit-il conduire debout ou assis? Si dans les
+thÃ©Ã¢tres, oÃ¹ l'on exÃ©cute des partitions d'une durÃ©e Ã©norme, il est bien
+difficile de rÃ©sister Ã  la fatigue en restant debout toute la soirÃ©e, il
+n'en est pas moins vrai que le chef d'orchestre assis perd une partie de
+sa puissance et ne peut donner libre carriÃ¨re Ã  sa verve, s'il en a.
+Dirigera-t-il en lisant sur une grande partition ou sur un premier
+violon conducteur, comme cela se pratique dans quelques thÃ©Ã¢tres? Il
+aura sous les yeux une grande partition Ã©videmment. Conduire Ã  l'aide
+d'une partie contenant seulement les principales rentrÃ©es
+instrumentales, la basse et la mÃ©lodie, impose inutilement un travail de
+mÃ©moire au chef qui n'a pas devant lui la partition complÃ¨te, et
+l'expose en outre, s'il s'avise de dire qu'il se trompe Ã  l'un des
+musiciens dont il ne peut contrÃ´ler la partie, Ã  ce que celui-ci lui
+rÃ©ponde: Â«Qu'en savez-vous?Â»
+
+La disposition et le groupement des musiciens et des choristes rentrent
+encore dans les attributions du chef d'orchestre, surtout pour les
+concerts. Il est impossible d'indiquer d'une faÃ§on absolue le meilleur
+groupement du personnel des exÃ©cutants dans un thÃ©Ã¢tre et dans une salle
+de concerts, la forme et l'arrangement de l'intÃ©rieur des salles
+influant nÃ©cessairement sur les dÃ©terminations Ã  prendre ou pareil cas.
+Ajoutons qu'elles dÃ©pendent en outre du nombre des exÃ©cutants qu'il
+s'agit de grouper, et dans quelques occasions, du mode de composition
+adoptÃ© par l'auteur de l'Åuvre qu'on exÃ©cute. En gÃ©nÃ©ral, pour les
+concerts, un amphithÃ©Ã¢tre de huit ou au moins de cinq gradins est
+indispensable.
+
+La forme demi-circulaire est la meilleure pour cet amphithÃ©Ã¢tre. S'il
+est assez large pour contenir tout l'orchestre, la masse entiÃ¨re des
+instrumentistes sera disposÃ©e sur les gradins; les premiers violons sur
+le devant Ã  droite, les seconds violons sur le devant Ã  gauche, les
+altos dans le milieu entre les deux groupes de violons, les flÃ»tes,
+hautbois, clarinettes, cors et bassons derriÃ¨re les premiers violons, un
+double rang de violoncelles et de contre-basses derriÃ¨re les seconds
+violons; les trompettes, cornets, trombones et tubas derriÃ¨re les altos,
+le reste des violoncelles et des contre-basses derriÃ¨re les instruments
+Ã  vent en bois, les harpes sur l'avant-scÃ¨ne tout prÃ¨s du chef
+d'orchestre, les timbales et les autres instruments Ã  percussion
+derriÃ¨re les instruments de cuivre; le chef d'orchestre tournant le dos
+au public, tout en bas de l'amphithÃ©Ã¢tre et prÃ¨s des premiers pupitres
+des premiers et des seconds violons.
+
+Il devra y avoir un plancher horizontal, une scÃ¨ne plus ou moins large,
+s'Ã©tendant au-devant du premier gradin de l'amphithÃ©Ã¢tre; sur ce
+plancher les choristes seront placÃ©s en Ã©ventail, tournÃ©s de trois
+quarts vers le public et pouvant tous aisÃ©ment voir les mouvements du
+chef d'orchestre. Le groupement des choristes par catÃ©gories de voix
+sera diffÃ©rent selon que l'auteur a Ã©crit Ã  trois, Ã  quatre ou Ã  six
+parties. En tous cas les femmes, soprani et contralti, seront devant,
+assises; les tÃ©nors debout derriÃ¨re les contralti, les basses debout
+derriÃ¨re les soprani.
+
+Les chanteurs et virtuoses solistes occuperont le centre et la partie
+antÃ©rieure de l'avant-scÃ¨ne, et se placeront toujours de maniÃ¨re Ã 
+pouvoir, en tournant un peu la tÃªte, voir le bÃ¢ton conducteur.
+
+Au reste, je le rÃ©pÃ¨te, ces indications ne sont qu'approximatives; elles
+peuvent Ãªtre par beaucoup de raisons modifiÃ©es de diverses maniÃ¨res.
+
+Au Conservatoire de Paris, oÃ¹ l'amphithÃ©Ã¢tre ne se compose que de quatre
+ou cinq gradins non circulaires, et ne peut en consÃ©quence contenir tout
+l'orchestre, les violons et les altos sont sur la scÃ¨ne, les basses et
+les instruments Ã  vent occupent seuls les gradins; le chÅur est assis
+sur l'avant-scÃ¨ne, regardant en face le public, et le groupe entier des
+femmes soprani et contralti, tournant directement le dos au chef
+d'orchestre, est dans l'impossibilitÃ© de jamais voir ses mouvements. Un
+tel arrangement est trÃ¨s incommode pour cette partie du chÅur.
+
+Il est partout de la plus haute importance que les choristes placÃ©s sur
+l'avant-scÃ¨ne occupent un plan un peu infÃ©rieur Ã  celui des violons,
+sans quoi ils en affaibliront Ã©normÃ©ment la sonoritÃ©. Par la mÃªme
+raison, si, au devant de l'orchestre, il n'y a pas d'autres gradins pour
+le chÅur, il faut absolument que les femmes soient assises et que les
+hommes restent debout, afin que les voix des tÃ©nors et des basses,
+parlant d'un point plus Ã©levÃ© que celles des soprani et contralti,
+puissent s'Ã©mettre librement et ne soient ni Ã©touffÃ©es ni interceptÃ©es.
+
+Quand la prÃ©sence des choristes devant l'orchestre n'est pas nÃ©cessaire,
+le chef aura soin de les faire sortir, cette multitude de corps humains
+nuisant Ã  la sonoritÃ© des instruments. Une symphonie exÃ©cutÃ©e par un
+orchestre ainsi plus ou moins Ã©touffÃ© a beaucoup Ã  souffrir.
+
+Il est encore des prÃ©cautions relatives Ã  l'orchestre seulement, que le
+chef peut prendre pour Ã©viter certains dÃ©fauts dans l'exÃ©cution.
+
+Les instruments Ã  percussion placÃ©s, ainsi que je l'ai indiquÃ©, sur l'un
+des derniers gradins de l'amphithÃ©Ã¢tre, ont une tendance Ã  ralentir le
+rhythme, Ã  retarder. Une sÃ©rie de coups de grosse caisse frappÃ©s Ã 
+intervalles rÃ©guliers dans un mouvement vif, comme la suivante:
+
+[Illustration: notation musicale, _Allegro._]
+
+amÃ¨ne quelquefois la destruction complÃ¨te d'une belle progression
+rhythmique, en brisant l'Ã©lan du reste de l'orchestre et dÃ©truisant
+l'ensemble. Presque toujours le joueur de grosse caisse, faute de
+regarder le premier temps marquÃ© par le chef, reste un peu en retard
+pour frapper son premier coup. Ce retard, multipliÃ© par le nombre des
+coups qui succÃ¨dent au premier, amÃ¨ne bien vite, cela se conÃ§oit, une
+discordance rhythmique du plus fÃ¢cheux effet.
+
+Le chef, dont tous les efforts sont vains en pareils cas pour rÃ©tablir
+l'ensemble, n'a qu'une chose Ã  faire, c'est d'exiger que le joueur de
+grosse caisse compte d'avance le nombre de coups Ã  donner dans le
+passage en question, et que, le sachant, il ne regarde plus sa partie et
+tienne constamment les yeux fixÃ©s sur le bÃ¢ton conducteur; aussitÃ´t il
+pourra suivre le mouvement sans le moindre dÃ©faut de prÃ©cision. Un autre
+retard, produit par une cause diffÃ©rente, se fait souvent remarquer dans
+les parties de trompettes; c'est quand elles contiennent, dans un
+mouvement vif, des passages tels que celui-ci:
+
+[Illustration: notation musicale, _Allegro._]
+
+Le joueur de trompette, au lieu de respirer _avant_ la premiÃ¨re de ces
+trois mesures, respire au commencement, pendant _le demi-soupir_ A et,
+ne tenant pas compte du petit temps qu'il a pris pour respirer, donne
+nÃ©anmoins toute sa valeur au demi-soupir qui se trouve ainsi surajoutÃ© Ã 
+la valeur de la premiÃ¨re mesure. Il en rÃ©sulte l'effet suivant:
+
+[Illustration: notation musicale, _Allegro._]
+
+Effet d'autant plus mauvais que l'accent final, frappÃ© au commencement
+de la troisiÃ¨me mesure par le reste de l'orchestre, arrive un tiers de
+temps trop tard dans les trompettes et dÃ©truit l'ensemble de l'attaque
+du dernier accord.
+
+Pour obvier Ã  cela, le chef doit d'abord avertir Ã  l'avance les
+exÃ©cutants de cette inexactitude oÃ¹ ils sont presque tous entraÃ®nÃ©s Ã 
+tomber sans s'en apercevoir, en conduisant, leur jeter un coup d'Åil au
+moment dÃ©cisif, et _anticiper un peu_ en frappant le premier temps de la
+mesure dans laquelle ils entrent. On ne saurait croire combien il est
+difficile d'empÃªcher les joueurs de trompettes de doubler la valeur d'un
+demi-soupir ainsi placÃ©.
+
+Quand un long _accelerando a poco a poco_ est indiquÃ© par le compositeur
+pour arriver de l'Allegro moderato Ã  un Presto, la plupart des chefs
+d'orchestre pressent le mouvement _par saccades_, au lieu de l'animer
+toujours Ã©galement par une progression insensible. C'est Ã  Ã©viter avec
+soin. La mÃªme remarque est applicable Ã  la proposition inverse. Il est
+mÃªme plus difficile encore d'Ã©largir doucement, sans secousses, un
+mouvement vif pour le transformer peu Ã  peu en un mouvement lent.
+
+Souvent voulant faire preuve de zÃ¨le, ou par dÃ©faut de dÃ©licatesse dans
+son sentiment musical, un chef exige de ses musiciens _l'exagÃ©ration des
+nuances_. Il ne comprend ni le caractÃ¨re ni le style du morceau. Les
+nuances deviennent alors des taches, les accents des cris; les
+intentions du pauvre compositeur sont totalement dÃ©figurÃ©es et
+perverties, et celles du chef d'orchestre, si honnÃªtes qu'on les
+suppose, n'en sont pas moins malencontreuses comme les tendresses de
+l'Ã¢ne de la fable, qui assomme son maÃ®tre en le caressant.
+
+Signalons Ã  prÃ©sent plusieurs dÃ©plorables abus constatÃ©s dans presque
+tous les orchestres de l'Europe; abus qui dÃ©sespÃ¨rent les compositeurs
+et qu'il est du devoir des chefs de faire disparaÃ®tre le plus tÃ´t
+possible.
+
+Les artistes jouant des instruments Ã  archet veulent rarement se donner
+la peine de faire le tremolo; ils substituent Ã  cette effet si
+caractÃ©risÃ© une plate rÃ©pÃ©tition de la note, de moitiÃ©, souvent mÃªme des
+trois quarts plus lente que celle d'oÃ¹ rÃ©sulte le tremolo; au lieu de
+quadruples croches, ils en font de triples ou de doubles; au lieu de
+produire soixante-quatre notes dans une mesure Ã  quatre temps (Adagio)
+ils n'en produisent que trente-deux ou mÃªme seize. Le frÃ©missement du
+bras nÃ©cessaire pour obtenir le vrai tremolo exige, sans doute, un trop
+grand effort! Cette paresse est intolÃ©rable. Bon nombre de
+contrebassistes se permettent, par paresse encore, ou par crainte de ne
+pouvoir vaincre certaines difficultÃ©s, de simplifier leur partie. Cette
+Ã©cole de simplificateurs, en honneur il y a quarante ans, ne saurait
+subsister davantage. Dans les Åuvres anciennes les parties de
+contrebasse sont fort simples, il n'y a donc aucune raison de les
+appauvrir encore; celles des partitions modernes sont un peu plus
+difficiles, il est vrai, mais, Ã  de trÃ¨s rares exceptions prÃ¨s, on n'y
+trouve rien d'inexÃ©cutable; les compositeurs maÃ®tres de leur art les
+Ã©crivent avec soin et telles qu'elles doivent Ãªtre exÃ©cutÃ©es. Si c'est
+par paresse que les simplificateurs les dÃ©naturent, le chef d'orchestre
+Ã©nergique est armÃ© de l'autoritÃ© nÃ©cessaire pour les obliger Ã  faire
+leur devoir. Si c'est par incapacitÃ©, qu'il les congÃ©die. Il a tout
+intÃ©rÃªt Ã  se dÃ©barrasser d'instrumentistes qui ne savent pas jouer de
+leur instrument.
+
+Les joueurs de FlÃ»te, accoutumÃ©s Ã  dominer les autres instruments Ã 
+vent, et n'admettant pas que leur partie puisse Ãªtre Ã©crite au-dessous
+de celles des Clarinettes ou des Hautbois, transposent frÃ©quemment des
+passages entiers Ã  l'octave supÃ©rieure. Le chef, s'il ne lit pas bien la
+partition, s'il ne connaÃ®t pas parfaitement l'ouvrage qu'il dirige, ou
+si son oreille manque de finesse, ne s'apercevra pas de cette Ã©trange
+libertÃ© prise par les FlÃ»tistes. Il s'en prÃ©sente maint exemple
+cependant, et l'on doit veiller Ã  ce que ces exemples disparaissent tout
+Ã  fait.
+
+Il arrive partout (je ne dis pas dans quelques orchestres seulement), il
+arrive partout, je le rÃ©pÃ¨te, que les violonistes chargÃ©s, on le sait,
+d'exÃ©cuter Ã  dix, Ã  quinze, Ã  vingt, la mÃªme partie Ã  l'unisson, ne
+comptent pas leur mesure de silence, par paresse toujours, et se
+reposent de ce soin les uns sur les autres. D'oÃ¹ il suit qu'il en rentre
+Ã  peine la moitiÃ© au moment opportun, pendant que les autres tiennent
+encore leur instrument sous le bras gauche et regardent en l'air; la
+rentrÃ©e est alors affaiblie, sinon totalement manquÃ©e. J'appelle sur
+cette insupportable habitude l'attention et la sÃ©vÃ©ritÃ© des chefs
+d'orchestre. Elle est tellement enracinÃ©e nÃ©anmoins, qu'ils ne viendront
+Ã  bout de l'extirper qu'en rendant un grand nombre de violonistes
+solidaires de la faute d'un seul; en mettant Ã  l'amende, par exemple,
+ceux de tout un rang, si l'un d'entre eux a manquÃ© son entrÃ©e. Quand
+cette amende ne serait que de trois francs, comme elle peut Ãªtre
+infligÃ©e cinq ou six fois aux mÃªmes individus dans une sÃ©ance, je
+rÃ©ponds que chacun des violonistes comptera ses pauses et veillera Ã  ce
+que son voisin en fasse autant.
+
+Un orchestre dont les instruments ne sont pas d'accord isolÃ©ment et
+entre eux est une monstruositÃ©; le chef mettra donc le plus grand soin Ã 
+ce que les musiciens s'accordent. Mais cette opÃ©ration ne doit pas se
+faire devant le public. De plus, toute rumeur instrumentale et tout
+prÃ©lude pendant les entr'actes, constituent une offense rÃ©elle faite aux
+auditeurs civilisÃ©s. On reconnaÃ®t la mauvaise Ã©ducation d'un orchestre
+et sa mÃ©diocritÃ© musicale, aux bruits importuns qu'il fait entendre
+pendant les moments de repos d'un opÃ©ra ou d'un concert.
+
+Il est encore impÃ©rieusement imposÃ© au chef d'orchestre de ne pas
+laisser les Clarinettistes se servir toujours du mÃªme instrument (de la
+clarinette en Si [bÃ©mol) sans Ã©gard pour les indications de l'auteur;
+comme si les diverses clarinettes, celles en RÃ© et en La surtout,
+n'avaient pas un caractÃ¨re spÃ©cial dont le compositeur instruit connaÃ®t
+tout le prix, et comme si la Clarinette en La n'avait pas d'ailleurs un
+demi-ton au grave de plus que la Clarinette en Si [bÃ©mol], l'Ut diÃ¨se
+d'un excellent effet:
+
+[Illustration: notation musicale]
+
+produit par le Mi:
+
+[Illustration: notation musicale]
+
+lequel Mi ne donne que le RÃ©:
+
+[Illustration: notation musicale]
+
+sur la Clarinette en Si [bÃ©mol].
+
+Une habitude aussi vicieuse et plus pernicieuse encore s'est introduite
+Ã  la suite des cors Ã  cylindres et Ã  pistons dans beaucoup d'orchestres:
+celle de jouer _en sons ouverts_, au moyen du mÃ©canisme nouveau adaptÃ© Ã 
+l'instrument, les notes destinÃ©es par le compositeur Ã  Ãªtre produites en
+_sons bouchÃ©s_ par l'emploi de la main droite dans le pavillon. En
+outre les Cornistes maintenant, Ã  cause de la facilitÃ© que les Pistons
+ou Cylindres leur donnent de mettre leur instrument dans divers tons, ne
+se servent que du Cor en Fa, quel que soit le ton indiquÃ© par l'auteur.
+Cet usage amÃ¨ne une foule d'inconvÃ©nients dont le chef d'orchestre doit
+mettre tous ses soins Ã  prÃ©server les Åuvres des compositeurs _qui
+savent Ã©crire_; pour celles des autres, il faut l'avouer, le malheur est
+beaucoup moins grand.
+
+Il doit s'opposer encore Ã  l'usage Ã©conomique adoptÃ© dans certains
+thÃ©Ã¢tres dits Lyriques, de faire jouer les Cymbales et la grosse Caisse
+Ã  la fois par le mÃªme musicien. Le son des Cymbales attachÃ©es sur la
+grosse Caisse, comme il faut qu'elles le soient pour rendre cette
+Ã©conomie possible, est un bruit ignoble, bon seulement pour les
+orchestres des bals de barriÃ¨re. Cet usage, en outre, entretient les
+compositeurs mÃ©diocres dans l'habitude de ne jamais employer isolÃ©ment
+l'un de ces deux instruments et de considÃ©rer leur emploi comme
+uniquement propre Ã  l'accentuation Ã©nergique des temps forts de la
+mesure. IdÃ©e fÃ©conde en bruyantes platitudes et qui nous a valu les
+ridicules excÃ¨s sous lesquels, si l'on n'y met un terme, la musique
+dramatique succombera tÃ´t ou tard.
+
+Je finis en exprimant le regret de voir encore partout les Ã©tudes du
+chÅur et de l'orchestre si mal organisÃ©es. Partout, pour les grandes
+compositions chorales et instrumentales, le systÃ¨me des rÃ©pÃ©titions en
+masse est conservÃ©. On fait Ã©tudier Ã  la fois, d'une part tous les
+Choristes, de l'autre tous les instrumentistes.
+
+De dÃ©plorables erreurs, d'innombrables bÃ©vues, sont alors commises, dans
+les parties intermÃ©diaires surtout, erreurs dont le maÃ®tre de chant et
+le chef d'orchestre ne s'aperÃ§oivent pas. Une fois Ã©tablies, ces erreurs
+dÃ©gÃ©nÃ¨rent en habitudes, s'introduisent et persistent dans l'exÃ©cution.
+
+Les malheureux Choristes, d'ailleurs, pendant leurs Ã©tudes telles
+quelles, sont bien les plus mal traitÃ©s des exÃ©cutants. Au lieu de leur
+donner _un bon conducteur_ sachant les mouvements, instruit dans l'art
+du chant, pour battre la mesure et faire les observations critiques--_un
+bon pianiste_ jouant une _partition de piano bien faite_ sur un _bon
+piano_--et _un violoniste_ pour jouer Ã  l'unisson ou Ã  l'octave des voix
+chaque partie Ã©tudiÃ©e isolÃ©ment; au lieu de ces trois _artistes
+indispensables_, on les confie, dans les deux tiers des thÃ©Ã¢tres
+lyriques de l'Europe, Ã  un seul homme qui n'a pas plus d'idÃ©e de l'art
+de conduire que de celui de chanter, peu musicien en gÃ©nÃ©ral, choisi
+parmi les plus mauvais pianistes qu'on a pu trouver, ou plutÃ´t qui ne
+joue pas du piano du tout, dÃ©plorable invalide qui, assis devant un
+instrument dÃ©labrÃ©, discordant, tÃ¢che de dÃ©chiffrer une partition
+disloquÃ©e qu'il ne connaÃ®t pas, frappe des accords faux, majeurs quand
+ils sont mineurs et rÃ©ciproquement, et, sous prÃ©texte de conduire et
+d'accompagner Ã  lui tout seul, emploie sa main droite pour que les
+Choristes se trompent de rhythme et sa main gauche pour qu'ils se
+trompent d'intonations.
+
+On se croirait au moyen Ã¢ge, quand on est tÃ©moin de cette Ã©conomique
+barbarie.....
+
+Une interprÃ©tation fidÃ¨le, colorÃ©e, inspirÃ©e, d'une Åuvre moderne,
+confiÃ©e mÃªme Ã  des artistes d'un ordre Ã©levÃ©, ne se peut obtenir, je le
+crois fermement, que par des rÃ©pÃ©titions partielles. Il faut faire
+Ã©tudier chaque partie d'un chÅur isolÃ©ment, jusqu'Ã  ce qu'elle soit
+bien sue, avant de l'admettre dans l'ensemble. La mÃªme marche est Ã 
+suivre pour l'orchestre d'une symphonie un peu compliquÃ©e. Les violons
+doivent Ãªtre exercÃ©s seuls d'abord; d'autre part les Altos et les
+Basses, puis les instruments Ã  vent en bois (avec un petit groupe
+d'instruments Ã  cordes pour remplir les silences et accoutumer les
+instruments Ã  vent aux rentrÃ©es), les instruments en cuivre Ã©galement;
+trÃ¨s souvent mÃªme il est nÃ©cessaire d'exercer seuls les instruments Ã 
+percussion, et enfin les Harpes, s'il y en a une masse. Les Ã©tudes
+d'ensemble sont ensuite bien plus fructueuses et plus rapides, et l'on
+peut se flatter d'arriver ainsi Ã  une fidÃ©litÃ© d'interprÃ©tation dont la
+raretÃ©, hÃ©las! n'est que trop bien prouvÃ©e.
+
+Les exÃ©cutions obtenues par l'ancien procÃ©dÃ© d'Ã©tudes ne sont que des _Ã 
+peu prÃ¨s_, sous lesquels tant et tant de chefs-d'Åuvre succombent. Le
+conducteur organisateur, aprÃ¨s l'Ã©gorgement d'un maÃ®tre, n'en dÃ©pose pas
+moins son bÃ¢ton avec un sourire satisfait; et s'il lui reste quelques
+doutes sur la faÃ§on dont il a rempli sa tÃ¢che, comme, en derniÃ¨re
+analyse, personne ne s'avise d'en contrÃ´ler l'accomplissement, il
+murmure Ã  part lui: _Bah! malheur aux vaincus!_
+
+H.  BERLIOZ.
+
+Paris.--Imp. Georges Petit, 12, rue Godot-de-Mauroi.--12016-02.
+
+
+
+
+
+End of the Project Gutenberg EBook of Le chef d'orchestre, by Hector Berlioz
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LE CHEF D'ORCHESTRE ***
+
+***** This file should be named 36978-8.txt or 36978-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/6/9/7/36978/
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images available at the BibliothÃ¨que nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

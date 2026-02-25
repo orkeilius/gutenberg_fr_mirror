@@ -1,3 +1,2944 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebfcc57a0c3ff85a40016f334f22f6e6281d40c09df25116a54cb2a0bd5b4f14
-size 161046
+ï»¿The Project Gutenberg EBook of LÃ©gendes rustiques, by George Sand
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: LÃ©gendes rustiques
+
+Author: George Sand
+
+Release Date: March 4, 2006 [EBook #17911]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LÃGENDES RUSTIQUES ***
+
+
+
+
+Produced by Carlo Traverso, Eric Vautier and the Online
+Distributed Proofreading Team at DP-EU. This file was
+produced from images generously made available by the
+BibliothÃ¨que nationale de France (BnF/Gallica)
+
+
+
+
+
+George SAND
+
+
+LÃGENDES RUSTIQUES
+
+
+A Maurice SAND
+
+
+_Mon cher fils,
+
+Tu as recueilli diverses traditions, chansons et lÃ©gendes, que tu as
+bien fait, selon moi, d'illustrer; car ces choses se perdent Ã  mesure
+que le paysan s'Ã©claire, et il est bon de sauver de l'oubli qui marche
+vite, quelques versions de ce grand poÃ¨me du _merveilleux_, dont
+l'humanitÃ© s'est nourrie si longtemps et dont les gens de campagne sont
+aujourd'hui, Ã  leur insu, les derniers bardes.
+
+Je veux donc t'aider Ã  rassembler quelques fragments Ã©pars de ces
+lÃ©gendes rustiques, dont le fond se retrouve Ã  peu prÃ¨s dans toute la
+France, mais auxquelles chaque localitÃ© a donnÃ© sa couleur particuliÃ¨re
+et le cachet de sa fantaisie._
+
+George SAND.
+
+
+
+
+Avant-propos
+
+
+_Il faudrait trouver un nom Ã  ce poÃ¨me sans nom de la _fabulositÃ©_ ou
+_merveillositÃ©_ universelle, dont les origines remontent Ã  l'apparition
+de l'homme sur la terre et dont les versions, multipliÃ©es Ã  l'infini,
+sont l'expression de l'imagination poÃ©tique de tous les temps et de tous
+les peuples.
+
+Le chapitre des lÃ©gendes rustiques sur les esprits et les visions de la
+nuit serait, Ã  lui seul, un ouvrage immense. En quel coin de la terre
+pourrait-on se rÃ©fugier pour trouver l'imagination populaire (qui n'est
+jamais qu'une forme effacÃ©e ou altÃ©rÃ©e de quelque souvenir collectif) Ã 
+l'abri de ces noires apparitions d'esprits malfaisants qui chassent
+devant eux les larves Ã©plorÃ©es d'innombrables victimes? LÃ  oÃ¹ rÃ¨gne la
+paix, la guerre, la peste ou le dÃ©sespoir ont passÃ©, terribles, Ã  une
+Ã©poque quelconque de l'histoire des hommes. Le blÃ© qui pousse a le pied
+dans la chair humaine dont la poussiÃ¨re a engraissÃ© nos sillons. Tout
+est ruine, sang et dÃ©bris sous nos pas, et le monde fantastique qui
+enflamme ou stupÃ©fie la cervelle du paysan est une histoire inÃ©dite des
+temps passÃ©s. Quand on veut remonter Ã  la cause premiÃ¨re des formes de
+sa fiction, on la trouve dans quelque rÃ©cit tronquÃ© et dÃ©figurÃ©, oÃ¹
+rarement on peut dÃ©couvrir un fait avÃ©rÃ© et consacrÃ© par l'histoire
+officielle. Le paysan est donc, si l'on peut ainsi dire, le seul
+historien qui nous reste des temps antÃ©-historiques. Honneur et profit
+intellectuel Ã  qui se consacrerait Ã  la recherche de ces traditions
+merveilleuses de chaque hameau qui, rassemblÃ©es ou groupÃ©es, comparÃ©es
+entre elles et minutieusement dissÃ©quÃ©es, jetteraient peut-Ãªtre de
+grandes lueurs sur la nuit profonde des Ã¢ges primitifs.
+
+Mais ceci serait l'ouvrage et le voyage de toute une vie, rien que pour
+explorer la France. Le paysan se souvient encore des rÃ©cits de son
+aÃ¯eule, mais le faire parler devient chaque jour plus difficile. Il sait
+que celui qui l'interroge ne croit plus, et il commence Ã  sentir une
+sorte de fiertÃ©, Ã  coup sÃ»r estimable, qui se refuse Ã  servir de jouet Ã 
+la curiositÃ©. D'ailleurs, on ne saurait trop avertir les faiseurs de
+recherches que les versions d'une mÃªme lÃ©gende sont innombrables, et que
+chaque clocher, chaque famille, chaque chaumiÃ¨re a la sienne. C'est le
+propre de la littÃ©rature orale que cette diversitÃ©. La poÃ©sie rustique,
+comme la musique rustique, compte autant d'arrangeurs que d'individus.
+
+J'aime trop le merveilleux pour Ãªtre autre chose qu'un ignorant de
+profession. D'ailleurs, je ne dois pas oublier que j'Ã©cris le texte d'un
+album consacrÃ© Ã  un choix de lÃ©gendes recueillies sur place, et je
+m'efforcerai de rassembler, parmi mes souvenirs du jeune Ã¢ge,
+quelques-uns des rÃ©cits qui complÃ¨tent la dÃ©finition de certains types
+fantastiques communs Ã  toute la France. C'est dans un coin du Berry, oÃ¹
+j'ai passÃ© ma vie, que je serai forcÃ© de localiser mes lÃ©gendes, puisque
+c'est lÃ , et non ailleurs, que je les ai trouvÃ©es. Elles n'ont pas la
+grande poÃ©sie de chants bretons, oÃ¹ le gÃ©nie et la foi de la vieille
+Gaule ont laissÃ© des empreintes plus nettes que partout ailleurs. Chez
+nous, ces rÃ©miniscences sont plus vagues plus voilÃ©es. Le merveilleux de
+nos provinces centrales a plus d'analogie avec celui de la Normandie,
+dont une femme Ã©rudite, patiente et consciencieuse a tracÃ© un tableau
+complet[1].
+
+Cependant l'esprit gaulois a lÃ©guÃ© Ã  toutes nos traditions rustiques de
+grands traits et une couleur qui se rencontrent dans toute la France, un
+mÃ©lange de terreur et d'ironie, une bizarrerie d'invention
+extraordinaire jointe Ã  un symbolisme naÃ¯f qui atteste le besoin du vrai
+moral au sein de la fantaisie dÃ©lirante.
+
+Le Berry, couvert d'antiques dÃ©bris des Ã¢ges mystÃ©rieux, de tombelles,
+de dolmens, de menhirs, et de _mardelles[2]_, semble avoir conservÃ© dans
+ses lÃ©gendes, des souvenirs antÃ©rieurs au culte des Druides: peut-Ãªtre
+celui des Dieux Kabyres que nos antiquaires placent avant l'apparition
+des Kimris sur notre sol. Les sacrifices de victimes humaines semblent
+planer, comme une horrible rÃ©miniscence, dans certaines visions. Les
+cadavres ambulants, les fantÃ´mes mutilÃ©s, les hommes sans tÃªte, les bras
+ou les jambes sans corps, peuplent nos landes et nos vieux chemins
+abandonnÃ©s.
+
+Puis viennent les superstitions plus arrangÃ©es du moyen-Ã¢ge, encore
+hideuses, mais tournant volontiers au burlesque; les animaux impossibles
+dont les grimaÃ§antes figures se tordent dans la sculpture romane ou
+gothique des Ã©glises, ont continuÃ© d'errer vivantes et hurlantes autour
+des cimetiÃ¨res ou le long des ruines. Les Ã¢mes des morts frappent Ã  la
+porte des maisons. Le sabbat des vices personnifiÃ©s, des diablotins
+Ã©tranges, passe, en sifflant, dans la nuÃ©e d'orage. Tout le passÃ© se
+ranime, tous les Ãªtres que la mort a dissous, les animaux mÃªmes,
+retrouvent la voix, le mouvement et l'apparence; les meubles, faÃ§onnÃ©s
+par l'homme et dÃ©truits violemment, se redressent et grincent sur leurs
+pieds vermoulus. Les pierres mÃªmes se lÃ¨vent et parlent au passant
+effrayÃ©; les oiseaux de nuit lui chantent, d'une voix affreuse, l'heure
+de la mort qui toujours fauche et toujours passe, mais qui ne semble
+jamais dÃ©finitive sur la face de la terre, grÃ¢ce Ã  cette croyance en
+vertu de laquelle tout Ãªtre et toute chose protestent contre le nÃ©ant
+et, rÃ©fugiÃ©s dans la rÃ©gion du merveilleux, illuminent la nuit de
+sinistres clartÃ©s ou peuplent la solitude de figures flottantes et de
+paroles mystÃ©rieuses._
+
+
+George SAND.
+
+
+Quiconque voudra faire un travail sÃ©rieux et savant sur le centre de la
+Gaule, devra consulter les excellents travaux de M. Raynal, l'historien
+du Berry, le texte des _Esquisses pittoresques_ de MM. de La Tremblays
+et de La Villegille, les recherches de M. Laisnel de La Salle sur
+quelques locutions curieuses, etc.
+
+G.S.
+
+
+
+
+Les Pierres-Sottes ou Pierres-Caillasses
+
+Â«Quand nous vÃ®nmes Ã  passer au long des pierres, dit Germain, il Ã©tait
+environ la minuit. Tout d'un coup, voilÃ  qu'elles nous regardent _avec
+des yeux_. Jamais, de jour, nous n'avions vu Ã§a, et pourtant, nous
+avions passÃ© lÃ  plus de cent fois. Nous en avons eu la fiÃ¨vre de peur,
+plus de trois mois encore aprÃ¨s moisson.Â»
+
+Maurice SAND.
+
+
+Au beau milieu des plaines calcaires de la vallÃ©e Noire, on voit se
+creuser brusquement une zone jonchÃ©e de magnifiques blocs de granit.
+Sont-ils de ceux que l'on doit appeler _erratiques_, Ã  cause de leur
+apparition fortuite dans des rÃ©gions oÃ¹ ils n'ont pu Ãªtre amenÃ©s que par
+les eaux diluviennes des Ã¢ges primitifs? Se sont-ils, au contraire,
+formÃ©s dans les terrains oÃ¹ on les trouve accumulÃ©s? Cette derniÃ¨re
+hypothÃ¨se semble Ãªtre dÃ©mentie par leur forme; ils sont presque tous
+arrondis, du moins sur une de leurs faces, et ils prÃ©sentent l'aspect de
+gigantesques galets roulÃ©s par les flots.
+
+Il n'y a pourtant lÃ  maintenant que de charmants petits ruisseaux,
+pressÃ©s et tordus en mÃ©andres infinis par la masse de ces blocs; ces
+riantes et fuyardes petites naÃ¯ades murmurent, Ã  demi-voix et par
+bizarres intervalles, des phrases mystÃ©rieuses dans une langue inconnue.
+Ailleurs, les eaux rugissent, chantent ou gazouillent. LÃ  elles parlent,
+mais si discrÃ¨tement que l'oreille attentive des sylvains peut seule les
+comprendre. Dans les creux oÃ¹ leurs minces filets s'amassent, il y a
+quelquefois des silences; puis quand la petite cave est remplie, le trop
+plein s'Ã©lance et rÃ©vÃ¨le, en quelques paroles prÃ©cipitÃ©es, je ne sais
+quel secret que les fleurs et les herbes, agitÃ©es par l'air qu'elles
+refoulent, semblent saisir et saluer au passage.
+
+Plus loin, ces eaux s'engouffrent et se perdent sous les blocs entassÃ©s:
+
+Et lÃ , profonde,
+Murmure une onde
+Qu'on en voit pas.
+
+Sur ces roches humides, croissent les plantes Ã©galement Ã©trangÃ¨res au
+sol de la contrÃ©e. La mÃ©nyanthe, cette blanche petite hyacinthe frisÃ©e
+et dentelÃ©e, dont la feuille est celle du trÃ¨fle; la digitale pourprÃ©e,
+tachetÃ©e de noir et de blanc, comme les granits oÃ¹ elle se plaÃ®t; la
+_rosÃ©e du soleil_ (rosea solis); de charmants saxifrages, et une variÃ©tÃ©
+de lierre Ã  petites feuilles, qui trace sur les blocs gris, de
+gracieuses arabesques oÃ¹ l'on croit lire des chiffres mystÃ©rieux.
+
+Autour de ce sanctuaire croissent des arbres magnifiques, des hÃªtres
+Ã©lancÃ©s et des chÃ¢taigniers monstrueux. C'est dans un de ces bois
+ondulÃ©s et semÃ©s de roches libres, comme celles de la forÃªt de
+Fontainebleau, que je trouvai, une annÃ©e, la vÃ©gÃ©tation splendide et
+l'ombre Ã©paisse au point que le soleil, en plein midi, tamisÃ© par le
+feuillage, ne faisait plus pÃ©nÃ©trer sur les tiges des arbres et sur les
+terrains moussus que des tons froids semblables Ã  la lumiÃ¨re verdÃ¢tre de
+la lune.
+
+Il n'est pas un coin de la France oÃ¹ les grosses pierres ne frappent
+vivement l'imagination du paysan, et quand de certaines lÃ©gendes s'y
+attachent, vous pouvez Ãªtre certain, quelle que soit l'hÃ©sitation des
+antiquaires, que le lieu a Ã©tÃ© consacrÃ© par le culte de l'ancienne
+Gaule.
+
+Il y a aussi des noms qui, en dÃ©pit de la corruption amenÃ©e par le
+temps, sont assez significatifs pour dÃ©truire les doutes. Dans une
+certaine localitÃ© de la Brenne on trouve le nom trÃ¨s bien conservÃ© des
+_Druiders_. Ailleurs, on trouve les _durders_, Ã  Crevant les
+_Dorderins_. C'est un semis de ces Ã©normes galets granitiques au sommet
+d'un monticule conique. Le plus Ã©levÃ© est un champignon dressÃ© sur de
+petits supports. Ce pourrait Ãªtre un jeu de la nature, mais ce ne serait
+pas une raison pour que cette pierre n'eÃ»t pas Ã©tÃ© consacrÃ©e par les
+sacrifices. D'ailleurs elle s'appelle le _grand Dorderin_. C'est comme
+si l'on disait, le grand autel des Druides.
+
+Un peu plus loin, sur le revers d'un ravin inculte et envahi par les
+eaux, s'Ã©lÃ¨vent les _parelles_. Cela signifie-t-il _pareilles,
+jumelles_, ou le mot vient-il de _patres_, comme celui de _marses_ ou
+_martes_ vient de _matres_ selon nos antiquaires[3]? Ces _parelles_ ou
+_patrelles_ sont deux masses Ã  peu prÃ¨s identiques de volume et de
+hauteur, qui se dressent, comme deux tours, au bord d'une terrasse
+naturelle d'un assez vaste dÃ©veloppement. Leur base repose sur des
+assises plus petites. J'y ai trouvÃ© une scorie de mÃ¢che-fer, qui m'a
+donnÃ© beaucoup Ã  penser. Ce lieu est loin de toute habitation et n'a
+jamais pu en voir asseoir aucune sur ses aspÃ©ritÃ©s aux fonds inondÃ©s.
+Qu'est-ce qu'une scorie de forge venait faire sous les herbes, dans ce
+dÃ©sert oÃ¹ ne vont pas mÃªme les troupeaux? Il y avait donc eu lÃ  un foyer
+intense, peut-Ãªtre une habitude de sacrifices?
+
+J'ai parlÃ© de ce lieu parce qu'il est Ã  peu prÃ¨s inconnu. Nos histoires
+du Berry n'en font mention que pour le nommer et le ranger
+hypothÃ©tiquement et d'une maniÃ¨re vague parmi les monuments celtiques.
+Il est cependant d'un grand intÃ©rÃªt aux points de vue minÃ©ralogique,
+historique, pittoresque et botanique.
+
+A une demi-lieue de lÃ  on voyait encore, il y a quelques annÃ©es, le
+_trou aux Fades_ (la _grotte aux FÃ©es_), que le propriÃ©taire d'un champ
+voisin a jugÃ© Ã  propos d'ensevelir sous les terres, pour se prÃ©server
+apparemment des malignes influences de ces _martes_. C'Ã©tait une
+habitation visiblement taillÃ©e dans le roc et composÃ©e de deux chambres,
+sÃ©parÃ©es par une sorte de cloison Ã  jour. Les paysans croyaient voir,
+dans un enfoncement arrondi, le four oÃ¹ ces anachorÃ¨tes faisaient cuire
+leur pain. Toutefois, cet ermitage n'avait pas Ã©tÃ© consacrÃ© par le
+sÃ©jour de bonnes Ã¢mes chrÃ©tiennes. Autrement la dÃ©votion s'en fut
+emparÃ©e comme partout ailleurs, pour y Ã©tablir des pÃ¨lerinages et y
+poser, tout au moins, une image bÃ©nite. Loin de lÃ ; c'Ã©tait un _mauvais
+endroit_, oÃ¹ l'on se gardait bien de passer. Aucun sentier n'Ã©tait tracÃ©
+dans les ronces; les paysans vous disaient que les fades Ã©taient des
+_femmes sauvages_ de l'ancien temps, et qu'elles faisaient manger les
+enfants par des louves blanches.
+
+Pourquoi l'antique renommÃ©e des prÃªtresses gauloises est-elle, selon les
+localitÃ©s, tantÃ´t funeste, et tantÃ´t bÃ©nigne? On sait qu'il y a eu
+diffÃ©rents cultes successivement vainqueurs les uns des autres, avant et
+l'on dit mÃªme l'occupation romaine. LÃ  oÃ¹ les antiques prÃªtresses sont
+restÃ©es des gÃ©nies tutÃ©laires, on peut Ãªtre bien sÃ»r que la croyance
+Ã©tait sublime; lÃ  oÃ¹ elles ne sont plus que des goules fÃ©roces, le culte
+a dÃ» Ãªtre sanguinaire. Les _martes_, que nous avons nommÃ©es Ã  propos des
+_fades_, sont des esprits mÃ¢les et femelles. Dans les rochers oÃ¹ se
+prÃ©cipite le torrent de la _Porte-feuille_, prÃ¨s de
+Saint-BenoÃ®t-de-Sault, elles apparaissent sous les deux formes et, Ã 
+quelque sexe qu'elles appartiennent, elles sont Ã©galement redoutables.
+MÃ¢les, elles sont encore occupÃ©es Ã  relever les dolmens et menhirs Ã©pars
+sur les collines environnantes; femelles, elles courent, les cheveux
+flottants jusqu'aux talons, les seins pendants jusqu'Ã  terre, aprÃ¨s les
+laboureurs qui refusent d'aider Ã  leurs travaux mystÃ©rieux. Elles les
+frappent et les torturent jusqu'Ã  leur faire abandonner en plein jour la
+charrue et l'attelage. Une cascade trÃ¨s pittoresque au milieu de rochers
+d'une forme bizarre, s'appelle l'_Aire aux Martes_[4]. Quand les eaux
+sont basses, on voit les ustensiles de pierre qui servent Ã  leur
+cuisine. Leurs _hommes_ mettent la table, c'est-Ã -dire la pierre du
+dolmen sur ses assises. Quant Ã  elles, elles essaient follement, vains
+et fantasques esprits qu'elles sont, d'allumer du feu dans la cascade de
+Montgarnaud et d'y faire bouillir leur marmite de granit. Furieuses
+d'Ã©chouer sans cesse, elles font retentir les Ã©chos de cris et
+d'imprÃ©cations. N'est-ce pas lÃ  l'histoire figurÃ©e d'un culte renversÃ©,
+qui a fait de vains efforts pour se relever?
+
+Dans la plaine de notre _Fromental_, rien n'est restÃ© de ces traditions
+symboliques. Seulement quelques pierres isolÃ©es dans la rÃ©gion
+intermÃ©diaire du calcaire au granit, sont regardÃ©es de travers par les
+passants attardÃ©s. Ces pierres prennent figure et font des grimaces plus
+ou moins menaÃ§antes, selon que les regards curieux des profanes leur
+dÃ©plaisent plus ou moins. On dit qu'elles parleraient bien si elles
+pouvaient, et que mÃªme les _sorciers fins_, c'est-Ã -dire trÃ¨s savants,
+peuvent les forcer Ã  dire _bonsoir_. Mais elles sont si tÃªtues et si
+bornÃ©es qu'on n'a jamais pu leur en apprendre davantage. Quelquefois on
+passe auprÃ¨s d'elles sans les voir; c'est qu'en rÃ©alitÃ©, dit-on, elles
+n'y sont plus. Elles ont Ã©tÃ© faire un tour de promenade, et il faut vite
+s'Ã©loigner le plus possible du chemin qu'elles doivent prendre pour
+revenir Ã  leur place accoutumÃ©e. On ne dit pas si, comme les peulvans
+bretons, elles vont boire Ã  quelque eau du voisinage. Tant il y a
+quelles sont aussi bÃªtes que mÃ©chantes, car elles se trompent
+quelquefois de gÃ®te, et des gens qui les ont vues un soir couchÃ©es sur
+une lande aride les revoient le lendemain, Ã  la mÃªme heure, debout dans
+un champ ensemencÃ©. Elles y font du dommage et crÃ¨vent brutalement les
+clÃ´tures. Mais le plus prudent est de ne pas avertir le propriÃ©taire
+car, outre qu'il lui serait bien impossible d'enlever ces masses
+inertes, Â«quand mÃªme il y mettrait douze paires de bÅufsÂ», il se
+pourrait bien qu'elles prissent fantaisie de l'Ã©craser. D'ailleurs elles
+sont condamnÃ©es Ã  retourner dans leur endroit; si elles n'ont pas assez
+de mÃ©moire pour le retrouver tout de suite, c'est tant pis pour elles:
+elles erreront un an, s'il le faut, en courant _sur leur tranche_, ce
+qui les fatigue beaucoup, et il leur est dÃ©fendu de se reposer autrement
+que debout, tant qu'elles n'ont pas regagnÃ© le lieu oÃ¹ elles ont
+permission de se coucher.
+
+Nous avons vu quelquefois de ces pierres appelÃ©es _pierres-caillasses_
+ou _pierres-sottes_. Ce sont de vraies pierres de calcaire caverneux,
+dont les trous nombreux et irrÃ©guliers donnent facilement l'idÃ©e de
+figures monstrueuses. Quand les inspecteurs des routes les rencontrent Ã 
+leur portÃ©e, ils les font briser et _elles n'ont que ce qu'elles
+mÃ©ritent_.
+
+Nous le voulons bien, quoique ces pauvres pierres ne nous aient jamais
+fait de mal. Cependant on assure que si on ne se dÃ©pÃªche de les briser
+et de les employer, elles quittent le bord du chemin oÃ¹ on les a rangÃ©es
+et se mettent, de nuit, tout en travers du passage, pour faire abattre
+les chevaux et verser les voitures. MoralitÃ©: le voiturier ne doit pas
+se coucher et s'endormir sur sa charrette.
+
+Quant Ã  vous, esprits forts, qui demandez pourquoi cette grosse pierre
+se trouve dans telle haie ou sur le bord de tel fossÃ©, si l'on vous
+rÃ©pond d'un air mystÃ©rieux: _Oh! elle n'est pas pour rester lÃ !_ Sachez
+ce que parler veut dire, et ne vous amusez pas Ã  la regarder: vous
+pourriez la mettre de mauvaise humeur contre vous et la retrouver, le
+lendemain, dans votre jardin, tout au beau milieu de vos cloches Ã 
+melons ou de vos plates-bandes de fleurs.
+
+
+
+
+Les Demoiselles
+
+J'en viyons[5] une, j'en viyons deux,
+Que n'aviant ni bouches ni z'yeux;
+J'en viyons trois, j'en viyons quatre,
+Je les Ã¢rions bien voulu battre.
+J'en viyons cinq, j'en viyons six
+Qui n'aviant pas les reins bourdis[6]
+Darrier s'en venait la septiÃ¨me,
+J'avons jamais vu la huitiÃ¨me.
+
+Ancien couplet recueilli par Maurice SAND.
+
+
+Les _Demoiselles_ du Berry nous paraissent cousines des _Milloraines_ de
+Normandie, que l'auteur de la _Normandie merveilleuse_ dÃ©crit comme des
+Ãªtres d'une taille gigantesque. Elles se tiennent immobiles et leur
+forme, trop peu distincte, ne laisse reconnaÃ®tre ni leurs membres ni
+leur visage. Lorsqu'on s'approche, elles prennent la fuite par une
+succession de bonds irrÃ©guliers trÃ¨s rapides.
+
+Les _demoiselles_ ou _filles blanches_ sont de tous les pays. Je ne les
+crois pas d'origine gauloise, mais plutÃ´t franÃ§aise du moyen-Ã¢ge. Quoi
+qu'il en soit, je rapporterai une des lÃ©gendes les plus complÃ¨tes que
+j'aie pu recueillir sur leur compte.
+
+Un gentilhomme du Berry, nommÃ© Jean de La Selle, vivait, au siÃ¨cle
+dernier, dans un castel situÃ© au fond des bois de Villemort. Le pays,
+triste et sauvage, s'Ã©gaye un peu Ã  la lisiÃ¨re des forÃªts, lÃ  oÃ¹ le
+terrain sec, plat et plantÃ© de chÃªnes, s'abaisse vers des prairies que
+noient une suite de petits Ã©tangs assez mal entretenus aujourd'hui.
+
+DÃ©jÃ , au temps dont nous parlons, les eaux sÃ©journaient dans les prÃ©s de
+M. de La Selle, le bon gentilhomme n'ayant pas grand bien pour faire
+assainir ses terres. Il en avait une assez grande Ã©tendue, mais de
+chÃ©tive qualitÃ© et de petit rapport.
+
+NÃ©anmoins, il vivait content, grÃ¢ce Ã  des goÃ»ts modestes et Ã  un
+caractÃ¨re sage et enjouÃ©. Ses voisins le recherchaient pour sa bonne
+humeur, son grand sens et sa patience Ã  la chasse. Les paysans de son
+domaine et des environs le tenaient pour un homme d'une bontÃ©
+extraordinaire et d'une rare dÃ©licatesse. On disait de lui que plutÃ´t
+que de faire tort d'un fÃ©tu Ã  un voisin, quel qu'il fÃ»t, il se
+laisserait prendre sa chemise sur le corps et son cheval entre les
+jambes.
+
+Or, il advint qu'un soir, M. de La Selle ayant Ã©tÃ© Ã  la foire de la
+Berthenoux pour vendre une paire de bÅufs, revenait par la lisiÃ¨re du
+bois, escortÃ© par son mÃ©tayer, le grand Luneau, qui Ã©tait un homme fin
+et entendu, et portant, sur la croupe maigre de sa jument grise, la
+somme de six cents livres en grands Ã©cus plats Ã  l'effigie de Louis XIV.
+C'Ã©tait le prix des bestiaux vendus.
+
+En bon seigneur de campagne qu'il Ã©tait, M. de La Selle avait dÃ®nÃ© sous
+la ramÃ©e, et comme il n'aimait point Ã  boire seul, il avait fait asseoir
+devant lui le grand Luneau et lui avait versÃ© le vin de crÃ» sans
+s'Ã©pargner lui-mÃªme, afin de le mettre Ã  l'aise en lui donnant
+l'exemple. Si bien que le vin, la chaleur et la fatigue de la journÃ©e
+et, par-dessus tout cela, le trot cadencÃ© de la grise avaient endormi M.
+de La Selle, et qu'il arriva chez lui sans trop savoir le temps qu'il
+avait marchÃ© ni le chemin qu'il avait suivi. C'Ã©tait l'affaire de Luneau
+de le conduire, et Luneau l'avait bien conduit, car ils arrivaient sains
+et saufs; leurs chevaux n'avaient pas un poil mouillÃ©. Ivre, M. de La
+Selle ne l'Ã©tait point. De sa vie, on ne l'avait vu hors de sens. Aussi
+dÃ¨s qu'il se fut dÃ©bottÃ©, il dit Ã  son valet de porter sa valise dans sa
+chambre, puis il s'entretint fort raisonnablement avec le grand Luneau,
+lui donna le bonsoir et s'alla coucher sans chercher son lit. Mais le
+lendemain, lorsqu'il ouvrit sa valise pour y prendre son argent, il n'y
+trouva que de gros cailloux et, aprÃ¨s de vaines recherches, force lui
+fut de constater qu'il avait Ã©tÃ© volÃ©.
+
+Le grand Luneau, appelÃ© et consultÃ©, jura _sur son chrÃªme et son
+baptÃªme_, qu'il avait vu l'argent bien comptÃ© dans la valise, laquelle
+il avait chargÃ©e et attachÃ©e lui-mÃªme sur la croupe de la jument. Il
+jura aussi sur _sa foi et sa loi_, qu'il n'avait pas quittÃ© son maÃ®tre
+de _l'Ã©paisseur d'un cheval_, tant qu'ils avaient suivi la grand'route.
+Mais il confessa qu'une fois entrÃ© dans le bois, il s'Ã©tait senti un peu
+lourd, et qu'il avait pu dormir sur sa bÃªte environ l'espace d'un quart
+d'heure. Il s'Ã©tait vu tout d'un coup auprÃ¨s de la
+_GÃ¢gne-aux-Demoiselles_ et, depuis ce moment, il n'avait plus dormi et
+n'avait pas rencontrÃ© figure de chrÃ©tien.
+
+--Allons, dit M. de La Selle, quelque voleur se sera moquÃ© de nous.
+C'est ma faute encore plus que la tienne, mon pauvre Luneau, et le plus
+sage est de ne point se vanter. Le dommage n'est que pour moi, puisque
+tu ne partages point dans la vente du bÃ©tail. J'en saurai prendre mon
+parti, encore que la chose me gÃªne un peu. Cela m'apprendra Ã  ne plus
+m'endormir Ã  cheval.
+
+Luneau voulut en vain porter ses soupÃ§ons sur quelques braconniers
+besogneux de l'endroit.--Non pas, non pas, rÃ©pondit le brave hobereau;
+je ne veux accuser personne. Tous les gens du voisinage sont d'honnÃªtes
+gens. N'en parlons plus. J'ai ce que je mÃ©rite.
+
+--Mais peut-Ãªtre bien que vous m'en voulez un peu, notre maÃ®tre...
+
+--Pour avoir dormi? Non, mon ami; si je t'eusse confiÃ© la valise, je
+suis sur que tu te serais tenu Ã©veillÃ©. Je ne m'en prends qu'Ã  moi, et
+ma foi, je ne compte pas m'en punir par trop de chagrin. C'est assez
+d'avoir perdu l'argent, sauvons la bonne humeur et l'appÃ©tit.
+
+--Si vous m'en croyez, pourtant, notre maÃ®tre, vous feriez fouiller la
+_GÃ¢gne-aux-Demoiselles_.
+
+--La _GÃ¢gne-aux-Demoiselles_ est une fosse herbue qui a bien un
+demi-quart de lieue de long; ce ne serait pas une petite affaire de
+remuer toute cette vase, et d'ailleurs qu'y trouverait-on? Mon voleur
+n'aura pas Ã©tÃ© si sot que d'y semer mes Ã©cus!
+
+--Vous direz ce que vous voudrez, notre maÃ®tre, mais le voleur n'est
+peut-Ãªtre pas fait comme vous penser!
+
+--Ah! Ah! mon grand Luneau, toi aussi tu crois que les _demoiselles_
+sont des esprits malins qui se plaisent Ã  jouer de mauvais tours!
+
+--Je n'en sais rien, notre maÃ®tre, mais je sais bien qu'Ã©tant lÃ  un
+matin, _devant jour_, avec mon pÃ¨re, nous les vÃ®mes comme je vous vois;
+mÃªmement que, rentrant Ã  la maison bien Ã©peurÃ©s, nous n'avions plus ni
+chapeaux, ni bonnets sur nos tÃªtes, ni chaussures Ã  nos pieds, ni
+couteaux dans nos poches. Elles sont malignes, allez! Elles ont l'air de
+se sauver, mais, sans vous toucher, elles vous font perdre tout ce
+qu'elles peuvent et en profitent, car on ne le retrouve jamais. Si
+j'Ã©tais de vous, je ferais assÃ©cher tout ce marÃ©cage. Votre prÃ© en
+vaudra mieux et les _demoiselles_ auraient bientÃ´t dÃ©logÃ©; car il est Ã 
+la connaissance de tout homme de bon sens qu'elles n'aiment point le sec
+et qu'elles s'envolent de mare en mare et d'Ã©tang en Ã©tang, Ã  mesure
+qu'on leur Ã´te le brouillard dont elles se nourrissent.
+
+--Mon ami Luneau, rÃ©pondit M. de La Selle, dessÃ©cher le marÃ©cage serait,
+Ã  coup sÃ»r, une bonne affaire pour le prÃ©. Mais, outre qu'il y faudrait
+les six cents livres que j'ai perdues, j'y regarderais encore Ã  deux
+fois avant de dÃ©loger les _demoiselles_. Ce n'est pas que j'y croie
+prÃ©cisÃ©ment, ne les ayant jamais vues, non plus qu'aucun autre farfadet
+de mÃªme Ã©toffe; mais mon pÃ¨re y croyait un peu, et ma grand-mÃ¨re y
+croyait tout Ã  fait. Quand on en parlait, mon pÃ¨re disait: Â«Laissez les
+_demoiselles_ tranquilles; elles n'ont jamais fait de mal Ã  moi ni Ã 
+personne.Â» et ma grand-mÃ¨re disait: Â«Ne tourmentez et ne conjurez jamais
+les _demoiselles_; leur prÃ©sence est un bien dans une terre, et leur
+protection est un porte-bonheur pour une famille.Â»
+
+--Pas moins, reprit le grand Luneau en hochant la tÃªte, elles ne vous
+ont point garÃ© des voleurs!
+
+Environ dix ans aprÃ¨s cette aventure, M. de La Selle revenait de la mÃªme
+foire de la Berthenoux, rapportant sur la mÃªme jument grise, devenue
+bien vieille, mais trottant encore sans broncher, une somme Ã©quivalente
+Ã  celle qui lui avait Ã©tÃ© si singuliÃ¨rement dÃ©robÃ©e. Cette fois, il
+Ã©tait seul, le grand Luneau Ã©tant mort depuis quelques mois; et notre
+gentilhomme ne dormait pas Ã  cheval, ayant abjurÃ© et dÃ©finitivement
+perdu cette fÃ¢cheuse habitude.
+
+Lorsqu'il fut Ã  la lisiÃ¨re du bois, le long de la
+_GÃ¢gne-aux-Demoiselles_, qui est situÃ©e au bas d'un talus assez Ã©levÃ© et
+tout couvert de buissons, de vieux arbres et de grandes herbes sauvages,
+M. de La Selle fut pris de tristesse en se rappelant son pauvre mÃ©tayer,
+qui lui faisait bien faute, quoique son fils Jacques, grand et mince
+comme lui, comme lui fin et avisÃ©, parÃ»t faire son possible pour le
+remplacer. Mais on ne remplace pas les vieux amis, et M. de La Selle se
+faisait vieux lui-mÃªme.
+
+Il eut des idÃ©es noires; mais sa bonne conscience les eut bientÃ´t
+dissipÃ©es, et il se mit Ã  siffler un air de chasse, en se disant que, de
+sa vie et de sa mort, il en serait ce que Dieu voudrait.
+
+Comme il Ã©tait Ã  peu prÃ¨s au milieu de la longueur du marÃ©cage, il fut
+surpris de voir une forme blanche, que jusque-lÃ  il avait prise pour un
+flocon de ces vapeurs dont se couvrent les eaux dormantes, changer de
+place, puis bondir et s'envoler en se dÃ©chirant Ã  travers les branches.
+Une seconde forme plus solide sortit des joncs et suivit la premiÃ¨re en
+s'allongeant comme une toile flottante; puis une troisiÃ¨me, puis une
+autre et encore une autre; et, Ã  mesure qu'elles passaient devant
+Monsieur de La Selle, elles devenaient si visiblement des personnages
+Ã©normes, vÃªtus de longues jupes, pÃ¢les, avec des cheveux blanchÃ¢tres
+traÃ®nant plutÃ´t que voltigeant derriÃ¨re elles, qu'il ne put s'Ã´ter de
+l'esprit que c'Ã©taient lÃ  les fantÃ´mes dont on lui avait parlÃ© dans son
+enfance. Alors, oubliant que sa grand-mÃ¨re lui avait recommandÃ©, s'il
+les rencontrait jamais, de faire comme s'il ne les voyait pas, il se mit
+Ã  les saluer, en homme bien appris qu'il Ã©tait. Il les salua toutes, et
+quand ce vint Ã  la septiÃ¨me, qui Ã©tait la plus grande et la plus
+apparente, il ne put s'empÃªcher de lui dire: _Demoiselle, je suis votre
+serviteur_.
+
+Il n'eut pas plutÃ´t lÃ¢chÃ© cette parole, que la grande demoiselle se
+trouva en croupe derriÃ¨re lui, l'enlaÃ§ant de deux bras froids comme
+l'aube, et que la vieille grise, Ã©pouvantÃ©e, prit le galop, emportant M.
+de La Selle Ã  travers le marÃ©cage.
+
+Bien que fort surpris, le bon gentilhomme ne perdit point la tÃªte. Â«Par
+l'Ã¢me de mon pÃ¨re, pensa-t-il, je n'ai jamais fait de mal, et nul esprit
+ne peut m'en faire,Â» Il soutint sa monture et la forÃ§a de se dÃ©pÃªtrer de
+la boue oÃ¹ elle se dÃ©battait, tandis que la _grand'demoiselle_
+paraissait essayer de la retenir et de l'envaser.
+
+M. de La Selle avait des pistolets dans ses fontes, et l'idÃ©e lui vint
+de s'en servir; mais, jugeant qu'il avait affaire Ã  un Ãªtre surnaturel
+et se rappelant d'ailleurs que ses parents lui avaient recommandÃ© de ne
+point offenser les _demoiselles de l'eau_, il se contenta de dire avec
+douceur Ã  celle-ci: Â«Vraiment, belle dame, vous devriez me laisser
+passer mon chemin, car je n'ai point traversÃ© le vÃ´tre pour vous
+contrarier, et si je vous ai saluÃ©e, c'est par politesse et non par
+dÃ©rision. Si vous souhaitez des priÃ¨res ou des messes, faites connaÃ®tre
+votre dÃ©sir, et, foi de gentilhomme, vous en aurez!Â»
+
+Alors, M. de La Selle entendit au-dessus de sa tÃªte une voix Ã©trange qui
+disait: Â«Fais dire trois messes pour l'Ã¢me du grand Luneau et va en
+paix!Â»
+
+AussitÃ´t la figure du fantÃ´me s'Ã©vanouit, la grise redevint docile et M.
+de La Selle rentra chez lui sans obstacle.
+
+Il pensa alors qu'il avait eu une vision; il n'en commanda pas moins les
+trois messes. Mais quelle fut sa surprise lorsqu'en ouvrant sa valise,
+il y trouva, outre l'argent qu'il avait reÃ§u Ã  la foire, les six cents
+livres tournois en Ã©cus plats, Ã  l'effigie du feu roi.
+
+On voulut bien dire que le grand Luneau, repentant Ã  l'heure de la mort,
+avait chargÃ© son fils Jacques de cette restitution, et que celui-ci,
+pour ne pas entacher la mÃ©moire de son pÃ¨re, en avait chargÃ© les
+demoiselles... M. de La Selle ne permit jamais un mot contre la probitÃ©
+du dÃ©funt, et quand on parlait de ces choses sans respect en sa
+prÃ©sence, il avait coutume de dire: Â«L'homme ne peut pas tout expliquer.
+Peut-Ãªtre vaut-il mieux pour ici Ãªtre sans reproche que sans croyance.Â»
+
+
+
+
+Les Laveuses de nuit ou LavandiÃ¨res
+
+A la pleine lune, on voit, dans le chemin de la _Font de Fonts_
+(Fontaine des Fontaines), d'Ã©tranges laveuses; ce sont les spectres des
+mauvaises mÃ¨res qui ont Ã©tÃ© condamnÃ©es Ã  laver, jusqu'au jugement
+dernier, les langes et les cadavres de leurs victimes.
+
+Maurice SAND.
+
+
+Voici, selon nous, la plus sinistre des visions de la peur. C'est aussi
+la plus rÃ©pandue; je crois qu'on la retrouve en tous pays.
+
+Autour des mares stagnantes et des sources limpides, dans les bruyÃ¨res
+comme au bord des fontaines ombragÃ©es dans les chemins creux, sous les
+vieux saules comme dans la plaine brÃ»lÃ©e du soleil, on entend, durant la
+nuit, le battoir prÃ©cipitÃ© et le clapotement furieux des lavandiÃ¨res
+fantastiques. Dans certaines provinces, on croit qu'elles Ã©voquent la
+pluie et attirent l'orage en faisant voler jusqu'aux nues, avec leur
+battoir agile, l'eau des sources et des marÃ©cages. Il y a ici confusion.
+L'Ã©vocation des tempÃªtes est le monopole des sorciers connus sous le nom
+de _meneux de nuÃ©es_. Les vÃ©ritables lavandiÃ¨res sont les Ã¢mes des mÃ¨res
+infanticides. Elles battent et tordent incessamment quelque objet qui
+ressemble Ã  du linge mouillÃ©, mais qui, vu de prÃ¨s, n'est qu'un cadavre
+d'enfant. Chacune a le sien ou les siens, si elle a Ã©tÃ© plusieurs fois
+criminelle. Il faut se bien garder de les observer ou de les dÃ©ranger
+car, eussiez-vous six pieds de haut et des muscles en proportion, elles
+vous saisiraient, vous battraient dans l'eau et vous tordraient ni plus
+ni moins qu'une paire de bas.
+
+Nous avons entendu souvent le battoir des laveuses de nuit rÃ©sonner dans
+le silence autour des mares dÃ©sertes. C'est Ã  s'y tromper. C'est une
+espÃ¨ce de grenouille qui produit ce bruit formidable. Mais c'est bien
+triste d'avoir fait cette puÃ©rile dÃ©couverte et de ne plus pouvoir
+espÃ©rer l'apparition des terribles sorciÃ¨res, tordant leurs haillons
+immondes, dans la brume des nuits de novembre, Ã  la pÃ¢le clartÃ© d'un
+croissant blafard reflÃ©tÃ© par les eaux.
+
+Cependant, j'ai eu l'Ã©motion d'un rÃ©cit sincÃ¨re et assez effrayant sur
+ce sujet.
+
+Un mien ami, homme de plus d'esprit que de sens, je dois l'avouer, et
+pourtant d'un esprit Ã©clairÃ© et cultivÃ©, mais je dois encore l'avouer,
+enclin Ã  laisser sa raison _dans les pots_; trÃ¨s brave en face des
+choses rÃ©elles, mais facile Ã  impressionner et nourri, dÃ¨s l'enfance,
+des lÃ©gendes du pays, fit deux rencontres de lavandiÃ¨res qu'il ne
+racontait qu'avec rÃ©pugnance et avec une expression de visage qui
+faisait passer un frisson dans son auditoire.
+
+Un soir, vers onze heures, dans une _traÃ®ne_ charmante qui court en
+serpentant et en bondissant, pour ainsi dire, sur le flanc ondulÃ© du
+ravin d'Urmont, il vit, au bord d'une source, une vieille qui lavait et
+tordait en silence.
+
+Quoique cette jolie fontaine soit mal famÃ©e, il ne vit rien lÃ  de
+surnaturel et dit Ã  cette vieille: Â«Vous lavez bien tard, la mÃ¨re!Â»
+
+Elle en rÃ©pondit point. Il la crut sourde et approcha. La lune Ã©tait
+brillante et la source Ã©clairait comme un miroir. Il vit alors
+distinctement les traits de la vieille: elle lui Ã©tait complÃ¨tement
+inconnue, et il en fut Ã©tonnÃ©, parce qu'avec sa vie de cultivateur, de
+chasseur et de flÃ¢neur dans la campagne, il n'y avait pas pour lui de
+visage inconnu, Ã  plusieurs lieues Ã  la ronde. Voici comme il me raconta
+lui-mÃªme ses impressions en face de cette laveuse singuliÃ¨rement
+attardÃ©e:
+
+Â«Je ne pensai Ã  la lÃ©gende que lorsque j'eus perdu cette femme de vue.
+Je n'y pensais pas avant de la rencontrer. Je n'y croyais pas et je
+n'Ã©prouvais aucune mÃ©fiance en l'abordant. Mais, dÃ¨s que je fus auprÃ¨s
+d'elle, son silence, son indiffÃ©rence Ã  l'approche d'un passant, lui
+donnÃ¨rent l'aspect d'un Ãªtre absolument Ã©tranger Ã  notre espÃ¨ce. Si la
+vieillesse la privait de l'ouÃ¯e et de la vue, comment Ã©tait-elle venue
+de loin toute seule laver, Ã  cette heure insolite, Ã  cette source glacÃ©e
+oÃ¹ elle travaillait avec tant de force et d'activitÃ©? Cela Ã©tait au
+moins digne de remarque; mais ce qui m'Ã©tonna encore plus, c'est ce que
+j'Ã©prouvai en moi-mÃªme. Je n'eus aucun sentiment de peur, mais une
+rÃ©pugnance, un dÃ©goÃ»t invincibles. Je passai mon chemin sans qu'elle
+dÃ©tournÃ¢t la tÃªte. Ce ne fut qu'en arrivant chez moi que je pensai aux
+sorciÃ¨res des lavoirs, et alors j'eus trÃ¨s peur, j'en conviens
+franchement, et rien au monde ne m'eut dÃ©cidÃ© Ã  revenir sur mes pas.Â»
+
+Une autre fois, le mÃªme ami passait auprÃ¨s des Ã©tangs de Thevet, vers
+deux heures du matin. Il venait de LiniÃ¨res, oÃ¹ il assure qu'il n'avait
+ni mangÃ© ni bu, circonstance que je ne saurais garantir. Il Ã©tait seul,
+en cabriolet, suivi de son chien. Son cheval Ã©tant fatiguÃ©, il mit pied
+Ã  terre Ã  une montÃ©e, et se trouva au bord de la route, prÃ¨s d'un fossÃ©
+oÃ¹ trois femmes lavaient, battaient et tordaient avec une grande
+vigueur, sans rien dire. Son chien se serra tout Ã  coup contre lui sans
+aboyer. Il passa lui-mÃªme sans trop regarder. Mais Ã  peine eut-il fait
+quelques pas, qu'il entendit marcher derriÃ¨re lui, et que la lune
+dessina Ã  ses pieds une ombre trÃ¨s allongÃ©e. Il se retourna et vit une
+des femmes qui le suivait. Les deux autres venaient Ã  quelque distance
+comme pour appuyer la premiÃ¨re.
+
+Â«Cette fois, dit-il, je pensai bien aux lavandiÃ¨res maudites, mais j'eus
+une autre Ã©motion que la premiÃ¨re fois. Ces femmes Ã©taient d'une taille
+si Ã©levÃ©e, et celle qui me suivait de prÃ¨s avait tellement les
+proportions, la figure et la dÃ©marche d'un homme, que je ne doutai pas
+un instant d'avoir affaire Ã  de mauvais plaisants de village, mal
+intentionnÃ©s peut-Ãªtre. J'avais une bonne trique Ã  la main, je me
+retournai en disant: Que voulez-vous?
+
+Je ne reÃ§us point de rÃ©ponse, et ne me voyant pas attaquÃ©, n'ayant pas
+de prÃ©texte pour attaquer moi-mÃªme, je fus forcÃ© de regagner mon
+cabriolet, qui Ã©tait assez loin devant moi, avec cet Ãªtre dÃ©sagrÃ©able
+sur les talons. Il ne me disait rien et semblait se faire un malin
+plaisir de me tenir sous le coup d'une provocation. Je tenais toujours
+mon bÃ¢ton, prÃªt Ã  lui casser la mÃ¢choire au moindre attouchement, et
+j'arrivai ainsi Ã  mon cabriolet avec mon poltron de chien qui ne disait
+mot et qui y sauta avec moi. Je me retournai alors et, quoique j'eusse
+entendu, jusque-lÃ , des pas sur les miens et vu une ombre marcher Ã  cÃ´tÃ©
+de la mienne, je ne vis personne. Seulement je distinguai, Ã  trente pas
+environ en arriÃ¨re, Ã  la place oÃ¹ je les avais vues laver, les trois
+grandes diablesses sautant, dansant et se tordant comme des folles sur
+le bord du fossÃ©. Leur silence, contrastant avec ces bonds Ã©chevelÃ©s,
+les rendait encore plus singuliÃ¨res et pÃ©nibles Ã  voir.
+
+Si l'on essayait, aprÃ¨s ce rÃ©cit, d'adresser au narrateur quelque
+question de dÃ©tail, ou de lui faire entendre qu'il avait Ã©tÃ© le jouet
+d'une hallucination, il secouait la tÃªte et disait: Â«Parlons d'autre
+chose. J'aime autant croire que je ne suis pas fou.Â» Et ces mots, jetÃ©s
+d'un air triste, imposaient silence Ã  tout le monde.
+
+Il n'est point de mare ou de fontaine qui ne soit hantÃ©e, soit par les
+lavandiÃ¨res de nuit, soit par d'autres esprits plus ou moins fÃ¢cheux.
+Quelques-uns de ces hÃ´tes sont seulement bizarres. Dans mon enfance, je
+craignais beaucoup de passer devant un certain fossÃ© oÃ¹ l'on voyait les
+_pieds blancs_. Les histoires fantastiques qui ne s'expliquent pas sur
+la nature des Ãªtres qu'elles mettent en scÃ¨ne, et qui restent vagues et
+incomplÃ¨tes, sont celles qui frappent le plus l'imagination. Ces pieds
+blancs marchaient, dit-on, le long du fossÃ© Ã  certaines heures de la
+nuit; c'Ã©tait des pieds de femme, maigres et nus, avec un bout de robe
+blanche ou de chemise longue qui flottait et s'agitait sans cesse. Cela
+marchait vite et en zigzag, et si l'on disait: Â«Je te vois! veux-tu te
+sauver!Â» _cela_ courait si vite _qu'on ne savait plus oÃ¹ Ã§a avait
+passÃ©_. Quand on ne disait rien, _cela_ marchait devant vous; mais
+quelque effort que l'on fit pour voir plus haut que la cheville, c'Ã©tait
+chose impossible. Ãa n'avait ni jambes, ni corps, ni tÃªte, rien que des
+pieds. Je ne saurais dire ce que ces pieds avaient de terrifiants; mais,
+pour rien au monde, je n'eusse voulu les voir.
+
+Il y a, en d'autres lieux, des fileuses de nuit dont on entend le rouet
+dans la chambre que l'on habite et dont on aperÃ§oit quelquefois les
+mains. Chez nous, j'ai ouÃ¯ parler d'une _brayeuse_ de nuit, qui broyait
+le chanvre devant la porte de certaines maisons et faisait entendre le
+bruit rÃ©gulier de la _braye_ d'une maniÃ¨re qui _n'Ã©tait pas naturelle_.
+Il fallait la laisser tranquille, et si elle s'obstinait Ã  revenir
+plusieurs nuits de suite, mettre une vieille lame de faux en travers de
+l'instrument dont elle avait coutume de s'emparer pour faire son
+vacarme, elle s'amusait un moment Ã  vouloir broyer cette lame, puis elle
+s'en dÃ©goÃ»tait, la jetait en travers de la porte et ne revenait plus.
+
+Il y avait encore la _peillerouse_ de nuit qui se tenait sous la
+_guenilliÃ¨re_ de l'Ã©glise. _Peille_ est un vieux mot franÃ§ais qui
+signifie haillon; c'est pourquoi le porche de l'Ã©glise, oÃ¹ se tiennent,
+pendant les offices les mendiants porteurs de peilles, s'appelle d'un
+nom analogue.
+
+Cette _peillerouse_ accostait les passants et leur demandait l'aumÃ´ne.
+Il fallait se bien garder de lui rien donner; autrement elle devenait
+grande et forte, de cacochyme qu'elle vous avez semblÃ©, et elle vous
+rouait de coups. Un nommÃ© Simon Richard, qui demeurant dans l'ancienne
+cure et qui soupÃ§onnait quelque espiÃ¨glerie des filles du bourg Ã  son
+intention particuliÃ¨re, voulut batifoler avec elle. Il fut laissÃ© pour
+mort. Je le vis sur le flanc, le lendemain, trÃ¨s rossÃ© et trÃ¨s
+Ã©gratignÃ©, en effet. Il jurait n'avoir eu affaire qu'Ã  une petite
+vieille Â«qui paraissait cent ans, mais qui avait la poigne comme trois
+hommes et demi.Â»
+
+On voulut en vain lui faire supposer qu'il avait eu affaire Ã  un _gÃ¢_
+plus fort que lui, qui, sous un dÃ©guisement, s'est vengÃ© de quelque
+mauvais tour de sa faÃ§on. Il Ã©tait fort et hardi, mÃªme querelleur et
+vindicatif. Pourtant, il quitta la paroisse aussitÃ´t qu'il fut debout et
+n'y revint jamais, disant qu'il ne craignait ni homme ni femme. Mais
+bien les gens qui ne sont pas de ce monde et qui n'ont pas le corps fait
+_en chrÃ©tiens_.
+
+
+
+
+La Grand'bÃªte
+
+Les enfants du pÃ¨re Germain revenaient chargÃ©s de fagots qu'ils avaient
+dÃ©robÃ©s. Au sortir des tailles de Champeaux, ils entendirent tous les
+oiseaux du bois crier Ã  la fois, et virent une bÃªte _qui Ã©tait faite
+comme un veau, tout comme un liÃ¨vre aussi_. C'Ã©tait la grand'bÃªte.
+
+Maurice SAND.
+
+
+Sous les noms de _bigorne, de chien blanc, de bÃªte navette, de vache au
+diable, de piterne, de taranne_, etc., etc., un animal fabuleux se
+promÃ¨ne, de temps immÃ©morial, dans les campagnes et pÃ©nÃ¨tre mÃªme dans
+les habitations, on ne sait plus dans quel dessein, tant on lui fait
+bonne guerre pour le repousser, dÃ¨s que sa prÃ©sence est signalÃ©e dans
+une localitÃ©.
+
+Dans nos provinces du centre, ce que l'on raconte de la _Grand'bÃªte_
+s'accorde particuliÃ¨rement avec ce qui est dit de la _Taranne_ dans les
+provinces du nord. C'est le plus souvent une chienne de la taille d'une
+gÃ©nisse. Les enfants et les femmes, qui ont l'imagination vive, lui ont
+bien vu des cornes, des yeux de feu, et l'assemblage hÃ©tÃ©rogÃ¨ne des
+formes de divers animaux; mais les gens calmes et clairvoyants ont
+dÃ©cidÃ©, en dernier ressort, que c'est une _levrette_, et tant de ces
+personnes sages l'on vue, qu'il faut bien adopter cette version la plus
+accrÃ©ditÃ©e.
+
+De toutes les antiques superstitions, celle-ci est la moins effacÃ©e. La
+_Grand'bÃªte_ a fait sa derniÃ¨re apparition dans nos environs, il n'y a
+pas plus de cinq ou six ans, et il n'est pas prouvÃ© qu'elle soit dÃ©cidÃ©e
+Ã  ne plus reparaÃ®tre.
+
+Dans mon enfance, j'allais souvent me promener, les soirs d'Ã©tÃ©, Ã  une
+mÃ©tairie appartenant Ã  ma grand'mÃ¨re et situÃ©e dans les terres, Ã  une
+demi-lieue de chez nous. Cette mÃ©tairie a Ã©tÃ© longtemps le thÃ©Ã¢tre des
+grands _sorcelages_ et des apparitions les mieux conditionnÃ©s. Je
+n'oublierai jamais une soirÃ©e oÃ¹ l'orage nous avait retenus, mon frÃ¨re
+et moi, jusqu'Ã  la _grand'nuit_, c'est-Ã -dire entre neuf et dix heures
+du soir. J'avais une dizaine d'annÃ©es, mon frÃ¨re avait quinze ans et
+faisait le brave. Quant Ã  moi, je le confesse, j'avais grand'peur: la
+bÃªte avait paru la veille, disait-on, autour de la ferme, et
+_manquablement_, c'est-Ã -dire infailliblement, elle allait reparaÃ®tre
+dÃ¨s que je jour aurait pris fin.
+
+Je crois toujours voir les apprÃªts du combat. Les hommes s'armant de
+fourches de fer et de bÃ¢tons; le mÃ©tayer prenant, au manteau de la
+cheminÃ©e, et chargeant de balles bÃ©nites son long fusil Ã  un seul canon;
+sa vieille mÃ¨re faisant ranger les enfants au fond de la chambre, entre
+les deux lits de serge jaune, et se mettant elle-mÃªme en priÃ¨res avec
+ses brus et ses servantes, devant une image coloriÃ©e qui reprÃ©sentait je
+ne sais plus quel gÃ©nÃ©ral de l'Empire que l'on prenait lÃ  pour un _bon
+saint_, les colporteurs de cette Ã©poque vendant n'importe quoi, comme
+figures de dÃ©votion aux paysans.
+
+Et puis, on ferma les portes et fenÃªtres, et _on accota les battants_;
+et, comme les petits enfants criaient, on les gourmanda et on les menaÃ§a
+de les mettre dehors s'ils ne se taisaient. Il fallait Ã©couter
+l'approche de la bÃªte. Les chiens qu'on laissait dehors ne manqueraient
+pas de hurler et les bÅufs de _bremer_ (de mugir) dans l'Ã©table. En
+fait, les chiens aboyaient et se dÃ©menaient dÃ©jÃ  Ã  la vue de tous ces
+prÃ©paratifs. Les animaux comprennent trÃ¨s bien les sentiments intÃ©rieurs
+qui agitent une famille; les voix effrayÃ©es, les physionomies troublÃ©es,
+semblent leur rÃ©vÃ©ler la cause du mouvement insolite qui se fait dans la
+maison.
+
+Les gens de la ferme prÃ©tendaient que les animaux se rappelaient trÃ¨s
+bien, d'une annÃ©e Ã  l'autre, l'apparition des annÃ©es prÃ©cÃ©dentes et
+qu'ils avaient la rÃ©vÃ©lation instinctive du mal que la bÃªte pouvait leur
+faire. Aussi ne se jetaient-ils jamais sur elle et refusaient-ils de la
+poursuivre. De son cÃ´tÃ©, il Ã©tait sans exemple qu'elle les eÃ»t mordus.
+Mais son souffle ou son influence les faisait pÃ©rir, et jamais elle
+n'avait visitÃ© la mÃ©tairie sans qu'il ne se dÃ©clarÃ¢t, Ã  la suite, une
+mortalitÃ© de bestiaux[7].
+
+Il semblait donc que les personnes fussent Ã  l'abri de tout danger, car
+la bÃªte n'attaque pas et fuit Ã  la moindre hostilitÃ©. Mais tout ce qui
+se prÃ©sente avec un caractÃ¨re surnaturel, Ã©branle l'imagination des
+paysans et des enfants, plus que le danger palpable. Certes, l'attaque
+d'une bande de loups affamÃ©s nous eÃ»t moins Ã©pouvantÃ©s que l'Ã©ventualitÃ©
+de la visite de ce fantÃ´me.
+
+Pourtant j'eus comme un regret et une dÃ©ception quand, au lieu de la
+bÃªte, arriva notre prÃ©cepteur qui, s'inquiÃ©tant pour mon frÃ¨re et moi,
+de la nuit et de l'orage, venait nous chercher, sans autre arme qu'un
+parapluie. Il se moqua beaucoup de la bÃªte blanche et des prÃ©paratifs du
+combat. Il nous emmena en riant, et nous n'eÃ»mes plus, hÃ©las, ni peur ni
+espoir de voir cette fameuse bÃªte, Ã  laquelle nous avions cru pendant
+une heure.
+
+J'ai Ã  mon service un bon et honnÃªte paysan, de trente-cinq ans environ,
+c'est-Ã -dire nÃ© sur le dÃ©clin de ces croyances dans le pays. SincÃ¨re,
+robuste et courageux, il a Ã©tÃ© laboureur dans cette mÃ©tairie de
+l'AuniÃ¨re, hantÃ©e, de temps immÃ©morial, par tous les diables des
+lÃ©gendes rustiques. Je lui demande s'il y a jamais vu quelque chose
+d'extraordinaire. Il commence par dire que non. Mais, comme il ne sait
+pas mentir, je vois bien qu'il craint d'Ãªtre ralliÃ© et qu'il lui en
+coÃ»te de rÃ©pondre. J'insiste sans affectation et, peu Ã  peu, il me
+raconte ce qui va suivre.
+
+Â«J'ai vu, dit-il, bien des choses dont je n'ai pas Ã©tÃ© _Ã©peurÃ©_, mais
+que personne ne peut m'Ã´ter de la mÃ©moire. J'avais une vingtaine d'annÃ©e
+quand je fus en moisson pour la premiÃ¨re fois Ã  l'AuniÃ¨re. Nous Ã©tions
+dix-huit Ã  moissonner et nous soupions dehors devant la porte, du logis
+Ã  cause de la _grand'chaud_. AprÃ¨s souper, nous nous en allions coucher
+Ã  la paille, quand un de nous s'en retourne _au devant de la maison_,
+pour chercher son couteau qu'il avait perdu. Il s'en revint, _toujours
+criant_, et Ã©tant tous sortis de la grange, tous les dix-huit, et moi
+comme les autres, avons vu la _levrette_ couchÃ©e tout au long sur la
+table oÃ¹ nous avions soupÃ©. SitÃ´t qu'elle nous vit, elle fit un saut de
+plus de vingt pieds en l'air et se sauva Ã  travers champs. Et nous de la
+galoper et de la voir courir et sauter tout le long des buissons, oÃ¹
+elle disparut tout d'un coup, et oÃ¹ personne ne trouva ni elle ni marque
+de son corps. Les chiens ne voulurent jamais nous suivre ni seulement
+_flairer du cÃ´tÃ©_. Ils ne firent que trembler et hurler dans la cour. A
+prÃ©sent, ajoute-t-il, si vous me demandez comment la bÃªte Ã©tait faite,
+je vous dirai que je ne l'ai vue qu'Ã  la brune et qu'elle m'a paru toute
+blanche. Vous dire que c'Ã©tait une levrette, je ne saurais; mais Ã§a
+ressemblait Ã  une levrette plus qu'Ã  toute autre bÃªte que j'aie jamais
+vue et, pour la grandeur, Ã§a paraissait long, long, avec des jambes
+fines qui sautaient comme jamais je n'aurais cru qu'une bÃªte pÃ»t
+sauter.Â»
+
+Ce qu'il y a de sÃ»r, c'est que le fermier de l'AuniÃ¨re, le gros
+Martinet, perdit tant de _bestiau_, cette annÃ©e-lÃ , qu'il se mit dans
+l'idÃ©e de devenir _mÃ©decin_, afin de les guÃ©rir lui-mÃªme et de conjurer
+les sorts qu'on lui faisait, par d'autres sorts plus savants, et il s'en
+fut consulter le _grand mÃ©decin_ qu'on appelle le sabotier du
+Bourg-Dieu, Ã  plus de huit lieues d'ici. Quand il parla au sabotier pour
+la premiÃ¨re fois, celui-ci lui dit: "Vous me venez quÃ©rir pour un bÅuf
+malade qui s'appelle _Chauvet_, et vous avez en votre Ã©table quatre
+paires de bÅufs dont je vas vous dire tous les noms, tous les Ã¢ges,
+toutes les couleurs."
+
+Qui fut bien Ã©tonnÃ©? Ce fut Martinet qui s'entendit raconter et nommer
+tout ce qu'il avait de bestiaux, encore que jamais le grand sabotier ne
+fut venu au pays de chez nous.
+
+--Allez-vous en Ã  votre logis, _qu'il lui dit_, vous trouverez le bÅuf
+Chauvet debout et sauvÃ©. Mais, par malheur, son camarade _Racinieux_,
+que vous avez laissÃ© en bonne santÃ©, sera crevÃ© quand vous rentrerez Ã 
+la maison.
+
+--Et ne pouvez-vous l'empÃªcher? dit Martinet.
+
+--Non, il est trop tard. La mauvaise bÃªte aura passÃ© chez vous?
+
+--C'est la vÃ©ritÃ©: ne pouvez-vous m'enseigner le moyen de purger mon
+_bestiau_ de sa _mauvaise air_?
+
+--Voire! fit le sorcier; mais il faudra que j'aille chez vous.
+
+Ils vinrent Ã  cheval, tous les deux et comme, dans ce temps-lÃ , j'Ã©tais
+valet Ã  la maison, j'entendis Martinet dire en arrivant:
+
+--Vous avez donc _encavÃ©_ Racinieux Ã  ce matin?
+
+--Par malheur, oui, notre maÃ®tre, que je lui dis: comment donc que vous
+savez Ã§a?
+
+--Et Chauvet mange de bon appÃ©tit, Ã  cette heure?
+
+C'Ã©tait la vÃ©ritÃ©, tout comme le sabotier l'avait _connaissu_. Le bÅuf
+malade Ã©tait guÃ©ri; son camarade qui, au dÃ©part du maÃ®tre, ne se sentait
+de rien, Ã©tait crevÃ© et encavÃ©.
+
+Alors Martinet voyant le grand talent du sabotier, le retint Ã  la maison
+huit jours durant, et apprit de lui le _sorcelage_. Ils ne se couchaient
+point de toute la nuit, et s'en allaient dans les champs et sur les
+chemins, et on entendait des voix qu'on ne connaissait point et un sabat
+abominable.
+
+Et le sabotier nous mena tous de jour dans le patural des bÅufs et nous
+fit voir la chose qui leur donnait des maladies. C'Ã©tait un crapaud que
+_celui_ que l'on avait vu en levrette blanche avait arrangÃ© avec des
+charmes et des empoisonnements sous une motte de gazon. Et quand les
+bÅufs passaient Ã  cÃ´tÃ©, ils commenÃ§aient de souffler et de maigrir.
+
+Alors Martinet devint grand savant, comme chacun sait. Il eut les plus
+beaux Ã©lÃ¨ves du pays et fut appelÃ© comme _mÃ©decin_ dans tout le canton.
+C'est comme Ã§a et non autrement qu'il a pu vous payer sa ferme et se
+retirer du grand dommage oÃ¹ les _mauvaises choses l'avaient mis_.
+
+Seulement, Martinet eut des ennuis de sa femme qui ne voulait point
+qu'il se donnÃ¢t au sorcelage et qui faisait mauvaise mine au grand
+sabotier. Un jour, il quitta la maison en disant Ã  Martinet: "Si
+l'affaire que nous avons ensemble tourne bien, je vous le ferai assavoir
+demain matin, d'une maniÃ¨re que vous comprendrez, vous tout seul." Et,
+de vrai, le lendemain matin, comme nous Ã©tions Ã  manger la soupe, il se
+fit un _grand air de vent_ qui donna une bouffÃ©e dont la maison trembla,
+et un coq noir entra dans la chambre et se jeta dans le feu oÃ¹ il fut
+tout brÃ»lÃ© en un instant. La femme du logis voulait sauver le coq, mais
+Martinet la retint par le bras en lui disant: "_N'y touchÃ© pas!_" et
+elle en resta toute apeurÃ©e. De mÃªme qu'une autrefois, comme le sabotier
+Ã©tait lÃ , et qu'elle venait de tirer ses vaches, son lait devint tout
+noir et on fut obligÃ© de le jeter. _Dont elle pleura_, maudissant le
+sabotier. Mais son mari lui dit: "Rends-toi Ã  lui, et une autre fois,
+offre-lui de ton lait, de ton fromage et de tout ce qui est ici." Ce
+qu'elle fit par la suite avec grande crainte et honnÃªtetÃ©.
+
+VoilÃ  comment la _grand'bÃªte_ a Ã©tÃ© chassÃ©e de la mÃ©tairie et aussi
+l'_homme sans tÃªte_, qui se promenait Ã  cÃ´tÃ© sur le vieux chemin de
+Verneuil, et la _chasse Ã  baudet_ qui passait si souvent au-dessus de la
+maison. Seulement, Martinet a eu bien des peines dans son corps pour
+soumettre toutes ces mauvaises choses. Il a Ã©tÃ© souvent battu par les
+follets et ils lui ont enlevÃ© de la tÃªte et fait perdre plus de dix
+chapeaux et bonnets. Et, enfin, il a eu le mal d'yeux bien souvent, Ã 
+cause de la boule de feu qui se mettait devant lui en voyage sur le cou
+de sa jument[8].Â»
+
+
+
+
+Les trois hommes de pierre
+
+
+On prÃ©tend que certains individus de cette race stupide, crient aux
+passants attardÃ©s: _Veux-tu des bras? veux-tu des bras?_ Si on a
+l'imprudence de leur rÃ©pondre: _Oui_, ils reprennent: _Donne-nous tes
+jambes!_ Et comme ils sont charmeurs, on reste lÃ  tant qu'il leur plaÃ®t.
+Un malin que la frayeur avait jetÃ© Ã  la renverse, eut l'esprit de leur
+dire: _Prenez mes jambes, si vous voulez; elles sont mortes._--Ils ne
+surent point rÃ©pliquer, et l'homme put se sauver de leur charme.
+
+Maurice SAND.
+
+
+Dans la rÃ©gion de l'Indre qui touche Ã  la Creuse, la nature change
+d'aspect, les vallons s'enfouissent, les plateaux s'Ã©lÃ¨vent, la
+vÃ©gÃ©tation prend de l'essor, les eaux se prÃ©cipitent, les talus profonds
+se hÃ©rissent de rochers. Les traditions et les lÃ©gendes sont pourtant
+plus rares dans cette rÃ©gion pittoresque que dans nos plaines; mais
+elles sont gÃ©nÃ©ralement tristes, et, sauf ce qui se rapporte Ã 
+Gargantua, je n'ai pas trouvÃ© par lÃ  ce fonds d'_humour_ berrichonne qui
+mÃªle souvent l'ironie aux terreurs du monde fantastique.
+
+J'ai nommÃ© Gargantua, et, Ã  ce propos, je demanderai aux Ã©rudits si,
+avant la publication _du livre_ (c'est ainsi, je crois, qu'on disait du
+temps de Rabelais pour dÃ©signer le grand, le seul, le dÃ©lirant succÃ¨s
+littÃ©raire de l'Ã©poque), il n'y avait pas, dans les provinces, une
+lÃ©gende populaire de Gargantua, dont le grand satirique se serait
+emparÃ©, comme Goethe de la lÃ©gende de Faust, et comme MoliÃ¨re de la
+lÃ©gende de la Statue du Commandeur. Cette locution des enthousiastes
+contemporains de Rabelais, _le livre_, Ã©tait-elle uniquement une formule
+d'admiration exclusive? Ne signifiait-elle pas aussi une distinction Ã 
+Ã©tablir entre le poÃ¨me Ã©clatant et la lÃ©gende obscure? Les ogres remis Ã 
+la mode par Perrault sont bien les mÃªmes gÃ©ants que la chevalerie
+pourfendait au moyen-Ã¢ge. Gargantua ne serait-il pas de la mÃªme famille,
+et son nom n'aurait-il pas Ã©tÃ© ramassÃ© par l'auteur de _Pantagruel_
+parmi d'autres types populaires aujourd'hui oubliÃ©s pour n'avoir existÃ©
+que dans les contes de la veillÃ©e, de nos ancÃªtres?
+
+En Berry, oÃ¹ aucune tradition historique n'est restÃ©e dans la mÃ©moire
+des paysans, sinon Ã  l'Ã©tat de mythe, on est trÃ¨s surpris de retrouver
+une sorte d'histoire locale trÃ¨s prÃ©cise de Gargantua tout Ã  fait en
+dehors du poÃ¨me de Rabelais, bien que dans la mÃªme couleur. A Montlevic,
+une petite Ã©minence isolÃ©e dans la plaine a Ã©tÃ© formÃ©e par le pied de
+Gargantua. FourvoyÃ© dans nos terres argileuses, le gÃ©ant secoua _son
+sabot_ en ce lieu, et y laissa une colline.
+
+Sur la Creuse, aux limites du Berry, on retrouve Gargantua[9] enjambant
+le vaste et magnifique ravin oÃ¹ la riviÃ¨re s'engouffre, entre le clocher
+du Pin et celui de Ceaulmont, plantÃ© sur les bords escarpÃ©s de l'abÃ®me.
+Un bac rempli de moines vint Ã  passer entre les jambes du gÃ©ant. Il crut
+voir filer une truite, se baissa, prit l'embarcation entre deux doigts,
+avala le tout, trouva les moines gros et gras, mais rejeta le bateau en
+se plaignant de l'arÃªte du poisson.
+
+Ceux qui vous racontent ces choses n'ont certes jamais lu _le livre_, et
+pas plus qu'eux leurs aÃ¯eux n'ont su son existence. Le nom de Rabelais
+leur est aussi inconnu que ceux de Pantagruel et de Panurge. Le frÃ¨re
+Jean des Entomeures, ce type si populaire par sa nature et son langage,
+n'est pas arrivÃ© davantage Ã  la popularitÃ© de fait. Ces personnages sont
+l'Åuvre du poÃ¨te; mais je croirais que Gargantua est l'Åuvre du peuple
+et que, comme tous les grands crÃ©ateurs, Rabelais a pris son bien oÃ¹ il
+l'a trouvÃ©.
+
+Les superstitions des villages et des chaumiÃ¨res de la Creuse, dans le
+bas Berry, admettent donc les gÃ©ants, qui, par opposition, tiennent peu
+de place dans les chroniques du haut pays. Le haut pays est dÃ©couvert et
+ondulÃ©; le bas pays, ravinÃ© et encaissÃ©, est assis sur la roche qui sert
+de contre-forts aux escarpements du terrain. Ces roches micaschisteuses,
+de formes bizarres, prennent volontiers l'aspect de figures
+gigantesques; mais il s'en faut de beaucoup qu'elles paraissent risibles
+au pÃªcheur de mauvaise foi qui va, durant la nuit, lever les nasses de
+ses confrÃ¨res. Ce n'est pas le joyeux Gargantua qui lui apparaÃ®t: ce
+sont _les trois hommes de pierre_, que dans le jour, il appelait les
+rochers du moine, et qu'il voyait sans frayeur se mirer debout et
+immobiles sur le bord de l'eau transparente.
+
+Une nuit, Chauvat, du moulin _d'en bas_, les vit remuer, descendre de
+leur immense piÃ©destal et se promener sur le rivage en gesticulant; mais
+quels horribles gestes, et quelle marche terrifiante! Ils ne
+paraissaient avoir ni pieds ni jambes, et pourtant ils allaient plus
+vite que les eaux de la Creuse, et les cailloux broyÃ©s criaient sous
+leur poids. Il s'enfuit jusqu'Ã  sa maison et s'y barricada de son mieux;
+mais les hommes de pierre l'avaient suivi, et comme c'Ã©tait un mÃ©crÃ©ant
+qui ne songea point Ã  se recommander Ã  Dieu, le plus petit de ces
+colosses appuya son coude sur le pignon de la maison qui s'Ã©crasa comme
+une motte de beurre.
+
+Chauvat Ã©pouvantÃ©, se sauva dans sa grange; mais le second des hommes de
+pierre y posa la main et la fendit en quatre comme si c'eÃ»t Ã©tÃ© une
+vieille _huguenote_ en terre de Bazaiges.
+
+Chauvat eut le temps de se sauver et il se rÃ©fugia sur la grande Ã©cluse
+qui coupe la riviÃ¨re en biais d'un bord Ã  l'autre. LÃ  il se crut sauvÃ©;
+mais les trois hommes de pierre prirent ce chemin pour s'en retourner Ã 
+leur place ordinaire sur l'autre rive, et il se vit forcÃ© de rester lÃ ,
+ou de se jeter dans la riviÃ¨re qui est trÃ¨s profonde de chaque cÃ´tÃ© de
+l'Ã©cluse; car de courir plus vite que les gÃ©ants n'avanÃ§aient, il n'y
+fallait point songer.
+
+Il se rangea et se fit tout petit, n'osant souffler, couchÃ© de son long
+au ras de la chaussÃ©e, espÃ©rant que ces mÃ©chants blocs ne
+l'apercevraient point. Le premier passa; puis vint le second qui passa
+aussi. Chauvat commenÃ§ait Ã  respirer. Enfin vint le troisiÃ¨me, qui
+Ã©tait, de beaucoup, le plus grand et le plus lourd, et qui fit mine de
+passer de mÃªme que les autres. Mais la chaussÃ©e Ã©tait glissante et
+l'homme de pierre glissa.
+
+Par bonheur, Chauvat _se ressouvint enfin de son baptÃªme_, et fit le
+signe de la croix en demandant l'assistance du ciel. L'homme de pierre
+trÃ©bucha et ne tomba point, sans quoi le pauvre pÃªcheur eÃ»t Ã©tÃ© Ã©crasÃ©
+comme une coquille d'Åuf.
+
+Les _retournants_ sont, dans cette mÃªme partie du Berry, des hÃ´tes trÃ¨s
+nombreux. Il est peu de maison qui ne soit hantÃ©e de quelque Ã¢me en
+peine. La Creuse, noire et rapide en certains endroits profonds, oÃ¹ elle
+coule sans obstacle, entraÃ®ne et charrie les esprits plaintifs des gens
+qui ont trouvÃ© la mort dans ses flots. La nuit, on entend des cris
+dÃ©chirants; ce sont les noyÃ©s qui se lamentent et demandent des priÃ¨res.
+Ailleurs, elle Ã©cume et gronde dans les rochers; on entend lÃ  les
+imprÃ©cations de ceux qui sont damnÃ©s sans rÃ©mission.
+
+Le mot de _retournant_ est bien l'Ã©quivalent de celui de _revenant_.
+Cependant quelques vieilles femmes vous diront que les Ã¢mes des suicidÃ©s
+(les noyÃ©s volontaires) sont condamnÃ©es Ã  l'Ã©ternel travail de
+_retourner_ les grosses pierres qui encombrent le lit des torrents. Au
+milieu d'une cascade de la Creuse, une de ces roches noires offre
+tellement la figure d'une barque Ã©chouÃ©e, que de loin, on s'y trompe.
+C'est une pierre _retournÃ©e_: on vous assure qu'elle est blanche
+en-dessous, et qu'elle a Ã©tÃ© amenÃ©e lÃ  de bien loin, _par ceux qui
+retournent_.
+
+Ces lÃ©gendes se rattachent, sans doute, au lugubre souvenir des
+dÃ©sastres causÃ©s par les crues subites et terribles de la riviÃ¨re. En
+1845, une trombe de pluie gonfla si subitement les affluents torrentueux
+de la Creuse qui est, elle-mÃªme, en cet endroit, un torrent redoutable,
+que l'eau monta, dit-on, de plus de cent pieds, apportant toute une
+forÃªt rÃ©cemment abattue sur ses rives. Aux approches de l'unique pont de
+la contrÃ©e, la forÃªt voyageuse s'arrÃªta deux heures, prise et serrÃ©e
+entre les deux rives Ã  pic, et, Ã  cette masse, vinrent se joindre
+d'autres masses de toits, de bateaux, de barriÃ¨res et de dÃ©bris de toute
+sorte, si bien que les enfants, qui ne doutent de rien, passaient d'une
+rive Ã  l'autre, Ã  pied sec sur cette montagne flottante, au-dessus des
+vagues en fureur. Tout-Ã -coup la montagne se prÃ©cipita, emportant le
+pont qui l'avait retenue et balayant tout sur son passage, maisons,
+troupeaux, cultures et passants.
+
+Pourtant le souvenir de ce dÃ©sastre n'a pas suffi Ã  peupler d'Ã¢mes en
+peine les bords et les Ã®lots de la terrible riviÃ¨re. Il s'y joint la
+tradition vague d'un combat de faux-saulniers contre les gens de la
+gabelle, au temps oÃ¹ les seigneurs et les bourgeois conduisaient, dans
+les sentiers escarpÃ©s, leurs mulets chargÃ©s de sel de contrebande.
+L'histoire du Berry ne dit rien de cette bataille. Les vieux paysans
+l'ont entendue raconter Ã  leurs pÃ¨res, qui la tenaient de leurs
+grands-pÃ¨res. Beaucoup de gens, disent-ils, y pÃ©rirent, et furent
+prÃ©cipitÃ©s des rochers dans la Creuse. C'est pourquoi l'on entend, dans
+les _mauvaises nuits_, des voix que personne ne connaÃ®t et qui crient
+sans relÃ¢che: _Au sel! au sel!_ A ce cri, tous les mulets des pÃ¢turages
+voisins s'enfuient, les oreilles couchÃ©es et la queue entre les jambes,
+comme si le diable Ã©tait aprÃ¨s eux.
+
+Dans cette mÃªme rÃ©gion, la croyance au _grand serpent_ se rÃ©veille de
+temps Ã  autre. On se soucie peu des milliers de vipÃ¨res qui vivent dans
+les rochers et qui, dit-on, n'ont jamais fait de mal Ã  personne; mais le
+serpent de quarante pieds de longueur et qui a la tÃªte faite comme un
+homme, est celui dont on se prÃ©occupe. C'est probablement le mÃªme qui,
+_dans les temps anciens, mangea_ trois prisonniers dans le cachot de la
+grosse tour de ChÃ¢teaubrun. Depuis, il s'est montrÃ© plusieurs fois, et
+l'annÃ©e derniÃ¨re, 1857, tout le pays Ã©tait en Ã©moi, parce qu'une bergÃ¨re
+l'avait vu dans un buisson. Plus de cinquante chasseurs Ã©taient sur pied
+pour le chercher; mais, comme de coutume, on ne le trouva point.
+
+
+
+
+Le follet d'Ep-nell
+
+
+Sous la pierre d'Ep-nell, un follet de mauvaise race se tient blotti.
+C'est un follet Ã  queue: ce sont les pires. Au lieu de soigner et de
+promener les chevaux, ils les effraient, les maltraitent et les rendent
+poussifs.
+
+Maurice SAND.
+
+
+_Georgeon_ Ã©tait le diable de la partie du Berry que l'on appelle la
+vallÃ©e Noire. Je dis _Ã©tait_, parce qu'il est fort oubliÃ© aujourd'hui et
+qu'il faut remonter au souvenir des vieillards morts depuis une
+trentaine d'annÃ©es, pour repÃªcher dans le fleuve d'oubli qui passe si
+vite aujourd'hui, le nom mystÃ©rieux qui ne devait jamais Ãªtre Ã©crit, Â«ni
+sur papier, ni sur bois, ni sur ardoise, ni sur pierre quelconque, ni
+sur Ã©toffe, ni sur terre, ni sur poussiÃ¨re ou sable, ni mÃªme sur neige
+tombÃ©e du ciel.Â» Ce nom terrible, qui prÃ©sidait aux formules les plus
+efficaces et les plus secrÃ¨tes, ne devait Ãªtre confiÃ© aux adeptes de la
+sorcellerie que dans le _pertuis de l'oreille_, et il n'Ã©tait pas permis
+de le leur dire plus de trois fois. S'ils l'oubliaient, c'Ã©tait tant pis
+pour eux. Il fallait financer de nouveau pour obtenir de l'entendre
+encore.
+
+Ce nom devait, en aucune circonstance, Ãªtre rÃ©vÃ©lÃ© aux profanes et
+jamais prononcÃ© tout haut, sinon dans la nuit noire et l'entiÃ¨re
+solitude. Celui qui me les confia l'avait surpris et _n'y croyait
+point_. Pourtant il se repentit de me l'avoir dit et revint me prier de
+ne pas le rÃ©pÃ©ter. Â«J'ai mal rÃªvÃ© cette nuit, disait-il; par trois fois
+ma fenÃªtre s'est ouverte toute grande, sans que personne autre que moi
+fÃ»t entrÃ© dans ma chambre.Â»
+
+Quel Ã©tait le rang et le titre de _Georgeon_ dans la hiÃ©rarchie des
+esprits de malice? C'est ce que je n'ai pu savoir. C'est lui qu'il
+fallait appeler aux _carrois_ ou carrefours des chemins, ou sous
+certains vieux arbres mal famÃ©s, pour faire apparaÃ®tre l'esprit
+mystÃ©rieux. Avait-il pouvoir par lui-mÃªme sur certaines choses de la
+nature, ou n'Ã©tait-il qu'un messager intermÃ©diaire entre l'enfer et
+l'adepte? Je le croirais: un homme du nom de Georgeon avait Ã©tÃ© jadis
+emportÃ© Ã  Montgivray par le diable. C'est peut-Ãªtre cette mauvaise Ã¢me
+qui faisait dÃ¨s lors le mÃ©tier de conduire les autres Ã¢mes Ã  la
+perdition.
+
+Georgeon Ã©tait Ã  moitiÃ© invisible, en ce sens qu'il n'apparaissait que
+dans les nuits sans lune ou Ã  travers d'Ã©pais brouillards. On voyait
+alors une forme humaine plus grande que nature; mais l'habit, les
+traits, les dÃ©tails de cette forme restaient toujours insaisissables, ou
+tellement vagues qu'il Ã©tait impossible d'en conserver la mÃ©moire aussi
+bien que de le reconnaÃ®tre, mÃªme Ã  la voix, quand on avait plusieurs
+entrevues avec lui. Il fallait chaque fois l'appeler par son nom, et lui
+dire: Â«Est-ce toi avec qui j'ai parlÃ© telle nuit et en tel lieu?Â» S'il
+ne rÃ©pondait pas _c'est moi_, il fallait se dÃ©fier et ne rien lui
+raconter de ce qui s'Ã©tait passÃ© dans les prÃ©cÃ©dents entretiens avec le
+diable, soit que Georgeon cachÃ¢t son identitÃ© pour Ã©prouver la
+discrÃ©tion et la prudence de son adepte, soit que le paysan pousse la
+prudence jusqu'Ã  se mÃ©fier du diable, mÃªme aprÃ¨s s'Ãªtre donnÃ© Ã  lui.
+
+Il est certain, tout au moins, que le paysan a la prÃ©tention d'Ãªtre
+aussi rusÃ© que Satan et qu'en tout pays ses lÃ©gendes merveilleuses sont
+pleines de malices attribuÃ©es Ã  de bons gars qui ont su berner le dÃ©mon
+et le prendre dans ses propres piÃ¨ges. Parmi les plus jolies, il faut
+citer celle du fÃ© _amoureux_ que rapporte l'auteur de la _Normandie
+merveilleuse_ et qui a toute la grÃ¢ce du langage rustique. Le _fÃ©_
+s'Ã©tait Ã©pris d'une belle femme de campagne; chaque soir, pendant
+qu'elle filait auprÃ¨s de son feu, il venait s'asseoir sur un escabeau, Ã 
+l'autre coin de la cheminÃ©e. La femme s'Ã©tant aperÃ§ue de sa prÃ©sence et
+de ses regards de convoitise, avertit son mari, qui prit ses vÃªtements,
+sa place et sa quenouille, et faisant mine de filer, attendit le lutin.
+Celui-ci arrive, regarde de travers l'Ã©trange filandiÃ¨re et lui dit: Â«OÃ¹
+donc est la belle, belle, d'hier au soir, qui file, file, et _atourole_
+toujours, car toi, tu tournes, tournes, et tu n'_atourole_ pas?Â» Le mari
+ne rÃ©pond rien et attend que le _fÃ©_ se soit assis sur l'escabeau d'oÃ¹
+il avait coutume de dÃ©vorer des yeux la femme du logis, et oÃ¹ l'on avait
+traÃ®teusement placÃ© la galetiÃ¨re[10] rougie au feu. Le _fÃ©_ s'assied, en
+effet, brÃ»le outrageusement sa queue et fait un grand cri, en disant:
+Â«Qui m'a fait cette mauvaise mauvaisetÃ©? Est-ce la belle, belle, qui
+atourole toujours?--Non, rÃ©pond le mari; c'est _moi, moi-mÃªme_, qui
+n'atourole jamais!Â» Le _fÃ©_ exaspÃ©rÃ© s'envole par la cheminÃ©e pour
+appeler ses compagnons qui prenaient leurs Ã©bats sur le toit. Â«Qu'as-tu
+donc Ã  crier, crier? lui disent-ils.--Je me brÃ»le, brÃ»le!--Et qui t'a
+ainsi brÃ»lÃ©, brÃ»lÃ©?--C'est _moi, moi-mÃªme_, qui n'atourole jamais[11].Â»
+
+Cette rÃ©ponse parut si stupide aux autres fÃ©s, qui sont des esprits trÃ¨s
+railleurs, que le mari de la belle fileuse les entendit rire comme des
+fous, huer, berner et chasser le pauvre amoureux, de quoi il fut fort
+aise, car il avait eu bien peur d'attirer contre lui toute la bande des
+lutins, et jamais plus l'amoureux de sa femme n'osa se prÃ©senter
+derechef en sa maison.
+
+Cette lÃ©gende normande a une sorte de pendant en Berry, ou plutÃ´t c'est
+la mÃªme lÃ©gende, avec des variantes qui caractÃ©risent l'esprit local.
+
+Ici le follet, ou fadet, l'histoire ne dit pas prÃ©cisÃ©ment Ã  quel type
+d'esprits malins il appartenait, n'avait nullement l'amour en tÃªte.
+Positif comme un diable berrichon, il ne songeait qu'Ã  faire enrager la
+filandiÃ¨re, laquelle n'_atourolait_ pas le lin sur son fuseau, mais
+filait en faisant _virer_ de la laine sur un rouet, et, au lieu de la
+contempler avec des yeux tendres, il embrouillait et cassait mÃ©chamment
+son brin, afin de pouvoir, pendant qu'elle le raccommodait, se glisser
+dans l'_arche_ (la huche au pain) et d'y voler les galettes que la
+mÃ©nagÃ¨re avait mises en rÃ©serve pour ses enfants.
+
+S'Ã©tant aperÃ§ue de ce manÃ¨ge la bonne femme ne fit semblant de rien et
+feignant de se baisser, elle ramassa subtilement le fin bout de la
+longue queue du personnage, l'attacha avec son brin de laine et se mit Ã 
+la _vironner_, _vironner_ sur son rouet, comme si ce fÃ»t un Ã©cheveau.
+
+Le fadet ne s'en aperÃ§ut pas tout de suite, occupÃ© qu'il Ã©tait Ã  se
+vautrer dans la galette au fromage. Mais quand le rouet eut roulÃ© cinq
+ou six brassÃ©s de queue, il le sentit fort bien et se prit Ã  crier: _Ma
+queue, ma queue_. La dÃ©videuse n'en tint pas compte, et, toujours
+_vironnant_, se mit Ã  chanter: _Pelotte, pelotte, ma roulotte_! d'une si
+bonne voix et menant si grand bruit avec sa roue, que les autres
+diables, embusquÃ©s sur le toit, n'entendirent pas les gÃ©missements et
+les imprÃ©cations de leur camarade, lequel fut bien forcÃ© de se rendre,
+et de jurer par le nom du grand diable d'enfer qu'il ne remettrait
+jamais les pieds dans la maison.
+
+D'aprÃ¨s certaines versions, le lutin qui s'amuse Ã  _jouiller_
+(embrouiller et mÃªler) les fils des dÃ©videuses est un esprit femelle,
+une mauvaise _fade_. J'ai entendu, dans mon enfance, une vieille qui
+avait coutume de dire en pareille occasion, la _jouillarde s'y est
+mise_! et elle faisait une croix dans la main pour conjurer et chasser
+la diablesse.
+
+Ce qu'ailleurs on appelle le _gobelin_, le _fÃ©_, le _lutin_, le
+_farfadet_, le _kobbold_, l'_orco_, l'_elfe_, le _troll_, etc., etc., en
+Berry, on l'appelle le plus souvent le follet. Il en est de bons et de
+mauvais. Ceux qui pansent les chevaux Ã  l'Ã©curie et dont tous les valets
+de ferme entendent le fouet et l'appel de langue, de mÃªme que ceux qui,
+la nuit, font galoper la chevaline au pÃ¢turage, et qui leur _jouillent_
+le crin pour s'en faire des Ã©triers (vu qu'ils sont trop petits pour se
+tenir sur la croupe de l'animal et qu'ils chevauchent toujours sur
+l'encolure), sont d'assez bons enfants et fuient Ã  l'approche de
+l'homme. Toute leur malice consiste Ã  faire mourir ou avorter les
+juments dont on se permet de couper la criniÃ¨re quand il leur a plu de
+la tresser et de la nouer pour leur usage. On appelle les montures
+favorites du follet _chevaux bouclÃ©s_, et autrefois on les estimait
+comme les meilleurs et les plus ardents. Les juments _pansÃ©es du follet_
+Ã©taient recherchÃ©es en foire comme bonnes pouliniÃ¨res.
+
+
+Ce follet des Ã©curies existe encore chez nous dans la croyance de
+beaucoup de gens. Tous les paysans de quarante ans, qui se sont adonnÃ©s
+Ã  l'Ã©levage des chevaux, l'ont vu et en font serment avec une candeur
+impossible Ã  rÃ©voquer en doute. Ils n'en ont jamais eu peur, sachant
+qu'il n'est pas mÃ©chant. Ils le dÃ©crivent tous de la mÃªme maniÃ¨re. Il
+est gros comme un petit coq et il en a la crÃªte d'un rouge vif. Ses yeux
+sont de feu, son corps est celui d'un petit homme assez bien fait, sauf
+qu'il a des griffes au lieu d'ongles. On varie quant Ã  la queue; selon
+les uns elle est en plumes, selon les autres, c'est une queue de rat
+d'une longueur dÃ©mesurÃ©e, et dont il se sert, comme d'un fouet, pour
+faire courir sa monture.
+
+Dans le nord de la France, certains de ces nains sont forts mÃ©chants et
+se plaisent Ã  Ã©garer les voyageurs. Dans la Marche, autour des dolmens,
+tout esprit est dangereux et hostile Ã  l'homme parce qu'il est prÃ©posÃ© Ã 
+la garde des trÃ©sors cachÃ©s sous les grosses pierres. Malheur aux
+curieux et surtout aux ambitieux qui vont rÃ´der la nuit autour de ces
+monuments oÃ¹ rÃ¨gne l'Ã©ternel mystÃ¨re de la tradition. Ils sautent sur le
+cou du cheval, font tomber le cavalier et le rouent de coups. Pourtant
+on peut s'en prÃ©server de plusieurs maniÃ¨res, quand on a Ã©tÃ© assez hardi
+pour Ã©tudier, Ã  tout risque, leurs habitudes et leurs fantaisies. En
+gÃ©nÃ©ral, ils ne sont pas intelligents et parlent avec difficultÃ© la
+langue de l'homme. Comme ceux de la Normandie et comme les Korigans de
+la Bretagne, ils ont la manie ou plutÃ´t l'infirmitÃ© de rÃ©pÃ©ter deux fois
+le mÃªme mot, sans pouvoir arriver jusqu'Ã  trois, ou s'ils dÃ©passent ce
+nombre en le doublant, ils ne peuvent pas le dire une septiÃ¨me fois.
+
+Un chercheur de trÃ©sors, qui voyait le nain sauter devant lui en
+l'entraÃ®nant dans une ronde magnÃ©tique et en lui disant sans cesse d'une
+petite voix aigre: _Tourne, tourne_, l'arrÃªta court en lui rÃ©pondant: Je
+tourne, je retourne et je dÃ©tourne. Le lutin ne comprit pas, et, pensant
+que c'Ã©tait lÃ  une formule au-dessus de son savoir, il lÃ¢cha l'homme,
+sauta sur la pierre et la fit danser si fort et tourner si vite qu'il en
+sortait du feu. L'homme n'osa pas en approcher, mais il put se retirer
+sans Ãªtre suivi. Seulement, le nain lui avait imprimÃ© un tel mouvement
+de rotation, en le faisant valser avec lui autour de la pierre
+endiablÃ©e, qu'il rentra chez lui toujours tournant sur lui-mÃªme comme
+une toupie lancÃ©e, et alla tomber de fatigue Ã  la porte de sa maison.
+
+
+
+
+Le casseu' de bois
+
+Malheur Ã  la ramasseuse de bois qui rencontre sur son chemin l'homme de
+fer rouge! Ravageant les arbres de la forÃªt, il ne permet pas que les
+humains profitent de ses dÃ©gÃ¢ts.
+
+Maurice SAND.
+
+
+Le pauvre paysan est quelquefois un charmant poÃ¨te, tÃ©moin cette fable
+oÃ¹ il plaisante sa propre misÃ¨re avec une si douce mÃ©lancolie:
+
+
+Â«Au mois d'avril, la _ruiche_ (le rouge-gorge) et le _roi-Berthault_ (le
+roitelet) se rencontrÃ¨rent aux bois et se demandÃ¨rent _leurs
+portements_.--Ãa va trÃ¨s bien, Dieu merci, dit la ruiche; j'ai passÃ© un
+bon hiver.--Et moi de mÃªme, dit le roi-Berthault; j'ai passÃ© l'hiver
+chez le bÃ»cheron et je me suis diantrement chauffÃ©! Ces gens-lÃ  font des
+feux, si vous saviez, ma chÃ¨re! Ils vous font brÃ»ler des bÃ»ches aussi
+grosses que ma jambe!--Vrai? dit la ruiche Ã©merveillÃ©e. Eh bien! moi,
+j'ai mangÃ© mon saoul chez le laboureur! Il avait du blÃ© dans son
+grenier, oh! mais du blÃ©! Debout sur le plancher, j'en avais jusqu'au
+ventre!Â»
+
+Les hallucinations du paysan qui, aussi bien que ses traditions, donnent
+souvent lieu Ã  des croyances et Ã  des lÃ©gendes, prouvent que s'il est
+gÃ©nÃ©ralement privÃ© du sens d'une clairvoyante observation, il a la
+facultÃ© extraordinairement poÃ©tique de personnifier l'apparence des
+choses et d'en saisir le cÃ´tÃ© merveilleux. Les reflets embrasÃ©s du
+soleil couchant sous les grands ombrages ont donnÃ© naissance Ã  l'homme
+de feu ou de fer rouge, ou tout simplement de _bois de vergne_[12], qui
+court de tige en tige, brisant ou embrasant. C'est lui qui, dans la
+nuit, allume ces terribles incendies oÃ¹ sont dÃ©vorÃ©es des forÃªts
+entiÃ¨res et dont la cause, trop souvent attribuÃ©e Ã  la malveillance,
+reste toujours trÃ¨s mystÃ©rieuse. Disons, en passant, que la chute des
+aÃ©rolites peut expliquer bien des choses et que le paysan de nos jours
+commence Ã  s'en rendre compte. L'an dernier, une femme de la Berthenoux
+tricotait devant sa porte, quand elle vit une lumiÃ¨re Ã  rendre aveugle
+et entendit un bruit Ã  rendre sourd. En une minute, sa maison fut en
+feu; elle n'eut que le temps de sortir son enfant qui dormait, et vit
+brÃ»ler sa pauvre demeure avec une rapiditÃ© qui tenait du prodige. Â«Ce
+n'Ã©tait pas, dit-elle, un feu comme un autre; j'ai bien vu quelque chose
+tomber du ciel; mais ce n'Ã©tait pas le feu ordinaire du ciel; l'air
+Ã©tait tranquille et il n'y avait pas d'orage du tout.Â» Le fait fut
+constatÃ© par de nombreux tÃ©moins et personne ne songea Ã  accuser la
+pauvre femme de s'Ãªtre vouÃ©e au diable ou d'avoir encouru la colÃ¨re du
+ciel. Il y a cent ans, les choses se fussent passÃ©es autrement. La
+malheureuse eÃ»t Ã©tÃ© maudite et repoussÃ©e de tous, ou bien ses voisins
+eussent Ã©tÃ© accusÃ©s de sortilÃ¨ge. Il y a deux cents ans, quelqu'un, Ã 
+coup sÃ»r, eÃ»t Ã©tÃ© brÃ»lÃ© pour ce fait, soit la victime de l'incendie,
+soit le premier passant qui eÃ»t Ã©ternuÃ© de travers au moment du
+sinistre.
+
+L'homme de feu est aussi nommÃ© _casseu' de bois_. Il prend diverses
+apparences et joue divers rÃ´les, selon les localitÃ©s. Il n'est pas
+toujours flamboyant et incendiaire et se fait entendre plus souvent
+qu'il ne se montre. Dans les nuits brumeuses, il frappe Ã  coups
+redoublÃ©s sur les arbres, et les gardes-forestiers, convaincus qu'ils
+ont affaire Ã  d'audacieux voleurs de bois, courent au bruit et
+aperÃ§oivent quelquefois le pÃ¢le Ã©clair de sa puissante cognÃ©e. Mais,
+chose Ã©trange, ces grands arbres que l'on entendait crier sous ses coups
+et qu'on s'attendait Ã  trouver profondÃ©ment entaillÃ©s, n'en portaient
+pas la moindre trace. Le _casseu'_, ou le _coupeu'_, ou le _batteu'_,
+car le fantÃ´me porte tous ces noms, est quelquefois le gÃ©nie protecteur
+de la forÃªt qu'il a prise en affection. Il faut se garder de toucher aux
+arbres sur lesquels il a frappÃ© pour avertir de sa prÃ©dilection.
+
+On sait que des troncs pourris Ã©mane quelquefois une lueur
+phosphorescente. Cette lueur, bien rÃ©elle et bien visible, a donnÃ© lieu
+Ã  une foule de prÃ©tendues apparitions. J'en ai vu une du plus bel
+aspect, et le paysan qui m'accompagnait me raconta l'histoire suivante:
+
+Â«Un bon curÃ©, qui n'avait crainte d'aucune chose, passait souvent, le
+soir, dans les bois, en revenant d'une paroisse voisine oÃ¹ il allait
+souper et faire la partie de cartes avec un confrÃ¨re.
+
+Il voyait toujours, au mÃªme endroit, une lueur blanche Ã  laquelle il ne
+donnait pas grande attention, bien que son cheval fit, chaque fois, un
+petit Ã©cart et dressÃ¢t les oreilles comme s'il eÃ»t vu ou senti quelque
+chose d'extraordinaire.
+
+Un soir que la lueur lui parut plus vive que de coutume et que son
+cheval se montra plus inquiet, le curÃ© rÃ©solut d'en avoir le cÅur net et
+voulut entrer sous bois du cÃ´tÃ© oÃ¹ la clartÃ© paraissait; mais son cheval
+s'en dÃ©fendit si bien, qu'il y renonÃ§a et rÃ©solut d'aller voir, au jour,
+s'il y avait par lÃ  quelque charbonniÃ¨re mal couverte qui menaÃ§Ã¢t de
+mettre le feu Ã  la futaie.
+
+Il y alla donc le lendemain matin, et ne trouva, Ã  plus d'un quart de
+lieue Ã  la ronde, aucune charbonniÃ¨re allumÃ©e ou Ã©teinte, aucune hutte,
+aucune trace de feu ni cause de lumiÃ¨re. Il n'y songea plus.
+
+Mais une semaine plus tard, repassant lÃ  sur le minuit, il vit un grand
+rond de feu blanc qui flambait en travers de son chemin, et son cheval
+se cabra et refusa tout-Ã -fait d'avancer.
+
+Le curÃ© mit pied Ã  terre, prit sa bÃªte par la bride et avanÃ§a rÃ©solument
+jusqu'au milieu du feu qui, non-seulement ne le brÃ»la pas, mais ne lui
+fit sentir aucune chaleur.
+
+Il en fut si Ã©tonnÃ© que, parvenu au milieu du cercle, il ne put
+s'empÃªcher d'en rire et de s'Ã©crier: Â«Ah! par tous les diables, voici la
+premiÃ¨re fois de ma vie que je rencontre du feu froid.Â»
+
+Ce bon curÃ©, ayant autrefois servi dans les armÃ©es, avait la mauvaise
+habitude de mÃªler quelques jurons Ã  ses paroles, mais sans aucunement
+penser Ã  mal.
+
+Il n'eut pas plutÃ´t lÃ¢chÃ© cette imprudente rÃ©flexion, qu'il entendit une
+voix _sifflante comme la graisse qui grÃ©sille dans une poÃªle_, et cette
+voix, qui semblait venir de dessous terre, disait: Â«_Si tu veux du feu
+chaud, on t'en donnera_.Â»
+
+A ce coup, le curÃ© sentit la peur lui courir dans les cheveux; mais il
+ne perdit pas la tÃªte et rÃ©pondit fort Ã  propos: Â«Merci, mon camarade
+d'en bas, je n'ai besoin de rien.Â»
+
+Le feu cessa tout-Ã -coup et la voix parut se renfoncer sous terre en
+murmurant: Â«_Poltron de curÃ©, va te coucher, va, poltron de curÃ©!_Â»
+
+Ce dÃ©fi irrita l'ancien aumÃ´nier de rÃ©giment. Â«Poltron de curÃ©! fit-il
+avec sa plus grosse voix, poltron de curÃ©! Eh bien! viens donc un peut
+t'y frotter, toi, le beau flambeur qui te caches sous la terre?Â» Et du
+bout de son bÃ¢ton, il fit un grand cercle autour de lui Ã  l'endroit oÃ¹
+il avait vu le cercle de feu blanc, riant toujours en disant: Â«Tu vois,
+je ne veux pas sortir de lÃ , c'est lÃ  que je t'attends de pied ferme,
+homme ou diable!Â»
+
+Et comme rien ne paraissait ni ne bougeait, il s'escrima de son bÃ¢ton,
+frappant devant lui, Ã  droite, Ã  gauche, derriÃ¨re, partout, et, chaque
+fois qu'il frappait, il entendait gÃ©mir et crier comme si trente diables
+invisibles eussent reÃ§u la bonne _trempÃ©e_ qu'il leur administrait.
+
+Or, comme ce jeu plaisait Ã  son humeur courageuse, il y _prit goÃ»t et
+rage_ et battit ainsi le diable une heure durant, jusqu'Ã  ce que les
+cris et les plaintes, qui allaient toujours s'amoindrissant, fissent
+place Ã  de faibles soupirs et enfin au plus profond silence. Alors le
+curÃ©, qui s'Ã©tait mis tout en sueur, sortit du cercle et alla reprendre
+son cheval qui s'Ã©tait sauvÃ© non loin de lÃ .
+
+Quand il se fut essuyÃ© le front et remis en selle, il reprit le chemin
+de son presbytÃ¨re et jamais plus ne revit la lueur dans le bois.
+
+Mais la veille de la fÃªte des trÃ©passÃ©s de la mÃªme annÃ©e, il entendit,
+sur le minuit, frapper Ã  sa porte. Il appela son sacristain, qui lui
+servait de domestique, et lui dit: On frappe en bas mon garÃ§on. Va donc
+voir ce que c'est!
+
+Le sacristain alla ouvrir et revint, disant: Foi d'homme, monsieur le
+curÃ©, vous avez rÃªvÃ© Ã§a, il n'y a personne Ã  la porte.
+
+Le curÃ© se rendormit; mais, entendant frapper pour la seconde fois, il
+se rÃ©veilla de nouveau. Il appela encore son valet, qui ne faisait que
+de se remettre au lit et qui lui jura qu'il se trompait. Pour son
+compte, il n'avait rien entendu.
+
+Le curÃ© retournait Ã  son lit, lorsqu'on frappa encore. Jean, dit-il,
+es-tu devenus sourd ou si c'est un bruit que j'ai dans les oreilles?
+
+--Vous l'avez au moins dans la tÃªte, monsieur le curÃ©, rÃ©pondit Jean; je
+n'entends rien que l'horloge de l'Ã©glise qui dit _tic-toc_, et la
+chouette qui dit _hou hou_ dans le clocher.
+
+Le curÃ© se figura que c'Ã©tait peut-Ãªtre un avertissement du ciel pour
+qu'il eÃ»t Ã  se mettre en Ã©tat de grÃ¢ce avant de mourir. Mais, comme
+c'Ã©tait un homme Ã  vouloir Ãªtre sÃ»r de son fait, il alluma une lanterne
+et descendit ouvrir lui-mÃªme.--_Bonne nuit, monsieur le curÃ©_, lui dit
+une voix qu'il connaissait, sans qu'il pÃ»t voir aucune figure.
+
+--Bonne nuit, pÃ¨re Cadet, rÃ©pondit le curÃ© sans se dÃ©concerter, et il
+referma sa porte, _s'imaginant_ beaucoup en lui-mÃªme, car il avait portÃ©
+en terre le pÃ¨re Cadet il y avait environ une annÃ©e.
+
+Il allait remonter l'escalier de sa chambre, quand on frappa encore.
+Bon, dit-il, ce pauvre dÃ©funt aura oublier de me demander des priÃ¨res;
+il ne faut pas lui en refuser; et il rouvrit la porte, disant: Est-ce
+encore vous, pÃ¨re Cadet?
+
+--Non, monsieur le curÃ©, c'est moi, fit une voix de femme; je viens vous
+souhaiter une bonne nuit.
+
+--Et Ã  vous pareillement, mÃ¨re Guite, rÃ©pondit-il, refermant sa porte;
+or, la mÃ¨re Guite avait Ã©tÃ© enterrÃ©e chrÃ©tiennement environ six mois
+auparavant.
+
+Mais on frappa encore, et, cette fois, le curÃ© entendit une jeune voix
+douce qui lui disait: C'est moi, le petit enfant Ã  la Jeanne Bonnine,
+que vous avez baptisÃ© et enterrÃ© le mÃªme jour de l'Ã©tÃ© dernier. Je viens
+vous souhaiter la bonne nuit, monsieur le curÃ©.
+
+--Par ma foi, dit le curÃ©, vous me la souhaiterez tant, qu'elle sera
+nuit blanche. Si vous avez des honnÃªtetÃ©s Ã  me faire, ne pouvez-vous
+venir tous ensemble? ce sera plus tÃ´t fini!
+
+AussitÃ´t le curÃ© vit clairement, devant sa porte, une douzaine de gens
+qu'il avait enterrÃ©s dans l'annÃ©e, hommes, femmes, vieux et jeunes: le
+pÃ¨re Chaudy, qui Ã©tait mort en moisson et qui tenait encore sa faucille;
+la Jeanne Bonnine, qui Ã©tait morte en couches et qui tenait son pauvre
+nourrisson sur son bras; et ainsi des autres, voir la vieille Guite, qui
+Ã©tait morte de la _grand'peur_ pour avoir vu _l'homme de feu rouge_ lui
+faire reproche et menace, un soir qu'elle ramassait du bois mort dans la
+taille.
+
+--Ãa, mes chers paroissiens, dit le hardi curÃ©, je suis aise de vous
+voir debout; Ãªtes-vous toutes en paradis, mes bonnes Ã¢mes?
+
+--Nous nous mettons en route sur l'heure, monsieur le curÃ©, rÃ©pondit la
+Jeanne; nous Ã©tions en peine et en souffrance pour nos pÃ©chÃ©s, sous la
+garde d'un esprit mÃ©chant qui nous faisait danser toutes les nuits sous
+les arbres; mais vous nous avez si bien battus dans le bois du Chassin,
+que notre compte a Ã©tÃ© acquittÃ©. Ah! que vous frappez rude, monsieur le
+curÃ©! Dieu vous le rende, pour le bien que vous avez fait Ã  nos Ã¢mes!
+
+--C'est bien, mes enfants, rÃ©pondit le curÃ©, Bon voyage et priez pour
+moi!
+
+Il s'en alla dormir et jamais n'avait si bien dormi,Â» dit le narrateur
+en finissant.
+
+
+
+
+Le meuneu' de loups
+
+Â«Cent agneaux vous aurez,
+Courant dedans la brande[13];
+Belle, avec moi venez,
+Cent agneaux vous aurez.
+
+--Les agneaux qu'ous avez
+Ont la gueule trop grande;
+Sans moi vous garderez
+Les agneaux qu'ous avez.Â»
+
+_Recueilli_ par Maurice SAND.
+
+
+Â«Paunay, Saunay, Rosnay, Villiers
+Quatre paroisses de sorciers.Â»
+
+C'est lÃ  un dicton du pays de Brenne, et les historiens du Berry
+dÃ©signent cette rÃ©gion marÃ©cageuse comme le pays privilÃ©giÃ© des _meneux
+de loups et jeteux de sorts_.
+
+La croyance aux meneux de loups est rÃ©pandue dans toute la France. C'est
+le dernier vestige de la lÃ©gende si longtemps accrÃ©ditÃ©e des
+lycanthropes. En Berry, oÃ¹ dÃ©jÃ  les contes que l'on fait Ã  nos petits
+enfants ne sont plus aussi merveilleux ni aussi terribles que ceux que
+nous faisaient nos grand'mÃ¨res, je ne me souviens pas que l'on m'ait
+jamais parlÃ© des hommes-loups de l'antiquitÃ© et du moyen-Ã¢ge. Cependant
+on s'y sert encore du mot de _garou_ qui signifie bien, Ã  lui tout seul,
+homme-loup; mais on en a perdu le vrai sens. Le loup-garou est un loup
+ensorcelÃ©, et les _meneux de loups_ ne sont plus les capitaines de ces
+bandes de sorciers qui se changeaient en loups pour dÃ©vorer les enfants;
+ce sont des hommes savants et mystÃ©rieux, de vieux bÃ»cherons ou de
+malins gardes-chasse, qui possÃ¨dent le _secret_ pour charmer, soumettre,
+apprivoiser et conduire les loups vÃ©ritables.
+
+Je connais plusieurs personnes qui ont rencontrÃ©, aux premiÃ¨res clartÃ©s
+de la lune, au carroi de la Croix-Blanche, le pÃ¨re Soupison, surnommÃ©
+_DÃ©monnet_, s'en allant tout seul, Ã  grands pas, et suivi de plus de
+trente loups.
+
+Une nuit, dans la forÃªt de ChÃ¢teauroux, deux hommes, qui me l'ont
+racontÃ©, virent passer sous bois, une grande bande de loups. Ils en
+furent trÃ¨s effrayÃ©s et montÃ¨rent sur un arbre, d'oÃ¹ ils virent ces
+animaux s'arrÃªter Ã  la porte de la hutte d'un bÃ»cheron. Ils
+l'entourÃ¨rent en poussant des hurlements effroyables. Le bÃ»cheron
+sortit, leur parla dans une langue inconnue, se promena au milieu d'eux,
+aprÃ¨s quoi ils se dispersÃ¨rent sans lui faire aucun mal.
+
+Ceci est une histoire de paysan. Mais deux personnes riches, ayant reÃ§u
+de l'Ã©ducation, gens de beaucoup de sens et d'habiletÃ© dans les
+affaires, vivant dans le voisinage d'une forÃªt oÃ¹ elles chassaient fort
+souvent, m'ont jurÃ©, _sur l'honneur_, avoir vu, Ã©tant ensemble, un vieux
+garde-forestier, de leur connaissance, s'arrÃªter Ã  un carrefour Ã©cartÃ©
+et faire des gestes bizarres. Ces deux personnes se cachÃ¨rent pour
+l'observer et virent treize loups, dont un Ã©norme alla droit au
+_charmeur_ et lui fit des caresses; celui-ci siffla les autres, comme on
+siffle des chiens, et s'enfonÃ§a avec eux dans l'Ã©paisseur du bois. Les
+deux tÃ©moins de cette scÃ¨ne Ã©trange n'osÃ¨rent l'y suivre et se
+retirÃ¨rent aussi surpris qu'effrayÃ©s.
+
+Ceci me fut racontÃ© si sÃ©rieusement que je dÃ©clare n'avoir pas d'opinion
+sur le fait. J'ai Ã©tÃ© Ã©levÃ© aux champs et j'ai cru si longtemps Ã 
+certaines visions que je n'ai pas eues, mais que j'ai vu subir autour de
+moi, que, mÃªme aujourd'hui, je ne saurais trop dire oÃ¹ la rÃ©alitÃ© finit
+et oÃ¹ l'hallucination commence. Je sais qu'il y a des dompteurs
+d'animaux fÃ©roces. Y a-t-il des charmeurs d'animaux sauvages en libertÃ©?
+Les deux personnes qui m'ont racontÃ© le fait ci-dessus l'ont-elles rÃªvÃ©
+simultanÃ©ment, ou le prÃ©tendu sorcier avait-il apprivoisÃ© treize loups
+pour son plaisir? Ce que je crois fermement, c'est que les deux
+narrateurs avaient vu identiquement la mÃªme chose et qu'ils
+l'affirmaient avec sincÃ©ritÃ©.
+
+Dans le Morvan, les mÃ©nÃ©triers sont meneux de loups. Ils ne peuvent
+apprendre la musique qu'en se vouant au diable, et souvent _leur maÃ®tre_
+les bat et leur casse leurs instruments sur le dos, quand ils lui
+dÃ©sobÃ©issent. Les loups de ce pays-lÃ  sont aussi les sujets de Satan; ce
+ne sont pas de vrais loups. La tradition de la lycanthropie se serait
+mieux conservÃ©e lÃ  que dans le Berry.
+
+Il y a une cinquantaine d'annÃ©es, les _sonneurs_ de musette et de vielle
+Ã©taient encore sorciers dans la vallÃ©e Noire. Ils ont perdu cette
+mauvaise rÃ©putation; mais on raconte encore l'histoire d'un maÃ®tre
+sonneur qui avait tant de talent et menait une conduite si chrÃ©tienne,
+que le curÃ© de sa paroisse le faisait jouer Ã  la grand'messe durant
+l'Ã©lÃ©vation. Il jouait des airs d'Ã©glise, ce qui entrait bien dans
+l'Ã©ducation musicale des mÃ©nÃ©triers de ce temps-lÃ , mais ce qui leur
+Ã©tait rarement permis par les curÃ©s, Ã  cause de leurs pratiques
+secrÃ¨tes, qui n'Ã©taient pas, disait-on les plus catholiques du monde.
+
+Le grand Julien, de Saint-AoÃ»t, avait donc ce privilÃ¨ge d'exception, et
+Â«quand il _sonnait_ Ã  la messe, c'Ã©tait merveille de l'ouÃ¯e.Â», et la
+paroisse se faisait honneur de lui.
+
+Â«Une nuit, comme il revenait de jouer, trois jours durant, Ã  une noce de
+campagne, il rencontra, dans la brande, _une musette qui jouait toute
+seule_; d'autres disent que _c'Ã©tait le vent qui en jouait_.
+
+EtonnÃ© de voir cette musette toute reluisante d'argent, qui venait Ã  lui
+sans qu'aucune personne la fit aller, il s'arrÃªta et eut peur. La
+musette passa Ã  cÃ´tÃ© de lui, _comme si elle ne le voyait pas_, et
+continua de sonner d'une si belle maniÃ¨re que jamais Julien n'avait rien
+entendu de pareil, et qu'il se sentit, du coup, tout affolÃ© de jalousie.
+
+VoilÃ  donc qu'au lieu de passer, comme un homme raisonnable, il se
+retourne et suit cette cornemuse pour l'Ã©couter et pour tÃ¢cher de
+retenir l'air qu'elle disait et qu'il Ã©tait dÃ©pitÃ© de ne pas savoir.
+
+Il la suivit d'abord d'un peu loin, et puis d'un peu plus prÃ¨s, et puis,
+enfin, il s'enhardit jusqu'Ã  sauter dessus et la vouloir prendre; car de
+voir un si beau et si bon instrument sans maÃ®tre, il y avait de quoi
+tenter un homme qui faisait son mÃ©tier de _musiquer_.
+
+Mais la cornemuse _monta en l'air_ et continua de jouer, sans qu'il pÃ»t
+l'_aveindre_, et il s'en retourna chez lui en grand souci et mÃªme en
+grand chagrin. Et quand on lui demanda, les jours d'aprÃ¨s, pourquoi il
+paraissait en peine et malade, il rÃ©pondait: L'air de la nuit sonne
+mieux que moi; ce n'Ã©tait pas la peine d'apprendre!
+
+On ne sut point ce qu'il voulait dire, mais on l'entendit Ã©tudier une
+musique nouvelle qui ne ressemblait en rien Ã  celle des autres ni Ã 
+celle qu'il avait jouÃ©e jusque-lÃ ; et, la nuit, il s'en allait tout
+seul, _emmy_ la brande, et revenait au petit jour, bien fatiguÃ©, mais
+jouant de mieux en mieux un air qui paraissait trÃ¨s Ã©trange et que
+personne ne pouvait comprendre.
+
+Ceci fut rapportÃ© au curÃ©, qui le fit venir et lui dit: Julien, je sais
+que le diable est enragÃ© de poursuivre et de tenter les gens de ton
+Ã©tat; on me dit que tu vas seul, la nuit, dans des endroits _oÃ¹ tu n'as
+pas besoin_, et que tu parais tourmentÃ©. Fais attention Ã  toi, Julien;
+si tu commences mal, tu finiras mal!
+
+C'Ã©tait un samedi. Le lendemain Ã©tait grande fÃªte, il y avait
+grand'messe carillonnÃ©e, et Julien promit de jouer comme il avait
+coutume.
+
+Cependant, le matin, le sacristain vint dire au curÃ© qu'il avait
+rencontrÃ© Julien dans la brande, jouant d'une maniÃ¨re qui n'Ã©tait pas
+chrÃ©tienne, et menant derriÃ¨re lui plus de trois cents loups qui
+s'Ã©taient sauvÃ©s Ã  son approche.
+
+Le curÃ© fit encore venir Julien et le questionna. Julien leva les
+Ã©paules en disant que le sacristain avait bu.
+
+Et comme, de vrai, le sacristain Ã©tait _portÃ© sur la boisson_, son dire
+ne donna pas grand'crainte Ã  M. le CurÃ©, qui commenÃ§a de dire et chanter
+la messe.
+
+Quand ce fut Ã  l'Ã©lÃ©vation, Julien commenÃ§a aussi de jouer sa chanson
+d'Ã©glise; mais, encore qu'il eÃ»t peut-Ãªtre bonne intention de la dire
+comme il faut, il ne put jamais _tomber dans l'air_, et ce qu'il joua ne
+fut autre que la propre chanson du diable que le vent lui avait apprise.
+
+La chose dÃ©rangea M. le CurÃ©, qui, par trois fois, avant de consacrer
+l'hostie, s'agita et frappa du pied pour faire taire cette mauvaise
+complainte; mais enfin, songeant que Dieu se ferait bien respecter
+lui-mÃªme, il Ã©leva l'hostie et dit les paroles de la consÃ©cration.
+
+Au mÃªme moment, la musette Ã  Julien se creva dans ses mains, avec un
+bruit comme si l'Ã¢me du diable en fÃ»t sortie, et il en reÃ§ut un si bon
+coup dans l'estomac qu'il tomba tout _apiÃ¢ni_ (tout pÃ¢mÃ©) sur le pavÃ© de
+l'Ã©glise.
+
+On l'emporta Ã  son logis, oÃ¹ il fit une grosse maladie. Mais il s'en
+retira par la grÃ¢ce de Dieu et la parole de M. le CurÃ©, qui le fit
+renoncer Ã  ses mauvaises pratiques, et Ã  qui il confessa avoir jouÃ© pour
+les loups de la brande. Depuis lors, il joua chrÃ©tiennement et laissa
+les loups se promener tout seuls ou en la compagnie des autres sonneurs
+damnÃ©s.
+
+On dit que ceux-ci lui _firent des peines_ pour avoir _vendu le secret_,
+et qu'ils le battirent souvent pour se revenger. Mais il supporta leurs
+mauvais traitements par esprit de pÃ©nitence et fit une bonne fin,
+enseignant la musique de cornemuse Ã  ses enfants, et les dÃ©tournant d'en
+chercher plus long _qu'on n'en doit savoir_.
+
+
+
+
+Le lupeux
+
+Charli l'entendait souvent quand il revenait de casser les pierres sur
+la route.--Oui-dÃ , disait-il Ã  sa femme en rentrant, il me suivait
+encore, Ã  ce soir, tout le long du buisson, _lupant_ Ã  la lune; mais
+moi, je lui disais en moi-mÃªme: _Lupe_ donc tant que tu voudras, tu ne
+me feras pas seulement tourner la tÃªte pour te voir.
+
+Maurice SAND.
+
+
+L'auteur de la _Normandie merveilleuse_, que nous aimons Ã  citer, parle
+des _bÃªtes revenantes_ (c'est ainsi qu'on les appelle en Berry) Ã  propos
+du _chien de MonthulÃ©_, qui apparaissait aux habitants de la commune de
+Sainte-Croix-sur-Aizier, ne faisant aucun mal aux hommes, mais ne se
+laissant jamais approcher ni toucher, et bornant sa malice Ã  tourmenter
+si fort les jeunes chiens qu'on n'en pouvait Ã©lever aucun dans la
+localitÃ©. La lÃ©gende normande dit que ce chien avait appartenu Ã  un
+voyageur mystÃ©rieux, et qu'il avait Ã©tÃ© tuÃ© par le propriÃ©taire de la
+ferme de MonthulÃ©. Son maÃ®tre le cherchant partout, vint Ã  la ferme, oÃ¹
+on lui jura que l'animal Ã©tait venu mourir de sa belle mort.--_Si vous
+ne dites vrai_, rÃ©pondit le voyageur, _on le saura bien_! Et il
+disparut.
+
+A partir de ce moment, le chien devint fantÃ´me pour tourmenter ses
+meurtriers. L'auteur ajoute: Â«Observez que dans ce conte, une croyance
+nouvelle se manifeste; une Ã¢me est attribuÃ©e Ã  l'animal, puisqu'il
+partage avec l'homme la facultÃ© d'apparaÃ®tre aprÃ¨s sa mort.Â»
+
+Nous avons constatÃ© la mÃªme croyance dans notre province. Une vieille
+femme de notre village perdit une _ouaille_, une brebis noire, qu'elle
+soupÃ§onna un mÃ©chant voisin d'avoir fait pÃ©rir par poison ou malÃ©fice.
+La pauvre bÃªte Ã©corchÃ©e et mise en terre, la bonne femme dormait,
+lorsqu'elle entendit sa chÃ¨vre bÃªler et se dÃ©mener dans l'Ã©table, comme
+si elle Ã©tait aux prises avec quelque chose d'extraordinaire. Elle se
+leva et, ouvrant sa porte, elle vit son ouaille noire qui essayait
+d'entrer dans l'Ã©table oÃ¹ elle avait coutume d'Ãªtre avec la chÃ¨vre. La
+bonne femme effrayÃ©e, rentre chez elle et se barricade; mais la chÃ¨vre
+continue Ã  se tourmenter. La femme prend courage et retourne voir. Cela
+eut lieu par trois fois. Par trois fois elle vit son ouaille essayant
+d'entrer, et la chÃ¨vre venant jusqu'Ã  la barriÃ¨re de l'Ã©table pour
+l'appeler et la caresser. Mais ce n'Ã©tait qu'une ombre; la vieille femme
+ne put la saisir, et quand la porte de l'Ã©table fut ouverte, la chÃ¨vre
+sortit, chercha, bÃªla et rentra, comme si, elle aussi, eÃ»t constatÃ©
+l'illusion qu'elle venait de subir.
+
+J'ai ouÃ¯ raconter l'histoire d'une pie qui avait appartenu Ã  la
+Grand'Gothe, une des plus fines sorciÃ¨res de l'endroit. Cette pie avait
+appris Ã  parler, et toutes les mÃ©disances qu'elle entendait dÃ©biter Ã  sa
+maÃ®tresse, elle les rÃ©pÃ©tait aux passants en maniÃ¨re d'insulte. Si bien
+que des jeunes gens, lassÃ©s d'entendre divulguer leurs petits secrets
+par cette mauvaise bÃªte, lui tordirent le cou. La Grand'Gothe prÃ©dit
+qu'on s'en repentirait un jour ou l'autre, et mourut elle-mÃªme peu de
+temps aprÃ¨s.
+
+Personne ne la regretta, non plus que son vieux frÃ¨re, le pÃ¨re
+Grand-Jean, qui n'Ã©tait pas un mauvais homme, mais qui Ã©tait si souvent
+alitÃ© qu'on le voyait et ne le connaissait _quasiment_ plus. Les deux
+vieillards et la pie partirent dans la mÃªme quinzaine.
+
+Or, le pÃ¨re Grand-Jean avait rempli jusqu'Ã  sa fin, tant bien que mal,
+les fonctions de sacristain, qui se bornaient, dans la paroisse
+supprimÃ©e depuis la RÃ©volution, Ã  tenir chez lui les clefs de l'Ã©glise
+et Ã  sonner l'_Angelus_ trois fois par jour. Cette pratique n'Ã©tait
+nullement obligatoire; mais les habitants ayant l'habitude d'entendre le
+son de leur cloche, qui Ã©tait pour eux une sorte d'horloge, eussent
+trouvÃ© mauvais que le sacristain s'en dispensÃ¢t. Et, comme il Ã©tait trop
+cassÃ© et trop souvent malade pour n'y pas manquer, sa sÅur, la
+Grand'Gothe, qui se conserva ingambe et verte jusqu'Ã  son dernier jour,
+sonnait l'_Angelus_ Ã  sa place quand il ne pouvait sortir du lit. On
+prÃ©tend qu'elle Ã©tait si impie que tout en secouant la vieille cloche,
+elle dÃ©bitait et faisait mÃªme mille ordures dans l'Ã©glise, oÃ¹ personne
+n'osait la suivre.
+
+Tant il y a que, dans l'intervalle de quelques semaines qui s'Ã©coula
+entre la mort du vieux sacristain et la nomination de son successeur, la
+cloche sonna d'elle-mÃªme non plus trois fois par jour, mais tous les
+soirs aprÃ¨s le coucher du soleil, sans qu'on vÃ®t personne entrer dans
+l'Ã©glise. Seulement, on vit la vieille pie voler dans le clocher, et
+comme on doutait que ce fÃ»t la mÃªme qui avait Ã©tÃ© tuÃ©e et jetÃ©e sur le
+fumier par les gars du village, on entendit sa petite voix rauque qui
+recommenÃ§ait Ã  raconter tout les secrets d'un chacun et Ã  insulter
+hommes et femmes, jeunes et vieux, sans respect ni mÃ©nagement. Et l'on
+sut par elle bien des choses qui divertissaient les uns et fÃ¢chaient les
+autres. Le pire, c'est que l'on ne savait comment se dÃ©barrasser de
+cette mauvaise Ã¢me de pie, car de faire dire des messes pour elle, il
+n'y fallait point songer. La chose dura jusqu'Ã  ce que le nouveau
+sacristain prÃ®t possession de l'Ã©glise, et comme c'Ã©tait un bon
+chrÃ©tien, _priant ferme et sonnant dur_, le mÃ©chant esprit disparut et
+la cloche n'obÃ©it plus qu'Ã  celui qui avait le droit de la faire
+chanter.
+
+Naturellement, le souvenir de cette pie fantastique et mÃ©disante
+rÃ©veille en nous celui du _lupeux_, qu'il ne faudra confondre ni avec le
+_lupin_, ni avec le _lubin_, ni avec les autres variÃ©tÃ©s du loup-garou.
+Le lupeux est un dÃ©mon dont la nature n'a jamais Ã©tÃ© bien dÃ©finie et
+dont _l'apparaissance_ varie suivant les localitÃ©s. C'est encore au pays
+de Brenne qu'il fait sa rÃ©sidence, dans ces interminables plaines semÃ©es
+d'Ã©tangs immenses qui ont tous leur lÃ©gende et oÃ¹ vivent les grands
+serpents donneurs de fiÃ¨vres, cousins-germains des _cocadrilles_ que
+l'on aperÃ§oit quand les eaux sont basses, mais que l'on ne peut dÃ©truire
+qu'en dessÃ©chant les marÃ©cages oÃ¹ ils rÃ©sident depuis que le monde est
+monde.
+
+Un de nos amis, qui parcourait le pays avec un guide, entendit, un soir,
+dans le crÃ©puscule, une voix presque humaine et trÃ¨s douce qui, d'un ton
+enjouÃ© ou plutÃ´t goguenard, rÃ©pÃ©tait de place en place, autour de lui:
+_Ah! ah!_ Il regarda de tous cÃ´tÃ©s, ne vit rien et dit Ã  son compagnon
+de route:--VoilÃ  quelqu'un de bien Ã©tonnÃ©; est-ce Ã  cause de nous?
+
+Le guide ne rÃ©pondit rien. Ils continuÃ¨rent Ã  marcher dans la plaine
+dÃ©serte oÃ¹ les arbres _tÃªteaux_, c'est-Ã -dire Ã©tÃªtÃ©s et mutilÃ©s par
+l'Ã©branchage, prenaient sur l'horizon, blanchi Ã  l'approche de la lune,
+les formes les plus monstrueuses et les plus bizarres. La petite voix
+claire et douce suivait nos voyageurs, et, Ã  chaque mouvement de
+surprise que faisait notre ami, rÃ©pÃ©tait _ah! ah!_ d'une maniÃ¨re si
+moqueuse et si gaie, qu'il ne put s'empÃªcher de rire en lui
+rÃ©pondant:--_HÃ© bien, quoi donc?_
+
+--Taisez-vous, pour l'amour de Dieu, lui dit son guide en lui serrant le
+bras et en se signant avec dÃ©votion; ne lui parlez pas, n'ayez pas l'air
+de l'entendre. Si vous lui rÃ©pondez encore une fois, nous sommes perdus!
+
+Notre ami, qui connaÃ®t bien les idÃ©es du paysan, ne s'obstina pas, et
+quand ils eurent lassÃ©s par leur silence l'invisible persiffleur:--Ah
+Ã§a, dit-il Ã  son guide, c'est un oiseau de nuit, une espÃ¨ce de
+chouette?--Ah bien, oui! rÃ©pondit l'autre, un bel oiseau! c'est le
+lupeux! Ãa commence par plaisanter avec vous, Ã§a rit, Ã§a vous tire de
+votre chemin, Ã§a vous emmÃ¨ne et puis Ã§a ce fÃ¢che, et _Ã§a vous pÃ©rit_
+dans quelque fondiÃ¨re.
+
+Telle est, en effet, la spÃ©cialitÃ© du lupeux, dÃ©mon aussi spirituel que
+mÃ©chant, que l'on a vu quelquefois perchÃ© sur un arbre tortu, vu qu'il
+est lui-mÃªme de _travers_, c'est-Ã -dire _traversieux_, c'est-Ã -dire
+enfin pervers et amoureux _de naissance_.
+
+Les gens qui ont eu l'imprudence de le suivre et de l'Ã©couter s'en sont
+mal trouvÃ©s. Il n'est sorte de plaisants contes, de mÃ©chants propos, de
+commÃ©rages sanglants ou comiques dont il ne vous rÃ©gale dÃ¨s que vous
+avez Ã©tÃ© assez curieux pour lui dire jusqu'Ã  trois fois: _Quoi donc?_ ou
+_qu'est-ce qu'il y a?_ Il commence alors Ã  babiller comme une _ageasse_
+(une pie), il vous rÃ©gale d'aventures Ã©tranges et scandaleuses, il
+promet de vous faire surprendre des rendez-vous galants qui intÃ©ressent
+votre malice naturelle ou votre jalousie conjugale. Une fois dans ses
+griffes, on ne se lasse pas de l'Ã©couter et de le questionner. Il vous
+conduit au bord d'une eau trompeuse et vous dit: _Regarde!_ Vous vous
+penchez vers ce fantastique miroir oÃ¹ vous apparaissent en effet les
+images qui troublent votre imagination; mais le perfide vous pousse, et
+quand la mort vous enlace de ses bras glacÃ©s, vous entendez le lupeux,
+perchÃ© sur une branche au-dessus de l'eau, dire, de sa jolie scÃ©lÃ©rate
+de voix:--_Ah! ah! HÃ© bien, voilÃ  ce que c'est!_
+
+Dans le canton de La ChÃ¢tre, ce ne sont pas seulement les animaux qui
+_reviennent_, ce sont encore les meubles. Du temps que le chÃ¢teau de
+Briantes Ã©tait encore habitÃ©, il s'y passait des scÃ¨nes de l'autre
+monde. Un certain paysan rÃ©gisseur qui voulut approfondir ces mystÃ¨res
+et qui s'y porta en esprit fort, dut y renoncer. Il y avait, dans la
+plus haute chambre, une oubliette d'oÃ¹ sortaient, la nuit, des clameurs
+effroyables, des cris d'animaux, des plaintes humaines et de grandes
+bouffÃ©es de vent qui Ã©teignaient les lumiÃ¨res. C'Ã©taient les Ã¢mes des
+gens et des bÃªtes qui avaient Ã©tÃ© massacrÃ©s en ce domaine par les
+huguenots pillards et les reÃ®tres sans merci. Mais il y a plus, les
+meubles ayant Ã©tÃ© brisÃ©s, jetÃ©s par les fenÃªtres et toutes choses _mises
+Ã  sac_, en ce temps de calamitÃ©s, on entendait aussi des craquements et
+des _fracassements_ d'objets invisibles qui semblaient rouler sur vous
+le long des escaliers et menacer de vous Ã©craser.
+
+Le susdit rÃ©gisseur ayant bravÃ© quelque temps ces prodiges sans en
+recevoir aucun dommage, s'en croyait quitte; mais un soir qu'il revenait
+de la foire et entrait en la cuisine du castel pour se reposer et se
+chauffer, la chaise sur laquelle il voulut s'asseoir se tourna contre
+lui, les pieds en l'air, et tandis qu'il en cherchait une de meilleure
+volontÃ©, toutes les chaises et tous les bancs de ladite cuisine, se
+ruÃ¨rent sur lui et lui donnÃ¨rent tant de coups qu'il lui fallut cÃ©der et
+fuir; d'autant plus que les broches et couperets se mettaient de la
+partie et lui donnÃ¨rent la chasse jusqu'au milieu de la cour.
+
+D'oÃ¹ l'on dut logiquement conclure que les choses inanimÃ©es avaient le
+droit de se plaindre et de crier Ã  leur maniÃ¨re, comme des Ã¢mes en
+peine, et qu'il ne fallait pas plus se moquer d'elles que des autres
+revenants.
+
+
+
+
+Le moine des Ãtangs-Brisses
+
+Passants qui, aux derniers rayons du soleil, longez les marÃ©cages,
+prenez garde au moine gigantesque qui se lÃ¨ve tout-Ã -coup du milieu des
+roseaux. Fuyez et n'Ã©coutez pas ses discours maudits!
+
+Maurice SAND.
+
+
+Jeanne et Pierre s'Ã©taient attardÃ©s, un dimanche, le long des
+Ãtangs-Brisses. C'est un endroit qui n'est pas gai, surtout le soir.
+Quand on a passÃ© les bois, on arrive sur un grand plateau tout nu, oÃ¹ il
+n'y a que joncs et sable et de grandes flaques d'eau qui se rejoignent Ã 
+la saison des pluies et font comme un lac dont le fond paraÃ®t tout noir.
+
+Au temps passÃ©, un mÃ©chant moine, pris de vin, y fut noyÃ© avec son Ã¢ne,
+pour avoir voulu suivre une petite chaussÃ©e bien Ã©troite que l'eau
+couvrait. L'Ã¢ne n'avait point fait de mal, jamais on ne l'entendit
+braire; mais le moine libertin fut condamnÃ© Ã  sentir les affres de la
+mort et les angoisses de sa derniÃ¨re heure tant qu'il y aurait une
+goutte d'eau dans les Ãtangs-Brisses. Or, bien que la culture empiÃ¨te
+chaque annÃ©e sur les bords de ces petits lacs, ils ne font point mine de
+tarir; donc le supplice du moine dure encore et durera Dieu sait
+combien!
+
+Jeanne connaissait bien la mauvaise renommÃ©e des Ã©tangs; mais Pierre n'y
+voulait pas croire et s'en moquait. Il l'empÃªchait d'ailleurs d'y
+songer, lui disant toutes sortes de choses que Jeanne trouvait belles et
+agrÃ©ables Ã  entendre. Ils Ã©taient fiancÃ©s et revenaient de la ville, oÃ¹
+ils avaient choisi leurs _livrÃ©es_ de noce, c'est-Ã -dire habits neufs,
+rubans et dentelles pour le grand jour. Ils marchaient ensemble, se
+tenant par le petit doigt, comme c'est la coutume des accordÃ©s,
+lorsqu'ils se trouvÃ¨rent sur la chaussÃ©e, les pieds pris dans la vase.
+La veille, un gros orage avait enflÃ© l'Ã©tang qui dÃ©bordait un peu.
+
+--Tu me mÃ¨nes mal, dit Jeanne Ã  son amoureux; m'est avis que ce n'est
+point lÃ  le bon passage.
+
+--Attends que je m'y reconnaisse, lui rÃ©pondit Pierre. De vrai, le
+soleil est couchÃ©, et les roseaux sont tout noirs, tous pareils les uns
+aux autres. Reste un peu lÃ , je m'en irai voir si on peut en sortir.
+
+Jeanne Ã©tait lasse; elle s'assit dans les roseaux et regarda le ciel
+rouge tout _pigelÃ©_, c'est-Ã -dire tout marbrÃ© de jaune et de brun, et
+son esprit se tourna Ã  la tristesse, sans qu'elle eÃ»t pu dire pourquoi.
+Â«Si c'Ã©tait tout-Ã -fait de nuit, pensa-t-elle, je ne voudrais point me
+trouver seule en ce mauvais endroit, oÃ¹, _dans le temps_, le moine
+_s'est pÃ©ri_. Pourvu que Pierre ne marche pas Ã  faux dans ces herbes
+folles!Â» Elle le suivit des yeux tant qu'elle put le voir, et puis elle
+ne le vit plus du tout et commenÃ§a de trembler de tout son pauvre corps.
+
+Tout d'un coup, elle vit voler une grande bande de canards sauvages qui
+venait de son cÃ´tÃ© en menant du bruit; et, se levant sur la pointe de
+ses pieds, elle vit Pierre qui revenait, s'amusant Ã  jeter des cailloux
+dans l'eau pour faire lever d'autres bandes d'oiseaux dont l'Ã©tang se
+remplissait, Ã  mesure que la nuit descendait du haut du ciel.
+
+Quand Pierre fut Ã  cÃ´tÃ© d'elle, il lui dit:--Nous sommes dans le vrai
+chemin, et sauf un peu de bourbe, nous passerons bien. Laisse-moi
+souffler une minute, car j'ai marchÃ© vite et, d'ailleurs, l'endroit
+n'est pas trop vilain pour se reposer.
+
+--Si tu le trouves joli, c'est une drÃ´le d'idÃ©e, mon Pierre; moi je m'y
+dÃ©plais et le temps m'y a durÃ©. Repose-toi vite, car j'en veux sortir
+avant la grand'nuit.
+
+Quand Pierre se fut assis dans les roseaux Ã  cÃ´tÃ© de Jeanne, il lui
+dit:--Mon Dieu! Jeanne le temps m'a bien durÃ© aussi en marchant, car il
+me semble que je ne t'ai point embrassÃ©e depuis deux ans.
+
+--_Diseu' de riens!_ reprit-elle, tu m'as embrassÃ©e il n'y a pas deux
+quarts d'heure.
+
+--Eh bien! ma mie, oÃ¹ est le mal?
+
+--Je ne dis point qu'il y en ait, puisque nous nous marions!
+
+--Or donc, laisse-moi t'embrasser encore une petite fois, ou sept.
+
+Jeanne se laissa embrasser une fois, disant que c'Ã©tait assez. Elle n'y
+entendait point malice, mais elle savait que s'il est permis aux
+accordÃ©s de campagne de s'embrasser en marchant, devant les passants, il
+n'est point convenable ni honnÃªte de se dire ses amitiÃ©s en cachette du
+monde, et de s'arrÃªter dans les endroits oÃ¹ personne ne passe.
+
+Pierre, qui Ã©tait un garÃ§on _bien comme il faut_, c'est-Ã -dire sachant
+se comporter en tout de la vraie maniÃ¨re, Ã©tait content de voir Jeanne
+le tenir Ã  distance, et il ne faisait le jeu d'outrepasser un peu son
+droit que pour avoir le plaisir de recevoir d'elle une bonne tape de
+temps en temps, ce qui est, comme chacun sait, une grande marque de
+confiance et d'amitiÃ©.
+
+Et quand ils se furent ainsi honnÃªtement chamaillÃ©s un petit moment, ils
+se mirent Ã  causer de l'avenir, ce qui est encore une grande
+rÃ©jouissance entre gens qui doivent passer leur vie ensemble. Et les
+voilÃ  comptant et recomptant leurs petits apports, se bÃ¢tissant une
+maison neuve et se plantant un joli petit jardin, comme qui dirait dans
+la tÃªte, car les pauvres enfants ne possÃ©daient pas gros, et il leur
+fallait travailler seulement pour entretenir ce qu'ils avaient.
+
+Mais voilÃ  qu'une voix que Pierre n'entendait pas, se mit Ã  parler Ã 
+Jeanne comme si c'Ã©tait celle de Pierre, tandis qu'une voix se mettait Ã 
+parler avec Pierre comme si c'Ã©tait celle de Jeanne, et pourtant ce ne
+l'Ã©tait point et Jeanne ne l'entendait mie. Et ainsi ils crurent se dire
+des choses qu'ils ne se disaient point et se trouvÃ¨rent en mauvais
+accord sans savoir d'oÃ¹ cela leur venait. Jeanne reprochait Ã  Pierre
+d'Ãªtre un paresseux et d'aimer le cabaret; Pierre reprochait Ã  Jeanne
+d'Ãªtre coquette et d'aimer trop la braverie. Si bien que tous deux se
+mirent Ã  pleurer et Ã  bouder, ne se voulant plus rien dire.
+
+Mais une chose Ã©tonnante, c'est qu'en ne se disant plus rien, et en ne
+se voyant point remuer les lÃ¨vres, ils entendirent, tous deux Ã  la fois,
+une voix trÃ¨s sourde qui parlait en maniÃ¨re de grenouille ou de canne
+sauvage, et qui disait les plus mÃ©chantes paroles du monde.
+
+--Que faites-vous lÃ , enfants, Ã  vous bouder, au lieu de mettre Ã  profit
+la nuit et la solitude? Vous attendez sottement la fin de la semaine
+pour vous aimer librement? VoilÃ  une belle fadaise que le mariage! Ne
+savez-vous point que le mariage c'est la peine, la misÃ¨re, les
+querelles, le souci des enfants et les jours sans pain? Allons, allons,
+innocents que vous Ãªtes! DÃ¨s le lendemain du mariage, vous pleurerez, si
+vous ne vous battez point! Vous voyez bien que dÃ©jÃ  en voulant parler
+d'avenir et d'Ã©conomie vous n'avez pu vous entendre!
+
+La vie est sotte et misÃ©rable, ne vous y trompez pas; il n'y a de bon
+que l'oubli du devoir et le plaisir sans contrainte. Aimez-vous Ã 
+prÃ©sent, car si vous ne profitez de l'heure qui se prÃ©sente, vous ne la
+retrouverez plus, et ne connaÃ®trez de votre union que les coups et les
+injures, des fleurs de la jeunesse que les piquerons et la folle graine.
+
+Jeanne et Pierre avaient bien peur. Ils se tenaient la main et se
+serraient l'un contre l'autre sans oser respirer. Jeanne n'entendait
+rien de ce que lui disait la mÃ©chante voix. Les paroles passaient dans
+son oreille comme une messe du diable dite au rebours du bon sens; mais
+Pierre qui en savait plus long, Ã©coutait, malgrÃ© sa peur, et comprenait
+quasiment tout.
+
+--La voix est laide, dit-il, j'en tombe d'accord; mais les mots ne sont
+points bÃªtes, et si tu m'en croyais, Jeanne, tu l'Ã©couterais aussi.
+
+--Que les paroles soient bÃªtes ou belles, je ne m'en soucie pas,
+rÃ©pondit-elle. Elles me font peur, encore que je n'y comprend goutte;
+c'est quelqu'un qui se moque de nous parce que nous voilÃ  tout seuls
+arrÃªtÃ©s en un lieu qui ne convient pas. Allons-nous-en vitement, mon
+Pierre. Cette personne lÃ , vivante ou morte, ne nous veut que du mal.
+
+--Non, Jeanne, elle nous veut du bien, car elle plaint le sort qui nous
+attend et si tu voulais bien comprendre ce qu'elle dit...
+
+LÃ -dessus Pierre, se sentant poussÃ© du diable, voulut retenir Jeanne qui
+voulait s'en aller, et le mauvais esprit se crut pour un moment le plus
+fort.
+
+Mais il n'est pas donnÃ© Ã  ces mauvaises engeances de faire aux bons
+chrÃ©tiens tout le mal qu'elles souhaitent. Le moine libertin, voyant que
+Pierre trÃ©buchait dans sa conscience, fut trop pressÃ© de lui prendre son
+Ã¢me. Il se mit Ã  chanter dans sa voix de marais, disant: Â«Venez, venez,
+mes beaux enfants, il n'est pas besoin ici de cierges ni de tÃ©moins.
+S'il vous faut quelqu'un pour vous marier, je sais dire les vraies
+paroles qu'il faut. Mettez-vous Ã  genoux devant moi et vous aurez la
+bÃ©nÃ©diction de BelzÃ©buth!
+
+Disant cela, voilÃ  le moine qui fait sortir de l'eau sa grosse tÃªte
+couverte d'un capuchon vaseux.--Sauvons-nous, dit Jeanne, voilÃ  une
+grosse loutre qui veut sauter aprÃ¨s nous.--Non pas, dit Pierre, je la
+virerai bien de mon bÃ¢ton. Mais comme il se penchait sur l'eau pour
+regarder, il vit les yeux de feu du moine et puis sa barbe toute remplie
+de sangsues et de grenouilles, et puis son corps tout pourri, et puis
+ses jambes dessÃ©chÃ©es, et puis ses deux grands bras tout ruisselants de
+mousse et de fange qu'il dÃ©ploya comme deux ailes sur la tÃªte des deux
+amoureux, pour les consacrer Ã  Satan.
+
+Mais Pierre, encore qu'il ne fÃ»t pas des plus poltrons, eut une si fiÃ¨re
+peur de voir le moine grandir, grandir, comme s'il eÃ»t voulu toucher les
+nuÃ©es, qu'il se sauva, criant comme un essieu, courant comme un liÃ¨vre
+et tirant aprÃ¨s lui la pauvre Jeanne, plus morte que vive, mais qui
+pourtant ne se fit point prier pour passer la chaussÃ©e, les pieds
+mouillÃ©s et les cheveux au vent.
+
+Et si bien coururent qu'ils arrivÃ¨rent au logis de leurs parents sans
+avoir une seule fois tournÃ© la tÃªte et sans avoir pris le temps de se
+dire un pauvre mot. Ils se mariÃ¨rent dÃ©votement huit jours aprÃ¨s, sans
+avoir Ã©coutÃ© les conseils du mÃ©chant moine qui fut, dit-on, si penaud
+d'avoir manquÃ© son coup de filet, qu'il resta longtemps sans oser
+reparaÃ®tre et tenter de nouveau la pÃªche aux Ã¢mes chrÃ©tiennes.
+
+La croyance au moine bourru, qui s'en va, menaÃ§ant et plaintif, frapper
+aux portes des maisons durant la nuit, et qui ne se retire, aux
+approches du jour, qu'en poussant des hurlements horribles, Ã©tait
+proverbiale autrefois.
+
+Elle s'est maintenue longtemps dans presque toutes les provinces de
+France. On a beaucoup de lÃ©gendes sur les moines dÃ©bauchÃ©s, et mÃªme sur
+les curÃ©s qui ont manquÃ© Ã  leur vÅu. Il est peu de presbytÃ¨res qui ne
+fussent encore hantÃ©s par ces Ã¢mes en peine, il y a une vingtaine
+d'annÃ©es, et peu d'Ã©glises de campagne oÃ¹ n'ait Ã©tÃ© surprise cette
+fameuse messe expiatoire que le prÃªtre dÃ©funt vient essayer de dire Ã 
+l'aube du jour et qu'il ne peut jamais achever, s'il ne trouve un vivant
+de bonne volontÃ© qui ait le courage de lui rÃ©pondre _amen_.
+
+
+
+
+Les Flambettes
+
+Ce sont des esprits taquins et pernicieux. DÃ¨s qu'elles aperÃ§oivent un
+voyageur, elles l'entourent, le lutinent et parviennent Ã  l'exaspÃ©rer.
+Elles fuient alors, l'entraÃ®nant au fond des bois et disparaissent quand
+elles l'ont tout-Ã -fait Ã©garÃ©.
+
+Maurice SAND.
+
+
+Les flambeaux, ou _flambettes_, ou _flamboires_, que l'on appelle aussi
+les feux fous, sont ces mÃ©tÃ©ores bleuÃ¢tres que tout le monde a
+rencontrÃ©s la nuit ou vu danser sur la surface immobile des eaux
+dormantes. On dit que ces mÃ©tÃ©ores sont inertes par eux-mÃªmes, mais que
+la moindre brise les agite, et ils prennent une apparence de mouvement
+qui amuse ou inquiÃ¨te l'imagination, selon qu'elle est dÃ©pose Ã  la
+tristesse ou Ã  la poÃ©sie.
+
+Pour les paysans, ce sont des Ã¢mes en peine qui leur demandent des
+priÃ¨res ou de mÃ©chantes Ã¢mes qui les entraÃ®nent dans une course
+dÃ©sespÃ©rÃ©e et les mÃ¨nent, aprÃ¨s mille dÃ©tours insidieux, au plus profond
+de l'Ã©tang ou de la riviÃ¨re. Comme le _lupeux_ et le follet, on les
+entend rire toujours plus distinctement Ã  mesure qu'elles s'emparent de
+leur proie et la voient s'approcher du dÃ©nouement funeste et inÃ©vitable.
+
+Les croyances varient beaucoup sur la nature et l'intention plus ou
+moins mauvaises des _flambettes_. Il en est qui se contentent de vous
+Ã©garer et qui, pour en venir Ã  leurs fins, ne se gÃªnent nullement pour
+prendre diverses apparences.
+
+On raconte qu'un berger, qui avait appris Ã  se les rendre favorables,
+les faisait venir et partir Ã  son grÃ©. Tout allait pour lui, sous leur
+protection. Ses bÃªtes profitaient, et quant Ã  lui, il n'Ã©tait jamais
+malade, dormait et mangeait bien, Ã©tÃ© comme hiver. Cependant, on le vit
+tout Ã  coup devenir maigre, jaune et mÃ©lancolique. ConsultÃ© sur la cause
+de son ennui, il raconta ce qui suit.
+
+Une nuit qu'il Ã©tait couchÃ© dans sa cabane roulante, auprÃ¨s de son parc,
+il fut Ã©veillÃ© par une grande clartÃ© et par de grands coups frappÃ©s sur
+le toit de son habitacle. Qu'est-ce que c'est donc, fit-il, tout surpris
+que ses chiens ne l'eussent pas averti. Mais, avant qu'il fut venu Ã 
+bout de se lever, car il se sentait lourd et comme Ã©touffÃ©, il vit
+devant lui une femme si petite, si petite, et si menue, et si vieille
+qu'il en eut peur, car aucune femme ne pouvait avoir une pareille taille
+et un pareil Ã¢ge. Elle n'Ã©tait habillÃ©e que de ses longs cheveux blancs
+qui la cachaient _tout entiÃ¨rement_ et ne laissaient passer que sa
+petite tÃªte ridÃ©e et ses petits pieds dessÃ©chÃ©s.
+
+--Ãa, mon garÃ§on, fit-elle, viens avec moi, l'heure est venue.
+
+--Quelle heure donc est venue? dit le berger tout dÃ©confit.
+
+--L'heure de nous marier, reprit-elle; ne m'as-tu pas promis le mariage?
+
+--Oh! Oh; je ne crois pas! d'autant plus que je ne vous connais point et
+vous vois pour la premiÃ¨re fois de ma vie.
+
+--Tu en as menti, beau berger! Tu m'as vue sous ma forme lumineuse. Ne
+reconnais-tu pas la mÃ¨re des flambettes de la prairie? Et ne m'as-tu pas
+jurÃ©, en Ã©change des grands services que je t'ai rendus, de faire la
+premiÃ¨re chose dont je te viendrais requÃ©rir?
+
+--Oui, c'est vrai, mÃ¨re Flambette; je ne suis pas un homme Ã  reprendre
+ma parole, mais j'ai jurÃ© cela Ã  condition que ce ne serait aucune chose
+contraire Ã  ma foi de chrÃ©tien et aux intÃ©rÃªts de mon Ã¢me.
+
+--Eh bien, donc! est-ce que je te viens enjÃ´ler comme une coureuse de
+nuit? Est-ce que je ne viens pas chez toi dÃ©cemment revÃªtue de ma belle
+chevelure d'argent fin, et parÃ©e comme une fiancÃ©e? C'est Ã  la messe de
+la nuit que je te veux conduire, et rien n'est si salutaire pour l'Ã¢me
+d'un vivant que le mariage avec une belle morte comme je suis. Allons,
+viens-tu? Je n'ai pas de temps Ã  perdre en paroles. Et elle fit mine
+d'emmener le berger hors de son parc. Mais il recula tout effrayÃ©,
+disant:--Nenni, ma bonne dame, c'est trop d'honneur pour un pauvre homme
+comme moi, et d'ailleurs j'ai fait vÅu Ã  saint Ludre, mon patron, d'Ãªtre
+garÃ§on le restant de mes jours.
+
+Le nom du saint, mÃªlÃ© au refus du berger, mit la vieille en fureur. Elle
+se prit Ã  sauter en grondant comme une tempÃªte et Ã  faire tourbillonner
+sa chevelure qui, en s'Ã©cartant, laissa voir son corps noir et velu. Le
+pauvre Ludre (c'Ã©tait le nom du berger) recula d'horreur en voyant que
+c'Ã©tait le corps d'une chÃ¨vre, avec la tÃªte, les pieds et les mains
+d'une femme caduque.
+
+--Retourne au diable, la laide sorciÃ¨re! s'Ã©cria-t-il; je te renie et te
+conjure au nom du...
+
+Il allait faire le signe de la croix, mais il s'arrÃªta jugeant que
+c'Ã©tait inutile, car au seul geste de sa main la diablesse avait
+disparu, et il ne restait d'elle qu'une petite flammette bleue qui
+voltigeait en dehors du parc.
+
+--C'est bien, dit le berger, faites le flambeau tant qu'il vous plaira,
+cela m'est fort Ã©gal, et je me moque de vos clartÃ©s et de vos singeries.
+
+LÃ -dessus, il se voulut recoucher; mais voilÃ  que ses chiens qui,
+jusque-lÃ , Ã©taient restÃ©s comme charmÃ©s, se prirent Ã  venir sur lui en
+grondant et montrant les dents comme s'ils le voulaient dÃ©vorer, ce qui
+le mit fort en colÃ¨re contre eux et, prenant son bÃ¢ton ferrÃ©, il les
+battit comme ils le mÃ©ritaient pour leur mauvaise garde et leur mÃ©chante
+humeur.
+
+Les chiens se couchÃ¨rent Ã  ses pieds en tremblant et en pleurant. On eÃ»t
+dit qu'ils avaient regret de ce que le mauvais esprit les avait forcÃ©s
+de faire. Ludre les voyant apaisÃ©s et soumis, se mettait en devoir de se
+rendormir, lorsqu'il les vit se relever comme des bÃªtes furieuses et se
+jeter sur son troupeau. Il y avait lÃ  deux cents ouailles qui se prirent
+de peur et de vertige, sautÃ¨rent comme des diables par-dessus la clÃ´ture
+du parc et s'enfuirent Ã  travers champs, courant comme si elles eussent
+Ã©tÃ© changÃ©es en biches, tandis que les chiens tournÃ©s Ã  la rage comme
+des loups, les poursuivaient en leur mordant les jambes et en leur
+arrachant la laine qui s'envolait en nuÃ©es blanches sur les buissons.
+
+Le berger bien en peine, ne prit pas le temps de remettre ses souliers
+et sa veste, qu'il avait posÃ©s Ã  cause de la grande chaleur. Il se mit Ã 
+courir aprÃ¨s son troupeau, jurant aprÃ¨s ses chiens qui ne l'Ã©coutaient
+point et couraient de plus belle, hurlant comme chiens courants qui ont
+levÃ© le liÃ¨vre, et chassant devant eux le troupeau effarouchÃ©.
+
+Et tant coururent, ouailles, chiens et berger, que le pauvre Ludre fit
+au moins douze lieues autour de la _mare aux flambettes_, sans pouvoir
+rattraper son troupeau, ni arrÃªter ses chiens qu'il eÃ»t tuÃ©s de bon cÅur
+s'il eÃ»t pu les atteindre.
+
+Enfin le jour venant Ã  poindre, il fut bien Ã©tonnÃ© de voir que les
+ouailles qu'il croyait poursuivre n'Ã©taient autre chose que des petites
+femmes blanches, longues et menues, qui filaient comme le vent et qui ne
+semblaient point se fatiguer plus que ne se fatigue le vent lui-mÃªme.
+Quant Ã  ses chiens, il les vit _muÃ©es en deux grosses coares_ (corbeaux)
+qui volaient de branche en branche en croassant.
+
+AssurÃ© alors qu'il Ã©tait tombÃ© dans un sabbat, il s'en retourna tout
+Ã©reintÃ© et tout triste Ã  son parc, oÃ¹ il fut bien Ã©tonnÃ© de retrouver
+son troupeau dormant sous la garde de ses chiens, lesquels vinrent au
+devant de lui pour le caresser.
+
+Il se jeta alors sur son lit et dormit comme une pierre. Mais le
+lendemain, au soleil levÃ©, il compta ses bÃªtes Ã  laine et en trouva une
+de moins qu'il eut beau chercher.
+
+Le soir, un bÃ»cheron qui travaillait autour de la mare aux flambettes,
+lui rapporta sur son Ã¢ne la pauvre brebis noyÃ©e, en lui demandant
+comment il gardait ses bÃªtes, et en lui conseillant de ne pas dormir si
+dur s'il voulait garder sa bonne renommÃ©e de berger et la confiance de
+ses maÃ®tres.
+
+Le pauvre Ludre eut bien du souci d'une affaire Ã  quoi il ne comprenait
+rien, et qui, par malheur pour lui, recommenÃ§a d'une autre maniÃ¨re la
+nuit suivante.
+
+Cette fois, il rÃªva qu'une vieille chÃ¨vre, Ã  grandes cornes d'argent,
+parlait Ã  ses ouailles et qu'elles la suivaient, en galopant et sautant
+comme des cabris autour de la grand'mare. Il s'imagina que ses chiens
+Ã©taient _muÃ©s_ en bergers, et lui-mÃªme en un bouc que ces bergers
+battaient et forÃ§aient Ã  courir.
+
+Comme la veille, il s'arrÃªta Ã  la _piquÃ©e_ du jour, reconnut les
+flambettes blanches qui l'avaient dÃ©jÃ  abusÃ©, revint, trouva tout
+tranquille dans son parc, dormit tombant de fatigue, puis se leva tard,
+compta ses bÃªtes et en trouva encore une de moins.
+
+Cette fois, il courut Ã  la mare et trouva la bÃªte en train de se noyer.
+Il la retira de l'eau, mais elle n'Ã©tait plus bonne qu'Ã  Ã©corcher. Ce
+mÃ©chant mÃ©tier durait depuis huit jours. Il manquait huit bÃªtes au
+troupeau et Ludre, soit qu'il courut en rÃªve comme un somnambule, soit
+qu'il rÃªvÃ¢t dans la fiÃ¨vre qu'il avait les jambes en mouvement et
+l'esprit en peine, se sentait si las et si malade qu'il en pensait
+mourir.
+
+--Mon pauvre camarade, lui dit un vieux berger trÃ¨s savant, Ã  qui il
+contait ses peines, il te faut Ã©pouser la vieille, ou renoncer Ã  ton
+Ã©tat.
+
+Je connais cette bique aux cheveux d'argent pour l'avoir vue lutiner un
+de nos anciens, qu'elle a fait mourir de fiÃ¨vre et de chagrin. VoilÃ 
+pourquoi je n'ai jamais voulu frayer avec les flambettes, encore
+qu'elles m'aient fait bien des avances, et que je les aie vu danser en
+belles jeunes filles autour de mon parc.
+
+--Et sauriez-vous me donner un charme pour m'en dÃ©barrasser? dit Ludre
+tout accablÃ©.
+
+--J'ai ouÃ¯ dire, rÃ©pondit le vieux, que celui qui pourrait couper la
+barbe Ã  cette maudite chÃ¨vre la gouvernerait Ã  son grÃ©; mais on y risque
+gros, Ã  ce qu'il paraÃ®t, car si on lui en laisse seulement un poil, elle
+reprend sa force et vous tord le cou.
+
+--Ma foi, j'y tenterai tout de mÃªme, reprit Ludre, car autant vaut y
+pÃ©rir que de m'en aller en _languition_ comme j'y suis.
+
+La nuit suivante, il vit la vieille en figure de flambette approcher de
+sa cabane, et il lui dit:
+
+--Viens Ã§Ã , la belle des belles, et marions-nous vitement. Quelle fut la
+noce, on ne l'a jamais su; mais sur minuit, la sorciÃ¨re Ã©tant bien
+endormie, Ludre prit les ciseaux Ã  tondre les moutons et, d'un seul
+coup, lui trancha si bien la barbe, qu'elle avait le menton tout Ã  nu et
+il fut content de voir que ce menton Ã©tait rose et blanc comme celui
+d'une jeune fille. Alors l'idÃ©e lui vint de tondre ainsi toute sa
+_chÃ¨vre Ã©pousÃ©e_, pensant qu'elle perdrait peut-Ãªtre toute sa laideur et
+sa malice avec sa toison.
+
+Comme elle dormait toujours ou faisait semblant, il n'eut pas
+grand'peine Ã  faire cette tondaille. Mais quand ce fut fini, il
+s'aperÃ§ut qu'il avait tondu sa houlette et qu'il se trouvait seul,
+couchÃ© avec ce bÃ¢ton de cormier.
+
+Il se leva bien inquiet de ce que pouvait signifier cette nouvelle
+diablerie, et son premier soin fÃ»t de compter ses bÃªtes qui se
+trouvÃ¨rent au nombre de deux cents, comme si aucune ne se fÃ»t jamais
+noyÃ©e.
+
+Alors, il se dÃ©pÃªcha de brÃ»ler tout le poil de la chÃ¨vre et de remercier
+le bon saint Ludre, qui ne permit plus aux flambettes de le
+tourmenter[14].
+
+
+
+
+Lubins ou Lupins
+
+Les lupins (ou lubins) sont des animaux fantastiques qui, la nuit, se
+tiennent debout le long des murs et hurlent Ã  la lune. Ils sont trÃ¨s
+peureux, et si quelqu'un vient Ã  passer, ils s'enfuient en criant:
+_Robert est mort, Robert est mort!_
+
+Maurice SAND.
+
+
+Il ne faut pas trop regarder les grands murs blancs au crÃ©puscule,
+encore moins au clair de la lune. On pourrait y voir _la hure_. En
+Normandie et dans plusieurs autres provinces, _la hure_ se promÃ¨ne le
+long des treilles, on ne sait guÃ¨re Ã  quelle intention, si ce n'est pour
+empÃªcher les enfants d'aller voler le raisin. Elle serait donc au nombre
+de ces esprits gardiens qui descendent en droite ligne, ainsi que les
+autres fadets domestiques, des lares vÃ©nÃ©rÃ©s de l'antiquitÃ©.
+
+Quoi qu'il en soit, _la hure_ est fort vilaine et il y aurait de quoi
+mourir de peur si on s'obstinait Ã  Ã©tudier son profil reflÃ©tÃ© sur les
+murailles. Les Grecs et les Romains avaient l'imagination riante; ils
+peuplaient de charmantes divinitÃ©s les arbres, les eaux et les prairies.
+Le moyen-Ã¢ge a assombri toutes ces bÃ©nignes apparitions. Le
+catholicisme, ne pouvant extirper la croyance, s'est hÃ¢tÃ© de les
+enlaidir et d'en faire des dÃ©mons et des bÃªtes, pour dÃ©tourner les
+hommes du culte des reprÃ©sentants de la matiÃ¨re.
+
+Cependant, il n'a pas rÃ©ussi Ã  les rendre tous haÃ¯ssables et pernicieux,
+et bon nombre des esprits de la nuit sont demeurÃ©s inoffensifs. C'est
+bien assez qu'ils aient consenti Ã  revÃªtir des formes bizarres et
+repoussantes qui les empÃªchent de sÃ©duire les humains.
+
+Les lubins sont de cette famille. Esprits chagrins, rÃªveurs et stupides,
+ils passent leur vie Ã  causer dans une langue inconnue, le long des murs
+des cimetiÃ¨res. En certains endroits on les accuse de s'introduire dans
+le champ du repos et d'y ronger les ossements. Dans ce dernier cas, ils
+appartiennent Ã  la race des lycanthropes et des garous, et doivent Ãªtre
+appelÃ©s _lupins_. Mais chez les _lubins_, les mÅurs s'adoucissent avec
+le nom. Ils ne font aucun mal et prennent la fuite au moindre bruit.[15]
+
+Cependant, il ne vaudrait rien de s'aboucher avec eux. Ils ont un
+certain mystÃ¨re Ã  l'endroit de Robert-le-Diable ou de tout autre Robert
+dont on n'a pu saisir la lÃ©gende, et ce mystÃ¨re a peut-Ãªtre pour
+chÃ¢timent l'humiliation d'une figure horrible et l'angoisse du perpÃ©tuel
+tourment de la peur.
+
+Sont-ils les descendants des _fameux frÃ¨res lubins et loups-garous_ de
+Rabelais? Qui sera assez Ã©pris de ces recherches Ã©tymologiques pour
+aller de leur demander?
+
+Je ne sais si c'est aux lupins que le petit tailleur bossu de
+Saint-Bault eut affaire. On le croirait, d'aprÃ¨s les circonstances de
+son histoire. La voici telle que j'ai pu la recueillir.
+
+Un soir que notre bossu passait le long du cimetiÃ¨re, il y vit une bande
+d'esprits en forme de laides bÃªtes qui ressemblaient Ã  des chiens noirs
+ou Ã  des loups et que, pour faciliter notre rÃ©cit, nous appellerons
+lupins bien qu'ils ne nous aient Ã©tÃ© dÃ©signÃ©s sous aucun nom
+particulier. Soit que ces esprits-bÃªtes fussent d'une race plus hardie
+que les lubins et lupins ordinaires, soit que le tailleur fÃ»t si laid,
+si laid, qu'il ne leur fit pas l'effet d'un chrÃ©tien, ils ne bougÃ¨rent
+tout le temps qu'il passa devant eux. Ils se contentÃ¨rent de le regarder
+avec leurs yeux qui brillaient comme du _sang de feu_, et Ã  ouvrir leurs
+vilaines gueules qui avaient si mauvaise haleine que le tailleur en fut
+empestÃ©.
+
+Pourtant, comme il avait grand'peur, ne les ayant aperÃ§us que lorsqu'il
+Ã©tait au milieu de la file, et qu'il avait autant de chemin Ã  faire pour
+reculer que pour avancer, il n'osa point risquer de les offenser en se
+bouchant le nez; il passa en faisant le gros dos, encore plus qu'il n'en
+avait l'habitude.
+
+Ce dos courbÃ© plut aux lupins, qui s'imaginÃ¨rent que c'Ã©tait une maniÃ¨re
+de les saluer, et comme ils n'ont pas l'habitude de voir des gens si
+honnÃªtes avec eux, ils en furent fiers et se mirent Ã  tirer tous la
+langue et Ã  remuer la queue comme des chiens, ce qui est apparemment
+aussi pour eux un signe de contentement et de fiertÃ©.
+
+Le tailleur essaya de raconter son aventure; mais tous ses voisins se
+moquÃ¨rent de lui, disant qu'il pouvait bien rencontrer le diable en
+personne et le faire fuir, vu qu'il Ã©tait encore le plus vilain des
+deux.
+
+Comme notre bossu allait en journÃ©e Ã  une mÃ©tairie qui Ã©tait Ã  trois
+bonnes portÃ©es de fusil du village, et qu'il avait Ã  revenir par le
+chemin qui longe le cimetiÃ¨re, il se sentit envie de coucher oÃ¹ il
+Ã©tait. Mais le mÃ©tayer lui dit en ricanant: Â«Non pas, non pas, tu es un
+compÃ¨re trop Ã  craindre pour les femmes d'une maison, je ne dormirais
+pas tranquille, te sachant si prÃ¨s de mes filles. Si tu as peur pour
+t'en aller, un de mes gars te fera la conduite. Bois un coup en
+attendant, car quand ton aiguille s'arrÃªte, ta langue trotte d'une faÃ§on
+divertissante et l'on a du plaisir Ã  Ã©couter ta _babille_.Â»
+
+En effet, le bossu Ã©tait beau diseur et plaisant. Le vin du mÃ©tayer
+Ã©tait bon, et notre homme s'oublia jusqu'Ã  dix heures du soir en si
+bonne compagnie. Quand il fallut s'en aller, il ne se trouva personne
+pour le conduire, tous les gars dormaient debout et, quant Ã  lui, il se
+sentait si bien rÃ©confortÃ© par la boisson, qu'il ne craignit plus de se
+mettre seul en route.
+
+Il arriva sans peur jusqu'au grand mur, se persuadant qu'il avait rÃªvÃ©
+ce qu'il avait vu la veille et regardant de tous ses yeux, avec la
+confiance qu'Ã©claircis par le vin, ils ne verraient plus rien que
+l'ombre des arbres, jetÃ©e sur le mur blanc par la lune et agitÃ©e par
+l'air de la nuit.
+
+Mais il vit les lupins dressÃ©s debout devant le mur, absolument comme la
+veille. Allons! se dit le pauvre bossu, ils y sont encore! Tant pis et
+courage! S'ils ne me font pas plus de mal qu'hier, je n'en mourrai pas.
+Et il se mit Ã  siffler une chanson, pensant que ces bÃªtes, ravies de
+l'entendre, se mettraient en frais de politesse avec lui, en tirant la
+langue et remuant la queue.
+
+Mais ce sifflement, loin de les charmer, paru les inquiÃ©ter beaucoup,
+car l'un d'eux se dÃ©tacha de la muraille, se mit Ã  quatre pattes et, le
+suivant, encore qu'il marchÃ¢t vite, le flaira Ã  l'endroit oÃ¹ les chiens
+ont coutume de se flairer les uns les autres, pour savoir s'ils doivent
+Ãªtre ennemis ou compagnons.
+
+Puis vint un second qui en fit autant, et un troisiÃ¨me, et un autre, et
+tous l'un aprÃ¨s l'autre; si bien qu'avant d'avoir dÃ©passer le mur, le
+tailleur avait toutes ces bÃªtes Ã  ses braies et ne sachant point si
+elles le voulaient manger ou fÃªter, il sentait ses jambes _devenir
+molles comme des pattes de cousin_. On pense bien qu'il n'avait plus
+envie de siffler ni chanter. Cependant il avanÃ§ait toujours, ayant ouÃ¯
+dire que ces bÃªtes ne quittaient pas la longueur du mur oÃ¹ elles avaient
+coutume de faire la veillÃ©e, et il n'avait plus qu'environ cinq ou six
+pas Ã  franchir, quand elles se mirent toutes devant lui, debout,
+grondant, puant la rage, et montrant des crocs jaunes Ã  faire lever le
+cÅur.
+
+--Messieurs, Messieurs, laissez-moi passer, dit le pauvre tailleur en
+dÃ©tresse. Je ne vous veux point de mal, ne m'en faites donc point.
+
+Mais les lupins grognaient de plus belle et mÃªme rugissaient comme des
+lions. Il semblait que la voix humaine les eÃ»t mis en grand Ã©moi et en
+mauvaise colÃ¨re.
+
+Tout Ã  coup, le tailleur eut une idÃ©e:--Messieurs, fit-il, ne me mangez
+point! Je suis maigre et vilain comme vous voyez! Si vous m'Ã©pargnez, je
+jure de vous apporter ici, demain, un mouton gras dont vous vous
+lÃ©cherez les babines.
+
+AussitÃ´t les lupins se remirent sur leurs quatre pattes sans mot dire,
+et le tailleur passa, toujours courant, sans regarder derriÃ¨re lui.
+
+Il se jeta au lit, tout transi de peur, et eut la fiÃ¨vre huit jours
+durant sans pouvoir sortir du lit, battant la campagne, et toujours
+s'imaginant de voir des loups ou des chiens enragÃ©s aprÃ¨s lui, si bien
+qu'on fit venir Monsieur le CurÃ©, pour tÃ¢cher de le tranquilliser.
+
+Mais quand le curÃ© l'eut confessÃ© de sa peine et bien grondÃ© d'avoir Ã©tÃ©
+si lÃ¢che que de promettre un bon mouton Ã  ces sales diables, on entendit
+autour de la maison du tailleur des hurlements abominables, et tout le
+village put voir sur les murs de cette maison, non pas le corps des
+lupins, ils n'eussent osÃ© venir si prÃ¨s d'un lieu oÃ¹ Ã©tait le curÃ© de la
+paroisse, mais leur ombre si bien dessinÃ©e que les cheveux en dressaient
+sur la tÃªte et que le sang Ã©tait glacÃ© dans le cÅur. On eÃ»t dit que cela
+passait en nuages sur la lune, et on les voyait remuer, sauter, gratter
+la terre et se mordiller les uns les autres, en figures aussi nettes
+qu'une image peinte, sur le pignon du tailleur, voire sur les maisons
+voisines.
+
+Et cela revint tous les soirs durant toute la semaine, de quoi tout le
+monde, et mÃªmement M. le CurÃ©, fut trÃ¨s effrayÃ©.
+
+Pourtant le bossu, qui n'Ã©tait pas bÃªte, voyant qu'il y avait lÃ  de la
+diablerie et que les exorcismes de Monsieur le CurÃ© ne pouvaient rien
+contre des apparences qui n'avaient point de corps, rÃ©solut d'attirer
+les lupins en personne au moyen d'un piÃ¨ge, et dÃ¨s qu'il fut en Ã©tat de
+se lever, il se fit prÃªter un beau mouton gras qu'il attacha le soir,
+devant sa porte. Puis ayant prÃ©venu le CurÃ© de se tenir lÃ  tout prÃªt
+avec son goupillon et tous les voisins de se cacher sous le buisson de
+son jardin, avec leurs fusils bien chargÃ©s de balles bÃ©nites, il
+commenÃ§a de faire bÃªler le mouton en lui montrant de la feuille verte,
+placÃ©e trop loin de lui pour qu'il pÃ»t y toucher.
+
+Alors les lupins entendant cela, ne purent se tenir de quitter leur mur
+et de venir, Ã  petits pas de loups, jusqu'en vue de la maison, oÃ¹ ils
+furent si bien reÃ§us qu'ils se sauvÃ¨rent tous, sauf une vieille femelle
+qui reÃ§ut une balle dans le cÅur et tomba par terre en criant d'une voix
+humaine: _La lune est morte, la lune est morte!_
+
+On ne sut jamais ce qu'elle avait voulu dire, sinon qu'elle avait une
+lune blanche au front et que, dans la bande, elle portait peut-Ãªtre le
+nom de la _lune_. On lui coupa la tÃªte et les pattes qui ont Ã©tÃ© vues
+longtemps clouÃ©es sur la porte du cimetiÃ¨re de Saint-Bault, et oÃ¹ jamais
+les lupins n'ont osÃ© reparaÃ®tre depuis[16].
+
+
+
+
+[1: _La Normandie romanesque et merveilleuse_, par Mlle AmÃ©lie Bosquet.]
+
+[2: Voyez pour ces mystÃ©rieux vestiques l'_Histoire du Berry_, par M.
+Raynal, etc.]
+
+[3: On ne s'accorde pas sur l'Ã©tymologie des fameuses pierres jomatres,
+de Boussac: les uns disent _jo-math_, celte, les autres _jovismatri_,
+latin.]
+
+[4: PrÃ¨s d'Aigurande, une pierre-levÃ©e s'appelle la pierre Ã  la marte.
+Elle est trÃ¨s redoutÃ©e.]
+
+[5: Nous en vÃ®mes.]
+
+[6: FatiguÃ©s Ã  force de sauter.]
+
+[7: On verra, plus tard, une certaine analogie entre cette croyance et
+celle du _Chien de MonthulÃ©_.]
+
+[8: George Sand: _LÃ©gendes rustiques_ (A. Morel et Cie, 1858).]
+
+[9: En Normandie, Mlle AmÃ©lie Bosquet nous apprend qu'on le retrouve Ã 
+chaque pas et mÃªme sous le nom peut-Ãªtre celtique de _Gerguintua_.]
+
+[10: EspÃ¨ce de gril en tÃ´le pour faire cuire les galettes.]
+
+[11: Le paysan bas-normand, auteur de cette lÃ©gende, dit l'auteur qui la
+rapporte, ne se doutait guÃ¨re qu'il imitait HomÃ¨re.]
+
+[12: Le vergne est l'aune des prairies. Quand on le coupe, son bois est
+d'un rouge de sang.]
+
+[13: La lande.]
+
+[14: George Sand: _LÃ©gendes rustiques_ (A. Morel et Cie, Paris, 1858).]
+
+[15: En certaines localitÃ©s le _lubin_ est un trÃ¨s bon diable qui
+protÃ¨ge les laboureurs.]
+
+[16: George Sand: _LÃ©gendes rustiques_ (A. Morel et Cie, Paris, 1858).]
+
+
+
+
+
+End of the Project Gutenberg EBook of LÃ©gendes rustiques, by George Sand
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LÃGENDES RUSTIQUES ***
+
+***** This file should be named 17911-0.txt or 17911-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/7/9/1/17911/
+
+Produced by Carlo Traverso, Eric Vautier and the Online
+Distributed Proofreading Team at DP-EU. This file was
+produced from images generously made available by the
+BibliothÃ¨que nationale de France (BnF/Gallica)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+

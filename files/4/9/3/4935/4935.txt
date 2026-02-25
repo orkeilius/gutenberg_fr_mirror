@@ -1,3 +1,2195 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30a3ba3d82f360d087658fc3564cdd24e9db2a7c6eac9d93b8fc344e69b94170
-size 123249
+*** START OF THE PROJECT GUTENBERG EBOOK 4935 ***
+
+language: French
+
+
+
+
+Title: Pathologie Verbale, ou LÃ©sions de certains mots dans le
+      cours de l'usage
+
+Remark: First published in "Ãtudes et Glanures, pour faire suite a
+        l'Histoire de la langue franÃ§aise"
+
+
+
+
+We thank the Bibliotheque Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la BibliothÃ¨que Nationale de France qui a mis Ã 
+disposition les images dans www://gallica.bnf.fr, et a donnÃ©
+l'autorisation de les utiliser pour prÃ©parer ce texte.
+
+
+
+Notes: _italics_ are represented by underscores.
+
+<greek> translitteration: <a>lpha, <b>eta, <g>amma, <d>elta,
+<e>psilon, <z>eta, <_e>ta, <th>eta, <i>ota, <k>appa, <l>ambda,
+<m>u, <n>u, <x>i, <o>micron, <p>i, <rh>o, <s>igma, <t>au,
+<y>psilon (<u>psilon in diphthongs), <ph>i, <ch>i, <ps>i, <_o>mega,
+<*i>ota subscript, <`><'><^> accents (after the letter),
+<:> diaeresis (between the vocals), <;> question mark.
+<h> rough (before the letter except <rh>), (smooth is unmarked)
+
+
+
+
+			  Ãmile LittrÃ©
+
+
+		       Pathologie Verbale
+			       ou
+	LÃ©sions de certains mots dans le cours de l'usage
+
+
+
+
+Sous ce titre, je comprends les malformations (la _cour_ au lieu
+de la _court_, _Ã©pellation_ au lieu d'_Ã©pelation_), les
+confusions (_Ã©conduire_ et l'ancien verbe _escondire_), les
+abrogations de signification, les pertes de rang (par exemple,
+quand un mot attachÃ© aux usages nobles tombe aux usages vulgaires
+ou vils), enfin les mutations de signification.
+
+Notre langue est Ã©crite depuis plus de six cents ans.  Elle est
+tellement changÃ©e dans sa grammaire, dans ses constructions et
+mÃªme en son dictionnaire, qu'il faut une certaine Ã©tude, qui
+d'ailleurs n'est pas bien longue et que j'ai toujours
+recommandÃ©e, pour comprendre couramment l'ancienne.  MalgrÃ© tout,
+un grand nombre de mots ont traversÃ© ce long intervalle de temps,
+ils ont Ã©tÃ© employÃ©s par tous les FranÃ§ais, il est vrai, habitant
+le mÃªme pays, mais soumis Ã  d'infinies variations de moeurs,
+d'opinions, de gouvernements.  On doit admirer la constance de la
+tradition sans s'Ã©tonner des accrocs qu'elle a subis Ã§a et lÃ .
+
+Comme un mÃ©decin qui a eu une pratique de beaucoup d'annÃ©es et de
+beaucoup de clients, parcourant Ã  la fin de sa carriÃ¨re le
+journal qu'il en a tenu, en tire quelques cas qui lui semblent
+instructifs, de mÃªme j'ai ouvert mon journal, c'est-Ã -dire mon
+dictionnaire, et j'y ai choisi une sÃ©rie d'anomalies qui, lorsque
+je le composais, m'avaient frappÃ© et souvent embarrassÃ©.  Je
+m'Ã©tais promis d'y revenir, sans trop savoir comment; l'occasion
+se prÃ©sente en ce volume et j'en profite; ce volume que, certes,
+je n'aurais ni entrepris ni continuÃ© aprÃ¨s l'avoir commencÃ©, si
+je n'Ã©tais soutenu par la maxime de ma vieillesse: faire
+toujours, sans songer le moins du monde si je verrai l'achÃ¨vement
+de ce que je fais.
+
+Je les laisse dans l'ordre alphabÃ©tique oÃ¹ je les ai relevÃ©es.
+Ce n'est point un traitÃ©, un mÃ©moire sur la matiÃ¨re, que je
+compte mettre sous les yeux de mon lecteur.  C'est plutÃ´t une
+sÃ©rie d'anecdotes; le mot considÃ©rÃ© en est, si je puis ainsi
+parler, le hÃ©ros.  Plus l'anomalie est forte, plus l'anecdote
+comporte de dÃ©tails et d'incidents.  Je suis ici comme une sorte
+de Tallemant des RÃ©aux, mais sans mÃ©disance, sans scandale et
+sans mauvais propos, Ã  moins qu'on ne veuille considÃ©rer comme
+tels les libres jugements que je porte sur les inconsistances et
+les lourdes mÃ©prises de l'usage, toutes les fois qu'il en commet.
+
+L'usage est de grande autoritÃ©, et avec raison; car, en somme, il
+obÃ©it Ã  la tradition; et la tradition est fort respectable,
+conservant avec fidÃ©litÃ© les principes mÃªmes et les grandes
+lignes de la langue.  Mais il n'a pas conscience de l'office
+qu'il remplit; et il est trÃ¨s susceptible de cÃ©der Ã  de mauvaises
+suggestions, et trÃ¨s capable de mettre son sceau, un sceau
+qu'ensuite il n'est plus possible de rompre, Ã  ces fÃ¢cheuses
+dÃ©viations.  On le trouvera, dans ce petit recueil, plus d'une
+fois pris en flagrant dÃ©lit de malversation Ã  l'Ã©gard du dÃ©pÃ´t
+qui lui a Ã©tÃ© confiÃ©; mais on le trouvera aussi, en d'autres
+circonstances, ingÃ©nieux, subtil et plein d'imprÃ©vu au bon sens
+du mot.
+
+Cette multitude de petits faits, dispersÃ©s dans mon dictionnaire,
+est ici mise sous un mÃªme coup d'oeil.  Elle a l'intÃ©rÃªt de la
+variÃ©tÃ©; et, en mÃªme temps, comme ce sont des faits, elle a
+l'intÃ©rÃªt de la rÃ©alitÃ©.  La variÃ©tÃ© amuse, la rÃ©alitÃ© instruit.
+
+
+
+			       ***
+
+
+_Accoucher_.--_Accoucher_ n'a aujourd'hui qu'une acception, celle
+d'enfanter, de mettre au monde, en parlant d'une femme enceinte.
+Mais, de soi, ce verbe, qui, Ã©videmment, contient _couche_,
+_coucher_, est Ã©tranger Ã  un pareil emploi.  Le sens propre et
+ancien d'_accoucher_, ou, comme on disait aussi, de _s'accoucher_,
+est se mettre au lit.  Comme la femme se met au lit, se couche
+pour enfanter, le prÃ©liminaire a Ã©tÃ© pris pour l'acte mÃªme,
+exactement comme si, parce qu'on s'assied pour manger Ã  table,
+s'asseoir avait pris le sens de manger.  _Accoucher_ n'a plus
+signifiÃ© qu'une seule maniÃ¨re de se coucher, celle qui est liÃ©e Ã 
+l'enfantement; et ce sens restreint a tellement prÃ©valu, que
+l'autre, le gÃ©nÃ©ral, est tombÃ© en dÃ©suÃ©tude.  Il est bon de noter
+qu'il se montre de trÃ¨s bonne heure; mais alors il existe cÃ´te Ã 
+cÃ´te avec celui de se mettre au lit.  L'usage moderne rÃ©servait Ã 
+ce mot une bien plus forte entorse; il en a fait un verbe actif
+qui devrait signifier mettre au lit, mais qui, dans la tournure
+qu'avait prise la signification, dÃ©signa l'office du chirurgien,
+de la sage-femme qui aident la patiente.  Je ne crois pas qu'il y
+ait rien Ã  blÃ¢mer en ceci, tout en m'Ã©tonnant de la vigueur avec
+laquelle l'usage a, pour ce dernier sens, manipulÃ© le mot.  C'est
+ainsi que l'artiste remanie souverainement l'argile qu'il a entre
+les mains.
+
+
+_Arriver_.--De quelque faÃ§on que l'on se serve de ce verbe (et les
+emplois en sont fort divers), chacun songe Ã  _rive_ comme radical;
+car l'Ã©tymologie est transparente.  En effet, dans l'ancienne
+langue, _arriver_ signifie uniquement mener Ã  la rive: Â«Li vens
+les arriva.Â» Il est aussi employÃ© neutralement avec le sens de
+venir Ã  la rive, au bord: Â«Saint Thomas l'endemain en sa nef en
+entra; Deus (Dieu) li donna bon vent, Ã  Sanwiz _arriva_.Â» Chose
+singuliÃ¨re, malgrÃ© la prÃ©sence Ã©vidente de _rive_ en ce verbe, le
+sens primordial s'oblitÃ©ra; il ne fut plus question de _rive_: et
+_arriver_ prit la signification gÃ©nÃ©rale de venir Ã  un point
+dÃ©terminÃ©: arriver Ã  Paris; puis, figurÃ©ment: arriver aux
+honneurs, Ã  la vieillesse.  Mais lÃ  ne s'est pas arrÃªtÃ©e
+l'extension de la signification.  On lui a donnÃ© pour sujet des
+objets inanimÃ©s que l'on a considÃ©rÃ©s comme se mouvant et
+atteignant un terme: Â«De grands Ã©vÃ©nements arrivÃ¨rent; ce dÃ©sordre
+est arrivÃ© par votre faute.Â» Enfin la derniÃ¨re dÃ©gradation a Ã©tÃ©
+quand, pris impersonnellement, _arriver_ a exprimÃ© un
+accomplissement quelconque: Â«Il arriva que je le rencontrai.Â» Ici
+toute trace de l'origine Ã©tymologique est effacÃ©e; pourtant la
+chaÃ®ne des significations n'est pas interrompue.  L'anomalie est
+d'avoir expulsÃ© de l'usage le sens primitif; et il est fÃ¢cheux de
+ne pas dire comme nos aÃ¯eux: Le vent les _arriva_.
+
+
+_Artillerie_.--Ce mot est un exemple frappant de la force de la
+tradition dans la conservation des vieux mots, malgrÃ© le
+changement complet des objets auxquels ils s'appliquent.  Dans
+_artillerie_, il n'est rien qui rappelle la poudre explosive et
+les armes Ã  feu.  Ce mot vient d'_art_, et ne signifie pas autre
+chose que objet d'art, et, en particulier, d'art mÃ©canique.  Dans
+le moyen Ã¢ge, _artillerie_ dÃ©signait l'ensemble des engins de
+guerre soit pour l'attaque, soit pour la dÃ©fense.  La poudre ayant
+fait tomber en dÃ©suÃ©tude les arcs, arbalÃ¨tes, balistes, chÃ¢teaux
+roulants, bÃ©liers, etc., le nom d'_artillerie_ passa aux nouveaux
+engins, et mÃªme se renferma exclusivement dans les armes de gros
+calibre, non portatives.  Il semblait qu'une chose nouvelle dÃ»t
+amener un nom nouveau; il n'en fut rien.  Le nÃ©ologisme ne put se
+donner carriÃ¨re; et, au lieu de recourir, comme on eÃ»t fait de
+notre temps, Ã  quelque composÃ© savant tirÃ© du grec, on se borna
+modestement et sagement Ã  transformer tout l'arsenal Ã  cordes et Ã 
+poulies en l'arsenal Ã  poudre et Ã  feu.  Seulement, il faut se
+rappeler, quand on lit un texte du quatorziÃ¨me siÃ¨cle,
+qu'_artillerie_ n'y signifie ni arquebuse, ni fusil, ni canon.
+
+
+_Assaisonner_.--Le sens propre de ce mot, comme l'indique
+l'Ã©tymologie, est: cultiver en saison propre, mÃ»rir Ã  temps.
+Comment a-t-on pu en venir, avec ce sens qui est le seul de la
+langue du moyen Ã¢ge, Ã  celui de mettre des condiments dans un
+mets?  Voici la transition: en un texte du treiziÃ¨me siÃ¨cle,
+viande _assaisonnÃ©e_ signifie aliment cuit Ã  point, ni trop, ni
+trop peu, comme qui dirait mÃ»ri Ã  temps.  Du moment qu'assaisonner
+fut entrÃ© dans la cuisine, il n'en sortit plus, et de cuire Ã 
+point il passa Ã  l'acception de mettre Ã  point pour le goÃ»t Ã 
+l'aide de certains ingrÃ©dients; sens qu'il a uniquement parmi
+nous.
+
+
+_Assassin_.--Ce mot ne contient rien en soi qui indique mort ou
+meurtre.  C'est un dÃ©rivÃ© de _haschich_, cette cÃ©lÃ¨bre plante
+enivrante.  Le Vieux de la Montagne, dans le treiziÃ¨me siÃ¨cle,
+enivrait avec cette plante certains de ses affidÃ©s, et,
+leur promettant que, s'ils mouraient pour son service, ils
+obtiendraient les fÃ©licitÃ©s dont ils venaient de prendre un
+avant-goÃ»t, il leur dÃ©signait ceux qu'il voulait frapper.  On
+voit comment le haschich est devenu signe linguistique du
+meurtre et du sang.
+
+
+_Attacher, attaquer_.--Ces mots prÃ©sentent deux anomalies
+considÃ©rables.  La premiÃ¨re, c'est qu'ils sont Ã©tymologiquement
+identiques, ne diffÃ©rant que par la prononciation; _attaquer_
+est la prononciation picarde d'attacher.  La seconde est que,
+_tache_ et _tacher_ Ã©tant les simples de nos deux verbes, les
+composÃ©s _attacher_ et _attaquer_ ne prÃ©sentent pas, en
+apparence, dans leur signification, de relation avec leur
+origine.  Il n'est pas mal Ã  l'usage d'user de l'introduction
+irrÃ©guliÃ¨re et fortuite d'une forme patoise pour attribuer deux
+acceptions diffÃ©rentes Ã  un mÃªme mot; et mÃªme, Ã  vrai dire, il
+n'est pas probable, sans cette occasion, qu'il eÃ»t songÃ© Ã 
+trouver dans _attacher_ le sens d'_attaquer_.  Mais comment
+a-t-il trouvÃ© le sens d'_attacher_ dans _tache_ et _tacher_, qui
+sont les simples de ce composÃ©?  C'est que, tandis que dans
+_tache_ mourait un des sens primordiaux du mot qui est: ce qui
+fixe, petit clou, ce sens survivait dans _attacher_.  Au
+seiziÃ¨me siÃ¨cle, les formes _attacher_ et _attaquer_ s'emploient
+l'une pour l'autre; et Calvin dit _s'attacher_ lÃ  oÃ¹ nous
+dirions _s'attaquer_.  Ce qui attaque a une pointe qui pique, et
+le passage de l'un Ã  l'autre sens n'est pas difficile.  D'autre
+part, il n'est pas douteux que _tache_, au sens de ce qui salit,
+ne soit une autre face de _tache_ au sens de ce qui fixe ou se
+fixe.  De la sorte on a la vue des amples Ã©carts qu'un mot subit
+en passant du simple au composÃ©, avec cette particularitÃ© ici
+que le sens demeurÃ© en usage dans le simple disparaÃ®t dans le
+composÃ©, et que le sens qui est propre au composÃ© a disparu dans
+le simple complÃ¨tement.  C'est un jeu curieux Ã  suivre.
+
+
+_Avouer_.--Quelle relation y a-t-il entre le verbe _avouer_,
+confesser, _confiteri_, et le substantif _avouÃ©_, officier
+ministÃ©riel chargÃ© de reprÃ©senter les parties devant les
+tribunaux?  L'ancienne Ã©tymologie, qui ne consultait que les
+apparences superficielles, aurait dit que l'avouÃ© Ã©tait nommÃ©
+ainsi parce que le plaideur lui avouait, confessait tous les
+faits relatifs au procÃ¨s.  Mais il n'en est rien; et la
+recherche des parties constituantes du mot ne laisse aucune
+place aux explications imaginaires.  _Avouer_ est formÃ© de _Ã _
+et _voeu_; en consÃ©quence, il signifie proprement faire voeu Ã 
+quelqu'un, et c'est ainsi qu'on l'employait dans le langage de
+la fÃ©odalitÃ©.  Le fil qui de ce sens primitif conduit Ã  celui de
+confesser est subtil sans doute, mais trÃ¨s visible et trÃ¨s sÃ»r.
+De faire voeu Ã  quelqu'un, _avouer_ n'a pas eu de peine Ã 
+signifier: approuver une personne, approuver ce qu'elle a fait
+en notre nom.  Enfin une nouvelle transition, lÃ©gitime aussi, oÃ¹
+l'on considÃ¨re qu'avouer une chose c'est la reconnaÃ®tre pour
+sienne, mÃ¨ne au sens de confesser: on reconnaÃ®t pour sien ce que
+l'on confesse.  Et l'_avouÃ©_, que devient-il en cette filiÃ¨re?
+Ce substantif n'est point nouveau dans la langue, et jadis il
+dÃ©signait une haute fonction dans le rÃ©gime fÃ©odal, fonction de
+celui Ã  qui l'on se vouait et qui devenait un dÃ©fenseur.
+L'officier ministÃ©riel d'aujourd'hui est un diminutif de l'avouÃ©
+fÃ©odal; c'est celui qui prend notre dÃ©fense dans nos procÃ¨s.
+
+
+_Bondir_.--Supposez que nous ayons conservÃ© l'ancien verbe
+_tentir_ (nous n'avons plus que le composÃ© _retentir_), et qu'Ã 
+un certain moment de son existence _tentir_ change subitement de
+signification, cesse de signifier faire un grand bruit, et
+prenne l'acception de rejaillir, ressauter; vous aurez dans
+cette supposition l'histoire de _bondir_.  Jusqu'au quatorziÃ¨me
+siÃ¨cle, il signifie uniquement retentir, rÃ©sonner Ã  grand bruit;
+puis tout Ã  coup, sans qu'on aperÃ§oive de transition, il n'est
+plus employÃ© que pour exprimer le mouvement du saut; il est
+devenu Ã  peu prÃ¨s synonyme de sauter.  Nous aurons, je crois,
+l'explication de cet Ã©cart de signification en nous reportant au
+substantif _bond_.  Ce substantif, dont on ne trouve des
+exemples que dans le cours du quatorziÃ¨me siÃ¨cle, n'a pas
+l'acception de grand bruit, de retentissement, qui appartient Ã 
+l'emploi primitif du verbe _bondir_; le sens propre en est
+mouvement d'un corps qui, aprÃ¨s en avoir heurtÃ© un autre,
+rejaillit.  C'est par le sens de rejaillissement que les deux
+acceptions, la primitive et la dÃ©rivÃ©e, peuvent se rejoindre.
+Un grand bruit, un retentissement, a Ã©tÃ© saisi comme une espÃ¨ce
+de rejaillissement; et, une fois mis hors de la ligne du sens
+vÃ©ritable, l'usage a suivi la pente qui s'offrait, a oubliÃ©
+l'acception primitive et Ã©tymologique, et en a crÃ©Ã© une
+nÃ©ologique, subtile en son origine et trÃ¨s Ã©loignÃ©e de la
+tradition.
+
+
+_Charme_.--Le mot _charme_, qui vient du latin _carmen_, chant,
+vers, ne signifie au propre et n'a signifiÃ© originairement que
+formule d'incantation chantÃ©e ou rÃ©citÃ©e.  C'est le seul sens
+que l'ancienne langue lui attribue; mÃªme au seiziÃ¨me siÃ¨cle il
+n'a pas encore pris l'acception de ce qui plaÃ®t, ce qui touche,
+ce qui attire; du moins mon dictionnaire n'en contient aucun
+exemple.  C'est vers le dix-septiÃ¨me siÃ¨cle que cet emploi
+nÃ©ologique s'est Ã©tabli.  La transition est facile Ã  concevoir.
+Aujourd'hui la signification primitive commence Ã  s'obscurcir, Ã 
+cause que l'usage du charme incantation, banni tout Ã  fait du
+milieu des gens Ã©clairÃ©s, se perd de plus en plus parmi le reste
+de la population.  Mais considÃ©rez Ã  ce propos jusqu'oÃ¹ peut
+aller l'Ã©cart des significations: le latin _carmen_ en est venu
+Ã  exprimer les beautÃ©s qui plaisent et qui attirent.  L'imaginer
+aurait Ã©tÃ©, si l'on ne tenait les intermÃ©diaires, une bien
+tÃ©mÃ©raire conjecture de la part de l'Ã©tymologiste.
+
+
+_Chercher_.--Le latin a _quaerere_; notre langue en a fait
+_quÃ©rir_, avec la mÃªme signification.  Le latin vulgaire avait
+_circare_, aller tout autour, parcourir; notre langue en fit
+_chercher_, non pas avec l'acception de quÃ©rir, mais avec celle
+de l'Ã©tymologie, parcourir: Â«Toute France a _cerchie_ (il a
+parcouru toute la France)Â», dit un trouvÃ¨re.  Jusque-lÃ  tout va
+bien; et chacun de ces deux mots reste sur son terrain.  Mais, Ã 
+un certain moment, _chercher_ perd le sens de parcourir et prend
+celui de quÃ©rir.  C'est un fort nÃ©ologisme de signification, qui
+paraÃ®t avoir commencÃ© dÃ¨s le treiziÃ¨me siÃ¨cle.  Par quels
+intermÃ©diaires a-t-on passÃ© du sens primitif au sens secondaire?
+De trÃ¨s bonne heure, Ã  cÃ´tÃ© du sens de parcourir, _chercher_ eut
+celui de porter les pas en tous sens, et mÃªme de porter en tous
+sens la main, et l'on disait chercher un pays, chercher un
+corps, ce que nous exprimerions aujourd'hui par fouiller un
+pays, fouiller un corps.  A ce point nous sommes trÃ¨s prÃ¨s du
+sens moderne de _chercher_, qui en effet s'impatronisa dans
+l'usage et en bannit les deux anciennes acceptions de ce verbe.
+Bien plus, Ã  mesure que le sens de s'efforcer de trouver a
+prÃ©dominÃ© dans _chercher_, _quÃ©rir_ est tombÃ© en dÃ©suÃ©tude, et
+aujourd'hui il est Ã  peine usitÃ©.  Le nÃ©ologisme, fort ancien il
+est vrai, dont _chercher_ a Ã©tÃ© l'objet, n'a pas Ã©tÃ© heureux.
+Il eÃ»t mieux valu conserver le plein emploi de _quÃ©rir_, qui est
+le mot latin et propre, et garder _chercher_ en son acception
+primitive, incomplÃ¨tement supplÃ©Ã©e par parcourir.
+
+
+_ChÃ¨re_.--Ce mot vient du latin vulgaire et relativement moderne
+_cara_, qui signifiait face, et qui Ã©tait lui-mÃªme une dÃ©rivation
+du grec <ka'ra>.  Cette altÃ©ration du sens primitif, ce sont les
+Latins qui s'en sont chargÃ©s.  Puis est venu le vieux franÃ§ais
+qui n'emploie le mot _chÃ¨re_ qu'au sens de face, de visage.
+Faire bonne chÃ¨re, c'est faire bon visage; de lÃ  Ã  faire bon
+accueil il n'y a pas loin; aussi cette acception a-t-elle eu
+cours jusque dans le commencement du dix-septiÃ¨me siÃ¨cle.  Ces
+deux sens sont aujourd'hui hors d'usage; le nouveau, qui les a
+rejetÃ©s dans la dÃ©suÃ©tude, est bien Ã©loignÃ©: faire bonne chÃ¨re,
+mauvaise chÃ¨re, c'est avoir un bon repas, un mauvais repas.  Sans
+doute, un bon repas est un bon accueil; mais pour quelqu'un qui
+ignore l'origine et l'emploi primitif du mot, il est impossible
+de soupÃ§onner que le sens de visage est au fond de la locution.
+Ce qui est pis, c'est qu'Ã©videmment l'usage moderne s'est laissÃ©
+tromper par la similitude de son entre chÃ¨re et chair; chair l'a
+conduit Ã  l'idÃ©e de repas, et l'idÃ©e de repas a expulsÃ© celle
+d'accueil.
+
+
+_ChÃ©tif_.--Cet adjectif vient du latin _captivus_, captif,
+prisonnier de guerre; aussi dans l'ancienne langue a-t-il le
+sens de prisonnier.  Mais de trÃ¨s bonne heure cette
+signification primitive se trouve en concurrence avec la
+signification dÃ©rivÃ©e, celle de misÃ©rable.  Les Latins ne sont
+point les auteurs de la dÃ©rivation que le mot a subie; ce sont
+les Romans qui l'ont ainsi dÃ©tournÃ©; dÃ©tournement qui, du reste,
+se conÃ§oit sans beaucoup de peine, le prisonnier de guerre Ã©tant
+sujet Ã  toutes les misÃ¨res.  A mesure que le temps s'est Ã©coulÃ©,
+le franÃ§ais y a laissÃ© tomber en dÃ©suÃ©tude l'acception du
+captif, et il n'y est plus restÃ© que celle du misÃ©rable.  Mais
+une singularitÃ© est survenue; au seiziÃ¨me siÃ¨cle, la langue
+savante a francisÃ© _captivus_, et en a fait _captif_.  Les
+procÃ©dÃ©s de la langue populaire et de la langue savante sont
+tellement diffÃ©rents, que _chÃ©tif_ et _captif_, qui sont
+pourtant le mÃªme mot, marchent cÃ´te Ã  cÃ´te sans se reconnaÃ®tre.
+Il faut convenir que, _chÃ©tif_ ayant irrÃ©vocablement perdu son
+sens de prisonnier, _captif_ est un assez heureux nÃ©ologisme du
+seiziÃ¨me siÃ¨cle.
+
+
+_Choisir_.--Le mot germanique qui a produit notre _choisir_
+signifie voir, apercevoir, discerner.  Aussi est-ce l'unique
+acception que _choisir_ a dans l'ancien franÃ§ais.  _Choisir_ au
+sens d'Ã©lire ne commence Ã  paraÃ®tre qu'au quatorziÃ¨me siÃ¨cle.  A
+mesure que _choisir_ s'Ã©tablissait au sens d'Ã©lire, Ã©lire
+lui-mÃªme Ã©prouvait une diminution d'emploi.  Le franÃ§ais moderne
+n'a gardÃ© aucune trace de la vraie et antique acception de
+_choisir_.  Il n'a pas Ã©tÃ© nÃ©cessaire de donner une forte
+entorse au mot pour lui attacher le sens d'Ã©lire; et discerner,
+qu'il renferme, conduit sans grande peine Ã  faire un choix.  Ici
+se prÃ©sente une singularitÃ©; tandis que, anciennement, _choisir_
+n'a que le sens de voir, _choix_ n'a en aucun temps celui de
+vue, de regard: il veut toujours dire Ã©lection.  DÃ¨s l'origine,
+le traitement du verbe a Ã©tÃ© diffÃ©rent du traitement du
+substantif.  Discernement, si voisin du sens d'Ã©lection, a
+prÃ©valu dans celui- ci tandis que le sens plus gÃ©nÃ©ral de voir
+prÃ©valait, selon l'Ã©tymologie, dans celui-lÃ .  DÃ¨s lors on
+conÃ§oit que le quatorziÃ¨me siÃ¨cle ne fit pas un grand nÃ©ologisme
+de signification quand il rendit _choisir_ synonyme d'Ã©lire.
+Mais _choisir_ au sens de voir en est mort; c'est un cas assez
+frÃ©quent dans le cours de notre langue qu'une nouvelle acception
+met hors d'usage l'ancienne.
+
+
+_Compliment_.--_Compliment_ est le substantif de l'ancien verbe
+_complir_, et signifie accomplissement.  Il a ce sens dans le
+seiziÃ¨me siÃ¨cle.  Le dix-septiÃ¨me siÃ¨cle n'en tient aucun
+compte, et, laissant dans l'oubli cette acception rÃ©guliÃ¨re, il
+en imagine une autre, celle de paroles de civilitÃ© adressÃ©es Ã 
+propos d'un Ã©vÃ©nement heureux ou malheureux.  Il aurait bien dÃ»
+nous laisser entrevoir quels intermÃ©diaires l'avaient conduit si
+loin dans ce nÃ©ologisme de signification.  Ce qui semble le plus
+plausible, en l'absence de tout document, c'est que, dans les
+paroles ainsi adressÃ©es, il a vu un accomplissement de devoir ou
+de biensÃ©ance; et le nom que portait cet acte (compliment ou
+accomplissement), il l'a transfÃ©rÃ© aux paroles mÃªmes qui s'y
+prononÃ§aient.  Notez en confirmation que le premier sens de
+compliment, selon le dix-septiÃ¨me siÃ¨cle, est discours solennel
+adressÃ© Ã  une personne revÃªtue d'une autoritÃ©.  C'est donc bien
+un accomplissement.
+
+
+_Converser_, _conversation_.--_Converser_, d'aprÃ¨s son origine
+latine, veut dire vivre avec, et n'a pas d'autre signification
+durant tout le cours de la langue, jusqu'au seiziÃ¨me siÃ¨cle
+inclusivement.  _Conversation_, qui en est le substantif, ne se
+comporte pas autrement, et nos aÃ¯eux ne l'emploient qu'avec le
+sens d'action de vivre avec.  Puis, tout Ã  coup, le dix-septiÃ¨me
+siÃ¨cle, fort enclin aux nÃ©ologismes de signification, se donne
+licence dans _conversation_; et il ne s'en sert plus que pour
+exprimer un Ã©change de propos.  Ce siÃ¨cle, qu'on dit
+conservateur, ne le fut pas ici; car, s'il lui a Ã©tÃ© licite de
+passer du sens primitif au sens dÃ©rivÃ©, il n'aurait pas dÃ»
+abolir le premier au profit du second.  C'est un dommage gratuit
+imposÃ© Ã  la langue.  _Converser_ a Ã©tÃ© plus heureux; il a les
+deux acceptions, et la tradition, d'ordinaire respectable, n'y a
+pas Ã©tÃ© interrompue.
+
+
+_Coquet, coquette_.--Un _coquet_ dans l'ancienne langue est un
+jeune coq.  On ne peut qu'applaudir Ã  l'imagination ingÃ©nieuse
+et riante qui a transportÃ© l'air et l'apparence de ce gentil
+animal dans l'espÃ¨ce humaine et y a trouvÃ© une heureuse
+expression pour l'envie de plaire, pour le dÃ©sir d'attirer en
+plaisant.  On ne sait pas au juste quand la nouvelle acception a
+Ã©tÃ© attachÃ©e Ã  _coquet_.  Je n'en connais pas d'exemple avant le
+quinziÃ¨me siÃ¨cle.
+
+
+_CÃ´te_.--Le sens Ã©tymologique est celui d'os servant Ã  constituer
+la cage de la poitrine.  Longtemps, le mot n'en a pas eu d'autre;
+puis, au seiziÃ¨me siÃ¨cle, on voit apparaÃ®tre celui de penchant de
+colline.  En cette acception l'ancienne langue disait un
+_pendant_.  La cÃ´te d'une colline a Ã©tÃ© ainsi nommÃ©e par la mÃªme
+suggestion qui forma _cÃ´tÃ© (costÃ©)_ et _coteau (costeau)_.  On y
+vit une partie latÃ©rale, assimilÃ©e dÃ¨s lors sans difficultÃ© aux
+os composant la partie latÃ©rale de la poitrine.  C'est le
+seiziÃ¨me siÃ¨cle qui a eu le mÃ©rite d'imaginer un tel rapport.
+Nous usons, sans scrupule, de sa hardiesse nÃ©ologique qui
+susciterait plus d'une clameur si elle se produisait aujourd'hui.
+Toutefois notons que nos aÃ¯eux (les aÃ¯eux antÃ©rieurs au seiziÃ¨me
+siÃ¨cle) n'avaient pas Ã©tÃ© trop mal inspirÃ©s en nommant au propre
+un _pendant_ ce que nous nommons une _cÃ´te_ au figurÃ©.
+
+
+_Cour_.--Il y avait dans le latin un mot _cohors_ ou _chors_ qui
+signifiait enclos.  Il se transforma dans le bas latin en
+_curtis_, qui prit le sens gÃ©nÃ©ral de demeure rurale.  Devenu
+franÃ§ais, il s'Ã©crivit, Ã©tymologiquement, avec un _t_, _court_,
+et figure sous cette forme dans maints noms de lieux, en
+Normandie, en Picardie et ailleurs.  Comme, sous les
+MÃ©rovingiens et les Carolingiens, les seigneurs et les rois
+habitaient ordinairement leurs maisons des champs, _court_ prit
+facilement le sens de lieu oÃ¹ sÃ©journe un prince souverain.  On
+a lÃ  un exemple de l'anoblissement des mots.  Celui-ci a quittÃ©
+les champs pour entrer dans les villes et les palais.  En la
+langue d'aujourd'hui, ces deux extrÃªmes se touchent encore: la
+basse-cour tient Ã  l'usage primitif, et la cour des princes, Ã 
+l'usage dÃ©rivÃ©.  Une fausse Ã©tymologie, qui naquit dans le
+quatorziÃ¨me siÃ¨cle et tira notre mot de _curia_, y supprima le
+_t_; mais outre que le _t_ figure dans les dÃ©rivÃ©s, _courtois_,
+_courtisan_, _curia_ devrait donner non pas _cour_, mais _cuire_
+ou _coire_.  Nous avons laissÃ© la bonne orthographe des douziÃ¨me
+et treiziÃ¨me siÃ¨cles (_court_), et gardÃ© la mauvaise du
+quatorziÃ¨me siÃ¨cle; si bien qu'il est devenu difficile de
+comprendre comment, organiquement, on a fait pour former le
+dÃ©rivÃ© _courtisan_; et l'usage est assez penaud quand on lui
+reprÃ©sente que _courtisan_ jure avec _cour_ ainsi travesti.
+
+
+_DÃ©manteler_.--Dans le seiziÃ¨me siÃ¨cle, _dÃ©manteler_ a le sens
+ propre d'Ã´ter le manteau, Ã  cÃ´tÃ© du sens figurÃ©: abattre les
+ remparts d'une ville.  Aujourd'hui le sens propre a disparu, et
+ l'usage n'a conservÃ© que le sens figurÃ©.  _DÃ©manteler_ est un
+ nÃ©ologisme dÃ» au seiziÃ¨me siÃ¨cle, qu'il faut fÃ©liciter d'avoir
+ introduit ce mot au propre et au figurÃ©.  C'est vraiment une
+ mÃ©taphore ingÃ©nieuse d'avoir comparÃ© les remparts qui dÃ©fendent
+ une ville au manteau qui dÃ©fend l'homme des intempÃ©ries.
+ Honneur Ã  ceux qui savent faire du bon nÃ©ologisme!
+
+
+_Devis_, _devise_, _deviser_.--Ces mots ne sont pas autre chose
+que le verbe _diviser_, qui a pris une acception particuliÃ¨re.
+D'abord, nos aÃ¯eux avaient, euphoniquement, de la rÃ©pugnance
+pour la mÃªme voyelle formant deux syllabes consÃ©cutives dans un
+mot; ils ont donc dit _deviser_; c'est ainsi que de _finire_ ils
+avaient fait soit _fenir_, soit _finer_.  Puis, usant Ã  leur
+guise du sens du supin latin _divisum_ qui leur avait donnÃ©
+_deviser_, Ã  nous _diviser_, ils lui ont fait prendre
+l'acception de disposer, arranger, vu qu'une division se prÃªte Ã 
+un arrangement des parties.  De lÃ , _devise_ a signifiÃ© maniÃ¨re,
+disposition, propos, discours; ce sens a disparu de la langue
+moderne, qui l'a transportÃ© sur _devis_, propos, et aussi tracÃ©,
+plan, projet.  Quant Ã  la _devise_ d'aujourd'hui, elle est nÃ©e
+du blason, qui donnait ce nom Ã  la division d'une piÃ¨ce
+honorable d'un Ã©cu.  La _devise_ du blason est devenue
+facilement synonyme d'emblÃ¨me ou de petite phrase d'un emblÃ¨me.
+Au sens de partager en parties, l'ancienne langue disait non
+_diviser_ mais _deviser_, par la rÃ¨gle d'euphonie que j'ai
+rappelÃ©e ci-dessus.  _Diviser_ est refait sur le latin et
+n'apparaÃ®t qu'au seiziÃ¨me siÃ¨cle; depuis lors, il n'est plus
+trace de _deviser_ avec l'acception actuelle de _division_.  Si
+la langue moderne avait gardÃ© _deviser_ pour mettre en parties,
+on aurait vu tout de suite que _deviser_, tenir des propos,
+Ã©tait le mÃªme mot; aujourd'hui _deviser_ et _diviser_ sont deux,
+et ce n'est qu'une Ã©tymologie subtile, mais appuyÃ©e par les
+textes, qui en montre l'identitÃ©.  En effaÃ§ant la trace de cette
+identitÃ© ici et ailleurs, l'usage Ã´te Ã  la langue la facultÃ© de
+voir dans le mot plus qu'il ne contient, pris isolÃ©ment en soi.
+Un des charmes des langues anciennes est que la plupart des mots
+se laissent pÃ©nÃ©trer par le regard de la pensÃ©e Ã  une grande
+profondeur.
+
+
+_Donzelle_.--_Donzelle_ est un mot tombÃ© de haut, car l'origine
+en est Ã©levÃ©e.  C'est la forme franÃ§aise du bas latin
+_dominicella_, petite dame, diminutif du latin _domina_.
+C'Ã©tait en effet un titre d'honneur dans l'ancienne langue,
+Ã©quivalant Ã  _damoiselle_ ou _demoiselle_, qui ne sont
+d'ailleurs que d'autres formes du mÃªme primitif.  _Demoiselle_
+n'a pas variÃ© dans son acception distinguÃ©e; mais _donzelle_ est
+devenu un terme leste ou de dÃ©dain.  Les mots ont leurs
+dÃ©chÃ©ances comme les familles.  Par un esprit de gausserie peu
+louable, le franÃ§ais moderne s'est plu Ã  affubler d'un sens
+pÃ©joratif les termes archaÃ¯ques restÃ©s dans l'usage.  _Donzelle_
+a Ã©tÃ© une de ses victimes.
+
+
+_Droit_, _droite_.--L'acception de ce mot au sens de opposÃ© Ã 
+gauche ne paraÃ®t pas remonter au delÃ  du seiziÃ¨me siÃ¨cle;
+jusque-lÃ , opposÃ© Ã  _gauche_ s'Ã©tait dit _destre_, du latin
+_dexter_.  C'Ã©tait le vrai mot, de vieille origine et consacrÃ©
+par l'antiquitÃ© premiÃ¨re ou latine et par l'antiquitÃ© seconde ou
+de la langue d'oÃ¯l.  Mais tout Ã  coup _destre_ tombe en
+dÃ©suÃ©tude; pour remplacer ce mot indispensable, l'usage va
+chercher l'adjectif _droit_, qui signifie direct, sans courbure,
+sans dÃ©tours.  Il a fallu certainement beaucoup d'imagination
+pour y trouver le cÃ´tÃ© opposÃ© au cÃ´tÃ© gauche; nÃ©anmoins il valait
+bien mieux conserver _destre_ que crÃ©er une amphibologie dans le
+mot _droit_ en lui donnant deux sens qui ne dÃ©rivent l'un de
+l'autre que par une brutalitÃ© de l'usage.  N'est-ce pas en effet
+une brutalitÃ© impardonnable que de tuer aveuglÃ©ment d'excellents
+mots pour leur donner de trÃ¨s mÃ©diocres remplaÃ§ants?
+
+
+_Dupe_.--La _dupe_ est un ancien nom (usitÃ© encore dans le Berry
+sous la forme de _dube_) de la huppe, oiseau.  La huppe ou dupe
+passe pour un des plus niais.  Il a donc Ã©tÃ© facile Ã  l'esprit
+populaire de transporter le nom de l'oiseau aux gens qui se
+laissent facilement attraper.  Toutefois, il faut noter que
+c'est l'argot ou jargon qui a fourni cette acception dÃ©tournÃ©e;
+ainsi nous l'apprend Du Cange dans une citation d'un texte du
+quinziÃ¨me siÃ¨cle; citation qui montre que ce n'est pas
+d'aujourd'hui que la langue va chercher des supplÃ©ments dans
+l'argot.  Quand on emploie le verbe _duper_, il est certainement
+curieux de parcourir en pensÃ©e le chemin qu'a fait le sens du
+langage populaire pour tirer d'une observation de chasseur ou de
+paysan sur le peu d'intelligence d'un oiseau un terme aussi
+expressif.  Malheureusement, _dupe_ comme nom de l'oiseau a
+complÃ¨tement pÃ©ri dans la langue actuelle.  Quand nous disons un
+Ã©tourneau pour un homme Ã©tourdi, une pie pour une femme bavarde,
+comme Ã©tourneau et pie sont restÃ©s noms d'oiseaux, rien ne nous
+masque la mÃ©taphore.  Mais _dupe_ n'est plus pour nous un nom
+d'oiseau, et, au sens de personne facile Ã  tromper, ce n'est
+qu'un signe que l'on penserait conventionnel, si l'Ã©tymologie ne
+rendait pas son droit Ã  l'origine concrÃ¨te, rÃ©elle, du mot.
+
+
+_Ãchapper_.--Que l'on se reporte par la pensÃ©e au temps oÃ¹ nos
+aÃ¯eux parlaient encore latin, mais un latin populaire qui
+dÃ©rogeait beaucoup Ã  la langue classique.  A ce moment se forma
+le mot _capa_, que les Ã©tymologistes dÃ©rivent de _capere_,
+contenir, et qui dÃ©signe un vÃªtement embrassant tout le corps.
+Il fut facile d'en produire le composÃ© _excapare_, signifiant
+tirer hors de la chape, ou sortir de la chape.  Dans ce milieu
+nÃ©o-latin, le terme classique _evadere_ n'Ã©tait pas en usage.
+Le langage, et surtout le langage populaire, a de l'inclination
+pour le style mÃ©taphorique.  C'est Ã  ce style qu'appartient
+_Ã©chapper_; on se plut Ã  dire sortir de la chape, au lieu de
+dire s'Ã©vader; et le verbe nous est restÃ©, mais sans le piquant
+qu'il avait Ã  l'origine; car qui, en disant _Ã©chapper_, songe
+dÃ©sormais Ã  une _chape_, ou, s'il y songe, ose se fier Ã  une si
+forte mÃ©taphore?
+
+
+_Ãclat_.--Les nÃ©ologismes de signification sont quelquefois Ã 
+noter aussi bien que les nÃ©ologismes de mot.  D'origine, _Ã©clat_
+signifie un fragment dÃ©tachÃ© par une force soudaine.  DÃ¨s le
+quinziÃ¨me siÃ¨cle, tout en gardant son acception primitive, il
+prend celle de bruit grand et soudain; mais ce n'est que dans le
+dix-septiÃ¨me siÃ¨cle qu'il reÃ§oit sa derniÃ¨re transformation,
+celle qui, au propre et au figurÃ©, lui attribue l'acception
+d'apparition d'une grande lumiÃ¨re.  Les transformations de sens
+sont bien enchaÃ®nÃ©es.  L'usage a mis un long temps entre chacune;
+la rupture d'un fragment l'a conduit Ã  un grand bruit; puis un
+grand bruit l'a conduit Ã  une grande lumiÃ¨re.  Il n'y a qu'Ã  le
+fÃ©liciter d'avoir ainsi Ã©tendu le champ occupÃ© par le mot.
+
+
+_Ãconduire_.--Ce verbe est un cas assez compliquÃ© de pathologie
+linguistique.  Il ne se trouve qu'au quinziÃ¨me siÃ¨cle avec le
+sens d'excuser, c'est-Ã -dire de se dÃ©faire, par paroles, de
+quelqu'un ou de quelque chose.  Or ce sens ne peut, Ã  aucun
+titre, appartenir Ã  _Ã©conduire_, qui reprÃ©sente _exconducere_,
+conduire hors.  Mais, dans les siÃ¨cles antÃ©rieurs qui n'ont pas
+_Ã©conduire_, on trouve _escondire_, qui a prÃ©cisÃ©ment, et par
+l'Ã©tymologie et par l'usage, la signification d'employer la
+parole pour Ã©carter quelqu'un ou quelque chose; car il vient du
+latin fictif _excondicere_.  A un certain moment, la langue, se
+mÃ©prenant, a donnÃ© Ã  _escondire_ la forme _Ã©conduire_, en lui
+laissant son acception propre qui ne lui convenait plus; puis,
+l'Ã©tymologie reprenant ses droits, les modernes, sans lui Ã´ter
+sa signification usurpÃ©e, lui ont restituÃ© le sens lÃ©gitime de
+conduire hors.  Si au quinziÃ¨me siÃ¨cle l'usage n'avait pas
+commis la lourde faute de transformer _escondire_ en
+_esconduire_, on aurait gardÃ© _escondire_ pour se dÃ©faire de...
+par paroles, et crÃ©Ã© _esconduire_ pour Ã©carter, Ã©loigner.  Au
+lieu de cela, il a doublÃ© la mÃ©prise; si c'est _escondire_ qu'il
+a voulu garder, ce verbe ne peut signifier conduire hors; si
+c'est _esconduire_ qu'il a voulu crÃ©er, ce verbe ne peut
+signifier se dÃ©faire par paroles.  Mais le mal est fait; il ne
+reste plus qu'Ã  se soumettre et Ã  juger.
+
+
+_Ãpellation_, _Ã©peler_.--Eh quoi!  va-t-on me dire, vous Ã©crivez
+_Ã©pellation_ par deux _l_ et _Ã©peler_ par une seule; soyez donc
+consÃ©quent, et mettez ou _Ã©pelation_ ou _Ã©peller_.  Ami lecteur,
+ne m'accusez pas, c'est l'usage qui le veut; mais il n'a pas Ã©tÃ©
+judicieux, d'autant plus digne de blÃ¢me que _Ã©pellation_ est un
+nÃ©ologisme qui n'aurait pas dÃ» prÃ©senter de difformitÃ©.  Il est
+bien vrai que nous disons _appeler_ par une seule _l_, et
+_appellation_ par deux; et c'est sur ce modÃ¨le qu'on s'est cru
+autorisÃ© Ã  Ã©crire et Ã  prononcer _Ã©pellation_; faible
+justification d'une faute d'orthographe.  _Appellation_ dÃ©rive
+non de _appeler_, mais directement du latin _appellationem_,
+tandis qu'il n'y a point de latin _expellationem_ qui puisse
+donner _Ã©pellation_; ce mot vient donc _d'Ã©peler_, et l'on
+n'avait pas la libertÃ© de doubler _l_.  Mais qu'est ce verbe
+_Ã©peler_?  un trÃ¨s vieux mot qu'on trouve dans nos anciens
+textes, qui n'a rien de commun avec _appeler_ et qui provient du
+germanique.  Le sens propre en est expliquer, signifier; la
+langue moderne, le dÃ©tournant de son acception gÃ©nÃ©rale, lui a
+donnÃ© l'acception spÃ©ciale de nommer les lettres pour en former
+un mot.  Et vraiment, quand on lit dans un document du douziÃ¨me
+siÃ¨cle: _Bethsames, cest nom espelt_ (ce nom veut dire) _citÃ© de
+soleil_, on touche le moderne _Ã©peler_.  Fait bien curieux,
+certains mots peuvent avoir une existence latente que rien ne
+rÃ©vÃ¨le; on les croirait morts et pourtant ils ne le sont pas.
+_Espeler_ au sens d'expliquer, de signifier, est depuis
+longtemps hors d'usage; il semblait oubliÃ©; mais il ne l'Ã©tait
+pas tellement que l'usage ne soit allÃ© le chercher dans sa
+retraite, et mÃªme l'ait assez rajeuni pour lui attribuer un
+emploi nouveau.
+
+
+_Ãpiloguer_.--Les mots ne nous appartiennent pas; ils
+proviennent non de notre fonds, mais d'une tradition.  Nous ne
+pouvons en faire sans rÃ©serve ce que nous voulons, ni les
+sÃ©parer de leur nature propre pour les transformer en purs
+signes de convention.  On est donc toujours en droit de
+rechercher, dans les remaniements que l'usage leur inflige, ce
+qui reste, si peu que ce soit, de leur acception primordiale et
+organique.  _Ãpiloguer_ exista dans les quinziÃ¨me et seiziÃ¨me
+siÃ¨cles.  Je n'en connais pas d'exemple qui remonte plus haut, Ã 
+moins qu'on ne suppose l'existence du verbe grÃ¢ce Ã  l'existence
+du substantif verbal, attestÃ©e au quatorziÃ¨me siÃ¨cle par une
+citation de Du Gange: Â«_Ãpilogacion_, c'est longue chose
+briefment rÃ©citÃ©e.Â» _Ãpilogue_, _epilogus_, <epi'logos>,
+signifient discours ajoutÃ© Ã  un autre discours; aussi le verbe
+qui en dÃ©rive n'a-t-il dans ces deux siÃ¨cles que le sens de
+rÃ©sumer, rÃ©capituler.  Jusque-lÃ  tout va de soi; mais le
+dix-septiÃ¨me siÃ¨cle, qui reÃ§oit le mot, n'en respecte pas la
+signification, et il l'emploie sans vergogne au sens de
+critiquer, trouver Ã  redire.  Est-ce pure fantaisie?  non, pas
+tout Ã  fait; dans ces Ã©carts il y a de la fantaisie sans doute,
+mais il y a aussi un rÃ©mora imposÃ© par le passÃ©.  A ce terme
+manifestement d'origine savante et qui lui dÃ©plut comme terme
+courant, l'usage, en un moment d'humeur, s'avisa de lui infliger
+une signification pÃ©jorative; et, cela fait, on passa sans
+grande peine de rÃ©sumer, rÃ©capituler, Ã  critiquer, trouver Ã 
+redire.
+
+
+_EspiÃ¨gle_.--On peut admirer comment une langue sait faire de
+la grÃ¢ce et de l'agrÃ©ment avec un mot qui semblait ne pas s'y
+prÃªter.  Il y a en allemand un vieux livre intitulÃ© _Till
+Ulspiegle_, qui dÃ©crit la vie d'un homme ingÃ©nieux en petites
+fourberies.  Remarquons que _Ulespiegel_ signifie miroir de
+chouette.  Laissant de cÃ´tÃ© ce qui pouvait se rencontrer de peu
+convenable dans les faits et gestes du personnage, notre langue
+en a tirÃ© le joli mot _espiÃ¨gle_, qui ne porte Ã  l'esprit que
+des idÃ©es de vivacitÃ©, de grÃ¢ce et de malice sans mÃ©chancetÃ©.
+C'est vraiment, qu'on me passe le jeu de mot, une espiÃ¨glerie de
+bon aloi, que d'avoir ainsi transfigurÃ© le vieil et rude
+_Ulespiegle_.
+
+
+_Fille_.--Ce mot, si noble et si doux, est un de ceux que la
+langue moderne a le plus maltraitÃ©s; car elle y a introduit
+quelque chose de malhonnÃªte.  L'ancienne langue exprimait par
+fille uniquement la relation de l'enfant du sexe fÃ©minin au pÃ¨re
+ou Ã  la mÃ¨re; elle avait plusieurs mots pour dÃ©signer la jeune
+femme, _mescine_, _touse_, _bachele_ et son diminutif
+_bachelette_, _garce_ (voy. ce mot plus loin), enfin _pucelle_,
+qui n'avait pas le sens particulier d'aujourd'hui et qui
+reprÃ©sentait, non pour l'Ã©tymologie, mais pour la signification,
+le latin _puella_.  La perte profondÃ©ment regrettable de ces
+mots essentiels a fait qu'il n'a plus Ã©tÃ© possible de rendre,
+sinon par une pÃ©riphrase (_jeune fille_), le latin _puella_, ou
+bien l'allemand _MÃ¤dchen_ et l'anglais _maid_.  Mais ce n'a pas
+Ã©tÃ© le seul dommage: _fille_ a Ã©tÃ© dÃ©gradÃ© jusqu'Ã  signifier la
+femme qui se prostitue.  L'usage est parfois bien intelligent et
+bien ingÃ©nieux; mais ici il s'est montrÃ© dÃ©nuÃ© de prÃ©voyance et
+singuliÃ¨rement grossier et malhonnÃªte.
+
+
+_Finance_.--Le latin disait _solvere_ pour payer.  De ce verbe,
+l'ancien franÃ§ais fit _soudre_ avec le mÃªme sens.  Pourquoi ce
+verbe, qui satisfaisait au besoin de rendre une idÃ©e
+essentielle, ne devint-il pas d'un usage commun, et laissa-t-il
+Ã  la langue l'occasion de chercher Ã  dÃ©tourner de leur acception
+effective des mots qui ne songeaient guÃ¨re, qu'on me permette de
+le dire, Ã  leur nouvel office?  C'est ce qui n'est pas expliquÃ©
+et rentre dans ce que j'appelle pathologie verbale.  D'un cÃ´tÃ©,
+l'imagination populaire se porta sur le verbe latin _pacare_,
+appaiser, pour lui imposer le sens de payer; et, en effet, un
+payement est un appaisement entre le crÃ©ancier et le dÃ©biteur.
+En mÃªme temps, l'ancienne langue prenait le verbe _finer_, qui
+signifie _finir_, et s'en servait pour dire: payer une somme
+d'argent; en effet, effectuer un payement c'est finir une
+affaire.  Du participe prÃ©sent de ce verbe _finer_, aujourd'hui
+inusitÃ©, vient le substantif _finance_, qui avait aussi dans
+l'ancienne langue le sens primitif de terminaison.  En se
+dÃ©tÃ©riorant de la sorte, c'est-Ã -dire en prenant une acception
+trÃ¨s dÃ©tournÃ©e, tout en laissant tomber hors de l'usage
+l'acception naturelle, les mots deviennent des signes purement
+algÃ©briques qui ne rappellent plus Ã  l'esprit rien de concret et
+d'imagÃ©.  Si _finance_ signifiant terminaison Ã©tait restÃ© Ã  cÃ´tÃ©
+de _finance_ signifiant argent, on aurait Ã©tÃ© constamment invitÃ©
+Ã  se demander quel Ã©tait le lien entre les deux idÃ©es; mais,
+l'un Ã©tant effacÃ©, l'autre n'est plus qu'un signe arbitraire
+pour tout autre que l'Ã©tymologiste, qui fouille et interprÃ¨te le
+passÃ© des mots.
+
+
+_Flagorner_.--Quelle que soit l'Ã©tymologie de ce mot, qui
+demeure douteuse, le sens ancien (on n'a pas d'exemples au delÃ 
+du quinziÃ¨me siÃ¨cle) est bavarder, dire Ã  l'oreille; puis ce
+sens se perd, et sans transition, du moins je ne connais pas
+d'exemple du dix-septiÃ¨me siÃ¨cle, on voit au dix-huitiÃ¨me
+_flagorner_ prendre l'acception qui est seule usitÃ©e
+prÃ©sentement.  Quelle est la nuance qui a dirigÃ© l'usage pour
+infliger au verbe cette considÃ©rable perversion?  Est-ce que,
+inconsciemment, on a attribuÃ© par une sorte de pudeur
+linguistique, Ã  la _flagornerie_ le soin de parler bas, de ne se
+faire entendre que de prÃ¨s et Ã  voix basse?  Ou bien plutÃ´t,
+est-ce que, la syllabe initiale _fla_ Ã©tant commune Ã 
+_flagorner_ et Ã  _flatter_, l'usage, qui ne sait pas se dÃ©fendre
+contre ces sottes confusions, a cru Ã  une communautÃ© d'origine
+et de sens?
+
+
+_Flatter_.--Le latin avait _blandiri_, dont le vieux franÃ§ais
+fit _blandir_.  Mais les couches populaires n'Ã©taient pas un
+milieu oÃ¹ tous les beaux mots aient eu le droit ou la chance de
+pÃ©nÃ©trer; et leur parler, qui fit si souvent la loi, chercha un
+vocable qui fÃ»t plus Ã  leur portÃ©e.  Le germanique _flat_ ou
+_flaz_, qui signifie plat, avait passÃ© dans les Gaules.  On en
+fit le verbe _flatter_, qui signifiait proprement rendre plat,
+puis alla figurÃ©ment au sens de caresser comme avec la main, et
+par suite de flatter.  C'est ainsi que l'on supplÃ©a Ã 
+_blandiri_, qui ne devint pas populaire, et Ã  _adulari_, qui n'a
+laissÃ© dans la langue d'oÃ¯l aucune trace.  _Adulateur_ ne se
+trouve que dans le quatorziÃ¨me siÃ¨cle et _aduler_ dans le
+quinziÃ¨me.  Ce sont des mots savants, forgÃ©s directement du
+latin; la vieille langue en eÃ»t fait le substantif _aÃ¼lere,
+aÃ¼leor_ et le verbe _aÃ¼ler_.
+
+
+_Franchir_.--Personne de ceux qui emploient couramment ce verbe
+ne songe au sens propre et ancien.  Dans la langue des hauts
+temps, il n'a que la signification de rendre franc, libre; et,
+s'il l'avait conservÃ©e jusqu'Ã  nous, on s'indignerait de
+l'audace du novateur qui l'emploierait pour signifier: traverser
+franchement, rÃ©solument des obstacles.  Ce hardi nÃ©ologisme
+s'est opÃ©rÃ© au quinziÃ¨me siÃ¨cle; et, ce qu'il y a de curieux,
+c'est qu'il a fait tomber en complÃ¨te dÃ©suÃ©tude l'acception
+lÃ©gitime, et qu'il est restÃ© seul en possession de l'usage.
+Dans l'opinion commune, l'usage est un despote qui fait ce qu'il
+veut, sans autre rÃ¨gle que son caprice; mais son caprice mÃªme ne
+peut se soustraire aux conditions que chaque mot prÃ©sente; et,
+quand on recherche ces conditions, on trouve qu'il a obÃ©i autant
+qu'il a commandÃ©.
+
+
+_Fripon_.--_Fripon_, au dÃ©but de son emploi, signifia seulement
+gourmand, aimant Ã  manger: c'est au dix-septiÃ¨me siÃ¨cle que le
+changement de sens s'opÃ¨re.  Cependant _friponner_, qui veut
+dire bien manger, commence au seiziÃ¨me siÃ¨cle, dans Montaigne, Ã 
+prendre le sens actuel et moderne.  Aujourd'hui le sens original
+est complÃ¨tement oubliÃ©.  Ici encore l'acception nÃ©ologique a
+tuÃ© l'acception primitive.  Tout en blÃ¢mant ces exÃ©cutions qui
+sacrifient complÃ¨tement l'ancien au nouveau, ce qui importe ici,
+c'est de concevoir par quelle dÃ©viation l'usage a passÃ© de l'un
+Ã  l'autre.  Le _fripon_ (gourmand) est entachÃ© d'un dÃ©faut; de
+plus, il est fort enclin aux petits larcins pour satisfaire sa
+gourmandise.  C'est lÃ  que le nÃ©ologisme a trouvÃ© son point
+d'appui pour faire d'un gourmand un filou.  _Fripon_ aurait lieu
+de se plaindre d'avoir Ã©tÃ© ainsi mÃ©tamorphosÃ©.  C'est une
+dÃ©gradation; car, d'un dÃ©faut lÃ©ger et qui n'est pas toujours
+mal portÃ©, on a fait un coquin, un voleur.  D'autres mots
+tombent de plus haut; mais ce n'en est pas moins une chute.
+
+
+_Fronder_.--Qui aurait jamais imaginÃ© que _fronder_, c'est-Ã -dire
+lancer une pierre ou une balle avec la fronde, engin qui n'est
+presque plus en usage, prendrait le sens de faire le mÃ©content,
+critiquer?  C'est un hasard qui a produit ce singulier rÃ©sultat.
+Au temps des troubles de la minoritÃ© de Louis XIV, des enfants
+avaient l'habitude de se rÃ©unir dans les fossÃ©s de Paris pour
+lancer des pierres avec la fronde, se dispersant dÃ¨s qu'ils
+voyaient paraÃ®tre le lieutenant civil et revenant quand il
+n'Ã©tait plus lÃ .  Bachaumont compara, un jour, le parlement Ã 
+ces enfants qui lanÃ§aient des pierres, que la police dispersait
+et qui revenaient pour recommencer.  De lÃ  vint la _Fronde_, nom
+de la rÃ©volte contre Mazarin et contre l'autoritÃ© royale, et la
+_Fronde_ produisit sans peine le verbe _fronder_.
+
+
+_Gagner_.--Ce verbe, par son Ã©tymologie germanique, a le sens de
+paÃ®tre, qu'il a conservÃ© en termes de chasse, et dans _gagnage_
+qui veut dire pÃ¢turage.  La langue d'oÃ¯l, du sens rural de
+paÃ®tre, a passÃ© Ã  l'acception rurale aussi de labourer; puis le
+profit fait par la culture s'est dans _gagner_ gÃ©nÃ©ralisÃ© Ã 
+signifier toute sorte de profits, seul sens restÃ© en usage.  La
+mÃªme dÃ©viation de signification se voit dans le provenÃ§al
+_gazanhar_ et l'italien _guadagnare_.  Cette dÃ©viation mÃ©rite
+d'Ãªtre notÃ©e Ã  cause du fait parallÃ¨le que la langue latine
+prÃ©sente: le latin _pecunia_, qui signifie argent monnayÃ©, est
+originairement un terme rural, par _pecus_, mouton, bÃªte de
+campagne.  Le mot latin nous reporte Ã  un temps trÃ¨s ancien oÃ¹,
+dans la vieille Italie, les troupeaux faisaient la principale
+richesse.  _Gagner_ est d'une Ã©poque beaucoup moins reculÃ©e;
+pourtant lui aussi reprÃ©sente un Ã©tat de choses oÃ¹ la paissance
+tient un haut rang dans la fortune des hommes; c'est que
+l'invasion germanique, Ã  laquelle le mot _gagner_ appartient,
+avait reproduit quelqu'une des conditions d'une sociÃ©tÃ©
+pastorale.
+
+
+_Galetas_.--Quelle dÃ©chÃ©ance!  A l'origine, _galetas_ est le
+nom d'une tour de Constantinople.  Puis ce mot vient Ã  signifier
+un appartement dans la maison des templiers, Ã  la Cour des
+comptes, et une partie importante d'un grand chÃ¢teau.  La chute
+n'est pas encore complÃ¨te; mais, au quinziÃ¨me siÃ¨cle, le sens
+s'amoindrit; et, au seiziÃ¨me, le _galetas_ est devenu ce que nous
+le voyons.  C'est bien la peine de venir des bords du Bosphore
+pour se dÃ©grader si misÃ©rablement.  N'est-ce pas ainsi que l'on
+voit des familles descendre peu Ã  peu des hauts rangs et se
+perdre dans la misÃ¨re et l'oubli de soi-mÃªme?
+
+
+_Garce, garÃ§on, gars_.--Ces trois mots n'en font qu'un, proprement:
+_gars_ est le nominatif, du bas latin _garcio_, avec l'accent sur
+_gar_; _garÃ§on_ est le rÃ©gime, de _garciÃ³nem_, avec l'accent sur
+_o_: _garce_ est le fÃ©minin de _gars_.  Dans l'ancienne langue,
+_gars_, _garÃ§on_, signifie enfant mÃ¢le, jeune homme; mais, de
+bonne heure, il s'y mÃªle un sens dÃ©favorable, et souvent ce
+vocable devient un terme d'injure, signifiant un mauvais drÃ´le,
+un lÃ¢che.  Cette acception fÃ¢cheuse n'a pas pÃ©nÃ©trÃ© dans la
+langue moderne.  Il n'en est pas de mÃªme de _garce_.  Tandis que,
+dans l'ancienne langue, _garce_ signifie une jeune fille, en
+dehors de tout sens mauvais, il est devenu dans la langue moderne
+un terme injurieux et grossier.  Il semblerait que le mot n'a pu
+Ã©chapper Ã  son destin: en passant dans l'usage moderne, _garÃ§on_
+s'est purifiÃ©, mais _garce_ s'est dÃ©gradÃ©.  Il vaut la peine de
+considÃ©rer d'oÃ¹ provient ce jeu de significations.  Le sens
+propre de _garÃ§on_, _garce_, est jeune homme, jeune femme.  Comme
+les jeunes gens sont souvent employÃ©s en service, le moyen Ã¢ge
+donna par occasion Ã  _garÃ§on_ l'acception de serviteur d'un ordre
+infÃ©rieur, au-dessous des Ã©cuyers et des sergents.  Une fois
+cette habitude introduite, on conÃ§oit qu'une idÃ©e pÃ©jorative ait
+pris naissance Ã  l'Ã©gard de ce mot, comme il est arrivÃ© pour
+_valet_.  De lÃ  le sens injurieux que l'ancienne langue, non la
+moderne, attribua Ã  _garÃ§on_.  Ceci est clair; mais comment garce
+est-il tombÃ© si bas qu'il ne peut plus mÃªme Ãªtre prononcÃ©
+honnÃªtement?  Je ne veux voir lÃ  que quelque brutalitÃ© de langage
+qui malheureusement a pris pied, flÃ©trissant ce qu'elle touchait;
+brutalitÃ© qui se montre, Ã  un pire degrÃ© encore, dans _fille_,
+dont il faut comparer l'article Ã  celui de _garce_.
+
+
+_Garnement_.--_Garnement_, anciennement _garniment_, vient de
+_garnir_.  Comment un mot issu d'une telle origine a-t-il pu
+jamais arriver au sens de mauvais drÃ´le, de vaurien?  Le sens
+original est ce qui garnit: vÃªtement, ornement, armure.  Dans les
+hauts temps, il n'y en a pas d'autre.  Mais, au quatorziÃ¨me
+siÃ¨cle (car ce grand nÃ©ologisme d'acception ne nous appartient
+pas, il appartient Ã  nos aÃ¯eux), l'usage transporte hardiment ce
+qui garnit Ã  celui qui est garni; et, avec l'Ã©pithÃ¨te de mÃ©chant,
+de mauvais, il fait d'une mauvaise vÃªture un homme qui ne vaut
+pas mieux que son habillement.  Il va mÃªme (car il ne dit jamais
+un bon garnement) jusqu'Ã  supprimer l'Ã©pithÃ¨te mÃ©chant, mauvais,
+sans changer le sens: un garnement.  On doit regretter que, pour
+la singularitÃ© des contrastes, le sens de vÃªtement n'ait pas Ã©tÃ©
+conservÃ© Ã  cÃ´tÃ© de celui de mauvais sujet.
+
+
+_Garnison_.--_Garnison_ et _garnement_ sont un mÃªme mot, avec des
+finales diffÃ©rentes et avec une signification primitive identique.
+Ils expriment tous les deux ce qui garnit: vÃªtements, armures,
+provisions.  Longtemps ils n'ont eu l'un et l'autre que cette
+acception; mais, dans le cours du parler toujours vivant et
+toujours mobile, on a vu ce qu'il est advenu de _garnement_, qui
+n'a gardÃ© aucune trace du sens qui lui est inhÃ©rent.  La
+transformation a Ã©tÃ© moins Ã©trange pour _garnison_.  Du sens de
+ce qui garnit, il n'y a pas trÃ¨s loin au sens d'une troupe qui
+dÃ©fend, garnit une ville, une forteresse.  Mais, quand on lit,
+par exemple, une phrase comme celle-ci: _Le plus mÃ©chant
+garnement de la garnison_, quel est celui qui, sans Ãªtre averti,
+imaginera qu'il a lÃ  sous les yeux deux mots de mÃªme origine et
+de mÃªme acception premiÃ¨re?
+
+
+_Gauche_.--L'ancienne langue ne connaÃ®t que _senestre_, en latin
+_sinister_.  Puis au quinziÃ¨me siÃ¨cle apparaÃ®t un mot (_gauche_)
+signifiant qui n'est pas droit, qui est de travers.  Au quinziÃ¨me
+siÃ¨cle, _senestre_ commence Ã  tomber en dÃ©suÃ©tude, et c'est
+_gauche_ qui le remplace.  Pourquoi?  peut-Ãªtre parce que, le
+sentiment de l'usage attachant une infÃ©rioritÃ© Ã  la main de ce
+cÃ´tÃ©, _senestre_ n'y satisfait pas.  Il y avait satisfait dans la
+latinitÃ©; car _sinister_ a aussi un sens pÃ©joratif que nous avons
+conservÃ© dans le vocable moderne _sinistre_.  En cet Ã©tat,
+l'usage se porta sur gauche, qui remplit la double condition de
+signifier opposÃ© au cÃ´tÃ© droit et opposÃ© Ã  adresse.  L'italien,
+mÃ» par un mÃªme mobile, a dit la main gauche de deux faÃ§ons:
+_stanca_, la main fatiguÃ©e, et _manca_, la main estropiÃ©e.
+
+
+_Geindre_.--_Geindre_ est la forme franÃ§aise rÃ©guliÃ¨re que doit
+prendre le latin _gemere_.  Avec l'accent sur la premiÃ¨re
+syllabe, _gÃ©mere_ n'a pu fournir qu'un mot franÃ§ais oÃ¹ cette mÃªme
+premiÃ¨re syllabe eÃ»t l'accent.  Mais Ã  cÃ´tÃ©, dÃ¨s les anciens
+temps, existait _gÃ©mir_, qui provient d'une formation barbare,
+_gemÃªre_, au lieu de _gÃ©mere_.  Ces deux verbes, l'usage moderne
+ne les a pas laissÃ©s synonymes.  Suivant la tendance qu'il a de
+donner Ã  la forme la plus archaÃ¯que un sens pÃ©joratif, il a fait
+de _geindre_ un terme du langage vulgaire oÃ¹ le gÃ©missement est
+prÃ©sentÃ© comme quelque chose de ridicule ou de peu sÃ©rieux.  Au
+contraire, _gÃ©mir_ est le beau mot, celui qui exprime la peine
+morale et la profonde tristesse.
+
+
+_Gent_, s. f.--Il est regrettable, je dirais presque douloureux,
+que des mots excellents et honorables subissent une dÃ©gradation
+qui leur inflige une signification ou basse ou moqueuse et qui
+les relÃ¨gue hors du beau style.  _Gent_ en est un exemple.
+Encore au commencement du dix-septiÃ¨me siÃ¨cle, il Ã©tait d'un
+usage relevÃ©, et Malherbe disait la gent qui porte turban; le
+cardinal du Perron, une gent invincible aux combats; et Segrais,
+cette gent farouche.  Aujourd'hui cela ne serait pas reÃ§u; on
+rirait si quelque chose de pareil se rencontrait dans un vers
+moderne de poÃ©sie soutenue; car _gent_ ne se dit plus qu'en un
+sens de dÃ©nigrement ou qu'en un sens comique.  A quoi tiennent
+ces injustices de l'usage?  Ã  ce que _gent_, tombant peu Ã  peu en
+dÃ©suÃ©tude, est devenu archaÃ¯que.  Sous ce prÃ©texte, on l'a
+dÃ©pouillÃ© de la noblesse, et on en a fait un roturier ou un
+vilain.
+
+
+_Gourmander_.--_Gourmander_, verbe neutre, signifie manger en
+gourmand, et ne prÃ©sente aucune difficultÃ©; c'est un dÃ©rivÃ©
+naturel de l'adjectif.  Mais _gourmander_, verbe actif, signifie
+rÃ©primander avec duretÃ© ou vivacitÃ©; comment cela, et quelle
+relation subtile l'usage a-t-il saisie entre les deux
+significations?  Malheureusement, _gourmand_ ne paraÃ®t pas un mot
+trÃ¨s ancien, du moins le premier exemple connu est du quatorziÃ¨me
+siÃ¨cle; de plus, l'origine en est ignorÃ©e; ces deux circonstances
+Ã´tent Ã  la dÃ©duction des sens son meilleur appui.  Pourtant une
+lueur est fournie par E.  Deschamps, Ã©crivain qui appartient aux
+quatorziÃ¨me et quinziÃ¨me siÃ¨cles.  Il parle d'une souffrance qui
+vient chaque jour vers la nuit _Pour son corps nuire et
+gourmander_.  _Gourmander_ signifie ici lÃ©ser, attaquer.  Faut-il
+penser que de l'idÃ©e de _gourmand_ attaquant les mets, on a passÃ©
+Ã  l'idÃ©e de l'effet de cette attaque, et qu'on a fait de la sorte
+_gourmander_ synonyme, jusqu'Ã  un certain point, de nuire et
+d'attaquer?  Cela est bien subtil et bien fragile; mais je n'ai
+rien de mieux.  _Gourmander_ est un problÃ¨me que je livre aux
+curieux de la dÃ©rivation des significations; c'est une partie de
+la lexicographie qui a son intÃ©rÃªt.
+
+
+_Greffe_ (le) et _Greffe_ (la).--Parmi les personnes Ã©trangÃ¨res
+aux Ã©tudes Ã©tymologiques, nul ne pensera que le _greffe_ d'un
+tribunal et la _greffe_ des jardiniers soient un seul et mÃªme
+mot.  Rien pourtant n'est mieux assurÃ©.  Les deux proviennent du
+latin _graphium_, poinÃ§on Ã  Ã©crire; on sait que les anciens
+Ã©crivaient avec un poinÃ§on sur des tablettes enduites de cire.
+De poinÃ§on Ã  Ã©crire, on tire le sens de lieu oÃ¹ l'on Ã©crit, oÃ¹
+l'on conserve ce qui est Ã©crit.  VoilÃ  pour _greffe_ du tribunal.
+Mais c'est aussi d'un poinÃ§on que l'on se sert pour pratiquer
+certaines entes; de lÃ  on tire l'action de placer une ente et le
+nom de l'ente elle-mÃªme.  VoilÃ  pour la _greffe_ des jardiniers.
+Heureusement l'usage a mis, par le genre, une diffÃ©rence entre
+les deux emplois.
+
+
+_Grief, griÃ¨ve_.--_Grief_ nous offre une dÃ©formation de
+prononciation; il reprÃ©sente le _grav_ du latin _grav-is_, qui
+est monosyllabique; et pourtant il est devenu chez nous
+disyllabique.  C'est une faute contre la dÃ©rivation Ã©tymologique,
+laquelle ne permet pas de dÃ©doubler un _a_ de maniÃ¨re Ã  en faire
+deux sons distincts.
+
+
+Cela a Ã©tÃ© causÃ© par une particularitÃ© de la trÃ¨s ancienne
+orthographe.  Dans les hauts temps, ce mot s'Ã©crivait _gref_ ou
+_grief_, mais Ã©tait, sous la seconde forme, monosyllabique comme
+sous la premiÃ¨re.  Comment prononÃ§ait-on _grief_ monosyllabe?
+nous n'en savons rien.  Toujours est-il que, dans les bas temps,
+l'orthographe _grief_ ayant prÃ©valu, il fut impossible de
+l'articuler facilement en une seule Ã©mission de voix.  De lÃ  est
+nÃ© le pÃ©chÃ© fÃ¢cheux contre l'Ã©quivalence des voyelles en _gravis_
+dans le passage du latin au franÃ§ais.
+
+
+_Griffonner_.--Ce verbe est un nÃ©ologisme du dix-septiÃ¨me
+siÃ¨cle.  On a bien dans le seiziÃ¨me un verbe _griffonner_ ou
+_griffonnier_, mais c'est un terme savant qui se rapporte au
+_griffon_, animal fabuleux, qu'on disait percer la terre pour en
+tirer l'or: griffonnier l'or, lit-on dans CholiÃ¨res.  Pourtant
+l'origine de notre _griffonner_ remonte au seiziÃ¨me siÃ¨cle et est
+due Ã  un joli nÃ©ologisme de Marot.  Il nomme _griffon_ un scribe
+occupÃ© dans un bureau Ã  barbouiller du papier.  _Griffon_ en ce
+sens n'a pas durÃ©, et nous l'avons remplacÃ© par _griffonneur_.
+Comment Marot a-t-il imaginÃ© la dÃ©nomination plaisante que je
+viens de rapporter?  Sans doute il n'a vu dans le barbouillage du
+scribe qu'une opÃ©ration de _griffes_; et dÃ¨s lors le _griffon_,
+armÃ© et pourvu de _griffes_, lui a fourni l'image qu'il
+cherchait.
+
+
+_Grivois_.--Un _grivois_, une _grivoise_, est une personne d'un
+caractÃ¨re libre, entreprenant, alerte Ã  toute chose; mais bien
+dÃ©Ã§u serait celui qui en chercherait directement l'Ã©tymologie.
+Le sens immÃ©diatement prÃ©cÃ©dent, qui d'ailleurs n'est plus
+aucunement usitÃ©, est celui de soldat en gÃ©nÃ©ral; le soldat se
+prÃªtant par son allure dÃ©terminÃ©e Ã  fournir l'idÃ©e, le type de ce
+que nous entendons aujourd'hui par _grivois_.  Est-ce tout?  pas
+encore, et la filiÃ¨re n'est point Ã  son terme.  Avant d'Ãªtre un
+soldat en gÃ©nÃ©ral, le _grivois_ fut un soldat de certaines
+troupes Ã©trangÃ¨res.  Encore un pas et nous touchons Ã  l'origine
+de notre locution.  Le _grivois_ des troupes Ã©trangÃ¨res Ã©tait
+ainsi nommÃ© parce qu'il usait beaucoup d'une _grivoise_, sorte de
+tabatiÃ¨re propre Ã  rÃ¢per le tabac.  _Grivoise_ est l'altÃ©ration
+d'un mot suisse _rabeisen_, rÃ¢pe Ã  tabac (proprement fer Ã 
+rÃ¢per).  Quel long chemin nous avons fait!  et quelle bizarrerie,
+certainement originale et curieuse, a tirÃ© d'une espÃ¨ce de rÃ¢pe
+un mot vif et alerte, qu'il n'est pas dÃ©plaisant de possÃ©der!
+
+
+_Groin_.--La prononciation offre ici le mÃªme cas pathologique
+que pour _grief_; elle reprÃ©sente par deux syllabes une syllabe
+unique du latin.  En effet _groin_ vient de _grun-nire_, qui a
+donnÃ© _grogn-er_, oÃ¹ _grogn_ est monosyllabique comme cela doit
+Ãªtre.  La vieille langue n'avait pas, bien entendu, cette faute;
+elle Ã©tait trop prÃ¨s de l'origine pour se mÃ©prendre.  Mais ici,
+comme dans _grief_, l'_r_ a fait sentir son influence; la
+difficultÃ© d'Ã©noncer monosyllabiquement ce mot a triomphÃ© des
+lois Ã©tymologiques, et le _grun_ latin est devenu le disyllabe
+_groin_.  Je regrette, en ceci du moins, que le spiritisme n'ait
+aucune rÃ©alitÃ©, car j'aurais Ã©voquÃ© un FranÃ§ais du douziÃ¨me
+siÃ¨cle, et l'aurais priÃ© d'articuler _groin_ prÃ¨s de mon oreille.
+Faute de cela, la prononciation monosyllabique de _groin_ reste,
+pour moi du moins, un problÃ¨me.
+
+
+_GuÃ©rir_.--Ce mot vient d'un verbe allemand qui signifie
+garantir, protÃ©ger.  Et en effet l'ancienne langue ne lui connaÃ®t
+pas d'autre acception.  Au douziÃ¨me siÃ¨cle, _guÃ©rir_ ne signifie
+que cela; mais au treiziÃ¨me siÃ¨cle la signification de dÃ©livrer
+d'une maladie, d'une blessure, s'introduit, et fait si bien
+qu'elle ne laisse plus aucune place Ã  celle qui avait les droits
+d'origine.  Que faut-il penser de ce nÃ©ologisme, fort ancien
+puisqu'il remonte jusqu'au treiziÃ¨me siÃ¨cle?  En gÃ©nÃ©ral, un
+nÃ©ologisme qui n'apporte pas un mot nouveau, mais qui change la
+signification d'un mot reÃ§u n'est pas Ã  recommander.  La langue
+avait _saner_ du latin _sanare_; _saner_ suffisait; il a pÃ©ri,
+laissant pourtant des parents, tels que _sain_, _santÃ©_ qui le
+regrettent.  D'ailleurs, la large signification du _guÃ©rir_
+primitif s'est partagÃ©e entre les verbes garantir, protÃ©ger,
+dÃ©fendre, qui ne la reprÃ©sentent pas complÃ¨tement.  Le treiziÃ¨me
+siÃ¨cle aurait donc mieux fait de s'abstenir de toucher au vieux
+mot; mais de quoi l'usage s'abstient-il, une fois qu'une
+circonstance quelconque l'a mis sur une pente de changement?
+
+
+_Habillement_, _habiller_.--Il n'y a dans ces mots rien qui
+rappelle le vÃªtement ou l'action de vÃªtir.  _VÃªtement_ et _vÃªtir_
+sont les mots propres qui nous viennent du latin et que nous
+avons conservÃ©s, mais l'inclination qu'a le langage Ã  dÃ©tourner
+des vocables de leur sens primitif et Ã  y infuser des
+particularitÃ©s inattendues, s'est emparÃ©e d'_habiller_, qui,
+venant d'_habile_, signifie proprement rendre habile, disposer Ã .
+L'homme vÃªtu est plus habile, plus dispos, plus propre Ã 
+diffÃ©rents offices.  C'est ainsi qu'_habiller_ s'est spÃ©cifiÃ© de
+plus en plus dans l'acception usuelle qu'il a aujourd'hui.  On ne
+trouve plus l'acception originelle et lÃ©gitime que dans quelques
+emplois techniques: _habiller_ un lapin, de la volaille, les
+dÃ©pouiller et les vider; en boucherie, _habiller_ une bÃªte tuÃ©e;
+en pÃªche, _habiller_ la morue, la fendre et en Ã´ter l'arÃªte; en
+jardinage, _habiller_ un arbre, en Ã©courter les branches, les
+racines, avant de le planter.  A ce propos, c'est le lieu de
+remarquer que les mÃ©tiers sont particuliÃ¨rement tenaces des
+anciennes acceptions.  Ici, comme dans plusieurs autres cas, il y
+a lieu de regretter qu'_habiller_, prenant le sens de vÃªtir,
+puisque ainsi le voulait l'usage, n'ait pas conservÃ© Ã  cÃ´tÃ© son
+acception propre.  _Habiller_, signifiant vÃªtir, est un
+nÃ©ologisme assez ingÃ©nieux, mais peu utile en prÃ©sence de
+_vÃªtir_, et nuisible parce qu'il a produit la dÃ©suÃ©tude de la
+vraie signification.
+
+
+_Hasard_.--_Fortuit_, du latin _fortuitus_, ne se trouve qu'au
+seiziÃ¨me siÃ¨cle.  _FortuitÃ©_ est un latinisme qui n'apparaÃ®t que
+de notre temps.  De la sorte, ce que les Latins exprimaient par
+le substantif _fors_ n'avait point de correspondant; et une idÃ©e
+essentielle faisait dÃ©faut Ã  la langue.  Il advint qu'une sorte
+de jeu de dÃ©s reÃ§ut dans le douziÃ¨me siÃ¨cle le nom de _hasart_,
+fourni par un incident des croisades.  Le fortuit rÃ¨gne en maÃ®tre
+dans le jeu de dÃ©s.  L'usage, et ce fut une grande marque
+d'intelligence, sut tirer de lÃ  une signification bien
+nÃ©cessaire.  Il est quelquefois obtus et dÃ©raisonnable, mais, en
+revanche, il est aussi, Ã  ses moments, singuliÃ¨rement ingÃ©nieux
+et subtil.  Qui aurait songÃ© dans son cabinet Ã  combler, grÃ¢ce Ã 
+un terme de jeu, la lacune laissÃ©e par la disparition du terme
+latin?  C'est un de ces cas oÃ¹ il est permis de dire que tout le
+monde a plus d'esprit que Voltaire.
+
+
+_Hier_.--La prononciation fait de ce mot un disyllabe; et
+pourtant il reprÃ©sente une seule syllabe latine, _her-i_; c'est
+donc une faute considÃ©rable contre l'Ã©tymologie.  L'ancienne
+langue ne la commettait pas; elle Ã©crivait suivant les dialectes
+et suivant les siÃ¨cles _her_ ou _hier_, mais toujours
+monosyllabique.  Cela a durÃ© jusqu'au dix-septiÃ¨me siÃ¨cle; et
+encore plusieurs Ã©crivains de ce temps suivent l'ancien usage.
+Toutefois c'est alors que commence la rÃ©solution de l'unique
+syllabe archaÃ¯que en deux; rÃ©solution qui a prÃ©valu.  Notez
+pourtant que la consÃ©quence n'est pas allÃ©e jusqu'au bout et que,
+dans _avant-hier_, _hier_ est monosyllabe.  La faute qui a
+dÃ©doublÃ© l'unique syllabe latine _heri_ est toute gratuite; car
+elle n'a pas l'excuse de la difficultÃ© de prononciation, comme
+pour _grief_ ou _groin_.  _Hier_ se prononce monosyllabe aussi
+facilement que disyllabe; et les Vaugelas n'ont pas Ã©tÃ© des
+puristes assez vigilants pour faire justice d'une prÃ©varication
+qui s'impatronisait de leur temps.
+
+
+_IntÃ©resser_, _intÃ©rÃªt_.--Quand on parcourt les significations du
+verbe _intÃ©resser_, on en rencontre une qui se trouve en
+discordance avec le sens gÃ©nÃ©ral de ce mot; c'est celle oÃ¹ il
+devient synonyme d'endommager, lÃ©ser, alors qu'on dit en parlant
+d'une blessure: La balle a intÃ©ressÃ© le poumon.  D'oÃ¹ vient cela?
+Pour avoir l'explication, il faut recourir au substantif
+_intÃ©rÃªt_, et encore non Ã  l'usage moderne, mais Ã  l'usage
+ancien.  En lisant l'historique de ce mot, que j'ai donnÃ© dans
+mon Dictionnaire, on voit _intÃ©rÃªt_ jouer d'une maniÃ¨re
+remarquable entre dommage et dÃ©dommagement, ce qui importe (latin
+_interest_) se prÃªtant Ã  signifier ce qui importe en mal comme ce
+qui importe en bien.  C'est du sens de dommage impliquÃ© dans
+_intÃ©resser_ qu'est venue l'acception d'endommager.  Au reste, ni
+le verbe ni le substantif n'appartiennent aux origines de notre
+idiome; la forme mÃªme l'indique; le latin _interesse_,
+_interfui_, aurait donnÃ© _entrestre_, _entrefu_.  Ils
+apparaissent dans le quatorziÃ¨me et le quinziÃ¨me siÃ¨cles
+probablement suggÃ©rÃ©s par des mots congÃ©nÃ¨res en provenÃ§al, en
+espagnol, en italien.  Ce nÃ©ologisme a Ã©tÃ© tout Ã  fait heureux.
+Il faut signaler les bienfaits comme les mÃ©faits du nÃ©ologisme.
+
+
+_Jument_.--Dans la trÃ¨s ancienne langue, _jument_ signifiait
+seulement bÃªte de somme, ce qui est le sens de _jumentum_ en
+latin.  Mais le mot s'Ã©tait particularisÃ© dÃ¨s le treiziÃ¨me
+siÃ¨cle, et, Ã  cÃ´tÃ© de l'acception de bÃªte de somme, il a aussi
+celle de cavale.  Aujourd'hui la premiÃ¨re est absolument
+oblitÃ©rÃ©e, et il ne reste plus que la seconde.  En ceci, la
+langue s'est montrÃ©e bien mauvaise mÃ©nagÃ¨re des ressources
+qu'elle possÃ©dait.  Le latin lui avait fourni rÃ©guliÃ¨rement
+_ive_, de _equa_, femelle du cheval.  Elle n'avait aucune raison
+de laisser perdre cet excellent mot; mais surtout elle devait
+conserver Ã  _jument_ son acception de bÃªte de somme, non
+seulement Ã  cause de la descendance directe du latin, mais aussi
+Ã  cause qu'il exprimait en un seul vocable ce que nous exprimons
+par la locution composÃ©e bÃªte de somme.  Or un vocable simple
+vaut toujours mieux qu'un terme composÃ©, autant pour la rapiditÃ©
+du langage que pour la prÃ©cision.  _Cavale_ ou _ive_ pour la
+femelle du cheval, _jument_ pour toute bÃªte de somme, voilÃ 
+l'Ã©tat ancien et bon de la langue.  La malencontreuse aperception
+qui, dans le terme gÃ©nÃ©rique de bÃªte de somme, trouva le terme
+particulier de cavale, troubla tout.  _Jument_ ainsi accaparÃ©,
+comment faire pour rendre _jumentum_?  Il n'y avait plus d'autre
+recours qu'au lourd procÃ©dÃ© des vocables composÃ©s; procÃ©dÃ©
+d'autant plus dÃ©sagrÃ©able que le franÃ§ais n'a pas la ressource de
+faire un seul mot de plusieurs et de dire bÃªte-somme comme
+l'allemand dit _Lastthier_.
+
+
+_Ladre_.--Il est dans l'Ãvangile un pauvre nommÃ© Lazare, qui,
+couvert d'ulcÃ¨res, gÃ©mit Ã  la porte du riche.  Le moyen Ã¢ge
+spÃ©cifia davantage la maladie dont ce pauvre homme Ã©tait affectÃ©,
+et il en fit un lÃ©preux.  AprÃ¨s cette spÃ©cification, _Ladre_
+(LÃ¡zarus, avec l'accent sur _a_, a donnÃ© Ladre au franÃ§ais),
+perdant sa qualitÃ© de nom propre, est devenu un nom commun et
+signifie celui qui est affectÃ© de lÃ¨pre.  Ceci est un procÃ©dÃ©
+commun dans les langues.  Les dÃ©rivations ne se sont pas arrÃªtÃ©es
+lÃ .  Le nom de la lÃ¨pre qui affecte l'homme a Ã©tÃ© transportÃ© Ã 
+une maladie particuliÃ¨re Ã  l'espÃ¨ce porcine et qui rend la chair
+impropre aux usages alimentaires.  A ce point, ayant de la sorte
+une double maladie physique qui diminue notablement la
+sensibilitÃ© de la peau de l'individu, homme ou bÃªte, on est passÃ©
+(qui _on_?  _on_ reprÃ©sente ici la tendance des groupes
+linguistiques Ã  modifier tantÃ´t en bien, tantÃ´t en mal, les mots
+et leurs significations), on est passÃ©, dis-je, Ã  un sens moral,
+attribuant Ã  _ladre_ l'acception d'avare, de celui qui lÃ©sine,
+qui n'a Ã©gard ni Ã  ses besoins ni Ã  ceux des autres.  Il n'y a
+aucune raison de mÃ©dire de ceux qui, les premiers, firent une
+telle application; ils n'ont pas Ã©tÃ© mal avisÃ©s, si l'on ne
+considÃ¨re que la suite des dÃ©rivations et l'enrichissement du
+vocabulaire.  Mais Ã  un autre point de vue, qui aurait prÃ©dit au
+_Lazare_ de l'Evangile que son nom signifierait le vice de la
+lÃ©sinerie?  et ne pourrait-on pas regretter qu'un pauvre digne de
+pitiÃ© ait servi de thÃ¨me Ã  une locution de dÃ©nigrement?
+Heureusement, le jeu de l'accent a tout couvert.  _Lazare_ est
+devenu _ladre_; et, quand on parle de l'un, personne ne songe Ã 
+l'autre.  Ainsi sont sauvÃ©s, quant aux apparences, les respect dÃ»
+Ã  la souffrance et l'ingÃ©niositÃ© du parler courant.
+
+
+_Libertin_.--Le latin _libertinus_, qui a donnÃ© _libertin_ au
+franÃ§ais, ne signifie que fils d'affranchi.  Pourtant, dans le
+seiziÃ¨me siÃ¨cle, premier moment oÃ¹ _libertin_ fait son apparition
+parmi nous, ce mot dÃ©signe uniquement celui qui s'affranchit des
+croyances et des pratiques de la religion chrÃ©tienne.  D'oÃ¹ vient
+une pareille dÃ©viation, et comment de fils d'affranchi l'usage
+a-t-il passÃ© Ã  l'acception d'homme Ã©mancipÃ© des dogmes
+thÃ©ologiques?  Voici l'explication de ce petit problÃ¨me: les
+_Actes des apÃ´tres_, VI, 9, font mention d'une synagogue des
+_libertins_, en grec <liberti'n_on>, en latin _libertinorum_.
+Cette synagogue, qui comptait sans doute des fils d'affranchis,
+Ã©tait rangÃ©e parmi les synagogues formÃ©es d'Ã©trangers.  La
+traduction franÃ§aise de 1525 de Lefebvre d'Ãtaples porte:
+Â«Aulcuns de la synagogue, laquelle est appellÃ©e des _libertins_.Â»
+Ces _libertins_ furent suspectÃ©s par les lecteurs de cette
+traduction de n'Ãªtre pas parfaitement orthodoxes.  De lÃ , en
+franÃ§ais, le sens de _libertin_, qui est exclusivement celui
+d'homme rebelle aux croyances religieuses; il prit origine dans
+le Nouveau Testament, fautivement interprÃ©tÃ©, et n'eut d'abord
+d'autre application qu'une application thÃ©ologique.  Ce sens a
+durÃ© pendant tout le dix-septiÃ¨me siÃ¨cle; aujourd'hui il est
+aboli; et il faut se garder, quand on lit les auteurs du temps de
+Louis XIV, d'y prendre ce vocable dans l'acception moderne.  Mais
+il n'est pas difficile de voir comment cette mÃªme acception
+moderne est nÃ©e.  Le prÃ©jugÃ© thÃ©ologique attachait naturellement
+un blÃ¢me Ã  celui qui ne se soumettait pas aux croyances de la
+foi.  De religieux, ce blÃ¢me ne tarda pas Ã  devenir simplement
+moral; et c'est ainsi que _libertin_ s'est Ã©cartÃ© de son origine,
+non pas pourtant au point de dÃ©signer toute offense Ã  la morale;
+il note particuliÃ¨rement celle qui a pour objet les rapports
+entre hommes et femmes.
+
+
+_Limier_.--Il est curieux de remarquer les ressources de
+l'esprit linguistique pour dÃ©nommer les objets.  Le _limier_ est
+une espÃ¨ce de chien de chasse.  Eh bien!  le mot ne veut dire que
+l'animal ou l'homme tenu par un lien.  En effet, _limier_,
+anciennement _liemier_, de trois syllabes, vient du latin
+_ligamen_, lien.  Tout ce qui porte un lien pourrait Ãªtre dit
+_liemier_.  L'usage restreignit l'acception Ã  celle du chien qui
+sert Ã  la chasse des grosses bÃªtes.  Il n'est pas besoin de
+signaler l'usage mÃ©taphorique de ce mot dans _limier_ de police.
+
+
+_Livrer_.--En passant de l'usage latin Ã  l'usage roman, les mots
+n'ont pas seulement changÃ© de forme, ils ont aussi changÃ©
+d'acception.  _Livrer_ en est un exemple.  Il vient du latin
+_liberare_, qui veut dire uniquement rendre libre, mettre en
+libertÃ©.  On trouve dÃ¨s le neuviÃ¨me siÃ¨cle, dans un capitulaire
+de Charles le Chauve, _liberare_ avec le sens de livrer, de
+remettre.  A cette Ã©poque, le bas latin et le vieux franÃ§ais
+commenÃ§aient Ã  ne plus guÃ¨re se distinguer l'un de l'autre, le
+premier arrivant Ã  sa fin, l'autre se dÃ©gageant de ses langes.
+Toujours est-il que le parler populaire des Gaules ne reÃ§ut pas
+_liberare_ avec son sens vÃ©ritable, mais lui fit subir une
+distorsion dont on suit sans grande peine le mouvement; car
+affranchir, mettre en libertÃ©, et ne plus retenir, livrer, sont
+des idÃ©es qui se tiennent.  Mais, manifestement, le mot s'est
+dÃ©gradÃ©; l'idÃ©e morale de _liberare_ a disparu devant l'idÃ©e
+matÃ©rielle de mettre en main, de transmettre.  Faites-y
+attention, et vous reconnaÃ®trez que les mots ont leur abaissement
+comme les hommes ou les choses.
+
+
+_Loisir_.--_Loisir_ est un mot Ã©lÃ©gant du langage franÃ§ais, qui
+appartient aux plus anciens temps, avec la signification
+actuelle.  D'origine, c'est l'infinitif, pris substantivement,
+d'un ancien verbe jadis fort usitÃ©, qui ne veut pas dire Ãªtre en
+loisir, mais qui veut dire Ãªtre permis; car il vient du latin
+_licere_, Ãªtre licite.  Au reste, le sens Ã©tymologique est
+conservÃ© dans l'adjectif _loisible_.  Ainsi, de trÃ¨s bonne heure,
+l'usage populaire a trouvÃ© dans Ãªtre permis un acheminement au
+sens dÃ©tournÃ© d'intervalle de temps oÃ¹ l'on se repose, oÃ¹ l'on
+fait ce que l'on veut.  Il n'y a pas Ã  se plaindre de cette
+ingÃ©niositÃ© d'un si ancien nÃ©ologisme; car n'est-ce pas
+nÃ©ologiser que de transformer la signification d'un verbe latin Ã 
+son passage dans le franÃ§ais?
+
+
+_MarÃ¢tre.--MarÃ¢tre_ n'a plus aujourd'hui qu'un sens pÃ©joratif et
+injurieux.  Mais il n'en Ã©tait pas ainsi dans l'ancienne langue;
+il signifiait simplement ce que nous nommons dans la langue
+actuelle belle-mÃ¨re.  Comme les belles-mÃ¨res ne sont pas toujours
+tendres pour les enfants d'un premier lit et que le vers du
+trouvÃ¨re
+
+     De mauvaise marastre est l'amour moult petite,
+
+a souvent lieu de se vÃ©rifier, il n'est pas Ã©tonnant que
+_marÃ¢tre_ soÃ®t devenu synonyme de mauvaise belle-mÃ¨re.  Pourtant
+il convient d'exprimer ici un regret.  Rien n'empÃªchait, tout en
+donnant Ã  _marÃ¢tre_ son acception nouvelle et particuliÃ¨re, de
+conserver l'usage propre du mot.  Il figurerait trÃ¨s bien Ã  cÃ´tÃ©
+de _parastre_, perdu, lui, tout Ã  fait, qui signifiait beau-pÃ¨re.
+C'est dommage de sacrifier des mots simples et expressifs pour
+leur substituer des termes composÃ©s, lourds et malaisÃ©s Ã  manier.
+
+
+_Marionnette_.--Ce mot est un assez joli mot, et sa descendance
+est assez jolie aussi.  L'ancienne langue avait _mariole_,
+diminutif de _Marie_, et dÃ©signant de petites figures de la
+Sainte Vierge.  Le diminutif _mariolette_ se corrompit en
+_marionnette_; et, par un procÃ©dÃ© qui n'est pas rare, l'usage
+transporta le nom de ces effigies sacrÃ©es Ã  une autre espÃ¨ce de
+figures, mais celles-lÃ  profanes.  En mÃªme temps le sens ancien
+s'oblitÃ©ra complÃ¨tement; car, autrement, comment aurait-on commis
+l'impiÃ©tÃ© d'appliquer le nom des figures de la Sainte Vierge Ã 
+des figures de spectacle et d'amusement?  La dÃ©gradation du sens
+s'est ici compliquÃ©e d'une offense aux biensÃ©ances catholiques.
+
+
+_MÃ©chant_.--Le quatorziÃ¨me siÃ¨cle a inaugurÃ© (du moins on n'en
+voit pas d'exemple auparavant) la fortune d'un mot aujourd'hui
+d'un usage fort Ã©tendu: ce mot est _mÃ©chant_. C'est le participe
+prÃ©sent du verbe vieilli _mÃ©choir_, et d'abord il n'a dÃ©signÃ© que
+celui qui a mauvaise chance.  Il a passÃ© de lÃ  aux choses de peu
+de valeur: un _mÃ©chant_ livre; et finalement, entrant dans le
+domaine moral, il s'est appliquÃ© aux hommes d'un naturel pervers.
+Il y a satisfaction Ã  suivre ainsi la logique secrÃ¨te de l'usage,
+qui dÃ©rive les significations l'une de l'autre; il est
+intÃ©ressant aussi d'Ã©tudier comment il se crÃ©e des doublets sans
+qu'on le veuille.  La langue avait _mauvais_, et _mÃ©chant_ au
+sens moral ne lui Ã©tait pas nÃ©cessaire.  Mais _mÃ©chant_
+s'Ã©tablit; il n'a d'abord aucune rivalitÃ© avec _mauvais_. Il n'en
+est plus de mÃªme quand il passe au sens moral; et dÃ¨s lors les
+auteurs de synonymes ont Ã  chercher en quoi _mÃ©chant_ et
+_mauvais_ s'accordent et diffÃ©rent.  L'usage, dans ses actes d'un
+despotisme qui est loin d'Ãªtre toujours Ã©clairÃ©, s'inquiÃ¨te peu
+des soucis qu'il prÃ©pare aux grammairiens.
+
+
+_Merci_.--La pathologie en ce mot affecte le genre, qui, fÃ©minin
+selon l'Ã©tymologie en don d'amoureuse _merci_, est masculin dans
+un grand _merci_. L'usage n'aime guÃ¨re les casse-tÃªte
+grammaticaux, et il s'en tire d'ordinaire fort mal.  Le
+casse-tÃªte gÃ®t ici dans le mot grand: cet adjectif est, selon la
+vieille langue, trÃ¨s correctement masculin et fÃ©minin, comme le
+latin _grandis_; mais, suivant la moderne, il a les deux genres,
+_grand, grande_. L'usage, quand il reÃ§ut la locution toute faite
+_grand merci_, a pris _grand_ avec son air apparent, et du tout
+il a fait _un grand merci_. La signification n'est pas non plus
+sans quelque pathologie.  Le sens primitif, qui est faveur,
+rÃ©compense, grÃ¢ce (du latin _mercedem)_, s'est rÃ©trÃ©ci de maniÃ¨re
+Ã  ne plus figurer que dans quelques locutions toutes faites: don
+d'amoureuse _merci_, Dieu _merci_. Puis le sens de misÃ©ricorde
+qui Ã©pargne se dÃ©veloppe amplement, et atrophie l'acception
+primitive.  La misÃ©ricorde n'est point dans le latin _merces_;
+mais elle est, on peut le dire, une sorte de faveur; et la langue
+n'a pas failli Ã  la liaison des idÃ©es, mÃªme subtile, quand elle a
+ainsi dÃ©tournÃ© Ã  son profit le vocable latin.
+
+
+_Mesquin_.--_Mesquin_ prÃ©sente un singulier accident; il vient de
+l'espagnol _mezquino_, qui a le mÃªme sens.  MÃªme sens aussi en
+provenÃ§al, _mesquin_, et en italien, _meschino_. Mais, dans tout
+le moyen Ã¢ge jusqu'au seiziÃ¨me siÃ¨cle inclusivement, _meschin_,
+_meschine_, signifient jeune garÃ§on, jeune fille, avec cette
+nuance pourtant que le fÃ©minin _meschine_ a le plus souvent
+l'acception de jeune fille qui est en service; acception qu'a
+aussi l'italien _meschina_. Il faut, ce semble, admettre que du
+sens de chÃ©tif on s'est Ã©levÃ© Ã  l'idÃ©e de jeune garÃ§on, de jeune
+fille, considÃ©rÃ©s comme faibles par l'Ã¢ge, et qu'ennoblissant
+ainsi l'idÃ©e primitive du mot, on n'en a pas effacÃ© pourtant tout
+ce qui Ã©tait dÃ©favorable.  Ce fut un anoblissement que _mesquin_
+reÃ§ut alors; mais cet anoblissement fut passager; et le mot,
+secouant ce sens comme un oripeau, n'a plus parmi nous que son
+acception originelle.
+
+
+_Moyen_.--L'adjectif veut dire qui occupe une position
+intermÃ©diaire; le substantif, entremise, ce qui sert Ã  obtenir
+une certaine fin.  On comprend comment l'idÃ©e d'intermÃ©diaire a
+suggÃ©rÃ© celle de maniÃ¨re de procÃ©der pour obtenir un rÃ©sultat.
+C'est certainement un bon exemple de l'art ingÃ©nieux de dÃ©duire
+des significations l'une de l'autre.  Ce mot n'a pas toujours
+existÃ© dans notre langue; et _moyen_ substantif est un
+nÃ©ologisme.  N'allez pas vous rÃ©crier; c'est un nÃ©ologisme d'une
+antiquitÃ© dÃ©jÃ  respectable; il remonte au quatorziÃ¨me siÃ¨cle.  Il
+faut savoir grÃ© au populaire de ce temps d'avoir crÃ©Ã© un
+substantif si bon et si commode.
+
+
+_Nourrisson_.--A cÃ´tÃ© de: _le nourrisson_, l'ancienne langue
+avait _la nourrisson_, signifiant nourriture, Ã©ducation.  Tous
+deux, _le nourrisson_ et _la nourrisson_, viennent du latin
+_nutritionem_, dont notre langage scientifique a fait nutrition.
+Le franÃ§ais moderne a laissÃ© se perdre _la nourrisson_. A cÃ´tÃ©
+de: _la prison_, l'ancienne langue avait _le prison_, signifiant
+prisonnier.  Tous deux, _la prison_ et _le prison_, viennent du
+latin _prehensionem_, dont le langage scientifique a fait
+_prÃ©hension_. Le franÃ§ais moderne n'a pas gardÃ© _le prison_. Il
+paraÃ®t que _polisson_ est un mot du mÃªme genre, c'est-Ã -dire un
+masculin dÃ©duit d'un fÃ©minin latin; ce latin serait _politionem_,
+et le sens primitif de _polisson_ serait celui de nettoyeur, de
+balayeur.  N'est-il pas amusant de voir l'usage tirer, si je puis
+ainsi parler, d'un sac deux moutures, et, suivant qu'il considÃ¨re
+dans l'original latin l'action ou le rÃ©sultat de l'action, avoir
+dans le premier cas un fÃ©minin et dans le second un masculin?
+C'Ã©tait agir fort librement avec le latin que de lui changer
+ainsi le genre de ses substantifs.  Mais, du moment qu'ils
+Ã©taient entrÃ©s dans le domaine franÃ§ais, il Ã©tait juste qu'ils
+acceptassent toutes les lois de leur nouvelle patrie.  L'ancienne
+langue fut ingÃ©nieuse avec les deux genres et les deux
+acceptions; la langue moderne est inconsÃ©quente en gardant tantÃ´t
+le masculin, tantÃ´t le fÃ©minin, mais non les deux rÃ©guliÃ¨rement.
+
+
+_OpiniÃ¢tre_.--_OpiniÃ¢tre_ dÃ©signe celui qui est attachÃ© outre
+mesure Ã  son opinion, et est formÃ© d'_opinion_ et de la finale
+pÃ©jorative _Ã¢tre_. Certes ceux qui les premiers conÃ§urent une
+pareille formation furent de hardis nÃ©ologistes; et je ne sais si
+les plus entreprenants de nos jours s'aviseraient de faire ainsi
+une jonction qui ne va pas de soi; car _opinion_ se prÃªte assez
+mal Ã  entrer en composition.  Quoi qu'il en soit, _opiniÃ¢tre_ et
+ses dÃ©rivÃ©s _opiniÃ¢trement_, _opiniÃ¢trer_, _opiniÃ¢tretÃ©_,
+n'appartiennent pas aux temps anciens de la langue; ils ne se
+montrent que dans le seiziÃ¨me siÃ¨cle.  C'est un vieux mot pour
+nous; mais c'Ã©tait un nÃ©ologisme pour Amyot, pour Montaigne, pour
+d'AubignÃ©.  Il faut les remercier de n'avoir pas repoussÃ© d'une
+plume dÃ©daigneuse le nouveau venu; car il est de bonne
+signification, et figure bien Ã  cÃ´tÃ© d'_obstination_,
+_obstinÃ©ment_, _obstiner_; ce sont lÃ  des termes anciens.  Il est
+heureux qu'_opiniÃ¢tre_ ne les ait pas fait tomber en dÃ©suÃ©tude;
+cela arrive maintes fois.
+
+
+_Ordonner_.--L'ancienne forme est _ordener_; de mÃªme on disait
+_ordenance_. Cela est rÃ©gulier; car le latin _ordinare_, avec son
+_i_ bref, n'a pu donner que _ordener_.  _Ordonner_ ne se montre
+qu'au quatorziÃ¨me siÃ¨cle, et aussitÃ´t il supplante tout Ã  fait
+_ordener_, qui ne reparaÃ®t plus.  D'oÃ¹ vient cet _o_ substituÃ© Ã 
+l'_e_ primitif?  On ne peut y voir qu'une faute de prononciation.
+Les fautes de ce genre sont faciles Ã  commettre et quelquefois
+trÃ¨s difficiles Ã  rÃ©parer; tÃ©moin _ordener_, qui en est restÃ©
+victime, et _ordonner_, dont l'usage prÃ©sent ne soupÃ§onne pas la
+tache originelle.
+
+
+_Ordre_.--Dans l'ancienne langue, _ordre_ signifie uniquement
+arrangement, disposition, et aussi compagnie monastique.  Le sens
+d'injonction, prescription, ne s'y rencontre pas; on ne le voit
+apparaÃ®tre qu'au dix-septiÃ¨me siÃ¨cle, et alors il est courant
+parmi les meilleurs auteurs.  C'Ã©tait pourtant un vigoureux
+nÃ©ologisme de signification.  On comprend comment, d'arrangement,
+de disposition, _ordre_ en est venu Ã  signifier prescription; la
+liaison des deux idÃ©es, une fois sentie, s'explique sans
+difficultÃ© considÃ©rable.  Mais l'opÃ©ration mentale qui les trouva
+mÃ©rite qu'on la signale Ã  l'attention, ainsi que l'Ã©poque oÃ¹ elle
+se manifeste et s'Ã©tablit.  Je ne nie pas que je me plais Ã 
+signaler le dix-septiÃ¨me siÃ¨cle en dÃ©lits de nÃ©ologisme.  On lui
+a fait une rÃ©putation de pruderie puriste qu'il ne mÃ©rite ni en
+bien ni en mal.
+
+
+_Papelard_.--Proprement, ce mot signifie celui qui mange le lard,
+et encore aujourd'hui on dit, Ã  propos de deux prÃ©tendants qui se
+disputent quelque chose: On verra qui mangera le lard.  En
+italien, _pappalardo_ veut dire goinfre, bafreur; mais il
+signifie aussi faux dÃ©vot, hypocrite.  Dans le franÃ§ais, mÃªme le
+plus ancien, il n'a pas d'autre signification que celle de faux
+dÃ©vot.  C'est manifestement un mot de plaisanterie, et c'est en
+plaisantant qu'on en est venu Ã  attribuer aux mangeurs de lard
+une qualification aussi dÃ©favorable que celle de l'hypocrite.
+Les textes ne donnent pas prÃ©cisÃ©ment la clef d'une dÃ©rivation si
+Ã©loignÃ©e.  Pourtant voici comment j'imagine qu'on peut combler la
+distance entre le point de dÃ©part et le point d'arrivÃ©e.  Â«Tel
+fait devant le _papelart_, dit un vieux trouvÃ¨re, Qui par
+derriÃ¨re _pape lart_.Â» _Paper le lard_, c'est-Ã -dire s'adjuger les
+bons morceaux par-derriÃ¨re, c'est-Ã -dire sans que les autres s'en
+aperÃ§oivent, est un tour de _papelardie_, et de cette papelardie
+il n'y a pas loin Ã  celle de l'hypocrisie gÃ©nÃ©rale qui ne se
+borne plus Ã  paper le lard, mais qui se revÃªt du masque des
+vertus vÃ©nÃ©rÃ©es, le tout, il est vrai, pour faire son chemin ou
+sa fortune, comme ce bon M. Tartuffe.  En dÃ©finitive, paper le
+lard et faire l'hypocrite sont devenus synonymes, et la plus
+ancienne langue s'est gaussÃ©e de la fausse dÃ©votion, qui trompe
+sous un masque respectÃ© les imbÃ©ciles et qui s'adjuge les bons
+morceaux.
+
+
+_Papillote_.--Il faut vraiment admirer le joli de certaines
+imaginations dont l'usage est capable.  La langue avait, Ã  cÃ´tÃ©
+de _papillon_, une forme moins usitÃ©e, _papillot_. Au quinziÃ¨me
+siÃ¨cle, on va dÃ©nicher ce _papillot_ et en tirer une assimilation
+avec le morceau de papier qui sert Ã  envelopper les boucles de
+cheveux des dames avant de les friser.  Celui qui l'a fait mÃ©rite
+toute louange pour cet ingÃ©nieux nÃ©ologisme.  Notez, en outre,
+les sens variÃ©s de _papilloter_, tous dÃ©rivÃ©s de ce _papillon_
+qu'une heureuse et riante imagination a logÃ© dans la _papillote_.
+
+
+_Parole_.--OÃ¹ est la pathologie Ã  dire _parole_ ou lieu de
+_verbe_, qui eÃ»t Ã©tÃ© le mot propre?  Elle est en ce qu'il a fallu
+une forte mÃ©prise pour imposer au mot roman le sens qu'il a.
+Quand vous cherchez l'origine d'un vocable, soyez trÃ¨s
+circonspect dans vos conjectures; hors des textes, il n'y a guÃ¨re
+de certitude.  Au moment de la naissance des langues romanes et
+dans les populations usant de ce que nous nommons bas latin, on
+se servit de _parabola_ pour exprimer la _parole_.  Comment la
+_parabole_ en Ã©tait-elle venue Ã  un sens si dÃ©tournÃ©?  On
+rÃ©pugnait Ã  se servir, dans l'usage vulgaire, du mot _verbum_,
+qui avait une acception sacrÃ©e; d'un autre cÃ´tÃ©, la _parabole_
+revenait sans cesse dans les sermons des prÃ©dicateurs.  Les
+ignorants prirent ce mot pour eux et lui attachÃ¨rent le sens de
+_verbum_.  Les ignorants firent loi, Ã©tant le grand nombre, et
+les savants furent obligÃ©s de dire parole comme les autres.
+_Parabole_ a-t-il subi quelque dÃ©gradation en passant de l'emploi
+qu'il a dans le Nouveau Testament Ã  celui que lui donne l'usage
+vulgaire?  Sans doute; du moins, en le faisant descendre Ã  un
+office de tous les jours, on a eu soin de le dÃ©guiser; car ce
+n'est pas le premier venu qui, sous _parole_, reconnaÃ®t
+_parabole_.
+
+
+_Persifler_.--Je n'inscris pas _persifler_ dans la pathologie,
+parce que le simple _siffler_ a deux _ff_, et que le composÃ©
+_persifler_ n'en a qu'une; cette anomalie est bizarre, mais de
+peu d'importance; je l'inscris, parce que _persifler_, quand on
+en scrute la signification, ne paraÃ®t pas un produit lÃ©gitime de
+_siffler_.  C'est un nÃ©ologisme du dix-huitiÃ¨me siÃ¨cle,
+aujourd'hui entrÃ© tout Ã  fait dans l'usage.  Rien auparavant n'en
+faisait prÃ©voir la crÃ©ation.  Eh bien!  supposons qu'il n'existe
+pas, et imaginons qu'un de nos contemporains, prenant le verbe
+_siffler_, y adapte la prÃ©position latine _per_ et donne au tout
+le sens de: railler quelqu'un, en lui adressant d'un air ingÃ©nu
+des paroles qu'il n'entend pas ou qu'il prend dans un autre sens;
+ne verrons-nous pas le nouveau venu mal accueilli?  et ne
+s'Ã©lÃ¨vera-t-il pas des rÃ©clamations contre de telles tÃ©mÃ©ritÃ©s?
+En effet, la signification d'une pareille composition demeure
+assez ambiguÃ«.  Est-ce _siffler_ au sens de faire en sifflant une
+dÃ©sapprobation, comme quand on dit: siffler une piÃ¨ce, un acteur?
+Non, cela ne peut Ãªtre, car le persifleur ne siffle pas le
+persiflÃ©.  Il est vraisemblable qu'ici siffler a le sens de
+siffler un oiseau, c'est-Ã -dire lui apprendre un air.  Le
+persifleur siffle le persiflÃ©; et celui-ci prend bon jeu, bon
+argent, ce que l'autre lui dit.  Le cas n'aurait pas souffert de
+difficultÃ©, si le nÃ©ologiste avait dit _permoquer_, moquer Ã 
+outrance.  _Permoquer_ nous choque prodigieusement; il n'est
+pourtant pas plus Ã©trange que _persifler_; mais _persifler_ est
+embarrassant, parce que _siffler_ n'a pas le sens de moquer.
+Tout considÃ©rÃ©, il me paraÃ®t que les gens du dix-huitiÃ¨me
+siÃ¨cle, en choisissant _siffler_ et non _moquer_, ont eu dans
+l'idÃ©e l'oiseau qu'on siffle et qui se laisse instruire comme
+veut celui qui le siffle.
+
+
+_Personne_.--_Personne_ est un exemple des mots d'assez basse
+origine qui montent en dignitÃ©.  Il provient du latin _persona_,
+qui signifie un masque de thÃ©Ã¢tre.  Que le masque ait Ã©tÃ© pris
+pour l'acteur mÃªme, c'est une mÃ©tathÃ¨se qui s'est opÃ©rÃ©e
+facilement.  Cela fait, notre vieille langue, s'attachant
+uniquement au rÃ´le public et considÃ©rable que la _persona_ jouait
+autrefois, et la purifiant de ce qu'elle avait de profane, se
+servit de ce mot pour signifier un ecclÃ©siastique constituÃ© en
+quelque dignitÃ©.  C'est encore le sens que ce mot a dans la
+langue anglaise (_parson_), qui nous l'a empruntÃ© avec sa
+mÃ©tamorphose d'acception.  Nous avons Ã©tÃ© moins fidÃ¨les que les
+Anglais Ã  la tradition; et, dÃ©laissant le sens que nous avions
+crÃ©Ã© nous-mÃªmes, nous avons imposÃ© Ã  _personne_ l'acception
+gÃ©nÃ©rale d'homme ou de femme quelconques.  Le mot anglais, qui
+est le nÃ´tre, n'a pas subi cette rÃ©gression, ou plutÃ´t n'a pas
+laissÃ© percer le sens, ancien aussi, d'homme ou femme en gÃ©nÃ©ral.
+En effet, cette acception se trouve dÃ¨s le treiziÃ¨me siÃ¨cle.  On
+peut se figurer ainsi le procÃ©dÃ© du franÃ§ais naissant Ã  l'Ã©gard
+du latin _persona_: deux vues se firent jour; l'une, peut-Ãªtre la
+plus ancienne, s'attachant surtout aux grands personnages que le
+masque thÃ©Ã¢tral recouvrait, fit de ces personnes des dignitaires
+ecclÃ©siastiques; l'autre, plus gÃ©nÃ©rale, se borna Ã  prendre le
+masque pour la personne.
+
+
+_Pistole_, _pistolet_.--La pathologie, en ces deux mots visiblement
+identiques, est que leurs significations actuelles n'ont rien de
+commun.  Dans les langues d'oÃ¹ ils dÃ©rivent, italien et espagnol,
+ils signifient uniquement une petite arme Ã  feu, et pourtant, en
+franÃ§ais, ils ont l'un, le sens d'une monnaie, l'autre, celui
+d'un court fusil.  Autrefois, en franÃ§ais, _pistole_ et
+_pistolet_ se dirent, comme cela devait Ãªtre, de l'arme
+portative.  Puis, la forme diminutive de _pistolet_ suggÃ©ra
+l'idÃ©e de donner ce nom aux Ã©cus d'Espagne, parce qu'ils sont
+plus petits que les autres.  Une fois la notion de monnaie
+introduite dans ces deux mots, l'usage les sÃ©para, ne faisant
+signifier que monnaie Ã  _pistole_, et qu'arme Ã  _pistolet_.
+J'avoue qu'il ne me paraÃ®t pas que cela soit bien imaginÃ©.
+L'italien et l'espagnol ne se sont pas trouvÃ©s mal d'avoir
+conservÃ© Ã  ces mots leur sens originel; et ici nous avons fait
+trop facilement le sacrifice de connexions intimes.
+
+
+_Placer_.--_Place_, qui vient du latin _platea_, place publique,
+est fort ancien dans la langue.  Il n'en est pas de mÃªme du verbe
+_placer_. Celui-ci, Ã  en juger par les textes, serait un
+nÃ©ologisme de la fin du seiziÃ¨me siÃ¨cle, nÃ©ologisme fort bien
+accueilli par le dix-septiÃ¨me, qui a fait trÃ¨s bon usage de ce
+verbe et qui nous l'a lÃ©guÃ© pleinement constituÃ©.  Nul ne sait
+aujourd'hui quel est le hardi parleur ou Ã©crivain qui, le
+premier, hasarda un verbe dÃ©rivÃ© de _place_, et destinÃ© Ã  former
+un auxiliaire fort commode de mettre.  Si ce verbe se crÃ©ait
+aujourd'hui, l'AcadÃ©mie voudrait-elle l'accueillir dans son
+dictionnaire?
+
+
+_Poison_.--Deux genres de pathologie affectent ce mot: il n'a
+jamais dÃ» Ãªtre masculin, et jamais non plus il n'a dÃ» signifier
+une substance vÃ©nÃ©neuse.  _Poison_ est fÃ©minin d'origine; car il
+vient du latin _potionem_; toute l'ancienne langue lui a donnÃ©
+constamment ce genre; le peuple est fidÃ¨le Ã  la tradition, et il
+dit _la poison_, au scandale des lettrÃ©s qui lui reprochent son
+solÃ©cisme, et auxquels il serait bien en droit de reprocher le
+leur.  C'est avec le dix-septiÃ¨me siÃ¨cle que le masculin
+commence.  Pourquoi cet Ã©trange changement de genre?  On n'en
+connaÃ®t pas les circonstances, et on ne se l'explique guÃ¨re, Ã 
+moins de supposer que _poisson_, voisin de _poison_ par la forme,
+l'a attirÃ© Ã  soi et l'a condamnÃ© au solÃ©cisme.  Mais lÃ  n'est pas
+la seule particularitÃ© que ce mot prÃ©sente; il n'a aucunement,
+par lui-mÃªme, le sens de venin; et longtemps la langue ne s'en
+est servi qu'en son sens Ã©tymologique de boisson.  Toutefois, il
+n'est pas rare que la signification d'un mot, de gÃ©nÃ©rale qu'elle
+est d'abord, devienne spÃ©ciale; c'est ainsi que, dans l'ancienne
+langue, _enherber_, qui proprement ne signifie que faire prendre
+des herbes, avait reÃ§u le sens de faire prendre des herbes
+malfaisantes, d'empoisonner.  Semblablement _la poison_, qui
+n'Ã©tait qu'une boisson, a fini par ne plus signifier qu'une sorte
+de boisson, une boisson oÃ¹ une substance toxique a Ã©tÃ© mÃªlÃ©e.
+Puis, le sens de toxique empiÃ©tant constamment, l'idÃ©e de boisson
+a disparu de _poison_; et ce nom s'est appliquÃ© Ã  toute
+substance, solide ou liquide, qui, introduite dans le corps
+vivant, y porte le trouble et la dÃ©sorganisation.
+
+
+_Potence_.--Pour montrer la pathologie de ce mot, je suppose que
+le franÃ§ais soit aussi peu connu que l'est le zend, et qu'un
+Ã©rudit, recherchant dans un texte le sens de ce mot, procÃ¨de
+comme on fait dans le zend lÃ  oÃ¹ les documents sont absents, par
+voie d'Ã©tymologie; il trouvera, avec toute raison, que _potence_
+veut dire puissance.  Nous voilÃ  bien loin du sens de gibet qu'a
+le mot.  Comment faire pour le retrouver?  Suivons la filiÃ¨re que
+l'usage a suivie, filiÃ¨re capricieuse sans doute, mais rÃ©elle
+pourtant.  L'ancien franÃ§ais, se prÃ©valant de l'idÃ©e de force et
+de soutien qui est dans _potence_, s'en servit pour dÃ©signer un
+bÃ¢ton qui soutient, une bÃ©quille qui aide Ã  marcher.  Maintenant,
+pour passer au sens de gibet, on change de point de vue; ce n'est
+point une idÃ©e, c'est une forme qui dÃ©termine la nouvelle
+acception, et le gibet, avec sa piÃ¨ce de bois droite et sa piÃ¨ce
+transversale, est comparÃ© Ã  une bÃ©quille.  Il faut laisser la
+responsabilitÃ© de tout cela Ã  l'usage, qui, ayant gibet, n'avait
+pas besoin de faire tant d'efforts pour s'engager dans un bizarre
+dÃ©tour de significations.
+
+
+_Poulaine_.--Ceci est un exemple de ce que je nomme la
+dÃ©gradation des mots.  Au quatorziÃ¨me siÃ¨cle, la mode voulait que
+les souliers fussent relevÃ©s en une pointe d'autant plus grande
+que la dignitÃ© de la personne Ã©tait plus haute; cette pointe
+Ã©tait dite _poulaine_, parce qu'elle Ã©tait faite d'une peau
+nommÃ©e _poulaine_, et _poulaine_, en notre vieille langue,
+signifiait _Pologne_ et _de Pologne_. Comme on voit, rien n'Ã©tait
+mieux portÃ©.  Sa chute a Ã©tÃ© profonde en passant dans le langage
+des marins; ils dÃ©signent ainsi dans les navires une saillie en
+planches situÃ©e Ã  l'avant, sur laquelle l'Ã©quipage vient laver
+son linge et qui contient aussi les latrines.  Tout ce que le mot
+avait d'aristocratique a disparu en cet usage vil; il n'y est
+restÃ© que la forme en pointe, en saillie.
+
+
+_PrÃ©alable_.--Â«Nous n'avons guÃ¨re de plus mauvais mot en notre
+langueÂ», dit Vaugelas, qui ajoute qu'un grand prince ne pouvait
+jamais l'entendre sans froncer le sourcil, choquÃ© de ce que
+_allable_ entrait dans cette composition pour _qui doit aller_[*].
+Ce grand prince avait bien raison; mais que voulez-vous?  Ce
+malencontreux nÃ©ologisme avait pour lui la prescription.  Il
+paraÃ®t avoir Ã©tÃ© forgÃ© dans le courant du quinziÃ¨me siÃ¨cle; du
+moins on trouve Ã  cette date _prÃ©alablement_. Le seiziÃ¨me siÃ¨cle
+s'en sert couramment.  Il est visible que ce nÃ©ologisme a Ã©tÃ©
+fait tout d'une piÃ¨ce, je veux dire qu'il n'existait point
+d'adjectif _allable_, auquel on aurait ajoutÃ© _prÃ©_. De cette
+faÃ§on, _prÃ©alable_, formÃ© d'un verbe supposÃ© _prÃ©aller_, est
+moins choquant qu'un adjectif _allable_, tirÃ© d'_aller_ contre
+toute syntaxe.
+
+  [*] AnimÃ© d'une indignation semblable, Royer-Collard avait
+  dÃ©clarÃ© qu'il se retierait de l'AcadÃ©mie franÃ§aise, si cette
+  compagnie admettait en son dictionnaire le verbe _baser_.
+
+
+_Ramage_.--_Ramage_ est un mot de l'ancienne langue, oÃ¹ il est
+adjectif, non substantif.  Et, de droit, il ne peut Ãªtre
+qu'adjectif.  De fait, il est devenu substantif; et c'est ce fait
+qui appartient Ã  notre pathologie.  Quelqu'un, que je ne
+supposerai ni trÃ¨s lettrÃ© ni trÃ¨s ignorant, entend parler
+d'Ã©toffe Ã  _ramage_, de velours Ã  _ramage_, et il sait qu'en cet
+emploi _ramage_ signifie branches d'arbre, rameaux.  D'un autre
+cÃ´tÃ©, il a chez lui en cage des serins dont le _ramage_ lui plaÃ®t
+et le distrait.  Ce _ramage_--ci dÃ©signe le chant des oiseaux.
+S'il a quelque tendance Ã  rÃ©flÃ©chir sur les mots, il pourra se
+demander d'oÃ¹ vient qu'un mÃªme mot ait des sens si diffÃ©rents, et
+s'il ne faut pas chercher pour le second _ramage_ un radical qui
+contienne l'idÃ©e de chant.  Ce serait une erreur.  Quelque
+dissemblables de signification que soient ces deux _ramages_, il
+sont semblables de formation.  Dans l'ancienne langue _ramage_
+signifiait de rameau, branchier, et venait du latin _ramus_,
+branche, par le latin barbare _ramaticus_: oiseau ramage, oiseau
+sauvage, branchier; chant ramage, chant des rameaux, des bois,
+des oiseaux qui logent dans les bois.  C'est de la sorte que
+_ramage_, devenant substantif, a pu exprimer trÃ¨s naturellement
+des figures de rameaux et le chant des oiseaux.
+
+
+_Regarder_.--La lutte entre la latinitÃ© et le germanisme
+appartient Ã  la pathologie, car notre langue est essentiellement
+latine.  De cette lutte _regarder_ est un tÃ©moin des plus dignes
+d'Ãªtre entendu.  Les mots latins qui signifient porter l'oeil
+sur, n'avaient point trouvÃ© accueil; _respeitre_, de _respicere_,
+ne s'Ã©tait pas formÃ©, et _respectus_ avait fourni _respict_, avec
+un tout autre sens; _aspicere_ aurait pu donner _aspeitre_ et ne
+l'avait pas donnÃ©.  Dans cette dÃ©faite de la latinitÃ©, le
+germanisme offrit ses ressources; il fallait, il est vrai,
+dÃ©tourner les sens; mais l'usage, on le sait, est habile Ã 
+pratiquer ces opÃ©rations.  Le haut allemand a un verbe, _warten_,
+qui est entrÃ© dans le franÃ§ais sous la forme de _garder_. Outre
+ce sens, _warten_ signifie aussi faire attention, prendre garde;
+et c'est lÃ  l'acception qui s'est prÃªtÃ©e Ã  devenir celle de jeter
+l'oeil sur.  Non pas que la langue ait pris _garder_ purement et
+simplement; elle le pourvut d'un prÃ©fixe; et, ainsi armÃ©,
+_garder_ s'employa pour exprimer certaines directions de la vue.
+Ce prÃ©fixe est double, _es_ ou _re_, qui sont Ã©galement anciens.
+L'ancienne langue disait _esgarder_, qui est tombÃ© en dÃ©suÃ©tude,
+mais non le substantif _esgard_ (_Ã©gard_); elle disait aussi
+_regarder_, qui est notre mot actuel, avec son substantif
+_regard_. _Ãgard_ et _regard_, outre leur acception quant Ã  la
+vue, ont aussi celle de soin, d'attention, qui appartient au
+radical _warten_, et qui est la primitive.  Ils sont Ã  mettre
+parmi les exemples oÃ¹ l'on passe d'un sens moral Ã  un sens
+physique.  Cela est plus rare que l'inverse.
+
+
+_SensÃ©_.--C'est un des cas de pathologie que certains mots, sans
+raison valable, cessent de vivre.  _Verborum vetus interit
+aetas_, a dit Horace.  L'ancien adjectif _senÃ©_ (qui vient de
+l'allemand _sinn_, comme l'italien _senno_, sens, jugement) a Ã©tÃ©
+victime de ces accidents de l'usage.  Mais sa disparition
+laissait une lacune regrettable, et c'est vers la fin du seiziÃ¨me
+et le commencement du dix-septiÃ¨me siÃ¨cle qu'il a Ã©tÃ© remplacÃ©
+par _sensÃ©_. Quel est le tÃ©mÃ©raire qui le premier tira _sensÃ©_ de
+_sens_, ou, si l'on veut, du latin _sensatus?_ Nous n'en savons
+rien.  Nous le saurions peut-Ãªtre, si quelque Vaugelas s'Ã©tait
+rÃ©criÃ© contre son introduction.  Personne ne se rÃ©cria; le
+purisme du temps ne lui chercha aucune chicane; et aujourd'hui on
+le prend pour un vieux mot, tandis qu'il n'est qu'un vieux
+nÃ©ologisme.
+
+
+_SensualitÃ©_.--Ce ne sont pas seulement de vieux mots qui
+meurent, selon l'adage d'Horace; ce sont aussi de vieilles
+significations.  On en a vu plus d'un exemple dans ce fragment de
+pathologie linguistique.  _SensualitÃ©_ mÃ©rite d'Ãªtre ajoutÃ© Ã 
+ceux que j'ai dÃ©jÃ  rapportÃ©s.  En latin, _sensualitas_ signifie
+sensibilitÃ©, facultÃ© de percevoir.  C'est aussi le sens que
+_sensualitÃ©_ a dans les anciens textes.  Mais, au seiziÃ¨me
+siÃ¨cle, on voit apparaÃ®tre la signification d'attachement aux
+plaisirs des sens.  DÃ¨s lors, l'acception ancienne et vÃ©ritable
+s'oblitÃ¨re; l'autre s'Ã©tablit uniquement, si bien qu'on ne serait
+plus compris si l'on employait _sensualitÃ©_ en sa signification
+propre.  D'oÃ¹ vient cette dÃ©viation?  Elle vient d'une acception
+spÃ©ciale que reÃ§ut le mot _sens_. A cÃ´tÃ© de se signification
+gÃ©nÃ©rale, ce mot, particuliÃ¨rement dans le langage mystique,
+prit, au pluriel, la signification des satisfactions que les sens
+tirent des objets extÃ©rieurs, des plaisirs plus ou moins
+raisonnables et matÃ©riels qu'ils procurent.  C'est grÃ¢ce Ã  cet
+emploi que _sensualitÃ©_, dÃ©pouillant son ancien et lÃ©gitime
+emploi, n'a plus prÃ©sentÃ© Ã  nous autres modernes qu'une idÃ©e
+pÃ©jorative.
+
+
+_Sevrer_.--_Sevrer_ doit Ãªtre mis Ã  cÃ´tÃ© d'_accoucher_ (voy. ce
+mot) pour le genre de pathologie qui consiste Ã  substituer Ã  la
+signification gÃ©nÃ©rale du mot une signification extrÃªmement
+particuliÃ¨re, qui, si l'on ne se rÃ©fÃ¨re aux procÃ©dÃ©s de l'usage,
+semble n'y avoir aucun rapport.  Ainsi, il ne faudrait pas croire
+que _sevrer_ contÃ®nt rien qui indique que la mÃ¨re ou la nourrice
+cesse d'allaiter le nourrisson.  _Sevrer_, dans l'ancienne
+langue, signifie uniquement _sÃ©parer_; il est, en effet, la
+transformation lÃ©gitime du latin _separare_. Quand on voulait
+dire cesser d'allaiter, on disait _sevrer_ de la mamelle,
+_sevrer_ du lait, c'est-Ã -dire sÃ©parer.  L'usage a fini par
+sous-entendre lait ou mamelle, et, dÃ¨s lors, _sevrer_ a pris le
+sens tout spÃ©cial dans lequel nous l'employons.  En revanche, il
+a perdu son sens ancien et Ã©tymologique, oÃ¹ le nÃ©ologisme
+_sÃ©parer_, nÃ©ologisme qui date du quatorziÃ¨me siÃ¨cle, l'a
+remplacÃ©.
+
+
+_Sobriquet_.--Sobriquet appartient de plein droit Ã  la pathologie.
+Il lui revient par la malformation; car tout porte Ã  croire qu'il
+en a Ã©tÃ© affectÃ©, soit par vice de prononciation, soit par
+confusion de l'un de ses Ã©lÃ©ments avec un vocable plus usuel.  Il
+lui revient encore par l'Ã©trange variÃ©tÃ© de significations qui a
+conduit depuis l'acception originelle jusqu'Ã  celle d'aujourd'hui.
+Le sens propre en est: petit coup sous le menton.  Ce sens passe
+mÃ©taphoriquement Ã  celui de propos railleur, et finalement Ã  celui
+de surnom donnÃ© par dÃ©rision ou autrement, qui est le nÃ´tre.  En
+Ã©tudiant de prÃ¨s le mot, je m'aperÃ§us que _soubsbriquet_ (c'est
+l'ancienne orthographe) est exactement synonyme de _sous-barbe_ et
+de _soupape_, qui signifient aussi coup sous le menton.
+_Sous-barbe_ s'entend de soi; quant Ã  _soupape_, il est formÃ© de
+_sous_ et de _pape_, qui veut dire la partie infÃ©rieure du menton;
+il est singulier que la langue ait eu trois mots pour dÃ©signer
+cette espÃ¨ce de coup.  Cela posÃ©, _briquet_ m'apparut comme
+synonyme de _barbe_, de _pape_, et signifiant le dessous du
+menton.  Mais il se refusait absolument Ã  recevoir une telle
+acception.  J'entrai alors dans la voie des conjectures, et il me
+sembla possible que _briquet_ fÃ»t une altÃ©ration de _bequet_:
+_soubsbequet_, coup sous le bec.  J'en Ã©tait lÃ  de mes dÃ©ductions,
+quand l'idÃ©e me vint de chercher dans mon _SupplÃ©ment_, et je vis
+que cette mÃªme conjecture avait Ã©tÃ© Ã©mise de point en point par
+M. Bugge, savant Scandinave qui s'est occupÃ© avec beaucoup
+d'Ã©rudition d'Ã©tymologies romanes.  Il faut en conclure, d'un
+cÃ´tÃ©, que l'opinion de M. Bugge est trÃ¨s probable, et, d'autre
+cÃ´tÃ©, qu'on est exposÃ© par les souvenirs latents Ã  prendre une
+rÃ©miniscence pour une pensÃ©e Ã  soi.  Il y a bien loin de coup sous
+le menton Ã  surnom de dÃ©rision; pourtant, quand on tient le fil,
+on a une explication suffisante de ces soubresauts de l'usage; et
+alors on ne le dÃ©sapprouve pas d'avoir fait ce qu'il a fait.
+_Surnom_ est le terme gÃ©nÃ©ral; _sobriquet_ y introduit une nuance;
+et les nuances sont prÃ©cieuses dans une langue.
+
+
+_SoupÃ§on_.--J'inscris _soupÃ§on_ au compte de la pathologie,
+parce qu'il devrait Ãªtre fÃ©minin comme il l'a Ã©tÃ© longtemps, et
+comme le montre son doublet _suspicion_.  _Suspicion_ est un
+nÃ©ologisme; entendons-nous, un nÃ©ologisme du seiziÃ¨me siÃ¨cle.
+C'est alors qu'on le forma crÃ»ment du latin _suspicionem_.
+AntÃ©rieurement on ne connaissait que la forme organique
+_soupeÃ§on_, oÃ¹ les Ã©lÃ©ments latins avaient reÃ§u l'empreinte
+franÃ§aise.  _SoupeÃ§on_ est fÃ©minin, comme cela devait Ãªtre, dans
+tout le cours de la langue jusqu'au seiziÃ¨me siÃ¨cle
+inclusivement.  Puis tout Ã  coup il devient masculin contre
+l'analogie.  Nous connaissons deux cas oÃ¹ l'ancienne langue
+avait attribuÃ© le masculin Ã  ces noms fÃ©minins en _on_: _la
+prison_, mais Ã  cÃ´tÃ© _le prison_, qui signifiait prisonnier et
+que nous avons perdu; _la nourrisson_, que nous n'avons plus et
+que nous avons remplacÃ© par le scientifique _nutrition_, et _le
+nourrisson_, que nous avons gardÃ©.  Il y en avait peut-Ãªtre
+d'autres.  Si elle avait employÃ© ce procÃ©dÃ© Ã  l'Ã©gard de
+_soupeÃ§on_, _la soupeÃ§on_ eÃ»t Ã©tÃ© _la suspicion_, et _le
+soupeÃ§on_ eÃ»t Ã©tÃ© l'homme soupÃ§onnÃ©.  Notre _soupÃ§on_ masculin
+est un solÃ©cisme gratuit.  En regard de _soupÃ§on_, _suspicion_
+est assez peu nÃ©cessaire.  Les deux significations se confondent
+par leur origine, et l'usage n'y a pas introduit une grande
+nuance.  La diffÃ©rence principale est que _suspicion_ n'est pas
+susceptible des diverses acceptions mÃ©taphoriques que _soupÃ§on_
+reÃ§oit.
+
+
+_Suffisant_.--_Suffisant_ a ceci de pathologique qu'il a pris
+nÃ©ologiquement un sens pÃ©joratif que rien ne lui annonÃ§ait; car
+ce qui suffit est toujours bon.  Bien plus, ce sens pÃ©joratif est
+en contradiction avec l'acception propre du mot; car tout dÃ©faut
+est une insuffisance, comme _dÃ©faut_ l'indique par lui-mÃªme.  On
+voit que _suffisant_ a Ã©tÃ© victime d'une rude entorse.  Elle
+s'explique cependant, et, s'expliquant, se justifie jusqu'Ã  un
+certain point.  Il existe un intermÃ©diaire aujourd'hui oubliÃ©;
+dans le seiziÃ¨me siÃ¨cle, notre mot s'appliqua aux personnes et
+s'employa pour capable de; cela ne suscita point d'objection: un
+homme capable d'une chose est suffisant Ã  cette chose.  La
+construction de _suffisant_ avec un nom de personne ne plut pas
+au dix-septiÃ¨me siÃ¨cle; du moins il ne s'en sert pas.  En
+revanche et comme pour y marquer son dÃ©plaisir, il lui endossa un
+sens de dÃ©nigrement relatif Ã  un dÃ©faut de caractÃ¨re, le dÃ©faut
+qui fait que l'on se croit fort capable et qu'on le tÃ©moigne par
+son air; si bien que le _suffisant_ ne _suffit_ qu'en apparence.
+
+
+_Tancer_.--_Tancer_ relÃ¨ve, Ã  un double titre, de la pathologie:
+d'abord il a, dÃ¨s l'origine, deux significations opposÃ©es, ce qui
+semble contradictoire; puis il a subi une dÃ©gradation et, du
+meilleur style oÃ¹ il figurait, il a passÃ© au rang de terme
+familier.  Les deux sens opposÃ©s, tous deux usitÃ©s concurremment,
+sont ceux de dÃ©fendre et attaquer, de protÃ©ger et malmener.  On
+explique cela, parce que le latin fictif _tentiare_, dont vient
+_tancer_, contient le radical _tentus_, de _tenere_, lequel peut
+se prÃªter Ã  la double signification.  Mais il n'en est pas moins
+Ã©trange que les Romans, qui crÃ©Ã¨rent ce vocable, aient assez
+hÃ©sitÃ© sur le sens Ã  lui attribuer pour aller les uns vers la
+protection et les autres vers l'attaque.  C'est un phÃ©nomÃ¨ne
+mental peu sain qu'il n'est pas inutile de signaler.  Durant le
+douziÃ¨me siÃ¨cle et le treiziÃ¨me, les deux acceptions vÃ©curent
+cÃ´te Ã  cÃ´te.  Mais on se lassa de l'Ã©quivoque qui Ã©tait ainsi
+entretenue.  Le sens de protÃ©ger tomba en dÃ©suÃ©tude; celui
+d'attaquer, malmener, prit le dessus.  Enfin, par une derniÃ¨re
+mutation, la langue moderne en fit un synonyme de gronder,
+malmener en paroles.
+
+
+_Tante_.--_Tante_, avec sont _t_ mis en tÃªte du mot, est un cas
+de monstruositÃ© linguistique.  La forme ancienne est _ante_, dont
+la lÃ©gitimitÃ© ne peut Ãªtre sujette Ã  aucun doute; car _ante_
+reprÃ©sente exactement le latin _amita_, avec l'accent sur _a_.
+Mais tandis que la pathologie dans les mots ne les atteint que
+postÃ©rieurement et aprÃ¨s une existence plus ou moins longue, ici
+l'altÃ©ration remonte fort haut.  On n'a que des conjectures
+(qu'on peut voir dans mon dictionnaire) sur l'introduction de ce
+_t_ parasite, qui dÃ©forme le mot.  Ce fut un malin destin qui
+donna le triomphe au dÃ©formÃ© sur le bien conformÃ©; car c'est
+toujours un mal quand les Ã©tymologies se troublent et que des
+excroissances dÃ©figurent les linÃ©aments rÃ©guliers d'un mot bien
+dÃ©rivÃ©.
+
+
+_Tapinois_.--Un mot est lÃ©sÃ© et montre des signes de pathologie,
+quand il perd son office gÃ©nÃ©ral, et que, mutilÃ© dans son
+expansion, il ne peut plus sortir du confinement oÃ¹ le mal l'a
+jetÃ©.  Au seiziÃ¨me et au dix-septiÃ¨me siÃ¨cle _tapinois_ Ã©tait un
+adjectif ou un substantif qui s'employaient dans le langage
+courant: une fine _tapinoise_, un larcin _tapinois_. La langue
+moderne a rejetÃ© l'adjectif ou le substantif, et n'a gardÃ© qu'une
+locution adverbiale, de laquelle il n'est plus possible de faire
+sortir _tapinois_: en tapinois.  C'est certainement un dommage;
+il n'est pas bon pour la flexibilitÃ© et la nettetÃ© du langage
+d'immobiliser ainsi des termes qui mÃ©ritaient de demeurer dans le
+langage commun.  Gaspiller ce qu'on a ne vaut pas mieux dans
+l'Ã©conomie des langues que dans celle des mÃ©nages.
+
+
+_Targuer_.--_Targuer_ est entachÃ© d'une faute contre la
+dÃ©rivation; il devrait Ãªtre _targer_ et non _targuer_; car il
+provient de _targe_; peut-Ãªtre les formes de la langue d'oc
+_targa_, _targar_, ont-elles dÃ©terminÃ© cette altÃ©ration.  De plus,
+il a subi un rÃ©trÃ©cissement pathologique, quand de verbe Ã 
+conjugaison libre il est devenu un verbe uniquement rÃ©flÃ©chi; les
+anciens textes usent de l'actif _targer_ ou _targuer_ au sens de
+couvrir, protÃ©ger.  Jusqu'Ã  la fin du seiziÃ¨me siÃ¨cle _se targer_
+(_se targuer_) conserve la signification propre de se couvrir
+d'une targe, et, figurÃ©ment, de se dÃ©fendre, se protÃ©ger.  Mais,
+au dix-septiÃ¨me siÃ¨cle, la signification se hausse d'un cran dans
+la voie de la mÃ©taphore, et _se targuer_ n'a plus que l'acception
+de se prÃ©valoir, tirer avantage.  Il est dommage que ce verbe,
+tout en prenant sa nouvelle signification, n'ait pas conservÃ© la
+propre et primitive.  Les langues, en agissant comme a fait ici
+la franÃ§aise, s'appauvrissent de gaietÃ© de coeur.
+
+
+_Teint_.--Le _teint_ et la _teinte_ sont deux substantifs, l'un
+masculin, l'autre fÃ©minin, qui reprÃ©sentent le participe passÃ© du
+verbe _teindre_. Mais, tandis que la _teinte_ s'applique Ã  toutes
+les couleurs que la teinture peut donner, le _teint_ subit un
+rÃ©trÃ©cissement d'acception et dÃ©signe uniquement le coloris du
+visage; et mÃªme, en un certain emploi absolu, le _teint_ est la
+teinte rosÃ©e de la peau de la face.  Le _teint_ est ou plutÃ´t a
+Ã©tÃ© un mot nouveau, car il paraÃ®t Ãªtre un nÃ©ologisme crÃ©Ã© par le
+seiziÃ¨me siÃ¨cle.  Du moins on ne le trouve pas dans les textes
+antÃ©rieurs Ã  cette Ã©poque.  Toutefois il faut dire que la
+transformation du participe _teint_, au sens spÃ©cial d'une
+certaine maniÃ¨re d'Ãªtre du visage quant Ã  la couleur, a Ã©tÃ© aidÃ©e
+par l'emploi qu'en faisaient les anciens Ã©crivains en parlant des
+variations de couleur que la face pouvait prÃ©senter.  Ainsi,
+quand on lit dans _Thomas martyr_, v. 330:
+
+     De maltalent e d'ire e _tainz_ e tressuÃ©s,
+
+et dans le _Romancero_, p. 16:
+
+     Fille, com ceste amour vous a pÃ¢lie et _tainte_,
+
+on est bien prÃ¨s de l'acception du seiziÃ¨me siÃ¨cle et de la
+nÃ´tre.
+
+
+_TempÃ©rer_, _tremper_.--C'est un accident qu'un mÃªme verbe latin
+_temperare_ produise deux verbes franÃ§ais, _tremper_ et
+_tempÃ©rer_; et cet accident est dÃ» Ã  ce que, l'ancienne langue
+ayant formÃ© rÃ©guliÃ¨rement de _temperare_ (avec l'_e_ bref)
+_temprer_ et, par mÃ©tathÃ¨se de l'_r_, _tremper_, la langue plus
+moderne tira crÃ»ment _tempÃ©rer_ du mot latin.  Cela fit deux
+vocables, l'un organique, l'autre inorganique, au point de vue de
+la formation; mais, la faute une fois admise par l'usage,
+_tempÃ©rer_ prit une place que _tremper_ ne lui avait aucunement
+Ã´tÃ©e; car l'ancienne langue avait spÃ©cialisÃ© singuliÃ¨rement le
+sens du verbe latin; dans mÃ©langer, allier, combiner qu'il
+signifie, elle n'avait considÃ©rÃ© que le mÃ©lange avec l'eau, que
+l'idÃ©e de mouiller.
+
+
+_TrÃ©pas_, _trÃ©passer_.--Quand un mot, perdant sa signification
+propre et gÃ©nÃ©rale, passe Ã  une signification toute restreinte,
+d'oÃ¹ il n'est plus possible de le dÃ©placer, c'est qu'il a reÃ§u
+une atteinte de pathologie.  _TrÃ©pas_ et _trÃ©passer_,
+conformÃ©ment Ã  leur composition (_tres_, reprÃ©sentant le latin
+_trans_, et _passer_), ne signifiaient dans l'ancienne langue
+que passage au delÃ , passer au delÃ .  Par une mÃ©taphore trÃ¨s
+facile et trÃ¨s bonne, on disait couramment _trespasser_ de vie Ã 
+mort, _trespasser_ de ce siÃ¨cle.  C'Ã©tait de cette faÃ§on qu'on
+exprimait la fin de notre existence.  Une fois cette locution
+bien Ã©tablie dans l'usage, il fut possible de supprimer ce qui
+caractÃ©risait ce mode de passage, et _trÃ©pas_ et _trÃ©passer_
+furent employÃ©s absolument, sans faire naÃ®tre aucune ambiguÃ¯tÃ©.
+La transition se voit dans des exemples comme celui-ci, empruntÃ©
+Ã  Jean de Meung:
+
+     Non morurent, ains _trespasserent_;
+     Car de ceste vie passÃ¨rent
+     A celle oÃ¹ l'en [l'on] ne puet mourir.
+
+Ici _trespasserent_ joue sur le sens de passer au delÃ  et de
+_mourir_.  Jusque-lÃ  rien Ã  objecter, et de telles ellipses sont
+conformes aux habitudes des langues.  Mais ce qui doit Ãªtre
+blÃ¢mÃ©, c'est qu'en mÃªme temps qu'on donnait Ã  _trespasser_ le
+sens absolu de mourir, on ne lui ait pas conservÃ© le sens
+originel de passer au delÃ .  Il faudrait que nÃ©ologisme
+n'impliquÃ¢t pas destruction.  On remarquera que, tandis que
+_trÃ©pas_ est du style Ã©levÃ©, _trÃ©passer_ a subi la dÃ©gradation
+qui affecte souvent les mots archaÃ¯ques; il n'est pas du haut
+style et n'a plus que peu d'emploi.
+
+
+_Tromper_.--Plus d'un accident a frappÃ© ce mot.  D'abord il est
+neutre d'origine, et ce n'est qu'en le dÃ©naturant qu'on en a
+fait un verbe actif.  Puis, il est aussi Ã©loignÃ© qu'il est
+possible de la signification que l'usage moderne lui a infligÃ©e.
+La trÃ¨s ancienne langue ne connaissait en cette acception que
+_decevoir_, du latin _decipere_, qui avait aussi donnÃ©
+l'infinitif _deÃ§oivre_, par la rÃ¨gle des accents.  C'est
+seulement au quatorziÃ¨me siÃ¨cle que _tromper_ prit le sens qu'il
+a aujourd'hui.  La formation de cet ancien nÃ©ologisme est
+curieuse.  _Tromper_ ne signifiait originairement que jouer de
+la trompe ou trompette.  Par la facultÃ© qu'on avait de rendre
+rÃ©flÃ©chis les verbes neutres, on a dit, dans ce mÃªme sens de
+jouer de la trompe, _se tromper_, comme _se dormir_, _s'Ã©crier_,
+etc., dont les uns ne sont plus usitÃ©s et dont les autres sont
+restÃ©s dans l'usage.  DÃ¨s lors il a Ã©tÃ© facile de passer Ã  une
+mÃ©taphore oÃ¹ _se tromper_ de quelqu'un signifie se jouer de lui.
+C'est ce qui fut fait, et les plus anciens exemples n'ont que
+cette forme.  Une fois ce sens bien Ã©tabli, et les verbes
+rÃ©flÃ©chis neutres tendant Ã  disparaÃ®tre, _se tromper_ devint
+_tromper_, pris d'abord neutralement, puis activement.  Qui
+aurait imaginÃ©, avant l'exemple mis sous les yeux du lecteur,
+que la _trompette_ entrerait dans la composition du vocable
+destinÃ© Ã  se substituer Ã  _dÃ©cevoir_ dans le parler courant?
+
+
+_Valet_.--Ce mot avec sa signification actuelle est tombÃ© de
+haut; et sa dÃ©gradation est un cas de ma pathologie.  De plus,
+il est affectÃ© d'une irrÃ©gularitÃ© de prononciation; il devrait
+se prononcer _vÃ¢let_, vu l'Ã©tymologie; prononciation qui
+subsiste, en effet, dans quelques localitÃ©s.  Ãcrit jadis
+_vaslet_ ou _varlet_, il signifiait uniquement jeune garÃ§on; en
+raison de son origine (il est un diminutif de _vassal_), il
+prenait parfois le sens de jeune guerrier.  Dans tout le moyen
+Ã¢ge il garde sa signification relevÃ©e, et un _valet_ peut trÃ¨s
+bien Ãªtre fils de roi.  Mais Ã  cÃ´tÃ© ne tarde pas Ã  se montrer
+une acception Ã  laquelle le sens de jeune garÃ§on se prÃªtait
+facilement, celle de serviteur, d'homme attachÃ© au service.  DÃ¨s
+le douziÃ¨me siÃ¨cle on en a des exemples.  Dans la langue
+moderne, l'usage, Ã  tort, s'est montrÃ© exclusif; l'ancienne
+signification s'est perdue, sauf dans quelques patois fidÃ¨les Ã 
+la vieille tradition; et l'on ne serait plus compris, si l'on
+donnait Ã  _valet_ le sens de jeune garÃ§on.  Toutefois, sous la
+forme de _varlet_, le mot a continuÃ© de garder une signification
+d'honneur; mais il ne s'applique plus qu'aux personnages du
+moyen Ã¢ge.  L'_r_ dans _varlet_ est, comme dans _hurler_ (de
+_ululare_), un accident inorganique, mais il n'est pas mal de
+faire servir des accidents Ã  des distinctions qui ne sont ni
+sans grÃ¢ce ni sans utilitÃ©.
+
+
+_Viande_.--La _viande_ est pour nous la chair des animaux qu'on
+mange; mais, en termes de chasseur, _viander_ se dit d'un cerf
+qui va pÃ¢turer; certes, le cerf pacifique ne va pas chercher une
+proie sanglante.  Donc, dans _viande_, l'accident pathologique
+porte sur la violence faite Ã  la signification naturelle et
+primitive.  Dans la premiÃ¨re moitiÃ© du dix-septiÃ¨me siÃ¨cle, ce
+mot avait encore la plÃ©nitude de son acception, et signifiait
+tout ce qui sert comme aliment Ã  entretenir la vie.  En effet, il
+vient du latin _vivendus_, et ne peut, d'origine, avoir un sens
+restreint.  Voyez ici combien, en certains cas, la destruction
+marche vite.  En moins de cent cinquante ans, _viande_ a perdu
+tout ce qui lui Ã©tait propre.  On ne serait plus compris Ã  dire
+comme Malherbe, que la terre produit une diversitÃ© de viandes qui
+se succÃ¨dent selon les saisons, ou, comme Mme de SÃ©vignÃ©, en
+appellant _viandes_ une salade de concombres et des cerneaux.
+Pour l'usage moderne, _viande_ n'est plus que la chair des
+animaux de boucherie, ou de basse-cour, ou de chasse, que l'on
+sert sur les tables.  Nous n'aurions certes pas l'approbation de
+nos aÃ¯eux, s'ils voyaient ce qu'on a fait de mots excellents,
+pleins d'acceptions Ã©tendues et fidÃ¨les Ã  l'idÃ©e fondamentale.
+Vraiment, les barbares ne sont pas toujours ceux qu'on pense.
+
+
+_Vilain_.--La pathologie ici est une dÃ©gradation.  Il y a dans la
+latinitÃ© un joli mot: c'est _villa_, qui a donnÃ© _ville_, mais
+qui signifie proprennent maison de campagne.  De _villa_, le bas
+latin forma _villanus_, habitant d'une _villa_ ou exploitation
+rurale.  Ainsi introduit, _vilain_ prit naturellement le sens
+d'homme des champs; et, comme l'homme des champs Ã©tait serf dans
+la pÃ©riode fÃ©odale, _vilain_ s'opposa Ã  gentilhomme et fut un
+synonyme de roturier.  Mais, une fois engagÃ© dans la voie des
+acceptions dÃ©favorables, _vilain_ ne s'arrÃªta pas Ã  ce premier
+degrÃ©, et il fut employÃ© comme Ã©quivalent de dÃ©shonnÃªte, de
+fÃ¢cheux, de sale, de mÃ©chant; c'Ã©tait une extension du sens de
+non noble.  Puis il se spÃ©cialisa davantage, et de dÃ©shonnÃªte en
+gÃ©nÃ©ral devint un avare, un ladre en particulier.  Enfin, des
+emplois moraux qu'il avait eus jusque-lÃ , il passa Ã  un emploi
+physique, celui de laid, de dÃ©plaisant Ã  la vue.  C'est
+ordinairement le contraire qui arrive: un sens concret devient
+abstrait, mais rien en cela n'est obligatoire pour les langues;
+et elles savent fort bien que ces inversions ne dÃ©passent pas
+leur puissance.
+
+
+_Voler_.--Le mal qui afflige _voler_ est celui de la confusion
+des vocables et de l'homonymie malencontreuse.  Ce mot, au sens
+de dÃ©rober furtivement, est rÃ©cent dans la langue; je n'en
+connais d'exemple que de la fin du seiziÃ¨me siÃ¨cle.  Auparavant,
+on disait _embler_, issu du latin _involare_, qui a le mÃªme
+sens.  Par malheur, _voler_, l'intrus, a chassÃ© complÃ¨tement
+l'ancien maÃ®tre de la maison.  _Embler_, qui a Ã©tÃ© en usage
+durant le seiziÃ¨me siÃ¨cle et dont Saint-Simon (il est vrai qu'il
+ne craint pas les archaÃ¯smes) se sert encore, a aujourd'hui tout
+Ã  fait disparu de l'usage.  Ce qui a fait la fortune de _voler_,
+c'est son identitÃ© avec un mot trÃ¨s courant, _voler_, se
+soutenir par des ailes.  Une fois que, grÃ¢ce Ã  quelque connexion
+assez saugrenue, l'usage eut rattachÃ© l'action du faucon dressÃ©
+qui _vole_ (c'est le mot technique) une perdrix et l'action du
+coquin qui s'empare de ce qui ne lui appartient pas, _voler_,
+c'est-Ã -dire dÃ©rober, Ã©tant protÃ©gÃ© par _voler_, c'est-Ã -dire se
+mouvoir en lair, n'eut plus aucun effort Ã  faire pour occuper le
+terrain d'_embler_.  Mais admirez la sottise de l'usage, qui
+dÃ©laisse un terme excellent pour confondre le plus
+maladroitement ce qui Ã©tait le plus justement distinct.  _Voler_
+avec son sens nouveau est un gros pÃ©chÃ© contre la clartÃ© et
+l'Ã©lÃ©gance.  C'est le seiziÃ¨me siÃ¨cle qui est coupable de ce
+fÃ¢cheux nÃ©ologisme.
+
+L'ordre alphabÃ©tique est nÃ©cessairement aveugle.  Pourtant il a,
+ici, semblÃ© voir clair; car il fait que je termine cette
+esquisse par l'un des plus frappants exemples de la distorsion
+que de vicieuses habitudes peuvent infliger Ã  un mot sain
+jusque-lÃ .  Jamais, dans l'espÃ¨ce humaine, Ã©pine dorsale n'a Ã©tÃ©
+plus maltraitÃ©e par la pathologie.
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 4935 ***

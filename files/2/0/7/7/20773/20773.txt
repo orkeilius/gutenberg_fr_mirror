@@ -1,3 +1,3964 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:547b4974684a14ebc2d24089a9c1e6a7be34e83adc20a133e83190d87e9ca837
-size 186957
+The Project Gutenberg EBook of Le marchand de Venise, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Le marchand de Venise
+
+Author: William Shakespeare
+
+Translator: Fran�ois Pierre Guillaume Guizot
+
+Release Date: March 9, 2007 [EBook #20773]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LE MARCHAND DE VENISE ***
+
+
+
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr). This file is gratefully uploaded
+to the PG collection in honor of Distributed Proofreaders
+having posted over 10,000 ebooks.
+
+
+
+
+
+
+
+
+  Note du transcripteur.
+
+    ===========================================================
+    Ce document est tir� de:
+
+
+    OEUVRES COMPL�TES DE
+    SHAKSPEARE
+
+    TRADUCTION DE
+    M. GUIZOT
+
+    NOUVELLE �DITION ENTI�REMENT REVUE
+    AVEC UNE �TUDE SUR SHAKSPEARE
+    DES NOTICES SUR CHAQUE PI�CE ET DES NOTES
+
+    Volume 6
+    Le marchand de Venise, Les joyeuses Bourgeoises de
+    Windsor, Le roi Jean, La vie et la mort du roi Richard II,
+    Henri IV (1re partie).
+
+    PARIS
+    A LA LIBRAIRIE ACAD�MIQUE
+    DIDIER ET Cie, LIBRAIRES-�DITEURS
+    35, QUAI DES AUGUSTINS
+    1863
+
+
+    ==========================================================
+
+
+                                   LE
+
+                           MARCHAND DE VENISE
+
+
+
+                                 NOTICE
+                       SUR LE MARCHAND DE VENISE
+
+Le fond de l'aventure qui fait le sujet du _Marchand de Venise_ se
+retrouve dans les chroniques ou dans la litt�rature de tous les pays,
+tant�t en entier, tant�t d�pouill� de l'�pisode tr�s-piquant qu'y
+ajoutent les amours de Bassanio et de Portia. Un jugement pareil � celui
+de Portia a �t� attribu� � Sixte V qui, plus s�v�re, condamna, dit-on, �
+l'amende les deux contractants, pour les punir de l'immoralit� d'un
+pareil march�. En cette occasion il s'agissait d'un pari, et le juif
+�tait le perdant. Un recueil de nouvelles fran�aises, intitul�
+_Roger-Bontemps en belle humeur_, raconte la m�me aventure, mais �
+l'avantage du chr�tien, et c'est le sultan Saladin qui est le juge. Dans
+un manuscrit persan qui rapporte le m�me fait, il s'agit d'un pauvre
+musulman de Syrie avec qui un riche juif fait ce march� pour avoir les
+moyens de le perdre et parvenir ainsi � poss�der sa femme dont il est
+amoureux; le cas est d�cid� par un cadi d'�m�se. Mais l'aventure tout
+enti�re se trouve consign�e, avec quelques diff�rences, dans un
+tr�s-ancien ouvrage �crit en latin et intitul�: _Gesta Romanorum_, et
+dans le _Pecorone_ de _ser Giovanni_, recueil de nouvelles compos� avant
+la fin du quatorzi�me si�cle et par cons�quent tr�s-ant�rieur � Sixte V,
+ce qui rend tout � fait improbable l'anecdote rapport�e sur ce pape par
+Gr�goire L�ti.
+
+Dans la nouvelle de ser Giovanni, la dame de Belmont n'est point une
+jeune fille forc�e de soumettre son choix aux conditions prescrites par
+le singulier testament de son p�re, mais une jeune veuve qui, de sa
+propre volont�, impose une condition beaucoup plus singuli�re � ceux que
+le hasard ou le choix fait aborder dans son port. Oblig�s de partager
+le lit de la dame, s'ils savent profiter des avantages que leur offre
+une pareille situation, ils obtiendront avec la possession de la veuve
+sa main et tous ses biens. Dans le cas contraire, ils perdent leur
+vaisseau et son chargement, et repartent sur-le-champ avec un cheval et
+une somme d'argent qu'on leur fournit pour retourner chez eux. Peu
+effray�s d'une pareille �preuve, beaucoup ont tent� l'aventure, tous ont
+succomb�; car, � peine dans le lit, ils s'endorment d'un profond
+sommeil, d'o� ils ne se r�veillent que pour apprendre le lendemain que
+la dame plus matinale a d�j� fait d�charger le navire, et pr�parer la
+monture qui doit reconduire chez lui le malencontreux pr�tendant. Aucun
+n'a �t� tent� de renouveler une entreprise si ch�re, et dont le mauvais
+succ�s a d�courag� les plus vifs aspirants. Le seul Gianetto (c'est dans
+la nouvelle le nom du jeune V�nitien) s'est obstin�, et apr�s deux
+premi�res d�convenues, il veut risquer une troisi�me aventure: son
+parrain Ansaldo, sans s'inqui�ter de la perte des deux premiers
+vaisseaux dont il ignore la cause, lui en �quipe un troisi�me, avec
+lequel Gianetto lui promet de r�parer leurs malheurs. Mais �puis� par
+les pr�c�dentes entreprises, il est oblig� pour celle-l� d'emprunter �
+un juif la somme de dix mille ducats, aux m�mes conditions que celles
+qu'impose Shylock � Antonio. Gianetto arrive, et, averti par une
+suivante de ne pas boire le vin qu'on lui pr�sentera avant de se mettre
+au lit, il surprend � son tour la dame qui, fort troubl�e d'abord de le
+trouver �veill�, se r�signe cependant � son sort, et s'estime heureuse
+de le nommer le lendemain son �poux. Gianetto, enivr� de son bonheur,
+oublie le pauvre Ansaldo jusqu'au jour fatal de l'�ch�ance du billet. Un
+hasard le lui rappelle alors; il part en diligence pour Venise, et le
+reste de l'histoire se passe comme l'a repr�sent� Shakspeare.
+
+On con�oit ais�ment la raison et la n�cessit� des divers changements
+qu'il a fait subir � cette aventure; elle n'�tait cependant pas
+tellement impossible � repr�senter de son temps sur le th��tre qu'on ne
+puisse croire qu'il a �t� induit � ces changements par le besoin de
+donner plus de moralit� � ses personnages et plus d'int�r�t � son
+action. Aussi la situation du g�n�reux Antonio, la peinture de son
+caract�re si d�vou�, courageux et m�lancolique � la fois, ne sont-elles
+pas l'unique source du charme qui r�gne si puissamment dans tout
+l'ouvrage. Les lacunes que laisse cette situation sont du moins si
+heureusement remplies qu'on ne s'aper�oit d'aucun vide, tant l'�me est
+doucement occup�e des sentiments qui en naissent naturellement. Il
+semble que Shakspeare ait voulu peindre ici, sous leurs diff�rents
+points de vue, les premiers beaux jours d'un heureux mariage. Le
+discours de Portia � Bassanio, au moment o� le sort vient de d�cider en
+sa faveur, et o� elle se regarde d�j� comme son heureuse �pouse, est
+rempli d'un abandon si pur, d'une soumission conjugale si touchante et
+si noble � la fois, que son caract�re en acquiert un charme
+inexprimable, et que Bassanio, prenant d�s cet instant la situation
+sup�rieure qui lui convient, n'a plus � craindre d'�tre rabaiss� par
+l'esprit et le courage de sa femme, quelque d�cid� que soit le parti
+qu'elle va prendre l'instant d'apr�s; on sait maintenant que, le moment
+de la n�cessit� pass�, tout rentrera dans l'ordre, et que les grandes
+qualit�s qu'elle saura soumettre � son devoir de femme ne feront
+qu'ajouter au bonheur de son mari.
+
+Dans une classe subordonn�e, Lorenzo et Jessica nous donnent le
+spectacle de ce tendre badinage de deux jeunes �poux si remplis de leur
+bonheur qu'ils le r�pandent sur les choses les plus �trang�res �
+eux-m�mes et jouissent des pens�es et des actions les plus
+indiff�rentes, comme d'autant de portions d'une existence que le bonheur
+envahit tout enti�re. Cet entretien de Lorenzo et de Jessica, ce jardin,
+ce clair de lune, cette musique qui pr�pare le retour de Portia, de
+Bassanio, et l'arriv�e d'Antonio, disposent l'�me � toutes les douces
+impressions que fera na�tre l'image d'une f�licit� compl�te, dans la
+r�union de Portia et de Bassanio au milieu de tous les amis qui vont
+jouir de leurs soins et de leurs bienfaits. Shakspeare est presque le
+seul po�te dramatique qui n'ait pas craint de s'arr�ter sur le tableau
+du bonheur; il sentait qu'il avait de quoi le remplir.
+
+L'invention des trois coffres, dont l'original se trouve aussi en
+plusieurs endroits, existe, � peu pr�s telle que l'a employ�e
+Shakspeare, dans une autre aventure des _Gesta Romanorum_, si ce n'est
+que la personne soumise � l'�preuve est la fille d'un roi de la Pouille
+qui, par la sagesse de son choix, est jug�e digne d'�pouser le fils de
+l'empereur de Rome. On voit par l� que ces _Gesta Romanorum_ ne
+remontent pas pr�cis�ment aux temps antiques.
+
+Le caract�re du juif Shylock est justement c�l�bre en Angleterre.
+
+Cette pi�ce a �t� repr�sent�e avant 1598. C'est ce qu'on sait de plus
+certain sur sa date. Plusieurs pi�ces sur le m�me sujet avaient d�j� �t�
+mises au th��tre; il avait �t� aussi le fond de plusieurs ballades.
+
+En 1701, M. Grandville, depuis lord Lansdowne, remit au th��tre _le
+Marchand de Venise_, avec des changements consid�rables, sous le titre
+du _Juif de Venise_. On l'a jou� longtemps sous cette nouvelle forme.
+
+
+
+                                  LE
+                          MARCHAND DE VENISE
+
+
+
+PERSONNAGES
+
+LE DUC DE VENISE,   } amoureux de
+LE PRINCE DE MAROC, } Portia.
+LE PRINCE D'ARAGON, }
+ANTONIO, marchand de Venise.
+BASSANIO, son ami.
+SALANIO, } amis d'Antonio et de
+GRATIANO,} Bassanio.
+SALARINO,}
+LORENZO, amant de Jessica.
+SHYLOCK, juif.
+TUBAL, autre juif, ami de Shylock.
+LANCELOT GOBBO, jeune lourdaud, domestique de Shylock.
+LE VIEUX GOBBO, p�re de Lancelot.
+L�ONARDO, domestique de Bassanio.
+BALTHASAR, domestiques de Portia.
+STEPHANO,      "      "    "
+UN VALET.
+PORTIA, riche h�riti�re.
+N�RISSA, suivante de Portia.
+JESSICA, fille de Shylock.
+
+
+
+S�nateurs de Venise, officiers de la cour de justice, un ge�lier,
+valets et autres personne de suite.
+
+La sc�ne est tant�t � Venise, tant�t � Belmont, ch�teau de Portia.
+
+
+
+
+                             ACTE PREMIER
+
+
+SC�NE I
+
+Dans une rue de Venise.
+
+_Entrent_ ANTONIO, SALARINO et SALANIO.
+
+
+Antonio.--De bonne foi, je ne sais pourquoi je suis triste. J'en suis
+fatigu�: vous dites que vous en �tes fatigu�s aussi; mais comment j'ai
+pris ce chagrin, o� je l'ai trouv�, rencontr�, de quoi il est fait, d'o�
+il est sorti, je suis encore � l'apprendre.--La tristesse me rend si
+stupide que j'ai peine � me reconna�tre moi-m�me.
+
+SALANIO.--Votre �me est agit�e sur l'Oc�an; l� o�, sous leurs voiles
+majestueuses, vos larges vaisseaux, seigneurs et riches bourgeois des
+flots, dominent sur le peuple des petits navires marchands qui les
+saluent, inclinant, lorsqu'ils passent pr�s d'eux, le tissu de leurs
+ailes.
+
+SALARINO.--Croyez-moi, monsieur, si j'avais une pareille mise dehors, la
+plus grande partie de mes affections serait en voyage � la suite de mes
+esp�rances. Je serais toujours � arracher des brins d'herbe pour savoir
+de quel c�t� souffle le vent; � chercher sur les cartes les ports, les
+m�les et les routes; et chaque objet qui pourrait me faire craindre un
+malheur pour ma cargaison ne manquerait certainement pas de me rendre
+triste.
+
+SALANIO.--En soufflant sur mon bouillon pour le refroidir, mon haleine
+me donnerait un frisson, je songerais � tout le mal qu'un trop grand
+vent pourrait causer sur la mer. Je ne pourrais voir un sablier
+s'�couler que je ne songeasse aux bancs de sable, aux bas-fonds, o� je
+verrais mon riche _Andr�_[1] engrav�, abaissant son grand m�t plus bas
+que ses flancs pour baiser son tombeau. Pourrais-je aller � l'�glise et
+voir les pierres de l'�difice sacr�, sans me rappeler aussit�t les
+rochers dangereux qui, en effleurant seulement les c�t�s de mon cher
+vaisseau, disperseraient toutes mes �pices sur les flots, et
+habilleraient de mes soies les vagues en fureur; en un mot, sans penser
+que riche de tout cela en cet instant, je puis l'instant d'apr�s n'avoir
+plus rien? Puis-je songer � tous ces hasards et ne pas songer en m�me
+temps qu'un pareil malheur, s'il m'arrivait, me rendrait triste?--Tenez,
+ne m'en dites pas davantage: je suis s�r qu'Antonio est triste, parce
+qu'il songe � ses marchandises.
+
+[Note 1: C'�tait apparemment le nom d'un des plus gros vaisseaux
+d'Antonio.]
+
+ANTONIO.--Non, croyez-moi. J'en rends gr�ces au sort; toutes mes
+esp�rances ne sont pas aventur�es sur une seule chance, ni r�unies en un
+m�me lieu; et ma fortune enti�re ne d�pend pas des �v�nements de cette
+ann�e. Ce ne sont donc pas mes marchandises qui m'attristent.
+
+SALARINO.--Il faut alors que vous soyez amoureux.
+
+ANTONIO.--Fi donc!
+
+SALARINO.--Vous n'�tes pas amoureux non plus? En ce cas, souffrez qu'on
+vous dise que vous �tes triste, parce que vous n'�tes pas gai; et il
+vous serait tout aussi ais� de rire, de danser, et de dire que vous �tes
+gai, parce que vous n'�tes pas triste. Par Janus au double visage, la
+nature forme quelquefois d'�tranges personnages; les uns ne laissant
+jamais qu'entrevoir leurs yeux � travers leurs paupi�res � demi ferm�es
+et riant comme des perroquets, � la vue d'un joueur de cornemuse; et
+d'autres, d'une mine si renfrogn�e, qu'ils ne montreraient pas seulement
+leurs dents en fa�on de sourire, quand Nestor en personne jurerait que
+la plaisanterie est de nature � faire rire.
+
+(Entrent Bassanio, Lorenzo, Gratiano.)
+
+SALANIO--Voici Bassanio, votre noble alli�, avec Gratiano et Lorenzo.
+Adieu, nous vous laissons en meilleure compagnie.
+
+SALARINO.--Je serais volontiers rest� jusqu'� ce que je vous eusse rendu
+joyeux, si de plus dignes ne m'avaient pr�venu.
+
+ANTONIO.--Vous avez une grande place dans mon affection; mais je suppose
+que vos affaires vous appellent, et que vous saisissez l'occasion de
+nous quitter.
+
+SALARINO.--Bonjour, mes bons seigneurs.
+
+BASSANIO.--Dites-moi tous deux, mes bons seigneurs, quand rirons-nous?
+R�pondez: quand? Vous devenez excessivement rares. Cela durera-t-il?
+
+SALARINO.--Nous nous ferons un plaisir de prendre votre temps.
+
+(Salanio et Salarino sortent.)
+
+LORENZO.--Seigneur Bassanio, puisque vous voil� avec Antonio, nous
+allons vous laisser ensemble. Mais � l'heure du d�ner, souvenez-vous, je
+vous prie, du lieu de notre rendez-vous.
+
+BASSANIO.--Je n'y manquerai pas.
+
+GRATIANO.--Vous n'avez pas bon visage, seigneur Antonio. Tenez, vous
+avez trop d'affaires en ce monde; c'est en perdre les avantages que de
+les acheter par trop de soins. Vous �tes �tonnamment chang�;
+croyez-moi.
+
+ANTONIO.--Je prends le monde pour ce qu'il est, Gratiano: un th��tre o�
+chacun doit jouer son r�le; le mien est d'�tre triste.
+
+GRATIANO.--Le mien sera donc celui du fou. Que les rides de la
+vieillesse viennent au milieu de la joie et du rire, que le vin
+�chauffe, s'il le faut, mon foie, mais que d'affaiblissants soupirs ne
+viennent point glacer mon coeur. Pourquoi un homme qui a du sang chaud
+dans les veines demeurerait-il immobile comme son grand-p�re taill� en
+alb�tre? pourquoi dormir quand on veille, et se donner la jaunisse �
+force de mauvaise humeur? Je te le dirai, Antonio; je t'aime, et c'est
+mon amiti� qui parle; il y a une esp�ce de gens dont le visage se
+boursoufle au dehors et s'enveloppe comme l'eau dormante d'un �tang, et
+qui se tiennent dans une immobilit� volontaire pour se parer d'une
+r�putation de sagesse, de gravit�, de profondeur d'esprit, et qui
+semblent vous dire: �Monsieur, je suis un oracle; quand j'ouvre la
+bouche, emp�chez qu'un chien n'aboie.� O mon cher Antonio, je connais de
+ces gens-l� qui ne doivent qu'� leur silence leur r�putation de sagesse,
+et qui, j'en suis s�r, s'ils parlaient, seraient capables de damner plus
+d'une oreille, car en les �coutant, bien des gens traiteraient leurs
+fr�res de fous. Je t'en dirai plus long une autre fois. Mais ne va pas
+te servir de l'app�t de la m�lancolie, pour p�cher ce goujon des sots,
+la r�putation.--Allons, viens, cher Lorenzo. (_A Antonio_.)--Adieu pour
+un moment; je finirai mon sermon apr�s d�ner.
+
+LORENZO, _� Antonio_.--Oui, nous allons vous laisser jusqu'� l'heure du
+d�ner.--Il faudra que je devienne un de ces sages muets, car Gratiano ne
+me laisse jamais le temps de parler.
+
+GRATIANO.--C'est bon, tiens-moi encore compagnie deux ans, et tu ne
+conna�tras plus le son de ta voix.
+
+ANTONIO.--Adieu, il me rendrait bavard.
+
+GRATIANO.--Tant mieux, ma foi, car le silence ne convient qu'� une
+langue de boeuf fum�, et � une fille qui n'est pas de d�faite.
+
+(Gratiano et Lorenzo sortent.)
+
+ANTONIO.--Est-ce l� dire quelque chose?
+
+BASSANIO.--Gratiano est l'homme de Venise qui d�bite le plus de riens.
+Ce qu'il y a de bon dans tous ses discours est comme deux grains de bl�
+cach�s dans deux boisseaux de son. On les cherche un jour entier avant
+de les trouver, et quand on les a, ils ne valent pas la peine qu'on a
+prise.
+
+ANTONIO.--Fort bien. Dites-moi: quelle est donc cette dame aupr�s de
+laquelle vous avez jur� de faire un secret p�lerinage, et que vous
+m'avez promis de me nommer aujourd'hui?
+
+BASSANIO.--Vous n'ignorez pas, Antonio, dans quel d�labrement j'ai mis
+mes affaires, en voulant faire une plus haute figure que ne pouvait me
+le permettre longtemps ma m�diocre fortune; je ne m'afflige pas
+maintenant d'�tre priv� des moyens de soutenir ce noble �tat; mais mon
+premier souci est de me tirer avec honneur des dettes consid�rables que
+j'ai contract�es par un peu trop de prodigalit�. C'est � vous, Antonio,
+que je dois le plus, tant en argent qu'en amiti�; et c'est de votre
+amiti� que j'attends avec confiance les moyens d'accomplir tous mes
+desseins, et les plans que je forme pour payer tout ce que je dois.
+
+ANTONIO.--Je vous prie, mon cher Bassanio, de me les faire conna�tre;
+et, s'ils se renferment comme vous le faites vous-m�me dans les limites
+de l'honneur, soyez s�r que ma bourse, ma personne et tout ce que j'ai
+de ressources en ce monde sont � votre service.
+
+BASSANIO.--Lorsque j'�tais �colier, d�s que j'avais perdu une de mes
+fl�ches, j'en d�cochais une autre dans la m�me direction, mettant plus
+d'attention � suivre son vol, afin de retrouver l'autre; et, en risquant
+de perdre les deux, je les retrouvais toutes deux. Je vous cite cet
+exemple de mon enfance, parce que je vais vous parler le langage de la
+candeur. Je vous dois beaucoup: et comme il arrive � un jeune homme
+livr� � ses fantaisies, ce que je vous dois est perdu. Mais si vous
+voulez risquer une autre fl�che du m�me c�t� o� vous avez lanc� la
+premi�re, je ne doute pas que, par ma vigilance � observer sa chute, je
+ne retrouve les deux, ou du moins que je ne vous rapporte celle que vous
+aurez hasard�e la derni�re, en demeurant avec reconnaissance votre
+d�biteur pour l'autre.
+
+ANTONIO.--Vous me connaissez; c'est donc perdre le temps que de tourner
+ainsi autour de mon amiti� par des circonlocutions. Vous me faites
+certainement plus de tort en doutant de mes sentiments, que si vous
+aviez dissip� tout ce que je poss�de. Dites-moi donc ce qu'il faut que
+je fasse pour vous, et tout ce que vous me croyez possible; je suis pr�t
+� le faire: parlez donc.
+
+BASSANIO.--Il est dans Belmont une riche h�riti�re; elle est belle, plus
+belle que ce mot, et dou�e de rares vertus. J'ai quelquefois re�u de ses
+yeux de doux messages muets. Son nom est Portia. Elle n'est pas moins
+estim�e que la fille de Caton, la Portia de Brutus. L'univers entier
+conna�t son m�rite; car les quatre vents lui am�nent de toutes les c�tes
+d'illustres adorateurs. Ses cheveux, dor�s comme les rayons du soleil,
+tombent en boucles sur ses tempes comme une toison d'or: ce qui fait de
+sa demeure de Belmont un rivage de Colchos, o� plus d'un Jason se rend
+pour la conqu�rir: � mon Antonio, si j'avais seulement le moyen d'entrer
+en concurrence avec eux, j'ai dans mon �me de tels pr�sages de succ�s,
+qu'il est hors de doute que je l'emporterais.
+
+ANTONIO.--Tu sais que toute ma fortune est sur la mer, que je n'ai point
+d'argent, ni la possibilit� de rassembler une forte somme. Va donc
+essayer ce que peut mon cr�dit dans Venise. Je l'�puiserai jusqu'au
+bout, pour te donner les moyens de para�tre � Belmont, et d'obtenir la
+belle Portia. Va, informe-toi o� il y a de l'argent. J'en ferai autant
+de mon c�t�, et je ne doute point que je n'en trouve par mon cr�dit ou
+par le d�sir qu'on aura de m'obliger.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+A Belmont.--Un appartement de la maison de Portia.
+
+_Entrent_ PORTIA et N�RISSA.
+
+
+PORTIA.--En v�rit�, N�rissa, mon petit individu est bien las de ce grand
+univers.
+
+N�RISSA.--Cela serait bon, ma ch�re madame, si vos mis�res �taient en
+aussi grand nombre que le sont vos prosp�rit�s: cependant, � ce que je
+vois, on est aussi malade d'indigestion que de disette. Ce n'est donc
+pas un m�diocre bonheur que d'�tre plac� dans la m�diocrit�: superflu
+blanchit de bonne heure, suffisance vit longtemps.
+
+PORTIA.--Voil� de belles sentences, et tr�s-bien d�bit�es.
+
+N�RISSA.--Elles seraient encore meilleures mises en pratique.
+
+PORTIA.--S'il �tait aussi ais� de faire qu'il l'est de conna�tre ce qui
+est bon � faire, les chapelles seraient des �glises, et les cabanes des
+pauvres gens des palais de princes. C'est un bon pr�dicateur que celui
+qui se conforme � ses sermons. J'apprendrais plut�t � vingt personnes ce
+qu'il est � propos de faire, que je ne serais une des vingt � suivre mes
+instructions. Le cerveau peut imaginer des lois pour le sang, mais un
+temp�rament ardent saute par-dessus une froide loi; c'est un tel li�vre
+que la folle jeunesse pour s'�lancer par-dessus les filets du bon sens!
+Mais cette mani�re de raisonner n'est pas trop de saison lorsqu'il
+s'agit de choisir un �poux. Choisir! h�las! quel mot! Je ne puis ni
+choisir celui que je voudrais, ni refuser celui qui me d�plairait. Et
+ainsi il faut que la volont� d'une fille vivante se plie aux volont�s
+d'un p�re mort. N'est-il pas bien dur, N�rissa, de ne pouvoir ni choisir
+ni refuser personne?
+
+N�RISSA.--Votre p�re fut toujours vertueux, et les saints personnages
+ont � leur mort de bonnes inspirations. Ainsi, dans cette loterie qu'il
+a imagin�e, et au moyen de laquelle vous devez �tre le partage de celui
+qui, entre trois coffres d'or, d'argent et de plomb, choisira selon son
+intention, vous pouvez �tre s�r que le bon choix sera fait par un homme
+que vous pourrez aimer en bonne conscience. Mais quelle chaleur
+d'affection sentez-vous pour tous ces brillants adorateurs qui sont d�j�
+arriv�s?
+
+PORTIA.--Je t'en prie, dis-moi leurs noms: � mesure que tu les nommeras
+je ferai leur portrait, et tu devineras mes sentiments par ma
+description.
+
+N�RISSA.--D'abord il y a le prince de Naples.
+
+PORTIA.--Eh! c'est un v�ritable animal[2]. Il ne sait parler que de son
+cheval, et se targue comme d'un m�rite singulier de la science qu'il
+poss�de de le ferrer lui-m�me. J'ai bien peur que madame sa m�re ne se
+soit oubli�e avec un forgeron.
+
+[Note 2: _A colt_. _Colt_ signifie un jeune cheval qui n'est pas encore
+dress�, et aussi un �tourdi sans �ducation. On ne pouvait rendre en
+fran�ais le double sens de l'expression, il a fallu choisir celui qui
+allait le mieux au reste de la phrase.]
+
+N�RISSA.--Vient ensuite le comte Palatin.
+
+PORTIA.--Il est toujours refrogn�, comme s'il vous disait: _Si vous ne
+voulez pas de moi, d�cidez-vous_. Il �coute des contes plaisants sans un
+sourire. Je crains que dans sa vieillesse il ne devienne le philosophe
+larmoyant, puisque jeune encore il est d'une si maussade tristesse.
+J'aime mieux �pouser une t�te de mort la bouche garnie d'un os, qu'un de
+ces deux hommes-l�. Dieu me pr�serve de tous les deux!
+
+N�RISSA.--Que dites-vous du seigneur fran�ais, monsieur le _Bon_?
+
+PORTIA.--Dieu l'a fait; ainsi je consens qu'il passe pour un homme. Je
+sais bien que c'est un p�ch� de se moquer de son prochain; mais lui!
+Comment! il a un meilleur cheval que le Napolitain! Il poss�de � un plus
+haut degr� que le comte Palatin la mauvaise habitude de froncer le
+sourcil. Il est tous les hommes ensemble, sans en �tre un. Si un merle
+chante, il fait aussit�t la cabriole. Il va se battre contre son ombre.
+En l'�pousant, j'�pouserais en lui seul vingt maris; s'il vient � me
+m�priser je lui pardonnerai: car, m'aim�t-il � la folie, je ne le
+payerai jamais de retour.
+
+N�RISSA.--Que dites-vous de Fauconbridge, le jeune baron anglais?
+
+PORTIA.--Vous savez que je ne lui dis rien; car nous ne nous entendons
+ni l'un ni l'autre; il ne sait ni latin, ni fran�ais, ni italien: et
+vous pouvez bien jurer en justice que je ne sais pas pour deux sous
+d'anglais. C'est la peinture d'un joli homme. Mais, h�las! qui peut
+s'entretenir avec un tableau muet? Qu'il est mis singuli�rement! Je
+crois qu'il a achet� son pourpoint en Italie, ses hauts-de-chausses
+circulaires en France, son bonnet en Allemagne, et ses mani�res par tout
+pays.
+
+N�RISSA.--Que pensez-vous du seigneur �cossais son voisin?
+
+PORTIA.---Qu'il est plein de charit� pour son voisin, car il a emprunt�
+un soufflet de l'Anglais, et a jur� de le lui rendre quand il pourrait.
+Je crois que le Fran�ais s'est rendu sa caution, et s'est engag� pour un
+second.
+
+N�RISSA.--Comment trouvez-vous le jeune Allemand, le neveu du comte de
+Saxe?
+
+PORTIA.--Fort d�plaisant le matin quand il est � jeun, et bien plus
+d�plaisant encore le soir quand il est ivre. Lorsqu'il est au mieux il
+est un peu plus mal qu'un homme, et quand il est le plus mal il est tant
+soit peu mieux qu'une b�te. Et m'arriv�t-il du pis qui puisse arriver,
+j'esp�re trouver le moyen de me d�faire de lui.
+
+N�RISSA.--S'il se pr�sentait pour choisir, et qu'il pr�t le bon coffre,
+ce serait refuser d'accomplir les volont�s de votre p�re, que de refuser
+sa main.
+
+PORTIA.--De crainte que ce malheur extr�me n'arrive, mets, je te prie,
+sur le coffre oppos� un grand verre de vin du Rhin; car si le diable
+�tait dedans, et cette tentation au dehors, je suis s�re qu'il le
+choisirait. Je ferai tout au monde, N�rissa, plut�t que d'�pouser une
+�ponge.
+
+N�RISSA.--Vous ne devez plus craindre d'avoir aucun de ces messieurs;
+ils m'ont fait part de leurs r�solutions, c'est de s'en retourner chez
+eux, et de ne plus vous importuner de leur recherche, � moins qu'ils ne
+puissent vous obtenir par quelque autre moyen que celui qu'a impos�
+votre p�re, et qui d�pend du choix des coffres.
+
+PORTIA.--Duss�-je vivre aussi vieille que la Sibylle, je mourrai aussi
+chaste que Diane, � moins qu'on ne m'obtienne dans la forme prescrite
+par mon p�re. Je suis ravie que cette cargaison d'amoureux se montre si
+raisonnable; car il n'en est pas un parmi eux qui ne me fasse soupirer
+apr�s son absence et prier Dieu de lui accorder un heureux d�part.
+
+N�RISSA.--Ne vous rappelez-vous pas, madame, que du vivant de votre
+p�re, il vint ici, � la suite du marquis de Montferrat, un V�nitien
+instruit et brave militaire?
+
+PORTIA.--Oui, oui, c'�tait Bassanio; c'est ainsi, je crois, qu'on le
+nommait.
+
+N�RISSA.--Cela est vrai, madame; et de tous les hommes sur qui se soient
+jamais arr�t�s mes yeux peu capables d'en juger, il m'a paru le plus
+digne d'une belle femme.
+
+PORTIA.--Je m'en souviens bien, et je me souviens aussi qu'il m�rite tes
+�loges.--(_Entre un valet._) Qu'est-ce? Quelles nouvelles?
+
+LE VALET.--Les quatre �trangers vous cherchent, madame, pour prendre
+cong� de vous, et il vient d'arriver un courrier qui en devance un
+cinqui�me, le prince de Maroc; il dit que le prince son ma�tre sera ici
+ce soir.
+
+PORTIA.--Si je pouvais accueillir celui-ci d'aussi bon coeur que je vois
+partir les autres, je serais charm�e de son arriv�e. S'il se trouve
+avoir les qualit�s d'un saint et le teint d'un diable, je l'aimerais
+mieux pour confesseur que pour �pouseur. Allons, N�rissa; et toi (_au
+valet_), marche devant. Tandis que nous mettons un amant dehors, un
+autre frappe � la porte.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+Venise.--Une place publique.
+
+_Entrent_ BASSANIO, SHYLOCK.
+
+
+SHYLOCK.--Trois mille ducats?--Bien.
+
+BASSANIO.--Oui, monsieur, pour trois mois.
+
+SHYLOCK.--Pour trois mois?--Bien.
+
+BASSANIO.--Pour lesquels, comme je vous disais, Antonio s'engagera.
+
+SHYLOCK.--Antonio s'engagera?--Bien.
+
+BASSANIO.--Pourrez-vous me rendre service? Me ferez-vous ce plaisir?
+Aurai-je votre r�ponse?
+
+SHYLOCK.--Trois mille ducats, pour trois mois, et Antonio engag�.
+
+BASSANIO.--Votre r�ponse � cela?
+
+SHYLOCK.--Antonio est bon.
+
+BASSANIO.--Auriez-vous ou� dire quelque chose de contraire?
+
+SHYLOCK.--Oh! non, non, non, non. En disant qu'il est bon, je veux
+seulement vous faire comprendre qu'il est suffisamment s�r. Cependant
+ses ressources reposent sur des suppositions. Il a un vaisseau fr�t�
+pour Tripoli, un autre dans les Indes, et en outre j'ai appris sur le
+Rialto qu'il en avait un troisi�me au Mexique, un quatri�me en
+Angleterre, et d'autres entreprises encore de c�t� et d'autre. Mais les
+vaisseaux ne sont que des planches, les matelots que des hommes. Il y a
+des rats de terre et des rats d'eau, et des voleurs d'eau comme des
+voleurs de terre, je veux dire qu'il y a des pirates; et puis aussi les
+dangers de la mer, les vents, les rochers. N�anmoins l'homme est
+suffisant.--Trois mille ducats... je crois pouvoir prendre son
+obligation.
+
+BASSANIO.--Soyez assur� que vous le pouvez.
+
+SHYLOCK.--Je m'assurerai que je le peux; et pour m'en assurer, j'y
+r�fl�chirai. Puis-je parler � Antonio?
+
+BASSANIO.--Si vous vouliez d�ner avec nous?
+
+SHYLOCK.--Oui, pour sentir le porc! pour manger de l'habitation dans
+laquelle votre proph�te, le Nazar�en, a par ses conjurations fait entrer
+le diable! Je veux bien faire march� d'acheter avec vous, faire march�
+de vendre avec vous, parler avec vous, me promener avec vous, et ainsi
+de suite; mais je ne veux pas manger avec vous, ni boire avec vous, ni
+prier avec vous. Quelles nouvelles sur le Rialto?--Mais qui vient ici?
+
+BASSANIO.--C'est le seigneur Antonio.
+
+(Entre Antonio.)
+
+SHYLOCK, _� part_.--Comme il a l'air d'un hypocrite publicain! je le
+hais parce qu'il est chr�tien, mais je le hais bien davantage parce
+qu'il a la basse simplicit� de pr�ter de l'argent gratis et qu'il fait
+baisser � Venise le taux de l'usance[3]. Si je puis une fois prendre ma
+belle[4], j'assouvirai pleinement la vieille aversion que je lui porte.
+Il hait notre sainte nation, et dans les lieux d'assembl�es des
+marchands, il invective contre mes march�s, mes gains bien acquis, qu'il
+appelle int�r�ts. Maudite soit ma tribu si je lui pardonne!
+
+[Note 3: _Usance_ est un terme de banque; il signifie une �ch�ance �
+trente jours de date, et l'int�r�t produit par ces trente jours.
+_Usance_ et _usure_ s'employaient �galement pour d�signer le pr�t �
+int�r�t, que r�prouvaient les anciennes maximes des th�ologiens. _Usure_
+est demeur� le mot odieux employ� pour signifier un int�r�t excessif; et
+le mot _usance_ a �t� pr�f�r� par les pr�teurs pour signifier ce que les
+emprunteurs nommaient _usure_. Le Juif se sert toujours ici du mot
+_usance_, pour �viter celui d'_int�r�t_ qu'Antonio emploie toujours dans
+un sens de reproche.]
+
+[Note 4: _Catch him upon the hip_.--Le prendre sur la hanche. Expression
+proverbiale qui n'a pas son �quivalent en fran�ais.]
+
+BASSANIO.--Shylock, entendez-vous?
+
+SHYLOCK.--Je me consultais sur les fonds que j'ai en main pour le
+moment, et autant que ma m�moire peut me le rappeler, je vois que je ne
+saurais vous faire tout de suite la somme compl�te de trois mille
+ducats. N'importe; Tubal, un riche H�breu de ma tribu me fournira ce
+qu'il faut. Mais doucement; pour combien de mois les voulez-vous? (_A
+Antonio_.) Maintenez-vous en joie, mon bon seigneur. C'�tait de Votre
+Seigneurie que nous nous entretenions � l'instant m�me.
+
+ANTONIO.--Shylock, quoique je ne pr�te ni n'emprunte � int�r�t,
+cependant pour fournir aux besoins pressants d'un ami, je d�rogerai � ma
+coutume. (_A Bassanio_.) Est-il instruit de la somme que vous d�sirez?
+
+SHYLOCK.--Oui, oui, trois mille ducats.
+
+ANTONIO.--Et pour trois mois.
+
+SHYLOCK.--J'avais oubli�. Pour trois mois; vous me l'aviez dit. A la
+bonne heure. Faites votre billet, et puis je verrai.... Mais �coutez, il
+me semble que vous venez de dire que vous ne pr�tez ni n'empruntez �
+int�r�t.
+
+ANTONIO.--Jamais.
+
+SHYLOCK.--Quand Jacob faisait pa�tre les brebis de son oncle Laban....
+Ce Jacob (au moyen de ce que fit en sa faveur sa prudente m�re) fut le
+troisi�me possesseur des biens de notre saint Abraham.... Oui, ce fut le
+troisi�me.
+
+ANTONIO.--A quel propos revient-il ici? Pr�tait-il � int�r�t?
+
+SHYLOCK.--Non, il ne pr�tait pas � int�r�t, non, si vous voulez, pas
+pr�cis�ment � int�r�t. Remarquez bien ce que Jacob faisait. Laban et lui
+�tant convenus que tous les nouveau-n�s qui seraient ray�s de deux
+couleurs appartiendraient � Jacob pour son salaire; sur la fin de
+l'automne, les brebis �tant en chaleur allaient chercher les b�liers, et
+quand ces couples portant toison en �taient arriv�s au moment de
+consommer l'oeuvre de la g�n�ration, le rus� berger vous levait l'�corce
+de certains b�tons, et dans l'instant pr�cis de l'acte de nature, les
+pr�sentait aux brebis �chauff�es, qui, concevant alors, quand le temps
+de l'enfantement �tait venu, mettaient bas des agneaux bariol�s,
+lesquels �taient pour Jacob. C'�tait l� un moyen de gagner; et Jacob fut
+b�ni du ciel; et le gain est une b�n�diction, pourvu qu'on ne le vole
+pas.
+
+ANTONIO.--Jacob, monsieur, donnait l� ses services pour un salaire
+tr�s-incertain, pour une chose qu'il n'�tait pas en son pouvoir de faire
+arriver, mais que la seule main du ciel r�gle et fa�onne � son gr�. Ceci
+a-t-il �t� �crit pour l�gitimer le pr�t � int�r�t? Votre or et votre
+argent sont-ils des brebis et des b�liers?
+
+SHYLOCK.--Je ne saurais vous dire; du moins je les fais engendrer aussi
+vite. Mais faites attention � cela, seigneur.
+
+ANTONIO, _� Bassanio_.--Et vous, remarquez, Bassanio, que le diable peut
+employer � ses fins les textes de l'�criture. Une m�chante �me qui
+s'autorise d'un saint t�moignage ressemble � un sc�l�rat qui a le
+sourire sur ses l�vres, � une belle pomme dont le coeur est pourri. Oh!
+de quels beaux dehors se couvre la friponnerie!
+
+SHYLOCK.--Trois mille ducats! c'est une bonne grosse somme. Trois mois
+sur les douze.... Voyons un peu l'int�r�t.
+
+ANTONIO.--Eh bien! Shylock, vous serons-nous redevables?
+
+SHYLOCK.--Seigneur Antonio, mainte et mainte fois vous m'avez fait des
+reproches au Rialto sur mes pr�ts et mes usances. Je n'y ai jamais
+r�pondu qu'en haussant patiemment les �paules, car la patience est le
+caract�re distinctif de notre nation. Vous m'avez appel� m�cr�ant, chien
+de coupe-gorge, et vous avez crach� sur ma casaque de juif, et tout cela
+parce que j'use � mon gr� de mon propre bien. Maintenant il para�t que
+vous avez besoin de mon secours, c'est bon. Vous venez � moi alors, et
+vous dites: �Shylock, nous voudrions de l'argent.� Voil� ce que vous me
+dites, vous qui avez expector� votre rhume sur ma barbe; qui m'avez
+repouss� du pied, comme vous chasseriez un chien �tranger venu sur le
+seuil de votre porte. C'est de l'argent que vous demandez! Je devrais
+vous r�pondre, dites, ne devrais-je pas vous r�pondre ainsi: �Un chien
+a-t-il de l'argent? Est-il possible qu'un roquet pr�te trois mille
+ducats?� Ou bien irai-je vous saluer profond�ment, et dans l'attitude
+d'un esclave, vous dire d'une voix basse et timide: �Mon beau monsieur,
+vous avez crach� sur moi mercredi dernier, vous m'avez donn� des coups
+de pied un tel jour, et une autre fois vous m'avez appel� chien; en
+reconnaissance de ces bons traitements, je vais vous pr�ter tant
+d'argent?�
+
+ANTONIO.--Je suis tout pr�t � t'appeler encore de m�me, � cracher encore
+sur toi, � te repousser encore de mon pied. Si tu nous pr�tes cet
+argent, ne nous le pr�te pas comme � des amis, car l'amiti� a-t-elle
+jamais exig� qu'un st�rile m�tal produis�t pour elle dans les mains d'un
+ami? mais pr�te plut�t ici � ton ennemi. S'il manque � son engagement,
+tu auras meilleure gr�ce � exiger sa punition.
+
+SHYLOCK.--Eh! mais voyez donc comme vous vous emportez! Je voudrais �tre
+de vos amis, gagner votre affection, oublier les avanies que vous m'avez
+faites, subvenir � vos besoins pr�sents, et ne pas exiger un denier
+d'usure pour mon argent, et vous ne voulez pas m'entendre! L'offre est
+pourtant obligeante.
+
+ANTONIO.--Ce serait, en effet, par obligeance.
+
+SHYLOCK.--Et je veux l'avoir cette obligeance; venez avec moi chez un
+notaire, me signer un simple billet, et pour nous divertir, nous
+stipulerons qu'en cas que vous ne me rendiez pas, � tels jour et lieu
+d�sign�, la somme ou les sommes exprim�es dans l'acte, vous serez
+condamn� � me payer une livre juste de votre belle chair, coup�e sur
+telle partie du corps qu'il me plaira choisir.
+
+ANTONIO.--J'y consens sur ma foi, et, en signant un pareil billet, je
+dirai que le Juif est rempli d'obligeance.
+
+BASSANIO.--Vous ne ferez pas pour mon compte un billet de la sorte;
+j'aime mieux rester dans l'embarras.
+
+ANTONIO.--Eh! ne craignez rien, mon cher: je n'encourrai pas la
+condamnation. Dans le courant de ces deux mois-ci, c'est-�-dire encore
+un mois avant l'�ch�ance du billet, j'attends des retours pour neuf fois
+sa valeur.
+
+SHYLOCK.--O p�re Abraham! ce que c'est que ces chr�tiens, comme la
+duret� de leurs proc�d�s les rend soup�onneux sur les intentions des
+autres! Dites-moi, s'il ne payait pas au terme marqu�, que gagnerais-je
+en exigeant qu'il rempl�t la condition propos�e? Une livre de la chair
+d'un homme, prise sur un homme, ne me serait pas si bonne ni si
+profitable que de la chair de mouton, de boeuf ou de ch�vre. C'est pour
+m'acqu�rir ses bonnes gr�ces que je lui fais cette offre d'amiti�: s'il
+veut l'accepter, � la bonne heure! sinon, adieu; et je vous prie de ne
+pas mal interpr�ter mon attachement.
+
+ANTONIO.--Oui, Shylock, je signerai ce billet.
+
+SHYLOCK.--En ce cas, allez m'attendre chez le notaire; donnez-lui vos
+instructions sur ce billet bouffon. Je vais prendre les ducats, donner
+un coup d'oeil � mon logis que j'ai laiss� sous la garde tr�s-peu s�re
+d'un n�gligent coquin, et je vous rejoins dans l'instant.
+
+(Il sort.)
+
+ANTONIO.--D�p�che-toi, aimable Juif. Cet H�breu se fera chr�tien; il
+devient traitable.
+
+BASSANIO.--Je n'aime pas de belles conditions accord�es par un
+mis�rable.
+
+ANTONIO.--Allons: il ne peut y avoir rien � craindre; mes vaisseaux
+arriveront un mois avant le terme.
+
+FIN DU PREMIER ACTE.
+
+
+
+
+                            ACTE DEUXI�ME
+
+
+SC�NE I
+
+A Belmont.
+
+_Fanfare de cors. Entrent_ LE PRINCE DE MAROC _avec sa suite,_ PORTIA,
+N�RISSA, _et plusieurs autres personnes de sa suite._
+
+
+LE PRINCE DE MAROC.--Ne vous choquez point de la couleur de mon teint:
+c'est la sombre livr�e de ce soleil � la brune chevelure dont je suis
+voisin, et pr�s duquel je fus nourri. Faites-moi venir le plus beau des
+enfants du Nord, o� les feux de Phoebus d�g�lent � peine les gla�ons
+suspendus aux toits, et faisons sur nous une incision en votre honneur,
+pour savoir quel sang est le plus rouge du sien ou du mien. Dame, je
+puis te le dire, cette figure a intimid� le brave. Je jure, par mon
+amour, que les vierges les plus honor�es de nos climats en ont �t�
+�prises. Je ne voudrais pas changer de couleur, � moins que ce ne f�t
+pour vous d�rober quelques pens�es, mon aimable reine.
+
+PORTIA.--Je ne me laisse pas conduire dans mon choix par la seule
+d�licatesse des yeux d'une fille. D'ailleurs la loterie � laquelle est
+remis mon sort �te � ma volont� le droit d'une libre d�cision. Mais mon
+p�re n'e�t-il pas circonscrit mon choix, et n'e�t-il pas, dans sa
+sagesse, d�termin� que je me donnerais pour femme � celui qui
+m'obtiendra par les moyens que je vous ai dits, vous me para�triez,
+prince renomm�, tout aussi digne de mon affection qu'aucun de ceux que
+j'aie vus jusqu'ici se pr�senter.
+
+LE PRINCE DE MAROC.--Je vous en rends gr�ces. Je vous prie,
+conduisez-moi � ces coffres, pour y essayer ma fortune. Par ce
+cimeterre, qui a tu� le sophi et un prince de Perse, et qui a gagn�
+trois batailles sur le sultan Soliman, je voudrais, pour t'obtenir,
+foudroyer de mes regards l'oeil le plus farouche, vaincre en bravoure le
+coeur le plus intr�pide de l'univers, arracher les petits ours des
+mamelles de leur m�re; que dis-je? insulter au lion rugissant apr�s sa
+proie. Mais, h�las! cependant, quand Hercule et Lichas joueront aux d�s
+pour d�cider lequel vaut le mieux des deux, le plus haut point peut
+sortir de la main la plus faible; et voil� Hercule vaincu par son page.
+Et moi, conduit de m�me par l'aveugle fortune, je puis manquer ce
+qu'obtiendra un moins digne, et en mourir de douleur.
+
+PORTIA.--Il vous en faut courir les chances, et renoncer � choisir; ou,
+avant de choisir, il faut jurer que si vous choisissez mal, vous ne
+parlerez � l'avenir de mariage � aucune femme. Ainsi, faites bien vos
+r�flexions.
+
+LE PRINCE DE MAROC.--Je m'y soumets: allons, conduisez-moi � la d�cision
+de mon sort.
+
+PORTIA.--Rendons-nous d'abord au temple. Apr�s le d�ner, vous tirerez
+votre lot.
+
+LE PRINCE DE MAROC.--A la fortune, donc, qui va me rendre le plus
+heureux ou le plus malheureux des hommes!
+
+(Ils sortent.)
+
+
+SC�NE II
+
+A Venise.--Une rue.
+
+_Entre_ LANCELOT GOBBO.
+
+
+LANCELOT.--S�rement, ma conscience me permettra de fuir la maison de ce
+Juif, mon ma�tre. Le diable est � mes trousses, et me tente en me
+disant: _Gobbo_, _Lancelot Gobbo_, _bon Lancelot_, ou _bon Gobbo_, ou
+_bon Lancelot Gobbo, servez-vous de vos jambes; prenez votre �lan, et
+d�campez_. Ma conscience me dit: _Non; prends garde, honn�te Lancelot;
+prends garde, honn�te Gobbo_; ou, comme je l'ai dit, _honn�te Lancelot
+Gobbo, ne t'enfuis pas; rejette la pens�e de te fier � tes talons_. Et
+l�-dessus l'intr�pide d�mon me presse de faire mon paquet: _Allons_, dit
+le diable; _hors d'ici_, dit le diable; _par le ciel, arme-toi de
+courage_, dit le diable, _et sauve-toi_. Alors ma conscience, se jetant
+dans les bras de mon coeur, me dit fort prudemment: _Mon honn�te ami
+Lancelot, toi, le fils d'un honn�te homme_, ou _plut�t d'une honn�te
+femme_; car, au fait, mon p�re eut sur son compte quelque chose; il
+s'�leva � quelque chose; il avait un certain arri�re-go�t.... Bien, ma
+conscience me dit: _Lancelot, ne bouge pas_; _va-t'en_, dit le diable;
+_ne bouge pas_, dit ma conscience.--Et moi je dis: Ma conscience, votre
+conseil est bon; je dis: D�mon, votre conseil est bon. En me laissant
+gouverner par ma conscience, je resterais avec le Juif mon ma�tre, qui,
+Dieu me pardonne, est une esp�ce de diable; et en fuyant de chez le
+Juif, je me laisserais gouverner par le d�mon qui, sauf votre respect,
+est le diable en personne: s�rement le Juif est le diable m�me incarn�;
+et, en conscience, ma conscience n'est qu'une mani�re de conscience
+brutale, de venir me conseiller de rester avec le Juif. Allons, c'est le
+diable qui me donne un conseil d'ami; je me sauverai, d�mon: mes talons
+sont � tes ordres; je me sauverai.
+
+(Entre le vieux Gobbo avec un panier.)
+
+GOBBO.--Monsieur le jeune homme, vous-m�me, je vous prie: quel est le
+chemin de la maison de monsieur le Juif?
+
+LANCELOT, _� part_.--O ciel! c'est mon p�re l�gitime; il a la vue plus
+que brouill�e; elle est tout � fait d�guerpie[5], en sorte qu'il ne me
+reconna�t pas. Je veux voir ce qui en sera.
+
+[Note 5: _More than sand-blind, high gravel blind_. _Sand-blind_ d�signe
+une maladie de la vue, qui fait voir habituellement devant les yeux
+comme des grains de sable. Lancelot, dans son langage bouffon, pour
+exprimer que son p�re est presque aveugle, dit qu'il n'est pas
+seulement sand-blind (_aveugle de sable_), mais _gravel blind_ (aveugle
+de gravier): ce qui aurait �t� inintelligible en fran�ais.]
+
+GOBBO.--Monsieur le jeune gentilhomme, je vous prie, quel est le chemin
+pour aller chez monsieur le Juif?
+
+LANCELOT.--Tournez sur votre main droite, au premier d�tour; mais, au
+plus prochain d�tour, tournez sur votre gauche; puis ma foi, au premier
+d�tour, ne tournez ni � droite ni � gauche; mais descendez indirectement
+vers la maison du Juif.
+
+GOBBO.--Fontaine de Dieu! ce sera bien difficile � trouver.
+Pourriez-vous me dire si un nomm� Lancelot, qui demeure avec lui, y
+demeure ou non?
+
+LANCELOT.--Parlez-vous du jeune monsieur Lancelot?--Faites bien
+attention � pr�sent. (_A part_.)--Je vais lui faire monter l'eau aux
+yeux.--Parlez-vous du jeune monsieur Lancelot?
+
+GOBBO.--Il n'est pas un monsieur; c'est le fils d'un pauvre homme. Son
+p�re, quoique ce soit moi qui le dise, est un honn�te homme
+excessivement pauvre, et qui, Dieu merci, a encore envie de vivre.
+
+LANCELOT.--Allons, que son p�re soit ce qu'il voudra; nous parlons du
+jeune monsieur Lancelot.
+
+GOBBO.--De l'ami de Votre Seigneurie, et de Lancelot tout court,
+monsieur.
+
+LANCELOT.--Mais, je vous prie, _ergo_, vieillard, _ergo_, je vous en
+conjure; parlez-vous du jeune monsieur Lancelot?
+
+GOBBO.--De Lancelot, sous votre bon plaisir, monsieur.
+
+LANCELOT.--_Ergo_, monsieur Lancelot; ne parlez point de monsieur
+Lancelot, p�re; car le jeune gentilhomme (en cons�quence des destins et
+des destin�es, et de toutes ces bizarres fa�ons de parler, comme les
+trois soeurs, et autres branches de science) est vraiment d�c�d�; ou,
+comme qui dirait tout simplement, parti pour le ciel.
+
+GOBBO.--Que Dieu m'en pr�serve! Ce gar�on �tait le b�ton de ma
+vieillesse, mon seul soutien.
+
+LANCELOT.--Est-ce que je ressemble � un gourdin, ou � un appui de
+hangar, � un b�ton, � une b�quille? Me reconnaissez-vous, p�re?
+
+GOBBO.--H�las! non, je ne vous reconnais point, mon jeune monsieur;
+mais, je vous en prie, dites-moi, mon gar�on, Dieu fasse paix � son �me!
+est-il vivant ou mort?
+
+LANCELOT.--Ne me connaissez-vous point, p�re?
+
+GOBBO.--H�las! monsieur, j'ai la vue trouble et je ne vous connais
+point.
+
+LANCELOT.--Eh bien! si vous aviez vos yeux, vous pourriez bien risquer
+de ne pas me reconna�tre; c'est un habile p�re que celui qui conna�t son
+enfant. Allons, vieillard; je vais vous donner des nouvelles de votre
+fils.--Donnez-moi votre b�n�diction. La v�rit� se montrera au grand
+jour: un meurtre ne peut rester longtemps cach�; au lieu que le fils
+d'un homme le peut; mais � la fin la v�rit� se montrera.
+
+GOBBO.--Je vous en prie, monsieur, levez-vous; je suis certain que vous
+n'�tes point Lancelot, mon gar�on.
+
+LANCELOT.--Je vous en conjure, ne bavardons pas plus longtemps
+l�-dessus. Donnez-moi votre b�n�diction. Je suis Lancelot, qui �tait
+votre gar�on, qui est votre fils, et qui sera votre enfant.
+
+GOBBO.--Je ne puis croire que vous soyez mon fils.
+
+LANCELOT.--Je ne sais qu'en penser: mais je suis Lancelot, le valet du
+Juif; et je suis s�r que Marguerite, votre femme, est ma m�re.
+
+GOBBO.--Oui, en effet, elle se nomme Marguerite: je jurerai que si tu es
+Lancelot, tu es ma chair, et mon sang. Dieu soit ador�! Quelle barbe tu
+as acquise! Il t'est venu plus de poil au menton qu'il n'en est venu sur
+la queue � Dobbin, mon limonier.
+
+LANCELOT.--Il para�trait en cela que la queue de Dobbin augmente �
+rebours; car je suis s�r que la derni�re fois que je l'ai vu, il avait
+plus de poil � la queue que je n'en ai sur la face.
+
+GOBBO.--Seigneur! que tu es chang�!--Comment vous accordez-vous
+ensemble, ton ma�tre et toi? Je lui apporte un pr�sent: comment
+�tes-vous ensemble aujourd'hui?
+
+LANCELOT.--Fort bien, fort bien. Mais quant � moi, comme j'ai arr�t� de
+m'enfuir de chez lui, je ne m'arr�terai plus que je n'aie fait un bout
+de chemin. Mon ma�tre est un vrai Juif. Lui faire un pr�sent! Faites-lui
+pr�sent d'une hart: je meurs de faim � son service: vous pouvez compter
+mes doigts par le nombre de mes c�tes. Mon p�re, je suis bien aise que
+vous soyez venu: donnez-moi votre pr�sent pour un monsieur Bassanio, qui
+fait faire maintenant � ses gens de tr�s-belles livr�es neuves: si je ne
+le sers pas, je courrai tant que Dieu a de terre. O rare bonheur! Tenez,
+le voici lui-m�me; adressez-vous � lui, mon p�re, car je veux devenir
+Juif, si je sers le Juif plus longtemps.
+
+(Entre Bassanio, suivi de L�onardo et d'autres domestiques.)
+
+BASSANIO.--Vous pouvez l'arranger ainsi;--mais faites si bien diligence,
+que le souper soit pr�t au plus tard pour cinq heures.--Aie soin que ces
+lettres soient remises. Donne les livr�es � faire, et prie Gratiano de
+venir dans l'instant me trouver chez moi.
+
+(Sort un domestique.)
+
+LANCELOT.--Allez � lui, mon p�re.
+
+GOBBO.--Dieu b�nisse Votre Seigneurie!
+
+BASSANIO.--Bien oblig�: me veux-tu quelque chose?
+
+GOBBO.--Voil� mon fils, monsieur, un pauvre gar�on...
+
+LANCELOT.--Non pas un pauvre gar�on, monsieur; c'est le valet du riche
+Juif, qui voudrait, monsieur, comme mon p�re vous le sp�cifiera....
+
+GOBBO.--Il a, monsieur, une grande rage, comme qui dirait, de servir....
+
+LANCELOT.--Effectivement, le court et le long de la chose, est que je
+sers le Juif, et j'ai bien envie, comme mon p�re vous le sp�cifiera....
+
+GOBBO.--Son ma�tre et lui, sauf le respect d� � Votre Seigneurie, ne
+sont gu�re cousins ensemble.
+
+LANCELOT.--Pour abr�ger, la v�rit� est que le Juif m'ayant maltrait�,
+c'est la cause que je..., comme mon p�re, qui est, comme je l'esp�re,
+un vieillard, vous le d�taillera.
+
+GOBBO.--J'ai ici quelques paires de pigeons que je voudrais offrir �
+Votre Seigneurie, et ma pri�re est que....
+
+LANCELOT.--En peu de mots, la requ�te est impertinente pour mon compte,
+� moi, comme Votre Seigneurie le saura par cet honn�te vieillard; et
+quoique ce soit moi qui le dise, quoiqu'il soit vieux, cependant c'est
+un pauvre homme, et mon p�re.
+
+BASSANIO.--Qu'un de vous parle pour deux.--Que voulez-vous?
+
+LANCELOT.--Vous servir, monsieur.
+
+GOBBO.--C'est l� o� le b�t nous blesse, monsieur.
+
+BASSANIO.--Je te connais tr�s-bien: tu as obtenu ta requ�te. Shylock,
+ton ma�tre, m'a parl� aujourd'hui m�me, et t'a fait r�ussir, suppos� que
+ce soit r�ussir que de quitter le service d'un riche Juif, pour te
+mettre � la suite d'un si pauvre gentilhomme que moi.
+
+LANCELOT.--Le vieux proverbe est tr�s-bien partag� entre mon ma�tre
+Shylock et vous, monsieur: vous avez la gr�ce de Dieu, monsieur, et lui,
+il a de quoi.
+
+BASSANIO.--C'est fort bien dit: bon p�re, va avec ton fils.--Prends
+cong� de ton ancien ma�tre, et informe-toi de ma demeure, pour t'y
+rendre. (_A ses gens_.) Qu'on lui donne une livr�e plus galonn�e que
+celle de ses camarades. Ayez-y l'oeil.
+
+LANCELOT.--Mon p�re, entrons.--Je ne sais pas me procurer du service;
+non, je n'ai jamais eu de langue dans ma t�te.--Allons (_consid�rant la
+paume de sa main_), si de tous les hommes en Italie, qui ouvrent la main
+pour jurer sur l'�vangile, il y en a un qui pr�sente une plus belle
+table.... je dois faire fortune; tenez, voyez seulement cette ligne de
+vie! Pour les mariages, ce n'est qu'une bagatelle; quinze femmes, h�las!
+ce ne serait rien; onze veuves et neuf pucelles, ce n'est que le simple
+n�cessaire d'un homme. Et ensuite �chapper trois fois au danger de se
+noyer, et courir risque de la vie sur le bord d'un lit de plume.... Ce
+n'est pas grand'chose en effet que de se tirer de l�. Allons, si la
+fortune est femme, c'est une bonne p�te de femme de m'avoir donn� de
+pareils lin�aments.--Venez, mon p�re, je vais prendre cong� du Juif dans
+un clin d'oeil.
+
+(Lancelot et Gobbo sortent.)
+
+BASSANIO.--Je te prie, cher L�onardo, songe � ce que je t'ai recommand�.
+Quand tu auras tout achet� et distribu� comme je te l'ai dit, reviens
+promptement; car je traite chez moi, ce soir, mes meilleurs amis.
+D�p�che-toi, va.
+
+L�ONARDO.--Je ferai tout cela de mon mieux.
+
+(Entre Gratiano.)
+
+GRATIANO.--O� est votre ma�tre?
+
+L�ONARDO.--L�-bas, monsieur, qui se prom�ne....
+
+(L�onardo sort.)
+
+GRATIANO.--Seigneur Bassanio!
+
+BASSANIO.--Ha! Gratiano!
+
+GRATIANO.--J'ai une demande � vous faire.
+
+BASSANIO.--Elle vous est accord�e.
+
+GRATIANO.--Vous ne pouvez me refuser; il faut absolument que je vous
+accompagne � Belmont.
+
+BASSANIO.--Tr�s-bien, j'y consens.--Mais �coute, Gratiano.--Tu es trop
+sans fa�on, trop brusque; tu as un ton de voix trop tranchant.--Ce sont
+des qualit�s qui te vont assez bien, et qui � nos yeux ne semblent pas
+des d�fauts; mais partout o� tu n'es pas connu, te dirai-je? elles
+annoncent quelque chose de trop libre.--Je t'en prie, prends la peine de
+temp�rer ton esprit trop p�tulant par quelques grains de retenue, de
+peur que l'irr�gularit� de tes mani�res ne soit interpr�t�e � mon
+d�savantage dans le lieu o� je vais, et ne me fasse perdre mes
+esp�rances.
+
+GRATIANO.--Seigneur Bassanio, �coutez-moi; si je ne prends pas le
+maintien le plus modeste, si je ne parle pas respectueusement, ne
+laissant �chapper que quelques jurons de temps � autre; si je ne me
+pr�sente pas de l'air plus grave, toujours des livres de pri�res dans ma
+poche; si m�me, lorsqu'on dira les gr�ces, je ne ferme pas les yeux avec
+componction en tenant ainsi mon chapeau, et poussant un soupir, et
+disant _amen_; enfin si je n'observe pas la civilit� jusqu'au scrupule,
+comme un homme form� � toute la gravit� de maintien requise pour plaire
+� sa grand'm�re, ne vous fiez plus jamais � moi.
+
+BASSANIO.--Allons, nous verrons comment vous vous conduirez.
+
+GRATIANO.--Oui, mais j'excepte la soir�e d'aujourd'hui: vous ne me
+jugerez pas sur ce que nous ferons ce soir.
+
+BASSANIO.--Oh! non: ce serait dommage. Je vous inviterai au contraire �
+d�ployer votre plus grande gaiet�; car nous avons des amis qui se
+proposent de se r�jouir; mais adieu, je vous laisse: j'ai quelques
+affaires.
+
+GRATIANO.--Et moi, il faut que j'aille trouver Lorenzo et les autres;
+mais nous vous rendrons visite � l'heure du souper.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+Toujours � Venise.--Une pi�ce dans la maison de Shylock.
+
+_Entrent_ JESSICA ET LANCELOT.
+
+
+JESSICA.--Je suis f�ch�e que tu quittes ainsi mon p�re. Notre maison est
+l'enfer, et toi, un d�mon jovial qui dissipais un peu cette atmosph�re
+d'ennui. Mais porte-toi bien, voil� un ducat pour toi; et, Lancelot, tu
+verras bient�t au souper Lorenzo, qui est invit� chez ton nouveau
+ma�tre. Donne-lui cette lettre: fais-le secr�tement; adieu. Je ne
+voudrais pas que mon p�re me trouv�t causant avec toi.
+
+LANCELOT.--Adieu; mes larmes te parlent pour moi.--Tr�s-charmante
+pa�enne! Tr�s-aimable Juive! Si un chr�tien ne fait pas quelque tour de
+fripon pour te poss�der, je serais bien tromp�; mais, adieu: ces sottes
+larmes noient un peu mon courage viril. Adieu.
+
+(Il sort.)
+
+JESSICA.--Adieu, bon Lancelot.--H�las! quel odieux p�ch�! n'est-ce pas �
+moi de rougir d'�tre la fille de mon p�re! Mais quoique je sois sa
+fille par le sang, je ne le suis point par le caract�re. O Lorenzo! si
+tu tiens ta promesse, je mettrai fin � ces combats, je deviendrai
+chr�tienne, et ta tendre �pouse.
+
+(Elle sort.)
+
+
+SC�NE IV
+
+Toujours � Venise.--Une rue.
+
+_Entrent_ GRATIANO, LORENZO, SALARINO, SALANIO.
+
+
+LORENZO.--Oui, nous nous �chapperons pendant le souper: nous irons
+prendre nos d�guisements chez moi, nous reviendrons tous en moins d'une
+heure.
+
+GRATIANO.--Nous n'avons pas fait les pr�paratifs n�cessaires.
+
+SALARINO.--Nous n'avons pas encore parl� de nous procurer des
+porte-flambeaux.
+
+SALANIO.--C'est une pauvre chose, quand cela n'est pas arrang� dans un
+bel ordre; et � mon avis il vaudrait mieux, en ce cas, n'y pas songer.
+
+LORENZO.--Il n'est encore que quatre heures: nous avons deux heures pour
+nous procurer tout ce qu'il faut. (_Entre Lancelot avec une lettre._)
+Ami Lancelot, qu'y a-t-il de nouveau?
+
+LANCELOT.--S'il vous pla�t d'ouvrir cette lettre, elle pourra
+probablement vous l'apprendre.
+
+LORENZO.--Je connais cette main: c'est une belle main sur ma foi, et la
+belle main qui a �crit cette lettre est plus blanche que le papier sur
+lequel elle a �crit.
+
+GRATIANO.--Une lettre d'amour, s�rement?
+
+LANCELOT.--Avec votre permission, monsieur....
+
+LORENZO.--O� vas-tu?
+
+LANCELOT.--Vraiment, monsieur, inviter mon ancien ma�tre le Juif �
+souper ce soir chez mon nouveau ma�tre le chr�tien.
+
+LORENZO.--Attends, prends ceci.--Dis � l'aimable Jessica, que je ne lui
+manquerai pas de parole. Parle-lui en secret: va. (_Sort
+Lancelot._)--Messieurs, voulez-vous vous pr�parer pour la mascarade de
+ce soir? Je suis pourvu d'un porte-flambeau.
+
+SALARINO.--Oui, vraiment, j'y vais sur-le-champ.
+
+SALANIO.--Et moi aussi.
+
+LORENZO.--Venez nous trouver, Gratiano et moi, dans quelque temps, au
+logis de Gratiano.
+
+SALARINO.--C'est bon, nous n'y manquerons pas.
+
+(Salarino et Salanio sortent.)
+
+GRATIANO.--Cette lettre ne venait-elle pas de la belle Jessica?
+
+LORENZO.--Il faut que je te dise tout: elle m'instruit de la mani�re
+dont il faut que je l'enl�ve de la maison de son p�re, me d�taille ce
+qu'elle emporte d'or et de bijoux, l'habillement de page qu'elle a tout
+pr�t. Si jamais le Juif son p�re entre dans le ciel, ce ne sera que par
+consid�ration pour son aimable fille; et jamais le malheur n'osera
+traverser les pas de cette belle, qu'en s'autorisant du pr�texte qu'elle
+est la lign�e d'un Juif sans foi. Allons, viens avec moi: parcours cette
+lettre tout en marchant. La belle Jessica me servira de porte-flambeau.
+
+(Ils sortent.)
+
+
+SC�NE V
+
+Dans la maison de Shylock.
+
+SHYLOCK, LANCELOT.
+
+
+SHYLOCK.--Allons; tu verras par tes yeux, et tu jugeras de la diff�rence
+qu'il y a entre le vieux Shylock et Bassanio.--H�! Jessica?--Tu ne seras
+pas toujours � faire bombance, comme tu l'as faite avec moi.... Eh!
+Jessica?... Et � dormir, et � ronfler, et � d�chirer tes habits.--Eh
+bien! Jessica? Quoi donc?
+
+LANCELOT.--Hol�! Jessica?
+
+SHYLOCK.--Qui te dit d'appeler? Je ne t'ai pas dit d'appeler.
+
+LANCELOT.--Votre Seigneurie me reprochait souvent de ne savoir rien
+faire sans qu'on me le d�t.
+
+(Entre Jessica.)
+
+JESSICA.--Vous m'appelez? Que voulez-vous?
+
+SHYLOCK.--Je suis invit� � souper dehors, Jessica; voil� mes
+clefs.--Mais pourquoi irais-je? Ce n'est pas par amiti� que je suis
+invit�; ils me flattent: eh bien! j'irai par haine, pour manger aux
+d�pens du prodigue chr�tien.--Jessica, ma fille, veille sur ma maison.
+J'ai de la r�pugnance � sortir: il se brasse quelque chose de contraire
+� mon repos: car j'ai r�v� cette nuit de sacs d'argent.
+
+LANCELOT.--Je vous en conjure, monsieur, allez-y. Mon jeune ma�tre
+attend avec impatience votre d�convenue[6].
+
+SHYLOCK.--Et moi la sienne.
+
+LANCELOT.--Ils ont complot� ensemble....--Je ne dirai pas pr�cis�ment
+que vous devez voir une mascarade: mais si vous en voyez une, alors ce
+n'�tait donc pas pour rien que mon nez a saign� le dernier lundi
+Noir[7], � six heures du matin; ce qui r�pondait au mercredi des
+cendres, dans l'apr�s-d�n�e, d'il y a quatre ans.
+
+[Note 6: _Your reproach_ (reproche, honte); c'est probablement une
+balourdise de Lancelot pour _approach_ (approche); _reproach_ est pris
+ici par le Juif dans le sens de _honte_, qui n'a aucun rapport de son
+avec aucun mot qui puisse �tre dans l'intention de Lancelot. On y a
+substitu� _d�convenue_, qu'il peut dire pour _venue_.]
+
+[Note 7: Le lundi de P�ques. En 1360, le lundi de P�ques, 14 avril,
+Edouard III faisant avec son arm�e le si�ge de Paris, il survint un
+froid si brumeux et si violent, que plusieurs soldats moururent de froid
+sur leurs chevaux, et que le lundi de P�ques en conserva le nom de lundi
+Noir.]
+
+SHYLOCK.--Quoi! y aura-t-il des masques? �coutez-moi, Jessica. Fermez
+bien mes portes; et lorsque vous entendrez le tambour, et le d�testable
+criaillement du fifre au cou tors, n'allez pas vous hisser aux fen�tres,
+ni montrer votre t�te en public sur la rue, pour regarder des fous de
+chr�tiens aux visages vernis: mais bouchez bien les oreilles de ma
+maison; je veux dire les fen�tres: que le son de ces vaines folies
+n'entre pas dans ma grave maison.--Par le b�ton de Jacob, je jure que je
+ne me sens nulle envie d'aller ce soir � un festin en ville; cependant
+j'irai.--Vous, dr�le, prenez les devants, et annoncez que je vais y
+aller.
+
+LANCELOT.--Je vais vous pr�c�der, monsieur. (_Bas � Jessica._)
+Ma�tresse, malgr� tout ce qu'il dit, regardez � la fen�tre; vous verrez
+approcher un chr�tien, qui m�rite bien les regards d'une Juive.
+
+(Lancelot sort.)
+
+SHYLOCK.--H�! que vous dit cet imb�cile de la race d'Agar?
+
+JESSICA.--Il me disait: Adieu, ma�tresse; rien de plus.
+
+SHYLOCK.--Ce Jeannot-l�[8] est assez bon homme, mais gros mangeur, lent
+au projet comme une vraie tortue, et dormant dans le jour plus qu'un
+chat sauvage. Les frelons ne b�tissent pas dans ma ruche: ainsi je me
+s�pare de lui, pour le c�der � un homme que je veux qu'il aide �
+d�penser promptement l'argent qu'il m'a emprunt�.--Allons, Jessica,
+rentrez. Peut-�tre reviendrai-je sur-le-champ. Faites ce que je vous
+recommande: fermez les portes sur vous. Bien attach�, bien retrouv�:
+c'est un proverbe qui ne vieillit point pour un esprit �conome.
+
+(Il sort.)
+
+JESSICA.--Adieu.--Et, si la fortune ne m'est pas contraire, j'ai perdu
+un p�re, et vous une fille.
+
+(Elle sort.)
+
+[Note 8: _The Patch_. Patch �tait, � ce qu'il para�t, le fou du cardinal
+Wolsey, dont le nom �tait devenu proverbial comme l'est parmi nous celui
+de Jeannot ou de Jocrisse.]
+
+
+SC�NE VI
+
+Toujours au m�me lieu.
+
+GRATIANO ET SALARINO _masqu�s_.
+
+
+GRATIANO.--Voici le hangar sous lequel Lorenzo nous a dit de l'attendre.
+
+
+SALARINO.--L'heure qu'il nous avait donn�e est presque pass�e.
+
+GRATIANO.--Et il est bien �tonnant qu'il tarde autant; car les amoureux
+devancent toujours l'horloge.
+
+SALARINO.--Oh! les pigeons de V�nus volent dix fois plus vite pour
+sceller de nouveaux liens d'amour, qu'ils n'ont coutume de faire pour
+rester fid�les � leurs anciens engagements.
+
+GRATIANO.--Cela sera toujours vrai: quel convive se l�ve d'une table
+avec cet app�tit aigu qu'il sentait en s'y asseyant? O� est le cheval
+qui revienne sur les ennuyeuses traces de la route qu'il a parcourue,
+avec le feu qu'il avait en partant? Pour tous les biens de ce monde, il
+y a plus d'ardeur dans la poursuite que dans la jouissance. Voyez comme,
+semblable au jeune homme ou � l'enfant prodigue, le navire sort pavois�
+de son port natal, embrass� et caress� par la brise libertine; et voyez
+comme il revient, �galement semblable � l'enfant prodigue, les c�tes
+creus�es par les injures de l'air, les voiles en lambeaux, dess�ch�,
+d�labr� et appauvri par le libertinage de la brise.
+
+(Entre Lorenzo.)
+
+SALARINO.--Ah! voici Lorenzo!--Nous continuerons dans un autre moment.
+
+LORENZO.--Chers amis, pardon d'avoir tard� si longtemps. Ce n'est pas
+moi, ce sont mes affaires qui vous ont fait attendre. Quand il vous
+prendra fantaisie de voler des �pouses, je vous promets de faire le guet
+aussi longtemps pour vous.--Approchez; c'est ici la demeure de mon
+beau-p�re le Juif.--Hol�, hol�, quelqu'un!
+
+(Jessica para�t � la fen�tre d�guis�e en page.)
+
+JESSICA.--Qui �tes-vous? Nommez-vous, pour plus de certitude; quoique je
+puisse jurer de vous conna�tre � votre voix.
+
+LORENZO.--Lorenzo, ton bien-aim�.
+
+JESSICA.--C'est Lorenzo, bien s�r; et mon bien-aim�, bien vrai; car quel
+autre aim�-je autant? et quel autre que vous, Lorenzo, sait si je suis
+votre amante?
+
+LORENZO.--Le ciel et ton coeur sont t�moins que tu l'es.
+
+JESSICA.--Tenez, prenez cette cassette; elle en vaut la peine. Je suis
+bien aise qu'il soit nuit, et que vous ne me voyiez point; car je suis
+honteuse de mon d�guisement: mais l'Amour est aveugle, et les amants ne
+peuvent voir les charmantes folies qu'ils font eux-m�mes: s'ils les
+pouvaient apercevoir, Cupidon lui-m�me rougirait de me voir ainsi
+transform�e en gar�on.
+
+LORENZO.--Descendez, car il faut que vous me serviez de porte-flambeau.
+
+JESSICA.--Quoi! faut-il que je porte la lumi�re sur ma propre honte! Oh!
+elle ne m'est, je le jure, que trop claire � moi-m�me. Vous me donnez
+l�, cher amour, un emploi d'�claireur, et j'ai besoin de l'obscurit�.
+
+LORENZO.--Et vous �tes obscurcie, ma douce amie, m�me sous cet aimable
+v�tement de page. Mais venez sans diff�rer; car la nuit, d�j� close,
+commence � s'�couler, et nous sommes attendus � la f�te de Bassanio.
+
+JESSICA.--Je vais fermer les portes et me dorer encore de quelques
+ducats de plus, et je suis � vous dans le moment.
+
+(Elle quitte la fen�tre.)
+
+GRATIANO.--Par mon chaperon, c'est une Gentille, et non pas une Juive.
+
+LORENZO.--Malheur � moi, si je ne l'aime pas de toute mon �me! Car elle
+est sage, autant que j'en puis juger; elle est belle, si mes yeux ne me
+trompent point; elle est sinc�re, car je l'ai �prouv�e telle, et en
+cons�quence, comme fille sage, belle et sinc�re, elle occupera pour
+toujours mon �me constante. (_Jessica repara�t � la porte._) Ah! te
+voil�?--Allons, messieurs, partons. Les masques de notre compagnie nous
+attendent.
+
+(Il sort avec Jessica et Salarino.)
+
+(Entre Antonio.)
+
+ANTONIO.--Qui est l�?
+
+GRATIANO.--C'est vous, seigneur Antonio?
+
+ANTONIO.--Fi, fi, Gratiano: o� sont tous les autres? Il est neuf heures.
+Tous nos amis vous attendent.--Point de mascarade ce soir. Le vent
+s'�l�ve, et Bassanio va s'embarquer tout � l'heure. J'ai envoy� vingt
+personnes vous chercher.
+
+GRATIANO.--J'en suis fort aise; je ne d�sire pas de plus grand plaisir
+que de mettre � la voile, et de partir cette nuit.
+
+(Ils sortent.)
+
+
+SC�NE VII
+
+A Belmont.--Un appartement dans la maison de Portia.
+
+_Fanfare de cors_. _Entrent_ PORTIA, LE PRINCE DE MAROC _et leurs
+suites_.
+
+
+PORTIA.--Allons, tirez les rideaux, et d�couvrez les coffres � ce noble
+prince. Maintenant choisissez.
+
+LE PRINCE DE MAROC.--Le premier est d'or, et porte cette inscription:
+
+    Qui me choisira gagnera ce que beaucoup d'hommes d�sirent.
+
+Le second est d'argent, et porte cette promesse:
+
+    Qui me choisira aura tout ce qu'il m�rite.
+
+Le troisi�me est de plomb, avec une inscription aussi peu remarquable
+que le m�tal:
+
+    Qui me choisira doit donner et risquer tout ce qu'il a.
+
+Comment saurai-je si je choisis bien?
+
+PORTIA.--Prince, l'un des trois renferme mon portrait: si vous le
+choisissez, je vous appartiens avec lui.
+
+LE PRINCE DE MAROC.--Puisse quelque dieu diriger mon jugement et ma
+main! Voyons un peu. Je veux encore jeter les yeux sur les inscriptions.
+Que dit le coffre de plomb?
+
+    Qui me choisira doit donner et risquer tout ce qu'il a.
+
+Doit donner! Pourquoi? Pour du plomb! Risquer pour du plomb? Ce coffre
+pr�sente une menace. On ne hasarde tout que dans l'espoir de grands
+avantages. Un coeur d'or ne se laisse pas prendre � l'amorce d'un m�tal
+de rebut. Je ne veux ni donner, ni risquer rien pour du plomb.--Que dit
+l'argent avec sa couleur virginale?
+
+    Qui me choisira recevra tout ce qu'il m�rite.
+
+Tout ce qu'il m�rite? Arr�te l�, prince de Maroc, et p�se ce que tu vaux
+d'une main impartiale. Si tu juges de ton prix par l'opinion que tu as
+de toi, ton m�rite est assez grand; mais assez ne s'�tend pas
+suffisamment loin pour atteindre cette dame.--Et pourtant, douter de ce
+que je vaux, ce serait l�chement m'exclure.--Tout ce que je m�rite!....
+Mais vraiment: c'est d'obtenir la dame. Je la m�rite par ma naissance,
+par mon rang, par mes gr�ces, par les qualit�s que j'ai re�ues de
+l'�ducation; mais plus que tout cela, je la m�rite par mon amour. Si je
+ne m'�garais pas plus loin, et que je fixasse ici mon choix.... Voyons
+encore une fois ce qui est grav� sur le coffre d'or:
+
+    Qui me choisira gagnera ce que beaucoup d'hommes d�sirent.
+
+Mais c'est cette dame. Le monde entier la d�sire, et l'on vient des
+quatre coins de la terre pour baiser cette ch�sse, cette sainte mortelle
+et vivante. Les d�serts de l'Hyrcanie et les sauvages solitudes de la
+vaste Arabie sont devenus le grand chemin que traversent les princes
+pour venir contempler la belle Portia; le liquide royaume, dont la t�te
+ambitieuse vomit � la face des cieux n'est pas une barri�re capable
+d'arr�ter ces courages lointains: ils arrivent comme sur un ruisseau,
+pour voir la belle Portia. Un de ces trois coffres contient son divin
+portrait: est-il probable qu'elle soit contenue dans du plomb? Former
+une si basse pens�e m�riterait la damnation; ce m�tal serait trop
+grossier pour assujettir m�me le linceul destin� � l'embaumer dans la
+nuit du tombeau. Croirai-je qu'elle est cach�e dans l'argent, et
+rabaiss�e ainsi dix fois au-dessous de l'or pur? Id�e criminelle! Jamais
+brillant si pr�cieux ne fut ench�ss� dans un m�tal au-dessous de l'or.
+Les Anglais ont une monnaie d'or frapp�e de la figure d'un ange: mais il
+n'est qu'empreint dessus; c'est un ange couch� dans un lit d'or.
+Donnez-moi la clef. Je choisis celui-ci, arrive que pourra.
+
+PORTIA.--La voil�, prince, et si c'est ma figure que vous y trouvez, je
+vous appartiens.
+
+(Elle ouvre le coffre d'or.)
+
+LE PRINCE DE MAROC.--O enfer! que vois-je l�? Un squelette et dans le
+creux de son oeil un rouleau de papier! lisons cet �crit.
+
+    Tout ce qui reluit n'est pas or,
+    Vous l'avez souvent ou� dire.
+    Bien des hommes ont vendu leur vie,
+    Pour ne faire que voir ce que j'offre ext�rieurement.
+    Les tombes dor�es renferment des vers.
+    Si vous eussiez �t� aussi sage que hardi,
+    Et jeune par la force, vieux par le jugement,
+    Votre r�ponse n'e�t pas �t� dans ce rouleau
+    Adieu: votre requ�te est � n�ant.
+
+A n�ant, en effet, et ma peine perdue! Adieu donc, ardeur. Glace, je
+t'accueille. (_A Portia_.)--Adieu, Portia, mou coeur est trop accabl�
+pour se r�pandre en p�nibles adieux. Ainsi s'�loignent les malheureux
+qui ont tout perdu.
+
+(Il sort avec sa suite.)
+
+PORTIA.--Nous en voil� d�livr�s tout doucement. Fermez les rideaux.
+Allons.... puissent tous ceux de sa couleur choisir de m�me!
+
+(Ils sortent.)
+
+
+SC�NE VIII
+
+A Venise.--Une rue.
+
+_Entrent_ SALANIO, SALARINO.
+
+
+SALARINO.--Eh! vraiment oui, j'ai vu Bassanio mettre � la voile.
+Gratiano est parti avec lui, et Lorenzo n'est point dans leur vaisseau;
+j'en suis s�r.
+
+SALANIO.--Ce coquin de Juif a �veill� par ses cris le duc, qui est venu
+avec lui faire la recherche du vaisseau de Bassanio.
+
+SALARINO.--Il est venu trop tard. L'ancre �tait lev�e; mais on a donn� �
+entendre au duc, qu'on avait vu dans une gondole Lorenzo et sa tendre
+Jessica. D'ailleurs Antonio a certifi� au duc qu'ils n'�taient pas dans
+le m�me vaisseau que Bassanio.
+
+SALANIO.--Jamais je n'ai entendu d'exclamations de col�re si confuses,
+si bizarres, si violentes et changeant si continuellement d'objet, que
+celles que ce chien de Juif prof�rait dans les rues: �Ma fille! � mes
+ducats! � ma fille! Un chr�tien les emporte. O mes chr�tiens de ducats!
+Justice! la loi! Mes ducats et ma fille! Un sac cachet�, deux sacs
+cachet�s de ducats, de doubles ducats, que ma fille m'a vol�s! Et des
+bijoux! deux pierres, deux pierres rares et pr�cieuses, que ma fille m'a
+vol�es! Justice! Qu'on trouve ma fille; elle a sur elle les pierres et
+les ducats.�
+
+SALARINO.--Tous les petits gar�ons de Venise courent apr�s lui, criant:
+ses pierres, sa fille et ses ducats!
+
+SALANIO.--Que le bon Antonio prenne garde � ne pas manquer au jour fix�,
+ou ce sera lui qui payera cela.
+
+SALARINO.--Vraiment, vous avez raison d'y songer. J'ai parl� hier � un
+Fran�ais qui m'a dit que sur le d�troit qui s�pare la France de
+l'Angleterre, il avait p�ri un vaisseau de notre pays, richement charg�.
+Quand il m'a dit cette nouvelle, j'ai pens� � Antonio, et j'ai
+silencieusement souhait� que ce ne f�t pas un des siens.
+
+SALANIO.--Vous ferez mieux d'avertir Antonio de ce que vous savez; mais
+ne le faites pas trop brusquement, de peur de l'affliger.
+
+SALARINO.--Il n'est pas de plus excellent homme sur la terre. J'ai vu
+Bassanio et Antonio se s�parer. Bassanio lui disait qu'il h�terait son
+retour le plus qu'il pourrait; Antonio lui r�pondait: �N'en faites rien,
+Bassanio; n'allez pas, pour l'amour de moi, g�ter vos affaires par trop
+de pr�cipitation: laissez m�rir les choses autant qu'il conviendra.
+Quant au billet que le Juif a de moi, n'en laissez pas occuper votre
+esprit amoureux; tenez-vous en joie: que votre premi�re pens�e soit de
+trouver les moyens de plaire, et de faire �clater votre amour par les
+t�moignages les plus propres � r�ussir.� A ces mots, les yeux gros de
+larmes et d�tournant le visage, il a tendu sa main en arri�re, et il a
+serr� celle de Bassanio avec une affection singuli�rement tendre; et
+c'est ainsi qu'ils se sont s�par�s.
+
+SALANIO.--Je crois qu'il n'aime la vie que pour lui: je t'en prie,
+allons le trouver, et t�chons d'all�ger par quelque divertissement la
+tristesse � laquelle il se livre.
+
+SALARINO.--Oui, allons.
+
+(Ils sortent.)
+
+
+SC�NE IX
+
+A Belmont.--Une pi�ce de la maison de Portia.
+
+_Entre_ N�RISSA _avec_ UN VALET.
+
+
+N�RISSA, _au valet_.--Vite et vite, je t'en prie, tire vite le rideau.
+Le prince d'Aragon a pr�t� le serment, et il s'avance pour choisir.
+
+(Fanfare de cors. Entrent le prince d'Aragon, Portia et leur suite.)
+
+PORTIA.--Voyez, noble prince; voici les coffres: si vous prenez celui
+qui contient mon portrait, notre hymen sera c�l�br� sur-le-champ. Mais
+si vous vous trompez, il faudra, seigneur, sans plus de discours,
+quitter imm�diatement ces lieux.
+
+LE PRINCE.--Je suis oblig�, par mon serment, d'observer trois choses: la
+premi�re, de ne jamais r�v�ler � personne quel est le coffre que j'aurai
+choisi; ensuite, si je manque le v�ritable coffre, de ne jamais faire de
+proposition de mariage � aucune jeune fille: enfin, si je n'ai pas le
+bonheur de bien choisir, de vous quitter et de partir sur-le-champ.
+
+PORTIA.--Ce sont les conditions que jurent d'observer ceux qui viennent
+pour moi s'exposer � des hasards, quelque peu digne que j'en sois.
+
+LE PRINCE.--Je me suis soumis � ces conditions en vous adressant mes
+voeux. Fortune, maintenant favorise l'espoir de mon coeur. De l'or, de
+l'argent et du vil plomb!
+
+    Qui me choisit doit donner et risquer tout ce qu'il a.
+
+Vous aurez une plus belle apparence, avant que je donne ou risque
+quelque chose. Que dit le coffre d'or? Ah! voyons.
+
+    Qui me choisit recevra ce que beaucoup d'hommes d�sirent.
+
+Beaucoup d'hommes d�sirent beaucoup.... Cela peut s'entendre de la sotte
+multitude qui d�termine son choix sur l'apparence, n'apercevant rien au
+del� de ce que son oeil charm� lui pr�sente; qui ne perce pas jusque
+dans l'int�rieur, mais comme le martinet, qui construit son nid sur les
+murs ext�rieurs, expos� aux injures de l'air, � la port�e et dans le
+chemin m�me des accidents. Je ne choisirai point ce que tant de gens
+d�sirent; je ne veux pas marcher avec les esprits vulgaires et me ranger
+parmi la foule ignorante. Je viens � toi, riche sanctuaire d'argent.
+R�p�te-moi encore l'inscription que tu portes.
+
+    Qui me choisit recevra tout ce qu'il m�rite.
+
+C'est bien dit; car qui peut chercher � duper la fortune et s'�lever
+honorablement sans l'empreinte du m�rite? Que personne ne pr�tende se
+rev�tir d'honneurs dont il est indigne.... Oh! pl�t au ciel que les
+biens, les charges, les dignit�s, ne se d�tournassent jamais dans des
+voies injustes, et que le pur honneur ne p�t jamais s'acqu�rir que par
+le m�rite de celui qui en est rev�tu. Que de gens qui sont nus seraient
+couverts! que d'autres qui commandent seraient command�s! que de grains
+de bassesse � s�parer de la vraie semence de l'honneur! que l'on
+retrouverait d'honneur cach� sous le chaume et sous les ruines du temps,
+et auquel on devrait rendre son premier �clat! Mais choisissons.
+
+    Qui me choisit recevra tout ce qu'il m�rite.
+
+Je prendrai ce que je m�rite. Donnez-moi la clef de celui-ci, et
+d�couvrez mon sort sur-le-champ.
+
+PORTIA.--Vous y avez mis trop de temps pour ce que vous trouverez ici.
+
+LE PRINCE.--Qu'est-ce? la figure d'un idiot, qui cligne de l'oeil et me
+pr�sente un papier? Je veux le lire. Que tu es diff�rent de Portia! Que
+tu es diff�rent de ce que j'esp�rais, et de ce que je m�ritais!
+
+    Qui me prend recevra tout ce qu'il m�rite.
+
+N'ai-je donc m�rit� rien de mieux que la t�te d'un sot? Est-ce l� ce que
+je vaux? Est-ce l� tout ce que je m�rite?
+
+PORTIA.--Offenser et juger sont deux emplois diff�rents et de nature
+oppos�e.
+
+LE PRINCE.--Lisons:
+
+        Le feu a �prouv� sept fois ce m�tal;
+        Sept fois �prouv� est le jugement
+        Qui n'a jamais mal choisi.
+        Il est des gens qui n'embrassent que des ombres;
+        Ceux-l� n'ont que l'ombre du bonheur!
+        Je sais qu'il y a des sots sur la terre,
+        V�tus d'argent, comme je le suis;
+        �pousez quelle femme vous voudrez,
+        Votre t�te sera toujours la mienne.
+        Ainsi partez, seigneur, vous �tes cong�di�.
+
+Plus je tarderai dans ces lieux, plus j'y ferai la figure d'un sot. Je
+suis venu apporter mes voeux avec une t�te de sot, et je m'en retourne
+avec deux. Adieu donc, dame, je remplirai mon serment de supporter
+patiemment mon malheur.
+
+(Sortent le prince d'Aragon et sa suite.)
+
+PORTIA.--Le moucheron s'est br�l� � la lumi�re. Oh! ces sots r�fl�chis!
+Quand ils choisissent, ils sont tout juste assez sages pour se perdre �
+force de raisonnements.
+
+N�RISSA.--Le vieux proverbe n'a pas tort: la potence et le choix d'une
+femme sont une affaire de hasard.
+
+PORTIA.--Allons, ferme le rideau, N�rissa.
+
+(Entre un valet.)
+
+LE VALET.--O� est madame?
+
+PORTIA.--La voici: que lui veut monsieur?
+
+LE VALET.--Madame, il vient de descendre � votre porte un jeune
+V�nitien, qui marche devant son ma�tre pour annoncer son arriv�e, et
+vous pr�senter de sa part des hommages tr�s-substantiels, je veux dire,
+outre les compliments et les paroles courtoises, des pr�sents d'un haut
+prix. Je n'ai jamais vu de messager d'amour si avenant. Jamais un jour
+d'avril n'annon�a les richesses de l'�t� qui s'avance, sous un aspect
+aussi gracieux que ce courrier lorsqu'il annonce son ma�tre.
+
+PORTIA.--Arr�te, je te prie; je crains presque que tu ne me dises tout �
+l'heure qu'il est de tes parents, en te voyant d�penser ainsi, pour le
+louer, tout ton esprit des dimanches. Allons, allons, N�rissa, je br�le
+de voir cet agile courrier d'amour, qui se pr�sente de si bonne gr�ce.
+
+N�RISSA.--Que ce soit Bassanio, seigneur Amour, si telle est ta volont�.
+
+(Ils sortent.)
+
+FIN DU DEUXI�ME ACTE.
+
+
+
+
+                            ACTE TROISI�ME
+
+
+SC�NE I
+
+A Venise.--Une rue.
+
+SALANIO, SALARINO
+
+
+SALANIO.--Eh bien! quelles nouvelles sur le Rialto?
+
+SALARINO.--Le bruit y continue toujours, sans que personne le
+contredise, qu'Antonio a perdu dans le d�troit un vaisseau richement
+charg� � l'endroit qu'ils nomment, je crois, les Good-wins; un bas-fond
+dangereux et fatal, o� sont ensevelis, dit-on, les carcasses d'une foule
+de gros vaisseaux; si du moins ma comm�re d'histoire se trouve �tre
+femme de parole.
+
+SALANIO.--Je voudrais qu'elle f�t la plus menteuse comm�re qui ait
+jamais mang� pain d'�pice, ou qui ait voulu faire accroire � ses
+voisines qu'elle pleurait la mort de son troisi�me mari.--Mais il n'est
+que trop vrai, sans perdre le temps en paroles, et pour dire tout
+bonnement les choses sans d�tour, que le bon Antonio, l'honn�te
+Antonio.... Oh! de quelle �pith�te assez digne pourrai-je accompagner
+son nom?
+
+SALARINO.--Eh bien! enfin?
+
+SALANIO.--Eh! que dis-tu? La fin de tout cela, c'est qu'il a perdu un
+navire.
+
+SALARINO.--Je voudrais du moins que ce f�t l� la fin de ses pertes.
+
+SALANIO.--Que je te r�ponde � temps, _Amen_! de peur que le diable ne
+vienne emp�cher l'effet de ta pri�re, car c'est lui que je vois
+s'avancer sous la figure d'un Juif. (_Entre Shylock._) Eh bien! Shylock,
+quelles nouvelles parmi les marchands?
+
+SHYLOCK.--- Vous avez su, et personne ne le sait, personne ne le sait si
+bien que vous, comment ma fille a pris la fuite.
+
+SALARINO.--Cela est s�r. Pour ma part, je connais le tailleur qui a fait
+les ailes avec lesquelles elle s'est envol�e.
+
+SALANIO.--Et Shylock, pour sa part, sait que l'oiseau avait toutes ses
+plumes, et qu'il est alors dans la nature des oiseaux de quitter leur
+nid.
+
+SHYLOCK.--Elle sera damn�e pour cela.
+
+SALARINO.--Oh! sans doute; si c'est le diable qui la juge.
+
+SHYLOCK.--Ma chair et mon sang se r�volter!
+
+SALANIO.--Fi donc, vieux cadavre! comment, ils se r�voltent � ton �ge?
+
+SHYLOCK.--Je dis que ma fille est ma chair et mon sang.
+
+SALARINO.--Il y a plus de diff�rence entre ta chair et la sienne,
+qu'entre le jais et l'ivoire; plus entre ton sang et le sien, qu'entre
+du vin rouge et du vin du Rhin. Mais, dites-nous, avez-vous ou� dire
+qu'Antonio ait fait quelques pertes sur mer?
+
+SHYLOCK.--J'ai encore l� une mauvaise affaire, un banqueroutier, un
+prodigue, qui ose � peine se montrer sur le Rialto; un mendiant, qui
+vous venait faire l'agr�able sur la place. Qu'il prenne garde � son
+billet. Il avait coutume de m'appeler usurier..... Qu'il prenne garde �
+son billet. Il avait coutume de pr�ter de l'argent par charit�
+chr�tienne..... Qu'il prenne garde � son billet.
+
+SALARINO.--Mais je suis bien s�r que, s'il manquait � ses engagements,
+tu ne prendrais pas sa chair; � quoi te servirait-elle?
+
+SHYLOCK.--A amorcer des poissons. Elle nourrira ma vengeance, si elle ne
+nourrit rien de mieux. Il m'a humili�; il m'a fait tort d'un
+demi-million; il a ri de mes pertes; il s'est moqu� de mon gain; il a
+insult� ma nation; il a fait manquer mes march�s; il a refroidi mes
+amis, �chauff� mes ennemis, et pour quelle raison? Parce que je suis un
+Juif. Un Juif n'a-t-il pas des yeux? un Juif n'a-t-il pas des mains,
+des organes, des proportions, des sens, des affections, des passions? ne
+se nourrit-il pas des m�mes aliments? n'est-il pas bless� des m�mes
+armes, sujet aux m�mes maladies, gu�ri par les m�mes rem�des, r�chauff�
+par le m�me �t� et glac� par le m�me hiver qu'un chr�tien? si vous nous
+piquez, ne saignons-nous pas? si vous nous chatouillez, ne rions-nous
+pas? si vous nous empoisonnez, ne mourons-nous pas? et si vous nous
+outragez, ne nous vengerons-nous pas? si nous sommes semblables � vous
+dans tout le reste, nous vous ressemblerons aussi en ce point. Si un
+Juif outrage un chr�tien, quelle est la mod�ration de celui-ci? La
+vengeance. Si un chr�tien outrage un Juif, comment doit-il le supporter,
+d'apr�s l'exemple du chr�tien? En se vengeant. Je mettrai en pratique
+les sc�l�ratesses que vous m'apprenez; et il y aura malheur si je ne
+surpasse pas mes ma�tres.
+
+(Entre un valet.)
+
+LE VALET _d'Antonio._--Messieurs, mon ma�tre Antonio est chez lui, et
+d�sire vous parler � tous deux.
+
+SALARINO.--Nous l'avons cherch� de tous c�t�s.
+
+SALANIO.--En voici un autre de la tribu. On n'en trouverait pas un
+troisi�me de la m�me secte, � moins que le diable en personne ne se f�t
+Juif.
+
+(Salanio et Salarino sortent.)
+
+(Entre Tubal.)
+
+SHYLOCK.--Eh bien! Tubal, quelles nouvelles de G�nes? As-tu trouv� ma
+fille?
+
+TUBAL.--J'ai, en beaucoup d'endroits, entendu parler d'elle; mais je
+n'ai pu la trouver.
+
+SHYLOCK.--Quoi! quoi!--Voyez, voyez, voyez un diamant qui m'a co�t� deux
+mille ducats � Francfort, que voil� parti. Jamais notre nation ne fut
+maudite comme � pr�sent..... Je ne l'ai jamais �prouv�, comme je
+l'�prouve aujourd'hui. Deux mille ducats, dans cette affaire, et
+d'autres pr�cieux bijoux!.... Je voudrais voir ma fille morte � mes
+pieds et les diamants � ses oreilles. Que n'est-elle ensevelie � mes
+pieds, et les ducats dans sa bi�re! Point de nouvelles! et de plus je ne
+sais combien d'argent d�pens� pour la faire chercher! Quoi! perte sur
+perte! Tant d'emport� par le voleur! et tant de d�pens� pour chercher le
+voleur! et point de satisfaction, point de vengeance! Il n'arrive point
+de malheur, qu'il ne me tombe sur le dos: il n'est point d'autres
+soupirs que ceux que je pousse, d'autres larmes que celles que je verse.
+
+TUBAL.--D'autres que vous ont aussi du malheur. Antonio, � ce que j'ai
+appris � G�nes....
+
+SHYLOCK.--Quoi, quoi, quoi? Un malheur, un malheur?
+
+TUBAL.--A perdu un de ses vaisseaux venant de Tripoli.
+
+SHYLOCK.--Dieu soit lou�! Dieu soit lou�! Est-il bien vrai? est-il bien
+vrai?
+
+TUBAL.--J'ai parl� � des matelots �chapp�s du naufrage.
+
+SHYLOCK.--Je te remercie, cher Tubal. Bonne nouvelle! bonne nouvelle!
+Ha! ha!--O� cela? � G�nes?
+
+TUBAL.--On m'a dit un soir � G�nes que votre fille y avait d�pens�
+quatre-vingts ducats.
+
+SHYLOCK.--Tu m'enfonces un poignard! je ne reverrai jamais mon or.
+Quatre-vingts ducats dans un seul endroit! quatre-vingts ducats!
+
+TUBAL.--Je suis arriv� � Venise avec diff�rents cr�anciers d'Antonio,
+lesquels affirment qu'il n'y a d'autre parti pour lui que de faire
+banqueroute.
+
+SHYLOCK.--J'en suis ravi. Je le ferai souffrir. Je le torturerai. J'en
+suis ravi.
+
+TUBAL.--L'un d'eux m'a montr� une bague qu'il avait eue de votre fille
+pour un singe.
+
+SHYLOCK.--La malheureuse! Tu me mets � la torture, Tubal; c'�tait ma
+turquoise. Je l'eus de L�ah, �tant encore gar�on. Je ne l'aurais pas
+donn�e pour un d�sert plein de singes.
+
+TUBAL.--Mais Antonio est certainement ruin�.
+
+SHYLOCK.--Oh! oui, cela est s�r; cela est s�r, va voir le commissaire:
+pr�viens-le quinze jours d'avance. S'il manque, j'aurai son coeur. S'il
+�tait une fois hors de Venise, je ferais tel n�goce que je voudrais.
+Cours, cours, Tubal, et viens me rejoindre � notre synagogue. Va, bon
+Tubal... A notre synagogue, Tubal.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+� Belmont.--Une pi�ce dans la maison de Portia.
+
+_Entrent_ PORTIA, BASSANIO, GRATIANO, N�RISSA, _et plusieurs personnages
+de leur suite; les coffres sont d�couverts._
+
+
+PORTIA.--Tardez un peu, je vous prie. Attendez un jour ou deux, avant de
+vous hasarder; car si vous choisissez mal, je suis priv�e de votre
+compagnie; ainsi attendez donc quelque temps. Quelque chose (mais ce
+n'est pas de l'amour) me dit que je ne voudrais pas vous perdre; et vous
+savez que ce ne sont pas l� les conseils de la haine. Mais, de peur que
+vous ne p�n�triez pas bien ma pens�e (et cependant une fille n'a d'autre
+langue que la pens�e), je voudrais vous retenir ici pendant un ou deux
+mois avant de vous voir risquer le choix d'o� je d�pends.--Je pourrais
+vous apprendre les moyens de bien choisir. Mais alors je serais parjure,
+et je ne le serai jamais; alors vous pouvez vous tromper... et
+cependant, si cela arrive, vous me ferez souhaiter un p�ch�: je
+regretterai de n'avoir pas �t� parjure. Malheur � vos yeux! ils se sont
+empar�s de moi et m'ont partag�e en deux: une moiti� de moi-m�me est �
+vous; l'autre moiti� est � vous... � moi voulais-je dire. Mais si elle
+est � moi, elle est � vous. Ainsi je suis � vous tout enti�re; oh!
+si�cle pervers qui met des obstacles entre les propri�taires et leurs
+possessions, en sorte que, bien qu'� vous, je ne suis pas � vous! Qu'il
+en soit donc ainsi et que la fortune aille en enfer pour ce fait, et non
+pas moi! Je parle trop, mais c'est pour peser sur le temps, le filer, le
+tra�ner en longueur, et retarder l'instant de votre choix.
+
+BASSANIO.--Laissez-moi choisir; car vivre en l'�tat o� je suis c'est
+�tre � la torture.
+
+PORTIA.--A la torture, Bassanio? Avouez donc quelle trahison est m�l�e �
+votre amour?
+
+BASSANIO.--Aucune, si ce n'est l'horrible trahison de la d�fiance qui me
+fait redouter l'instant de jouir de mon amour. La neige et le feu
+pourraient plut�t s'unir et vivre ensemble que la trahison et mon amour.
+
+PORTIA.--Oui; mais je crains que vous ne parliez comme un homme � la
+torture, dont la violence lui fait dire toutes sortes de choses.
+
+BASSANIO.--Promettez-moi la vie, et je confesse la v�rit�.
+
+PORTIA.--Eh bien! confessez et vivez.
+
+BASSANIO.--Confesser et aimer e�t renferm� tout mon aveu. Heureux
+tourments, lorsque celui qui fait mon supplice me sugg�re des r�ponses
+pour ma d�livrance! Mais laissez-moi essayer ma fortune et les coffres.
+
+PORTIA.--Allez donc. Je suis enferm�e dans l'un d'eux; si vous m'aimez,
+vous me trouverez. N�rissa, et vous tous, faites place.--Que la musique
+joue tandis qu'il fera son choix.--Alors, s'il choisit mal, il finira
+comme le cygne qui s'�vanouit au milieu des chants. Et afin que la
+comparaison soit plus parfaite, mes yeux formeront le ruisseau, et un
+lit de mort liquide pour lui. Il se peut que son choix soit heureux; et
+alors, � quoi servira la musique? A quoi? Elle sera comme la fanfare qui
+se fait entendre, tandis que des sujets fid�les rendent hommage � leur
+monarque nouvellement couronn�.--Elle sera, comme ces doux sons qui, aux
+premiers rayons du matin, s'insinuent dans l'oreille du fianc� encore
+enseveli dans les songes, et l'appellent � l'hym�n�e.--Le voil� qui
+s'avance avec autant de dignit�, mais avec bien plus d'amour que le
+jeune Alcide, lorsqu'il venait affranchir Troie g�missante du tribut
+d'une vierge pay� au monstre de la mer. Je suis l�, pr�te � subir le
+sacrifice; toutes les autres sont les �pouses troyennes, qui, les yeux
+troubl�s par les larmes, s'avancent hors des murs pour voir l'issue de
+l'entreprise. Va, Hercule; si tu vis, je vis. Je vois le combat avec
+bien plus de terreur que toi, qui portes les coups.
+
+(Air chant�, tandis que Bassanio examine les coffres, et semble se
+livrer � ses r�flexions.)
+
+    Dis-moi, o� si�ge l'illusion.
+    Est-ce dans le coeur, ou dans la t�te?
+    Comment na�t-elle? comment se nourrit-elle?
+    R�ponds, r�ponds.
+
+    L'illusion s'engendre dans les yeux,
+    Elle se nourrit de regards, et l'illusion meurt
+    Dans le berceau qu'elle habite.
+    Sonnons, sonnons tous la cloche de mort de l'illusion.
+    Je vais commencer. Ding dong, vole.
+
+TOUS.
+
+    Ding dong; ding dong, vole[9].
+
+BASSANIO.--C'est ainsi que ce qui para�t le plus en dehors r�pond le
+moins � l'apparence. Le monde est sans cesse d��u par l'ornement. En
+justice est-il un argument si souill�, si pervers, qu'une voix gracieuse
+ne puisse l'envelopper de fa�on � cacher le mal qui s'y trouve renferm�?
+En religion, est-il une erreur damnable, qu'un front s�v�re ne sanctifie
+et ne fasse passer au moyen d'un texte qui en cachera la grossi�ret�
+sous une s�duisante parure? Il n'est pas de vice si ing�nu qui
+n'emprunte � l'ext�rieur quelques caract�res de la vertu. Que de
+poltrons, au coeur aussi peu s�r qu'un escalier de sable, portent
+cependant sur leur menton les barbes d'Hercule et du terrible Mars!
+P�n�trez dans leur int�rieur, vous ne trouverez que des foies blancs
+comme du lait: ils ne prennent du courage que ce qu'il jette en dehors,
+pour se rendre redoutables. Regardez la beaut�, et vous verrez qu'elle
+s'ach�te au poids de ce m�tal qui op�re en ceci un miracle dans la
+nature, rendant plus facile la route de celui qui en porte le plus[10].
+Ainsi ces tresses d'or, ondoyantes comme un serpent, qui gambadent si
+follement, au souffle du vent, sur une beaut� suppos�e, ne sont bien
+souvent qu'un h�ritage pass� sur une seconde t�te, tandis que le cr�ne
+qui les a nourris est dans le tombeau. L'ornement n'est donc que le
+rivage perfide d'une mer dangereuse, la brillante �charpe qui voile une
+beaut� indienne; en un mot, un dehors de v�rit� dont ce si�cle
+artificieux se rev�t pour faire tomber les plus sages dans le pi�ge.
+Ainsi donc, or brillant, aliment que Midas a trouv� trop dur, je ne veux
+point de toi; ni de toi, p�le et vulgaire agent entre l'homme et
+l'homme. Mais toi, toi, pauvre plomb, qui menaces plus que tu ne
+promets, ta p�le simplicit� me touche plus que l'�loquence. Je fixe ici
+mon choix. Puisse le bonheur en �tre le fruit!
+
+[Note 9: _Ding dong bell_. Ce refrain est destin� � imiter le son de la
+cloche qui ne se pourrait rendre en fran�ais en traduisant _bell_ par
+_cloche_, qui est le mot correspondant. On y a substitu� _vole_, qui
+exprime une des mani�res de sonner la cloche, et produit � peu pr�s le
+m�me effet imitatif.]
+
+[Note 10: _Making them lightest that wear more of it._ _Light_ est ici
+employ� dans son double sens de brillant, et de l�ger. L'or, en rendant
+plus brillants (_lightest_) ceux qui en portent le plus, rend plus
+l�gers (_lightest_) ceux, etc., etc. Le jeu de mots �tait
+intraduisible.]
+
+PORTIA.--Comme toutes les autres passions se dissipent dans les airs,
+les pens�es inqui�tes, le d�sespoir imprudent, la crainte frissonnante,
+la jalousie � l'oeil verd�tre! Amour, mod�re-toi, temp�re ton extase,
+verse tes douceurs avec mesure, diminues-en l'exc�s. Je ressens trop tes
+f�licit�s; affaiblis-les, de peur que je n'y succombe.
+
+BASSANIO, _ouvrant le coffre de plomb_.--Que vois-je? l'image de la
+belle Portia! Quel demi-dieu a si fort approch� de la cr�ation? Ces yeux
+se meuvent-ils? ou serait-ce que, se balan�ant sur mes prunelles
+mobiles, ils me paraissent en mouvement? Ici sont des l�vres
+entr'ouvertes qu'a s�par�es une haleine de miel: une aussi douce
+barri�re devait s�parer d'aussi douces amies. L�, dans ses cheveux, le
+peintre, imitant l'araign�e, a tiss� un r�seau d'or o� les coeurs des
+hommes seront plut�t pris que ne le sont les mouches dans la toile de
+l'insecte. Mais ses yeux... comment a-t-il pu voir pour les faire! Un
+seul achev� suffisait, je crois, pour le priver des deux siens, et lui
+faire laisser l'ouvrage imparfait. Mais voyez, autant la r�alit� de mon
+imagination fait tort � cette ombre par des �loges trop au-dessous
+d'elle, autant cette ombre se tra�ne avec peine loin de la r�alit�.
+Voici le rouleau qui contient le sommaire de ma destin�e.
+
+(Il lit.)
+
+    Vous qui ne choisissez point sur l'apparence,
+    Vous avez bonne chance et bon choix.
+    Puisque ce bonheur vous arrive,
+    Soyez content, n'en cherchez pas d'autre.
+    Si celui-ci vous satisfait,
+    Et que vous regardiez votre sort comme votre bonheur,
+    Tournez-vous vers votre dame,
+    Et prenez-en possession par un baiser amoureux.
+
+Charmant �crit! Belle dame, avec votre permission. (_Il l'embrasse._) Je
+me pr�sente le billet � la main pour donner et pour recevoir: semblable
+� celui de deux concurrents se disputant le prix, qui pense avoir
+satisfait le public, mais qui, lorsqu'il entend les applaudissements, et
+les acclamations universelles, troubl�, s'arr�te et regarde avec
+incertitude, ne sachant pas bien si c'est � lui que s'adresse cette
+bord�e de louanges. Ainsi, trois fois belle Portia, je demeure en doute
+de ce que je vois jusqu'� ce que vous l'ayez confirm�, sign� et ratifi�.
+
+PORTIA.--Seigneur Bassanio, vous me voyez o� je suis, et telle que je
+suis! Pour moi seule, je n'aurais pas l'ambition de vouloir beaucoup
+mieux. Mais pour l'amour de vous, je voudrais pouvoir tripler vingt fois
+mes m�rites, �tre mille fois plus belle, dix mille fois plus riche. Je
+voudrais, seulement pour �tre plac�e plus haut dans votre estime,
+surpasser en vertus, en beaut�, en biens, en amis, tout ce qui se peut
+compter. Mais ce que je suis au total se r�duit, pour vous le dire en
+gros, � ceci, � une fille simple, peu instruite, sans exp�rience,
+heureuse en ce qu'elle n'est pas hors de l'�ge d'apprendre, plus
+heureuse en ce qu'elle n'est pas n�e si peu intelligente qu'elle ne
+puisse apprendre encore, mais heureuse par-dessus tout de soumettre son
+esprit docile � votre direction, comme � son seigneur, son ma�tre et son
+roi; moi-m�me et tout ce qui m'appartient est maintenant � vous, est
+devenu votre bien. Tout � l'heure j'�tais la ma�tresse de cette belle
+maison, de mes domestiques, et reine de moi-m�me. Maintenant cette
+maison, ces domestiques et moi-m�me, nous sommes � vous, � vous, mon
+seigneur. Je vous les donne avec cette bague. Lorsque vous vous en
+s�parerez ou que vous la perdrez, ou que vous la donnerez, ce sera le
+pr�sage de la ruine de votre amour. Il ne me restera plus que le droit
+de me plaindre de vous.
+
+BASSANIO.--Madame, vous m'avez �t� le pouvoir de vous r�pondre. Mon sang
+seul vous parle dans mes veines: et toutes les puissances de mon �tre
+s'agitent confus�ment comme, apr�s un discours noblement prononc� par un
+prince ch�ri, se confondent dans le murmure de la multitude charm�e tous
+ces sons qui, m�l�s ensemble, produisent un chaos o� rien ne se
+distingue plus que la joie qui s'exprime sans s'exprimer. Quand cette
+bague sera s�par�e de ce doigt, que la vie se s�pare de ce coeur! Vous
+pourrez dire alors sans crainte de vous tromper: Bassanio est mort.
+
+N�RISSA.--Mon seigneur et madame, c'est � pr�sent notre tour � nous, qui
+sommes demeur�s spectateurs et qui avons vu s'accomplir nos d�sirs, de
+crier: Bonheur parfait, bonheur parfait, mon seigneur et madame!
+
+GRATIANO.--Seigneur Bassanio, et vous, belle dame, je vous souhaite tout
+le bonheur que vous pouvez d�sirer; car je suis s�r que vous n'en
+souhaitez aucun aux d�pens du mien. Mais lorsque Vos Seigneuries
+solenniseront le trait� qui doit les engager, permettez-moi, je vous
+prie, de me marier aussi.
+
+BASSANIO.--De tout mon coeur. Tu peux chercher une femme.
+
+GRATIANO.--Je remercie Votre Seigneurie; vous m'en avez donn� une. Mes
+yeux, seigneur, sont aussi prompts que les v�tres. Vous avez vu la
+ma�tresse, moi j'ai vu la suivante. Vous avez aim�, j'ai aim�, car je ne
+suis pas plus dispos� que vous, seigneur, � tra�ner les choses en
+longueur. Votre sort �tait dans ces coffres, le mien s'y trouve attach�
+par l'�v�nement; car � force de faire ma cour jusqu'� me mettre en
+nage, de protester de mon amour jusqu'� m'en �tre dess�ch� le gosier, je
+suis parvenu � tenir enfin, si une promesse peut se tenir, la parole de
+cette belle, qu'elle m'accorderait son amour si vous aviez le bonheur de
+conqu�rir sa ma�tresse.
+
+PORTIA.--Est-il vrai, N�rissa?
+
+N�RISSA.--Oui, madame, si c'est votre bon plaisir.
+
+BASSANIO.--Et vous, Gratiano, �tes-vous de bonne foi?
+
+GRATIANO.--Oui, seigneur, je le jure.
+
+BASSANIO.--Nos noces seront fort embellies par les v�tres.
+
+GRATIANO.--Parions avec vous dix mille ducats � qui fera le premier
+gar�on.
+
+N�RISSA.--Quoi! et vous mettez bas l'enjeu?
+
+GRATIANO.--Non; on ne gagne pas � ce jeu-l� quand on met bas
+l'enjeu.--Mais qui vient ici? Lorenzo et son infid�le? Quoi! et le
+V�nitien Salanio, mon vieil ami?
+
+(Entrent Lorenzo, Jessica et Salanio.)
+
+BASSANIO.--Lorenzo et Salanio, soyez ici les bienvenus: si toutefois une
+possession aussi nouvelle que la mienne me donne le droit de vous y
+recevoir. Avec votre permission, ma ch�re Portia, je dis � mes amis, �
+mes compatriotes qu'ils sont les bienvenus.
+
+PORTIA.--Et je le dis aussi, seigneur; ils sont les tr�s-bienvenus.
+
+LORENZO.--J'en remercie Votre Seigneurie. Pour moi, seigneur, mon
+dessein n'�tait pas de venir vous voir ici; mais j'ai rencontr� Salanio
+en chemin; il m'a tant pri� de l'accompagner, que je n'ai pu dire non.
+
+SALANIO.--Cela est vrai, seigneur, et j'avais mes raisons. (_Il donne
+une lettre � Bassanio._) Le seigneur Antonio se recommande � votre
+souvenir.
+
+BASSANIO.--Avant que j'ouvre cette lettre, dites-moi comment se porte
+mon cher ami.
+
+SALANIO.--Point malade, seigneur, si ce n'est dans l'�me; point en
+sant�, si ce n'est celle de l'�me. Sa lettre vous apprendra sa
+situation.
+
+GRATIANO.--N�rissa, faites un bon accueil � cette �trang�re; traitez-la
+bien. Votre main, Salanio. Quelles nouvelles de Venise? Comment se porte
+ce _marchand roi_[11], le bon Antonio? Je suis s�r qu'il se r�jouira de
+nos succ�s. Nous sommes des Jasons, nous avons conquis la Toison.
+
+[Note 11: _That royal merchant_. Lors de la prise de Constantinople par
+les crois�s, la r�publique permit � ses sujets de faire, pour leur
+propre compte, dans les �les de l'Archipel, des conqu�tes dont il fut
+stipul� qu'ils jouiraient en toute souverainet�, sous la condition d'en
+faire hommage � la r�publique. Plusieurs des grandes familles de la
+r�publique cr��rent des �tablissements de ce genre qui leur valurent le
+titre _de marchands rois_.]
+
+SALANIO.--Pl�t � Dieu que vous eussiez trouv� la toison qu'il a perdue?
+
+PORTIA.--Il y a dans cette lettre quelques nouvelles sinistres qui font
+dispara�tre la couleur des joues de Bassanio. La mort de quelque ami
+ch�ri. Nul autre malheur dans le monde ne peut changer � ce point la
+constitution d'un homme de courage!... Quoi! de pis en pis?...
+Permettez, Bassanio. Je suis une moiti� de vous-m�me, et je dois
+partager sans r�serve avec vous tout ce que contient cette lettre.
+
+BASSANIO.--O ma douce Portia! ici sont renferm�s un petit nombre de mots
+les plus tristes qui jamais aient noirci le papier. Aimable dame, la
+premi�re fois que je vous d�clarai mon amour, je vous dis avec franchise
+que tout le bien que je poss�dais coulait dans mes veines, que j'�tais
+gentilhomme, et je vous disais vrai. Cependant, ch�re madame, lorsque je
+m'�valuais � n�ant, voyez quel imposteur j'�tais; au lieu de vous dire
+que mon bien n'�tait rien, j'aurais d� vous dire qu'il �tait au-dessous
+de rien; car, dans la v�rit�, je me suis engag� avec un tendre ami, et
+j'ai engag� cet ami avec le plus cruel de ses ennemis, pour me procurer
+des ressources. Voil� une lettre, madame, dont le papier me semble le
+corps de mon ami, et chaque mot une large blessure qui verse son sang
+vital. Mais est-il bien vrai, Salanio? Tous ses vaisseaux ont-ils
+manqu�? quoi! il n'en est arriv� aucun? de Tripoli, du Mexique? de
+l'Angleterre, de Lisbonne, de la Barbarie, de l'Inde? Pas un seul
+b�timent n'a pu �viter la terrible rencontre des rochers, ruine des
+marchands?
+
+SALANIO.--Pas un seul, seigneur. D'ailleurs, il para�t qu'e�t-il �
+pr�sent l'argent du billet, le Juif ne voudrait pas le prendre. Je n'ai
+jamais vu de cr�ature portant figure d'homme, aussi �pre, aussi acharn�e
+� d�truire un homme. Il assi�ge jour et nuit le duc, en appelle aux
+libert�s de l'�tat du refus de lui rendre justice. Vingt marchands, le
+duc lui-m�me et les magnifiques[12] du grand port, ont tent� de le
+persuader; mais sa haine ne veut pas sortir de l�; une peine encourue,
+la justice, son billet.
+
+[Note 12: On sait que c'�tait le titre des grands de Venise, les
+magnifiques seigneurs.]
+
+JESSICA.--Quand j'�tais avec lui, je l'ai entendu jurer � Tubal et �
+Chus, ses compatriotes, qu'il aimerait mieux avoir la chair d'Antonio,
+que vingt fois la somme qu'il lui avait pr�t�e; et j'ai la certitude,
+seigneur, que si les lois et l'autorit�, et toute la force du pouvoir ne
+s'y opposent, la chose ira bien mal pour le pauvre Antonio.
+
+PORTIA.--C'est votre ami qui se trouve dans ces angoisses?
+
+BASSANIO.--Le plus cher de mes amis, le meilleur des hommes; l'�me la
+mieux faite et la plus infatigable � rendre service; enfin, l'homme qui
+nous retrace l'ancienne vertu romaine, plus qu'aucun autre qui respire
+l'air d'Italie.
+
+PORTIA.--Combien doit-il au Juif?
+
+BASSANIO.--Il doit pour moi trois mille ducats.
+
+PORTIA.--Quoi! pas davantage? Donnez lui en six mille, et annulez le
+billet. Doublez les six mille, triplez-les, plut�t qu'un ami de cette
+sorte perde un cheveu par la faute de Bassanio. Venez d'abord �
+l'�glise, nommez-moi votre �pouse, et partez pour aller � Venise trouver
+votre ami; car vous ne reposerez point aux c�t�s de Portia avec une �me
+inqui�te. Je vous donnerai assez d'or pour payer vingt fois cette petite
+dette. Quand elle sera acquitt�e, amenez avec vous votre fid�le ami.
+Cependant, N�rissa ma suivante et moi, nous vivrons comme des filles et
+des veuves. Allons, venez; car vous allez partir le jour m�me de vos
+noces. Traitez bien vos amis, montrez leur une mine joyeuse: puisque je
+vous ai achet� cher, je vous aimerai ch�rement.--Mais voyons la lettre
+de votre ami.
+
+BASSANIO _lit_.--�Mon cher Bassanio, tous mes vaisseaux se sont perdus:
+mes cr�anciers deviennent cruels; ma fortune est r�duite � bien peu de
+chose. J'ai encouru la peine port�e dans l'obligation faite au Juif: et
+puisque en remplissant cette clause il est impossible que je vive,
+toutes vos dettes envers moi seront acquitt�es si je puis vous voir
+avant ma mort. Cependant faites ce que vous voudrez: si ce n'est pas
+votre amiti� qui vous engage � venir, que ce ne soit pas ma lettre.�
+
+PORTIA.--O mon amour, terminez promptement toute affaire; partez.
+
+BASSANIO.--Puisque vous me donnez la permission de m'�loigner, je vais
+me h�ter. Mais jusqu'� mon retour aucun lit n'aura � se reprocher de me
+retenir, aucun repos ne viendra se placer entre vous et moi.
+
+(Ils sortent.)
+
+
+SC�NE III
+
+� Venise.--Une rue.
+
+_Entrent_ SHYLOCK, ANTONIO, SALARINO, UN GE�LIER.
+
+
+SHYLOCK.--Ge�lier, veillez sur lui. Ne me parlez pas de piti�. Le voil�
+cet imb�cile qui pr�tait de l'argent gratis.--Ge�lier, veillez sur lui.
+
+ANTONIO.--Encore un mot, Shylock.
+
+SHYLOCK.--Je veux qu'on satisfasse � mon billet; ne me parle pas contre
+mon billet. J'ai jur� que mon billet serait acquitt�.--Tu m'as appel�
+chien sans en avoir aucun sujet; mais puisque je suis un chien, prends
+garde � mes crocs. Le duc me fera justice.--Je m'�tonne, coquin de
+ge�lier, que tu aies la faiblesse de sortir avec lui � sa sollicitation.
+
+ANTONIO.--Je te prie, laisse-moi te parler.
+
+SHYLOCK.--J'aurai mon billet: je ne veux point t'entendre; j'aurai mon
+billet. Ne me parle pas davantage: on ne fera pas de moi un imb�cile au
+coeur tendre, aux yeux piteux, capable de secouer la t�te, de se
+rel�cher et de c�der en soupirant aux instances des chr�tiens. Ne me
+suis pas: je ne veux point t'entendre; je veux l'acquit de mon billet.
+
+(Il sort.)
+
+SALARINO.--C'est le m�tin le plus inflexible qui ait jamais v�cu parmi
+les hommes.
+
+ANTONIO.--Laissons-le; je ne le poursuivrai plus de pri�res inutiles: il
+veut avoir ma vie; j'en sais bien la raison. J'ai souvent arrach� � ses
+poursuites plusieurs de ses d�biteurs insolvables qui sont venus
+implorer mon secours; voil� pourquoi il me hait.
+
+SALARINO.--Non, j'en suis s�r, le duc ne souffrira jamais qu'un pareil
+engagement ait son effet.
+
+ANTONIO.--Le duc ne peut refuser de suivre la loi: retrancher aux
+�trangers les s�ret�s dont ils jouissent � Venise serait une injustice
+contre l'�tat; car la richesse de son commerce est fond�e sur l'abord de
+toutes les nations. Ainsi donc, allons; mes chagrins et mes pertes m'ont
+tellement abattu, qu'� peine pourrai-je conserver jusqu'� demain une
+livre de chair pour mon sanguinaire cr�ancier. � la bonne heure; venez,
+ge�lier.--Je prie Dieu que Bassanio vienne me voir acquitter sa dette,
+et je suis content.
+
+(Ils sortent.)
+
+
+SC�NE IV
+
+� Belmont.--Une pi�ce dans la maison de Portia.
+
+_Entrent_ PORTIA, N�RISSA, LORENZO, JESSICA, BALTHASAR.
+
+
+LORENZO.--Permettez-moi, madame, de le dire en votre pr�sence, vous vous
+�tes form� une noble et juste id�e de la divine amiti�. Elle se montre
+puissamment dans la mani�re dont vous supportez l'absence de votre
+�poux; mais si vous connaissiez celui � qui vous t�moignez ces �gards, �
+quel v�ritablement galant homme vous envoyez secours, combien il aime
+votre mari, je suis s�r que vous seriez plus fi�re de votre ouvrage,
+qu'un bienfait ordinaire ne saurait vous forcer de l'�tre.
+
+PORTIA.--Je ne me suis jamais repentie d'avoir fait ce qui �tait bien,
+et je ne m'en repentirai pas aujourd'hui. Entre deux compagnons qui
+vivent et passent leurs jours ensemble, dont les �mes portent �galement
+le joug de l'affliction, il faut n�cessairement qu'il se trouve un
+rapport parfait de caract�res, de moeurs et de sentiments. C'est ce qui
+me fait penser que cet Antonio, �tant l'ami de coeur de mon �poux, doit
+ressembler � mon �poux. S'il est ainsi, il m'en co�te bien peu de chose
+pour arracher l'image de mon �me � l'�tat o� l'a r�duite une cruaut�
+infernale. Mais ceci en reviendrait trop � me louer moi-m�me; ainsi n'en
+parlons plus. �coutez autre chose. Lorenzo, je remets en vos mains le
+soin et la conduite de ma maison jusqu'au retour de mon �poux. Quant �
+moi, j'ai fait secr�tement voeu au ciel de vivre dans la pri�re et la
+contemplation, accompagn�e de la seule N�rissa, jusqu'au retour de son
+mari et de mon seigneur. Il y a un monast�re � deux milles d'ici; c'est
+l� que nous passerons le temps de leur absence. Je vous prie de ne pas
+refuser la charge que mon amiti� et la n�cessit� vous imposent.
+
+LORENZO.--Madame, je la re�ois de bon coeur. J'ob�irai toujours � vos
+honorables commandements.
+
+PORTIA.--Mes gens connaissent d�j� ma volont�; ils vous ob�iront � vous
+et � Jessica, comme au seigneur Bassanio et � moi-m�me. Adieu,
+portez-vous bien, jusqu'au moment qui nous r�unira.
+
+LORENZO.--Puissiez-vous n'avoir que des pens�es agr�ables et des moments
+heureux!
+
+JESSICA.--Je vous souhaite, madame, toute satisfaction du coeur.
+
+PORTIA.--Je vous remercie de vos voeux, et c'est avec plaisir que j'en
+fais de pareils pour vous. Adieu, Jessica. (_Lorenzo et Jessica
+sortent._) Balthasar, je t'ai toujours trouv� honn�te et fid�le; que je
+te retrouve toujours de m�me. Prends cette lettre, et fais tous tes
+efforts pour arriver � Padoue le plus t�t possible: remets-la en main
+propre au docteur Bellario, mon cousin; et fais bien attention, prends
+les habillements et les papiers qu'il te donnera, et porte-les, je t'en
+prie, avec toute la c�l�rit� imaginable, au lieu o� l'on passe la barque
+pour aller � Venise. Ne perds point de temps en discours; pars, je m'y
+trouverai avant toi.
+
+BALTHASAR.--Madame, je ferai toute la diligence possible.
+
+PORTIA.--�coute, N�rissa: j'ai des projets que tu ne connais pas encore.
+Nous reverrons nos maris plus t�t qu'ils ne s'y attendent.
+
+N�RISSA.--Nous verront-ils?
+
+PORTIA.--Oui, N�rissa; mais sous des habits qui leur feront penser que
+nous sommes pourvues de ce qui nous manque. Je gage tout ce que tu
+voudras que, quand nous serons toutes deux �quip�es en jeunes gens, je
+suis le plus joli gar�on des deux, et que ce sera moi qui porterai ma
+dague de meilleure gr�ce, qui saurai le mieux prendre cette voix fl�t�e
+qui marque le passage de l'enfance � l'�ge d'homme, et changer de petits
+pas mignards en une d�marche virile, et parler batailles comme un jeune
+fanfaron, et dire maints jolis mensonges, et comme quoi j'ai �t� requis
+d'amour par des femmes d'un rang distingu�, que mes refus ont rendues
+malades et fait mourir de douleur. Je ne pouvais pas satisfaire �
+toutes. Puis je m'en repentirai, et je regretterai d'avoir caus� leur
+tr�pas.--J'aurai ainsi une vingtaine de petits mensonges, � faire jurer
+que je suis sorti des �coles depuis plus d'un an.--J'ai dans l'esprit
+un millier des jeunes gentillesses de ces petits fanfarons, dont je veux
+faire usage.
+
+N�RISSA.--Quoi, deviendrons-nous donc des hommes?
+
+PORTIA.--Fi donc! Quelle question si tu la faisais � quelqu'un capable
+de l'interpr�ter dans un mauvais sens! Mais viens, je te dirai tout mon
+projet quand nous serons dans ma voiture, qui nous attend � la porte du
+parc. D�p�chons-nous, car il faut que nous fassions vingt milles
+aujourd'hui.
+
+(Elles sortent.)
+
+
+SC�NE V
+
+Toujours � Belmont.
+
+_Entrent_ LANCELOT ET JESSICA.
+
+
+LANCELOT.--Oui, en v�rit�,--car, voyez-vous, les p�ch�s du p�re
+retombent sur les enfants: aussi, je vous assure que j'ai peur pour
+vous. J'ai toujours �t� tout bonnement avec vous; ainsi je vous dis
+comme cela toutes les pens�es qui me viennent l�-dessus: ainsi
+tenez-vous en joie; car, pour parler vrai, je crois que vous �tes
+damn�e. Il ne reste qu'une seule esp�rance, qui peut encore vous sauver;
+mais, pas moins, ce n'est qu'une esp�ce d'esp�rance b�tarde.
+
+JESSICA.--Et quelle sorte d'esp�rance, je te prie?
+
+LANCELOT.--Eh! vraiment, vous pourriez esp�rer un peu que ce n'est pas
+votre p�re qui vous a engendr�e, que vous n'�tes pas la fille du Juif.
+
+JESSICA.--C'est l�, en effet, une sorte d'esp�rance b�tarde; mais alors
+ce seraient les p�ch�s de ma m�re qui retomberaient sur moi.
+
+LANCELOT.--Alors, ma foi, j'ai grand'peur que vous ne soyez damn�e de
+p�re et de m�re; ainsi en voulant �viter Scylla votre p�re, je tombe en
+Charybde votre m�re. Allons, vous �tes perdue des deux c�t�s.
+
+JESSICA.--Je serai sauv�e par mon mari, qui m'a faite chr�tienne.
+
+LANCELOT.--Vraiment, il n'en est que plus bl�mable; nous �tions d�j�
+bien assez de chr�tiens; tout autant qu'il en fallait pour pouvoir bien
+vivre les uns avec les autres. Cette fureur de faire des chr�tiens
+haussera le prix des porcs; si nous nous mettons tous � manger du porc,
+nous ne pourrons bient�t plus avoir une grillade sur les charbons pour
+notre argent.
+
+(Entre Lorenzo.)
+
+JESSICA.--Lancelot, je vais conter � mon mari ce que vous me dites; le
+voil� qui vient.
+
+LORENZO.--Savez-vous, Lancelot, que je deviendrai bient�t jaloux de vous
+si vous attirez ainsi ma femme dans des coins?
+
+JESSICA.--Oh! vous n'avez pas lieu de vous alarmer, Lorenzo. Lancelot et
+moi nous ne sommes pas bien ensemble. Il me dit tout net qu'il n'y a
+point de merci pour moi dans le ciel, parce que je suis la fille d'un
+Juif; et il dit aussi que vous n'�tes pas un bon membre de la
+communaut�, car, en convertissant les Juifs en chr�tiens, vous faites
+augmenter le prix du porc.
+
+LORENZO.--Je me justifierai mieux de cela envers la communaut� que vous
+ne pourrez vous justifier, vous, d'avoir grossi le ventre de la
+n�gresse: la Mauresse est enceinte de vos oeuvres, Lancelot.
+
+LANCELOT.--C'est beaucoup que la Mauresse soit plus grosse que de
+raison, mais si elle est moins qu'une honn�te femme, en v�rit�, elle est
+plus encore que je ne le croyais[13].
+
+[Note 13: It is much, that the moor should be more than reason: but if
+she be less than an honest woman, she is indeed more than I took her
+for.]
+
+LORENZO.--Comme il est ais� � tous les sots de jouer sur les mots! Je
+crois, d'honneur, que bient�t le r�le qui si�ra le mieux � l'esprit sera
+le silence, et que la parole ne sera plus qu'aux perroquets. Allons,
+rentrez, et dites-leur de se pr�parer pour le d�ner.
+
+LANCELOT.--Cela est fait, monsieur; ils ont tous des estomacs.
+
+LORENZO.--Bon Dieu! quel moulin � quolibets vous �tes! Allons,
+dites-leur de pr�parer le d�ner.
+
+LANCELOT.--Cela est fait aussi, monsieur, mais seulement couvrir est le
+mot[14].
+
+[Note 14: _Cover_, couvrir la table, et ensuite _cover_, se couvrir.]
+
+LORENZO.--Eh bien! voulez-vous couvrir?
+
+LANCELOT.--Non pas, monsieur; je connais mon devoir.
+
+LORENZO.--Encore la guerre aux mots! Veux-tu donc montrer toute la
+richesse de ton esprit en un instant? Je t'en prie, entends tout uniment
+un homme qui parle tout uniment. Va trouver tes camarades: dis-leur de
+couvrir la table, de servir les plats, et nous allons entrer pour d�ner.
+
+LANCELOT.--Pour la table, monsieur, elle sera servie; pour les plats,
+monsieur, ils seront couverts; quant � votre entr�e pour venir d�ner,
+qu'elle soit selon votre id�e et votre fantaisie.
+
+(Il sort.)
+
+LORENZO.--B�ni soit le jugement! comme ses mots s'accordent! Le sot a
+entass� dans sa m�moire une arm�e de bons termes; et j'en connais bien
+d'autres d'une condition plus relev�e qui sont farcis de mots comme lui,
+et � qui il ne faut qu'une expression plaisante pour rompre un
+entretien.--Eh bien! Jessica, comment va la joie? Et dis-moi, ma ch�re,
+dis-moi ton opinion: comment go�tes-tu l'�pouse de Bassanio?
+
+JESSICA.--Au del� de toute expression. Il est bien convenable que le
+seigneur Bassanio m�ne une vie r�guli�re; car, ayant le bonheur de
+poss�der une pareille �pouse, il go�te ici-bas les f�licit�s du ciel; et
+s'il n'�tait pas capable de les sentir ici sur la terre, il serait bien
+juste qu'il n'all�t jamais dans le ciel. Oui, si deux divinit�s
+faisaient quelque gageure c�leste, et que pour enjeu ils missent deux
+femmes de ce monde, et que Portia en f�t une, il faudrait absolument
+ajouter quelque chose � l'autre: car ce pauvre et grossier univers n'a
+pas sa pareille.
+
+LORENZO.--Eh bien! tu as en moi un �poux pareil � ce qu'elle est comme
+�pouse.
+
+JESSICA.--Oui! demande-moi donc aussi mon sentiment sur ce point.
+
+LORENZO.--C'est ce que je ferai incessamment: mais d'abord allons d�ner.
+
+JESSICA.--Pas du tout, laissez-moi faire votre pan�gyrique, tandis que
+je suis en app�tit.
+
+LORENZO.--Non, je t'en prie; r�serve-le pour propos de table: une fois
+l�, quoi que tu puisses dire, je le dig�rerai avec le reste.
+
+JESSICA.--C'est bien, je vais vous en servir.
+
+(Ils sortent.)
+
+FIN DU TROISI�ME ACTE.
+
+
+
+
+                            ACTE QUATRI�ME
+
+
+SC�NE I
+
+A Venise.--Un tribunal.
+
+_Entrent_ LE DUC, LES MAGNIFIQUES, ANTONIO, BASSANIO, GRATIANO,
+SALARINO, SALANIO _et autres personnages_.
+
+
+LE DUC.--Antonio est-il ici?
+
+ANTONIO.--Pr�t � para�tre, d�s qu'il plaira � Votre Altesse.
+
+LE DUC.--J'en suis f�ch� pour toi. Tu as affaire � un adversaire dur
+comme la pierre, � un mis�rable tout � fait inhumain et incapable de
+piti�, et dont le coeur n'a pas un grain de sensibilit�.
+
+ANTONIO.--Je sais que Votre Gr�ce a pris beaucoup de peine pour t�cher
+de mod�rer la rigueur de ses poursuites. Mais puisqu'il reste
+inexorable, et qu'il n'est aucun moyen l�gal de me soustraire � sa
+haine, j'oppose ma patience � sa fureur. Je suis arm� de courage pour
+souffrir avec une �me tranquille la cruaut� et la rage de la sienne.
+
+LE DUC.--Allez et faites entrer le Juif dans la chambre.
+
+SALANIO.--Il est � la porte, seigneur; il entre.
+
+(Entre Shylock.)
+
+LE DUC.--Faites place: qu'il paraisse devant nous.--Shylock, tout le
+monde pense, et je le pense aussi, que tu ne feras que conduire cette
+invention de ta m�chancet� jusqu'� son dernier p�riode, et qu'alors,
+c'est ainsi du moins qu'on en juge, tu voudras d�ployer une cl�mence et
+une piti� plus extraordinaires encore que l'extraordinaire cruaut� que
+tu sembles montrer; qu'au lieu d'exiger la condition du billet (qui est
+une livre de chair de ce pauvre marchand), tu ne te contenteras pas
+seulement de te d�sister de tes pr�tentions � cet �gard; mais encore
+que, touch� de sentiments de douceur et d'humanit�, tu lui remettras la
+moiti� de sa dette, et que tu jetteras un oeil de piti� sur les pertes
+accumul�es qui sont venues fondre sur lui en assez grand nombre pour
+�craser un marchand roi, et pour attendrir sur son sort des coeurs
+d'airain et les sauvages �mes de pierre des Turcs inflexibles et des
+Tartares, qui ne connurent jamais les devoirs de la douce courtoisie.
+Nous attendons de toi une r�ponse favorable, Juif.
+
+SHYLOCK.--J'ai communiqu� mes r�solutions � Votre Gr�ce: j'ai jur�, par
+le saint jour du sabbat, d'exiger mon d� et l'accomplissement de
+l'obligation. Si vous me refusez, puissent les suites de cette
+infraction retomber sur votre constitution et les libert�s de votre
+ville! Vous me demanderez pourquoi j'aime mieux prendre une livre de
+chair morte que de recevoir trois mille ducats? � cela je n'ai point
+d'autre r�ponse, sinon que c'est mon id�e. N'est-ce pas l� r�pondre? Eh
+bien! si un rat fait du d�g�t dans ma maison, ne suis-je pas le ma�tre
+de donner dix mille ducats pour le faire empoisonner? Vous ne trouvez
+pas encore cette r�ponse suffisante? Il y a des gens qui n'aiment pas �
+voir sur cette table un cochon de lait la gueule b�ante; quelques-uns,
+qui deviennent furieux quand ils y voient un chat; et d'autres, au
+nasillement de la cornemuse, ne peuvent retenir leur urine: car notre
+disposition, ma�tresse de nos passions, influe souverainement sur les
+go�ts et les d�go�ts de l'homme. J'en viens � ma r�ponse. De m�me qu'il
+n'y a point de raison pourquoi l'un ne saurait supporter la vue d'un
+cochon la gueule b�ante, l' autre celle d'un chat, animal innocent et
+n�cessaire, et l'autre le son de la cornemuse; mais qu'ils sont tous
+forc�s de c�der � cette faiblesse in�vitable, d'offenser quand ils sont
+offens�s: de m�me je ne peux ni ne veux donner d'autre raison de la
+poursuite d'un proc�s si pr�judiciable pour moi, qu'une haine intime,
+une certaine aversion que je sens contre Antonio. �tes-vous content de
+ma r�ponse?
+
+BASSANIO.--Ce n'est pas l� une r�ponse, homme insensible, qui soit
+capable d'excuser l'obstination de ta cruaut�.
+
+SHYLOCK.--Je ne me suis pas engag� � te donner une r�ponse qui te pl�t.
+
+BASSANIO.--Tous les hommes cherchent-ils � tuer ce qu'ils n'aiment pas?
+
+SHYLOCK.--Un homme hait-il ce qu'il n'a pas envie de tuer?
+
+BASSANIO.--Toute offense n'engendre pas d'abord la haine.
+
+SHYLOCK.--Comment! voudrais-tu qu'un serpent te piqu�t deux fois?
+
+ANTONIO.--Faites attention, je vous prie, � ce que c'est que de
+raisonner avec ce Juif. Vous pourriez aussi bien vous tenir sur le
+rivage � prier la mer d'abaisser la hauteur de ses mar�es ordinaires;
+vous pourriez aussi bien demander au loup pourquoi il a fait b�ler la
+brebis apr�s son agneau; vous pourriez aussi bien demander aux pins des
+montagnes de ne pas secouer leurs cimes avec bruit, quand ils sont
+battus par la temp�te du ciel. Vous viendriez aussi facilement � bout
+des plus rudes entreprises, que d'amollir (car qu'y a-t-il de plus
+rude?) son coeur de Juif. Cessez de lui faire des offres, je vous en
+conjure; ne tentez plus aucun moyen; mais laissez-moi promptement et
+simplement, comme il convient, recevoir mon jugement, et le Juif ce
+qu'il d�sire.
+
+BASSANIO.--Au lieu de trois mille ducats en voil� six mille.
+
+SHYLOCK.--Chacun de ces six mille ducats f�t-il divis� en six parties,
+et chaque partie f�t-elle un ducat, je ne les prendrais pas; je veux
+qu'on accomplisse les termes du billet.
+
+LE DUC.--Comment esp�reras-tu mis�ricorde, si tu ne fais pas
+mis�ricorde?
+
+SHYLOCK.--Quel jugement ai-je � redouter, puisque je ne fais point de
+mal? Vous avez chez vous un grand nombre d'esclaves, que comme vos �nes,
+vos chiens et vos mulets, vous employez aux travaux les plus abjects et
+les plus vils, parce que vous les avez achet�s. Irai-je vous dire:
+rendez-leur la libert�, faites, faites-leur �pouser vos h�riti�res?
+Pourquoi suent-ils sous des fardeaux? Donnez-leur des lits aussi doux
+que les v�tres. Que leur palais soit flatt� par les m�mes mets que le
+v�tre. Vous me r�pondez: ces esclaves sont � nous. Je vous r�ponds de
+m�me: la livre de chair que j'exige de lui m'appartient: je l'ai
+ch�rement pay�e, et je la veux. Si vous me refusez, honte � vos lois! Il
+n'y a plus aucune force dans les d�crets du s�nat de Venise.--J'attends
+que vous me rendiez justice. Parlez: l'aurai-je?
+
+LE DUC.--Mon pouvoir m'autorise � renvoyer l'assembl�e, jusqu'� ce que
+Bellario, savant jurisconsulte, que j'ai mand� ici aujourd'hui pour
+r�soudre cette question, soit arriv�.
+
+SALANIO.--Seigneur, il y a l� � la porte un expr�s nouvellement arriv�
+de Padoue, avec des lettres du docteur Bellario.
+
+LE DUC.--Apportez-nous ces lettres, faites entrer le messager.
+
+BASSANIO.--Esp�re, Antonio. Allons, reprends courage; le Juif aura ma
+chair, mon sang et mes os, et tout, avant que tu perdes pour moi une
+seule goutte de ton sang.
+
+ANTONIO.--Je suis le bouc �missaire du troupeau, le plus propre �
+mourir. Le fruit le plus faible tombe le premier: laissez-moi tomber de
+m�me.--Vous n'avez rien de mieux � faire, Bassanio, que de vivre et de
+composer mon �pitaphe.
+
+(Entre N�rissa d�guis�e en clerc d'avocat.)
+
+LE DUC.--Venez-vous de Padoue, et de la part de Bellario?
+
+N�RISSA.--Vous l'avez dit, seigneur: Bellario salue Votre Seigneurie.
+
+(Elle lui pr�sente une lettre.)
+
+BASSANIO.--Pourquoi aiguiser ton couteau avec tant d'application?
+
+SHYLOCK.--Pour couper ce qui me revient de ce banqueroutier.
+
+GRATIANO.--O dur Juif, ce n'est pas sur le cuir de ton soulier; c'est
+bien plut�t sur ton coeur que tu en affiles le tranchant; il n'est point
+de m�tal, pas m�me la hache du bourreau, qui ait � moiti� l'�pret� de ta
+jalouse haine. N'est-il pas une pri�re capable de te toucher?
+
+SHYLOCK.--Non, pas une seule que tu puisses avoir assez d'esprit pour
+imaginer.
+
+GRATIANO.--Puisses-tu �tre damn� dans les enfers; chien inexorable!
+Puisse-t-on faire un crime � la justice de te laisser la vie! Tu m'as
+presque fait chanceler dans ma foi: j'ai �t� tent� d'embrasser l'opinion
+de Pythagore et de croire avec lui que les �mes des animaux passent dans
+des corps humains. Ton �me canine animait un loup pendu pour meurtre
+d'homme; et son odieux esprit �chapp� du gibet, lorsque tu �tais dans le
+ventre de ta profane m�re, entra dans ton corps. Tes d�sirs sont ceux
+d'un loup sanguinaire, affam� et furieux.
+
+SHYLOCK.--Tant que tu n'effaceras pas la signature de ce billet, tu
+n'offenseras que tes poumons � parler si haut. Remets ton esprit dans
+son assiette, jeune homme, ou tu vas le perdre sans ressources.
+J'attends ici justice.
+
+LE DUC.--La lettre de Bellario recommande � la cour un jeune et savant
+docteur. O� est-il?
+
+N�RISSA.--Ici pr�s, qui attend votre r�ponse, pour savoir si vous voulez
+le recevoir.
+
+LE DUC.--De tout mon coeur. Allez le chercher, trois ou quatre d'entre
+vous, pour le conduire ici avec civilit�. Je vais en attendant faire
+part � la cour de la lettre de Bellario. (_Il lit_.) �Votre Altesse
+saura qu'� la r�ception de sa lettre je me suis trouv� tr�s malade. Mais
+au m�me moment que votre expr�s est arriv�, un jeune docteur de Rome,
+nomm� Balthasar, m'�tait venu rendre une visite d'amiti�. Je l'ai
+inform� des particularit�s du proc�s pendant entre le Juif et le
+marchand Antonio. Nous avons feuillet� ensemble beaucoup de livres. Il
+est muni de mon avis qu'il vous apporte perfectionn� par son savoir,
+dont je ne saurais trop louer l'�tendue, pour satisfaire � ma place,
+comme je l'en ai press�, � la demande de Votre Gr�ce. Que les ann�es qui
+lui manquent ne le privent pas, je vous prie, de la haute estime qui lui
+est due; car je ne vis jamais un corps si jeune avec une t�te si m�re.
+Je le recommande � votre gracieux accueil. C'est � l'essai que se fera
+le mieux conna�tre son m�rite.� Vous entendez ce que m'�crit Bellario.
+Mais voici, je crois, le docteur. (_Entre Portia v�tue en homme de
+loi_.) Donnez-moi votre main. Venez-vous de la part du vieux Bellario?
+
+PORTIA.--Oui, seigneur.
+
+LE DUC.--Soyez le bienvenu. Prenez votre place. �tes-vous instruit de la
+question qui occupe aujourd'hui la cour?
+
+PORTIA.--Je connais la cause de point en point. Quel est ici le
+marchand, et quel est le Juif?
+
+LE DUC.--Antonio et le vieux Shylock. Approchez tous deux.
+
+PORTIA.--Vous nommez-vous Shylock?
+
+SHYLOCK.--Je me nomme Shylock.
+
+PORTIA.--Le proc�s que vous avez intent� est d'�trange nature. Cependant
+vous �tes tellement en r�gle que les lois de Venise ne peuvent vous
+emp�cher de le suivre. (_A Antonio_.) Vous courez risque d'�tre sa
+victime; n'est-il pas vrai?
+
+ANTONIO.--Oui, il le dit.
+
+PORTIA.--Reconnaissez-vous le billet?
+
+ANTONIO.--Je le reconnais.
+
+PORTIA.--Il faut donc que le Juif se montre mis�ricordieux.
+
+SHYLOCK.--Qui pourrait m'y forcer, dites-moi?
+
+PORTIA.--Le caract�re de la cl�mence est de n'�tre point forc�e. Elle
+tombe, comme la douce pluie du ciel sur le lieu plac� au-dessous d'elle.
+Deux fois b�nie, elle est bonne � celui qui donne et � celui qui re�oit.
+C'est la plus haute puissance du plus puissant. Elle sied au monarque
+sur le tr�ne mieux que sa couronne. Son sceptre montre la force de son
+autorit� temporelle; c'est l'attribut du pouvoir qu'on r�v�re et de la
+majest�; mais la cl�mence est au-dessus de la domination du sceptre;
+elle a son tr�ne dans le coeur des rois. C'est un des attributs de Dieu
+lui-m�me, et les puissances de la terre se rapprochent d'autant plus de
+Dieu, qu'elles savent mieux m�ler la cl�mence � la justice. Ainsi, Juif,
+quoique la justice soit l'argument que tu fais valoir, fais cette
+r�flexion, qu'en ne suivant que la justice, nul de nous ne pourrait
+esp�rer de salut: nous prions pour obtenir mis�ricorde; et cette pri�re
+nous enseigne � tous en m�me temps � pratiquer la mis�ricorde. Je me
+suis �tendu sur ce sujet, dans le dessein de temp�rer la rigueur de tes
+poursuites, qui, si tu les continues, forceront le tribunal de Venise �
+rendre d'apr�s la loi un arr�t contre ce marchand.
+
+SHYLOCK.--Que mes actions retombent sur ma t�te! Je r�clame la loi. Je
+veux qu'on remplisse les clauses de mon billet.
+
+PORTIA.--N'est-il pas en �tat de te rendre cet argent?
+
+BASSANIO.--Oui; je le lui offre ici, aux yeux de la cour, et m�me le
+double de la somme. Si ce n'est pas assez, je m'oblige � lui payer dix
+fois la somme, sous peine de perdre mes mains, ma t�te et mon coeur. Si
+cela ne peut le satisfaire, il sera manifeste que c'est la m�chancet�
+qui opprime l'innocence. Je vous en conjure donc, faites une fois plier
+la loi sous votre autorit�. Permettez-vous une l�g�re injustice pour
+faire une grande justice et forcer la volont� de ce cruel d�mon.
+
+PORTIA.--Cela ne doit pas �tre; il n'est point d'autorit� � Venise qui
+puisse changer un d�cret �tabli. Cela deviendrait un pr�c�dent, et on se
+pr�vaudrait de cet exemple pour introduire mille abus dans l'�tat. Cela
+ne se peut pas.
+
+SHYLOCK.--C'est un Daniel venu pour nous juger! Oui, un Daniel! O jeune
+et sage juge, combien je t'honore!
+
+PORTIA.--Laissez-moi voir le billet, je vous prie.
+
+SHYLOCK.--Le voil�, r�v�rendissime docteur; le voil�.
+
+PORTIA.--Shylock, on t'offre le triple de la somme.
+
+SHYLOCK.--Un serment, un serment! J'ai un serment dans le ciel; me
+mettrai-je un parjure sur la conscience? Non; pas pour tout Venise.
+
+PORTIA.--Le d�lai fatal est expir�, et le Juif est en droit d'exiger une
+livre de chair coup�e tout pr�s du coeur du marchand. Sois
+mis�ricordieux, prends le triple de la somme, et dis-moi de d�chirer le
+billet.
+
+SHYLOCK.--Quand il sera pay� suivant sa teneur. Il para�t que vous �tes
+un digne juge: vous connaissez la loi, vous avez tr�s judicieusement
+expos� le cas; je vous somme, au nom de cette loi, dont vous �tes une
+des estimables colonnes, de proc�der au jugement. Je jure sur mon �me
+que langue d'homme ne parviendra jamais � me faire changer. Je m'en
+tiens � mon billet.
+
+ANTONIO.--Je supplie instamment la cour de rendre son jugement.
+
+PORTIA.--Eh bien! puisqu'il en est ainsi, il faut pr�parer votre sein �
+recevoir son couteau.
+
+SHYLOCK.--O noble juge! l'excellent jeune homme!
+
+PORTIA.--L'intention et l'objet de la loi sont compl�tement d'accord
+avec la clause p�nale qui, d'apr�s le billet, doit �tre accomplie.
+
+SHYLOCK.--Cela est juste. Oh! le bon et sage juge! Que tu es bien plus
+vieux que tu ne le parais!
+
+PORTIA, _� Antonio_.--Ainsi, d�couvrez votre sein.
+
+SHYLOCK.--Oui, son sein: le billet le dit. N'est-il pas vrai, noble
+juge? tout pr�s de son coeur; ce sont les propres mots.
+
+PORTIA.--Oui. Avez-vous ici des balances pour peser la chair?
+
+SHYLOCK.--J'en ai de toutes pr�tes.
+
+PORTIA.--Shylock, il faut avoir aupr�s de lui quelque chirurgien � vos
+frais pour bander sa plaie, de peur qu'il ne perde son sang jusqu'�
+mourir.
+
+SHYLOCK.--Cela est-il sp�cifi� dans le billet?
+
+PORTIA.--Non, cela n'y est pas exprim�; mais qu'importe? il serait bien
+que vous le fissiez par charit�.
+
+SHYLOCK.--Je ne le pense pas ainsi! Cela n'est pas dans le billet.
+
+PORTIA.--Approchez, marchand, avez-vous quelque chose � dire?
+
+ANTONIO.--Peu de chose.--Je suis arm� de courage et bien pr�par�.
+Donnez-moi votre main, Bassanio. Adieu, ne vous affligez point du
+malheur o� je suis tomb� pour vous; car en ceci la fortune se montre
+plus indulgente qu'� son ordinaire. Elle a toujours coutume de laisser
+les malheureux survivre � leurs biens, et contempler avec des yeux
+caves, et un front charg� de rides, une vieillesse accabl�e sous la
+pauvret�. Elle me d�livre des p�nibles langueurs d'une pareille
+mis�re.--Parlez de moi � votre noble �pouse; racontez-lui comment est
+arriv�e la mort d'Antonio; dites lui combien je vous aimais; parlez bien
+de ma mort, et, votre r�cit fini, qu'elle juge si Bassanio fut aim�. Ne
+vous repentez point de la cause qui vous fait perdre votre ami; comme il
+ne se repent point de satisfaire � votre dette; car si le Juif enfonce
+son couteau autant que je le d�sire, je vais la payer de tout mon coeur.
+
+BASSANIO.--Antonio, j'ai �pous� une femme qui m'est aussi ch�re que la
+vie: mais ma vie, ma femme et l'univers entier ne me sont pas plus
+pr�cieux que vos jours. Je consentirais � tout perdre, oui, � tout
+sacrifier � ce d�mon pour vous d�livrer.
+
+PORTIA.--Si votre femme �tait l� pour vous entendre, elle vous
+remercierait assez peu de cette offre.
+
+GRATIANO.--J'aime une femme que j'aime, je vous le proteste. Je voudrais
+qu'elle f�t dans le ciel si elle y pouvait obtenir les moyens de changer
+le coeur de ce m�tin de Juif!
+
+N�RISSA.--Vous faites bien de dire cela en arri�re d'elle, sans quoi
+votre voeu pourrait troubler la paix du m�nage.
+
+SHYLOCK, _� part_.--Voil� nos �poux chr�tiens. J'ai une fille; j'aurais
+mieux aim� qu'elle pr�t pour mari un rejeton de la race de Barrabas,
+qu'un chr�tien. (_Haut_.) Nous perdons le temps en bagatelles. Je te
+prie, fais ex�cuter la sentence.
+
+PORTIA.--Une livre de chair de ce marchand t'appartient: la cour te
+l'adjuge et la loi te la donne.
+
+SHYLOCK.--O juge �quitable!
+
+PORTIA.--Et vous devez couper cette chair sur son sein: la loi le permet
+et la cour vous l'accorde.
+
+SHYLOCK.--Le savant juge! Voil� une sentence!--Allons, pr�parez-vous.
+
+PORTIA.--Arr�te un instant. Ce n'est pas tout. Le billet ne t'accorde
+pas une goutte de sang: les termes sont expr�s; une livre de chair.
+Prends ce qui t'est d�; prends ta livre de chair. Mais si, en la
+coupant, tu verses une seule goutte de sang chr�tien, les lois de Venise
+ordonnent la confiscation de tes terres et de tes biens au profit de la
+r�publique.
+
+GRATIANO.--O le juge �quitable! Vois, Juif, le savant juge!
+
+SHYLOCK.--Est-ce l� la loi?
+
+PORTIA.--Tu en verras le texte; et, puisque tu veux absolument qu'on te
+fasse justice, sois certain qu'on te la feras plus que tu ne voudras.
+
+GRATIANO.--O le savant juge! Regarde donc, Juif! le savant juge!
+
+SHYLOCK.--En ce cas-l�, j'accepte son offre. Qu'on me compte trois fois
+le montant de l'obligation, et qu'on rel�che le chr�tien.
+
+BASSANIO.--Voici ton argent.
+
+PORTIA.--Doucement: on rendra pleine justice au Juif. Doucement: ne vous
+pressez pas; il n'aura pas autre chose que ce que porte le billet.
+
+GRATIANO.--O Juif! Un juge �quitable, un savant juge!
+
+PORTIA.--Ainsi pr�pare-toi � couper la chair. Ne verse point de sang; ne
+coupe ni plus ni moins, mais tout juste une livre de chair. Si tu coupes
+plus ou moins d'une livre pr�cise, quand ce ne serait que la vingti�me
+partie d'un mis�rable grain; bien plus, si la balance penche de la
+valeur d'un cheveu, tu es mort, et tous tes biens sont confisqu�s.
+
+GRATIANO.--Un second Daniel, un Daniel, Juif. Infid�le, te voil� pris
+maintenant.
+
+PORTIA.--Pourquoi le Juif balance-t-il? Prends ce qui te revient.
+
+SHYLOCK.--Donnez-moi mon principal, et laissez-moi aller.
+
+BASSANIO.--Le voici tout pr�t: tiens.
+
+PORTIA.--Il l'a refus� en pr�sence de la cour; il n'obtiendra que simple
+justice et ce que porte son billet.
+
+GRATIANO.--Un Daniel, te dis-je, un second Daniel! Je te remercie, Juif,
+de m'avoir appris ce mot.
+
+SHYLOCK.--N'aurai-je pas mon principal pur et simple?
+
+PORTIA.--Tu n'auras rien que ce que porte l'obligation, Juif; tu peux le
+prendre � tes risques et p�rils.
+
+SHYLOCK.--Eh bien! que le diable lui en donne l'acquit, je ne resterai
+pas plus longtemps ici � disputer.
+
+PORTIA.--Arr�tez, Juif, la justice a d'autres droits sur vous. Il est
+port� dans les lois de Venise, que lorsqu'il sera prouv� qu'un �tranger
+aura attent�, par des voies directes ou indirectes, � la vie d'un
+citoyen, la moiti� de ses biens sera saisie au profit de celui contre
+qui il aura tram� quelque entreprise, que l'autre moiti� entrera dans
+les coffres particuliers de l'�tat; enfin, que le duc seul peut lui
+faire gr�ce de la mort � laquelle tous les autres juges devront le
+condamner: je d�clare que tu te trouves dans le cas. Il est notoire que
+tu as travaill� indirectement et m�me directement � faire p�rir le
+d�fendeur. Ainsi tu as encouru les peines que je viens de mentionner: �
+genoux donc, et implore la cl�mence du duc.
+
+GRATIANO.--Demande qu'il te soit permis de te pendre toi-m�me.
+Cependant, comme tes biens appartiennent � la r�publique, tu n'as pas de
+quoi t'acheter une corde; il faut que tu sois pendu aux frais de l'�tat.
+
+LE DUC.--Afin que tu voies la diff�rence de l'esprit qui nous anime, je
+te fais gr�ce de la vie sans que tu me la demandes. Quant � la moiti� de
+tes biens, elle appartient � Antonio, l'autre moiti� revient � l'�tat.
+Mais tu peux, en te soumettant humblement, obtenir qu'on se restreigne �
+une amende.
+
+PORTIA.--Oui, pour l'�tat et non pour Antonio.
+
+SHYLOCK.--Eh bien! prenez ma vie et tout, ne me faites gr�ce de rien.
+Vous m'�tez ma famille quand vous m'�tez les moyens de soutenir ma
+famille, vous m'�tez ma vie quand vous m'�tez les ressources avec quoi
+je vis.
+
+PORTIA.--Que doit-il attendre de votre piti�, Antonio?
+
+GRATIANO.--Une corde gratis. Rien de plus, au nom de Dieu!
+
+ANTONIO.--Je demanderai � monseigneur le duc et � la cour, qu'on lui
+laisse la moiti� de ses biens sans exiger d'amende. Je serai satisfait
+s'il me laisse disposer de l'autre moiti�, pour la rendre, � sa mort, au
+gentilhomme qui a enlev� sa fille. Et cela sous deux conditions: la
+premi�re, c'est qu'en faveur de ce qu'on lui accorde il se fera chr�tien
+sur-le-champ; l'autre, qu'il fera une donation en pr�sence de la cour,
+par laquelle tout ce qui lui appartient passera, apr�s sa mort, � son
+gendre Lorenzo et � sa fille.
+
+LE DUC.--Il y souscrira, sinon je r�voque le pardon que j'ai accord�.
+
+PORTIA.--Es-tu content, Juif, que r�ponds-tu?
+
+SHYLOCK.--Je suis content.
+
+PORTIA.--Clerc, dressez un acte de donation.
+
+SHYLOCK.--Je vous en conjure, laissez-moi sortir d'ici. Je ne me sens
+pas bien. Envoyez l'acte chez moi: je signerai.
+
+LE DUC.--Va-t'en, mais signe.
+
+GRATIANO.--Tu auras deux parrains � ton bapt�me. Si j'avais �t� juge, tu
+en aurais eu dix de plus pour te conduire � la potence, et non pas aux
+fonts baptismaux.
+
+(Shylock sort.)
+
+LE DUC, _� Portia_.--Monsieur, je vous invite � venir d�ner chez moi.
+
+PORTIA.--Je supplie humblement Votre Gr�ce de m'excuser. Il faut que je
+me rende ce soir � Padoue, et que je parte sur-le-champ.
+
+LE DUC.--Je suis f�ch� que vous ne soyez pas de loisir.--Antonio,
+reconnaissez les peines de monsieur; vous lui avez, � mon gr�, de
+grandes obligations.
+
+(Sortent le duc, les magnifiques et la suite.)
+
+BASSANIO.--Tr�s digne gentilhomme! vous avez arrach� aujourd'hui mon ami
+et moi-m�me � des peines cruelles. C'est de grand coeur que nous payons
+vos obligeants services, avec les trois mille ducats qui �taient dus au
+Juif.
+
+ANTONIO.--Et que de plus nous reconna�trons vous devoir � jamais notre
+attachement et nos services.
+
+PORTIA.--On est pay�, quand on est satisfait; je le suis d'avoir r�ussi
+� vous d�livrer; ainsi donc, je me regarde comme tr�s-bien pay�. Mon �me
+n'a jamais �t� plus mercenaire que cela. Je vous prie de me reconna�tre,
+quand il nous arrivera de nous rencontrer. Je vous souhaite toute sorte
+de bonheur et prends cong� de vous.
+
+BASSANIO.--Mon cher monsieur, je ne puis m'emp�cher de faire encore mes
+efforts pour que vous acceptiez de nous quelque souvenir � titre de
+tribut et non de salaire. Accordez-moi deux choses, je vous prie, de ne
+me pas refuser, et de m'excuser.
+
+PORTIA.--Vous me faites tant d'instances, que j'y c�de. Donnez-moi vos
+gants, je les porterai en m�moire de vous: et, pour marque de votre
+amiti�, je prendrai cette bague.... Ne retirez donc pas votre main, je
+ne veux rien de plus! Votre amiti� ne me la refusera pas.
+
+BASSANIO.--Cette bague, mon bon monsieur! eh! c'est une bagatelle; je
+rougirais de vous faire un pareil pr�sent.
+
+PORTIA.--Je ne veux rien de plus que cette bague, et maintenant je me
+sens une grande envie de l'avoir.
+
+BASSANIO.--Elle est pour moi d'une importance bien au-dessus de sa
+valeur. Je ferai chercher � son de trompe la plus belle bague de Venise,
+et je vous l'offrirai: pour celle-ci, je ne le puis, excusez-moi, de
+gr�ce.
+
+PORTIA.--Je vois, monsieur, que vous �tes lib�ral en offre. Vous m'avez
+d'abord appris � demander, et maintenant, � ce qu'il me semble, vous
+m'apprenez comment on doit r�pondre � celui qui demande.
+
+BASSANIO.--Mon bon monsieur, je tiens cette bague de ma femme;
+lorsqu'elle la mit � mon doigt, elle me fit jurer de ne jamais la
+vendre, ni la donner, ni la perdre.
+
+PORTIA.--Cette excuse sauve aux hommes bien des pr�sents. � moins que
+votre femme ne soit folle, lorsqu'elle saura combien j'ai m�rit� cette
+bague, elle ne se brouillera pas avec vous � tout jamais, pour me
+l'avoir donn�e. C'est bien; la paix soit avec vous!
+
+(Sortent Portia et N�rissa.)
+
+ANTONIO.--Seigneur Bassanio, donnez-lui cette bague. Que ses services et
+mon amiti� l'emportent sur l'ordre de votre femme.
+
+BASSANIO.--Allons. Va, Gratiano, t�che de le joindre. Donne-lui la bague
+et, s'il se peut, engage-le � venir chez Antonio. Cours, d�p�che-toi.
+(_Gratiano sort_.) Rendons-nous-y de ce pas. Demain de grand matin nous
+volerons � Belmont. Venez, Antonio.
+
+(Ils sortent.)
+
+
+SC�NE II
+
+Toujours � Venise.--Une rue.
+
+_Entrent_ PORTIA et N�RISSA.
+
+
+PORTIA.--Demande o� est la maison du Juif; donne-lui cet acte � signer.
+Nous partirons ce soir, et nous arriverons un jour avant nos maris.--Cet
+acte sera fort bien re�u de Lorenzo.
+
+(Entre Gratiano.)
+
+GRATIANO.--Mon beau monsieur, soyez le bien retrouv�. Le seigneur
+Bassanio, apr�s de plus amples r�flexions, vous envoie cette bague et
+vous invite � d�ner.
+
+PORTIA.--Je ne le puis. J'accepte sa bague; dites-le-lui ainsi de ma
+part, je vous prie.--Enseignez, de plus, je vous prie, encore � ce jeune
+homme la demeure du vieux Shylock.
+
+GRATIANO.--Je vais vous l'indiquer.
+
+N�RISSA.--Monsieur, je voudrais vous dire un mot. (_A Portia_.) Je veux
+essayer si je pourrai ravoir de mon mari la bague que je lui ai fait
+jurer de conserver toujours.
+
+PORTIA.--Tu y parviendras, je t'en r�ponds.--Ils vont nous faire des
+serments de l'autre monde, qu'ils ont donn� leurs bagues � des hommes;
+mais nous leur tiendrons t�te, et leur en donnerons le d�menti. Allons,
+d�p�che-toi; tu sais o� je t'attends.
+
+N�RISSA, _� Gratiano_.--Venez, mon bon monsieur. Voulez-vous me montrer
+cette maison?
+
+(Ils sortent.)
+
+FIN DU QUATRI�ME ACTE.
+
+
+
+
+                            ACTE CINQUI�ME
+
+
+SC�NE I
+
+A Belmont.--Avenue de la maison de Portia.
+
+_Entrent_ LORENZO et JESSICA.
+
+
+LORENZO.--Que la lune est brillante!--Ce fut dans une nuit semblable,
+tandis qu'un doux z�phyr caressait l�g�rement les feuillages sans y
+exciter le moindre fr�missement, que Tro�le, si je m'en souviens,
+escalada les murs de Troie, et adressa les soupirs de son �me vers les
+tentes des Grecs, o� reposait Cressida.
+
+JESSICA.--Ce fut dans une pareille nuit que Thisb�, craintive et foulant
+d'un pied l�ger la ros�e du gazon, aper�ut l'ombre d'un lion avant de le
+voir lui-m�me, et s'enfuit �perdue de frayeur.
+
+LORENZO.--Ce fut dans une nuit semblable que Didon, seule sur le rivage
+d'une mer en furie, une branche de saule � la main, rappela du geste son
+amant vers Carthage.
+
+JESSICA.--Ce fut dans une semblable nuit que M�d�e cueillit les plantes
+enchant�es qui rajeunirent le vieux �son.
+
+LORENZO.--C'est dans une nuit pareille que Jessica s'est �vad�e de la
+maison du riche Juif, et, des pas emport�s de l'amour, a couru depuis
+Venise jusqu'� Belmont.
+
+JESSICA.--Et c'est dans une pareille nuit que le jeune Lorenzo lui a
+jur� qu'il l'aimait tendrement, et qu'il a d�rob� son coeur par mille
+serments d'amour, dont aucun n'est sinc�re.
+
+LORENZO.--Et c'est dans une pareille nuit que la jolie Jessica, comme
+une petite mauvaise qu'elle est, calomnia son amant qui lui pardonna.
+
+JESSICA.--Je voudrais vous faire passer la nuit en ce lieu, si personne
+ne devait venir.--Mais �coutez.... j'entends les pas d'un homme.
+
+(Entre un domestique.)
+
+LORENZO.--Qui s'avance l� d'un pas si pr�cipit� dans le silence de la
+nuit?
+
+LE DOMESTIQUE.--Ami.
+
+LORENZO.--Un ami? Quel ami? Votre nom, je vous prie, l'ami?
+
+LE DOMESTIQUE.--Stephano est mon nom. Et je viens annoncer que ma
+ma�tresse sera de retour � Belmont avant le point du jour. Elle erre
+dans les environs, s'agenouillant au pied de toutes les croix sacr�es o�
+elle prie Dieu de lui accorder d'heureux jours dans son mariage.
+
+LORENZO.--Qui vient avec elle?
+
+LE DOMESTIQUE.--Personne, qu'un saint ermite, et sa suivante. Dites-moi,
+je vous prie, mon ma�tre est-il de retour?
+
+LORENZO.--Pas encore; et nous n'en avons pas eu de nouvelles.--Mais
+entrons, Jessica, je t'en prie, et faisons quelques pr�paratifs pour
+recevoir honorablement la ma�tresse du logis.
+
+(Entre Lancelot.)
+
+LANCELOT _chantant_.--Sol, la, sol la, ho, ha, sol la, hola, sol la.
+
+LORENZO.--Qui appelle?
+
+LANCELOT.--Sol la. Avez-vous vu M. Lorenzo et madame Lorenzo?
+
+LORENZO.--Cesse tes hol�. Par ici.
+
+LANCELOT.--Sol la.--O�? o�?
+
+LORENZO.--Ici
+
+LANCELOT.--Dis-lui qu'il vient d'arriver un courrier de la part de mon
+ma�tre, son cornet plein de bonnes nouvelles. Mon ma�tre sera ici avant
+le matin.
+
+(Il sort.)
+
+LORENZO.--Entrons, ma ch�re �me, et attendons leur arriv�e; et cependant
+ce n'est pas la peine.... Pourquoi entrerions-nous?--Ami Stephano,
+annoncez, je vous prie, dans le ch�teau, que votre ma�tresse est pr�s
+d'arriver, et amenez ici les musiciens en plein air. (_Le domestique
+sort_.) Que la clart� de la lune dort doucement sur ce banc de gazon!
+Nous nous y assi�rons et les sons de la musique se glisseront dans notre
+oreille. Ce doux silence et cette nuit si belle conviennent aux accords
+d'une gracieuse harmonie. Assieds-toi, Jessica; vois comme la vo�te des
+cieux est incrust�e de disques brillants. Parmi tous ces globes que tu
+vois, il n'y a pas jusqu'au plus petit, dont les mouvements ne
+produisent une musique ang�lique en accord avec les concerts des
+ch�rubins, � l'oeil plein de jeunesse. Telle est l'harmonie qui se
+r�v�le aux �mes immortelles: mais tant que notre �me est enclose dans
+cette grossi�re enveloppe d'une argile p�rissable, nous sommes
+incapables de l'entendre. (_Entrent les musiciens_.)--Allons, �veillez
+Diane par un hymne; p�n�trez des sons les plus m�lodieux l'oreille de
+votre ma�tresse, et entra�nez-la vers sa demeure par le charme de la
+musique.
+
+JESSICA.--Jamais je ne suis gaie quand j'entends une musique agr�able.
+
+LORENZO.--La raison en est que vos esprits sont attentifs; car voyez un
+sauvage et fol�tre troupeau, une bande de jeunes �talons qui n'ont point
+encore senti la main de l'homme, bondissant avec folie, et faisant
+retentir leurs voix par de bruyants hennissements, effet de l'ardeur de
+leur sang; si par hasard ils viennent � entendre le son d'une trompette,
+ou que leurs oreilles soient frapp�es de quelque m�lodie, vous les
+verrez aussit�t s'arr�ter tout court, et leurs yeux farouches prendre un
+regard adouci, par la douce puissance de la musique. Voil� pourquoi les
+po�tes ont pr�tendu qu'Orph�e attirait les arbres, les rochers et les
+fleuves, parce qu'il n'est rien dans la nature de si insensible, de si
+dur, de si furieux, dont la musique ne change pour quelques instants le
+caract�re; l'homme qui n'a en lui-m�me aucune musique, et qui n'est pas
+�mu par le doux accord des sons, est propre aux trahisons, aux
+perfidies, aux rapines; les mouvements de son �me sont mornes comme la
+nuit, et ses penchants t�n�breux comme l'�r�be; ne vous fiez point � un
+tel homme.--�coutons la musique.
+
+(Entrent Portia, N�rissa, � quelque distance.)
+
+PORTIA.--Cette lumi�re que nous voyons, br�le dans ma salle. Que ce
+petit flambeau jette loin ses rayons! C'est ainsi qu'une belle action
+reluit dans un monde corrompu.
+
+N�RISSA.--Quand la lune brillait, nous n'apercevions pas ce flambeau.
+
+PORTIA.--Ainsi une petite gloire est obscurcie par une plus grande. Le
+d�l�gu� du pouvoir jette autant d'�clat qu'un roi jusqu'� ce que le roi
+paraisse. Alors sa pompe va se perdre comme un ruisseau dans l'immensit�
+des mers.--De la musique? �coutons.
+
+N�RISSA.--Ce sont vos musiciens, madame; cela vient de la maison.
+
+PORTIA.--Je le vois; il n'y a rien de bon que par certains
+rapprochements. Cette musique me semble beaucoup plus douce que pendant
+le jour.
+
+N�RISSA.--Madame, c'est le silence qui lui pr�te ce charme.
+
+PORTIA.--Le corbeau a d'aussi doux sons que l'alouette, pour qui ne fait
+pas attention � leur voix; et je crois que si le rossignol chantait
+pendant le jour au milieu des cris aigus des canards, il ne passerait
+pas pour meilleur musicien que le roitelet. Combien de choses doivent �
+l'�-propos les justes �loges qu'elles obtiennent et leur v�ritable
+perfection! Silence, paix! la lune dort avec Endymion, et ne voudrait
+pas �tre r�veill�e.
+
+(La musique cesse.)
+
+LORENZO.--C'est la voix de Portia, ou je suis bien tromp�.
+
+PORTIA.--Il m'a reconnue, comme l'aveugle reconna�t le coucou, � sa
+mauvaise voix.
+
+LORENZO.--Ma ch�re dame, soyez la bienvenue chez vous.
+
+PORTIA.--Nous avons employ� le temps � prier Dieu pour nos �poux. Nous
+esp�rons que c'est avec succ�s et que nos paroles leur auront �t� de
+quelque avantage. Sont-ils de retour?
+
+LORENZO.--Pas encore, madame; mais il vient d'arriver un messager pour
+les annoncer.
+
+PORTIA.--Entrez, N�rissa; recommandez � mes domestiques de ne point
+parler du tout de l'absence que nous avons faite. N'en parlez pas non
+plus, Lorenzo, ni vous, Jessica.
+
+(On entend une fanfare.)
+
+LORENZO.--Votre mari n'est pas loin, j'entends sa trompette.--Nous ne
+sommes pas des rapporteurs, madame; ne craignez rien.
+
+PORTIA.--Cette nuit ressemble au jour, mais au jour malade; elle est un
+peu plus p�le que lui. C'est le jour tel qu'il est lorsque le soleil se
+cache.
+
+(Entrent Bassanio, Antonio, Gratiano et leur suite.)
+
+BASSANIO, _� Portia_.--Nous aurions le jour en m�me temps que les
+antipodes, si vous vous promeniez en l'absence du soleil.
+
+PORTIA.--Si j'�claire, que ce ne soit pas comme l'inconstant �clair[15],
+car une femme l�g�re rend pesant le pouvoir d'un mari, et puisse n'�tre
+jamais ainsi pour moi celui de Bassanio! mais Dieu dispose de tout.
+Soyez le bienvenu chez vous, seigneur.
+
+[Note 15:
+
+    Let me give light, but let me not be light:
+
+�Que je donne de la lumi�re (_light_), mais que je ne sois point l�g�re
+(_light_).� Jeu de mots familier � Shakspeare et aux auteurs de son
+temps, et qu'il a fallu remplacer par un �quivalent pour donner un sens
+� ce qui suit.]
+
+BASSANIO.--Je vous rends gr�ces, madame. Faites bon accueil � mon ami:
+c'est Antonio, c'est l'homme � qui j'ai tant d'obligations.
+
+PORTIA.--Vous lui avez dans tous les sens, en effet, de grandes
+obligations, car, � ce que j'apprends, il en avait contract� pour vous
+de bien consid�rables.
+
+ANTONIO.--Aucune qu'il n'ait bien acquitt�e.
+
+PORTIA.--Seigneur, vous �tes le tr�s-bienvenu dans notre maison. Je veux
+vous le prouver autrement que par des paroles; c'est pourquoi j'abr�ge
+les discours de politesse.
+
+GRATIANO, _� N�rissa, qui lui parlait � part_.--Par cette lune, je vous
+proteste que vous me faites injure. En honneur, je l'ai donn�e au clerc
+du juge. Quant � moi, mon amour, puisque vous prenez la chose si fort �
+coeur, je voudrais que celui qui l'a f�t eunuque.
+
+PORTIA.--Une querelle! Comment? d�j�? De quoi s'agit-il?
+
+GRATIANO.--D'un anneau d'or, d'une m�chante bague qu'elle m'a donn�e,
+avec une devise, de par l'univers, de la force de celles que les
+couteliers mettent sur les couteaux: �Aimez-moi, et ne m'abandonnez
+pas.�
+
+N�RISSA.--Que parlez-vous de sa devise ou de sa valeur? Vous m'avez
+jur�, lorsque je vous la donnai, de la garder jusqu'� votre derni�re
+heure, et de l'emporter avec vous dans le tombeau. Quand ce n'e�t pas
+�t� en ma consid�ration, au moins par respect pour vos ardentes
+protestations, vous auriez d� la conserver. Il l'a donn�e au clerc de
+l'avocat! Mais je sais bien, moi, que ce clerc qui l'a re�ue n'aura
+jamais de poil au menton.
+
+GRATIANO.--Il en aura, s'il vit, pour devenir homme.
+
+N�RISSA.--Dites, si une femme vit assez longtemps pour devenir homme.
+
+GRATIANO.--Par cette main, je te jure que je l'ai donn�e, � un jeune
+homme, une esp�ce d'enfant, un ch�tif petit gar�on pas plus grand que
+toi, le clerc du juge, un petit jaseur, qui me l'a demand�e pour ses
+peines. En conscience, je ne pouvais pas la refuser.
+
+PORTIA.--Je vous le dirai franchement, vous �tes bl�mable de vous �tre
+d�fait aussi l�g�rement du premier pr�sent de votre femme. Un don
+attach� sur votre doigt par des serments, et scell� sur votre chair par
+la foi conjugale! J'ai donn� une bague � mon bien-aim�, et je lui ai
+fait jurer de ne s'en jamais s�parer. Le voil�; j'oserais bien r�pondre
+pour lui qu'il ne s'en d�fera jamais, qu'il ne l'�terait pas de son
+doigt pour tous les tr�sors que poss�de le monde. En v�rit�, Gratiano,
+vous donnez � votre femme un trop cruel sujet de chagrin. Si pareille
+chose m'arrivait, j'en perdrais la raison.
+
+BASSANIO, _� part_.--D'honneur, il vaudrait mieux me couper la main
+gauche, et dire que j'ai perdu l'anneau � mon corps d�fendant.
+
+GRATIANO.--Le seigneur Bassanio a donn� sa bague � l'avocat qui la lui
+demandait, et qui, en v�rit�, la m�ritait bien. Et alors le petit jeune
+homme, son clerc, qui avait eu la peine de faire quelques �critures, m'a
+demand� la mienne; et ni le ma�tre ni le clerc n'ont rien voulu accepter
+que nos deux bagues.
+
+PORTIA.--Quelle bague avez-vous donn�e, seigneur? J'esp�re que ce n'est
+pas celle que vous tenez de moi.
+
+BASSANIO.--Si j'�tais capable d'ajouter un mensonge � une faute, je
+nierais le fait. Mais, vous le voyez, mon doigt ne porte plus la bague;
+je ne l'ai plus.
+
+PORTIA.--Et votre coeur perfide est �galement d�pourvu de foi. Je jure
+devant le ciel que je n'entrerai pas dans votre lit que je ne revoie ma
+bague.
+
+N�RISSA.--Ni moi dans le v�tre que je ne revoie la mienne.
+
+BASSANIO.--Ch�re Portia, si vous saviez � qui j'ai donn� la bague, si
+vous saviez pour qui j'ai donn� la bague, si vous pouviez concevoir pour
+quel service j'ai donn� la bague, et avec quelle r�pugnance j'ai
+abandonn� la bague, lorsqu'on ne voulait recevoir autre chose que la
+bague, vous calmeriez la vivacit� de votre indignation.
+
+PORTIA.--Si vous eussiez connu la valeur de la bague, ou la moiti� du
+prix de celle qui vous a donn� la bague, ou combien votre honneur �tait
+int�ress� � conserver la bague, vous ne vous seriez jamais d�fait de la
+bague. Quel homme assez d�raisonnable, s'il vous avait plu de la
+d�fendre avec quelque z�le, e�t eu assez peu d'honn�tet� pour exiger une
+chose qu'on conservait avec un respect religieux? N�rissa m'apprend ce
+que je dois penser. J'en mourrai; c'est quelque femme qui a ma bague.
+
+BASSANIO.--Non, madame, sur mon honneur, sur ma vie, ce n'est point une
+femme; c'est un honn�te docteur qui n'a pas voulu recevoir de moi trois
+mille ducats, et qui m'a demand� la bague. Je la lui ai refus�e. J'ai eu
+la constance de le voir se retirer m�content, lui qui avait d�fendu la
+vie de mon plus cher ami. Que vous dirai-je, ma douce amie? Je me suis
+cru oblig� d'envoyer sur ses pas: j'�tais assi�g� par les remords et la
+courtoisie; je ne voulais pas laisser sur mon honneur la tache d'une si
+noire ingratitude. Pardonnez-moi, ch�re �pouse; j'en prends � t�moin
+ces sacr�s flambeaux de la nuit; je suis convaincu que, si vous vous y
+fussiez trouv�e, vous m'auriez demand� la bague pour la donner au
+docteur.
+
+PORTIA.--Ne laissez pas ce docteur approcher de ma maison: puisqu'il
+poss�de le bijou que je ch�rissais, et que vous aviez jur� de garder
+pour l'amour de moi, je deviendrai aussi lib�rale que vous. Je ne lui
+refuserai rien de ce qui est en ma puissance; non, ni ma personne, ni le
+lit de mon �poux. Je saurai le reconna�tre, j'en suis s�re; ne vous
+absentez pas une seule nuit; veillez sur moi comme un Argus; si vous y
+manquez, si vous me laissez seule, par mon honneur, qui m'appartient
+encore, ce docteur sera mon compagnon de lit!
+
+N�RISSA.--Et son clerc le mien; ainsi prenez bien garde de m'abandonner
+� moi-m�me.
+
+GRATIANO.--Fort bien; faites ce que vous voudrez, mais que je ne l'y
+trouve pas, car je g�terais la plume du jeune clerc.
+
+ANTONIO.--Je suis le malheureux sujet de ces querelles.
+
+PORTIA.--Ne vous en chagrinez pas, seigneur; vous n'en �tes pas moins le
+bienvenu.
+
+BASSANIO.--Portia, pardonne-moi ce tort in�vitable, et en pr�sence de
+tous mes amis, je te jure par tes beaux yeux, o� je me vois moi-m�me...
+
+PORTIA.--Entendez-vous? il se voit double dans mes deux yeux; un
+Bassanio dans chacun.--Allons, jurez sur la foi d'un homme double; ce
+sera un serment bien propre � inspirer la confiance.
+
+BASSANIO.--Non, mais �coute-moi. Pardonne-moi cette faute, et je jure
+sur mon �me de ne jamais violer aucun des serments que je t'aurai faits.
+
+ANTONIO, _� Portia_.--J'ai une fois engag� mon corps pour la fortune de
+mon ami; j'�tais perdu sans le secours de celui qui a la bague: j'ose
+m'engager encore une fois, et r�pondre sur mon �me que votre �poux ne
+violera jamais volontairement sa foi.
+
+PORTIA.--Servez-lui donc de caution! donnez-lui cette autre bague, et
+recommandez-lui de la garder mieux que la premi�re.
+
+ANTONIO.--Tenez, seigneur Bassanio, jurez de garder cette bague.
+
+BASSANIO.--Par le ciel! c'est celle que j'ai donn�e au docteur.
+
+PORTIA.--Je la tiens de lui. Pardonnez-moi, Bassanio; pour cette bague,
+le docteur a pass� la nuit avec moi.
+
+N�RISSA.--Excusez-moi aussi, mon aimable Gratiano; ce ch�tif petit
+gar�on, le clerc du docteur, en retour de cet anneau, a couch� avec moi
+la nuit derni�re.
+
+GRATIANO.--Vraiment, c'est comme si l'on raccommodait les grands chemins
+en �t�, o� ils n'en ont pas besoin. Quoi! serions-nous d�j� cocus avant
+de m�riter de l'�tre?
+
+PORTIA.--Allons, pas de grossi�ret�s.--Vous �tes tous confondus. Prenez
+cette lettre; lisez-la � votre loisir: elle vient de Padoue, de
+Bellario; vous y apprendrez que Portia �tait le docteur, et N�rissa son
+clerc. Lorenzo vous attestera que je suis partie d'ici presque aussit�t
+que vous. Je ne suis m�me pas encore rentr�e chez moi.--Antonio, vous
+�tes le bienvenu. J'ai en r�serve pour vous de meilleures nouvelles que
+vous n'en attendez. Ouvrez promptement cette lettre; vous y verrez que
+trois de vos vaisseaux, richement charg�s, viennent d'arriver � bon
+port. Vous ne saurez pas par quel �trange �v�nement cette lettre m'est
+tomb�e dans les mains.
+
+(Elle lui donne la lettre.)
+
+ANTONIO.--Je demeure muet.
+
+BASSANIO.--Vous �tiez le docteur, et je ne vous ai pas reconnue?
+
+GRATIANO.--Vous �tiez donc le clerc qui doit me faire cocu?
+
+N�RISSA.--Oui, mais le clerc qui ne le voudra jamais, � moins qu'il ne
+vive assez longtemps pour devenir homme.
+
+BASSANIO.--Aimable docteur, vous serez mon camarade de lit. En mon
+absence, couchez avec ma femme.
+
+ANTONIO.--Aimable dame, vous m'avez rendu la vie et de quoi vivre; car
+j'apprends ici avec certitude que mes vaisseaux sont arriv�s � bon port.
+
+PORTIA.--Lorenzo, mon clerc a aussi quelque chose de consolant pour
+vous.
+
+N�RISSA.--Oui, et je vous le donnerai sans demander de salaire. Je vous
+remets � vous et � Jessica un acte en bonne forme, par lequel le riche
+Juif vous fait donation de tout ce qu'il se trouvera poss�der � sa mort.
+
+LORENZO.--Mes belles dames, vous r�pandez la manne sur le chemin des
+gens affam�s.
+
+PORTIA.--Il est bient�t jour, et cependant je suis s�re que vous n'�tes
+pas encore pleinement satisfaits sur ces �v�nements. Entrons;
+attaquez-nous de questions, et nous r�pondrons fid�lement � toute chose.
+
+GRATIANO.--Volontiers: la premi�re que je demanderai sous serment � ma
+ch�re N�rissa, c'est de me dire si elle aime mieux rester sur pied
+jusqu'� ce soir, ou s'aller coucher � pr�sent, qu'il est deux heures du
+matin. Si le jour �tait venu, je d�sirerais qu'il s'obscurcit pour me
+mettre au lit avec le clerc de l'avocat. Oui, tant que je vivrai, je ne
+m'inqui�terai de rien aussi vivement que de conserver en s�ret� l'anneau
+de N�rissa.
+
+FIN DU CINQUI�ME ET DERNIER ACTE.
+
+
+
+
+
+
+
+
+
+
+
+End of Project Gutenberg's Le marchand de Venise, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LE MARCHAND DE VENISE ***
+
+***** This file should be named 20773-8.txt or 20773-8.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/0/7/7/20773/
+
+Produced by Paul Murray, R�nald L�vesque and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by the Biblioth�que nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr). This file is gratefully uploaded
+to the PG collection in honor of Distributed Proofreaders
+having posted over 10,000 ebooks.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
