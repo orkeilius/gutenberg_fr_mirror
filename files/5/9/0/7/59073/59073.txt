@@ -1,4 +1,4 @@
-ï»¿The Project Gutenberg EBook of Decimal Classification, by Various
+The Project Gutenberg EBook of Decimal Classification, by Various
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -49,7 +49,7 @@ HOTEL RAVENSTEIN, BRUXELLES
 DECIMAL CLASSIFICATION
 
 
-Tables gÃ©nÃ©rales
+Tables générales
 
 General summaries
 
@@ -69,20 +69,20 @@ IMPRIMERIE VEUVE FERDINAND LARCIER
 
 
 
-PREMIÃRE TABLE
+PREMIÈRE TABLE
 
 
 CLASSES
 
-0.    OUVRAGES GÃNÃRAUX
+0.    OUVRAGES GÉNÉRAUX
 1.    PHILOSOPHIE
 2.    RELIGION
 3.    SOCIOLOGIE
 4.    PHILOLOGIE
 5.    SCIENCES
-6.    SCIENCES APPLIQUÃES
+6.    SCIENCES APPLIQUÉES
 7.    BEAUX-ARTS
-8.    LITTÃRATURE
+8.    LITTÉRATURE
 9.    HISTOIRE
 
 
@@ -94,26 +94,26 @@ SECONDE TABLE
 DIVISIONS
 
 
-000 Ouvrages gÃ©nÃ©raux.
+000 Ouvrages généraux.
 
 010    Bibliographie.
-020    BibliothÃ©conomie.
-030    EncyclopÃ©dies gÃ©nÃ©rales.
-040    Collections gÃ©nÃ©rales.
-050    PÃ©riodiques gÃ©nÃ©raux.
-060    SociÃ©tÃ©s gÃ©nÃ©rales.
+020    Bibliothéconomie.
+030    Encyclopédies générales.
+040    Collections générales.
+050    Périodiques généraux.
+060    Sociétés générales.
 070    Journaux.
-080    Bibliot. spÃ©ciales. Polygraphie.
+080    Bibliot. spéciales. Polygraphie.
 090    Livres rares.
 
 
 100 Philosophie.
 
-110    MÃ©taphysique.
-120    Sujets spÃ©ciaux de mÃ©taphysique.
-130    Lâesprit et le corps.
-140    SystÃ¨mes philosophiques.
-150    FacultÃ©s mentales. Psycholog.
+110    Métaphysique.
+120    Sujets spéciaux de métaphysique.
+130    L’esprit et le corps.
+140    Systèmes philosophiques.
+150    Facultés mentales. Psycholog.
 160    Logique.
 170    Ethique.
 180    Philosophes anciens.
@@ -122,22 +122,22 @@ DIVISIONS
 
 200 Religion.
 
-210    ThÃ©ologie naturelle.
+210    Théologie naturelle.
 220    Bible.
-230    ThÃ©ol. doctrinale. Dogmatique.
-240    DÃ©votion. Pratique. Åuvres.
-250    Sermons. ClergÃ©. Paroisse.
-260    LâÃglise: ses institutions.
+230    Théol. doctrinale. Dogmatique.
+240    Dévotion. Pratique. Œuvres.
+250    Sermons. Clergé. Paroisse.
+260    L’Église: ses institutions.
 270    Histoire religieuse.
-280    Religions et sectes chrÃ©tiennes.
-290    Religions non chrÃ©tiennes.
+280    Religions et sectes chrétiennes.
+290    Religions non chrétiennes.
 
 
 300 Sociologie.
 
 310    Statistique.
 320    Science politique.
-330    Ãconomie politique et sociale.
+330    Économie politique et sociale.
 340    Droit.
 350    Administration.
 360    Assistance. Assurance.
@@ -148,10 +148,10 @@ DIVISIONS
 
 400 Philologie.
 
-410    ComparÃ©e.
+410    Comparée.
 420    Anglaise.
 430    Germanique.
-440    FranÃ§aise.
+440    Française.
 450    Italienne.
 460    Espagnole.
 470    Latine.
@@ -161,27 +161,27 @@ DIVISIONS
 
 500 Sciences.
 
-510    MathÃ©matiques.
+510    Mathématiques.
 520    Astronomie.
 530    Physique.
 540    Chimie.
-550    GÃ©ologie.
-560    PalÃ©ontologie.
+550    Géologie.
+560    Paléontologie.
 570    Biologie.
 580    Botanique.
 590    Zoologie.
 
 
-600 Sciences appliquÃ©es.
+600 Sciences appliquées.
 
-610    MÃ©decine.
-620    Art de lâingÃ©nieur.
+610    Médecine.
+620    Art de l’ingénieur.
 630    Agriculture.
 640    Economie domestique.
 650    Transport. Commerce.
-660    Chimie appliquÃ©e.
+660    Chimie appliquée.
 670    Manufactures.
-680    Industrie mÃ©canique.
+680    Industrie mécanique.
 690    Construction.
 
 
@@ -190,46 +190,46 @@ DIVISIONS
 710    Paysages de jardins.
 720    Architecture.
 730    Sculpture.
-740    Dessin. DÃ©coration.
+740    Dessin. Décoration.
 750    Peinture.
 760    Gravure.
 770    Photographie.
 780    Musique.
-790    RÃ©crÃ©ations.
+790    Récréations.
 
 
-800 LittÃ©rature.
+800 Littérature.
 
-810    AmÃ©ricaine.
+810    Américaine.
 820    Anglaise.
 830    Germanique.
-840    FranÃ§aise.
+840    Française.
 850    Italienne.
 860    Espagnole.
 870    Latine.
 880    Grecque.
-890    LittÃ©ratures secondaires.
+890    Littératures secondaires.
 
 
 900 Histoire.
 
-910    GÃ©ographie.
+910    Géographie.
 920    Biographie.
 930    Histoire ancienne.
 940             { Europe.
 950             { Asie.
 960             { Afrique.
-970  Hist. Mod. { AmÃ©rique du Nord.
-980             { AmÃ©rique du Sud.
-990             { OcÃ©anie. RÃ©gions polaires.
+970  Hist. Mod. { Amérique du Nord.
+980             { Amérique du Sud.
+990             { Océanie. Régions polaires.
 
 
 
 
-TROISIÃME TABLE    SUBDIVISIONS
+TROISIÈME TABLE    SUBDIVISIONS
 
 
-OUVRAGES GÃNÃRAUX
+OUVRAGES GÉNÉRAUX
 
 
 000
@@ -237,7 +237,7 @@ OUVRAGES GÃNÃRAUX
 001 }
 002 }
 003 }
-004 } LaissÃ© en blanc pour usages particuliers.
+004 } Laissé en blanc pour usages particuliers.
 005 }
 006 }
 007 }
@@ -247,36 +247,36 @@ OUVRAGES GÃNÃRAUX
 
 010 Bibliographie.
 
-011    Bibliogr. gÃ©nÃ©rales.
-012        Â»     spÃ©ciales dâauteurs.
-013        Â»     par classes dâauteurs.
-014        Â»     dâanon. et de pseudon.
-015        Â»     par pays.
-016        Â»     de sujets spÃ©ciaux.
-017    Catalogues par ord. de matiÃ¨res.
-018        Â»      par nom dâauteur.
-019        Â»      par ordre alphabÃ©t.
+011    Bibliogr. générales.
+012        »     spéciales d’auteurs.
+013        »     par classes d’auteurs.
+014        »     d’anon. et de pseudon.
+015        »     par pays.
+016        »     de sujets spéciaux.
+017    Catalogues par ord. de matières.
+018        »      par nom d’auteur.
+019        »      par ordre alphabét.
 
 
-020 BibliothÃ©conomie.
+020 Bibliothéconomie.
 
-021    But des bibliothÃ¨ques.
-022    Constructions et amÃ©nagements.
+021    But des bibliothèques.
+022    Constructions et aménagements.
 023    Administration et personnel.
-024    RÃ¨glements pour les lecteurs.
-025    Organisation des bibliothÃ¨ques.
-026    Biblioth. de matiÃ¨res spÃ©ciales.
-027        Â»      gÃ©nÃ©rales.
+024    Règlements pour les lecteurs.
+025    Organisation des bibliothèques.
+026    Biblioth. de matières spéciales.
+027        »      générales.
 028    Lecture: assistance aux lecteurs.
-029    Lâart dâÃ©tudier.
+029    L’art d’étudier.
 
 
-030 EncyclopÃ©dies gÃ©nÃ©rales.
+030 Encyclopédies générales.
 
-031    AmÃ©ricaines.
+031    Américaines.
 032    Anglaises.
 033    Allemandes.
-034    FranÃ§aises.
+034    Françaises.
 035    Italiennes
 036    Espagnoles.
 037    Slaves.
@@ -284,12 +284,12 @@ OUVRAGES GÃNÃRAUX
 039    Langues secondaires.
 
 
-040 Collect. gÃ©n. de manuels.
+040 Collect. gén. de manuels.
 
-041    AmÃ©ricains.
+041    Américains.
 042    Anglais.
 043    Allemands.
-044    FranÃ§ais.
+044    Français.
 045    Italiens.
 046    Espagnols.
 047    Slaves.
@@ -297,12 +297,12 @@ OUVRAGES GÃNÃRAUX
 049    Langues secondaires.
 
 
-050 PÃ©riodiques gÃ©nÃ©raux.
+050 Périodiques généraux.
 
-051    AmÃ©ricains.
+051    Américains.
 052    Anglais.
 053    Allemands.
-054    FranÃ§ais.
+054    Français.
 055    Italiens.
 056    Espagnols.
 057    Slaves.
@@ -310,12 +310,12 @@ OUVRAGES GÃNÃRAUX
 059    Langues secondaires.
 
 
-060 SociÃ©tÃ©s gÃ©nÃ©rales.
+060 Sociétés générales.
 
-061    AmÃ©ricaines.
+061    Américaines.
 062    Anglaises.
 063    Allemandes.
-064    FranÃ§aises.
+064    Françaises.
 065    Italiennes.
 066    Espagnoles.
 067    Slaves.
@@ -325,10 +325,10 @@ OUVRAGES GÃNÃRAUX
 
 070 Journaux.
 
-071    AmÃ©ricains.
+071    Américains.
 072    Anglais.
 073    Allemands.
-074    FranÃ§ais.
+074    Français.
 075    Italiens.
 076    Espagnols.
 077    Slaves.
@@ -336,12 +336,12 @@ OUVRAGES GÃNÃRAUX
 079    Langues secondaires.
 
 
-080 Bibl. spÃ©c. Polygraphies.
+080 Bibl. spéc. Polygraphies.
 
 081 }
 082 }
 083 }
-084 } LaissÃ© en blanc pour usages particuliers.
+084 } Laissé en blanc pour usages particuliers.
 085 }
 086 }
 087 }
@@ -356,10 +356,10 @@ OUVRAGES GÃNÃRAUX
 093    Premiers livres. Incunables.
 094    Impressions rares.
 095    Reliures rares.
-096    Illustrations ou matiÃ¨res rares.
+096    Illustrations ou matières rares.
 097    Ex libris. Book Plates.
-098    Livres prohibÃ©s ou supposÃ©s.
-099    Autres raretÃ©s. Curiosa.
+098    Livres prohibés ou supposés.
+099    Autres raretés. Curiosa.
 
 
 
@@ -367,129 +367,129 @@ OUVRAGES GÃNÃRAUX
 PHILOSOPHIE
 
 
-100 Philosophie en gÃ©nÃ©ral.
+100 Philosophie en général.
 
-101    UtilitÃ©.
+101    Utilité.
 102    Manuels.
 103    Dictionnaires.
 104    Essais.
-105    PÃ©riodiques.
-106    SociÃ©tÃ©s.
+105    Périodiques.
+106    Sociétés.
 107    Enseignement.
 108    Polygraphie.
 109    Histoire.
 
 
-110 MÃ©taphysique.
+110 Métaphysique.
 
 111    Ontologie.
-112    MÃ©thodologie.
+112    Méthodologie.
 113    Cosmologie.
 114      Espace.
 115      Temps.
 116      Mouvement.
-117      MatiÃ¨re.
+117      Matière.
 118      Force.
-119      QuantitÃ© et nombre.
+119      Quantité et nombre.
 
 
-120 Sujets mÃ©taphysiques.
+120 Sujets métaphysiques.
 
 121    Connaissance: origine et limites.
-122    CausalitÃ©: cause et effets.
-123    LibertÃ© et nÃ©cessitÃ©.
-124    TÃ©lÃ©ologie. Causes finales.
+122    Causalité: cause et effets.
+123    Liberté et nécessité.
+124    Téléologie. Causes finales.
 125    Infini et fini.
-126    Conscience. PersonnalitÃ©.
+126    Conscience. Personnalité.
 127    Inconscience. Automatisme.
-128    LâÃ¢me.
-129    Origine de lâÃ¢me individuelle.
+128    L’âme.
+129    Origine de l’âme individuelle.
 
 
-130 LâEsprit et le Corps.
+130 L’Esprit et le Corps.
 
-131    Physiol. et hygiÃ¨ne mentales.
+131    Physiol. et hygiène mentales.
 132    Troubles mentaux.
 133    Apparitions. Sorcellerie. Magie.
 134    Mesmerisme. Double vue.
 135    Sommeil. Songes. Somnamb.
-136    CaractÃ©ristiques mentales.
-137    TempÃ©raments.
+136    Caractéristiques mentales.
+137    Tempéraments.
 138    Physiognomonie.
-139    PhrÃ©nolog. Photograp. mentale.
+139    Phrénolog. Photograp. mentale.
 
 
-140 SystÃ¨mes philosophiques.
+140 Systèmes philosophiques.
 
-141    IdÃ©alisme. Transcendantalisme.
+141    Idéalisme. Transcendantalisme.
 142    Philosophie critique.
 143    Intuition.
 144    Empirisme.
 145    Sensualisme.
-146    MatÃ©rialisme. Positivisme.
-147    PanthÃ©isme. Monisme.
+146    Matérialisme. Positivisme.
+147    Panthéisme. Monisme.
 148    Eclectisme.
-149    Autres systÃ¨mes philosoph.
+149    Autres systèmes philosoph.
 
 
-150 FacultÃ©s mentales.
+150 Facultés mentales.
 
 151    Intelligence.
 152      Sens.
 153      Entendement.
-154        MÃ©moire.
+154        Mémoire.
 155        Imagination.
 156      Raison.
-157    SensibilitÃ©. Emotions.
-158      Instinct. AppÃ©tit.
-159    VolontÃ©.
+157    Sensibilité. Emotions.
+158      Instinct. Appétit.
+159    Volonté.
 
 
 160 Logique.
 
 161    Inductive.
-162    DÃ©ductive.
+162    Déductive.
 163    Assentiment. Foi.
-164    Symbolique. AlgÃ©brique.
-165    Sources dâerreur. Sophismes.
-166    Syllogisme. EnthymÃ¨me.
-167    HypothÃ¨se.
+164    Symbolique. Algébrique.
+165    Sources d’erreur. Sophismes.
+166    Syllogisme. Enthymème.
+167    Hypothèse.
 168    Argument. Persuasion.
 169    Analogie. Correspondance.
 
 
-170 Ãthique.
+170 Éthique.
 
-171    Philosophie de lâÃ©thique.
-172    Ethique de lâEtat.
+171    Philosophie de l’éthique.
+172    Ethique de l’Etat.
 173    Ethique de la famille.
 174    Ethique des professions.
 175    Ethique du plaisir.
 176    Ethique des sexes.
 177    Ethique des relations sociales.
-178    TempÃ©rance.
-179    Autres sujets de lâÃ©thique.
+178    Tempérance.
+179    Autres sujets de l’éthique.
 
 
 180 Philosophes anciens.
 
 181    Orient.
-182    GrÃ¨ce primitive.
+182    Grèce primitive.
 183    Sophistes et socratistes.
 184    Platoniciens.
-185    AristotÃ©liciens.
+185    Aristotéliciens.
 186    Pyrrhoniens. Neoplatoniciens.
 187    Epicuriens.
-188    StoÃ¯ciens.
-189    ChrÃ©tiens primitifs.
+188    Stoïciens.
+189    Chrétiens primitifs.
 
 
 190 Philosophes modernes.
 
-191    AmÃ©ricains.
+191    Américains.
 192    Anglais.
 193    Allemands.
-194    FranÃ§ais.
+194    Français.
 195    Italiens.
 196    Espagnols.
 197    Slaves.
@@ -504,27 +504,27 @@ RELIGION
 
 200 Religion.
 
-201    Philosophie. ThÃ©ories.
+201    Philosophie. Théories.
 202    Manuels.
-203    Dictionnaires. EncyclopÃ©dies.
-204    Essais. ConfÃ©rences.
-205    PÃ©riodiques
-206    SociÃ©tÃ©s.
-207    Enseignement. Ecoles thÃ©olog.
+203    Dictionnaires. Encyclopédies.
+204    Essais. Conférences.
+205    Périodiques
+206    Sociétés.
+207    Enseignement. Ecoles théolog.
 208    Polygraphie. Collections.
-209    Histoire de la ThÃ©ologie.
+209    Histoire de la Théologie.
 
 
-210 ThÃ©ologie naturelle.
+210 Théologie naturelle.
 
-211    DÃ©isme. AthÃ©isme.
-212    PanthÃ©isme. ThÃ©osophie.
-213    CrÃ©ation. Evolution.
+211    Déisme. Athéisme.
+212    Panthéisme. Théosophie.
+213    Création. Evolution.
 214    Providence. Fatalisme.
 215    Religion. Science.
-216    Mal. RÃ©paration.
-217    PriÃ¨re.
-218    Vie future. ImmortalitÃ©.
+216    Mal. Réparation.
+217    Prière.
+218    Vie future. Immortalité.
 219    Analogies. Correspondances.
 
 
@@ -532,10 +532,10 @@ RELIGION
 
 221    Vieux Testament.
 222      Livres historiques.
-223      Livres poÃ©tiques.
-224      Livres prophÃ©tiques.
+223      Livres poétiques.
+224      Livres prophétiques.
 225    Nouveau Testament.
-226      Evangiles. Actes des ApÃ´tres.
+226      Evangiles. Actes des Apôtres.
 227      Epitres.
 228      Apocalypse.
 229    Apocryphes.
@@ -543,38 +543,38 @@ RELIGION
 
 230 Doctrines. Dogmatique.
 
-231    Dieu. UnitÃ©. TrinitÃ©.
+231    Dieu. Unité. Trinité.
 232    Christ. Christologie.
-233    Homme. Chute origin. PÃ©chÃ©.
+233    Homme. Chute origin. Péché.
 234    Salut. Soteriologie.
-235    Anges. DÃ©mons. Satan.
+235    Anges. Démons. Satan.
 236    Eschatologie. Mort. Jugement.
 237    Vie future.
 238    Credo. Confessions.
-239    ApologÃ©tique.
+239    Apologétique.
 
 
-240 Pratique. DÃ©votion.
+240 Pratique. Dévotion.
 
-241    Didactique. CatÃ©chisme.
-242    MÃ©ditation.
+241    Didactique. Catéchisme.
+242    Méditation.
 243    Exhortation.
-244    MÃ©langes. Romans religieux.
-245    Hymnologie. PoÃ©sie religieuse.
-246    EcclÃ©siologie. Symbolisme.
-247    Objets sacrÃ©s. Vases, etc.
-248    Religion individuelle. AscÃ©tisme.
-249    DÃ©votions familiales.
+244    Mélanges. Romans religieux.
+245    Hymnologie. Poésie religieuse.
+246    Ecclésiologie. Symbolisme.
+247    Objets sacrés. Vases, etc.
+248    Religion individuelle. Ascétisme.
+249    Dévotions familiales.
 
 
-250 HomÃ©lie. ClergÃ©.
+250 Homélie. Clergé.
 
-251    HomÃ©lies. PrÃªches.
+251    Homélies. Prêches.
 252    Sermons.
-253    Visites pastorales. EvangÃ©lisat.
-254    Vie religieuse. CÃ©libat.
-255    Confr. dâhommes et de femmes.
-256    SociÃ©tÃ©s paroissiales.
+253    Visites pastorales. Evangélisat.
+254    Vie religieuse. Célibat.
+255    Confr. d’hommes et de femmes.
+256    Sociétés paroissiales.
 257    Ecoles et biblioth. paroissiales.
 258    Entret. paroiss. des malades, etc.
 259    Autres travaux de la paroisse.
@@ -582,12 +582,12 @@ RELIGION
 
 260 Eglise: institut. et trav.
 
-261    LâEglise.
-262    Politique de lâEglise.
+261    L’Eglise.
+262    Politique de l’Eglise.
 263    Sabbat. Dimanche.
 264    Culte public. Rituel.
 265    Sacrements.
-266    Missions intÃ©rieures et Ã©trangÃ¨r.
+266    Missions intérieures et étrangèr.
 267    Associations. Y. M. C. A., etc.
 268    Ecoles du dimanche.
 269    Refuges. Retraites.
@@ -596,38 +596,38 @@ RELIGION
 270 Histoire religieuse.
 
 271    Ordres monastiques.
-272    PersÃ©cutions.
-273    Doctrine. Dogmes. HÃ©rÃ©sies.
+272    Persécutions.
+273    Doctrine. Dogmes. Hérésies.
 274    Europe.
 275    Asie.
 276    Afrique.
-277    AmÃ©rique du Nord.
-278    AmÃ©rique du Sud.
-279    OcÃ©anie.
+277    Amérique du Nord.
+278    Amérique du Sud.
+279    Océanie.
 
 
-280 Eglises chrÃ©tiennes.
+280 Eglises chrétiennes.
 
 281    Eglise primitive et orientale.
 282    Eglise catholique romaine.
-283    Eglise anglicane et amÃ©ricaine.
+283    Eglise anglicane et américaine.
 284    Eglise protestante continentale.
-285    Eglise presbytÃ©r. rationnelle.
+285    Eglise presbytér. rationnelle.
 286    Baptistes.
-287    MÃ©thodistes.
+287    Méthodistes.
 288    Unitairiens.
-289    Sectes chrÃ©tiennes secondaires.
+289    Sectes chrétiennes secondaires.
 
 
 290 Relig. ethnol. Sc. des relig.
 
-291    Mythologie compar. et gÃ©nÃ©r.
-292        Â»      grecque et romaine.
-293        Â»      german. et septentr.
+291    Mythologie compar. et génér.
+292        »      grecque et romaine.
+293        »      german. et septentr.
 294    Brahmanisme. Bouddhisme.
-295    ParsÃ©isme.
-296    JudaÃ¯sme.
-297    MahomÃ©tanisme.
+295    Parséisme.
+296    Judaïsme.
+297    Mahométanisme.
 298    Mormonisme.
 299    Religions secondaires.
 
@@ -637,14 +637,14 @@ RELIGION
 SOCIOLOGIE
 
 
-300 Sociologie en gÃ©nÃ©ral.
+300 Sociologie en général.
 
 301    Philosoph. des sciences sociales.
 302    Manuels.
-303    Dictionnaires et encyclopÃ©dies.
+303    Dictionnaires et encyclopédies.
 304    Essais.
 305    Revues.
-306    SociÃ©tÃ©s.
+306    Sociétés.
 307    Enseignement. Etude.
 308    Polygraphie.
 309    Histoire de la sociologie.
@@ -652,20 +652,20 @@ SOCIOLOGIE
 
 310 Statistique.
 
-311    ThÃ©ories. MÃ©thodes.
-312    Population. DÃ©mographie.
-313    Sujets spÃ©ciaux.
+311    Théories. Méthodes.
+312    Population. Démographie.
+313    Sujets spéciaux.
 314      Europe.
 315      Asie.
 316      Afrique.
-317      AmÃ©rique du Nord.
-318      AmÃ©rique du Sud.
-319      OcÃ©anie.
+317      Amérique du Nord.
+318      Amérique du Sud.
+319      Océanie.
 
 
 320 Science politique.
 
-321    Forme de lâEtat.
+321    Forme de l’Etat.
 322    Eglise et Etat.
 323    Politique interne.
 324    Elections.
@@ -676,39 +676,39 @@ SOCIOLOGIE
 329    Partis politiques.
 
 
-330 Ãconomie politique.
+330 Économie politique.
 
 331    Travail et travailleurs.
-332    Banque. Monnaie. CrÃ©dit.
-333    PropriÃ©tÃ© immobiliÃ¨re.
-334    CoopÃ©ration.
+332    Banque. Monnaie. Crédit.
+333    Propriété immobilière.
+334    Coopération.
 335    Socialisme.
 336    Finances publiques.
-337    Protection. Libre Ã©change.
+337    Protection. Libre échange.
 338    Production. Manufactures.
-339    PaupÃ©risme. Capitalisme.
+339    Paupérisme. Capitalisme.
 
 
 340 Droit.
 
 341    Droit international.
 342    Droit constitutionnel.
-343    Droit pÃ©nal.
+343    Droit pénal.
 344    Droit militaire.
-345    LÃ©gislat. et jurispr. en gÃ©nÃ©ral.
+345    Législat. et jurispr. en général.
 346
-347    Droit privÃ©.
-348    Droit canonique et ecclÃ©siastiq.
+347    Droit privé.
+348    Droit canonique et ecclésiastiq.
 349    Histoire du droit. Droit romain.
 
 
 350 Administration.
 
-351    Droit administratif en gÃ©nÃ©ral.
+351    Droit administratif en général.
 352    Gouvernem. local. Communes.
 353    Organisation du gouv. central.
 354    Organisation du gouv. central.
-355    ArmÃ©e. Science militaire.
+355    Armée. Science militaire.
 356      Infanterie.
 357      Cavalerie.
 358      Artillerie.
@@ -720,9 +720,9 @@ SOCIOLOGIE
 361    Assistance.
 362    Etablissement de bienfaisance.
 363    Associations politiques.
-364    Maisons de rÃ©forme.
+364    Maisons de réforme.
 365    Prisons.
-366    SociÃ©tÃ©s secrÃ¨tes.
+366    Sociétés secrètes.
 367    Clubs sociaux.
 368    Assurance.
 369    Autres associations.
@@ -730,34 +730,34 @@ SOCIOLOGIE
 
 370 Enseignement.
 
-371    PÃ©dagogie.
+371    Pédagogie.
 372    Enseignement primaire.
 373    Enseignement moyen.
 374    Enseignement personnel.
 375    Programmes scolaires.
 376    Enseignement des femmes.
 377    Enseignement religieux et mor.
-378    Enseignement supÃ©rieur.
-379    Intervention de lâEtat.
+378    Enseignement supérieur.
+379    Intervention de l’Etat.
 
 
 380 Commerce. Transport.
 
-381    Commerce intÃ©rieur.
-382    Commerce extÃ©rieur.
+381    Commerce intérieur.
+382    Commerce extérieur.
 383    Postes.
-384    TÃ©lÃ©graphe. TÃ©lÃ©phone.
+384    Télégraphe. Téléphone.
 385    Chemins de fer.
 386    Canaux et grandes routes.
 387    Transport fluvial et maritime.
 388    Commerce local. Voirie.
-389    Poids et mesures. MÃ©trologie.
+389    Poids et mesures. Métrologie.
 
 
 390 Coutumes. Vie populaire.
 
 391    Costume et soins de la personne.
-392    Naissance. IntÃ©rieur. Mariage.
+392    Naissance. Intérieur. Mariage.
 393    Traitement des morts.
 394    Coutumes publiques et sociales.
 395    Etiquette. Politesse.
@@ -772,20 +772,20 @@ SOCIOLOGIE
 PHILOLOGIE
 
 
-400 Philologie en gÃ©nÃ©ral.
+400 Philologie en général.
 
-401    Philosophie. ThÃ©ories.
+401    Philosophie. Théories.
 402    Manuels.
-403    EncyclopÃ©dies.
+403    Encyclopédies.
 404    Essais.
-405    PÃ©riodiques.
-406    SociÃ©tÃ©s.
+405    Périodiques.
+406    Sociétés.
 407    Enseignement. Etude.
 408    Polygraphie.
 409    Histoire.
 
 
-410 Philologie comparÃ©e.
+410 Philologie comparée.
 
 411    Orthographe.
 412    Etymologie.
@@ -795,7 +795,7 @@ PHILOLOGIE
 416    Prosodie.
 417    Inscriptions.
 418    Textes.
-419  HiÃ©roglyphes.
+419  Hiéroglyphes.
 
 
 420 Philologie anglaise.
@@ -824,7 +824,7 @@ PHILOLOGIE
 439    Langues germaniques second.
 
 
-440 Philologie franÃ§aise.
+440 Philologie française.
 
 441    Orthographe.
 442    Etymologie.
@@ -834,7 +834,7 @@ PHILOLOGIE
 446    Prosodie.
 447    Dialectes.
 448    Textes classiques.
-449  ProvenÃ§al.
+449  Provençal.
 
 
 450 Philologie italienne.
@@ -886,20 +886,20 @@ PHILOLOGIE
 486    Prosodie.
 487    Dialectes.
 488    Textes classiques.
-489    Langues hellÃ©niq. secondaires.
+489    Langues helléniq. secondaires.
 
 
 490 Autres langues.
 
-491    Langues indo-europÃ©ennes.
-492    SÃ©mitique.
+491    Langues indo-européennes.
+492    Sémitique.
 493    Hamitique.
 494    Scythique.
 495    Asie orientale.
 496    Afrique.
-497    AmÃ©rique du Nord.
-498    AmÃ©rique du Sud.
-499    Malaisie. PolynÃ©sie. Autres lang.
+497    Amérique du Nord.
+498    Amérique du Sud.
+499    Malaisie. Polynésie. Autres lang.
 
 
 
@@ -907,61 +907,61 @@ PHILOLOGIE
 SCIENCES
 
 
-500 Sciences en gÃ©nÃ©ral.
+500 Sciences en général.
 
 501    Philosophie des sciences.
 502    Manuels.
-503    Dictionnaires. EncyclopÃ©dies.
+503    Dictionnaires. Encyclopédies.
 504    Essais.
-505    PÃ©riodiques.
-506    SociÃ©tÃ©s.
+505    Périodiques.
+506    Sociétés.
 567    Enseignement. Etude.
 508    Polygraphie. Collections.
 509    Histoire.
 
 
-510 MathÃ©matiques.
+510 Mathématiques.
 
-511    ArithmÃ©tique.
-512    AlgÃ¨bre.
-513    GÃ©omÃ©trie.
-514    TrigonomÃ©trie.
-515    GÃ©omÃ©trie descriptive.
-516    GÃ©omÃ©trie analytique.
-517    Calcul diffÃ©rent, et intÃ©gral, etc.
+511    Arithmétique.
+512    Algèbre.
+513    Géométrie.
+514    Trigonométrie.
+515    Géométrie descriptive.
+516    Géométrie analytique.
+517    Calcul différent, et intégral, etc.
 518
-519    ProbabilitÃ©s.
+519    Probabilités.
 
 
 520 Astronomie.
 
-521    ThÃ©orique.
-522    Pratique et sphÃ©rique.
+521    Théorique.
+522    Pratique et sphérique.
 523    Descriptive.
 524    Cartes et observations.
 525    Terre.
-526    GÃ©odÃ©sie.
+526    Géodésie.
 527    Navigation.
-528    EphÃ©mÃ©rides.
+528    Ephémérides.
 529  Chronologie.
 
 
 530 Physique.
 
-531    MÃ©canique.
+531    Mécanique.
 532    Liquide. Hydrostatique.
 533    Gaz. Pneumatique.
 534    Son. Acoustique.
-535    LumiÃ¨re. Optique.
+535    Lumière. Optique.
 536    Chaleur.
-537    ElectricitÃ©.
-538    MagnÃ©tisme.
-539    Physique molÃ©culaire.
+537    Electricité.
+538    Magnétisme.
+539    Physique moléculaire.
 
 
 540 Chimie.
 
-541    Chimie thÃ©orique.
+541    Chimie théorique.
 542    Chimie pratique.
 543    Analyse.
 544      Qualitative.
@@ -969,43 +969,43 @@ SCIENCES
 546    Chimie inorganique.
 547    Chimie organique.
 548  Cristallographie.
-549  MinÃ©ralogie.
+549  Minéralogie.
 
 
-550 GÃ©ologie.
+550 Géologie.
 
-551    GÃ©ologie physique et dynam.
-552    Lithologie. PÃ©trographie.
-553    GÃ©ologie Ã©conomique.
+551    Géologie physique et dynam.
+552    Lithologie. Pétrographie.
+553    Géologie économique.
 554    Europe.
 555    Asie.
 556    Afrique.
-557    AmÃ©rique du Nord.
-558    AmÃ©rique du Sud.
-559    OcÃ©anie.
+557    Amérique du Nord.
+558    Amérique du Sud.
+559    Océanie.
 
-560 PalÃ©ontologie.
+560 Paléontologie.
 
 561    Plantes.
-562    InvertÃ©brÃ©s.
-563      Protozoaires. RadiÃ©s.
+562    Invertébrés.
+563      Protozoaires. Radiés.
 564      Mollusques.
-565      ArticulÃ©s.
-566    VertÃ©brÃ©s.
+565      Articulés.
+566    Vertébrés.
 567      Poissons. Batraciens.
 568      Reptiles. Oiseaux.
-569      MammifÃ¨res.
+569      Mammifères.
 
 
 570 Biologie. Ethnologie.
 
-571  ArchÃ©ologie prÃ©historique.
+571  Archéologie préhistorique.
 572  Ethnologie.
-573  Hist. naturelle de lâhomme.
+573  Hist. naturelle de l’homme.
 574    Homologies.
-575    Evolutions. EspÃ¨ces.
+575    Evolutions. Espèces.
 576    Origine de la vie.
-577    PropriÃ©tÃ© de la matiÃ¨re vivante.
+577    Propriété de la matière vivante.
 578    Microscopie.
 579    Manuels des collectionneurs.
 
@@ -1014,11 +1014,11 @@ SCIENCES
 
 581    Physiologie et structure.
 582    Phanerogames.
-583      DicotylÃ©donÃ©es.
-584      MonocotylÃ©donÃ©es.
+583      Dicotylédonées.
+584      Monocotylédonées.
 585      Gymnospermes.
 586    Cryptogames.
-587      PtÃ©ridophytes.
+587      Ptéridophytes.
 588      Bryophytes.
 589      Thallophytes.
 
@@ -1026,48 +1026,48 @@ SCIENCES
 590 Zoologie.
 
 591    Zoologie physiologique.
-592    InvertÃ©brÃ©s.
-593      Protozoaires. RadiÃ©s.
+592    Invertébrés.
+593      Protozoaires. Radiés.
 594      Mollusques.
-595      ArticulÃ©s.
-596    VertÃ©brÃ©s.
+595      Articulés.
+596    Vertébrés.
 597      Poissons. Batraciens.
 598      Reptiles. Poissons.
-599    MammifÃ¨res.
+599    Mammifères.
 
 
 
 
-SCIENCES APPLIQUÃES
+SCIENCES APPLIQUÉES
 
 
-600 En gÃ©nÃ©ral.
+600 En général.
 
 601    Philosophie.
 602    Manuels.
-603    Dictionnaires. EncyclopÃ©dies.
+603    Dictionnaires. Encyclopédies.
 604    Essais.
-605    PÃ©riodiques.
-606    SociÃ©tÃ©s. Expositions.
+605    Périodiques.
+606    Sociétés. Expositions.
 607    Ecoles techniques.
 608    Inventions. Patentes.
 609    Histoire des sciences appliq.
 
 
-610 MÃ©decine.
+610 Médecine.
 
 611    Anatomie.
 612    Physiologie.
-613    HygiÃ¨ne. Gymnastique.
-614    SantÃ© publique.
-615    ThÃ©rapeutique.
+613    Hygiène. Gymnastique.
+614    Santé publique.
+615    Thérapeutique.
 616    Pathologie. Maladies. Traitem.
 617    Chirurgie. Art dentaire.
 618    Maladies des femmes et enfants.
-619    MÃ©decine comp. Art vÃ©tÃ©rin.
+619    Médecine comp. Art vétérin.
 
 
-620 Art de lâingÃ©nieur.
+620 Art de l’ingénieur.
 
 621    Machines.
 622    Mines.
@@ -1075,7 +1075,7 @@ SCIENCES APPLIQUÃES
 624    Ponts et toitures.
 626    Routes et chemins de fer.
 626    Canaux.
-627    RiviÃ¨res et ports.
+627    Rivières et ports.
 628    Travaux sanit. et hydraul.
 629    Autres branches.
 
@@ -1086,11 +1086,11 @@ SCIENCES APPLIQUÃES
 632    Pestilences. Insectes.
 633    Graines. Herbes. Fibres.
 634    Fruits. Vergers. Vignobles.
-635    Culture maraÃ®chÃ¨re.
+635    Culture maraîchère.
 636    Animaux domestiques.
 637    Laiterie. Lait. Beurre. From.
-638    Abeilles. Vers Ã  soie.
-639  PÃªche. Chasse.
+638    Abeilles. Vers à soie.
+639  Pêche. Chasse.
 
 
 640 Economie domestique.
@@ -1098,71 +1098,71 @@ SCIENCES APPLIQUÃES
 641    Cuisine. Gastronomie.
 642    Confiseries. Glaces.
 643    Alimentation.
-644    Combustible. LumiÃ¨re.
+644    Combustible. Lumière.
 645    Ameublement. Tapisserie.
 646    Habillement. Toilette.
-647    DomesticitÃ©. Devoirs. Gages.
+647    Domesticité. Devoirs. Gages.
 648    Blanchissage.
 649    Enfants. Chambres de malades.
 
 
 650 Transport. Commerce.
 
-651    Chiffres. Machines Ã  Ã©crire.
-652    EmployÃ©s. Ustensiles. MÃ©thod.
-653      AbrÃ©viations. StÃ©nographie.
-654    TÃ©lÃ©graphie. CÃ¢bles. Signaux.
+651    Chiffres. Machines à écrire.
+652    Employés. Ustensiles. Méthod.
+653      Abréviations. Sténographie.
+654    Télégraphie. Câbles. Signaux.
 655    Imprimerie. Publications.
 656    Transports. Chemins de fer.
-657    Tenue de livres. ComptabilitÃ©.
+657    Tenue de livres. Comptabilité.
 658    Manuels de commerce. Tables.
-659    PublicitÃ©. Autres matiÃ¨res.
+659    Publicité. Autres matières.
 
 
 660 Technologie chimique.
 
 661    Produits chimiques. Sel. Acides.
 662    Pyrotechnie. Explosifs.
-663    Boissons. Vins. Liqueurs. BiÃ¨res.
+663    Boissons. Vins. Liqueurs. Bières.
 664    Aliments. Sucre. Amidon.
-665    LumiÃ¨re. Gaz. Huiles. Bougies.
-666    CÃ©ramique. Glaces. Porcelaines.
+665    Lumière. Gaz. Huiles. Bougies.
+666    Céramique. Glaces. Porcelaines.
 667    Blanchiment. Teinture. Encre.
 668    Autres industr. de chimie organ.
-669    MÃ©tallurgie.
+669    Métallurgie.
 
 
 670 Manufactures.
 
-671    Articles de mÃ©tal.
-672    Fer et acier. PoÃ«lerie. Coutell.
+671    Articles de métal.
+672    Fer et acier. Poëlerie. Coutell.
 673    Cuivre et bronze. Cloches.
 674    Bois, articles de bois.
 675    Cuirs et articles de cuir.
 676    Papiers et articles de papier.
 677    Coton. Laine. Soie. Lin.
 678    Caoutchouc et art. en caoutch.
-679    CelluloÃ¯de et autres produits.
+679    Celluloïde et autres produits.
 
 
-680 Industries mÃ©caniques.
+680 Industries mécaniques.
 
-681    Instruments de prÃ©cision.
-682    Forge. MarÃ©chal ferrant.
+681    Instruments de précision.
+682    Forge. Maréchal ferrant.
 683    Serrurerie. Armes.
-684    Carrosserie. EbÃ©nisterie.
+684    Carrosserie. Ebénisterie.
 685    Sellerie. Cordonnerie.
 686    Reliure.
-687    VÃªtements. Chapellerie.
+687    Vêtements. Chapellerie.
 688
-689    Autres mÃ©tiers.
+689    Autres métiers.
 
 
 690 Construction.
 
-691    MatÃ©riaux. Bois. Pierres.
+691    Matériaux. Bois. Pierres.
 692    Plans. Devis.
-693    MaÃ§onnerie. Plafonnage.
+693    Maçonnerie. Plafonnage.
 694    Charpenterie. Menuiserie.
 695    Tuiles. Ardoises.
 696    Plomberie. Appareils.
@@ -1176,76 +1176,76 @@ SCIENCES APPLIQUÃES
 BEAUX-ARTS
 
 
-700 Beaux Arts en gÃ©nÃ©ral.
+700 Beaux Arts en général.
 
-701    Philosophie. EsthÃ©tique.
+701    Philosophie. Esthétique.
 702    Manuels.
 703    Dictionnaires.
 704    Essais.
-705    PÃ©riodiques.
-706    SociÃ©tÃ©s.
+705    Périodiques.
+706    Sociétés.
 707    Enseignement. Etude.
 708    Galeries artistiques.
-709    Histoire de lâArt.
+709    Histoire de l’Art.
 
 
 710 Paysage de jardin.
 
 711    Parcs publics.
-712    Jardin privÃ©. Pelouses.
+712    Jardin privé. Pelouses.
 713    Chemins. Avenues.
 714    Eaux. Fontaines. Lacs.
 715    Arbres. Haies. Arbustes.
 716    Plantes. Fleurs. Serres.
-717    SiÃ¨ges. Perspectives.
+717    Sièges. Perspectives.
 718    Monuments.
-719  CimetiÃ¨res.
+719  Cimetières.
 
 
 720 Architecture.
 
 721    Construction architecturale.
-722    AntiquitÃ©. Orient.
-723    Moyen Ã¢ge. Art gothique.
+722    Antiquité. Orient.
+723    Moyen âge. Art gothique.
 724    Moderne.
 725    Monuments publics.
 726    Monuments religieux.
 727    Ecoles et institutions scientifiq.
-728    Maisons privÃ©es.
-729    Dessin et dÃ©coration.
+728    Maisons privées.
+729    Dessin et décoration.
 
 
 730 Sculpture.
 
-731    MatÃ©riaux. MÃ©thodes.
+731    Matériaux. Méthodes.
 732    Epoque ancienne.
-733    GrÃ¨ce. Rome.
-734    Moyen Ã¢ge.
+733    Grèce. Rome.
+734    Moyen âge.
 735    Epoque moderne.
 736    Sceaux. Coins. Pierreries.
-737  Numismatique. MÃ©dailles.
+737  Numismatique. Médailles.
 738  Potteries. Porcelaines.
-739  Bronzes. AntiquitÃ©s.
+739  Bronzes. Antiquités.
 
 
-740 Dessin. DÃ©coration.
+740 Dessin. Décoration.
 
 741    Esquisses.
 742    Perspective.
 743    Anatomie.
-744    Dessin linÃ©aire.
+744    Dessin linéaire.
 745    Dessin ornemental.
-746      Ouvrages Ã  lâaiguille.
-747      DÃ©coration intÃ©rieure.
+746      Ouvrages à l’aiguille.
+747      Décoration intérieure.
 748      Verres et vitraux.
 749    Fournitures artistiques.
 
 
 750 Teinture.
 
-751    MatiÃ¨res premiÃ¨res et mÃ©thodes.
+751    Matières premières et méthodes.
 752    Couleur.
-753    Genre Ã©pique, idÃ©aliste.
+753    Genre épique, idéaliste.
 754    Peinture de genre.
 755    Genre religieux.
 756    Peinture historique.
@@ -1262,7 +1262,7 @@ BEAUX-ARTS
 764    Chromolithographie.
 765    Taille douce.
 766    Mezzotinte. Aquatinte.
-767    Eau-forte. Pointe sÃ¨che.
+767    Eau-forte. Pointe sèche.
 768    Billets de banque.
 769    Collections de gravures.
 
@@ -1270,175 +1270,175 @@ BEAUX-ARTS
 770 Photographie.
 
 771    Chimie photographique.
-772    ProcÃ©dÃ© Ã  lâargent.
-773    ProcÃ©dÃ©s Ã  la gÃ©latine.
-774    Albertype. Encre dâimpression.
+772    Procédé à l’argent.
+773    Procédés à la gélatine.
+774    Albertype. Encre d’impression.
 775    Photolithographie.
 776    Photozincographie.
 777    Photogravure. Electrophotogr.
-778    Applications particuliÃ¨res.
+778    Applications particulières.
 779    Collections de photographies.
 
 
 780 Musique.
 
-781    ThÃ©orie.
+781    Théorie.
 782    Dramatique.
-783    SacrÃ©e.
+783    Sacrée.
 784    Vocale.
 785    Orchestrale.
 786    Piano et Orgue.
-787    Instruments Ã  cordes.
-788    Instruments Ã  vent.
+787    Instruments à cordes.
+788    Instruments à vent.
 789    Autres instruments.
 
 
 790 Amusements. Jeux.
 
-791    RÃ©crÃ©ations publiques.
-792      ThÃ©Ã¢tre. OpÃ©ra.
-793    Jeux dâintÃ©rieur.
-794      Jeux dâadresse. Echecs.
+791    Récréations publiques.
+792      Théâtre. Opéra.
+793    Jeux d’intérieur.
+794      Jeux d’adresse. Echecs.
 795      Jeux de hasard. Cartes.
-796    Sports extÃ©rieurs.
+796    Sports extérieurs.
 797      Canotage. Jeu de balle.
 798      Equitation.
-799      PÃªche. Chasse. Tir.
+799      Pêche. Chasse. Tir.
 
 
 
 
-LITTÃRATURE
+LITTÉRATURE
 
 
-800 LittÃ©rature en gÃ©nÃ©ral.
+800 Littérature en général.
 
 801    Philosophie.
 802    Manuels.
 803    Dictionnaires.
 804    Essais.
-805    PÃ©riodiques.
-806    SociÃ©tÃ©s.
+805    Périodiques.
+806    Sociétés.
 807    Etude. Enseignement.
-808    TraitÃ©s. RhÃ©toriques.
-809    Histoire de la littÃ©rature.
+808    Traités. Rhétoriques.
+809    Histoire de la littérature.
 
 
-810 LittÃ©rature amÃ©ricaine.
+810 Littérature américaine.
 
-811    PoÃ©sie.
+811    Poésie.
 812    Drame.
 813    Roman.
 814    Essais.
 815    Eloquence.
 816    Lettres.
 817    Satire. Humour.
-818    MÃ©langes.
+818    Mélanges.
 819
 
 
-820 LittÃ©rature anglaise.
+820 Littérature anglaise.
 
-821    PoÃ©sie.
+821    Poésie.
 822    Drame.
 823    Roman.
 824    Essais.
 825    Eloquence.
 826    Lettres.
 827    Satire. Humour.
-828    MÃ©langes.
-829    LittÃ©rature anglo-saxonne.
+828    Mélanges.
+829    Littérature anglo-saxonne.
 
 
-830 LittÃ©rature germanique.
+830 Littérature germanique.
 
-831    PoÃ©sie.
+831    Poésie.
 832    Drame.
 833    Roman.
 834    Essais.
 835    Eloquence.
 836    Lettres.
 837    Satire. Humour.
-838    MÃ©langes.
-839    LittÃ©ratures germaniques sec.
+838    Mélanges.
+839    Littératures germaniques sec.
 
 
-840 LittÃ©rature franÃ§aise.
+840 Littérature française.
 
-841    PoÃ©sie.
+841    Poésie.
 842    Drame.
 843    Roman.
 844    Essais.
 845    Eloquence.
 846    Lettres.
 847    Satire. Humour.
-848    MÃ©langes.
+848    Mélanges.
 849
 
 
-850 LittÃ©rature italienne.
+850 Littérature italienne.
 
-851    PoÃ©sie.
+851    Poésie.
 852    Drame.
 853    Roman.
 854    Essais.
 855    Eloquence.
 856    Lettres.
 857    Satire. Humour.
-858    MÃ©langes.
-859    LittÃ©rat. roumaine et vallaque.
+858    Mélanges.
+859    Littérat. roumaine et vallaque.
 
 
-860 LittÃ©rature espagnole.
+860 Littérature espagnole.
 
-861    PoÃ©sie.
+861    Poésie.
 862    Drame.
 863    Roman.
 864    Essais.
 865    Eloquence.
 866    Lettres.
 867    Satire. Humour.
-868    MÃ©langes.
-869    LittÃ©rature portugaise.
+868    Mélanges.
+869    Littérature portugaise.
 
 
-870 LittÃ©rature latine.
+870 Littérature latine.
 
-871    PoÃ©sie.
+871    Poésie.
 872      Dramatique.
 873      Epique.
 874      Lyrique.
 875    Eloquence.
 876    Lettres.
 877    Satire. Humour.
-878    MÃ©langes.
-879    LittÃ©rat. italiques secondaires.
+878    Mélanges.
+879    Littérat. italiques secondaires.
 
 
-880 LittÃ©rature grecque.
+880 Littérature grecque.
 
-881    PoÃ©sie.
+881    Poésie.
 882      Dramatique.
 883      Epique.
 884      Lyrique.
 885    Eloquence.
 886    Lettres.
 887    Satire. Humour.
-888    MÃ©langes.
-879    LittÃ©rat. hellÃ©niq. secondaires.
+888    Mélanges.
+879    Littérat. helléniq. secondaires.
 
 
-890 LittÃ©ratures secondaires.
+890 Littératures secondaires.
 
-891    Indo-europÃ©ennes secondaires.
-892    SÃ©mitique.
+891    Indo-européennes secondaires.
+892    Sémitique.
 893    Hamitique.
 894    Scythique.
 895    Asie orientale.
 896    Afrique.
-897    AmÃ©rique du Nord.
-898    AmÃ©rique du Sud.
-899    PolynÃ©sie. Autres.
+897    Amérique du Nord.
+898    Amérique du Sud.
+899    Polynésie. Autres.
 
 
 
@@ -1446,43 +1446,43 @@ LITTÃRATURE
 HISTOIRE
 
 
-900 Histoire en gÃ©nÃ©ral.
+900 Histoire en général.
 
 901    Philosophie.
 902    Manuels. Chronologie.
 903    Dictionnaires.
 904    Essais.
-905    Revues. PÃ©riodiques.
-906    SociÃ©tÃ©s.
+905    Revues. Périodiques.
+906    Sociétés.
 907    Etude. Enseignement.
 908    Polygraphie.
 909    Histoire universelle.
 
 
-910 GÃ©ographie et descript.
+910 Géographie et descript.
 
-911    GÃ©ographie historique.
+911    Géographie historique.
 912    Cartes. Atlas.
-913    AntiquitÃ©s. ArchÃ©ologie.
+913    Antiquités. Archéologie.
 914    Europe.
 915    Asie.
 916    Afrique.
-917    AmÃ©rique du Nord.
-918    AmÃ©rique du Sud.
-919    OcÃ©anie et RÃ©gions polaires.
+917    Amérique du Nord.
+918    Amérique du Sud.
+919    Océanie et Régions polaires.
 
 
 920 Biographie.
 
 921    Philosophie.
-922    ThÃ©ologie.
+922    Théologie.
 923    Sociologie.
 924    Philologie.
 925    Sciences.
-926    Sciences appliquÃ©es.
+926    Sciences appliquées.
 927    Beaux-Arts.
-928    LittÃ©rature.
-929  GÃ©nÃ©alogie. HÃ©raldique.
+928    Littérature.
+929  Généalogie. Héraldique.
 
 
 930 Histoire ancienne.
@@ -1491,7 +1491,7 @@ HISTOIRE
 932    Egyptiens.
 933    Juifs.
 934    Indiens.
-935    MÃ¨des et Perses.
+935    Mèdes et Perses.
 936    Celtes.
 937    Romains.
 938    Grecs.
@@ -1507,7 +1507,7 @@ HISTOIRE
 945    Italie.
 946    Espagne. Portugal.
 947    Russie.
-948    NorwÃ©ge. SuÃ¨de. Danemark.
+948    Norwége. Suède. Danemark.
 949    Petits pays.
 
 
@@ -1518,8 +1518,8 @@ HISTOIRE
 953    Arabie.
 954    Indes.
 955    Perse.
-956    Turquie dâAsie.
-957    SibÃ©rie.
+956    Turquie d’Asie.
+957    Sibérie.
 958    Turkestan. Afghanist. Beloutc.
 959    Inde orientale.
 
@@ -1530,50 +1530,50 @@ HISTOIRE
 962      Egypte. Nubie.
 963      Abyssinie.
 964      Maroc.
-965      AlgÃ©rie.
+965      Algérie.
 966    Afrique centrale du Nord.
 967    Afrique centrale du Sud.
-968    Afrique mÃ©ridionale.
+968    Afrique méridionale.
 969    Madagascar.
 
 
-970 AmÃ©rique du Nord.
+970 Amérique du Nord.
 
-971    AmÃ©rique anglaise. Canada.
-972    Mexique. AmÃ©rique centrale.
+971    Amérique anglaise. Canada.
+972    Mexique. Amérique centrale.
 973    Etats-Unis.
-974      Etats de lâAtlantique, Nord.
-975      Etats de lâAtlantique, Sud.
+974      Etats de l’Atlantique, Nord.
+975      Etats de l’Atlantique, Sud.
 976      Etats du Centre, Sud.
 977      Etats du Centre, Nord-Est.
 978      Etats du Centre, Est.
 979      Etats du Pacifique.
 
 
-980 AmÃ©rique du Sud.
+980 Amérique du Sud.
 
-981    BrÃ©sil.
-982    RÃ©publique Argentine.
+981    Brésil.
+982    République Argentine.
 983    Chili.
 984    Bolivie.
-985    PÃ©rou.
+985    Pérou.
 986    Colombie. Equateur.
 987    Venezuela.
 988    Guyane.
 989    Paraguay. Uruguay.
 
 
-990 OcÃ©anie, RÃ©gions polaires.
+990 Océanie, Régions polaires.
 
 991    Malaisie.
 992      Iles de la Sonde.
 993    Australasie.
 994      Australie.
-995      Nouvelle GuinÃ©e.
-996    PolynÃ©sie.
-997    Iles isolÃ©es.
-998    RÃ©gions arctiques.
-999    RÃ©gions antarctiques.
+995      Nouvelle Guinée.
+996    Polynésie.
+997    Iles isolées.
+998    Régions arctiques.
+999    Régions antarctiques.
 
 
 

@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "commonjs",
+    "module": "ESNext",
     "lib": ["ES2020"],
     "outDir": "./dist",
     "rootDir": "./",
@@ -11,10 +11,10 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "moduleResolution": "node",
-    "types": ["node"],
+    "types": ["node", "jest"],
     "allowSyntheticDefaultImports": true
   },
-  "include": ["script/**/*"],
+  "include": ["script/**/*", "test/**/*"],
   "exclude": ["node_modules", "dist"]
 }
 

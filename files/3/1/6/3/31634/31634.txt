@@ -1,4 +1,4 @@
-ï»¿Project Gutenberg's Le Projet Gutenberg (1971-2009), by Marie Lebert
+Project Gutenberg's Le Projet Gutenberg (1971-2009), by Marie Lebert
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -35,29 +35,29 @@ LE PROJET GUTENBERG (1971-2009)
 MARIE LEBERT
 
 
-NEF, UniversitÃ© de Toronto, 2009
+NEF, Université de Toronto, 2009
 
 
-Copyright Â© 2009 Marie Lebert
+Copyright © 2009 Marie Lebert
 
 
 
 RESUME
 
 
-Le premier livre numÃ©rique date de juillet 1971. Il s'agit du eText #1
-du Projet Gutenberg, un projet visionnaire lancÃ© par Michael Hart pour
-crÃ©er des versions Ã©lectroniques d'oeuvres littÃ©raires et les diffuser
-dans le monde entier. Au 16e siÃ¨cle, Gutenberg avait permis Ã  chacun
-d'avoir des livres imprimÃ©s pour un prix relativement modique. Au 21e
-siÃ¨cle, le Projet Gutenberg permettrait Ã  chacun d'avoir une
-bibliothÃ¨que numÃ©rique gratuite. Ce projet trouve un second souffle et
+Le premier livre numérique date de juillet 1971. Il s'agit du eText #1
+du Projet Gutenberg, un projet visionnaire lancé par Michael Hart pour
+créer des versions électroniques d'oeuvres littéraires et les diffuser
+dans le monde entier. Au 16e siècle, Gutenberg avait permis à chacun
+d'avoir des livres imprimés pour un prix relativement modique. Au 21e
+siècle, le Projet Gutenberg permettrait à chacun d'avoir une
+bibliothèque numérique gratuite. Ce projet trouve un second souffle et
 un rayonnement international avec l'apparition du web en 1990 puis la
-crÃ©ation de Distributed Proofreaders en 2000, pour partager la
+création de Distributed Proofreaders en 2000, pour partager la
 relecture des livres entre des milliers de volontaires. En 2009, le
-site originel du Projet Gutenberg compte 3 millions de tÃ©lÃ©chargements
-par mois, sans compter les tÃ©lÃ©chargements des 38 sites miroirs
-rÃ©partis sur toute la planÃ¨te.
+site originel du Projet Gutenberg compte 3 millions de téléchargements
+par mois, sans compter les téléchargements des 38 sites miroirs
+répartis sur toute la planète.
 
 
 
@@ -66,314 +66,314 @@ UN PARI DEPUIS 38 ANS
 
 # Gestation
 
-Quels furent les tous dÃ©buts du projet? Alors Ã©tudiant Ã  lâUniversitÃ©
-dâIllinois (Etats-Unis), Michael Hart se voit attribuer quelques
-millions de dollars de Â«temps machineÂ» dans le laboratoire informatique
-(Materials Research Lab) de son universitÃ©. Le 4 juillet 1971, jour de
-la fÃªte nationale, il saisit "The United States Declaration of
-Independence" (DÃ©claration de lâindÃ©pendance des Etats-Unis, signÃ©e le
-4 juillet 1776) sur le clavier de son ordinateur. En caractÃ¨res
-majuscules, puisque les caractÃ¨res minuscules nâexistent pas encore. Le
-texte Ã©lectronique reprÃ©sente 5 Ko (kilo-octets). Mais lâenvoi dâun
-fichier de 5 Ko Ã  la centaine de personnes que reprÃ©sente le rÃ©seau de
-lâÃ©poque aurait fait imploser celui-ci, la bande passante Ã©tant infime.
-Michael diffuse donc un message indiquant oÃ¹ le texte est stockÃ© - sans
+Quels furent les tous débuts du projet? Alors étudiant à l’Université
+d’Illinois (Etats-Unis), Michael Hart se voit attribuer quelques
+millions de dollars de «temps machine» dans le laboratoire informatique
+(Materials Research Lab) de son université. Le 4 juillet 1971, jour de
+la fête nationale, il saisit "The United States Declaration of
+Independence" (Déclaration de l’indépendance des Etats-Unis, signée le
+4 juillet 1776) sur le clavier de son ordinateur. En caractères
+majuscules, puisque les caractères minuscules n’existent pas encore. Le
+texte électronique représente 5 Ko (kilo-octets). Mais l’envoi d’un
+fichier de 5 Ko à la centaine de personnes que représente le réseau de
+l’époque aurait fait imploser celui-ci, la bande passante étant infime.
+Michael diffuse donc un message indiquant où le texte est stocké - sans
 lien hypertexte toutefois, puisque le web ne voit le jour que vingt ans
-aprÃ¨s - suite Ã  quoi le fichier est tÃ©lÃ©chargÃ© par six personnes.
+après - suite à quoi le fichier est téléchargé par six personnes.
 
-Dans la foulÃ©e, Michael dÃ©cide de consacrer ce crÃ©dit-temps de quelques
-millions de dollars Ã  la recherche des oeuvres du domaine public
-disponibles en bibliothÃ¨que et Ã  la numÃ©risation de celles-ci. Il
-dÃ©cide aussi de stocker les textes Ã©lectroniques de la maniÃ¨re la plus
-simple possible, au format ASCII, pour que ces textes puissent Ãªtre lus
-sans problÃ¨me quels que soient la machine, la plateforme et le logiciel
-utilisÃ©s. Au lieu dâÃªtre un ensemble de pages reliÃ©es, le livre devient
-un texte Ã©lectronique que lâon peut dÃ©rouler en continu, avec des
-lettres capitales pour les termes en italique, en gras et soulignÃ©s de
-la version imprimÃ©e.
+Dans la foulée, Michael décide de consacrer ce crédit-temps de quelques
+millions de dollars à la recherche des oeuvres du domaine public
+disponibles en bibliothèque et à la numérisation de celles-ci. Il
+décide aussi de stocker les textes électroniques de la manière la plus
+simple possible, au format ASCII, pour que ces textes puissent être lus
+sans problème quels que soient la machine, la plateforme et le logiciel
+utilisés. Au lieu d’être un ensemble de pages reliées, le livre devient
+un texte électronique que l’on peut dérouler en continu, avec des
+lettres capitales pour les termes en italique, en gras et soulignés de
+la version imprimée.
 
-Peu aprÃ¨s, Michael dÃ©finit la mission du Projet Gutenberg: mettre Ã  la
-disposition de tous, par voie Ã©lectronique, le plus grand nombre
-possible dâoeuvres du domaine public. Â«Nous considÃ©rons le texte
-Ã©lectronique comme un nouveau mÃ©dium, sans vÃ©ritable relation avec le
-papier, explique-t-il plus tard, en aoÃ»t 1998. Le seul point commun est
-que nous diffusons les mÃªmes oeuvres, mais je ne vois pas comment le
-papier peut concurrencer le texte Ã©lectronique une fois que les gens y
-sont habituÃ©s, particuliÃ¨rement dans les Ã©coles.Â»
+Peu après, Michael définit la mission du Projet Gutenberg: mettre à la
+disposition de tous, par voie électronique, le plus grand nombre
+possible d’oeuvres du domaine public. «Nous considérons le texte
+électronique comme un nouveau médium, sans véritable relation avec le
+papier, explique-t-il plus tard, en août 1998. Le seul point commun est
+que nous diffusons les mêmes oeuvres, mais je ne vois pas comment le
+papier peut concurrencer le texte électronique une fois que les gens y
+sont habitués, particulièrement dans les écoles.»
 
-AprÃ¨s avoir saisi "The United States Declaration of Independence en
+Après avoir saisi "The United States Declaration of Independence en
 1971", Michael poursuit ses efforts en 1972 en saisissant un texte plus
-long, "The United States Bill of Rights" (DÃ©claration des droits
-amÃ©ricaine). Cette DÃ©claration des droits comprend les dix premiers
-amendements ajoutÃ©s en 1789 Ã  la Constitution des Etats-Unis (qui date
-elle-mÃªme de 1787), et dÃ©finissant les droits individuels des citoyens
-et les pouvoirs respectifs du gouvernement fÃ©dÃ©ral et des Etats. En
+long, "The United States Bill of Rights" (Déclaration des droits
+américaine). Cette Déclaration des droits comprend les dix premiers
+amendements ajoutés en 1789 à la Constitution des Etats-Unis (qui date
+elle-même de 1787), et définissant les droits individuels des citoyens
+et les pouvoirs respectifs du gouvernement fédéral et des Etats. En
 1973, un volontaire saisit "The United States Constitution"
 (Constitution des Etats-Unis) dans son entier.
 
 
-# PersÃ©vÃ©rance
+# Persévérance
 
-DâannÃ©e en annÃ©e, la capacitÃ© de la disquette augmente rÃ©guliÃ¨rement -
-le disque dur nâexiste pas encore - si bien qu'il est possible
-dâenvisager des fichiers de plus en plus volumineux. Des volontaires
-entreprennent la numÃ©risation de la Bible, composÃ©e elle-mÃªme de
-plusieurs livres, qui peuvent Ãªtre traitÃ©s sÃ©parÃ©ment et occuper chacun
-un fichier diffÃ©rent.
+D’année en année, la capacité de la disquette augmente régulièrement -
+le disque dur n’existe pas encore - si bien qu'il est possible
+d’envisager des fichiers de plus en plus volumineux. Des volontaires
+entreprennent la numérisation de la Bible, composée elle-même de
+plusieurs livres, qui peuvent être traités séparément et occuper chacun
+un fichier différent.
 
-Michael Hart dÃ©bute la saisie des oeuvres complÃ¨tes de Shakespeare, une
-piÃ¨ce aprÃ¨s lâautre, avec un fichier pour chaque piÃ¨ce. Cette version
-n'est dâailleurs jamais mise en ligne, du fait dâune loi plus
-contraignante sur le copyright entrÃ©e en vigueur dans lâintervalle, et
-qui vise non pas le texte de Shakespeare, tombÃ© depuis longtemps dans
-le domaine public, mais les commentaires et notes de l'Ã©dition
-correspondante. Dâautres Ã©ditions annotÃ©es appartenant au domaine
-public seront mises en ligne quelques annÃ©es plus tard.
+Michael Hart débute la saisie des oeuvres complètes de Shakespeare, une
+pièce après l’autre, avec un fichier pour chaque pièce. Cette version
+n'est d’ailleurs jamais mise en ligne, du fait d’une loi plus
+contraignante sur le copyright entrée en vigueur dans l’intervalle, et
+qui vise non pas le texte de Shakespeare, tombé depuis longtemps dans
+le domaine public, mais les commentaires et notes de l'édition
+correspondante. D’autres éditions annotées appartenant au domaine
+public seront mises en ligne quelques années plus tard.
 
-ParallÃ¨lement, lâinternet, qui Ã©tait encore embryonnaire en 1971,
-dÃ©bute vÃ©ritablement en 1974, suite Ã  la crÃ©ation du protocole TCP/IP
-(transmission control protocol/internet protocol). En 1983, le rÃ©seau
+Parallèlement, l’internet, qui était encore embryonnaire en 1971,
+débute véritablement en 1974, suite à la création du protocole TCP/IP
+(transmission control protocol/internet protocol). En 1983, le réseau
 est en plein essor.
 
 
-# De 10 Ã  1.000 ebooks
+# De 10 à 1.000 ebooks
 
-En aoÃ»t 1989, le Projet Gutenberg met en ligne son dixiÃ¨me texte, "The
-King James Bible", publiÃ©e pour la premiÃ¨re fois en 1611 et dont la
+En août 1989, le Projet Gutenberg met en ligne son dixième texte, "The
+King James Bible", publiée pour la première fois en 1611 et dont la
 version la plus connue date de 1769. L'ensemble des fichiers de
-l'Ancien Testament et du Nouveau Testament reprÃ©sente 5 Mo (mÃ©ga-
+l'Ancien Testament et du Nouveau Testament représente 5 Mo (méga-
 octets).
 
 En 1990, les internautes sont au nombre de 250.000, et le standard en
 vigueur est la disquette de 360 Ko. En janvier 1991, Michael Hart
-saisit "Aliceâs Adventures in Wonderland" (Alice au pays des
-merveilles) de Lewis Carroll (paru en 1865). En juillet de la mÃªme
-annÃ©e, il saisit "Peter Pan" de James M. Barrie (paru en 1904). Ces
-deux classiques de la littÃ©rature enfantine tiennent chacun sur une
+saisit "Alice’s Adventures in Wonderland" (Alice au pays des
+merveilles) de Lewis Carroll (paru en 1865). En juillet de la même
+année, il saisit "Peter Pan" de James M. Barrie (paru en 1904). Ces
+deux classiques de la littérature enfantine tiennent chacun sur une
 disquette standard.
 
-Arrive ensuite le web, opÃ©rationnel en 1991. Le premier navigateur,
-Mosaic, apparaÃ®t en novembre 1993. Lorsque lâutilisation du web se
-gÃ©nÃ©ralise, il devient plus facile de faire circuler les textes
-Ã©lectroniques et de recruter des volontaires.
+Arrive ensuite le web, opérationnel en 1991. Le premier navigateur,
+Mosaic, apparaît en novembre 1993. Lorsque l’utilisation du web se
+généralise, il devient plus facile de faire circuler les textes
+électroniques et de recruter des volontaires.
 
-Le Projet Gutenberg rode sa mÃ©thode de travail, avec la numÃ©risation
-dâun texte par mois en 1991, deux textes par mois en 1992, quatre
+Le Projet Gutenberg rode sa méthode de travail, avec la numérisation
+d’un texte par mois en 1991, deux textes par mois en 1992, quatre
 textes par mois en 1993 et huit textes par mois en 1994.
 
-En janvier 1994, le Projet Gutenberg fÃªte son centiÃ¨me livre avec la
+En janvier 1994, le Projet Gutenberg fête son centième livre avec la
 mise en ligne de "The Complete Works of William Shakespeare" (Les
-oeuvres complÃ¨tes de William Shakespeare). Shakespeare Ã©crivit
+oeuvres complètes de William Shakespeare). Shakespeare écrivit
 l'essentiel de son oeuvre entre 1590 et 1613.
 
-La production continue ensuite dâaugmenter, avec une moyenne de 8
+La production continue ensuite d’augmenter, avec une moyenne de 8
 textes par mois en 1994, 16 textes par mois en 1995 et 32 textes par
 mois en 1996.
 
 Comme on le voit, entre 1991 et 1996, la production double chaque
-annÃ©e. Tout en continuant de numÃ©riser des livres, Michael coordonne
-dÃ©sormais le travail de dizaines de volontaires.
+année. Tout en continuant de numériser des livres, Michael coordonne
+désormais le travail de dizaines de volontaires.
 
-Depuis la fin 1993, le Projet Gutenberg sâarticule en trois grands
-secteurs: a) Light Literature (littÃ©rature de divertissement), qui
-inclut par exemple "Aliceâs Adventures in Wonderland", "Peter Pan" ou
-"Aesopâs Fables" (Les Fables dâEsope); b) Heavy Literature (littÃ©rature
-Â«sÃ©rieuseÂ»), qui inclut par exemple La Bible, les oeuvres de
-Shakespeare ou "Moby Dick"; c) Reference Literature (littÃ©rature de
-rÃ©fÃ©rence), composÃ©e dâencyclopÃ©dies et de dictionnaires, par exemple
-le "Rogetâs Thesaurus". Cette prÃ©sentation en trois secteurs est
-abandonnÃ©e par la suite pour laisser place Ã  un classement par
-rubriques plus dÃ©taillÃ©.
+Depuis la fin 1993, le Projet Gutenberg s’articule en trois grands
+secteurs: a) Light Literature (littérature de divertissement), qui
+inclut par exemple "Alice’s Adventures in Wonderland", "Peter Pan" ou
+"Aesop’s Fables" (Les Fables d’Esope); b) Heavy Literature (littérature
+«sérieuse»), qui inclut par exemple La Bible, les oeuvres de
+Shakespeare ou "Moby Dick"; c) Reference Literature (littérature de
+référence), composée d’encyclopédies et de dictionnaires, par exemple
+le "Roget’s Thesaurus". Cette présentation en trois secteurs est
+abandonnée par la suite pour laisser place à un classement par
+rubriques plus détaillé.
 
 Le Projet Gutenberg se veut universel, aussi bien pour les oeuvres
-choisies que pour le public visÃ©, le but Ã©tant de mettre la littÃ©rature
-Ã  la disposition de tous, en dÃ©passant largement le public habituel des
-Ã©tudiants et des enseignants. Le secteur consacrÃ© Ã  la littÃ©rature de
-divertissement est destinÃ© Ã  amener devant lâÃ©cran un public trÃ¨s
+choisies que pour le public visé, le but étant de mettre la littérature
+à la disposition de tous, en dépassant largement le public habituel des
+étudiants et des enseignants. Le secteur consacré à la littérature de
+divertissement est destiné à amener devant l’écran un public très
 divers, par exemple des enfants et leurs grands-parents recherchant le
-texte Ã©lectronique de "Peter Pan" aprÃ¨s avoir vu le film Hook, ou
-recherchant la version Ã©lectronique dâ"Alice au pays des merveilles"
-aprÃ¨s avoir regardÃ© l'adaptation filmÃ©e Ã  la tÃ©lÃ©vision, ou recherchant
-lâorigine dâune citation littÃ©raire aprÃ¨s avoir vu un Ã©pisode de Star
-Trek. Pratiquement tous les Ã©pisodes de Star Trek citent des livres
-ayant leur correspondant numÃ©rique dans le Projet Gutenberg.
+texte électronique de "Peter Pan" après avoir vu le film Hook, ou
+recherchant la version électronique d’"Alice au pays des merveilles"
+après avoir regardé l'adaptation filmée à la télévision, ou recherchant
+l’origine d’une citation littéraire après avoir vu un épisode de Star
+Trek. Pratiquement tous les épisodes de Star Trek citent des livres
+ayant leur correspondant numérique dans le Projet Gutenberg.
 
-Lâobjectif est donc que le public, quâil soit familier ou non avec le
-livre imprimÃ©, puisse facilement retrouver des textes entendus dans des
-conversations, des films, des musiques, ou alors lus dans dâautres
-livres, journaux et magazines. Les fichiers Ã©lectroniques prennent peu
-de place grÃ¢ce Ã  lâutilisation du format ASCII. On peut facilement les
-tÃ©lÃ©charger par le biais de la ligne tÃ©lÃ©phonique. La recherche
-textuelle est tout aussi simple. Il suffit dâutiliser la fonction
-Â«chercherÂ» prÃ©sente dans nâimporte quel logiciel.
+L’objectif est donc que le public, qu’il soit familier ou non avec le
+livre imprimé, puisse facilement retrouver des textes entendus dans des
+conversations, des films, des musiques, ou alors lus dans d’autres
+livres, journaux et magazines. Les fichiers électroniques prennent peu
+de place grâce à l’utilisation du format ASCII. On peut facilement les
+télécharger par le biais de la ligne téléphonique. La recherche
+textuelle est tout aussi simple. Il suffit d’utiliser la fonction
+«chercher» présente dans n’importe quel logiciel.
 
 En 1997, la production est toujours de 32 titres par mois. En juin
 1997, le Projet Gutenberg met en ligne "The Merry Adventures of Robin
 Hood" (Les aventures de Robin des Bois) de Howard Pyle (paru en 1883).
-En aoÃ»t 1997, il met en ligne son milliÃ¨me texte Ã©lectronique, "La
-Divina Commedia" (La Divine ComÃ©die) de Dante Alighieri (parue en
-1321), dans sa langue dâorigine, en italien.
+En août 1997, il met en ligne son millième texte électronique, "La
+Divina Commedia" (La Divine Comédie) de Dante Alighieri (parue en
+1321), dans sa langue d’origine, en italien.
 
-En aoÃ»t 1998, Michael Hart Ã©crit: Â«Mon projet est de mettre 10.000
-textes Ã©lectroniques sur lâinternet. (Ce sera chose faite en octobre
+En août 1998, Michael Hart écrit: «Mon projet est de mettre 10.000
+textes électroniques sur l’internet. (Ce sera chose faite en octobre
 2003, ndlr.) Si je pouvais avoir des subventions importantes,
-jâaimerais aller jusquâÃ  un million et Ã©tendre aussi le nombre de nos
-usagers potentiels de 1,x% Ã  10% de la population mondiale, ce qui
-reprÃ©senterait la diffusion de 1.000 fois un milliard de textes
-Ã©lectroniques, au lieu dâun milliard seulement.Â»
+j’aimerais aller jusqu’à un million et étendre aussi le nombre de nos
+usagers potentiels de 1,x% à 10% de la population mondiale, ce qui
+représenterait la diffusion de 1.000 fois un milliard de textes
+électroniques, au lieu d’un milliard seulement.»
 
 
-# De 1.000 Ã  10.000 ebooks
+# De 1.000 à 10.000 ebooks
 
 Entre 1998 et 2000, la moyenne est constante, avec 36 textes par mois.
 En mai 1999, les collections comptent 2.000 livres. Le 2.000e texte est
-Don Quijote (Don Quichotte) de CervantÃ¨s (paru en 1605), dans sa langue
-dâorigine, en espagnol.
+Don Quijote (Don Quichotte) de Cervantès (paru en 1605), dans sa langue
+d’origine, en espagnol.
 
-Disponible en dÃ©cembre 2000, le 3.000e titre est le troisiÃ¨me volume de
-"A lâombre des jeunes filles en fleurs" de Marcel Proust (paru en
-1919), dans sa langue d'origine, en franÃ§ais. La moyenne passe Ã  104
+Disponible en décembre 2000, le 3.000e titre est le troisième volume de
+"A l’ombre des jeunes filles en fleurs" de Marcel Proust (paru en
+1919), dans sa langue d'origine, en français. La moyenne passe à 104
 livres par mois en 2001.
 
 Mis en ligne en octobre 2001, le 4.000e texte est "The French Immortals
-Series" (La sÃ©rie des Immortels franÃ§ais), dans sa traduction anglaise.
-PubliÃ© Ã  Paris en 1905 par la Maison Mazarin, ce livre rassemble
-plusieurs fictions dâÃ©crivains couronnÃ©s par lâAcadÃ©mie franÃ§aise,
+Series" (La série des Immortels français), dans sa traduction anglaise.
+Publié à Paris en 1905 par la Maison Mazarin, ce livre rassemble
+plusieurs fictions d’écrivains couronnés par l’Académie française,
 comme Emile Souvestre, Pierre Loti, Hector Malot, Charles de Bernard,
 Alphonse Daudet, etc.
 
 Disponible en avril 2002, le 5.000e texte est "The Notebooks of
-Leonardo da Vinci" (Les Carnets de LÃ©onard de Vinci), qui datent du
-dÃ©but du 16e siÃ¨cle. Un texte qui, en 2009, se trouve toujours dans le
-Top 100 des livres tÃ©lÃ©chargÃ©s.
+Leonardo da Vinci" (Les Carnets de Léonard de Vinci), qui datent du
+début du 16e siècle. Un texte qui, en 2009, se trouve toujours dans le
+Top 100 des livres téléchargés.
 
-En 1988, Michael Hart choisit de numÃ©riser "Aliceâs Adventures in
-Wonderland" et "Peter Pan" parce que, dans lâun et lâautre cas, leur
-version numÃ©risÃ©e tient sur une disquette de 360 Ko, le standard de
-lâÃ©poque. Quinze ans plus tard, en 2002, on dispose de disquettes de
-1,44 Mo et on peut aisÃ©ment compresser les fichiers en les zippant. Un
-fichier standard peut dÃ©sormais comporter trois millions de caractÃ¨res,
-plus quâil nâen faut pour un livre de taille moyenne, puisqu'un roman
-de 300 pages numÃ©risÃ© au format ASCII reprÃ©sente un mÃ©gaoctet. Un livre
-volumineux tient sur deux fichiers ASCII, tÃ©lÃ©chargeables tels quels ou
-en version zippÃ©e. Cinquante heures environ sont nÃ©cessaires pour
-sÃ©lectionner un livre de taille moyenne, vÃ©rifier quâil est bien du
+En 1988, Michael Hart choisit de numériser "Alice’s Adventures in
+Wonderland" et "Peter Pan" parce que, dans l’un et l’autre cas, leur
+version numérisée tient sur une disquette de 360 Ko, le standard de
+l’époque. Quinze ans plus tard, en 2002, on dispose de disquettes de
+1,44 Mo et on peut aisément compresser les fichiers en les zippant. Un
+fichier standard peut désormais comporter trois millions de caractères,
+plus qu’il n’en faut pour un livre de taille moyenne, puisqu'un roman
+de 300 pages numérisé au format ASCII représente un mégaoctet. Un livre
+volumineux tient sur deux fichiers ASCII, téléchargeables tels quels ou
+en version zippée. Cinquante heures environ sont nécessaires pour
+sélectionner un livre de taille moyenne, vérifier qu’il est bien du
 domaine public, le scanner, le corriger, le formater et le mettre en
 page.
 
-Quelques numÃ©ros de livres sont rÃ©servÃ©s pour lâavenir, par exemple le
-numÃ©ro 1984 (eBook #1984) pour le roman Ã©ponyme de George Orwell,
-publiÃ© en 1949, et qui est donc loin dâÃªtre tombÃ© dans le domaine
+Quelques numéros de livres sont réservés pour l’avenir, par exemple le
+numéro 1984 (eBook #1984) pour le roman éponyme de George Orwell,
+publié en 1949, et qui est donc loin d’être tombé dans le domaine
 public.
 
-En 2002, les collections sâaccroissent de 203 titres par mois. Au
-printemps 2002, elles reprÃ©sentent le quart des oeuvres du domaine
-public en accÃ¨s libre sur le web, recensÃ©es de maniÃ¨re pratiquement
-exhaustive par lâInternet Public Library (IPL). Un beau rÃ©sultat dÃ» au
+En 2002, les collections s’accroissent de 203 titres par mois. Au
+printemps 2002, elles représentent le quart des oeuvres du domaine
+public en accès libre sur le web, recensées de manière pratiquement
+exhaustive par l’Internet Public Library (IPL). Un beau résultat dû au
 patient travail de milliers de volontaires actifs dans de nombreux
 pays.
 
-1.000 livres en aoÃ»t 1997, 2.000 livres en mai 1999, 3.000 livres en
-dÃ©cembre 2000, 4.000 livres en octobre 2001, 5.000 livres en avril
+1.000 livres en août 1997, 2.000 livres en mai 1999, 3.000 livres en
+décembre 2000, 4.000 livres en octobre 2001, 5.000 livres en avril
 2002, 10.000 livres en octobre 2003. Le 10.000e livre est The Magna
-Carta, qui fut le premier texte constitutionnel anglais, signÃ© en 1215.
+Carta, qui fut le premier texte constitutionnel anglais, signé en 1215.
 
 Entre avril 2002 et octobre 2003, les collections doublent, passant de
-5.000 Ã  10.000 livres en dix-huit mois. La moyenne mensuelle est de 348
-livres numÃ©risÃ©s en 2003.
+5.000 à 10.000 livres en dix-huit mois. La moyenne mensuelle est de 348
+livres numérisés en 2003.
 
-Dix mille livres. Un chiffre impressionnant quand on pense Ã  ce que
-cela reprÃ©sente de pages scannÃ©es, relues et corrigÃ©es. Cette
-croissance rapide est due Ã  lâactivitÃ© de Distributed Proofreaders
-(DP), un site conÃ§u en 2000 par Charles Franks pour permettre la
-correction partagÃ©e. Les volontaires choisissent un livre en cours de
-traitement pour relire et corriger une page donnÃ©e. Chacun travaille Ã 
-son propre rythme. A titre indicatif, il est conseillÃ© de relire une
-page par jour. Câest peu de temps sur une journÃ©e, et câest beaucoup
+Dix mille livres. Un chiffre impressionnant quand on pense à ce que
+cela représente de pages scannées, relues et corrigées. Cette
+croissance rapide est due à l’activité de Distributed Proofreaders
+(DP), un site conçu en 2000 par Charles Franks pour permettre la
+correction partagée. Les volontaires choisissent un livre en cours de
+traitement pour relire et corriger une page donnée. Chacun travaille à
+son propre rythme. A titre indicatif, il est conseillé de relire une
+page par jour. C’est peu de temps sur une journée, et c’est beaucoup
 pour le projet.
 
-En aoÃ»t 2003, un CD "Best of Gutenberg" est disponible avec une
-sÃ©lection de 600 livres. En dÃ©cembre 2003, date Ã  laquelle le Projet
-Gutenberg franchit la barre des 10.000 livres, la quasi-totalitÃ© des
-livres (9.400 livres) est gravÃ©e sur un DVD. CD et DVD sont envoyÃ©s
-gratuitement Ã  qui en fait la demande. Libre ensuite Ã  chacun de faire
+En août 2003, un CD "Best of Gutenberg" est disponible avec une
+sélection de 600 livres. En décembre 2003, date à laquelle le Projet
+Gutenberg franchit la barre des 10.000 livres, la quasi-totalité des
+livres (9.400 livres) est gravée sur un DVD. CD et DVD sont envoyés
+gratuitement à qui en fait la demande. Libre ensuite à chacun de faire
 autant de copies que possible et de les distribuer autour de soi.
 
 
-# De 10.000 Ã  20.000 ebooks
+# De 10.000 à 20.000 ebooks
 
-En dÃ©cembre 2003, les collections approchent les 11.000 livres.
-Plusieurs formats sont dÃ©sormais prÃ©sents, par exemple les formats
+En décembre 2003, les collections approchent les 11.000 livres.
+Plusieurs formats sont désormais présents, par exemple les formats
 HTML, XML et RTF, le format principal - et obligatoire - restant
-lâASCII. Le tout reprÃ©sente 46.000 fichiers, soit une capacitÃ© totale
-de 110 gigaoctets. Le 13 fÃ©vrier 2004, date de la confÃ©rence de Michael
-Hart au siÃ¨ge de lâUNESCO Ã  Paris, les collections comprennent trÃ¨s
+l’ASCII. Le tout représente 46.000 fichiers, soit une capacité totale
+de 110 gigaoctets. Le 13 février 2004, date de la conférence de Michael
+Hart au siège de l’UNESCO à Paris, les collections comprennent très
 exactement 11.340 livres dans 25 langues. En mai 2004, les 12.500
-livres disponibles reprÃ©sentent 100.000 fichiers dans vingt formats
-diffÃ©rents, soit une capacitÃ© totale de 135 Go (giga-octets), destinÃ©e
-Ã  doubler chaque annÃ©e avec lâajout d'environ 300 livres par mois (338
+livres disponibles représentent 100.000 fichiers dans vingt formats
+différents, soit une capacité totale de 135 Go (giga-octets), destinée
+à doubler chaque année avec l’ajout d'environ 300 livres par mois (338
 livres en 2004).
 
-ParallÃ¨lement, le Project Gutenberg Consortia Center (PGCC), qui avait
-Ã©tÃ© lancÃ© en 1997 pour rassembler des collections de livres numÃ©riques
-dÃ©jÃ  existantes et provenant de sources extÃ©rieures, est officiellement
-affiliÃ© au Projet Gutenberg en 2003.
+Parallèlement, le Project Gutenberg Consortia Center (PGCC), qui avait
+été lancé en 1997 pour rassembler des collections de livres numériques
+déjà existantes et provenant de sources extérieures, est officiellement
+affilié au Projet Gutenberg en 2003.
 
-Par ailleurs, un projet europÃ©en est lancÃ© Ã  lâinstigation du Projet
-Rastko, basÃ© Ã  Belgrade, en Serbie. Distributed Proofreaders Europe
-dÃ©bute en dÃ©cembre 2003, et Projet Gutenberg Europe en janvier 2004,
+Par ailleurs, un projet européen est lancé à l’instigation du Projet
+Rastko, basé à Belgrade, en Serbie. Distributed Proofreaders Europe
+débute en décembre 2003, et Projet Gutenberg Europe en janvier 2004,
 avec cent livres disponibles en avril 2005. Les livres sont en
-plusieurs langues pour reflÃ©ter la diversitÃ© linguistique prÃ©valant en
-Europe, avec cent langues prÃ©vues sur le long terme.
+plusieurs langues pour refléter la diversité linguistique prévalant en
+Europe, avec cent langues prévues sur le long terme.
 
-En janvier 2005, le Projet Gutenberg fÃªte ses 15.000 livres, avec la
+En janvier 2005, le Projet Gutenberg fête ses 15.000 livres, avec la
 mise en ligne de "The Life of Reason" de George Santayana (paru en
 1906).
 
-En juin 2005, le nombre de livres sâÃ©lÃ¨ve Ã  16.000. Si 25 langues
-seulement Ã©taient prÃ©sentes en fÃ©vrier 2004, 42 langues sont
-reprÃ©sentÃ©es en juin 2005, dont lâiroquois, le sanscrit et les langues
-mayas.En dÃ©cembre 2006, on compte 50 langues. A la date du 16 dÃ©cembre
-2006, les langues comprenant plus de 50 titres sont lâanglais (17.377
-livres), le franÃ§ais (966 titres), lâallemand (412 titres), le finnois
-(344 titres), le hollandais (244 titres), lâespagnol (140 titres),
-lâitalien (102 titres), le chinois (69 titres), le portugais (68
+En juin 2005, le nombre de livres s’élève à 16.000. Si 25 langues
+seulement étaient présentes en février 2004, 42 langues sont
+représentées en juin 2005, dont l’iroquois, le sanscrit et les langues
+mayas.En décembre 2006, on compte 50 langues. A la date du 16 décembre
+2006, les langues comprenant plus de 50 titres sont l’anglais (17.377
+livres), le français (966 titres), l’allemand (412 titres), le finnois
+(344 titres), le hollandais (244 titres), l’espagnol (140 titres),
+l’italien (102 titres), le chinois (69 titres), le portugais (68
 titres) et le tagalogue (51 titres).
 
-LancÃ© en aoÃ»t 2001, le Project Gutenberg Australia fÃªte ses 500 livres
+Lancé en août 2001, le Project Gutenberg Australia fête ses 500 livres
 en juillet 2005, tandis que le Project Gutenberg Canada est en
 gestation, tout comme un Projet Gutenberg au Portugal et un autre aux
 Philippines.
 
-En dÃ©cembre 2006, le Projet Gutenberg franchit la barre des 20.000
+En décembre 2006, le Projet Gutenberg franchit la barre des 20.000
 livres. Le 20.000e livre est un livre audio, "Twenty Thousand Leagues
 Under the Sea", version anglaise de "Vingt mille lieues sous les mers
-de Jules Verne" (publiÃ© en 1869). La moyenne est de 345 nouveaux livres
+de Jules Verne" (publié en 1869). La moyenne est de 345 nouveaux livres
 par mois en 2006.
 
-S'il a fallu 32 ans, de juillet 1971 Ã  octobre 2003, pour numÃ©riser les
-10.000 premiers livres, il nâaura fallu que trois ans et deux mois,
-dâoctobre 2003 Ã  dÃ©cembre 2006, pour numÃ©riser les 10.000 livres
+S'il a fallu 32 ans, de juillet 1971 à octobre 2003, pour numériser les
+10.000 premiers livres, il n’aura fallu que trois ans et deux mois,
+d’octobre 2003 à décembre 2006, pour numériser les 10.000 livres
 suivants.
 
-A la mÃªme date, le Project Gutenberg Australia approche les 1.500
+A la même date, le Project Gutenberg Australia approche les 1.500
 livres (c'est chose faite en avril 2007) et le Projet Gutenberg Europe
 compte 400 livres.
 
-La section Project Gutenberg PrePrints dÃ©bute en janvier 2006 pour
-accueillir de nouveaux documents suffisamment intÃ©ressants pour Ãªtre
-mis en ligne, mais ne pouvant Ãªtre intÃ©grÃ©s aux collections existantes
-sans traitement ultÃ©rieur par des volontaires, pour diverses raisons:
-collections incomplÃ¨tes, qualitÃ© insuffisante, conversion souhaitÃ©e
+La section Project Gutenberg PrePrints débute en janvier 2006 pour
+accueillir de nouveaux documents suffisamment intéressants pour être
+mis en ligne, mais ne pouvant être intégrés aux collections existantes
+sans traitement ultérieur par des volontaires, pour diverses raisons:
+collections incomplètes, qualité insuffisante, conversion souhaitée
 dans un autre format, etc. Cette section comprend 379 titres en
-dÃ©cembre 2006.
+décembre 2006.
 
 
 # Des dizaines de milliers d'ebooks
 
-Project Gutenberg News dÃ©bute en novembre 2006 Ã  lâinstigation de Mike
-Cook. Il s'agit d'un site web qui complÃ¨te la lettre dâinformation
-hebdomadaire et mensuelle existant depuis nombre d'annÃ©es. Le site
+Project Gutenberg News débute en novembre 2006 à l’instigation de Mike
+Cook. Il s'agit d'un site web qui complète la lettre d’information
+hebdomadaire et mensuelle existant depuis nombre d'années. Le site
 offre par exemple les statistiques de production hebdomadaires,
 mensuelles et annuelles depuis 2001. La production hebdomadaire est de
 24 livres en 2001, 47 livres en 2002, 79 livres en 2003, 78 livres en
@@ -386,342 +386,342 @@ en 2001, 2.432 livres en 2002, 4.176 livres en 2003, 4.058 livres en
 2007.
 
 Le Projet Gutenberg Canada (PGC) voit le jour le 1er juillet 2007, le
-jour de la fÃªte nationale, Ã  l'instigation de Michael Shepard et David
+jour de la fête nationale, à l'instigation de Michael Shepard et David
 Jones. Il est suivi de Distributed Proofreaders Canada (DPC), avec une
-production qui dÃ©bute en dÃ©cembre 2007. Les cent premiers livres sont
-disponibles en mars 2008, avec des livres en anglais, en franÃ§ais et en
+production qui débute en décembre 2007. Les cent premiers livres sont
+disponibles en mars 2008, avec des livres en anglais, en français et en
 italien.
 
-Distributed Proofreaders (DP), lancÃ© en octobre 2000, comptabilise
+Distributed Proofreaders (DP), lancé en octobre 2000, comptabilise
 52.000 volontaires en janvier 2008, avec un nombre total de 11.950
-livres traitÃ©s en sept ans et trois mois. Distributed Proofreaders
-Europe (DP Europe), lancÃ© en dÃ©cembre 2003, comptabilise 1.500
-volontaires. Distributed Proofreaders Canada (DPC), lancÃ© en dÃ©cembre
+livres traités en sept ans et trois mois. Distributed Proofreaders
+Europe (DP Europe), lancé en décembre 2003, comptabilise 1.500
+volontaires. Distributed Proofreaders Canada (DPC), lancé en décembre
 2007, comptabilise 250 volontaires.
 
 Le Projet Gutenberg franchit la barre des 25.000 livres en avril 2008.
 Le 25.000e livre est "English Book Collectors", de William Younger
-Fletcher (publiÃ© en 1902).
+Fletcher (publié en 1902).
 
 Le Projet Gutenberg comptabilise 32.500 ebooks le 1er mars 2009 pour
 l'ensemble de ses sites, avec 28.147 ebooks pour le Project Gutenberg
 USA, 1.750 ebooks pour le Project Gutenberg Australia, 600 ebooks pour
 le Project Gutenberg Europe et 250 ebooks pour le Project Gutenberg
 Canada, auxquels il convient d'ajouter les 2.020 ebooks de la section
-PrePrints. Le Project Gutenberg Consortia Center (PGCC) â qui rassemble
-des collections de livres numÃ©risÃ©s par d'autres sources - comptabilise
-75.000 ebooks Ã  la mÃªme date.
+PrePrints. Le Project Gutenberg Consortia Center (PGCC) – qui rassemble
+des collections de livres numérisés par d'autres sources - comptabilise
+75.000 ebooks à la même date.
 
 
 
 DOMAINE PUBLIC ET COPYRIGHT
 
 
-Chose inquiÃ©tante Ã  lâheure dâune sociÃ©tÃ© dite de lâinformation, le
-domaine public se rÃ©duit comme peau de chagrin. A une Ã©poque qui n'est
+Chose inquiétante à l’heure d’une société dite de l’information, le
+domaine public se réduit comme peau de chagrin. A une époque qui n'est
 pas si lointaine, 50% des oeuvres appartenaient au domaine public, et
-pouvaient donc Ãªtre librement utilisÃ©es par tous. D'ici 2100, 99% des
-oeuvres seraient rÃ©gies par le droit dâauteur, avec un maigre 1% laissÃ©
-au domaine public. Un problÃ¨me Ã©pineux pour tous ceux qui gÃ¨rent des
-bibliothÃ¨ques numÃ©riques, et qui affecte aussi bien le Projet Gutenberg
+pouvaient donc être librement utilisées par tous. D'ici 2100, 99% des
+oeuvres seraient régies par le droit d’auteur, avec un maigre 1% laissé
+au domaine public. Un problème épineux pour tous ceux qui gèrent des
+bibliothèques numériques, et qui affecte aussi bien le Projet Gutenberg
 que Google Books.
 
-Si le Projet Gutenberg sâest donnÃ© pour mission de diffuser
-gratuitement par voie Ã©lectronique le plus grand nombre possible
-dâoeuvres du domaine public, sa tÃ¢che nâest guÃ¨re facilitÃ©e par les
-coups de boutoir portÃ©s au domaine public. Michael Hart, son fondateur,
-se penche sur la question depuis plus de trente ans, avec lâaide dâun
-groupe dâavocats spÃ©cialisÃ©s dans le droit dâauteur.
+Si le Projet Gutenberg s’est donné pour mission de diffuser
+gratuitement par voie électronique le plus grand nombre possible
+d’oeuvres du domaine public, sa tâche n’est guère facilitée par les
+coups de boutoir portés au domaine public. Michael Hart, son fondateur,
+se penche sur la question depuis plus de trente ans, avec l’aide d’un
+groupe d’avocats spécialisés dans le droit d’auteur.
 
-Dans la section Copyright HowTo, le Projet Gutenberg dÃ©taille les
-calculs Ã  faire pour dÃ©terminer si un titre publiÃ© aux Etats-Unis
-appartient ou non au domaine public. Les oeuvres publiÃ©es avant 1923
-sont soumises au droit dâauteur pendant 75 ans Ã  partir de leur date de
+Dans la section Copyright HowTo, le Projet Gutenberg détaille les
+calculs à faire pour déterminer si un titre publié aux Etats-Unis
+appartient ou non au domaine public. Les oeuvres publiées avant 1923
+sont soumises au droit d’auteur pendant 75 ans à partir de leur date de
 publication (elles sont donc maintenant dans le domaine public). Les
-oeuvres publiÃ©es entre 1923 et 1977 sont soumises au droit dâauteur
-pendant 95 ans Ã  partir de leur date de publication (rien ne tombera
-dans le domaine public avant 2019). Une oeuvre publiÃ©e en 1998 et les
-annÃ©es suivantes est soumise au droit dâauteur pendant 70 ans Ã  partir
-de la date du dÃ©cÃ¨s de lâauteur sâil sâagit dâun auteur personnel (rien
-dans le domaine public avant 2049), ou alors pendant 95 ans Ã  partir de
-la date de publication - ou 120 ans Ã  partir de la date de crÃ©ation -
-sâil sâagit dâun auteur collectif (rien dans le domaine public avant
-2074). Tout ceci dans les grandes lignes. Dâautres rÃ¨gles viennent
-sâajouter Ã  ces rÃ¨gles de base, la loi sur le copyright ayant Ã©tÃ©
-amendÃ©e plusieurs fois fois depuis 1971, date de fondation du Projet
+oeuvres publiées entre 1923 et 1977 sont soumises au droit d’auteur
+pendant 95 ans à partir de leur date de publication (rien ne tombera
+dans le domaine public avant 2019). Une oeuvre publiée en 1998 et les
+années suivantes est soumise au droit d’auteur pendant 70 ans à partir
+de la date du décès de l’auteur s’il s’agit d’un auteur personnel (rien
+dans le domaine public avant 2049), ou alors pendant 95 ans à partir de
+la date de publication - ou 120 ans à partir de la date de création -
+s’il s’agit d’un auteur collectif (rien dans le domaine public avant
+2074). Tout ceci dans les grandes lignes. D’autres règles viennent
+s’ajouter à ces règles de base, la loi sur le copyright ayant été
+amendée plusieurs fois fois depuis 1971, date de fondation du Projet
 Gutenberg.
 
-Nettement plus contraignant que l'amendement prÃ©cÃ©dent, une nouveau
-renforcement du copyright est entÃ©rinÃ© par le CongrÃ¨s le 27 octobre
-1998 pour contrer le formidable vÃ©hicule de diffusion qu'est
-l'internet. Au fil des siÃ¨cles, chaque avancÃ©e technique est
-accompagnÃ©e d'un durcissement du copyright, qui semble Ãªtre la rÃ©ponse
-des Ã©diteurs Ã  un accÃ¨s plus facile au savoir, et la peur affÃ©rente de
-perdre des royalties. Â«Le copyright a Ã©tÃ© augmentÃ© de 20 ans, explique
+Nettement plus contraignant que l'amendement précédent, une nouveau
+renforcement du copyright est entériné par le Congrès le 27 octobre
+1998 pour contrer le formidable véhicule de diffusion qu'est
+l'internet. Au fil des siècles, chaque avancée technique est
+accompagnée d'un durcissement du copyright, qui semble être la réponse
+des éditeurs à un accès plus facile au savoir, et la peur afférente de
+perdre des royalties. «Le copyright a été augmenté de 20 ans, explique
 Michael Hart en juillet 1999. Auparavant on devait attendre 75 ans, on
-est maintenant passÃ© Ã  95 ans. Bien avant, le copyright durait 28 ans
-(plus une extension de 28 ans si on la demandait avant lâexpiration du
-dÃ©lai) et, avant cela, le copyright durait 14 ans (plus une extension
-de 14 ans si on la demandait avant lâexpiration du dÃ©lai). Comme on le
-voit, on assiste Ã  une dÃ©gradation rÃ©guliÃ¨re et constante du domaine
-public.Â»
+est maintenant passé à 95 ans. Bien avant, le copyright durait 28 ans
+(plus une extension de 28 ans si on la demandait avant l’expiration du
+délai) et, avant cela, le copyright durait 14 ans (plus une extension
+de 14 ans si on la demandait avant l’expiration du délai). Comme on le
+voit, on assiste à une dégradation régulière et constante du domaine
+public.»
 
-Les dates Ã©voquÃ©es par Michael sont les suivantes, comme expliquÃ© en
-dÃ©tail dans son blog:
+Les dates évoquées par Michael sont les suivantes, comme expliqué en
+détail dans son blog:
 
 (a) 1790 est la date de la main-mise de la Guilde des imprimeurs (les
-Ã©diteurs de lâÃ©poque en Angleterre) sur les auteurs, qui entraÃ®ne la
+éditeurs de l’époque en Angleterre) sur les auteurs, qui entraîne la
 naissance du copyright. Le 1790 Copyright Act institue un copyright de
-14 ans aprÃ¨s la date de publication de lâoeuvre, plus une extension de
-28 ans si celle-ci est demandÃ©e avant lâexpiration du dÃ©lai. Les
-oeuvres pouvant Ãªtre lÃ©galement imprimÃ©es passent subitement de 6.000 Ã 
+14 ans après la date de publication de l’oeuvre, plus une extension de
+28 ans si celle-ci est demandée avant l’expiration du délai. Les
+oeuvres pouvant être légalement imprimées passent subitement de 6.000 à
 600, et neuf titres sur dix disparaissent des librairies. Quelque 335
-ans aprÃ¨s les dÃ©buts de l'imprimerie, censÃ©e ouvrir les portes du
-savoir Ã  tous, le monde du livre est dÃ©sormais contrÃ´lÃ© par les
-Ã©diteurs et non plus par les auteurs. Cette nouvelle lÃ©gislation est
-Ã©galement effective aux Etats-Unis et en France.
+ans après les débuts de l'imprimerie, censée ouvrir les portes du
+savoir à tous, le monde du livre est désormais contrôlé par les
+éditeurs et non plus par les auteurs. Cette nouvelle législation est
+également effective aux Etats-Unis et en France.
 
 (b) 1831 est la date d'un premier renforcement du copyright pour
-contrer la rÃ©Ã©dition de vastes collections du domaine public sur les
-nouvelles presses Ã  vapeur. Le 1831 Copyright Act institue un copyright
-de 28 ans aprÃ¨s la date de publication de lâoeuvre, plus une extension
-de 14 ans si celle-ci est demandÃ©e avant lâexpiration du dÃ©lai, Ã 
+contrer la réédition de vastes collections du domaine public sur les
+nouvelles presses à vapeur. Le 1831 Copyright Act institue un copyright
+de 28 ans après la date de publication de l’oeuvre, plus une extension
+de 14 ans si celle-ci est demandée avant l’expiration du délai, à
 savoir un total de 42 ans.
 
-(c) 1909 est la date d'un deuxiÃ¨me renforcement du copyright pour
-contrer une rÃ©Ã©dition des collections du domaine public sur les
-nouvelles presses Ã©lectriques. Le 1909 Copyright Act double la pÃ©riode
-de lâextension, qui passe Ã  28 ans, le tout reprÃ©sentant un total de 56
+(c) 1909 est la date d'un deuxième renforcement du copyright pour
+contrer une réédition des collections du domaine public sur les
+nouvelles presses électriques. Le 1909 Copyright Act double la période
+de l’extension, qui passe à 28 ans, le tout représentant un total de 56
 ans.
 
-(d) 1976 est la date dâun nouveau durcissement du copyright suite
-lâapparition de la photocopieuse lancÃ©e par Xerox. Le 1976 Copyright
-Act institue un copyright de 50 ans aprÃ¨s le dÃ©cÃ¨s de lâauteur. De ce
-fait, tout copyright en cours avant le 19 septembre 1962 nâexpire pas
-avant le 31 dÃ©cembre 1976.
+(d) 1976 est la date d’un nouveau durcissement du copyright suite
+l’apparition de la photocopieuse lancée par Xerox. Le 1976 Copyright
+Act institue un copyright de 50 ans après le décès de l’auteur. De ce
+fait, tout copyright en cours avant le 19 septembre 1962 n’expire pas
+avant le 31 décembre 1976.
 
-(e) 1998 est la date dâun durcissement supplÃ©mentaire du copyright
-suite au dÃ©veloppement rapide des technologies numÃ©riques et aux
-centaines de milliers d'oeuvres dÃ©sormais disponibles sur CD et DVD et
-sur le web, gratuitement ou Ã  un prix trÃ¨s bas. Le 1998 Copyright Act
-allonge la durÃ©e du copyright qui est dÃ©sormais de 70 ans aprÃ¨s le
-dÃ©cÃ¨s de lâauteur, pour protÃ©ger l'empire Disney (raison pour laquelle
+(e) 1998 est la date d’un durcissement supplémentaire du copyright
+suite au développement rapide des technologies numériques et aux
+centaines de milliers d'oeuvres désormais disponibles sur CD et DVD et
+sur le web, gratuitement ou à un prix très bas. Le 1998 Copyright Act
+allonge la durée du copyright qui est désormais de 70 ans après le
+décès de l’auteur, pour protéger l'empire Disney (raison pour laquelle
 on parle souvent de Mickey Mouse Copyright Act) et nombre de
 multinationales culturelles.
 
 Pour ne prendre qu'un exemple, le classique mondial "Gone With the
-Wind" ("Autant en emporte le vent") de Margaret Mitchell, publiÃ© en
-1939, aurait dÃ» tomber dans le domaine public au bout de 56 ans, en
-1995, conformÃ©ment Ã  la lÃ©gislation de l'Ã©poque, libÃ©rant ainsi les
-droits pour les adaptations en tous genres. Suite aux lÃ©gislations de
-1976 et 1998, ce classique ne devrait dÃ©sormais tomber dans le domaine
+Wind" ("Autant en emporte le vent") de Margaret Mitchell, publié en
+1939, aurait dû tomber dans le domaine public au bout de 56 ans, en
+1995, conformément à la législation de l'époque, libérant ainsi les
+droits pour les adaptations en tous genres. Suite aux législations de
+1976 et 1998, ce classique ne devrait désormais tomber dans le domaine
 public qu'en 2035.
 
-La lÃ©gislation de 1998 porte un coup trÃ¨s rude aux bibliothÃ¨ques
-numÃ©riques, en plein essor avec le dÃ©veloppement du web, et
-scandalisent ceux qui les gÃ¨rent, Ã  commencer par Michael Hart et John
-Mark Ockerbloom, crÃ©ateur de l'Online Books Page. Mais comment faire le
-poids vis-Ã -vis des majors de lâÃ©dition? Nombre de titres doivent Ãªtre
-retirÃ©s des collections.
+La législation de 1998 porte un coup très rude aux bibliothèques
+numériques, en plein essor avec le développement du web, et
+scandalisent ceux qui les gèrent, à commencer par Michael Hart et John
+Mark Ockerbloom, créateur de l'Online Books Page. Mais comment faire le
+poids vis-à-vis des majors de l’édition? Nombre de titres doivent être
+retirés des collections.
 
-John Mark explique en aoÃ»t 1999: Â«A mon avis, il est important que les
-internautes comprennent que le copyright est un contrat social conÃ§u
-pour le bien public - incluant Ã  la fois les auteurs et les lecteurs.
+John Mark explique en août 1999: «A mon avis, il est important que les
+internautes comprennent que le copyright est un contrat social conçu
+pour le bien public - incluant à la fois les auteurs et les lecteurs.
 Ceci signifie que les auteurs doivent avoir le droit d'utiliser de
-maniÃ¨re exclusive et pour un temps limitÃ© les oeuvres qu'ils ont
-crÃ©Ã©es, comme ceci est spÃ©cifiÃ© dans la loi actuelle sur le copyright.
-Mais ceci signifie Ã©galement que leurs lecteurs ont le droit de copier
-et de rÃ©utiliser ce travail autant qu'ils le veulent Ã  l'expiration de
+manière exclusive et pour un temps limité les oeuvres qu'ils ont
+créées, comme ceci est spécifié dans la loi actuelle sur le copyright.
+Mais ceci signifie également que leurs lecteurs ont le droit de copier
+et de réutiliser ce travail autant qu'ils le veulent à l'expiration de
 ce copyright. Aux Etats-Unis, on voit maintenant diverses tentatives
-visant Ã  retirer ces droits aux lecteurs, en limitant les rÃ¨gles
-relatives Ã  l'utilisation de ces oeuvres, en prolongeant la durÃ©e du
-copyright (y compris avec certaines propositions visant Ã  le rendre
-permanent) et en Ã©tendant la propriÃ©tÃ© intellectuelle Ã  des travaux
-distincts des oeuvres de crÃ©ation (comme on en trouve dans les
-propositions de copyright pour les bases de donnÃ©es). Il existe mÃªme
-des propositions visant Ã  entiÃ¨rement remplacer la loi sur le copyright
+visant à retirer ces droits aux lecteurs, en limitant les règles
+relatives à l'utilisation de ces oeuvres, en prolongeant la durée du
+copyright (y compris avec certaines propositions visant à le rendre
+permanent) et en étendant la propriété intellectuelle à des travaux
+distincts des oeuvres de création (comme on en trouve dans les
+propositions de copyright pour les bases de données). Il existe même
+des propositions visant à entièrement remplacer la loi sur le copyright
 par une loi instituant un contrat beaucoup plus lourd. Je trouve
-beaucoup plus difficile de soutenir la requÃªte de Jack Valenti,
+beaucoup plus difficile de soutenir la requête de Jack Valenti,
 directeur de la MPAA (Motion Picture Association of America), qui
-demande d'arrÃªter de copier les films sous copyright, quand je sais
-que, si ceci Ã©tait acceptÃ©, aucun film n'entrerait jamais dans le
-domaine public (...). Si on voit les sociÃ©tÃ©s de mÃ©dias tenter de
+demande d'arrêter de copier les films sous copyright, quand je sais
+que, si ceci était accepté, aucun film n'entrerait jamais dans le
+domaine public (...). Si on voit les sociétés de médias tenter de
 bloquer tout ce qu'elles peuvent, je ne trouve pas surprenant que
-certains usagers rÃ©agissent en mettant en ligne tout ce qu'ils peuvent.
-Malheureusement, cette attitude est Ã  son tour contraire aux droits
-lÃ©gitimes des auteurs.Â»
+certains usagers réagissent en mettant en ligne tout ce qu'ils peuvent.
+Malheureusement, cette attitude est à son tour contraire aux droits
+légitimes des auteurs.»
 
-Michael raconte en juillet 1999: Â«Jâai Ã©tÃ© le principal opposant aux
-extensions du copyright, mais Hollywood et les grands Ã©diteurs ont fait
-en sorte que le CongrÃ¨s ne mentionne pas mon action en public. Les
-dÃ©bats actuels sont totalement irrÃ©alistes. Ils sont menÃ©s par
-âlâaristocratie terrienne de lâÃ¢ge de lâinformationâ et servent
-uniquement ses intÃ©rÃªts. Un Ã¢ge de lâinformation? Et pour qui?Â»
+Michael raconte en juillet 1999: «J’ai été le principal opposant aux
+extensions du copyright, mais Hollywood et les grands éditeurs ont fait
+en sorte que le Congrès ne mentionne pas mon action en public. Les
+débats actuels sont totalement irréalistes. Ils sont menés par
+“l’aristocratie terrienne de l’âge de l’information” et servent
+uniquement ses intérêts. Un âge de l’information? Et pour qui?»
 
-En effet. Les instances politiques ne cessent de parler dâÃ¢ge de
-lâinformation alors que, en parallÃ¨le, elles durcissent la
-rÃ©glementation relative Ã  la mise Ã  disposition de cette information.
-La contradiction est flagrante. Le copyright est passÃ© d'une durÃ©e de
-30 ans en moyenne en 1909 Ã  une durÃ©e de 95 ans en moyenne en 1998,
-explique aussi Michael dans son blog. En 89 ans, de 1909 Ã  1998, le
+En effet. Les instances politiques ne cessent de parler d’âge de
+l’information alors que, en parallèle, elles durcissent la
+réglementation relative à la mise à disposition de cette information.
+La contradiction est flagrante. Le copyright est passé d'une durée de
+30 ans en moyenne en 1909 à une durée de 95 ans en moyenne en 1998,
+explique aussi Michael dans son blog. En 89 ans, de 1909 à 1998, le
 copyright a subi une extension de 65 ans qui affecte les trois quarts
-de la production du 20e siÃ¨cle. Seul un livre publiÃ© avant 1923 peut
-Ãªtre considÃ©rÃ© avec certitude comme du domaine public.
+de la production du 20e siècle. Seul un livre publié avant 1923 peut
+être considéré avec certitude comme du domaine public.
 
-Un durcissement similaire touche les pays de l'Union europÃ©enne. La
-rÃ¨gle gÃ©nÃ©rale est dÃ©sormais un copyright de 70 ans aprÃ¨s le dÃ©cÃ¨s de
-lâauteur, alors quâil Ã©tait auparavant de 50 ans, suite aux pressions
-exercÃ©es par les Ã©diteurs de contenu sous le prÃ©texte dâÂ«harmoniserÂ»
-les lois nationales relatives au copyright pour rÃ©pondre Ã  la
-mondialisation du marchÃ©.
+Un durcissement similaire touche les pays de l'Union européenne. La
+règle générale est désormais un copyright de 70 ans après le décès de
+l’auteur, alors qu’il était auparavant de 50 ans, suite aux pressions
+exercées par les éditeurs de contenu sous le prétexte d’«harmoniser»
+les lois nationales relatives au copyright pour répondre à la
+mondialisation du marché.
 
 
 
 DU PASSE  VERS L'AVENIR
 
 
-Les rÃ©sultats du Projet Gutenberg ne se mesurent pas seulement Ã  des
+Les résultats du Projet Gutenberg ne se mesurent pas seulement à des
 chiffres, qui restent assez modestes par rapport au nombre de livres
-imprimÃ©s appartenant au domaine public. Les rÃ©sultats se mesurent
-Ã©galement Ã  lâinfluence du projet, qui est considÃ©rable. Premier site
-dâinformation sur lâinternet et premiÃ¨re bibliothÃ¨que numÃ©rique, le
-Projet Gutenberg a inspirÃ© bien dâautres bibliothÃ¨ques numÃ©riques au
-fil des ans, par exemple le Projekt Runeberg pour la littÃ©rature
-scandinave ou le Projekt Gutenberg-DE pour la littÃ©rature allemande,
-pour nâen citer que deux.
+imprimés appartenant au domaine public. Les résultats se mesurent
+également à l’influence du projet, qui est considérable. Premier site
+d’information sur l’internet et première bibliothèque numérique, le
+Projet Gutenberg a inspiré bien d’autres bibliothèques numériques au
+fil des ans, par exemple le Projekt Runeberg pour la littérature
+scandinave ou le Projekt Gutenberg-DE pour la littérature allemande,
+pour n’en citer que deux.
 
-La structure administrative et financiÃ¨re du Projet Gutenberg se limite
-au strict minimum, avec une devise qui tient en trois mots: Â«Less is
-more.Â» Michael Hart insiste rÃ©guliÃ¨rement sur la nÃ©cessitÃ© dâun cadre
+La structure administrative et financière du Projet Gutenberg se limite
+au strict minimum, avec une devise qui tient en trois mots: «Less is
+more.» Michael Hart insiste régulièrement sur la nécessité d’un cadre
 aussi souple que possible laissant toute initiative aux volontaires, et
-la porte grande ouverte aux idÃ©es nouvelles. Le but est dâassurer la
-pÃ©rennitÃ© du projet indÃ©pendamment des crÃ©dits, des coupures de crÃ©dits
-et des prioritÃ©s culturelles, financiÃ¨res et politiques du moment. Pas
-de pression possible donc par le pouvoir et par lâargent. Et respect Ã 
-lâÃ©gard des volontaires, qui sont assurÃ©s de voir leur travail utilisÃ©
-pendant de nombreuses annÃ©es, si ce nâest pour plusieurs gÃ©nÃ©rations,
-dâoÃ¹ lâintÃ©rÃªt dâun format numÃ©rique qui soit toujours valable dans
-quelques siÃ¨cles. Le suivi rÃ©gulier du projet est assurÃ© grÃ¢ce Ã  une
-lettre dâinformation hebdomadaire et mensuelle, des forums de
+la porte grande ouverte aux idées nouvelles. Le but est d’assurer la
+pérennité du projet indépendamment des crédits, des coupures de crédits
+et des priorités culturelles, financières et politiques du moment. Pas
+de pression possible donc par le pouvoir et par l’argent. Et respect à
+l’égard des volontaires, qui sont assurés de voir leur travail utilisé
+pendant de nombreuses années, si ce n’est pour plusieurs générations,
+d’où l’intérêt d’un format numérique qui soit toujours valable dans
+quelques siècles. Le suivi régulier du projet est assuré grâce à une
+lettre d’information hebdomadaire et mensuelle, des forums de
 discussion, des wikis et des blogs.
 
-Les dons servent Ã  financer des ordinateurs et des scanners, et Ã 
-envoyer des CD et DVD gratuits Ã  tous ceux qui en font la demande.
-Suite au CD Best of Gutenberg disponible en aoÃ»t 2003 avec une
-sÃ©lection de 600 titres et Ã  un premier DVD disponible en dÃ©cembre 2003
-avec 9.400 titres, un deuxiÃ¨me DVD est disponible en juillet 2006 avec
+Les dons servent à financer des ordinateurs et des scanners, et à
+envoyer des CD et DVD gratuits à tous ceux qui en font la demande.
+Suite au CD Best of Gutenberg disponible en août 2003 avec une
+sélection de 600 titres et à un premier DVD disponible en décembre 2003
+avec 9.400 titres, un deuxième DVD est disponible en juillet 2006 avec
 17.000 titres. A partir de 2005, CD et DVD sont disponibles sous forme
-d'images ISO sur le site de BitTorrent, ces images pouvant Ãªtre
-tÃ©lÃ©chargÃ©es pour graver des CD et DVD sur place Ã  titre personnel. En
+d'images ISO sur le site de BitTorrent, ces images pouvant être
+téléchargées pour graver des CD et DVD sur place à titre personnel. En
 2007, le Projet Gutenberg envoie 15 millions de livres par voie postale
 sous forme de CD et DVD.
 
-Chose souvent passÃ©e sous silence, Michael Hart est le vÃ©ritable
-inventeur de lâebook. Si on considÃ¨re lâebook dans son sens
-Ã©tymologique, Ã  savoir un livre numÃ©risÃ© pour diffusion sous forme de
-fichier Ã©lectronique, celui-ci aurait bientÃ´t quarante ans et serait nÃ©
-avec le Projet Gutenberg en juillet 1971. Une paternitÃ© beaucoup plus
-rÃ©confortante que les divers lancements commerciaux dans un format
-propriÃ©taire ayant Ã©maillÃ© le dÃ©but des annÃ©es 2000. Il nây a aucune
-raison pour que la dÃ©nomination Â«ebookÂ» ne dÃ©signe que lâebook
-commercial et soit rÃ©servÃ©e aux Amazon, Barnes & Noble, 00h00, Gemstar
-et autres. Lâebook non commercial est un ebook Ã  part entiÃ¨re - et non
-un parent pauvre - tout comme lâÃ©dition Ã©lectronique non commerciale
-est une forme dâÃ©dition Ã  part entiÃ¨re - et tout aussi valable que
-lâÃ©dition commerciale. En 2003, les etexts du Projet Gutenberg
-deviennent des ebooks, pour coller Ã  la terminologie ambiante.
+Chose souvent passée sous silence, Michael Hart est le véritable
+inventeur de l’ebook. Si on considère l’ebook dans son sens
+étymologique, à savoir un livre numérisé pour diffusion sous forme de
+fichier électronique, celui-ci aurait bientôt quarante ans et serait né
+avec le Projet Gutenberg en juillet 1971. Une paternité beaucoup plus
+réconfortante que les divers lancements commerciaux dans un format
+propriétaire ayant émaillé le début des années 2000. Il n’y a aucune
+raison pour que la dénomination «ebook» ne désigne que l’ebook
+commercial et soit réservée aux Amazon, Barnes & Noble, 00h00, Gemstar
+et autres. L’ebook non commercial est un ebook à part entière - et non
+un parent pauvre - tout comme l’édition électronique non commerciale
+est une forme d’édition à part entière - et tout aussi valable que
+l’édition commerciale. En 2003, les etexts du Projet Gutenberg
+deviennent des ebooks, pour coller à la terminologie ambiante.
 
-En juillet 1971, lâenvoi dâun fichier de 5 Ko Ã  cent personnes aurait
-fait sauter lâembryon de rÃ©seau disponible Ã  lâÃ©poque. En novembre
+En juillet 1971, l’envoi d’un fichier de 5 Ko à cent personnes aurait
+fait sauter l’embryon de réseau disponible à l’époque. En novembre
 2002, le Projet Gutenberg peut mettre en ligne les 75 fichiers du
-"Human Genome Project" (Ã  savoir le sÃ©quenÃ§age du gÃ©nome humain),
-chaque fichier se chiffrant en dizaines sinon en centaines de mÃ©ga-
-octets. Ceci peu de temps aprÃ¨s la parution initiale du Human Genome
-Project en fÃ©vrier 2001, puisquâil appartient dâemblÃ©e au domaine
+"Human Genome Project" (à savoir le séquençage du génome humain),
+chaque fichier se chiffrant en dizaines sinon en centaines de méga-
+octets. Ceci peu de temps après la parution initiale du Human Genome
+Project en février 2001, puisqu’il appartient d’emblée au domaine
 public.
 
-En 2004, la capacitÃ© de stockage des disques durs est telle quâil
-serait possible de faire tenir lâintÃ©gralitÃ© de la Library of Congress
-au format texte sur un support de stockage coÃ»tant 140 dollars US. Et
-quelques annÃ©es seulement nous sÃ©pareraient dâune clÃ© USB (universal
-serial bus) permettant de stocker lâintÃ©gralitÃ© du patrimoine Ã©crit de
-lâhumanitÃ©.
+En 2004, la capacité de stockage des disques durs est telle qu’il
+serait possible de faire tenir l’intégralité de la Library of Congress
+au format texte sur un support de stockage coûtant 140 dollars US. Et
+quelques années seulement nous sépareraient d’une clé USB (universal
+serial bus) permettant de stocker l’intégralité du patrimoine écrit de
+l’humanité.
 
-Quâen est-il des documents autres que lâÃ©crit? En septembre 2003, le
+Qu’en est-il des documents autres que l’écrit? En septembre 2003, le
 Projet Gutenberg se lance dans la diffusion de livres audio. En
-dÃ©cembre 2006, on compte 367 livres lus par une synthÃ¨se vocale (Audio
-Book, computer-generated) et 132 livres lus par lâÃªtre humain (Audio
-Book, human-read). Le nombre de ces derniers devrait rÃ©guliÃ¨rement
-augmenter. Par contre, les livres lus par une synthÃ¨se vocale ne seront
-plus Ãªtre stockÃ©s dans une section spÃ©cifique, mais rÃ©alisÃ©s Ã  la
-demande Ã  partir des fichiers Ã©lectroniques existant dans les
-collections gÃ©nÃ©rales. Les lecteurs aveugles ou malvoyants pourront Ã 
+décembre 2006, on compte 367 livres lus par une synthèse vocale (Audio
+Book, computer-generated) et 132 livres lus par l’être humain (Audio
+Book, human-read). Le nombre de ces derniers devrait régulièrement
+augmenter. Par contre, les livres lus par une synthèse vocale ne seront
+plus être stockés dans une section spécifique, mais réalisés à la
+demande à partir des fichiers électroniques existant dans les
+collections générales. Les lecteurs aveugles ou malvoyants pourront à
 l'avenir utiliser une commande vocale pour demander le fichier de tel
 ou tel livre.
 
-LancÃ©e elle aussi en septembre 2003, la section "Sheet Music
-Subproject" est consacrÃ©e aux partitions musicales numÃ©risÃ©es (Music,
-Sheet). Elle est complÃ©tÃ©e par une section dâenregistrements musicaux
-(Music, recorded). Des sections sont Ã©galement disponibles pour les
-images fixes (Pictures, still) et animÃ©es (Pictures, moving). Ces
-collections devraient Ãªtre dÃ©veloppÃ©es dans les prochaines annÃ©es.
+Lancée elle aussi en septembre 2003, la section "Sheet Music
+Subproject" est consacrée aux partitions musicales numérisées (Music,
+Sheet). Elle est complétée par une section d’enregistrements musicaux
+(Music, recorded). Des sections sont également disponibles pour les
+images fixes (Pictures, still) et animées (Pictures, moving). Ces
+collections devraient être développées dans les prochaines années.
 
-Mais la numÃ©risation des livres reste prioritaire. Et la demande est
-Ã©norme. En tÃ©moigne le nombre de tÃ©lÃ©chargements, qui se comptent
-dÃ©sormais en dizaines de milliers par jour. A la date du 31 juillet
-2005, on compte 37.532 fichiers tÃ©lÃ©chargÃ©s dans la journÃ©e, 243.808
-fichiers tÃ©lÃ©chargÃ©s dans la semaine et 1.154.765 fichiers tÃ©lÃ©chargÃ©s
+Mais la numérisation des livres reste prioritaire. Et la demande est
+énorme. En témoigne le nombre de téléchargements, qui se comptent
+désormais en dizaines de milliers par jour. A la date du 31 juillet
+2005, on compte 37.532 fichiers téléchargés dans la journée, 243.808
+fichiers téléchargés dans la semaine et 1.154.765 fichiers téléchargés
 dans le mois. A la date du 6 mai 2007, on compte 89.841 fichiers
-tÃ©lÃ©chargÃ©s dans la journÃ©e, 697.818 fichiers tÃ©lÃ©chargÃ©s dans la
-semaine et 2.995.436 fichiers tÃ©lÃ©chargÃ©s dans le mois. Courant mai, ce
+téléchargés dans la journée, 697.818 fichiers téléchargés dans la
+semaine et 2.995.436 fichiers téléchargés dans le mois. Courant mai, ce
 nombre atteint les 3 millions. Ceci uniquement pour le principal site
-de tÃ©lÃ©chargement, ibiblio.org (basÃ© Ã  lâUniversitÃ© de Caroline du
-Nord, Etats-Unis), qui hÃ©berge aussi le site du Projet Gutenberg. Le
-deuxiÃ¨me site de tÃ©lÃ©chargement est lâInternet Archive, qui est le site
-de sauvegarde et qui met Ã  la disposition du Projet Gutenberg une
-capacitÃ© de stockage illimitÃ©e.
+de téléchargement, ibiblio.org (basé à l’Université de Caroline du
+Nord, Etats-Unis), qui héberge aussi le site du Projet Gutenberg. Le
+deuxième site de téléchargement est l’Internet Archive, qui est le site
+de sauvegarde et qui met à la disposition du Projet Gutenberg une
+capacité de stockage illimitée.
 
 Un Top 100 recense les cent titres et les cent auteurs les plus
-tÃ©lÃ©chargÃ©s dans la journÃ©e, dans la semaine et dans le mois.
+téléchargés dans la journée, dans la semaine et dans le mois.
 
-Le Projet Gutenberg dispose de 40 sites miroirs rÃ©partis dans de
-nombreux pays, et il en cherche dâautres. La circulation des fichiers
-se fait aussi en mode P2P (peer-to-peer), qui permet dâÃ©changer des
-fichiers directement dâun utilisateur Ã  lâautre.
+Le Projet Gutenberg dispose de 40 sites miroirs répartis dans de
+nombreux pays, et il en cherche d’autres. La circulation des fichiers
+se fait aussi en mode P2P (peer-to-peer), qui permet d’échanger des
+fichiers directement d’un utilisateur à l’autre.
 
-Les livres du Projet Gutenberg peuvent aider Ã  combler la fracture
-numÃ©rique. Ils sont aisÃ©ment tÃ©lÃ©chargeables sur PDA. Un ordinateur ou
-un PDA dâoccasion ne coÃ»te que quelques dollars ou quelques dizaines de
-dollars, en fonction du modÃ¨le. Certains PDA fonctionnent Ã  lâÃ©nergie
-solaire, permettant la lecture dans les rÃ©gions pauvres et reculÃ©es.
+Les livres du Projet Gutenberg peuvent aider à combler la fracture
+numérique. Ils sont aisément téléchargeables sur PDA. Un ordinateur ou
+un PDA d’occasion ne coûte que quelques dollars ou quelques dizaines de
+dollars, en fonction du modèle. Certains PDA fonctionnent à l’énergie
+solaire, permettant la lecture dans les régions pauvres et reculées.
 
-Plus tard, il sera peut-Ãªtre possible d'envisager une traduction
-simultanÃ©e dans une centaine de langues, en utilisant un logiciel de
-traduction automatique qui aurait alors un taux de fiabilitÃ© de lâordre
+Plus tard, il sera peut-être possible d'envisager une traduction
+simultanée dans une centaine de langues, en utilisant un logiciel de
+traduction automatique qui aurait alors un taux de fiabilité de l’ordre
 de 99%, un pourcentage dont on est encore loin. Ce logiciel de
-traduction automatique serait relayÃ© par des traducteurs (non pas des
-machines, mais des Ãªtres humains), sur un modÃ¨le comparable Ã  la
-technologie OCR relayÃ©e par des correcteurs (non pas des logiciels,
-mais des Ãªtres humains) pour offrir un contenu de grande qualitÃ©.
+traduction automatique serait relayé par des traducteurs (non pas des
+machines, mais des êtres humains), sur un modèle comparable à la
+technologie OCR relayée par des correcteurs (non pas des logiciels,
+mais des êtres humains) pour offrir un contenu de grande qualité.
 
-38 ans aprÃ¨s les dÃ©buts du Projet Gutenberg, Michael Hart se dÃ©finit
-toujours comme un fou de travail dÃ©diant toute sa vie Ã  son projet,
-quâil voit comme Ã©tant Ã  lâorigine dâune rÃ©volution nÃ©o-industrielle.
-Il se dÃ©finit aussi comme altruiste, pragmatique et visionnaire. AprÃ¨s
-avoir Ã©tÃ© traitÃ© de toquÃ© pendant de nombreuses annÃ©es, il force
+38 ans après les débuts du Projet Gutenberg, Michael Hart se définit
+toujours comme un fou de travail dédiant toute sa vie à son projet,
+qu’il voit comme étant à l’origine d’une révolution néo-industrielle.
+Il se définit aussi comme altruiste, pragmatique et visionnaire. Après
+avoir été traité de toqué pendant de nombreuses années, il force
 maintenant le respect.
 
-Au fil des ans, la mission du Projet Gutenberg reste la mÃªme, Ã  savoir
-changer le monde par le biais de lâebook gratuit indÃ©finiment
+Au fil des ans, la mission du Projet Gutenberg reste la même, à savoir
+changer le monde par le biais de l’ebook gratuit indéfiniment
 utilisable et reproductible, et favoriser ainsi la lecture et la
-culture pour tous Ã  moindres frais. Cette mission se rÃ©sume en quelques
-mots: Â«encourager la crÃ©ation et la distribution dâebooksÂ», par autant
+culture pour tous à moindres frais. Cette mission se résume en quelques
+mots: «encourager la création et la distribution d’ebooks», par autant
 de personnes que possible, et par tous les moyens. Tout en prenant les
-virages nÃ©cessaires pour intÃ©grer de nouvelles idÃ©es, de nouvelles
-mÃ©thodes et de nouveaux supports.
+virages nécessaires pour intégrer de nouvelles idées, de nouvelles
+méthodes et de nouveaux supports.
 
 
-Copyright Â© 2009 Marie Lebert
+Copyright © 2009 Marie Lebert
 
 
 

@@ -1,4 +1,4 @@
-ï»¿The Project Gutenberg EBook of The Right to Read, by Richard Stallman
+The Project Gutenberg EBook of The Right to Read, by Richard Stallman
 
 This eBook is for the use of anyone anywhere in the United States and most
 other parts of the world at no cost and with almost no restrictions
@@ -253,190 +253,190 @@ Note de l'auteur
 References
 
 
-Cet article a Ã©tÃ© publiÃ© dans la parution de fÃ©vrier 1997 de
-Communications of the ACM (volume 40, numÃ©ro 2).
+Cet article a été publié dans la parution de février 1997 de
+Communications of the ACM (volume 40, numéro 2).
 
 (extrait de "The Road to Tycho", une collection d'articles sur les
-antÃ©cÃ©dents de la RÃ©volution lunaire, publiÃ©e Ã  Luna City en 2096)
+antécédents de la Révolution lunaire, publiée à Luna City en 2096)
 
-Pour Dan Halbert, la route vers Tycho commenÃ§a Ã  l'universitÃ© -- quand
-Lissa Lenz lui demanda de lui prÃªter son ordinateur. Le sien Ã©tait en
-panne, et Ã  moins qu'elle puisse en emprunter un autre, elle Ã©chouerait
-son projet de mi-session. Il n'y avait personne d'autre Ã  qui elle
-osait demander, Ã  part Dan.
+Pour Dan Halbert, la route vers Tycho commença à l'université -- quand
+Lissa Lenz lui demanda de lui prêter son ordinateur. Le sien était en
+panne, et à moins qu'elle puisse en emprunter un autre, elle échouerait
+son projet de mi-session. Il n'y avait personne d'autre à qui elle
+osait demander, à part Dan.
 
-Ceci posa un dilemme Ã  Dan. Il se devait de l'aider -- mais s'il lui
-prÃªtait son ordinateur, elle pourrait lire ses livres. Ã part le fait
-que vous pouviez aller en prison pour plusieurs annÃ©es pour avoir
-laissÃ© quelqu'un lire vos livres, l'idÃ©e mÃªme le choqua au dÃ©part.
-Comme Ã  tout le monde, on lui avait enseignÃ© dÃ¨s l'Ã©cole primaire que
-partager des livres Ã©tait malicieux et immoral -- une chose que seuls
+Ceci posa un dilemme à Dan. Il se devait de l'aider -- mais s'il lui
+prêtait son ordinateur, elle pourrait lire ses livres. À part le fait
+que vous pouviez aller en prison pour plusieurs années pour avoir
+laissé quelqu'un lire vos livres, l'idée même le choqua au départ.
+Comme à tout le monde, on lui avait enseigné dès l'école primaire que
+partager des livres était malicieux et immoral -- une chose que seuls
 les pirates font.
 
-Et il Ã©tait improbable que la SPA -- la Software Protection Authority
+Et il était improbable que la SPA -- la Software Protection Authority
 -- manquerait de le pincer. Dans ses cours sur les logiciels, Dan avait
 appris que chaque livre avait un moniteur de copyright qui rapportait
-quand et oÃ¹ il Ã©tait lu, et par qui, Ã  la Centrale des licences. (Elle
+quand et où il était lu, et par qui, à la Centrale des licences. (Elle
 utilisait ces informations pour attraper les lecteurs pirates, mais
-aussi pour vendre des renseignements personnels Ã  des dÃ©taillants.) La
-prochaine fois que son ordinateur serait en rÃ©seau, la Centrale des
-licences se rendrait compte. Dan, comme propriÃ©taire d'ordinateur,
-subirait les punitions les plus sÃ©vÃ¨res -- pour ne pas avoir tout tentÃ©
-pour Ã©viter le crime.
+aussi pour vendre des renseignements personnels à des détaillants.) La
+prochaine fois que son ordinateur serait en réseau, la Centrale des
+licences se rendrait compte. Dan, comme propriétaire d'ordinateur,
+subirait les punitions les plus sévères -- pour ne pas avoir tout tenté
+pour éviter le crime.
 
-Bien sÃ»r, Lissa n'avait pas nÃ©cessairement l'intention de lire ses
-livres. Elle pourrait ne vouloir l'ordinateur que pour Ã©crire son
+Bien sûr, Lissa n'avait pas nécessairement l'intention de lire ses
+livres. Elle pourrait ne vouloir l'ordinateur que pour écrire son
 projet. Mais Dan savait qu'elle venait d'une famille de classe moyenne
-et qu'elle arrivait difficilement Ã  payer ses frais de scolaritÃ©, sans
-compter ses frais de lecture. Lire les livres de Dan pourrait Ãªtre sa
-seule faÃ§on de graduer. Il comprenait cette situation; lui-mÃªme avait
-eu Ã  emprunter pour payer pour tous les articles scientifiques qu'il
-avait eu Ã  lire. (10% de ces frais allaient aux chercheurs qui
-Ã©crivaient ces articles; puisque Dan visait une carriÃ¨re acadÃ©mique, il
-pouvait espÃ©rer que si ses propres articles scientiques Ã©taient souvent
+et qu'elle arrivait difficilement à payer ses frais de scolarité, sans
+compter ses frais de lecture. Lire les livres de Dan pourrait être sa
+seule façon de graduer. Il comprenait cette situation; lui-même avait
+eu à emprunter pour payer pour tous les articles scientifiques qu'il
+avait eu à lire. (10% de ces frais allaient aux chercheurs qui
+écrivaient ces articles; puisque Dan visait une carrière académique, il
+pouvait espérer que si ses propres articles scientiques étaient souvent
 lus, il gagnerait un revenu suffisant pour rembourser sa dette.)
 
-Par la suite, Dan apprendrait qu'il y eut un temps oÃ¹ n'importe qui
-pouvait aller Ã  la bibliothÃ¨que et lire des articles de journaux, et
-mÃªme des livres, sans avoir Ã  payer. Il y avait des universitaires
-indÃ©pendants qui lisaient des milliers de pages sans subventions des
-bibliothÃ¨ques gouvernementales. Mais dans les annÃ©es 1990, les Ã©diteurs
-aussi bien commerciaux qu'Ã  but non lucratif avaient commencÃ© Ã 
-facturer l'accÃ¨s. En 2047, les bibliothÃ¨ques offrant un accÃ¨s public
-gratuit Ã  la littÃ©rature scientifique n'Ã©taient qu'un pÃ¢le souvenir.
+Par la suite, Dan apprendrait qu'il y eut un temps où n'importe qui
+pouvait aller à la bibliothèque et lire des articles de journaux, et
+même des livres, sans avoir à payer. Il y avait des universitaires
+indépendants qui lisaient des milliers de pages sans subventions des
+bibliothèques gouvernementales. Mais dans les années 1990, les éditeurs
+aussi bien commerciaux qu'à but non lucratif avaient commencé à
+facturer l'accès. En 2047, les bibliothèques offrant un accès public
+gratuit à la littérature scientifique n'étaient qu'un pâle souvenir.
 
-Il y avait des faÃ§ons, bien sÃ»r, de contourner la SPA et la Centrale
-des licences. Elles Ã©taient elles-mÃªmes illÃ©gales. Dan avait eu un
+Il y avait des façons, bien sûr, de contourner la SPA et la Centrale
+des licences. Elles étaient elles-mêmes illégales. Dan avait eu un
 compagnon de classe dans son cours sur les logiciels, Frank Martucci,
-qui avait obtenu un outil illÃ©gal de dÃ©boguage, et l'avait utilisÃ© pour
+qui avait obtenu un outil illégal de déboguage, et l'avait utilisé pour
 outrepasser le code du moniteur de copyright quand il lisait des
-livres. Mais il en avait parlÃ© Ã  trop d'amis, et l'un d'eux l'a dÃ©noncÃ©
-auprÃ¨s de la SPA pour une rÃ©compense (des Ã©tudiants criblÃ©s de dettes
-pouvaient facilement Ãªtre tentÃ©s par la trahison). En 2047, Frank Ã©tait
+livres. Mais il en avait parlé à trop d'amis, et l'un d'eux l'a dénoncé
+auprès de la SPA pour une récompense (des étudiants criblés de dettes
+pouvaient facilement être tentés par la trahison). En 2047, Frank était
 en prison, non pas pour lecture pirate, mais pour possession d'un
-dÃ©bogueur.
+débogueur.
 
-Dan apprendrait plus tard qu'il y eut un temps oÃ¹ n'importe qui pouvait
-possÃ©der des outils de dÃ©boguage. Il y avait mÃªme des outils de
-dÃ©boguage disponibles gratuitement sur des CD ou qu'on pouvait
-tÃ©lÃ©charger du Net. Mais des usagers ordinaires commencÃ¨rent Ã  s'en
-servir pour outrepasser les moniteurs de copyright, et Ã©ventuellement
-un juge a dÃ©cidÃ© que c'Ã©tait devenu leur principale utilisation en
-pratique. Ceci voulait dire qu'ils Ã©taient illÃ©gaux; les dÃ©veloppeurs
-de ces dÃ©bogueurs furent envoyÃ©s en prison.
+Dan apprendrait plus tard qu'il y eut un temps où n'importe qui pouvait
+posséder des outils de déboguage. Il y avait même des outils de
+déboguage disponibles gratuitement sur des CD ou qu'on pouvait
+télécharger du Net. Mais des usagers ordinaires commencèrent à s'en
+servir pour outrepasser les moniteurs de copyright, et éventuellement
+un juge a décidé que c'était devenu leur principale utilisation en
+pratique. Ceci voulait dire qu'ils étaient illégaux; les développeurs
+de ces débogueurs furent envoyés en prison.
 
-Les programmeurs avaient encore besoin d'outils pour dÃ©boguer, bien
-sÃ»r, mais les vendeurs de dÃ©bogueurs en 2047 ne distribuaient que des
-copies numÃ©rotÃ©es, et seulement Ã  des programmeurs officiellement
-licenciÃ©s et soumis. Le dÃ©bogueur que Dan utilisait dans son cours sur
-les logiciels Ã©tait gardÃ© derriÃ¨re un garde-barriÃ¨re spÃ©cial afin qu'il
+Les programmeurs avaient encore besoin d'outils pour déboguer, bien
+sûr, mais les vendeurs de débogueurs en 2047 ne distribuaient que des
+copies numérotées, et seulement à des programmeurs officiellement
+licenciés et soumis. Le débogueur que Dan utilisait dans son cours sur
+les logiciels était gardé derrière un garde-barrière spécial afin qu'il
 ne puisse servir que pour les exercices du cours.
 
-Il Ã©tait aussi possible de contourner les moniteurs de copyright en
-installant un noyau systÃ¨me modifiÃ©. Dan apprendrait Ã©ventuellement
-l'existence de noyaux libres, et mÃªme de systÃ¨mes d'exploitation
-entiÃ¨rement libres, qui avaient existÃ© au tournant du siÃ¨cle. Mais non
-seulement Ã©taient-ils illÃ©gaux, comme les dÃ©bogueurs, mais vous ne
+Il était aussi possible de contourner les moniteurs de copyright en
+installant un noyau système modifié. Dan apprendrait éventuellement
+l'existence de noyaux libres, et même de systèmes d'exploitation
+entièrement libres, qui avaient existé au tournant du siècle. Mais non
+seulement étaient-ils illégaux, comme les débogueurs, mais vous ne
 pouviez en installer un, si vous en aviez un, sans connaitre le mot de
 passe de l'usager superviseur de votre ordinateur. Or, ni le FBI ni
-l'Aide technique Microsoft ne vous le rÃ©vÃ¨lerait.
+l'Aide technique Microsoft ne vous le révèlerait.
 
-Dan conclut qu'il ne pouvait simplement prÃªter son ordinateur Ã  Lissa.
+Dan conclut qu'il ne pouvait simplement prêter son ordinateur à Lissa.
 Mais il ne pouvait refuser de l'aider, car il l'aimait. Chaque chance
 de lui parler le remplissait d'aise. Et le fait qu'elle l'avait choisi
 pour demander de l'aide pouvait signifier qu'elle l'aimait aussi.
 
-Dan rÃ©solut le dilemme en faisant une chose encore plus impensable --
-il lui prÃªta l'ordinateur, et lui dit son mot de passe. Ainsi, si Lissa
-lisait ses livres, la Centrale des licences penserait que c'Ã©tait lui
-qui les lisait. C'Ã©tait quand mÃªme un crime, mais la SPA ne s'en
+Dan résolut le dilemme en faisant une chose encore plus impensable --
+il lui prêta l'ordinateur, et lui dit son mot de passe. Ainsi, si Lissa
+lisait ses livres, la Centrale des licences penserait que c'était lui
+qui les lisait. C'était quand même un crime, mais la SPA ne s'en
 rendrait pas compte automatiquement. Ils ne s'en rendraient compte que
-si Lissa le dÃ©nonÃ§ait.
+si Lissa le dénonçait.
 
-Bien sÃ»r, si l'Ã©cole devait un jour apprendre qu'il avait donnÃ© son
-propre mot de passe Ã  Lissa, ce serait la fin de leurs Ã©tudes, peu
-importe ce Ã  quoi le mot de passe aurait servi. La politique de l'Ã©cole
-Ã©tait que toute interfÃ©rence avec ses mÃ©canismes de surveillance de
-l'utilisation des ordinateurs par les Ã©tudiants Ã©tait punissable. Il
-n'importait pas qu'aucun mal n'ait Ã©tÃ© fait -- l'offense Ã©tait de se
-rendre difficile Ã  surveiller par les administrateurs. Ils supposaient
-que Ã§a signifiait que vous faisiez quelque chose d'autre qui Ã©tait
+Bien sûr, si l'école devait un jour apprendre qu'il avait donné son
+propre mot de passe à Lissa, ce serait la fin de leurs études, peu
+importe ce à quoi le mot de passe aurait servi. La politique de l'école
+était que toute interférence avec ses mécanismes de surveillance de
+l'utilisation des ordinateurs par les étudiants était punissable. Il
+n'importait pas qu'aucun mal n'ait été fait -- l'offense était de se
+rendre difficile à surveiller par les administrateurs. Ils supposaient
+que ça signifiait que vous faisiez quelque chose d'autre qui était
 interdit, et ils n'avaient pas besoin de savoir de quoi il s'agissait.
 
-Les Ã©tudiants n'Ã©taient habituellement pas expulsÃ©s pour cela -- pas
-directement. Ils Ã©taient plutÃ´t bannis des systÃ¨mes informatiques de
-l'Ã©cole, et Ã©chouaient inÃ©vitablement leurs cours.
+Les étudiants n'étaient habituellement pas expulsés pour cela -- pas
+directement. Ils étaient plutôt bannis des systèmes informatiques de
+l'école, et échouaient inévitablement leurs cours.
 
-Plus tard, Dan apprendrait que ce genre de politique n'a commencÃ© dans
-les universitÃ©s que dans les annÃ©es 1980, quand des Ã©tudiants
-commencÃ¨rent Ã  Ãªtre nombreux Ã  utiliser des ordinateurs. Avant, les
-universitÃ©s avaient une approche diffÃ©rente au sujet de la discipline
-auprÃ¨s des Ã©tudiants; elles punissaient des activitÃ©s qui causaient du
+Plus tard, Dan apprendrait que ce genre de politique n'a commencé dans
+les universités que dans les années 1980, quand des étudiants
+commencèrent à être nombreux à utiliser des ordinateurs. Avant, les
+universités avaient une approche différente au sujet de la discipline
+auprès des étudiants; elles punissaient des activités qui causaient du
 tort, et non pas simplement celles qui soulevaient des doutes.
 
-Lissa ne dÃ©nonÃ§a pas Dan Ã  la SPA. La dÃ©cision de Dan de l'aider mena Ã 
-leur mariage, et les amena aussi Ã  remettre en question ce qu'on leur
-avait enseignÃ© durant leur enfance au sujet du piratage. Le couple se
-mit Ã  lire sur l'histoire du copyright, sur l'Union soviÃ©tique et ses
-restrictions sur la copie, et mÃªme sur la Constitution originale des
-Ãtats-Unis. Ils dÃ©mÃ©nagÃ¨rent Ã  Luna, oÃ¹ ils trouvÃ¨rent d'autres gens
+Lissa ne dénonça pas Dan à la SPA. La décision de Dan de l'aider mena à
+leur mariage, et les amena aussi à remettre en question ce qu'on leur
+avait enseigné durant leur enfance au sujet du piratage. Le couple se
+mit à lire sur l'histoire du copyright, sur l'Union soviétique et ses
+restrictions sur la copie, et même sur la Constitution originale des
+États-Unis. Ils déménagèrent à Luna, où ils trouvèrent d'autres gens
 qui comme eux avaient pris leurs distances par rapport au long bras de
-la SPA. Quand la rÃ©volte de Tycho commenÃ§a en 2062, le droit universel
-de lire devint bientÃ´t un de ses buts principaux.
+la SPA. Quand la révolte de Tycho commença en 2062, le droit universel
+de lire devint bientôt un de ses buts principaux.
 
 Note de l'auteur
 
-C'est aujourd'hui mÃªme qu'on se bat pour le droit de lire. MÃªme si cela
-pourrait prendre 50 ans pour que notre faÃ§on de vivre actuelle s'efface
-dans l'obscuritÃ©, la plupart des lois et pratiques dÃ©crites
-prÃ©cÃ©demment ont dÃ©jÃ  Ã©tÃ© proposÃ©es -- soit par l'Administration
-Clinton ou par des Ã©diteurs.
+C'est aujourd'hui même qu'on se bat pour le droit de lire. Même si cela
+pourrait prendre 50 ans pour que notre façon de vivre actuelle s'efface
+dans l'obscurité, la plupart des lois et pratiques décrites
+précédemment ont déjà été proposées -- soit par l'Administration
+Clinton ou par des éditeurs.
 
-Il y a une exception: l'idÃ©e que le FBI ou Microsoft gardera les mots
+Il y a une exception: l'idée que le FBI ou Microsoft gardera les mots
 de passe de l'usager superviseur des ordinateurs personnels. Ceci est
 une extrapolation du Clipper Chip et d'autres propositions de
-"key-escrow" de l'Administration Clinton, ainsi que d'une tendance Ã 
-long terme: de plus en plus de systÃ¨mes informatiques sont configurÃ©s
-pour donner Ã  des opÃ©rateurs absents le contrÃ´le sur les gens qui
-utilisent le systÃ¨me.
+"key-escrow" de l'Administration Clinton, ainsi que d'une tendance à
+long terme: de plus en plus de systèmes informatiques sont configurés
+pour donner à des opérateurs absents le contrôle sur les gens qui
+utilisent le système.
 
 La SPA, qui veut en fait dire Software Publisher's Association, n'est
-pas aujourd'hui une force policiÃ¨re officielle. De faÃ§on officieuse,
-elle se comporte ainsi. Elle invite les gens Ã  faire de la dÃ©lation Ã 
-l'endroit de leur collÃ¨gues et amis; comme l'Administration Clinton,
-elle prÃ©conise une politique de responsabilitÃ© collective oÃ¹ les
-propriÃ©taires d'ordinateurs doivent activement faire respecter le
-copyright ou Ãªtre punis.
+pas aujourd'hui une force policière officielle. De façon officieuse,
+elle se comporte ainsi. Elle invite les gens à faire de la délation à
+l'endroit de leur collègues et amis; comme l'Administration Clinton,
+elle préconise une politique de responsabilité collective où les
+propriétaires d'ordinateurs doivent activement faire respecter le
+copyright ou être punis.
 
-La SPA menace actuellement de petits fournisseurs d'accÃ¨s Ã  l'Internet,
+La SPA menace actuellement de petits fournisseurs d'accès à l'Internet,
 en exigeant qu'ils lui permettent de surveiller tous les usagers. La
-plupart des fournisseurs capitulent lorsqu'ils sont menacÃ©s, parce
+plupart des fournisseurs capitulent lorsqu'ils sont menacés, parce
 qu'ils n'ont pas les moyens de contre-attaquer en cour. (Atlanta
 Journal-Constitution, 1er octobre 1996, page D3.) Au moins un
-fournisseur, Community ConneXion Ã  Oakland en Californie, a refusÃ© la
-demande et a Ã©tÃ© consÃ©quemment poursuivi. Il appert que la SPA a
-abandonnÃ© cette poursuite rÃ©cemment, mais ils vont sÃ»rement continuer
-cette campagne de diverses autres faÃ§ons.
+fournisseur, Community ConneXion à Oakland en Californie, a refusé la
+demande et a été conséquemment poursuivi. Il appert que la SPA a
+abandonné cette poursuite récemment, mais ils vont sûrement continuer
+cette campagne de diverses autres façons.
 
-Les politiques universitaires de sÃ©curitÃ© dÃ©crites prÃ©cÃ©demment ne sont
-pas imaginaires. Par exemple, un ordinateur dans une universitÃ© de la
-rÃ©gion de Chicago affiche le message suivant quand on s'y branche (les
+Les politiques universitaires de sécurité décrites précédemment ne sont
+pas imaginaires. Par exemple, un ordinateur dans une université de la
+région de Chicago affiche le message suivant quand on s'y branche (les
 guillemets sont dans l'original -- ce qui suit est une traduction):
 
-"Ce systÃ¨me est rÃ©servÃ© aux usagers autorisÃ©s. Les individus qui
-utilisent ce systÃ¨me informatique sans autorisation ou au delÃ  de leur
+"Ce système est réservé aux usagers autorisés. Les individus qui
+utilisent ce système informatique sans autorisation ou au delà de leur
 autorisation pourront faire l'objet d'une surveillance et d'un
-enregistrement par le personnel de toutes leurs activitÃ©s sur ce
-systÃ¨me. Lors de la surveillance d'individus utilisant le systÃ¨me
-inadÃ©quatement, ou lors d'activitÃ©s d'entretien du systÃ¨me, les
-activitÃ©s d'usagers autorisÃ©s pourraient aussi Ãªtre surveillÃ©es.
-Quiconque utilise ce systÃ¨me consent expressÃ©ment Ã  une telle
-surveillance et est avisÃ© que si cette surveillance rÃ©vÃ¨le des indices
-d'une possible activitÃ© illÃ©gale ou violation des rÃ¨glements de
-l'UniversitÃ©, le personnel du systÃ¨me peut fournir ces indices aux
-autoritÃ©s de l'UniversitÃ© et/ou aux forces de l'ordre."
+enregistrement par le personnel de toutes leurs activités sur ce
+système. Lors de la surveillance d'individus utilisant le système
+inadéquatement, ou lors d'activités d'entretien du système, les
+activités d'usagers autorisés pourraient aussi être surveillées.
+Quiconque utilise ce système consent expressément à une telle
+surveillance et est avisé que si cette surveillance révèle des indices
+d'une possible activité illégale ou violation des règlements de
+l'Université, le personnel du système peut fournir ces indices aux
+autorités de l'Université et/ou aux forces de l'ordre."
 
-Il s'agit d'une approche intÃ©ressante face au QuatriÃ¨me amendement:
+Il s'agit d'une approche intéressante face au Quatrième amendement:
 faire pression sur presque tout le monde pour qu'il accepte d'avance de
 renoncer aux droits qu'il leur accorde.
 

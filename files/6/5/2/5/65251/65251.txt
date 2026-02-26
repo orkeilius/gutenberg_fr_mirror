@@ -12,7 +12,7 @@ HOTEL RAVENSTEIN, BRUXELLES
 DECIMAL CLASSIFICATION
 
 
-Tables gÃ©ographiques
+Tables géographiques
 
 
        *       *       *       *       *
@@ -28,22 +28,22 @@ IMPRIMERIE VEUVE FERDINAND LARCIER
 
 
 
-TABLES GÃOGRAPHIQUES
+TABLES GÉOGRAPHIQUES
 
 
 
 
-INDEX GÃOGRAPHIQUE MÃTHODIQUE
+INDEX GÉOGRAPHIQUE MÉTHODIQUE
 
 
-3 GÃ©ographie ancienne.
+3 Géographie ancienne.
 
 31      China.
 32      Egyptia.
 33      Judea.
 34      India.
 35      Medo-Persia.
-351       ChaldÃ¦a.
+351       Chaldæa.
 352       Assyria, Nineveh, Niniva.
 353       Media.
 354       Babylonia.
@@ -54,10 +54,10 @@ INDEX GÃOGRAPHIQUE MÃTHODIQUE
 359       Susiana.
 36      Kelts. Celtes.
 37      Roma.
-38      GrÃ¨ce.
+38      Grèce.
 391       Grecian Archipelago, Archipel grec.
 392       Asia Minor, Western.
-393        Â»     Â»    Eastern.
+393        »     »    Eastern.
 394       Syria, Arabia.
 395       Asia, North-Western.
 397       Africa.
@@ -97,13 +97,13 @@ INDEX GÃOGRAPHIQUE MÃTHODIQUE
 479       Caucasia.
 48      Scandinavie.
 481       Norway, Norge.
-485       Sweden, SuÃ¨de.
+485       Sweden, Suède.
 489       Denmark.
 491       Seeland.
 492       Hollande, Nederland.
 493       Belgique.
 494       Schweiz, Suisse.
-495       GrÃ¨ce, Griechland.
+495       Grèce, Griechland.
 496       Turquie.
 497       Servia, Bulgaria, Montenegro.
 498       Roumania.
@@ -117,14 +117,14 @@ Asia.
 53      Arabia.
 54      India.
 55      Persia.
-56      Turquie dâAsie.
+56      Turquie d’Asie.
 57      Siberia.
 581       Afghanistan.
 584       Turquestan.
 588       Balutchistan.
 593       Siam.
 596       Cambodge.
-597       Cochinchine franÃ§aise.
+597       Cochinchine française.
 598       Annam.
 599       Tonkin.
 
@@ -136,16 +136,16 @@ Asia.
 62      Egypt.
 63      Abyssinia.
 64      Maroc.
-65      AlgÃ©rie.
+65      Algérie.
 661       Sahara.
 662       Soudan.
-663       SÃ©nÃ©gambie.
+663       Sénégambie.
 664       Sierra-Leone.
 665       Guinea.
 666       Liberia.
 667       Ashantee.
 668       Dahomey.
-669       CÃ´te dâOr, Gold Coast.
+669       Côte d’Or, Gold Coast.
 672       Congo.
 678       Zanzibar.
 679       Mozambique.
@@ -157,11 +157,11 @@ Asia.
 69      Madagascar. Mauritius.
 
 
-7 AmÃ©rique du Nord. North America.
+7 Amérique du Nord. North America.
 
 71      Canada.
 72      Mexico.
-728       AmÃ©rique centrale, Central America.
+728       Amérique centrale, Central America.
 728.1       Guatemala.
 728.3       Honduras.
 728.4       San Salvador.
@@ -175,10 +175,10 @@ Asia.
 729.5       Porto Rico.
 729.8       Barbados.
 729.9       Bermudas.
-73      United States. Ãtats-Unis.
+73      United States. États-Unis.
 
 
-8 South America. AmÃ©rique du Sud.
+8 South America. Amérique du Sud.
 
 81      Brazil.
 82      Argentine.
@@ -204,31 +204,31 @@ Asia.
 93      Australasia.
 94      Australia.
 946       Tasmania.
-95      New Guinea, Nouvelle-GuinÃ©e.
+95      New Guinea, Nouvelle-Guinée.
 96      Polynesia.
 969       Hawaii.
-98      RÃ©gions arctiques.
-99      RÃ©gions antarctiques.
+98      Régions arctiques.
+99      Régions antarctiques.
 
 
 
 
-INDEX GÃOGRAPHIQUE ALPHABÃTIQUE[1]
+INDEX GÉOGRAPHIQUE ALPHABÉTIQUE[1]
 
-[1] La lettre A qui est jointe Ã  certains noms de pays indique quâil
-sâagit de gÃ©ographie ancienne.
+[1] La lettre A qui est jointe à certains noms de pays indique qu’il
+s’agit de géographie ancienne.
 
 
 Abyssinia                                                             63
 Afghanistan                                                          581
 Africa, A                                                            397
 Africa                                                                 6
-AlgÃ©rie                                                               65
+Algérie                                                               65
 Allemagne                                                             43
 Alsace                                                              4344
-AmÃ©rique du Nord                                                       7
-AmÃ©rique centrale                                                    728
-AmÃ©rique du Sud                                                        8
+Amérique du Nord                                                       7
+Amérique centrale                                                    728
+Amérique du Sud                                                        8
 Angleterre                                                            42
 Annam                                                                598
 Arabia, A                                                            394
@@ -271,19 +271,19 @@ Cambodge                                                             596
 Canada                                                                71
 Cape Colony                                                          687
 Caucasia                                                             479
-CÃ©lÃ¨bes                                                              912
+Célèbes                                                              912
 Celtes, A                                                             36
 Central America                                                      728
-ChaldÃ¦a, A                                                           351
+Chaldæa, A                                                           351
 Chili                                                                 83
 China, A                                                              31
 Chine                                                                 51
-Cochinchine franÃ§aise                                                597
+Cochinchine française                                                597
 Colombia                                                              86
 Congo belge                                                          675
-Congo franÃ§ais                                                       672
+Congo français                                                       672
 Costa Rica                                                          7286
-CÃ´te dâOr                                                            669
+Côte d’Or                                                            669
 Cuba                                                                7291
 
 
@@ -311,8 +311,8 @@ Frankreich                                                            44
 
 Germany                                                               43
 Gold Coast                                                           669
-GrÃ¨ce, A                                                              38
-GrÃ¨ce                                                                495
+Grèce, A                                                              38
+Grèce                                                                495
 Grecian Archipelago, A                                               391
 Griechland                                                           495
 Guatemala                                                           7281
@@ -337,7 +337,7 @@ Ireland                                                              415
 Italia                                                                45
 
 
-JamaÃ¯ca                                                             7292
+Jamaïca                                                             7292
 Japon                                                                 52
 Java                                                                 922
 Judea, A                                                              33
@@ -373,7 +373,7 @@ Nineveh, A                                                           352
 Niniva, A                                                            352
 Norge                                                                481
 North America                                                          7
-Nouvelle GuinÃ©e                                                       95
+Nouvelle Guinée                                                       95
 Norway                                                               481
 
 
@@ -396,8 +396,8 @@ Portugal                                                             469
 Prussia                                                               43
 
 
-RÃ©gions arctiques                                                     98
-RÃ©gions antarctiques                                                  99
+Régions arctiques                                                     98
+Régions antarctiques                                                  99
 Roma, A                                                               37
 Roumania                                                             498
 Russia                                                                47
@@ -412,7 +412,7 @@ Saxe                                                                4321
 Scandinavie                                                           48
 Schweiz                                                              494
 Scotland                                                              41
-SÃ©nÃ©gambie                                                           669
+Sénégambie                                                           669
 Servia                                                               497
 Siam                                                                 593
 Siberia                                                               57
@@ -421,7 +421,7 @@ Sierra Leone                                                         664
 Sonde, Iles de la                                                     92
 South America                                                          8
 Spain                                                                 46
-SuÃ¨de                                                                485
+Suède                                                                485
 Suisse                                                               494
 Sumatra                                                              921
 Susiana, A                                                           359
@@ -436,7 +436,7 @@ Tripoli                                                              612
 Tunisie                                                              611
 Turkestan                                                            584
 Turquie                                                              496
-Turquie dâAsie                                                        56
+Turquie d’Asie                                                        56
 
 
 United States                                                         73
@@ -455,21 +455,21 @@ Zanzibar                                                             678
 
        *       *       *       *       *
 
-[Note du transcripteurâles modifications suivantes ont Ã©tÃ© apportÃ©es Ã 
+[Note du transcripteur—les modifications suivantes ont été apportées à
 ce texte:
 
-Partha Ã  ParthiaâÂ«356       Parthia.Â»
+Partha à Parthia—«356       Parthia.»
 
-Sussana Ã  SusianaâÂ«359       Susiana.Â»
+Sussana à Susiana—«359       Susiana.»
 
-Grecan Ã  GrecianâÂ«391       Grecian ArchipelagoÂ».
+Grecan à Grecian—«391       Grecian Archipelago».
 
-Denwark Ã  DenmarkâÂ«489       Denmark.Â»
+Denwark à Denmark—«489       Denmark.»
 
-Un numÃ©ro manquant a Ã©tÃ© ajoutÃ©âÂ«5    Asia.Â»
+Un numéro manquant a été ajouté—«5    Asia.»
 
-Artic Ã  ArcticâÂ«Arctic Regions      98Â».
+Artic à Arctic—«Arctic Regions      98».
 
-Wurtemburg Ã  WurtembergâÂ«Wurtemberg      4347Â».]
+Wurtemburg à Wurtemberg—«Wurtemberg      4347».]
 
 *** END OF THE PROJECT GUTENBERG EBOOK 65251 ***

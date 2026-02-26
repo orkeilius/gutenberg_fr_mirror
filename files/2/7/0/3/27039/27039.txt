@@ -1,4 +1,4 @@
-ï»¿The Project Gutenberg EBook of Project Gutenberg (1971-2005), by Marie Lebert
+The Project Gutenberg EBook of Project Gutenberg (1971-2005), by Marie Lebert
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -41,7 +41,7 @@ MARIE LEBERT
 
 NEF, University of Toronto, 2005
 
-Copyright Â© 2005 Marie Lebert
+Copyright © 2005 Marie Lebert
 
 Dated August 15, 2005, this long article (following a short version published in
 June 2004 [and copied at the end of this file]) is a paper for the third
@@ -260,8 +260,8 @@ original language.
 
 Released in October 2001, the 4000th eText was The French Immortals Series, in
 English. Published in 1905 by Maison Mazarin, Paris, this book is an anthology
-of short fictions by authors belonging to the renowned French Academy (AcadÃ©mie
-franÃ§aise), notably Emile Souvestre, Pierre Loti, Hector Malot, Charles de
+of short fictions by authors belonging to the renowned French Academy (Académie
+française), notably Emile Souvestre, Pierre Loti, Hector Malot, Charles de
 Bernard and Alphonse Daudet.
 
 Available in April 2002, the 5000th eText was The Notebooks of Leonardo da
@@ -657,13 +657,13 @@ What were the first eBooks posted in French? They were six novels by Stendhal
 and two novels by Jules Verne, all released in early 1997. The six novels by
 Stendhal were: L'Abbesse de Castro, Les Cenci, La Chartreuse de Parme, La
 Duchesse de Palliano, Le Rouge et le Noir and Vittoria Accoramboni. The two
-novels by Jules Verne were: De la terre Ã  la lune and Le tour du monde en
+novels by Jules Verne were: De la terre à la lune and Le tour du monde en
 quatre-vingts jours. In early 1997, whereas Project Gutenberg offered no English
 version of any of Stendhal's writings (yet), three of Jules Verne's novels were
 available in English: 20,000 Leagues Under the Seas (original title: Vingt mille
 lieues sous les mers), posted in September 1994; Around the World in 80 Days
 (original title: Le tour du monde en quatre-vingts jours), posted in January
-1994 and From the Earth to the Moon(original title: De la terre Ã  la lune),
+1994 and From the Earth to the Moon(original title: De la terre à la lune),
 posted in September 1993. Stendhal and Jules Verne were followed by Edmond
 Rostand with Cyrano de Bergerac, posted in March 1998.
 
@@ -674,9 +674,9 @@ present "Top 100".
 As a side remark, the first "images" ever made available by Project Gutenberg
 were French Cave Paintings, posted in April 1995, with an XHTML version posted
 in November 2000. This eBook contains four photos of paleolithic paintings found
-in a grotto located in ArdÃ¨che, a region of south-eastern France. These photos,
+in a grotto located in Ardèche, a region of south-eastern France. These photos,
 which are copyrighted, were made available to Project Gutenberg thanks to Jean
-Clottes, a French general curator for cultural heritage (conservateur gÃ©nÃ©ral du
+Clottes, a French general curator for cultural heritage (conservateur général du
 patrimoine), for everyone to enjoy them.
 
 Multilingualism is now one of the priorities of Project Gutenberg, like
@@ -1025,7 +1025,7 @@ and electronically, the largest possible number of books whose copyright had
 expired.
 
 This ground-breaking project became both the first Internet information site and
-the worldâs first digitized library. Michael himself typed in the first hundred
+the world’s first digitized library. Michael himself typed in the first hundred
 books. When the Internet became widely-used, in the mid-1990s, the project got a
 boost and an international dimension. Michael still typed and scanned in books,
 but now coordinated the work of dozens and then hundreds of volunteers in many
@@ -1065,10 +1065,10 @@ lecture in France on 12 February at UNESCO headquarters in Paris, organised with
 APRIL (Association pour la promotion et la recherche en informatique libre /
 Association for Promotion and Research in Free Computing) and AFUL (Association
 francophone des utilisateurs de Linux et des logiciels libres / French-speaking
-Linux and Free Software Usersâ Association). He chaired a discussion at the
+Linux and Free Software Users’ Association). He chaired a discussion at the
 French National Assembly on 13 February at the invitation of the discussion
-group âProduire et gÃ©rer les savoirsâ (Producing and Managing Knowledge), a
-branch of the âLes temps nouveauxâ (New Times) group.
+group “Produire et gérer les savoirs” (Producing and Managing Knowledge), a
+branch of the “Les temps nouveaux” (New Times) group.
 
 What about books in French? The first digitized books were mostly in English but
 now there are works in 25 different languages. Of the 11,340 e-books available
@@ -1078,13 +1078,13 @@ much the better.
 
 There is much work to be done putting all the classics of French culture online
 freely available to all in a easy and practical format. A total of 1,117 books
-are currently accessible in text format on Gallica (BibliothÃ¨que nationale de
+are currently accessible in text format on Gallica (Bibliothèque nationale de
 France / French National Library), 288 on ABU (Association des bibliophiles
 universels / The Universal Association of Booklovers), 195 in html and/or rtf
 format on Athena, and several dozen more on other websites. Some digital
-libraries specialize in shorter material. These include the BibliothÃ¨que
-Ã©lectronique de Lisieux (Lisieux Electronic Library), which digitizes mostly
-news and articles, or MiscellanÃ©es, which calls itself a âmiscellaneousâ
+libraries specialize in shorter material. These include the Bibliothèque
+électronique de Lisieux (Lisieux Electronic Library), which digitizes mostly
+news and articles, or Miscellanées, which calls itself a “miscellaneous”
 library.
 
 PROJECT GUTENBERG: QUESTIONS AND ANSWERS
@@ -1093,21 +1093,21 @@ PROJECT GUTENBERG: QUESTIONS AND ANSWERS
 
 Since my 15 February article about Michael Hart and Project Gutenberg, which
 mentioned the forthcoming launch of Project Gutenberg Europe (Hart recently
-spoke about it to the European Parliament), Iâve had a lot of questions from
+spoke about it to the European Parliament), I’ve had a lot of questions from
 readers. Here are some answers:
 
 Remember Project Gutenberg is becoming international. Its main office is in the
 United States, but Project Gutenberg Australia and Projekt Gutenberg-DE
 (Germany) have been going for a long time. Project Gutenberg Europe will be
 European, with a staff in Belgrade and links between the different projects. I
-think itâs interesting to build a French-language online library working with
-other groups. Itâs preparing for the future, when machine translation will be
-99% satisfactory (things are progressing well on that front, though thereâs a
+think it’s interesting to build a French-language online library working with
+other groups. It’s preparing for the future, when machine translation will be
+99% satisfactory (things are progressing well on that front, though there’s a
 lot still to do). In about 10 years, everyone will be able to call up literary
-classics in a choice of about 100 languages. Letâs work together instead of
-separately, since for once itâs possible.
+classics in a choice of about 100 languages. Let’s work together instead of
+separately, since for once it’s possible.
 
-Letâs also remember that everyone working with Project Gutenberg is a volunteer,
+Let’s also remember that everyone working with Project Gutenberg is a volunteer,
 including founder Michael Hart. The goal is to ensure its future independence of
 loans and other funding and of fleeting political and cultural priorities, to
 avoid any pressure from politicians or economic interests. The aim is also to
@@ -1115,12 +1115,12 @@ ensure respect for the volunteers, who can be confident their work will be used
 for many years, even generations. Donations are used only to buy equipment and
 supplies, mostly computers and scanners.
 
-And then letâs remember that all the books scanned in are proofread twice, by
+And then let’s remember that all the books scanned in are proofread twice, by
 two different people, to make sure they are 99.9% accurate. Software on the
 website (which is still being tested) allows users to convert books in ASCII,
 ISO-8859, Unicode and Big-5, for example, into other formats. Conversion will
 eventually be possible into still more formats, including Braille and voice. So
-thereâs no point arguing about which format is best. Text format can either be
+there’s no point arguing about which format is best. Text format can either be
 used as is or to create others. Text-format books can also be easily used by
 those who want to offer them in more sophisticated formats, without any
 restriction except for respect for copyright laws in the country involved and
@@ -1129,14 +1129,14 @@ the availability of new free versions produced.
 Some readers have asked about how volunteer proofreaders work. You go to the
 Distributed Proofreaders Europe website that has just been put up (and is still
 being tested) by Project Rastko (Belgrade) to handle the shared proofreading
-done by Project Gutenberg Europe. Sign up and youâll then see detailed
+done by Project Gutenberg Europe. Sign up and you’ll then see detailed
 instructions (which are still being translated in several languages). For
 example, passages in bold, italic or underlined, like footnotes, are always
 treated the same way, to standardize presentation of all the e-books. A
 discussion forum allows you to ask questions or seek help at any time.
 
 Each time you go to the website, you choose the book you want. Pages of the book
-appear side by side in two forms â one the scanned image and the other the text
+appear side by side in two forms – one the scanned image and the other the text
 produced by OCR (optical character recognition) software. You compare the two
 and make corrections. OCR is usually 99% accurate, which makes for about 10
 corrections a page. You save each page you do and can then either stop work or
@@ -1144,8 +1144,8 @@ do another. All the books are proofread twice (the second time only by
 experienced proofreaders) before the final version is ready for the public
 (after which any further errors noted by readers are systematically corrected).
 
-You donât have any quota to fulfill, but itâs recommended you do a page a day if
-possible. It doesnât seem much but with hundreds of volunteers it really adds
+You don’t have any quota to fulfill, but it’s recommended you do a page a day if
+possible. It doesn’t seem much but with hundreds of volunteers it really adds
 up. In 2003, on the original site of Distributed Proofreaders, about 250-300
 people were working each day, producing a daily total of 2,500-3,000 pages, the
 equivalent of two pages a minute.
@@ -1155,8 +1155,8 @@ word-processing programme or else scan it in and convert it into text using OCR
 software and then make corrections by comparing it with the original. In each
 case, someone else will proofread it.
 
-[These two articles appeared in French ("Michael Hart, ou la volontÃ© de changer
-le monde par le biais de l'ebook" & "Project Gutenberg: quelques rÃ©ponses Ã  vos
+[These two articles appeared in French ("Michael Hart, ou la volonté de changer
+le monde par le biais de l'ebook" & "Project Gutenberg: quelques réponses à vos
 questions") in Edition Actu nos. 90 and 91, of 15 February and 1 March 2004.
 Edition Actu is the electronic newsletter of CyLibris (distributed free every
 fortnight) which aims to look at publishing from a different angle. CyLibris,
@@ -1164,7 +1164,7 @@ founded in Paris in August 1996 and a pioneer of online publishing, was the
 first French publisher to use the Internet and digitization to bring out
 literary works.]
 
-Copyright Â© 2005 Marie Lebert
+Copyright © 2005 Marie Lebert
 
 
 

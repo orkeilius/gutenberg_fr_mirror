@@ -1,8 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import https from 'node:https';
-import {URL} from 'node:url';
-import {Book, Metadata, DownloadResult, BatchDownloadResult, BookUrl, encoding} from './types';
+import axios from "axios";
+import {Book, BookResult, Metadata} from './types';
 
 const MIRROR_URL = 'https://aleph.pglaf.org/';
 const GUTINDEX_URL = MIRROR_URL + 'GUTINDEX.ALL';
@@ -10,49 +9,53 @@ const FILES_DIR = path.join(__dirname, '..', 'files');
 const METADATA_FILE = path.join(__dirname, '..', 'metadata.json');
 const CONCURRENT_DOWNLOADS = 10;
 
-function fetchUrl(urlString: string): Promise<Buffer | null> {
-    return new Promise((resolve, reject) => {
-        try {
-            urlString = urlString.trim();
-            const parsedUrl = new URL(urlString);
 
-            const options = {
-                hostname: parsedUrl.hostname,
-                port: parsedUrl.port,
-                path: parsedUrl.pathname + parsedUrl.search,
-                method: 'GET',
-                timeout: 60000,
-            };
+export async function syncBooks(): Promise<void> {
+    const startTime = Date.now();
 
-            const req = https.request(options, handleResponse)
-                .on('error', reject)
-                .on('timeout', () => {
-                    req.destroy();
-                    reject(new Error('Request timeout'));
-                })
-                .end();
+    await fs.mkdir(FILES_DIR, {recursive: true});
 
-            function handleResponse(res: any) {
+    const books = await getMetadata();
+    console.log(`${books.length} file found`);
 
-                if (res.statusCode == 404) {
-                    resolve(null)
-                }
-                if (res.statusCode !== 200) {
-                    reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
-                    return;
-                }
+    const result: BookResult[] = await downloadBooksInBatches(books)
 
-                let data = Buffer.alloc(0);
-                res.on('data', (chunk: Buffer) => data = Buffer.concat([data, chunk]));
-                res.on('end', () => resolve(data));
-            }
-        } catch (error) {
-            reject(error);
-        }
-    });
+    let downloaded = result.filter(b => b.result != "ko").map(b => b.book);
+    await saveMetadata(downloaded);
+
+    const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+
+    console.log(`=== Result ===
+        downloaded: ${result.filter(value => value.result === "ok").length}
+        skipped: ${result.filter(value => value.result === "skip").length}
+        failed: ${result.filter(value => value.result === "ko").length}
+        total: ${books.length}
+        duration: ${duration}s
+    `);
 }
 
-function buildMirrorUrl(bookId: number): BookUrl[] {
+
+export function fetchUrl(url: string): Promise<string> {
+    return axios.get(url)
+        .catch(error => {
+            if (axios.isAxiosError(error) && error.response?.status === 404) {
+                return null
+            }
+
+            console.error(`Error fetching ${url}: ${(error as Error).message}`);
+            return null
+        })
+        .then(response => {
+                if (response?.status !== 200) {
+                    console.error(`Failed to fetch ${url}: HTTP ${response?.status}`);
+                    return null;
+                }
+                return response.data.toString()
+            }
+        )
+}
+
+function buildMirrorUrl(bookId: number): string[] {
     const idStr = bookId.toString();
     let dirPath = '';
 
@@ -63,10 +66,9 @@ function buildMirrorUrl(bookId: number): BookUrl[] {
     const basePath = `${MIRROR_URL}${dirPath}${bookId}/`;
 
     return [
-        {url: `${basePath}${bookId}-8.txt`, encoding: encoding.UTF8},
-        {url: `${basePath}${bookId}-8.txt`, encoding: encoding.LATIN1}, // some files are encoding in latin1 but with -8 suffix
-        {url: `${basePath}${bookId}-0.txt`, encoding: encoding.LATIN1},
-        {url: `${basePath}${bookId}.txt`, encoding: encoding.ASCII},
+        `${basePath}${bookId}-8.txt`,
+        `${basePath}${bookId}-0.txt`,
+        `${basePath}${bookId}.txt`,
     ];
 }
 
@@ -133,7 +135,7 @@ function parseGutindex(content: string): Book[] {
     return Array.from(bookMap.values());
 }
 
-async function getAllBooks(): Promise<Book[]> {
+export async function getMetadata(): Promise<Book[]> {
     console.log('Getting gutindex...');
 
     try {
@@ -142,38 +144,32 @@ async function getAllBooks(): Promise<Book[]> {
             throw new Error('GUTINDEX.ALL not found (404)');
         }
         console.log('Parsing...');
-        return parseGutindex(response.toString());
+        return parseGutindex(response);
     } catch (error) {
         console.error(`Error while geting index: ${(error as Error).message}`);
         throw error;
     }
 }
 
-async function saveMetadata(books: Book[]): Promise<Metadata> {
+export async function saveMetadata(books: Book[]): Promise<void> {
     try {
         const metadata: Metadata = {
             generatedAt: new Date().toISOString(),
             source: MIRROR_URL,
             mirrorUrl: MIRROR_URL,
             totalBooks: books.length,
-            books: books.map(book => ({
-                id: book.id,
-                title: book.title,
-                author: book.author,
-                language: book.language
-            }))
+            books: books
         };
 
         await fs.writeFile(METADATA_FILE, JSON.stringify(metadata, null, 2), 'utf8');
         console.log(`Downloaded gutindex`);
-        return metadata;
     } catch (error) {
         console.error(`error while saving metadata: ${(error as Error).message}`);
         throw error;
     }
 }
 
-async function downloadBook(book: Book): Promise<DownloadResult> {
+export async function downloadBook(book: Book): Promise<BookResult> {
     const bookId = book.id;
 
     const idStr = bookId.toString();
@@ -189,7 +185,7 @@ async function downloadBook(book: Book): Promise<DownloadResult> {
 
     try {
         await fs.access(filepath);
-        return {success: true, skipped: true};
+        return {book: book, result: "skip"};
     } catch {
         // File doesn't exist, continue
     }
@@ -199,7 +195,7 @@ async function downloadBook(book: Book): Promise<DownloadResult> {
     } catch (error) {
         if ((error as NodeJS.ErrnoException).code !== 'EEXIST') {
             console.error(`[${bookId}] Error: ${(error as Error).message}`);
-            return {success: false, skipped: false};
+            return {book: book, result: "ko"};
         }
     }
 
@@ -208,52 +204,47 @@ async function downloadBook(book: Book): Promise<DownloadResult> {
 
     for (let url of urls) {
         try {
-            let contentBuffer = await fetchUrl(url.url);
-            if (contentBuffer === null) {
-                continue
+            let content = await fetchUrl(url);
+            if (content === null) {
+                continue;
             }
-            const content = (contentBuffer.toString(url.encoding.valueOf() as BufferEncoding));
 
-            if (content.includes("\uFFFD")) {
-                console.warn(`[${bookId}] Bugged encoding in ${url.encoding.valueOf()}`)
 
+            const encodingArtefacts = ["\uFFFD", "Ã©", "�", "�", "Ã§", "", ""];
+
+            if (encodingArtefacts.some((v) => content.includes(v))) {
+                console.warn(`[${bookId}] Encoding issues detected in ${url}, skipping...`);
+                continue
             }
 
             await fs.writeFile(filepath, content, 'utf8');
-            return {success: true, skipped: false};
+            console.log(`[${bookId}] Downloaded from ${url}`);
+            return {book: book, result: "ok"};
         } catch (e) {
-            console.error(`[${bookId}] Error downloading from ${url.url}: ${(e as Error).message}`);
+            console.error(`[${bookId}] Error downloading from ${url}: ${(e as Error).message}`);
         }
     }
-    console.error(`[${bookId}] Failed to download from all URLs (${urls.map(u => u.url).join(', ')})`);
-    return {success: false, skipped: false};
+    console.error(`[${bookId}] Failed to download from all URLs`);
+    return {book: book, result: "ko"};
 }
 
-async function downloadBooksInBatches(books: Book[], concurrency: number = CONCURRENT_DOWNLOADS): Promise<BatchDownloadResult> {
-    let downloaded = 0;
-    let skipped = 0;
-    let failed = 0;
-    let completed = 0;
-    const successfulBooks: Book[] = [];
+export async function downloadBooksInBatches(books: Book[], concurrency: number = CONCURRENT_DOWNLOADS): Promise<BookResult[]> {
+    const bookResult: BookResult[] = [];
 
     const total = books.length;
     let currentIndex = 0;
     const activeDownloads = new Set<Promise<void>>();
 
     const processBook = async (book: Book): Promise<void> => {
-        const result = await downloadBook(book);
+        const result: BookResult = await downloadBook(book);
 
-        if (result.success) {
-            result.skipped ? skipped++ : downloaded++;
-            successfulBooks.push(book);
-        } else {
-            failed++;
-        }
+        bookResult.push(result)
 
-        completed++;
-
-        if (completed % 100 === 0 || completed === total) {
-            console.log(`[${completed}/${total}] donwload ${downloaded} | skiped ${skipped} | failed ${failed}`);
+        if (bookResult.length % 100 === 0) {
+            const ok = bookResult.filter(v => v.result === "ok").length;
+            const skip = bookResult.filter(v => v.result === "skip").length;
+            const ko = bookResult.filter(v => v.result === "ko").length;
+            console.log(`[${bookResult.length}/${books.length}] downloaded: ${ok} | skipped: ${skip} | failed: ${ko}`);
         }
     };
 
@@ -281,41 +272,18 @@ async function downloadBooksInBatches(books: Book[], concurrency: number = CONCU
         await Promise.race(activeDownloads);
     }
 
-    return {downloaded, skipped, failed, successfulBooks};
+    return bookResult;
 }
 
-async function syncBooks(): Promise<void> {
-    const startTime = Date.now();
-
-    await fs.mkdir(FILES_DIR, {recursive: true});
-
-    const books = await getAllBooks();
-    console.log(`${books.length} file found`);
-
-    const {downloaded, skipped, failed, successfulBooks} = await downloadBooksInBatches(books);
-
-    console.log('Saving metadata...');
-    await saveMetadata(successfulBooks);
-
-    const duration = ((Date.now() - startTime) / 1000).toFixed(2);
-
-    console.log(`=== Result ===
-        downloaded: ${downloaded}
-        skipped: ${skipped}
-        failed: ${failed}
-        total: ${books.length}
-        duration: ${duration}s
-    `);
-}
 
 if (require.main === module) {
-    syncBooks().catch(error => {
-        console.error('error:', error);
-        process.exit(1);
-    }).finally(() => {
-            process.exit(0)
+    (async () => {
+        try {
+            await syncBooks();
+            process.exit(0);
+        } catch (error) {
+            console.error('error:', error);
+            process.exit(1);
         }
-    );
+    })();
 }
-
-export {syncBooks};
