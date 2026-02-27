@@ -6,6 +6,8 @@
 import type {Config} from 'jest';
 
 const config: Config = {
+  preset: 'ts-jest',
+  testEnvironment: 'node',
   // All imported modules in your tests should be mocked automatically
   // automock: false,
 
@@ -17,6 +19,7 @@ const config: Config = {
 
   // Automatically clear mock calls, instances, contexts and results before every test
   clearMocks: true,
+  testTimeout: 10000,
 
   // Indicates whether the coverage information should be collected while executing the test
   collectCoverage: true,
