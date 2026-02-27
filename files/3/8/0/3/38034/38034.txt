@@ -1,0 +1,4503 @@
+The Project Gutenberg EBook of Paul Appell, by Ernest Lebon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Paul Appell
+       Biographie, Bibliographie Analytique des Écrits
+
+Author: Ernest Lebon
+
+Release Date: November 16, 2011 [EBook #38034]
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PAUL APPELL ***
+
+
+
+
+Produced by Laura Wisewell, Eleni Christofaki and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(The original copy of this book was generously made
+available for scanning by the Department of Mathematics
+at the University of Glasgow.)
+
+
+
+
+
+
+
+
+
+NOTES SUR LA TRANSCRIPTION:
+
+Les erreurs clairement introduites par le typographe ont été corrigées.
+Une liste d'autres corrections faites se trouve à la fin du livre.
+
+Les caractères imprimés en exposant dans l'original dont l'abréviation
+n'est pas évidente ou non courante sont indiqués comme^{cela}, les
+caractères imprimés en indice dans l'original sont indiqués
+comme_{cela}.
+
+Dans les formules mathématiques le symbole D rond de la déviation
+partielle est indiqué: [d]. La translitération des caractères grecs qui
+correspondent aux fonctions mathématiques sont inclus en [crochet].
+
+  Marquage: _mots en italique_
+            =mots en gras=
+            [vx]: caractère avec caron dessus, le "x" représente le
+            caractère accentué
+
+
+
+
+PAUL APPELL
+
+
+
+
+PRINCIPAUX OUVRAGES DE M. ERNEST LEBON.
+
+       *       *       *       *       *
+
+Chez M. Gauthier-Villars, Quai des Grands-Augustins, 55, Paris.
+
+=Histoire abrégée de l'Astronomie.= Petit in-8, en caractères
+elzévirs, titre en deux couleurs, avec 16 portraits et 1 Carte
+du Ciel; 1899 (_Ouvrage couronné par l'Académie Française_).      8 fr.
+
+=Théorie et Application des Sections homothétiques de
+deux quadriques.= Grand in-8, avec 9 figures; 1884.               2 fr.
+
+SAVANTS DU JOUR: _Biographie, Bibliographie analytique des
+Écrits_. Grand in-8 (28-19), papier de Hollande, avec un portrait
+en héliogravure (_Collection honorée d'une Souscription
+de l'Académie des Sciences_):
+
+     =Henri Poincaré=, 1 vol. de VIII-80 p., 1er Juillet 1909.    7 fr.
+
+     =Gaston Darboux=, 1 vol. de VIII-72 p., 10 Janvier 1910.     7 fr.
+
+     =Émile Picard=, 1 vol. de VIII-80 p., 1er Juin 1910.         7 fr.
+
+
+       *       *       *       *       *
+
+Chez MM. Delalain Frères, Boulevard Saint-Germain, 115, Paris.
+
+=Traité de Géométrie Descriptive= (comprenant la =Géométrie
+Cotée=). 2 vol. grand in-8.
+
+  Ier VOLUME. _Classe de Mathématiques_, 286 épures dans le
+  texte; 3e éd., 1901.                                            5 fr.
+
+  IIe VOLUME. _Classe de Mathématiques spéciales_, 199 épures
+  dans le texte, 1 Atlas in-8 de 14 planches in-4 gravées;
+  1882.                                                           12 fr.
+
+=Table de Caractéristiques relatives à la base 2310 des
+Facteurs Premiers d'un nombre inférieur à 30030.= Gr. in-8,
+12 pages de texte, 20 Tableaux; 1906 (_Ouvrage honoré d'une
+Subvention de l'Association Française pour l'Avancement des
+Sciences_).                                                       1 fr.50
+
+
+
+
+[Illustration: _Héliog. Dujardin_       _Phot. Pirou_
+
+_Imp. Ch. Wittman_]
+
+
+
+
+SAVANTS DU JOUR
+
+
+PAUL APPELL
+
+BIOGRAPHIE,
+
+BIBLIOGRAPHIE ANALYTIQUE DES ÉCRITS,
+
+
+PAR
+
+Ernest LEBON,
+
+  Agrégé de l'Université,
+  Lauréat de l'Académie Française,
+  Membre des Académies de Lisbonne et de Metz,
+  et de la Société royale des Sciences de Liége.
+
+[Illustration: [Grec: AEI O ThEOS GEÔMETREI]]
+
+PARIS,
+
+GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE
+
+DU BUREAU DES LONGITUDES, DE L'ÉCOLE POLYTECHNIQUE,
+
+Quai des Grands-Augustins, 55.
+
+
+10 NOVEMBRE 1910.
+
+(Tous droits réservés.)
+
+
+
+
+TABLE DES MATIÈRES.
+
+
+                                                                    Pages.
+
+  Abréviations                                                        VI
+
+    SECTION I.--=BIOGRAPHIE.=
+
+  Notice sur M. PAUL APPELL                                            1
+
+  Grades. Fonctions. Titres honorifiques. Prix. Décorations           11
+
+    SECTION II.--=ANALYSE MATHÉMATIQUE.=
+
+  Rapport de CH. HERMITE sur le Mémoire présenté par M. PAUL APPELL
+  au Concours ouvert par le Roi OSCAR II                              15
+
+  Ouvrages                                                            20
+
+  Mémoires. Notes: _Analyse pure: 1º Fonctions d'un point analytique;
+  2º Séries, Intégrales définies, Généralités sur les fonctions d'une
+  variable; 3º Fonctions périodiques et doublement périodiques d'une
+  variable, Périodicité générale; 4º Fonctions de plusieurs
+  variables, Fonctions abéliennes, Fonctions de deux variables à 2, 3
+  ou 4 paires de périodes, Fonctions hypergéométriques de deux
+  variables, Inversion des intégrales multiples; 5º Équations
+  différentielles ordinaires, Invariants; 6º Équations aux dérivées
+  partielles, Potentiels triplement périodiques, Potentiels
+  multiformes.--Analyse appliquée à l'Algèbre_                        21
+
+  Article                                                             38
+
+    SECTION III.--=GÉOMÉTRIE.=
+
+  Rapport de M. GASTON DARBOUX sur le Prix BORDIN en 1885             39
+
+  Mémoires. Notes: _Géométrie infinitésimale. Géométrie analytique_   42
+
+  Article                                                             45
+
+    SECTION IV.--=MÉCANIQUE RATIONNELLE ET PHYSIQUE MATHÉMATIQUE.=
+
+  Ouvrages                                                            46
+
+  Mémoires. Notes: _Mécanique rationnelle. Physique mathématique_     51
+
+    SECTION V.--=HISTOIRE DES SCIENCES.=
+
+  Discours. Discours nécrologiques. Notices nécrologiques. Rapports.
+  Articles                                                            60
+
+    SECTION VI.--=ÉDUCATION ET ENSEIGNEMENT.=
+
+  Discours. Conférence. Rapports. Articles                            63
+
+    SECTION VII.--=PUBLICATIONS DIVERSES.=
+
+  Questions proposées. Leçons. Rapports. Préfaces. Analyses           68
+
+
+
+
+ABRÉVIATIONS.
+
+
+  AAWB    _Abhandlungen der Königlichen Akademie der Wissenschaften zu
+          Berlin._ Berlin, in-4.
+
+  AB     L'_Aérophile_. Revue mensuelle illustrée de l'Aéronautique et
+         des Sciences qui s'y rattachent. Directeur-Fondateur: GEORGES
+         BESANÇON. Paris, in-4.
+
+  AEN    _Association amicale de Secours des anciens Élèves de l'École
+         Normale supérieure._ Paris, H., in-8.
+
+  AFAS   _Comptes rendus des Sessions de l'Association Française pour
+         l'Avancement des Sciences._ Paris, rue Serpente, 28, gr. in-8.
+
+  AFSMa  _Annales de la Faculté des Sciences de Marseille._ Paris,
+         G. M., in-4.
+
+  AFST   _Annales de la Faculté des Science de l'Université de Toulouse_
+         pour les Sciences mathématiques et les Sciences physiques.
+         Paris, G.-V., in-4.
+
+  AJM    _American Journal of Mathematics_, edited by FRANK MORLEY,
+         published under the Auspices of the JOHNS HOPKINS University.
+         Baltimore, in-4.
+
+  AM     _Acta Mathematica._ Journal fondé et rédigé par G.
+         MITTAG-LEFFLER. Berlin, Stockholm; Paris, Hn., in-4.
+
+  AMB    _Annali di Matematica pura ed applicata_ già diretti da
+         FRANSCESCO BRIOSCHI, continuati dai Prof. L. BIANCHI,...
+         Milano, C. R., in-4.
+
+  AMLB   _Annuaire des Mathématiciens_, 1901-1902, publié sous la
+         direction de C.-A. LAISANT et AD. BUHL. Paris, C. N., 1902,
+         puis G.-V., in-16.
+
+  AMPG   _Archiv der Mathematik und Physik_, Gegründet 1841 durch. J.-A.
+         GRUNERT, Her. von E. LAMPE,... Leipzig, B. G. T., gr. in-8.
+
+  ASAPP  _Annaes scientificos da Academia polytechnica do Porto_,
+         publicados sobra direcção de F. GOMES TEIXEIRA. Coïmbre, gr.
+         in-8.
+
+  ASEN   _Annales scientifiques de l'École Normale supérieure._
+         Paris, G.-V., in-4.
+
+  BAES   _Bulletin trimestriel de l'Association des Élèves de Sèvres._
+         Paris, F.-D., gr. in-8.
+
+  BAMS   _Bulletin of the American mathematical Society._ Lancaster,
+         PA., and New York, the MACMILLAN Society, 2^{d} s., in-8.
+
+  BBA    _Bulletin de la Bibliothèque américaine_ (_Amérique latine_).
+         Paris, H., in-8.
+
+  BBSL   _Bollettino di Bibliografia et Storia delle Scienze
+         matematiche_, pubblicato par cura di GINO LORIA, Torino,
+         C. C., gr. in-8.
+
+  BSFB   _Bulletin scientifique de la France et de la Belgique_, publié
+         par ALFRED GIARD. Paris, Laboratoire d'Évolution des Êtres
+         organisés, 3, rue d'Ulm, gr. in-8.
+
+  BSM    _Bulletin des Sciences mathématiques_, fondé en 1870 par GASTON
+         DARBOUX, publié par GASTON DARBOUX, ÉMILE PICARD et JULES
+         TANNERY. De 1870 à la fin de 1884, le titre fut _Bulletin des
+         Sciences mathématiques et astronomiques_. Paris, G.-V., gr.
+         in-8.
+
+  BSMF   _Bulletin de la Société mathématique de France._ Paris, G.-V.,
+         gr. in-8.
+
+  BSP    _Bulletin de la Société philomathique de Paris._ Paris, S., de
+         1864 à 1888, in-8; ensuite gr. in-8.
+
+  CMF    _C[va]sopis pro pe[vs]tov[va]ni mathematiky a fysiky_, redigu jí
+         K. PETR, BOH. KU[VC]ERA. Praze, B. ST[VY]BLA, gr. in-8.
+
+  CR     _Comptes rendus hebdomadaires des Séances de l'Académie des
+         Sciences_. Paris, G.-V., in-4.
+
+  ECC    Affaire DREYFUS. La Revision du Procès de Rennes. Enquête de la
+         Chambre criminelle de la Cour de Cassation, 5 mars-19 novembre
+         1904. Paris, Ligue des Droits de l'Homme, 1, rue Jacob, 1908,
+         1909, gr. in-8.
+
+  EM     _L'Enseignement mathématique_ dirigé par C.-A. LAISANT et H.
+         FEHR. Paris, G.-V., et Genève, GEORG, gr. in-8.
+
+  ESMEF  _Encyclopédie des Sciences pures et appliquées_. Édition
+         française publiée d'après l'édition allemande sous la direction
+         de JULES MOLK. Paris, G.-V., gr. in-8.
+
+  IdM    _Idées modernes_, Revue mensuelle. Paris, D. P., gr. in-8.
+
+  IF     _Institut de France_. Paris, F.-D., in-4.
+
+  IM     _L'Intermédiaire des Mathématiciens_ fondé en 1894 par C.-A.
+         LAISANT et ÉMILE LEMOINE. Paris, G,-V., in-8.
+
+  IMB    _Inauguration du Monument_ BICHAT _et des nouveaux Instituts de
+         la Faculté des Sciences de Nancy_. Nancy, 13 juin 1909, gr. in-8.
+
+  JC     _Journal für die reine und angewandte Mathematik_. Beg. von A.
+         L. CRELLE. Her. von K. HENSEL. Berlin, G. R., in-4.
+
+  JEP    _Journal de l'École Polytechnique_. Paris, G.-V., in-4.
+
+  JFM    _Jahrbuch über die Fortschritte der Mathematik_. Beg. von CARL
+         OHRTMANN. Her. von EMIL LAMPE. Berlin, G. R., gr. in-8.
+
+  JL     _Journal de Mathématiques pures et appliquées_ fondé par J.
+         LIOUVILLE, rédigé par CAMILLE JORDAN. Paris, G.-V., in-4.
+
+  JO     _Journal Officiel de la République Française_. Paris, 31, quai
+         Voltaire, in-4.
+
+  JS     _Journal des Savants_. Paris, H., in-4.
+
+  JST    _Jornal de Sciencias mathematicas e astronomicas_ publicado
+         pelo Dr F. GOMES TEIXEIRA. Coïmbre, gr. in-8.
+
+  LCD    _Literarisches Centralblatt für Deutschland_. Beg. von FREDRICH
+         BARNCKE. Her. von EDWARD BARNCKE. Leipzig, E. AVENARIUS, in-4.
+
+  MA     _Mathematische Annalen_. Beg. 1868 durch ALFRED CLEBSCH und
+         CARL NEUMANN. Her. von FELIX KLEIN,... Leipzig, B. G. T., gr.
+         in-8.
+
+  MAWB   _Monatsberichte der königlich Preussischen Akademie der
+         Wissenschaften zu Berlin_. Berlin, gr. in-8.
+
+  MSAS   _Mémoires présentés par divers Savants à l'Académie des Sciences
+         de l'Institut de France_. Paris, I. N., in-4.
+
+  MMP    _Monatshefte für Mathematik und Physik_. Her. von G. V.
+         ESCHERICH, F. MERTENS und W. WIRTINGER. Wien, J. EISENSTEIN,
+         gr. in-8.
+
+  Ms     _Mathesis_. Recueil mathématique publié par P. MANSION et J.
+         NEUBERG. Gand, AD. HOSTE; Paris., G.-V., gr. in-8.
+
+  NAM    _Nouvelles Annales de Mathématiques_, fondées en 1842 par
+         GÉRONO et TERQUEM, dirigées par C.-A. LAISANT, C. BOURLET et
+         R. BRICARD. Paris, G.-V., in-8.
+
+  NAW    _Nieuw Archief voor Wiskunde_ onder redactie van J. C. KLUYVER,
+         D. J. KORTEWEG en P. H. SCHOUTE. Amsterdam, DELSMAN en
+         NOLTHENIUS, gr. in-8.
+
+  NC     _Il nuovo Cimento_, Organo della _Società italiana di Fisica_,
+         pubblicato per cura dei Direttori.... Pisa, PIERACCINI, gr.
+         in-8.
+
+  NTM    _Nyt Tidsskrift for Matematik_, Redigeret of C. JUEL og V.
+         TRIER. Kobenhavn, JUL. GJELLERUP, in-8.
+
+  ÖS     _Öfversigt af kongl. Vetenskaps-Akademiens Förhandlingar_.
+         Stockholm, P. A. NORSTEDT, in-8.
+
+  RB     _Revue Politique et littéraire_, _Revue bleue_, fondée par
+         EUGÈNE YUNG. Directeur: FÉLIX DUMOULIN. Paris, 41 _bis_, rue
+         de Châteaudun, in-4.
+
+  RBB    _Revue générale de Botanique_, dirigée par M. GASTON BONNIER,
+         Paris, 1, rue DANTE, gr. in-8.
+
+  RCMP   _Rendiconti del Circolo matematico di Palermo_. Palermo, gr.
+         in-8.
+
+  RIE    _Revue internationale de l'Enseignement_ publiée par la Société
+         de l'Enseignement supérieur. Rédacteur en chef: FRANÇOIS
+         PICAVET. Paris, 20, rue Soufflot, gr. in-8.
+
+  RM     _La Revue du Mois_. Directeur: ÉMILE BOREL. Paris, H. LE
+         SOUDIER, gr. in-8.
+
+  RMa    Ministère de la Marine. _Revue Maritime_. Paris. R. CHAPELOT
+         et C^{ie}, gr. in-8. (Rédaction, 2, rue Royale.)
+
+  RMS    _Revue de Mathématiques spéciales_. Paris, N., in-4.
+
+  RO     _Revue générale des Sciences pures et appliquées_. Directeur:
+         LOUIS OLIVIER. Paris, in-4.
+
+  RQS    _Revue des Questions scientifiques_, publiée par la Société
+         scientifique de Bruxelles. Bruxelles; Louvain, à partir de
+         1896. 11, rue des Récollets, gr. in-8.
+
+  RR     _Revue scientifique. Revue rose_. Directeur de la rédaction:
+         CH. MOUREU. Paris, 41 _bis_, rue de Châteaudun, in-4.
+
+  SSS    _Compte rendus du Congrès des Sociétés savantes de Paris et des
+         départements, Section des Sciences_. Paris, 1. N., gr. in-8.
+
+  UPR    Académie de Paris. Conseil général des Facultés ou Conseil de
+         l'Université de Paris, à partir de 1895-1896. _Rapports sur les
+         travaux et les actes des Établissements d'Enseignement supérieur
+         pendant l'année scolaire..._ Paris, gr. in-8.
+
+  WM     _Wiadomosei matematyczne_. Rédigé en polonais. Rédacteur et
+         éditeur: S. DICKSTEIN. Warszawa, Marszalkowska, 117, gr. in-8.
+
+  ZMP    _Zeitschrift für Mathematik und Physik_. Her. von O. SCHLÖMILCH
+         und M. CANTOR. Leipzig. B. G. T., gr. in-8.
+
+  aa.       aargang.
+
+  Afd.      Afdeling.
+
+  Abt.      Abteilung.
+
+  Bd.       Band.
+
+  Beg.      Begründet.
+
+  c.        cahier.
+
+  D.        Deel.
+
+  d. R.     dritte Reihe.
+
+  f.        fascicule.
+
+  Ht.       Heft.
+
+  Her.      Herausgegeben.
+
+  J.        Jahrgang.
+
+  Lit.      Literaturberichte.
+
+  n. s.     nouvelle série, new series.
+
+  R.        Ro[vc]nick.
+
+  T. R.     Tweede Reeks.
+
+  S.        Seite.
+
+  s.        série, series.
+
+  A. C.     Armand Colin.
+
+  B. G. T.  B. G. Teubner.
+
+  C. C.     Carlo Clausen.
+
+  C. D.     Ch. Delagrave.
+
+  C. N.     C. Naud.
+
+  C. R.     C. Rebeschini di Turati.
+
+  D.        Delalain Frères.
+
+  D. P.     Dunod et Pinat.
+
+  F. A.     Félix Alcan.
+
+  F. D.     Firmin-Didot.
+
+  G. C.     Georges Carré.
+
+  G. M.     G. Masson.
+
+  G.-V.     Gauthier-Villars.
+
+  G. R.     Georg Reimer.
+
+  H.        Hachette et C^{ie}.
+
+  Hn.       A. Hermann; Hermann et Fils.
+
+  I. N.     Imprimerie nationale.
+
+  N.        Nony et C^{ie}.
+
+
+
+
+PAUL APPELL
+
+SECTION I.
+
+BIOGRAPHIE.
+
+
+NOTICE SUR M. PAUL APPELL.
+
+M. _Paul-Émile_ APPELL naquit à Strasbourg, chef-lieu de l'ancien
+département du Bas-Rhin, le 27 septembre 1855. Son père, Jean-Pierre
+Appell, avait un atelier et un petit magasin de teinturerie place
+Saint-Étienne, au fond de la cour d'une maison appelée le _Ritterhus_ en
+parler strasbourgeois, grande et ancienne construction surmontée de
+plusieurs étages de greniers auxquels on accède par un escalier de
+pierre tournant dans une tour: ce vieux bâtiment était rempli d'enfants
+qui se livraient à des jeux sans fin dans la cour ou dans les greniers.
+Le jeune PAUL APPELL fut mis au Collège Saint-Arbogast, dépendant de
+l'évêché, dirigé par un homme intelligent et bon, d'une haute
+conscience, d'un ardent patriotisme, l'abbé Uhrin. Les vacances se
+passaient au village natal de sa mère, Élisabeth Müller, _le
+Klingenthal_, situé dans une étroite et longue vallée des Vosges
+orientales, entre le mont Sainte-Odile et le Heidenkopf, toute remplie
+de la fraîcheur des eaux descendant de la montagne, et des bruits d'une
+fabrique d'armes blanches ayant appartenu à l'État Français de Louis XV
+à Louis-Philippe. Sa famille était profondément attachée à la France et
+aux idées de justice et de liberté mises en action par la Révolution
+Française. Son père, comme soldat français, dans une petite opération
+militaire en Corse, avait reçu au pied une blessure dont il souffrit
+toute sa vie. Son frère, Charles Appell, né d'un premier mariage, de 13
+ans plus âgé que lui, s'engagea à 17 ans dans l'armée française: il prit
+part à la guerre d'Italie et fut envoyé, après la campagne, en congé de
+convalescence. Quand le père mourut, en 1869, ce frère aîné devint le
+conseiller et l'éducateur du jeune collégien, auquel il fit partager son
+amour passionné pour les longues courses dans les solitudes boisées des
+Vosges, pour les chasses patientes de la montagne et pour les chasses
+abondantes et faciles de la plaine d'Alsace. Il s'établit alors entre
+les deux frères une affection étroite, une tendresse virile chaque jour
+plus profonde. Pendant que le caractère de l'adolescent était ainsi
+développé vers l'action, l'influence d'une mère d'élite, réfléchie et
+laborieuse, douce mais obstinée, le poussait au travail régulier et
+persévérant.
+
+Le Collège Saint-Arbogast ayant été fermé en 1868, le jeune PAUL APPELL
+passa un an en troisième au petit Séminaire de Strasbourg, et, pendant
+l'année scolaire 1869-1870, il suivit les cours de la classe de seconde
+du Lycée. La guerre ayant été alors déclarée, il vit arriver la belle
+armée d'Afrique, puis les sombres jours, la défaite et l'investissement.
+Sa famille était restée à Strasbourg pendant le siège; son frère, après
+avoir servi comme ambulancier volontaire sur le champ de bataille de
+Woerth, rentra à Strasbourg et s'engagea immédiatement dans la Compagnie
+de francs-tireurs commandée par Liès-Bodard, professeur à la Faculté des
+Sciences. PAUL APPELL, âgé de 14 ans, chercha à se rendre utile en
+aidant, dans une cantine provisoire, installée brasserie Piton, à
+nourrir de pauvres gens sans travail et sans ressources. Après la
+capitulation, tous les établissements d'enseignement étant fermés en
+Alsace, il fut envoyé au Klingenthal. Son frère Charles, sorti de la
+ville en échappant aux Allemands, put rentrer en France par le Hohwald
+et les Hautes Vosges, et reprit du service dans la légion
+d'Alsace-Lorraine; en 1871, il fut chargé en Alsace, par le Gouvernement
+de la Défense Nationale, d'une périlleuse mission, interrompue par
+l'armistice. Vinrent alors les événements les plus tristes de tous:
+l'élection des derniers députés d'Alsace-Lorraine, leur protestation à
+l'Assemblée Nationale contre l'annexion, l'arrachement brutal des deux
+Provinces si attachées à la France. La famille Appell dut se séparer: la
+mère et le frère Charles restèrent en Alsace et devinrent officiellement
+allemands; le jeune PAUL prit un permis d'émigration et alla opter à
+Nancy pour la nationalité française. Dans ces séparations douloureuses
+qui déchirèrent alors toutes les familles alsaciennes et lorraines, on
+ne saurait dire quels sont ceux qui firent le sacrifice le plus grand et
+le plus utile, ceux qui partirent, ou ceux qui restèrent. M. PAUL APPELL
+a lui-même rappelé les sentiments de ses compatriotes dans le passage
+suivant, emprunté au toast qu'il porta au Banquet de l'Inauguration du
+Monument Bichat à Nancy, le 13 juin 1909:
+
+«Messieurs, permettez-moi d'ajouter quelques mots à titre personnel. La
+ville de Nancy réveille en moi de douloureux et puissants souvenirs. Je
+ne puis oublier que c'est elle qui a accueilli, après la guerre, tant
+d'Alsaciens, parmi lesquels je me trouvais, jeune collégien, il y a 37
+ans. Je vois à cette table un grand nombre de mes compatriotes, ayant
+passé par les mêmes souffrances. Nous nous sommes trouvés, au lendemain
+de la guerre, dans l'affreuse nécessité de déchirer notre personnalité:
+nous avons laissé à l'Alsace, à notre petite patrie, notre âme, ce qu'il
+y a dans l'homme de plus instinctif et de plus profond, nos plus
+délicats, nos plus intimes souvenirs d'enfance, et les tombes de ceux
+qui ne sont plus; et nous avons apporté à notre grande patrie, la
+France, tout notre coeur, toute notre énergie, toute notre volonté de
+consacrer nos forces à son relèvement, et une indestructible
+espérance..., une espérance que j'ai vue, ce matin, symbolisée sous mes
+yeux par le nom de Strasbourg inscrit sur le drapeau tricolore de vos
+étudiants.»
+
+       *       *       *       *       *
+
+Au Lycée de Nancy, de Pâques aux grandes vacances de l'année 1872, M.
+PAUL APPELL eut, comme professeur de Mathématiques spéciales, M.
+Pruvost, qui, sous l'ignorance d'un écolier ayant travaillé seul,
+reconnut d'heureuses dispositions et les encouragea: M. P. APPELL lui en
+a gardé une grande reconnaissance. Pendant l'année scolaire 1872-1873,
+il suivit l'excellent cours de M. Elliot, successeur de M. Pruvost; il y
+fit la connaissance du jeune Henri Poincaré, avec qui il se lia d'une
+amitié que la vie a développée et fortifiée. Admis en 1873 à la fois à
+l'École Polytechnique et à l'École Normale, il entra, pour des raisons
+de famille, à l'École Normale, Section des Sciences. A la fin de la
+troisième année, le 20 juin 1876, il soutint une importante thèse de
+doctorat ès Sciences mathématiques. En sortant de l'École Normale, il
+fut reçu le premier, le 8 septembre 1876, à l'agrégation des Sciences
+mathématiques, et il remplit les fonctions de répétiteur d'Analyse et de
+Mécanique à l'École pratique des Hautes-Études. Le 1er mars 1878, il
+fut nommé maître de conférences de Mathématiques à la Faculté des
+Sciences de Paris, et, du 11 novembre 1879 au 25 octobre 1881, il fut
+chargé du cours de Mécanique rationnelle à la Faculté des Sciences de
+Dijon.
+
+Le 4 juillet 1881, M. P. APPELL épousa Mlle Amélie Bertrand, fille
+d'Alexandre Bertrand, conservateur du Musée de Saint-Germain-en-Laye,
+nièce de Joseph Bertrand et d'Hermite: il devenait ainsi le cousin par
+alliance de M. Émile Picard, son conscrit à l'École Normale.
+
+M. P. APPELL suppléa, en 1881-1882, Briot à l'École Normale et, en
+1882-1883, V. Puiseux à la Sorbonne. Il fut nommé le 23 novembre 1886
+professeur de Mécanique rationnelle à la Faculté des Sciences de Paris,
+après avoir été chargé de ce cours pendant deux ans.
+
+       *       *       *       *       *
+
+En 1888, une grande douleur assombrit la vie de M. PAUL APPELL. Son
+frère Charles, poussé à de généreuses imprudences par son ardent amour
+de la France et par son désir de hâter l'heure de la «justice
+immanente», fut arrêté à Strasbourg, sous l'inculpation de haute
+trahison envers l'Empire Allemand; après une détention préventive qui
+fut un long martyre, il fut traduit devant la Haute-Cour de Leipzig, où
+son frère PAUL alla le soutenir de sa présence: il fut condamné à un an
+de prison et à neuf ans de forteresse. Le jugement rendait hommage à son
+ardent amour pour la France, «son ancienne patrie», et y trouvait des
+circonstances atténuantes. Le condamné subit la prison à Cottbus, puis
+la forteresse à Magdebourg, avec un courage et une dignité qui en
+imposèrent à tous ceux qui l'approchèrent; sa santé s'altérant
+gravement, sa peine fut interrompue en 1896, une année avant son terme
+régulier. Il revint alors en Alsace au Klingenthal, puis à Strasbourg;
+mais ni la liberté, ni l'air natal ne purent le rétablir: il passa de
+longs mois sans sortir, vivant de ses souvenirs, se distrayant à suivre
+de sa fenêtre la vie profonde de la vieille cathédrale qu'il avait vue,
+dans sa jeunesse, pavoisée aux couleurs françaises: il mourut en
+1905[1].
+
+Trois années auparavant, M. PAUL APPELL avait eu la douleur de perdre sa
+mère qui, depuis 1878, avait quitté l'Alsace pour venir vivre auprès de
+lui.
+
+       *       *       *       *       *
+
+Les premiers travaux de M. PAUL APPELL, faits sous l'influence de Michel
+Chasles, se rapportent à la Géométrie projective. En généralisant la
+théorie de l'involution, M. P. APPELL a composé sa thèse de doctorat,
+soutenue le 20 juin 1876, qui a pour objet l'étude des propriétés des
+cubiques gauches à l'aide d'une relation involutive entre trois éléments
+et leur application au mouvement hélicoïdal d'un corps solide. A la fin
+de 1876, il a publié, dans un ordre d'idées analogue, la théorie des
+courbes gauches unicursales du quatrième ordre. Mais, à partir de 1877,
+en suivant les conseils de Bouquet, il s'adonna de préférence aux
+recherches sur l'Analyse mathématique.
+
+En octobre 1878, M. P. APPELL donna le premier exemple de la
+détermination d'une singularité d'une fonction développée en série de
+MacLaurin, et il appliqua sa méthode au calcul d'une intégrale définie
+très générale relative aux séries hypergéométriques de Gauss. Il
+s'occupa ensuite, à des points de vue divers, des fonctions périodiques.
+En 1881 et en 1882, il publia une étude approfondie des fonctions
+périodiques générales, qui conservent la même valeur quand on fait sur
+la variable une opération fonctionnelle d'une certaine forme, ou qui se
+reproduisent, multipliées par une fonction donnée, quand on fait cette
+opération; il donna, comme applications, la théorie d'une classe de
+fonctions généralisant les fonctions eulériennes et une méthode
+d'intégration de certaines équations différentielles linéaires. A la fin
+de 1884, il exposa, pour le développement des fonctions elliptiques en
+séries trigonométriques, une méthode élémentaire qui a suggéré à M. H.
+Poincaré d'intéressantes remarques.
+
+De 1882 à 1891, M. P. APPELL s'est occupé tout particulièrement des
+fonctions elliptiques et des fonctions doublement périodiques de
+deuxième et de troisième espèce, avec ou sans points singuliers
+essentiels. En 1884, 1885 et 1886, il a créé une certaine fonction qui
+sert d'élément simple dans la décomposition des fonctions doublement
+périodiques de troisième espèce; les résultats des recherches qu'il fit
+alors ont été exposés en 1886 par M. G.-A. Halphen dans son _Traité des
+Fonctions elliptiques_[2], après avoir écrit cet éloge: «C'est M. APPELL
+qui, en créant le nouvel élément simple, a conduit cette partie de la
+théorie au plus haut degré de perfection.» Au début de l'année 1890, il
+a publié une méthode _a priori_ pour représenter une fonction elliptique
+par le quotient de deux séries, que l'on peut ensuite ramener aux
+fonctions [Theta] en appliquant un théorème démontré en 1887 par
+M. C. Guichard.
+
+Dans la théorie générale des fonctions d'une variable, M. P. APPELL a
+donné en 1882 et développé en 1883 un théorème, souvent appliqué, sur le
+développement en série d'une fonction holomorphe dans une aire limitée
+par des arcs de cercle. Il s'est occupé, en 1882, des fonctions
+uniformes d'un point sur une surface de Riemann et de leurs diverses
+expressions par l'intégrale de Cauchy, en faisant jouer à l'intégrale
+abélienne de seconde espèce le rôle que joue une certaine fonction dans
+la théorie relative à un seul feuillet; en 1884, il a étendu à ces
+fonctions uniformes des théorèmes dus à Weierstrass et à M. G.
+Mittag-Leffler. Aux recherches précédentes se rattache l'important
+Mémoire que M. P. APPELL a envoyé au Concours ouvert par le roi de Suède
+et de Norvège Oscar II, à l'occasion du 60e anniversaire de sa
+naissance, et qui a obtenu une Médaille d'Or le 21 janvier 1889, à la
+suite d'un élogieux Rapport de Charles Hermite. Après avoir exposé la
+question principale que visait l'Auteur «en entreprenant ces belles et
+profondes recherches où il a montré le plus remarquable talent
+d'invention», Ch. Hermite conclut que «le travail est l'oeuvre d'un
+géomètre de premier ordre et qu'il sera placé au nombre des plus
+importantes productions mathématiques». La recherche des coefficients
+des développements des fonctions abéliennes en séries trigonométriques
+par des formules semblables à celles de Jacobi pour les fonctions
+elliptiques a souvent tenté les géomètres: M. P. APPELL, dans ce
+Mémoire, a donné, pour exprimer ces coefficients, des formules qui
+montrent bien la différence profonde entre les deux problèmes.
+
+Une partie importante de l'oeuvre analytique de M. P. APPELL a pour
+objet l'extension, qui offre souvent de grandes difficultés, à des
+fonctions de deux variables, de propositions et théories relatives aux
+fonctions d'une variable. Il importe de citer, dans cet ordre d'idées,
+les deux extensions suivantes qui ont été faites en 1882 et en 1883:
+d'abord, aux fonctions abéliennes, d'un théorème de Liouville sur les
+fonctions elliptiques; ensuite à une classe particulière de fonctions de
+deux variables, du théorème que M. G. Mittag-Leffler a fait connaître en
+1876 sur les fonctions d'une variable. Après avoir découvert en 1880 les
+fonctions hypergéométriques de deux variables, M. P. APPELL fit l'étude
+analytique générale des équations simultanées aux dérivées partielles
+qui se rencontrent dans la théorie de ces fonctions: à l'aide de ces
+séries, il représenta les polynomes de Ch. Hermite et de nouveaux
+polynomes analogues à ceux de Jacobi; à ces séries, il a rattaché, en
+1883, certaines formules de Hansen et de Tisserand; les polynomes
+correspondants lui ont permis d'étendre, en 1890, aux intégrales doubles
+la méthode de Gauss pour le calcul approché des intégrales simples. Pour
+les fonctions de deux variables quadruplement périodiques de troisième
+espèce, M. P. APPELL démontra, en 1890, que la célèbre relation de
+Riemann entre les périodes subsiste même si la fonction admet des points
+singuliers essentiels. En généralisant sa méthode, exposée en 1890, de
+représentation des fonctions elliptiques, il est parvenu à établir la
+théorie des fonctions de deux variables ayant quatre paires de périodes
+et dépourvues de singularités essentielles: d'abord il a montré _a
+priori_ que ces fonctions s'expriment par le quotient de deux fonctions
+[Theta], puis il en a déduit l'existence d'une relation algébrique entre
+trois de ces fonctions. Ces méthodes peuvent être étendues d'elles-mêmes
+aux fonctions de _n_ variables à 2_n_ groupes de périodes. Enfin dans ce
+même domaine des fonctions [Theta], il a étudié une série d'exponentielles
+dont l'exposant est un polynome du quatrième degré du rang _n_, et en a
+déduit des fonctions de trois variables admettant un groupe de
+substitutions linéaires entières. De ces profondes études il faut
+rapprocher des recherches relatives aux fonctions qui vérifient
+l'équation de Laplace. De 1883 à 1884, M. P. APPELL a établi, pour les
+fonctions harmoniques de trois variables réelles, une théorie qui est
+analogue à celle de la partie réelle des fonctions d'une variable
+complexe; il définit les pôles, les points singuliers essentiels de ces
+fonctions, auxquelles il étend le théorème de M. G. Mittag-Leffler. Il
+fait en particulier une étude des fonctions harmoniques à trois groupes
+de périodes, analogues à la partie réelle d'une fonction elliptique,
+qu'il exprime à l'aide d'un élément analytique construit comme la
+fonction Z de Ch. Hermite et la fonction [zeta] de Weierstrass, élément
+dont il a de nouveau parlé en 1906. En 1884 et en 1886, il a donné des
+applications des fonctions harmoniques à divers problèmes de Physique
+mathématique.
+
+M. P. APPELL a étendu, en 1880 et en 1881, aux équations différentielles
+linéaires et homogènes, les théorèmes relatifs aux fonctions symétriques
+des racines d'une équation algébrique et à la transformation des
+équations algébriques. De 1882 à 1887, il a intégré une classe
+particulière d'équations différentielles linéaires binomes à
+coefficients algébriques et d'équations différentielles linéaires dont
+l'intégrale générale est méromorphe sur une surface de Riemann et dont
+les cycles sont permutables. Puis, dans son Mémoire couronné en 1889, il
+a classé les équations différentielles linéaires à coefficients
+algébriques, dans le cas où l'intégrale générale n'admet, sur une
+surface de Riemann, d'autres singularités que des pôles et des points
+critiques logarithmiques, en généralisant la classification des
+intégrales abéliennes. Aux équations différentielles algébriques et
+homogènes par rapport à la fonction inconnue et à ses dérivées, mais non
+linéaires, il a montré que l'on peut étendre la théorie des invariants,
+d'abord en 1887, quand ces équations sont du premier ordre et
+définissent la dérivée comme fonction rationnelle de l'inconnue, puis,
+en 1889, quand elles sont du second ordre, homogènes et du second degré
+par rapport à la fonction inconnue et à ses dérivées première et
+seconde. Dans le domaine des équations différentielles aux dérivées
+partielles, il importe de citer l'extension, publiée en 1880, d'un
+théorème de Fuchs aux équations simultanées généralisant celles de la
+théorie des fonctions hypergéométriques ainsi que l'intégration, en
+1882, d'une équation dont un cas particulier avait été rencontré par
+Euler dans ses recherches relatives à la propagation du son.
+
+Le principal travail de M. P. APPELL en Géométrie infinitésimale est une
+étude approfondie du problème des déblais et des remblais, traité
+d'abord par Monge, proposé par l'Académie des Sciences comme question de
+Concours pour le prix Bordin. Le Mémoire que M. P. APPELL présenta fut
+couronné le 21 décembre 1885, conformément aux conclusions d'un beau
+Rapport de M. Gaston Darboux, qui s'exprime ainsi au cours d'une analyse
+remplie de précieux renseignements historiques: «C'est un travail de
+haute valeur où sont employés, alternativement et avec le plus grand
+succès, les ressources de la Géométrie et les méthodes de l'Analyse
+moderne».
+
+M. P. APPELL fut amené par ses fonctions à faire une étude approfondie
+de la Mécanique rationnelle. Un théorème curieux, publié en décembre
+1878 et relatif à l'interprétation des valeurs imaginaires du temps, lui
+permit de déduire d'une même intégration les deux mouvements que prend
+un système sous l'action de deux champs de force, égaux et de sens
+opposés. Dans une Note et un Mémoire, parus en 1886 et en 1888, il a
+ramené l'intégration des équations du mouvement d'un fil flexible et
+inextensible dans un plan à l'intégration d'une équation aux dérivées
+partielles du quatrième ordre. Le 4 février 1889, M. P. APPELL a, le
+premier, proposé d'employer en Mécanique la méthode, si féconde en
+Géométrie, de transformation des figures par projection centrale. Ses
+travaux poursuivis en 1890, 1892 et 1895 ont suggéré les recherches de
+plusieurs géomètres, notamment de MM. E. Goursat, Paul Painlevé, P.
+Staeckel et S. Dautheville. Enfin, en 1890 et en 1892, il a établi, dans
+la théorie de la chaleur, des propositions ayant pour but principal la
+recherche, quand elle est possible, des états antérieurs.
+
+       *       *       *       *       *
+
+Toutes ces remarquables recherches attirèrent l'attention de l'Académie
+des Sciences; M. P. APPELL, après avoir obtenu le prix Bordin en 1885
+pour son Mémoire sur les déblais et les remblais, les prix Poncelet en
+1887 et Petit d'Ormoy en 1889 pour l'ensemble de ses travaux, fut élu,
+le 7 novembre 1892, membre de ce corps savant, dans la Section de
+Géométrie. Pendant les années qui suivirent cette élection, il continua
+ses recherches en Analyse pure et en Analyse appliquée à la Mécanique.
+
+       *       *       *       *       *
+
+On sait quelle est l'importance du problème de l'inversion des
+intégrales simples: en 1897, M. P. APPELL a montré comment on peut
+définir le problème de l'inversion des intégrales doubles et multiples,
+par la considération d'un champ d'intégration dépendant de plusieurs
+paramètres variables.
+
+Les équations de Lagrange ne sont applicables qu'aux systèmes, dits
+_holonomes_, dont les liaisons s'expriment en termes finis. M. P. APPELL
+a donné, le 28 août 1899, une autre forme générale des équations de la
+Dynamique s'appliquant à tous les systèmes sans frottement, holonomes ou
+non, et reposant sur l'emploi de l'énergie d'accélération à la place de
+l'énergie de vitesse. Les études, publiées en 1903 et en 1909, sur les
+fonctions ayant des significations indépendantes du choix des axes,
+l'ont conduit à d'importants résultats relatifs aux fonctions et aux
+vecteurs de points en Hydrodynamique et au problème du mouvement d'un
+fil. Au Congrès des Sociétés savantes, en 1910, il a donné une équation
+fonctionnelle pour l'équilibre d'une masse liquide en rotation et
+soumise à l'attraction newtonienne. La question du problème de
+l'extinction du frottement, dans le cas d'un système matériel présentant
+certains caractères réalisés dans la plupart des systèmes usuels, a été
+signalée par M. P. APPELL dans un Discours prononcé, le 4 août 1905, au
+Congrès tenu à Cherbourg par l'Association Française pour l'Avancement
+des Sciences; puis résolue d'une manière précise dans deux Notes, parues
+en 1907, qui peuvent être regardées comme le point de départ
+d'intéressantes recherches se rapportant à la Mécanique et à la
+Physique. Il convient de signaler encore les extensions, faites en 1892
+et en 1893, des équations de Lagrange au cas où il y a frottement et à
+la théorie du choc et des percussions; l'intégration, faite en 1899, des
+équations du mouvement d'un corps pesant de révolution roulant par une
+arête circulaire sur un plan horizontal; les recherches, publiées en
+1899 et en 1904, sur l'équilibre d'un flotteur avec un chargement
+liquide et sur la théorie d'un appareil à déterminer la position et la
+masse des balourds. Tous ces travaux de M. P. APPELL ont trouvé leur
+place dans son _Traité de Mécanique rationnelle_, dont la publication a
+été commencée en 1893: les diverses éditions des trois volumes de cet
+Ouvrage, qui est très apprécié, sont analysées au début de la IVe
+Section de cet Opuscule.
+
+       *       *       *       *       *
+
+Le 1er avril 1903, M. P. APPELL fut élu Doyen de la Faculté des
+Sciences de l'Université de Paris et, en 1904, membre du Conseil
+supérieur de l'Instruction publique; de plus, il fait partie de la
+section permanente de ce Conseil. Ces fonctions absorbantes l'ont
+contraint à consacrer la plus grande partie de son activité à l'étude
+des questions relatives à l'organisation de l'Enseignement supérieur en
+France. Ses idées sur l'éducation et les études sont exposées dans
+plusieurs Discours et Articles, et, plus particulièrement, d'abord dans
+la Conférence sur l'Enseignement supérieur des Sciences, qu'il a faite,
+en février 1904, à l'École des hautes études sociales et qui a été
+suivie d'une intéressante discussion résumée par M. Clément Colson;
+ensuite dans un long Rapport que la Commission interministérielle des
+Grandes Écoles approuva en juillet 1904 et dont les diverses résolutions
+ont été appliquées dans les Programmes de l'Enseignement secondaire. En
+outre, depuis 1906, M. P. APPELL s'est efforcé d'établir des relations
+cordiales et suivies entre les milieux savants Nationaux et Américains,
+en sa qualité de Président du Conseil de direction du Groupement des
+Universités et Grandes Écoles de France pour les rapports avec
+l'Amérique latine.
+
+       *       *       *       *       *
+
+M. PAUL APPELL a une attitude bienveillante et une physionomie ouverte
+qui inspirent la confiance absolue et qui engagent à s'ouvrir
+complètement à lui. Comme il possède l'art de dénouer les liens d'une
+affaire compliquée, il rend, pour les questions administratives les plus
+délicates, de grands services aux Conseils et aux Ministères qui
+sollicitent son avis. Lorsqu'il enseigne, il expose avec tant de clarté
+les points les plus difficiles des théories que ses auditeurs, en
+sortant du cours, se croient capables de répéter, immédiatement et sans
+embarras, les explications qu'ils ont entendues. Aimant la jeunesse
+laborieuse et gaie, il accueille toujours avec cordialité les étudiants
+qui viennent demander un renseignement ou un conseil. Il a beaucoup lu:
+toutes les productions de l'esprit l'intéressent. En Sciences, hors de
+l'Analyse et de la Mécanique qui sont l'objet de ses recherches
+favorites, il s'occupe tout spécialement de Géologie et d'Astronomie.
+
+La vie de M. PAUL APPELL a toujours été d'une extrême simplicité, en
+rapport avec les traditions alsaciennes; on peut dire qu'elle a été
+partagée entre deux sentiments: l'amour du travail et de l'action
+scientifique, le désir passionné de voir de nouveau réunies sa grande et
+sa petite patrie, la France et l'Alsace. Tous les ans, pendant les
+grandes vacances, il va se reposer et songer dans le pittoresque pays
+alsacien où son enfance s'est écoulée heureuse, dans les forêts des
+Vosges dont il a pénétré le charme grave et profond, en chassant avec
+son malheureux frère, et qu'il aime maintenant à parcourir en promeneur
+et à faire connaître à ses amis de France.
+
+    E. L.
+
+
+NOTES.
+
+[1] CHARLES APPELL est né à Strasbourg le 20 avril 1842, place
+Saint-Étienne, dans la maison appelée le _Ritterhus_. Il a été arrêté le
+27 janvier 1888, condamné le 9 juillet 1888 à 1 an de prison, 9 ans de
+forteresse et à 10 260 marks de frais de justice. Mis en liberté le 20
+décembre 1896, un an avant l'expiration de sa peine, il est mort le 22
+mars 1905. Le Musée de Strasbourg contient son portrait dû au peintre
+Alsacien BEYER. On trouve de nombreux détails sur la vie de CHARLES
+APPELL dans les Journaux suivants:
+
+_Journal d'Alsace-Lorraine_, Strasbourg, 23 et 25 mars 1905; 27 mars
+1905, petite édition du Lundi (avec un portrait),
+
+_Strassburger Bürger-Zeitung_, 23 mars 1905.
+
+_Le Messager d'Alsace_, Paris, 60, rue de La Rochefoucauld, 25 mars 1905
+(avec un portrait), 1er avril, 8 avril (avec un portrait), 15 avril
+1905 (avec l'Arrêt de la Haute-Cour de Leipzig).
+
+_Le Temps_, Paris, 24 mars 1905.
+
+_L'Écho de Paris_, Paris, 27 mars 1905.
+
+[2] _Traité des Fonctions elliptiques et de leurs Applications_, par
+G.-H. HALPHEN, Paris G.-V., 1re P., 1886, gr. in-8, p. 468-483.
+
+
+GRADES. FONCTIONS. TITRES HONORIFIQUES. PRIX. DÉCORATIONS.
+
+PAUL-ÉMILE APPELL,
+
+Né à Strasbourg (Bas-Rhin, France) le 27 septembre 1855.
+
+
+Élève au Collège SAINT-ARBOGAST, à Strasbourg, de 1864-1868.
+
+Élève au petit Séminaire de Strasbourg, pendant l'année scolaire
+1868-1869.
+
+Élève au Lycée de Strasbourg, pendant l'année scolaire 1869-1870.
+
+Élève en Mathématiques spéciales au Lycée de Nancy, pendant l'année
+scolaire 1872-1873.
+
+Bachelier ès Lettres, _reçu_ à Nancy, le 9 novembre 1871.
+
+Bachelier ès Sciences, _reçu_ à Nancy, le 14 novembre 1871.
+
+_Admis le second_ à l'École Normale supérieure, Section des Sciences, le
+11 août 1873 et le _troisième_ à l'École Polytechnique, le 14 octobre
+1873.
+
+Élève à l'École Normale supérieure, Section des Sciences, pendant la
+période triennale d'octobre 1873 à août 1876.
+
+Licencié ès Sciences mathématiques, _reçu_ le 8 juillet 1875.
+
+Licencié ès Sciences physiques, _reçu_ le 25 juillet 1875.
+
+Docteur ès Sciences mathématiques de la Faculté des Sciences de Paris,
+_reçu_ le 20 juin 1876.
+
+Agrégé des Sciences mathématiques, _reçu le premier_ le 8 septembre
+1876.
+
+
+_Chargé_ des fonctions de répétiteur d'Analyse et de Mécanique à l'École
+pratique des Hautes-Études, Section des Sciences mathématiques, le 14
+septembre 1876.
+
+Maître de Conférences de Mathématiques à la Faculté des Sciences de
+Paris, du 1er mars 1878 à la fin de l'année scolaire 1878-1879.
+
+_Chargé_ du Cours de Mécanique rationnelle et appliquée à la Faculté des
+Sciences de Dijon, du 11 novembre 1879 au 25 octobre 1881.
+
+Suppléant de M. BRIOT à l'École Normale supérieure pour les Conférences
+de Mécanique et d'Astronomie pendant l'année scolaire 1881-1882.
+
+_Chargé_, à la Faculté des Sciences de Paris, de Conférences
+préparatoires à l'Agrégation des Sciences mathématiques, du 16 décembre
+1881 au 15 mars 1883.
+
+Maître de Conférences de Mécanique et d'Astronomie à l'École Normale
+supérieure, _nommé_ le 17 octobre 1882.
+
+Suppléant de M. V. PUISEUX à la Faculté des Sciences de Paris pour le
+Cours d'Astronomie mathématique et de Mécanique céleste, pendant le
+second semestre de l'année scolaire 1882-1883.
+
+_Autorisé_ à se faire suppléer par M. E. PICARD à l'École Normale
+supérieure, pour les Conférences de Mécanique et d'Astronomie, du 25
+février 1883 au 30 novembre 1885.
+
+_Chargé_ du Cours de Mécanique rationnelle à la Faculté des Sciences de
+Paris, le 10 novembre 1883.
+
+Professeur de Mécanique rationnelle à la Faculté des Sciences de Paris,
+_depuis_ le 23 novembre 1885.
+
+M. P. APPELL, professeur de Mécanique rationnelle à la Sorbonne, et M.
+P. PAINLEVÉ, professeur de Mathématiques générales à la Sorbonne, _ont
+été autorisés_ à échanger leur enseignement du 19 octobre 1903 au 1er
+novembre 1910.
+
+Membre de la Commission de patronage de l'École pratique des
+Hautes-Études, Section des Sciences mathématiques, _depuis_ le 16
+janvier 1901.
+
+Doyen de la Faculté des Sciences de l'Université de Paris, _depuis_ le
+1er avril 1903.
+
+Membre du Conseil académique de Paris et du Conseil de l'Université de
+Paris, au titre de Doyen de la Faculté des Sciences, _depuis_ le 1er
+avril 1903.
+
+Membre du Conseil supérieur de l'Instruction publique, _délégué_ par les
+Facultés des Sciences, _depuis_ le 31 mai 1904. Membre de la Section
+permanente de ce Conseil _depuis_ le 21 juin 1904.
+
+
+_Chargé_ de Conférences de Mathématiques à l'École Normale supérieure
+d'Enseignement secondaire pour les Jeunes Filles, à Sèvres, _depuis_ le
+13 novembre 1884.
+
+Répétiteur de Mécanique à l'École Polytechnique, _nommé_ auxiliaire le
+1er décembre 1890, _nommé_ adjoint le 30 mai 1895. Démissionnaire le
+31 janvier 1909.
+
+Examinateur d'Admission à l'École Centrale des Arts et Manufactures,
+session de 1894.
+
+Professeur d'Analyse mathématique à l'École Centrale des Arts et
+Manufactures, _depuis_ le 1er novembre 1895.
+
+Président du Jury d'Agrégation des Sciences mathématiques de 1894 à
+1903.
+
+Président du Jury d'Agrégation de Mathématiques de l'Enseignement
+secondaire des Jeunes Filles, _depuis_ 1904.
+
+
+Membre de l'Académie des Sciences (Institut national de France), à
+Paris, _élu_, dans la Section de Géométrie, le 7 novembre 1892.
+
+
+Membre étranger de l'Académie royale des Lincei, à Rome, _élu_ le 17
+juillet 1904.
+
+
+Membre de la Société Philomathique de Paris, _élu_ le 9 mars 1878.
+Membre correspondant du 11 novembre 1879 au 31 décembre 1898.
+
+Membre associé de l'Académie de STANISLAS, à Nancy, _élu_ le 22 janvier
+1904.
+
+
+Docteur _honoris causâ_ en Mathématiques de l'Université royale
+Frédéricienne de Christiania, _élu_ le 6 septembre 1902.
+
+
+Au Ministère de l'Instruction publique:
+
+    Membre du Comité des Travaux historiques et scientifiques, _nommé_
+    le 7 mars 1893.
+
+    Membre du Comité consultatif des Sciences, _depuis_ le 1er mai
+    1903.
+
+    Membre de la Commission relative au Baccalauréat de l'Enseignement
+    secondaire, _nommé_ le 6 juillet 1904.
+
+    Membre du Conseil des Observatoires de province, _depuis_ sa
+    création le 15 février 1907.
+
+    Membre de la Commission chargée d'élaborer un projet de statut pour
+    le personnel auxiliaire (chef des travaux et préparateurs) et le
+    personnel subalterne (mécaniciens et garçons) des Facultés, _nommé_
+    15 mars 1910.
+
+
+A l'Université de Paris:
+
+    Membre du Conseil de l'Observatoire de Nice, _depuis_ le 1er
+    avril 1903.
+
+    Vice-Président du Conseil de perfectionnement de l'Institut
+    aérotechnique, _depuis_ mars 1910.
+
+
+Membre de la Commission des Inventions intéressant les Armées de terre
+et de mer, au Ministère de la Guerre, _nommé_ le 14 juin 1894.
+
+Membre de la Commission d'Aéronautique, à l'Académie des Sciences, _élu_
+le 27 octobre 1902.
+
+Membre du Conseil de perfectionnement de l'École Polytechnique,
+_délégué_ du Ministère de l'Instruction publique, le 1er novembre
+1907.
+
+
+Membre du Comité de rédaction des _Annales scientifiques de l'École
+Normale supérieure_, _depuis_ janvier 1882.
+
+Directeur de la Section de Mécanique dans l'Édition Française de
+l'_Encyclopédie des Sciences mathématiques pures et appliquées_,
+_depuis_ 1904.
+
+
+Président de la Société mathématique de France, en 1885.
+
+Membre du Conseil d'Administration de l'Association amicale de Secours
+des anciens Élèves de l'École Normale supérieure, _élu_ le 11 janvier
+1891. Vice-Président de ce Conseil de 1900 à 1906. Président de ce
+Conseil de 1906 à 1908. Administrateur Honoraire _depuis_ 1908.
+
+Vice-Président du Congrès des Mathématiciens, tenu à Paris du 6 au 12
+août 1900.
+
+Vice-Président de la Société astronomique de France, à Paris, du 5 avril
+1905 au 1er avril 1908.
+
+Président de l'Association Française pour l'Avancement des Sciences et
+du Conseil d'Administration, du 6 août 1907 au 8 août 1908. _Élu_
+Vice-Président le 7 août 1906. _Élu_ Membre de la Commission permanente
+de Publication le 8 août 1908.
+
+Président du Comité de direction du Groupement des Universités et
+Grandes Écoles de France pour les Rapports avec l'Amérique latine,
+_depuis_ janvier 1907.
+
+Président d'honneur de la Section Française de la Commission
+internationale de l'Enseignement mathématique, _élu_ le 1er mars
+1909.
+
+Vice-Président du Comité de direction de l'Office national des
+Universités et Écoles Françaises, _élu_ le 15 juillet 1910.
+
+
+Membre honoraire de la Société mathématique de Kharkow, _élu_ le 12
+octobre 1903 (v. s.).
+
+Membre honoraire de la Société de Littérature et de Philosophie de
+Manchester, _élu_ le 17 avril 1894.
+
+Membre honoraire de la Société mathématique de Calcutta, _élu_ le 28
+janvier 1910.
+
+
+Médaille d'Or dans le Concours international institué par S. M. le Roi
+de Suède et de Norvège OSCAR II, à l'occasion du 60e anniversaire de sa
+naissance, _décernée_ le 21 janvier 1889.
+
+_Décerné_ par l'Académie des Sciences de l'Institut national de France:
+
+    Prix BORDIN (Géométrie), le 21 décembre 1885.
+
+    Prix PONCELET, le 26 décembre 1887.
+
+    Prix PETIT D'ORMOY, le 30 décembre 1889.
+
+
+Officier d'Académie, _nommé_ le 23 avril 1881.
+
+Officier de l'Instruction publique, _nommé_ le 30 décembre 1886.
+
+Chevalier de la Légion d'honneur, _nommé_ le 4 mars 1889.
+
+Officier de la Légion d'honneur, _promu_ le 31 décembre 1895.
+
+Commandeur de la Légion d'honneur, _promu_ le 30 novembre 1904.
+
+
+Chevalier de l'Étoile Polaire de Suède, _nommé_ le 12 avril 1884.
+
+
+
+
+SECTION II.
+
+ANALYSE MATHÉMATIQUE.
+
+
+    RAPPORT DE M. CHARLES HERMITE SUR LE MÉMOIRE PRÉSENTÉ PAR M. PAUL
+    APPELL AU CONCOURS OUVERT PAR S. M. LE ROI DE SUÈDE ET DE NORVÈGE
+    OSCAR II, ET RÉCOMPENSÉ D'UNE MÉDAILLE D'OR LE 21 JANVIER 1889.
+
+Les expressions des fonctions elliptiques par des séries simples de
+sinus et de cosinus, telles que les donne la formule de FOURIER, ont, à
+bien des points de vue, une grande importance en Analyse. Elles ont été
+employées avec succès et jouent un rôle important dans beaucoup
+d'applications du calcul à la Physique et à l'Astronomie. Elles ont
+conduit JACOBI aux formules si remarquables du § 40 des _Fundamenta_, où
+le grand géomètre, allant au delà des propositions connues de
+l'Arithmétique, obtient le nombre de décompositions d'un entier
+quelconque en 2, 4, 6 et 8 carrés, exprimé au moyen des diviseurs de ce
+nombre. D'autres résultats, d'une nature plus cachée, sur le nombre des
+classes de formes quadratiques de déterminants négatifs, devaient encore
+découler de la même source analytique et mettre dans tout son jour
+l'étroite correspondance des identités de la théorie des fonctions
+elliptiques avec la théorie des nombres. Nous les rappelons
+succinctement pour faire comprendre quelles espérances on avait dû
+concevoir de la découverte mémorable de GÖPEL et ROSENHAIN, lorsqu'on
+eut, sous une forme entièrement semblable à celle des fonctions
+elliptiques, les fonctions quadruplement périodiques de deux variables,
+inverses des intégrales hyperelliptiques de première classe. Assurément
+il était possible de joindre aux expressions de ces nouvelles
+transcendantes, par des quotients de fonctions [Theta], des
+développements en séries simples de sinus et de cosinus; mais la
+détermination effective des coefficients présente les plus grandes
+difficultés et n'a pu jusqu'à présent être abordée. Elle est le
+principal objet du Mémoire dont nous allons analyser les méthodes et les
+résultats.
+
+I. La solution donnée par JACOBI du problème de la rotation d'un corps
+solide autour d'un point fixe, lorsqu'il n'y a pas de forces
+accélératrices, a été l'origine d'une notion analytique importante. Les
+expressions de l'illustre auteur présentent, en effet, dans le cas le
+plus simple, l'exemple de fonctions qui se reproduisent multipliées par
+des constantes lorsqu'on augmente la variable de l'une ou l'autre des
+périodes. On a reconnu qu'elles constituent un nouveau genre de
+fonctions, plus générales que les fonctions doublement périodiques, dont
+le rôle comme élément analytique propre se montre dans beaucoup de
+questions importantes. Elles s'offrent, en particulier, dans la rotation
+d'un corps grave de révolution suspendu par un point de son axe, dans la
+recherche de la figure de l'élastique gauche, dans le mouvement d'un
+corps solide dans un liquide indéfini, lorsqu'il n'y a pas de forces
+accélératrices, etc. Enfin elles donnent une méthode régulière, d'une
+application facile, pour effectuer l'intégration des équations
+différentielles linéaires d'ordre quelconque, à coefficients doublement
+périodiques, dans tous les cas où la solution est une fonction uniforme.
+Sous un autre point de vue, ces transcendantes peuvent encore être
+considérées comme provenant de l'intégrale elliptique la plus générale
+qui aura été mise en exponentielle, en y remplaçant la variable par un
+sinus d'amplitude. On peut aussi ne pas faire ce changement et conserver
+l'intégrale qui, suivant le contour décrit par la variable, est
+susceptible d'une infinité de déterminations. Ces valeurs multiples
+s'obtenant par l'addition de constantes, les expressions dont nous
+parlons auront la propriété de se reproduire, multipliées par des
+facteurs constants, lorsqu'on fait décrire certains chemins à la
+variable. Qu'au lieu de considérer la variable sur un plan unique on
+recoure à la conception de RIEMANN, de manière à remplacer, par une
+fonction à sens unique, affectée de coupures, une expression à
+déterminations multiples, on parvient à une quantité dont les valeurs,
+lorsqu'on passe d'un bord à l'autre de la coupure, se reproduisent
+multipliées par une constante. Nous nous trouvons ainsi amenés à l'idée
+fondamentale de l'auteur, à la notion analytique des nouvelles
+transcendantes, auxquelles il donne la dénomination de fonctions à
+multiplicateurs et dont il établit les propriétés; voici succinctement
+les résultats auxquels il est parvenu.
+
+II. Son point de départ est dans la considération d'une équation
+algébrique de genre _p_, et de la surface correspondante de RIEMANN,
+rendue simplement connexe au moyen de coupures; ce sont les éléments qui
+lui permettent de définir d'une manière complète et précise les
+fonctions à multiplicateurs, d'après les conditions suivantes. Elles
+seront uniformes sur la surface, elles ne présenteront aucune autre
+singularité que des pôles, et elles prendront aux deux bords infiniment
+voisins d'une coupure des valeurs qui ne diffèrent que par des
+multiplicateurs constants. Ceci posé, voici un premier résultat d'une
+grande importance: toutes les fonctions qui satisfont aux conditions
+posées, leurs multiplicateurs étant des constantes données d'avance,
+peuvent s'exprimer au moyen des intégrales normales de troisième espèce
+qui sont attachées à l'équation algébrique. Viennent ensuite plusieurs
+théorèmes; le suivant qui est une généralisation de la proposition
+célèbre d'ABEL, sur les intégrales de différentielles algébriques,
+mérite une attention particulière. Il consiste en ce que la somme des
+valeurs que prend une intégrale abélienne de première espèce, aux zéros
+d'une fonction à multiplicateurs, est égale à la somme des valeurs qui
+correspondent aux infinis de la même fonction, augmentée d'une constante
+dépendant uniquement des multiplicateurs. Après avoir déduit de là
+d'importantes conséquences sur le nombre des constantes arbitraires
+d'une fonction qui a des multiplicateurs et des pôles donnés, l'auteur
+démontre qu'il existe en général _p_-1 relations entre les pôles et les
+résidus d'une fonction à multiplicateurs, et _p_ dans un cas spécial,
+comprenant en particulier celui des fonctions algébriques. Ce cas
+spécial intéressant tient à l'existence d'une fonction sans zéros, ni
+infinis, et qui admet les multiplicateurs donnés.
+
+III. Les intégrales de fonctions à multiplicateurs font ensuite le sujet
+d'une étude approfondie. L'auteur obtient, à leur égard, un ensemble de
+propositions qui correspondent exactement aux théorèmes célèbres de
+RIEMANN sur les intégrales abéliennes. Nous indiquerons, comme exemples,
+leur classification en intégrales de première espèce qui sont toujours
+finies, en intégrales de deuxième espèce n'ayant que des pôles, et en
+intégrales de troisième espèce où s'offrent des infinis logarithmiques.
+Nous citerons encore cette importante proposition, qu'en général il
+existe _p_-1 intégrales de première espèce, linéairement indépendantes,
+et _p_ dans le cas particulier dont il a été question précédemment. Les
+modules de périodicité de ces intégrales, le long des coupures, sont
+liés aux multiplicateurs par des relations qui deviennent identiques
+lorsque les multiplicateurs se réduisent à l'unité et que les intégrales
+deviennent abéliennes. Entre les modules de périodicité de deux
+intégrales de première espèce, à multiplicateurs inverses, existe une
+équation qui coïncide, dans le cas particulier des multiplicateurs égaux
+à l'unité, avec la relation d'une importance capitale découverte par
+RIEMANN, entre les modules de périodicité de deux intégrales abéliennes
+de première espèce. Enfin l'auteur forme les intégrales normales de
+fonctions à multiplicateurs de deuxième et de troisième espèce; il
+établit des relations entre les modules de périodicité de ces
+intégrales et leurs multiplicateurs, puis d'autres entre ces modules et
+ceux d'une intégrale de première espèce aux multiplicateurs inverses.
+L'ensemble de ces résultats rend manifeste l'analogie de la nouvelle
+théorie avec celle des intégrales abéliennes; la différence de nature
+analytique entre les deux genres de quantités apparaît toutefois dans
+cette circonstance, qu'il existe une intégrale de troisième espèce, avec
+un seul infini logarithmique, tandis qu'une intégrale abélienne de
+troisième espèce possède au moins deux infinis de cette nature. En
+dernier lieu, nous signalerons, dans la théorie des intégrales de
+deuxième espèce, ce théorème d'un grand intérêt, que toute fonction à
+multiplicateurs s'exprime par une somme d'intégrales de seconde espèce,
+ayant les mêmes multiplicateurs et devenant chacune infinie en un seul
+point. C'est, comme on le voit, la généralisation de la belle formule de
+RIEMANN-ROCH, qui représente une fonction algébrique quelconque par une
+somme d'intégrales abéliennes de deuxième espèce.
+
+IV. Nous venons d'indiquer rapidement les points les plus essentiels de
+la théorie des fonctions à multiplicateurs. Nous avons montré qu'elle a
+pour première origine les fonctions algébriques, leurs propriétés et
+celles de leurs intégrales, telles que RIEMANN les a fait connaître;
+nous avons montré qu'elles constituent par l'ensemble de leurs
+caractères de nouveaux éléments analytiques où l'on retrouve, dans un
+sens beaucoup plus général, toutes les propriétés des fonctions
+doublement périodiques de deuxième espèce. Il nous faut maintenant
+revenir à la question principale que l'auteur a eue en vue en
+entreprenant ces belles et profondes recherches où il a montré le plus
+remarquable talent d'invention. Son but était d'obtenir les intégrales
+définies réelles qui représentent les coefficients des développements,
+par la formule de FOURIER, des fonctions elliptiques et des fonctions
+abéliennes de deux variables à quatre paires de périodes simultanées. Un
+changement de variables le conduit d'abord à des fonctions à
+multiplicateurs, et, pour le cas des sinus d'amplitude qu'il traite en
+premier lieu, ses principes généraux lui permettent d'obtenir les
+coefficients du développement avec autant de simplicité que d'élégance.
+En appliquant ensuite la même méthode aux transcendantes de GÖPEL et de
+ROSENHAIN, il trouve les coefficients sous la forme d'une fonction
+rationnelle des constantes _p_, _q_, _r_ qui figurent dans les fonctions
+[Theta] à deux variables, multipliée par une intégrale définie où
+entrent deux entiers indéterminés. C'est, pour la théorie des fonctions
+abéliennes, un résultat du plus haut intérêt: il donne la solution d'une
+question restée jusqu'ici inabordable, sous une forme qui permettra d'en
+poursuivre les conséquences; il ouvre la voie pour l'étude approfondie
+des développements par la formule de FOURIER, des fonctions abéliennes,
+et obtenir pour ces fonctions des développements procédant suivant les
+puissances des trois quantités _p_, _q_, _r_. On peut donc attendre de
+voir ainsi se combler une grande lacune dans la théorie de ces
+transcendantes; on peut donc espérer de voir se rétablir, autant que le
+comporte la nature des choses, l'analogie avec les fonctions
+elliptiques, dans ce point d'une importance capitale où elles se lient
+aux propriétés des nombres. Pressé par la date fixée pour le terme du
+concours, l'auteur a dû ajourner ces recherches qui auraient pu devenir
+le couronnement de son beau et savant Mémoire. Mais il a grandement
+accompli sa tâche en posant les fondements d'une théorie qui ajoute au
+domaine de l'Analyse un nouveau genre de fonctions, dont il a encore
+indiqué une autre application importante à l'intégration des équations
+linéaires d'ordre quelconque à coefficients algébriques.
+
+Nous pensons, en résumé, que le travail dont nous venons de faire
+l'exposé est l'oeuvre d'un géomètre de premier ordre, et qu'il sera
+placé au nombre des plus importantes productions mathématiques qui aient
+appelé dans ces dernières années l'attention des analystes.
+
+  Paris, 10 Janvier 1889.
+
+  AM, t. 13, 1890, p. VII-XII.
+
+  _Voir_ la Lettre de M. G. MITTAG-LEFFLER: C R, t. 108, 25 fév. 1889, p.
+  387.
+
+
+OUVRAGES.
+
+=1.= NOTICE SUR LES TRAVAUX SCIENTIFIQUES DE M. PAUL APPELL,
+
+    Rédigée par lui-même à l'appui de sa candidature comme membre de
+    l'Académie des Sciences, dans la Section de Géométrie.
+
+    Paris, G.-V., in-4: 1re éd., 1884, 39 p.; 2e éd., 1889, 83 p.; 3e
+    éd. 1892, in-4, 112 p.
+
+=2.= THÉORIE DES FONCTIONS ALGÉBRIQUES ET DE LEURS INTÉGRALES, _par_
+PAUL APPELL ET ÉDOUARD GOURSAT.
+
+_Étude des Fonctions analytiques sur une surface de_ RIEMANN.
+
+    Paris, G.-V., 1895, gr. in-8, x-530 p.
+
+    Préface de CH. HERMITE: p. _a g._
+
+    Présentation par M. P. APPELL à l'Académie des Sciences: C R, t.
+    120, 18 fév. 1895, p. 362-363.
+
+    Analyse par G. KOENIGS: RO, t. 4, 15 fév. 1893, p. 173-174.
+
+    Analyse par R. LE VAVASSEUR: B S M, 2e s., t. 18, 1re p., nov.
+    1894, p. 242-277.
+
+    Analyse par P. STAECKEL: J F M, Bd. 26, J. 1895, S. 416-425.
+
+    Analyse par ROBERT FRICKE: Z M P, 41. J., 1896, Abt., S. 94-100.
+
+    Analyse par ED. WEYR: C M F, R. 26, 1897, p. 241-246.
+
+    Analyse par C. JUEL: N T M, Afd. B., 8 aa., 1897, p. 91-93.
+
+=3.= PRINCIPES DE LA THÉORIE DES FONCTIONS ELLIPTIQUES ET APPLICATIONS,
+_par_ P. APPELL ET É. LACOUR.
+
+    Paris, G.-V., 1897, gr. in-8, IX-421 p.
+
+    Présentation par M. P. APPELL des fasc. I et II à l'Académie des
+    Sciences: C R, t. 122, 29 juin 1896, p. 1523-1524;--t. 123, 30
+    novembre 1896, p. 932.
+
+    Analyse par J. TANNERY: B S M, 2e s., t. 21, 1re p., fév. 1897, p.
+    50-55.
+
+    Analyse par P. STAECKEL: J F M, Bd. 28, J. 1897, S. 382-383.
+
+    Analyse: M M P, 8. J., 1897, Lit., S. 17-19.
+
+    Analyse par KOYGOWSKI: W M, t. 1, 1897, p. 118-119.
+
+    Analyse par ROBERT FRICKE: Z M P, 43. Bd., 1898, Abt., S. 140-143.
+
+=4.= ÉLÉMENTS D'ANALYSE MATHÉMATIQUE,
+
+    A l'usage des Ingénieurs et des Physiciens.
+
+    Cours professé à l'École Centrale des Arts et Manufactures.
+
+    Paris, G. C. et C. N., 10 août 1898, gr. in-8, VI-720 p.;--G.-V., 2e
+    éd., 1905, gr. in-8, VII-714 p.
+
+    Analyse par A. G. GREENHILL: E M, 1e a., 15 janv. 1899, p. 66-72.
+
+    Analyse par GOMES TEIXEIRA: J S T, v. 13, 1897, p. 167-169.
+
+    Analyse par P. MANSION: R Q S, 2e s., t. 15, avr. 1899, p. 596-603.
+
+    Analyse par C. BOURLET: B S M, 2e s., 1er p., t. 23, juin 1899, p.
+    136-139,--t. 29, avr. 1905, p. 96.
+
+    Analyse: M M P, 10. J., 1899, Lit., S. 32-33.
+
+    Analyse par S. DICKSTEIN: W M, t. 3, 1899, p. 65-67.
+
+    Analyse par M. CANTOR: Z M P, 44. Bd., 1899, Abt., 5 u. 6 Ht., S.
+    153-155.
+
+    Analyse par P. H. SCHOUTE: N A W, T. R., D. 4, 1900, p. 158-160.
+
+    Analyse par H. LIEBMANN: A M P G, d. R., 12. Bd., 1907, S. 81-82.
+
+
+MÉMOIRES. NOTES.
+
+Analyse pure:
+
+=1º Fonctions d'un point analytique.=
+
+=1.= _Sur les intégrales de fonctions à multiplicateurs et leur
+application au développement des fonctions abéliennes en séries
+trigonométriques._
+
+    Ce Mémoire a obtenu, le 21 janvier 1889, la Médaille d'Or accordée
+    par S. M. le Roi de Suède et de Norvège, OSCAR II, à l'occasion du
+    60e anniversaire de sa naissance.
+
+    A M, t. 13, 1890, 174 p.
+
+    Rapport de CH. HERMITE: A M, t. 13, 1890, p. VII-XII.
+
+    Analyse par HURWITZ: J F M, Bd. 22, J. 1890, S. 412-418.
+
+=2. 3.= _Sur les fonctions uniformes d'un point analytique (x, y)._
+
+    C R, t. 94, 13 mars 1882, p. 700-703.
+
+    A M, t. 1, 1882-1883, 2 sept. 1882, p. 109-131, 132-144.
+
+    Analyse par J. TANNERY: B S M, 2e s., t. 8, 2e p., août 1884, p.
+    138-142.
+
+=4.= _Théorèmes sur les fonctions d'un point analytique._
+
+    C R, t. 95, 9 oct. 1882, p. 624-626.
+
+=5.= _Sur une classe de fonctions dont les logarithmes sont des sommes
+d'intégrales abéliennes de première et de troisième espèce._
+
+    C R, t. 92, 18 avr. 1881, p. 960-962.
+
+=6.= _Relations entre les résidus d'une fonction d'un point analytique
+(x, y) qui se reproduit, multipliée par une constante, quand le point
+(x, y) décrit un cycle._
+
+    C R, t. 95, 23 oct. 1882, p. 914-919.
+
+=7.= _Généralisation des fonctions doublement périodiques de seconde
+espèce._
+
+    J L, 3e s., t. 9, janv. 1883, p. 5-24.
+
+    Analyse: B S M, 2e s., t. 9, 2e p., janv. 1885, p. 20-21.
+
+    Analyse par HAMBURGER: J F M, Bd. 15, J. 1883, S. 412-413.
+
+
+=2º Séries. Intégrales définies. Généralités sur les fonctions d' une
+variable.=
+
+=8.= _Sur certaines séries ordonnées par rapport aux puissances d'une
+variable._
+
+    M. P. APPELL donne des exemples de cas où l'on peut reconnaître
+    l'existence d'un pôle ou d'un point critique pour une fonction
+    définie par une série entière, et déterminer la partie principale.
+
+    C R, t. 87, 28 oct. 1878, p. 689-692.
+
+=9.= _Évaluation d'une intégrale définie._
+
+    Les intégrales évaluées par M. P. APPELL dans cette Note portent sur
+    des fonctions hypergéométriques; elles comprennent, en particulier,
+    la réduction de l'intégrale eulérienne de première espèce B(_p_,
+    _q_) aux fonctions [Gamma], et les formules relatives aux polynomes
+    qui naissent de la série hypergéométrique et qui ont été considérés
+    par JACOBI.
+
+     C R, t. 87, 2 déc. 1878, p. 874-876.
+
+=10.= _Sur la série hypergéométrique et les polynomes de_ JACOBI.
+
+    M. P. APPELL indique quelques applications de l'intégrale définie
+    dont il a donné l'expression dans la Note nº =9=.
+
+    C R, t. 89, 7 juil. 1879, p. 31-38.
+
+=11.= _Sur les séries divergentes à termes positifs._
+
+    M. P. APPELL donne divers théorèmes sur les séries divergentes
+    numériques et sur les séries ordonnées par rapport aux puissances
+    d'une variable, généralisant ceux de la Note nº =8=.
+
+    A M P G, 64. Teil, 16 sept. 1879, S. 387-392.
+
+=12.= _Développement en série entière de_ (1 + _ax_)^{1/_x_}.
+
+    A M P G, 65. Teil, 6 janv. 1880, S. 171-175.
+
+    Analyse par HOPPE: J F M, Bd. 12, J. 1880, S. 191-192.
+
+=13.= _Développement en séries trigonométriques des polynomes de_ M.
+LÉAUTÉ.
+
+    N A M, 3e s., t. 16, juin 1897, p. 265-268.
+
+=14.= _Sur une classe de polynomes._
+
+    M. P. APPELL étudie des polynomes P_{_n_}(_x_) de degré _n_ tels
+    que  _d_P_{_n_}
+         --------- = _n_P_{_n_-1}.
+           _dx_
+
+    Ces polynomes forment une classe spéciale comprenant les polynomes
+    que CH. HERMITE a déduits de la différentiation de _e_^{-_x_^{2}} et
+    les polynomes introduits par M. LÉAUTÉ pour le développement d'une
+    fonction dont on connaît les valeurs moyennes des dérivées dans un
+    intervalle. M. APPELL définit en même temps une opération
+    fonctionnelle qui consiste à former le polynome (PQ)_{_n_} obtenu en
+    remplaçant, dans P_{_n_}, chaque puissance _x_^{_k_} par un polynome
+    Q_{_k_}(_x_). Ces polynomes ont été rencontrés par M. PINCHERLE dans
+    diverses recherches (A M B, s. 2, t. 12, 1888, p. 126).
+
+    A S E N, 2e s., t. 9, avr. 1880, p. 119-144.
+
+    Analyse par HAMBURGER: J F M, Bd. 12, J. 1880, S. 342-345.
+
+    Analyse: B S M, 2e s., t. 6, 2e p., janv. 1882, p. 6-9.
+
+=15. 16.= _Développements en série d'une fonction holomorphe dans une
+aire limitée par des arcs de cercle._
+
+    C R, t. 94, 1er mai 1882, p. 1238-1240.
+
+    M A, Bd. 21, 1883, 23 sept. 1882, S. 118-124.
+
+    Analyse par HAMBURGER: J F M, Bd. 15, J. 1883, S. 324-325.
+
+=17.= _Développements en série dans une aire limitée par des arcs de
+cercle._
+
+    A M, t. 1, 1882-1883, p. 145-152.
+
+=18.= _Sur certains développements en série de puissances._
+
+    M. P. APPELL présente des remarques se rapportant aux Notes n^{os}
+    =16= et =17=, sur le degré d'indétermination des coefficients.
+
+    B S M F, t. 11, 1882-1883, 18 fév. 1883, p. 65-71.
+
+=19.= _Définition d'une opération sur les fonctions._
+
+    Cette Note contient la définition d'une opération itérative d'ordre
+    fractionnaire.
+
+    B S P, 7e s., t. 3, 1878-1879, 12 avr. 1879, p. 166.
+
+
+=3º Fonctions périodiques et doublement périodiques d'une variable.
+Périodicité générale.=
+
+=20.= _Sur une méthode élémentaire pour obtenir les développements en
+série trigonométrique des fonctions elliptiques._
+
+    B S M F, t. 13, 1884-1885, 6 déc. 1884, p. 13-18.
+
+    Remarques de M. H. POINCARÉ: B S M F, t. 13, 1884-1885, 20 déc.
+    1884, p. 19-27.
+
+    Analyse: B S M, 2e s., t. 10, 2e p., juin 1886, p. 140-141,
+    141-142.
+
+=21.= _Sur un problème d'interpolation relatif aux fonctions
+elliptiques._
+
+    B S M, 2e s., t. 10, 1re p., mai 1886, p. 109-114.
+
+=22.= _Sur les fonctions elliptiques._
+
+    M. P. APPELL définit les fonctions elliptiques _in abstracto_ et
+    expose leur réduction aux fonctions [Theta]. Cette méthode peut être
+    étendue aux fonctions de deux variables (Voir n^{os} =51= et =52=,
+    p. 28).
+
+    C R, t. 110, 6 janv. 1890, p. 32-34.
+
+=23.= _Sur une expression nouvelle des fonctions elliptiques par le
+quotient de deux séries._
+
+    A J M, v. 14, nº 1, 1892, p. 9-14.
+
+    Analyse par J. HADAMARD: R O, t. 3, 30 nov. 1892, p. 796.
+
+    Analyse par STAECKEL: J F M, Bd. 23, J. 1891, S. 476.
+
+=24.= _Décomposition en éléments simples des fonctions doublement
+périodiques de troisième espèce._
+
+    C R, t. 97, 17 déc. 1883, p. 1419-1422.
+
+=25= à =27.= _Sur les fonctions doublement périodiques de troisième
+espèce._
+
+    Dans le Mémoire nº =25=, M. P. APPELL étudie la décomposition en
+    éléments simples des fonctions doublement périodiques de troisième
+    espèce, et présente des remarques sur certaines fonctions d'un
+    point analytique (_x, y_). Les principaux résultats qu'il
+    démontre se trouvent indiqués dans la Note nº =26=.
+
+    Le Mémoire nº =27= fait suite aux Mémoires n^{os} =25= et =28=.
+
+    _Voir Notice sur_ M. PAUL APPELL, p. 5.
+
+    A S E N, 3e s., t. 1, avril, mai 1884, p. 135-164.
+
+    C R, t. 101, 28 déc. 1885, p. 1478-1480.
+
+    A S E N, 3e s., t. 3, janv., fév. 1886, p. 9-42.
+
+    Analyse du Mémoire nº =25=: B S M, 2e s., t. 9, 2e p., août 1885, p.
+    154-158.
+
+    Analyse par F. MÜLLER de la Note nº =26=: J F M, Bd. 17, J. 1885,
+    S. 409-410.
+
+    Analyse du Mémoire nº =27=: B S M, 2e s., t. 12, 2e p., fév. 1888,
+    p. 18-19.
+
+=28.= _Développements en séries des fonctions doublement périodiques de
+troisième espèce._
+
+    A S E N, 3e s., t. 2, janv. 1885, p. 9-36.
+
+    Analyse par F. MÜLLER: J F M, Bd. 17, J. 1885, S. 409-410.
+
+=29.= _Application du théorème de_ M. MITTAG-LEFFLER _aux fonctions
+doublement périodiques de troisième espèce._
+
+    Dans ce Mémoire, M. P. APPELL donne, du théorème de M.
+    MITTAG-LEFFLER, une application dans laquelle les degrés des
+    polynomes qu'on retranche de la partie principale croissent
+    indéfiniment.
+
+    A S E N, 3e s., t. 2, févr., mars 1885, p. 67-74.
+
+    Analyse par HURWITZ: J F M, Bd. 17, J. 1885, S. 381-383.
+
+=30.= _Quelques exemples de séries doublement périodiques._
+
+    N A M, 3e s., t. 15, mars 1896, p. 126-129.
+
+=31.= _Formation d'une fonction_ F(_x_) _possédant la propriété_
+
+      F[[phi](_x_)]=F(_x_).
+
+   M. P. APPELL généralise le mode de représentation analytique des
+   fonctions périodiques et applique à plusieurs exemples la formule
+   qu'il a obtenue.
+
+   C R, t. 88, 21 avr. 1879, p. 807-810.
+
+=32.= _Sur les fonctions telles que_       [pi]
+                                     F(sin ---- _x_) = (F_x_).
+                                            2
+
+    M. P. APPELL applique la méthode qu'il a exposée dans la Note
+    nº =31=, en lui faisant subir quelques légères modifications pour
+    simplifier le calcul.
+
+    C R, t. 88, 19 mai 1879, p. 1022-1024.
+
+=33.= _Sur quelques applications de la fonction_ [Gamma](_x_) _et d'une
+autre fonction transcendante._
+
+    C R, t. 86, 15 avr. 1878, p. 953-956.
+
+=34.= _Sur une classe de fonctions analogues aux fonctions eulériennes
+étudiées par_ M. HEINE.
+
+    C R, t. 89, 17 nov. 1879, p. 841-844.
+
+    Analyse par F. MÜLLER: J F M, Bd. 11, J. 1879, S. 501-503.
+
+=35.= _Sur une classe de fonctions qui se rattachent aux fonctions de_
+M. HEINE.
+
+     C R, t. 89, 15 déc. 1879, p. 1031-1032.
+
+=36.= _Sur une classe de fonctions analogues aux fonctions eulériennes._
+
+    Dans ce Mémoire, M. P. APPELL développe les considérations qu'il a
+    présentées dans les Notes n^{os} =33= à =35=. Il étudie en
+    particulier des relations fonctionnelles, renfermant des fonctions
+    [Theta], ou des fonctions elliptiques, dans lesquelles interviennent
+    _trois_ périodes.
+
+    M A, Bd. 19, 1882, août 1881, S. 84-102.
+
+=37.= _Sur les fonctions uniformes doublement périodiques à points
+singuliers essentiels._
+
+    C R, t. 94, 3 avr. 1882, p. 936-938.
+
+
+=4º Fonctions de plusieurs variables. Fonctions abéliennes; fonctions de
+deux variables à deux, trois ou quatre paires de périodes. Fonctions
+hypergéométriques de deux variables. Inversion des intégrales
+multiples.=
+
+=38.= _Sur une classe de fonctions de deux variables indépendantes._
+
+    Dans ce Mémoire, j'étends à une classe particulière de fonctions de
+    deux variables indépendantes _x_ et _y_ les théorèmes de MM.
+    WEIERSTRASS et MITTAG-LEFFLER sur les fonctions d'une seule
+    variable. J'applique ensuite les théorèmes généraux ainsi obtenus à
+    la formation de certaines fonctions simplement périodiques de deux
+    variables.  P. A.
+
+    M. G. MITTAG-LEFFLER a publié son théorème le 7 juin 1876 dans le
+    _Bulletin_ de l'Académie royale des Sciences de Suède (_Öfversigt af
+    ..._); ses recherches successives ont été publiées dans ce
+    _Bulletin_ et dans les _Comptes rendus_ de l'Académie des Sciences
+    de Paris. Il a développé l'ensemble de ses recherches _sur la
+    représentation analytique des fonctions homogènes uniformes d'une
+    variable indépendante_ dans _Acta Mathematica_ (T. 4, 1884, P.
+    1-79).
+
+    Les premières recherches de WEIERSTRASS se trouvent dans son Mémoire
+    intitulé _Zur Theorie der eindentigen analytischen Functionen_ (A A
+    W B, 16 oct. 1876, S. 11). La démonstration qu'il a donnée du
+    théorème de M. MITTAG-LEFFLER est dans le Mémoire intitulé _Ueber
+    einen functionentheoretischen Satz_ des Hernn G. MITTAG-LEFFLER (M A
+    W B, 5 Aug. 1880, S. 707).
+
+    A M, t. 2, 15 mars 1883, p. 71-80.
+
+    Analyse par J. TANNERY: B S M, 2e s., t. 8, 2e p., sept. 1884, p.
+    155-156.
+
+=39.= _Propositions d'Algèbre et de Géométrie déduites de la
+considération des racines cubiques de l'unité._
+
+    M. P. APPELL obtient des fonctions de deux variables à deux paires
+    de périodes liées par une certaine relation algébrique et une
+    infinité de systèmes de surfaces jouissant de propriétés
+    remarquables.
+
+    C R, t. 84, 19 mars 1877, p. 540-543.
+
+=40.= _Sur certaines fonctions analogues aux fonctions circulaires._
+
+    M. P. APPELL fait l'étude de _n_ + 1 fonctions de _n_ variables, à
+    _n_ groupes de périodes, définies par un système d'équations aux
+    différentielles totales; ces fonctions sont liées par une relation
+    algébrique; elles généralisent celle de la Note nº =39=.
+
+    C R, t. 84, 11 juin 1877, p. 1378-1380.
+
+=41.= _Sur des fonctions uniformes de deux points analytiques qui sont
+laissées invariables par une infinité de transformations rationnelles._
+
+    C R, t. 96, 4 juin 1883, p. 1643-1646.
+
+=42.= _Sur un cas de réduction des fonctions_ [Theta] _de deux variables
+à des fonctions_ [theta] _d'une variable._
+
+    C R, t. 94, 13 fév. 1882, p. 421-424.
+
+=43.= _Sur des cas de réduction des fonctions_ [Theta] _de plusieurs
+variables à des fonctions_ [Theta] _d'un moindre nombre de variables._
+
+    B S M F, t. 10, 1881-1882, 3 mars 1882, p. 59-67.
+
+    Analyse par F. MÜLLER: J F M, Bd. 14, J. 1882, S. 405-406.
+
+=44.= _Sur une fonction analogue à la fonction_ [Theta].
+
+    Dans cette Note, il s'agit d'une fonction définie par une série
+    simple d'exponentielles dont l'exposant est un polynome du
+    quatrième degré en _n_. Cette fonction a été étudiée ensuite par M.
+    RIVEREAU (A F S Ma, t. 2, 1892, p. 59).
+
+    A F S Ma, t. 1, 1891, p. 47-52.
+
+=45.= _Exemples de fonctions de plusieurs variables admettant un groupe
+de substitutions linéaires entières._
+
+    M. P. APPELL applique la fonction définie dans la Note nº =44=.
+
+    B S M F, t. 19, 1890-1891, 18 nov. 1891, p. 125-127.
+
+=46.= _Sur les fonctions de_ BERNOULLI _à deux variables._
+
+    Extrait d'une Lettre adressée à M. MARTIN KRAUSE par M. P. APPELL.
+
+    A M P G, d. R., 4 Bd., 9 oct. 1903, S. 292-293.
+
+    Analyse par G. KOWALEWSKI: J F M, Bd. 34, J. 1903, S. 484-485.
+
+=47.= _Sur des fonctions de deux variables à trois ou quatre paires de
+périodes._
+
+    C R, t. 90, 26 janv. 1880, p. 174-176.
+
+=48.= _Sur certaines expressions quadruplement périodiques._
+
+    C R, t. 108, 25 mars 1889, p. 607-609.
+
+=49.= _Sur les fonctions de deux variables à plusieurs paires de
+périodes._
+
+    C R, t. 110, 27 janv. 1890, p. 181-183.
+
+=50.= _Sur les fonctions de deux variables quadruplement périodiques de
+troisième espèce._
+
+    A S E N, 2e s., t. 7, mai 1890, p. 143-154.
+
+    Analyse: B S M, 2e s., t. 16, 2e p., déc. 1892, p. 190-191.
+
+=51. 52.= _Sur les fonctions périodiques de deux variables._
+
+    L'objet de ce travail est l'étude des fonctions méromorphes de deux
+    variables à quatre (ou à trois) paires de périodes. La méthode
+    suivie peut être étendue d'elle-même aux fonctions de _n_
+    variables à 2_n_ groupes de périodes.
+
+    C R, t. 111, 3 nov. 1890, p. 636-638.
+
+    J L, 4e s., t. 7, f. 2, 1891, p. 157-219.
+
+    Analyse par BURKHARDT: J F M, Bd. 23, J. 1891, S. 430-431.
+
+    Analyse par J. HADAMARD: R O, t. 3, 15 juin 1892, p. 419.
+
+=53. 54.= _Sur les fonctions abéliennes._
+
+    C R, t. 94, 26 juin 1882, p. 1702-1704.
+
+    C R, t. 103, 20 déc. 1886, p. 1246-1248.
+
+=55. 56.= _Sur l'inversion des intégrales abéliennes._
+
+    C R, t. 99, 8 déc. 1884, p. 1010-1011.
+
+    J L, 4e s., t. 1, f. 3, 1885, p. 245-279.
+
+    Analyse par DYCK: J F M, Bd. 17, J. 1885, S. 473-475.
+
+=57.= _Formes des intégrales abéliennes des diverses espèces._
+
+    A F S T, t. 7, 1893, p. A.5-A.8.
+
+=58.= _Sur les fonctions abéliennes considérées comme fonctions
+algébriques de fonctions d'une variable._
+
+    Ce Mémoire est inséré dans le premier des deux Tomes des _Acta
+    Mathematica_ imprimés NIELS HENRICK ABEL _in Memoriam_.
+
+    A M, t. 26, 8 juil. 1902, p. 249-253.
+
+    Analyse par STAECKEL: J F M, Bd. 33, J. 1902, S. 442-443.
+
+=59.= _Sur les séries hypergéométriques de deux variables, et sur des
+équations différentielles linéaires aux dérivées partielles._
+
+    Je définis quatre séries ordonnées suivant les puissances positives
+    croissantes de deux variables, qui se rattachent à la célèbre série
+    de GAUSS, comme les fonctions [Theta] de deux variables de GÖPEL et
+    de ROSENHAIN se rattachent aux fonctions [Theta] d'une variable
+    d'ABEL et de JACOBI.  P. A.
+
+    C R, t. 90, 16 févr. 1880, p. 296-298.
+
+=60.= _Sur la série_ F_{3}([alpha, alpha', beta, beta', gamma], _x_, _y_).
+
+    Cette série, qui a été définie dans la Note nº =59=, peut être
+    représentée par une intégrale définie semblable à celle dont JACOBI
+    s'est occupé (J C, t. 56, 1859, S. 149).
+
+    C R, t. 90, 26 avr. 1880, p. 977-979.
+
+=61.= _Sur quelques formules relatives aux fonctions hypergéométriques
+de deux variables._
+
+    C R, t. 91, 16 août 1880, p. 364-368.
+
+=62.= _Sur des polynomes de deux variables analogues aux polynomes de_
+JACOBI.
+
+    A M P G, 66. Teil, 1881, 26 oct. 1880, S. 238-245.
+
+    Analyse par HOPPE: J F M, Bd. 13, J. 1881, S. 389-390.
+
+=63.= _Sur les fonctions hypergéométriques de deux variables._
+
+    Ce Mémoire a été présenté à l'Académie dans la séance du 29 mars
+    1880; je lui ai fait subir quelques modifications, afin d'y faire
+    rentrer les résultats que j'ai obtenus depuis et qui ont été
+    indiqués dans deux Notes présentées à l'Académie le 26 avril et 16
+    août 1880.  P. A.
+
+    J L, 3e s., t. 8, mai, juin 1882, p. 173-216.
+
+    Analyse: B S M, 2e s., t. 9, 2e p., janv. 1885, p. 14-15.
+
+=64.= _Sur certaines formules de_ HANSEN _et de_ M. TISSERAND.
+
+    M. P. APPELL trouve que la valeur d'un certain coefficient est
+    exprimée par un polynome hypergéométrique de deux variables, ce
+    polynome étant formé avec une des fonctions qu'il définit dans la
+    Note nº =59=.
+
+    C R, t. 97, 12 nov. 1883, p. 1036-1039.
+
+=65.= _Sur une formule de_ M. TISSERAND _et sur les séries
+hypergéométriques de deux variables._
+
+    M. P. APPELL applique, à des questions étudiées par TISSERAND, M.
+    RADAU et CALLANDREAU, les résultats qu'il a donnés dans le Mémoire
+    nº =63= et dans la Note nº =64=.
+
+    J L, 3e s., t. 10, déc. 1884, p. 407-428.
+
+    Analyse: B S M, 2e s., t. 10, 2e p., nov. 1886, p. 225-226.
+
+    Analyse par WANGERIN: J F M, Bd. 16, J. 1884, S. 454-455.
+
+=66.= _Les polynomes d'_HERMITE _rattachés aux polynomes de_ LEGENDRE.
+
+    A S A P P, v. 5, nº 2º, 1910, p. 65-68.
+
+=67.= _Quelques propriétés des polynomes_ U_{_m, n_} _d'_HERMITE _et des
+polynomes_ X_{_n_} _de_ LEGENDRE.
+
+    A S A P P, v. 5, nº 4º, 1910, p. 209-212.
+
+=68.= _Sur une classe de polynomes à deux variables et le calcul
+approché des intégrales doubles._
+
+    M. P. APPELL étend aux intégrales doubles la méthode que GAUSS a
+    fondée sur les propriétés des polynomes de LEGENDRE pour le calcul
+    approché des intégrales simples.
+
+    A F S T, t. 4, 1890, p. H.1-H.20.
+
+    Analyse par R. LE VAVASSEUR: B S M, 2e s., t. 28, 2e p., janv. 1894,
+    p. 12-14.
+
+    Analyse par F. MÜLLER: J F M, Bd. 22, J. 1890, S. 299-300.
+
+=69. 70.= _Sur un mode d'inversion des intégrales multiples._
+
+    B S M F, t. 25, 20 janv. 1897, p. 10.
+
+    C R, t. 124, 1er fév. 1897, p. 213-214.
+
+=71.= _Exemples d'inversion d'intégrales doubles._
+
+    A J M, v. 19, nº 4, 1897, p. 377-380.
+
+
+=5º Équations différentielles ordinaires. Invariants.=
+
+=72.= _Sur des polynomes satisfaisant à une équation différentielle du
+troisième ordre._
+
+    M. P. APPELL applique, dans cette Communication, un théorème qu'il
+    a démontré dans la Note nº =8=, p. 22.
+
+    A F A S, 8e Session, Montpellier, 3 sept. 1879, p. 257-260.
+
+=73.= _Sur certaines équations différentielles linéaires contenant un
+paramètre variable._
+
+    A F A S, 8e Session, Montpellier, 3 sept. 1879, p. 253-257.
+
+=74.= _Intégration de certaines équations différentielles à l'aide des
+fonctions_ [Theta].
+
+    M. P. APPELL tire des conséquences remarquables du théorème de
+    RIEMANN sur les zéros des fonctions [Theta] de plusieurs variables.
+
+    C R, t. 90, 24 mai 1880, p. 1207-1210.
+
+=75.= _Sur les équations différentielles linéaires à une variable
+indépendante._
+
+    C R, t. 90, 21 juin 1880, p. 1477-1479.
+
+=76.= _Sur la transformation des équations différentielles linéaires._
+
+    C R, t. 90, 26 juil. 1880, p. 211-214.
+
+=77.= _Sur les équations différentielles linéaires._
+
+    M. P. APPELL signale, pour les équations différentielles linéaires,
+    des propriétés analogues à celles des fonctions symétriques des
+    racines d'une équation algébrique et à la transformation des
+    équations algébriques.
+
+    C R, t. 91, 26 oct. 1880, p. 684-685.
+
+=78.= _Sur une classe d'équations différentielles linéaires._
+
+    Se plaçant à un certain point de vue, M. P. APPELL généralise les
+    recherches de M. CH. HERMITE sur l'équation de LAMÉ (C R, t. 86,
+    1878, p. 850), celles de MM. E. PICARD et MITTAG-LEFFLER sur les
+    équations différentielles linéaires à coefficients doublement
+    périodiques (C R, t. 90, 1880, p. 293-299) et celles de FUCHS sur
+    certaines équations différentielles linéaires (J L, t. 4, 1878, p.
+    125). M. P. APPELL considère des équations différentielles dont
+    l'intégrale générale n'a que des pôles sur la surface de RIEMANN et
+    dont les substitutions fondamentales sont permutables.
+
+    C R, t. 91, 13 déc. 1880, p. 972-974.
+
+    Analyse: B S M, 2e s., t. 5, 2e p., janv. 1881, p. 21-22.
+
+=79.= _Sur une classe d'équations différentielles linéaires dont les
+coefficients sont des fonctions algébriques de la variable
+indépendante._
+
+    M. P. APPELL résume un Mémoire où se trouvent développées des
+    propositions contenues dans la Note nº =78=.
+
+    C R, t. 92, 10 janv. 1881, p. 61-63.
+
+=80.= _Sur une classe d'équations différentielles linéaires à
+coefficients doublement périodiques._
+
+    C R, t. 92, 25 avr. 1881, p. 1005-1008.
+
+=81.= _Sur une classe d'équations différentielles linéaires à
+coefficients algébriques._
+
+    Ces équations sont celles dont l'intégrale générale n'admet, sur une
+    surface de RIEMANN, d'autres singularités que des pôles et des
+    points critiques logarithmiques. M. P. APPELL les classe en
+    équations de 1re, 2e, 3e espèce d'après des caractères analogues à
+    ceux qui servent à classer les trois espèces d'intégrales
+    abéliennes.
+
+    A M, t. 13, 1890, 21 janv. 1889, p. 163-174.
+
+=82.= _Sur des équations différentielles linéaires dont les intégrales
+vérifient des relations de la forme_ F[[phi](_x_)] = [psi](_x_)F(_x_).
+
+    M. P. APPELL, qui a publié deux Notes sur les fonctions F(_x_)
+    satisfaisant à une relation de la forme F[[phi](_x_)] = F(_x_),
+    montre que ces fonctions et les fonctions plus générales de la
+    forme F[[phi](_x_)] = [psi](_x_)F(_x_) se présentent dans
+    l'intégration de certaines équations différentielles linéaires, et
+    en particulier dans l'intégration des équations du second ordre.
+
+    C R, t. 93, 7 nov. 1881, p. 699-701.
+
+    Analyse: B S M, 2e s., t. 6, 2e p., janv. 1882, p. 31-32.
+
+    Analyse par HAMBURGER: J F M, Bd. 13, J. 1881, S. 253-254.
+
+=83.= _Mémoire sur les équations différentielles linéaires._
+
+    Le résumé de ce Mémoire se trouve dans la Note nº =77=.
+
+    A S E N, 2e s., t. 10, nov., déc. 1881, p. 391-424.
+
+    Analyse: B S M, 2e s., t. 6, 2e p., déc. 1882, p. 269-274.
+
+    Analyse par HAMBURGER: J F M, Bd. 13, J. 1881, S. 254-255.
+
+=84. 85.= _Sur une classe d'équations différentielles linéaires binomes
+à coefficients algébriques._
+
+    C R, t. 94, 30 janv. 1882, p. 203-205.
+
+    A S E N, 2e s., t. 12, janv., fév. 1883, p. 9-46.
+
+    Analyse: B S M, 2e s., t. 8, 2e p., avr. 1884, p. 59-61.
+
+    Analyse par HAMBURGER: J F M, Bd. 15, J. 1883, S. 246-247.
+
+=86.= _Sur les fonctions uniformes affectées de coupures et sur une
+classe d'équations différentielles linéaires._
+
+    C R, t. 96, 9 avr. 1883, p. 1018-1020.
+
+=87.= _Sur des équations linéaires intégrables à l'aide de la fonction_
+[chi]_{_m_}(_x, y_).
+
+    M. P. APPELL indique une équation différentielle linéaire avec
+    second membre dont les coefficients sont composés avec des fonctions
+    [Theta] et leurs dérivées, et dont l'intégrale générale s'exprime à
+    l'aide des fonctions [Theta] et de la fonction de deux variables
+    [chi]_{_m_}(_x, y_), qu'il a introduite dans ses Mémoires n^{os}
+    =25=, =27=, =28=.
+
+    A S E N, 3e s., t. 5, juin, juil. 1888, p. 211-218.
+
+    Analyse: B S M, 2e s., t. 14, 2e p., oct. 1890, p. 198-199.
+
+    Analyse par F. MÜLLER: J F M, Bd. 20, J. 1888, S. 452-454.
+
+=88.= _Sur une classe d'équations différentielles réductibles aux
+équations linéaires._
+
+    C R, t. 107, 12 nov. 1888, p. 776-778.
+
+=89. 90.= _Sur des équations différentielles linéaires transformables
+en elles-mêmes par un changement de fonction et de variable._
+
+    C R, t. 112, 5 janv. 1891, p. 34-37.
+
+    A M, t. 15, 1891, 28 sept.-5 oct. 1891, p. 281-315.
+
+    Analyse: B S M, 2e s., t. 17, 2e p., fév. 1893, p. 30-31;--t. 19, 2e
+    p., avr. 1895, p. 77-79.
+
+    Analyse par J. HADAMARD: R O, t. 3, 15 oct. 1892, p. 683.
+
+    Analyse par HAMBURGER: J F M, Bd. 23, J. 1891, S. 333-335.
+
+=91.= _Sur les équations différentielles algébriques et homogènes par
+rapport à la fonction inconnue et à ses dérivées._
+
+    M. P. APPELL indique la possibilité d'étendre la théorie des
+    invariants des équations différentielles linéaires et homogènes aux
+    équations _homogènes_ mais non _linéaires_.
+
+    C R, t. 104, 20 juin 1887, p. 1776-1779.
+
+    Analyse par HAMBURGER des Notes n^{os} =91= et =92=: J F M, Bd. 19,
+    J. 1887, S. 291-293.
+
+=92.= _Sur les invariants des équations différentielles._
+
+    M. P. APPELL complète la Note nº =91=.
+
+    C R, t. 105, 4 juil. 1887, p. 55-58.
+
+=93.= _Sur les invariants de quelques équations différentielles._
+
+    Dans ce Mémoire, M. P. APPELL étudie les invariants et les cas
+    d'intégrabilité:
+
+    1º D'équations différentielles de la forme
+
+      _dy_   a_{0} + a_{1}y + ... + a_{n}y^{n}
+      ---- = ---------------------------------    (p < n),
+      _dx_   b_{0} + b_{1}y + ... + b_{p}y^{p}
+
+    qui conservent cette forme quand on choisit une nouvelle fonction
+    inconnue [eta] et une nouvelle variable indépendante [xi] liées à
+    _y_ et _x_ par les relations
+
+      _y_ = [eta] _u(x)_ + _v(x)_, _d[xi]_
+                                   ------- = µ_(x)_;
+                                    _dx_
+
+    2º Des équations différentielles algébriques et homogènes par
+    rapport à la fonction inconnue _y_ et à ses dérivées, ces équations
+    conservant la même forme quand on y fait
+
+      _y_ = [eta] _u(x)_, _d[xi]_
+                          ------- = µ_(x)_.
+                           _dx_
+
+    J L, 4e s., t. 5, f. 4, 1889, p. 361-423.
+
+    Analyse par HAMBURGER: J F M, Bd. 21, J. 1889, S. 312-314.
+
+    Analyse par GOMES TEIXEIRA: J S T, v. 9, 1889, p. 124-125.
+
+    Analyse par E. GOURSAT: R O, t. 1, 30 mars 1890, p. 180.
+
+=94.= _Sur les équations différentielles homogènes du second ordre à
+coefficients constants._
+
+    A F S T, t. 3, 1889, p. K.1-K.12.
+
+    Analyse par HAMBURGER: J F M, Bd. 21, J. 1889, S. 327.
+
+=95.= _Observations sur une Communication de_ M. C. BOURLET,
+
+    Intitulée _Sur certaines équations analogues aux équations
+    différentielles_.
+
+    C R, t. 124, 21 juin 1897, p. 1433-1434.
+
+=96.= _Sur le théorème de_ POISSON _et un théorème récent de_ M. A.
+BUHL.
+
+    Dans une Note (C R, t. 132, 1901, p. 313), M. A. BUHL donne une
+    proposition générale dont il déduit, comme cas particulier, ce
+    théorème de POISSON: _La forme aux dérivées partielles représentée
+    symboliquement par_ ([alpha], [beta]) _est une intégrale d'un
+    système d'équations canoniques si_ [alpha] _et_ [beta] _sont deux
+    intégrales de ce système_. Dans sa Note, M. P. APPELL montre que,
+    inversement, la proposition de M. A. BUHL peut être considérée comme
+    une conséquence du théorème de POISSON.
+
+    C R, t. 133, 5 août 1901, p. 317-319.
+
+
+=6º Équations aux dérivées partielles. Potentiels triplement
+périodiques. Potentiels multiformes.=
+
+=97.= _Sur les séries hypergéométriques de deux variables, et sur des
+équations différentielles linéaires simultanées aux dérivées
+partielles._
+
+    Dans cette Note, qui se rattache à la Note nº =59=, p. 29, j'étends
+    les théorèmes de RIEMANN et de FUCHS, sur les intégrales des
+    équations différentielles linéaires à une variable, à des équations
+    simultanées définissant _r_ et _t_ en fonctions linéaires de _s, p,
+    q, z_.  P. A.
+
+    C R, t. 90, 29 mars 1880, p. 731-734.
+
+=98.= _Sur certaines équations différentielles linéaires simultanées aux
+dérivées partielles._
+
+    En commun avec M. E. PICARD.
+
+    Cette Note contient une extension d'un théorème donné par M. E.
+    PICARD pour les équations différentielles linéaires à coefficients
+    doublement périodiques (C R, t. 90, 1880, p. 293).
+
+    C R, t. 92, 21 mars 1881, p. 692-695.
+
+    Analyse: B S M; 2e s., t. 5, 2e p., mai. 1881, p. 98.
+
+=99.= _Sur une équation linéaire aux dérivées partielles._
+
+    M. P. APPELL montre que l'équation qu'il a rencontrée dans la
+    théorie des fonctions hypergéométriques de deux variables (_voir_
+    nº =59=, p. 29) contient, comme cas particulier, une équation
+    différentielle linéaire étudiée par M. G. DARBOUX (C R, t. 95,
+    1882, p. 69) et étend à son équation les principales propriétés
+    indiquées par ce géomètre.
+
+    B S M, 2e s., t. 6, 1re p., déc. 1882, p. 314-318.
+
+    Analyse par TOEPLITZ: J F M, Bd. 14, J. 1882, S. 300.
+
+=100.= _Sur les fonctions satisfaisant à l'équation_ [Delta]F = 0.
+
+    M. P. APPELL considère une fonction F(_x, y, z_), de trois
+    variables réelles représentant les coordonnées rectangulaires d'un
+    point M. Il suppose que la fonction F est uniforme, continue,
+    qu'elle admet des dérivées premières et secondes et qu'elle vérifie
+    l'équation
+
+                 [d]^{2}F     [d]^{2}F    [d]^{2}F
+      [Delta]F = ---------- + --------- + --------- = 0,
+                 [d]_x_^{2}   [d]_y_^{2}  [d]_z_^{2}
+
+    en tous les points M situés à l'intérieur d'une surface fermée S,
+    excepté en certains points isolés, qu'il appelle _points
+    singuliers_. Il classe ces points en pôles et points essentiels.
+
+    C R, t. 96, 5 fév. 1883, p. 368-371.
+
+=101.= _Sur les fonctions de trois variables réelles satisfaisant à
+l'équation différentielle_ [Delta]F = 0.
+
+    Dans ce Mémoire, M. P. APPELL fait l'étude générale des fonctions
+    qui satisfont à l'équation [Delta]F = 0. La première partie contient
+    une extension d'un théorème dû à M. MITTAG-LEFFLER et plusieurs
+    applications d'un théorème de GREEN; la seconde contient l'étude de
+    celles de ces fonctions qui reprennent les mêmes valeurs aux points
+    homologues d'un réseau de parallélépipèdes et qui possèdent des
+    propriétés semblables à celles de la partie réelle d'une fonction
+    doublement périodique d'une variable imaginaire. Ces fonctions
+    s'expriment à l'aide d'un élément simple Z analogue à la fonction
+    H´/H introduite par HERMITE dans la théorie des fonctions
+    elliptiques.
+
+    A M, t. 4, 22 janv.-3 mars 1884, p. 313-374.
+
+    Analyse par F. MÜLLER: J F M, Bd. 16, J. 1884, S. 373-374.
+
+    Analyse par J. TANNERY: B S M, 2e s., t. 13, 2e p., juin 1889, p.
+    98-100.
+
+=102. 103.= _Développements en séries trigonométriques de certaines
+fonctions vérifiant l'équation du potentiel_ [Delta]F = 0.
+
+    C R, t. 102, 21 juin 1886, p. 1439-1442.
+
+    J L, 4e s., t. 3, f. 1, 1887, p. 5-52.
+
+    Analyse par TOEPLITZ: J F M, Bd. 19, J. 1887, S. 418-420.
+
+=104.= _Sur les fonctions harmoniques à trois groupes de périodes._
+
+    M. P. APPELL indique un élément analytique pouvant remplacer la
+    fonction Z des deux Mémoires n^{os} =101= et =103=.
+
+    R C M P, t. 22, 1er sept. 1906, p. 361-370.
+
+    Analyse par WANGERIN: J F M, Bd. 37, J. 1906, S. 482-483.
+
+    Application par A. MYLLER: C R, t. 145, 11 nov. 1907, p. 790-792.
+
+=105. 106.= _Sur des potentiels conjugués._
+
+    M. P. APPELL donne un système de quatre équations aux dérivées
+    partielles du premier ordre auxquelles satisfont quatre fonctions
+    X, Y, Z, T de trois variables réelles _x, y, z_. Il démontre
+    que si l'on choisit arbitrairement la fonction T vérifiant
+    l'équation du potentiel, il existe une infinité de fonctions X, Y,
+    Z vérifiant le système précédent; il parvient à préciser le degré
+    d'indétermination et à exprimer ces fonctions par des intégrales
+    définies.
+
+    B S M F, t. 19, 1890-1891, 15 avr. 1891, p. 68-70.
+
+    A F S Ma, t. 2, f. 3, 1892, p. 53-58.
+
+    Analyse par WANGERIN: J F M, Bd. 23, J. 1891, S. 990.
+
+=107.= _Quelques remarques sur la théorie des potentiels multiformes._
+
+    Extrait d'une Lettre adressée à M. F. KLEIN par M. P. APPELL.
+
+    M. P. APPELL considère une certaine fonction F(_x, y, z_) qui
+    vérifie l'équation [Delta]F = 0 et qui admet un cercle pour
+    ligne singulière.
+
+    M A, Bd. 30, 26 avr. 1887, S. 155-156.
+
+
+=Analyse appliquée à l'Algèbre.=
+
+=1.= _Sur les fractions continues périodiques._
+
+    A M P G, 62. Teil, 1878, S. 183-188.
+
+    Analyse par GÜNTHER: J F M, Bd. 10, J. 1878, S. 151-152.
+
+=2.= _Sur les polynomes qui expriment la somme des puissances p^{ièmes}
+des n premiers nombres entiers._
+
+    N A M, 3e s., t. 6, juil. 1887, p. 312-321.
+
+=3.= _Sur les valeurs approchées des polynomes de_ BERNOULLI.
+
+    M. P. APPELL, appliquant aux polynomes de BERNOULLI une méthode
+    donnée par M. G. DARBOUX dans un Mémoire sur les fonctions de grands
+    nombres (J L, 3e s., t. 4, 1878, p. 5, 377), donne l'expression
+    approchée du polynome de BERNOULLI de rang _n_, pour _n_ très grand.
+
+    N A M, 3e s., t. 6, déc. 1887, p. 547-554.
+
+=4.= _Sur une suite de polynomes ayant toutes leurs racines réelles._
+
+     A M P G, d. R., 1. Bd., 1901, 10 déc. 1900, S. 69-71.
+
+
+ARTICLE.
+
+=1.= _Sur les fonctions sphériques et autres analogues._
+
+    En commun avec M. ARMAND LAMBERT (exposé fait d'après l'Article en
+    allemand de M. A. WANGERIN, avec des additions).
+
+    E S M E F, t. II, Art. 28 (_sous presse_).
+
+
+
+
+SECTION III.
+
+GÉOMÉTRIE.
+
+
+_EXTRAIT DU_ RAPPORT LU PAR M. GASTON DARBOUX, EN DÉCERNANT A M. PAUL
+APPELL, AU NOM DE L'ACADÉMIE DES SCIENCES, LE PRIX BORDIN POUR SON
+«MÉMOIRE SUR LES DÉBLAIS ET LES REMBLAIS», LE 21 DÉCEMBRE 1885.
+
+Dans la question proposée en 1884, comme sujet du prix BORDIN
+(Géométrie), l'Académie demandait aux concurrents, _soit l'étude
+générale du problème des déblais et des remblais, soit la solution dans
+un cas simple choisi par l'auteur du Mémoire_.
+
+L'étude de ce beau problème remonte à MONGE qui, dans un Mémoire publié
+en 1781, où se trouvent développées d'une manière incidente la théorie
+des lignes de courbure et les propriétés des systèmes de rayons
+rectilignes, s'était posé la question générale suivante:
+
+_Deux volumes équivalents étant donnés, les décomposer en parcelles
+infiniment petites et deux à deux équivalentes, se correspondant suivant
+une loi telle que, si l'on multiplie le chemin parcouru par chaque
+parcelle, transportée sur celle qui lui correspond, par le volume de
+cette parcelle, la somme des produits ainsi obtenus soit un minimum._
+
+Dans le cas où les volumes peuvent être assimilés à des aires planes
+situées dans le même plan, MONGE résout complètement le problème en
+remarquant que les routes de transport, lorsqu'elles forment un système
+continu, doivent détacher dans le déblai et dans le remblai des aires
+égales. Dans le cas où les routes ne peuvent former un système continu,
+il présente quelques remarques, complétées depuis par DUPIN dans un
+Mémoire sur le même sujet, qui fait partie des _Applications d'Analyse,
+de Géométrie et de Méchanique_. Enfin MONGE, abordant le cas le plus
+difficile, celui où le déblai et le remblai sont des volumes,
+nécessairement équivalents, fait connaître la proposition suivante, qui
+est la pierre angulaire de cette théorie:
+
+_Les routes de transport doivent servir chacune à une infinité de
+parcelles, et elles sont nécessairement normales à une famille de
+surfaces parallèles._
+
+Mais il faut avouer que les raisonnements par lesquels MONGE est conduit
+à ce beau théorème n'entraînent, en aucune manière, l'adhésion; ce point
+essentiel, malgré l'étude nouvelle qui en a été faite par DUPIN,
+attendait encore une démonstration solide et appelait de nouvelles
+recherches.
+
+La Commission espérait donc rencontrer, dans quelques-uns des Mémoires
+soumis à son examen, la preuve complète et l'étude générale du théorème
+de MONGE; elle désirait aussi, sans trop oser l'espérer à cause de la
+difficulté de la question, obtenir l'intégration complète, dans un cas
+suffisamment étendu, de l'équation aux dérivées partielles du second
+ordre, déjà formée par MONGE, qui sert à déterminer la surface normale à
+toutes les routes.
+
+Le Mémoire inscrit sous le nº 5 répond d'une manière complète aux
+espérances aussi bien qu'aux voeux de la Commission. C'est un travail de
+haute valeur où sont employées, alternativement et avec le plus grand
+succès, les ressources de la Géométrie et les méthodes de l'Analyse
+moderne; il réalise un progrès considérable dans l'étude de la question
+mise au concours. Au début de son Mémoire, l'auteur s'élève de la
+considération d'un système de points isolés à celle des masses
+continues. Il énonce, sous le nom de _principe de translation_,
+_principe de symétrie_, etc., un certain nombre de propositions
+élégantes et simples, dont l'application rendra certainement de grands
+services dans la pratique. Nous signalerons plus particulièrement deux
+propositions faisant connaître deux systèmes différents de routes, d'une
+définition très générale et réalisant, l'un et l'autre, le _minimum
+absolu_ du prix de transport.
+
+Dans la deuxième Partie de son travail, l'auteur du Mémoire nº 5, après
+avoir démontré que les routes forment un système continu ou se
+décomposent en plusieurs systèmes continus, applique la méthode des
+variations au problème de MONGE, et il établit le théorème fondamental,
+sans même supposer que la densité soit constante à l'intérieur du déblai
+ou du remblai. Enfin il examine le cas où les routes se partagent en
+plusieurs systèmes continus et il indique les moyens de déterminer les
+surfaces séparatrices, c'est-à-dire les surfaces auxquelles viennent
+aboutir les routes appartenant à deux systèmes différents et continus.
+
+Dans le cas des aires planes, nous l'avons déjà rappelé, le problème de
+MONGE peut recevoir une solution complète où ne figurent que des
+quadratures. On devait se demander si, dans l'espace, l'équation aux
+dérivées partielles donnée par MONGE n'est pas, elle aussi, intégrable
+dans tous les cas et d'une manière générale. Les résultats obtenus par
+l'auteur du Mémoire donnent une réponse complète à cette question
+difficile. Dans le cas où, par exemple, les volumes se réduisent à des
+aires planes situées dans des plans parallèles, l'intégration de
+l'équation de MONGE est ramenée à celle des surfaces minima si les
+aires ont même densité, et à celle des surfaces à courbure constante si
+les densités sont différentes.
+
+Ces exemples sont précieux, parce qu'ils prouvent qu'on doit renoncer à
+intégrer dans tous les cas l'équation du second ordre de MONGE; mais
+aussi parce qu'ils ont permis à l'auteur de signaler avec netteté les
+difficultés nouvelles et sérieuses qu'on rencontrera, même après avoir
+intégré cette équation.
+
+Ces difficultés sont de la nature de celles qui se présentent dans la
+théorie des surfaces minima. Si l'on considère toutes les surfaces
+formant une nappe continue passant par une courbe fermée, le calcul des
+variations apprend que la surface d'aire minimum aura, en chaque point,
+ses rayons de courbure égaux et de signes contraires. L'équation aux
+dérivés partielles de cette surface une fois intégrée, la condition à
+laquelle elle est assujettie de passer par la courbe ne permet pas de
+déterminer complètement les deux fonctions arbitraires dont elle dépend.
+Il existe une infinité de surfaces minima contenant la courbe; mais ces
+surfaces ne satisfont pas toutes, on le sait, à la condition, supposée
+cependant par le calcul des variations, de former une nappe continue
+reliant les uns aux autres tous les points de la courbe. On ne peut
+déterminer les deux fonctions arbitraires qu'en employant des
+considérations tout à fait indépendantes de la méthode des variations,
+puisque la condition à laquelle il s'agit de satisfaire est supposée
+remplie au moment même où commence l'application de cette méthode. Le
+problème auquel on est ainsi conduit arrête aujourd'hui encore les
+efforts des géomètres et n'a pu être résolu que dans quelques cas
+particuliers.
+
+La solution du problème de MONGE présente des difficultés analogues et
+peut-être plus grandes. Les fonctions arbitraires d'une variable, qui
+entrent dans les équations du système des routes, doivent être
+déterminées par la condition que les routes forment un système continu,
+permettant de transporter dans l'ensemble du remblai la totalité des
+parcelles qui composent le déblai. La condition, évidente _a priori_,
+que les routes limites soient tangentes à la fois à la surface du déblai
+et à celle du remblai ne fait connaître qu'une de ces deux fonctions et
+il n'existe, comme dans la théorie des surfaces minima, aucune règle
+fixe et précise conduisant à la solution complète de la question
+proposée. Des exemples bien choisis jettent beaucoup de lumière sur
+cette discussion délicate.
+
+Les indications rapides qui précèdent suffiront à montrer toute
+l'importance des résultats obtenus par l'auteur du Mémoire nº 5....
+
+    La Commission propose de partager le prix Bordin entre les Mémoires
+    nº 5 et nº 1 en attribuant _deux mille francs_ à l'auteur du Mémoire
+    nº 5....
+
+    Les conclusions de ce Rapport sont adoptées.
+
+    L'auteur du Mémoire inscrit sous le nº 5 est M. P. APPELL.
+
+    C R, t. 101, 21 déc. 1885, p. 1312-1316.
+
+
+MÉMOIRES. NOTES.
+
+=Géométrie infinitésimale.=
+
+=1.= _Sur les propriétés des cubiques gauches et le mouvement hélicoïdal
+d'un corps solide._
+
+    Thèse pour le grade de Docteur ès Sciences mathématiques, soutenue
+    devant la Faculté des Sciences de Paris le 20 juin 1876.
+
+    M. P. APPELL établit les _propriétés des pôles et des plans
+    polaires par rapport à une cubique gauche_. Et il étudie les deux
+    problèmes suivants: 1º _Étant donné un mouvement hélicoïdal,
+    déterminer les cubiques gauches correspondantes_; 2º _Étant donnée
+    une cubique définie par certaines équations, déterminer le
+    mouvement hélicoïdal correspondant._
+
+    A S E N, 2e s., t. 5, juil., août 1876, p. 245-274.
+
+    Paris, G.-V., 1876, in-4, IV-35 p.
+
+    Analyse: B S M, 2e s., t. 1, 1re p., août 1877, p. 257-259.
+
+    Analyse par STURM: J F M, Bd. 8, J. 1876, S. 510-512.
+
+=2.= _Sur une propriété caractéristique des hélices._
+
+    A M P G, 64. Teil, 30 janv. 1879, S. 19-23.
+
+=3.= _Mémoire sur les Déblais et les Remblais des systèmes continus ou
+discontinus._
+
+    Ce Mémoire, présenté par M. P. APPELL à l'Académie des Sciences
+    pour le Concours du Prix BORDIN (Géométrie) pour 1884, a été
+    couronné.
+
+    M S A S, t. 29, nº 3, 1887, p. 1-208.
+
+    Rapport de M. G. DARBOUX: C R, t. 101, 21 déc. 1885, p. 1312-1316.
+
+    Analyse par E. LAMPE: J F M, Bd. 20, J. 1888, S. 375-377.
+
+=4.= _Surfaces telles que l'origine se projette sur chaque normale au
+milieu des centres de courbure principaux._
+
+    A J M, v. 10, 1888, p. 175-186.
+
+    Analyse par AUGUST: J F M, Bd. 19, J. 1887, S. 825-829.
+
+
+=Géométrie analytique.=
+
+=1.= _Note sur les cubiques gauches._
+
+    C R, t. 82, 3 janv. 1876, p. 70-72.
+
+=2. 3.= _Sur une classe particulière de courbes gauches unicursales du
+quatrième ordre._
+
+    C R, t. 83, 18 déc. 1876, p. 1209-1211.
+
+    A M P G, 62. Teil, 1878, S. 175-182.
+
+=4.= _Théorème général sur les courbes unicursales._
+
+    A M P G, 60. Teil, 1877, S. 125-127.
+
+=5.= _Théorème concernant les courbes dont les tangentes font partie
+d'un complexe de droites du premier ordre._
+
+    A M P G, 60. Teil, 1877, S. 274-275.
+
+=6.= _Sur l'homographie d'ordre supérieur._
+
+    B S P, 7e s., t. 4, 1879-1880, 25 oct. 1879, p. 18-20.
+
+=7.= _Sur une représentation des points imaginaires en Géométrie plane._
+
+    A M P G, 61. Teil, 16 août 1877, S. 359-360.
+
+=8.= _Sur les familles de courbes orthogonales uniquement composées de
+coniques._
+
+    A M P G, 63. Teil, 1879, 4 août 1878, S. 50-55.
+
+    Analyse par AUGUST: J F M, Bd. 11, J. 1879, S. 501-503.
+
+=9.= _Sur les points d'intersection d'une conique fixe par une conique
+mobile passant par deux points fixes._
+
+     N A M, 3e s., t. 8, janv. 1889, p. 48-56.
+
+=10.= _Sur les courbes dont les tangentes appartiennent à un complexe
+linéaire._
+
+    N A M, 3e s., t. 11, mars 1892, p. 115-119.
+
+=11.= _Sur les courbes autopolaires par rapport à une conique donnée._
+
+    B S M F, t. 22, 7 fév. 1894, p. 27.
+
+=12.= _Courbes autopolaires._
+
+    N A M, 3e s., t. 13, mai 1894, p. 206-210.
+
+=13.= _Sur le degré de réalité d'une courbe algébrique à coefficients
+réels._
+
+    A M P G, d. R., 4. Bd., 1903, 19 juin 1902, S. 20-21.
+
+=14.= _Sur les lignes asymptotiques de la surface représentée par
+l'équation_ XYZ = T³.
+
+    A M P G, 61. Teil, 21 mars 1877, S. 144-145.
+
+=15.= _Sur les conditions qui expriment qu'un système de trois axes est
+trirectangle._
+
+    N A M, 3e s., t. 13, fév. 1894, p. 41-43.
+
+=16.= _Exercices sur les courbes de direction._
+
+    LAGUERRE a appelé _courbes de direction_ les courbes algébriques
+
+      _f_(_x, y_) = 0,
+
+    telles que les cosinus directeurs de la tangente en un point
+    puissent être exprimés _rationnellement_ en fonction de _x_ et de
+    _y_.
+
+    N A M, 3e s., t. 15, nov. 1896, p. 491-495.
+
+=17.= _Exercice sur la détermination du point double d'une cubique plane
+unicursale._
+
+    R M S, t. 4, 8e a., juin 1898, p. 505-506.
+
+=18.= _Exercices sur la détermination des points doubles d'une quartique
+plane unicursale._
+
+    R M S, t. 4, 8e a., sept. 1898, p. 585-589.
+
+=19.= _Sur le cylindroïde._
+
+    R M S, t. 3, 5e a., juin 1895, p. 129-130.
+
+=20.= _Propriété caractéristique du cylindroïde._
+
+    Il existe un conoïde droit, signalé par PLÜCKER et par CAYLEY,
+    nommé _cylindroïde_, jouissant de la propriété que le lieu des
+    projections d'un point fixe quelconque sur ses génératrices est une
+    courbe plane. M. P. APPELL démontre que, réciproquement, toute
+    surface réglée non cylindrique possédant cette propriété est un
+    cylindroïde.
+
+    B S M F, t. 28, 20 juin 1900, p. 261-265.
+
+=21= à =32=. _Principales Notes dans l'Ouvrage intitulé_ «_Leçons de
+Géométrie analytique par_ C. BRIOT _et_ J.-C. BOUQUET».
+
+                                                                  Pages.
+
+  =142.= _Sur les fonctions des coefficients de l'équation d'une
+  conique et de l'angle des axes qui ne changent pas quand on
+  fait une transformation de coordonnées._                       159-163
+
+  =143.= _Application au calcul des axes d'une conique à centre,
+  du paramètre d'une parabole._                                  163-166
+
+  =306.= _Coordonnées tangentielles._                            319-321
+
+  =330.= _Coordonnées homogènes, points à l'infini._             344-351
+
+  =331.= _Coordonnées trilinéaires._                             351-360
+
+  =332. 333.= _Intersection de deux coniques. Discussion de
+  l'équation en_ [lambda] _par la méthode de_ M. DARBOUX.        364-383
+
+  _Signification géométrique de certaines relations simples
+  entre les racines de l'équation en_ [lambda].                  374-382
+
+  =369= _bis_. _Remarques sur la construction des courbes.
+  Régions._                                                      444-451
+
+  _Notions sur les courbes unicursales._                         492-501
+
+  =598.= _Courbes gauches du troisième ordre et du quatrième
+  ordre._                                                        712-719
+
+  =599.= _Notions sur les complexes de droites._                 723-730
+
+    NOTA.--De nombreux exercices ont été ajoutés dans le texte,
+    notamment à propos des coordonnées tangentielles, des coordonnées
+    homogènes, de l'équation en [lambda], des courbes unicursales et des
+    complexes.
+
+    Paris, C. D., 19e éd., 1907, gr. in-8.
+
+
+ARTICLE.
+
+=1.= _Le Problème des Déblais et des Remblais._
+
+    R O, t. 1, 28 fév. 1890, p. 97-99.
+
+
+
+
+SECTION IV.
+
+MÉCANIQUE RATIONNELLE ET PHYSIQUE MATHÉMATIQUE.
+
+
+OUVRAGES.
+
+=1.= COURS DE MÉCANIQUE RATIONNELLE,
+
+    Professé par M. P. APPELL à la Faculté des Sciences de Paris,
+    rédigé par MM. ABRAHAM et DELASSUS.
+
+    Paris, Hn., 1888, in-4, lithographié, IV-436 p.
+
+=2.= LEÇONS SUR L'ATTRACTION ET LA FONCTION POTENTIELLE,
+
+    Professés à la Sorbonne pendant l'année scolaire 1890-1891,
+    rédigées par M. CHARLIAT.
+
+    Paris, G. C., 1892, gr. in-8, 63 p.
+
+    Analyse par LÉON AUTONNE: R O, t. 3, 30 juil. 1892, p. 521.
+
+=3.= TRAITÉ DE MÉCANIQUE RATIONNELLE.
+
+    Cours de Mécanique de la Faculté des Sciences de Paris.
+
+  Tome I: _Statique. Dynamique du point._
+
+  Tome II: _Dynamique des systèmes. Mécanique analytique._
+
+  Tome III: _Équilibre et Mouvement des milieux continus._
+
+    L'origine de ce Traité est le Cours de Mécanique rationnelle
+    professé par M. P. APPELL à la Faculté des Sciences de l'Université
+    de Paris et d'abord lithographié (_voir_ nº =1=, p. 46). L'Auteur a
+    été conduit naturellement à élargir le cadre d'un cours de licence
+    pour y faire entrer toutes les parties de la Mécanique rationnelle
+    qui doivent aujourd'hui être considérées comme classiques, avec les
+    renseignements et les indications bibliographiques nécessaires à
+    ceux qui désirent approfondir une question, en vue de recherches
+    personnelles. Ce _Traité_ comprend trois Volumes.
+
+    Le _Premier Volume_ est consacré à la théorie des vecteurs, à la
+    statique des systèmes dont la position dépend d'un nombre fini de
+    paramètres, puis à l'équilibre des fils et des lignes élastiques,
+    enfin à la dynamique du point. Dans la première édition, les
+    principes de la Mécanique sont exposés sous une forme qui se
+    rapproche de celle que BONNET avait adoptée dans ses _Leçons de
+    Mécanique_ en vue de l'examen d'entrée à l'École Polytechnique. La
+    deuxième édition présente des changements notables: d'abord, pour
+    les Principes de la Mécanique, M. P. APPELL a adopté, dans ses
+    grands traits, le mode d'exposition que M. BLONDLOT, professeur à
+    l'Université de Nancy, a communiqué au Congrès de Philosophie tenu à
+    Paris en 1900. Puis, en Statique, se trouvent ajoutées à la suite de
+    l'équilibre des fils quelques pages sur l'équilibre de l'élastique
+    plane. Dans l'établissement des équations générales d'équilibre
+    déduites du théorème des travaux virtuels, il a introduit, d'après
+    le physicien HERTZ, la distinction importante des systèmes en deux
+    classes: les systèmes _holonomes_, pour lesquels toutes les liaisons
+    peuvent être exprimées par des relations en _termes finis_ entre les
+    coordonnées, et les systèmes _non holonomes_, comme le cerceau ou la
+    bicyclette, pour lesquels certaines liaisons sont exprimées _par des
+    relations différentielles non intégrables_. Ensuite, il a consacré
+    un paragraphe entièrement nouveau à l'étude des conditions
+    d'équilibre d'un système pour lequel certaines liaisons sont
+    _unilatérales_; les systèmes de cette nature se présentent
+    fréquemment en Mécanique rationnelle, par exemple, toutes les fois
+    que des liaisons se trouvent réalisées à l'aide de fils; ils
+    semblent se présenter également dans certains équilibres
+    physico-chimiques. Enfin, la Dynamique analytique du point
+    (équations de LAGRANGE, équations canoniques, théorème de JACOBI,
+    applications mécaniques et géométriques) est exposée en détail, de
+    façon à réunir en un même Volume tout ce qui se rapporte au point
+    matériel. Dans la troisième édition, l'Auteur présente d'abord la
+    théorie des vecteurs, sous une forme entièrement renouvelée, dont le
+    point de départ est dans ce fait, que l'on rencontre dans les
+    applications trois catégories de vecteurs. La première catégorie
+    comprend des vecteurs qui sont définis en grandeur, direction et
+    sens, mais dont le point d'application peut être pris arbitrairement
+    dans l'espace, comme pour les vecteurs représentant des axes de
+    couples appliqués à un solide: il appelle les vecteurs de cette
+    catégorie _vecteurs non localisés_ (_unlocalised_, suivant
+    l'expression employée par M. LOVE dans sa _Theoretical Mechanics_)
+    ou encore _vecteurs libres_. Dans la deuxième catégorie figurent des
+    vecteurs définis en grandeur, direction et sens, pouvant glisser
+    arbitrairement sur la droite qui les porte: tels sont les vecteurs
+    qui représentent des forces appliquées à un solide: il les nomme
+    _vecteurs localisés sur une droite_ ou _vecteurs glissants_. Et,
+    dans la troisième catégorie, figurent les vecteurs qui ont un point
+    d'application déterminé, comme les vecteurs représentant les
+    vitesses de points mobiles ou les forces d'un champ; ces vecteurs
+    sont _localisés en un point_ ou _liés à leur point d'application_.
+    En outre, il introduit la distinction, si importante en Physique,
+    entre les vecteurs _axiaux_ et les vecteurs _polaires_. Comme
+    exercice sur le mouvement d'un point, il a étudié les cas les plus
+    simples du mouvement d'une particule électrisée, soumise à l'action
+    d'un champ électrique et d'un champ magnétique superposés. Ce
+    problème a conduit MM. HENRI POINCARÉ, CARL STÖRMER et M. FORTIN à
+    des recherches mathématiques intéressantes, inspirées par les
+    expériences de MM. BIRKELAND et VILLARD et par les idées de MM.
+    BIRKELAND et ARRHÉNIUS sur l'origine des aurores polaires.
+
+    La première édition du _Deuxième Volume_ renferme, après la
+    Dynamique analytique du point, les théorèmes généraux sur le
+    mouvement des systèmes, avec de nombreuses applications, notamment
+    au mouvement du corps solide. Les problèmes classiques, problème de
+    POINSOT, problème de LAGRANGE et de POISSON se trouvent traités en
+    détail, avec intégration par les fonctions elliptiques. Le problème
+    de Mme KOWALESKY est exposé. Sont données ensuite les théories du
+    frottement de glissement et du frottement de roulement. Les
+    équations de LAGRANGE, les équations canoniques, le théorème de
+    JACOBI sont exposés avec de nombreuses applications. Viennent enfin
+    le théorème de POISSON, les invariants intégraux de M. H. POINCARÉ,
+    les recherches analytiques de M. G. KOENIGS et, dans la théorie du
+    mouvement relatif, l'exposé de la méthode mixte de GILBERT avec
+    application au barogyroscope. La deuxième édition, allégée par la
+    suppression de la Dynamique analytique du point (insérée dans le Ier
+    Volume), contient les recherches de HERTZ sur les systèmes non
+    holonomes; M. P. APPELL y joint un exposé de ses propres recherches
+    sur une forme nouvelle des équations de la Mécanique, applicable à
+    tous les systèmes, holonomes ou non, et fondée sur la considération
+    de l'énergie d'accélération ½[Somme]_m_J^{2}. La théorie du
+    frottement est complétée par l'exposé des recherches de M. PAUL
+    PAINLEVÉ sur les contradictions qui peuvent se présenter, quand on
+    veut appliquer rigoureusement les lois du frottement de glissement
+    énoncées par COULOMB. La troisième édition du Deuxième Volume est
+    sous presse.
+
+    Le _Troisième Volume_ se rapporte à la mécanique des systèmes
+    continus: théorie de l'attraction, cinématique des milieux continus,
+    hydrostatique, hydrodynamique, théorie des tourbillons, élasticité,
+    viscosité. L'Auteur a présenté très simplement la théorie de
+    l'équilibre des corps flottants, d'après une méthode dont on trouve
+    les germes dans HUYGENS et qui a été développée par le commandant
+    GUYOU. Il a exposé les méthodes de RIEMANN et de HUGONIOT pour la
+    propagation des discontinuités dans les fluides, et la
+    généralisation de ces méthodes par M. J. HADAMARD. Enfin, en
+    élasticité, M. P. APPELL a donné un résumé des recherches de MM. E.
+    et F. COSSERAT, qui ont conduit à d'importantes publications. A la
+    fin de la seconde édition se trouve insérée une Note sur l'_Action
+    Euclidienne_ due à ces deux mathématiciens, résumant, sous un point
+    de vue entièrement nouveau, toutes les parties de la Mécanique
+    rationnelle. L'analyse de cette seconde édition se trouve dans la
+    Préface et dans la présentation que M. P. APPELL a faite à
+    l'Académie des Sciences dans la séance du 18 janvier 1909.
+
+    Paris, G.-V., gr. in-8: t. I, 1893, VI-549 p.; 2e éd., 1902, IX-601
+    p.; 3e éd., 1909, X-615 p.; t. II, 1896, IV-538 p.; 2e éd., 1904,
+    VIII-551 p.; 3e éd. (_sous presse_); t. III, 1903, IV-558 p.; 2e
+    éd., 1909, Préf. du 15 oct. 1908, VII-645 p.
+
+    Présentation par M. P. APPELL à l'Académie des Sciences du t. III,
+    de la 2e éd. du t. I, de la fin du t. III, de la 2e éd. du t. II, de
+    la 2e éd. du t. III: C R, t. 134, 12 mai 1902, p. 1095-1096;--t.
+    135, 6 oct. 1902, p. 521-522;--t. 137, 2 nov. 1903, p. 682-684;--t.
+    148, 18 janv. 1909, p. 143-144.
+
+    Analyse par E. LAMPE de la 1re éd. des t. I, II, III: J F M, Bd.
+    24, J. 1892, S. 803-804;--Bd. 27, J. 1896, S. 566-567;--Bd. 34, J.
+    1903, S. 727-728.
+
+    Analyse par G. KOENIGS du t. I: B S M, 2e s., t. 18, 1re p., avr.
+    1894, p. 69-80.
+
+    Analyse de la 1re édit. des t. I, II: M M P, 6 J., 1895, Lit., S.
+    29;--7. J., 1896, Lit., S. 57-58.
+
+    Analyse par REHOROVSKY de la 1re édit. des t. I et II: C M F, R. 27,
+    1898, p. 204-208.
+
+    Analyse par A. BUHL du t. III: E M, 5e a., 15 mars 1903, p. 142-146.
+
+    Analyse par H. VOGT de la 1re édit. du t. III, de la 2e édit. des t.
+    I et II: B S M, 2e s., t. 28, 1re p., janv., fév. 1904, p. 5-14,
+    33-39.
+
+    Analyse par C. BOURLET du t. III: N A M, 4e s., t. 4, avr. 1904, p.
+    172-178.
+
+    Analyse par von H. de la 1re édit. du t. III: L C D, 56. J., 18 nov.
+    1905, S. 1585.
+
+=4.= PRÉCIS DE MÉCANIQUE RATIONNELLE PAR P. APPELL ET S. DAUTHEVILLE.
+
+_Introduction à l'Étude de la Physique et de la Mécanique appliquée._
+
+    A l'usage des Candidats aux Certificats de Licence et des Élèves
+    des Écoles techniques supérieures.
+
+    Paris, G.-V., 1910, gr. in-8, VI-729 p.
+
+=5.= COURS DE MÉCANIQUE.
+
+    A l'usage des Candidats à l'École Centrale des Arts et
+    Manufactures.
+
+    Paris, G.-V., 1902, in-8, IV-271.
+
+    Analyse par J. TANNERY: B S M, 2e s., t. 26, 1re p., oct. 1902, p.
+    285-288.
+
+    Analyse par von H.: L C D, 53. J., 30 Aug. 1902, S. 1171.
+
+    Analyse par E. LAMPE: J F M, Bd. 33, J. 1902, S. 710-711.
+
+    Analyse: Ms, 3e s., t. 2, 1902, p. 69-70.
+
+    Analyse: M M P, 13. J., 1902, Lit., S. 36.
+
+    Analyse par J. HADAMARD: R O, t. 14, 15 juil. 1903, p. 728.
+
+=6.= COURS DE MÉCANIQUE.
+
+    A l'usage des Élèves de la Classe de Mathématiques spéciales,
+    conforme au Programme du 27 juillet 1904.
+
+    Paris, G.-V., in-8. 2e édit., 1905, IV-493 p.
+
+    Analyse par H. FEHR: E M, 8e a., 15 mars 1906, p. 163-164.
+
+    Analyse par von H.: L C D, 57. J., 24 März 1906, S. 464.
+
+    Analyse: Ms, 3e s., t. 7, mars 1907, p. 72.
+
+=7.= LEÇONS DE MÉCANIQUE ÉLÉMENTAIRE, PAR P. APPELL ET J. CHAPPUIS.
+
+    A l'usage des Élèves des Classes de Première (Latin-Sciences ou
+    Sciences-Langues vivantes). Conformément aux Programmes du 31 mai
+    1902.
+
+    Paris, G.-V., 1903, in-16, VIII-177 p.
+
+    Analyse par C. BOURLET: N A M, 4e s., t. 3, fév. 1903, p. 81-83.
+
+    Analyse par E. LAMPE: J F M, Bd. 34, J. 1903, S. 728-729.
+
+    Analyse: Ms, 3e s., t. 3, 1903, p. 87-88, 113-116.
+
+    Analyse par PAUL STAECKEL: Z M P, 49. Bd., 1903, S. 470-472.
+
+    Analyse par A.-S. GALE: B A M S, v. 15, 1903-1904, p. 359-360.
+
+    Analyse par ED. DÉMOLIS: R O, t. 15, 15 janv. 1904, p. 39.
+
+    Analyse par F. HASENÖHRL: M M P, 15. J., 1904, Lit., S. 31.
+
+=8.= LEÇONS DE MÉCANIQUE ÉLÉMENTAIRE, PAR P. APPELL ET J. CHAPPUIS.
+
+    A l'usage des Classes de Première C et D. Conformes aux Programmes
+    du 31 mai 1902.
+
+    Paris, A. C. et G.-V., 15 sept. 1902, in-16, VIII-177 p.;--Paris,
+    G.-V., 2e édit., 1905, VIII-177 p.
+
+    Analyse par ST. M.: M M P, 17. J., 1906, Lit., S. 32.
+
+    Analyse par GINO LORIA: B B S L, Anno 10, fasc. 1º, 1906, p. 22-24.
+
+=9.= LEÇONS DE MÉCANIQUE ÉLÉMENTAIRE, PAR P. APPELL ET J. CHAPPUIS.
+
+    A l'usage des Classes de Mathématiques A et B. Conformément aux
+    Programmes du 31 mai 1902 (Arrêtés des 27, 28 juillet et 8
+    septembre 1905).
+
+    Paris, G.-V., 1905, in-16, IV-306 p.
+
+    Analyse par H. FEHR: E M, 8e a., 15 mars 1906, p. 163-164.
+
+    Analyse par K: L C D, 57. J., 28 Juli 1906, S. 1074-1075.
+
+    Analyse par GINO LORIA: B B S L, Anno 10, fasc. 1º, 1906, p. 22-24.
+
+    Analyse par J. N.: M M P, 17. J., 1906, Lit., S. 32.
+
+    Analyse: Ms, 3e s., t. 7, mars 1907, p. 72.
+
+=10.= LEÇONS DE MÉCANIQUE ÉLÉMENTAIRE, PAR P. APPELL ET J. CHAPPUIS.
+
+    A l'usage des Classes de Mathématiques A et B. Conformément aux
+    Programmes de 1905.
+
+    Ire Partie: _Notions géométriques. Cinématique._
+
+    IIe Partie: _Dynamique et Statique du point. Statique des corps
+    solides. Machines simples._
+
+    Paris, G.-V., in-16: Ire P., 2e éd., 1907, IV-240 p.; 3e éd., 1909,
+    IX-178 p.; IIe P., 2e éd., 1907, IV-240 p.
+
+=11.= LES MOUVEMENTS DE ROULEMENT EN DYNAMIQUE.
+
+    Cet Ouvrage contient l'exposé et le développement des méthodes qui
+    sont employées pour étudier les mouvements de roulement, des
+    difficultés qui se présentent dans l'application des équations de
+    LAGRANGE, avec l'indication d'une nouvelle forme d'équations
+    permettant d'éviter ces difficultés.
+
+    Paris, G. C. puis G.-V., in-8, 70 p. (Collection _Scientia_).
+
+    Analyse par E. LAMPE: J F M, Bd. 30, J. 1899, S. 642.
+
+    Analyse: B S M, 2e s., t. 24, 1re p., avr. 1900, p. 81-83.
+
+
+MÉMOIRES. NOTES.
+
+=Mécanique rationnelle.=
+
+=1.= _Sur une interprétation des valeurs imaginaires du temps en
+Mécanique._
+
+    C R, t. 87, 30 déc. 1878, p. 1074-1077.
+
+=2.= _Remarques sur l'introduction de fonctions continues n'ayant pas de
+dérivée, dans les éléments de la Mécanique._
+
+    En commun avec M. JANAUD.
+
+    C R, t. 93, 12 déc. 1881, p. 1005-1008.
+
+=3.= _Sur la chaînette sphérique._
+
+    M. P. APPELL donne, pour exprimer les coordonnées d'un point de la
+    chaînette sphérique en fonctions elliptiques d'un paramètre, une
+    méthode qui revient à l'intégration d'une équation analogue à celle
+    de LAMÉ.
+
+    B S M F, t. 13, 1884-1885, 4 fév. 1885, p. 65-71.
+
+    Exercice de préparation à l'Agrégation des Sciences mathématiques,
+    sous le titre _Forme d'équilibre d'un fil homogène pesant sur une
+    sphère. Expressions des coordonnées d'un point du fil et de l'arc au
+    moyen des fonctions de_ JACOBI: N A M, 4e s., t. 2, fév. 1902, p.
+    76.
+
+=4. 5.= _De l'homographie en Mécanique._
+
+    M. P. APPELL emploie en Mécanique la méthode de transformation des
+    figures par projection centrale, qui joue un rôle si important en
+    Géométrie. Il étudie d'abord le cas d'un point matériel sollicité
+    par une force dans un plan fixe; il termine ainsi: «Ces
+    considérations peuvent être étendues au mouvement d'un point dans
+    l'espace et même au mouvement de plusieurs points, à condition de
+    faire, dans ce dernier cas, une transformation homographique
+    générale contenant à la fois les coordonnées de tous les points».
+
+    C R, t. 108, 4 fév. 1889, p. 224-226.
+
+    A J M, v. 12, 1890, p. 103-114.
+
+    Analyse par E. LAMPE: J F M, Bd. 21, J. 1889, S. 904-905.
+
+=6.= _Sur une transformation de mouvement et les invariants d'un système
+en Mécanique._
+
+    B S M F, t. 20, 16 mars 1892, p. 21-22.
+
+    Analyse par E. LAMPE des Notes n^{os} =6= et =7=: J F M, Bd. 24, J.
+    1892, S. 857-858.
+
+=7.= _Sur des transformations de mouvement._
+
+    M. P. APPELL considère deux systèmes matériels dont les liaisons
+    sont indépendantes du temps et cherche si, à tout mouvement du
+    premier système, on peut faire correspondre un mouvement du second,
+    les forces ne dépendant que des positions.
+
+    J C, Bd. 110, Ht. 1, 1892, S. 37-41.
+
+=8.= _Sur une transformation de mouvements._
+
+    M. P. APPELL étudie une certaine transformation de mouvements, puis
+    il montre qu'un problème traité par ELLIOT (C R, t. 116, 1893, p.
+    1117; A S E N, 1893, p. 231) et une question résolue par M.
+    MESTSCHERSKY (B S M, 2e s., t. 18, 1894, p. 170), peuvent être
+    envisagés comme des cas particuliers de cette transformation.
+
+    A J M, v. 17, nº 1, 1895, p. 1-5.
+
+=9.= _Réduction à la forme canonique des équations d'équilibre d'un fil
+flexible et inextensible._
+
+    M. P. APPELL ramène, à une forme canonique permettant l'application
+    des théorèmes de JACOBI, les nombreuses analogies qui existent
+    entre les équations d'équilibre d'un fil et les équations du
+    mouvement d'un point.
+
+    C R, t. 96, 12 mars 1883, p. 688-691.
+
+=10.= _Sur l'équilibre d'un fil flexible et inextensible._
+
+    A F S T, t. 1, 1887, p. B.1-B.5.
+
+=11.= _Sur certaines propriétés d'une position d'équilibre d'un
+système._
+
+    A F S T, t. 6, 1892, p. C.1-C.6.
+
+    Analyse par R. LE VAVASSEUR: B S M, 2e s., t. 18, 2e p., août 1894,
+    p. 155-156.
+
+=12. 13.= _Sur le mouvement d'un fil dans un plan fixe._
+
+    M. P. APPELL ramène l'intégration des équations du mouvement d'un
+    fil flexible et inextensible dans un plan à l'intégration d'une
+    équation aux dérivées partielles du quatrième ordre.
+
+    C R, t. 103, 22 nov. 1886, p. 991-993.
+
+    A M, t. 12, 1888-1889, 17 sept. 1888, p. 1-50.
+
+    Analyse par SCHUMANN: J F M, Bd. 20, J. 1888, S. 953-954.
+
+    Analyse par E. COSSERAT: B S M, 2e s., t. 16, 2e p., mars 1892, p.
+    38-39.
+
+=14.= _Quelques remarques sur les équations du mouvement d'une chaîne
+parfaitement flexible._
+
+    A S A P P, v. 4, nº 1º, nº 2º, 1909, p. 9-17, 113-115.
+
+=15.= _Remarque sur les courbes brachistochrones._
+
+    B S M F, t. 19, 1890-1891, 6 mai 1891, p. 97-98.
+
+=16.= _Du tautochronisme dans un système matériel._
+
+    Un système matériel est _tautochrone_ lorsqu'il met le même temps à
+    revenir à une position déterminée quelle que soit la position
+    initiale dans laquelle on l'abandonne à lui-même sans vitesse. M.
+    P. APPELL indique la solution générale du problème des
+    tautochrones.
+
+    C R, t. 114, 2 mai 1892, p. 996-998.
+
+    Analyse par E. LAMPE: J F M, Bd. 24, J. 1892, S. 869-870.
+
+=17.= _Remarque sur une Note de_ M. G. DI PIRRO,
+
+    Intitulée _Sur les intégrales quadratiques des équations de la
+    Dynamique_.
+
+    C R, t. 123, 14 déc. 1896, p. 1057.
+
+=18.= _Remarques sur une Note de_ M. LEVI-CIVITA,
+
+    Intitulée _Sur les intégrales quadratiques des équations de la
+    Mécanique_.
+
+    C R, t. 124, 22 fév. 1897, p. 395.
+
+=19.= _Sur les équations de_ LAGRANGE _et le principe d'_HAMILTON.
+
+    Il s'agit d'un genre particulier de liaisons qui ne peuvent pas
+    être exprimées en termes finis; et auxquelles les équations de
+    LAGRANGE ne peuvent pas être en général appliquées.
+
+    B S M F, t. 26, 7 déc. 1898, p. 265-267.
+
+=20.= _Sur les mouvements de roulement; équations du mouvement analogues
+à celles de_ LAGRANGE.
+
+    C R, t. 129, 7 août 1899, p. 317-320.
+
+    Analyse par E. LAMPE: J F M, Bd. 30, J. 1899, S. 641.
+
+=21. 22.= _Sur une forme générale des équations de la Dynamique._
+
+    Cette forme d'équations s'applique à tous les systèmes sans
+    frottement, holonomes ou non; elle repose sur la considération de
+    l'énergie d'accélération ½[Somme]_m_J^{2}, où J est l'accélération
+    du point _m_.
+
+    C R, t. 129, 28 août 1899, p. 423-427.
+
+    J C, Bd. 121, Ht. 4, 1900, S. 310-319.
+
+    Analyse par E. LAMPE: J F M, Bd. 31, J. 1900, S. 692.
+
+=23.= _Sur une forme nouvelle des équations de la Dynamique._
+
+    C R, t. 129, 11 sept. 1899, p. 459-460.
+
+=24.= _Développements sur une forme nouvelle des équations de la
+Dynamique._
+
+    J L, 5e s., t. 6, f. 1, 1900, p. 5-40.
+
+    Analyse par E. LAMPE: J F M, Bd. 31, J. 1900, S. 693.
+
+    Analyse par L. R.: B S M, 2e s., t. 29, 2e p., déc. 1905, p.
+    204-206.
+
+=25.= _Sur une forme générale des équations de la Dynamique et sur le
+principe de_ GAUSS.
+
+    M. P. APPELL démontre l'impossibilité de déduire les équations du
+    mouvement d'un système non holonome de la seule connaissance de la
+    demi-force vive T et de la fonction des forces U.
+
+    J C, Bd. 122, Ht. 3, 1900, S. 205-208.
+
+=26.= _Remarques d'ordre analytique sur une nouvelle forme des
+équations de la Dynamique._
+
+    J L, 5e s., t. 7, f. 1, 1901, p. 5-12.
+
+    Analyse par L. R.: B S M, 2e s., t. 30, 2e p., nov., déc. 1906, p.
+    196-198.
+
+=27.= _Sur le principe de la moindre contrainte de_ GAUSS.
+
+    A M L B, 1901-1902, p. 407-412.
+
+=28.= _Extension des équations de_ LAGRANGE _au cas du frottement de
+glissement._
+
+     C R, t. 114, 15 fév. 1892, p. 331-334.
+
+     Analyse par E. LAMPE: J F M, Bd. 24, J. 1892, S. 856-857.
+
+=29.= _Sur l'extinction du frottement._
+
+    M. P. APPELL étudie le problème de l'extinction du frottement dans
+    le cas d'un système matériel présentant certains caractères qui
+    sont réalisés dans la plupart des systèmes usuels.
+
+    B S M F, t. 35, 11 avr. 1907, p. 131-133.
+
+=30.= _Sur la tendance des systèmes matériels à échapper au frottement._
+
+    M. P. APPELL développe et précise les indications qu'il a données
+    dans la Note nº =29=. _Voir_, comme suite à cette Note, une Note de
+    M. E. DANIELE (N. C., s. 5, v. 15, Giugno 1908, p. 492).
+
+    J C, Bd. 133, Ht. 2, 1907, S. 93-96.
+
+=31.= _Sur un théorème relatif au déplacement initial d'un système sans
+frottement._
+
+    A F A S, II, _Résumés_, Clermont-Ferrand, 1908, gr. in-8, p. 49.
+
+=32. 33.= _Sur l'emploi des équations de_ LAGRANGE _dans la théorie du
+choc et des percussions._
+
+    Pour un système holonome, M. P. APPELL déduit des équations de
+    LAGRANGE une forme simple des équations de la théorie des
+    percussions.
+
+    C R, t. 116, 26 juin 1893, p. 1483-1487.
+
+    J L, 5e s., t. 2, f. 1, 1896, p. 5-20.
+
+    Analyse par E. LAMPE: J F M, Bd. 25, J. 1893 u. 1894, S. 1375-1376.
+
+=34.= _Remarques sur les systèmes non holonomes._
+
+    A propos d'une Note intitulée _Sur les percussions dans les
+    systèmes non holonomes_, par MM. BEGHIN et ROUSSEAU (J L, 1903, p.
+    21).
+
+    J L, 5e s., t. 9, f. 1, 1903, p. 27-28.
+
+=35. 36.= _Sur le théorème des aires._
+
+    Imaginons un système sollicité par des forces intérieures telles que
+    la somme de leurs moments par rapport à un axe fixe O_z_ soit nulle.
+    Alors, si le système part du repos, la somme
+    [Somme]_mr_^{2}_ _d_[theta]
+                     ----------
+                        _dt_
+    reste nulle. Mais, malgré cette condition, si le système n'est pas
+    rigide, il peut, par des déformations successives et sans subir de
+    torsions, partir d'une configuration déterminée et revenir à une
+    configuration identique, déduite de la première par une rotation
+    autour de O_z_. C'est ce que MM. GUYOU et MAURICE LEVY ont établi
+    dans des Notes présentées à la dernière séance (p. 717, 718). Je me
+    propose, au point de vue de l'enseignement, d'en indiquer un exemple
+    élémentaire que j'avais communiqué à plusieurs de nos confrères dans
+    la dernière séance.  P. A.
+
+    C R, t. 119, 5 nov. 1894, p. 770-771.
+
+    B S M F, t. 22, nov. 1894, p. 190-195.
+
+=37.= _Sur le mouvement d'un point en coordonnées elliptiques._
+
+    B S M F, t. 19, 1890-1891, 20 mai 1891, p. 102-103.
+
+=38.= _Sur les lois de forces centrales faisant décrire à leur point
+d'application une conique, quelles que soient les conditions initiales._
+
+    A J M, v. 13, 1891, p. 153-158.
+
+    Analyse par J. HADAMARD: R O, t. 2, 30 mars 1891, p. 190.
+
+=39.= _Interprétation de la période imaginaire dans un mouvement à la_
+POINSOT.
+
+    B S M F, t. 26, 15 juin 1898, p. 98-102.
+
+=40.= _Sur l'intégration des équations du mouvement d'un corps pesant de
+révolution roulant par une arête circulaire sur un plan horizontal; cas
+particulier du cerceau._
+
+    R C M P, t. 14, 1900, 27 juil. 1899, p. 1-6.
+
+    Voir _Extrait d'une Lettre adressée à_ M. P. APPELL _par_ M. D. J.
+    K. KORTEWEG: R C M P, t. 14, 1900, p. 7-8.
+
+=41.= _Sur l'équation différentielle du mouvement d'un projectile
+sphérique pesant dans l'air._
+
+    A M P G, d. R., 5 Bd., 15 mars 1903, S. 177-179.
+
+=42.= _Remarque relative à un Mémoire de_ M. LUCIO SILLA,
+
+    Intitulé _Sopra alcune quistioni di Statica_.
+
+    R C M P, t. 21, 10 fév. 1906, p. 314-315.
+
+=43.= _Sur les lignes qui se conservent dans la déformation d'un milieu
+continu._
+
+    B S M F, t. 26, 6 juil. 1898, p. 135-136.
+
+=44.= _Lignes correspondantes dans la déformation d'un milieu; extension
+des théorèmes sur les tourbillons._
+
+    J L, 5e s., t. 5, f. 2, 1899, p. 137-153.
+
+    Analyse par F. KÖTTER: J F M, Bd. 30, J. 1899, S. 681-683.
+
+=45.= _Déformation spéciale d'un milieu continu; tourbillons de divers
+ordres._
+
+    B S M F, t. 29, 1901, 21 nov. 1900, p. 16-17.
+
+=46.= _Sur les expressions des tensions en fonction des déformations
+dans un milieu élastique homogène et isotrope._
+
+    N A M, 4e s., t. 2, mai 1902, p. 193-197.
+
+=47.= _Note sur les expériences du commandant_ HARTMANN.
+
+    Exposées dans un Mémoire intitulé _Distribution des déformations
+    dans les métaux soumis à des efforts_ (_Revue d'Artillerie_, t. 45,
+    46, 47, 1894, 1895, 1896).
+
+    B S M F, t. 28, 17 janv. 1900, p. 66-68.
+
+=48.= _Sur quelques fonctions et vecteurs de points dans le mouvement
+d'un fluide._
+
+    C R, t. 136, 26 janv. 1903, p. 186-189.
+
+=49.= _Sur quelques fonctions de point dans le mouvement d'un fluide._
+
+    J L, 5e s., t. 9, f. 1, 1903, p. 5-19.
+
+    Analyse par E. LAMPE: J F M, Bd. 34, J. 1903, S. 802-803.
+
+    Analyse par L. R.: B S M, 2e s., t. 30, 2e p., déc 1906, p. 217-218.
+
+=50.= _Sur les fonctions et vecteurs de point contenant uniquement les
+dérivées premières des composantes de la vitesse._
+
+    B S M F, t. 31, 1903, p. 68-73.
+
+=51.= _Sur les positions d'équilibre d'un navire avec un chargement
+liquide._
+
+    C R, t. 129, 16 oct. 1899, p. 567-569.
+
+=52.= _Équilibre d'un flotteur avec un chargement liquide._
+
+    C R, t. 129, 23 oct. 1899, p. 636-637.
+
+=53.= _Remarques sur une Note de_ M. P. DUHEM,
+
+    Intitulée _Sur la stabilité de l'équilibre des corps flottants, et,
+    en particulier, d'un navire qui porte un chargement liquide_.
+
+    C R, t. 129, 27 nov. 1899, p. 880.
+
+=54.= _Sur l'équilibre d'un flotteur avec un chargement liquide._
+
+    J E P, 2e s., 5e c., 1900, p. 101-117.--R Ma, t. 148, 1901, p. 5-20.
+
+=55. 56.= _Équation fonctionnelle pour l'équilibre d'une masse liquide
+en rotation sous l'attraction newtonienne._
+
+    S S S, 48e Congrès, Paris, 30 mars 1910, p. 20-23.
+
+    R C M P, t. 30, 2 Apr. 1910, p. 82-84.
+
+=57.= _Machine à déterminer les balourds._
+
+    Les roues des wagons de chemins de fer sont associées par paires:
+    les deux roues d'une même paire sont réunies par un cylindre
+    rigide, de façon à former un solide de révolution autour de l'axe
+    de ce cylindre. La paire de roues ainsi constituée est liée au
+    wagon de telle façon que son mouvement relatif, par rapport au
+    wagon, soit une rotation autour de l'axe commun des deux roues. Une
+    condition essentielle de stabilité est alors que cet axe soit un
+    axe principal d'inertie relatif au centre de gravité. Des méthodes
+    statiques permettent de voir si le centre de gravité est sur l'axe
+    commun des deux roues; mais ce n'est que par des expériences
+    dynamiques que l'on peut voir si cet axe est principal pour le
+    centre de gravité et, par conséquent, pour chacun de ses points.
+    Supposons que l'axe ne soit pas un axe principal d'inertie et, pour
+    simplifier, supposons qu'il puisse être rendu principal en enlevant
+    à la roue R une masse _m_, placée en un point M de cette roue, et à
+    la roue R_{1} une masse _m_ _{1}, placée en M_{1}. On dit alors que
+    la roue R présente un _balourd m_ et la roue R_{1} un _balourd
+    m_ _{1}.  P. A.
+
+    Un appareil a été imaginé par M. HAFFNER pour déterminer la
+    position et la masse des balourds: M. P. APPELL fait la théorie de
+    cet appareil.
+
+    J E P, 2e s., 9e c., 1904, p. 151-162.
+
+    Analyse par E. LAMPE: J F M, Bd. 35, J. 1904, S. 737.
+
+
+=Physique mathématique.=
+
+=1.= _Sur la théorie de la chaleur._
+
+    C R, t. 110, 27 mai 1890, p. 1061-1066.
+
+    Analyse par SIEBERT: J F M, Bd. 22, J. 1890, S. 1184.
+
+=2.= _Sur l'équation_
+
+    [d]^{2}z  [d]z
+    ------- - ---- = 0 _et la théorie de la chaleur._
+    [d]x^{2}  [d]y
+
+    J L, 4e s., t. 8, f. 2, 1892, p. 187-216.
+
+    Analyse par SCHAFHEITLIN: J F M, Bd. 24, J. 1892, S. 373-374.
+
+=3.= _Sur la distribution du potentiel dans des masses liquides limitées
+par des faces planes._
+
+    Dans cette Note, M. P. APPELL, à la suite d'une correspondance
+    qu'il a échangée avec M. CHERVET, s'occupe de la distribution du
+    potentiel d'une masse liquide indéfinie, soit limitée par deux
+    plans parallèles, soit ayant la forme d'un prisme droit à base
+    rectangle ou d'un parallélépipède rectangle, les électrodes étant
+    placées d'une façon quelconque. Le potentiel est alors une fonction
+    uniforme de _x, y, z_, ayant deux groupes de périodes et
+    admettant une infinité de pôles simples dans la section droite des
+    deux électrodes.
+
+    C R, t. 98, 28 janv. 1884, p. 214-216.
+
+=4.= _Sur la distribution du potentiel dans une masse liquide ayant la
+forme d'un prisme rectangulaire indéfini._
+
+    En commun avec M. CHERVET.
+
+    C R, t. 98, 11 fév. 1884, p. 358-360.
+
+=5.= _Sur quelques applications de la fonction_ Z (_x, y, z_) _à la
+Physique mathématique._
+
+    Cette fonction Z a été définie dans le Mémoire nº =101=, p. 36.
+
+    A M, t. 8, 23 mars 1886, p. 265-294.
+
+    Analyse par J. TANNERY: B S M, 2e s., t. 14, 2e p., avr. 1890, p.
+    71-72.
+
+=6.= _Mouvement d'une particule électrisée soumise à l'action d'un point
+électrique et d'un pôle magnétique confondus._
+
+    A S A P P, v. 4, nº 3º, 1909, p. 129-131.
+
+
+
+
+SECTION V.
+
+HISTOIRE DES SCIENCES.
+
+
+DISCOURS.
+
+=1.= _Sur quelques questions de Mécanique rationnelle._
+
+    Adresse lue par M. P. APPELL au Congrès de Cherbourg de
+    l'Association française pour l'Avancement des Sciences, dans la
+    séance générale du 4 août 1905.
+
+    A F A S, _Bulletin mensuel_, nº 8, oct. 1905, p. 267-278.
+
+    Résumé par E. LEBON: E M, 7e a., 15 sept. 1905, p. 407.
+
+    Analyse par E. LAMPE: J F M, Bd. 36, J. 1905, S. 742.
+
+
+DISCOURS NÉCROLOGIQUES.
+
+=1= à =5=. _Discours prononcés par_ M. P. APPELL,
+
+    En qualité de Doyen de la Faculté des Sciences de Paris, aux
+    obsèques de:
+
+  M. DAGUILLON, _le 19 juillet 1908_.
+
+    R B B, 1911.
+
+  M. FRANÇOIS, _le 18 mars 1908_.
+
+    B S F B, t. 42, 25 mars 1909, p. LXXXVIII-LXXXIX.
+
+  M. JULES BONNIER, _le 11 mai 1908_.
+
+    B S F B, t. 42, 25 mars 1909, p. LXXVII (_verso_), LXXX.
+
+  M. HENRI PELLAT, _le 22 décembre 1909_.
+
+    _Plaquette_: HENRI PELLAT 1850-1909, Paris, in-8, p. 7-10.
+
+  M. LOUIS RAFFY, _le 11 juillet 1910_.
+
+    B S M F, t. 38, 1910, Supplément, p. 243-246.
+
+    R I E, t. 50, 15 sept. 1910, p. 252-253.
+
+
+NOTICES NÉCROLOGIQUES.
+
+=1.= _Notice sur la Vie et les Travaux de_ PIERRE-OSSIAN BONNET.
+
+    C R, t. 117, 26 déc. 1893, p. 1014-1024.
+
+    I F, 1903, 10^{_bis_}, Paris, G.-V., 1907, gr. in-8, 15 p.
+
+=2.= _Sur_ CHARLES HERMITE.
+
+    RO, t. 12, 15 fév. 1901, p. 109-110.
+
+=3.= _Sur_ PAUL HAUTEFEUILLE, MUNIER CHALMAS; ÉMILE DUCLAUX; HENRI
+DUFET; PIERRE CURIE; MOISSAN; GIARD, DAGUILLON, FRANÇOIS, JULES BONNIER;
+DITTE, BOUVEAULT, KROUCHKOLL.
+
+    U P R, 1902-1903, p. 89-90, 89-92;--1903-1904, p. 93-94;--1904-1905,
+    p. 83-84;--1905-1906, p. 71-72;--1906-1907, p. 93-94;--1907-1908, p.
+    79-80, 80-81, 81, 81, 81-82; 1908-1909, p. 125-126, 126, 126-127.
+
+
+RAPPORTS.
+
+=1= à =3=. _Rapports sur divers Concours de Prix décernés par l'Académie
+des Sciences._
+
+    Prix BORDIN (Géométrie):
+
+    C R, t. 115, 19 déc. 1892, p. 1122-1126.
+
+    Prix BORDIN (Géométrie). (En commun avec MM. H. POINCARÉ et E.
+    PICARD):
+
+    C R, t. 119, 17 déc. 1894, p. 1051-1056.
+
+    Prix FOURNEYRON (Mécanique):
+
+    C R, t. 127, 19 déc. 1898, p. 1078-1079.
+
+
+ARTICLES.
+
+=1.= _La Vie et l'Oeuvre de_ JACOBI.
+
+    Analyse de l'Ouvrage intitulé: CARL GUSTAV JACOB JACOBI, _von_ LEO
+    KOENIGSBERGER, Festschrift zur Feier der hundersten Wiederkehr
+    seines Geburtstagest (Leipzig, B. G. T., 1904, in-8).
+
+    J S, n. s., 4e a., mars 1906, p. 132-138.
+
+=2.= _La Géométrie descriptive en 1612._
+
+    R M, 4e a., t. 8, 10 déc. 1909, p. 728-729.
+
+
+
+
+SECTION VI.
+
+ÉDUCATION ET ENSEIGNEMENT.
+
+
+DISCOURS.
+
+=1.= _A la Réception des Universités Françaises par l'Université de
+Londres_,
+
+    Discours prononcé par M. P. APPELL, en qualité de Doyen de la
+    Faculté des Sciences de Paris.
+
+    R I E, t. 51, 15 juil. 1906, p. 587-591.
+
+=2. 3.= _A la Distribution solennelle des Prix du Lycée_ SAINT-LOUIS
+_en 1904, et à la Séance solennelle de fin d'année de l'École Alsacienne
+en 1906_,
+
+    Discours prononcés par M. P. APPELL, en qualité de Président.
+
+    _Palmarès_ du Lycée Saint-Louis, à Paris, 30 juil. 1904, in-8, p.
+    XVIII-XXII.--Reproduction sous le titre _Comment il faut étudier
+    les Sciences_: R I E, t. 48, 15 août 1904, p. 109-112.
+
+    _Palmarès_ de l'École Alsacienne, à Paris, 12 juil. 1906, in-8, p.
+    22-25.
+
+=4.= _Au Banquet des anciens Élèves de l'Institut de Chimie appliquée de
+l'Université de Paris_,
+
+    Discours prononcé par M. P. APPELL le 27 décembre 1906.
+
+    _Annuaire_, Paris, 1907, in-8, p. 51-53.
+
+=5.= _L'Enseignement scientifique à l'Université de Paris_,
+
+    Discours prononcé le 7 juin 1906 à la réunion organisée par
+    l'Université de Londres en l'honneur des Universités Françaises.
+
+    E M, 8e a., 15 sept. 1906, p. 327-342.
+
+=6. 7.= _Aux 59e et 60e Réunions générales annuelles de l'Association
+amicale de Secours des anciens Élèves de l'École Normale supérieure_,
+
+    Discours prononcés par M. P. APPELL, en qualité de Président du
+    Conseil d'administration, le 13 janvier 1907 et le 12 janvier 1908.
+
+    A E N, 1907, 1908, p. 1-5, 1-5.
+
+=8.= _L'Enseignement des Sciences et la Formation de l'esprit
+scientifique_,
+
+    Discours d'Ouverture du Congrès de Clermont-Ferrand, prononcé le 3
+    août 1908 par M. P. APPELL, en qualité de Président de
+    l'Association Française pour l'Avancement des Sciences.
+
+    A F A S, II, _Résumés_, Clermont-Ferrand, 1908, gr. in-8, p. 2-12.
+
+    R R, 46e a., 5e s., t. 10, 8 août 1908, p. 161-166.
+
+    R M, t. 6, 10 août 1908, p. 129-139.
+
+=9. 10.= _A l'Inauguration du Monument_ BICHAT,
+
+    Et des nouveaux Instituts de la Faculté des Sciences de
+    l'Université de Nancy, le 13 juin 1909.
+
+    Allocution aux Etudiants et Toast au Banquet prononcés par M. PAUL
+    APPELL, Doyen de la Faculté des Sciences de l'Université de Paris,
+    en qualité de Vice-Président du Conseil de l'Université de Paris.
+
+    I M B, p. 53-54, 67-69.
+
+=11.= _Sur l'Administration de_ M. G. DARBOUX,
+
+    Doyen de la Faculté des Sciences de Paris du 12 novembre 1889 au 4
+    mars 1903,
+
+    Allocution prononcée par M. P. APPELL en qualité de Doyen de la
+    Faculté des Sciences, au Conseil de la Faculté, en 1903.
+
+    U P R, 1902-1903, p. 93.
+
+=12.= _Félicitations à_ M. LOUIS LIARD,
+
+    Vice-Recteur de l'Académie de Paris, à l'occasion de sa promotion à
+    la dignité de Grand-Croix dans l'ordre de la Légion d'honneur,
+
+    Adressées par M. P. APPELL, en qualité de Vice-Président du Conseil
+    de l'Université de Paris, le 26 juillet 1909.
+
+    _Le Temps_, Paris, 49e a., nº 17562, 28 juil. 1909, in-fol., p. 2.
+
+    R I E, t. 58, 15 sept. 1909, p. 193-194.
+
+
+CONFÉRENCE.
+
+=1.= _L'Enseignement supérieur des Sciences_,
+
+    Conférence faite à l'École des Hautes Études sociales le 11 février
+    1904.
+
+    R O, t. 15, 30 mars 1904, p. 287-299; Lettre de M. C. COLSON, p.
+    299-303.
+
+    _Enseignement et Démocratie_, Paris, F. A., 1905, gr. in-8, p.
+    209-288.
+
+    La Conférence a été suivie d'une discussion portant sur les
+    passages relatifs à la préparation aux Écoles techniques. Les
+    principales observations formulées au cours de la discussion ont
+    été résumées par M. CLÉMENT COLSON dans une Lettre qu'il a adressée
+    à M. P. APPELL, sur sa demande, et où il tient compte
+    d'observations de M. ALFRED PICARD.
+
+
+RAPPORTS.
+
+=1.= à =7.= _Rapports au Conseil de l'Université de Paris sur la
+situation de l'Enseignement supérieur_,
+
+    Rédigés par M. P. APPELL, en qualité de Doyen de la Faculté des
+    Sciences de l'Université de Paris.
+
+    U P R, 1902-1903, p. 87-123;--1903-1904, p. 91-105;--1904-1905, p.
+    81-101;--1905-1906, p. 69-81;--1906-1907, p. 91-110;--1907-1908, p.
+    77-95;--1908-1909, p. 125-143.
+
+=8.= _La Réforme des Programmes d'admission aux Grandes Écoles._
+
+    Rapport présenté par M. P. APPELL à la _Commission
+    interministérielle des Grandes Écoles_, et approuvé par cette
+    Commission dans sa séance du 7 juillet 1904.
+
+    E M, 6e a., 15 nov. 1904, p. 485-494.
+
+    Publié sous le titre _Rapport sur l'Enseignement dans la Classe de
+    Mathématiques spéciales_: N A M, 4e s., t. 4, sept. 1904, p.
+    385-399.
+
+    Publié dans l'Ouvrage intitulé _Plans d'Études et Programmes
+    d'Enseignement dans les Lycées et Collèges de Garçons_: Paris, D.,
+    in-12, p. 211-220.
+
+    Analyse par F. MÜLLER: J F M, Bd. 35, J. 1904, S. 97.
+
+    Analyse par TREUTLIN: J F M, Bd. 35, J. 1904, S. 98.
+
+=9.= _Voeu relatif à l'Enseignement secondaire des Jeunes Filles._
+
+    Ce voeu, qui fut adopté le 2 décembre 1904 par le Conseil académique
+    de l'Université de Paris, a été présenté en 1906 par M. P. APPELL,
+    d'accord avec M. GUSTAVE LANSON, à la Section permanente du Conseil
+    supérieur de l'Instruction publique à la suite d'un Article de M. G.
+    LANSON intitulé: _Les Femmes et l'Enseignement supérieur_ (R B, 5e
+    s., t. 5, 2 juin 1906, p. 676); mais ce voeu a été rejeté.
+
+    R I E, t. 52, 15 sept. 1906, p. 210-212.
+
+=10= à =14.= _Relativement au Groupement des Universités et Grandes
+Écoles de France pour les Rapports avec l'Amérique latine_:
+
+    Article par MM. E. LEVASSEUR et P. APPELL: R I E, t. 55, 15 juin
+    1908, p. 566-567.
+
+    Circulaire rédigée au nom du Président du Groupement, M. LOUIS
+    LIARD, Vice-Recteur de l'Académie de Paris, par les deux
+    Vice-Présidents, MM. ÉMILE LEVASSEUR et PAUL APPELL, à la suite de
+    la Réunion du 30 novembre 1908 au Collège de France; _Feuille_
+    in-4, 4 p.
+
+    Rapport général sur le fonctionnement du Groupement par M. P.
+    APPELL; R I E, t. 77, 15 fév. 1909, p. 113-116.
+
+    Programme: B B A, 1re a., nº 1, 5 juin 1910, p. 1-3.
+
+    Discours prononcé par M. P. APPELL, au nom du Groupement, à la
+    Réception du maréchal DE FONSECA, Président de la République des
+    États-Unis du Brésil, à la Sorbonne le 1er juillet 1910; R I E,
+    t. 50, 15 sept. 1910, p. 200-202.
+
+=15.= _Le statut des chefs de travaux et des préparateurs dans les
+Facultés des Sciences et les Écoles de Pharmacie._
+
+    Exposé des motifs du projet de Décret qui sera soumis au Conseil
+    supérieur en 1911.
+
+    R M, 1911.
+
+
+ARTICLES.
+
+=1.= _Note sur la théorie du frottement de roulement._
+
+    M. P. APPELL expose les raisons pour lesquelles la théorie
+    classique du frottement de roulement lui paraît préférable à une
+    théorie nouvelle proposée par J. BERTRAND (J S, 1895, p. 46).
+
+    B S M F, t. 23, 3 avr. 1895, p. 98-100.
+
+=2.= _Sur les équations de l'Hydrodynamique et la théorie des
+tourbillons._
+
+    J L, 5e s., t. 3, f. 1, 1897, p. 5-16.
+
+    Analyse par F. KÖTTER: J F M, Bd. 28, J. 1897, S. 681-682.
+
+=3.= _Notion de l'infini en Géométrie élémentaire_,
+
+    A propos d'un Article de M. RIPERT.
+
+    E M, 2e a., 15 mai 1900, p. 205-206.
+
+=4.= _Sur la classe de Mathématiques spéciales._
+
+    E M, 2e a., 15 sept. 1900, p. 340-346.
+
+=5.= _Faut-il supprimer le baccalauréat?_
+
+    R M, 2e a., t. 3, janv. 1907, p. 5-17.
+
+=6.= _Les Sciences dans l'Éducation nationale._
+
+    Id M, v. 1, nº 1, janv. 1909, p. 1-10.
+
+=7.= _La Faculté des Sciences de l'Université de Paris de 1895 à 1910._
+
+    _La Revue de Paris_, 17e a., 1er nov. 1910, gr. in-8, p. 98-120.
+
+
+
+
+SECTION VII.
+
+PUBLICATIONS DIVERSES.
+
+
+QUESTIONS PROPOSÉES. LEÇONS.
+
+=1= à =5.= _Questions proposées sur certaines intégrales
+algébriques;--sur la projection horizontale de la courbe décrite par
+l'extrémité d'un pendule sphérique;--sur la convergence d'une certaine
+série;--sur la tangente à la courbe y = f(x), où f(x) est une fonction
+uniforme continue sans dérivée;--sur la recherche d'une certaine formule
+de la surface d'un polygone convexe inscriptible de n côtés._
+
+    I M, t. 1, 1894, p. 5;--t. 1, 1894, p. 67;--t. 1, 1894, p. 117-118
+    et t. 7, 1900, p. 75-76;--t. 4, 1897, p. 49;--t. 7, 1900, p. 115.
+
+=6.= _Question proposée en Algèbre supérieure._
+
+    N A M, 4e s., t. 1, juil. 1901, p. 335-336.--_Voir_ Note nº =4=, p.
+    38.
+
+=7.= _Question proposée en Géométrie analytique._
+
+    N A M, 4e s., t. 1, avr., juil. 1901, p. 192, 335-336.--_Voir_ Note
+    nº =20=, p. 45.
+
+=8.= _Quantités complexes._
+
+    Rédaction de deux Leçons faites par M. P. APPELL à l'École Normale
+    supérieure de l'Enseignement secondaire pour les Jeunes Filles, à
+    Sèvres.
+
+    B A E S, janv.-avr. 1905, p. 25-29, 106-111.
+
+
+RAPPORTS.
+
+=1.= _Rapport sur un Mémoire de_ M. JEAN MASCART,
+
+    Intitulé _Constitution de l'anneau des petites planètes_.
+
+    C R, t. 128, 15 mai 1899, p. 1203-1205.
+
+=2.= _Rapport sur un Mémoire de_ M. TORRES QUEVEDO,
+
+    Intitulé _Machines à calculer_.
+
+    C R, t. 130, 2 avr. 1900, p. 874-876.
+
+=3.= _Rapport sur une Note de_ M. TORRES QUEVEDO,
+
+    Concernant un avant-projet de ballon dirigeable.
+
+    C R, t. 135, 21 juil. 1902, p. 141-146.
+
+    A B, 10e a., 9 sept. 1902, p. 212-215.
+
+=4.= _Rapport relatif à une proposition faite par l'Académie royale des
+Sciences de Madrid à l'Association Internationale des Académies_,
+
+    Au sujet de l'adoption d'un _Système proposé par_ M. TORRES QUEVEDO
+    _pour la description symbolique des Machines_.
+
+    _Feuille_ in-4, 8 avr. 1907, 2 p.
+
+=5.= _Sur l'application du Calcul des Probabilités._
+
+    Rapport fait par MM. DARBOUX, APPELL et POINCARÉ, sur l'Ordonnance
+    du 18 avril 1904 de la _Cour de Cassation_.
+
+    E C C, t. III, 1909, p. 500-600.
+
+
+PRÉFACES. ANALYSES.
+
+=1.= _Préface d'un Ouvrage de_ M. G. PAPELIER,
+
+    Intitulé _Leçons sur les Coordonnées tangentielles_.
+
+    Paris, N., 1re P., 4 mars 1894, in-8; p. I-VI.--N A M, 3e s., t.
+    13, mai 1894, p. 202-206.
+
+=2.= _Préface de la traduction par_ J. GRIESS _d'un Ouvrage de_ M.
+ALFRED GEORGE GREENHILL,
+
+    Intitulé _Les Fonctions elliptiques et leurs Applications (The
+    Applications of elliptic Functions_, London, 1892, gr. in-8).
+
+    Paris, G. C., puis G.-V., 1895, 14 nov. 1894, gr. in-8, p. IX-XIV.
+
+=3.= _Préface d'un Ouvrage de_ M. CHASSAGNY,
+
+    Intitulé _Cours élémentaire de Physique_.
+
+    Paris, H., 1re éd., 1901; 5e éd. 1907; 22 août 1901; in-16, p. I-IV.
+
+=4.= _Analyse d'un Ouvrage de_ M. MAURICE D'OCAGNE,
+
+    Intitulé _Cours de Géométrie descriptive et de Géométrie
+    infinitésimale_.
+
+    N A M, 3e s., t. 15, déc. 1896, p. 571-576.
+
+=5.= _Analyse d'un Ouvrage de_ M. C. DE FREYCINET,
+
+    Intitulé _De l'Expérience en Géométrie_.
+
+    J S, n. s., 1re a., juil. 1903, p. 361-365.
+
+=6= à =16.= _Analyses de Thèses pour le grade de Docteur ès Sciences
+mathématiques_,
+
+    Présentées à la Faculté des Sciences de Paris, et intitulées:
+
+    _Sur le Mouvement d'un corps soumis à l'attraction newtonienne de
+    deux corps fixes, et sur l'extension d'une propriété des mouvements
+    képlériens_ (1890), par J. ANDRADE.
+
+    R O, t. 1, 30 nov. 1890, p. 709.
+
+    _Sur les invariants de certaines classes d'équations
+    différentielles homogènes par rapport à la fonction inconnue et à
+    ses dérivées_ (1890), par P. RIVEREAU.
+
+    R O, t. 1, 15 déc. 1890, p. 739.
+
+    _De la Symétrie courbe_ (1891), par M.-S. MANGEOT.
+
+    R O, t. 2, 15 mars 1891, p. 147.
+
+    _Sur les équations aux dérivées partielles simultanées qui
+    contiennent plusieurs fonctions inconnues_ (1891), par C. BOURLET.
+
+    R O, t. 2, 30 mai 1891, p. 338.
+
+    _Essai sur l'étude des fonctions données par leur développement de_
+    TAYLOR (1892), par J. HADAMARD.
+
+    R O, t. 3, 30 juin 1892, p. 454.
+
+    _Sur l'intégration des équations différentielles linéaires_
+    (1892), par E. VESSIOT.
+
+    R O, t. 4, 30 mars 1893, p. 191-192.
+
+    _Sur une question d'Hydrodynamique_ (1893), par C. SAUTREAUX.
+
+    R O, t. 5, 15 janv. 1894, p. 20.
+
+    _Application de la Méthode cinématique à l'étude des surfaces
+    réglées, mouvement d'un corps solide assujetti à cinq conditions_
+    (1894), par X. ANTOMARI.
+
+    R O, t. 5, 15 avr. 1894, p. 252.
+
+    1º _Sur des fonctions d'un point analytique à multiplicateurs
+    exponentiels ou à périodes rationnelles_;--2º _Sur l'équation de la
+    chaleur_
+    [d]^{2}_u_   [d]^{2}_u_   [d]_u_
+    ---------- + ---------- = ------  (1895), par E. LACOUR.
+    [d]_x_^{2}   [d]_y_^{2}   [d]_z_
+
+    R O, t. 6, 30 avr. 1895, p. 387.
+
+    _Contribution à l'étude de l'équilibre élastique d'une plaque
+    rectangulaire mince dont deux bords opposés au moins sont appuyés
+    sur un cadre_ (1900), par E. ESTANAVE.
+
+    R O, t. 12, 15 janv. 1901, p. 45.
+
+    _Calcul des Triquaternions_ (1902), par G. COMBEBIAC.
+
+    R O, t. 13, 30 juin 1902, p. 583.
+
+=17.= _Présentation à l'Académie des Sciences d'une Note de_ M. E.
+LEBON,
+
+    Intitulée _Sur le Plan d'une Bibliographie analytique des Écrits
+    contemporains sur l'Histoire de l'Astronomie_.
+
+    J O, 35e a., nº 137, 20 mai 1903, p. 3256.
+
+
+    (_Le nombre des Écrits de_ M. PAUL APPELL _est de_ 306.)
+
+
+Paris.--Imp. GAUTHIER-VILLARS, 55, quai des Grands-Augustins.
+
+
+       *       *       *       *       *
+
+Liste de Corrections
+
+La première ligne indique le texte original, la deuxième le texte
+corrigé:
+
+  p. 22: Généralités sur les fonctions une variable.
+         Généralités sur les fonctions d' une variable.
+
+  p. 65: à =7.= _Rapports au Conseil_
+         =1.= à =7.= _Rapports au Conseil_
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Paul Appell, by Ernest Lebon
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PAUL APPELL ***
+
+***** This file should be named 38034-8.txt or 38034-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/8/0/3/38034/
+
+Produced by Laura Wisewell, Eleni Christofaki and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(The original copy of this book was generously made
+available for scanning by the Department of Mathematics
+at the University of Glasgow.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
